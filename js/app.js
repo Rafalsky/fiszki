@@ -7,13 +7,16 @@ import { el, switchView, switchMode } from "./viewUtils.js";
 import { initGrammar } from "./grammarApp.js";
 
 const LEVEL_COLORS = {
-  0: "#9aa0b0",
+  0: "var(--box-0)",
   1: "var(--box-1)",
   2: "var(--box-2)",
   3: "var(--box-3)",
   4: "var(--box-4)",
   5: "var(--box-5)",
 };
+
+// Worst-to-best order, used for both the level list and the pie chart sweep.
+const LEVEL_ORDER = [0, 1, 2, 3, 4, 5];
 
 const LEVEL_LABELS = {
   0: "Nowe",
@@ -48,7 +51,7 @@ function renderDashboard() {
     <div class="stat-card"><strong>${totalNew}</strong><span>Jeszcze nietknięte</span></div>
   `;
 
-  el("boxes-list").innerHTML = [1, 2, 3, 4, 5]
+  el("boxes-list").innerHTML = LEVEL_ORDER
     .map(
       (level) => `
       <li class="box-row">
@@ -63,6 +66,33 @@ function renderDashboard() {
   el("new-count").textContent = newIds.length;
   el("btn-start-review").disabled = dueIds.length === 0;
   el("btn-start-new").disabled = newIds.length === 0;
+
+  renderPieChart(counts);
+}
+
+function renderPieChart(counts) {
+  const total = state.words.length || 1;
+
+  let acc = 0;
+  const stops = LEVEL_ORDER.map((level) => {
+    const start = acc;
+    acc += (counts[level] / total) * 100;
+    return `${LEVEL_COLORS[level]} ${start}% ${acc}%`;
+  });
+  el("pie-chart").style.background = `conic-gradient(${stops.join(", ")})`;
+
+  const masteredPct = Math.round((counts[5] / total) * 100);
+  el("pie-chart-percent").textContent = `${masteredPct}%`;
+
+  el("pie-legend").innerHTML = LEVEL_ORDER.map((level) => {
+    const pct = Math.round((counts[level] / total) * 100);
+    return `
+      <li class="box-row">
+        <span class="box-dot" style="background:${LEVEL_COLORS[level]}"></span>
+        <span class="box-label">${LEVEL_LABELS[level]}</span>
+        <span class="box-count">${pct}%</span>
+      </li>`;
+  }).join("");
 }
 
 // ---------- Study session ----------

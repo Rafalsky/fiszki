@@ -31,9 +31,22 @@
     <div id="view-dashboard" class="view is-active">
       <div class="stats-grid" id="stats-grid" aria-live="polite"></div>
 
+      <div class="progress-chart-panel">
+        <h2>Postęp nauki słownictwa</h2>
+        <div class="progress-chart-wrap">
+          <div class="pie-chart" id="pie-chart" role="img" aria-label="Wykres postępu nauki słownictwa">
+            <div class="pie-chart-center">
+              <strong id="pie-chart-percent">0%</strong>
+              <span>opanowane</span>
+            </div>
+          </div>
+          <ul class="pie-legend" id="pie-legend"></ul>
+        </div>
+      </div>
+
       <div class="boxes-panel">
         <h2>5 poziomów zapamiętania</h2>
-        <p class="hint">Każde słowo przechodzi przez 5 poziomów (jak w systemie Leitnera). Dobra odpowiedź przesuwa słowo wyżej i wydłuża odstęp do kolejnej powtórki, zła odpowiedź cofa je na poziom 1.</p>
+        <p class="hint">Każde słowo przechodzi przez poziomy 0-5 (jak w systemie Leitnera) — poziom 0 to słowa jeszcze nietknięte. Dobra odpowiedź przesuwa słowo wyżej i wydłuża odstęp do kolejnej powtórki, zła odpowiedź cofa je na poziom 1.</p>
         <ol class="boxes-list" id="boxes-list"></ol>
       </div>
 
