@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Fiszki — 1000 najpopularniejszych słów angielskich</title>
+<meta name="description" content="Ucz się 1000 najpopularniejszych angielskich słów metodą fiszek z 5-stopniowym systemem powtórek Leitnera i wymową czytaną przez przeglądarkę." />
+<link rel="icon" href="data:," />
+<link rel="stylesheet" href="css/main.css" />
+</head>
+<body>
+<header class="topbar">
+  <h1>📚 Fiszki angielskie</h1>
+  <nav class="topbar-nav">
+    <button type="button" data-view="dashboard" class="nav-btn is-active">Panel</button>
+    <button type="button" data-view="browse" class="nav-btn">Słownik</button>
+    <button type="button" data-view="settings" class="nav-btn">Ustawienia</button>
+  </nav>
+</header>
+
+<main id="app">
+
+  <!-- DASHBOARD VIEW -->
+  <section id="view-dashboard" class="view is-active">
+    <div class="stats-grid" id="stats-grid" aria-live="polite"></div>
+
+    <div class="boxes-panel">
+      <h2>5 poziomów zapamiętania</h2>
+      <p class="hint">Każde słowo przechodzi przez 5 poziomów (jak w systemie Leitnera). Dobra odpowiedź przesuwa słowo wyżej i wydłuża odstęp do kolejnej powtórki, zła odpowiedź cofa je na poziom 1.</p>
+      <ol class="boxes-list" id="boxes-list"></ol>
+    </div>
+
+    <div class="session-actions">
+      <button type="button" id="btn-start-review" class="btn btn-primary" disabled>
+        Powtórz zaległe (<span id="due-count">0</span>)
+      </button>
+      <button type="button" id="btn-start-new" class="btn btn-secondary">
+        Ucz się nowych słówek (<span id="new-count">0</span>)
+      </button>
+    </div>
+  </section>
+
+  <!-- STUDY VIEW -->
+  <section id="view-study" class="view">
+    <div class="study-header">
+      <button type="button" id="btn-exit-study" class="btn btn-link">← Zakończ sesję</button>
+      <div class="progress-track">
+        <div class="progress-bar" id="study-progress-bar"></div>
+      </div>
+      <span id="study-progress-label">0 / 0</span>
+    </div>
+
+    <div class="card-wrap">
+      <article class="flashcard" id="flashcard" aria-live="polite">
+        <div class="flashcard-level" id="flashcard-level" title="Poziom zapamiętania"></div>
+
+        <div class="flashcard-face flashcard-front">
+          <p class="word-en" id="word-en"></p>
+          <button type="button" id="btn-speak" class="btn-speak" aria-label="Odtwórz wymowę słowa">🔊 Wymowa</button>
+        </div>
+
+        <div class="flashcard-face flashcard-back is-hidden" id="flashcard-back">
+          <p class="word-pl" id="word-pl"></p>
+        </div>
+      </article>
+
+      <div class="study-controls">
+        <button type="button" id="btn-reveal" class="btn btn-primary btn-wide">Pokaż tłumaczenie</button>
+
+        <div class="grade-buttons is-hidden" id="grade-buttons">
+          <button type="button" id="btn-grade-no" class="btn btn-danger">✗ Nie umiałem/am</button>
+          <button type="button" id="btn-grade-yes" class="btn btn-success">✓ Umiałem/am</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SESSION SUMMARY -->
+  <section id="view-summary" class="view">
+    <div class="summary-box">
+      <h2>Sesja ukończona 🎉</h2>
+      <p id="summary-text"></p>
+      <button type="button" id="btn-summary-done" class="btn btn-primary">Wróć do panelu</button>
+    </div>
+  </section>
+
+  <!-- BROWSE VIEW -->
+  <section id="view-browse" class="view">
+    <div class="browse-toolbar">
+      <input type="search" id="browse-search" placeholder="Szukaj słowa po angielsku lub polsku…" />
+    </div>
+    <div class="browse-table-wrap">
+      <table class="browse-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Angielski</th>
+            <th></th>
+            <th>Polski</th>
+            <th>Poziom</th>
+          </tr>
+        </thead>
+        <tbody id="browse-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- SETTINGS VIEW -->
+  <section id="view-settings" class="view">
+    <h2>Ustawienia</h2>
+
+    <div class="settings-group">
+      <h3>Wymowa (Web Speech API)</h3>
+      <label class="settings-row">
+        <span>Głos</span>
+        <select id="setting-voice"></select>
+      </label>
+      <label class="settings-row">
+        <span>Szybkość mowy: <span id="setting-rate-value">1.0</span>×</span>
+        <input type="range" id="setting-rate" min="0.5" max="1.5" step="0.1" value="1" />
+      </label>
+      <label class="settings-row settings-row-checkbox">
+        <input type="checkbox" id="setting-autoplay" checked />
+        <span>Odtwarzaj wymowę automatycznie po pokazaniu karty</span>
+      </label>
+      <button type="button" id="btn-test-voice" class="btn btn-secondary">Testuj głos</button>
+      <p class="hint" id="voice-hint"></p>
+    </div>
+
+    <div class="settings-group">
+      <h3>Sesja nauki</h3>
+      <label class="settings-row">
+        <span>Nowych słówek na sesję</span>
+        <input type="number" id="setting-new-per-session" min="5" max="100" step="5" value="20" />
+      </label>
+    </div>
+
+    <div class="settings-group">
+      <h3>Dane</h3>
+      <p class="hint">Twoje postępy są zapisywane wyłącznie lokalnie w przeglądarce (localStorage) — nic nie jest wysyłane na żaden serwer.</p>
+      <button type="button" id="btn-reset-progress" class="btn btn-danger">Wyzeruj cały postęp</button>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <p>Postęp zapisywany lokalnie w przeglądarce. Baza: 1000 najpopularniejszych słów angielskich.</p>
+</footer>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
