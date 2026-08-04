@@ -51,48 +51,41 @@ function renderDashboard() {
     <div class="stat-card"><strong>${totalNew}</strong><span>Jeszcze nietknięte</span></div>
   `;
 
-  el("boxes-list").innerHTML = LEVEL_ORDER
-    .map(
-      (level) => `
-      <li class="box-row">
-        <span class="box-dot" style="background:${LEVEL_COLORS[level]}"></span>
-        <span class="box-label">${LEVEL_LABELS[level]}</span>
-        <span class="box-count">${counts[level]}</span>
-      </li>`
-    )
-    .join("");
-
   el("due-count").textContent = dueIds.length;
   el("new-count").textContent = newIds.length;
   el("btn-start-review").disabled = dueIds.length === 0;
   el("btn-start-new").disabled = newIds.length === 0;
 
-  renderPieChart(counts);
+  renderLevelBreakdown(counts);
 }
 
-function renderPieChart(counts) {
+// Single source of truth for the level breakdown: the pie chart's
+// conic-gradient stops and the box list (used as its legend, showing both
+// the raw count and the % share) are built from the same pass over
+// LEVEL_ORDER so the two views can never drift out of sync.
+function renderLevelBreakdown(counts) {
   const total = state.words.length || 1;
 
   let acc = 0;
-  const stops = LEVEL_ORDER.map((level) => {
+  const stops = [];
+  const rows = LEVEL_ORDER.map((level) => {
+    const share = (counts[level] / total) * 100;
     const start = acc;
-    acc += (counts[level] / total) * 100;
-    return `${LEVEL_COLORS[level]} ${start}% ${acc}%`;
-  });
-  el("pie-chart").style.background = `conic-gradient(${stops.join(", ")})`;
+    acc += share;
+    stops.push(`${LEVEL_COLORS[level]} ${start}% ${acc}%`);
 
-  const masteredPct = Math.round((counts[5] / total) * 100);
-  el("pie-chart-percent").textContent = `${masteredPct}%`;
-
-  el("pie-legend").innerHTML = LEVEL_ORDER.map((level) => {
-    const pct = Math.round((counts[level] / total) * 100);
+    const pct = Math.round(share);
     return `
       <li class="box-row">
         <span class="box-dot" style="background:${LEVEL_COLORS[level]}"></span>
         <span class="box-label">${LEVEL_LABELS[level]}</span>
-        <span class="box-count">${pct}%</span>
+        <span class="box-count">${counts[level]} <span class="box-percent">(${pct}%)</span></span>
       </li>`;
-  }).join("");
+  });
+
+  el("pie-chart").style.background = `conic-gradient(${stops.join(", ")})`;
+  el("pie-chart-percent").textContent = `${Math.round((counts[5] / total) * 100)}%`;
+  el("boxes-list").innerHTML = rows.join("");
 }
 
 // ---------- Study session ----------
