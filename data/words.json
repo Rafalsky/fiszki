@@ -19813,5 +19813,10190 @@
     "id": 4000,
     "en": "stopped",
     "pl": "zatrzymany"
+  },
+  {
+    "id": 4001,
+    "en": "occupation",
+    "pl": "zawód, okupacja"
+  },
+  {
+    "id": 4002,
+    "en": "lakes",
+    "pl": "jeziora"
+  },
+  {
+    "id": 4003,
+    "en": "donations",
+    "pl": "darowizny"
+  },
+  {
+    "id": 4004,
+    "en": "associations",
+    "pl": "stowarzyszenia"
+  },
+  {
+    "id": 4006,
+    "en": "radiation",
+    "pl": "promieniowanie"
+  },
+  {
+    "id": 4007,
+    "en": "diary",
+    "pl": "pamiętnik"
+  },
+  {
+    "id": 4008,
+    "en": "seriously",
+    "pl": "poważnie"
+  },
+  {
+    "id": 4009,
+    "en": "kings",
+    "pl": "królowie"
+  },
+  {
+    "id": 4010,
+    "en": "shooting",
+    "pl": "strzelanie, kręcenie (filmu)"
+  },
+  {
+    "id": 4011,
+    "en": "adds",
+    "pl": "dodaje"
+  },
+  {
+    "id": 4012,
+    "en": "flags",
+    "pl": "flagi"
+  },
+  {
+    "id": 4013,
+    "en": "launched",
+    "pl": "uruchomiony, wystrzelony"
+  },
+  {
+    "id": 4014,
+    "en": "elsewhere",
+    "pl": "gdzie indziej"
+  },
+  {
+    "id": 4015,
+    "en": "pollution",
+    "pl": "zanieczyszczenie"
+  },
+  {
+    "id": 4016,
+    "en": "conservative",
+    "pl": "konserwatywny"
+  },
+  {
+    "id": 4017,
+    "en": "shock",
+    "pl": "szok"
+  },
+  {
+    "id": 4018,
+    "en": "effectiveness",
+    "pl": "skuteczność"
+  },
+  {
+    "id": 4019,
+    "en": "walls",
+    "pl": "ściany"
+  },
+  {
+    "id": 4020,
+    "en": "abroad",
+    "pl": "za granicą"
+  },
+  {
+    "id": 4021,
+    "en": "ward",
+    "pl": "oddział (szpitalny), dzielnica"
+  },
+  {
+    "id": 4022,
+    "en": "drawn",
+    "pl": "narysowany, wylosowany"
+  },
+  {
+    "id": 4023,
+    "en": "visited",
+    "pl": "odwiedzony"
+  },
+  {
+    "id": 4024,
+    "en": "roof",
+    "pl": "dach"
+  },
+  {
+    "id": 4025,
+    "en": "demonstrate",
+    "pl": "demonstrować"
+  },
+  {
+    "id": 4026,
+    "en": "atmosphere",
+    "pl": "atmosfera"
+  },
+  {
+    "id": 4027,
+    "en": "suggests",
+    "pl": "sugeruje"
+  },
+  {
+    "id": 4028,
+    "en": "kiss",
+    "pl": "całować, pocałunek"
+  },
+  {
+    "id": 4029,
+    "en": "beast",
+    "pl": "bestia"
+  },
+  {
+    "id": 4030,
+    "en": "operated",
+    "pl": "obsługiwany"
+  },
+  {
+    "id": 4031,
+    "en": "targets",
+    "pl": "cele"
+  },
+  {
+    "id": 4032,
+    "en": "overseas",
+    "pl": "zagraniczny, za morzem"
+  },
+  {
+    "id": 4033,
+    "en": "purchases",
+    "pl": "zakupy"
+  },
+  {
+    "id": 4034,
+    "en": "dodge",
+    "pl": "unikać"
+  },
+  {
+    "id": 4035,
+    "en": "counsel",
+    "pl": "porada, radca prawny"
+  },
+  {
+    "id": 4036,
+    "en": "federation",
+    "pl": "federacja"
+  },
+  {
+    "id": 4037,
+    "en": "pizza",
+    "pl": "pizza"
+  },
+  {
+    "id": 4038,
+    "en": "invited",
+    "pl": "zaproszony"
+  },
+  {
+    "id": 4039,
+    "en": "yards",
+    "pl": "jardy, podwórka"
+  },
+  {
+    "id": 4040,
+    "en": "assignment",
+    "pl": "zadanie"
+  },
+  {
+    "id": 4041,
+    "en": "chemicals",
+    "pl": "chemikalia"
+  },
+  {
+    "id": 4042,
+    "en": "farmers",
+    "pl": "rolnicy"
+  },
+  {
+    "id": 4043,
+    "en": "queries",
+    "pl": "zapytania"
+  },
+  {
+    "id": 4044,
+    "en": "rush",
+    "pl": "pośpiech"
+  },
+  {
+    "id": 4045,
+    "en": "absence",
+    "pl": "nieobecność"
+  },
+  {
+    "id": 4046,
+    "en": "nearest",
+    "pl": "najbliższy"
+  },
+  {
+    "id": 4047,
+    "en": "cluster",
+    "pl": "klaster, skupisko"
+  },
+  {
+    "id": 4048,
+    "en": "vendors",
+    "pl": "sprzedawcy"
+  },
+  {
+    "id": 4049,
+    "en": "whereas",
+    "pl": "podczas gdy"
+  },
+  {
+    "id": 4050,
+    "en": "yoga",
+    "pl": "joga"
+  },
+  {
+    "id": 4051,
+    "en": "serves",
+    "pl": "służy, podaje"
+  },
+  {
+    "id": 4052,
+    "en": "woods",
+    "pl": "las"
+  },
+  {
+    "id": 4053,
+    "en": "lamp",
+    "pl": "lampa"
+  },
+  {
+    "id": 4054,
+    "en": "partial",
+    "pl": "częściowy"
+  },
+  {
+    "id": 4055,
+    "en": "shoppers",
+    "pl": "kupujący"
+  },
+  {
+    "id": 4056,
+    "en": "everybody",
+    "pl": "każdy"
+  },
+  {
+    "id": 4057,
+    "en": "couples",
+    "pl": "pary"
+  },
+  {
+    "id": 4059,
+    "en": "jokes",
+    "pl": "żarty"
+  },
+  {
+    "id": 4060,
+    "en": "sublime",
+    "pl": "wzniosły"
+  },
+  {
+    "id": 4061,
+    "en": "counseling",
+    "pl": "doradztwo"
+  },
+  {
+    "id": 4062,
+    "en": "palace",
+    "pl": "pałac"
+  },
+  {
+    "id": 4063,
+    "en": "acceptable",
+    "pl": "akceptowalny"
+  },
+  {
+    "id": 4064,
+    "en": "satisfied",
+    "pl": "usatysfakcjonowany"
+  },
+  {
+    "id": 4065,
+    "en": "wins",
+    "pl": "wygrywa"
+  },
+  {
+    "id": 4066,
+    "en": "measurements",
+    "pl": "pomiary"
+  },
+  {
+    "id": 4067,
+    "en": "verify",
+    "pl": "weryfikować"
+  },
+  {
+    "id": 4068,
+    "en": "globe",
+    "pl": "globus, kula ziemska"
+  },
+  {
+    "id": 4069,
+    "en": "trusted",
+    "pl": "zaufany"
+  },
+  {
+    "id": 4070,
+    "en": "copper",
+    "pl": "miedź"
+  },
+  {
+    "id": 4071,
+    "en": "rack",
+    "pl": "regał, stojak"
+  },
+  {
+    "id": 4072,
+    "en": "medication",
+    "pl": "lek"
+  },
+  {
+    "id": 4073,
+    "en": "warehouse",
+    "pl": "magazyn"
+  },
+  {
+    "id": 4074,
+    "en": "shareware",
+    "pl": "shareware"
+  },
+  {
+    "id": 4075,
+    "en": "receipt",
+    "pl": "paragon"
+  },
+  {
+    "id": 4076,
+    "en": "supposed",
+    "pl": "przypuszczalny"
+  },
+  {
+    "id": 4077,
+    "en": "ordinary",
+    "pl": "zwyczajny"
+  },
+  {
+    "id": 4078,
+    "en": "nobody",
+    "pl": "nikt"
+  },
+  {
+    "id": 4079,
+    "en": "ghost",
+    "pl": "duch"
+  },
+  {
+    "id": 4080,
+    "en": "violation",
+    "pl": "naruszenie"
+  },
+  {
+    "id": 4081,
+    "en": "configure",
+    "pl": "konfigurować"
+  },
+  {
+    "id": 4082,
+    "en": "stability",
+    "pl": "stabilność"
+  },
+  {
+    "id": 4083,
+    "en": "applying",
+    "pl": "aplikowanie"
+  },
+  {
+    "id": 4084,
+    "en": "southwest",
+    "pl": "południowy zachód"
+  },
+  {
+    "id": 4085,
+    "en": "boss",
+    "pl": "szef"
+  },
+  {
+    "id": 4086,
+    "en": "pride",
+    "pl": "duma"
+  },
+  {
+    "id": 4087,
+    "en": "institutional",
+    "pl": "instytucjonalny"
+  },
+  {
+    "id": 4088,
+    "en": "expectations",
+    "pl": "oczekiwania"
+  },
+  {
+    "id": 4089,
+    "en": "independence",
+    "pl": "niezależność"
+  },
+  {
+    "id": 4090,
+    "en": "knowing",
+    "pl": "wiedząc"
+  },
+  {
+    "id": 4091,
+    "en": "reporter",
+    "pl": "reporter"
+  },
+  {
+    "id": 4092,
+    "en": "metabolism",
+    "pl": "metabolizm"
+  },
+  {
+    "id": 4093,
+    "en": "champion",
+    "pl": "mistrz"
+  },
+  {
+    "id": 4094,
+    "en": "cloudy",
+    "pl": "pochmurny"
+  },
+  {
+    "id": 4095,
+    "en": "personally",
+    "pl": "osobiście"
+  },
+  {
+    "id": 4096,
+    "en": "plenty",
+    "pl": "mnóstwo"
+  },
+  {
+    "id": 4097,
+    "en": "solo",
+    "pl": "solo"
+  },
+  {
+    "id": 4098,
+    "en": "throat",
+    "pl": "gardło"
+  },
+  {
+    "id": 4099,
+    "en": "ignore",
+    "pl": "ignorować"
+  },
+  {
+    "id": 4100,
+    "en": "uniform",
+    "pl": "mundur, jednolity"
+  },
+  {
+    "id": 4101,
+    "en": "excellence",
+    "pl": "doskonałość"
+  },
+  {
+    "id": 4102,
+    "en": "wealth",
+    "pl": "bogactwo"
+  },
+  {
+    "id": 4103,
+    "en": "somewhere",
+    "pl": "gdzieś"
+  },
+  {
+    "id": 4104,
+    "en": "vacuum",
+    "pl": "odkurzacz, próżnia"
+  },
+  {
+    "id": 4105,
+    "en": "dancing",
+    "pl": "taniec"
+  },
+  {
+    "id": 4106,
+    "en": "attributes",
+    "pl": "atrybuty"
+  },
+  {
+    "id": 4107,
+    "en": "recognize",
+    "pl": "rozpoznawać"
+  },
+  {
+    "id": 4108,
+    "en": "brass",
+    "pl": "mosiądz"
+  },
+  {
+    "id": 4109,
+    "en": "writes",
+    "pl": "pisze"
+  },
+  {
+    "id": 4110,
+    "en": "plaza",
+    "pl": "plac"
+  },
+  {
+    "id": 4111,
+    "en": "outcomes",
+    "pl": "wyniki"
+  },
+  {
+    "id": 4112,
+    "en": "survival",
+    "pl": "przetrwanie"
+  },
+  {
+    "id": 4113,
+    "en": "quest",
+    "pl": "poszukiwanie"
+  },
+  {
+    "id": 4114,
+    "en": "publish",
+    "pl": "publikować"
+  },
+  {
+    "id": 4115,
+    "en": "screening",
+    "pl": "badanie przesiewowe, projekcja"
+  },
+  {
+    "id": 4116,
+    "en": "toe",
+    "pl": "palec u nogi"
+  },
+  {
+    "id": 4117,
+    "en": "thumbnail",
+    "pl": "miniatura (obrazka)"
+  },
+  {
+    "id": 4118,
+    "en": "trans",
+    "pl": "trans-"
+  },
+  {
+    "id": 4119,
+    "en": "whenever",
+    "pl": "kiedykolwiek"
+  },
+  {
+    "id": 4120,
+    "en": "nova",
+    "pl": "nowa (gwiazda)"
+  },
+  {
+    "id": 4121,
+    "en": "lifetime",
+    "pl": "całe życie"
+  },
+  {
+    "id": 4122,
+    "en": "pioneer",
+    "pl": "pionier"
+  },
+  {
+    "id": 4123,
+    "en": "forgotten",
+    "pl": "zapomniany"
+  },
+  {
+    "id": 4124,
+    "en": "plates",
+    "pl": "talerze, tablice"
+  },
+  {
+    "id": 4125,
+    "en": "acres",
+    "pl": "akry"
+  },
+  {
+    "id": 4126,
+    "en": "venue",
+    "pl": "miejsce (wydarzenia)"
+  },
+  {
+    "id": 4127,
+    "en": "athletic",
+    "pl": "sportowy"
+  },
+  {
+    "id": 4128,
+    "en": "thermal",
+    "pl": "termiczny"
+  },
+  {
+    "id": 4129,
+    "en": "essays",
+    "pl": "eseje"
+  },
+  {
+    "id": 4131,
+    "en": "vital",
+    "pl": "istotny"
+  },
+  {
+    "id": 4132,
+    "en": "telling",
+    "pl": "mówienie"
+  },
+  {
+    "id": 4133,
+    "en": "fairly",
+    "pl": "dość, sprawiedliwie"
+  },
+  {
+    "id": 4134,
+    "en": "coastal",
+    "pl": "przybrzeżny"
+  },
+  {
+    "id": 4135,
+    "en": "charity",
+    "pl": "dobroczynność"
+  },
+  {
+    "id": 4136,
+    "en": "intelligent",
+    "pl": "inteligentny"
+  },
+  {
+    "id": 4137,
+    "en": "excel",
+    "pl": "przewyższać, celować (w czymś)"
+  },
+  {
+    "id": 4138,
+    "en": "modes",
+    "pl": "tryby"
+  },
+  {
+    "id": 4139,
+    "en": "obligation",
+    "pl": "obowiązek"
+  },
+  {
+    "id": 4140,
+    "en": "wake",
+    "pl": "budzić się"
+  },
+  {
+    "id": 4141,
+    "en": "stupid",
+    "pl": "głupi"
+  },
+  {
+    "id": 4142,
+    "en": "harbor",
+    "pl": "port"
+  },
+  {
+    "id": 4143,
+    "en": "traveler",
+    "pl": "podróżnik"
+  },
+  {
+    "id": 4144,
+    "en": "realize",
+    "pl": "uświadamiać sobie"
+  },
+  {
+    "id": 4145,
+    "en": "regardless",
+    "pl": "niezależnie"
+  },
+  {
+    "id": 4146,
+    "en": "puzzle",
+    "pl": "zagadka, puzzle"
+  },
+  {
+    "id": 4147,
+    "en": "rising",
+    "pl": "wzrastający"
+  },
+  {
+    "id": 4148,
+    "en": "aluminum",
+    "pl": "aluminium"
+  },
+  {
+    "id": 4149,
+    "en": "wells",
+    "pl": "studnie"
+  },
+  {
+    "id": 4150,
+    "en": "wishlist",
+    "pl": "lista życzeń"
+  },
+  {
+    "id": 4151,
+    "en": "opens",
+    "pl": "otwiera"
+  },
+  {
+    "id": 4152,
+    "en": "insight",
+    "pl": "wgląd"
+  },
+  {
+    "id": 4153,
+    "en": "restricted",
+    "pl": "ograniczony"
+  },
+  {
+    "id": 4154,
+    "en": "republican",
+    "pl": "republikański"
+  },
+  {
+    "id": 4155,
+    "en": "secrets",
+    "pl": "sekrety"
+  },
+  {
+    "id": 4156,
+    "en": "lucky",
+    "pl": "szczęśliwy (mający szczęście)"
+  },
+  {
+    "id": 4157,
+    "en": "latter",
+    "pl": "ten drugi (z dwóch)"
+  },
+  {
+    "id": 4158,
+    "en": "merchants",
+    "pl": "kupcy"
+  },
+  {
+    "id": 4159,
+    "en": "trailers",
+    "pl": "przyczepy, zwiastuny"
+  },
+  {
+    "id": 4160,
+    "en": "syndrome",
+    "pl": "syndrom"
+  },
+  {
+    "id": 4161,
+    "en": "attendance",
+    "pl": "frekwencja"
+  },
+  {
+    "id": 4162,
+    "en": "penalty",
+    "pl": "kara"
+  },
+  {
+    "id": 4163,
+    "en": "drum",
+    "pl": "bęben"
+  },
+  {
+    "id": 4164,
+    "en": "glasses",
+    "pl": "okulary"
+  },
+  {
+    "id": 4165,
+    "en": "enables",
+    "pl": "umożliwia"
+  },
+  {
+    "id": 4166,
+    "en": "iraqi",
+    "pl": "iracki"
+  },
+  {
+    "id": 4167,
+    "en": "builder",
+    "pl": "budowniczy"
+  },
+  {
+    "id": 4168,
+    "en": "vista",
+    "pl": "widok, panorama"
+  },
+  {
+    "id": 4169,
+    "en": "chips",
+    "pl": "chipsy, chipy"
+  },
+  {
+    "id": 4170,
+    "en": "flood",
+    "pl": "powódź"
+  },
+  {
+    "id": 4171,
+    "en": "arguments",
+    "pl": "argumenty"
+  },
+  {
+    "id": 4172,
+    "en": "arena",
+    "pl": "arena"
+  },
+  {
+    "id": 4173,
+    "en": "adventures",
+    "pl": "przygody"
+  },
+  {
+    "id": 4174,
+    "en": "pupils",
+    "pl": "uczniowie, źrenice"
+  },
+  {
+    "id": 4175,
+    "en": "announcement",
+    "pl": "ogłoszenie"
+  },
+  {
+    "id": 4176,
+    "en": "tabs",
+    "pl": "zakładki"
+  },
+  {
+    "id": 4177,
+    "en": "outcome",
+    "pl": "wynik"
+  },
+  {
+    "id": 4178,
+    "en": "appreciate",
+    "pl": "doceniać"
+  },
+  {
+    "id": 4179,
+    "en": "expanded",
+    "pl": "rozszerzony"
+  },
+  {
+    "id": 4180,
+    "en": "casual",
+    "pl": "zwykły, swobodny"
+  },
+  {
+    "id": 4181,
+    "en": "grown",
+    "pl": "dorosły, wyrośnięty"
+  },
+  {
+    "id": 4182,
+    "en": "polish",
+    "pl": "polski, polerować"
+  },
+  {
+    "id": 4183,
+    "en": "lovely",
+    "pl": "uroczy"
+  },
+  {
+    "id": 4184,
+    "en": "extras",
+    "pl": "dodatki"
+  },
+  {
+    "id": 4186,
+    "en": "clause",
+    "pl": "klauzula"
+  },
+  {
+    "id": 4187,
+    "en": "lands",
+    "pl": "ląduje, ziemie"
+  },
+  {
+    "id": 4188,
+    "en": "troops",
+    "pl": "wojska"
+  },
+  {
+    "id": 4189,
+    "en": "indoor",
+    "pl": "wewnętrzny (w budynku)"
+  },
+  {
+    "id": 4190,
+    "en": "armed",
+    "pl": "uzbrojony"
+  },
+  {
+    "id": 4191,
+    "en": "broker",
+    "pl": "makler"
+  },
+  {
+    "id": 4192,
+    "en": "charger",
+    "pl": "ładowarka"
+  },
+  {
+    "id": 4193,
+    "en": "regularly",
+    "pl": "regularnie"
+  },
+  {
+    "id": 4194,
+    "en": "believed",
+    "pl": "wierzył"
+  },
+  {
+    "id": 4195,
+    "en": "pine",
+    "pl": "sosna"
+  },
+  {
+    "id": 4196,
+    "en": "cooling",
+    "pl": "chłodzenie"
+  },
+  {
+    "id": 4197,
+    "en": "tend",
+    "pl": "mieć tendencję"
+  },
+  {
+    "id": 4198,
+    "en": "gulf",
+    "pl": "zatoka"
+  },
+  {
+    "id": 4199,
+    "en": "trucks",
+    "pl": "ciężarówki"
+  },
+  {
+    "id": 4200,
+    "en": "mechanisms",
+    "pl": "mechanizmy"
+  },
+  {
+    "id": 4201,
+    "en": "divorce",
+    "pl": "rozwód"
+  },
+  {
+    "id": 4203,
+    "en": "partly",
+    "pl": "częściowo"
+  },
+  {
+    "id": 4204,
+    "en": "customize",
+    "pl": "dostosowywać"
+  },
+  {
+    "id": 4205,
+    "en": "tradition",
+    "pl": "tradycja"
+  },
+  {
+    "id": 4206,
+    "en": "candy",
+    "pl": "cukierek"
+  },
+  {
+    "id": 4207,
+    "en": "pills",
+    "pl": "tabletki"
+  },
+  {
+    "id": 4208,
+    "en": "tiger",
+    "pl": "tygrys"
+  },
+  {
+    "id": 4210,
+    "en": "sensor",
+    "pl": "czujnik"
+  },
+  {
+    "id": 4211,
+    "en": "exposed",
+    "pl": "narażony, odsłonięty"
+  },
+  {
+    "id": 4212,
+    "en": "angels",
+    "pl": "aniołowie"
+  },
+  {
+    "id": 4213,
+    "en": "deputy",
+    "pl": "zastępca"
+  },
+  {
+    "id": 4214,
+    "en": "indicators",
+    "pl": "wskaźniki"
+  },
+  {
+    "id": 4215,
+    "en": "sealed",
+    "pl": "zapieczętowany"
+  },
+  {
+    "id": 4216,
+    "en": "thai",
+    "pl": "tajski"
+  },
+  {
+    "id": 4217,
+    "en": "emissions",
+    "pl": "emisje"
+  },
+  {
+    "id": 4218,
+    "en": "physicians",
+    "pl": "lekarze"
+  },
+  {
+    "id": 4219,
+    "en": "loaded",
+    "pl": "załadowany"
+  },
+  {
+    "id": 4220,
+    "en": "complaint",
+    "pl": "skarga"
+  },
+  {
+    "id": 4221,
+    "en": "scenes",
+    "pl": "sceny"
+  },
+  {
+    "id": 4222,
+    "en": "experiments",
+    "pl": "eksperymenty"
+  },
+  {
+    "id": 4223,
+    "en": "boost",
+    "pl": "wzmacniać, zastrzyk"
+  },
+  {
+    "id": 4224,
+    "en": "scholarship",
+    "pl": "stypendium"
+  },
+  {
+    "id": 4225,
+    "en": "governance",
+    "pl": "zarządzanie (rządzenie)"
+  },
+  {
+    "id": 4226,
+    "en": "mill",
+    "pl": "młyn"
+  },
+  {
+    "id": 4227,
+    "en": "founded",
+    "pl": "założony"
+  },
+  {
+    "id": 4228,
+    "en": "supplements",
+    "pl": "suplementy"
+  },
+  {
+    "id": 4229,
+    "en": "chronic",
+    "pl": "przewlekły"
+  },
+  {
+    "id": 4230,
+    "en": "icons",
+    "pl": "ikony"
+  },
+  {
+    "id": 4231,
+    "en": "moral",
+    "pl": "moralny"
+  },
+  {
+    "id": 4232,
+    "en": "den",
+    "pl": "nora, gabinet"
+  },
+  {
+    "id": 4233,
+    "en": "catering",
+    "pl": "catering"
+  },
+  {
+    "id": 4234,
+    "en": "keeps",
+    "pl": "trzyma"
+  },
+  {
+    "id": 4235,
+    "en": "camcorder",
+    "pl": "kamera wideo"
+  },
+  {
+    "id": 4236,
+    "en": "trained",
+    "pl": "przeszkolony"
+  },
+  {
+    "id": 4237,
+    "en": "implementing",
+    "pl": "wdrażanie"
+  },
+  {
+    "id": 4238,
+    "en": "roses",
+    "pl": "róże"
+  },
+  {
+    "id": 4239,
+    "en": "labs",
+    "pl": "laboratoria"
+  },
+  {
+    "id": 4240,
+    "en": "ourselves",
+    "pl": "my sami"
+  },
+  {
+    "id": 4241,
+    "en": "tobacco",
+    "pl": "tytoń"
+  },
+  {
+    "id": 4242,
+    "en": "wooden",
+    "pl": "drewniany"
+  },
+  {
+    "id": 4243,
+    "en": "motors",
+    "pl": "silniki"
+  },
+  {
+    "id": 4244,
+    "en": "tough",
+    "pl": "twardy, trudny"
+  },
+  {
+    "id": 4245,
+    "en": "incident",
+    "pl": "incydent"
+  },
+  {
+    "id": 4246,
+    "en": "gonna",
+    "pl": "zamierzać (potocznie \"going to\")"
+  },
+  {
+    "id": 4247,
+    "en": "dynamics",
+    "pl": "dynamika"
+  },
+  {
+    "id": 4248,
+    "en": "conversation",
+    "pl": "rozmowa"
+  },
+  {
+    "id": 4249,
+    "en": "decrease",
+    "pl": "zmniejszać się"
+  },
+  {
+    "id": 4250,
+    "en": "chest",
+    "pl": "klatka piersiowa, skrzynia"
+  },
+  {
+    "id": 4251,
+    "en": "pension",
+    "pl": "emerytura (świadczenie)"
+  },
+  {
+    "id": 4252,
+    "en": "revenues",
+    "pl": "przychody"
+  },
+  {
+    "id": 4253,
+    "en": "emerging",
+    "pl": "wschodzący"
+  },
+  {
+    "id": 4254,
+    "en": "worship",
+    "pl": "kult, czcić"
+  },
+  {
+    "id": 4255,
+    "en": "capability",
+    "pl": "zdolność"
+  },
+  {
+    "id": 4256,
+    "en": "herself",
+    "pl": "ona sama"
+  },
+  {
+    "id": 4257,
+    "en": "producing",
+    "pl": "produkujący"
+  },
+  {
+    "id": 4258,
+    "en": "churches",
+    "pl": "kościoły"
+  },
+  {
+    "id": 4259,
+    "en": "precision",
+    "pl": "precyzja"
+  },
+  {
+    "id": 4260,
+    "en": "damages",
+    "pl": "odszkodowania"
+  },
+  {
+    "id": 4261,
+    "en": "reserves",
+    "pl": "rezerwy"
+  },
+  {
+    "id": 4262,
+    "en": "contributed",
+    "pl": "przyczynił się"
+  },
+  {
+    "id": 4263,
+    "en": "shorts",
+    "pl": "szorty"
+  },
+  {
+    "id": 4264,
+    "en": "reproduction",
+    "pl": "reprodukcja, rozmnażanie"
+  },
+  {
+    "id": 4265,
+    "en": "minority",
+    "pl": "mniejszość"
+  },
+  {
+    "id": 4266,
+    "en": "diverse",
+    "pl": "różnorodny"
+  },
+  {
+    "id": 4267,
+    "en": "amp",
+    "pl": "amper, wzmacniacz"
+  },
+  {
+    "id": 4268,
+    "en": "ingredients",
+    "pl": "składniki"
+  },
+  {
+    "id": 4269,
+    "en": "sole",
+    "pl": "jedyny, podeszwa"
+  },
+  {
+    "id": 4270,
+    "en": "franchise",
+    "pl": "franczyza"
+  },
+  {
+    "id": 4271,
+    "en": "recorder",
+    "pl": "rejestrator, magnetofon"
+  },
+  {
+    "id": 4272,
+    "en": "complaints",
+    "pl": "skargi"
+  },
+  {
+    "id": 4273,
+    "en": "facing",
+    "pl": "stojący w obliczu"
+  },
+  {
+    "id": 4274,
+    "en": "promotions",
+    "pl": "promocje"
+  },
+  {
+    "id": 4275,
+    "en": "tones",
+    "pl": "tony"
+  },
+  {
+    "id": 4276,
+    "en": "passion",
+    "pl": "pasja"
+  },
+  {
+    "id": 4277,
+    "en": "rehabilitation",
+    "pl": "rehabilitacja"
+  },
+  {
+    "id": 4278,
+    "en": "maintaining",
+    "pl": "utrzymywanie"
+  },
+  {
+    "id": 4279,
+    "en": "laid",
+    "pl": "położył"
+  },
+  {
+    "id": 4280,
+    "en": "clay",
+    "pl": "glina"
+  },
+  {
+    "id": 4282,
+    "en": "patches",
+    "pl": "łaty"
+  },
+  {
+    "id": 4283,
+    "en": "weak",
+    "pl": "słaby"
+  },
+  {
+    "id": 4284,
+    "en": "refund",
+    "pl": "zwrot pieniędzy"
+  },
+  {
+    "id": 4285,
+    "en": "towns",
+    "pl": "miasteczka"
+  },
+  {
+    "id": 4286,
+    "en": "environments",
+    "pl": "środowiska"
+  },
+  {
+    "id": 4287,
+    "en": "divided",
+    "pl": "podzielony"
+  },
+  {
+    "id": 4288,
+    "en": "reception",
+    "pl": "recepcja, przyjęcie"
+  },
+  {
+    "id": 4289,
+    "en": "wise",
+    "pl": "mądry"
+  },
+  {
+    "id": 4290,
+    "en": "emails",
+    "pl": "e-maile"
+  },
+  {
+    "id": 4291,
+    "en": "odds",
+    "pl": "szanse"
+  },
+  {
+    "id": 4292,
+    "en": "correctly",
+    "pl": "poprawnie"
+  },
+  {
+    "id": 4293,
+    "en": "insider",
+    "pl": "osoba z wewnątrz (organizacji)"
+  },
+  {
+    "id": 4294,
+    "en": "seminars",
+    "pl": "seminaria"
+  },
+  {
+    "id": 4295,
+    "en": "consequences",
+    "pl": "konsekwencje"
+  },
+  {
+    "id": 4296,
+    "en": "makers",
+    "pl": "twórcy"
+  },
+  {
+    "id": 4297,
+    "en": "hearts",
+    "pl": "serca"
+  },
+  {
+    "id": 4298,
+    "en": "geography",
+    "pl": "geografia"
+  },
+  {
+    "id": 4299,
+    "en": "appearing",
+    "pl": "pojawiający się"
+  },
+  {
+    "id": 4300,
+    "en": "integrity",
+    "pl": "uczciwość, integralność"
+  },
+  {
+    "id": 4301,
+    "en": "worry",
+    "pl": "martwić się"
+  },
+  {
+    "id": 4302,
+    "en": "discrimination",
+    "pl": "dyskryminacja"
+  },
+  {
+    "id": 4303,
+    "en": "legacy",
+    "pl": "spuścizna"
+  },
+  {
+    "id": 4304,
+    "en": "pleased",
+    "pl": "zadowolony"
+  },
+  {
+    "id": 4305,
+    "en": "vitamin",
+    "pl": "witamina"
+  },
+  {
+    "id": 4306,
+    "en": "widely",
+    "pl": "szeroko"
+  },
+  {
+    "id": 4307,
+    "en": "processed",
+    "pl": "przetworzony"
+  },
+  {
+    "id": 4308,
+    "en": "genuine",
+    "pl": "prawdziwy, autentyczny"
+  },
+  {
+    "id": 4309,
+    "en": "raising",
+    "pl": "podnoszenie"
+  },
+  {
+    "id": 4310,
+    "en": "implications",
+    "pl": "implikacje"
+  },
+  {
+    "id": 4311,
+    "en": "functionality",
+    "pl": "funkcjonalność"
+  },
+  {
+    "id": 4312,
+    "en": "paradise",
+    "pl": "raj"
+  },
+  {
+    "id": 4313,
+    "en": "hybrid",
+    "pl": "hybryda"
+  },
+  {
+    "id": 4314,
+    "en": "reads",
+    "pl": "czyta"
+  },
+  {
+    "id": 4315,
+    "en": "roles",
+    "pl": "role"
+  },
+  {
+    "id": 4316,
+    "en": "intermediate",
+    "pl": "średniozaawansowany"
+  },
+  {
+    "id": 4317,
+    "en": "emotional",
+    "pl": "emocjonalny"
+  },
+  {
+    "id": 4318,
+    "en": "sons",
+    "pl": "synowie"
+  },
+  {
+    "id": 4319,
+    "en": "leaf",
+    "pl": "liść"
+  },
+  {
+    "id": 4320,
+    "en": "pad",
+    "pl": "podkładka, blok"
+  },
+  {
+    "id": 4321,
+    "en": "glory",
+    "pl": "chwała"
+  },
+  {
+    "id": 4322,
+    "en": "platforms",
+    "pl": "platformy"
+  },
+  {
+    "id": 4323,
+    "en": "bigger",
+    "pl": "większy"
+  },
+  {
+    "id": 4324,
+    "en": "billing",
+    "pl": "rozliczanie"
+  },
+  {
+    "id": 4325,
+    "en": "diesel",
+    "pl": "diesel"
+  },
+  {
+    "id": 4326,
+    "en": "versus",
+    "pl": "kontra"
+  },
+  {
+    "id": 4327,
+    "en": "combine",
+    "pl": "łączyć"
+  },
+  {
+    "id": 4328,
+    "en": "overnight",
+    "pl": "nocleg, przez noc"
+  },
+  {
+    "id": 4329,
+    "en": "geographic",
+    "pl": "geograficzny"
+  },
+  {
+    "id": 4330,
+    "en": "exceed",
+    "pl": "przekraczać"
+  },
+  {
+    "id": 4331,
+    "en": "rod",
+    "pl": "pręt, wędka"
+  },
+  {
+    "id": 4332,
+    "en": "fault",
+    "pl": "wina, usterka"
+  },
+  {
+    "id": 4333,
+    "en": "preliminary",
+    "pl": "wstępny"
+  },
+  {
+    "id": 4334,
+    "en": "districts",
+    "pl": "dzielnice"
+  },
+  {
+    "id": 4335,
+    "en": "introduce",
+    "pl": "wprowadzać"
+  },
+  {
+    "id": 4336,
+    "en": "silk",
+    "pl": "jedwab"
+  },
+  {
+    "id": 4337,
+    "en": "promotional",
+    "pl": "promocyjny"
+  },
+  {
+    "id": 4338,
+    "en": "babies",
+    "pl": "niemowlęta"
+  },
+  {
+    "id": 4339,
+    "en": "compiled",
+    "pl": "skompilowany, zebrany"
+  },
+  {
+    "id": 4340,
+    "en": "romantic",
+    "pl": "romantyczny"
+  },
+  {
+    "id": 4341,
+    "en": "revealed",
+    "pl": "ujawniony"
+  },
+  {
+    "id": 4342,
+    "en": "specialists",
+    "pl": "specjaliści"
+  },
+  {
+    "id": 4343,
+    "en": "generator",
+    "pl": "generator"
+  },
+  {
+    "id": 4344,
+    "en": "examine",
+    "pl": "badać"
+  },
+  {
+    "id": 4345,
+    "en": "suspension",
+    "pl": "zawieszenie"
+  },
+  {
+    "id": 4346,
+    "en": "sad",
+    "pl": "smutny"
+  },
+  {
+    "id": 4347,
+    "en": "correction",
+    "pl": "poprawka"
+  },
+  {
+    "id": 4348,
+    "en": "wolf",
+    "pl": "wilk"
+  },
+  {
+    "id": 4349,
+    "en": "slowly",
+    "pl": "powoli"
+  },
+  {
+    "id": 4350,
+    "en": "authentication",
+    "pl": "uwierzytelnianie"
+  },
+  {
+    "id": 4351,
+    "en": "communicate",
+    "pl": "komunikować się"
+  },
+  {
+    "id": 4352,
+    "en": "rugby",
+    "pl": "rugby"
+  },
+  {
+    "id": 4353,
+    "en": "supplement",
+    "pl": "suplement"
+  },
+  {
+    "id": 4354,
+    "en": "showtimes",
+    "pl": "godziny seansów"
+  },
+  {
+    "id": 4355,
+    "en": "portions",
+    "pl": "porcje"
+  },
+  {
+    "id": 4356,
+    "en": "infant",
+    "pl": "niemowlę"
+  },
+  {
+    "id": 4357,
+    "en": "promoting",
+    "pl": "promowanie"
+  },
+  {
+    "id": 4358,
+    "en": "sectors",
+    "pl": "sektory"
+  },
+  {
+    "id": 4359,
+    "en": "fluid",
+    "pl": "płyn"
+  },
+  {
+    "id": 4360,
+    "en": "grounds",
+    "pl": "podstawy, teren"
+  },
+  {
+    "id": 4361,
+    "en": "fits",
+    "pl": "pasuje"
+  },
+  {
+    "id": 4362,
+    "en": "kick",
+    "pl": "kopnąć"
+  },
+  {
+    "id": 4363,
+    "en": "regards",
+    "pl": "pozdrowienia"
+  },
+  {
+    "id": 4364,
+    "en": "meal",
+    "pl": "posiłek"
+  },
+  {
+    "id": 4365,
+    "en": "hurt",
+    "pl": "zranić"
+  },
+  {
+    "id": 4366,
+    "en": "machinery",
+    "pl": "maszyny"
+  },
+  {
+    "id": 4367,
+    "en": "bandwidth",
+    "pl": "przepustowość (łącza)"
+  },
+  {
+    "id": 4368,
+    "en": "unlike",
+    "pl": "w przeciwieństwie do"
+  },
+  {
+    "id": 4369,
+    "en": "equation",
+    "pl": "równanie"
+  },
+  {
+    "id": 4370,
+    "en": "baskets",
+    "pl": "kosze"
+  },
+  {
+    "id": 4371,
+    "en": "probability",
+    "pl": "prawdopodobieństwo"
+  },
+  {
+    "id": 4372,
+    "en": "pot",
+    "pl": "garnek"
+  },
+  {
+    "id": 4373,
+    "en": "dimension",
+    "pl": "wymiar"
+  },
+  {
+    "id": 4374,
+    "en": "wright",
+    "pl": "budowniczy (rzemieślnik)"
+  },
+  {
+    "id": 4375,
+    "en": "proven",
+    "pl": "sprawdzony"
+  },
+  {
+    "id": 4376,
+    "en": "schedules",
+    "pl": "harmonogramy"
+  },
+  {
+    "id": 4377,
+    "en": "admissions",
+    "pl": "przyjęcia (na studia)"
+  },
+  {
+    "id": 4378,
+    "en": "cached",
+    "pl": "zapisany w pamięci podręcznej"
+  },
+  {
+    "id": 4379,
+    "en": "studied",
+    "pl": "studiował"
+  },
+  {
+    "id": 4380,
+    "en": "reviewer",
+    "pl": "recenzent"
+  },
+  {
+    "id": 4381,
+    "en": "involves",
+    "pl": "obejmuje"
+  },
+  {
+    "id": 4382,
+    "en": "quarterly",
+    "pl": "kwartalny"
+  },
+  {
+    "id": 4383,
+    "en": "profits",
+    "pl": "zyski"
+  },
+  {
+    "id": 4384,
+    "en": "devil",
+    "pl": "diabeł"
+  },
+  {
+    "id": 4385,
+    "en": "comply",
+    "pl": "przestrzegać (przepisów)"
+  },
+  {
+    "id": 4386,
+    "en": "florist",
+    "pl": "kwiaciarz"
+  },
+  {
+    "id": 4387,
+    "en": "illustrated",
+    "pl": "ilustrowany"
+  },
+  {
+    "id": 4388,
+    "en": "cherry",
+    "pl": "wiśnia"
+  },
+  {
+    "id": 4389,
+    "en": "continental",
+    "pl": "kontynentalny"
+  },
+  {
+    "id": 4390,
+    "en": "alternate",
+    "pl": "alternatywny, na zmianę"
+  },
+  {
+    "id": 4391,
+    "en": "achievement",
+    "pl": "osiągnięcie"
+  },
+  {
+    "id": 4392,
+    "en": "limitations",
+    "pl": "ograniczenia"
+  },
+  {
+    "id": 4393,
+    "en": "kenya",
+    "pl": "Kenia"
+  },
+  {
+    "id": 4394,
+    "en": "webcam",
+    "pl": "kamera internetowa"
+  },
+  {
+    "id": 4395,
+    "en": "cuts",
+    "pl": "cięcia"
+  },
+  {
+    "id": 4396,
+    "en": "funeral",
+    "pl": "pogrzeb"
+  },
+  {
+    "id": 4397,
+    "en": "earrings",
+    "pl": "kolczyki"
+  },
+  {
+    "id": 4398,
+    "en": "enjoyed",
+    "pl": "cieszył się"
+  },
+  {
+    "id": 4399,
+    "en": "automated",
+    "pl": "zautomatyzowany"
+  },
+  {
+    "id": 4400,
+    "en": "chapters",
+    "pl": "rozdziały"
+  },
+  {
+    "id": 4401,
+    "en": "pee",
+    "pl": "siusiać"
+  },
+  {
+    "id": 4402,
+    "en": "charlie",
+    "pl": "Charlie"
+  },
+  {
+    "id": 4403,
+    "en": "passenger",
+    "pl": "pasażer"
+  },
+  {
+    "id": 4404,
+    "en": "convenient",
+    "pl": "wygodny"
+  },
+  {
+    "id": 4405,
+    "en": "mars",
+    "pl": "Mars"
+  },
+  {
+    "id": 4406,
+    "en": "tvs",
+    "pl": "telewizory"
+  },
+  {
+    "id": 4407,
+    "en": "sized",
+    "pl": "o rozmiarze"
+  },
+  {
+    "id": 4408,
+    "en": "manga",
+    "pl": "manga"
+  },
+  {
+    "id": 4409,
+    "en": "noticed",
+    "pl": "zauważył"
+  },
+  {
+    "id": 4410,
+    "en": "socket",
+    "pl": "gniazdko"
+  },
+  {
+    "id": 4411,
+    "en": "literary",
+    "pl": "literacki"
+  },
+  {
+    "id": 4412,
+    "en": "signals",
+    "pl": "sygnały"
+  },
+  {
+    "id": 4413,
+    "en": "caps",
+    "pl": "czapki, limity"
+  },
+  {
+    "id": 4414,
+    "en": "orientation",
+    "pl": "orientacja"
+  },
+  {
+    "id": 4415,
+    "en": "pill",
+    "pl": "pigułka"
+  },
+  {
+    "id": 4416,
+    "en": "theft",
+    "pl": "kradzież"
+  },
+  {
+    "id": 4417,
+    "en": "childhood",
+    "pl": "dzieciństwo"
+  },
+  {
+    "id": 4418,
+    "en": "swing",
+    "pl": "huśtawka, wahać się"
+  },
+  {
+    "id": 4419,
+    "en": "symbols",
+    "pl": "symbole"
+  },
+  {
+    "id": 4420,
+    "en": "meta",
+    "pl": "meta (przedrostek)"
+  },
+  {
+    "id": 4421,
+    "en": "humans",
+    "pl": "ludzie (istoty)"
+  },
+  {
+    "id": 4422,
+    "en": "analog",
+    "pl": "analogowy"
+  },
+  {
+    "id": 4423,
+    "en": "facial",
+    "pl": "twarzowy, zabieg na twarz"
+  },
+  {
+    "id": 4424,
+    "en": "choosing",
+    "pl": "wybieranie"
+  },
+  {
+    "id": 4425,
+    "en": "talent",
+    "pl": "talent"
+  },
+  {
+    "id": 4426,
+    "en": "dated",
+    "pl": "datowany"
+  },
+  {
+    "id": 4427,
+    "en": "flexibility",
+    "pl": "elastyczność"
+  },
+  {
+    "id": 4428,
+    "en": "seeker",
+    "pl": "poszukiwacz"
+  },
+  {
+    "id": 4429,
+    "en": "wisdom",
+    "pl": "mądrość"
+  },
+  {
+    "id": 4430,
+    "en": "shoot",
+    "pl": "strzelać"
+  },
+  {
+    "id": 4431,
+    "en": "boundary",
+    "pl": "granica"
+  },
+  {
+    "id": 4432,
+    "en": "mint",
+    "pl": "mięta, mennica"
+  },
+  {
+    "id": 4433,
+    "en": "offset",
+    "pl": "kompensować"
+  },
+  {
+    "id": 4434,
+    "en": "payday",
+    "pl": "dzień wypłaty"
+  },
+  {
+    "id": 4435,
+    "en": "elite",
+    "pl": "elita"
+  },
+  {
+    "id": 4436,
+    "en": "spin",
+    "pl": "obracać się"
+  },
+  {
+    "id": 4437,
+    "en": "holders",
+    "pl": "posiadacze, uchwyty"
+  },
+  {
+    "id": 4438,
+    "en": "believes",
+    "pl": "wierzy"
+  },
+  {
+    "id": 4439,
+    "en": "swedish",
+    "pl": "szwedzki"
+  },
+  {
+    "id": 4440,
+    "en": "poems",
+    "pl": "wiersze"
+  },
+  {
+    "id": 4441,
+    "en": "deadline",
+    "pl": "termin (ostateczny)"
+  },
+  {
+    "id": 4442,
+    "en": "jurisdiction",
+    "pl": "jurysdykcja"
+  },
+  {
+    "id": 4443,
+    "en": "robot",
+    "pl": "robot"
+  },
+  {
+    "id": 4444,
+    "en": "displaying",
+    "pl": "wyświetlanie"
+  },
+  {
+    "id": 4445,
+    "en": "witness",
+    "pl": "świadek"
+  },
+  {
+    "id": 4446,
+    "en": "equipped",
+    "pl": "wyposażony"
+  },
+  {
+    "id": 4447,
+    "en": "stages",
+    "pl": "etapy"
+  },
+  {
+    "id": 4448,
+    "en": "encouraged",
+    "pl": "zachęcony"
+  },
+  {
+    "id": 4449,
+    "en": "winds",
+    "pl": "wiatry"
+  },
+  {
+    "id": 4450,
+    "en": "powder",
+    "pl": "proszek"
+  },
+  {
+    "id": 4451,
+    "en": "broadway",
+    "pl": "Broadway"
+  },
+  {
+    "id": 4452,
+    "en": "acquired",
+    "pl": "nabyty"
+  },
+  {
+    "id": 4453,
+    "en": "assess",
+    "pl": "oceniać"
+  },
+  {
+    "id": 4454,
+    "en": "cartridges",
+    "pl": "kartridże"
+  },
+  {
+    "id": 4455,
+    "en": "stones",
+    "pl": "kamienie"
+  },
+  {
+    "id": 4456,
+    "en": "entrance",
+    "pl": "wejście"
+  },
+  {
+    "id": 4457,
+    "en": "roots",
+    "pl": "korzenie"
+  },
+  {
+    "id": 4458,
+    "en": "declaration",
+    "pl": "deklaracja"
+  },
+  {
+    "id": 4459,
+    "en": "losing",
+    "pl": "przegrywanie"
+  },
+  {
+    "id": 4460,
+    "en": "attempts",
+    "pl": "próby"
+  },
+  {
+    "id": 4461,
+    "en": "gadgets",
+    "pl": "gadżety"
+  },
+  {
+    "id": 4462,
+    "en": "noble",
+    "pl": "szlachetny"
+  },
+  {
+    "id": 4463,
+    "en": "automation",
+    "pl": "automatyzacja"
+  },
+  {
+    "id": 4464,
+    "en": "impacts",
+    "pl": "wpływy, skutki"
+  },
+  {
+    "id": 4465,
+    "en": "gospel",
+    "pl": "ewangelia"
+  },
+  {
+    "id": 4466,
+    "en": "advantages",
+    "pl": "zalety"
+  },
+  {
+    "id": 4467,
+    "en": "loves",
+    "pl": "kocha"
+  },
+  {
+    "id": 4468,
+    "en": "induced",
+    "pl": "wywołany"
+  },
+  {
+    "id": 4469,
+    "en": "knight",
+    "pl": "rycerz"
+  },
+  {
+    "id": 4470,
+    "en": "preparing",
+    "pl": "przygotowywanie"
+  },
+  {
+    "id": 4471,
+    "en": "loose",
+    "pl": "luźny"
+  },
+  {
+    "id": 4472,
+    "en": "aims",
+    "pl": "cele, dąży"
+  },
+  {
+    "id": 4473,
+    "en": "recipient",
+    "pl": "odbiorca"
+  },
+  {
+    "id": 4474,
+    "en": "linking",
+    "pl": "łączenie"
+  },
+  {
+    "id": 4475,
+    "en": "extensions",
+    "pl": "rozszerzenia"
+  },
+  {
+    "id": 4476,
+    "en": "appeals",
+    "pl": "apele, odwołania"
+  },
+  {
+    "id": 4477,
+    "en": "earned",
+    "pl": "zarobiony"
+  },
+  {
+    "id": 4478,
+    "en": "illness",
+    "pl": "choroba"
+  },
+  {
+    "id": 4479,
+    "en": "islamic",
+    "pl": "islamski"
+  },
+  {
+    "id": 4480,
+    "en": "athletics",
+    "pl": "lekkoatletyka"
+  },
+  {
+    "id": 4481,
+    "en": "southeast",
+    "pl": "południowy wschód"
+  },
+  {
+    "id": 4482,
+    "en": "alternatives",
+    "pl": "alternatywy"
+  },
+  {
+    "id": 4483,
+    "en": "pending",
+    "pl": "oczekujący"
+  },
+  {
+    "id": 4484,
+    "en": "determining",
+    "pl": "określanie"
+  },
+  {
+    "id": 4485,
+    "en": "personalized",
+    "pl": "spersonalizowany"
+  },
+  {
+    "id": 4486,
+    "en": "conditioning",
+    "pl": "klimatyzacja, kondycjonowanie"
+  },
+  {
+    "id": 4487,
+    "en": "teenage",
+    "pl": "nastoletni"
+  },
+  {
+    "id": 4488,
+    "en": "soap",
+    "pl": "mydło"
+  },
+  {
+    "id": 4489,
+    "en": "triple",
+    "pl": "potrójny"
+  },
+  {
+    "id": 4490,
+    "en": "jam",
+    "pl": "dżem, korek (uliczny)"
+  },
+  {
+    "id": 4491,
+    "en": "secured",
+    "pl": "zabezpieczony"
+  },
+  {
+    "id": 4492,
+    "en": "unusual",
+    "pl": "niezwykły"
+  },
+  {
+    "id": 4493,
+    "en": "answered",
+    "pl": "odpowiedział"
+  },
+  {
+    "id": 4494,
+    "en": "partnerships",
+    "pl": "partnerstwa"
+  },
+  {
+    "id": 4495,
+    "en": "destruction",
+    "pl": "zniszczenie"
+  },
+  {
+    "id": 4496,
+    "en": "slots",
+    "pl": "gniazda, automaty do gier"
+  },
+  {
+    "id": 4497,
+    "en": "increasingly",
+    "pl": "coraz bardziej"
+  },
+  {
+    "id": 4498,
+    "en": "migration",
+    "pl": "migracja"
+  },
+  {
+    "id": 4499,
+    "en": "disorder",
+    "pl": "zaburzenie"
+  },
+  {
+    "id": 4500,
+    "en": "routine",
+    "pl": "rutyna"
+  },
+  {
+    "id": 4501,
+    "en": "toolbar",
+    "pl": "pasek narzędzi"
+  },
+  {
+    "id": 4502,
+    "en": "basically",
+    "pl": "zasadniczo"
+  },
+  {
+    "id": 4503,
+    "en": "rocks",
+    "pl": "skały"
+  },
+  {
+    "id": 4504,
+    "en": "conventional",
+    "pl": "konwencjonalny"
+  },
+  {
+    "id": 4505,
+    "en": "applicants",
+    "pl": "kandydaci (do pracy)"
+  },
+  {
+    "id": 4506,
+    "en": "wearing",
+    "pl": "noszenie (ubrania)"
+  },
+  {
+    "id": 4507,
+    "en": "axis",
+    "pl": "oś"
+  },
+  {
+    "id": 4508,
+    "en": "sought",
+    "pl": "poszukiwał (czas przeszły \"seek\")"
+  },
+  {
+    "id": 4509,
+    "en": "genes",
+    "pl": "geny"
+  },
+  {
+    "id": 4510,
+    "en": "mounted",
+    "pl": "zamontowany"
+  },
+  {
+    "id": 4511,
+    "en": "habitat",
+    "pl": "siedlisko"
+  },
+  {
+    "id": 4512,
+    "en": "firewall",
+    "pl": "zapora sieciowa"
+  },
+  {
+    "id": 4513,
+    "en": "median",
+    "pl": "mediana"
+  },
+  {
+    "id": 4514,
+    "en": "guns",
+    "pl": "broń palna (l.mn.)"
+  },
+  {
+    "id": 4515,
+    "en": "scanner",
+    "pl": "skaner"
+  },
+  {
+    "id": 4516,
+    "en": "herein",
+    "pl": "niniejszym"
+  },
+  {
+    "id": 4517,
+    "en": "occupational",
+    "pl": "zawodowy"
+  },
+  {
+    "id": 4518,
+    "en": "animated",
+    "pl": "animowany"
+  },
+  {
+    "id": 4519,
+    "en": "judicial",
+    "pl": "sądowy"
+  },
+  {
+    "id": 4520,
+    "en": "adjustment",
+    "pl": "dostosowanie"
+  },
+  {
+    "id": 4521,
+    "en": "hero",
+    "pl": "bohater"
+  },
+  {
+    "id": 4522,
+    "en": "integer",
+    "pl": "liczba całkowita"
+  },
+  {
+    "id": 4523,
+    "en": "treatments",
+    "pl": "zabiegi, terapie"
+  },
+  {
+    "id": 4524,
+    "en": "bachelor",
+    "pl": "kawaler, licencjat"
+  },
+  {
+    "id": 4525,
+    "en": "attitude",
+    "pl": "postawa"
+  },
+  {
+    "id": 4527,
+    "en": "engaged",
+    "pl": "zaręczony, zaangażowany"
+  },
+  {
+    "id": 4528,
+    "en": "falling",
+    "pl": "spadanie"
+  },
+  {
+    "id": 4529,
+    "en": "basics",
+    "pl": "podstawy"
+  },
+  {
+    "id": 4530,
+    "en": "carpet",
+    "pl": "dywan"
+  },
+  {
+    "id": 4531,
+    "en": "lenses",
+    "pl": "soczewki"
+  },
+  {
+    "id": 4532,
+    "en": "binary",
+    "pl": "binarny"
+  },
+  {
+    "id": 4533,
+    "en": "genetics",
+    "pl": "genetyka"
+  },
+  {
+    "id": 4534,
+    "en": "attended",
+    "pl": "uczestniczył"
+  },
+  {
+    "id": 4535,
+    "en": "difficulty",
+    "pl": "trudność"
+  },
+  {
+    "id": 4536,
+    "en": "punk",
+    "pl": "punk"
+  },
+  {
+    "id": 4537,
+    "en": "collective",
+    "pl": "kolektywny, zbiorowy"
+  },
+  {
+    "id": 4538,
+    "en": "coalition",
+    "pl": "koalicja"
+  },
+  {
+    "id": 4539,
+    "en": "dropped",
+    "pl": "upuszczony"
+  },
+  {
+    "id": 4540,
+    "en": "enrollment",
+    "pl": "zapisy (na kurs)"
+  },
+  {
+    "id": 4541,
+    "en": "pace",
+    "pl": "tempo"
+  },
+  {
+    "id": 4542,
+    "en": "besides",
+    "pl": "poza tym"
+  },
+  {
+    "id": 4543,
+    "en": "wage",
+    "pl": "płaca"
+  },
+  {
+    "id": 4544,
+    "en": "producers",
+    "pl": "producenci"
+  },
+  {
+    "id": 4545,
+    "en": "collector",
+    "pl": "kolekcjoner"
+  },
+  {
+    "id": 4546,
+    "en": "arc",
+    "pl": "łuk"
+  },
+  {
+    "id": 4547,
+    "en": "hosts",
+    "pl": "gospodarze"
+  },
+  {
+    "id": 4548,
+    "en": "interfaces",
+    "pl": "interfejsy"
+  },
+  {
+    "id": 4549,
+    "en": "advertisers",
+    "pl": "reklamodawcy"
+  },
+  {
+    "id": 4550,
+    "en": "moments",
+    "pl": "chwile"
+  },
+  {
+    "id": 4551,
+    "en": "atlas",
+    "pl": "atlas"
+  },
+  {
+    "id": 4552,
+    "en": "strings",
+    "pl": "sznurki, ciągi znaków"
+  },
+  {
+    "id": 4553,
+    "en": "dawn",
+    "pl": "świt"
+  },
+  {
+    "id": 4554,
+    "en": "representing",
+    "pl": "reprezentujący"
+  },
+  {
+    "id": 4555,
+    "en": "observation",
+    "pl": "obserwacja"
+  },
+  {
+    "id": 4556,
+    "en": "feels",
+    "pl": "czuje"
+  },
+  {
+    "id": 4557,
+    "en": "torture",
+    "pl": "tortury"
+  },
+  {
+    "id": 4558,
+    "en": "deleted",
+    "pl": "usunięty"
+  },
+  {
+    "id": 4559,
+    "en": "restoration",
+    "pl": "odnowienie"
+  },
+  {
+    "id": 4560,
+    "en": "convenience",
+    "pl": "wygoda"
+  },
+  {
+    "id": 4561,
+    "en": "returning",
+    "pl": "powracający"
+  },
+  {
+    "id": 4562,
+    "en": "opposition",
+    "pl": "opozycja"
+  },
+  {
+    "id": 4563,
+    "en": "container",
+    "pl": "kontener"
+  },
+  {
+    "id": 4564,
+    "en": "defendant",
+    "pl": "oskarżony"
+  },
+  {
+    "id": 4565,
+    "en": "warner",
+    "pl": "Warner"
+  },
+  {
+    "id": 4566,
+    "en": "confirmation",
+    "pl": "potwierdzenie"
+  },
+  {
+    "id": 4567,
+    "en": "app",
+    "pl": "aplikacja (skrót)"
+  },
+  {
+    "id": 4568,
+    "en": "embedded",
+    "pl": "osadzony, wbudowany"
+  },
+  {
+    "id": 4569,
+    "en": "inkjet",
+    "pl": "atramentowy (drukarka)"
+  },
+  {
+    "id": 4570,
+    "en": "supervisor",
+    "pl": "przełożony"
+  },
+  {
+    "id": 4571,
+    "en": "wizard",
+    "pl": "czarodziej, kreator (program)"
+  },
+  {
+    "id": 4572,
+    "en": "corps",
+    "pl": "korpus"
+  },
+  {
+    "id": 4573,
+    "en": "actors",
+    "pl": "aktorzy"
+  },
+  {
+    "id": 4574,
+    "en": "liver",
+    "pl": "wątroba"
+  },
+  {
+    "id": 4575,
+    "en": "peripherals",
+    "pl": "urządzenia peryferyjne"
+  },
+  {
+    "id": 4576,
+    "en": "liable",
+    "pl": "odpowiedzialny (prawnie)"
+  },
+  {
+    "id": 4577,
+    "en": "brochure",
+    "pl": "broszura"
+  },
+  {
+    "id": 4578,
+    "en": "bestsellers",
+    "pl": "bestsellery"
+  },
+  {
+    "id": 4579,
+    "en": "petition",
+    "pl": "petycja"
+  },
+  {
+    "id": 4580,
+    "en": "recall",
+    "pl": "przypominać sobie, wycofać (produkt)"
+  },
+  {
+    "id": 4581,
+    "en": "antenna",
+    "pl": "antena"
+  },
+  {
+    "id": 4582,
+    "en": "picked",
+    "pl": "wybrany"
+  },
+  {
+    "id": 4583,
+    "en": "assumed",
+    "pl": "założony (przyjęty za pewnik)"
+  },
+  {
+    "id": 4584,
+    "en": "departure",
+    "pl": "odjazd, odlot"
+  },
+  {
+    "id": 4585,
+    "en": "belief",
+    "pl": "przekonanie"
+  },
+  {
+    "id": 4586,
+    "en": "killing",
+    "pl": "zabijanie"
+  },
+  {
+    "id": 4587,
+    "en": "bikini",
+    "pl": "bikini"
+  },
+  {
+    "id": 4588,
+    "en": "decor",
+    "pl": "wystrój"
+  },
+  {
+    "id": 4589,
+    "en": "lookup",
+    "pl": "wyszukiwanie"
+  },
+  {
+    "id": 4590,
+    "en": "texts",
+    "pl": "teksty"
+  },
+  {
+    "id": 4591,
+    "en": "brokers",
+    "pl": "maklerzy"
+  },
+  {
+    "id": 4592,
+    "en": "ion",
+    "pl": "jon"
+  },
+  {
+    "id": 4593,
+    "en": "diameter",
+    "pl": "średnica"
+  },
+  {
+    "id": 4594,
+    "en": "doll",
+    "pl": "lalka"
+  },
+  {
+    "id": 4595,
+    "en": "podcast",
+    "pl": "podcast"
+  },
+  {
+    "id": 4597,
+    "en": "interactions",
+    "pl": "interakcje"
+  },
+  {
+    "id": 4598,
+    "en": "refine",
+    "pl": "udoskonalać"
+  },
+  {
+    "id": 4599,
+    "en": "bidder",
+    "pl": "licytant"
+  },
+  {
+    "id": 4600,
+    "en": "singer",
+    "pl": "piosenkarz"
+  },
+  {
+    "id": 4601,
+    "en": "herald",
+    "pl": "zwiastować"
+  },
+  {
+    "id": 4602,
+    "en": "literacy",
+    "pl": "umiejętność czytania i pisania"
+  },
+  {
+    "id": 4603,
+    "en": "fails",
+    "pl": "zawodzi"
+  },
+  {
+    "id": 4604,
+    "en": "aging",
+    "pl": "starzenie się"
+  },
+  {
+    "id": 4605,
+    "en": "intervention",
+    "pl": "interwencja"
+  },
+  {
+    "id": 4606,
+    "en": "fed",
+    "pl": "karmił"
+  },
+  {
+    "id": 4607,
+    "en": "plugin",
+    "pl": "wtyczka (programowa)"
+  },
+  {
+    "id": 4608,
+    "en": "attraction",
+    "pl": "atrakcja"
+  },
+  {
+    "id": 4609,
+    "en": "diving",
+    "pl": "nurkowanie"
+  },
+  {
+    "id": 4610,
+    "en": "invite",
+    "pl": "zapraszać"
+  },
+  {
+    "id": 4611,
+    "en": "modification",
+    "pl": "modyfikacja"
+  },
+  {
+    "id": 4612,
+    "en": "suppose",
+    "pl": "przypuszczać"
+  },
+  {
+    "id": 4613,
+    "en": "customized",
+    "pl": "dostosowany"
+  },
+  {
+    "id": 4614,
+    "en": "involve",
+    "pl": "obejmować"
+  },
+  {
+    "id": 4615,
+    "en": "moderate",
+    "pl": "umiarkowany"
+  },
+  {
+    "id": 4616,
+    "en": "terror",
+    "pl": "terror"
+  },
+  {
+    "id": 4617,
+    "en": "younger",
+    "pl": "młodszy"
+  },
+  {
+    "id": 4618,
+    "en": "thirty",
+    "pl": "trzydzieści"
+  },
+  {
+    "id": 4619,
+    "en": "mice",
+    "pl": "myszy (l.mn. \"mouse\")"
+  },
+  {
+    "id": 4620,
+    "en": "understood",
+    "pl": "zrozumiał"
+  },
+  {
+    "id": 4621,
+    "en": "rapidly",
+    "pl": "szybko"
+  },
+  {
+    "id": 4622,
+    "en": "ban",
+    "pl": "zakaz"
+  },
+  {
+    "id": 4623,
+    "en": "temp",
+    "pl": "tymczasowy pracownik"
+  },
+  {
+    "id": 4624,
+    "en": "intro",
+    "pl": "wstęp (skrót)"
+  },
+  {
+    "id": 4625,
+    "en": "assurance",
+    "pl": "zapewnienie"
+  },
+  {
+    "id": 4626,
+    "en": "clerk",
+    "pl": "urzędnik"
+  },
+  {
+    "id": 4627,
+    "en": "happening",
+    "pl": "dziejący się"
+  },
+  {
+    "id": 4628,
+    "en": "vast",
+    "pl": "ogromny"
+  },
+  {
+    "id": 4629,
+    "en": "mills",
+    "pl": "młyny"
+  },
+  {
+    "id": 4630,
+    "en": "outline",
+    "pl": "zarys"
+  },
+  {
+    "id": 4631,
+    "en": "amendments",
+    "pl": "poprawki"
+  },
+  {
+    "id": 4632,
+    "en": "receives",
+    "pl": "otrzymuje"
+  },
+  {
+    "id": 4633,
+    "en": "jeans",
+    "pl": "dżinsy"
+  },
+  {
+    "id": 4634,
+    "en": "metropolitan",
+    "pl": "metropolitalny"
+  },
+  {
+    "id": 4635,
+    "en": "compilation",
+    "pl": "kompilacja"
+  },
+  {
+    "id": 4636,
+    "en": "verification",
+    "pl": "weryfikacja"
+  },
+  {
+    "id": 4637,
+    "en": "fonts",
+    "pl": "czcionki"
+  },
+  {
+    "id": 4638,
+    "en": "odd",
+    "pl": "dziwny, nieparzysty"
+  },
+  {
+    "id": 4639,
+    "en": "wrap",
+    "pl": "owijać"
+  },
+  {
+    "id": 4640,
+    "en": "refers",
+    "pl": "odnosi się"
+  },
+  {
+    "id": 4641,
+    "en": "mood",
+    "pl": "nastrój"
+  },
+  {
+    "id": 4642,
+    "en": "veterans",
+    "pl": "weterani"
+  },
+  {
+    "id": 4643,
+    "en": "quiz",
+    "pl": "quiz"
+  },
+  {
+    "id": 4644,
+    "en": "attractive",
+    "pl": "atrakcyjny"
+  },
+  {
+    "id": 4645,
+    "en": "occasion",
+    "pl": "okazja"
+  },
+  {
+    "id": 4646,
+    "en": "recordings",
+    "pl": "nagrania"
+  },
+  {
+    "id": 4647,
+    "en": "victim",
+    "pl": "ofiara"
+  },
+  {
+    "id": 4648,
+    "en": "demands",
+    "pl": "żąda, żądania"
+  },
+  {
+    "id": 4649,
+    "en": "sleeping",
+    "pl": "śpiący"
+  },
+  {
+    "id": 4650,
+    "en": "careful",
+    "pl": "ostrożny"
+  },
+  {
+    "id": 4651,
+    "en": "beam",
+    "pl": "belka, promień"
+  },
+  {
+    "id": 4652,
+    "en": "gardening",
+    "pl": "ogrodnictwo"
+  },
+  {
+    "id": 4653,
+    "en": "obligations",
+    "pl": "obowiązki"
+  },
+  {
+    "id": 4654,
+    "en": "orchestra",
+    "pl": "orkiestra"
+  },
+  {
+    "id": 4655,
+    "en": "sunset",
+    "pl": "zachód słońca"
+  },
+  {
+    "id": 4656,
+    "en": "tracked",
+    "pl": "śledzony"
+  },
+  {
+    "id": 4657,
+    "en": "moreover",
+    "pl": "ponadto"
+  },
+  {
+    "id": 4658,
+    "en": "minimal",
+    "pl": "minimalny"
+  },
+  {
+    "id": 4659,
+    "en": "lottery",
+    "pl": "loteria"
+  },
+  {
+    "id": 4660,
+    "en": "tops",
+    "pl": "góry, szczyty"
+  },
+  {
+    "id": 4661,
+    "en": "framed",
+    "pl": "oprawiony (w ramę)"
+  },
+  {
+    "id": 4662,
+    "en": "aside",
+    "pl": "na bok, na boku"
+  },
+  {
+    "id": 4663,
+    "en": "outsourcing",
+    "pl": "outsourcing"
+  },
+  {
+    "id": 4665,
+    "en": "adjustable",
+    "pl": "regulowany"
+  },
+  {
+    "id": 4666,
+    "en": "allocation",
+    "pl": "alokacja"
+  },
+  {
+    "id": 4667,
+    "en": "essay",
+    "pl": "esej"
+  },
+  {
+    "id": 4668,
+    "en": "discipline",
+    "pl": "dyscyplina"
+  },
+  {
+    "id": 4669,
+    "en": "demonstrated",
+    "pl": "wykazany"
+  },
+  {
+    "id": 4670,
+    "en": "dialogue",
+    "pl": "dialog"
+  },
+  {
+    "id": 4671,
+    "en": "identifying",
+    "pl": "identyfikowanie"
+  },
+  {
+    "id": 4672,
+    "en": "alphabetical",
+    "pl": "alfabetyczny"
+  },
+  {
+    "id": 4673,
+    "en": "camps",
+    "pl": "obozy"
+  },
+  {
+    "id": 4674,
+    "en": "declared",
+    "pl": "zadeklarowany"
+  },
+  {
+    "id": 4675,
+    "en": "dispatched",
+    "pl": "wysłany"
+  },
+  {
+    "id": 4676,
+    "en": "handheld",
+    "pl": "podręczny (urządzenie)"
+  },
+  {
+    "id": 4677,
+    "en": "trace",
+    "pl": "ślad"
+  },
+  {
+    "id": 4678,
+    "en": "disposal",
+    "pl": "usuwanie (odpadów)"
+  },
+  {
+    "id": 4679,
+    "en": "shut",
+    "pl": "zamknięty"
+  },
+  {
+    "id": 4680,
+    "en": "florists",
+    "pl": "kwiaciarze"
+  },
+  {
+    "id": 4681,
+    "en": "packs",
+    "pl": "paczki"
+  },
+  {
+    "id": 4682,
+    "en": "installing",
+    "pl": "instalowanie"
+  },
+  {
+    "id": 4683,
+    "en": "switches",
+    "pl": "przełącza, przełączniki"
+  },
+  {
+    "id": 4684,
+    "en": "voluntary",
+    "pl": "dobrowolny"
+  },
+  {
+    "id": 4685,
+    "en": "consult",
+    "pl": "konsultować"
+  },
+  {
+    "id": 4686,
+    "en": "greatly",
+    "pl": "znacznie"
+  },
+  {
+    "id": 4687,
+    "en": "blogging",
+    "pl": "blogowanie"
+  },
+  {
+    "id": 4688,
+    "en": "mask",
+    "pl": "maska"
+  },
+  {
+    "id": 4689,
+    "en": "cycling",
+    "pl": "kolarstwo"
+  },
+  {
+    "id": 4690,
+    "en": "midnight",
+    "pl": "północ (godzina)"
+  },
+  {
+    "id": 4691,
+    "en": "commonly",
+    "pl": "powszechnie"
+  },
+  {
+    "id": 4692,
+    "en": "photographer",
+    "pl": "fotograf"
+  },
+  {
+    "id": 4693,
+    "en": "inform",
+    "pl": "informować"
+  },
+  {
+    "id": 4694,
+    "en": "turkish",
+    "pl": "turecki"
+  },
+  {
+    "id": 4695,
+    "en": "coal",
+    "pl": "węgiel (kopalny)"
+  },
+  {
+    "id": 4696,
+    "en": "messaging",
+    "pl": "przesyłanie wiadomości"
+  },
+  {
+    "id": 4697,
+    "en": "quantum",
+    "pl": "kwantowy"
+  },
+  {
+    "id": 4698,
+    "en": "intent",
+    "pl": "zamiar"
+  },
+  {
+    "id": 4699,
+    "en": "zoo",
+    "pl": "zoo"
+  },
+  {
+    "id": 4700,
+    "en": "largely",
+    "pl": "w dużej mierze"
+  },
+  {
+    "id": 4701,
+    "en": "pleasant",
+    "pl": "przyjemny"
+  },
+  {
+    "id": 4702,
+    "en": "announce",
+    "pl": "ogłaszać"
+  },
+  {
+    "id": 4703,
+    "en": "constructed",
+    "pl": "zbudowany"
+  },
+  {
+    "id": 4704,
+    "en": "additions",
+    "pl": "dodatki"
+  },
+  {
+    "id": 4705,
+    "en": "requiring",
+    "pl": "wymagający"
+  },
+  {
+    "id": 4706,
+    "en": "arrow",
+    "pl": "strzała"
+  },
+  {
+    "id": 4707,
+    "en": "engagement",
+    "pl": "zaręczyny, zaangażowanie"
+  },
+  {
+    "id": 4708,
+    "en": "sampling",
+    "pl": "próbkowanie"
+  },
+  {
+    "id": 4709,
+    "en": "rough",
+    "pl": "szorstki, wstępny"
+  },
+  {
+    "id": 4710,
+    "en": "weird",
+    "pl": "dziwny"
+  },
+  {
+    "id": 4711,
+    "en": "tee",
+    "pl": "koszulka (t-shirt)"
+  },
+  {
+    "id": 4712,
+    "en": "refinance",
+    "pl": "refinansować"
+  },
+  {
+    "id": 4713,
+    "en": "lion",
+    "pl": "lew"
+  },
+  {
+    "id": 4714,
+    "en": "inspired",
+    "pl": "zainspirowany"
+  },
+  {
+    "id": 4715,
+    "en": "holes",
+    "pl": "dziury"
+  },
+  {
+    "id": 4716,
+    "en": "weddings",
+    "pl": "śluby"
+  },
+  {
+    "id": 4717,
+    "en": "blade",
+    "pl": "ostrze"
+  },
+  {
+    "id": 4718,
+    "en": "suddenly",
+    "pl": "nagle"
+  },
+  {
+    "id": 4719,
+    "en": "cookie",
+    "pl": "ciasteczko"
+  },
+  {
+    "id": 4720,
+    "en": "meals",
+    "pl": "posiłki"
+  },
+  {
+    "id": 4721,
+    "en": "canyon",
+    "pl": "kanion"
+  },
+  {
+    "id": 4722,
+    "en": "meters",
+    "pl": "metry"
+  },
+  {
+    "id": 4723,
+    "en": "merely",
+    "pl": "jedynie"
+  },
+  {
+    "id": 4724,
+    "en": "calendars",
+    "pl": "kalendarze"
+  },
+  {
+    "id": 4725,
+    "en": "arrangement",
+    "pl": "ustalenie, aranżacja"
+  },
+  {
+    "id": 4726,
+    "en": "conclusions",
+    "pl": "wnioski"
+  },
+  {
+    "id": 4727,
+    "en": "passes",
+    "pl": "przepustki, mija"
+  },
+  {
+    "id": 4728,
+    "en": "bibliography",
+    "pl": "bibliografia"
+  },
+  {
+    "id": 4729,
+    "en": "pointer",
+    "pl": "wskaźnik"
+  },
+  {
+    "id": 4730,
+    "en": "compatibility",
+    "pl": "kompatybilność"
+  },
+  {
+    "id": 4731,
+    "en": "furthermore",
+    "pl": "ponadto"
+  },
+  {
+    "id": 4732,
+    "en": "permits",
+    "pl": "pozwolenia"
+  },
+  {
+    "id": 4733,
+    "en": "cooperative",
+    "pl": "spółdzielnia, kooperacyjny"
+  },
+  {
+    "id": 4734,
+    "en": "muslim",
+    "pl": "muzułmański, muzułmanin"
+  },
+  {
+    "id": 4735,
+    "en": "sleeve",
+    "pl": "rękaw"
+  },
+  {
+    "id": 4736,
+    "en": "cleaner",
+    "pl": "czyściciel, środek czyszczący"
+  },
+  {
+    "id": 4737,
+    "en": "cricket",
+    "pl": "krykiet"
+  },
+  {
+    "id": 4738,
+    "en": "beef",
+    "pl": "wołowina"
+  },
+  {
+    "id": 4739,
+    "en": "feeding",
+    "pl": "karmienie"
+  },
+  {
+    "id": 4740,
+    "en": "stroke",
+    "pl": "udar, uderzenie"
+  },
+  {
+    "id": 4741,
+    "en": "township",
+    "pl": "gmina"
+  },
+  {
+    "id": 4742,
+    "en": "rankings",
+    "pl": "rankingi"
+  },
+  {
+    "id": 4743,
+    "en": "measuring",
+    "pl": "mierzenie"
+  },
+  {
+    "id": 4744,
+    "en": "hats",
+    "pl": "kapelusze"
+  },
+  {
+    "id": 4745,
+    "en": "strap",
+    "pl": "pasek"
+  },
+  {
+    "id": 4746,
+    "en": "headquarters",
+    "pl": "siedziba główna"
+  },
+  {
+    "id": 4747,
+    "en": "transfers",
+    "pl": "transfery"
+  },
+  {
+    "id": 4748,
+    "en": "surf",
+    "pl": "surfować"
+  },
+  {
+    "id": 4749,
+    "en": "olympic",
+    "pl": "olimpijski"
+  },
+  {
+    "id": 4750,
+    "en": "transformation",
+    "pl": "transformacja"
+  },
+  {
+    "id": 4751,
+    "en": "remained",
+    "pl": "pozostał"
+  },
+  {
+    "id": 4752,
+    "en": "attachments",
+    "pl": "załączniki"
+  },
+  {
+    "id": 4753,
+    "en": "entities",
+    "pl": "podmioty"
+  },
+  {
+    "id": 4754,
+    "en": "customs",
+    "pl": "cło, zwyczaje"
+  },
+  {
+    "id": 4755,
+    "en": "administrators",
+    "pl": "administratorzy"
+  },
+  {
+    "id": 4756,
+    "en": "personality",
+    "pl": "osobowość"
+  },
+  {
+    "id": 4757,
+    "en": "rainbow",
+    "pl": "tęcza"
+  },
+  {
+    "id": 4758,
+    "en": "hook",
+    "pl": "hak"
+  },
+  {
+    "id": 4759,
+    "en": "roulette",
+    "pl": "ruletka"
+  },
+  {
+    "id": 4760,
+    "en": "decline",
+    "pl": "spadek, odmawiać"
+  },
+  {
+    "id": 4761,
+    "en": "gloves",
+    "pl": "rękawiczki"
+  },
+  {
+    "id": 4762,
+    "en": "israeli",
+    "pl": "izraelski"
+  },
+  {
+    "id": 4763,
+    "en": "medicare",
+    "pl": "opieka medyczna (program)"
+  },
+  {
+    "id": 4764,
+    "en": "cord",
+    "pl": "sznur"
+  },
+  {
+    "id": 4765,
+    "en": "skiing",
+    "pl": "narciarstwo"
+  },
+  {
+    "id": 4766,
+    "en": "facilitate",
+    "pl": "ułatwiać"
+  },
+  {
+    "id": 4767,
+    "en": "subscriber",
+    "pl": "subskrybent"
+  },
+  {
+    "id": 4768,
+    "en": "valve",
+    "pl": "zawór"
+  },
+  {
+    "id": 4769,
+    "en": "explains",
+    "pl": "wyjaśnia"
+  },
+  {
+    "id": 4770,
+    "en": "proceed",
+    "pl": "kontynuować, postępować"
+  },
+  {
+    "id": 4771,
+    "en": "feelings",
+    "pl": "uczucia"
+  },
+  {
+    "id": 4772,
+    "en": "knife",
+    "pl": "nóż"
+  },
+  {
+    "id": 4773,
+    "en": "priorities",
+    "pl": "priorytety"
+  },
+  {
+    "id": 4774,
+    "en": "shelf",
+    "pl": "półka"
+  },
+  {
+    "id": 4775,
+    "en": "bookstore",
+    "pl": "księgarnia"
+  },
+  {
+    "id": 4776,
+    "en": "timing",
+    "pl": "wyczucie czasu"
+  },
+  {
+    "id": 4777,
+    "en": "liked",
+    "pl": "polubił"
+  },
+  {
+    "id": 4778,
+    "en": "parenting",
+    "pl": "rodzicielstwo"
+  },
+  {
+    "id": 4779,
+    "en": "adopt",
+    "pl": "adoptować"
+  },
+  {
+    "id": 4780,
+    "en": "denied",
+    "pl": "odrzucony, zaprzeczony"
+  },
+  {
+    "id": 4781,
+    "en": "incredible",
+    "pl": "niesamowity"
+  },
+  {
+    "id": 4782,
+    "en": "freeware",
+    "pl": "darmowe oprogramowanie"
+  },
+  {
+    "id": 4783,
+    "en": "donation",
+    "pl": "darowizna"
+  },
+  {
+    "id": 4784,
+    "en": "outer",
+    "pl": "zewnętrzny"
+  },
+  {
+    "id": 4785,
+    "en": "deaths",
+    "pl": "zgony"
+  },
+  {
+    "id": 4786,
+    "en": "rivers",
+    "pl": "rzeki"
+  },
+  {
+    "id": 4787,
+    "en": "commonwealth",
+    "pl": "wspólnota narodów"
+  },
+  {
+    "id": 4788,
+    "en": "pharmaceutical",
+    "pl": "farmaceutyczny"
+  },
+  {
+    "id": 4789,
+    "en": "tales",
+    "pl": "opowieści"
+  },
+  {
+    "id": 4790,
+    "en": "workforce",
+    "pl": "siła robocza"
+  },
+  {
+    "id": 4791,
+    "en": "islam",
+    "pl": "islam"
+  },
+  {
+    "id": 4792,
+    "en": "nodes",
+    "pl": "węzły"
+  },
+  {
+    "id": 4793,
+    "en": "thumbs",
+    "pl": "kciuki"
+  },
+  {
+    "id": 4794,
+    "en": "seeds",
+    "pl": "nasiona"
+  },
+  {
+    "id": 4795,
+    "en": "cited",
+    "pl": "cytowany"
+  },
+  {
+    "id": 4796,
+    "en": "lite",
+    "pl": "lekka (wersja)"
+  },
+  {
+    "id": 4797,
+    "en": "hub",
+    "pl": "centrum, hub"
+  },
+  {
+    "id": 4798,
+    "en": "targeted",
+    "pl": "docelowy"
+  },
+  {
+    "id": 4799,
+    "en": "organizational",
+    "pl": "organizacyjny"
+  },
+  {
+    "id": 4801,
+    "en": "twelve",
+    "pl": "dwanaście"
+  },
+  {
+    "id": 4802,
+    "en": "founder",
+    "pl": "założyciel"
+  },
+  {
+    "id": 4803,
+    "en": "decade",
+    "pl": "dekada"
+  },
+  {
+    "id": 4804,
+    "en": "dispute",
+    "pl": "spór"
+  },
+  {
+    "id": 4805,
+    "en": "portuguese",
+    "pl": "portugalski"
+  },
+  {
+    "id": 4806,
+    "en": "tired",
+    "pl": "zmęczony"
+  },
+  {
+    "id": 4807,
+    "en": "adverse",
+    "pl": "niekorzystny"
+  },
+  {
+    "id": 4808,
+    "en": "everywhere",
+    "pl": "wszędzie"
+  },
+  {
+    "id": 4809,
+    "en": "excerpt",
+    "pl": "fragment (tekstu)"
+  },
+  {
+    "id": 4810,
+    "en": "discharge",
+    "pl": "wypis, wypuszczać"
+  },
+  {
+    "id": 4811,
+    "en": "drinks",
+    "pl": "napoje"
+  },
+  {
+    "id": 4812,
+    "en": "ace",
+    "pl": "as"
+  },
+  {
+    "id": 4813,
+    "en": "voices",
+    "pl": "głosy"
+  },
+  {
+    "id": 4814,
+    "en": "acute",
+    "pl": "ostry (medycznie)"
+  },
+  {
+    "id": 4815,
+    "en": "halloween",
+    "pl": "Halloween"
+  },
+  {
+    "id": 4816,
+    "en": "climbing",
+    "pl": "wspinaczka"
+  },
+  {
+    "id": 4817,
+    "en": "tons",
+    "pl": "tony"
+  },
+  {
+    "id": 4818,
+    "en": "perfume",
+    "pl": "perfumy"
+  },
+  {
+    "id": 4819,
+    "en": "honest",
+    "pl": "uczciwy"
+  },
+  {
+    "id": 4820,
+    "en": "hazardous",
+    "pl": "niebezpieczny"
+  },
+  {
+    "id": 4821,
+    "en": "restore",
+    "pl": "przywracać"
+  },
+  {
+    "id": 4822,
+    "en": "stack",
+    "pl": "stos"
+  },
+  {
+    "id": 4823,
+    "en": "methodology",
+    "pl": "metodologia"
+  },
+  {
+    "id": 4824,
+    "en": "somebody",
+    "pl": "ktoś"
+  },
+  {
+    "id": 4825,
+    "en": "housewares",
+    "pl": "artykuły gospodarstwa domowego"
+  },
+  {
+    "id": 4826,
+    "en": "reputation",
+    "pl": "reputacja"
+  },
+  {
+    "id": 4827,
+    "en": "resistant",
+    "pl": "odporny"
+  },
+  {
+    "id": 4828,
+    "en": "democrats",
+    "pl": "demokraci"
+  },
+  {
+    "id": 4829,
+    "en": "recycling",
+    "pl": "recykling"
+  },
+  {
+    "id": 4830,
+    "en": "hang",
+    "pl": "wieszać"
+  },
+  {
+    "id": 4831,
+    "en": "curve",
+    "pl": "krzywa"
+  },
+  {
+    "id": 4832,
+    "en": "creator",
+    "pl": "twórca"
+  },
+  {
+    "id": 4833,
+    "en": "qualifications",
+    "pl": "kwalifikacje"
+  },
+  {
+    "id": 4834,
+    "en": "museums",
+    "pl": "muzea"
+  },
+  {
+    "id": 4835,
+    "en": "coding",
+    "pl": "kodowanie"
+  },
+  {
+    "id": 4836,
+    "en": "slideshow",
+    "pl": "pokaz slajdów"
+  },
+  {
+    "id": 4837,
+    "en": "tracker",
+    "pl": "tracker"
+  },
+  {
+    "id": 4838,
+    "en": "variation",
+    "pl": "wariacja, odmiana"
+  },
+  {
+    "id": 4839,
+    "en": "passage",
+    "pl": "fragment, przejście"
+  },
+  {
+    "id": 4840,
+    "en": "transferred",
+    "pl": "przeniesiony"
+  },
+  {
+    "id": 4841,
+    "en": "trunk",
+    "pl": "bagażnik, pień"
+  },
+  {
+    "id": 4842,
+    "en": "hiking",
+    "pl": "piesze wędrówki"
+  },
+  {
+    "id": 4843,
+    "en": "headset",
+    "pl": "słuchawki z mikrofonem"
+  },
+  {
+    "id": 4844,
+    "en": "photograph",
+    "pl": "fotografia"
+  },
+  {
+    "id": 4845,
+    "en": "waves",
+    "pl": "fale"
+  },
+  {
+    "id": 4846,
+    "en": "camel",
+    "pl": "wielbłąd"
+  },
+  {
+    "id": 4847,
+    "en": "distributor",
+    "pl": "dystrybutor"
+  },
+  {
+    "id": 4848,
+    "en": "lamps",
+    "pl": "lampy"
+  },
+  {
+    "id": 4849,
+    "en": "underlying",
+    "pl": "leżący u podstaw"
+  },
+  {
+    "id": 4850,
+    "en": "hood",
+    "pl": "kaptur"
+  },
+  {
+    "id": 4851,
+    "en": "wrestling",
+    "pl": "zapasy"
+  },
+  {
+    "id": 4852,
+    "en": "suicide",
+    "pl": "samobójstwo"
+  },
+  {
+    "id": 4853,
+    "en": "archived",
+    "pl": "zarchiwizowany"
+  },
+  {
+    "id": 4854,
+    "en": "gathering",
+    "pl": "zgromadzenie"
+  },
+  {
+    "id": 4855,
+    "en": "projection",
+    "pl": "prognoza, rzut"
+  },
+  {
+    "id": 4856,
+    "en": "juice",
+    "pl": "sok"
+  },
+  {
+    "id": 4857,
+    "en": "mathematical",
+    "pl": "matematyczny"
+  },
+  {
+    "id": 4858,
+    "en": "logical",
+    "pl": "logiczny"
+  },
+  {
+    "id": 4859,
+    "en": "sauce",
+    "pl": "sos"
+  },
+  {
+    "id": 4860,
+    "en": "fame",
+    "pl": "sława"
+  },
+  {
+    "id": 4861,
+    "en": "extract",
+    "pl": "wyciąg, wydobywać"
+  },
+  {
+    "id": 4862,
+    "en": "specialized",
+    "pl": "wyspecjalizowany"
+  },
+  {
+    "id": 4863,
+    "en": "diagnostic",
+    "pl": "diagnostyczny"
+  },
+  {
+    "id": 4864,
+    "en": "payable",
+    "pl": "płatny"
+  },
+  {
+    "id": 4865,
+    "en": "corporations",
+    "pl": "korporacje"
+  },
+  {
+    "id": 4866,
+    "en": "courtesy",
+    "pl": "uprzejmość"
+  },
+  {
+    "id": 4867,
+    "en": "criticism",
+    "pl": "krytyka"
+  },
+  {
+    "id": 4868,
+    "en": "automobile",
+    "pl": "samochód"
+  },
+  {
+    "id": 4869,
+    "en": "confidential",
+    "pl": "poufny"
+  },
+  {
+    "id": 4870,
+    "en": "statutory",
+    "pl": "ustawowy"
+  },
+  {
+    "id": 4872,
+    "en": "northeast",
+    "pl": "północny wschód"
+  },
+  {
+    "id": 4873,
+    "en": "downloaded",
+    "pl": "pobrany"
+  },
+  {
+    "id": 4874,
+    "en": "judges",
+    "pl": "sędziowie"
+  },
+  {
+    "id": 4875,
+    "en": "retired",
+    "pl": "emerytowany"
+  },
+  {
+    "id": 4876,
+    "en": "remarks",
+    "pl": "uwagi"
+  },
+  {
+    "id": 4877,
+    "en": "detected",
+    "pl": "wykryty"
+  },
+  {
+    "id": 4878,
+    "en": "decades",
+    "pl": "dekady"
+  },
+  {
+    "id": 4879,
+    "en": "paintings",
+    "pl": "obrazy"
+  },
+  {
+    "id": 4880,
+    "en": "walked",
+    "pl": "szedł"
+  },
+  {
+    "id": 4881,
+    "en": "arising",
+    "pl": "wynikający"
+  },
+  {
+    "id": 4882,
+    "en": "bracelet",
+    "pl": "bransoletka"
+  },
+  {
+    "id": 4883,
+    "en": "eggs",
+    "pl": "jajka"
+  },
+  {
+    "id": 4884,
+    "en": "juvenile",
+    "pl": "nieletni"
+  },
+  {
+    "id": 4885,
+    "en": "injection",
+    "pl": "zastrzyk"
+  },
+  {
+    "id": 4886,
+    "en": "populations",
+    "pl": "populacje"
+  },
+  {
+    "id": 4887,
+    "en": "protective",
+    "pl": "ochronny"
+  },
+  {
+    "id": 4888,
+    "en": "acoustic",
+    "pl": "akustyczny"
+  },
+  {
+    "id": 4889,
+    "en": "railway",
+    "pl": "kolej"
+  },
+  {
+    "id": 4890,
+    "en": "cassette",
+    "pl": "kaseta"
+  },
+  {
+    "id": 4891,
+    "en": "initially",
+    "pl": "początkowo"
+  },
+  {
+    "id": 4892,
+    "en": "indicator",
+    "pl": "wskaźnik"
+  },
+  {
+    "id": 4893,
+    "en": "pointed",
+    "pl": "wskazał, spiczasty"
+  },
+  {
+    "id": 4894,
+    "en": "causing",
+    "pl": "powodujący"
+  },
+  {
+    "id": 4895,
+    "en": "mistake",
+    "pl": "błąd"
+  },
+  {
+    "id": 4896,
+    "en": "locked",
+    "pl": "zamknięty (na klucz)"
+  },
+  {
+    "id": 4897,
+    "en": "eliminate",
+    "pl": "eliminować"
+  },
+  {
+    "id": 4898,
+    "en": "fusion",
+    "pl": "fuzja"
+  },
+  {
+    "id": 4899,
+    "en": "mineral",
+    "pl": "minerał"
+  },
+  {
+    "id": 4900,
+    "en": "sunglasses",
+    "pl": "okulary przeciwsłoneczne"
+  },
+  {
+    "id": 4901,
+    "en": "ruby",
+    "pl": "rubin"
+  },
+  {
+    "id": 4902,
+    "en": "steering",
+    "pl": "kierowanie (pojazdem)"
+  },
+  {
+    "id": 4903,
+    "en": "beads",
+    "pl": "koraliki"
+  },
+  {
+    "id": 4904,
+    "en": "fortune",
+    "pl": "fortuna, los"
+  },
+  {
+    "id": 4905,
+    "en": "preference",
+    "pl": "preferencja"
+  },
+  {
+    "id": 4906,
+    "en": "canvas",
+    "pl": "płótno"
+  },
+  {
+    "id": 4907,
+    "en": "threshold",
+    "pl": "próg"
+  },
+  {
+    "id": 4908,
+    "en": "parish",
+    "pl": "parafia"
+  },
+  {
+    "id": 4909,
+    "en": "claimed",
+    "pl": "twierdził"
+  },
+  {
+    "id": 4910,
+    "en": "screens",
+    "pl": "ekrany"
+  },
+  {
+    "id": 4911,
+    "en": "cemetery",
+    "pl": "cmentarz"
+  },
+  {
+    "id": 4912,
+    "en": "planner",
+    "pl": "planer"
+  },
+  {
+    "id": 4913,
+    "en": "flows",
+    "pl": "przepływa"
+  },
+  {
+    "id": 4914,
+    "en": "stadium",
+    "pl": "stadion"
+  },
+  {
+    "id": 4915,
+    "en": "exploration",
+    "pl": "eksploracja"
+  },
+  {
+    "id": 4916,
+    "en": "fewer",
+    "pl": "mniej (liczba)"
+  },
+  {
+    "id": 4917,
+    "en": "sequences",
+    "pl": "sekwencje"
+  },
+  {
+    "id": 4918,
+    "en": "coupon",
+    "pl": "kupon"
+  },
+  {
+    "id": 4919,
+    "en": "nurses",
+    "pl": "pielęgniarki"
+  },
+  {
+    "id": 4920,
+    "en": "stem",
+    "pl": "łodyga"
+  },
+  {
+    "id": 4921,
+    "en": "proxy",
+    "pl": "pełnomocnik, proxy"
+  },
+  {
+    "id": 4922,
+    "en": "astronomy",
+    "pl": "astronomia"
+  },
+  {
+    "id": 4923,
+    "en": "opt",
+    "pl": "wybrać (opcję)"
+  },
+  {
+    "id": 4924,
+    "en": "drew",
+    "pl": "rysował (czas przeszły \"draw\")"
+  },
+  {
+    "id": 4925,
+    "en": "contests",
+    "pl": "konkursy"
+  },
+  {
+    "id": 4926,
+    "en": "flu",
+    "pl": "grypa"
+  },
+  {
+    "id": 4927,
+    "en": "translate",
+    "pl": "tłumaczyć"
+  },
+  {
+    "id": 4928,
+    "en": "announces",
+    "pl": "ogłasza"
+  },
+  {
+    "id": 4929,
+    "en": "costume",
+    "pl": "kostium"
+  },
+  {
+    "id": 4930,
+    "en": "tagged",
+    "pl": "otagowany"
+  },
+  {
+    "id": 4931,
+    "en": "voted",
+    "pl": "głosował"
+  },
+  {
+    "id": 4932,
+    "en": "killer",
+    "pl": "zabójca"
+  },
+  {
+    "id": 4933,
+    "en": "bikes",
+    "pl": "rowery"
+  },
+  {
+    "id": 4934,
+    "en": "gates",
+    "pl": "bramy"
+  },
+  {
+    "id": 4935,
+    "en": "adjusted",
+    "pl": "dostosowany"
+  },
+  {
+    "id": 4936,
+    "en": "rap",
+    "pl": "rap"
+  },
+  {
+    "id": 4937,
+    "en": "tune",
+    "pl": "melodia"
+  },
+  {
+    "id": 4938,
+    "en": "pulled",
+    "pl": "pociągnął"
+  },
+  {
+    "id": 4939,
+    "en": "shaped",
+    "pl": "ukształtowany"
+  },
+  {
+    "id": 4940,
+    "en": "compression",
+    "pl": "kompresja"
+  },
+  {
+    "id": 4941,
+    "en": "seasonal",
+    "pl": "sezonowy"
+  },
+  {
+    "id": 4942,
+    "en": "establishing",
+    "pl": "ustanawianie"
+  },
+  {
+    "id": 4943,
+    "en": "farmer",
+    "pl": "rolnik"
+  },
+  {
+    "id": 4944,
+    "en": "counters",
+    "pl": "liczniki, lady"
+  },
+  {
+    "id": 4945,
+    "en": "puts",
+    "pl": "kładzie"
+  },
+  {
+    "id": 4946,
+    "en": "constitutional",
+    "pl": "konstytucyjny"
+  },
+  {
+    "id": 4947,
+    "en": "perfectly",
+    "pl": "doskonale"
+  },
+  {
+    "id": 4948,
+    "en": "tin",
+    "pl": "cyna, puszka"
+  },
+  {
+    "id": 4949,
+    "en": "instantly",
+    "pl": "natychmiast"
+  },
+  {
+    "id": 4950,
+    "en": "cultures",
+    "pl": "kultury"
+  },
+  {
+    "id": 4951,
+    "en": "coaching",
+    "pl": "trenowanie"
+  },
+  {
+    "id": 4952,
+    "en": "examined",
+    "pl": "zbadany"
+  },
+  {
+    "id": 4953,
+    "en": "trek",
+    "pl": "wędrówka"
+  },
+  {
+    "id": 4954,
+    "en": "encoding",
+    "pl": "kodowanie"
+  },
+  {
+    "id": 4955,
+    "en": "litigation",
+    "pl": "spór sądowy"
+  },
+  {
+    "id": 4956,
+    "en": "submissions",
+    "pl": "zgłoszenia"
+  },
+  {
+    "id": 4957,
+    "en": "heroes",
+    "pl": "bohaterowie"
+  },
+  {
+    "id": 4958,
+    "en": "painted",
+    "pl": "pomalowany"
+  },
+  {
+    "id": 4959,
+    "en": "broadcasting",
+    "pl": "nadawanie (radiowe/telewizyjne)"
+  },
+  {
+    "id": 4960,
+    "en": "horizontal",
+    "pl": "poziomy"
+  },
+  {
+    "id": 4961,
+    "en": "artwork",
+    "pl": "grafika, dzieło sztuki"
+  },
+  {
+    "id": 4962,
+    "en": "cosmetic",
+    "pl": "kosmetyczny"
+  },
+  {
+    "id": 4963,
+    "en": "resulted",
+    "pl": "zaowocował"
+  },
+  {
+    "id": 4964,
+    "en": "portrait",
+    "pl": "portret"
+  },
+  {
+    "id": 4965,
+    "en": "terrorist",
+    "pl": "terrorysta"
+  },
+  {
+    "id": 4966,
+    "en": "informational",
+    "pl": "informacyjny"
+  },
+  {
+    "id": 4967,
+    "en": "ethical",
+    "pl": "etyczny"
+  },
+  {
+    "id": 4968,
+    "en": "carriers",
+    "pl": "przewoźnicy"
+  },
+  {
+    "id": 4969,
+    "en": "ecommerce",
+    "pl": "handel elektroniczny"
+  },
+  {
+    "id": 4970,
+    "en": "mobility",
+    "pl": "mobilność"
+  },
+  {
+    "id": 4971,
+    "en": "floral",
+    "pl": "kwiatowy"
+  },
+  {
+    "id": 4972,
+    "en": "builders",
+    "pl": "budowniczowie"
+  },
+  {
+    "id": 4973,
+    "en": "ties",
+    "pl": "krawaty, więzi"
+  },
+  {
+    "id": 4974,
+    "en": "struggle",
+    "pl": "walczyć, walka"
+  },
+  {
+    "id": 4975,
+    "en": "schemes",
+    "pl": "schematy"
+  },
+  {
+    "id": 4976,
+    "en": "suffering",
+    "pl": "cierpienie"
+  },
+  {
+    "id": 4977,
+    "en": "neutral",
+    "pl": "neutralny"
+  },
+  {
+    "id": 4978,
+    "en": "rat",
+    "pl": "szczur"
+  },
+  {
+    "id": 4979,
+    "en": "prospective",
+    "pl": "potencjalny (przyszły)"
+  },
+  {
+    "id": 4980,
+    "en": "bedding",
+    "pl": "pościel"
+  },
+  {
+    "id": 4981,
+    "en": "ultimately",
+    "pl": "ostatecznie"
+  },
+  {
+    "id": 4982,
+    "en": "joining",
+    "pl": "dołączanie"
+  },
+  {
+    "id": 4983,
+    "en": "heading",
+    "pl": "nagłówek, kierowanie się"
+  },
+  {
+    "id": 4984,
+    "en": "equally",
+    "pl": "równo"
+  },
+  {
+    "id": 4985,
+    "en": "artificial",
+    "pl": "sztuczny"
+  },
+  {
+    "id": 4986,
+    "en": "bearing",
+    "pl": "łożysko, znoszący"
+  },
+  {
+    "id": 4987,
+    "en": "spectacular",
+    "pl": "spektakularny"
+  },
+  {
+    "id": 4988,
+    "en": "coordination",
+    "pl": "koordynacja"
+  },
+  {
+    "id": 4989,
+    "en": "connector",
+    "pl": "złącze"
+  },
+  {
+    "id": 4990,
+    "en": "combo",
+    "pl": "zestaw (kombinowany)"
+  },
+  {
+    "id": 4991,
+    "en": "seniors",
+    "pl": "seniorzy"
+  },
+  {
+    "id": 4992,
+    "en": "worlds",
+    "pl": "światy"
+  },
+  {
+    "id": 4993,
+    "en": "guilty",
+    "pl": "winny"
+  },
+  {
+    "id": 4994,
+    "en": "affiliated",
+    "pl": "powiązany (afiliowany)"
+  },
+  {
+    "id": 4995,
+    "en": "activation",
+    "pl": "aktywacja"
+  },
+  {
+    "id": 4996,
+    "en": "naturally",
+    "pl": "naturalnie"
+  },
+  {
+    "id": 4997,
+    "en": "haven",
+    "pl": "przystań"
+  },
+  {
+    "id": 4998,
+    "en": "tablet",
+    "pl": "tablet"
+  },
+  {
+    "id": 4999,
+    "en": "jury",
+    "pl": "ława przysięgłych"
+  },
+  {
+    "id": 5000,
+    "en": "subscribers",
+    "pl": "subskrybenci"
+  },
+  {
+    "id": 5001,
+    "en": "charm",
+    "pl": "urok, amulet"
+  },
+  {
+    "id": 5002,
+    "en": "lawn",
+    "pl": "trawnik"
+  },
+  {
+    "id": 5003,
+    "en": "violent",
+    "pl": "brutalny"
+  },
+  {
+    "id": 5004,
+    "en": "underwear",
+    "pl": "bielizna"
+  },
+  {
+    "id": 5005,
+    "en": "basin",
+    "pl": "zlew, dorzecze"
+  },
+  {
+    "id": 5006,
+    "en": "soup",
+    "pl": "zupa"
+  },
+  {
+    "id": 5007,
+    "en": "potentially",
+    "pl": "potencjalnie"
+  },
+  {
+    "id": 5008,
+    "en": "ranch",
+    "pl": "ranczo"
+  },
+  {
+    "id": 5009,
+    "en": "constraints",
+    "pl": "ograniczenia"
+  },
+  {
+    "id": 5010,
+    "en": "crossing",
+    "pl": "skrzyżowanie, przekraczanie"
+  },
+  {
+    "id": 5011,
+    "en": "inclusive",
+    "pl": "wszystko w cenie, włączający"
+  },
+  {
+    "id": 5012,
+    "en": "dimensional",
+    "pl": "wymiarowy"
+  },
+  {
+    "id": 5013,
+    "en": "cottage",
+    "pl": "domek (letniskowy)"
+  },
+  {
+    "id": 5014,
+    "en": "drunk",
+    "pl": "pijany"
+  },
+  {
+    "id": 5015,
+    "en": "considerable",
+    "pl": "znaczny"
+  },
+  {
+    "id": 5016,
+    "en": "crimes",
+    "pl": "przestępstwa"
+  },
+  {
+    "id": 5017,
+    "en": "resolved",
+    "pl": "rozwiązany"
+  },
+  {
+    "id": 5018,
+    "en": "byte",
+    "pl": "bajt"
+  },
+  {
+    "id": 5019,
+    "en": "toner",
+    "pl": "toner"
+  },
+  {
+    "id": 5020,
+    "en": "latex",
+    "pl": "lateks"
+  },
+  {
+    "id": 5021,
+    "en": "branches",
+    "pl": "gałęzie, oddziały"
+  },
+  {
+    "id": 5022,
+    "en": "anymore",
+    "pl": "już (w przeczeniach)"
+  },
+  {
+    "id": 5023,
+    "en": "holdings",
+    "pl": "udziały (w firmie)"
+  },
+  {
+    "id": 5024,
+    "en": "alien",
+    "pl": "obcy"
+  },
+  {
+    "id": 5025,
+    "en": "locator",
+    "pl": "lokalizator"
+  },
+  {
+    "id": 5026,
+    "en": "selecting",
+    "pl": "wybieranie"
+  },
+  {
+    "id": 5027,
+    "en": "processors",
+    "pl": "procesory"
+  },
+  {
+    "id": 5028,
+    "en": "difficulties",
+    "pl": "trudności"
+  },
+  {
+    "id": 5029,
+    "en": "complexity",
+    "pl": "złożoność"
+  },
+  {
+    "id": 5030,
+    "en": "constantly",
+    "pl": "stale"
+  },
+  {
+    "id": 5031,
+    "en": "browsing",
+    "pl": "przeglądanie"
+  },
+  {
+    "id": 5032,
+    "en": "resolve",
+    "pl": "rozwiązywać"
+  },
+  {
+    "id": 5033,
+    "en": "presidential",
+    "pl": "prezydencki"
+  },
+  {
+    "id": 5034,
+    "en": "documentary",
+    "pl": "dokumentalny, film dokumentalny"
+  },
+  {
+    "id": 5035,
+    "en": "cod",
+    "pl": "dorsz"
+  },
+  {
+    "id": 5036,
+    "en": "territories",
+    "pl": "terytoria"
+  },
+  {
+    "id": 5037,
+    "en": "thesis",
+    "pl": "praca dyplomowa, teza"
+  },
+  {
+    "id": 5038,
+    "en": "thru",
+    "pl": "przez (potocznie \"through\")"
+  },
+  {
+    "id": 5039,
+    "en": "jews",
+    "pl": "Żydzi"
+  },
+  {
+    "id": 5040,
+    "en": "nylon",
+    "pl": "nylon"
+  },
+  {
+    "id": 5041,
+    "en": "palestinian",
+    "pl": "palestyński"
+  },
+  {
+    "id": 5042,
+    "en": "discs",
+    "pl": "płyty"
+  },
+  {
+    "id": 5043,
+    "en": "rocky",
+    "pl": "skalisty"
+  },
+  {
+    "id": 5044,
+    "en": "bargains",
+    "pl": "okazje (cenowe)"
+  },
+  {
+    "id": 5045,
+    "en": "frequent",
+    "pl": "częsty"
+  },
+  {
+    "id": 5046,
+    "en": "trim",
+    "pl": "przycinać"
+  },
+  {
+    "id": 5047,
+    "en": "ceiling",
+    "pl": "sufit"
+  },
+  {
+    "id": 5048,
+    "en": "pixels",
+    "pl": "piksele"
+  },
+  {
+    "id": 5049,
+    "en": "ensuring",
+    "pl": "zapewnianie"
+  },
+  {
+    "id": 5050,
+    "en": "hispanic",
+    "pl": "latynoski"
+  },
+  {
+    "id": 5051,
+    "en": "legislature",
+    "pl": "władza ustawodawcza"
+  },
+  {
+    "id": 5052,
+    "en": "hospitality",
+    "pl": "gościnność"
+  },
+  {
+    "id": 5053,
+    "en": "gen",
+    "pl": "pokolenie (skrót)"
+  },
+  {
+    "id": 5054,
+    "en": "anybody",
+    "pl": "ktokolwiek"
+  },
+  {
+    "id": 5055,
+    "en": "procurement",
+    "pl": "zaopatrzenie"
+  },
+  {
+    "id": 5056,
+    "en": "diamonds",
+    "pl": "diamenty"
+  },
+  {
+    "id": 5057,
+    "en": "fleet",
+    "pl": "flota"
+  },
+  {
+    "id": 5058,
+    "en": "untitled",
+    "pl": "bez tytułu"
+  },
+  {
+    "id": 5059,
+    "en": "bunch",
+    "pl": "wiązka, grupa"
+  },
+  {
+    "id": 5060,
+    "en": "totals",
+    "pl": "sumy"
+  },
+  {
+    "id": 5061,
+    "en": "singing",
+    "pl": "śpiewanie"
+  },
+  {
+    "id": 5062,
+    "en": "theoretical",
+    "pl": "teoretyczny"
+  },
+  {
+    "id": 5063,
+    "en": "afford",
+    "pl": "pozwolić sobie (na coś)"
+  },
+  {
+    "id": 5064,
+    "en": "exercises",
+    "pl": "ćwiczenia"
+  },
+  {
+    "id": 5065,
+    "en": "starring",
+    "pl": "z udziałem (gwiazdy)"
+  },
+  {
+    "id": 5066,
+    "en": "referral",
+    "pl": "skierowanie"
+  },
+  {
+    "id": 5067,
+    "en": "surveillance",
+    "pl": "nadzór"
+  },
+  {
+    "id": 5068,
+    "en": "optimal",
+    "pl": "optymalny"
+  },
+  {
+    "id": 5069,
+    "en": "quit",
+    "pl": "rzucić, zrezygnować"
+  },
+  {
+    "id": 5070,
+    "en": "distinct",
+    "pl": "odrębny"
+  },
+  {
+    "id": 5071,
+    "en": "protocols",
+    "pl": "protokoły"
+  },
+  {
+    "id": 5072,
+    "en": "lung",
+    "pl": "płuco"
+  },
+  {
+    "id": 5073,
+    "en": "highlight",
+    "pl": "podkreślać, wyróżnienie"
+  },
+  {
+    "id": 5074,
+    "en": "substitute",
+    "pl": "zastępca, zamiennik"
+  },
+  {
+    "id": 5075,
+    "en": "inclusion",
+    "pl": "włączenie"
+  },
+  {
+    "id": 5076,
+    "en": "hopefully",
+    "pl": "miejmy nadzieję"
+  },
+  {
+    "id": 5077,
+    "en": "brilliant",
+    "pl": "genialny"
+  },
+  {
+    "id": 5078,
+    "en": "turner",
+    "pl": "tokarz"
+  },
+  {
+    "id": 5079,
+    "en": "cents",
+    "pl": "centy"
+  },
+  {
+    "id": 5080,
+    "en": "gel",
+    "pl": "żel"
+  },
+  {
+    "id": 5081,
+    "en": "spoken",
+    "pl": "mówiony"
+  },
+  {
+    "id": 5082,
+    "en": "omega",
+    "pl": "omega"
+  },
+  {
+    "id": 5083,
+    "en": "evaluated",
+    "pl": "oceniony"
+  },
+  {
+    "id": 5084,
+    "en": "stayed",
+    "pl": "został (pozostał)"
+  },
+  {
+    "id": 5085,
+    "en": "civic",
+    "pl": "obywatelski"
+  },
+  {
+    "id": 5086,
+    "en": "assignments",
+    "pl": "zadania"
+  },
+  {
+    "id": 5088,
+    "en": "sees",
+    "pl": "widzi"
+  },
+  {
+    "id": 5089,
+    "en": "termination",
+    "pl": "rozwiązanie (umowy)"
+  },
+  {
+    "id": 5090,
+    "en": "watched",
+    "pl": "oglądał"
+  },
+  {
+    "id": 5091,
+    "en": "saver",
+    "pl": "oszczędzacz (np. wygaszacz ekranu)"
+  },
+  {
+    "id": 5092,
+    "en": "thereof",
+    "pl": "tego, z tego"
+  },
+  {
+    "id": 5093,
+    "en": "grill",
+    "pl": "grill"
+  },
+  {
+    "id": 5095,
+    "en": "redeem",
+    "pl": "wykorzystać (kupon), odkupić"
+  },
+  {
+    "id": 5096,
+    "en": "grain",
+    "pl": "ziarno"
+  },
+  {
+    "id": 5097,
+    "en": "authentic",
+    "pl": "autentyczny"
+  },
+  {
+    "id": 5098,
+    "en": "regime",
+    "pl": "reżim"
+  },
+  {
+    "id": 5099,
+    "en": "wanna",
+    "pl": "chcieć (potocznie \"want to\")"
+  },
+  {
+    "id": 5100,
+    "en": "wishes",
+    "pl": "życzenia"
+  },
+  {
+    "id": 5101,
+    "en": "bull",
+    "pl": "byk"
+  },
+  {
+    "id": 5102,
+    "en": "architectural",
+    "pl": "architektoniczny"
+  },
+  {
+    "id": 5103,
+    "en": "movements",
+    "pl": "ruchy"
+  },
+  {
+    "id": 5104,
+    "en": "ranging",
+    "pl": "wahający się (w zakresie)"
+  },
+  {
+    "id": 5105,
+    "en": "repairs",
+    "pl": "naprawy"
+  },
+  {
+    "id": 5106,
+    "en": "breath",
+    "pl": "oddech"
+  },
+  {
+    "id": 5107,
+    "en": "amenities",
+    "pl": "udogodnienia"
+  },
+  {
+    "id": 5108,
+    "en": "virtually",
+    "pl": "praktycznie"
+  },
+  {
+    "id": 5109,
+    "en": "mart",
+    "pl": "market"
+  },
+  {
+    "id": 5110,
+    "en": "candle",
+    "pl": "świeca"
+  },
+  {
+    "id": 5111,
+    "en": "hanging",
+    "pl": "wiszący"
+  },
+  {
+    "id": 5112,
+    "en": "colored",
+    "pl": "kolorowy"
+  },
+  {
+    "id": 5113,
+    "en": "authorization",
+    "pl": "autoryzacja"
+  },
+  {
+    "id": 5114,
+    "en": "tale",
+    "pl": "opowieść"
+  },
+  {
+    "id": 5115,
+    "en": "verified",
+    "pl": "zweryfikowany"
+  },
+  {
+    "id": 5116,
+    "en": "formerly",
+    "pl": "dawniej"
+  },
+  {
+    "id": 5117,
+    "en": "projector",
+    "pl": "projektor"
+  },
+  {
+    "id": 5118,
+    "en": "situated",
+    "pl": "położony"
+  },
+  {
+    "id": 5119,
+    "en": "comparative",
+    "pl": "porównawczy"
+  },
+  {
+    "id": 5120,
+    "en": "seeks",
+    "pl": "poszukuje"
+  },
+  {
+    "id": 5121,
+    "en": "herbal",
+    "pl": "ziołowy"
+  },
+  {
+    "id": 5122,
+    "en": "loving",
+    "pl": "kochający"
+  },
+  {
+    "id": 5123,
+    "en": "strictly",
+    "pl": "ściśle"
+  },
+  {
+    "id": 5124,
+    "en": "routing",
+    "pl": "routing (trasowanie)"
+  },
+  {
+    "id": 5125,
+    "en": "docs",
+    "pl": "dokumenty (skrót)"
+  },
+  {
+    "id": 5126,
+    "en": "psychological",
+    "pl": "psychologiczny"
+  },
+  {
+    "id": 5127,
+    "en": "surprised",
+    "pl": "zaskoczony"
+  },
+  {
+    "id": 5128,
+    "en": "retailer",
+    "pl": "sprzedawca detaliczny"
+  },
+  {
+    "id": 5129,
+    "en": "vitamins",
+    "pl": "witaminy"
+  },
+  {
+    "id": 5130,
+    "en": "elegant",
+    "pl": "elegancki"
+  },
+  {
+    "id": 5131,
+    "en": "gains",
+    "pl": "zyski"
+  },
+  {
+    "id": 5132,
+    "en": "renewal",
+    "pl": "odnowienie"
+  },
+  {
+    "id": 5133,
+    "en": "genealogy",
+    "pl": "genealogia"
+  },
+  {
+    "id": 5134,
+    "en": "opposed",
+    "pl": "przeciwny"
+  },
+  {
+    "id": 5135,
+    "en": "deemed",
+    "pl": "uznany (za)"
+  },
+  {
+    "id": 5136,
+    "en": "scoring",
+    "pl": "zdobywanie punktów"
+  },
+  {
+    "id": 5137,
+    "en": "expenditure",
+    "pl": "wydatek"
+  },
+  {
+    "id": 5138,
+    "en": "sisters",
+    "pl": "siostry"
+  },
+  {
+    "id": 5139,
+    "en": "critics",
+    "pl": "krytycy"
+  },
+  {
+    "id": 5140,
+    "en": "connectivity",
+    "pl": "łączność"
+  },
+  {
+    "id": 5141,
+    "en": "spots",
+    "pl": "miejsca, plamki"
+  },
+  {
+    "id": 5142,
+    "en": "algorithms",
+    "pl": "algorytmy"
+  },
+  {
+    "id": 5143,
+    "en": "hacker",
+    "pl": "haker"
+  },
+  {
+    "id": 5144,
+    "en": "similarly",
+    "pl": "podobnie"
+  },
+  {
+    "id": 5145,
+    "en": "margin",
+    "pl": "margines"
+  },
+  {
+    "id": 5146,
+    "en": "coin",
+    "pl": "moneta"
+  },
+  {
+    "id": 5147,
+    "en": "solely",
+    "pl": "wyłącznie"
+  },
+  {
+    "id": 5148,
+    "en": "fake",
+    "pl": "fałszywy"
+  },
+  {
+    "id": 5149,
+    "en": "salon",
+    "pl": "salon (usługowy)"
+  },
+  {
+    "id": 5150,
+    "en": "collaborative",
+    "pl": "wspólny (oparty na współpracy)"
+  },
+  {
+    "id": 5151,
+    "en": "excluding",
+    "pl": "z wyłączeniem"
+  },
+  {
+    "id": 5152,
+    "en": "turbo",
+    "pl": "turbo"
+  },
+  {
+    "id": 5153,
+    "en": "headed",
+    "pl": "skierował się"
+  },
+  {
+    "id": 5154,
+    "en": "voters",
+    "pl": "wyborcy"
+  },
+  {
+    "id": 5155,
+    "en": "cure",
+    "pl": "lekarstwo, leczyć"
+  },
+  {
+    "id": 5156,
+    "en": "commander",
+    "pl": "dowódca"
+  },
+  {
+    "id": 5157,
+    "en": "arch",
+    "pl": "łuk (architektoniczny)"
+  },
+  {
+    "id": 5158,
+    "en": "thinks",
+    "pl": "myśli"
+  },
+  {
+    "id": 5159,
+    "en": "suggestion",
+    "pl": "sugestia"
+  },
+  {
+    "id": 5160,
+    "en": "aimed",
+    "pl": "wycelowany, nastawiony"
+  },
+  {
+    "id": 5161,
+    "en": "bomb",
+    "pl": "bomba"
+  },
+  {
+    "id": 5162,
+    "en": "harm",
+    "pl": "krzywda, szkodzić"
+  },
+  {
+    "id": 5163,
+    "en": "interval",
+    "pl": "przedział, odstęp"
+  },
+  {
+    "id": 5164,
+    "en": "mirrors",
+    "pl": "lustra"
+  },
+  {
+    "id": 5165,
+    "en": "spotlight",
+    "pl": "reflektor, w centrum uwagi"
+  },
+  {
+    "id": 5166,
+    "en": "tricks",
+    "pl": "sztuczki"
+  },
+  {
+    "id": 5167,
+    "en": "reset",
+    "pl": "resetować"
+  },
+  {
+    "id": 5168,
+    "en": "brush",
+    "pl": "szczotka"
+  },
+  {
+    "id": 5169,
+    "en": "investigate",
+    "pl": "badać (sprawę)"
+  },
+  {
+    "id": 5170,
+    "en": "thy",
+    "pl": "twój (archaicznie)"
+  },
+  {
+    "id": 5171,
+    "en": "panels",
+    "pl": "panele"
+  },
+  {
+    "id": 5172,
+    "en": "repeated",
+    "pl": "powtórzony"
+  },
+  {
+    "id": 5173,
+    "en": "assault",
+    "pl": "napaść"
+  },
+  {
+    "id": 5174,
+    "en": "connecting",
+    "pl": "łączący"
+  },
+  {
+    "id": 5175,
+    "en": "spare",
+    "pl": "zapasowy"
+  },
+  {
+    "id": 5176,
+    "en": "logistics",
+    "pl": "logistyka"
+  },
+  {
+    "id": 5177,
+    "en": "deer",
+    "pl": "jeleń"
+  },
+  {
+    "id": 5178,
+    "en": "tongue",
+    "pl": "język (organ)"
+  },
+  {
+    "id": 5179,
+    "en": "bowling",
+    "pl": "kręgle"
+  },
+  {
+    "id": 5180,
+    "en": "tri",
+    "pl": "trój-"
+  },
+  {
+    "id": 5181,
+    "en": "danish",
+    "pl": "duński"
+  },
+  {
+    "id": 5182,
+    "en": "pal",
+    "pl": "kumpel"
+  },
+  {
+    "id": 5183,
+    "en": "monkey",
+    "pl": "małpa"
+  },
+  {
+    "id": 5184,
+    "en": "proportion",
+    "pl": "proporcja"
+  },
+  {
+    "id": 5185,
+    "en": "filename",
+    "pl": "nazwa pliku"
+  },
+  {
+    "id": 5186,
+    "en": "skirt",
+    "pl": "spódnica"
+  },
+  {
+    "id": 5187,
+    "en": "invest",
+    "pl": "inwestować"
+  },
+  {
+    "id": 5188,
+    "en": "honey",
+    "pl": "miód, kochanie"
+  },
+  {
+    "id": 5189,
+    "en": "analyses",
+    "pl": "analizy"
+  },
+  {
+    "id": 5190,
+    "en": "drawings",
+    "pl": "rysunki"
+  },
+  {
+    "id": 5191,
+    "en": "significance",
+    "pl": "znaczenie"
+  },
+  {
+    "id": 5192,
+    "en": "scenario",
+    "pl": "scenariusz"
+  },
+  {
+    "id": 5193,
+    "en": "lovers",
+    "pl": "kochankowie"
+  },
+  {
+    "id": 5194,
+    "en": "atomic",
+    "pl": "atomowy"
+  },
+  {
+    "id": 5195,
+    "en": "symposium",
+    "pl": "sympozjum"
+  },
+  {
+    "id": 5196,
+    "en": "arabic",
+    "pl": "arabski"
+  },
+  {
+    "id": 5197,
+    "en": "gauge",
+    "pl": "miernik"
+  },
+  {
+    "id": 5198,
+    "en": "essentials",
+    "pl": "niezbędne rzeczy"
+  },
+  {
+    "id": 5199,
+    "en": "junction",
+    "pl": "skrzyżowanie, węzeł"
+  },
+  {
+    "id": 5200,
+    "en": "protecting",
+    "pl": "chroniący"
+  },
+  {
+    "id": 5201,
+    "en": "faced",
+    "pl": "stanął w obliczu"
+  },
+  {
+    "id": 5202,
+    "en": "mat",
+    "pl": "mata"
+  },
+  {
+    "id": 5203,
+    "en": "solving",
+    "pl": "rozwiązywanie"
+  },
+  {
+    "id": 5204,
+    "en": "transmitted",
+    "pl": "przesłany"
+  },
+  {
+    "id": 5205,
+    "en": "weekends",
+    "pl": "weekendy"
+  },
+  {
+    "id": 5206,
+    "en": "screenshots",
+    "pl": "zrzuty ekranu"
+  },
+  {
+    "id": 5207,
+    "en": "produces",
+    "pl": "produkuje"
+  },
+  {
+    "id": 5208,
+    "en": "oven",
+    "pl": "piekarnik"
+  },
+  {
+    "id": 5209,
+    "en": "intensive",
+    "pl": "intensywny"
+  },
+  {
+    "id": 5210,
+    "en": "chains",
+    "pl": "łańcuchy"
+  },
+  {
+    "id": 5211,
+    "en": "sixth",
+    "pl": "szósty"
+  },
+  {
+    "id": 5212,
+    "en": "engage",
+    "pl": "angażować"
+  },
+  {
+    "id": 5213,
+    "en": "deviant",
+    "pl": "dewiacyjny"
+  },
+  {
+    "id": 5214,
+    "en": "switching",
+    "pl": "przełączanie"
+  },
+  {
+    "id": 5215,
+    "en": "quoted",
+    "pl": "cytowany"
+  },
+  {
+    "id": 5216,
+    "en": "adapters",
+    "pl": "adaptery"
+  },
+  {
+    "id": 5217,
+    "en": "correspondence",
+    "pl": "korespondencja"
+  },
+  {
+    "id": 5218,
+    "en": "farms",
+    "pl": "gospodarstwa (rolne)"
+  },
+  {
+    "id": 5220,
+    "en": "supervision",
+    "pl": "nadzór"
+  },
+  {
+    "id": 5221,
+    "en": "cheat",
+    "pl": "oszukiwać"
+  },
+  {
+    "id": 5222,
+    "en": "bronze",
+    "pl": "brąz"
+  },
+  {
+    "id": 5223,
+    "en": "expenditures",
+    "pl": "wydatki"
+  },
+  {
+    "id": 5224,
+    "en": "separation",
+    "pl": "separacja"
+  },
+  {
+    "id": 5225,
+    "en": "testimony",
+    "pl": "zeznanie"
+  },
+  {
+    "id": 5226,
+    "en": "suspect",
+    "pl": "podejrzany"
+  },
+  {
+    "id": 5227,
+    "en": "celebrities",
+    "pl": "celebryci"
+  },
+  {
+    "id": 5228,
+    "en": "macro",
+    "pl": "makro"
+  },
+  {
+    "id": 5229,
+    "en": "sender",
+    "pl": "nadawca"
+  },
+  {
+    "id": 5230,
+    "en": "mandatory",
+    "pl": "obowiązkowy"
+  },
+  {
+    "id": 5231,
+    "en": "boundaries",
+    "pl": "granice"
+  },
+  {
+    "id": 5232,
+    "en": "crucial",
+    "pl": "kluczowy"
+  },
+  {
+    "id": 5233,
+    "en": "syndication",
+    "pl": "syndykacja"
+  },
+  {
+    "id": 5234,
+    "en": "gym",
+    "pl": "siłownia"
+  },
+  {
+    "id": 5235,
+    "en": "celebration",
+    "pl": "obchody, celebracja"
+  },
+  {
+    "id": 5236,
+    "en": "adjacent",
+    "pl": "sąsiadujący"
+  },
+  {
+    "id": 5237,
+    "en": "filtering",
+    "pl": "filtrowanie"
+  },
+  {
+    "id": 5238,
+    "en": "tuition",
+    "pl": "czesne"
+  },
+  {
+    "id": 5239,
+    "en": "spouse",
+    "pl": "małżonek"
+  },
+  {
+    "id": 5240,
+    "en": "exotic",
+    "pl": "egzotyczny"
+  },
+  {
+    "id": 5241,
+    "en": "viewer",
+    "pl": "widz"
+  },
+  {
+    "id": 5242,
+    "en": "signup",
+    "pl": "rejestracja"
+  },
+  {
+    "id": 5243,
+    "en": "threats",
+    "pl": "zagrożenia"
+  },
+  {
+    "id": 5244,
+    "en": "puzzles",
+    "pl": "łamigłówki"
+  },
+  {
+    "id": 5245,
+    "en": "reaching",
+    "pl": "docieranie"
+  },
+  {
+    "id": 5246,
+    "en": "damaged",
+    "pl": "uszkodzony"
+  },
+  {
+    "id": 5247,
+    "en": "cams",
+    "pl": "kamery"
+  },
+  {
+    "id": 5248,
+    "en": "receptor",
+    "pl": "receptor"
+  },
+  {
+    "id": 5249,
+    "en": "surgical",
+    "pl": "chirurgiczny"
+  },
+  {
+    "id": 5250,
+    "en": "destroy",
+    "pl": "niszczyć"
+  },
+  {
+    "id": 5251,
+    "en": "citation",
+    "pl": "cytat, mandat"
+  },
+  {
+    "id": 5252,
+    "en": "autos",
+    "pl": "samochody"
+  },
+  {
+    "id": 5253,
+    "en": "premises",
+    "pl": "pomieszczenia, teren"
+  },
+  {
+    "id": 5254,
+    "en": "proved",
+    "pl": "udowodnił"
+  },
+  {
+    "id": 5255,
+    "en": "offensive",
+    "pl": "obraźliwy, ofensywny"
+  },
+  {
+    "id": 5256,
+    "en": "imperial",
+    "pl": "imperialny"
+  },
+  {
+    "id": 5257,
+    "en": "dozen",
+    "pl": "tuzin"
+  },
+  {
+    "id": 5258,
+    "en": "deployment",
+    "pl": "wdrożenie, rozmieszczenie"
+  },
+  {
+    "id": 5259,
+    "en": "cloth",
+    "pl": "tkanina"
+  },
+  {
+    "id": 5260,
+    "en": "studying",
+    "pl": "studiowanie"
+  },
+  {
+    "id": 5261,
+    "en": "colleagues",
+    "pl": "koledzy (z pracy)"
+  },
+  {
+    "id": 5262,
+    "en": "stamp",
+    "pl": "znaczek, pieczątka"
+  },
+  {
+    "id": 5263,
+    "en": "salmon",
+    "pl": "łosoś"
+  },
+  {
+    "id": 5264,
+    "en": "separated",
+    "pl": "rozdzielony"
+  },
+  {
+    "id": 5265,
+    "en": "cargo",
+    "pl": "ładunek"
+  },
+  {
+    "id": 5266,
+    "en": "tan",
+    "pl": "opalenizna"
+  },
+  {
+    "id": 5267,
+    "en": "directive",
+    "pl": "dyrektywa"
+  },
+  {
+    "id": 5268,
+    "en": "mate",
+    "pl": "kumpel, mata (materiał)"
+  },
+  {
+    "id": 5269,
+    "en": "starter",
+    "pl": "przystawka, rozrusznik"
+  },
+  {
+    "id": 5270,
+    "en": "upgrades",
+    "pl": "ulepszenia"
+  },
+  {
+    "id": 5271,
+    "en": "likes",
+    "pl": "lubi"
+  },
+  {
+    "id": 5272,
+    "en": "butter",
+    "pl": "masło"
+  },
+  {
+    "id": 5273,
+    "en": "pepper",
+    "pl": "pieprz"
+  },
+  {
+    "id": 5275,
+    "en": "luggage",
+    "pl": "bagaż"
+  },
+  {
+    "id": 5276,
+    "en": "burden",
+    "pl": "ciężar (obciążenie)"
+  },
+  {
+    "id": 5277,
+    "en": "chef",
+    "pl": "szef kuchni"
+  },
+  {
+    "id": 5278,
+    "en": "tapes",
+    "pl": "taśmy"
+  },
+  {
+    "id": 5279,
+    "en": "zones",
+    "pl": "strefy"
+  },
+  {
+    "id": 5280,
+    "en": "races",
+    "pl": "wyścigi"
+  },
+  {
+    "id": 5281,
+    "en": "isle",
+    "pl": "wyspa"
+  },
+  {
+    "id": 5282,
+    "en": "stylish",
+    "pl": "stylowy"
+  },
+  {
+    "id": 5283,
+    "en": "slim",
+    "pl": "szczupły"
+  },
+  {
+    "id": 5284,
+    "en": "maple",
+    "pl": "klon (drzewo)"
+  },
+  {
+    "id": 5285,
+    "en": "luke",
+    "pl": "Łukasz"
+  },
+  {
+    "id": 5286,
+    "en": "grocery",
+    "pl": "sklep spożywczy"
+  },
+  {
+    "id": 5287,
+    "en": "offshore",
+    "pl": "zamorski, offshore"
+  },
+  {
+    "id": 5288,
+    "en": "governing",
+    "pl": "rządzący"
+  },
+  {
+    "id": 5289,
+    "en": "retailers",
+    "pl": "sprzedawcy detaliczni"
+  },
+  {
+    "id": 5290,
+    "en": "depot",
+    "pl": "magazyn, dworzec"
+  },
+  {
+    "id": 5291,
+    "en": "pie",
+    "pl": "ciasto (placek)"
+  },
+  {
+    "id": 5292,
+    "en": "blend",
+    "pl": "mieszanka"
+  },
+  {
+    "id": 5293,
+    "en": "occasionally",
+    "pl": "od czasu do czasu"
+  },
+  {
+    "id": 5294,
+    "en": "attending",
+    "pl": "uczestniczący"
+  },
+  {
+    "id": 5295,
+    "en": "emission",
+    "pl": "emisja"
+  },
+  {
+    "id": 5296,
+    "en": "pete",
+    "pl": "Piotrek"
+  },
+  {
+    "id": 5297,
+    "en": "finest",
+    "pl": "najlepszy"
+  },
+  {
+    "id": 5298,
+    "en": "bow",
+    "pl": "łuk, kłaniać się"
+  },
+  {
+    "id": 5299,
+    "en": "recruiting",
+    "pl": "rekrutacja"
+  },
+  {
+    "id": 5300,
+    "en": "apparent",
+    "pl": "widoczny, pozorny"
+  },
+  {
+    "id": 5301,
+    "en": "instructional",
+    "pl": "instruktażowy"
+  },
+  {
+    "id": 5302,
+    "en": "autumn",
+    "pl": "jesień"
+  },
+  {
+    "id": 5303,
+    "en": "traveling",
+    "pl": "podróżowanie"
+  },
+  {
+    "id": 5304,
+    "en": "probe",
+    "pl": "sonda"
+  },
+  {
+    "id": 5305,
+    "en": "permissions",
+    "pl": "uprawnienia"
+  },
+  {
+    "id": 5306,
+    "en": "biotechnology",
+    "pl": "biotechnologia"
+  },
+  {
+    "id": 5307,
+    "en": "toilet",
+    "pl": "toaleta"
+  },
+  {
+    "id": 5308,
+    "en": "ranked",
+    "pl": "sklasyfikowany"
+  },
+  {
+    "id": 5309,
+    "en": "jackets",
+    "pl": "kurtki"
+  },
+  {
+    "id": 5310,
+    "en": "routes",
+    "pl": "trasy"
+  },
+  {
+    "id": 5311,
+    "en": "packed",
+    "pl": "spakowany"
+  },
+  {
+    "id": 5312,
+    "en": "excited",
+    "pl": "podekscytowany"
+  },
+  {
+    "id": 5313,
+    "en": "outreach",
+    "pl": "działania na rzecz społeczności"
+  },
+  {
+    "id": 5314,
+    "en": "mounting",
+    "pl": "montowanie"
+  },
+  {
+    "id": 5315,
+    "en": "recover",
+    "pl": "odzyskać"
+  },
+  {
+    "id": 5316,
+    "en": "tied",
+    "pl": "związany, zremisowany"
+  },
+  {
+    "id": 5317,
+    "en": "balanced",
+    "pl": "zrównoważony"
+  },
+  {
+    "id": 5318,
+    "en": "prescribed",
+    "pl": "przepisany (lek)"
+  },
+  {
+    "id": 5319,
+    "en": "timely",
+    "pl": "terminowy"
+  },
+  {
+    "id": 5320,
+    "en": "talked",
+    "pl": "rozmawiał"
+  },
+  {
+    "id": 5321,
+    "en": "debug",
+    "pl": "debugować"
+  },
+  {
+    "id": 5322,
+    "en": "delayed",
+    "pl": "opóźniony"
+  },
+  {
+    "id": 5323,
+    "en": "reproduced",
+    "pl": "odtworzony"
+  },
+  {
+    "id": 5324,
+    "en": "explicit",
+    "pl": "wyraźny, dosadny"
+  },
+  {
+    "id": 5325,
+    "en": "calculation",
+    "pl": "obliczenie"
+  },
+  {
+    "id": 5326,
+    "en": "villas",
+    "pl": "wille"
+  },
+  {
+    "id": 5327,
+    "en": "ebook",
+    "pl": "e-book"
+  },
+  {
+    "id": 5328,
+    "en": "consolidated",
+    "pl": "skonsolidowany"
+  },
+  {
+    "id": 5329,
+    "en": "exclude",
+    "pl": "wykluczać"
+  },
+  {
+    "id": 5330,
+    "en": "occasions",
+    "pl": "okazje"
+  },
+  {
+    "id": 5331,
+    "en": "equations",
+    "pl": "równania"
+  },
+  {
+    "id": 5332,
+    "en": "oils",
+    "pl": "oleje"
+  },
+  {
+    "id": 5333,
+    "en": "exceptional",
+    "pl": "wyjątkowy"
+  },
+  {
+    "id": 5334,
+    "en": "anxiety",
+    "pl": "lęk"
+  },
+  {
+    "id": 5335,
+    "en": "bingo",
+    "pl": "bingo"
+  },
+  {
+    "id": 5336,
+    "en": "whilst",
+    "pl": "podczas gdy (pisownia brytyjska)"
+  },
+  {
+    "id": 5337,
+    "en": "spatial",
+    "pl": "przestrzenny"
+  },
+  {
+    "id": 5338,
+    "en": "respondents",
+    "pl": "respondenci"
+  },
+  {
+    "id": 5339,
+    "en": "unto",
+    "pl": "ku, do (archaicznie)"
+  },
+  {
+    "id": 5340,
+    "en": "ceramic",
+    "pl": "ceramiczny"
+  },
+  {
+    "id": 5341,
+    "en": "prompt",
+    "pl": "monit, szybki"
+  },
+  {
+    "id": 5342,
+    "en": "precious",
+    "pl": "cenny"
+  },
+  {
+    "id": 5343,
+    "en": "minds",
+    "pl": "umysły"
+  },
+  {
+    "id": 5344,
+    "en": "annually",
+    "pl": "corocznie"
+  },
+  {
+    "id": 5345,
+    "en": "considerations",
+    "pl": "względy"
+  },
+  {
+    "id": 5346,
+    "en": "scanners",
+    "pl": "skanery"
+  },
+  {
+    "id": 5347,
+    "en": "pays",
+    "pl": "płaci"
+  },
+  {
+    "id": 5348,
+    "en": "fingers",
+    "pl": "palce"
+  },
+  {
+    "id": 5349,
+    "en": "sunny",
+    "pl": "słoneczny"
+  },
+  {
+    "id": 5350,
+    "en": "ebooks",
+    "pl": "e-booki"
+  },
+  {
+    "id": 5351,
+    "en": "delivers",
+    "pl": "dostarcza"
+  },
+  {
+    "id": 5352,
+    "en": "necklace",
+    "pl": "naszyjnik"
+  },
+  {
+    "id": 5353,
+    "en": "musicians",
+    "pl": "muzycy"
+  },
+  {
+    "id": 5354,
+    "en": "composite",
+    "pl": "kompozytowy"
+  },
+  {
+    "id": 5355,
+    "en": "unavailable",
+    "pl": "niedostępny"
+  },
+  {
+    "id": 5356,
+    "en": "cedar",
+    "pl": "cedr"
+  },
+  {
+    "id": 5357,
+    "en": "arranged",
+    "pl": "zaaranżowany"
+  },
+  {
+    "id": 5358,
+    "en": "theaters",
+    "pl": "teatry"
+  },
+  {
+    "id": 5359,
+    "en": "advocacy",
+    "pl": "rzecznictwo"
+  },
+  {
+    "id": 5360,
+    "en": "stud",
+    "pl": "ćwiek, ogier (rozpłodowy)"
+  },
+  {
+    "id": 5361,
+    "en": "fold",
+    "pl": "składać"
+  },
+  {
+    "id": 5362,
+    "en": "essentially",
+    "pl": "zasadniczo"
+  },
+  {
+    "id": 5363,
+    "en": "designing",
+    "pl": "projektowanie"
+  },
+  {
+    "id": 5364,
+    "en": "threaded",
+    "pl": "wątkowy"
+  },
+  {
+    "id": 5365,
+    "en": "qualify",
+    "pl": "kwalifikować się"
+  },
+  {
+    "id": 5366,
+    "en": "hopes",
+    "pl": "nadzieje"
+  },
+  {
+    "id": 5367,
+    "en": "assessments",
+    "pl": "oceny"
+  },
+  {
+    "id": 5368,
+    "en": "diagram",
+    "pl": "diagram"
+  },
+  {
+    "id": 5369,
+    "en": "pumps",
+    "pl": "pompy"
+  },
+  {
+    "id": 5370,
+    "en": "footwear",
+    "pl": "obuwie"
+  },
+  {
+    "id": 5371,
+    "en": "peoples",
+    "pl": "narody, ludy"
+  },
+  {
+    "id": 5372,
+    "en": "attach",
+    "pl": "dołączać"
+  },
+  {
+    "id": 5373,
+    "en": "licenses",
+    "pl": "licencje"
+  },
+  {
+    "id": 5374,
+    "en": "removing",
+    "pl": "usuwanie"
+  },
+  {
+    "id": 5375,
+    "en": "advised",
+    "pl": "poradził"
+  },
+  {
+    "id": 5376,
+    "en": "spider",
+    "pl": "pająk"
+  },
+  {
+    "id": 5377,
+    "en": "ranges",
+    "pl": "zakresy"
+  },
+  {
+    "id": 5378,
+    "en": "pairs",
+    "pl": "pary"
+  },
+  {
+    "id": 5379,
+    "en": "sensitivity",
+    "pl": "wrażliwość"
+  },
+  {
+    "id": 5380,
+    "en": "trails",
+    "pl": "szlaki"
+  },
+  {
+    "id": 5381,
+    "en": "preservation",
+    "pl": "ochrona, zachowanie"
+  },
+  {
+    "id": 5382,
+    "en": "isolated",
+    "pl": "odizolowany"
+  },
+  {
+    "id": 5383,
+    "en": "interim",
+    "pl": "tymczasowy"
+  },
+  {
+    "id": 5384,
+    "en": "assisted",
+    "pl": "wspomagany"
+  },
+  {
+    "id": 5385,
+    "en": "divine",
+    "pl": "boski"
+  },
+  {
+    "id": 5386,
+    "en": "streaming",
+    "pl": "przesyłanie strumieniowe"
+  },
+  {
+    "id": 5387,
+    "en": "approve",
+    "pl": "zatwierdzać"
+  },
+  {
+    "id": 5388,
+    "en": "chose",
+    "pl": "wybrał"
+  },
+  {
+    "id": 5389,
+    "en": "compound",
+    "pl": "związek (chemiczny), złożony"
+  },
+  {
+    "id": 5390,
+    "en": "intensity",
+    "pl": "intensywność"
+  },
+  {
+    "id": 5391,
+    "en": "technological",
+    "pl": "technologiczny"
+  },
+  {
+    "id": 5392,
+    "en": "syndicate",
+    "pl": "syndykat"
+  },
+  {
+    "id": 5393,
+    "en": "abortion",
+    "pl": "aborcja"
+  },
+  {
+    "id": 5395,
+    "en": "venues",
+    "pl": "miejsca (wydarzeń)"
+  },
+  {
+    "id": 5396,
+    "en": "blast",
+    "pl": "wybuch"
+  },
+  {
+    "id": 5397,
+    "en": "wellness",
+    "pl": "dobre samopoczucie"
+  },
+  {
+    "id": 5398,
+    "en": "calcium",
+    "pl": "wapń"
+  },
+  {
+    "id": 5399,
+    "en": "antivirus",
+    "pl": "antywirusowy"
+  },
+  {
+    "id": 5400,
+    "en": "addressing",
+    "pl": "zajmowanie się (problemem)"
+  },
+  {
+    "id": 5401,
+    "en": "pole",
+    "pl": "słup, biegun"
+  },
+  {
+    "id": 5402,
+    "en": "discounted",
+    "pl": "przeceniony"
+  },
+  {
+    "id": 5403,
+    "en": "shield",
+    "pl": "tarcza"
+  },
+  {
+    "id": 5404,
+    "en": "harvest",
+    "pl": "żniwa, zbiory"
+  },
+  {
+    "id": 5405,
+    "en": "membrane",
+    "pl": "membrana"
+  },
+  {
+    "id": 5406,
+    "en": "previews",
+    "pl": "zapowiedzi"
+  },
+  {
+    "id": 5407,
+    "en": "constitute",
+    "pl": "stanowić"
+  },
+  {
+    "id": 5408,
+    "en": "locally",
+    "pl": "lokalnie"
+  },
+  {
+    "id": 5409,
+    "en": "concluded",
+    "pl": "zakończył"
+  },
+  {
+    "id": 5410,
+    "en": "pickup",
+    "pl": "odbiór, furgonetka"
+  },
+  {
+    "id": 5411,
+    "en": "desperate",
+    "pl": "zdesperowany"
+  },
+  {
+    "id": 5412,
+    "en": "mothers",
+    "pl": "matki"
+  },
+  {
+    "id": 5413,
+    "en": "demonstration",
+    "pl": "demonstracja"
+  },
+  {
+    "id": 5414,
+    "en": "governmental",
+    "pl": "rządowy"
+  },
+  {
+    "id": 5415,
+    "en": "manufactured",
+    "pl": "wyprodukowany"
+  },
+  {
+    "id": 5416,
+    "en": "candles",
+    "pl": "świece"
+  },
+  {
+    "id": 5417,
+    "en": "graduation",
+    "pl": "ukończenie studiów"
+  },
+  {
+    "id": 5418,
+    "en": "mega",
+    "pl": "mega"
+  },
+  {
+    "id": 5419,
+    "en": "bend",
+    "pl": "zginać"
+  },
+  {
+    "id": 5420,
+    "en": "sailing",
+    "pl": "żeglarstwo"
+  },
+  {
+    "id": 5421,
+    "en": "variations",
+    "pl": "odmiany"
+  },
+  {
+    "id": 5422,
+    "en": "moms",
+    "pl": "mamy"
+  },
+  {
+    "id": 5423,
+    "en": "sacred",
+    "pl": "święty"
+  },
+  {
+    "id": 5424,
+    "en": "addiction",
+    "pl": "uzależnienie"
+  },
+  {
+    "id": 5425,
+    "en": "chrome",
+    "pl": "chrom"
+  },
+  {
+    "id": 5426,
+    "en": "refused",
+    "pl": "odmówił"
+  },
+  {
+    "id": 5427,
+    "en": "brake",
+    "pl": "hamulec"
+  },
+  {
+    "id": 5428,
+    "en": "exterior",
+    "pl": "zewnętrzny"
+  },
+  {
+    "id": 5429,
+    "en": "greeting",
+    "pl": "powitanie"
+  },
+  {
+    "id": 5430,
+    "en": "ecology",
+    "pl": "ekologia"
+  },
+  {
+    "id": 5431,
+    "en": "delays",
+    "pl": "opóźnienia"
+  },
+  {
+    "id": 5432,
+    "en": "synthesis",
+    "pl": "synteza"
+  },
+  {
+    "id": 5433,
+    "en": "olive",
+    "pl": "oliwka"
+  },
+  {
+    "id": 5434,
+    "en": "undefined",
+    "pl": "niezdefiniowany"
+  },
+  {
+    "id": 5435,
+    "en": "unemployment",
+    "pl": "bezrobocie"
+  },
+  {
+    "id": 5436,
+    "en": "scored",
+    "pl": "zdobył (punkty)"
+  },
+  {
+    "id": 5437,
+    "en": "enhancement",
+    "pl": "ulepszenie"
+  },
+  {
+    "id": 5438,
+    "en": "clone",
+    "pl": "klon (kopia)"
+  },
+  {
+    "id": 5439,
+    "en": "velocity",
+    "pl": "prędkość"
+  },
+  {
+    "id": 5440,
+    "en": "lambda",
+    "pl": "lambda"
+  },
+  {
+    "id": 5441,
+    "en": "relay",
+    "pl": "przekaźnik, sztafeta"
+  },
+  {
+    "id": 5442,
+    "en": "composed",
+    "pl": "złożony (z czegoś)"
+  },
+  {
+    "id": 5443,
+    "en": "tears",
+    "pl": "łzy"
+  },
+  {
+    "id": 5444,
+    "en": "performances",
+    "pl": "występy"
+  },
+  {
+    "id": 5445,
+    "en": "oasis",
+    "pl": "oaza"
+  },
+  {
+    "id": 5446,
+    "en": "baseline",
+    "pl": "wartość bazowa"
+  },
+  {
+    "id": 5447,
+    "en": "cab",
+    "pl": "taksówka"
+  },
+  {
+    "id": 5448,
+    "en": "angry",
+    "pl": "zły (zdenerwowany)"
+  },
+  {
+    "id": 5449,
+    "en": "societies",
+    "pl": "społeczeństwa"
+  },
+  {
+    "id": 5450,
+    "en": "silicon",
+    "pl": "krzem"
+  },
+  {
+    "id": 5451,
+    "en": "brazilian",
+    "pl": "brazylijski"
+  },
+  {
+    "id": 5452,
+    "en": "identical",
+    "pl": "identyczny"
+  },
+  {
+    "id": 5453,
+    "en": "petroleum",
+    "pl": "ropa naftowa"
+  },
+  {
+    "id": 5454,
+    "en": "compete",
+    "pl": "konkurować"
+  },
+  {
+    "id": 5455,
+    "en": "norwegian",
+    "pl": "norweski"
+  },
+  {
+    "id": 5456,
+    "en": "lover",
+    "pl": "kochanek"
+  },
+  {
+    "id": 5457,
+    "en": "belong",
+    "pl": "należeć"
+  },
+  {
+    "id": 5458,
+    "en": "lips",
+    "pl": "usta (wargi)"
+  },
+  {
+    "id": 5459,
+    "en": "retention",
+    "pl": "zatrzymanie, retencja"
+  },
+  {
+    "id": 5460,
+    "en": "exchanges",
+    "pl": "wymiany"
+  },
+  {
+    "id": 5461,
+    "en": "pond",
+    "pl": "staw"
+  },
+  {
+    "id": 5462,
+    "en": "rolls",
+    "pl": "bułki, zwoje"
+  },
+  {
+    "id": 5463,
+    "en": "soundtrack",
+    "pl": "ścieżka dźwiękowa"
+  },
+  {
+    "id": 5464,
+    "en": "wondering",
+    "pl": "zastanawianie się"
+  },
+  {
+    "id": 5465,
+    "en": "ferry",
+    "pl": "prom"
+  },
+  {
+    "id": 5466,
+    "en": "rabbit",
+    "pl": "królik"
+  },
+  {
+    "id": 5467,
+    "en": "profession",
+    "pl": "zawód"
+  },
+  {
+    "id": 5468,
+    "en": "seating",
+    "pl": "miejsca siedzące"
+  },
+  {
+    "id": 5469,
+    "en": "dam",
+    "pl": "tama"
+  },
+  {
+    "id": 5470,
+    "en": "separately",
+    "pl": "oddzielnie"
+  },
+  {
+    "id": 5471,
+    "en": "physiology",
+    "pl": "fizjologia"
+  },
+  {
+    "id": 5472,
+    "en": "collecting",
+    "pl": "kolekcjonowanie"
+  },
+  {
+    "id": 5474,
+    "en": "participant",
+    "pl": "uczestnik"
+  },
+  {
+    "id": 5475,
+    "en": "scholarships",
+    "pl": "stypendia"
+  },
+  {
+    "id": 5476,
+    "en": "recreational",
+    "pl": "rekreacyjny"
+  },
+  {
+    "id": 5477,
+    "en": "electron",
+    "pl": "elektron"
+  },
+  {
+    "id": 5478,
+    "en": "loads",
+    "pl": "ładunki, mnóstwo"
+  },
+  {
+    "id": 5479,
+    "en": "friendship",
+    "pl": "przyjaźń"
+  },
+  {
+    "id": 5480,
+    "en": "passport",
+    "pl": "paszport"
+  },
+  {
+    "id": 5481,
+    "en": "motel",
+    "pl": "motel"
+  },
+  {
+    "id": 5482,
+    "en": "unions",
+    "pl": "związki (zawodowe)"
+  },
+  {
+    "id": 5483,
+    "en": "treasury",
+    "pl": "skarb państwa"
+  },
+  {
+    "id": 5484,
+    "en": "warrant",
+    "pl": "nakaz"
+  },
+  {
+    "id": 5485,
+    "en": "frozen",
+    "pl": "zamrożony"
+  },
+  {
+    "id": 5486,
+    "en": "occupied",
+    "pl": "zajęty"
+  },
+  {
+    "id": 5487,
+    "en": "royalty",
+    "pl": "tantiemy, rodzina królewska"
+  },
+  {
+    "id": 5488,
+    "en": "scales",
+    "pl": "wagi, skale"
+  },
+  {
+    "id": 5489,
+    "en": "rally",
+    "pl": "wiec, rajd"
+  },
+  {
+    "id": 5490,
+    "en": "observer",
+    "pl": "obserwator"
+  },
+  {
+    "id": 5491,
+    "en": "sunshine",
+    "pl": "słońce (światło)"
+  },
+  {
+    "id": 5492,
+    "en": "strain",
+    "pl": "napięcie, szczep"
+  },
+  {
+    "id": 5493,
+    "en": "drag",
+    "pl": "ciągnąć"
+  },
+  {
+    "id": 5494,
+    "en": "ceremony",
+    "pl": "ceremonia"
+  },
+  {
+    "id": 5495,
+    "en": "somehow",
+    "pl": "jakoś"
+  },
+  {
+    "id": 5496,
+    "en": "arrested",
+    "pl": "aresztowany"
+  },
+  {
+    "id": 5497,
+    "en": "expanding",
+    "pl": "rozszerzający się"
+  },
+  {
+    "id": 5498,
+    "en": "provincial",
+    "pl": "prowincjonalny"
+  },
+  {
+    "id": 5499,
+    "en": "investigations",
+    "pl": "śledztwa"
+  },
+  {
+    "id": 5500,
+    "en": "ripe",
+    "pl": "dojrzały (owoc)"
+  },
+  {
+    "id": 5501,
+    "en": "rely",
+    "pl": "polegać (na kimś)"
+  },
+  {
+    "id": 5502,
+    "en": "medications",
+    "pl": "leki"
+  },
+  {
+    "id": 5503,
+    "en": "hebrew",
+    "pl": "hebrajski"
+  },
+  {
+    "id": 5504,
+    "en": "gained",
+    "pl": "zyskał"
+  },
+  {
+    "id": 5505,
+    "en": "dying",
+    "pl": "umierający"
+  },
+  {
+    "id": 5506,
+    "en": "laundry",
+    "pl": "pranie"
+  },
+  {
+    "id": 5507,
+    "en": "stuck",
+    "pl": "utknął"
+  },
+  {
+    "id": 5508,
+    "en": "placing",
+    "pl": "umieszczanie"
+  },
+  {
+    "id": 5509,
+    "en": "stops",
+    "pl": "przystanki, zatrzymuje"
+  },
+  {
+    "id": 5510,
+    "en": "homework",
+    "pl": "praca domowa"
+  },
+  {
+    "id": 5511,
+    "en": "adjust",
+    "pl": "dostosować"
+  },
+  {
+    "id": 5512,
+    "en": "assessed",
+    "pl": "oceniony"
+  },
+  {
+    "id": 5513,
+    "en": "advertiser",
+    "pl": "reklamodawca"
+  },
+  {
+    "id": 5514,
+    "en": "enabling",
+    "pl": "umożliwianie"
+  },
+  {
+    "id": 5515,
+    "en": "encryption",
+    "pl": "szyfrowanie"
+  },
+  {
+    "id": 5516,
+    "en": "filling",
+    "pl": "wypełnianie"
+  },
+  {
+    "id": 5517,
+    "en": "downloadable",
+    "pl": "do pobrania"
+  },
+  {
+    "id": 5518,
+    "en": "sophisticated",
+    "pl": "wyrafinowany"
+  },
+  {
+    "id": 5519,
+    "en": "imposed",
+    "pl": "narzucony"
+  },
+  {
+    "id": 5520,
+    "en": "silence",
+    "pl": "cisza"
+  },
+  {
+    "id": 5521,
+    "en": "focuses",
+    "pl": "skupia się"
+  },
+  {
+    "id": 5522,
+    "en": "soviet",
+    "pl": "radziecki"
+  },
+  {
+    "id": 5523,
+    "en": "possession",
+    "pl": "posiadanie"
+  },
+  {
+    "id": 5524,
+    "en": "laboratories",
+    "pl": "laboratoria"
+  },
+  {
+    "id": 5525,
+    "en": "treaty",
+    "pl": "traktat"
+  },
+  {
+    "id": 5526,
+    "en": "vocal",
+    "pl": "wokalny"
+  },
+  {
+    "id": 5527,
+    "en": "trainer",
+    "pl": "trener"
+  },
+  {
+    "id": 5528,
+    "en": "stronger",
+    "pl": "silniejszy"
+  },
+  {
+    "id": 5529,
+    "en": "volumes",
+    "pl": "tomy, głośności"
+  },
+  {
+    "id": 5530,
+    "en": "advances",
+    "pl": "postępy"
+  },
+  {
+    "id": 5531,
+    "en": "vegetables",
+    "pl": "warzywa"
+  },
+  {
+    "id": 5532,
+    "en": "lemon",
+    "pl": "cytryna"
+  },
+  {
+    "id": 5533,
+    "en": "toxic",
+    "pl": "toksyczny"
+  },
+  {
+    "id": 5534,
+    "en": "thumbnails",
+    "pl": "miniatury (obrazków)"
+  },
+  {
+    "id": 5535,
+    "en": "darkness",
+    "pl": "ciemność"
+  },
+  {
+    "id": 5536,
+    "en": "nuts",
+    "pl": "orzechy"
+  },
+  {
+    "id": 5537,
+    "en": "nail",
+    "pl": "paznokieć, gwóźdź"
+  },
+  {
+    "id": 5538,
+    "en": "implied",
+    "pl": "sugerowany"
+  },
+  {
+    "id": 5539,
+    "en": "span",
+    "pl": "rozpiętość"
+  },
+  {
+    "id": 5540,
+    "en": "stockings",
+    "pl": "pończochy"
+  },
+  {
+    "id": 5541,
+    "en": "joke",
+    "pl": "żart"
+  },
+  {
+    "id": 5542,
+    "en": "respondent",
+    "pl": "respondent"
+  },
+  {
+    "id": 5543,
+    "en": "packing",
+    "pl": "pakowanie"
+  },
+  {
+    "id": 5544,
+    "en": "statute",
+    "pl": "ustawa"
+  },
+  {
+    "id": 5545,
+    "en": "rejected",
+    "pl": "odrzucony"
+  },
+  {
+    "id": 5546,
+    "en": "satisfy",
+    "pl": "zadowalać"
+  },
+  {
+    "id": 5547,
+    "en": "destroyed",
+    "pl": "zniszczony"
+  },
+  {
+    "id": 5548,
+    "en": "shelter",
+    "pl": "schronienie"
+  },
+  {
+    "id": 5549,
+    "en": "chapel",
+    "pl": "kaplica"
+  },
+  {
+    "id": 5550,
+    "en": "manufacture",
+    "pl": "produkować"
+  },
+  {
+    "id": 5551,
+    "en": "layers",
+    "pl": "warstwy"
+  },
+  {
+    "id": 5552,
+    "en": "guided",
+    "pl": "prowadzony"
+  },
+  {
+    "id": 5553,
+    "en": "vulnerability",
+    "pl": "podatność (na zagrożenia)"
+  },
+  {
+    "id": 5554,
+    "en": "accountability",
+    "pl": "odpowiedzialność (rozliczalność)"
+  },
+  {
+    "id": 5555,
+    "en": "celebrate",
+    "pl": "świętować"
+  },
+  {
+    "id": 5556,
+    "en": "accredited",
+    "pl": "akredytowany"
+  },
+  {
+    "id": 5557,
+    "en": "appliance",
+    "pl": "urządzenie (AGD)"
+  },
+  {
+    "id": 5558,
+    "en": "compressed",
+    "pl": "skompresowany"
+  },
+  {
+    "id": 5559,
+    "en": "powell",
+    "pl": "Powell"
+  },
+  {
+    "id": 5560,
+    "en": "mixture",
+    "pl": "mieszanina"
+  },
+  {
+    "id": 5561,
+    "en": "bench",
+    "pl": "ławka"
+  },
+  {
+    "id": 5562,
+    "en": "tub",
+    "pl": "wanna"
+  },
+  {
+    "id": 5563,
+    "en": "rider",
+    "pl": "jeździec"
+  },
+  {
+    "id": 5564,
+    "en": "scheduling",
+    "pl": "planowanie (harmonogramu)"
+  },
+  {
+    "id": 5565,
+    "en": "radius",
+    "pl": "promień (okręgu)"
+  },
+  {
+    "id": 5566,
+    "en": "perspectives",
+    "pl": "perspektywy"
+  },
+  {
+    "id": 5567,
+    "en": "mortality",
+    "pl": "śmiertelność"
+  },
+  {
+    "id": 5568,
+    "en": "logging",
+    "pl": "rejestrowanie, wyrąb drewna"
+  },
+  {
+    "id": 5569,
+    "en": "christians",
+    "pl": "chrześcijanie"
+  },
+  {
+    "id": 5570,
+    "en": "borders",
+    "pl": "granice"
+  },
+  {
+    "id": 5571,
+    "en": "therapeutic",
+    "pl": "terapeutyczny"
+  },
+  {
+    "id": 5572,
+    "en": "pads",
+    "pl": "podkładki"
+  },
+  {
+    "id": 5573,
+    "en": "inns",
+    "pl": "gospody"
+  },
+  {
+    "id": 5574,
+    "en": "bobby",
+    "pl": "Bobby"
+  },
+  {
+    "id": 5575,
+    "en": "impressive",
+    "pl": "imponujący"
+  },
+  {
+    "id": 5576,
+    "en": "sheep",
+    "pl": "owca"
+  },
+  {
+    "id": 5577,
+    "en": "accordingly",
+    "pl": "odpowiednio"
+  },
+  {
+    "id": 5578,
+    "en": "architect",
+    "pl": "architekt"
+  },
+  {
+    "id": 5579,
+    "en": "railroad",
+    "pl": "kolej"
+  },
+  {
+    "id": 5580,
+    "en": "lectures",
+    "pl": "wykłady"
+  },
+  {
+    "id": 5581,
+    "en": "challenging",
+    "pl": "wymagający (trudny)"
+  },
+  {
+    "id": 5582,
+    "en": "wines",
+    "pl": "wina"
+  },
+  {
+    "id": 5583,
+    "en": "nursery",
+    "pl": "żłobek, szkółka (roślin)"
+  },
+  {
+    "id": 5584,
+    "en": "harder",
+    "pl": "trudniejszy"
+  },
+  {
+    "id": 5585,
+    "en": "cups",
+    "pl": "filiżanki"
+  },
+  {
+    "id": 5586,
+    "en": "ash",
+    "pl": "popiół"
+  },
+  {
+    "id": 5587,
+    "en": "microwave",
+    "pl": "kuchenka mikrofalowa"
+  },
+  {
+    "id": 5588,
+    "en": "cheapest",
+    "pl": "najtańszy"
+  },
+  {
+    "id": 5589,
+    "en": "accidents",
+    "pl": "wypadki"
+  },
+  {
+    "id": 5590,
+    "en": "relocation",
+    "pl": "przeprowadzka"
+  },
+  {
+    "id": 5591,
+    "en": "contributors",
+    "pl": "współtwórcy"
+  },
+  {
+    "id": 5592,
+    "en": "salad",
+    "pl": "sałatka"
+  },
+  {
+    "id": 5593,
+    "en": "tender",
+    "pl": "czuły, przetarg"
+  },
+  {
+    "id": 5594,
+    "en": "violations",
+    "pl": "naruszenia"
+  },
+  {
+    "id": 5595,
+    "en": "foam",
+    "pl": "piana"
+  },
+  {
+    "id": 5596,
+    "en": "temperatures",
+    "pl": "temperatury"
+  },
+  {
+    "id": 5597,
+    "en": "paste",
+    "pl": "pasta, wklejać"
+  },
+  {
+    "id": 5598,
+    "en": "clouds",
+    "pl": "chmury"
+  },
+  {
+    "id": 5599,
+    "en": "competitions",
+    "pl": "konkursy"
+  },
+  {
+    "id": 5600,
+    "en": "discretion",
+    "pl": "uznanie (własne)"
+  },
+  {
+    "id": 5601,
+    "en": "preserve",
+    "pl": "zachowywać"
+  },
+  {
+    "id": 5602,
+    "en": "unsigned",
+    "pl": "niepodpisany"
+  },
+  {
+    "id": 5603,
+    "en": "staying",
+    "pl": "pozostawanie"
+  },
+  {
+    "id": 5604,
+    "en": "cosmetics",
+    "pl": "kosmetyki"
+  },
+  {
+    "id": 5605,
+    "en": "easter",
+    "pl": "Wielkanoc"
+  },
+  {
+    "id": 5606,
+    "en": "theories",
+    "pl": "teorie"
+  },
+  {
+    "id": 5607,
+    "en": "repository",
+    "pl": "repozytorium"
+  },
+  {
+    "id": 5608,
+    "en": "praise",
+    "pl": "chwalić"
+  },
+  {
+    "id": 5609,
+    "en": "concentrations",
+    "pl": "stężenia"
+  },
+  {
+    "id": 5610,
+    "en": "christianity",
+    "pl": "chrześcijaństwo"
+  },
+  {
+    "id": 5611,
+    "en": "veteran",
+    "pl": "weteran"
+  },
+  {
+    "id": 5612,
+    "en": "streams",
+    "pl": "strumienie"
+  },
+  {
+    "id": 5613,
+    "en": "landing",
+    "pl": "lądowanie"
+  },
+  {
+    "id": 5614,
+    "en": "signing",
+    "pl": "podpisywanie"
+  },
+  {
+    "id": 5615,
+    "en": "executed",
+    "pl": "wykonany, stracony"
+  },
+  {
+    "id": 5616,
+    "en": "negotiations",
+    "pl": "negocjacje"
+  },
+  {
+    "id": 5617,
+    "en": "realistic",
+    "pl": "realistyczny"
+  },
+  {
+    "id": 5618,
+    "en": "showcase",
+    "pl": "prezentować, gablota"
+  },
+  {
+    "id": 5619,
+    "en": "integral",
+    "pl": "integralny"
+  },
+  {
+    "id": 5620,
+    "en": "asks",
+    "pl": "pyta"
+  },
+  {
+    "id": 5621,
+    "en": "relax",
+    "pl": "relaksować się"
+  },
+  {
+    "id": 5622,
+    "en": "generating",
+    "pl": "generowanie"
+  },
+  {
+    "id": 5623,
+    "en": "congressional",
+    "pl": "kongresowy"
+  },
+  {
+    "id": 5624,
+    "en": "synopsis",
+    "pl": "streszczenie"
+  },
+  {
+    "id": 5625,
+    "en": "hardly",
+    "pl": "ledwo"
+  },
+  {
+    "id": 5626,
+    "en": "prairie",
+    "pl": "preria"
+  },
+  {
+    "id": 5627,
+    "en": "reunion",
+    "pl": "zjazd (spotkanie)"
+  },
+  {
+    "id": 5628,
+    "en": "composer",
+    "pl": "kompozytor"
+  },
+  {
+    "id": 5629,
+    "en": "bean",
+    "pl": "fasola"
+  },
+  {
+    "id": 5630,
+    "en": "sword",
+    "pl": "miecz"
+  },
+  {
+    "id": 5631,
+    "en": "absent",
+    "pl": "nieobecny"
+  },
+  {
+    "id": 5632,
+    "en": "photographic",
+    "pl": "fotograficzny"
+  },
+  {
+    "id": 5633,
+    "en": "sells",
+    "pl": "sprzedaje"
+  },
+  {
+    "id": 5634,
+    "en": "hoping",
+    "pl": "mający nadzieję"
+  },
+  {
+    "id": 5636,
+    "en": "spirits",
+    "pl": "duchy, nastrój"
+  },
+  {
+    "id": 5637,
+    "en": "modifications",
+    "pl": "modyfikacje"
+  },
+  {
+    "id": 5638,
+    "en": "coral",
+    "pl": "koral"
+  },
+  {
+    "id": 5639,
+    "en": "pixel",
+    "pl": "piksel"
+  },
+  {
+    "id": 5640,
+    "en": "float",
+    "pl": "unosić się na wodzie"
+  },
+  {
+    "id": 5641,
+    "en": "bias",
+    "pl": "uprzedzenie"
+  },
+  {
+    "id": 5642,
+    "en": "imported",
+    "pl": "importowany"
+  },
+  {
+    "id": 5643,
+    "en": "paths",
+    "pl": "ścieżki"
+  },
+  {
+    "id": 5644,
+    "en": "bubble",
+    "pl": "bańka"
+  },
+  {
+    "id": 5645,
+    "en": "acquire",
+    "pl": "nabywać"
+  },
+  {
+    "id": 5646,
+    "en": "contrary",
+    "pl": "przeciwny"
+  },
+  {
+    "id": 5647,
+    "en": "millennium",
+    "pl": "milenium"
+  },
+  {
+    "id": 5648,
+    "en": "tribune",
+    "pl": "trybuna"
+  },
+  {
+    "id": 5649,
+    "en": "vessel",
+    "pl": "statek, naczynie"
+  },
+  {
+    "id": 5650,
+    "en": "acids",
+    "pl": "kwasy"
+  },
+  {
+    "id": 5651,
+    "en": "focusing",
+    "pl": "skupianie się"
+  },
+  {
+    "id": 5652,
+    "en": "viruses",
+    "pl": "wirusy"
+  },
+  {
+    "id": 5653,
+    "en": "cheaper",
+    "pl": "tańszy"
+  },
+  {
+    "id": 5654,
+    "en": "admitted",
+    "pl": "przyznał"
+  },
+  {
+    "id": 5655,
+    "en": "dairy",
+    "pl": "nabiał"
+  },
+  {
+    "id": 5656,
+    "en": "admit",
+    "pl": "przyznawać"
+  },
+  {
+    "id": 5657,
+    "en": "fancy",
+    "pl": "wymyślny, mieć ochotę na"
+  },
+  {
+    "id": 5658,
+    "en": "equality",
+    "pl": "równość"
+  },
+  {
+    "id": 5659,
+    "en": "achieving",
+    "pl": "osiąganie"
+  },
+  {
+    "id": 5660,
+    "en": "tap",
+    "pl": "kran, stukać"
+  },
+  {
+    "id": 5661,
+    "en": "stickers",
+    "pl": "naklejki"
+  },
+  {
+    "id": 5662,
+    "en": "fisheries",
+    "pl": "rybołówstwo"
+  },
+  {
+    "id": 5663,
+    "en": "exceptions",
+    "pl": "wyjątki"
+  },
+  {
+    "id": 5664,
+    "en": "reactions",
+    "pl": "reakcje"
+  },
+  {
+    "id": 5665,
+    "en": "leasing",
+    "pl": "leasing"
+  },
+  {
+    "id": 5666,
+    "en": "beliefs",
+    "pl": "przekonania"
+  },
+  {
+    "id": 5667,
+    "en": "companion",
+    "pl": "towarzysz"
+  },
+  {
+    "id": 5668,
+    "en": "squad",
+    "pl": "drużyna"
+  },
+  {
+    "id": 5669,
+    "en": "analyze",
+    "pl": "analizować"
+  },
+  {
+    "id": 5670,
+    "en": "scroll",
+    "pl": "przewijać"
+  },
+  {
+    "id": 5671,
+    "en": "relate",
+    "pl": "odnosić się"
+  },
+  {
+    "id": 5672,
+    "en": "divisions",
+    "pl": "podziały"
+  },
+  {
+    "id": 5673,
+    "en": "wages",
+    "pl": "wynagrodzenia"
+  },
+  {
+    "id": 5674,
+    "en": "additionally",
+    "pl": "dodatkowo"
+  },
+  {
+    "id": 5675,
+    "en": "suffer",
+    "pl": "cierpieć"
+  },
+  {
+    "id": 5676,
+    "en": "forests",
+    "pl": "lasy"
+  },
+  {
+    "id": 5677,
+    "en": "fellowship",
+    "pl": "stypendium naukowe, wspólnota"
+  },
+  {
+    "id": 5678,
+    "en": "nano",
+    "pl": "nano"
+  },
+  {
+    "id": 5679,
+    "en": "invalid",
+    "pl": "nieważny"
+  },
+  {
+    "id": 5680,
+    "en": "concerts",
+    "pl": "koncerty"
+  },
+  {
+    "id": 5681,
+    "en": "martial",
+    "pl": "wojenny (sztuki walki)"
+  },
+  {
+    "id": 5682,
+    "en": "males",
+    "pl": "mężczyźni, samce"
+  },
+  {
+    "id": 5683,
+    "en": "victorian",
+    "pl": "wiktoriański"
+  },
+  {
+    "id": 5684,
+    "en": "retain",
+    "pl": "zachowywać"
+  },
+  {
+    "id": 5686,
+    "en": "execute",
+    "pl": "wykonywać"
+  },
+  {
+    "id": 5687,
+    "en": "tunnel",
+    "pl": "tunel"
+  },
+  {
+    "id": 5688,
+    "en": "genres",
+    "pl": "gatunki"
+  },
+  {
+    "id": 5689,
+    "en": "patents",
+    "pl": "patenty"
+  },
+  {
+    "id": 5691,
+    "en": "chaos",
+    "pl": "chaos"
+  },
+  {
+    "id": 5692,
+    "en": "wheat",
+    "pl": "pszenica"
+  },
+  {
+    "id": 5693,
+    "en": "chronicles",
+    "pl": "kroniki"
+  },
+  {
+    "id": 5694,
+    "en": "obtaining",
+    "pl": "uzyskiwanie"
+  },
+  {
+    "id": 5695,
+    "en": "updating",
+    "pl": "aktualizowanie"
+  },
+  {
+    "id": 5696,
+    "en": "distribute",
+    "pl": "rozprowadzać"
+  },
+  {
+    "id": 5697,
+    "en": "readings",
+    "pl": "odczyty"
+  },
+  {
+    "id": 5698,
+    "en": "decorative",
+    "pl": "dekoracyjny"
+  },
+  {
+    "id": 5699,
+    "en": "confused",
+    "pl": "zdezorientowany"
+  },
+  {
+    "id": 5700,
+    "en": "compiler",
+    "pl": "kompilator"
+  },
+  {
+    "id": 5701,
+    "en": "enlargement",
+    "pl": "powiększenie"
+  },
+  {
+    "id": 5702,
+    "en": "eagles",
+    "pl": "orły"
+  },
+  {
+    "id": 5703,
+    "en": "bases",
+    "pl": "bazy"
+  },
+  {
+    "id": 5704,
+    "en": "accused",
+    "pl": "oskarżony"
+  },
+  {
+    "id": 5705,
+    "en": "bee",
+    "pl": "pszczoła"
+  },
+  {
+    "id": 5706,
+    "en": "campaigns",
+    "pl": "kampanie"
+  },
+  {
+    "id": 5707,
+    "en": "unity",
+    "pl": "jedność"
+  },
+  {
+    "id": 5708,
+    "en": "conjunction",
+    "pl": "połączenie, spójnik"
+  },
+  {
+    "id": 5709,
+    "en": "bride",
+    "pl": "panna młoda"
+  },
+  {
+    "id": 5710,
+    "en": "rats",
+    "pl": "szczury"
+  },
+  {
+    "id": 5711,
+    "en": "defines",
+    "pl": "definiuje"
+  },
+  {
+    "id": 5712,
+    "en": "airports",
+    "pl": "lotniska"
+  },
+  {
+    "id": 5713,
+    "en": "instances",
+    "pl": "przypadki"
+  },
+  {
+    "id": 5714,
+    "en": "indigenous",
+    "pl": "rdzenny"
+  },
+  {
+    "id": 5715,
+    "en": "begun",
+    "pl": "rozpoczęty"
+  },
+  {
+    "id": 5716,
+    "en": "brunette",
+    "pl": "brunetka"
+  },
+  {
+    "id": 5717,
+    "en": "packets",
+    "pl": "pakiety"
+  },
+  {
+    "id": 5718,
+    "en": "anchor",
+    "pl": "kotwica"
+  },
+  {
+    "id": 5719,
+    "en": "socks",
+    "pl": "skarpetki"
+  },
+  {
+    "id": 5720,
+    "en": "validation",
+    "pl": "walidacja"
+  },
+  {
+    "id": 5721,
+    "en": "parade",
+    "pl": "parada"
+  },
+  {
+    "id": 5722,
+    "en": "corruption",
+    "pl": "korupcja"
+  },
+  {
+    "id": 5723,
+    "en": "trigger",
+    "pl": "wyzwalać, spust"
+  },
+  {
+    "id": 5724,
+    "en": "incentives",
+    "pl": "zachęty"
+  },
+  {
+    "id": 5725,
+    "en": "cholesterol",
+    "pl": "cholesterol"
+  },
+  {
+    "id": 5726,
+    "en": "gathered",
+    "pl": "zebrany"
+  },
+  {
+    "id": 5727,
+    "en": "notified",
+    "pl": "powiadomiony"
+  },
+  {
+    "id": 5728,
+    "en": "differential",
+    "pl": "różnicowy"
+  },
+  {
+    "id": 5729,
+    "en": "beaches",
+    "pl": "plaże"
+  },
+  {
+    "id": 5730,
+    "en": "folders",
+    "pl": "foldery"
+  },
+  {
+    "id": 5731,
+    "en": "dramatic",
+    "pl": "dramatyczny"
+  },
+  {
+    "id": 5732,
+    "en": "surfaces",
+    "pl": "powierzchnie"
+  },
+  {
+    "id": 5733,
+    "en": "terrible",
+    "pl": "okropny"
+  },
+  {
+    "id": 5734,
+    "en": "routers",
+    "pl": "routery"
+  },
+  {
+    "id": 5735,
+    "en": "pendant",
+    "pl": "wisiorek"
+  },
+  {
+    "id": 5736,
+    "en": "dresses",
+    "pl": "sukienki"
+  },
+  {
+    "id": 5737,
+    "en": "baptist",
+    "pl": "baptystyczny"
+  },
+  {
+    "id": 5738,
+    "en": "scientist",
+    "pl": "naukowiec"
+  },
+  {
+    "id": 5739,
+    "en": "hiring",
+    "pl": "zatrudnianie"
+  },
+  {
+    "id": 5740,
+    "en": "clocks",
+    "pl": "zegary"
+  },
+  {
+    "id": 5741,
+    "en": "arthritis",
+    "pl": "zapalenie stawów"
+  },
+  {
+    "id": 5742,
+    "en": "bios",
+    "pl": "BIOS (l.mn.)"
+  },
+  {
+    "id": 5743,
+    "en": "females",
+    "pl": "kobiety, samice"
+  },
+  {
+    "id": 5744,
+    "en": "nevertheless",
+    "pl": "niemniej jednak"
+  },
+  {
+    "id": 5745,
+    "en": "reflects",
+    "pl": "odzwierciedla"
+  },
+  {
+    "id": 5746,
+    "en": "taxation",
+    "pl": "opodatkowanie"
+  },
+  {
+    "id": 5747,
+    "en": "fever",
+    "pl": "gorączka"
+  },
+  {
+    "id": 5748,
+    "en": "cuisine",
+    "pl": "kuchnia (styl gotowania)"
+  },
+  {
+    "id": 5749,
+    "en": "surely",
+    "pl": "z pewnością"
+  },
+  {
+    "id": 5750,
+    "en": "practitioners",
+    "pl": "praktycy"
+  },
+  {
+    "id": 5751,
+    "en": "transcript",
+    "pl": "transkrypcja, świadectwo"
+  },
+  {
+    "id": 5752,
+    "en": "theorem",
+    "pl": "twierdzenie"
+  },
+  {
+    "id": 5753,
+    "en": "inflation",
+    "pl": "inflacja"
+  },
+  {
+    "id": 5754,
+    "en": "pray",
+    "pl": "modlić się"
+  },
+  {
+    "id": 5755,
+    "en": "stylus",
+    "pl": "rysik"
+  },
+  {
+    "id": 5756,
+    "en": "compounds",
+    "pl": "związki (chemiczne)"
+  },
+  {
+    "id": 5757,
+    "en": "pope",
+    "pl": "papież"
+  },
+  {
+    "id": 5758,
+    "en": "drums",
+    "pl": "perkusja, bębny"
+  },
+  {
+    "id": 5759,
+    "en": "contracting",
+    "pl": "zawieranie umowy"
+  },
+  {
+    "id": 5760,
+    "en": "structured",
+    "pl": "ustrukturyzowany"
+  },
+  {
+    "id": 5761,
+    "en": "reasonably",
+    "pl": "rozsądnie"
+  },
+  {
+    "id": 5762,
+    "en": "bare",
+    "pl": "goły"
+  },
+  {
+    "id": 5763,
+    "en": "hung",
+    "pl": "powieszony (czas przeszły \"hang\")"
+  },
+  {
+    "id": 5764,
+    "en": "cattle",
+    "pl": "bydło"
+  },
+  {
+    "id": 5765,
+    "en": "radical",
+    "pl": "radykalny"
+  },
+  {
+    "id": 5766,
+    "en": "graduates",
+    "pl": "absolwenci"
+  },
+  {
+    "id": 5767,
+    "en": "recommends",
+    "pl": "poleca"
+  },
+  {
+    "id": 5768,
+    "en": "controlling",
+    "pl": "kontrolujący"
+  },
+  {
+    "id": 5769,
+    "en": "treasure",
+    "pl": "skarb"
+  },
+  {
+    "id": 5770,
+    "en": "reload",
+    "pl": "przeładować, odświeżyć"
+  },
+  {
+    "id": 5771,
+    "en": "distributors",
+    "pl": "dystrybutorzy"
+  },
+  {
+    "id": 5772,
+    "en": "flame",
+    "pl": "płomień"
+  },
+  {
+    "id": 5773,
+    "en": "tanks",
+    "pl": "czołgi, zbiorniki"
+  },
+  {
+    "id": 5774,
+    "en": "assuming",
+    "pl": "zakładając"
+  },
+  {
+    "id": 5775,
+    "en": "monetary",
+    "pl": "monetarny"
+  },
+  {
+    "id": 5776,
+    "en": "elderly",
+    "pl": "starszy (o osobach)"
+  },
+  {
+    "id": 5777,
+    "en": "pit",
+    "pl": "dół, pestka"
+  },
+  {
+    "id": 5778,
+    "en": "particles",
+    "pl": "cząstki"
+  },
+  {
+    "id": 5779,
+    "en": "floating",
+    "pl": "unoszący się"
+  },
+  {
+    "id": 5780,
+    "en": "extraordinary",
+    "pl": "niezwykły"
+  },
+  {
+    "id": 5781,
+    "en": "tile",
+    "pl": "kafelek"
+  },
+  {
+    "id": 5782,
+    "en": "indicating",
+    "pl": "wskazujący"
+  },
+  {
+    "id": 5783,
+    "en": "hottest",
+    "pl": "najgorętszy"
+  },
+  {
+    "id": 5784,
+    "en": "coordinate",
+    "pl": "koordynować"
+  },
+  {
+    "id": 5785,
+    "en": "exclusively",
+    "pl": "wyłącznie"
+  },
+  {
+    "id": 5786,
+    "en": "alleged",
+    "pl": "domniemany"
+  },
+  {
+    "id": 5787,
+    "en": "limitation",
+    "pl": "ograniczenie"
+  },
+  {
+    "id": 5788,
+    "en": "widescreen",
+    "pl": "panoramiczny (ekran)"
+  },
+  {
+    "id": 5789,
+    "en": "compile",
+    "pl": "kompilować"
+  },
+  {
+    "id": 5790,
+    "en": "struck",
+    "pl": "uderzył (czas przeszły \"strike\")"
+  },
+  {
+    "id": 5791,
+    "en": "illustration",
+    "pl": "ilustracja"
+  },
+  {
+    "id": 5792,
+    "en": "warnings",
+    "pl": "ostrzeżenia"
+  },
+  {
+    "id": 5793,
+    "en": "construct",
+    "pl": "konstruować"
+  },
+  {
+    "id": 5794,
+    "en": "apps",
+    "pl": "aplikacje"
+  },
+  {
+    "id": 5795,
+    "en": "inquiries",
+    "pl": "zapytania"
+  },
+  {
+    "id": 5796,
+    "en": "bridal",
+    "pl": "ślubny"
+  },
+  {
+    "id": 5797,
+    "en": "annex",
+    "pl": "aneks"
+  },
+  {
+    "id": 5798,
+    "en": "inspiration",
+    "pl": "inspiracja"
+  },
+  {
+    "id": 5799,
+    "en": "tribal",
+    "pl": "plemienny"
+  },
+  {
+    "id": 5800,
+    "en": "curious",
+    "pl": "ciekawy (dociekliwy)"
+  },
+  {
+    "id": 5801,
+    "en": "affecting",
+    "pl": "wpływający"
+  },
+  {
+    "id": 5802,
+    "en": "freight",
+    "pl": "fracht"
+  },
+  {
+    "id": 5803,
+    "en": "rebate",
+    "pl": "rabat"
+  },
+  {
+    "id": 5804,
+    "en": "meetup",
+    "pl": "spotkanie (grupy)"
+  },
+  {
+    "id": 5805,
+    "en": "eclipse",
+    "pl": "zaćmienie"
+  },
+  {
+    "id": 5806,
+    "en": "downloading",
+    "pl": "pobieranie"
+  },
+  {
+    "id": 5807,
+    "en": "shuttle",
+    "pl": "wahadłowiec"
+  },
+  {
+    "id": 5808,
+    "en": "aggregate",
+    "pl": "agregat, łączny"
+  },
+  {
+    "id": 5809,
+    "en": "stunning",
+    "pl": "oszałamiający"
+  },
+  {
+    "id": 5810,
+    "en": "cycles",
+    "pl": "cykle"
+  },
+  {
+    "id": 5811,
+    "en": "affects",
+    "pl": "wpływa na"
+  },
+  {
+    "id": 5812,
+    "en": "forecasts",
+    "pl": "prognozy"
+  },
+  {
+    "id": 5813,
+    "en": "detect",
+    "pl": "wykrywać"
+  },
+  {
+    "id": 5814,
+    "en": "actively",
+    "pl": "aktywnie"
+  },
+  {
+    "id": 5815,
+    "en": "knee",
+    "pl": "kolano"
+  },
+  {
+    "id": 5816,
+    "en": "complicated",
+    "pl": "skomplikowany"
+  },
+  {
+    "id": 5817,
+    "en": "fastest",
+    "pl": "najszybszy"
+  },
+  {
+    "id": 5818,
+    "en": "injured",
+    "pl": "ranny"
+  },
+  {
+    "id": 5819,
+    "en": "decorating",
+    "pl": "dekorowanie"
+  },
+  {
+    "id": 5820,
+    "en": "payroll",
+    "pl": "lista płac"
+  },
+  {
+    "id": 5821,
+    "en": "cookbook",
+    "pl": "książka kucharska"
+  },
+  {
+    "id": 5822,
+    "en": "expressions",
+    "pl": "wyrażenia"
+  },
+  {
+    "id": 5823,
+    "en": "ton",
+    "pl": "tona"
+  },
+  {
+    "id": 5824,
+    "en": "courier",
+    "pl": "kurier"
+  },
+  {
+    "id": 5825,
+    "en": "uploaded",
+    "pl": "przesłany (na serwer)"
+  },
+  {
+    "id": 5826,
+    "en": "hints",
+    "pl": "wskazówki"
+  },
+  {
+    "id": 5827,
+    "en": "collapse",
+    "pl": "zawalić się"
+  },
+  {
+    "id": 5828,
+    "en": "connectors",
+    "pl": "złącza"
+  },
+  {
+    "id": 5829,
+    "en": "unlikely",
+    "pl": "mało prawdopodobny"
+  },
+  {
+    "id": 5830,
+    "en": "pros",
+    "pl": "zalety (pros and cons)"
+  },
+  {
+    "id": 5831,
+    "en": "conflicts",
+    "pl": "konflikty"
+  },
+  {
+    "id": 5832,
+    "en": "techno",
+    "pl": "techno"
+  },
+  {
+    "id": 5833,
+    "en": "beverage",
+    "pl": "napój"
+  },
+  {
+    "id": 5834,
+    "en": "tribute",
+    "pl": "hołd"
+  },
+  {
+    "id": 5835,
+    "en": "wired",
+    "pl": "przewodowy"
+  },
+  {
+    "id": 5836,
+    "en": "immune",
+    "pl": "odporny (immunologicznie)"
+  },
+  {
+    "id": 5837,
+    "en": "travelers",
+    "pl": "podróżnicy"
+  },
+  {
+    "id": 5838,
+    "en": "forestry",
+    "pl": "leśnictwo"
+  },
+  {
+    "id": 5839,
+    "en": "barriers",
+    "pl": "bariery"
+  },
+  {
+    "id": 5840,
+    "en": "rarely",
+    "pl": "rzadko"
+  },
+  {
+    "id": 5841,
+    "en": "infected",
+    "pl": "zainfekowany"
+  },
+  {
+    "id": 5842,
+    "en": "offerings",
+    "pl": "oferty"
+  },
+  {
+    "id": 5843,
+    "en": "genesis",
+    "pl": "geneza"
+  },
+  {
+    "id": 5844,
+    "en": "barrier",
+    "pl": "bariera"
+  },
+  {
+    "id": 5845,
+    "en": "argue",
+    "pl": "kłócić się"
+  },
+  {
+    "id": 5846,
+    "en": "incorrect",
+    "pl": "niepoprawny"
+  },
+  {
+    "id": 5847,
+    "en": "trains",
+    "pl": "pociągi"
+  },
+  {
+    "id": 5848,
+    "en": "metals",
+    "pl": "metale"
+  },
+  {
+    "id": 5849,
+    "en": "bicycle",
+    "pl": "rower"
+  },
+  {
+    "id": 5850,
+    "en": "furnishings",
+    "pl": "wyposażenie (wnętrz)"
+  },
+  {
+    "id": 5851,
+    "en": "letting",
+    "pl": "pozwalanie"
+  },
+  {
+    "id": 5852,
+    "en": "arise",
+    "pl": "powstawać"
+  },
+  {
+    "id": 5853,
+    "en": "celtic",
+    "pl": "celtycki"
+  },
+  {
+    "id": 5854,
+    "en": "thereby",
+    "pl": "przez to"
+  },
+  {
+    "id": 5855,
+    "en": "particle",
+    "pl": "cząstka"
+  },
+  {
+    "id": 5856,
+    "en": "perception",
+    "pl": "percepcja"
+  },
+  {
+    "id": 5857,
+    "en": "minerals",
+    "pl": "minerały"
+  },
+  {
+    "id": 5858,
+    "en": "advise",
+    "pl": "doradzać"
+  },
+  {
+    "id": 5859,
+    "en": "humidity",
+    "pl": "wilgotność"
+  },
+  {
+    "id": 5860,
+    "en": "bottles",
+    "pl": "butelki"
+  },
+  {
+    "id": 5861,
+    "en": "boxing",
+    "pl": "boks"
+  },
+  {
+    "id": 5862,
+    "en": "renaissance",
+    "pl": "renesans"
+  },
+  {
+    "id": 5863,
+    "en": "pathology",
+    "pl": "patologia"
+  },
+  {
+    "id": 5864,
+    "en": "bra",
+    "pl": "biustonosz"
+  },
+  {
+    "id": 5865,
+    "en": "ordinance",
+    "pl": "zarządzenie"
+  },
+  {
+    "id": 5866,
+    "en": "photographers",
+    "pl": "fotografowie"
+  },
+  {
+    "id": 5867,
+    "en": "infections",
+    "pl": "infekcje"
+  },
+  {
+    "id": 5868,
+    "en": "chess",
+    "pl": "szachy"
+  },
+  {
+    "id": 5869,
+    "en": "operates",
+    "pl": "działa"
+  },
+  {
+    "id": 5870,
+    "en": "configured",
+    "pl": "skonfigurowany"
+  },
+  {
+    "id": 5871,
+    "en": "survive",
+    "pl": "przetrwać"
+  },
+  {
+    "id": 5872,
+    "en": "festivals",
+    "pl": "festiwale"
+  },
+  {
+    "id": 5873,
+    "en": "menus",
+    "pl": "menu (l.mn.)"
+  },
+  {
+    "id": 5874,
+    "en": "possibilities",
+    "pl": "możliwości"
+  },
+  {
+    "id": 5875,
+    "en": "reveal",
+    "pl": "ujawniać"
+  },
+  {
+    "id": 5876,
+    "en": "canal",
+    "pl": "kanał (wodny)"
+  },
+  {
+    "id": 5877,
+    "en": "amino",
+    "pl": "amino-"
+  },
+  {
+    "id": 5878,
+    "en": "contributing",
+    "pl": "przyczyniający się"
+  },
+  {
+    "id": 5879,
+    "en": "herbs",
+    "pl": "zioła"
+  },
+  {
+    "id": 5880,
+    "en": "clinics",
+    "pl": "kliniki"
+  },
+  {
+    "id": 5881,
+    "en": "analytical",
+    "pl": "analityczny"
+  },
+  {
+    "id": 5882,
+    "en": "missions",
+    "pl": "misje"
+  },
+  {
+    "id": 5883,
+    "en": "lying",
+    "pl": "leżący, kłamanie"
+  },
+  {
+    "id": 5884,
+    "en": "costumes",
+    "pl": "kostiumy"
+  },
+  {
+    "id": 5885,
+    "en": "strict",
+    "pl": "surowy"
+  },
+  {
+    "id": 5886,
+    "en": "dive",
+    "pl": "nurkować"
+  },
+  {
+    "id": 5887,
+    "en": "circulation",
+    "pl": "krążenie, nakład"
+  },
+  {
+    "id": 5888,
+    "en": "drill",
+    "pl": "wiertarka"
+  },
+  {
+    "id": 5889,
+    "en": "offense",
+    "pl": "przewinienie (pisownia amerykańska)"
+  },
+  {
+    "id": 5890,
+    "en": "protest",
+    "pl": "protest"
+  },
+  {
+    "id": 5891,
+    "en": "assumption",
+    "pl": "założenie"
+  },
+  {
+    "id": 5893,
+    "en": "tries",
+    "pl": "próbuje"
+  },
+  {
+    "id": 5894,
+    "en": "invention",
+    "pl": "wynalazek"
+  },
+  {
+    "id": 5895,
+    "en": "nickname",
+    "pl": "przezwisko"
+  },
+  {
+    "id": 5896,
+    "en": "technician",
+    "pl": "technik"
+  },
+  {
+    "id": 5897,
+    "en": "executives",
+    "pl": "kadra kierownicza"
+  },
+  {
+    "id": 5898,
+    "en": "enquiries",
+    "pl": "zapytania (pisownia brytyjska)"
+  },
+  {
+    "id": 5899,
+    "en": "washing",
+    "pl": "pranie, mycie"
+  },
+  {
+    "id": 5900,
+    "en": "staffing",
+    "pl": "obsada kadrowa"
+  },
+  {
+    "id": 5901,
+    "en": "cognitive",
+    "pl": "poznawczy"
+  },
+  {
+    "id": 5902,
+    "en": "exploring",
+    "pl": "odkrywanie"
+  },
+  {
+    "id": 5903,
+    "en": "trick",
+    "pl": "sztuczka"
+  },
+  {
+    "id": 5904,
+    "en": "enquiry",
+    "pl": "zapytanie (pisownia brytyjska)"
+  },
+  {
+    "id": 5905,
+    "en": "closure",
+    "pl": "zamknięcie"
+  },
+  {
+    "id": 5906,
+    "en": "raid",
+    "pl": "nalot, rajd"
+  },
+  {
+    "id": 5907,
+    "en": "timber",
+    "pl": "drewno budowlane"
+  },
+  {
+    "id": 5908,
+    "en": "volt",
+    "pl": "wolt"
+  },
+  {
+    "id": 5909,
+    "en": "intense",
+    "pl": "intensywny"
+  },
+  {
+    "id": 5910,
+    "en": "playlist",
+    "pl": "playlista"
+  },
+  {
+    "id": 5911,
+    "en": "registrar",
+    "pl": "rejestrator (urzędnik)"
+  },
+  {
+    "id": 5912,
+    "en": "showers",
+    "pl": "prysznice, przelotne opady"
+  },
+  {
+    "id": 5913,
+    "en": "supporters",
+    "pl": "zwolennicy"
+  },
+  {
+    "id": 5914,
+    "en": "ruling",
+    "pl": "orzeczenie, rządzący"
+  },
+  {
+    "id": 5915,
+    "en": "steady",
+    "pl": "stabilny"
+  },
+  {
+    "id": 5916,
+    "en": "dirt",
+    "pl": "brud"
+  },
+  {
+    "id": 5917,
+    "en": "statutes",
+    "pl": "ustawy"
+  },
+  {
+    "id": 5918,
+    "en": "withdrawal",
+    "pl": "wycofanie, wypłata"
+  },
+  {
+    "id": 5919,
+    "en": "drops",
+    "pl": "krople, spada"
+  },
+  {
+    "id": 5920,
+    "en": "predicted",
+    "pl": "przewidywany"
+  },
+  {
+    "id": 5921,
+    "en": "wider",
+    "pl": "szerszy"
+  },
+  {
+    "id": 5922,
+    "en": "cancellation",
+    "pl": "anulowanie"
+  },
+  {
+    "id": 5923,
+    "en": "plugins",
+    "pl": "wtyczki"
+  },
+  {
+    "id": 5924,
+    "en": "enrolled",
+    "pl": "zapisany (na kurs)"
+  },
+  {
+    "id": 5925,
+    "en": "sensors",
+    "pl": "czujniki"
+  },
+  {
+    "id": 5926,
+    "en": "screw",
+    "pl": "śruba"
+  },
+  {
+    "id": 5927,
+    "en": "ministers",
+    "pl": "ministrowie"
+  },
+  {
+    "id": 5928,
+    "en": "publicly",
+    "pl": "publicznie"
+  },
+  {
+    "id": 5929,
+    "en": "hourly",
+    "pl": "co godzinę"
+  },
+  {
+    "id": 5930,
+    "en": "blame",
+    "pl": "wina, obwiniać"
+  },
+  {
+    "id": 5931,
+    "en": "veterinary",
+    "pl": "weterynaryjny"
+  },
+  {
+    "id": 5932,
+    "en": "reseller",
+    "pl": "odsprzedawca"
+  },
+  {
+    "id": 5933,
+    "en": "handed",
+    "pl": "podał (ręką)"
+  },
+  {
+    "id": 5934,
+    "en": "suffered",
+    "pl": "cierpiał"
+  },
+  {
+    "id": 5935,
+    "en": "intake",
+    "pl": "spożycie"
+  },
+  {
+    "id": 5936,
+    "en": "informal",
+    "pl": "nieformalny"
+  },
+  {
+    "id": 5937,
+    "en": "relevance",
+    "pl": "trafność"
+  },
+  {
+    "id": 5938,
+    "en": "incentive",
+    "pl": "zachęta"
+  },
+  {
+    "id": 5939,
+    "en": "butterfly",
+    "pl": "motyl"
+  },
+  {
+    "id": 5940,
+    "en": "mechanics",
+    "pl": "mechanika"
+  },
+  {
+    "id": 5941,
+    "en": "heavily",
+    "pl": "mocno"
+  },
+  {
+    "id": 5942,
+    "en": "fifty",
+    "pl": "pięćdziesiąt"
+  },
+  {
+    "id": 5943,
+    "en": "headers",
+    "pl": "nagłówki"
+  },
+  {
+    "id": 5944,
+    "en": "mistakes",
+    "pl": "błędy"
+  },
+  {
+    "id": 5945,
+    "en": "numerical",
+    "pl": "numeryczny"
+  },
+  {
+    "id": 5946,
+    "en": "geek",
+    "pl": "maniak (technologiczny)"
+  },
+  {
+    "id": 5947,
+    "en": "uncle",
+    "pl": "wujek"
+  },
+  {
+    "id": 5948,
+    "en": "defining",
+    "pl": "definiujący"
+  },
+  {
+    "id": 5949,
+    "en": "counting",
+    "pl": "liczenie"
+  },
+  {
+    "id": 5950,
+    "en": "reflection",
+    "pl": "odbicie, refleksja"
+  },
+  {
+    "id": 5951,
+    "en": "sink",
+    "pl": "zlew, tonąć"
+  },
+  {
+    "id": 5952,
+    "en": "accompanied",
+    "pl": "towarzyszył"
+  },
+  {
+    "id": 5953,
+    "en": "assure",
+    "pl": "zapewniać"
+  },
+  {
+    "id": 5954,
+    "en": "invitation",
+    "pl": "zaproszenie"
+  },
+  {
+    "id": 5955,
+    "en": "devoted",
+    "pl": "oddany"
+  },
+  {
+    "id": 5956,
+    "en": "sodium",
+    "pl": "sód"
+  },
+  {
+    "id": 5957,
+    "en": "spirituality",
+    "pl": "duchowość"
+  },
+  {
+    "id": 5958,
+    "en": "hormone",
+    "pl": "hormon"
+  },
+  {
+    "id": 5959,
+    "en": "meanwhile",
+    "pl": "tymczasem"
+  },
+  {
+    "id": 5960,
+    "en": "proprietary",
+    "pl": "zastrzeżony (własnościowy)"
+  },
+  {
+    "id": 5961,
+    "en": "brick",
+    "pl": "cegła"
+  },
+  {
+    "id": 5962,
+    "en": "grip",
+    "pl": "uchwyt"
+  },
+  {
+    "id": 5963,
+    "en": "naval",
+    "pl": "morski (marynarka)"
+  },
+  {
+    "id": 5964,
+    "en": "medieval",
+    "pl": "średniowieczny"
+  },
+  {
+    "id": 5965,
+    "en": "porcelain",
+    "pl": "porcelana"
+  },
+  {
+    "id": 5966,
+    "en": "bridges",
+    "pl": "mosty"
+  },
+  {
+    "id": 5967,
+    "en": "captured",
+    "pl": "schwytany"
+  },
+  {
+    "id": 5968,
+    "en": "watt",
+    "pl": "wat"
+  },
+  {
+    "id": 5969,
+    "en": "decent",
+    "pl": "przyzwoity"
+  },
+  {
+    "id": 5970,
+    "en": "casting",
+    "pl": "casting, odlewanie"
+  },
+  {
+    "id": 5971,
+    "en": "translated",
+    "pl": "przetłumaczony"
+  },
+  {
+    "id": 5972,
+    "en": "shortly",
+    "pl": "wkrótce"
+  },
+  {
+    "id": 5973,
+    "en": "columnists",
+    "pl": "felietoniści"
+  },
+  {
+    "id": 5974,
+    "en": "pins",
+    "pl": "szpilki, piny"
+  },
+  {
+    "id": 5975,
+    "en": "warrior",
+    "pl": "wojownik"
+  },
+  {
+    "id": 5976,
+    "en": "diploma",
+    "pl": "dyplom"
+  },
+  {
+    "id": 5977,
+    "en": "cabin",
+    "pl": "kabina, domek"
+  },
+  {
+    "id": 5978,
+    "en": "innocent",
+    "pl": "niewinny"
+  },
+  {
+    "id": 5979,
+    "en": "scanning",
+    "pl": "skanowanie"
+  },
+  {
+    "id": 5980,
+    "en": "consensus",
+    "pl": "konsensus"
+  },
+  {
+    "id": 5981,
+    "en": "polo",
+    "pl": "polo"
+  },
+  {
+    "id": 5982,
+    "en": "copying",
+    "pl": "kopiowanie"
+  },
+  {
+    "id": 5983,
+    "en": "delivering",
+    "pl": "dostarczanie"
+  },
+  {
+    "id": 5984,
+    "en": "cordless",
+    "pl": "bezprzewodowy"
+  },
+  {
+    "id": 5985,
+    "en": "horn",
+    "pl": "róg (instrument, zwierzęcy)"
+  },
+  {
+    "id": 5986,
+    "en": "fired",
+    "pl": "zwolniony (z pracy)"
+  },
+  {
+    "id": 5987,
+    "en": "journalism",
+    "pl": "dziennikarstwo"
+  },
+  {
+    "id": 5988,
+    "en": "trivia",
+    "pl": "ciekawostki"
+  },
+  {
+    "id": 5989,
+    "en": "frog",
+    "pl": "żaba"
+  },
+  {
+    "id": 5990,
+    "en": "grammar",
+    "pl": "gramatyka"
+  },
+  {
+    "id": 5991,
+    "en": "intention",
+    "pl": "zamiar"
+  },
+  {
+    "id": 5992,
+    "en": "disagree",
+    "pl": "nie zgadzać się"
+  },
+  {
+    "id": 5993,
+    "en": "tires",
+    "pl": "opony, męczy"
+  },
+  {
+    "id": 5994,
+    "en": "logs",
+    "pl": "kłody, dzienniki (zapisu)"
+  },
+  {
+    "id": 5995,
+    "en": "undertaken",
+    "pl": "podjęty"
+  },
+  {
+    "id": 5996,
+    "en": "hazard",
+    "pl": "zagrożenie"
+  },
+  {
+    "id": 5997,
+    "en": "retro",
+    "pl": "retro"
+  },
+  {
+    "id": 5998,
+    "en": "statewide",
+    "pl": "ogólnostanowy"
+  },
+  {
+    "id": 5999,
+    "en": "semiconductor",
+    "pl": "półprzewodnik"
+  },
+  {
+    "id": 6000,
+    "en": "episodes",
+    "pl": "odcinki"
+  },
+  {
+    "id": 6001,
+    "en": "boolean",
+    "pl": "logiczny (typ danych)"
+  },
+  {
+    "id": 6002,
+    "en": "circular",
+    "pl": "okrągły, okólny"
+  },
+  {
+    "id": 6003,
+    "en": "mainland",
+    "pl": "kontynent (część lądowa)"
+  },
+  {
+    "id": 6004,
+    "en": "illustrations",
+    "pl": "ilustracje"
+  },
+  {
+    "id": 6005,
+    "en": "suits",
+    "pl": "garnitury, pasuje"
+  },
+  {
+    "id": 6006,
+    "en": "chances",
+    "pl": "szanse"
+  },
+  {
+    "id": 6007,
+    "en": "interact",
+    "pl": "wchodzić w interakcję"
+  },
+  {
+    "id": 6008,
+    "en": "snap",
+    "pl": "trzask, zdjęcie"
+  },
+  {
+    "id": 6009,
+    "en": "happiness",
+    "pl": "szczęście"
+  },
+  {
+    "id": 6010,
+    "en": "substantially",
+    "pl": "znacznie"
+  },
+  {
+    "id": 6011,
+    "en": "bizarre",
+    "pl": "dziwaczny"
+  },
+  {
+    "id": 6012,
+    "en": "olympics",
+    "pl": "olimpiada"
+  },
+  {
+    "id": 6013,
+    "en": "fruits",
+    "pl": "owoce"
+  },
+  {
+    "id": 6014,
+    "en": "identifier",
+    "pl": "identyfikator"
+  },
+  {
+    "id": 6015,
+    "en": "ribbon",
+    "pl": "wstążka"
+  },
+  {
+    "id": 6016,
+    "en": "calculations",
+    "pl": "obliczenia"
+  },
+  {
+    "id": 6017,
+    "en": "doe",
+    "pl": "łania"
+  },
+  {
+    "id": 6018,
+    "en": "conducting",
+    "pl": "prowadzenie, dyrygowanie"
+  },
+  {
+    "id": 6019,
+    "en": "startup",
+    "pl": "startup"
+  },
+  {
+    "id": 6020,
+    "en": "kissing",
+    "pl": "całowanie"
+  },
+  {
+    "id": 6021,
+    "en": "handy",
+    "pl": "poręczny"
+  },
+  {
+    "id": 6022,
+    "en": "swap",
+    "pl": "zamiana"
+  },
+  {
+    "id": 6023,
+    "en": "exempt",
+    "pl": "zwolniony (z obowiązku)"
+  },
+  {
+    "id": 6024,
+    "en": "crops",
+    "pl": "uprawy"
+  },
+  {
+    "id": 6025,
+    "en": "reduces",
+    "pl": "zmniejsza"
+  },
+  {
+    "id": 6026,
+    "en": "accomplished",
+    "pl": "osiągnięty, wybitny"
+  },
+  {
+    "id": 6027,
+    "en": "calculators",
+    "pl": "kalkulatory"
+  },
+  {
+    "id": 6028,
+    "en": "geometry",
+    "pl": "geometria"
+  },
+  {
+    "id": 6029,
+    "en": "impression",
+    "pl": "wrażenie"
+  },
+  {
+    "id": 6030,
+    "en": "flip",
+    "pl": "przewrócić, rzut monetą"
+  },
+  {
+    "id": 6031,
+    "en": "guild",
+    "pl": "gildia"
+  },
+  {
+    "id": 6032,
+    "en": "correlation",
+    "pl": "korelacja"
+  },
+  {
+    "id": 6033,
+    "en": "gorgeous",
+    "pl": "wspaniały (o wyglądzie)"
+  },
+  {
+    "id": 6034,
+    "en": "dishes",
+    "pl": "naczynia, dania"
+  },
+  {
+    "id": 6035,
+    "en": "rna",
+    "pl": "RNA"
+  },
+  {
+    "id": 6036,
+    "en": "nervous",
+    "pl": "nerwowy"
+  },
+  {
+    "id": 6037,
+    "en": "refuse",
+    "pl": "odmawiać"
+  },
+  {
+    "id": 6038,
+    "en": "extends",
+    "pl": "rozciąga się"
+  },
+  {
+    "id": 6039,
+    "en": "fragrance",
+    "pl": "zapach (perfum)"
+  },
+  {
+    "id": 6040,
+    "en": "replica",
+    "pl": "replika"
+  },
+  {
+    "id": 6041,
+    "en": "plumbing",
+    "pl": "hydraulika"
+  },
+  {
+    "id": 6042,
+    "en": "tribe",
+    "pl": "plemię"
+  },
+  {
+    "id": 6043,
+    "en": "neighbors",
+    "pl": "sąsiedzi"
+  },
+  {
+    "id": 6044,
+    "en": "trades",
+    "pl": "zawody, handluje"
+  },
+  {
+    "id": 6045,
+    "en": "superb",
+    "pl": "znakomity"
+  },
+  {
+    "id": 6046,
+    "en": "buzz",
+    "pl": "brzęczenie, szum"
+  },
+  {
+    "id": 6047,
+    "en": "transparent",
+    "pl": "przezroczysty"
+  },
+  {
+    "id": 6048,
+    "en": "nuke",
+    "pl": "bomba atomowa, niszczyć nuklearnie"
+  },
+  {
+    "id": 6049,
+    "en": "rid",
+    "pl": "pozbywać się"
+  },
+  {
+    "id": 6050,
+    "en": "handled",
+    "pl": "obsłużony"
+  },
+  {
+    "id": 6051,
+    "en": "boom",
+    "pl": "boom (gwałtowny wzrost), huk"
+  },
+  {
+    "id": 6052,
+    "en": "calm",
+    "pl": "spokojny"
+  },
+  {
+    "id": 6053,
+    "en": "inappropriate",
+    "pl": "niestosowny"
+  },
+  {
+    "id": 6054,
+    "en": "exhaust",
+    "pl": "spaliny, wyczerpywać"
+  },
+  {
+    "id": 6055,
+    "en": "comparing",
+    "pl": "porównywanie"
+  },
+  {
+    "id": 6056,
+    "en": "vocational",
+    "pl": "zawodowy (kształcenie)"
+  },
+  {
+    "id": 6057,
+    "en": "farming",
+    "pl": "rolnictwo"
+  },
+  {
+    "id": 6058,
+    "en": "fork",
+    "pl": "widelec"
+  },
+  {
+    "id": 6059,
+    "en": "roller",
+    "pl": "wałek, rolka"
   }
 ]
