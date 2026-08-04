@@ -19,5 +19,12 @@
     "title": "Czasowniki modalne",
     "desc": "can, could, must, have to, should, may, might i inne — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 50
+  },
+  {
+    "id": "passive",
+    "icon": "🔄",
+    "title": "Strona bierna",
+    "desc": "Passive voice w pięciu czasach — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 50
   }
 ]
