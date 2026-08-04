@@ -34,6 +34,28 @@ jobs:
           mkdir -p _site
           cp -r index.html css js data _site/
 
+      - name: Version local asset URLs (cache-busting)
+        run: |
+          # ES modules and the browser's HTTP cache key each imported file by
+          # its own exact URL, independent of the page/entry script that
+          # imports it. Without this, a fast reload shortly after a deploy
+          # can end up running a stale cached module (e.g. old app.js)
+          # alongside a fresh index.html/CSS, producing confusing runtime
+          # errors from DOM elements that no longer match. Appending the
+          # commit SHA as a query string to every local module/style/data
+          # reference forces a fresh fetch on every deploy that actually
+          # changes something, without touching the source repo itself.
+          SHA="${GITHUB_SHA:0:8}"
+          echo "Cache-busting version: $SHA"
+
+          perl -pi -e "s{(href=\"css/main\.css)(\")}{\${1}?v=$SHA\${2}}" _site/index.html
+          perl -pi -e "s{(src=\"js/app\.js)(\")}{\${1}?v=$SHA\${2}}" _site/index.html
+
+          find _site/js -name '*.js' -print0 \
+            | xargs -0 perl -pi -e "s{from \"(\.\.?/[^\"]+\.js)\"}{from \"\${1}?v=$SHA\"}g"
+          find _site/js -name '*.js' -print0 \
+            | xargs -0 perl -pi -e "s{new URL\(\"(\.\.?/[^\"]+\.json)\", import\.meta\.url\)}{new URL(\"\${1}?v=$SHA\", import.meta.url)}g"
+
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
