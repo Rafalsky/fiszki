@@ -10,5 +10,11 @@
     "icon": "🔤",
     "title": "Przedimki",
     "desc": "a / an / the / brak przedimka — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy."
+  },
+  {
+    "id": "modals",
+    "icon": "🔑",
+    "title": "Czasowniki modalne",
+    "desc": "can, could, must, have to, should, may, might i inne — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy."
   }
 ]
