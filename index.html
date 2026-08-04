@@ -340,7 +340,12 @@
 
       <div class="settings-group">
         <h3>Dane</h3>
-        <p class="hint">Twoje postępy są zapisywane wyłącznie lokalnie w przeglądarce (localStorage) — nic nie jest wysyłane na żaden serwer.</p>
+        <p class="hint">Twoje postępy są zapisywane wyłącznie lokalnie w przeglądarce (localStorage) — nic nie jest wysyłane na żaden serwer. localStorage jest przypisany do konkretnego adresu strony, więc przy zmianie domeny postęp się automatycznie nie przeniesie — wyeksportuj go najpierw do pliku, a po przejściu na nowy adres zaimportuj z powrotem.</p>
+        <div class="settings-actions">
+          <button type="button" id="btn-export-progress" class="btn btn-secondary">⬇️ Eksportuj postęp (plik)</button>
+          <button type="button" id="btn-import-progress" class="btn btn-secondary">⬆️ Importuj postęp (plik)</button>
+          <input type="file" id="import-file-input" accept="application/json" class="is-hidden" />
+        </div>
         <button type="button" id="btn-reset-progress" class="btn btn-danger">Wyzeruj postęp słówek</button>
         <button type="button" id="btn-reset-grammar-progress" class="btn btn-danger">Wyzeruj postęp gramatyki</button>
       </div>

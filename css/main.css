@@ -607,6 +607,13 @@ body {
   margin-right: 8px;
 }
 
+.settings-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+
 .footer {
   text-align: center;
   padding: 16px;
