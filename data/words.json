@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "en": "the",
+    "pl": "rodzajnik określony (ten/ta/to)"
+  },
+  {
+    "id": 2,
+    "en": "of",
+    "pl": "z, od (dopełniacz)"
+  },
+  {
+    "id": 3,
+    "en": "to",
+    "pl": "do; (partykuła bezokolicznika)"
+  },
+  {
+    "id": 4,
+    "en": "and",
+    "pl": "i"
+  },
+  {
+    "id": 5,
+    "en": "a",
+    "pl": "pewien, jakiś (rodzajnik nieokreślony)"
+  },
+  {
+    "id": 6,
+    "en": "in",
+    "pl": "w"
+  },
+  {
+    "id": 7,
+    "en": "is",
+    "pl": "jest"
+  },
+  {
+    "id": 8,
+    "en": "it",
+    "pl": "to, ono"
+  },
+  {
+    "id": 9,
+    "en": "you",
+    "pl": "ty, wy"
+  },
+  {
+    "id": 10,
+    "en": "that",
+    "pl": "że; tamten"
+  },
+  {
+    "id": 11,
+    "en": "he",
+    "pl": "on"
+  },
+  {
+    "id": 12,
+    "en": "was",
+    "pl": "był (czas przeszły \"być\")"
+  },
+  {
+    "id": 13,
+    "en": "for",
+    "pl": "dla, na"
+  },
+  {
+    "id": 14,
+    "en": "on",
+    "pl": "na"
+  },
+  {
+    "id": 15,
+    "en": "are",
+    "pl": "są, jesteście"
+  },
+  {
+    "id": 16,
+    "en": "with",
+    "pl": "z"
+  },
+  {
+    "id": 17,
+    "en": "as",
+    "pl": "jak, jako"
+  },
+  {
+    "id": 18,
+    "en": "I",
+    "pl": "ja"
+  },
+  {
+    "id": 19,
+    "en": "his",
+    "pl": "jego"
+  },
+  {
+    "id": 20,
+    "en": "they",
+    "pl": "oni, one"
+  },
+  {
+    "id": 21,
+    "en": "be",
+    "pl": "być"
+  },
+  {
+    "id": 22,
+    "en": "at",
+    "pl": "w, przy"
+  },
+  {
+    "id": 23,
+    "en": "one",
+    "pl": "jeden"
+  },
+  {
+    "id": 24,
+    "en": "have",
+    "pl": "mieć"
+  },
+  {
+    "id": 25,
+    "en": "this",
+    "pl": "to, ten"
+  },
+  {
+    "id": 26,
+    "en": "from",
+    "pl": "od, z"
+  },
+  {
+    "id": 27,
+    "en": "or",
+    "pl": "lub"
+  },
+  {
+    "id": 28,
+    "en": "had",
+    "pl": "miał (czas przeszły \"mieć\")"
+  },
+  {
+    "id": 29,
+    "en": "by",
+    "pl": "przez"
+  },
+  {
+    "id": 30,
+    "en": "word",
+    "pl": "słowo"
+  },
+  {
+    "id": 31,
+    "en": "but",
+    "pl": "ale"
+  },
+  {
+    "id": 32,
+    "en": "what",
+    "pl": "co"
+  },
+  {
+    "id": 33,
+    "en": "some",
+    "pl": "trochę, kilka"
+  },
+  {
+    "id": 34,
+    "en": "we",
+    "pl": "my"
+  },
+  {
+    "id": 35,
+    "en": "can",
+    "pl": "móc, potrafić"
+  },
+  {
+    "id": 36,
+    "en": "out",
+    "pl": "na zewnątrz"
+  },
+  {
+    "id": 37,
+    "en": "other",
+    "pl": "inny"
+  },
+  {
+    "id": 38,
+    "en": "were",
+    "pl": "byli, były (czas przeszły \"być\")"
+  },
+  {
+    "id": 39,
+    "en": "all",
+    "pl": "wszystko, wszyscy"
+  },
+  {
+    "id": 40,
+    "en": "there",
+    "pl": "tam"
+  },
+  {
+    "id": 41,
+    "en": "when",
+    "pl": "kiedy"
+  },
+  {
+    "id": 42,
+    "en": "up",
+    "pl": "w górę"
+  },
+  {
+    "id": 43,
+    "en": "use",
+    "pl": "używać"
+  },
+  {
+    "id": 44,
+    "en": "your",
+    "pl": "twój, wasz"
+  },
+  {
+    "id": 45,
+    "en": "how",
+    "pl": "jak"
+  },
+  {
+    "id": 46,
+    "en": "said",
+    "pl": "powiedział"
+  },
+  {
+    "id": 47,
+    "en": "an",
+    "pl": "rodzajnik nieokreślony (przed samogłoską)"
+  },
+  {
+    "id": 48,
+    "en": "each",
+    "pl": "każdy"
+  },
+  {
+    "id": 49,
+    "en": "she",
+    "pl": "ona"
+  },
+  {
+    "id": 50,
+    "en": "which",
+    "pl": "który"
+  },
+  {
+    "id": 51,
+    "en": "do",
+    "pl": "robić"
+  },
+  {
+    "id": 52,
+    "en": "their",
+    "pl": "ich"
+  },
+  {
+    "id": 53,
+    "en": "time",
+    "pl": "czas"
+  },
+  {
+    "id": 54,
+    "en": "if",
+    "pl": "jeśli"
+  },
+  {
+    "id": 55,
+    "en": "will",
+    "pl": "(czasownik posiłkowy czasu przyszłego)"
+  },
+  {
+    "id": 56,
+    "en": "way",
+    "pl": "droga, sposób"
+  },
+  {
+    "id": 57,
+    "en": "about",
+    "pl": "o, około"
+  },
+  {
+    "id": 58,
+    "en": "many",
+    "pl": "wiele, dużo"
+  },
+  {
+    "id": 59,
+    "en": "then",
+    "pl": "wtedy, potem"
+  },
+  {
+    "id": 60,
+    "en": "them",
+    "pl": "ich, im"
+  },
+  {
+    "id": 61,
+    "en": "write",
+    "pl": "pisać"
+  },
+  {
+    "id": 62,
+    "en": "would",
+    "pl": "by (tryb warunkowy)"
+  },
+  {
+    "id": 63,
+    "en": "like",
+    "pl": "lubić; jak, podobnie"
+  },
+  {
+    "id": 64,
+    "en": "so",
+    "pl": "więc, tak"
+  },
+  {
+    "id": 65,
+    "en": "these",
+    "pl": "ci, te"
+  },
+  {
+    "id": 66,
+    "en": "her",
+    "pl": "jej"
+  },
+  {
+    "id": 67,
+    "en": "long",
+    "pl": "długi"
+  },
+  {
+    "id": 68,
+    "en": "make",
+    "pl": "robić, tworzyć"
+  },
+  {
+    "id": 69,
+    "en": "thing",
+    "pl": "rzecz"
+  },
+  {
+    "id": 70,
+    "en": "see",
+    "pl": "widzieć"
+  },
+  {
+    "id": 71,
+    "en": "him",
+    "pl": "jego, jemu"
+  },
+  {
+    "id": 72,
+    "en": "two",
+    "pl": "dwa"
+  },
+  {
+    "id": 73,
+    "en": "has",
+    "pl": "ma"
+  },
+  {
+    "id": 74,
+    "en": "look",
+    "pl": "patrzeć"
+  },
+  {
+    "id": 75,
+    "en": "more",
+    "pl": "więcej"
+  },
+  {
+    "id": 76,
+    "en": "day",
+    "pl": "dzień"
+  },
+  {
+    "id": 77,
+    "en": "could",
+    "pl": "mógłby, mógł"
+  },
+  {
+    "id": 78,
+    "en": "go",
+    "pl": "iść, jechać"
+  },
+  {
+    "id": 79,
+    "en": "come",
+    "pl": "przyjść, przychodzić"
+  },
+  {
+    "id": 80,
+    "en": "did",
+    "pl": "zrobił (czas przeszły \"robić\")"
+  },
+  {
+    "id": 81,
+    "en": "number",
+    "pl": "liczba, numer"
+  },
+  {
+    "id": 82,
+    "en": "sound",
+    "pl": "dźwięk"
+  },
+  {
+    "id": 83,
+    "en": "no",
+    "pl": "nie"
+  },
+  {
+    "id": 84,
+    "en": "most",
+    "pl": "najbardziej, większość"
+  },
+  {
+    "id": 85,
+    "en": "people",
+    "pl": "ludzie"
+  },
+  {
+    "id": 86,
+    "en": "my",
+    "pl": "mój"
+  },
+  {
+    "id": 87,
+    "en": "over",
+    "pl": "nad, ponad"
+  },
+  {
+    "id": 88,
+    "en": "know",
+    "pl": "wiedzieć, znać"
+  },
+  {
+    "id": 89,
+    "en": "water",
+    "pl": "woda"
+  },
+  {
+    "id": 90,
+    "en": "than",
+    "pl": "niż"
+  },
+  {
+    "id": 91,
+    "en": "call",
+    "pl": "dzwonić, nazywać"
+  },
+  {
+    "id": 92,
+    "en": "first",
+    "pl": "pierwszy"
+  },
+  {
+    "id": 93,
+    "en": "who",
+    "pl": "kto"
+  },
+  {
+    "id": 94,
+    "en": "may",
+    "pl": "móc (mieć pozwolenie)"
+  },
+  {
+    "id": 95,
+    "en": "down",
+    "pl": "w dół"
+  },
+  {
+    "id": 96,
+    "en": "side",
+    "pl": "strona, bok"
+  },
+  {
+    "id": 97,
+    "en": "been",
+    "pl": "był (imiesłów \"być\")"
+  },
+  {
+    "id": 98,
+    "en": "now",
+    "pl": "teraz"
+  },
+  {
+    "id": 99,
+    "en": "find",
+    "pl": "znaleźć"
+  },
+  {
+    "id": 100,
+    "en": "any",
+    "pl": "jakikolwiek"
+  },
+  {
+    "id": 101,
+    "en": "new",
+    "pl": "nowy"
+  },
+  {
+    "id": 102,
+    "en": "work",
+    "pl": "praca, pracować"
+  },
+  {
+    "id": 103,
+    "en": "part",
+    "pl": "część"
+  },
+  {
+    "id": 104,
+    "en": "take",
+    "pl": "brać, wziąć"
+  },
+  {
+    "id": 105,
+    "en": "get",
+    "pl": "dostać, zdobyć"
+  },
+  {
+    "id": 106,
+    "en": "place",
+    "pl": "miejsce"
+  },
+  {
+    "id": 107,
+    "en": "made",
+    "pl": "zrobił, zrobiony"
+  },
+  {
+    "id": 108,
+    "en": "live",
+    "pl": "żyć, mieszkać"
+  },
+  {
+    "id": 109,
+    "en": "where",
+    "pl": "gdzie"
+  },
+  {
+    "id": 110,
+    "en": "after",
+    "pl": "po"
+  },
+  {
+    "id": 111,
+    "en": "back",
+    "pl": "z powrotem; plecy"
+  },
+  {
+    "id": 112,
+    "en": "little",
+    "pl": "mały, trochę"
+  },
+  {
+    "id": 113,
+    "en": "only",
+    "pl": "tylko"
+  },
+  {
+    "id": 114,
+    "en": "round",
+    "pl": "okrągły"
+  },
+  {
+    "id": 115,
+    "en": "man",
+    "pl": "mężczyzna"
+  },
+  {
+    "id": 116,
+    "en": "year",
+    "pl": "rok"
+  },
+  {
+    "id": 117,
+    "en": "came",
+    "pl": "przyszedł (czas przeszły \"come\")"
+  },
+  {
+    "id": 118,
+    "en": "show",
+    "pl": "pokazywać"
+  },
+  {
+    "id": 119,
+    "en": "every",
+    "pl": "każdy"
+  },
+  {
+    "id": 120,
+    "en": "good",
+    "pl": "dobry"
+  },
+  {
+    "id": 121,
+    "en": "me",
+    "pl": "mnie, mi"
+  },
+  {
+    "id": 122,
+    "en": "give",
+    "pl": "dawać"
+  },
+  {
+    "id": 123,
+    "en": "our",
+    "pl": "nasz"
+  },
+  {
+    "id": 124,
+    "en": "under",
+    "pl": "pod"
+  },
+  {
+    "id": 125,
+    "en": "name",
+    "pl": "imię, nazwa"
+  },
+  {
+    "id": 126,
+    "en": "very",
+    "pl": "bardzo"
+  },
+  {
+    "id": 127,
+    "en": "through",
+    "pl": "przez"
+  },
+  {
+    "id": 128,
+    "en": "just",
+    "pl": "właśnie, tylko"
+  },
+  {
+    "id": 129,
+    "en": "form",
+    "pl": "forma, formularz"
+  },
+  {
+    "id": 130,
+    "en": "sentence",
+    "pl": "zdanie"
+  },
+  {
+    "id": 131,
+    "en": "great",
+    "pl": "wspaniały, wielki"
+  },
+  {
+    "id": 132,
+    "en": "think",
+    "pl": "myśleć"
+  },
+  {
+    "id": 133,
+    "en": "say",
+    "pl": "mówić, powiedzieć"
+  },
+  {
+    "id": 134,
+    "en": "help",
+    "pl": "pomagać"
+  },
+  {
+    "id": 135,
+    "en": "low",
+    "pl": "niski"
+  },
+  {
+    "id": 136,
+    "en": "line",
+    "pl": "linia"
+  },
+  {
+    "id": 137,
+    "en": "differ",
+    "pl": "różnić się"
+  },
+  {
+    "id": 138,
+    "en": "turn",
+    "pl": "obracać się; kolej"
+  },
+  {
+    "id": 139,
+    "en": "cause",
+    "pl": "powodować; przyczyna"
+  },
+  {
+    "id": 140,
+    "en": "much",
+    "pl": "dużo"
+  },
+  {
+    "id": 141,
+    "en": "mean",
+    "pl": "znaczyć"
+  },
+  {
+    "id": 142,
+    "en": "before",
+    "pl": "przed"
+  },
+  {
+    "id": 143,
+    "en": "move",
+    "pl": "ruszać się, poruszać"
+  },
+  {
+    "id": 144,
+    "en": "right",
+    "pl": "prawy, prawidłowy"
+  },
+  {
+    "id": 145,
+    "en": "boy",
+    "pl": "chłopiec"
+  },
+  {
+    "id": 146,
+    "en": "old",
+    "pl": "stary"
+  },
+  {
+    "id": 147,
+    "en": "too",
+    "pl": "też; za, zbyt"
+  },
+  {
+    "id": 148,
+    "en": "same",
+    "pl": "taki sam"
+  },
+  {
+    "id": 149,
+    "en": "tell",
+    "pl": "powiedzieć, opowiedzieć"
+  },
+  {
+    "id": 150,
+    "en": "does",
+    "pl": "robi (3 os. l.poj. \"do\")"
+  },
+  {
+    "id": 151,
+    "en": "set",
+    "pl": "zestaw, ustawić"
+  },
+  {
+    "id": 152,
+    "en": "three",
+    "pl": "trzy"
+  },
+  {
+    "id": 153,
+    "en": "want",
+    "pl": "chcieć"
+  },
+  {
+    "id": 154,
+    "en": "air",
+    "pl": "powietrze"
+  },
+  {
+    "id": 155,
+    "en": "well",
+    "pl": "dobrze"
+  },
+  {
+    "id": 156,
+    "en": "also",
+    "pl": "także"
+  },
+  {
+    "id": 157,
+    "en": "play",
+    "pl": "grać, bawić się"
+  },
+  {
+    "id": 158,
+    "en": "small",
+    "pl": "mały"
+  },
+  {
+    "id": 159,
+    "en": "end",
+    "pl": "koniec"
+  },
+  {
+    "id": 160,
+    "en": "put",
+    "pl": "kłaść, położyć"
+  },
+  {
+    "id": 161,
+    "en": "home",
+    "pl": "dom"
+  },
+  {
+    "id": 162,
+    "en": "read",
+    "pl": "czytać"
+  },
+  {
+    "id": 163,
+    "en": "hand",
+    "pl": "ręka"
+  },
+  {
+    "id": 164,
+    "en": "port",
+    "pl": "port"
+  },
+  {
+    "id": 165,
+    "en": "large",
+    "pl": "duży"
+  },
+  {
+    "id": 166,
+    "en": "spell",
+    "pl": "literować"
+  },
+  {
+    "id": 167,
+    "en": "add",
+    "pl": "dodawać"
+  },
+  {
+    "id": 168,
+    "en": "even",
+    "pl": "nawet"
+  },
+  {
+    "id": 169,
+    "en": "land",
+    "pl": "ziemia, ląd"
+  },
+  {
+    "id": 170,
+    "en": "here",
+    "pl": "tutaj"
+  },
+  {
+    "id": 171,
+    "en": "must",
+    "pl": "musieć"
+  },
+  {
+    "id": 172,
+    "en": "big",
+    "pl": "duży"
+  },
+  {
+    "id": 173,
+    "en": "high",
+    "pl": "wysoki"
+  },
+  {
+    "id": 174,
+    "en": "such",
+    "pl": "taki"
+  },
+  {
+    "id": 175,
+    "en": "follow",
+    "pl": "podążać, śledzić"
+  },
+  {
+    "id": 176,
+    "en": "act",
+    "pl": "działać; czyn"
+  },
+  {
+    "id": 177,
+    "en": "why",
+    "pl": "dlaczego"
+  },
+  {
+    "id": 178,
+    "en": "ask",
+    "pl": "pytać"
+  },
+  {
+    "id": 179,
+    "en": "men",
+    "pl": "mężczyźni"
+  },
+  {
+    "id": 180,
+    "en": "change",
+    "pl": "zmieniać, zmiana"
+  },
+  {
+    "id": 181,
+    "en": "went",
+    "pl": "poszedł (czas przeszły \"iść\")"
+  },
+  {
+    "id": 182,
+    "en": "light",
+    "pl": "światło, lekki"
+  },
+  {
+    "id": 183,
+    "en": "kind",
+    "pl": "rodzaj; miły"
+  },
+  {
+    "id": 184,
+    "en": "off",
+    "pl": "wyłączony, z dala"
+  },
+  {
+    "id": 185,
+    "en": "need",
+    "pl": "potrzebować"
+  },
+  {
+    "id": 186,
+    "en": "house",
+    "pl": "dom"
+  },
+  {
+    "id": 187,
+    "en": "picture",
+    "pl": "obraz, zdjęcie"
+  },
+  {
+    "id": 188,
+    "en": "try",
+    "pl": "próbować"
+  },
+  {
+    "id": 189,
+    "en": "us",
+    "pl": "nas, nam"
+  },
+  {
+    "id": 190,
+    "en": "again",
+    "pl": "znowu"
+  },
+  {
+    "id": 191,
+    "en": "animal",
+    "pl": "zwierzę"
+  },
+  {
+    "id": 192,
+    "en": "point",
+    "pl": "punkt"
+  },
+  {
+    "id": 193,
+    "en": "mother",
+    "pl": "matka"
+  },
+  {
+    "id": 194,
+    "en": "world",
+    "pl": "świat"
+  },
+  {
+    "id": 195,
+    "en": "near",
+    "pl": "blisko"
+  },
+  {
+    "id": 196,
+    "en": "build",
+    "pl": "budować"
+  },
+  {
+    "id": 197,
+    "en": "self",
+    "pl": "jaźń, sam(a)"
+  },
+  {
+    "id": 198,
+    "en": "earth",
+    "pl": "ziemia"
+  },
+  {
+    "id": 199,
+    "en": "father",
+    "pl": "ojciec"
+  },
+  {
+    "id": 200,
+    "en": "head",
+    "pl": "głowa"
+  },
+  {
+    "id": 201,
+    "en": "stand",
+    "pl": "stać"
+  },
+  {
+    "id": 202,
+    "en": "own",
+    "pl": "własny"
+  },
+  {
+    "id": 203,
+    "en": "page",
+    "pl": "strona (w książce)"
+  },
+  {
+    "id": 204,
+    "en": "should",
+    "pl": "powinien"
+  },
+  {
+    "id": 205,
+    "en": "country",
+    "pl": "kraj"
+  },
+  {
+    "id": 206,
+    "en": "found",
+    "pl": "znalazł, założył"
+  },
+  {
+    "id": 207,
+    "en": "answer",
+    "pl": "odpowiedź"
+  },
+  {
+    "id": 208,
+    "en": "school",
+    "pl": "szkoła"
+  },
+  {
+    "id": 209,
+    "en": "grow",
+    "pl": "rosnąć"
+  },
+  {
+    "id": 210,
+    "en": "study",
+    "pl": "uczyć się, studiować"
+  },
+  {
+    "id": 211,
+    "en": "still",
+    "pl": "wciąż, nieruchomo"
+  },
+  {
+    "id": 212,
+    "en": "learn",
+    "pl": "uczyć się"
+  },
+  {
+    "id": 213,
+    "en": "plant",
+    "pl": "roślina, sadzić"
+  },
+  {
+    "id": 214,
+    "en": "cover",
+    "pl": "okrywać, okładka"
+  },
+  {
+    "id": 215,
+    "en": "food",
+    "pl": "jedzenie"
+  },
+  {
+    "id": 216,
+    "en": "sun",
+    "pl": "słońce"
+  },
+  {
+    "id": 217,
+    "en": "four",
+    "pl": "cztery"
+  },
+  {
+    "id": 218,
+    "en": "between",
+    "pl": "między"
+  },
+  {
+    "id": 219,
+    "en": "state",
+    "pl": "stan, państwo"
+  },
+  {
+    "id": 220,
+    "en": "keep",
+    "pl": "trzymać, zachować"
+  },
+  {
+    "id": 221,
+    "en": "eye",
+    "pl": "oko"
+  },
+  {
+    "id": 222,
+    "en": "never",
+    "pl": "nigdy"
+  },
+  {
+    "id": 223,
+    "en": "last",
+    "pl": "ostatni"
+  },
+  {
+    "id": 224,
+    "en": "let",
+    "pl": "pozwolić"
+  },
+  {
+    "id": 225,
+    "en": "thought",
+    "pl": "myśl"
+  },
+  {
+    "id": 226,
+    "en": "city",
+    "pl": "miasto"
+  },
+  {
+    "id": 227,
+    "en": "tree",
+    "pl": "drzewo"
+  },
+  {
+    "id": 228,
+    "en": "cross",
+    "pl": "krzyż; przechodzić na drugą stronę"
+  },
+  {
+    "id": 229,
+    "en": "farm",
+    "pl": "farma, gospodarstwo"
+  },
+  {
+    "id": 230,
+    "en": "hard",
+    "pl": "twardy, trudny"
+  },
+  {
+    "id": 231,
+    "en": "start",
+    "pl": "zaczynać"
+  },
+  {
+    "id": 232,
+    "en": "might",
+    "pl": "mógłby (tryb przypuszczający)"
+  },
+  {
+    "id": 233,
+    "en": "story",
+    "pl": "historia, opowieść"
+  },
+  {
+    "id": 234,
+    "en": "saw",
+    "pl": "zobaczył (czas przeszły \"widzieć\"); piła"
+  },
+  {
+    "id": 235,
+    "en": "far",
+    "pl": "daleko"
+  },
+  {
+    "id": 236,
+    "en": "sea",
+    "pl": "morze"
+  },
+  {
+    "id": 237,
+    "en": "draw",
+    "pl": "rysować"
+  },
+  {
+    "id": 238,
+    "en": "left",
+    "pl": "lewy; zostawił"
+  },
+  {
+    "id": 239,
+    "en": "late",
+    "pl": "późny, spóźniony"
+  },
+  {
+    "id": 240,
+    "en": "run",
+    "pl": "biegać"
+  },
+  {
+    "id": 241,
+    "en": "don't",
+    "pl": "nie (przeczenie \"do not\")"
+  },
+  {
+    "id": 242,
+    "en": "while",
+    "pl": "podczas gdy"
+  },
+  {
+    "id": 243,
+    "en": "press",
+    "pl": "naciskać; prasa"
+  },
+  {
+    "id": 244,
+    "en": "close",
+    "pl": "zamykać, blisko"
+  },
+  {
+    "id": 245,
+    "en": "night",
+    "pl": "noc"
+  },
+  {
+    "id": 246,
+    "en": "real",
+    "pl": "prawdziwy"
+  },
+  {
+    "id": 247,
+    "en": "life",
+    "pl": "życie"
+  },
+  {
+    "id": 248,
+    "en": "few",
+    "pl": "kilka, niewiele"
+  },
+  {
+    "id": 249,
+    "en": "north",
+    "pl": "północ"
+  },
+  {
+    "id": 250,
+    "en": "open",
+    "pl": "otwarty, otwierać"
+  },
+  {
+    "id": 251,
+    "en": "seem",
+    "pl": "wydawać się"
+  },
+  {
+    "id": 252,
+    "en": "together",
+    "pl": "razem"
+  },
+  {
+    "id": 253,
+    "en": "next",
+    "pl": "następny"
+  },
+  {
+    "id": 254,
+    "en": "white",
+    "pl": "biały"
+  },
+  {
+    "id": 255,
+    "en": "children",
+    "pl": "dzieci"
+  },
+  {
+    "id": 256,
+    "en": "begin",
+    "pl": "zaczynać"
+  },
+  {
+    "id": 257,
+    "en": "got",
+    "pl": "dostał (czas przeszły \"get\")"
+  },
+  {
+    "id": 258,
+    "en": "walk",
+    "pl": "chodzić, spacerować"
+  },
+  {
+    "id": 259,
+    "en": "example",
+    "pl": "przykład"
+  },
+  {
+    "id": 260,
+    "en": "ease",
+    "pl": "łatwość, ulga"
+  },
+  {
+    "id": 261,
+    "en": "paper",
+    "pl": "papier"
+  },
+  {
+    "id": 262,
+    "en": "group",
+    "pl": "grupa"
+  },
+  {
+    "id": 263,
+    "en": "always",
+    "pl": "zawsze"
+  },
+  {
+    "id": 264,
+    "en": "music",
+    "pl": "muzyka"
+  },
+  {
+    "id": 265,
+    "en": "those",
+    "pl": "tamci, tamte"
+  },
+  {
+    "id": 266,
+    "en": "both",
+    "pl": "obaj, oboje"
+  },
+  {
+    "id": 267,
+    "en": "mark",
+    "pl": "znak; oceniać"
+  },
+  {
+    "id": 268,
+    "en": "often",
+    "pl": "często"
+  },
+  {
+    "id": 269,
+    "en": "letter",
+    "pl": "list, litera"
+  },
+  {
+    "id": 270,
+    "en": "until",
+    "pl": "aż do"
+  },
+  {
+    "id": 271,
+    "en": "mile",
+    "pl": "mila"
+  },
+  {
+    "id": 272,
+    "en": "river",
+    "pl": "rzeka"
+  },
+  {
+    "id": 273,
+    "en": "car",
+    "pl": "samochód"
+  },
+  {
+    "id": 274,
+    "en": "feet",
+    "pl": "stopy (l.mn. \"foot\")"
+  },
+  {
+    "id": 275,
+    "en": "care",
+    "pl": "opieka, troszczyć się"
+  },
+  {
+    "id": 276,
+    "en": "second",
+    "pl": "drugi, sekunda"
+  },
+  {
+    "id": 277,
+    "en": "book",
+    "pl": "książka"
+  },
+  {
+    "id": 278,
+    "en": "carry",
+    "pl": "nosić"
+  },
+  {
+    "id": 279,
+    "en": "took",
+    "pl": "wziął (czas przeszły \"take\")"
+  },
+  {
+    "id": 280,
+    "en": "science",
+    "pl": "nauka"
+  },
+  {
+    "id": 281,
+    "en": "eat",
+    "pl": "jeść"
+  },
+  {
+    "id": 282,
+    "en": "room",
+    "pl": "pokój"
+  },
+  {
+    "id": 283,
+    "en": "friend",
+    "pl": "przyjaciel"
+  },
+  {
+    "id": 284,
+    "en": "began",
+    "pl": "zaczął (czas przeszły \"begin\")"
+  },
+  {
+    "id": 285,
+    "en": "idea",
+    "pl": "pomysł"
+  },
+  {
+    "id": 286,
+    "en": "fish",
+    "pl": "ryba"
+  },
+  {
+    "id": 287,
+    "en": "mountain",
+    "pl": "góra"
+  },
+  {
+    "id": 288,
+    "en": "stop",
+    "pl": "zatrzymać się"
+  },
+  {
+    "id": 289,
+    "en": "once",
+    "pl": "raz, kiedyś"
+  },
+  {
+    "id": 290,
+    "en": "base",
+    "pl": "podstawa, baza"
+  },
+  {
+    "id": 291,
+    "en": "hear",
+    "pl": "słyszeć"
+  },
+  {
+    "id": 292,
+    "en": "horse",
+    "pl": "koń"
+  },
+  {
+    "id": 293,
+    "en": "cut",
+    "pl": "ciąć"
+  },
+  {
+    "id": 294,
+    "en": "sure",
+    "pl": "pewny"
+  },
+  {
+    "id": 295,
+    "en": "watch",
+    "pl": "patrzeć, zegarek"
+  },
+  {
+    "id": 296,
+    "en": "color",
+    "pl": "kolor"
+  },
+  {
+    "id": 297,
+    "en": "face",
+    "pl": "twarz"
+  },
+  {
+    "id": 298,
+    "en": "wood",
+    "pl": "drewno"
+  },
+  {
+    "id": 299,
+    "en": "main",
+    "pl": "główny"
+  },
+  {
+    "id": 300,
+    "en": "enough",
+    "pl": "wystarczająco"
+  },
+  {
+    "id": 301,
+    "en": "plain",
+    "pl": "zwykły, równina"
+  },
+  {
+    "id": 302,
+    "en": "girl",
+    "pl": "dziewczyna"
+  },
+  {
+    "id": 303,
+    "en": "usual",
+    "pl": "zwykły"
+  },
+  {
+    "id": 304,
+    "en": "young",
+    "pl": "młody"
+  },
+  {
+    "id": 305,
+    "en": "ready",
+    "pl": "gotowy"
+  },
+  {
+    "id": 306,
+    "en": "above",
+    "pl": "powyżej"
+  },
+  {
+    "id": 307,
+    "en": "ever",
+    "pl": "kiedykolwiek"
+  },
+  {
+    "id": 308,
+    "en": "red",
+    "pl": "czerwony"
+  },
+  {
+    "id": 309,
+    "en": "list",
+    "pl": "lista"
+  },
+  {
+    "id": 310,
+    "en": "though",
+    "pl": "chociaż"
+  },
+  {
+    "id": 311,
+    "en": "feel",
+    "pl": "czuć"
+  },
+  {
+    "id": 312,
+    "en": "talk",
+    "pl": "rozmawiać"
+  },
+  {
+    "id": 313,
+    "en": "bird",
+    "pl": "ptak"
+  },
+  {
+    "id": 314,
+    "en": "soon",
+    "pl": "wkrótce"
+  },
+  {
+    "id": 315,
+    "en": "body",
+    "pl": "ciało"
+  },
+  {
+    "id": 316,
+    "en": "dog",
+    "pl": "pies"
+  },
+  {
+    "id": 317,
+    "en": "family",
+    "pl": "rodzina"
+  },
+  {
+    "id": 318,
+    "en": "direct",
+    "pl": "bezpośredni, kierować"
+  },
+  {
+    "id": 319,
+    "en": "pose",
+    "pl": "pozować, poza"
+  },
+  {
+    "id": 320,
+    "en": "leave",
+    "pl": "zostawiać, wyjeżdżać"
+  },
+  {
+    "id": 321,
+    "en": "song",
+    "pl": "piosenka"
+  },
+  {
+    "id": 322,
+    "en": "measure",
+    "pl": "mierzyć, miara"
+  },
+  {
+    "id": 323,
+    "en": "door",
+    "pl": "drzwi"
+  },
+  {
+    "id": 324,
+    "en": "product",
+    "pl": "produkt"
+  },
+  {
+    "id": 325,
+    "en": "black",
+    "pl": "czarny"
+  },
+  {
+    "id": 326,
+    "en": "short",
+    "pl": "krótki"
+  },
+  {
+    "id": 327,
+    "en": "numeral",
+    "pl": "liczebnik, cyfra"
+  },
+  {
+    "id": 328,
+    "en": "class",
+    "pl": "klasa"
+  },
+  {
+    "id": 329,
+    "en": "wind",
+    "pl": "wiatr"
+  },
+  {
+    "id": 330,
+    "en": "question",
+    "pl": "pytanie"
+  },
+  {
+    "id": 331,
+    "en": "happen",
+    "pl": "zdarzać się"
+  },
+  {
+    "id": 332,
+    "en": "complete",
+    "pl": "kompletny, ukończyć"
+  },
+  {
+    "id": 333,
+    "en": "ship",
+    "pl": "statek"
+  },
+  {
+    "id": 334,
+    "en": "area",
+    "pl": "obszar"
+  },
+  {
+    "id": 335,
+    "en": "half",
+    "pl": "połowa"
+  },
+  {
+    "id": 336,
+    "en": "rock",
+    "pl": "skała, kamień"
+  },
+  {
+    "id": 337,
+    "en": "order",
+    "pl": "porządek, zamówienie"
+  },
+  {
+    "id": 338,
+    "en": "fire",
+    "pl": "ogień"
+  },
+  {
+    "id": 339,
+    "en": "south",
+    "pl": "południe"
+  },
+  {
+    "id": 340,
+    "en": "problem",
+    "pl": "problem"
+  },
+  {
+    "id": 341,
+    "en": "piece",
+    "pl": "kawałek"
+  },
+  {
+    "id": 342,
+    "en": "told",
+    "pl": "powiedział (czas przeszły \"tell\")"
+  },
+  {
+    "id": 343,
+    "en": "knew",
+    "pl": "wiedział (czas przeszły \"know\")"
+  },
+  {
+    "id": 344,
+    "en": "pass",
+    "pl": "mijać, zdać"
+  },
+  {
+    "id": 345,
+    "en": "since",
+    "pl": "od (czasu); ponieważ"
+  },
+  {
+    "id": 346,
+    "en": "top",
+    "pl": "góra, szczyt"
+  },
+  {
+    "id": 347,
+    "en": "whole",
+    "pl": "cały"
+  },
+  {
+    "id": 348,
+    "en": "king",
+    "pl": "król"
+  },
+  {
+    "id": 349,
+    "en": "space",
+    "pl": "przestrzeń, kosmos"
+  },
+  {
+    "id": 350,
+    "en": "heard",
+    "pl": "usłyszał (czas przeszły \"hear\")"
+  },
+  {
+    "id": 351,
+    "en": "best",
+    "pl": "najlepszy"
+  },
+  {
+    "id": 352,
+    "en": "hour",
+    "pl": "godzina"
+  },
+  {
+    "id": 353,
+    "en": "better",
+    "pl": "lepszy"
+  },
+  {
+    "id": 354,
+    "en": "true",
+    "pl": "prawdziwy"
+  },
+  {
+    "id": 355,
+    "en": "during",
+    "pl": "podczas"
+  },
+  {
+    "id": 356,
+    "en": "hundred",
+    "pl": "sto"
+  },
+  {
+    "id": 357,
+    "en": "five",
+    "pl": "pięć"
+  },
+  {
+    "id": 358,
+    "en": "remember",
+    "pl": "pamiętać"
+  },
+  {
+    "id": 359,
+    "en": "step",
+    "pl": "krok"
+  },
+  {
+    "id": 360,
+    "en": "early",
+    "pl": "wcześnie, wczesny"
+  },
+  {
+    "id": 361,
+    "en": "hold",
+    "pl": "trzymać"
+  },
+  {
+    "id": 362,
+    "en": "west",
+    "pl": "zachód"
+  },
+  {
+    "id": 363,
+    "en": "ground",
+    "pl": "ziemia, grunt"
+  },
+  {
+    "id": 364,
+    "en": "interest",
+    "pl": "zainteresowanie"
+  },
+  {
+    "id": 365,
+    "en": "reach",
+    "pl": "osiągać, sięgać"
+  },
+  {
+    "id": 366,
+    "en": "fast",
+    "pl": "szybki, szybko"
+  },
+  {
+    "id": 367,
+    "en": "verb",
+    "pl": "czasownik"
+  },
+  {
+    "id": 368,
+    "en": "sing",
+    "pl": "śpiewać"
+  },
+  {
+    "id": 369,
+    "en": "listen",
+    "pl": "słuchać"
+  },
+  {
+    "id": 370,
+    "en": "six",
+    "pl": "sześć"
+  },
+  {
+    "id": 371,
+    "en": "table",
+    "pl": "stół"
+  },
+  {
+    "id": 372,
+    "en": "travel",
+    "pl": "podróżować"
+  },
+  {
+    "id": 373,
+    "en": "less",
+    "pl": "mniej"
+  },
+  {
+    "id": 374,
+    "en": "morning",
+    "pl": "poranek"
+  },
+  {
+    "id": 375,
+    "en": "ten",
+    "pl": "dziesięć"
+  },
+  {
+    "id": 376,
+    "en": "simple",
+    "pl": "prosty"
+  },
+  {
+    "id": 377,
+    "en": "several",
+    "pl": "kilka"
+  },
+  {
+    "id": 378,
+    "en": "vowel",
+    "pl": "samogłoska"
+  },
+  {
+    "id": 379,
+    "en": "toward",
+    "pl": "w kierunku"
+  },
+  {
+    "id": 380,
+    "en": "war",
+    "pl": "wojna"
+  },
+  {
+    "id": 381,
+    "en": "lay",
+    "pl": "kłaść"
+  },
+  {
+    "id": 382,
+    "en": "against",
+    "pl": "przeciwko"
+  },
+  {
+    "id": 383,
+    "en": "pattern",
+    "pl": "wzór"
+  },
+  {
+    "id": 384,
+    "en": "slow",
+    "pl": "wolny (o tempie)"
+  },
+  {
+    "id": 385,
+    "en": "center",
+    "pl": "środek, centrum"
+  },
+  {
+    "id": 386,
+    "en": "love",
+    "pl": "miłość, kochać"
+  },
+  {
+    "id": 387,
+    "en": "person",
+    "pl": "osoba"
+  },
+  {
+    "id": 388,
+    "en": "money",
+    "pl": "pieniądze"
+  },
+  {
+    "id": 389,
+    "en": "serve",
+    "pl": "służyć, podawać"
+  },
+  {
+    "id": 390,
+    "en": "appear",
+    "pl": "pojawiać się"
+  },
+  {
+    "id": 391,
+    "en": "road",
+    "pl": "droga"
+  },
+  {
+    "id": 392,
+    "en": "map",
+    "pl": "mapa"
+  },
+  {
+    "id": 393,
+    "en": "rain",
+    "pl": "deszcz"
+  },
+  {
+    "id": 394,
+    "en": "rule",
+    "pl": "zasada, reguła"
+  },
+  {
+    "id": 395,
+    "en": "govern",
+    "pl": "rządzić"
+  },
+  {
+    "id": 396,
+    "en": "pull",
+    "pl": "ciągnąć"
+  },
+  {
+    "id": 397,
+    "en": "cold",
+    "pl": "zimny"
+  },
+  {
+    "id": 398,
+    "en": "notice",
+    "pl": "zauważać"
+  },
+  {
+    "id": 399,
+    "en": "voice",
+    "pl": "głos"
+  },
+  {
+    "id": 400,
+    "en": "unit",
+    "pl": "jednostka"
+  },
+  {
+    "id": 401,
+    "en": "power",
+    "pl": "moc, władza"
+  },
+  {
+    "id": 402,
+    "en": "town",
+    "pl": "miasteczko"
+  },
+  {
+    "id": 403,
+    "en": "fine",
+    "pl": "w porządku, drobny"
+  },
+  {
+    "id": 404,
+    "en": "certain",
+    "pl": "pewny"
+  },
+  {
+    "id": 405,
+    "en": "fly",
+    "pl": "latać, mucha"
+  },
+  {
+    "id": 406,
+    "en": "fall",
+    "pl": "spadać, jesień"
+  },
+  {
+    "id": 407,
+    "en": "lead",
+    "pl": "prowadzić; ołów"
+  },
+  {
+    "id": 408,
+    "en": "cry",
+    "pl": "płakać"
+  },
+  {
+    "id": 409,
+    "en": "dark",
+    "pl": "ciemny"
+  },
+  {
+    "id": 410,
+    "en": "machine",
+    "pl": "maszyna"
+  },
+  {
+    "id": 411,
+    "en": "note",
+    "pl": "notatka"
+  },
+  {
+    "id": 412,
+    "en": "wait",
+    "pl": "czekać"
+  },
+  {
+    "id": 413,
+    "en": "plan",
+    "pl": "plan"
+  },
+  {
+    "id": 414,
+    "en": "figure",
+    "pl": "postać, liczba"
+  },
+  {
+    "id": 415,
+    "en": "star",
+    "pl": "gwiazda"
+  },
+  {
+    "id": 416,
+    "en": "box",
+    "pl": "pudełko"
+  },
+  {
+    "id": 417,
+    "en": "noun",
+    "pl": "rzeczownik"
+  },
+  {
+    "id": 418,
+    "en": "field",
+    "pl": "pole"
+  },
+  {
+    "id": 419,
+    "en": "rest",
+    "pl": "odpoczynek, reszta"
+  },
+  {
+    "id": 420,
+    "en": "correct",
+    "pl": "poprawny"
+  },
+  {
+    "id": 421,
+    "en": "able",
+    "pl": "zdolny (być w stanie)"
+  },
+  {
+    "id": 422,
+    "en": "pound",
+    "pl": "funt"
+  },
+  {
+    "id": 423,
+    "en": "done",
+    "pl": "zrobiony"
+  },
+  {
+    "id": 424,
+    "en": "beauty",
+    "pl": "piękno"
+  },
+  {
+    "id": 425,
+    "en": "drive",
+    "pl": "prowadzić (samochód)"
+  },
+  {
+    "id": 426,
+    "en": "stood",
+    "pl": "stał (czas przeszły \"stand\")"
+  },
+  {
+    "id": 427,
+    "en": "contain",
+    "pl": "zawierać"
+  },
+  {
+    "id": 428,
+    "en": "front",
+    "pl": "przód"
+  },
+  {
+    "id": 429,
+    "en": "teach",
+    "pl": "uczyć (kogoś)"
+  },
+  {
+    "id": 430,
+    "en": "week",
+    "pl": "tydzień"
+  },
+  {
+    "id": 431,
+    "en": "final",
+    "pl": "końcowy"
+  },
+  {
+    "id": 432,
+    "en": "gave",
+    "pl": "dał (czas przeszły \"give\")"
+  },
+  {
+    "id": 433,
+    "en": "green",
+    "pl": "zielony"
+  },
+  {
+    "id": 434,
+    "en": "oh",
+    "pl": "och"
+  },
+  {
+    "id": 435,
+    "en": "quick",
+    "pl": "szybki"
+  },
+  {
+    "id": 436,
+    "en": "develop",
+    "pl": "rozwijać"
+  },
+  {
+    "id": 437,
+    "en": "ocean",
+    "pl": "ocean"
+  },
+  {
+    "id": 438,
+    "en": "warm",
+    "pl": "ciepły"
+  },
+  {
+    "id": 439,
+    "en": "free",
+    "pl": "wolny, darmowy"
+  },
+  {
+    "id": 440,
+    "en": "minute",
+    "pl": "minuta"
+  },
+  {
+    "id": 441,
+    "en": "strong",
+    "pl": "silny"
+  },
+  {
+    "id": 442,
+    "en": "special",
+    "pl": "specjalny"
+  },
+  {
+    "id": 443,
+    "en": "mind",
+    "pl": "umysł"
+  },
+  {
+    "id": 444,
+    "en": "behind",
+    "pl": "za"
+  },
+  {
+    "id": 445,
+    "en": "clear",
+    "pl": "jasny, czysty"
+  },
+  {
+    "id": 446,
+    "en": "tail",
+    "pl": "ogon"
+  },
+  {
+    "id": 447,
+    "en": "produce",
+    "pl": "produkować"
+  },
+  {
+    "id": 448,
+    "en": "fact",
+    "pl": "fakt"
+  },
+  {
+    "id": 449,
+    "en": "street",
+    "pl": "ulica"
+  },
+  {
+    "id": 450,
+    "en": "inch",
+    "pl": "cal"
+  },
+  {
+    "id": 451,
+    "en": "multiply",
+    "pl": "mnożyć"
+  },
+  {
+    "id": 452,
+    "en": "nothing",
+    "pl": "nic"
+  },
+  {
+    "id": 453,
+    "en": "course",
+    "pl": "kurs; oczywiście"
+  },
+  {
+    "id": 454,
+    "en": "stay",
+    "pl": "zostawać"
+  },
+  {
+    "id": 455,
+    "en": "wheel",
+    "pl": "koło"
+  },
+  {
+    "id": 456,
+    "en": "full",
+    "pl": "pełny"
+  },
+  {
+    "id": 457,
+    "en": "force",
+    "pl": "siła"
+  },
+  {
+    "id": 458,
+    "en": "blue",
+    "pl": "niebieski"
+  },
+  {
+    "id": 459,
+    "en": "object",
+    "pl": "przedmiot; sprzeciwiać się"
+  },
+  {
+    "id": 460,
+    "en": "decide",
+    "pl": "decydować"
+  },
+  {
+    "id": 461,
+    "en": "surface",
+    "pl": "powierzchnia"
+  },
+  {
+    "id": 462,
+    "en": "deep",
+    "pl": "głęboki"
+  },
+  {
+    "id": 463,
+    "en": "moon",
+    "pl": "księżyc"
+  },
+  {
+    "id": 464,
+    "en": "island",
+    "pl": "wyspa"
+  },
+  {
+    "id": 465,
+    "en": "foot",
+    "pl": "stopa"
+  },
+  {
+    "id": 466,
+    "en": "system",
+    "pl": "system"
+  },
+  {
+    "id": 467,
+    "en": "busy",
+    "pl": "zajęty"
+  },
+  {
+    "id": 468,
+    "en": "test",
+    "pl": "test, testować"
+  },
+  {
+    "id": 469,
+    "en": "record",
+    "pl": "nagrywać; rekord"
+  },
+  {
+    "id": 470,
+    "en": "boat",
+    "pl": "łódź"
+  },
+  {
+    "id": 471,
+    "en": "common",
+    "pl": "wspólny, powszechny"
+  },
+  {
+    "id": 472,
+    "en": "gold",
+    "pl": "złoto"
+  },
+  {
+    "id": 473,
+    "en": "possible",
+    "pl": "możliwy"
+  },
+  {
+    "id": 474,
+    "en": "plane",
+    "pl": "samolot"
+  },
+  {
+    "id": 475,
+    "en": "stead",
+    "pl": "miejsce (in stead of - zamiast)"
+  },
+  {
+    "id": 476,
+    "en": "dry",
+    "pl": "suchy"
+  },
+  {
+    "id": 477,
+    "en": "wonder",
+    "pl": "zastanawiać się"
+  },
+  {
+    "id": 478,
+    "en": "laugh",
+    "pl": "śmiać się"
+  },
+  {
+    "id": 479,
+    "en": "thousand",
+    "pl": "tysiąc"
+  },
+  {
+    "id": 480,
+    "en": "ago",
+    "pl": "temu"
+  },
+  {
+    "id": 481,
+    "en": "ran",
+    "pl": "biegł (czas przeszły \"run\")"
+  },
+  {
+    "id": 482,
+    "en": "check",
+    "pl": "sprawdzać"
+  },
+  {
+    "id": 483,
+    "en": "game",
+    "pl": "gra"
+  },
+  {
+    "id": 484,
+    "en": "shape",
+    "pl": "kształt"
+  },
+  {
+    "id": 485,
+    "en": "equate",
+    "pl": "utożsamiać, zrównywać"
+  },
+  {
+    "id": 486,
+    "en": "hot",
+    "pl": "gorący"
+  },
+  {
+    "id": 487,
+    "en": "miss",
+    "pl": "tęsknić, przegapić"
+  },
+  {
+    "id": 488,
+    "en": "brought",
+    "pl": "przyniósł (czas przeszły \"bring\")"
+  },
+  {
+    "id": 489,
+    "en": "heat",
+    "pl": "ciepło, upał"
+  },
+  {
+    "id": 490,
+    "en": "snow",
+    "pl": "śnieg"
+  },
+  {
+    "id": 491,
+    "en": "tire",
+    "pl": "opona; męczyć się"
+  },
+  {
+    "id": 492,
+    "en": "bring",
+    "pl": "przynosić"
+  },
+  {
+    "id": 493,
+    "en": "yes",
+    "pl": "tak"
+  },
+  {
+    "id": 494,
+    "en": "distant",
+    "pl": "odległy"
+  },
+  {
+    "id": 495,
+    "en": "fill",
+    "pl": "napełniać"
+  },
+  {
+    "id": 496,
+    "en": "east",
+    "pl": "wschód"
+  },
+  {
+    "id": 497,
+    "en": "paint",
+    "pl": "malować, farba"
+  },
+  {
+    "id": 498,
+    "en": "language",
+    "pl": "język"
+  },
+  {
+    "id": 499,
+    "en": "among",
+    "pl": "wśród"
+  },
+  {
+    "id": 500,
+    "en": "grand",
+    "pl": "wspaniały"
+  },
+  {
+    "id": 501,
+    "en": "ball",
+    "pl": "piłka"
+  },
+  {
+    "id": 502,
+    "en": "yet",
+    "pl": "jeszcze"
+  },
+  {
+    "id": 503,
+    "en": "wave",
+    "pl": "fala, machać"
+  },
+  {
+    "id": 504,
+    "en": "drop",
+    "pl": "upuszczać, kropla"
+  },
+  {
+    "id": 505,
+    "en": "heart",
+    "pl": "serce"
+  },
+  {
+    "id": 506,
+    "en": "am",
+    "pl": "jestem"
+  },
+  {
+    "id": 507,
+    "en": "present",
+    "pl": "obecny, prezent"
+  },
+  {
+    "id": 508,
+    "en": "heavy",
+    "pl": "ciężki"
+  },
+  {
+    "id": 509,
+    "en": "dance",
+    "pl": "tańczyć"
+  },
+  {
+    "id": 510,
+    "en": "engine",
+    "pl": "silnik"
+  },
+  {
+    "id": 511,
+    "en": "position",
+    "pl": "pozycja"
+  },
+  {
+    "id": 512,
+    "en": "arm",
+    "pl": "ramię"
+  },
+  {
+    "id": 513,
+    "en": "wide",
+    "pl": "szeroki"
+  },
+  {
+    "id": 514,
+    "en": "sail",
+    "pl": "żeglować, żagiel"
+  },
+  {
+    "id": 515,
+    "en": "material",
+    "pl": "materiał"
+  },
+  {
+    "id": 516,
+    "en": "size",
+    "pl": "rozmiar"
+  },
+  {
+    "id": 517,
+    "en": "vary",
+    "pl": "różnić się, zmieniać się"
+  },
+  {
+    "id": 518,
+    "en": "settle",
+    "pl": "osiedlać się, rozstrzygać"
+  },
+  {
+    "id": 519,
+    "en": "speak",
+    "pl": "mówić"
+  },
+  {
+    "id": 520,
+    "en": "weight",
+    "pl": "waga"
+  },
+  {
+    "id": 521,
+    "en": "general",
+    "pl": "ogólny, generał"
+  },
+  {
+    "id": 522,
+    "en": "ice",
+    "pl": "lód"
+  },
+  {
+    "id": 523,
+    "en": "matter",
+    "pl": "materia; mieć znaczenie"
+  },
+  {
+    "id": 524,
+    "en": "circle",
+    "pl": "koło, okrąg"
+  },
+  {
+    "id": 525,
+    "en": "pair",
+    "pl": "para"
+  },
+  {
+    "id": 526,
+    "en": "include",
+    "pl": "zawierać, obejmować"
+  },
+  {
+    "id": 527,
+    "en": "divide",
+    "pl": "dzielić"
+  },
+  {
+    "id": 528,
+    "en": "syllable",
+    "pl": "sylaba"
+  },
+  {
+    "id": 529,
+    "en": "felt",
+    "pl": "poczuł (czas przeszły \"feel\"); filc"
+  },
+  {
+    "id": 530,
+    "en": "perhaps",
+    "pl": "być może"
+  },
+  {
+    "id": 531,
+    "en": "pick",
+    "pl": "wybierać"
+  },
+  {
+    "id": 532,
+    "en": "sudden",
+    "pl": "nagły"
+  },
+  {
+    "id": 533,
+    "en": "count",
+    "pl": "liczyć"
+  },
+  {
+    "id": 534,
+    "en": "square",
+    "pl": "kwadrat"
+  },
+  {
+    "id": 535,
+    "en": "reason",
+    "pl": "powód"
+  },
+  {
+    "id": 536,
+    "en": "length",
+    "pl": "długość"
+  },
+  {
+    "id": 537,
+    "en": "represent",
+    "pl": "reprezentować"
+  },
+  {
+    "id": 538,
+    "en": "art",
+    "pl": "sztuka"
+  },
+  {
+    "id": 539,
+    "en": "subject",
+    "pl": "temat, przedmiot"
+  },
+  {
+    "id": 540,
+    "en": "region",
+    "pl": "region"
+  },
+  {
+    "id": 541,
+    "en": "energy",
+    "pl": "energia"
+  },
+  {
+    "id": 542,
+    "en": "hunt",
+    "pl": "polować"
+  },
+  {
+    "id": 543,
+    "en": "probable",
+    "pl": "prawdopodobny"
+  },
+  {
+    "id": 544,
+    "en": "bed",
+    "pl": "łóżko"
+  },
+  {
+    "id": 545,
+    "en": "brother",
+    "pl": "brat"
+  },
+  {
+    "id": 546,
+    "en": "egg",
+    "pl": "jajko"
+  },
+  {
+    "id": 547,
+    "en": "ride",
+    "pl": "jechać (np. na rowerze)"
+  },
+  {
+    "id": 548,
+    "en": "cell",
+    "pl": "komórka"
+  },
+  {
+    "id": 549,
+    "en": "believe",
+    "pl": "wierzyć"
+  },
+  {
+    "id": 550,
+    "en": "fraction",
+    "pl": "ułamek"
+  },
+  {
+    "id": 551,
+    "en": "forest",
+    "pl": "las"
+  },
+  {
+    "id": 552,
+    "en": "sit",
+    "pl": "siedzieć"
+  },
+  {
+    "id": 553,
+    "en": "race",
+    "pl": "wyścig, rasa"
+  },
+  {
+    "id": 554,
+    "en": "window",
+    "pl": "okno"
+  },
+  {
+    "id": 555,
+    "en": "store",
+    "pl": "sklep"
+  },
+  {
+    "id": 556,
+    "en": "summer",
+    "pl": "lato"
+  },
+  {
+    "id": 557,
+    "en": "train",
+    "pl": "pociąg, trenować"
+  },
+  {
+    "id": 558,
+    "en": "sleep",
+    "pl": "spać"
+  },
+  {
+    "id": 559,
+    "en": "prove",
+    "pl": "udowadniać"
+  },
+  {
+    "id": 560,
+    "en": "lone",
+    "pl": "samotny"
+  },
+  {
+    "id": 561,
+    "en": "leg",
+    "pl": "noga"
+  },
+  {
+    "id": 562,
+    "en": "exercise",
+    "pl": "ćwiczenie"
+  },
+  {
+    "id": 563,
+    "en": "wall",
+    "pl": "ściana"
+  },
+  {
+    "id": 564,
+    "en": "catch",
+    "pl": "łapać"
+  },
+  {
+    "id": 565,
+    "en": "mount",
+    "pl": "wspinać się, góra"
+  },
+  {
+    "id": 566,
+    "en": "wish",
+    "pl": "życzyć sobie"
+  },
+  {
+    "id": 567,
+    "en": "sky",
+    "pl": "niebo"
+  },
+  {
+    "id": 568,
+    "en": "board",
+    "pl": "deska, zarząd"
+  },
+  {
+    "id": 569,
+    "en": "joy",
+    "pl": "radość"
+  },
+  {
+    "id": 570,
+    "en": "winter",
+    "pl": "zima"
+  },
+  {
+    "id": 571,
+    "en": "sat",
+    "pl": "siedział (czas przeszły \"sit\")"
+  },
+  {
+    "id": 572,
+    "en": "written",
+    "pl": "napisany"
+  },
+  {
+    "id": 573,
+    "en": "wild",
+    "pl": "dziki"
+  },
+  {
+    "id": 574,
+    "en": "instrument",
+    "pl": "instrument"
+  },
+  {
+    "id": 575,
+    "en": "kept",
+    "pl": "trzymał (czas przeszły \"keep\")"
+  },
+  {
+    "id": 576,
+    "en": "glass",
+    "pl": "szkło, szklanka"
+  },
+  {
+    "id": 577,
+    "en": "grass",
+    "pl": "trawa"
+  },
+  {
+    "id": 578,
+    "en": "cow",
+    "pl": "krowa"
+  },
+  {
+    "id": 579,
+    "en": "job",
+    "pl": "praca, zajęcie"
+  },
+  {
+    "id": 580,
+    "en": "edge",
+    "pl": "krawędź"
+  },
+  {
+    "id": 581,
+    "en": "sign",
+    "pl": "znak, podpisać"
+  },
+  {
+    "id": 582,
+    "en": "visit",
+    "pl": "odwiedzać"
+  },
+  {
+    "id": 583,
+    "en": "past",
+    "pl": "przeszłość, miniony"
+  },
+  {
+    "id": 584,
+    "en": "soft",
+    "pl": "miękki"
+  },
+  {
+    "id": 585,
+    "en": "fun",
+    "pl": "zabawa"
+  },
+  {
+    "id": 586,
+    "en": "bright",
+    "pl": "jasny, bystry"
+  },
+  {
+    "id": 587,
+    "en": "gas",
+    "pl": "gaz, benzyna"
+  },
+  {
+    "id": 588,
+    "en": "weather",
+    "pl": "pogoda"
+  },
+  {
+    "id": 589,
+    "en": "month",
+    "pl": "miesiąc"
+  },
+  {
+    "id": 590,
+    "en": "million",
+    "pl": "milion"
+  },
+  {
+    "id": 591,
+    "en": "bear",
+    "pl": "niedźwiedź; znosić (coś)"
+  },
+  {
+    "id": 592,
+    "en": "finish",
+    "pl": "kończyć"
+  },
+  {
+    "id": 593,
+    "en": "happy",
+    "pl": "szczęśliwy"
+  },
+  {
+    "id": 594,
+    "en": "hope",
+    "pl": "nadzieja, mieć nadzieję"
+  },
+  {
+    "id": 595,
+    "en": "flower",
+    "pl": "kwiat"
+  },
+  {
+    "id": 596,
+    "en": "clothe",
+    "pl": "ubierać"
+  },
+  {
+    "id": 597,
+    "en": "strange",
+    "pl": "dziwny"
+  },
+  {
+    "id": 598,
+    "en": "gone",
+    "pl": "odszedł, zniknął"
+  },
+  {
+    "id": 599,
+    "en": "jump",
+    "pl": "skakać"
+  },
+  {
+    "id": 600,
+    "en": "baby",
+    "pl": "dziecko, niemowlę"
+  },
+  {
+    "id": 601,
+    "en": "eight",
+    "pl": "osiem"
+  },
+  {
+    "id": 602,
+    "en": "village",
+    "pl": "wieś"
+  },
+  {
+    "id": 603,
+    "en": "meet",
+    "pl": "spotykać"
+  },
+  {
+    "id": 604,
+    "en": "root",
+    "pl": "korzeń"
+  },
+  {
+    "id": 605,
+    "en": "buy",
+    "pl": "kupować"
+  },
+  {
+    "id": 606,
+    "en": "raise",
+    "pl": "podnosić, wychowywać"
+  },
+  {
+    "id": 607,
+    "en": "solve",
+    "pl": "rozwiązywać"
+  },
+  {
+    "id": 608,
+    "en": "metal",
+    "pl": "metal"
+  },
+  {
+    "id": 609,
+    "en": "whether",
+    "pl": "czy"
+  },
+  {
+    "id": 610,
+    "en": "push",
+    "pl": "pchać"
+  },
+  {
+    "id": 611,
+    "en": "seven",
+    "pl": "siedem"
+  },
+  {
+    "id": 612,
+    "en": "paragraph",
+    "pl": "akapit"
+  },
+  {
+    "id": 613,
+    "en": "third",
+    "pl": "trzeci"
+  },
+  {
+    "id": 614,
+    "en": "shall",
+    "pl": "(czasownik posiłkowy czasu przyszłego)"
+  },
+  {
+    "id": 615,
+    "en": "held",
+    "pl": "trzymał (czas przeszły \"hold\")"
+  },
+  {
+    "id": 616,
+    "en": "hair",
+    "pl": "włosy"
+  },
+  {
+    "id": 617,
+    "en": "describe",
+    "pl": "opisywać"
+  },
+  {
+    "id": 618,
+    "en": "cook",
+    "pl": "gotować"
+  },
+  {
+    "id": 619,
+    "en": "floor",
+    "pl": "podłoga"
+  },
+  {
+    "id": 620,
+    "en": "either",
+    "pl": "albo; też (w przeczeniach)"
+  },
+  {
+    "id": 621,
+    "en": "result",
+    "pl": "wynik"
+  },
+  {
+    "id": 622,
+    "en": "burn",
+    "pl": "palić się"
+  },
+  {
+    "id": 623,
+    "en": "hill",
+    "pl": "wzgórze"
+  },
+  {
+    "id": 624,
+    "en": "safe",
+    "pl": "bezpieczny"
+  },
+  {
+    "id": 625,
+    "en": "cat",
+    "pl": "kot"
+  },
+  {
+    "id": 626,
+    "en": "century",
+    "pl": "wiek (stulecie)"
+  },
+  {
+    "id": 627,
+    "en": "consider",
+    "pl": "rozważać"
+  },
+  {
+    "id": 628,
+    "en": "type",
+    "pl": "typ; pisać na klawiaturze"
+  },
+  {
+    "id": 629,
+    "en": "law",
+    "pl": "prawo"
+  },
+  {
+    "id": 630,
+    "en": "bit",
+    "pl": "trochę, kawałek"
+  },
+  {
+    "id": 631,
+    "en": "coast",
+    "pl": "wybrzeże"
+  },
+  {
+    "id": 632,
+    "en": "copy",
+    "pl": "kopia, kopiować"
+  },
+  {
+    "id": 633,
+    "en": "phrase",
+    "pl": "fraza, zwrot"
+  },
+  {
+    "id": 634,
+    "en": "silent",
+    "pl": "cichy, milczący"
+  },
+  {
+    "id": 635,
+    "en": "tall",
+    "pl": "wysoki"
+  },
+  {
+    "id": 636,
+    "en": "sand",
+    "pl": "piasek"
+  },
+  {
+    "id": 637,
+    "en": "soil",
+    "pl": "gleba"
+  },
+  {
+    "id": 638,
+    "en": "roll",
+    "pl": "toczyć się, rolka"
+  },
+  {
+    "id": 639,
+    "en": "temperature",
+    "pl": "temperatura"
+  },
+  {
+    "id": 640,
+    "en": "finger",
+    "pl": "palec"
+  },
+  {
+    "id": 641,
+    "en": "industry",
+    "pl": "przemysł"
+  },
+  {
+    "id": 642,
+    "en": "value",
+    "pl": "wartość"
+  },
+  {
+    "id": 643,
+    "en": "fight",
+    "pl": "walczyć, walka"
+  },
+  {
+    "id": 644,
+    "en": "lie",
+    "pl": "kłamać; leżeć"
+  },
+  {
+    "id": 645,
+    "en": "beat",
+    "pl": "bić, pokonać"
+  },
+  {
+    "id": 646,
+    "en": "excite",
+    "pl": "ekscytować"
+  },
+  {
+    "id": 647,
+    "en": "natural",
+    "pl": "naturalny"
+  },
+  {
+    "id": 648,
+    "en": "view",
+    "pl": "widok, pogląd"
+  },
+  {
+    "id": 649,
+    "en": "sense",
+    "pl": "zmysł, sens"
+  },
+  {
+    "id": 650,
+    "en": "ear",
+    "pl": "ucho"
+  },
+  {
+    "id": 651,
+    "en": "else",
+    "pl": "inaczej, poza tym"
+  },
+  {
+    "id": 652,
+    "en": "quite",
+    "pl": "dość, całkiem"
+  },
+  {
+    "id": 653,
+    "en": "broke",
+    "pl": "złamał (czas przeszły \"break\")"
+  },
+  {
+    "id": 654,
+    "en": "case",
+    "pl": "przypadek, walizka"
+  },
+  {
+    "id": 655,
+    "en": "middle",
+    "pl": "środek"
+  },
+  {
+    "id": 656,
+    "en": "kill",
+    "pl": "zabijać"
+  },
+  {
+    "id": 657,
+    "en": "son",
+    "pl": "syn"
+  },
+  {
+    "id": 658,
+    "en": "lake",
+    "pl": "jezioro"
+  },
+  {
+    "id": 659,
+    "en": "moment",
+    "pl": "chwila"
+  },
+  {
+    "id": 660,
+    "en": "scale",
+    "pl": "skala, waga"
+  },
+  {
+    "id": 661,
+    "en": "loud",
+    "pl": "głośny"
+  },
+  {
+    "id": 662,
+    "en": "spring",
+    "pl": "wiosna, sprężyna"
+  },
+  {
+    "id": 663,
+    "en": "observe",
+    "pl": "obserwować"
+  },
+  {
+    "id": 664,
+    "en": "child",
+    "pl": "dziecko"
+  },
+  {
+    "id": 665,
+    "en": "straight",
+    "pl": "prosty"
+  },
+  {
+    "id": 666,
+    "en": "consonant",
+    "pl": "spółgłoska"
+  },
+  {
+    "id": 667,
+    "en": "nation",
+    "pl": "naród"
+  },
+  {
+    "id": 668,
+    "en": "dictionary",
+    "pl": "słownik"
+  },
+  {
+    "id": 669,
+    "en": "milk",
+    "pl": "mleko"
+  },
+  {
+    "id": 670,
+    "en": "speed",
+    "pl": "prędkość"
+  },
+  {
+    "id": 671,
+    "en": "method",
+    "pl": "metoda"
+  },
+  {
+    "id": 672,
+    "en": "organ",
+    "pl": "organ"
+  },
+  {
+    "id": 673,
+    "en": "pay",
+    "pl": "płacić"
+  },
+  {
+    "id": 674,
+    "en": "age",
+    "pl": "wiek"
+  },
+  {
+    "id": 675,
+    "en": "section",
+    "pl": "sekcja, dział"
+  },
+  {
+    "id": 676,
+    "en": "dress",
+    "pl": "sukienka, ubierać się"
+  },
+  {
+    "id": 677,
+    "en": "cloud",
+    "pl": "chmura"
+  },
+  {
+    "id": 678,
+    "en": "surprise",
+    "pl": "niespodzianka, zaskoczenie"
+  },
+  {
+    "id": 679,
+    "en": "quiet",
+    "pl": "cichy, spokojny"
+  },
+  {
+    "id": 680,
+    "en": "stone",
+    "pl": "kamień"
+  },
+  {
+    "id": 681,
+    "en": "tiny",
+    "pl": "malutki"
+  },
+  {
+    "id": 682,
+    "en": "climb",
+    "pl": "wspinać się"
+  },
+  {
+    "id": 683,
+    "en": "cool",
+    "pl": "fajny, chłodny"
+  },
+  {
+    "id": 684,
+    "en": "design",
+    "pl": "projekt, projektować"
+  },
+  {
+    "id": 685,
+    "en": "poor",
+    "pl": "biedny"
+  },
+  {
+    "id": 686,
+    "en": "lot",
+    "pl": "dużo, działka"
+  },
+  {
+    "id": 687,
+    "en": "experiment",
+    "pl": "eksperyment"
+  },
+  {
+    "id": 688,
+    "en": "bottom",
+    "pl": "dół, spód"
+  },
+  {
+    "id": 689,
+    "en": "key",
+    "pl": "klucz"
+  },
+  {
+    "id": 690,
+    "en": "iron",
+    "pl": "żelazo, żelazko"
+  },
+  {
+    "id": 691,
+    "en": "single",
+    "pl": "pojedynczy"
+  },
+  {
+    "id": 692,
+    "en": "stick",
+    "pl": "patyk, przyklejać"
+  },
+  {
+    "id": 693,
+    "en": "flat",
+    "pl": "płaski, mieszkanie"
+  },
+  {
+    "id": 694,
+    "en": "twenty",
+    "pl": "dwadzieścia"
+  },
+  {
+    "id": 695,
+    "en": "skin",
+    "pl": "skóra"
+  },
+  {
+    "id": 696,
+    "en": "smile",
+    "pl": "uśmiech, uśmiechać się"
+  },
+  {
+    "id": 697,
+    "en": "crease",
+    "pl": "zagniecenie, fałda"
+  },
+  {
+    "id": 698,
+    "en": "hole",
+    "pl": "dziura"
+  },
+  {
+    "id": 699,
+    "en": "trade",
+    "pl": "handel"
+  },
+  {
+    "id": 700,
+    "en": "melody",
+    "pl": "melodia"
+  },
+  {
+    "id": 701,
+    "en": "trip",
+    "pl": "podróż"
+  },
+  {
+    "id": 702,
+    "en": "office",
+    "pl": "biuro"
+  },
+  {
+    "id": 703,
+    "en": "receive",
+    "pl": "otrzymywać"
+  },
+  {
+    "id": 704,
+    "en": "row",
+    "pl": "rząd, wiosłować"
+  },
+  {
+    "id": 705,
+    "en": "mouth",
+    "pl": "usta"
+  },
+  {
+    "id": 706,
+    "en": "exact",
+    "pl": "dokładny"
+  },
+  {
+    "id": 707,
+    "en": "symbol",
+    "pl": "symbol"
+  },
+  {
+    "id": 708,
+    "en": "die",
+    "pl": "umierać"
+  },
+  {
+    "id": 709,
+    "en": "least",
+    "pl": "najmniej"
+  },
+  {
+    "id": 710,
+    "en": "trouble",
+    "pl": "kłopot"
+  },
+  {
+    "id": 711,
+    "en": "shout",
+    "pl": "krzyczeć"
+  },
+  {
+    "id": 712,
+    "en": "except",
+    "pl": "z wyjątkiem"
+  },
+  {
+    "id": 713,
+    "en": "wrote",
+    "pl": "napisał (czas przeszły \"write\")"
+  },
+  {
+    "id": 714,
+    "en": "seed",
+    "pl": "nasiono"
+  },
+  {
+    "id": 715,
+    "en": "tone",
+    "pl": "ton"
+  },
+  {
+    "id": 716,
+    "en": "join",
+    "pl": "dołączać"
+  },
+  {
+    "id": 717,
+    "en": "suggest",
+    "pl": "sugerować"
+  },
+  {
+    "id": 718,
+    "en": "clean",
+    "pl": "czysty, sprzątać"
+  },
+  {
+    "id": 719,
+    "en": "break",
+    "pl": "łamać, przerwa"
+  },
+  {
+    "id": 720,
+    "en": "lady",
+    "pl": "dama, pani"
+  },
+  {
+    "id": 721,
+    "en": "yard",
+    "pl": "jard, podwórko"
+  },
+  {
+    "id": 722,
+    "en": "rise",
+    "pl": "wschodzić, wznosić się"
+  },
+  {
+    "id": 723,
+    "en": "bad",
+    "pl": "zły"
+  },
+  {
+    "id": 724,
+    "en": "blow",
+    "pl": "dmuchać, cios"
+  },
+  {
+    "id": 725,
+    "en": "oil",
+    "pl": "olej, ropa"
+  },
+  {
+    "id": 726,
+    "en": "blood",
+    "pl": "krew"
+  },
+  {
+    "id": 727,
+    "en": "touch",
+    "pl": "dotykać"
+  },
+  {
+    "id": 728,
+    "en": "grew",
+    "pl": "rósł (czas przeszły \"grow\")"
+  },
+  {
+    "id": 729,
+    "en": "cent",
+    "pl": "cent"
+  },
+  {
+    "id": 730,
+    "en": "mix",
+    "pl": "mieszać"
+  },
+  {
+    "id": 731,
+    "en": "team",
+    "pl": "drużyna, zespół"
+  },
+  {
+    "id": 732,
+    "en": "wire",
+    "pl": "drut, przewód"
+  },
+  {
+    "id": 733,
+    "en": "cost",
+    "pl": "koszt, kosztować"
+  },
+  {
+    "id": 734,
+    "en": "lost",
+    "pl": "zgubiony, przegrany"
+  },
+  {
+    "id": 735,
+    "en": "brown",
+    "pl": "brązowy"
+  },
+  {
+    "id": 736,
+    "en": "wear",
+    "pl": "nosić (ubranie)"
+  },
+  {
+    "id": 737,
+    "en": "garden",
+    "pl": "ogród"
+  },
+  {
+    "id": 738,
+    "en": "equal",
+    "pl": "równy"
+  },
+  {
+    "id": 739,
+    "en": "sent",
+    "pl": "wysłał (czas przeszły \"send\")"
+  },
+  {
+    "id": 740,
+    "en": "choose",
+    "pl": "wybierać"
+  },
+  {
+    "id": 741,
+    "en": "fell",
+    "pl": "upadł (czas przeszły \"fall\")"
+  },
+  {
+    "id": 742,
+    "en": "fit",
+    "pl": "pasować; w formie"
+  },
+  {
+    "id": 743,
+    "en": "flow",
+    "pl": "płynąć"
+  },
+  {
+    "id": 744,
+    "en": "fair",
+    "pl": "sprawiedliwy, jarmark"
+  },
+  {
+    "id": 745,
+    "en": "bank",
+    "pl": "bank, brzeg (rzeki)"
+  },
+  {
+    "id": 746,
+    "en": "collect",
+    "pl": "zbierać"
+  },
+  {
+    "id": 747,
+    "en": "save",
+    "pl": "ratować, oszczędzać"
+  },
+  {
+    "id": 748,
+    "en": "control",
+    "pl": "kontrola, kontrolować"
+  },
+  {
+    "id": 749,
+    "en": "decimal",
+    "pl": "dziesiętny"
+  },
+  {
+    "id": 750,
+    "en": "gentle",
+    "pl": "łagodny"
+  },
+  {
+    "id": 751,
+    "en": "woman",
+    "pl": "kobieta"
+  },
+  {
+    "id": 752,
+    "en": "captain",
+    "pl": "kapitan"
+  },
+  {
+    "id": 753,
+    "en": "practice",
+    "pl": "praktyka, ćwiczyć"
+  },
+  {
+    "id": 754,
+    "en": "separate",
+    "pl": "oddzielny, oddzielać"
+  },
+  {
+    "id": 755,
+    "en": "difficult",
+    "pl": "trudny"
+  },
+  {
+    "id": 756,
+    "en": "doctor",
+    "pl": "lekarz"
+  },
+  {
+    "id": 757,
+    "en": "please",
+    "pl": "proszę"
+  },
+  {
+    "id": 758,
+    "en": "protect",
+    "pl": "chronić"
+  },
+  {
+    "id": 759,
+    "en": "noon",
+    "pl": "południe (pora dnia)"
+  },
+  {
+    "id": 760,
+    "en": "whose",
+    "pl": "czyj"
+  },
+  {
+    "id": 761,
+    "en": "locate",
+    "pl": "zlokalizować"
+  },
+  {
+    "id": 762,
+    "en": "ring",
+    "pl": "pierścionek, dzwonić"
+  },
+  {
+    "id": 763,
+    "en": "character",
+    "pl": "charakter, postać"
+  },
+  {
+    "id": 764,
+    "en": "insect",
+    "pl": "owad"
+  },
+  {
+    "id": 765,
+    "en": "caught",
+    "pl": "złapał (czas przeszły \"catch\")"
+  },
+  {
+    "id": 766,
+    "en": "period",
+    "pl": "okres, kropka"
+  },
+  {
+    "id": 767,
+    "en": "indicate",
+    "pl": "wskazywać"
+  },
+  {
+    "id": 768,
+    "en": "radio",
+    "pl": "radio"
+  },
+  {
+    "id": 769,
+    "en": "spoke",
+    "pl": "mówił (czas przeszły \"speak\")"
+  },
+  {
+    "id": 770,
+    "en": "atom",
+    "pl": "atom"
+  },
+  {
+    "id": 771,
+    "en": "human",
+    "pl": "człowiek, ludzki"
+  },
+  {
+    "id": 772,
+    "en": "history",
+    "pl": "historia"
+  },
+  {
+    "id": 773,
+    "en": "effect",
+    "pl": "efekt, skutek"
+  },
+  {
+    "id": 774,
+    "en": "electric",
+    "pl": "elektryczny"
+  },
+  {
+    "id": 775,
+    "en": "expect",
+    "pl": "oczekiwać"
+  },
+  {
+    "id": 776,
+    "en": "crop",
+    "pl": "plon, uprawa"
+  },
+  {
+    "id": 777,
+    "en": "modern",
+    "pl": "nowoczesny"
+  },
+  {
+    "id": 778,
+    "en": "element",
+    "pl": "element"
+  },
+  {
+    "id": 779,
+    "en": "hit",
+    "pl": "uderzać"
+  },
+  {
+    "id": 780,
+    "en": "student",
+    "pl": "uczeń, student"
+  },
+  {
+    "id": 781,
+    "en": "corner",
+    "pl": "róg, kąt"
+  },
+  {
+    "id": 782,
+    "en": "party",
+    "pl": "impreza, partia"
+  },
+  {
+    "id": 783,
+    "en": "supply",
+    "pl": "zaopatrzenie, dostarczać"
+  },
+  {
+    "id": 784,
+    "en": "bone",
+    "pl": "kość"
+  },
+  {
+    "id": 785,
+    "en": "rail",
+    "pl": "szyna"
+  },
+  {
+    "id": 786,
+    "en": "imagine",
+    "pl": "wyobrażać sobie"
+  },
+  {
+    "id": 787,
+    "en": "provide",
+    "pl": "zapewniać, dostarczać"
+  },
+  {
+    "id": 788,
+    "en": "agree",
+    "pl": "zgadzać się"
+  },
+  {
+    "id": 789,
+    "en": "thus",
+    "pl": "w ten sposób"
+  },
+  {
+    "id": 790,
+    "en": "capital",
+    "pl": "stolica, kapitał"
+  },
+  {
+    "id": 791,
+    "en": "won't",
+    "pl": "nie (przeczenie \"will not\")"
+  },
+  {
+    "id": 792,
+    "en": "chair",
+    "pl": "krzesło"
+  },
+  {
+    "id": 793,
+    "en": "danger",
+    "pl": "niebezpieczeństwo"
+  },
+  {
+    "id": 794,
+    "en": "fruit",
+    "pl": "owoc"
+  },
+  {
+    "id": 795,
+    "en": "rich",
+    "pl": "bogaty"
+  },
+  {
+    "id": 796,
+    "en": "thick",
+    "pl": "gruby"
+  },
+  {
+    "id": 797,
+    "en": "soldier",
+    "pl": "żołnierz"
+  },
+  {
+    "id": 798,
+    "en": "process",
+    "pl": "proces"
+  },
+  {
+    "id": 799,
+    "en": "operate",
+    "pl": "obsługiwać, działać"
+  },
+  {
+    "id": 800,
+    "en": "guess",
+    "pl": "zgadywać"
+  },
+  {
+    "id": 801,
+    "en": "necessary",
+    "pl": "konieczny"
+  },
+  {
+    "id": 802,
+    "en": "sharp",
+    "pl": "ostry"
+  },
+  {
+    "id": 803,
+    "en": "wing",
+    "pl": "skrzydło"
+  },
+  {
+    "id": 804,
+    "en": "create",
+    "pl": "tworzyć"
+  },
+  {
+    "id": 805,
+    "en": "neighbor",
+    "pl": "sąsiad"
+  },
+  {
+    "id": 806,
+    "en": "wash",
+    "pl": "myć"
+  },
+  {
+    "id": 807,
+    "en": "bat",
+    "pl": "nietoperz, kij (bejsbolowy)"
+  },
+  {
+    "id": 808,
+    "en": "rather",
+    "pl": "raczej"
+  },
+  {
+    "id": 809,
+    "en": "crowd",
+    "pl": "tłum"
+  },
+  {
+    "id": 810,
+    "en": "corn",
+    "pl": "kukurydza"
+  },
+  {
+    "id": 811,
+    "en": "compare",
+    "pl": "porównywać"
+  },
+  {
+    "id": 812,
+    "en": "poem",
+    "pl": "wiersz"
+  },
+  {
+    "id": 813,
+    "en": "string",
+    "pl": "sznurek"
+  },
+  {
+    "id": 814,
+    "en": "bell",
+    "pl": "dzwonek"
+  },
+  {
+    "id": 815,
+    "en": "depend",
+    "pl": "zależeć"
+  },
+  {
+    "id": 816,
+    "en": "meat",
+    "pl": "mięso"
+  },
+  {
+    "id": 817,
+    "en": "rub",
+    "pl": "trzeć"
+  },
+  {
+    "id": 818,
+    "en": "tube",
+    "pl": "rurka"
+  },
+  {
+    "id": 819,
+    "en": "famous",
+    "pl": "sławny"
+  },
+  {
+    "id": 820,
+    "en": "dollar",
+    "pl": "dolar"
+  },
+  {
+    "id": 821,
+    "en": "stream",
+    "pl": "strumień"
+  },
+  {
+    "id": 822,
+    "en": "fear",
+    "pl": "strach"
+  },
+  {
+    "id": 823,
+    "en": "sight",
+    "pl": "wzrok, widok"
+  },
+  {
+    "id": 824,
+    "en": "thin",
+    "pl": "cienki, chudy"
+  },
+  {
+    "id": 825,
+    "en": "triangle",
+    "pl": "trójkąt"
+  },
+  {
+    "id": 826,
+    "en": "planet",
+    "pl": "planeta"
+  },
+  {
+    "id": 827,
+    "en": "hurry",
+    "pl": "śpieszyć się"
+  },
+  {
+    "id": 828,
+    "en": "chief",
+    "pl": "naczelny, wódz"
+  },
+  {
+    "id": 829,
+    "en": "colony",
+    "pl": "kolonia"
+  },
+  {
+    "id": 830,
+    "en": "clock",
+    "pl": "zegar"
+  },
+  {
+    "id": 831,
+    "en": "mine",
+    "pl": "mój; kopalnia"
+  },
+  {
+    "id": 832,
+    "en": "tie",
+    "pl": "krawat, wiązać"
+  },
+  {
+    "id": 833,
+    "en": "enter",
+    "pl": "wchodzić"
+  },
+  {
+    "id": 834,
+    "en": "major",
+    "pl": "główny, major"
+  },
+  {
+    "id": 835,
+    "en": "fresh",
+    "pl": "świeży"
+  },
+  {
+    "id": 836,
+    "en": "search",
+    "pl": "szukać"
+  },
+  {
+    "id": 837,
+    "en": "send",
+    "pl": "wysyłać"
+  },
+  {
+    "id": 838,
+    "en": "yellow",
+    "pl": "żółty"
+  },
+  {
+    "id": 839,
+    "en": "gun",
+    "pl": "broń palna"
+  },
+  {
+    "id": 840,
+    "en": "allow",
+    "pl": "pozwalać"
+  },
+  {
+    "id": 841,
+    "en": "print",
+    "pl": "drukować"
+  },
+  {
+    "id": 842,
+    "en": "dead",
+    "pl": "martwy"
+  },
+  {
+    "id": 843,
+    "en": "spot",
+    "pl": "plamka, miejsce"
+  },
+  {
+    "id": 844,
+    "en": "desert",
+    "pl": "pustynia"
+  },
+  {
+    "id": 845,
+    "en": "suit",
+    "pl": "garnitur, pasować"
+  },
+  {
+    "id": 846,
+    "en": "current",
+    "pl": "obecny, prąd"
+  },
+  {
+    "id": 847,
+    "en": "lift",
+    "pl": "podnosić, winda"
+  },
+  {
+    "id": 848,
+    "en": "rose",
+    "pl": "róża; wstał (czas przeszły \"rise\")"
+  },
+  {
+    "id": 849,
+    "en": "continue",
+    "pl": "kontynuować"
+  },
+  {
+    "id": 850,
+    "en": "block",
+    "pl": "blok, blokować"
+  },
+  {
+    "id": 851,
+    "en": "chart",
+    "pl": "wykres"
+  },
+  {
+    "id": 852,
+    "en": "hat",
+    "pl": "kapelusz"
+  },
+  {
+    "id": 853,
+    "en": "sell",
+    "pl": "sprzedawać"
+  },
+  {
+    "id": 854,
+    "en": "success",
+    "pl": "sukces"
+  },
+  {
+    "id": 855,
+    "en": "company",
+    "pl": "firma, towarzystwo"
+  },
+  {
+    "id": 856,
+    "en": "subtract",
+    "pl": "odejmować"
+  },
+  {
+    "id": 857,
+    "en": "event",
+    "pl": "wydarzenie"
+  },
+  {
+    "id": 858,
+    "en": "particular",
+    "pl": "szczególny"
+  },
+  {
+    "id": 859,
+    "en": "deal",
+    "pl": "umowa, zajmować się"
+  },
+  {
+    "id": 860,
+    "en": "swim",
+    "pl": "pływać"
+  },
+  {
+    "id": 861,
+    "en": "term",
+    "pl": "termin, semestr"
+  },
+  {
+    "id": 862,
+    "en": "opposite",
+    "pl": "przeciwny, naprzeciwko"
+  },
+  {
+    "id": 863,
+    "en": "wife",
+    "pl": "żona"
+  },
+  {
+    "id": 864,
+    "en": "shoe",
+    "pl": "but"
+  },
+  {
+    "id": 865,
+    "en": "shoulder",
+    "pl": "ramię (bark)"
+  },
+  {
+    "id": 866,
+    "en": "spread",
+    "pl": "rozprzestrzeniać"
+  },
+  {
+    "id": 867,
+    "en": "arrange",
+    "pl": "organizować, układać"
+  },
+  {
+    "id": 868,
+    "en": "camp",
+    "pl": "obóz"
+  },
+  {
+    "id": 869,
+    "en": "invent",
+    "pl": "wynajdować"
+  },
+  {
+    "id": 870,
+    "en": "cotton",
+    "pl": "bawełna"
+  },
+  {
+    "id": 871,
+    "en": "born",
+    "pl": "urodzony"
+  },
+  {
+    "id": 872,
+    "en": "determine",
+    "pl": "określać, ustalać"
+  },
+  {
+    "id": 873,
+    "en": "quart",
+    "pl": "kwarta"
+  },
+  {
+    "id": 874,
+    "en": "nine",
+    "pl": "dziewięć"
+  },
+  {
+    "id": 875,
+    "en": "truck",
+    "pl": "ciężarówka"
+  },
+  {
+    "id": 876,
+    "en": "noise",
+    "pl": "hałas"
+  },
+  {
+    "id": 877,
+    "en": "level",
+    "pl": "poziom"
+  },
+  {
+    "id": 878,
+    "en": "chance",
+    "pl": "szansa"
+  },
+  {
+    "id": 879,
+    "en": "gather",
+    "pl": "zbierać się"
+  },
+  {
+    "id": 880,
+    "en": "shop",
+    "pl": "sklep"
+  },
+  {
+    "id": 881,
+    "en": "stretch",
+    "pl": "rozciągać"
+  },
+  {
+    "id": 882,
+    "en": "throw",
+    "pl": "rzucać"
+  },
+  {
+    "id": 883,
+    "en": "shine",
+    "pl": "świecić"
+  },
+  {
+    "id": 884,
+    "en": "property",
+    "pl": "własność, nieruchomość"
+  },
+  {
+    "id": 885,
+    "en": "column",
+    "pl": "kolumna"
+  },
+  {
+    "id": 886,
+    "en": "molecule",
+    "pl": "cząsteczka"
+  },
+  {
+    "id": 887,
+    "en": "select",
+    "pl": "wybierać"
+  },
+  {
+    "id": 888,
+    "en": "wrong",
+    "pl": "zły, niepoprawny"
+  },
+  {
+    "id": 889,
+    "en": "gray",
+    "pl": "szary"
+  },
+  {
+    "id": 890,
+    "en": "repeat",
+    "pl": "powtarzać"
+  },
+  {
+    "id": 891,
+    "en": "require",
+    "pl": "wymagać"
+  },
+  {
+    "id": 892,
+    "en": "broad",
+    "pl": "szeroki"
+  },
+  {
+    "id": 893,
+    "en": "prepare",
+    "pl": "przygotowywać"
+  },
+  {
+    "id": 894,
+    "en": "salt",
+    "pl": "sól"
+  },
+  {
+    "id": 895,
+    "en": "nose",
+    "pl": "nos"
+  },
+  {
+    "id": 896,
+    "en": "plural",
+    "pl": "liczba mnoga"
+  },
+  {
+    "id": 897,
+    "en": "anger",
+    "pl": "gniew"
+  },
+  {
+    "id": 898,
+    "en": "claim",
+    "pl": "twierdzić, roszczenie"
+  },
+  {
+    "id": 899,
+    "en": "continent",
+    "pl": "kontynent"
+  },
+  {
+    "id": 900,
+    "en": "oxygen",
+    "pl": "tlen"
+  },
+  {
+    "id": 901,
+    "en": "sugar",
+    "pl": "cukier"
+  },
+  {
+    "id": 902,
+    "en": "death",
+    "pl": "śmierć"
+  },
+  {
+    "id": 903,
+    "en": "pretty",
+    "pl": "ładny"
+  },
+  {
+    "id": 904,
+    "en": "skill",
+    "pl": "umiejętność"
+  },
+  {
+    "id": 905,
+    "en": "women",
+    "pl": "kobiety (l.mn. \"woman\")"
+  },
+  {
+    "id": 906,
+    "en": "season",
+    "pl": "pora roku, sezon"
+  },
+  {
+    "id": 907,
+    "en": "solution",
+    "pl": "rozwiązanie"
+  },
+  {
+    "id": 908,
+    "en": "magnet",
+    "pl": "magnes"
+  },
+  {
+    "id": 909,
+    "en": "silver",
+    "pl": "srebro"
+  },
+  {
+    "id": 910,
+    "en": "thank",
+    "pl": "dziękować"
+  },
+  {
+    "id": 911,
+    "en": "branch",
+    "pl": "gałąź, oddział"
+  },
+  {
+    "id": 912,
+    "en": "match",
+    "pl": "mecz, zapałka"
+  },
+  {
+    "id": 913,
+    "en": "suffix",
+    "pl": "przyrostek"
+  },
+  {
+    "id": 914,
+    "en": "especially",
+    "pl": "szczególnie"
+  },
+  {
+    "id": 915,
+    "en": "fig",
+    "pl": "figa"
+  },
+  {
+    "id": 916,
+    "en": "afraid",
+    "pl": "przestraszony"
+  },
+  {
+    "id": 917,
+    "en": "huge",
+    "pl": "ogromny"
+  },
+  {
+    "id": 918,
+    "en": "sister",
+    "pl": "siostra"
+  },
+  {
+    "id": 919,
+    "en": "steel",
+    "pl": "stal"
+  },
+  {
+    "id": 920,
+    "en": "discuss",
+    "pl": "dyskutować"
+  },
+  {
+    "id": 921,
+    "en": "forward",
+    "pl": "naprzód"
+  },
+  {
+    "id": 922,
+    "en": "similar",
+    "pl": "podobny"
+  },
+  {
+    "id": 923,
+    "en": "guide",
+    "pl": "przewodnik, prowadzić"
+  },
+  {
+    "id": 924,
+    "en": "experience",
+    "pl": "doświadczenie"
+  },
+  {
+    "id": 925,
+    "en": "score",
+    "pl": "wynik, zdobywać punkty"
+  },
+  {
+    "id": 926,
+    "en": "apple",
+    "pl": "jabłko"
+  },
+  {
+    "id": 927,
+    "en": "bought",
+    "pl": "kupił (czas przeszły \"buy\")"
+  },
+  {
+    "id": 928,
+    "en": "led",
+    "pl": "poprowadził (czas przeszły \"lead\")"
+  },
+  {
+    "id": 929,
+    "en": "pitch",
+    "pl": "boisko, rzucać"
+  },
+  {
+    "id": 930,
+    "en": "coat",
+    "pl": "płaszcz"
+  },
+  {
+    "id": 931,
+    "en": "mass",
+    "pl": "masa"
+  },
+  {
+    "id": 932,
+    "en": "card",
+    "pl": "karta"
+  },
+  {
+    "id": 933,
+    "en": "band",
+    "pl": "zespół, opaska"
+  },
+  {
+    "id": 934,
+    "en": "rope",
+    "pl": "lina"
+  },
+  {
+    "id": 935,
+    "en": "slip",
+    "pl": "poślizgnąć się"
+  },
+  {
+    "id": 936,
+    "en": "win",
+    "pl": "wygrywać"
+  },
+  {
+    "id": 937,
+    "en": "dream",
+    "pl": "sen, marzenie"
+  },
+  {
+    "id": 938,
+    "en": "evening",
+    "pl": "wieczór"
+  },
+  {
+    "id": 939,
+    "en": "condition",
+    "pl": "warunek"
+  },
+  {
+    "id": 940,
+    "en": "feed",
+    "pl": "karmić"
+  },
+  {
+    "id": 941,
+    "en": "tool",
+    "pl": "narzędzie"
+  },
+  {
+    "id": 942,
+    "en": "total",
+    "pl": "całkowity, suma"
+  },
+  {
+    "id": 943,
+    "en": "basic",
+    "pl": "podstawowy"
+  },
+  {
+    "id": 944,
+    "en": "smell",
+    "pl": "zapach, wąchać"
+  },
+  {
+    "id": 945,
+    "en": "valley",
+    "pl": "dolina"
+  },
+  {
+    "id": 946,
+    "en": "nor",
+    "pl": "ani"
+  },
+  {
+    "id": 947,
+    "en": "double",
+    "pl": "podwójny"
+  },
+  {
+    "id": 948,
+    "en": "seat",
+    "pl": "siedzenie, miejsce"
+  },
+  {
+    "id": 949,
+    "en": "arrive",
+    "pl": "przybywać"
+  },
+  {
+    "id": 950,
+    "en": "master",
+    "pl": "mistrz, opanować"
+  },
+  {
+    "id": 951,
+    "en": "track",
+    "pl": "tor, śledzić"
+  },
+  {
+    "id": 952,
+    "en": "parent",
+    "pl": "rodzic"
+  },
+  {
+    "id": 953,
+    "en": "shore",
+    "pl": "brzeg (morza)"
+  },
+  {
+    "id": 954,
+    "en": "division",
+    "pl": "podział, dzielenie"
+  },
+  {
+    "id": 955,
+    "en": "sheet",
+    "pl": "arkusz, prześcieradło"
+  },
+  {
+    "id": 956,
+    "en": "substance",
+    "pl": "substancja"
+  },
+  {
+    "id": 957,
+    "en": "favor",
+    "pl": "przysługa"
+  },
+  {
+    "id": 958,
+    "en": "connect",
+    "pl": "łączyć"
+  },
+  {
+    "id": 959,
+    "en": "post",
+    "pl": "poczta, słupek"
+  },
+  {
+    "id": 960,
+    "en": "spend",
+    "pl": "wydawać (pieniądze, czas)"
+  },
+  {
+    "id": 961,
+    "en": "chord",
+    "pl": "akord"
+  },
+  {
+    "id": 962,
+    "en": "fat",
+    "pl": "tłusty, tłuszcz"
+  },
+  {
+    "id": 963,
+    "en": "glad",
+    "pl": "zadowolony"
+  },
+  {
+    "id": 964,
+    "en": "original",
+    "pl": "oryginalny"
+  },
+  {
+    "id": 965,
+    "en": "share",
+    "pl": "dzielić się, udział"
+  },
+  {
+    "id": 966,
+    "en": "station",
+    "pl": "stacja"
+  },
+  {
+    "id": 967,
+    "en": "dad",
+    "pl": "tata"
+  },
+  {
+    "id": 968,
+    "en": "bread",
+    "pl": "chleb"
+  },
+  {
+    "id": 969,
+    "en": "charge",
+    "pl": "obciążać, ładować"
+  },
+  {
+    "id": 970,
+    "en": "proper",
+    "pl": "właściwy"
+  },
+  {
+    "id": 971,
+    "en": "bar",
+    "pl": "bar, sztaba"
+  },
+  {
+    "id": 972,
+    "en": "offer",
+    "pl": "oferować"
+  },
+  {
+    "id": 973,
+    "en": "segment",
+    "pl": "segment"
+  },
+  {
+    "id": 974,
+    "en": "slave",
+    "pl": "niewolnik"
+  },
+  {
+    "id": 975,
+    "en": "duck",
+    "pl": "kaczka"
+  },
+  {
+    "id": 976,
+    "en": "instant",
+    "pl": "natychmiastowy, chwila"
+  },
+  {
+    "id": 977,
+    "en": "market",
+    "pl": "rynek"
+  },
+  {
+    "id": 978,
+    "en": "degree",
+    "pl": "stopień"
+  },
+  {
+    "id": 979,
+    "en": "populate",
+    "pl": "zaludniać"
+  },
+  {
+    "id": 980,
+    "en": "chick",
+    "pl": "kurczątko"
+  },
+  {
+    "id": 981,
+    "en": "dear",
+    "pl": "drogi, kochany"
+  },
+  {
+    "id": 982,
+    "en": "enemy",
+    "pl": "wróg"
+  },
+  {
+    "id": 983,
+    "en": "reply",
+    "pl": "odpowiadać"
+  },
+  {
+    "id": 984,
+    "en": "drink",
+    "pl": "pić"
+  },
+  {
+    "id": 985,
+    "en": "occur",
+    "pl": "zdarzać się"
+  },
+  {
+    "id": 986,
+    "en": "support",
+    "pl": "wspierać"
+  },
+  {
+    "id": 987,
+    "en": "speech",
+    "pl": "mowa, przemówienie"
+  },
+  {
+    "id": 988,
+    "en": "nature",
+    "pl": "natura"
+  },
+  {
+    "id": 989,
+    "en": "range",
+    "pl": "zakres, pasmo"
+  },
+  {
+    "id": 990,
+    "en": "steam",
+    "pl": "para (wodna)"
+  },
+  {
+    "id": 991,
+    "en": "motion",
+    "pl": "ruch"
+  },
+  {
+    "id": 992,
+    "en": "path",
+    "pl": "ścieżka"
+  },
+  {
+    "id": 993,
+    "en": "liquid",
+    "pl": "płyn"
+  },
+  {
+    "id": 994,
+    "en": "log",
+    "pl": "kłoda, dziennik (zapis)"
+  },
+  {
+    "id": 995,
+    "en": "meant",
+    "pl": "znaczył (czas przeszły \"mean\")"
+  },
+  {
+    "id": 996,
+    "en": "quotient",
+    "pl": "iloraz"
+  },
+  {
+    "id": 997,
+    "en": "teeth",
+    "pl": "zęby (l.mn. \"tooth\")"
+  },
+  {
+    "id": 998,
+    "en": "shell",
+    "pl": "muszla, skorupa"
+  },
+  {
+    "id": 999,
+    "en": "neck",
+    "pl": "szyja"
+  },
+  {
+    "id": 1000,
+    "en": "today",
+    "pl": "dzisiaj"
+  }
+]
