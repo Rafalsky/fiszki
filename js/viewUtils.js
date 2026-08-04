@@ -1,6 +1,7 @@
-// Shared view/mode-switching helpers used by both app.js (vocab) and
-// grammarApp.js (grammar). Kept in one place so both modules toggle the
-// same ".view"/".mode-section" convention consistently.
+// Shared view/mode-switching helpers used by app.js (vocab) and
+// js/grammarTopic.js (one instance per grammar topic page). Kept in one
+// place so every page toggles the same ".view"/".mode-section" convention
+// consistently.
 
 export const el = (id) => document.getElementById(id);
 

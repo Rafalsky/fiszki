@@ -3,24 +3,28 @@
     "id": "tenses",
     "icon": "⏰",
     "title": "Czasy",
-    "desc": "12 czasów angielskich — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy."
+    "desc": "12 czasów angielskich — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 120
   },
   {
     "id": "articles",
     "icon": "🔤",
     "title": "Przedimki",
-    "desc": "a / an / the / brak przedimka — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy."
+    "desc": "a / an / the / brak przedimka — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   },
   {
     "id": "modals",
     "icon": "🔑",
     "title": "Czasowniki modalne",
-    "desc": "can, could, must, have to, should, may, might i inne — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy."
+    "desc": "can, could, must, have to, should, may, might i inne — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 50
   },
   {
     "id": "passive",
     "icon": "🔄",
     "title": "Strona bierna",
-    "desc": "Passive voice w pięciu czasach — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy."
+    "desc": "Passive voice w pięciu czasach — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 50
   }
 ]

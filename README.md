@@ -83,18 +83,41 @@ Działa jako statyczna strona — MVP wdrożone na **GitHub Pages**.
 ## Struktura repo
 
 ```
-index.html          punkt wejścia
-css/main.css         style
+index.html          punkt wejścia — tylko słownictwo (panel, sesja, słownik) i ustawienia
+css/main.css         style, wspólne dla wszystkich stron (index + grammar/**)
 js/
-  app.js              kontroler UI / spinacz wszystkiego
+  app.js              kontroler UI słownictwa / ustawień
   srs.js              silnik 5-poziomowego systemu powtórek (Leitner)
   speech.js           wrapper na Web Speech API
   spellcheck.js       "human friendly" sprawdzanie pisowni (tryb pisania)
-  storage.js          localStorage (postęp + ustawienia)
+  storage.js          localStorage (postęp słówek + ustawienia)
   wordsRepo.js         wczytywanie data/words.json
+  grammarRepo.js        wczytywanie manifestu i danych tematów gramatyki
+  grammarStorage.js      localStorage (postęp ćwiczeń gramatycznych)
+  grammarHub.js          renderuje grammar/index.html (siatka tematów + postęp)
+  grammarTopic.js        renderuje grammar/<id>/index.html (teoria/ćwiczenia/test jednego tematu)
 data/words.json      6000 słów: {id, en, pl}
+data/grammarTopics.json   manifest tematów gramatyki: {id, icon, title, desc, drillCount}
+data/<topic>.json         teoria danego tematu gramatyki
+data/<topic>Drills.json   ćwiczenia z lukami danego tematu
+grammar/
+  index.html            hub — siatka wszystkich tematów gramatyki z linkami i postępem
+  _template/index.html   szablon do kopiowania przy dodawaniu nowego tematu
+  <topic-id>/index.html  osobna, samodzielna strona każdego tematu (własny URL)
 .github/workflows/deploy-pages.yml   wdrożenie na GitHub Pages
 ```
+
+Gramatyka jest rozbita na osobne strony (jeden temat = jeden katalog pod
+`grammar/<id>/`, prawdziwy adres URL), a nie kolejne widoki w jednym wielkim
+`index.html`. Dzięki temu strona główna (słownictwo) nigdy nie rośnie wraz z
+liczbą tematów gramatyki, a każdy temat ładuje tylko własne dane — `js/app.js`
+o gramatyce nic nie wie, a `grammar/index.html` (hub) dociąga tylko lekki
+manifest `data/grammarTopics.json`, nigdy pełne dane tematów. Postęp per temat
+na hubie liczony jest wyłącznie z `localStorage` (bez pobierania plików z
+ćwiczeniami) dzięki polu `drillCount` w manifeście. Dodanie nowego tematu to:
+skopiowanie `grammar/_template/` do `grammar/<id>/` i podmiana czterech
+placeholderów, dwa pliki JSON z danymi, jeden wpis w manifeście i dwie linijki
+w `grammarRepo.js` — żadna inna strona ani plik JS nie wymaga zmian.
 
 ## Uruchomienie lokalne
 
