@@ -1,6 +1,6 @@
 # fiszki
 
-Fiszki do nauki angielskiego słownictwa — 2000 najpopularniejszych angielskich
+Fiszki do nauki angielskiego słownictwa — 3000 najpopularniejszych angielskich
 słów, 5-stopniowy system powtórek (Leitner) i wymowa czytana przez przeglądarkę
 (Web Speech API). Postęp trzymany wyłącznie lokalnie, w `localStorage`
 przeglądarki — bez backendu, bez konta, bez wysyłania czegokolwiek na serwer.
@@ -13,17 +13,20 @@ Działa jako statyczna strona — MVP wdrożone na **GitHub Pages**.
   `<script type="module">`). Dzięki temu GitHub Pages serwuje repo wprost,
   bez kroku kompilacji i bez `node_modules`. Prostsze MVP, mniej ruchomych
   części.
-- **Baza słownictwa**: `data/words.json` — 2000 obiektów `{id, en, pl}`,
+- **Baza słownictwa**: `data/words.json` — 3000 obiektów `{id, en, pl}`,
   posortowanych wg rangi częstości (id 1 = najczęstsze słowo).
   - Słowa 1–1000: powszechnie używany zbiór "1000 najpopularniejszych słów
     angielskich" (frekwencyjna lista edukacyjna, pochodząca z klasycznego
     zestawienia Carvera; wersja: `deekayen/4148741`).
-  - Słowa 1001–2000: kolejne najczęstsze angielskie słowa wg listy
+  - Słowa 1001–3000: kolejne najczęstsze angielskie słowa wg listy
     frekwencyjnej `first20hours/google-10000-english` (n-gramy z Google
-    Trillion Word Corpus), odfiltrowane z nazw własnych, marek, skrótów i
-    "spamowych" słów kluczowych z web-corpusu (np. "phentermine",
-    "ringtones") — ten fragment listy jest z natury szumiący (surowa
-    częstość słów na stronach WWW), więc wymagał ręcznego czyszczenia.
+    Trillion Word Corpus), odfiltrowane z nazw własnych (imiona, miasta,
+    stany, kraje), marek, skrótów i "spamowych"/wrażliwych słów kluczowych
+    z web-corpusu (np. "phentermine", "ringtones", kategorie treści dla
+    dorosłych) — ten fragment listy jest z natury coraz bardziej szumiący
+    im dalej w rankingu (surowa częstość słów na stronach WWW), więc
+    wymagał ręcznego czyszczenia; im dalej, tym więcej trzeba było
+    odsiewać.
   - Tłumaczenia na polski są własnym opracowaniem (nie skopiowane z żadnego
     gotowego słownika dwujęzycznego). Słowa funkcyjne bez jednoznacznego
     odpowiednika (np. "the", "of", "a") mają krótki opisowy glos zamiast
@@ -78,7 +81,7 @@ js/
   spellcheck.js       "human friendly" sprawdzanie pisowni (tryb pisania)
   storage.js          localStorage (postęp + ustawienia)
   wordsRepo.js         wczytywanie data/words.json
-data/words.json      2000 słów: {id, en, pl}
+data/words.json      3000 słów: {id, en, pl}
 .github/workflows/deploy-pages.yml   wdrożenie na GitHub Pages
 ```
 
@@ -105,7 +108,7 @@ python3 -m http.server 8000
   tłumaczenia użytkownik ocenia siebie: "umiałem/am" / "nie umiałem/am".
 - Skróty klawiszowe w trybie samooceny: spacja = pokaż tłumaczenie,
   1/← = nie umiałem, 2/→ = umiałem.
-- Widok "Słownik" — przegląd i wyszukiwanie wszystkich 2000 słów z
+- Widok "Słownik" — przegląd i wyszukiwanie wszystkich 3000 słów z
   wymową i aktualnym poziomem każdego.
 - Ustawienia: tryb ćwiczenia, wybór głosu, szybkość mowy, autoodtwarzanie,
   liczba nowych słówek na sesję, reset postępu.
