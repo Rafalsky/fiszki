@@ -41,6 +41,18 @@ Działa jako statyczna strona — MVP wdrożone na **GitHub Pages**.
     Fisher-Yates) — inaczej sesje "nowe słówka" zawsze szłyby w tej samej
     kolejności rangi częstości, a "zaległe" zawsze w tej samej kolejności
     poziom→data powtórki.
+- **Dwa tryby ćwiczenia** (`js/spellcheck.js`, wybór w Ustawieniach,
+  domyślnie "pisanie"):
+  - **Pisanie** — karta pokazuje polskie tłumaczenie, użytkownik wpisuje
+    angielskie słowo. Sprawdzanie pisowni jest "human friendly": wielkość
+    liter i apostrofy nie mają znaczenia (`don't` == `dont`), a odległość
+    Levenshteina do poprawnej pisowni w granicach `floor(długość/4)` wciąż
+    liczy się jako dobra odpowiedź (żółty "prawie", zamiast czerwonego
+    "źle") — czyli ~1 literówka na 4 litery jest tolerowana, ale krótkie
+    słowa (≤3 litery) muszą być dokładne. Wynik "exact" lub "close" liczy
+    się w SRS jako "umiałem", "wrong" jako "nie umiałem".
+  - **Samoocena** — pierwotny tryb: pokaż tłumaczenie → oceń się sam
+    (umiem / nie umiem).
 - **Wymowa**: `SpeechSynthesisUtterance` z `window.speechSynthesis`
   (`js/speech.js`). Ustawienia pozwalają wybrać dostępny głos angielski,
   szybkość mowy i włączyć/wyłączyć automatyczne odtwarzanie po pokazaniu
@@ -63,6 +75,7 @@ js/
   app.js              kontroler UI / spinacz wszystkiego
   srs.js              silnik 5-poziomowego systemu powtórek (Leitner)
   speech.js           wrapper na Web Speech API
+  spellcheck.js       "human friendly" sprawdzanie pisowni (tryb pisania)
   storage.js          localStorage (postęp + ustawienia)
   wordsRepo.js         wczytywanie data/words.json
 data/words.json      2000 słów: {id, en, pl}
@@ -83,12 +96,16 @@ python3 -m http.server 8000
 
 - Panel z liczbą słów na każdym z 5 poziomów, liczbą zaległych powtórek i
   liczbą nietkniętych słów.
-- Sesja nauki: fiszka pokazuje słowo angielskie + przycisk 🔊 (wymowa),
-  po odsłonięciu tłumaczenia użytkownik ocenia siebie: "umiałem/am" /
-  "nie umiałem/am".
-- Skróty klawiszowe w sesji: spacja = pokaż tłumaczenie, 1/← = nie umiałem,
-  2/→ = umiałem.
+- Sesja nauki w trybie pisania (domyślnym): karta pokazuje polskie słowo
+  (+ 🔊 wymowa), użytkownik wpisuje angielski odpowiednik; wynik od razu
+  ocenia pisownię (idealnie / drobna literówka / źle) i pokazuje poprawną
+  formę z wymową.
+- Sesja nauki w trybie samooceny (do wyboru w Ustawieniach): fiszka
+  pokazuje słowo angielskie + przycisk 🔊 (wymowa), po odsłonięciu
+  tłumaczenia użytkownik ocenia siebie: "umiałem/am" / "nie umiałem/am".
+- Skróty klawiszowe w trybie samooceny: spacja = pokaż tłumaczenie,
+  1/← = nie umiałem, 2/→ = umiałem.
 - Widok "Słownik" — przegląd i wyszukiwanie wszystkich 2000 słów z
   wymową i aktualnym poziomem każdego.
-- Ustawienia: wybór głosu, szybkość mowy, autoodtwarzanie, liczba nowych
-  słówek na sesję, reset postępu.
+- Ustawienia: tryb ćwiczenia, wybór głosu, szybkość mowy, autoodtwarzanie,
+  liczba nowych słówek na sesję, reset postępu.

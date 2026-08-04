@@ -316,6 +316,44 @@ body {
   font-weight: 600;
 }
 
+.typing-label {
+  margin: 0;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+}
+
+.word-pl-prompt {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0;
+  color: var(--color-primary);
+  word-break: break-word;
+}
+
+.typing-verdict {
+  margin: 0;
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+.typing-verdict-exact {
+  color: var(--color-success);
+}
+
+.typing-verdict-close {
+  color: var(--box-3);
+}
+
+.typing-verdict-wrong {
+  color: var(--color-danger);
+}
+
+.typing-you-typed {
+  margin: 0;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+}
+
 .flashcard-back.is-hidden,
 .flashcard-front.is-hidden {
   display: none;
@@ -342,6 +380,27 @@ body {
 .grade-buttons {
   display: flex;
   gap: 12px;
+}
+
+#typing-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.typing-input {
+  width: 100%;
+  padding: 14px 16px;
+  border-radius: 999px;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.typing-input:disabled {
+  opacity: 0.6;
 }
 
 .grade-buttons .btn {

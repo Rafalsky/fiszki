@@ -2,6 +2,7 @@ import { loadWords } from "./wordsRepo.js";
 import * as storage from "./storage.js";
 import * as srs from "./srs.js";
 import * as speech from "./speech.js";
+import * as spellcheck from "./spellcheck.js";
 
 const LEVEL_COLORS = {
   0: "#9aa0b0",
@@ -115,12 +116,6 @@ function renderCard() {
   const word = currentWord();
   const level = state.progress[word.id]?.level ?? 0;
 
-  el("word-en").textContent = word.en;
-  el("word-pl").textContent = word.pl;
-  el("flashcard-back").classList.add("is-hidden");
-  el("btn-reveal").classList.remove("is-hidden");
-  el("grade-buttons").classList.add("is-hidden");
-
   el("flashcard-level").innerHTML = [1, 2, 3, 4, 5]
     .map((n) => `<span class="${n <= level ? "is-filled" : ""}"></span>`)
     .join("");
@@ -129,9 +124,49 @@ function renderCard() {
   el("study-progress-label").textContent = `${doneSoFar} / ${session.total}`;
   el("study-progress-bar").style.width = `${(doneSoFar / session.total) * 100}%`;
 
+  if (state.settings.practiceMode === "typing") {
+    renderTypingFront(word);
+  } else {
+    renderGradingFront(word);
+  }
+
   if (state.settings.autoplay) {
     speech.speak(word.en, state.settings);
   }
+}
+
+function renderGradingFront(word) {
+  el("word-en").textContent = word.en;
+  el("word-pl").textContent = word.pl;
+
+  el("flashcard-front-grading").classList.remove("is-hidden");
+  el("flashcard-front-typing").classList.add("is-hidden");
+  el("flashcard-back").classList.add("is-hidden");
+  el("flashcard-typing-result").classList.add("is-hidden");
+
+  el("study-controls-grading").classList.remove("is-hidden");
+  el("study-controls-typing").classList.add("is-hidden");
+  el("btn-reveal").classList.remove("is-hidden");
+  el("grade-buttons").classList.add("is-hidden");
+}
+
+function renderTypingFront(word) {
+  el("word-pl-prompt").textContent = word.pl;
+
+  el("flashcard-front-typing").classList.remove("is-hidden");
+  el("flashcard-front-grading").classList.add("is-hidden");
+  el("flashcard-back").classList.add("is-hidden");
+  el("flashcard-typing-result").classList.add("is-hidden");
+
+  el("study-controls-typing").classList.remove("is-hidden");
+  el("study-controls-grading").classList.add("is-hidden");
+  el("typing-form").classList.remove("is-hidden");
+  el("btn-typing-next").classList.add("is-hidden");
+
+  const input = el("typing-input");
+  input.value = "";
+  input.disabled = false;
+  setTimeout(() => input.focus(), 50);
 }
 
 function revealAnswer() {
@@ -140,7 +175,8 @@ function revealAnswer() {
   el("grade-buttons").classList.remove("is-hidden");
 }
 
-function gradeCurrentWord(knew) {
+/** Update SRS progress + session tallies for the current word. Does not advance the session. */
+function applyGrade(knew) {
   const session = state.session;
   const word = currentWord();
   const now = new Date();
@@ -157,9 +193,51 @@ function gradeCurrentWord(knew) {
     session.queue.splice(reinsertAt, 0, word.id);
     session.total = session.queue.length;
   }
+}
 
-  session.index += 1;
+function advanceSession() {
+  state.session.index += 1;
   renderCard();
+}
+
+function gradeCurrentWord(knew) {
+  applyGrade(knew);
+  advanceSession();
+}
+
+const TYPING_VERDICT_LABELS = {
+  exact: "✓ Świetnie, idealnie!",
+  close: "≈ Prawie — drobna literówka, ale zaliczone",
+  wrong: "✗ Nie tym razem",
+};
+
+function submitTypingAnswer() {
+  const word = currentWord();
+  const typed = el("typing-input").value;
+  const result = spellcheck.checkSpelling(typed, word.en);
+
+  applyGrade(result.verdict !== "wrong");
+
+  el("typing-input").disabled = true;
+  el("typing-form").classList.add("is-hidden");
+  el("btn-typing-next").classList.remove("is-hidden");
+
+  el("flashcard-front-typing").classList.add("is-hidden");
+  el("flashcard-typing-result").classList.remove("is-hidden");
+
+  const verdictEl = el("typing-verdict");
+  verdictEl.textContent = TYPING_VERDICT_LABELS[result.verdict];
+  verdictEl.className = `typing-verdict typing-verdict-${result.verdict}`;
+
+  el("typing-result-word").textContent = word.en;
+  const trimmed = typed.trim();
+  el("typing-you-typed").textContent = trimmed ? `Wpisano: "${trimmed}"` : "Nie wpisano nic";
+
+  if (result.verdict !== "exact") {
+    speech.speak(word.en, state.settings);
+  }
+
+  el("btn-typing-next").focus();
 }
 
 function finishSession() {
@@ -236,6 +314,7 @@ function applySettingsToForm() {
   el("setting-rate-value").textContent = state.settings.rate.toFixed(1);
   el("setting-autoplay").checked = state.settings.autoplay;
   el("setting-new-per-session").value = state.settings.newPerSession;
+  el("setting-practice-mode").value = state.settings.practiceMode;
 }
 
 function wireSettingsForm() {
@@ -261,6 +340,11 @@ function wireSettingsForm() {
     e.target.value = value;
     storage.saveSettings(state.settings);
     renderDashboard();
+  });
+
+  el("setting-practice-mode").addEventListener("change", (e) => {
+    state.settings.practiceMode = e.target.value;
+    storage.saveSettings(state.settings);
   });
 
   el("btn-test-voice").addEventListener("click", () => {
@@ -304,8 +388,25 @@ function wireStudy() {
   el("btn-grade-yes").addEventListener("click", () => gradeCurrentWord(true));
   el("btn-summary-done").addEventListener("click", () => switchView("dashboard"));
 
+  el("typing-form").addEventListener("submit", (e) => {
+    e.preventDefault();
+    submitTypingAnswer();
+  });
+  el("btn-typing-next").addEventListener("click", advanceSession);
+  el("btn-speak-typing").addEventListener("click", () => {
+    const word = currentWord();
+    if (word) speech.speak(word.en, state.settings);
+  });
+  el("btn-speak-result").addEventListener("click", () => {
+    const word = currentWord();
+    if (word) speech.speak(word.en, state.settings);
+  });
+
   document.addEventListener("keydown", (e) => {
     if (!el("view-study").classList.contains("is-active")) return;
+    // Typing mode has its own <form>/Enter handling; the input needs a
+    // literal space character, so the grading shortcuts below must not fire.
+    if (state.settings.practiceMode === "typing") return;
     if (e.code === "Space") {
       e.preventDefault();
       if (!el("grade-buttons").classList.contains("is-hidden")) return;

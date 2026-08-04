@@ -6,6 +6,7 @@ const DEFAULT_SETTINGS = {
   rate: 1,
   autoplay: true,
   newPerSession: 20,
+  practiceMode: "typing", // "typing" | "grading"
 };
 
 export function loadProgress() {

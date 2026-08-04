@@ -54,7 +54,8 @@
       <article class="flashcard" id="flashcard" aria-live="polite">
         <div class="flashcard-level" id="flashcard-level" title="Poziom zapamiętania"></div>
 
-        <div class="flashcard-face flashcard-front">
+        <!-- Grading mode: front shows English, reveal shows Polish -->
+        <div class="flashcard-face flashcard-front" id="flashcard-front-grading">
           <p class="word-en" id="word-en"></p>
           <button type="button" id="btn-speak" class="btn-speak" aria-label="Odtwórz wymowę słowa">🔊 Wymowa</button>
         </div>
@@ -62,15 +63,47 @@
         <div class="flashcard-face flashcard-back is-hidden" id="flashcard-back">
           <p class="word-pl" id="word-pl"></p>
         </div>
+
+        <!-- Typing mode: front shows Polish prompt, user types the English word -->
+        <div class="flashcard-face flashcard-front is-hidden" id="flashcard-front-typing">
+          <p class="typing-label">Jak to jest po angielsku?</p>
+          <p class="word-pl-prompt" id="word-pl-prompt"></p>
+          <button type="button" id="btn-speak-typing" class="btn-speak" aria-label="Odtwórz wymowę słowa">🔊 Wymowa</button>
+        </div>
+
+        <div class="flashcard-face flashcard-back is-hidden" id="flashcard-typing-result">
+          <p class="typing-verdict" id="typing-verdict"></p>
+          <p class="word-en" id="typing-result-word"></p>
+          <button type="button" id="btn-speak-result" class="btn-speak" aria-label="Odtwórz wymowę słowa">🔊 Wymowa</button>
+          <p class="typing-you-typed" id="typing-you-typed"></p>
+        </div>
       </article>
 
-      <div class="study-controls">
+      <!-- Grading-mode controls -->
+      <div class="study-controls" id="study-controls-grading">
         <button type="button" id="btn-reveal" class="btn btn-primary btn-wide">Pokaż tłumaczenie</button>
 
         <div class="grade-buttons is-hidden" id="grade-buttons">
           <button type="button" id="btn-grade-no" class="btn btn-danger">✗ Nie umiałem/am</button>
           <button type="button" id="btn-grade-yes" class="btn btn-success">✓ Umiałem/am</button>
         </div>
+      </div>
+
+      <!-- Typing-mode controls -->
+      <div class="study-controls is-hidden" id="study-controls-typing">
+        <form id="typing-form" autocomplete="off">
+          <input
+            type="text"
+            id="typing-input"
+            class="typing-input"
+            placeholder="Wpisz słowo po angielsku…"
+            autocapitalize="off"
+            autocorrect="off"
+            spellcheck="false"
+          />
+          <button type="submit" class="btn btn-primary btn-wide">Sprawdź</button>
+        </form>
+        <button type="button" id="btn-typing-next" class="btn btn-primary btn-wide is-hidden">Dalej</button>
       </div>
     </div>
   </section>
@@ -125,6 +158,21 @@
       </label>
       <button type="button" id="btn-test-voice" class="btn btn-secondary">Testuj głos</button>
       <p class="hint" id="voice-hint"></p>
+    </div>
+
+    <div class="settings-group">
+      <h3>Tryb ćwiczenia</h3>
+      <label class="settings-row">
+        <span>Sposób sprawdzania</span>
+        <select id="setting-practice-mode">
+          <option value="typing">Pisanie — wpisuję słowo</option>
+          <option value="grading">Samoocena — umiem / nie umiem</option>
+        </select>
+      </label>
+      <p class="hint">W trybie pisania literówki są tolerowane: wielkość
+        liter i apostrofy nie mają znaczenia, a ok. jedna literówka na
+        każde 4 litery słowa nadal liczy się jako dobra odpowiedź
+        (oznaczone na żółto).</p>
     </div>
 
     <div class="settings-group">
