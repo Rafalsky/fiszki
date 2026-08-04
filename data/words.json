@@ -5645,11 +5645,6 @@
     "pl": "jakość"
   },
   {
-    "id": 1130,
-    "en": "listing",
-    "pl": "wykaz, lista"
-  },
-  {
     "id": 1131,
     "en": "content",
     "pl": "treść"
@@ -5743,11 +5738,6 @@
     "id": 1149,
     "en": "advanced",
     "pl": "zaawansowany"
-  },
-  {
-    "id": 1150,
-    "en": "sales",
-    "pl": "sprzedaż"
   },
   {
     "id": 1151,
@@ -6685,11 +6675,6 @@
     "pl": "bilety"
   },
   {
-    "id": 1338,
-    "en": "centre",
-    "pl": "centrum"
-  },
-  {
     "id": 1339,
     "en": "requirements",
     "pl": "wymagania"
@@ -6763,11 +6748,6 @@
     "id": 1353,
     "en": "edit",
     "pl": "edytować"
-  },
-  {
-    "id": 1354,
-    "en": "videos",
-    "pl": "filmy wideo"
   },
   {
     "id": 1355,
@@ -6968,11 +6948,6 @@
     "id": 1394,
     "en": "protection",
     "pl": "ochrona"
-  },
-  {
-    "id": 1395,
-    "en": "policies",
-    "pl": "zasady, polityki"
   },
   {
     "id": 1396,
@@ -7980,11 +7955,6 @@
     "pl": "dokumenty"
   },
   {
-    "id": 1597,
-    "en": "communication",
-    "pl": "komunikacja"
-  },
-  {
     "id": 1598,
     "en": "purpose",
     "pl": "cel"
@@ -8085,11 +8055,6 @@
     "pl": "telefon"
   },
   {
-    "id": 1618,
-    "en": "sport",
-    "pl": "sport"
-  },
-  {
     "id": 1619,
     "en": "sources",
     "pl": "źródła"
@@ -8163,11 +8128,6 @@
     "id": 1633,
     "en": "probably",
     "pl": "prawdopodobnie"
-  },
-  {
-    "id": 1634,
-    "en": "rentals",
-    "pl": "wynajem"
   },
   {
     "id": 1635,
@@ -8538,11 +8498,6 @@
     "id": 1708,
     "en": "traffic",
     "pl": "ruch (drogowy)"
-  },
-  {
-    "id": 1709,
-    "en": "programme",
-    "pl": "program"
   },
   {
     "id": 1710,
@@ -10025,11 +9980,6 @@
     "pl": "monitor"
   },
   {
-    "id": 2006,
-    "en": "trading",
-    "pl": "handel"
-  },
-  {
     "id": 2007,
     "en": "calls",
     "pl": "dzwoni, połączenia"
@@ -10288,11 +10238,6 @@
     "id": 2058,
     "en": "closed",
     "pl": "zamknięty"
-  },
-  {
-    "id": 2059,
-    "en": "holidays",
-    "pl": "święta, wakacje"
   },
   {
     "id": 2060,
@@ -10603,11 +10548,6 @@
     "id": 2121,
     "en": "seconds",
     "pl": "sekundy"
-  },
-  {
-    "id": 2122,
-    "en": "keyword",
-    "pl": "słowo kluczowe"
   },
   {
     "id": 2123,
@@ -11103,11 +11043,6 @@
     "id": 2221,
     "en": "intended",
     "pl": "zamierzony"
-  },
-  {
-    "id": 2222,
-    "en": "towards",
-    "pl": "w kierunku"
   },
   {
     "id": 2223,
@@ -12065,11 +12000,6 @@
     "pl": "struktura, framework"
   },
   {
-    "id": 2414,
-    "en": "disk",
-    "pl": "dysk"
-  },
-  {
     "id": 2415,
     "en": "installed",
     "pl": "zainstalowany"
@@ -12605,11 +12535,6 @@
     "pl": "ulubione"
   },
   {
-    "id": 2522,
-    "en": "theater",
-    "pl": "teatr"
-  },
-  {
     "id": 2523,
     "en": "springs",
     "pl": "źródła, sprężyny"
@@ -12798,11 +12723,6 @@
     "id": 2560,
     "en": "comics",
     "pl": "komiksy"
-  },
-  {
-    "id": 2561,
-    "en": "matters",
-    "pl": "sprawy, ma znaczenie"
   },
   {
     "id": 2562,
@@ -13103,11 +13023,6 @@
     "id": 2621,
     "en": "concerns",
     "pl": "obawy"
-  },
-  {
-    "id": 2622,
-    "en": "colour",
-    "pl": "kolor (pisownia brytyjska)"
   },
   {
     "id": 2623,
@@ -13638,11 +13553,6 @@
     "id": 2728,
     "en": "refer",
     "pl": "odnosić się"
-  },
-  {
-    "id": 2729,
-    "en": "provision",
-    "pl": "zaopatrzenie, zapis"
   },
   {
     "id": 2730,
@@ -14625,11 +14535,6 @@
     "pl": "postępowanie"
   },
   {
-    "id": 2926,
-    "en": "favourite",
-    "pl": "ulubiony (pisownia brytyjska)"
-  },
-  {
     "id": 2927,
     "en": "transmission",
     "pl": "transmisja, skrzynia biegów"
@@ -15450,11 +15355,6 @@
     "pl": "konwerter"
   },
   {
-    "id": 3091,
-    "en": "organisation",
-    "pl": "organizacja (pisownia brytyjska)"
-  },
-  {
     "id": 3092,
     "en": "checks",
     "pl": "sprawdza, czeki"
@@ -15885,11 +15785,6 @@
     "pl": "kandydat"
   },
   {
-    "id": 3178,
-    "en": "databases",
-    "pl": "bazy danych"
-  },
-  {
     "id": 3179,
     "en": "patent",
     "pl": "patent"
@@ -15970,24 +15865,9 @@
     "pl": "jądro (systemu, ziarna)"
   },
   {
-    "id": 3195,
-    "en": "stocks",
-    "pl": "akcje, zapasy"
-  },
-  {
-    "id": 3196,
-    "en": "buyers",
-    "pl": "kupujący"
-  },
-  {
     "id": 3197,
     "en": "journals",
     "pl": "czasopisma, dzienniki"
-  },
-  {
-    "id": 3198,
-    "en": "catalogue",
-    "pl": "katalog"
   },
   {
     "id": 3199,
@@ -16008,11 +15888,6 @@
     "id": 3202,
     "en": "swiss",
     "pl": "szwajcarski"
-  },
-  {
-    "id": 3203,
-    "en": "labour",
-    "pl": "praca (pisownia brytyjska)"
   },
   {
     "id": 3204,
@@ -16505,11 +16380,6 @@
     "pl": "opór"
   },
   {
-    "id": 3302,
-    "en": "doors",
-    "pl": "drzwi"
-  },
-  {
     "id": 3303,
     "en": "symptoms",
     "pl": "objawy"
@@ -16528,11 +16398,6 @@
     "id": 3306,
     "en": "memorial",
     "pl": "pomnik, upamiętniający"
-  },
-  {
-    "id": 3307,
-    "en": "visitor",
-    "pl": "gość, odwiedzający"
   },
   {
     "id": 3308,
@@ -16578,11 +16443,6 @@
     "id": 3316,
     "en": "biological",
     "pl": "biologiczny"
-  },
-  {
-    "id": 3317,
-    "en": "fighting",
-    "pl": "walka"
   },
   {
     "id": 3318,
@@ -16758,11 +16618,6 @@
     "id": 3352,
     "en": "loved",
     "pl": "kochany"
-  },
-  {
-    "id": 3353,
-    "en": "favourites",
-    "pl": "ulubione (pisownia brytyjska)"
   },
   {
     "id": 3354,
@@ -17520,11 +17375,6 @@
     "pl": "egzamin"
   },
   {
-    "id": 3505,
-    "en": "logos",
-    "pl": "logo (l.mn.)"
-  },
-  {
     "id": 3506,
     "en": "residence",
     "pl": "rezydencja, miejsce zamieszkania"
@@ -17578,11 +17428,6 @@
     "id": 3516,
     "en": "employers",
     "pl": "pracodawcy"
-  },
-  {
-    "id": 3517,
-    "en": "grey",
-    "pl": "szary"
   },
   {
     "id": 3518,
@@ -17648,11 +17493,6 @@
     "id": 3530,
     "en": "scan",
     "pl": "skanować"
-  },
-  {
-    "id": 3531,
-    "en": "elections",
-    "pl": "wybory"
   },
   {
     "id": 3532,
@@ -17850,19 +17690,9 @@
     "pl": "bawół"
   },
   {
-    "id": 3571,
-    "en": "organisations",
-    "pl": "organizacje (pisownia brytyjska)"
-  },
-  {
     "id": 3572,
     "en": "explained",
     "pl": "wyjaśniony"
-  },
-  {
-    "id": 3573,
-    "en": "programmes",
-    "pl": "programy (pisownia brytyjska)"
   },
   {
     "id": 3574,
@@ -17883,11 +17713,6 @@
     "id": 3577,
     "en": "camping",
     "pl": "kemping"
-  },
-  {
-    "id": 3578,
-    "en": "jewellery",
-    "pl": "biżuteria (pisownia brytyjska)"
   },
   {
     "id": 3579,
@@ -18665,11 +18490,6 @@
     "pl": "wybiera"
   },
   {
-    "id": 3734,
-    "en": "vacations",
-    "pl": "wakacje"
-  },
-  {
     "id": 3735,
     "en": "gang",
     "pl": "gang"
@@ -19243,11 +19063,6 @@
     "id": 3849,
     "en": "limousines",
     "pl": "limuzyny"
-  },
-  {
-    "id": 3850,
-    "en": "developments",
-    "pl": "rozwój, osiedla"
   },
   {
     "id": 3851,
