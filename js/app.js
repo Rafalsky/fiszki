@@ -76,12 +76,16 @@ function renderDashboard() {
 
 function startSession(mode) {
   const now = new Date();
-  const queue =
+  const ordered =
     mode === "review"
       ? srs.getDueWordIds(state.words, state.progress, now)
       : srs.getNewWordIds(state.words, state.progress, state.settings.newPerSession);
 
-  if (queue.length === 0) return;
+  if (ordered.length === 0) return;
+
+  // Shuffle so each session presents cards in a different order, instead of
+  // always the same frequency-rank / due-priority sequence.
+  const queue = srs.shuffle(ordered);
 
   state.session = {
     mode,

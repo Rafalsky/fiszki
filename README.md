@@ -1,6 +1,6 @@
 # fiszki
 
-Fiszki do nauki angielskiego słownictwa — 1000 najpopularniejszych angielskich
+Fiszki do nauki angielskiego słownictwa — 2000 najpopularniejszych angielskich
 słów, 5-stopniowy system powtórek (Leitner) i wymowa czytana przez przeglądarkę
 (Web Speech API). Postęp trzymany wyłącznie lokalnie, w `localStorage`
 przeglądarki — bez backendu, bez konta, bez wysyłania czegokolwiek na serwer.
@@ -13,13 +13,21 @@ Działa jako statyczna strona — MVP wdrożone na **GitHub Pages**.
   `<script type="module">`). Dzięki temu GitHub Pages serwuje repo wprost,
   bez kroku kompilacji i bez `node_modules`. Prostsze MVP, mniej ruchomych
   części.
-- **Baza słownictwa**: `data/words.json` — 1000 obiektów `{id, en, pl}`.
-  Lista angielska oparta o powszechnie używany zbiór "1000 najpopularniejszych
-  słów angielskich" (frekwencyjna lista edukacyjna, pochodząca z klasycznego
-  zestawienia Carvera; wersja: `deekayen/4148741`). Tłumaczenia na polski są
-  własnym opracowaniem (nie skopiowane z żadnego gotowego słownika
-  dwujęzycznego). Słowa funkcyjne bez jednoznacznego odpowiednika (np. "the",
-  "of", "a") mają krótki opisowy glos zamiast dosłownego tłumaczenia.
+- **Baza słownictwa**: `data/words.json` — 2000 obiektów `{id, en, pl}`,
+  posortowanych wg rangi częstości (id 1 = najczęstsze słowo).
+  - Słowa 1–1000: powszechnie używany zbiór "1000 najpopularniejszych słów
+    angielskich" (frekwencyjna lista edukacyjna, pochodząca z klasycznego
+    zestawienia Carvera; wersja: `deekayen/4148741`).
+  - Słowa 1001–2000: kolejne najczęstsze angielskie słowa wg listy
+    frekwencyjnej `first20hours/google-10000-english` (n-gramy z Google
+    Trillion Word Corpus), odfiltrowane z nazw własnych, marek, skrótów i
+    "spamowych" słów kluczowych z web-corpusu (np. "phentermine",
+    "ringtones") — ten fragment listy jest z natury szumiący (surowa
+    częstość słów na stronach WWW), więc wymagał ręcznego czyszczenia.
+  - Tłumaczenia na polski są własnym opracowaniem (nie skopiowane z żadnego
+    gotowego słownika dwujęzycznego). Słowa funkcyjne bez jednoznacznego
+    odpowiednika (np. "the", "of", "a") mają krótki opisowy glos zamiast
+    dosłownego tłumaczenia.
 - **System powtórek — 5-poziomowy Leitner** (`js/srs.js`):
   - Poziomy 1–5, nowe słowo startuje "poza systemem" (poziom 0) i wchodzi na
     poziom 1 przy pierwszej ocenie.
@@ -29,6 +37,10 @@ Działa jako statyczna strona — MVP wdrożone na **GitHub Pages**.
     ramach tej samej sesji fiszka wraca do kolejki po kilku kolejnych
     kartach (dodatkowe utrwalenie na gorąco).
   - Poziom 5 = słowo uznane za opanowane.
+  - Kolejność kart w każdej sesji jest losowana (`srs.shuffle`, tasowanie
+    Fisher-Yates) — inaczej sesje "nowe słówka" zawsze szłyby w tej samej
+    kolejności rangi częstości, a "zaległe" zawsze w tej samej kolejności
+    poziom→data powtórki.
 - **Wymowa**: `SpeechSynthesisUtterance` z `window.speechSynthesis`
   (`js/speech.js`). Ustawienia pozwalają wybrać dostępny głos angielski,
   szybkość mowy i włączyć/wyłączyć automatyczne odtwarzanie po pokazaniu
@@ -53,7 +65,7 @@ js/
   speech.js           wrapper na Web Speech API
   storage.js          localStorage (postęp + ustawienia)
   wordsRepo.js         wczytywanie data/words.json
-data/words.json      1000 słów: {id, en, pl}
+data/words.json      2000 słów: {id, en, pl}
 .github/workflows/deploy-pages.yml   wdrożenie na GitHub Pages
 ```
 
@@ -76,7 +88,7 @@ python3 -m http.server 8000
   "nie umiałem/am".
 - Skróty klawiszowe w sesji: spacja = pokaż tłumaczenie, 1/← = nie umiałem,
   2/→ = umiałem.
-- Widok "Słownik" — przegląd i wyszukiwanie wszystkich 1000 słów z
+- Widok "Słownik" — przegląd i wyszukiwanie wszystkich 2000 słów z
   wymową i aktualnym poziomem każdego.
 - Ustawienia: wybór głosu, szybkość mowy, autoodtwarzanie, liczba nowych
   słówek na sesję, reset postępu.

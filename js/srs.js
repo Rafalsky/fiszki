@@ -68,6 +68,16 @@ export function getNewWordIds(words, progressMap, limit) {
     .map((w) => w.id);
 }
 
+/** Fisher-Yates shuffle. Returns a new array; does not mutate the input. */
+export function shuffle(array) {
+  const result = array.slice();
+  for (let i = result.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [result[i], result[j]] = [result[j], result[i]];
+  }
+  return result;
+}
+
 export function countByLevel(words, progressMap) {
   const counts = { 0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0 };
   for (const w of words) {
