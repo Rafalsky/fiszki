@@ -93,12 +93,51 @@ body {
   padding: 20px;
 }
 
+.mode-section {
+  display: none;
+}
+
+.mode-section.is-active {
+  display: block;
+}
+
 .view {
   display: none;
 }
 
 .view.is-active {
   display: block;
+}
+
+.tense-view {
+  display: none;
+}
+
+.tense-view.is-active {
+  display: block;
+}
+
+.subnav {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.subnav-btn {
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+  padding: 8px 16px;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.subnav-btn.is-active {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: #fff;
 }
 
 .stats-grid {
@@ -526,6 +565,215 @@ body {
   font-size: 0.8rem;
 }
 
+/* ---------- Grammar mode ---------- */
+
+.topics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 14px;
+}
+
+.topic-card {
+  text-align: left;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 20px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  color: var(--color-text);
+}
+
+.topic-card:hover {
+  border-color: var(--color-primary);
+}
+
+.topic-card-icon {
+  font-size: 1.8rem;
+}
+
+.topic-card-title {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.topic-card-desc {
+  color: var(--color-muted);
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+.tenses-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.tense-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 14px 18px;
+  cursor: pointer;
+  color: var(--color-text);
+  text-align: left;
+  font-size: 0.95rem;
+}
+
+.tense-item:hover {
+  border-color: var(--color-primary);
+}
+
+.tense-item-name-pl {
+  font-weight: 600;
+}
+
+.tense-item-name-en {
+  color: var(--color-muted);
+  font-size: 0.85rem;
+}
+
+.tense-detail h2 {
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+
+.tense-detail .tense-detail-en {
+  color: var(--color-muted);
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.tense-detail-section {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 16px 20px;
+  margin-bottom: 16px;
+}
+
+.tense-detail-section h3 {
+  margin-top: 0;
+  font-size: 1rem;
+}
+
+.tense-formation-row {
+  display: flex;
+  gap: 10px;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--color-border);
+  font-size: 0.9rem;
+}
+
+.tense-formation-row:last-child {
+  border-bottom: none;
+}
+
+.tense-formation-label {
+  flex: 0 0 110px;
+  color: var(--color-muted);
+}
+
+.tense-usage-list,
+.tense-examples-list {
+  margin: 0;
+  padding-left: 20px;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.signal-words {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.signal-word-pill {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  padding: 3px 10px;
+  font-size: 0.8rem;
+  font-family: monospace;
+}
+
+.tense-example {
+  margin-bottom: 8px;
+}
+
+.tense-example-en {
+  font-weight: 600;
+}
+
+.tense-example-pl {
+  color: var(--color-muted);
+  font-size: 0.85rem;
+}
+
+.grammar-prompt {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin: 0;
+  line-height: 1.5;
+  word-break: break-word;
+}
+
+.grammar-answer {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0;
+  color: var(--color-primary);
+  word-break: break-word;
+}
+
+.quiz-card {
+  min-height: 160px;
+}
+
+.quiz-choices {
+  width: 100%;
+  max-width: 480px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.quiz-choice-btn {
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+  padding: 14px 18px;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.quiz-choice-btn:hover:not(:disabled) {
+  border-color: var(--color-primary);
+}
+
+.quiz-choice-btn:disabled {
+  cursor: default;
+}
+
+.quiz-choice-correct {
+  border-color: var(--color-success);
+  background: color-mix(in srgb, var(--color-success) 15%, var(--color-surface));
+}
+
+.quiz-choice-wrong {
+  border-color: var(--color-danger);
+  background: color-mix(in srgb, var(--color-danger) 15%, var(--color-surface));
+}
+
 @media (max-width: 480px) {
   .word-en {
     font-size: 1.7rem;
@@ -537,5 +785,14 @@ body {
 
   .session-actions .btn {
     width: 100%;
+  }
+
+  .tense-formation-row {
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .tense-formation-label {
+    flex: none;
   }
 }

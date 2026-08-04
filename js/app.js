@@ -3,6 +3,8 @@ import * as storage from "./storage.js";
 import * as srs from "./srs.js";
 import * as speech from "./speech.js";
 import * as spellcheck from "./spellcheck.js";
+import { el, switchView, switchMode } from "./viewUtils.js";
+import { initGrammar } from "./grammarApp.js";
 
 const LEVEL_COLORS = {
   0: "#9aa0b0",
@@ -29,16 +31,6 @@ const state = {
   settings: storage.loadSettings(),
   session: null, // { queue: [id,...], index, mode, results: {known, unknown} }
 };
-
-const el = (id) => document.getElementById(id);
-
-function switchView(name) {
-  document.querySelectorAll(".view").forEach((v) => v.classList.remove("is-active"));
-  document.querySelectorAll(".nav-btn").forEach((b) => b.classList.remove("is-active"));
-  el(`view-${name}`).classList.add("is-active");
-  const navBtn = document.querySelector(`.nav-btn[data-view="${name}"]`);
-  if (navBtn) navBtn.classList.add("is-active");
-}
 
 // ---------- Dashboard ----------
 
@@ -352,21 +344,45 @@ function wireSettingsForm() {
   });
 
   el("btn-reset-progress").addEventListener("click", () => {
-    if (confirm("Na pewno wyzerować cały postęp nauki? Tej operacji nie można cofnąć.")) {
+    if (confirm("Na pewno wyzerować cały postęp nauki słówek? Tej operacji nie można cofnąć.")) {
       storage.resetProgress();
       state.progress = {};
       renderDashboard();
       renderBrowse(el("browse-search").value);
-      alert("Postęp został wyzerowany.");
+      alert("Postęp słówek został wyzerowany.");
     }
   });
 }
 
 // ---------- Wiring ----------
 
-function wireNav() {
-  document.querySelectorAll(".nav-btn").forEach((btn) => {
+// switchView() toggles ".is-active" across ALL ".view" elements on the page
+// (the class is shared by every mode-section, not scoped per mode), so
+// navigating inside one mode can strip the active view out of another mode
+// that's currently hidden. Reset each mode to its own default view on every
+// switch so a hidden mode never comes back with no active view inside it.
+function wireModeNav() {
+  document.querySelectorAll(".nav-btn[data-mode]").forEach((btn) => {
     btn.addEventListener("click", () => {
+      const mode = btn.dataset.mode;
+      switchMode(mode);
+      if (mode === "vocab") {
+        switchView("dashboard");
+        renderDashboard();
+      } else if (mode === "grammar") {
+        switchView("grammar-topics");
+      } else if (mode === "settings") {
+        switchView("settings");
+      }
+    });
+  });
+}
+
+function wireVocabSubnav() {
+  document.querySelectorAll(".subnav-btn[data-view]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll("#mode-vocab .subnav-btn").forEach((b) => b.classList.remove("is-active"));
+      btn.classList.add("is-active");
       const view = btn.dataset.view;
       switchView(view);
       if (view === "browse") renderBrowse(el("browse-search").value);
@@ -431,7 +447,8 @@ async function init() {
   state.words = await loadWords();
   state.wordsById = new Map(state.words.map((w) => [w.id, w]));
 
-  wireNav();
+  wireModeNav();
+  wireVocabSubnav();
   wireStudy();
   wireBrowse();
   wireSettingsForm();
@@ -440,6 +457,8 @@ async function init() {
   await renderVoiceOptions();
   renderDashboard();
   renderBrowse();
+
+  await initGrammar();
 }
 
 init().catch((err) => {
