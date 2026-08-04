@@ -10,6 +10,7 @@
   --color-success: #2e9e5b;
   --color-danger: #d64550;
   --radius: 14px;
+  --box-0: #8c1a1a;
   --box-1: #d64550;
   --box-2: #e2703a;
   --box-3: #e2b93a;
@@ -213,6 +214,69 @@ body {
 
 .box-count {
   font-weight: 600;
+}
+
+.progress-chart-panel {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 18px;
+  margin-bottom: 24px;
+}
+
+.progress-chart-panel h2 {
+  margin-top: 0;
+  font-size: 1.05rem;
+}
+
+.progress-chart-wrap {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-top: 16px;
+}
+
+.pie-chart {
+  position: relative;
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  background: conic-gradient(var(--color-border) 0% 100%);
+}
+
+.pie-chart-center {
+  position: absolute;
+  inset: 18px;
+  border-radius: 50%;
+  background: var(--color-surface);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.pie-chart-center strong {
+  font-size: 1.3rem;
+  line-height: 1.1;
+}
+
+.pie-chart-center span {
+  color: var(--color-muted);
+  font-size: 0.7rem;
+}
+
+.pie-legend {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+  min-width: 180px;
 }
 
 .session-actions {
