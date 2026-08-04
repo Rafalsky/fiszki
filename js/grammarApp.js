@@ -1,74 +1,127 @@
-// Grammar mode: theory reference, SRS fill-in-the-blank drills (reusing
-// srs.js + spellcheck.js as-is), and a scored multiple-choice quiz.
+// Grammar mode: a generic engine for grammar "topics" (Czasy, Przedimki,
+// and whatever gets added next), each with theory reference cards, SRS
+// fill-in-the-blank drills (reusing srs.js + spellcheck.js as-is), and a
+// scored multiple-choice quiz. Adding a topic only needs a theory JSON file,
+// a drills JSON file, an entry in grammarTopics.json, and two lines in
+// grammarRepo.js - no HTML/CSS/JS duplication per topic.
+//
 // Self-contained module: loads its own data and owns its own progress key,
 // independent of the vocab `state` in app.js.
 
-import { loadTenses, loadDrills } from "./grammarRepo.js";
+import { loadTopics, loadTopicTheory, loadTopicDrills } from "./grammarRepo.js";
 import * as grammarStorage from "./grammarStorage.js";
 import * as srs from "./srs.js";
 import * as spellcheck from "./spellcheck.js";
 import { el, switchView } from "./viewUtils.js";
 
 const state = {
-  tenses: [],
-  tensesById: new Map(),
-  drills: [],
+  topics: [],
+  topicsById: new Map(),
+  activeTopic: null, // the currently open topic's manifest entry
+  items: [], // theory items of the active topic
+  itemsById: new Map(),
+  drills: [], // drills of the active topic, ids namespaced "<topicId>:<drillId>"
   drillsById: new Map(),
+  // Shared across all topics - drill ids are namespaced by topic (see
+  // openTopic below) so two topics' local numbering (both starting at 1)
+  // can never collide in this one flat map.
   progress: grammarStorage.loadGrammarProgress(),
   drillSession: null, // { queue: [id,...], index, total, known, unknown }
   quiz: null, // { questions: [{drill, choices}], index, score }
 };
 
-// ---------- Tense theory ----------
+// ---------- Topics list ----------
 
-function renderTensesList() {
-  const sorted = [...state.tenses].sort((a, b) => a.order - b.order);
-  el("tenses-list").innerHTML = sorted
+function renderTopicsGrid() {
+  el("topics-grid").innerHTML = state.topics
     .map(
       (t) => `
-      <button type="button" class="tense-item" data-tense-id="${t.id}">
-        <span class="tense-item-name-pl">${t.namePl}</span>
-        <span class="tense-item-name-en">${t.nameEn}</span>
+      <button type="button" class="topic-card" data-topic-id="${t.id}">
+        <span class="topic-card-icon">${t.icon}</span>
+        <span class="topic-card-title">${t.title}</span>
+        <span class="topic-card-desc">${t.desc}</span>
       </button>`
     )
     .join("");
 }
 
-function renderTenseDetail(tenseId) {
-  const t = state.tensesById.get(tenseId);
-  if (!t) return;
+async function openTopic(topicId) {
+  const topic = state.topicsById.get(topicId);
+  if (!topic) return;
 
-  el("tense-detail-content").innerHTML = `
-    <div class="tense-detail">
-      <h2>${t.namePl}</h2>
-      <p class="tense-detail-en">${t.nameEn}</p>
+  const [items, rawDrills] = await Promise.all([loadTopicTheory(topicId), loadTopicDrills(topicId)]);
+  state.activeTopic = topic;
+  state.items = items;
+  state.itemsById = new Map(items.map((it) => [it.id, it]));
+  state.drills = rawDrills.map((d) => ({ ...d, id: `${topicId}:${d.id}` }));
+  state.drillsById = new Map(state.drills.map((d) => [d.id, d]));
 
-      <div class="tense-detail-section">
-        <h3>Budowa zdania</h3>
-        <div class="tense-formation-row"><span class="tense-formation-label">Twierdzenie</span><span>${t.formation.affirmative}</span></div>
-        <div class="tense-formation-row"><span class="tense-formation-label">Przeczenie</span><span>${t.formation.negative}</span></div>
-        <div class="tense-formation-row"><span class="tense-formation-label">Pytanie</span><span>${t.formation.question}</span></div>
+  el("topic-home-title").textContent = topic.title;
+  el("topic-quiz-hint").textContent =
+    `${items.length} pytań wielokrotnego wyboru — po jednym losowym z każdego elementu tematu „${topic.title}”. ` +
+    `Wynik nie wpływa na poziomy powtórek, to tylko sprawdzian.`;
+
+  renderItemsList();
+  switchView("grammar-topic-home");
+  switchTopicTab("theory");
+}
+
+// ---------- Theory ----------
+
+function renderItemsList() {
+  const sorted = [...state.items].sort((a, b) => a.order - b.order);
+  el("topic-items-list").innerHTML = sorted
+    .map(
+      (it) => `
+      <button type="button" class="topic-item-row" data-item-id="${it.id}">
+        <span class="topic-item-name-pl">${it.namePl}</span>
+        <span class="topic-item-name-en">${it.nameEn}</span>
+      </button>`
+    )
+    .join("");
+}
+
+function renderItemDetail(itemId) {
+  const item = state.itemsById.get(itemId);
+  if (!item) return;
+
+  const rulesHtml = item.rules
+    .map((r) => `<div class="topic-rule-row"><span class="topic-rule-label">${r.label}</span><span>${r.text}</span></div>`)
+    .join("");
+
+  const tagsHtml =
+    item.tags && item.tags.length
+      ? `
+      <div class="topic-detail-section">
+        <h3>Kluczowe przykłady</h3>
+        <div class="topic-tags">${item.tags.map((w) => `<span class="topic-tag-pill">${w}</span>`).join("")}</div>
+      </div>`
+      : "";
+
+  el("topic-item-detail-content").innerHTML = `
+    <div class="topic-item-detail">
+      <h2>${item.namePl}</h2>
+      <p class="topic-item-detail-en">${item.nameEn}</p>
+
+      <div class="topic-detail-section">
+        <h3>Zasady</h3>
+        ${rulesHtml}
       </div>
 
-      <div class="tense-detail-section">
+      <div class="topic-detail-section">
         <h3>Kiedy używamy</h3>
-        <ul class="tense-usage-list">${t.usage.map((u) => `<li>${u}</li>`).join("")}</ul>
+        <ul class="topic-usage-list">${item.usage.map((u) => `<li>${u}</li>`).join("")}</ul>
       </div>
-
-      <div class="tense-detail-section">
-        <h3>Słowa sygnałowe</h3>
-        <div class="signal-words">${t.signalWords.map((w) => `<span class="signal-word-pill">${w}</span>`).join("")}</div>
-      </div>
-
-      <div class="tense-detail-section">
+      ${tagsHtml}
+      <div class="topic-detail-section">
         <h3>Przykłady</h3>
-        <div class="tense-examples-list">
-          ${t.examples
+        <div class="topic-examples-list">
+          ${item.examples
             .map(
               (ex) => `
-            <div class="tense-example">
-              <p class="tense-example-en">${ex.en}</p>
-              <p class="tense-example-pl">${ex.pl}</p>
+            <div class="topic-example">
+              <p class="topic-example-en">${ex.en}</p>
+              <p class="topic-example-pl">${ex.pl}</p>
             </div>`
             )
             .join("")}
@@ -77,14 +130,14 @@ function renderTenseDetail(tenseId) {
     </div>`;
 }
 
-// ---------- Tense home: tab switching ----------
+// ---------- Topic home: tab switching ----------
 
-function switchTenseTab(tab) {
-  document.querySelectorAll(".tense-view").forEach((v) => v.classList.remove("is-active"));
-  el(`tense-view-${tab}`).classList.add("is-active");
+function switchTopicTab(tab) {
+  document.querySelectorAll(".topic-view").forEach((v) => v.classList.remove("is-active"));
+  el(`topic-view-${tab}`).classList.add("is-active");
 
-  document.querySelectorAll('#view-grammar-tenses-home .subnav-btn').forEach((b) => b.classList.remove("is-active"));
-  document.querySelector(`#view-grammar-tenses-home .subnav-btn[data-tense-tab="${tab}"]`).classList.add("is-active");
+  document.querySelectorAll("#view-grammar-topic-home .subnav-btn").forEach((b) => b.classList.remove("is-active"));
+  document.querySelector(`#view-grammar-topic-home .subnav-btn[data-topic-tab="${tab}"]`).classList.add("is-active");
 
   if (tab === "drill") renderDrillDashboard();
 }
@@ -98,17 +151,17 @@ function renderDrillDashboard() {
   const counts = srs.countByLevel(state.drills, state.progress);
   const totalNew = state.drills.filter((d) => !state.progress[d.id]).length;
 
-  el("grammar-stats-grid").innerHTML = `
+  el("topic-stats-grid").innerHTML = `
     <div class="stat-card"><strong>${state.drills.length}</strong><span>Ćwiczeń łącznie</span></div>
     <div class="stat-card"><strong>${counts[5]}</strong><span>Opanowane</span></div>
     <div class="stat-card"><strong>${dueIds.length}</strong><span>Do powtórki dziś</span></div>
     <div class="stat-card"><strong>${totalNew}</strong><span>Jeszcze nietknięte</span></div>
   `;
 
-  el("grammar-due-count").textContent = dueIds.length;
-  el("grammar-new-count").textContent = newIds.length;
-  el("btn-grammar-start-review").disabled = dueIds.length === 0;
-  el("btn-grammar-start-new").disabled = newIds.length === 0;
+  el("topic-due-count").textContent = dueIds.length;
+  el("topic-new-count").textContent = newIds.length;
+  el("btn-topic-start-review").disabled = dueIds.length === 0;
+  el("btn-topic-start-new").disabled = newIds.length === 0;
 }
 
 // ---------- Drill session ----------
@@ -143,7 +196,7 @@ function renderDrillCard() {
 
   const drill = currentDrill();
   const level = state.progress[drill.id]?.level ?? 0;
-  const tense = state.tensesById.get(drill.tenseId);
+  const item = state.itemsById.get(drill.itemId);
 
   el("grammar-flashcard-level").innerHTML = [1, 2, 3, 4, 5]
     .map((n) => `<span class="${n <= level ? "is-filled" : ""}"></span>`)
@@ -153,7 +206,7 @@ function renderDrillCard() {
   el("grammar-drill-progress-label").textContent = `${doneSoFar} / ${session.total}`;
   el("grammar-drill-progress-bar").style.width = `${(doneSoFar / session.total) * 100}%`;
 
-  el("grammar-tense-label").textContent = tense ? `${tense.namePl} (${tense.nameEn})` : "";
+  el("grammar-item-label").textContent = item ? `${item.namePl} (${item.nameEn})` : "";
   el("grammar-prompt").textContent = drill.prompt;
 
   el("grammar-front").classList.remove("is-hidden");
@@ -226,22 +279,22 @@ function finishDrillSession() {
 
 function exitDrillSession() {
   state.drillSession = null;
-  switchView("grammar-tenses-home");
-  switchTenseTab("drill");
+  switchView("grammar-topic-home");
+  switchTopicTab("drill");
 }
 
 // ---------- Quiz ----------
 
 function buildQuizQuestions() {
-  const drillsByTense = new Map();
+  const drillsByItem = new Map();
   for (const d of state.drills) {
-    if (!drillsByTense.has(d.tenseId)) drillsByTense.set(d.tenseId, []);
-    drillsByTense.get(d.tenseId).push(d);
+    if (!drillsByItem.has(d.itemId)) drillsByItem.set(d.itemId, []);
+    drillsByItem.get(d.itemId).push(d);
   }
 
-  const sortedTenses = [...state.tenses].sort((a, b) => a.order - b.order);
-  const questions = sortedTenses.map((t) => {
-    const pool = drillsByTense.get(t.id) || [];
+  const sortedItems = [...state.items].sort((a, b) => a.order - b.order);
+  const questions = sortedItems.map((it) => {
+    const pool = drillsByItem.get(it.id) || [];
     const drill = pool[Math.floor(Math.random() * pool.length)];
     const choices = srs.shuffle([drill.answer, ...drill.distractors]);
     return { drill, choices };
@@ -264,12 +317,12 @@ function renderQuizQuestion() {
   }
 
   const { drill, choices } = quiz.questions[quiz.index];
-  const tense = state.tensesById.get(drill.tenseId);
+  const item = state.itemsById.get(drill.itemId);
 
   el("quiz-progress-label").textContent = `${quiz.index} / ${quiz.questions.length}`;
   el("quiz-progress-bar").style.width = `${(quiz.index / quiz.questions.length) * 100}%`;
 
-  el("quiz-tense-label").textContent = tense ? `${tense.namePl} (${tense.nameEn})` : "";
+  el("quiz-item-label").textContent = item ? `${item.namePl} (${item.nameEn})` : "";
   el("quiz-prompt").textContent = drill.prompt;
 
   el("quiz-choices").innerHTML = choices
@@ -298,49 +351,48 @@ function submitQuizAnswer(chosen, btn) {
 
 function finishQuiz() {
   const quiz = state.quiz;
-  el("quiz-score-text").textContent = quiz
-    ? `Wynik: ${quiz.score} / ${quiz.questions.length}`
-    : "";
+  el("quiz-score-text").textContent = quiz ? `Wynik: ${quiz.score} / ${quiz.questions.length}` : "";
   state.quiz = null;
   switchView("quiz-results");
 }
 
 function exitQuiz() {
   state.quiz = null;
-  switchView("grammar-tenses-home");
-  switchTenseTab("quiz");
+  switchView("grammar-topic-home");
+  switchTopicTab("quiz");
 }
 
 // ---------- Wiring ----------
 
-function wireTopicNav() {
-  el("btn-topic-tenses").addEventListener("click", () => {
-    switchView("grammar-tenses-home");
-    switchTenseTab("theory");
-  });
-
-  el("btn-grammar-tenses-back").addEventListener("click", () => switchView("grammar-topics"));
-  el("btn-tense-detail-back").addEventListener("click", () => switchView("grammar-tenses-home"));
-
-  document.querySelectorAll('#view-grammar-tenses-home .subnav-btn[data-tense-tab]').forEach((btn) => {
-    btn.addEventListener("click", () => switchTenseTab(btn.dataset.tenseTab));
-  });
-
-  el("tenses-list").addEventListener("click", (e) => {
-    const btn = e.target.closest(".tense-item");
+function wireTopicsList() {
+  el("topics-grid").addEventListener("click", (e) => {
+    const btn = e.target.closest(".topic-card");
     if (!btn) return;
-    renderTenseDetail(btn.dataset.tenseId);
-    switchView("tense-detail");
+    openTopic(btn.dataset.topicId);
+  });
+
+  el("btn-grammar-topic-back").addEventListener("click", () => switchView("grammar-topics"));
+  el("btn-grammar-item-detail-back").addEventListener("click", () => switchView("grammar-topic-home"));
+
+  document.querySelectorAll("#view-grammar-topic-home .subnav-btn[data-topic-tab]").forEach((btn) => {
+    btn.addEventListener("click", () => switchTopicTab(btn.dataset.topicTab));
+  });
+
+  el("topic-items-list").addEventListener("click", (e) => {
+    const btn = e.target.closest(".topic-item-row");
+    if (!btn) return;
+    renderItemDetail(btn.dataset.itemId);
+    switchView("grammar-item-detail");
   });
 }
 
 function wireDrill() {
-  el("btn-grammar-start-review").addEventListener("click", () => startDrillSession("review"));
-  el("btn-grammar-start-new").addEventListener("click", () => startDrillSession("new"));
+  el("btn-topic-start-review").addEventListener("click", () => startDrillSession("review"));
+  el("btn-topic-start-new").addEventListener("click", () => startDrillSession("new"));
   el("btn-exit-grammar-drill").addEventListener("click", exitDrillSession);
   el("btn-grammar-summary-done").addEventListener("click", () => {
-    switchView("grammar-tenses-home");
-    switchTenseTab("drill");
+    switchView("grammar-topic-home");
+    switchTopicTab("drill");
   });
 
   el("grammar-typing-form").addEventListener("submit", (e) => {
@@ -355,8 +407,8 @@ function wireQuiz() {
   el("btn-exit-quiz").addEventListener("click", exitQuiz);
   el("btn-quiz-again").addEventListener("click", startQuiz);
   el("btn-quiz-done").addEventListener("click", () => {
-    switchView("grammar-tenses-home");
-    switchTenseTab("quiz");
+    switchView("grammar-topic-home");
+    switchTopicTab("quiz");
   });
 
   el("quiz-choices").addEventListener("click", (e) => {
@@ -368,7 +420,7 @@ function wireQuiz() {
 
 function wireSettings() {
   el("btn-reset-grammar-progress").addEventListener("click", () => {
-    if (confirm("Na pewno wyzerować cały postęp ćwiczeń gramatycznych? Tej operacji nie można cofnąć.")) {
+    if (confirm("Na pewno wyzerować cały postęp ćwiczeń gramatycznych (wszystkie tematy)? Tej operacji nie można cofnąć.")) {
       grammarStorage.resetGrammarProgress();
       state.progress = {};
       renderDrillDashboard();
@@ -378,14 +430,11 @@ function wireSettings() {
 }
 
 export async function initGrammar() {
-  const [tenses, drills] = await Promise.all([loadTenses(), loadDrills()]);
-  state.tenses = tenses;
-  state.tensesById = new Map(tenses.map((t) => [t.id, t]));
-  state.drills = drills;
-  state.drillsById = new Map(drills.map((d) => [d.id, d]));
+  state.topics = await loadTopics();
+  state.topicsById = new Map(state.topics.map((t) => [t.id, t]));
 
-  renderTensesList();
-  wireTopicNav();
+  renderTopicsGrid();
+  wireTopicsList();
   wireDrill();
   wireQuiz();
   wireSettings();

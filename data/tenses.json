@@ -4,23 +4,52 @@
     "order": 1,
     "nameEn": "Present Simple",
     "namePl": "Czas teraźniejszy prosty",
-    "formation": {
-      "affirmative": "Podmiot + czasownik (do 3. os. lp. + -s/-es)",
-      "negative": "Podmiot + do/does not (don't/doesn't) + czasownik",
-      "question": "Do/Does + podmiot + czasownik?"
-    },
+    "rules": [
+      {
+        "label": "Twierdzenie",
+        "text": "Podmiot + czasownik (do 3. os. lp. + -s/-es)"
+      },
+      {
+        "label": "Przeczenie",
+        "text": "Podmiot + do/does not (don't/doesn't) + czasownik"
+      },
+      {
+        "label": "Pytanie",
+        "text": "Do/Does + podmiot + czasownik?"
+      }
+    ],
     "usage": [
       "Czynności rutynowe i nawyki",
       "Fakty i prawdy ogólne",
       "Rozkłady jazdy i harmonogramy",
       "Uczucia i stany, które nie są chwilowe"
     ],
-    "signalWords": ["always", "usually", "often", "sometimes", "never", "every day", "on Mondays"],
+    "tags": [
+      "always",
+      "usually",
+      "often",
+      "sometimes",
+      "never",
+      "every day",
+      "on Mondays"
+    ],
     "examples": [
-      { "en": "She works in a bank.", "pl": "Ona pracuje w banku." },
-      { "en": "The sun rises in the east.", "pl": "Słońce wschodzi na wschodzie." },
-      { "en": "The train leaves at 6pm.", "pl": "Pociąg odjeżdża o 18." },
-      { "en": "I don't like coffee.", "pl": "Nie lubię kawy." }
+      {
+        "en": "She works in a bank.",
+        "pl": "Ona pracuje w banku."
+      },
+      {
+        "en": "The sun rises in the east.",
+        "pl": "Słońce wschodzi na wschodzie."
+      },
+      {
+        "en": "The train leaves at 6pm.",
+        "pl": "Pociąg odjeżdża o 18."
+      },
+      {
+        "en": "I don't like coffee.",
+        "pl": "Nie lubię kawy."
+      }
     ]
   },
   {
@@ -28,23 +57,51 @@
     "order": 2,
     "nameEn": "Present Continuous",
     "namePl": "Czas teraźniejszy ciągły",
-    "formation": {
-      "affirmative": "Podmiot + am/is/are + czasownik-ing",
-      "negative": "Podmiot + am/is/are not + czasownik-ing",
-      "question": "Am/Is/Are + podmiot + czasownik-ing?"
-    },
+    "rules": [
+      {
+        "label": "Twierdzenie",
+        "text": "Podmiot + am/is/are + czasownik-ing"
+      },
+      {
+        "label": "Przeczenie",
+        "text": "Podmiot + am/is/are not + czasownik-ing"
+      },
+      {
+        "label": "Pytanie",
+        "text": "Am/Is/Are + podmiot + czasownik-ing?"
+      }
+    ],
     "usage": [
       "Czynność trwająca w chwili mówienia",
       "Czynność tymczasowa, nie na stałe",
       "Zaplanowane wydarzenia w najbliższej przyszłości",
       "Sytuacje, które się zmieniają"
     ],
-    "signalWords": ["now", "at the moment", "right now", "currently", "this week", "still"],
+    "tags": [
+      "now",
+      "at the moment",
+      "right now",
+      "currently",
+      "this week",
+      "still"
+    ],
     "examples": [
-      { "en": "She is working right now.", "pl": "Ona teraz pracuje." },
-      { "en": "I am reading a great book this week.", "pl": "Czytam w tym tygodniu świetną książkę." },
-      { "en": "We are meeting them tomorrow.", "pl": "Spotykamy się z nimi jutro." },
-      { "en": "The weather is getting colder.", "pl": "Robi się coraz zimniej." }
+      {
+        "en": "She is working right now.",
+        "pl": "Ona teraz pracuje."
+      },
+      {
+        "en": "I am reading a great book this week.",
+        "pl": "Czytam w tym tygodniu świetną książkę."
+      },
+      {
+        "en": "We are meeting them tomorrow.",
+        "pl": "Spotykamy się z nimi jutro."
+      },
+      {
+        "en": "The weather is getting colder.",
+        "pl": "Robi się coraz zimniej."
+      }
     ]
   },
   {
@@ -52,23 +109,54 @@
     "order": 3,
     "nameEn": "Present Perfect",
     "namePl": "Czas teraźniejszy dokonany",
-    "formation": {
-      "affirmative": "Podmiot + have/has + III forma czasownika",
-      "negative": "Podmiot + have/has not + III forma",
-      "question": "Have/Has + podmiot + III forma?"
-    },
+    "rules": [
+      {
+        "label": "Twierdzenie",
+        "text": "Podmiot + have/has + III forma czasownika"
+      },
+      {
+        "label": "Przeczenie",
+        "text": "Podmiot + have/has not + III forma"
+      },
+      {
+        "label": "Pytanie",
+        "text": "Have/Has + podmiot + III forma?"
+      }
+    ],
     "usage": [
       "Doświadczenia życiowe bez podanego konkretnego czasu",
       "Czynność rozpoczęta w przeszłości i trwająca do teraz",
       "Niedawno zakończona czynność z widocznym skutkiem teraz",
       "Zmiany"
     ],
-    "signalWords": ["already", "yet", "just", "ever", "never", "since", "for", "so far", "recently"],
+    "tags": [
+      "already",
+      "yet",
+      "just",
+      "ever",
+      "never",
+      "since",
+      "for",
+      "so far",
+      "recently"
+    ],
     "examples": [
-      { "en": "I have visited Paris twice.", "pl": "Byłem w Paryżu dwa razy." },
-      { "en": "She has lived here since 2015.", "pl": "Mieszka tu od 2015 roku." },
-      { "en": "We have just finished dinner.", "pl": "Właśnie skończyliśmy kolację." },
-      { "en": "Have you ever tried sushi?", "pl": "Czy kiedykolwiek próbowałeś sushi?" }
+      {
+        "en": "I have visited Paris twice.",
+        "pl": "Byłem w Paryżu dwa razy."
+      },
+      {
+        "en": "She has lived here since 2015.",
+        "pl": "Mieszka tu od 2015 roku."
+      },
+      {
+        "en": "We have just finished dinner.",
+        "pl": "Właśnie skończyliśmy kolację."
+      },
+      {
+        "en": "Have you ever tried sushi?",
+        "pl": "Czy kiedykolwiek próbowałeś sushi?"
+      }
     ]
   },
   {
@@ -76,22 +164,50 @@
     "order": 4,
     "nameEn": "Present Perfect Continuous",
     "namePl": "Czas teraźniejszy dokonany ciągły",
-    "formation": {
-      "affirmative": "Podmiot + have/has been + czasownik-ing",
-      "negative": "Podmiot + have/has not been + czasownik-ing",
-      "question": "Have/Has + podmiot + been + czasownik-ing?"
-    },
+    "rules": [
+      {
+        "label": "Twierdzenie",
+        "text": "Podmiot + have/has been + czasownik-ing"
+      },
+      {
+        "label": "Przeczenie",
+        "text": "Podmiot + have/has not been + czasownik-ing"
+      },
+      {
+        "label": "Pytanie",
+        "text": "Have/Has + podmiot + been + czasownik-ing?"
+      }
+    ],
     "usage": [
       "Czynność trwająca przez jakiś czas i wciąż aktualna",
       "Podkreślenie długości trwania czynności",
       "Czynność niedawno zakończona, której skutki widać teraz"
     ],
-    "signalWords": ["since", "for", "all day", "how long", "lately", "recently"],
+    "tags": [
+      "since",
+      "for",
+      "all day",
+      "how long",
+      "lately",
+      "recently"
+    ],
     "examples": [
-      { "en": "I have been studying English for three years.", "pl": "Uczę się angielskiego od trzech lat." },
-      { "en": "She has been working since 8am.", "pl": "Pracuje od 8 rano." },
-      { "en": "It has been raining all day.", "pl": "Cały dzień pada." },
-      { "en": "You look tired — have you been running?", "pl": "Wyglądasz na zmęczonego — biegałeś?" }
+      {
+        "en": "I have been studying English for three years.",
+        "pl": "Uczę się angielskiego od trzech lat."
+      },
+      {
+        "en": "She has been working since 8am.",
+        "pl": "Pracuje od 8 rano."
+      },
+      {
+        "en": "It has been raining all day.",
+        "pl": "Cały dzień pada."
+      },
+      {
+        "en": "You look tired — have you been running?",
+        "pl": "Wyglądasz na zmęczonego — biegałeś?"
+      }
     ]
   },
   {
@@ -99,22 +215,49 @@
     "order": 5,
     "nameEn": "Past Simple",
     "namePl": "Czas przeszły prosty",
-    "formation": {
-      "affirmative": "Podmiot + II forma czasownika (-ed lub forma nieregularna)",
-      "negative": "Podmiot + did not (didn't) + czasownik (forma podstawowa)",
-      "question": "Did + podmiot + czasownik (forma podstawowa)?"
-    },
+    "rules": [
+      {
+        "label": "Twierdzenie",
+        "text": "Podmiot + II forma czasownika (-ed lub forma nieregularna)"
+      },
+      {
+        "label": "Przeczenie",
+        "text": "Podmiot + did not (didn't) + czasownik (forma podstawowa)"
+      },
+      {
+        "label": "Pytanie",
+        "text": "Did + podmiot + czasownik (forma podstawowa)?"
+      }
+    ],
     "usage": [
       "Zakończone czynności w konkretnym momencie przeszłości",
       "Ciąg wydarzeń następujących po sobie w przeszłości",
       "Nawyki lub stany w przeszłości, które już nie trwają"
     ],
-    "signalWords": ["yesterday", "last week/year", "ago", "in 2010", "when"],
+    "tags": [
+      "yesterday",
+      "last week/year",
+      "ago",
+      "in 2010",
+      "when"
+    ],
     "examples": [
-      { "en": "I visited my grandma yesterday.", "pl": "Odwiedziłem babcię wczoraj." },
-      { "en": "They didn't come to the party.", "pl": "Nie przyszli na przyjęcie." },
-      { "en": "Did you see that movie?", "pl": "Widziałeś ten film?" },
-      { "en": "She lived in Rome for five years.", "pl": "Mieszkała w Rzymie przez pięć lat." }
+      {
+        "en": "I visited my grandma yesterday.",
+        "pl": "Odwiedziłem babcię wczoraj."
+      },
+      {
+        "en": "They didn't come to the party.",
+        "pl": "Nie przyszli na przyjęcie."
+      },
+      {
+        "en": "Did you see that movie?",
+        "pl": "Widziałeś ten film?"
+      },
+      {
+        "en": "She lived in Rome for five years.",
+        "pl": "Mieszkała w Rzymie przez pięć lat."
+      }
     ]
   },
   {
@@ -122,22 +265,48 @@
     "order": 6,
     "nameEn": "Past Continuous",
     "namePl": "Czas przeszły ciągły",
-    "formation": {
-      "affirmative": "Podmiot + was/were + czasownik-ing",
-      "negative": "Podmiot + was/were not + czasownik-ing",
-      "question": "Was/Were + podmiot + czasownik-ing?"
-    },
+    "rules": [
+      {
+        "label": "Twierdzenie",
+        "text": "Podmiot + was/were + czasownik-ing"
+      },
+      {
+        "label": "Przeczenie",
+        "text": "Podmiot + was/were not + czasownik-ing"
+      },
+      {
+        "label": "Pytanie",
+        "text": "Was/Were + podmiot + czasownik-ing?"
+      }
+    ],
     "usage": [
       "Czynność trwająca w konkretnym momencie przeszłości",
       "Tło dla innej, krótszej czynności (Past Simple)",
       "Dwie czynności trwające jednocześnie w przeszłości"
     ],
-    "signalWords": ["while", "when", "at that moment", "at 5pm yesterday"],
+    "tags": [
+      "while",
+      "when",
+      "at that moment",
+      "at 5pm yesterday"
+    ],
     "examples": [
-      { "en": "I was sleeping when you called.", "pl": "Spałem, kiedy zadzwoniłeś." },
-      { "en": "They were watching TV all evening.", "pl": "Oglądali telewizję przez cały wieczór." },
-      { "en": "While she was cooking, he was cleaning.", "pl": "Podczas gdy ona gotowała, on sprzątał." },
-      { "en": "What were you doing at 9pm?", "pl": "Co robiłeś o 21?" }
+      {
+        "en": "I was sleeping when you called.",
+        "pl": "Spałem, kiedy zadzwoniłeś."
+      },
+      {
+        "en": "They were watching TV all evening.",
+        "pl": "Oglądali telewizję przez cały wieczór."
+      },
+      {
+        "en": "While she was cooking, he was cleaning.",
+        "pl": "Podczas gdy ona gotowała, on sprzątał."
+      },
+      {
+        "en": "What were you doing at 9pm?",
+        "pl": "Co robiłeś o 21?"
+      }
     ]
   },
   {
@@ -145,21 +314,48 @@
     "order": 7,
     "nameEn": "Past Perfect",
     "namePl": "Czas zaprzeszły",
-    "formation": {
-      "affirmative": "Podmiot + had + III forma czasownika",
-      "negative": "Podmiot + had not (hadn't) + III forma",
-      "question": "Had + podmiot + III forma?"
-    },
+    "rules": [
+      {
+        "label": "Twierdzenie",
+        "text": "Podmiot + had + III forma czasownika"
+      },
+      {
+        "label": "Przeczenie",
+        "text": "Podmiot + had not (hadn't) + III forma"
+      },
+      {
+        "label": "Pytanie",
+        "text": "Had + podmiot + III forma?"
+      }
+    ],
     "usage": [
       "Czynność zakończona przed inną czynnością w przeszłości",
       "Cofnięcie się w opowieści do wcześniejszego wydarzenia"
     ],
-    "signalWords": ["before", "after", "already", "by the time", "never (before then)"],
+    "tags": [
+      "before",
+      "after",
+      "already",
+      "by the time",
+      "never (before then)"
+    ],
     "examples": [
-      { "en": "She had left before I arrived.", "pl": "Wyszła, zanim przyjechałem." },
-      { "en": "I had never seen snow before that winter.", "pl": "Nigdy wcześniej nie widziałem śniegu przed tamtą zimą." },
-      { "en": "They had finished the project by Monday.", "pl": "Skończyli projekt do poniedziałku." },
-      { "en": "Had you met him before the meeting?", "pl": "Czy spotkałeś go przed tym spotkaniem?" }
+      {
+        "en": "She had left before I arrived.",
+        "pl": "Wyszła, zanim przyjechałem."
+      },
+      {
+        "en": "I had never seen snow before that winter.",
+        "pl": "Nigdy wcześniej nie widziałem śniegu przed tamtą zimą."
+      },
+      {
+        "en": "They had finished the project by Monday.",
+        "pl": "Skończyli projekt do poniedziałku."
+      },
+      {
+        "en": "Had you met him before the meeting?",
+        "pl": "Czy spotkałeś go przed tym spotkaniem?"
+      }
     ]
   },
   {
@@ -167,20 +363,43 @@
     "order": 8,
     "nameEn": "Past Perfect Continuous",
     "namePl": "Czas zaprzeszły ciągły",
-    "formation": {
-      "affirmative": "Podmiot + had been + czasownik-ing",
-      "negative": "Podmiot + had not been + czasownik-ing",
-      "question": "Had + podmiot + been + czasownik-ing?"
-    },
+    "rules": [
+      {
+        "label": "Twierdzenie",
+        "text": "Podmiot + had been + czasownik-ing"
+      },
+      {
+        "label": "Przeczenie",
+        "text": "Podmiot + had not been + czasownik-ing"
+      },
+      {
+        "label": "Pytanie",
+        "text": "Had + podmiot + been + czasownik-ing?"
+      }
+    ],
     "usage": [
       "Czynność trwająca przez jakiś czas przed innym wydarzeniem w przeszłości",
       "Podkreślenie przyczyny lub czasu trwania wcześniejszej czynności"
     ],
-    "signalWords": ["for", "since", "before", "by the time"],
+    "tags": [
+      "for",
+      "since",
+      "before",
+      "by the time"
+    ],
     "examples": [
-      { "en": "I had been waiting for an hour when she arrived.", "pl": "Czekałem godzinę, kiedy ona przyjechała." },
-      { "en": "He was tired because he had been working all night.", "pl": "Był zmęczony, bo pracował całą noc." },
-      { "en": "They had been dating for two years before they got married.", "pl": "Byli razem dwa lata przed ślubem." }
+      {
+        "en": "I had been waiting for an hour when she arrived.",
+        "pl": "Czekałem godzinę, kiedy ona przyjechała."
+      },
+      {
+        "en": "He was tired because he had been working all night.",
+        "pl": "Był zmęczony, bo pracował całą noc."
+      },
+      {
+        "en": "They had been dating for two years before they got married.",
+        "pl": "Byli razem dwa lata przed ślubem."
+      }
     ]
   },
   {
@@ -188,22 +407,49 @@
     "order": 9,
     "nameEn": "Future Simple (will)",
     "namePl": "Czas przyszły prosty (will)",
-    "formation": {
-      "affirmative": "Podmiot + will + czasownik (forma podstawowa)",
-      "negative": "Podmiot + will not (won't) + czasownik",
-      "question": "Will + podmiot + czasownik?"
-    },
+    "rules": [
+      {
+        "label": "Twierdzenie",
+        "text": "Podmiot + will + czasownik (forma podstawowa)"
+      },
+      {
+        "label": "Przeczenie",
+        "text": "Podmiot + will not (won't) + czasownik"
+      },
+      {
+        "label": "Pytanie",
+        "text": "Will + podmiot + czasownik?"
+      }
+    ],
     "usage": [
       "Spontaniczne decyzje podejmowane w momencie mówienia",
       "Przewidywania bez konkretnych dowodów",
       "Obietnice, oferty, prośby"
     ],
-    "signalWords": ["tomorrow", "next week", "in the future", "I think", "probably"],
+    "tags": [
+      "tomorrow",
+      "next week",
+      "in the future",
+      "I think",
+      "probably"
+    ],
     "examples": [
-      { "en": "I will help you with that.", "pl": "Pomogę ci z tym." },
-      { "en": "It will probably rain tomorrow.", "pl": "Prawdopodobnie jutro będzie padać." },
-      { "en": "I promise I won't be late.", "pl": "Obiecuję, że się nie spóźnię." },
-      { "en": "Will you marry me?", "pl": "Czy wyjdziesz za mnie?" }
+      {
+        "en": "I will help you with that.",
+        "pl": "Pomogę ci z tym."
+      },
+      {
+        "en": "It will probably rain tomorrow.",
+        "pl": "Prawdopodobnie jutro będzie padać."
+      },
+      {
+        "en": "I promise I won't be late.",
+        "pl": "Obiecuję, że się nie spóźnię."
+      },
+      {
+        "en": "Will you marry me?",
+        "pl": "Czy wyjdziesz za mnie?"
+      }
     ]
   },
   {
@@ -211,20 +457,41 @@
     "order": 10,
     "nameEn": "Future Continuous",
     "namePl": "Czas przyszły ciągły",
-    "formation": {
-      "affirmative": "Podmiot + will be + czasownik-ing",
-      "negative": "Podmiot + will not be + czasownik-ing",
-      "question": "Will + podmiot + be + czasownik-ing?"
-    },
+    "rules": [
+      {
+        "label": "Twierdzenie",
+        "text": "Podmiot + will be + czasownik-ing"
+      },
+      {
+        "label": "Przeczenie",
+        "text": "Podmiot + will not be + czasownik-ing"
+      },
+      {
+        "label": "Pytanie",
+        "text": "Will + podmiot + be + czasownik-ing?"
+      }
+    ],
     "usage": [
       "Czynność, która będzie trwać w konkretnym momencie w przyszłości",
       "Zaplanowane, oczekiwane wydarzenia"
     ],
-    "signalWords": ["at this time tomorrow", "this time next week"],
+    "tags": [
+      "at this time tomorrow",
+      "this time next week"
+    ],
     "examples": [
-      { "en": "This time tomorrow, I will be flying to Spain.", "pl": "Jutro o tej porze będę leciał do Hiszpanii." },
-      { "en": "She will be waiting for us at the airport.", "pl": "Ona będzie na nas czekać na lotnisku." },
-      { "en": "What will you be doing at 8pm?", "pl": "Co będziesz robić o 20?" }
+      {
+        "en": "This time tomorrow, I will be flying to Spain.",
+        "pl": "Jutro o tej porze będę leciał do Hiszpanii."
+      },
+      {
+        "en": "She will be waiting for us at the airport.",
+        "pl": "Ona będzie na nas czekać na lotnisku."
+      },
+      {
+        "en": "What will you be doing at 8pm?",
+        "pl": "Co będziesz robić o 20?"
+      }
     ]
   },
   {
@@ -232,19 +499,41 @@
     "order": 11,
     "nameEn": "Future Perfect",
     "namePl": "Czas przyszły dokonany",
-    "formation": {
-      "affirmative": "Podmiot + will have + III forma czasownika",
-      "negative": "Podmiot + will not have + III forma",
-      "question": "Will + podmiot + have + III forma?"
-    },
+    "rules": [
+      {
+        "label": "Twierdzenie",
+        "text": "Podmiot + will have + III forma czasownika"
+      },
+      {
+        "label": "Przeczenie",
+        "text": "Podmiot + will not have + III forma"
+      },
+      {
+        "label": "Pytanie",
+        "text": "Will + podmiot + have + III forma?"
+      }
+    ],
     "usage": [
       "Czynność, która zakończy się przed konkretnym momentem w przyszłości"
     ],
-    "signalWords": ["by", "by the time", "by next year"],
+    "tags": [
+      "by",
+      "by the time",
+      "by next year"
+    ],
     "examples": [
-      { "en": "By next year, I will have finished my degree.", "pl": "Do przyszłego roku skończę studia." },
-      { "en": "They will have left by the time we arrive.", "pl": "Wyjadą, zanim dotrzemy." },
-      { "en": "Will you have finished the report by Friday?", "pl": "Czy skończysz raport do piątku?" }
+      {
+        "en": "By next year, I will have finished my degree.",
+        "pl": "Do przyszłego roku skończę studia."
+      },
+      {
+        "en": "They will have left by the time we arrive.",
+        "pl": "Wyjadą, zanim dotrzemy."
+      },
+      {
+        "en": "Will you have finished the report by Friday?",
+        "pl": "Czy skończysz raport do piątku?"
+      }
     ]
   },
   {
@@ -252,18 +541,37 @@
     "order": 12,
     "nameEn": "Future Perfect Continuous",
     "namePl": "Czas przyszły dokonany ciągły",
-    "formation": {
-      "affirmative": "Podmiot + will have been + czasownik-ing",
-      "negative": "Podmiot + will not have been + czasownik-ing",
-      "question": "Will + podmiot + have been + czasownik-ing?"
-    },
+    "rules": [
+      {
+        "label": "Twierdzenie",
+        "text": "Podmiot + will have been + czasownik-ing"
+      },
+      {
+        "label": "Przeczenie",
+        "text": "Podmiot + will not have been + czasownik-ing"
+      },
+      {
+        "label": "Pytanie",
+        "text": "Will + podmiot + have been + czasownik-ing?"
+      }
+    ],
     "usage": [
       "Podkreślenie czasu trwania czynności do konkretnego momentu w przyszłości"
     ],
-    "signalWords": ["for", "by the time", "next month"],
+    "tags": [
+      "for",
+      "by the time",
+      "next month"
+    ],
     "examples": [
-      { "en": "By June, I will have been working here for ten years.", "pl": "Do czerwca będę pracować tu już dziesięć lat." },
-      { "en": "She will have been studying for six hours by the time the exam starts.", "pl": "Będzie się uczyć już sześć godzin, zanim zacznie się egzamin." }
+      {
+        "en": "By June, I will have been working here for ten years.",
+        "pl": "Do czerwca będę pracować tu już dziesięć lat."
+      },
+      {
+        "en": "She will have been studying for six hours by the time the exam starts.",
+        "pl": "Będzie się uczyć już sześć godzin, zanim zacznie się egzamin."
+      }
     ]
   }
 ]

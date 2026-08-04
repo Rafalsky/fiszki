@@ -1,0 +1,95 @@
+[
+  {
+    "id": "a_an",
+    "order": 1,
+    "nameEn": "a / an — indefinite article",
+    "namePl": "Przedimek nieokreślony a / an",
+    "rules": [
+      { "label": "a", "text": "Przed rzeczownikami policzalnymi w liczbie pojedynczej, które zaczynają się na spółgłoskę (dźwięk spółgłoskowy)" },
+      { "label": "an", "text": "Przed rzeczownikami policzalnymi w liczbie pojedynczej, które zaczynają się na samogłoskę (dźwięk samogłoskowy)" }
+    ],
+    "usage": [
+      "Gdy o czymś mówimy po raz pierwszy",
+      "Gdy chodzi o jeden z wielu, niesprecyzowany egzemplarz",
+      "Przy zawodach i rolach (I'm a teacher.)",
+      "W wyrażeniach ilościowych i częstotliwości (once a week, a lot of)"
+    ],
+    "tags": ["a book", "an hour", "a university", "an MP"],
+    "examples": [
+      { "en": "I saw a dog in the park.", "pl": "Zobaczyłem psa w parku." },
+      { "en": "She is an engineer.", "pl": "Ona jest inżynierką." },
+      { "en": "It took an hour to get there.", "pl": "Dotarcie tam zajęło godzinę." },
+      { "en": "He works at a university.", "pl": "On pracuje na uniwersytecie." }
+    ]
+  },
+  {
+    "id": "the",
+    "order": 2,
+    "nameEn": "the — definite article",
+    "namePl": "Przedimek określony the",
+    "rules": [
+      { "label": "Liczba", "text": "the działa zarówno z rzeczownikami w liczbie pojedynczej, jak i mnogiej" },
+      { "label": "Policzalność", "text": "the łączy się zarówno z rzeczownikami policzalnymi, jak i niepoliczalnymi" }
+    ],
+    "usage": [
+      "Gdy mówimy o czymś konkretnym, znanym rozmówcy",
+      "Gdy wspominamy coś po raz drugi (już wcześniej wymienione)",
+      "Z rzeczownikami unikalnymi (the sun, the internet, the president)",
+      "Ze stopniem najwyższym przymiotników (the best, the biggest)"
+    ],
+    "tags": ["the sun", "the best", "the UK", "the internet"],
+    "examples": [
+      { "en": "Can you close the door, please?", "pl": "Czy możesz zamknąć drzwi?" },
+      { "en": "The Earth goes round the Sun.", "pl": "Ziemia krąży wokół Słońca." },
+      { "en": "She is the best student in the class.", "pl": "Ona jest najlepszą uczennicą w klasie." },
+      { "en": "I bought a book and a pen — the book was expensive.", "pl": "Kupiłem książkę i długopis — ta książka była droga." }
+    ]
+  },
+  {
+    "id": "zero_article",
+    "order": 3,
+    "nameEn": "Zero article (no article)",
+    "namePl": "Brak przedimka",
+    "rules": [
+      { "label": "Niepoliczalne", "text": "Brak przedimka, gdy mówimy ogólnie o rzeczownikach niepoliczalnych (np. water, music, information)" },
+      { "label": "Mnoga ogólna", "text": "Brak przedimka przed rzeczownikami policzalnymi w liczbie mnogiej, gdy mówimy o nich ogólnie (np. Dogs are loyal.)" },
+      { "label": "W ćwiczeniach", "text": "Jeśli zdanie nie wymaga przedimka, wpisz myślnik: -" }
+    ],
+    "usage": [
+      "Ogólne stwierdzenia o rzeczach, ludziach lub pojęciach (Books are expensive.)",
+      "Posiłki, gdy mówimy o nich ogólnie (have breakfast, at lunch)",
+      "Większość imion, nazwisk, miast i krajów (Poland, London, Anna)",
+      "Języki, przedmioty szkolne, sporty (speak English, play football)"
+    ],
+    "tags": ["water", "dogs", "breakfast", "London"],
+    "examples": [
+      { "en": "Dogs are loyal animals.", "pl": "Psy są lojalnymi zwierzętami." },
+      { "en": "I love music.", "pl": "Uwielbiam muzykę." },
+      { "en": "We usually have breakfast at 7am.", "pl": "Zwykle jemy śniadanie o 7." },
+      { "en": "She lives in Poland.", "pl": "Ona mieszka w Polsce." }
+    ]
+  },
+  {
+    "id": "geo_exceptions",
+    "order": 4,
+    "nameEn": "the with geographical names & exceptions",
+    "namePl": "the z nazwami geograficznymi i wyjątki",
+    "rules": [
+      { "label": "Bez the", "text": "Kontynenty, większość krajów i miast, jeziora, pojedyncze góry (Europe, Poland, Paris, Lake Michigan, Mount Everest)" },
+      { "label": "Z the", "text": "Nazwy złożone z Kingdom/States/Republic, rzeki, morza, oceany, pustynie, łańcuchy górskie, grupy wysp (the UK, the Thames, the Sahara, the Alps, the Bahamas)" }
+    ],
+    "usage": [
+      "Kraje w liczbie mnogiej lub z Republic/Kingdom/States → the",
+      "Rzeki, morza, oceany, kanały → the",
+      "Łańcuchy górskie i grupy wysp → the, ale pojedyncze góry i wyspy → bez the",
+      "Większość pozostałych krajów, miast i kontynentów → bez the"
+    ],
+    "tags": ["the USA", "the Thames", "the Alps", "Mount Everest"],
+    "examples": [
+      { "en": "He was born in the United States.", "pl": "Urodził się w Stanach Zjednoczonych." },
+      { "en": "Every day, boats travel along the Thames.", "pl": "Każdego dnia po Tamizie pływają łodzie." },
+      { "en": "We spent our holiday hiking in the Alps.", "pl": "Spędziliśmy wakacje na wędrówkach po Alpach." },
+      { "en": "She has always dreamed of visiting Japan.", "pl": "Zawsze marzyła o odwiedzeniu Japonii." }
+    ]
+  }
+]
