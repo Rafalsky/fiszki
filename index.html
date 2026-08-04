@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <title>Fiszki — słownictwo i gramatyka angielska</title>
-<meta name="description" content="Ucz się 6000 najpopularniejszych angielskich słów oraz gramatyki (czasy) metodą fiszek z 5-stopniowym systemem powtórek Leitnera i wymową czytaną przez przeglądarkę." />
+<meta name="description" content="Ucz się 6000 najpopularniejszych angielskich słów oraz gramatyki (czasy, przedimki) metodą fiszek z 5-stopniowym systemem powtórek Leitnera i wymową czytaną przez przeglądarkę." />
 <link rel="icon" href="data:," />
 <link rel="stylesheet" href="css/main.css" />
 </head>
@@ -160,54 +160,48 @@
     <!-- TOPIC LIST (entry point) -->
     <div id="view-grammar-topics" class="view is-active">
       <h2>Gramatyka</h2>
-      <p class="hint">Teoria, ćwiczenia i testy z gramatyki angielskiej. Na razie jeden temat — kolejne dojdą tutaj.</p>
-      <div class="topics-grid">
-        <button type="button" class="topic-card" id="btn-topic-tenses">
-          <span class="topic-card-icon">⏰</span>
-          <span class="topic-card-title">Czasy</span>
-          <span class="topic-card-desc">12 czasów angielskich — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.</span>
-        </button>
-      </div>
+      <p class="hint">Wybierz temat, żeby zobaczyć teorię, poćwiczyć uzupełnianie luk i sprawdzić się w teście.</p>
+      <div class="topics-grid" id="topics-grid"></div>
     </div>
 
-    <!-- TENSES TOPIC HOME -->
-    <div id="view-grammar-tenses-home" class="view">
-      <button type="button" id="btn-grammar-tenses-back" class="btn btn-link">← Gramatyka</button>
-      <h2>Czasy</h2>
+    <!-- TOPIC HOME (generic: theory list / drills / quiz for whichever topic was opened) -->
+    <div id="view-grammar-topic-home" class="view">
+      <button type="button" id="btn-grammar-topic-back" class="btn btn-link">← Gramatyka</button>
+      <h2 id="topic-home-title"></h2>
       <nav class="subnav">
-        <button type="button" data-tense-tab="theory" class="subnav-btn is-active">Teoria</button>
-        <button type="button" data-tense-tab="drill" class="subnav-btn">Ćwiczenia</button>
-        <button type="button" data-tense-tab="quiz" class="subnav-btn">Testy</button>
+        <button type="button" data-topic-tab="theory" class="subnav-btn is-active">Teoria</button>
+        <button type="button" data-topic-tab="drill" class="subnav-btn">Ćwiczenia</button>
+        <button type="button" data-topic-tab="quiz" class="subnav-btn">Testy</button>
       </nav>
 
-      <div id="tense-view-theory" class="tense-view is-active">
-        <p class="hint">Wybierz czas, żeby zobaczyć budowę zdań, kiedy się go używa i przykłady.</p>
-        <div class="tenses-list" id="tenses-list"></div>
+      <div id="topic-view-theory" class="topic-view is-active">
+        <p class="hint">Wybierz element z listy, żeby zobaczyć zasady, kiedy się go używa, i przykłady.</p>
+        <div class="topic-items-list" id="topic-items-list"></div>
       </div>
 
-      <div id="tense-view-drill" class="tense-view">
-        <div class="stats-grid" id="grammar-stats-grid"></div>
+      <div id="topic-view-drill" class="topic-view">
+        <div class="stats-grid" id="topic-stats-grid"></div>
         <div class="session-actions">
-          <button type="button" id="btn-grammar-start-review" class="btn btn-primary" disabled>
-            Powtórz zaległe (<span id="grammar-due-count">0</span>)
+          <button type="button" id="btn-topic-start-review" class="btn btn-primary" disabled>
+            Powtórz zaległe (<span id="topic-due-count">0</span>)
           </button>
-          <button type="button" id="btn-grammar-start-new" class="btn btn-secondary">
-            Ćwicz nowe (<span id="grammar-new-count">0</span>)
+          <button type="button" id="btn-topic-start-new" class="btn btn-secondary">
+            Ćwicz nowe (<span id="topic-new-count">0</span>)
           </button>
         </div>
-        <p class="hint">Uzupełniasz lukę poprawną formą czasownika w podanym czasie — ta sama zasada oceny pisowni co przy słówkach (drobne literówki są tolerowane).</p>
+        <p class="hint">Uzupełniasz lukę poprawną odpowiedzią — ta sama zasada oceny pisowni co przy słówkach (drobne literówki są tolerowane).</p>
       </div>
 
-      <div id="tense-view-quiz" class="tense-view">
-        <p class="hint">12 pytań wielokrotnego wyboru — po jednym losowym z każdego czasu. Wynik nie wpływa na poziomy powtórek, to tylko sprawdzian.</p>
+      <div id="topic-view-quiz" class="topic-view">
+        <p class="hint" id="topic-quiz-hint"></p>
         <button type="button" id="btn-quiz-start" class="btn btn-primary btn-wide">Zacznij test</button>
       </div>
     </div>
 
-    <!-- SINGLE TENSE THEORY DETAIL -->
-    <div id="view-tense-detail" class="view">
-      <button type="button" id="btn-tense-detail-back" class="btn btn-link">← Czasy</button>
-      <div id="tense-detail-content"></div>
+    <!-- SINGLE ITEM THEORY DETAIL -->
+    <div id="view-grammar-item-detail" class="view">
+      <button type="button" id="btn-grammar-item-detail-back" class="btn btn-link">← Wróć</button>
+      <div id="topic-item-detail-content"></div>
     </div>
 
     <!-- GRAMMAR DRILL SESSION -->
@@ -225,7 +219,7 @@
           <div class="flashcard-level" id="grammar-flashcard-level" title="Poziom zapamiętania"></div>
 
           <div class="flashcard-face flashcard-front" id="grammar-front">
-            <p class="typing-label" id="grammar-tense-label"></p>
+            <p class="typing-label" id="grammar-item-label"></p>
             <p class="grammar-prompt" id="grammar-prompt"></p>
           </div>
 
@@ -242,7 +236,7 @@
               type="text"
               id="grammar-typing-input"
               class="typing-input"
-              placeholder="Wpisz brakującą formę…"
+              placeholder="Wpisz brakujący element…"
               autocapitalize="off"
               autocorrect="off"
               spellcheck="false"
@@ -261,7 +255,7 @@
       <div class="summary-box">
         <h2>Ćwiczenie ukończone 🎉</h2>
         <p id="grammar-summary-text"></p>
-        <button type="button" id="btn-grammar-summary-done" class="btn btn-primary">Wróć do Czasów</button>
+        <button type="button" id="btn-grammar-summary-done" class="btn btn-primary">Wróć do tematu</button>
       </div>
     </div>
 
@@ -277,7 +271,7 @@
 
       <div class="card-wrap">
         <article class="flashcard quiz-card" id="quiz-flashcard">
-          <p class="typing-label" id="quiz-tense-label"></p>
+          <p class="typing-label" id="quiz-item-label"></p>
           <p class="grammar-prompt" id="quiz-prompt"></p>
         </article>
 
@@ -291,7 +285,7 @@
         <h2>Test ukończony 🎯</h2>
         <p id="quiz-score-text"></p>
         <button type="button" id="btn-quiz-again" class="btn btn-primary">Zrób test ponownie</button>
-        <button type="button" id="btn-quiz-done" class="btn btn-secondary">Wróć do Czasów</button>
+        <button type="button" id="btn-quiz-done" class="btn btn-secondary">Wróć do tematu</button>
       </div>
     </div>
 
@@ -356,7 +350,7 @@
 </main>
 
 <footer class="footer">
-  <p>Postęp zapisywany lokalnie w przeglądarce. Słownictwo: 6000 słów. Gramatyka: 12 czasów angielskich.</p>
+  <p>Postęp zapisywany lokalnie w przeglądarce. Słownictwo: 6000 słów. Gramatyka: czasy i przedimki angielskie.</p>
 </footer>
 
 <script type="module" src="js/app.js"></script>
