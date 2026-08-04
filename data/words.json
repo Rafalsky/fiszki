@@ -4998,5 +4998,5005 @@
     "id": 1000,
     "en": "today",
     "pl": "dzisiaj"
+  },
+  {
+    "id": 1001,
+    "en": "not",
+    "pl": "nie"
+  },
+  {
+    "id": 1002,
+    "en": "information",
+    "pl": "informacja"
+  },
+  {
+    "id": 1003,
+    "en": "site",
+    "pl": "strona, miejsce"
+  },
+  {
+    "id": 1004,
+    "en": "news",
+    "pl": "wiadomości"
+  },
+  {
+    "id": 1005,
+    "en": "contact",
+    "pl": "kontakt"
+  },
+  {
+    "id": 1006,
+    "en": "business",
+    "pl": "biznes, firma"
+  },
+  {
+    "id": 1007,
+    "en": "web",
+    "pl": "sieć (internet)"
+  },
+  {
+    "id": 1008,
+    "en": "online",
+    "pl": "online, w sieci"
+  },
+  {
+    "id": 1009,
+    "en": "services",
+    "pl": "usługi"
+  },
+  {
+    "id": 1010,
+    "en": "click",
+    "pl": "kliknąć"
+  },
+  {
+    "id": 1011,
+    "en": "its",
+    "pl": "jego, jej (zaimek dzierżawczy)"
+  },
+  {
+    "id": 1012,
+    "en": "service",
+    "pl": "usługa"
+  },
+  {
+    "id": 1013,
+    "en": "price",
+    "pl": "cena"
+  },
+  {
+    "id": 1014,
+    "en": "date",
+    "pl": "data"
+  },
+  {
+    "id": 1015,
+    "en": "into",
+    "pl": "do (środka), w"
+  },
+  {
+    "id": 1016,
+    "en": "email",
+    "pl": "e-mail"
+  },
+  {
+    "id": 1017,
+    "en": "health",
+    "pl": "zdrowie"
+  },
+  {
+    "id": 1018,
+    "en": "used",
+    "pl": "używany"
+  },
+  {
+    "id": 1019,
+    "en": "products",
+    "pl": "produkty"
+  },
+  {
+    "id": 1020,
+    "en": "data",
+    "pl": "dane"
+  },
+  {
+    "id": 1021,
+    "en": "policy",
+    "pl": "polityka, zasady"
+  },
+  {
+    "id": 1022,
+    "en": "available",
+    "pl": "dostępny"
+  },
+  {
+    "id": 1023,
+    "en": "copyright",
+    "pl": "prawa autorskie"
+  },
+  {
+    "id": 1024,
+    "en": "message",
+    "pl": "wiadomość"
+  },
+  {
+    "id": 1025,
+    "en": "software",
+    "pl": "oprogramowanie"
+  },
+  {
+    "id": 1026,
+    "en": "video",
+    "pl": "wideo"
+  },
+  {
+    "id": 1027,
+    "en": "info",
+    "pl": "informacja (skrót)"
+  },
+  {
+    "id": 1028,
+    "en": "rights",
+    "pl": "prawa"
+  },
+  {
+    "id": 1029,
+    "en": "public",
+    "pl": "publiczny"
+  },
+  {
+    "id": 1030,
+    "en": "books",
+    "pl": "książki"
+  },
+  {
+    "id": 1031,
+    "en": "links",
+    "pl": "linki"
+  },
+  {
+    "id": 1032,
+    "en": "review",
+    "pl": "recenzja"
+  },
+  {
+    "id": 1033,
+    "en": "years",
+    "pl": "lata"
+  },
+  {
+    "id": 1034,
+    "en": "privacy",
+    "pl": "prywatność"
+  },
+  {
+    "id": 1035,
+    "en": "items",
+    "pl": "przedmioty, pozycje"
+  },
+  {
+    "id": 1036,
+    "en": "user",
+    "pl": "użytkownik"
+  },
+  {
+    "id": 1037,
+    "en": "research",
+    "pl": "badania"
+  },
+  {
+    "id": 1038,
+    "en": "university",
+    "pl": "uniwersytet"
+  },
+  {
+    "id": 1039,
+    "en": "january",
+    "pl": "styczeń"
+  },
+  {
+    "id": 1040,
+    "en": "mail",
+    "pl": "poczta"
+  },
+  {
+    "id": 1041,
+    "en": "reviews",
+    "pl": "recenzje"
+  },
+  {
+    "id": 1042,
+    "en": "program",
+    "pl": "program"
+  },
+  {
+    "id": 1043,
+    "en": "games",
+    "pl": "gry"
+  },
+  {
+    "id": 1044,
+    "en": "days",
+    "pl": "dni"
+  },
+  {
+    "id": 1045,
+    "en": "management",
+    "pl": "zarządzanie"
+  },
+  {
+    "id": 1046,
+    "en": "united",
+    "pl": "zjednoczony"
+  },
+  {
+    "id": 1047,
+    "en": "hotel",
+    "pl": "hotel"
+  },
+  {
+    "id": 1048,
+    "en": "item",
+    "pl": "przedmiot, pozycja"
+  },
+  {
+    "id": 1049,
+    "en": "international",
+    "pl": "międzynarodowy"
+  },
+  {
+    "id": 1050,
+    "en": "comments",
+    "pl": "komentarze"
+  },
+  {
+    "id": 1051,
+    "en": "development",
+    "pl": "rozwój"
+  },
+  {
+    "id": 1052,
+    "en": "report",
+    "pl": "raport"
+  },
+  {
+    "id": 1053,
+    "en": "member",
+    "pl": "członek"
+  },
+  {
+    "id": 1054,
+    "en": "details",
+    "pl": "szczegóły"
+  },
+  {
+    "id": 1055,
+    "en": "terms",
+    "pl": "warunki"
+  },
+  {
+    "id": 1056,
+    "en": "hotels",
+    "pl": "hotele"
+  },
+  {
+    "id": 1057,
+    "en": "because",
+    "pl": "ponieważ"
+  },
+  {
+    "id": 1058,
+    "en": "local",
+    "pl": "lokalny"
+  },
+  {
+    "id": 1059,
+    "en": "using",
+    "pl": "używając"
+  },
+  {
+    "id": 1060,
+    "en": "results",
+    "pl": "wyniki"
+  },
+  {
+    "id": 1061,
+    "en": "education",
+    "pl": "edukacja"
+  },
+  {
+    "id": 1062,
+    "en": "national",
+    "pl": "narodowy, krajowy"
+  },
+  {
+    "id": 1063,
+    "en": "posted",
+    "pl": "opublikowany, zamieszczony"
+  },
+  {
+    "id": 1064,
+    "en": "internet",
+    "pl": "internet"
+  },
+  {
+    "id": 1065,
+    "en": "address",
+    "pl": "adres"
+  },
+  {
+    "id": 1066,
+    "en": "community",
+    "pl": "społeczność"
+  },
+  {
+    "id": 1067,
+    "en": "within",
+    "pl": "w obrębie, wewnątrz"
+  },
+  {
+    "id": 1068,
+    "en": "states",
+    "pl": "stany, państwa"
+  },
+  {
+    "id": 1069,
+    "en": "phone",
+    "pl": "telefon"
+  },
+  {
+    "id": 1070,
+    "en": "shipping",
+    "pl": "wysyłka"
+  },
+  {
+    "id": 1071,
+    "en": "reserved",
+    "pl": "zastrzeżony"
+  },
+  {
+    "id": 1072,
+    "en": "forum",
+    "pl": "forum"
+  },
+  {
+    "id": 1073,
+    "en": "based",
+    "pl": "oparty (na czymś)"
+  },
+  {
+    "id": 1074,
+    "en": "code",
+    "pl": "kod"
+  },
+  {
+    "id": 1075,
+    "en": "prices",
+    "pl": "ceny"
+  },
+  {
+    "id": 1076,
+    "en": "website",
+    "pl": "strona internetowa"
+  },
+  {
+    "id": 1077,
+    "en": "index",
+    "pl": "indeks, spis"
+  },
+  {
+    "id": 1078,
+    "en": "being",
+    "pl": "będąc, istota"
+  },
+  {
+    "id": 1079,
+    "en": "file",
+    "pl": "plik"
+  },
+  {
+    "id": 1080,
+    "en": "link",
+    "pl": "link, odnośnik"
+  },
+  {
+    "id": 1081,
+    "en": "technology",
+    "pl": "technologia"
+  },
+  {
+    "id": 1082,
+    "en": "project",
+    "pl": "projekt"
+  },
+  {
+    "id": 1083,
+    "en": "pages",
+    "pl": "strony"
+  },
+  {
+    "id": 1084,
+    "en": "version",
+    "pl": "wersja"
+  },
+  {
+    "id": 1085,
+    "en": "sports",
+    "pl": "sport"
+  },
+  {
+    "id": 1086,
+    "en": "related",
+    "pl": "powiązany"
+  },
+  {
+    "id": 1087,
+    "en": "security",
+    "pl": "bezpieczeństwo"
+  },
+  {
+    "id": 1088,
+    "en": "county",
+    "pl": "hrabstwo"
+  },
+  {
+    "id": 1089,
+    "en": "american",
+    "pl": "amerykański"
+  },
+  {
+    "id": 1090,
+    "en": "photo",
+    "pl": "zdjęcie"
+  },
+  {
+    "id": 1091,
+    "en": "members",
+    "pl": "członkowie"
+  },
+  {
+    "id": 1092,
+    "en": "network",
+    "pl": "sieć"
+  },
+  {
+    "id": 1093,
+    "en": "computer",
+    "pl": "komputer"
+  },
+  {
+    "id": 1094,
+    "en": "systems",
+    "pl": "systemy"
+  },
+  {
+    "id": 1095,
+    "en": "following",
+    "pl": "następujący"
+  },
+  {
+    "id": 1096,
+    "en": "download",
+    "pl": "pobierać"
+  },
+  {
+    "id": 1097,
+    "en": "without",
+    "pl": "bez"
+  },
+  {
+    "id": 1098,
+    "en": "per",
+    "pl": "na (np. na osobę)"
+  },
+  {
+    "id": 1099,
+    "en": "access",
+    "pl": "dostęp"
+  },
+  {
+    "id": 1100,
+    "en": "resources",
+    "pl": "zasoby"
+  },
+  {
+    "id": 1101,
+    "en": "posts",
+    "pl": "posty, wpisy"
+  },
+  {
+    "id": 1102,
+    "en": "media",
+    "pl": "media"
+  },
+  {
+    "id": 1103,
+    "en": "pictures",
+    "pl": "obrazki, zdjęcia"
+  },
+  {
+    "id": 1104,
+    "en": "personal",
+    "pl": "osobisty"
+  },
+  {
+    "id": 1105,
+    "en": "including",
+    "pl": "włączając"
+  },
+  {
+    "id": 1106,
+    "en": "directory",
+    "pl": "katalog"
+  },
+  {
+    "id": 1107,
+    "en": "location",
+    "pl": "lokalizacja"
+  },
+  {
+    "id": 1108,
+    "en": "text",
+    "pl": "tekst"
+  },
+  {
+    "id": 1109,
+    "en": "rating",
+    "pl": "ocena"
+  },
+  {
+    "id": 1110,
+    "en": "rate",
+    "pl": "wskaźnik, stawka"
+  },
+  {
+    "id": 1111,
+    "en": "government",
+    "pl": "rząd"
+  },
+  {
+    "id": 1112,
+    "en": "return",
+    "pl": "powrót, zwrot"
+  },
+  {
+    "id": 1113,
+    "en": "students",
+    "pl": "studenci, uczniowie"
+  },
+  {
+    "id": 1114,
+    "en": "shopping",
+    "pl": "zakupy"
+  },
+  {
+    "id": 1115,
+    "en": "account",
+    "pl": "konto"
+  },
+  {
+    "id": 1116,
+    "en": "times",
+    "pl": "razy, czasy"
+  },
+  {
+    "id": 1117,
+    "en": "sites",
+    "pl": "strony, miejsca"
+  },
+  {
+    "id": 1118,
+    "en": "digital",
+    "pl": "cyfrowy"
+  },
+  {
+    "id": 1119,
+    "en": "profile",
+    "pl": "profil"
+  },
+  {
+    "id": 1120,
+    "en": "previous",
+    "pl": "poprzedni"
+  },
+  {
+    "id": 1121,
+    "en": "events",
+    "pl": "wydarzenia"
+  },
+  {
+    "id": 1122,
+    "en": "hours",
+    "pl": "godziny"
+  },
+  {
+    "id": 1123,
+    "en": "image",
+    "pl": "obraz"
+  },
+  {
+    "id": 1124,
+    "en": "department",
+    "pl": "dział, wydział"
+  },
+  {
+    "id": 1125,
+    "en": "title",
+    "pl": "tytuł"
+  },
+  {
+    "id": 1126,
+    "en": "description",
+    "pl": "opis"
+  },
+  {
+    "id": 1127,
+    "en": "insurance",
+    "pl": "ubezpieczenie"
+  },
+  {
+    "id": 1128,
+    "en": "another",
+    "pl": "inny, kolejny"
+  },
+  {
+    "id": 1129,
+    "en": "quality",
+    "pl": "jakość"
+  },
+  {
+    "id": 1130,
+    "en": "listing",
+    "pl": "wykaz, lista"
+  },
+  {
+    "id": 1131,
+    "en": "content",
+    "pl": "treść"
+  },
+  {
+    "id": 1132,
+    "en": "private",
+    "pl": "prywatny"
+  },
+  {
+    "id": 1133,
+    "en": "tools",
+    "pl": "narzędzia"
+  },
+  {
+    "id": 1134,
+    "en": "customer",
+    "pl": "klient"
+  },
+  {
+    "id": 1135,
+    "en": "december",
+    "pl": "grudzień"
+  },
+  {
+    "id": 1136,
+    "en": "movies",
+    "pl": "filmy"
+  },
+  {
+    "id": 1137,
+    "en": "college",
+    "pl": "college (uczelnia)"
+  },
+  {
+    "id": 1138,
+    "en": "article",
+    "pl": "artykuł"
+  },
+  {
+    "id": 1139,
+    "en": "jobs",
+    "pl": "praca, miejsca pracy"
+  },
+  {
+    "id": 1140,
+    "en": "source",
+    "pl": "źródło"
+  },
+  {
+    "id": 1141,
+    "en": "author",
+    "pl": "autor"
+  },
+  {
+    "id": 1142,
+    "en": "different",
+    "pl": "różny, inny"
+  },
+  {
+    "id": 1143,
+    "en": "sale",
+    "pl": "sprzedaż"
+  },
+  {
+    "id": 1144,
+    "en": "around",
+    "pl": "dookoła, około"
+  },
+  {
+    "id": 1145,
+    "en": "stock",
+    "pl": "zapas, akcje (giełdowe)"
+  },
+  {
+    "id": 1146,
+    "en": "training",
+    "pl": "szkolenie"
+  },
+  {
+    "id": 1147,
+    "en": "credit",
+    "pl": "kredyt"
+  },
+  {
+    "id": 1148,
+    "en": "categories",
+    "pl": "kategorie"
+  },
+  {
+    "id": 1149,
+    "en": "advanced",
+    "pl": "zaawansowany"
+  },
+  {
+    "id": 1150,
+    "en": "sales",
+    "pl": "sprzedaż"
+  },
+  {
+    "id": 1151,
+    "en": "english",
+    "pl": "angielski"
+  },
+  {
+    "id": 1152,
+    "en": "estate",
+    "pl": "posiadłość, majątek"
+  },
+  {
+    "id": 1153,
+    "en": "conditions",
+    "pl": "warunki"
+  },
+  {
+    "id": 1154,
+    "en": "photos",
+    "pl": "zdjęcia"
+  },
+  {
+    "id": 1155,
+    "en": "thread",
+    "pl": "wątek"
+  },
+  {
+    "id": 1156,
+    "en": "category",
+    "pl": "kategoria"
+  },
+  {
+    "id": 1157,
+    "en": "gallery",
+    "pl": "galeria"
+  },
+  {
+    "id": 1158,
+    "en": "register",
+    "pl": "rejestrować się"
+  },
+  {
+    "id": 1159,
+    "en": "however",
+    "pl": "jednak"
+  },
+  {
+    "id": 1160,
+    "en": "june",
+    "pl": "czerwiec"
+  },
+  {
+    "id": 1161,
+    "en": "october",
+    "pl": "październik"
+  },
+  {
+    "id": 1162,
+    "en": "november",
+    "pl": "listopad"
+  },
+  {
+    "id": 1163,
+    "en": "library",
+    "pl": "biblioteka"
+  },
+  {
+    "id": 1164,
+    "en": "really",
+    "pl": "naprawdę"
+  },
+  {
+    "id": 1165,
+    "en": "action",
+    "pl": "akcja, działanie"
+  },
+  {
+    "id": 1166,
+    "en": "series",
+    "pl": "seria"
+  },
+  {
+    "id": 1167,
+    "en": "model",
+    "pl": "model"
+  },
+  {
+    "id": 1168,
+    "en": "features",
+    "pl": "funkcje, cechy"
+  },
+  {
+    "id": 1169,
+    "en": "provided",
+    "pl": "dostarczony, pod warunkiem że"
+  },
+  {
+    "id": 1170,
+    "en": "required",
+    "pl": "wymagany"
+  },
+  {
+    "id": 1171,
+    "en": "accessories",
+    "pl": "akcesoria"
+  },
+  {
+    "id": 1172,
+    "en": "movie",
+    "pl": "film"
+  },
+  {
+    "id": 1173,
+    "en": "forums",
+    "pl": "fora"
+  },
+  {
+    "id": 1174,
+    "en": "march",
+    "pl": "marzec"
+  },
+  {
+    "id": 1175,
+    "en": "september",
+    "pl": "wrzesień"
+  },
+  {
+    "id": 1176,
+    "en": "questions",
+    "pl": "pytania"
+  },
+  {
+    "id": 1177,
+    "en": "july",
+    "pl": "lipiec"
+  },
+  {
+    "id": 1178,
+    "en": "going",
+    "pl": "idący, jadący"
+  },
+  {
+    "id": 1179,
+    "en": "medical",
+    "pl": "medyczny"
+  },
+  {
+    "id": 1180,
+    "en": "server",
+    "pl": "serwer"
+  },
+  {
+    "id": 1181,
+    "en": "application",
+    "pl": "aplikacja, wniosek"
+  },
+  {
+    "id": 1182,
+    "en": "cart",
+    "pl": "koszyk"
+  },
+  {
+    "id": 1183,
+    "en": "staff",
+    "pl": "personel"
+  },
+  {
+    "id": 1184,
+    "en": "articles",
+    "pl": "artykuły"
+  },
+  {
+    "id": 1185,
+    "en": "feedback",
+    "pl": "informacja zwrotna"
+  },
+  {
+    "id": 1186,
+    "en": "looking",
+    "pl": "patrzący, szukający"
+  },
+  {
+    "id": 1187,
+    "en": "issues",
+    "pl": "problemy, kwestie"
+  },
+  {
+    "id": 1188,
+    "en": "april",
+    "pl": "kwiecień"
+  },
+  {
+    "id": 1189,
+    "en": "users",
+    "pl": "użytkownicy"
+  },
+  {
+    "id": 1190,
+    "en": "topic",
+    "pl": "temat"
+  },
+  {
+    "id": 1191,
+    "en": "comment",
+    "pl": "komentarz"
+  },
+  {
+    "id": 1192,
+    "en": "financial",
+    "pl": "finansowy"
+  },
+  {
+    "id": 1193,
+    "en": "things",
+    "pl": "rzeczy"
+  },
+  {
+    "id": 1194,
+    "en": "working",
+    "pl": "pracujący, działający"
+  },
+  {
+    "id": 1195,
+    "en": "standard",
+    "pl": "standard"
+  },
+  {
+    "id": 1196,
+    "en": "tax",
+    "pl": "podatek"
+  },
+  {
+    "id": 1197,
+    "en": "below",
+    "pl": "poniżej"
+  },
+  {
+    "id": 1198,
+    "en": "mobile",
+    "pl": "mobilny, telefon komórkowy"
+  },
+  {
+    "id": 1199,
+    "en": "blog",
+    "pl": "blog"
+  },
+  {
+    "id": 1200,
+    "en": "payment",
+    "pl": "płatność"
+  },
+  {
+    "id": 1201,
+    "en": "equipment",
+    "pl": "sprzęt"
+  },
+  {
+    "id": 1202,
+    "en": "login",
+    "pl": "logowanie"
+  },
+  {
+    "id": 1203,
+    "en": "programs",
+    "pl": "programy"
+  },
+  {
+    "id": 1204,
+    "en": "offers",
+    "pl": "oferty"
+  },
+  {
+    "id": 1205,
+    "en": "legal",
+    "pl": "prawny, legalny"
+  },
+  {
+    "id": 1206,
+    "en": "recent",
+    "pl": "niedawny"
+  },
+  {
+    "id": 1207,
+    "en": "park",
+    "pl": "park"
+  },
+  {
+    "id": 1208,
+    "en": "stores",
+    "pl": "sklepy"
+  },
+  {
+    "id": 1209,
+    "en": "memory",
+    "pl": "pamięć"
+  },
+  {
+    "id": 1210,
+    "en": "performance",
+    "pl": "wydajność, występ"
+  },
+  {
+    "id": 1211,
+    "en": "social",
+    "pl": "społeczny"
+  },
+  {
+    "id": 1212,
+    "en": "august",
+    "pl": "sierpień"
+  },
+  {
+    "id": 1213,
+    "en": "quote",
+    "pl": "cytat, wycena"
+  },
+  {
+    "id": 1214,
+    "en": "options",
+    "pl": "opcje"
+  },
+  {
+    "id": 1215,
+    "en": "rates",
+    "pl": "stawki"
+  },
+  {
+    "id": 1216,
+    "en": "america",
+    "pl": "Ameryka"
+  },
+  {
+    "id": 1217,
+    "en": "important",
+    "pl": "ważny"
+  },
+  {
+    "id": 1218,
+    "en": "activities",
+    "pl": "zajęcia, aktywności"
+  },
+  {
+    "id": 1219,
+    "en": "club",
+    "pl": "klub"
+  },
+  {
+    "id": 1220,
+    "en": "girls",
+    "pl": "dziewczyny"
+  },
+  {
+    "id": 1221,
+    "en": "additional",
+    "pl": "dodatkowy"
+  },
+  {
+    "id": 1222,
+    "en": "password",
+    "pl": "hasło"
+  },
+  {
+    "id": 1223,
+    "en": "latest",
+    "pl": "najnowszy"
+  },
+  {
+    "id": 1224,
+    "en": "something",
+    "pl": "coś"
+  },
+  {
+    "id": 1225,
+    "en": "gift",
+    "pl": "prezent"
+  },
+  {
+    "id": 1226,
+    "en": "changes",
+    "pl": "zmiany"
+  },
+  {
+    "id": 1227,
+    "en": "poker",
+    "pl": "poker"
+  },
+  {
+    "id": 1228,
+    "en": "status",
+    "pl": "status"
+  },
+  {
+    "id": 1229,
+    "en": "browse",
+    "pl": "przeglądać"
+  },
+  {
+    "id": 1230,
+    "en": "issue",
+    "pl": "kwestia, wydanie"
+  },
+  {
+    "id": 1231,
+    "en": "building",
+    "pl": "budynek"
+  },
+  {
+    "id": 1232,
+    "en": "seller",
+    "pl": "sprzedawca"
+  },
+  {
+    "id": 1233,
+    "en": "court",
+    "pl": "sąd, dwór"
+  },
+  {
+    "id": 1234,
+    "en": "february",
+    "pl": "luty"
+  },
+  {
+    "id": 1235,
+    "en": "audio",
+    "pl": "dźwięk, audio"
+  },
+  {
+    "id": 1236,
+    "en": "groups",
+    "pl": "grupy"
+  },
+  {
+    "id": 1237,
+    "en": "easy",
+    "pl": "łatwy"
+  },
+  {
+    "id": 1238,
+    "en": "given",
+    "pl": "dany"
+  },
+  {
+    "id": 1239,
+    "en": "files",
+    "pl": "pliki"
+  },
+  {
+    "id": 1240,
+    "en": "release",
+    "pl": "wydanie, uwolnić"
+  },
+  {
+    "id": 1241,
+    "en": "analysis",
+    "pl": "analiza"
+  },
+  {
+    "id": 1242,
+    "en": "request",
+    "pl": "prośba, żądanie"
+  },
+  {
+    "id": 1243,
+    "en": "fax",
+    "pl": "faks"
+  },
+  {
+    "id": 1244,
+    "en": "making",
+    "pl": "robienie"
+  },
+  {
+    "id": 1245,
+    "en": "needs",
+    "pl": "potrzeby"
+  },
+  {
+    "id": 1246,
+    "en": "professional",
+    "pl": "profesjonalny"
+  },
+  {
+    "id": 1247,
+    "en": "areas",
+    "pl": "obszary"
+  },
+  {
+    "id": 1248,
+    "en": "future",
+    "pl": "przyszłość"
+  },
+  {
+    "id": 1249,
+    "en": "committee",
+    "pl": "komitet"
+  },
+  {
+    "id": 1250,
+    "en": "cards",
+    "pl": "karty"
+  },
+  {
+    "id": 1251,
+    "en": "problems",
+    "pl": "problemy"
+  },
+  {
+    "id": 1252,
+    "en": "meeting",
+    "pl": "spotkanie"
+  },
+  {
+    "id": 1253,
+    "en": "become",
+    "pl": "stawać się"
+  },
+  {
+    "id": 1254,
+    "en": "schools",
+    "pl": "szkoły"
+  },
+  {
+    "id": 1255,
+    "en": "added",
+    "pl": "dodany"
+  },
+  {
+    "id": 1256,
+    "en": "reference",
+    "pl": "odniesienie"
+  },
+  {
+    "id": 1257,
+    "en": "companies",
+    "pl": "firmy"
+  },
+  {
+    "id": 1258,
+    "en": "listed",
+    "pl": "wymieniony, notowany"
+  },
+  {
+    "id": 1259,
+    "en": "learning",
+    "pl": "uczenie się"
+  },
+  {
+    "id": 1260,
+    "en": "delivery",
+    "pl": "dostawa"
+  },
+  {
+    "id": 1261,
+    "en": "popular",
+    "pl": "popularny"
+  },
+  {
+    "id": 1262,
+    "en": "film",
+    "pl": "film"
+  },
+  {
+    "id": 1263,
+    "en": "stories",
+    "pl": "historie"
+  },
+  {
+    "id": 1264,
+    "en": "computers",
+    "pl": "komputery"
+  },
+  {
+    "id": 1265,
+    "en": "journal",
+    "pl": "dziennik, czasopismo"
+  },
+  {
+    "id": 1266,
+    "en": "reports",
+    "pl": "raporty"
+  },
+  {
+    "id": 1267,
+    "en": "welcome",
+    "pl": "witaj, mile widziany"
+  },
+  {
+    "id": 1268,
+    "en": "central",
+    "pl": "centralny"
+  },
+  {
+    "id": 1269,
+    "en": "images",
+    "pl": "obrazy"
+  },
+  {
+    "id": 1270,
+    "en": "president",
+    "pl": "prezydent"
+  },
+  {
+    "id": 1271,
+    "en": "council",
+    "pl": "rada"
+  },
+  {
+    "id": 1272,
+    "en": "away",
+    "pl": "z dala, precz"
+  },
+  {
+    "id": 1273,
+    "en": "includes",
+    "pl": "zawiera, obejmuje"
+  },
+  {
+    "id": 1274,
+    "en": "discussion",
+    "pl": "dyskusja"
+  },
+  {
+    "id": 1275,
+    "en": "archive",
+    "pl": "archiwum"
+  },
+  {
+    "id": 1276,
+    "en": "others",
+    "pl": "inni"
+  },
+  {
+    "id": 1277,
+    "en": "entertainment",
+    "pl": "rozrywka"
+  },
+  {
+    "id": 1278,
+    "en": "agreement",
+    "pl": "umowa, zgoda"
+  },
+  {
+    "id": 1279,
+    "en": "format",
+    "pl": "format"
+  },
+  {
+    "id": 1280,
+    "en": "society",
+    "pl": "społeczeństwo"
+  },
+  {
+    "id": 1281,
+    "en": "months",
+    "pl": "miesiące"
+  },
+  {
+    "id": 1282,
+    "en": "safety",
+    "pl": "bezpieczeństwo"
+  },
+  {
+    "id": 1283,
+    "en": "friends",
+    "pl": "przyjaciele"
+  },
+  {
+    "id": 1284,
+    "en": "edition",
+    "pl": "wydanie (np. książki)"
+  },
+  {
+    "id": 1285,
+    "en": "cars",
+    "pl": "samochody"
+  },
+  {
+    "id": 1286,
+    "en": "messages",
+    "pl": "wiadomości"
+  },
+  {
+    "id": 1287,
+    "en": "marketing",
+    "pl": "marketing"
+  },
+  {
+    "id": 1288,
+    "en": "further",
+    "pl": "dalszy"
+  },
+  {
+    "id": 1289,
+    "en": "updated",
+    "pl": "zaktualizowany"
+  },
+  {
+    "id": 1290,
+    "en": "association",
+    "pl": "stowarzyszenie"
+  },
+  {
+    "id": 1291,
+    "en": "having",
+    "pl": "mając"
+  },
+  {
+    "id": 1292,
+    "en": "provides",
+    "pl": "zapewnia, dostarcza"
+  },
+  {
+    "id": 1293,
+    "en": "already",
+    "pl": "już"
+  },
+  {
+    "id": 1294,
+    "en": "studies",
+    "pl": "badania, studia"
+  },
+  {
+    "id": 1295,
+    "en": "specific",
+    "pl": "konkretny, szczegółowy"
+  },
+  {
+    "id": 1296,
+    "en": "living",
+    "pl": "żyjący, życie"
+  },
+  {
+    "id": 1297,
+    "en": "collection",
+    "pl": "kolekcja"
+  },
+  {
+    "id": 1298,
+    "en": "called",
+    "pl": "nazwany, wezwany"
+  },
+  {
+    "id": 1299,
+    "en": "arts",
+    "pl": "sztuki"
+  },
+  {
+    "id": 1300,
+    "en": "display",
+    "pl": "wyświetlacz, pokazywać"
+  },
+  {
+    "id": 1301,
+    "en": "limited",
+    "pl": "ograniczony"
+  },
+  {
+    "id": 1302,
+    "en": "powered",
+    "pl": "zasilany, napędzany"
+  },
+  {
+    "id": 1303,
+    "en": "solutions",
+    "pl": "rozwiązania"
+  },
+  {
+    "id": 1304,
+    "en": "means",
+    "pl": "oznacza, środki"
+  },
+  {
+    "id": 1305,
+    "en": "director",
+    "pl": "dyrektor"
+  },
+  {
+    "id": 1306,
+    "en": "daily",
+    "pl": "codzienny"
+  },
+  {
+    "id": 1307,
+    "en": "beach",
+    "pl": "plaża"
+  },
+  {
+    "id": 1308,
+    "en": "due",
+    "pl": "należny, spowodowany (due to)"
+  },
+  {
+    "id": 1309,
+    "en": "electronics",
+    "pl": "elektronika"
+  },
+  {
+    "id": 1310,
+    "en": "upon",
+    "pl": "na (formalnie)"
+  },
+  {
+    "id": 1311,
+    "en": "planning",
+    "pl": "planowanie"
+  },
+  {
+    "id": 1312,
+    "en": "database",
+    "pl": "baza danych"
+  },
+  {
+    "id": 1313,
+    "en": "says",
+    "pl": "mówi"
+  },
+  {
+    "id": 1314,
+    "en": "official",
+    "pl": "oficjalny"
+  },
+  {
+    "id": 1315,
+    "en": "average",
+    "pl": "przeciętny, średnia"
+  },
+  {
+    "id": 1316,
+    "en": "technical",
+    "pl": "techniczny"
+  },
+  {
+    "id": 1317,
+    "en": "conference",
+    "pl": "konferencja"
+  },
+  {
+    "id": 1318,
+    "en": "environment",
+    "pl": "środowisko"
+  },
+  {
+    "id": 1319,
+    "en": "records",
+    "pl": "zapisy, rekordy"
+  },
+  {
+    "id": 1320,
+    "en": "district",
+    "pl": "dzielnica, okręg"
+  },
+  {
+    "id": 1321,
+    "en": "calendar",
+    "pl": "kalendarz"
+  },
+  {
+    "id": 1322,
+    "en": "costs",
+    "pl": "koszty"
+  },
+  {
+    "id": 1323,
+    "en": "style",
+    "pl": "styl"
+  },
+  {
+    "id": 1324,
+    "en": "statement",
+    "pl": "oświadczenie"
+  },
+  {
+    "id": 1325,
+    "en": "update",
+    "pl": "aktualizacja"
+  },
+  {
+    "id": 1326,
+    "en": "parts",
+    "pl": "części"
+  },
+  {
+    "id": 1327,
+    "en": "downloads",
+    "pl": "pobrania"
+  },
+  {
+    "id": 1328,
+    "en": "miles",
+    "pl": "mile"
+  },
+  {
+    "id": 1329,
+    "en": "resource",
+    "pl": "zasób"
+  },
+  {
+    "id": 1330,
+    "en": "applications",
+    "pl": "aplikacje, wnioski"
+  },
+  {
+    "id": 1331,
+    "en": "document",
+    "pl": "dokument"
+  },
+  {
+    "id": 1332,
+    "en": "works",
+    "pl": "działa, dzieła"
+  },
+  {
+    "id": 1333,
+    "en": "bill",
+    "pl": "rachunek, ustawa"
+  },
+  {
+    "id": 1334,
+    "en": "federal",
+    "pl": "federalny"
+  },
+  {
+    "id": 1335,
+    "en": "hosting",
+    "pl": "hosting"
+  },
+  {
+    "id": 1336,
+    "en": "rules",
+    "pl": "zasady"
+  },
+  {
+    "id": 1337,
+    "en": "tickets",
+    "pl": "bilety"
+  },
+  {
+    "id": 1338,
+    "en": "centre",
+    "pl": "centrum"
+  },
+  {
+    "id": 1339,
+    "en": "requirements",
+    "pl": "wymagania"
+  },
+  {
+    "id": 1340,
+    "en": "via",
+    "pl": "przez, za pośrednictwem"
+  },
+  {
+    "id": 1341,
+    "en": "cheap",
+    "pl": "tani"
+  },
+  {
+    "id": 1342,
+    "en": "kids",
+    "pl": "dzieciaki"
+  },
+  {
+    "id": 1343,
+    "en": "finance",
+    "pl": "finanse"
+  },
+  {
+    "id": 1344,
+    "en": "minutes",
+    "pl": "minuty"
+  },
+  {
+    "id": 1345,
+    "en": "gifts",
+    "pl": "prezenty"
+  },
+  {
+    "id": 1346,
+    "en": "reading",
+    "pl": "czytanie"
+  },
+  {
+    "id": 1347,
+    "en": "topics",
+    "pl": "tematy"
+  },
+  {
+    "id": 1348,
+    "en": "individual",
+    "pl": "indywidualny, osoba"
+  },
+  {
+    "id": 1349,
+    "en": "tips",
+    "pl": "wskazówki, napiwki"
+  },
+  {
+    "id": 1350,
+    "en": "plus",
+    "pl": "plus"
+  },
+  {
+    "id": 1351,
+    "en": "auto",
+    "pl": "samochód, auto"
+  },
+  {
+    "id": 1352,
+    "en": "usually",
+    "pl": "zwykle"
+  },
+  {
+    "id": 1353,
+    "en": "edit",
+    "pl": "edytować"
+  },
+  {
+    "id": 1354,
+    "en": "videos",
+    "pl": "filmy wideo"
+  },
+  {
+    "id": 1355,
+    "en": "percent",
+    "pl": "procent"
+  },
+  {
+    "id": 1356,
+    "en": "function",
+    "pl": "funkcja"
+  },
+  {
+    "id": 1357,
+    "en": "getting",
+    "pl": "dostawanie, stawanie się"
+  },
+  {
+    "id": 1358,
+    "en": "global",
+    "pl": "globalny"
+  },
+  {
+    "id": 1359,
+    "en": "economic",
+    "pl": "ekonomiczny"
+  },
+  {
+    "id": 1360,
+    "en": "player",
+    "pl": "gracz, odtwarzacz"
+  },
+  {
+    "id": 1361,
+    "en": "projects",
+    "pl": "projekty"
+  },
+  {
+    "id": 1362,
+    "en": "lyrics",
+    "pl": "tekst piosenki"
+  },
+  {
+    "id": 1363,
+    "en": "subscribe",
+    "pl": "subskrybować"
+  },
+  {
+    "id": 1364,
+    "en": "submit",
+    "pl": "przesłać, zatwierdzić"
+  },
+  {
+    "id": 1365,
+    "en": "amount",
+    "pl": "ilość, kwota"
+  },
+  {
+    "id": 1366,
+    "en": "included",
+    "pl": "włączony"
+  },
+  {
+    "id": 1367,
+    "en": "risk",
+    "pl": "ryzyko"
+  },
+  {
+    "id": 1368,
+    "en": "thanks",
+    "pl": "dzięki"
+  },
+  {
+    "id": 1369,
+    "en": "everything",
+    "pl": "wszystko"
+  },
+  {
+    "id": 1370,
+    "en": "deals",
+    "pl": "transakcje, oferty"
+  },
+  {
+    "id": 1371,
+    "en": "various",
+    "pl": "różne"
+  },
+  {
+    "id": 1372,
+    "en": "words",
+    "pl": "słowa"
+  },
+  {
+    "id": 1373,
+    "en": "production",
+    "pl": "produkcja"
+  },
+  {
+    "id": 1374,
+    "en": "commercial",
+    "pl": "komercyjny, reklama"
+  },
+  {
+    "id": 1375,
+    "en": "advertising",
+    "pl": "reklama"
+  },
+  {
+    "id": 1376,
+    "en": "received",
+    "pl": "otrzymany"
+  },
+  {
+    "id": 1377,
+    "en": "treatment",
+    "pl": "leczenie, traktowanie"
+  },
+  {
+    "id": 1378,
+    "en": "newsletter",
+    "pl": "biuletyn"
+  },
+  {
+    "id": 1379,
+    "en": "archives",
+    "pl": "archiwa"
+  },
+  {
+    "id": 1380,
+    "en": "points",
+    "pl": "punkty"
+  },
+  {
+    "id": 1381,
+    "en": "knowledge",
+    "pl": "wiedza"
+  },
+  {
+    "id": 1382,
+    "en": "magazine",
+    "pl": "czasopismo"
+  },
+  {
+    "id": 1383,
+    "en": "error",
+    "pl": "błąd"
+  },
+  {
+    "id": 1384,
+    "en": "camera",
+    "pl": "aparat, kamera"
+  },
+  {
+    "id": 1385,
+    "en": "currently",
+    "pl": "obecnie"
+  },
+  {
+    "id": 1386,
+    "en": "construction",
+    "pl": "budowa, konstrukcja"
+  },
+  {
+    "id": 1387,
+    "en": "toys",
+    "pl": "zabawki"
+  },
+  {
+    "id": 1388,
+    "en": "registered",
+    "pl": "zarejestrowany"
+  },
+  {
+    "id": 1389,
+    "en": "golf",
+    "pl": "golf"
+  },
+  {
+    "id": 1390,
+    "en": "domain",
+    "pl": "domena"
+  },
+  {
+    "id": 1391,
+    "en": "methods",
+    "pl": "metody"
+  },
+  {
+    "id": 1392,
+    "en": "chapter",
+    "pl": "rozdział"
+  },
+  {
+    "id": 1393,
+    "en": "makes",
+    "pl": "robi, sprawia"
+  },
+  {
+    "id": 1394,
+    "en": "protection",
+    "pl": "ochrona"
+  },
+  {
+    "id": 1395,
+    "en": "policies",
+    "pl": "zasady, polityki"
+  },
+  {
+    "id": 1396,
+    "en": "loan",
+    "pl": "pożyczka"
+  },
+  {
+    "id": 1397,
+    "en": "manager",
+    "pl": "menedżer, kierownik"
+  },
+  {
+    "id": 1398,
+    "en": "taken",
+    "pl": "wzięty"
+  },
+  {
+    "id": 1399,
+    "en": "sort",
+    "pl": "rodzaj, sortować"
+  },
+  {
+    "id": 1400,
+    "en": "listings",
+    "pl": "wykazy, ogłoszenia"
+  },
+  {
+    "id": 1401,
+    "en": "models",
+    "pl": "modele"
+  },
+  {
+    "id": 1402,
+    "en": "known",
+    "pl": "znany"
+  },
+  {
+    "id": 1403,
+    "en": "cases",
+    "pl": "przypadki"
+  },
+  {
+    "id": 1404,
+    "en": "engineering",
+    "pl": "inżynieria"
+  },
+  {
+    "id": 1405,
+    "en": "none",
+    "pl": "żaden"
+  },
+  {
+    "id": 1406,
+    "en": "wireless",
+    "pl": "bezprzewodowy"
+  },
+  {
+    "id": 1407,
+    "en": "license",
+    "pl": "licencja"
+  },
+  {
+    "id": 1408,
+    "en": "friday",
+    "pl": "piątek"
+  },
+  {
+    "id": 1409,
+    "en": "annual",
+    "pl": "roczny"
+  },
+  {
+    "id": 1410,
+    "en": "published",
+    "pl": "opublikowany"
+  },
+  {
+    "id": 1411,
+    "en": "later",
+    "pl": "później"
+  },
+  {
+    "id": 1412,
+    "en": "shows",
+    "pl": "pokazuje, pokazy"
+  },
+  {
+    "id": 1413,
+    "en": "corporate",
+    "pl": "korporacyjny"
+  },
+  {
+    "id": 1414,
+    "en": "church",
+    "pl": "kościół"
+  },
+  {
+    "id": 1415,
+    "en": "purchase",
+    "pl": "zakup"
+  },
+  {
+    "id": 1416,
+    "en": "customers",
+    "pl": "klienci"
+  },
+  {
+    "id": 1417,
+    "en": "active",
+    "pl": "aktywny"
+  },
+  {
+    "id": 1418,
+    "en": "response",
+    "pl": "odpowiedź"
+  },
+  {
+    "id": 1419,
+    "en": "hardware",
+    "pl": "sprzęt komputerowy"
+  },
+  {
+    "id": 1420,
+    "en": "materials",
+    "pl": "materiały"
+  },
+  {
+    "id": 1421,
+    "en": "holiday",
+    "pl": "święto, wakacje"
+  },
+  {
+    "id": 1422,
+    "en": "chat",
+    "pl": "czat, rozmawiać"
+  },
+  {
+    "id": 1423,
+    "en": "designed",
+    "pl": "zaprojektowany"
+  },
+  {
+    "id": 1424,
+    "en": "along",
+    "pl": "wzdłuż"
+  },
+  {
+    "id": 1425,
+    "en": "writing",
+    "pl": "pisanie"
+  },
+  {
+    "id": 1426,
+    "en": "countries",
+    "pl": "kraje"
+  },
+  {
+    "id": 1427,
+    "en": "loss",
+    "pl": "strata"
+  },
+  {
+    "id": 1428,
+    "en": "brand",
+    "pl": "marka"
+  },
+  {
+    "id": 1429,
+    "en": "discount",
+    "pl": "rabat"
+  },
+  {
+    "id": 1430,
+    "en": "higher",
+    "pl": "wyższy"
+  },
+  {
+    "id": 1431,
+    "en": "effects",
+    "pl": "efekty"
+  },
+  {
+    "id": 1432,
+    "en": "created",
+    "pl": "stworzony"
+  },
+  {
+    "id": 1433,
+    "en": "standards",
+    "pl": "standardy"
+  },
+  {
+    "id": 1434,
+    "en": "political",
+    "pl": "polityczny"
+  },
+  {
+    "id": 1435,
+    "en": "increase",
+    "pl": "zwiększać, wzrost"
+  },
+  {
+    "id": 1436,
+    "en": "advertise",
+    "pl": "reklamować"
+  },
+  {
+    "id": 1437,
+    "en": "kingdom",
+    "pl": "królestwo"
+  },
+  {
+    "id": 1438,
+    "en": "environmental",
+    "pl": "środowiskowy"
+  },
+  {
+    "id": 1439,
+    "en": "stuff",
+    "pl": "rzeczy"
+  },
+  {
+    "id": 1440,
+    "en": "french",
+    "pl": "francuski"
+  },
+  {
+    "id": 1441,
+    "en": "storage",
+    "pl": "przechowywanie, magazynowanie"
+  },
+  {
+    "id": 1442,
+    "en": "doing",
+    "pl": "robienie"
+  },
+  {
+    "id": 1443,
+    "en": "loans",
+    "pl": "pożyczki"
+  },
+  {
+    "id": 1444,
+    "en": "shoes",
+    "pl": "buty"
+  },
+  {
+    "id": 1445,
+    "en": "entry",
+    "pl": "wpis, wejście"
+  },
+  {
+    "id": 1446,
+    "en": "orders",
+    "pl": "zamówienia"
+  },
+  {
+    "id": 1447,
+    "en": "availability",
+    "pl": "dostępność"
+  },
+  {
+    "id": 1448,
+    "en": "summary",
+    "pl": "podsumowanie"
+  },
+  {
+    "id": 1449,
+    "en": "growth",
+    "pl": "wzrost"
+  },
+  {
+    "id": 1450,
+    "en": "notes",
+    "pl": "notatki"
+  },
+  {
+    "id": 1451,
+    "en": "agency",
+    "pl": "agencja"
+  },
+  {
+    "id": 1452,
+    "en": "monday",
+    "pl": "poniedziałek"
+  },
+  {
+    "id": 1453,
+    "en": "european",
+    "pl": "europejski"
+  },
+  {
+    "id": 1454,
+    "en": "activity",
+    "pl": "aktywność"
+  },
+  {
+    "id": 1455,
+    "en": "although",
+    "pl": "chociaż"
+  },
+  {
+    "id": 1456,
+    "en": "drug",
+    "pl": "lek, narkotyk"
+  },
+  {
+    "id": 1457,
+    "en": "pics",
+    "pl": "zdjęcia (skrót)"
+  },
+  {
+    "id": 1458,
+    "en": "western",
+    "pl": "zachodni"
+  },
+  {
+    "id": 1459,
+    "en": "income",
+    "pl": "dochód"
+  },
+  {
+    "id": 1460,
+    "en": "cash",
+    "pl": "gotówka"
+  },
+  {
+    "id": 1461,
+    "en": "employment",
+    "pl": "zatrudnienie"
+  },
+  {
+    "id": 1462,
+    "en": "overall",
+    "pl": "ogólny, ogółem"
+  },
+  {
+    "id": 1463,
+    "en": "bay",
+    "pl": "zatoka"
+  },
+  {
+    "id": 1464,
+    "en": "commission",
+    "pl": "prowizja, komisja"
+  },
+  {
+    "id": 1465,
+    "en": "package",
+    "pl": "paczka, pakiet"
+  },
+  {
+    "id": 1466,
+    "en": "contents",
+    "pl": "zawartość"
+  },
+  {
+    "id": 1467,
+    "en": "seen",
+    "pl": "widziany"
+  },
+  {
+    "id": 1468,
+    "en": "players",
+    "pl": "gracze"
+  },
+  {
+    "id": 1469,
+    "en": "album",
+    "pl": "album"
+  },
+  {
+    "id": 1470,
+    "en": "regional",
+    "pl": "regionalny"
+  },
+  {
+    "id": 1471,
+    "en": "supplies",
+    "pl": "zapasy, dostawy"
+  },
+  {
+    "id": 1472,
+    "en": "started",
+    "pl": "zaczęty"
+  },
+  {
+    "id": 1473,
+    "en": "administration",
+    "pl": "administracja"
+  },
+  {
+    "id": 1474,
+    "en": "institute",
+    "pl": "instytut"
+  },
+  {
+    "id": 1475,
+    "en": "views",
+    "pl": "widoki, poglądy"
+  },
+  {
+    "id": 1476,
+    "en": "plans",
+    "pl": "plany"
+  },
+  {
+    "id": 1477,
+    "en": "screen",
+    "pl": "ekran"
+  },
+  {
+    "id": 1478,
+    "en": "exchange",
+    "pl": "wymiana"
+  },
+  {
+    "id": 1479,
+    "en": "types",
+    "pl": "typy"
+  },
+  {
+    "id": 1480,
+    "en": "sponsored",
+    "pl": "sponsorowany"
+  },
+  {
+    "id": 1481,
+    "en": "lines",
+    "pl": "linie"
+  },
+  {
+    "id": 1482,
+    "en": "electronic",
+    "pl": "elektroniczny"
+  },
+  {
+    "id": 1483,
+    "en": "across",
+    "pl": "w poprzek, przez"
+  },
+  {
+    "id": 1484,
+    "en": "benefits",
+    "pl": "korzyści"
+  },
+  {
+    "id": 1485,
+    "en": "needed",
+    "pl": "potrzebny"
+  },
+  {
+    "id": 1486,
+    "en": "apply",
+    "pl": "aplikować, stosować"
+  },
+  {
+    "id": 1487,
+    "en": "someone",
+    "pl": "ktoś"
+  },
+  {
+    "id": 1488,
+    "en": "anything",
+    "pl": "cokolwiek"
+  },
+  {
+    "id": 1489,
+    "en": "printer",
+    "pl": "drukarka"
+  },
+  {
+    "id": 1490,
+    "en": "effective",
+    "pl": "skuteczny"
+  },
+  {
+    "id": 1491,
+    "en": "organization",
+    "pl": "organizacja"
+  },
+  {
+    "id": 1492,
+    "en": "asked",
+    "pl": "zapytany"
+  },
+  {
+    "id": 1493,
+    "en": "sunday",
+    "pl": "niedziela"
+  },
+  {
+    "id": 1494,
+    "en": "selection",
+    "pl": "wybór"
+  },
+  {
+    "id": 1495,
+    "en": "casino",
+    "pl": "kasyno"
+  },
+  {
+    "id": 1496,
+    "en": "tour",
+    "pl": "wycieczka"
+  },
+  {
+    "id": 1497,
+    "en": "menu",
+    "pl": "menu"
+  },
+  {
+    "id": 1498,
+    "en": "volume",
+    "pl": "głośność, tom"
+  },
+  {
+    "id": 1499,
+    "en": "anyone",
+    "pl": "ktokolwiek"
+  },
+  {
+    "id": 1500,
+    "en": "mortgage",
+    "pl": "kredyt hipoteczny"
+  },
+  {
+    "id": 1501,
+    "en": "corporation",
+    "pl": "korporacja"
+  },
+  {
+    "id": 1502,
+    "en": "inside",
+    "pl": "wewnątrz"
+  },
+  {
+    "id": 1503,
+    "en": "role",
+    "pl": "rola"
+  },
+  {
+    "id": 1504,
+    "en": "weeks",
+    "pl": "tygodnie"
+  },
+  {
+    "id": 1505,
+    "en": "addition",
+    "pl": "dodatek, dodawanie"
+  },
+  {
+    "id": 1506,
+    "en": "executive",
+    "pl": "kierowniczy, dyrektor"
+  },
+  {
+    "id": 1507,
+    "en": "running",
+    "pl": "biegnący, prowadzenie"
+  },
+  {
+    "id": 1508,
+    "en": "lower",
+    "pl": "niższy"
+  },
+  {
+    "id": 1509,
+    "en": "union",
+    "pl": "związek, unia"
+  },
+  {
+    "id": 1510,
+    "en": "jewelry",
+    "pl": "biżuteria"
+  },
+  {
+    "id": 1511,
+    "en": "according",
+    "pl": "zgodnie (z czymś)"
+  },
+  {
+    "id": 1512,
+    "en": "clothing",
+    "pl": "odzież"
+  },
+  {
+    "id": 1513,
+    "en": "names",
+    "pl": "imiona, nazwy"
+  },
+  {
+    "id": 1514,
+    "en": "homepage",
+    "pl": "strona główna"
+  },
+  {
+    "id": 1515,
+    "en": "skills",
+    "pl": "umiejętności"
+  },
+  {
+    "id": 1516,
+    "en": "islands",
+    "pl": "wyspy"
+  },
+  {
+    "id": 1517,
+    "en": "advice",
+    "pl": "rada"
+  },
+  {
+    "id": 1518,
+    "en": "career",
+    "pl": "kariera"
+  },
+  {
+    "id": 1519,
+    "en": "military",
+    "pl": "wojskowy"
+  },
+  {
+    "id": 1520,
+    "en": "rental",
+    "pl": "wynajem"
+  },
+  {
+    "id": 1521,
+    "en": "decision",
+    "pl": "decyzja"
+  },
+  {
+    "id": 1522,
+    "en": "british",
+    "pl": "brytyjski"
+  },
+  {
+    "id": 1523,
+    "en": "facilities",
+    "pl": "obiekty, udogodnienia"
+  },
+  {
+    "id": 1524,
+    "en": "zip",
+    "pl": "kod pocztowy"
+  },
+  {
+    "id": 1525,
+    "en": "bid",
+    "pl": "oferta (przetargowa)"
+  },
+  {
+    "id": 1526,
+    "en": "sellers",
+    "pl": "sprzedawcy"
+  },
+  {
+    "id": 1527,
+    "en": "cable",
+    "pl": "kabel"
+  },
+  {
+    "id": 1528,
+    "en": "opportunities",
+    "pl": "możliwości"
+  },
+  {
+    "id": 1529,
+    "en": "taking",
+    "pl": "branie"
+  },
+  {
+    "id": 1530,
+    "en": "values",
+    "pl": "wartości"
+  },
+  {
+    "id": 1531,
+    "en": "coming",
+    "pl": "nadchodzący"
+  },
+  {
+    "id": 1532,
+    "en": "tuesday",
+    "pl": "wtorek"
+  },
+  {
+    "id": 1533,
+    "en": "appropriate",
+    "pl": "odpowiedni"
+  },
+  {
+    "id": 1534,
+    "en": "logo",
+    "pl": "logo"
+  },
+  {
+    "id": 1535,
+    "en": "actually",
+    "pl": "właściwie, tak naprawdę"
+  },
+  {
+    "id": 1536,
+    "en": "nice",
+    "pl": "miły"
+  },
+  {
+    "id": 1537,
+    "en": "statistics",
+    "pl": "statystyki"
+  },
+  {
+    "id": 1538,
+    "en": "client",
+    "pl": "klient"
+  },
+  {
+    "id": 1539,
+    "en": "returns",
+    "pl": "zwroty"
+  },
+  {
+    "id": 1540,
+    "en": "sample",
+    "pl": "próbka"
+  },
+  {
+    "id": 1541,
+    "en": "investment",
+    "pl": "inwestycja"
+  },
+  {
+    "id": 1542,
+    "en": "shown",
+    "pl": "pokazany"
+  },
+  {
+    "id": 1543,
+    "en": "saturday",
+    "pl": "sobota"
+  },
+  {
+    "id": 1544,
+    "en": "christmas",
+    "pl": "Boże Narodzenie"
+  },
+  {
+    "id": 1545,
+    "en": "culture",
+    "pl": "kultura"
+  },
+  {
+    "id": 1546,
+    "en": "flash",
+    "pl": "błysk, flesz"
+  },
+  {
+    "id": 1547,
+    "en": "choice",
+    "pl": "wybór"
+  },
+  {
+    "id": 1548,
+    "en": "starting",
+    "pl": "zaczynający"
+  },
+  {
+    "id": 1549,
+    "en": "registration",
+    "pl": "rejestracja"
+  },
+  {
+    "id": 1550,
+    "en": "thursday",
+    "pl": "czwartek"
+  },
+  {
+    "id": 1551,
+    "en": "courses",
+    "pl": "kursy"
+  },
+  {
+    "id": 1552,
+    "en": "consumer",
+    "pl": "konsument"
+  },
+  {
+    "id": 1553,
+    "en": "airport",
+    "pl": "lotnisko"
+  },
+  {
+    "id": 1554,
+    "en": "foreign",
+    "pl": "zagraniczny"
+  },
+  {
+    "id": 1555,
+    "en": "artist",
+    "pl": "artysta"
+  },
+  {
+    "id": 1556,
+    "en": "outside",
+    "pl": "na zewnątrz"
+  },
+  {
+    "id": 1557,
+    "en": "furniture",
+    "pl": "meble"
+  },
+  {
+    "id": 1558,
+    "en": "levels",
+    "pl": "poziomy"
+  },
+  {
+    "id": 1559,
+    "en": "channel",
+    "pl": "kanał"
+  },
+  {
+    "id": 1560,
+    "en": "mode",
+    "pl": "tryb"
+  },
+  {
+    "id": 1561,
+    "en": "phones",
+    "pl": "telefony"
+  },
+  {
+    "id": 1562,
+    "en": "ideas",
+    "pl": "pomysły"
+  },
+  {
+    "id": 1563,
+    "en": "wednesday",
+    "pl": "środa"
+  },
+  {
+    "id": 1564,
+    "en": "structure",
+    "pl": "struktura"
+  },
+  {
+    "id": 1565,
+    "en": "fund",
+    "pl": "fundusz"
+  },
+  {
+    "id": 1566,
+    "en": "contract",
+    "pl": "umowa, kontrakt"
+  },
+  {
+    "id": 1567,
+    "en": "button",
+    "pl": "przycisk"
+  },
+  {
+    "id": 1568,
+    "en": "releases",
+    "pl": "wydania"
+  },
+  {
+    "id": 1569,
+    "en": "homes",
+    "pl": "domy"
+  },
+  {
+    "id": 1570,
+    "en": "super",
+    "pl": "super"
+  },
+  {
+    "id": 1571,
+    "en": "male",
+    "pl": "mężczyzna, płci męskiej"
+  },
+  {
+    "id": 1572,
+    "en": "custom",
+    "pl": "niestandardowy, zwyczaj"
+  },
+  {
+    "id": 1573,
+    "en": "almost",
+    "pl": "prawie"
+  },
+  {
+    "id": 1574,
+    "en": "located",
+    "pl": "położony"
+  },
+  {
+    "id": 1575,
+    "en": "multiple",
+    "pl": "wielokrotny"
+  },
+  {
+    "id": 1576,
+    "en": "asian",
+    "pl": "azjatycki"
+  },
+  {
+    "id": 1577,
+    "en": "distribution",
+    "pl": "dystrybucja"
+  },
+  {
+    "id": 1578,
+    "en": "editor",
+    "pl": "redaktor"
+  },
+  {
+    "id": 1579,
+    "en": "inn",
+    "pl": "gospoda, zajazd"
+  },
+  {
+    "id": 1580,
+    "en": "industrial",
+    "pl": "przemysłowy"
+  },
+  {
+    "id": 1581,
+    "en": "potential",
+    "pl": "potencjał, potencjalny"
+  },
+  {
+    "id": 1582,
+    "en": "focus",
+    "pl": "skupienie się"
+  },
+  {
+    "id": 1583,
+    "en": "featured",
+    "pl": "polecany, wyróżniony"
+  },
+  {
+    "id": 1584,
+    "en": "rooms",
+    "pl": "pokoje"
+  },
+  {
+    "id": 1585,
+    "en": "female",
+    "pl": "kobieta, płci żeńskiej"
+  },
+  {
+    "id": 1586,
+    "en": "responsible",
+    "pl": "odpowiedzialny"
+  },
+  {
+    "id": 1587,
+    "en": "communications",
+    "pl": "komunikacja"
+  },
+  {
+    "id": 1588,
+    "en": "associated",
+    "pl": "powiązany"
+  },
+  {
+    "id": 1589,
+    "en": "primary",
+    "pl": "podstawowy, główny"
+  },
+  {
+    "id": 1590,
+    "en": "cancer",
+    "pl": "rak (choroba)"
+  },
+  {
+    "id": 1591,
+    "en": "numbers",
+    "pl": "liczby"
+  },
+  {
+    "id": 1592,
+    "en": "browser",
+    "pl": "przeglądarka"
+  },
+  {
+    "id": 1593,
+    "en": "foundation",
+    "pl": "fundacja, fundament"
+  },
+  {
+    "id": 1594,
+    "en": "friendly",
+    "pl": "przyjazny"
+  },
+  {
+    "id": 1595,
+    "en": "schedule",
+    "pl": "harmonogram"
+  },
+  {
+    "id": 1596,
+    "en": "documents",
+    "pl": "dokumenty"
+  },
+  {
+    "id": 1597,
+    "en": "communication",
+    "pl": "komunikacja"
+  },
+  {
+    "id": 1598,
+    "en": "purpose",
+    "pl": "cel"
+  },
+  {
+    "id": 1599,
+    "en": "feature",
+    "pl": "cecha, funkcja"
+  },
+  {
+    "id": 1600,
+    "en": "comes",
+    "pl": "przychodzi"
+  },
+  {
+    "id": 1601,
+    "en": "police",
+    "pl": "policja"
+  },
+  {
+    "id": 1602,
+    "en": "everyone",
+    "pl": "każdy"
+  },
+  {
+    "id": 1603,
+    "en": "independent",
+    "pl": "niezależny"
+  },
+  {
+    "id": 1604,
+    "en": "approach",
+    "pl": "podejście"
+  },
+  {
+    "id": 1605,
+    "en": "cameras",
+    "pl": "aparaty"
+  },
+  {
+    "id": 1606,
+    "en": "physical",
+    "pl": "fizyczny"
+  },
+  {
+    "id": 1607,
+    "en": "operating",
+    "pl": "operacyjny, działający"
+  },
+  {
+    "id": 1608,
+    "en": "maps",
+    "pl": "mapy"
+  },
+  {
+    "id": 1609,
+    "en": "medicine",
+    "pl": "medycyna, lekarstwo"
+  },
+  {
+    "id": 1610,
+    "en": "ratings",
+    "pl": "oceny"
+  },
+  {
+    "id": 1611,
+    "en": "forms",
+    "pl": "formularze"
+  },
+  {
+    "id": 1612,
+    "en": "wanted",
+    "pl": "chciany, poszukiwany"
+  },
+  {
+    "id": 1613,
+    "en": "developed",
+    "pl": "rozwinięty"
+  },
+  {
+    "id": 1614,
+    "en": "unique",
+    "pl": "unikalny"
+  },
+  {
+    "id": 1615,
+    "en": "survey",
+    "pl": "ankieta"
+  },
+  {
+    "id": 1616,
+    "en": "prior",
+    "pl": "wcześniejszy"
+  },
+  {
+    "id": 1617,
+    "en": "telephone",
+    "pl": "telefon"
+  },
+  {
+    "id": 1618,
+    "en": "sport",
+    "pl": "sport"
+  },
+  {
+    "id": 1619,
+    "en": "sources",
+    "pl": "źródła"
+  },
+  {
+    "id": 1620,
+    "en": "population",
+    "pl": "populacja"
+  },
+  {
+    "id": 1621,
+    "en": "regular",
+    "pl": "regularny"
+  },
+  {
+    "id": 1622,
+    "en": "secure",
+    "pl": "bezpieczny"
+  },
+  {
+    "id": 1623,
+    "en": "navigation",
+    "pl": "nawigacja"
+  },
+  {
+    "id": 1624,
+    "en": "operations",
+    "pl": "operacje"
+  },
+  {
+    "id": 1625,
+    "en": "therefore",
+    "pl": "dlatego"
+  },
+  {
+    "id": 1626,
+    "en": "simply",
+    "pl": "po prostu"
+  },
+  {
+    "id": 1627,
+    "en": "evidence",
+    "pl": "dowód"
+  },
+  {
+    "id": 1628,
+    "en": "christian",
+    "pl": "chrześcijański, chrześcijanin"
+  },
+  {
+    "id": 1629,
+    "en": "favorite",
+    "pl": "ulubiony"
+  },
+  {
+    "id": 1630,
+    "en": "understand",
+    "pl": "rozumieć"
+  },
+  {
+    "id": 1631,
+    "en": "option",
+    "pl": "opcja"
+  },
+  {
+    "id": 1632,
+    "en": "recently",
+    "pl": "ostatnio"
+  },
+  {
+    "id": 1633,
+    "en": "probably",
+    "pl": "prawdopodobnie"
+  },
+  {
+    "id": 1634,
+    "en": "rentals",
+    "pl": "wynajem"
+  },
+  {
+    "id": 1635,
+    "en": "built",
+    "pl": "zbudowany"
+  },
+  {
+    "id": 1636,
+    "en": "publications",
+    "pl": "publikacje"
+  },
+  {
+    "id": 1637,
+    "en": "worldwide",
+    "pl": "na całym świecie"
+  },
+  {
+    "id": 1638,
+    "en": "improve",
+    "pl": "poprawić"
+  },
+  {
+    "id": 1639,
+    "en": "connection",
+    "pl": "połączenie"
+  },
+  {
+    "id": 1640,
+    "en": "publisher",
+    "pl": "wydawca"
+  },
+  {
+    "id": 1641,
+    "en": "hall",
+    "pl": "hol, sala"
+  },
+  {
+    "id": 1642,
+    "en": "larger",
+    "pl": "większy"
+  },
+  {
+    "id": 1643,
+    "en": "networks",
+    "pl": "sieci"
+  },
+  {
+    "id": 1644,
+    "en": "parents",
+    "pl": "rodzice"
+  },
+  {
+    "id": 1645,
+    "en": "impact",
+    "pl": "wpływ"
+  },
+  {
+    "id": 1646,
+    "en": "transfer",
+    "pl": "transfer, przelew"
+  },
+  {
+    "id": 1647,
+    "en": "introduction",
+    "pl": "wprowadzenie"
+  },
+  {
+    "id": 1648,
+    "en": "kitchen",
+    "pl": "kuchnia"
+  },
+  {
+    "id": 1649,
+    "en": "wedding",
+    "pl": "ślub"
+  },
+  {
+    "id": 1650,
+    "en": "properties",
+    "pl": "właściwości, nieruchomości"
+  },
+  {
+    "id": 1651,
+    "en": "hospital",
+    "pl": "szpital"
+  },
+  {
+    "id": 1652,
+    "en": "overview",
+    "pl": "przegląd"
+  },
+  {
+    "id": 1653,
+    "en": "accommodation",
+    "pl": "zakwaterowanie"
+  },
+  {
+    "id": 1654,
+    "en": "owners",
+    "pl": "właściciele"
+  },
+  {
+    "id": 1655,
+    "en": "disease",
+    "pl": "choroba"
+  },
+  {
+    "id": 1656,
+    "en": "excellent",
+    "pl": "doskonały"
+  },
+  {
+    "id": 1657,
+    "en": "paid",
+    "pl": "opłacony"
+  },
+  {
+    "id": 1658,
+    "en": "perfect",
+    "pl": "idealny"
+  },
+  {
+    "id": 1659,
+    "en": "opportunity",
+    "pl": "okazja, możliwość"
+  },
+  {
+    "id": 1660,
+    "en": "kit",
+    "pl": "zestaw"
+  },
+  {
+    "id": 1661,
+    "en": "classic",
+    "pl": "klasyczny"
+  },
+  {
+    "id": 1662,
+    "en": "basis",
+    "pl": "podstawa"
+  },
+  {
+    "id": 1663,
+    "en": "command",
+    "pl": "polecenie, dowodzić"
+  },
+  {
+    "id": 1664,
+    "en": "cities",
+    "pl": "miasta"
+  },
+  {
+    "id": 1665,
+    "en": "express",
+    "pl": "wyrażać, ekspresowy"
+  },
+  {
+    "id": 1666,
+    "en": "award",
+    "pl": "nagroda"
+  },
+  {
+    "id": 1667,
+    "en": "distance",
+    "pl": "odległość"
+  },
+  {
+    "id": 1668,
+    "en": "assessment",
+    "pl": "ocena"
+  },
+  {
+    "id": 1669,
+    "en": "ensure",
+    "pl": "zapewnić"
+  },
+  {
+    "id": 1670,
+    "en": "involved",
+    "pl": "zaangażowany"
+  },
+  {
+    "id": 1671,
+    "en": "extra",
+    "pl": "dodatkowy"
+  },
+  {
+    "id": 1672,
+    "en": "interface",
+    "pl": "interfejs"
+  },
+  {
+    "id": 1673,
+    "en": "partners",
+    "pl": "partnerzy"
+  },
+  {
+    "id": 1674,
+    "en": "budget",
+    "pl": "budżet"
+  },
+  {
+    "id": 1675,
+    "en": "rated",
+    "pl": "oceniany"
+  },
+  {
+    "id": 1676,
+    "en": "guides",
+    "pl": "przewodniki"
+  },
+  {
+    "id": 1677,
+    "en": "maximum",
+    "pl": "maksymalny"
+  },
+  {
+    "id": 1678,
+    "en": "operation",
+    "pl": "operacja"
+  },
+  {
+    "id": 1679,
+    "en": "existing",
+    "pl": "istniejący"
+  },
+  {
+    "id": 1680,
+    "en": "selected",
+    "pl": "wybrany"
+  },
+  {
+    "id": 1681,
+    "en": "patients",
+    "pl": "pacjenci"
+  },
+  {
+    "id": 1682,
+    "en": "restaurants",
+    "pl": "restauracje"
+  },
+  {
+    "id": 1683,
+    "en": "beautiful",
+    "pl": "piękny"
+  },
+  {
+    "id": 1684,
+    "en": "warning",
+    "pl": "ostrzeżenie"
+  },
+  {
+    "id": 1685,
+    "en": "wine",
+    "pl": "wino"
+  },
+  {
+    "id": 1686,
+    "en": "locations",
+    "pl": "lokalizacje"
+  },
+  {
+    "id": 1687,
+    "en": "vote",
+    "pl": "głosować"
+  },
+  {
+    "id": 1688,
+    "en": "flowers",
+    "pl": "kwiaty"
+  },
+  {
+    "id": 1689,
+    "en": "stars",
+    "pl": "gwiazdy"
+  },
+  {
+    "id": 1690,
+    "en": "significant",
+    "pl": "znaczący"
+  },
+  {
+    "id": 1691,
+    "en": "lists",
+    "pl": "listy"
+  },
+  {
+    "id": 1692,
+    "en": "technologies",
+    "pl": "technologie"
+  },
+  {
+    "id": 1693,
+    "en": "owner",
+    "pl": "właściciel"
+  },
+  {
+    "id": 1694,
+    "en": "retail",
+    "pl": "handel detaliczny"
+  },
+  {
+    "id": 1695,
+    "en": "animals",
+    "pl": "zwierzęta"
+  },
+  {
+    "id": 1696,
+    "en": "useful",
+    "pl": "użyteczny"
+  },
+  {
+    "id": 1697,
+    "en": "directly",
+    "pl": "bezpośrednio"
+  },
+  {
+    "id": 1698,
+    "en": "manufacturer",
+    "pl": "producent"
+  },
+  {
+    "id": 1699,
+    "en": "ways",
+    "pl": "sposoby"
+  },
+  {
+    "id": 1700,
+    "en": "providing",
+    "pl": "zapewniając"
+  },
+  {
+    "id": 1701,
+    "en": "housing",
+    "pl": "mieszkalnictwo"
+  },
+  {
+    "id": 1702,
+    "en": "takes",
+    "pl": "bierze"
+  },
+  {
+    "id": 1703,
+    "en": "catalog",
+    "pl": "katalog"
+  },
+  {
+    "id": 1704,
+    "en": "searches",
+    "pl": "wyszukiwania"
+  },
+  {
+    "id": 1705,
+    "en": "trying",
+    "pl": "próbujący"
+  },
+  {
+    "id": 1706,
+    "en": "authority",
+    "pl": "władza, autorytet"
+  },
+  {
+    "id": 1707,
+    "en": "considered",
+    "pl": "rozważany, uważany"
+  },
+  {
+    "id": 1708,
+    "en": "traffic",
+    "pl": "ruch (drogowy)"
+  },
+  {
+    "id": 1709,
+    "en": "programme",
+    "pl": "program"
+  },
+  {
+    "id": 1710,
+    "en": "joined",
+    "pl": "dołączył"
+  },
+  {
+    "id": 1711,
+    "en": "input",
+    "pl": "dane wejściowe, wprowadzać"
+  },
+  {
+    "id": 1712,
+    "en": "strategy",
+    "pl": "strategia"
+  },
+  {
+    "id": 1713,
+    "en": "agent",
+    "pl": "agent"
+  },
+  {
+    "id": 1714,
+    "en": "valid",
+    "pl": "ważny (dokument)"
+  },
+  {
+    "id": 1715,
+    "en": "senior",
+    "pl": "starszy, senior"
+  },
+  {
+    "id": 1716,
+    "en": "teaching",
+    "pl": "nauczanie"
+  },
+  {
+    "id": 1717,
+    "en": "testing",
+    "pl": "testowanie"
+  },
+  {
+    "id": 1718,
+    "en": "trial",
+    "pl": "próba, proces sądowy"
+  },
+  {
+    "id": 1719,
+    "en": "units",
+    "pl": "jednostki"
+  },
+  {
+    "id": 1720,
+    "en": "instead",
+    "pl": "zamiast"
+  },
+  {
+    "id": 1721,
+    "en": "canadian",
+    "pl": "kanadyjski"
+  },
+  {
+    "id": 1722,
+    "en": "normal",
+    "pl": "normalny"
+  },
+  {
+    "id": 1723,
+    "en": "enterprise",
+    "pl": "przedsiębiorstwo"
+  },
+  {
+    "id": 1724,
+    "en": "ships",
+    "pl": "statki"
+  },
+  {
+    "id": 1725,
+    "en": "entire",
+    "pl": "cały"
+  },
+  {
+    "id": 1726,
+    "en": "educational",
+    "pl": "edukacyjny"
+  },
+  {
+    "id": 1727,
+    "en": "leading",
+    "pl": "wiodący"
+  },
+  {
+    "id": 1728,
+    "en": "positive",
+    "pl": "pozytywny"
+  },
+  {
+    "id": 1729,
+    "en": "fitness",
+    "pl": "sprawność fizyczna, fitness"
+  },
+  {
+    "id": 1730,
+    "en": "chinese",
+    "pl": "chiński"
+  },
+  {
+    "id": 1731,
+    "en": "opinion",
+    "pl": "opinia"
+  },
+  {
+    "id": 1732,
+    "en": "football",
+    "pl": "piłka nożna"
+  },
+  {
+    "id": 1733,
+    "en": "abstract",
+    "pl": "streszczenie, abstrakcyjny"
+  },
+  {
+    "id": 1734,
+    "en": "uses",
+    "pl": "używa, zastosowania"
+  },
+  {
+    "id": 1735,
+    "en": "output",
+    "pl": "wynik, moc wyjściowa"
+  },
+  {
+    "id": 1736,
+    "en": "funds",
+    "pl": "fundusze"
+  },
+  {
+    "id": 1737,
+    "en": "greater",
+    "pl": "większy"
+  },
+  {
+    "id": 1738,
+    "en": "likely",
+    "pl": "prawdopodobny"
+  },
+  {
+    "id": 1739,
+    "en": "employees",
+    "pl": "pracownicy"
+  },
+  {
+    "id": 1740,
+    "en": "artists",
+    "pl": "artyści"
+  },
+  {
+    "id": 1741,
+    "en": "alternative",
+    "pl": "alternatywa"
+  },
+  {
+    "id": 1742,
+    "en": "processing",
+    "pl": "przetwarzanie"
+  },
+  {
+    "id": 1743,
+    "en": "responsibility",
+    "pl": "odpowiedzialność"
+  },
+  {
+    "id": 1744,
+    "en": "resolution",
+    "pl": "rozdzielczość, rezolucja"
+  },
+  {
+    "id": 1745,
+    "en": "guest",
+    "pl": "gość"
+  },
+  {
+    "id": 1746,
+    "en": "seems",
+    "pl": "wydaje się"
+  },
+  {
+    "id": 1747,
+    "en": "publication",
+    "pl": "publikacja"
+  },
+  {
+    "id": 1748,
+    "en": "relations",
+    "pl": "stosunki"
+  },
+  {
+    "id": 1749,
+    "en": "trust",
+    "pl": "zaufanie"
+  },
+  {
+    "id": 1750,
+    "en": "van",
+    "pl": "furgonetka"
+  },
+  {
+    "id": 1751,
+    "en": "contains",
+    "pl": "zawiera"
+  },
+  {
+    "id": 1752,
+    "en": "session",
+    "pl": "sesja"
+  },
+  {
+    "id": 1753,
+    "en": "photography",
+    "pl": "fotografia"
+  },
+  {
+    "id": 1754,
+    "en": "republic",
+    "pl": "republika"
+  },
+  {
+    "id": 1755,
+    "en": "fees",
+    "pl": "opłaty"
+  },
+  {
+    "id": 1756,
+    "en": "components",
+    "pl": "komponenty"
+  },
+  {
+    "id": 1757,
+    "en": "vacation",
+    "pl": "wakacje, urlop"
+  },
+  {
+    "id": 1758,
+    "en": "academic",
+    "pl": "akademicki"
+  },
+  {
+    "id": 1759,
+    "en": "assistance",
+    "pl": "pomoc"
+  },
+  {
+    "id": 1760,
+    "en": "completed",
+    "pl": "ukończony"
+  },
+  {
+    "id": 1761,
+    "en": "graphics",
+    "pl": "grafika"
+  },
+  {
+    "id": 1762,
+    "en": "indian",
+    "pl": "indyjski, indiański"
+  },
+  {
+    "id": 1763,
+    "en": "ads",
+    "pl": "reklamy"
+  },
+  {
+    "id": 1764,
+    "en": "expected",
+    "pl": "oczekiwany"
+  },
+  {
+    "id": 1765,
+    "en": "grade",
+    "pl": "klasa, ocena"
+  },
+  {
+    "id": 1766,
+    "en": "dating",
+    "pl": "randkowanie"
+  },
+  {
+    "id": 1767,
+    "en": "pacific",
+    "pl": "pacyficzny (ocean)"
+  },
+  {
+    "id": 1768,
+    "en": "organizations",
+    "pl": "organizacje"
+  },
+  {
+    "id": 1769,
+    "en": "pop",
+    "pl": "pop (muzyka), puknąć"
+  },
+  {
+    "id": 1770,
+    "en": "filter",
+    "pl": "filtr"
+  },
+  {
+    "id": 1771,
+    "en": "mailing",
+    "pl": "wysyłka pocztowa"
+  },
+  {
+    "id": 1772,
+    "en": "vehicle",
+    "pl": "pojazd"
+  },
+  {
+    "id": 1773,
+    "en": "longer",
+    "pl": "dłuższy"
+  },
+  {
+    "id": 1774,
+    "en": "northern",
+    "pl": "północny"
+  },
+  {
+    "id": 1775,
+    "en": "panel",
+    "pl": "panel"
+  },
+  {
+    "id": 1776,
+    "en": "german",
+    "pl": "niemiecki"
+  },
+  {
+    "id": 1777,
+    "en": "buying",
+    "pl": "kupowanie"
+  },
+  {
+    "id": 1778,
+    "en": "proposed",
+    "pl": "proponowany"
+  },
+  {
+    "id": 1779,
+    "en": "default",
+    "pl": "domyślny"
+  },
+  {
+    "id": 1780,
+    "en": "boys",
+    "pl": "chłopcy"
+  },
+  {
+    "id": 1781,
+    "en": "outdoor",
+    "pl": "na świeżym powietrzu"
+  },
+  {
+    "id": 1782,
+    "en": "otherwise",
+    "pl": "inaczej, w przeciwnym razie"
+  },
+  {
+    "id": 1783,
+    "en": "allows",
+    "pl": "pozwala"
+  },
+  {
+    "id": 1784,
+    "en": "protein",
+    "pl": "białko"
+  },
+  {
+    "id": 1785,
+    "en": "reported",
+    "pl": "zgłoszony"
+  },
+  {
+    "id": 1786,
+    "en": "transportation",
+    "pl": "transport"
+  },
+  {
+    "id": 1787,
+    "en": "pool",
+    "pl": "basen"
+  },
+  {
+    "id": 1788,
+    "en": "mini",
+    "pl": "mini"
+  },
+  {
+    "id": 1789,
+    "en": "politics",
+    "pl": "polityka"
+  },
+  {
+    "id": 1790,
+    "en": "partner",
+    "pl": "partner"
+  },
+  {
+    "id": 1791,
+    "en": "disclaimer",
+    "pl": "zastrzeżenie prawne"
+  },
+  {
+    "id": 1792,
+    "en": "authors",
+    "pl": "autorzy"
+  },
+  {
+    "id": 1793,
+    "en": "boards",
+    "pl": "deski, zarządy"
+  },
+  {
+    "id": 1794,
+    "en": "faculty",
+    "pl": "wydział (uczelni), kadra"
+  },
+  {
+    "id": 1795,
+    "en": "parties",
+    "pl": "imprezy, strony (umowy)"
+  },
+  {
+    "id": 1796,
+    "en": "membership",
+    "pl": "członkostwo"
+  },
+  {
+    "id": 1797,
+    "en": "mission",
+    "pl": "misja"
+  },
+  {
+    "id": 1798,
+    "en": "modified",
+    "pl": "zmodyfikowany"
+  },
+  {
+    "id": 1799,
+    "en": "pack",
+    "pl": "paczka, pakować"
+  },
+  {
+    "id": 1800,
+    "en": "released",
+    "pl": "wydany"
+  },
+  {
+    "id": 1801,
+    "en": "stage",
+    "pl": "scena, etap"
+  },
+  {
+    "id": 1802,
+    "en": "internal",
+    "pl": "wewnętrzny"
+  },
+  {
+    "id": 1803,
+    "en": "goods",
+    "pl": "towary"
+  },
+  {
+    "id": 1804,
+    "en": "recommended",
+    "pl": "polecany"
+  },
+  {
+    "id": 1805,
+    "en": "unless",
+    "pl": "chyba że"
+  },
+  {
+    "id": 1806,
+    "en": "detailed",
+    "pl": "szczegółowy"
+  },
+  {
+    "id": 1807,
+    "en": "japanese",
+    "pl": "japoński"
+  },
+  {
+    "id": 1808,
+    "en": "approved",
+    "pl": "zatwierdzony"
+  },
+  {
+    "id": 1809,
+    "en": "background",
+    "pl": "tło, pochodzenie"
+  },
+  {
+    "id": 1810,
+    "en": "target",
+    "pl": "cel"
+  },
+  {
+    "id": 1811,
+    "en": "maintenance",
+    "pl": "konserwacja"
+  },
+  {
+    "id": 1812,
+    "en": "ability",
+    "pl": "zdolność"
+  },
+  {
+    "id": 1813,
+    "en": "maybe",
+    "pl": "może"
+  },
+  {
+    "id": 1814,
+    "en": "functions",
+    "pl": "funkcje"
+  },
+  {
+    "id": 1815,
+    "en": "moving",
+    "pl": "poruszający się, przeprowadzka"
+  },
+  {
+    "id": 1816,
+    "en": "brands",
+    "pl": "marki"
+  },
+  {
+    "id": 1817,
+    "en": "places",
+    "pl": "miejsca"
+  },
+  {
+    "id": 1818,
+    "en": "trademarks",
+    "pl": "znaki towarowe"
+  },
+  {
+    "id": 1819,
+    "en": "southern",
+    "pl": "południowy"
+  },
+  {
+    "id": 1820,
+    "en": "yourself",
+    "pl": "siebie, ty sam"
+  },
+  {
+    "id": 1821,
+    "en": "battery",
+    "pl": "bateria"
+  },
+  {
+    "id": 1822,
+    "en": "youth",
+    "pl": "młodzież"
+  },
+  {
+    "id": 1823,
+    "en": "pressure",
+    "pl": "ciśnienie, presja"
+  },
+  {
+    "id": 1824,
+    "en": "submitted",
+    "pl": "przesłany"
+  },
+  {
+    "id": 1825,
+    "en": "debt",
+    "pl": "dług"
+  },
+  {
+    "id": 1826,
+    "en": "keywords",
+    "pl": "słowa kluczowe"
+  },
+  {
+    "id": 1827,
+    "en": "medium",
+    "pl": "średni, medium"
+  },
+  {
+    "id": 1828,
+    "en": "television",
+    "pl": "telewizja"
+  },
+  {
+    "id": 1829,
+    "en": "interested",
+    "pl": "zainteresowany"
+  },
+  {
+    "id": 1830,
+    "en": "core",
+    "pl": "rdzeń"
+  },
+  {
+    "id": 1831,
+    "en": "purposes",
+    "pl": "cele"
+  },
+  {
+    "id": 1832,
+    "en": "throughout",
+    "pl": "przez cały (okres)"
+  },
+  {
+    "id": 1833,
+    "en": "sets",
+    "pl": "zestawy"
+  },
+  {
+    "id": 1834,
+    "en": "itself",
+    "pl": "samo, sam"
+  },
+  {
+    "id": 1835,
+    "en": "defined",
+    "pl": "zdefiniowany"
+  },
+  {
+    "id": 1836,
+    "en": "papers",
+    "pl": "dokumenty, prace"
+  },
+  {
+    "id": 1837,
+    "en": "playing",
+    "pl": "grający, granie"
+  },
+  {
+    "id": 1838,
+    "en": "awards",
+    "pl": "nagrody"
+  },
+  {
+    "id": 1839,
+    "en": "fee",
+    "pl": "opłata"
+  },
+  {
+    "id": 1840,
+    "en": "studio",
+    "pl": "studio"
+  },
+  {
+    "id": 1841,
+    "en": "reader",
+    "pl": "czytelnik"
+  },
+  {
+    "id": 1842,
+    "en": "virtual",
+    "pl": "wirtualny"
+  },
+  {
+    "id": 1843,
+    "en": "device",
+    "pl": "urządzenie"
+  },
+  {
+    "id": 1844,
+    "en": "established",
+    "pl": "ustanowiony, założony"
+  },
+  {
+    "id": 1845,
+    "en": "answers",
+    "pl": "odpowiedzi"
+  },
+  {
+    "id": 1846,
+    "en": "rent",
+    "pl": "czynsz, wynajmować"
+  },
+  {
+    "id": 1847,
+    "en": "remote",
+    "pl": "zdalny, pilot"
+  },
+  {
+    "id": 1848,
+    "en": "programming",
+    "pl": "programowanie"
+  },
+  {
+    "id": 1849,
+    "en": "external",
+    "pl": "zewnętrzny"
+  },
+  {
+    "id": 1850,
+    "en": "regarding",
+    "pl": "dotyczący"
+  },
+  {
+    "id": 1851,
+    "en": "instructions",
+    "pl": "instrukcje"
+  },
+  {
+    "id": 1852,
+    "en": "offered",
+    "pl": "oferowany"
+  },
+  {
+    "id": 1853,
+    "en": "theory",
+    "pl": "teoria"
+  },
+  {
+    "id": 1854,
+    "en": "enjoy",
+    "pl": "cieszyć się"
+  },
+  {
+    "id": 1855,
+    "en": "remove",
+    "pl": "usuwać"
+  },
+  {
+    "id": 1856,
+    "en": "aid",
+    "pl": "pomoc"
+  },
+  {
+    "id": 1857,
+    "en": "minimum",
+    "pl": "minimalny"
+  },
+  {
+    "id": 1858,
+    "en": "visual",
+    "pl": "wizualny"
+  },
+  {
+    "id": 1859,
+    "en": "host",
+    "pl": "gospodarz, host"
+  },
+  {
+    "id": 1860,
+    "en": "variety",
+    "pl": "różnorodność"
+  },
+  {
+    "id": 1861,
+    "en": "teachers",
+    "pl": "nauczyciele"
+  },
+  {
+    "id": 1862,
+    "en": "manual",
+    "pl": "instrukcja obsługi, ręczny"
+  },
+  {
+    "id": 1863,
+    "en": "subjects",
+    "pl": "przedmioty, tematy"
+  },
+  {
+    "id": 1864,
+    "en": "agents",
+    "pl": "agenci"
+  },
+  {
+    "id": 1865,
+    "en": "increased",
+    "pl": "zwiększony"
+  },
+  {
+    "id": 1866,
+    "en": "repair",
+    "pl": "naprawa"
+  },
+  {
+    "id": 1867,
+    "en": "civil",
+    "pl": "cywilny"
+  },
+  {
+    "id": 1868,
+    "en": "understanding",
+    "pl": "zrozumienie"
+  },
+  {
+    "id": 1869,
+    "en": "songs",
+    "pl": "piosenki"
+  },
+  {
+    "id": 1870,
+    "en": "fixed",
+    "pl": "naprawiony, stały"
+  },
+  {
+    "id": 1871,
+    "en": "beginning",
+    "pl": "początek"
+  },
+  {
+    "id": 1872,
+    "en": "hands",
+    "pl": "ręce"
+  },
+  {
+    "id": 1873,
+    "en": "associates",
+    "pl": "współpracownicy"
+  },
+  {
+    "id": 1874,
+    "en": "finally",
+    "pl": "w końcu"
+  },
+  {
+    "id": 1875,
+    "en": "updates",
+    "pl": "aktualizacje"
+  },
+  {
+    "id": 1876,
+    "en": "desktop",
+    "pl": "pulpit, komputer stacjonarny"
+  },
+  {
+    "id": 1877,
+    "en": "classes",
+    "pl": "klasy, zajęcia"
+  },
+  {
+    "id": 1878,
+    "en": "gets",
+    "pl": "dostaje"
+  },
+  {
+    "id": 1879,
+    "en": "sector",
+    "pl": "sektor"
+  },
+  {
+    "id": 1880,
+    "en": "capacity",
+    "pl": "pojemność, zdolność"
+  },
+  {
+    "id": 1881,
+    "en": "requires",
+    "pl": "wymaga"
+  },
+  {
+    "id": 1882,
+    "en": "fully",
+    "pl": "w pełni"
+  },
+  {
+    "id": 1883,
+    "en": "instruments",
+    "pl": "instrumenty"
+  },
+  {
+    "id": 1884,
+    "en": "quotes",
+    "pl": "cytaty, wyceny"
+  },
+  {
+    "id": 1885,
+    "en": "officer",
+    "pl": "urzędnik, oficer"
+  },
+  {
+    "id": 1886,
+    "en": "driver",
+    "pl": "kierowca"
+  },
+  {
+    "id": 1887,
+    "en": "businesses",
+    "pl": "firmy"
+  },
+  {
+    "id": 1888,
+    "en": "respect",
+    "pl": "szacunek"
+  },
+  {
+    "id": 1889,
+    "en": "unknown",
+    "pl": "nieznany"
+  },
+  {
+    "id": 1890,
+    "en": "specified",
+    "pl": "określony"
+  },
+  {
+    "id": 1891,
+    "en": "restaurant",
+    "pl": "restauracja"
+  },
+  {
+    "id": 1892,
+    "en": "worth",
+    "pl": "wart"
+  },
+  {
+    "id": 1893,
+    "en": "procedures",
+    "pl": "procedury"
+  },
+  {
+    "id": 1894,
+    "en": "teacher",
+    "pl": "nauczyciel"
+  },
+  {
+    "id": 1895,
+    "en": "eyes",
+    "pl": "oczy"
+  },
+  {
+    "id": 1896,
+    "en": "relationship",
+    "pl": "związek"
+  },
+  {
+    "id": 1897,
+    "en": "workers",
+    "pl": "pracownicy"
+  },
+  {
+    "id": 1898,
+    "en": "peace",
+    "pl": "pokój"
+  },
+  {
+    "id": 1899,
+    "en": "traditional",
+    "pl": "tradycyjny"
+  },
+  {
+    "id": 1900,
+    "en": "campus",
+    "pl": "kampus"
+  },
+  {
+    "id": 1901,
+    "en": "showing",
+    "pl": "pokazujący"
+  },
+  {
+    "id": 1902,
+    "en": "creative",
+    "pl": "kreatywny"
+  },
+  {
+    "id": 1903,
+    "en": "benefit",
+    "pl": "korzyść"
+  },
+  {
+    "id": 1904,
+    "en": "progress",
+    "pl": "postęp"
+  },
+  {
+    "id": 1905,
+    "en": "funding",
+    "pl": "finansowanie"
+  },
+  {
+    "id": 1906,
+    "en": "devices",
+    "pl": "urządzenia"
+  },
+  {
+    "id": 1907,
+    "en": "lord",
+    "pl": "lord, pan"
+  },
+  {
+    "id": 1908,
+    "en": "grant",
+    "pl": "dotacja, przyznać"
+  },
+  {
+    "id": 1909,
+    "en": "fiction",
+    "pl": "fikcja"
+  },
+  {
+    "id": 1910,
+    "en": "sometimes",
+    "pl": "czasami"
+  },
+  {
+    "id": 1911,
+    "en": "watches",
+    "pl": "zegarki"
+  },
+  {
+    "id": 1912,
+    "en": "careers",
+    "pl": "kariery"
+  },
+  {
+    "id": 1913,
+    "en": "beyond",
+    "pl": "poza, ponad"
+  },
+  {
+    "id": 1914,
+    "en": "goes",
+    "pl": "idzie"
+  },
+  {
+    "id": 1915,
+    "en": "families",
+    "pl": "rodziny"
+  },
+  {
+    "id": 1916,
+    "en": "museum",
+    "pl": "muzeum"
+  },
+  {
+    "id": 1917,
+    "en": "themselves",
+    "pl": "oni sami"
+  },
+  {
+    "id": 1918,
+    "en": "fan",
+    "pl": "wentylator, fan (kibic)"
+  },
+  {
+    "id": 1919,
+    "en": "transport",
+    "pl": "transport"
+  },
+  {
+    "id": 1920,
+    "en": "interesting",
+    "pl": "interesujący"
+  },
+  {
+    "id": 1921,
+    "en": "blogs",
+    "pl": "blogi"
+  },
+  {
+    "id": 1922,
+    "en": "evaluation",
+    "pl": "ocena, ewaluacja"
+  },
+  {
+    "id": 1923,
+    "en": "accepted",
+    "pl": "zaakceptowany"
+  },
+  {
+    "id": 1924,
+    "en": "former",
+    "pl": "były (poprzedni)"
+  },
+  {
+    "id": 1925,
+    "en": "implementation",
+    "pl": "wdrożenie"
+  },
+  {
+    "id": 1926,
+    "en": "hits",
+    "pl": "trafienia, hity"
+  },
+  {
+    "id": 1927,
+    "en": "zone",
+    "pl": "strefa"
+  },
+  {
+    "id": 1928,
+    "en": "complex",
+    "pl": "złożony, kompleks"
+  },
+  {
+    "id": 1929,
+    "en": "galleries",
+    "pl": "galerie"
+  },
+  {
+    "id": 1930,
+    "en": "references",
+    "pl": "odniesienia, referencje"
+  },
+  {
+    "id": 1931,
+    "en": "presented",
+    "pl": "przedstawiony"
+  },
+  {
+    "id": 1932,
+    "en": "agencies",
+    "pl": "agencje"
+  },
+  {
+    "id": 1933,
+    "en": "literature",
+    "pl": "literatura"
+  },
+  {
+    "id": 1934,
+    "en": "respective",
+    "pl": "odpowiedni (każdy z osobna)"
+  },
+  {
+    "id": 1935,
+    "en": "spanish",
+    "pl": "hiszpański"
+  },
+  {
+    "id": 1936,
+    "en": "setting",
+    "pl": "ustawienie"
+  },
+  {
+    "id": 1937,
+    "en": "economy",
+    "pl": "gospodarka"
+  },
+  {
+    "id": 1938,
+    "en": "highest",
+    "pl": "najwyższy"
+  },
+  {
+    "id": 1939,
+    "en": "helpful",
+    "pl": "pomocny"
+  },
+  {
+    "id": 1940,
+    "en": "monthly",
+    "pl": "miesięczny"
+  },
+  {
+    "id": 1941,
+    "en": "critical",
+    "pl": "krytyczny"
+  },
+  {
+    "id": 1942,
+    "en": "frame",
+    "pl": "rama"
+  },
+  {
+    "id": 1943,
+    "en": "musical",
+    "pl": "muzyczny"
+  },
+  {
+    "id": 1944,
+    "en": "definition",
+    "pl": "definicja"
+  },
+  {
+    "id": 1945,
+    "en": "secretary",
+    "pl": "sekretarz"
+  },
+  {
+    "id": 1946,
+    "en": "networking",
+    "pl": "tworzenie sieci kontaktów"
+  },
+  {
+    "id": 1947,
+    "en": "australian",
+    "pl": "australijski"
+  },
+  {
+    "id": 1948,
+    "en": "employee",
+    "pl": "pracownik"
+  },
+  {
+    "id": 1949,
+    "en": "gives",
+    "pl": "daje"
+  },
+  {
+    "id": 1950,
+    "en": "magazines",
+    "pl": "czasopisma"
+  },
+  {
+    "id": 1951,
+    "en": "packages",
+    "pl": "paczki"
+  },
+  {
+    "id": 1952,
+    "en": "detail",
+    "pl": "szczegół"
+  },
+  {
+    "id": 1953,
+    "en": "laws",
+    "pl": "prawa (ustawy)"
+  },
+  {
+    "id": 1954,
+    "en": "changed",
+    "pl": "zmieniony"
+  },
+  {
+    "id": 1955,
+    "en": "pet",
+    "pl": "zwierzę domowe"
+  },
+  {
+    "id": 1956,
+    "en": "individuals",
+    "pl": "osoby, jednostki"
+  },
+  {
+    "id": 1957,
+    "en": "royal",
+    "pl": "królewski"
+  },
+  {
+    "id": 1958,
+    "en": "switch",
+    "pl": "przełącznik, przełączać"
+  },
+  {
+    "id": 1959,
+    "en": "russian",
+    "pl": "rosyjski"
+  },
+  {
+    "id": 1960,
+    "en": "largest",
+    "pl": "największy"
+  },
+  {
+    "id": 1961,
+    "en": "african",
+    "pl": "afrykański"
+  },
+  {
+    "id": 1962,
+    "en": "guy",
+    "pl": "facet"
+  },
+  {
+    "id": 1963,
+    "en": "titles",
+    "pl": "tytuły"
+  },
+  {
+    "id": 1964,
+    "en": "relevant",
+    "pl": "istotny"
+  },
+  {
+    "id": 1965,
+    "en": "guidelines",
+    "pl": "wytyczne"
+  },
+  {
+    "id": 1966,
+    "en": "justice",
+    "pl": "sprawiedliwość"
+  },
+  {
+    "id": 1967,
+    "en": "bible",
+    "pl": "biblia"
+  },
+  {
+    "id": 1968,
+    "en": "cup",
+    "pl": "filiżanka, kubek"
+  },
+  {
+    "id": 1969,
+    "en": "basket",
+    "pl": "koszyk"
+  },
+  {
+    "id": 1970,
+    "en": "applied",
+    "pl": "zastosowany"
+  },
+  {
+    "id": 1971,
+    "en": "weekly",
+    "pl": "tygodniowy"
+  },
+  {
+    "id": 1972,
+    "en": "installation",
+    "pl": "instalacja"
+  },
+  {
+    "id": 1973,
+    "en": "described",
+    "pl": "opisany"
+  },
+  {
+    "id": 1974,
+    "en": "demand",
+    "pl": "popyt, żądanie"
+  },
+  {
+    "id": 1975,
+    "en": "suite",
+    "pl": "apartament, zestaw"
+  },
+  {
+    "id": 1976,
+    "en": "attention",
+    "pl": "uwaga"
+  },
+  {
+    "id": 1977,
+    "en": "advance",
+    "pl": "postęp, zaliczka"
+  },
+  {
+    "id": 1978,
+    "en": "skip",
+    "pl": "pomijać"
+  },
+  {
+    "id": 1979,
+    "en": "diet",
+    "pl": "dieta"
+  },
+  {
+    "id": 1980,
+    "en": "army",
+    "pl": "armia"
+  },
+  {
+    "id": 1981,
+    "en": "auction",
+    "pl": "aukcja"
+  },
+  {
+    "id": 1982,
+    "en": "gear",
+    "pl": "sprzęt, przekładnia"
+  },
+  {
+    "id": 1983,
+    "en": "difference",
+    "pl": "różnica"
+  },
+  {
+    "id": 1984,
+    "en": "allowed",
+    "pl": "dozwolony"
+  },
+  {
+    "id": 1985,
+    "en": "selling",
+    "pl": "sprzedaż, sprzedający"
+  },
+  {
+    "id": 1986,
+    "en": "lots",
+    "pl": "dużo, działki"
+  },
+  {
+    "id": 1987,
+    "en": "firm",
+    "pl": "firma, stanowczy"
+  },
+  {
+    "id": 1988,
+    "en": "older",
+    "pl": "starszy"
+  },
+  {
+    "id": 1989,
+    "en": "regulations",
+    "pl": "przepisy"
+  },
+  {
+    "id": 1990,
+    "en": "elements",
+    "pl": "elementy"
+  },
+  {
+    "id": 1991,
+    "en": "species",
+    "pl": "gatunek"
+  },
+  {
+    "id": 1992,
+    "en": "cells",
+    "pl": "komórki"
+  },
+  {
+    "id": 1993,
+    "en": "module",
+    "pl": "moduł"
+  },
+  {
+    "id": 1994,
+    "en": "resort",
+    "pl": "kurort"
+  },
+  {
+    "id": 1995,
+    "en": "facility",
+    "pl": "obiekt, udogodnienie"
+  },
+  {
+    "id": 1996,
+    "en": "random",
+    "pl": "losowy"
+  },
+  {
+    "id": 1997,
+    "en": "pricing",
+    "pl": "wycena, ustalanie cen"
+  },
+  {
+    "id": 1998,
+    "en": "certificate",
+    "pl": "certyfikat"
+  },
+  {
+    "id": 1999,
+    "en": "minister",
+    "pl": "minister"
+  },
+  {
+    "id": 2000,
+    "en": "looks",
+    "pl": "wygląda"
   }
 ]
