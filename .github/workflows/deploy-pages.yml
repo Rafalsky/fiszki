@@ -32,7 +32,11 @@ jobs:
       - name: Stage site files
         run: |
           mkdir -p _site
-          cp -r index.html css js data _site/
+          cp -r index.html css js data grammar _site/
+          # _template is a dev-only scaffold for adding new grammar topic
+          # pages, not a real page - nothing links to it, so it never needs
+          # to be served.
+          rm -rf _site/grammar/_template
 
       - name: Version local asset URLs (cache-busting)
         run: |
@@ -48,8 +52,11 @@ jobs:
           SHA="${GITHUB_SHA:0:8}"
           echo "Cache-busting version: $SHA"
 
-          perl -pi -e "s{(href=\"css/main\.css)(\")}{\${1}?v=$SHA\${2}}" _site/index.html
-          perl -pi -e "s{(src=\"js/app\.js)(\")}{\${1}?v=$SHA\${2}}" _site/index.html
+          # Every page (index.html plus every grammar/<topic>/index.html) -
+          # rewrite its local <link href="...css"> and <script src="...js">
+          # regardless of how many "../" levels deep the page lives.
+          find _site -name '*.html' -print0 \
+            | xargs -0 perl -pi -e "s{(href=\")([^\"]+\.css)(\")}{\${1}\${2}?v=$SHA\${3}}g; s{(src=\")([^\"]+\.js)(\")}{\${1}\${2}?v=$SHA\${3}}g"
 
           find _site/js -name '*.js' -print0 \
             | xargs -0 perl -pi -e "s{from \"(\.\.?/[^\"]+\.js)\"}{from \"\${1}?v=$SHA\"}g"

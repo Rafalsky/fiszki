@@ -5,7 +5,7 @@ import * as speech from "./speech.js";
 import * as spellcheck from "./spellcheck.js";
 import * as backup from "./backup.js";
 import { el, switchView, switchMode } from "./viewUtils.js";
-import { initGrammar } from "./grammarApp.js";
+import * as grammarStorage from "./grammarStorage.js";
 
 const LEVEL_COLORS = {
   0: "var(--box-0)",
@@ -376,6 +376,13 @@ function wireSettingsForm() {
       alert("Postęp słówek został wyzerowany.");
     }
   });
+
+  el("btn-reset-grammar-progress").addEventListener("click", () => {
+    if (confirm("Na pewno wyzerować cały postęp ćwiczeń gramatycznych (wszystkie tematy)? Tej operacji nie można cofnąć.")) {
+      grammarStorage.resetGrammarProgress();
+      alert("Postęp gramatyki został wyzerowany.");
+    }
+  });
 }
 
 function wireBackup() {
@@ -432,8 +439,6 @@ function wireModeNav() {
       if (mode === "vocab") {
         switchView("dashboard");
         renderDashboard();
-      } else if (mode === "grammar") {
-        switchView("grammar-topics");
       } else if (mode === "settings") {
         switchView("settings");
       }
@@ -521,8 +526,6 @@ async function init() {
   await renderVoiceOptions();
   renderDashboard();
   renderBrowse();
-
-  await initGrammar();
 }
 
 init().catch((err) => {

@@ -1,12 +1,14 @@
-// Grammar mode: a generic engine for grammar "topics" (Czasy, Przedimki,
-// and whatever gets added next), each with theory reference cards, SRS
-// fill-in-the-blank drills (reusing srs.js + spellcheck.js as-is), and a
-// scored multiple-choice quiz. Adding a topic only needs a theory JSON file,
-// a drills JSON file, an entry in grammarTopics.json, and two lines in
-// grammarRepo.js - no HTML/CSS/JS duplication per topic.
+// Single grammar topic page: theory reference cards, SRS fill-in-the-blank
+// drills (reusing srs.js + spellcheck.js as-is), and a scored multiple-choice
+// quiz — all for the one topic named in `<body data-topic-id>`.
 //
-// Self-contained module: loads its own data and owns its own progress key,
-// independent of the vocab `state` in app.js.
+// Each topic lives at its own path (grammar/<id>/index.html) instead of
+// being one more view crammed into the main app shell, so the vocab page
+// never has to load grammar markup/JS it doesn't need, and adding a topic
+// never grows the page every visitor downloads. Adding a topic needs a
+// theory JSON file, a drills JSON file, an entry in grammarTopics.json, two
+// lines in grammarRepo.js, and a copy of grammar/_template/index.html with
+// the id/title/icon filled in - no changes to this file.
 
 import { loadTopics, loadTopicTheory, loadTopicDrills } from "./grammarRepo.js";
 import * as grammarStorage from "./grammarStorage.js";
@@ -14,57 +16,18 @@ import * as srs from "./srs.js";
 import * as spellcheck from "./spellcheck.js";
 import { el, switchView } from "./viewUtils.js";
 
+const topicId = document.body.dataset.topicId;
+
 const state = {
-  topics: [],
-  topicsById: new Map(),
-  activeTopic: null, // the currently open topic's manifest entry
-  items: [], // theory items of the active topic
+  topic: null,
+  items: [],
   itemsById: new Map(),
-  drills: [], // drills of the active topic, ids namespaced "<topicId>:<drillId>"
+  drills: [],
   drillsById: new Map(),
-  // Shared across all topics - drill ids are namespaced by topic (see
-  // openTopic below) so two topics' local numbering (both starting at 1)
-  // can never collide in this one flat map.
   progress: grammarStorage.loadGrammarProgress(),
   drillSession: null, // { queue: [id,...], index, total, known, unknown }
   quiz: null, // { questions: [{drill, choices}], index, score }
 };
-
-// ---------- Topics list ----------
-
-function renderTopicsGrid() {
-  el("topics-grid").innerHTML = state.topics
-    .map(
-      (t) => `
-      <button type="button" class="topic-card" data-topic-id="${t.id}">
-        <span class="topic-card-icon">${t.icon}</span>
-        <span class="topic-card-title">${t.title}</span>
-        <span class="topic-card-desc">${t.desc}</span>
-      </button>`
-    )
-    .join("");
-}
-
-async function openTopic(topicId) {
-  const topic = state.topicsById.get(topicId);
-  if (!topic) return;
-
-  const [items, rawDrills] = await Promise.all([loadTopicTheory(topicId), loadTopicDrills(topicId)]);
-  state.activeTopic = topic;
-  state.items = items;
-  state.itemsById = new Map(items.map((it) => [it.id, it]));
-  state.drills = rawDrills.map((d) => ({ ...d, id: `${topicId}:${d.id}` }));
-  state.drillsById = new Map(state.drills.map((d) => [d.id, d]));
-
-  el("topic-home-title").textContent = topic.title;
-  el("topic-quiz-hint").textContent =
-    `${items.length} pytań wielokrotnego wyboru — po jednym losowym z każdego elementu tematu „${topic.title}”. ` +
-    `Wynik nie wpływa na poziomy powtórek, to tylko sprawdzian.`;
-
-  renderItemsList();
-  switchView("grammar-topic-home");
-  switchTopicTab("theory");
-}
 
 // ---------- Theory ----------
 
@@ -136,8 +99,8 @@ function switchTopicTab(tab) {
   document.querySelectorAll(".topic-view").forEach((v) => v.classList.remove("is-active"));
   el(`topic-view-${tab}`).classList.add("is-active");
 
-  document.querySelectorAll("#view-grammar-topic-home .subnav-btn").forEach((b) => b.classList.remove("is-active"));
-  document.querySelector(`#view-grammar-topic-home .subnav-btn[data-topic-tab="${tab}"]`).classList.add("is-active");
+  document.querySelectorAll("#view-topic-home .subnav-btn").forEach((b) => b.classList.remove("is-active"));
+  document.querySelector(`#view-topic-home .subnav-btn[data-topic-tab="${tab}"]`).classList.add("is-active");
 
   if (tab === "drill") renderDrillDashboard();
 }
@@ -279,7 +242,7 @@ function finishDrillSession() {
 
 function exitDrillSession() {
   state.drillSession = null;
-  switchView("grammar-topic-home");
+  switchView("topic-home");
   switchTopicTab("drill");
 }
 
@@ -358,23 +321,16 @@ function finishQuiz() {
 
 function exitQuiz() {
   state.quiz = null;
-  switchView("grammar-topic-home");
+  switchView("topic-home");
   switchTopicTab("quiz");
 }
 
 // ---------- Wiring ----------
 
-function wireTopicsList() {
-  el("topics-grid").addEventListener("click", (e) => {
-    const btn = e.target.closest(".topic-card");
-    if (!btn) return;
-    openTopic(btn.dataset.topicId);
-  });
+function wireTopicHome() {
+  el("btn-item-detail-back").addEventListener("click", () => switchView("topic-home"));
 
-  el("btn-grammar-topic-back").addEventListener("click", () => switchView("grammar-topics"));
-  el("btn-grammar-item-detail-back").addEventListener("click", () => switchView("grammar-topic-home"));
-
-  document.querySelectorAll("#view-grammar-topic-home .subnav-btn[data-topic-tab]").forEach((btn) => {
+  document.querySelectorAll("#view-topic-home .subnav-btn[data-topic-tab]").forEach((btn) => {
     btn.addEventListener("click", () => switchTopicTab(btn.dataset.topicTab));
   });
 
@@ -382,7 +338,7 @@ function wireTopicsList() {
     const btn = e.target.closest(".topic-item-row");
     if (!btn) return;
     renderItemDetail(btn.dataset.itemId);
-    switchView("grammar-item-detail");
+    switchView("item-detail");
   });
 }
 
@@ -391,7 +347,7 @@ function wireDrill() {
   el("btn-topic-start-new").addEventListener("click", () => startDrillSession("new"));
   el("btn-exit-grammar-drill").addEventListener("click", exitDrillSession);
   el("btn-grammar-summary-done").addEventListener("click", () => {
-    switchView("grammar-topic-home");
+    switchView("topic-home");
     switchTopicTab("drill");
   });
 
@@ -407,7 +363,7 @@ function wireQuiz() {
   el("btn-exit-quiz").addEventListener("click", exitQuiz);
   el("btn-quiz-again").addEventListener("click", startQuiz);
   el("btn-quiz-done").addEventListener("click", () => {
-    switchView("grammar-topic-home");
+    switchView("topic-home");
     switchTopicTab("quiz");
   });
 
@@ -419,7 +375,9 @@ function wireQuiz() {
 }
 
 function wireSettings() {
-  el("btn-reset-grammar-progress").addEventListener("click", () => {
+  const btn = el("btn-reset-grammar-progress");
+  if (!btn) return;
+  btn.addEventListener("click", () => {
     if (confirm("Na pewno wyzerować cały postęp ćwiczeń gramatycznych (wszystkie tematy)? Tej operacji nie można cofnąć.")) {
       grammarStorage.resetGrammarProgress();
       state.progress = {};
@@ -429,13 +387,33 @@ function wireSettings() {
   });
 }
 
-export async function initGrammar() {
-  state.topics = await loadTopics();
-  state.topicsById = new Map(state.topics.map((t) => [t.id, t]));
+async function init() {
+  const [topics, items, rawDrills] = await Promise.all([
+    loadTopics(),
+    loadTopicTheory(topicId),
+    loadTopicDrills(topicId),
+  ]);
 
-  renderTopicsGrid();
-  wireTopicsList();
+  state.topic = topics.find((t) => t.id === topicId) ?? null;
+  state.items = items;
+  state.itemsById = new Map(items.map((it) => [it.id, it]));
+  state.drills = rawDrills.map((d) => ({ ...d, id: `${topicId}:${d.id}` }));
+  state.drillsById = new Map(state.drills.map((d) => [d.id, d]));
+
+  if (state.topic) document.title = `${state.topic.title} — Gramatyka — Fiszki`;
+
+  el("topic-quiz-hint").textContent =
+    `${items.length} pytań wielokrotnego wyboru — po jednym losowym z każdego elementu tego tematu. ` +
+    `Wynik nie wpływa na poziomy powtórek, to tylko sprawdzian.`;
+
+  renderItemsList();
+  wireTopicHome();
   wireDrill();
   wireQuiz();
   wireSettings();
 }
+
+init().catch((err) => {
+  console.error(err);
+  document.body.innerHTML = `<p style="padding:40px;text-align:center;color:#d64550;">Nie udało się wczytać tematu: ${err.message}</p>`;
+});

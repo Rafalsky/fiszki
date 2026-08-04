@@ -78,6 +78,8 @@ body {
   border-radius: 999px;
   cursor: pointer;
   font-size: 0.9rem;
+  text-decoration: none;
+  display: inline-block;
 }
 
 .nav-btn.is-active {
@@ -312,6 +314,8 @@ body {
   background: transparent;
   color: var(--color-primary);
   padding: 8px 4px;
+  text-decoration: none;
+  display: inline-block;
 }
 
 .btn-wide {
@@ -640,6 +644,7 @@ body {
   flex-direction: column;
   gap: 8px;
   color: var(--color-text);
+  text-decoration: none;
 }
 
 .topic-card:hover {
@@ -659,6 +664,17 @@ body {
   color: var(--color-muted);
   font-size: 0.85rem;
   line-height: 1.4;
+}
+
+.topic-card-progress {
+  color: var(--color-primary);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.topbar-home-link {
+  color: inherit;
+  text-decoration: none;
 }
 
 .topic-items-list {
