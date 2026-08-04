@@ -3,6 +3,7 @@ import * as storage from "./storage.js";
 import * as srs from "./srs.js";
 import * as speech from "./speech.js";
 import * as spellcheck from "./spellcheck.js";
+import * as backup from "./backup.js";
 import { el, switchView, switchMode } from "./viewUtils.js";
 import { initGrammar } from "./grammarApp.js";
 
@@ -377,6 +378,45 @@ function wireSettingsForm() {
   });
 }
 
+function wireBackup() {
+  el("btn-export-progress").addEventListener("click", () => {
+    const data = backup.exportBackup();
+    const date = new Date().toISOString().slice(0, 10);
+    backup.downloadJson(`fiszki-postep-${date}.json`, data);
+  });
+
+  el("btn-import-progress").addEventListener("click", () => {
+    el("import-file-input").click();
+  });
+
+  el("import-file-input").addEventListener("change", async (e) => {
+    const file = e.target.files[0];
+    e.target.value = ""; // allow re-selecting the same file later
+    if (!file) return;
+
+    try {
+      const data = JSON.parse(await file.text());
+      if (!backup.isValidBackup(data)) {
+        throw new Error("Plik nie wygląda na kopię zapasową postępu Fiszek.");
+      }
+
+      if (
+        !confirm(
+          "Zaimportować postęp z tego pliku? Zastąpi to obecny postęp zapisany w tej przeglądarce (słownictwo i gramatykę). Tej operacji nie można cofnąć."
+        )
+      ) {
+        return;
+      }
+
+      backup.importBackup(data);
+      alert("Postęp zaimportowany. Strona zostanie teraz odświeżona.");
+      location.reload();
+    } catch (err) {
+      alert(`Nie udało się zaimportować pliku: ${err.message}`);
+    }
+  });
+}
+
 // ---------- Wiring ----------
 
 // switchView() toggles ".is-active" across ALL ".view" elements on the page
@@ -475,6 +515,7 @@ async function init() {
   wireStudy();
   wireBrowse();
   wireSettingsForm();
+  wireBackup();
 
   applySettingsToForm();
   await renderVoiceOptions();
