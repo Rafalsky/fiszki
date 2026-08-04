@@ -1,0 +1,225 @@
+[
+  {
+    "id": "can_could",
+    "order": 1,
+    "nameEn": "can / could — ability and possibility",
+    "namePl": "can / could — możliwość i umiejętność",
+    "rules": [
+      {
+        "label": "can",
+        "text": "Podmiot + can + czasownik (forma podstawowa), bez 'to'"
+      },
+      {
+        "label": "could",
+        "text": "Podmiot + could + czasownik — przeszłość od can, lub grzeczniejsza/mniej pewna forma"
+      }
+    ],
+    "usage": [
+      "Umiejętności (I can swim.)",
+      "Możliwość w danej chwili (It can get very cold here.)",
+      "Prośby i pozwolenia (Can I open the window?)",
+      "could — umiejętność w przeszłości lub grzeczniejsza prośba (Could you help me?)"
+    ],
+    "tags": [
+      "can swim",
+      "could you...?",
+      "can't be true"
+    ],
+    "examples": [
+      {
+        "en": "She can speak three languages.",
+        "pl": "Ona potrafi mówić w trzech językach."
+      },
+      {
+        "en": "Could you pass the salt, please?",
+        "pl": "Czy mógłbyś podać sól?"
+      },
+      {
+        "en": "It can't be true.",
+        "pl": "To nie może być prawda."
+      },
+      {
+        "en": "When I was young, I could run for hours.",
+        "pl": "Kiedy byłem młody, mogłem biegać godzinami."
+      }
+    ]
+  },
+  {
+    "id": "must_have_to",
+    "order": 2,
+    "nameEn": "must / have to — obligation and necessity",
+    "namePl": "must / have to — konieczność",
+    "rules": [
+      {
+        "label": "must",
+        "text": "Podmiot + must + czasownik — silny obowiązek, często wynikający z przekonania mówiącego"
+      },
+      {
+        "label": "have to",
+        "text": "Podmiot + have to/has to + czasownik — obowiązek wynikający z zewnętrznych zasad lub okoliczności"
+      }
+    ],
+    "usage": [
+      "must — obowiązek narzucony przez mówiącego (You must wear a seatbelt.)",
+      "have to — obowiązek wynikający z zewnętrznych przepisów (I have to work on Saturdays.)",
+      "must — silne przypuszczenie (He must be tired after the trip.)",
+      "have to w pytaniach i przeczeniach zwykle z do/does (Do you have to leave now?)"
+    ],
+    "tags": [
+      "must wear",
+      "have to work",
+      "must be true"
+    ],
+    "examples": [
+      {
+        "en": "You must wear a seatbelt in the car.",
+        "pl": "Musisz zapinać pasy w samochodzie."
+      },
+      {
+        "en": "I have to work on Saturdays.",
+        "pl": "Muszę pracować w soboty."
+      },
+      {
+        "en": "He must be tired after such a long trip.",
+        "pl": "On musi być zmęczony po tak długiej podróży."
+      },
+      {
+        "en": "Do you have to leave so early?",
+        "pl": "Czy musisz wyjść tak wcześnie?"
+      }
+    ]
+  },
+  {
+    "id": "should_ought_to",
+    "order": 3,
+    "nameEn": "should / ought to — advice and recommendation",
+    "namePl": "should / ought to — powinność i rada",
+    "rules": [
+      {
+        "label": "should",
+        "text": "Podmiot + should + czasownik — rada, powinność, oczekiwanie"
+      },
+      {
+        "label": "ought to",
+        "text": "Podmiot + ought to + czasownik — synonim should, nieco bardziej formalny, rzadziej używany"
+      }
+    ],
+    "usage": [
+      "Rady i sugestie (You should see a doctor.)",
+      "Oczekiwania (The package should arrive tomorrow.)",
+      "Opinie o tym, co jest właściwe (Everyone should learn first aid.)",
+      "ought to jest rzadziej używane niż should, zwłaszcza w pytaniach i przeczeniach"
+    ],
+    "tags": [
+      "should see",
+      "ought to know",
+      "should arrive"
+    ],
+    "examples": [
+      {
+        "en": "You should see a doctor about that cough.",
+        "pl": "Powinieneś iść do lekarza z tym kaszlem."
+      },
+      {
+        "en": "We ought to leave now if we want to catch the train.",
+        "pl": "Powinniśmy już iść, jeśli chcemy zdążyć na pociąg."
+      },
+      {
+        "en": "The package should arrive tomorrow.",
+        "pl": "Paczka powinna dotrzeć jutro."
+      },
+      {
+        "en": "Everyone should learn basic first aid.",
+        "pl": "Każdy powinien znać podstawy pierwszej pomocy."
+      }
+    ]
+  },
+  {
+    "id": "may_might",
+    "order": 4,
+    "nameEn": "may / might — possibility and permission",
+    "namePl": "may / might — przypuszczenie i pozwolenie",
+    "rules": [
+      {
+        "label": "may",
+        "text": "Podmiot + may + czasownik — formalne pozwolenie lub przypuszczenie o średniej pewności"
+      },
+      {
+        "label": "might",
+        "text": "Podmiot + might + czasownik — przypuszczenie o mniejszej pewności niż may, mniej formalne"
+      }
+    ],
+    "usage": [
+      "Formalne pozwolenie (May I come in?)",
+      "Przypuszczenie, że coś jest możliwe (She may be at home.)",
+      "might — mniej pewne przypuszczenie (It might rain later.)",
+      "Oba mogą wyrażać niepewność co do teraźniejszości lub przyszłości"
+    ],
+    "tags": [
+      "may I...?",
+      "might rain",
+      "may be true"
+    ],
+    "examples": [
+      {
+        "en": "May I ask you a question?",
+        "pl": "Czy mogę zadać pytanie?"
+      },
+      {
+        "en": "She may be running late.",
+        "pl": "Może się spóźnia."
+      },
+      {
+        "en": "It might rain later, so take an umbrella.",
+        "pl": "Może później padać, więc weź parasol."
+      },
+      {
+        "en": "The results may change once we get more data.",
+        "pl": "Wyniki mogą się zmienić, gdy dostaniemy więcej danych."
+      }
+    ]
+  },
+  {
+    "id": "mustnt_dont_have_to",
+    "order": 5,
+    "nameEn": "mustn't vs. don't have to — prohibition vs. lack of necessity",
+    "namePl": "mustn't / don't have to — zakaz a brak konieczności",
+    "rules": [
+      {
+        "label": "mustn't",
+        "text": "Podmiot + must not (mustn't) + czasownik — zakaz, czegoś nie wolno robić"
+      },
+      {
+        "label": "don't have to",
+        "text": "Podmiot + don't/doesn't have to + czasownik — nie ma obowiązku, ale wolno"
+      }
+    ],
+    "usage": [
+      "mustn't — coś jest zabronione (You mustn't smoke here.)",
+      "don't have to — coś jest opcjonalne, nie ma takiej konieczności (You don't have to come if you're busy.)",
+      "To jedna z najczęstszych pułapek dla Polaków — „nie musisz” to don't have to, NIE mustn't"
+    ],
+    "tags": [
+      "mustn't smoke",
+      "don't have to come"
+    ],
+    "examples": [
+      {
+        "en": "You mustn't smoke in this building.",
+        "pl": "Nie wolno ci palić w tym budynku."
+      },
+      {
+        "en": "You don't have to come if you're busy.",
+        "pl": "Nie musisz przychodzić, jeśli jesteś zajęty."
+      },
+      {
+        "en": "Visitors mustn't feed the animals.",
+        "pl": "Zwiedzającym nie wolno karmić zwierząt."
+      },
+      {
+        "en": "We don't have to wear uniforms at our school.",
+        "pl": "Nie musimy nosić mundurków w naszej szkole."
+      }
+    ]
+  }
+]

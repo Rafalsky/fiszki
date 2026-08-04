@@ -10,11 +10,13 @@ const TOPICS_URL = new URL("../data/grammarTopics.json", import.meta.url);
 const THEORY_URLS = {
   tenses: new URL("../data/tenses.json", import.meta.url),
   articles: new URL("../data/articles.json", import.meta.url),
+  modals: new URL("../data/modals.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
   tenses: new URL("../data/tenseDrills.json", import.meta.url),
   articles: new URL("../data/articleDrills.json", import.meta.url),
+  modals: new URL("../data/modalDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
