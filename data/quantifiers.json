@@ -1,0 +1,100 @@
+[
+  {
+    "id": "much_many",
+    "order": 1,
+    "nameEn": "much / many",
+    "namePl": "much / many",
+    "rules": [
+      { "label": "many", "text": "Z rzeczownikami policzalnymi w liczbie mnogiej (many books, many people)" },
+      { "label": "much", "text": "Z rzeczownikami niepoliczalnymi (much water, much time)" },
+      { "label": "Pytania i przeczenia", "text": "much/many najczęściej pojawiają się w pytaniach (How much...? How many...?) i przeczeniach; w zdaniach twierdzących formalnych też są poprawne" }
+    ],
+    "usage": [
+      "Pytania o ilość: How much money do you have? How many friends do you have?",
+      "Przeczenia: I don't have much time. There aren't many seats left.",
+      "W stylu formalnym również w zdaniach twierdzących (much progress has been made)",
+      "W mowie potocznej w zdaniach twierdzących częściej używa się a lot of zamiast much/many"
+    ],
+    "tags": ["how much", "how many", "not much", "not many"],
+    "examples": [
+      { "en": "How much sugar do you need?", "pl": "Ile cukru potrzebujesz?" },
+      { "en": "How many students are in your class?", "pl": "Ilu uczniów jest w twojej klasie?" },
+      { "en": "I don't have much money left.", "pl": "Nie mam już wiele pieniędzy." },
+      { "en": "There aren't many cafes open on Sunday.", "pl": "Niewiele kawiarni jest otwartych w niedzielę." }
+    ]
+  },
+  {
+    "id": "little_few",
+    "order": 2,
+    "nameEn": "little / a little / few / a few",
+    "namePl": "little / a little oraz few / a few",
+    "rules": [
+      { "label": "a little", "text": "Z rzeczownikami niepoliczalnymi — 'trochę' (pozytywny wydźwięk, wystarczająca ilość)" },
+      { "label": "little", "text": "Z rzeczownikami niepoliczalnymi — 'mało' (negatywny wydźwięk, prawie brak)" },
+      { "label": "a few", "text": "Z rzeczownikami policzalnymi w liczbie mnogiej — 'kilka' (pozytywny wydźwięk, wystarczająca liczba)" },
+      { "label": "few", "text": "Z rzeczownikami policzalnymi w liczbie mnogiej — 'mało, niewiele' (negatywny wydźwięk, prawie brak)" }
+    ],
+    "usage": [
+      "a little / a few, gdy chcemy podkreślić, że coś jest, choć niedużo (I have a little time - wystarczy)",
+      "little / few, gdy podkreślamy niedostatek czegoś (I have little time - prawie wcale)",
+      "a little water, a little money, a little information (niepoliczalne)",
+      "a few friends, a few days, a few questions (policzalne)"
+    ],
+    "tags": ["a little", "little", "a few", "few"],
+    "examples": [
+      { "en": "We have a little time before the train leaves.", "pl": "Mamy trochę czasu, zanim odjedzie pociąg." },
+      { "en": "He has little experience for this job.", "pl": "On ma niewielkie doświadczenie do tej pracy." },
+      { "en": "I have a few questions for you.", "pl": "Mam do ciebie kilka pytań." },
+      { "en": "Few people came to the meeting.", "pl": "Niewielu ludzi przyszło na spotkanie." }
+    ]
+  },
+  {
+    "id": "a_lot_lots_plenty",
+    "order": 3,
+    "nameEn": "a lot of / lots of / plenty of",
+    "namePl": "a lot of / lots of / plenty of",
+    "rules": [
+      { "label": "a lot of / lots of", "text": "Używane zarówno z rzeczownikami policzalnymi, jak i niepoliczalnymi — 'dużo, wiele'; naturalne w zdaniach twierdzących" },
+      { "label": "plenty of", "text": "'aż nadto, więcej niż potrzeba' — też z policzalnymi i niepoliczalnymi, podkreśla nadmiar" },
+      { "label": "Styl", "text": "a lot of / lots of są nieformalne i bardzo częste w mowie; lots of jest jeszcze bardziej potoczne niż a lot of" }
+    ],
+    "usage": [
+      "Zdania twierdzące zamiast formalnego much/many: We have a lot of friends.",
+      "lots of w mowie potocznej: There's lots of food left.",
+      "plenty of, gdy chcemy podkreślić, że czegoś jest pod dostatkiem: We have plenty of time.",
+      "Wszystkie trzy odmieniają się przez czasownik zgodnie z rzeczownikiem, którego dotyczą (a lot of people are... / a lot of money is...)"
+    ],
+    "tags": ["a lot of", "lots of", "plenty of"],
+    "examples": [
+      { "en": "She has a lot of experience in marketing.", "pl": "Ona ma dużo doświadczenia w marketingu." },
+      { "en": "There's lots of space in the new office.", "pl": "W nowym biurze jest mnóstwo miejsca." },
+      { "en": "Don't worry, we have plenty of time.", "pl": "Nie martw się, mamy mnóstwo czasu." },
+      { "en": "A lot of tourists visit this city in summer.", "pl": "Wielu turystów odwiedza to miasto latem." }
+    ]
+  },
+  {
+    "id": "enough_too_much_many",
+    "order": 4,
+    "nameEn": "enough / too much / too many",
+    "namePl": "enough oraz too much / too many",
+    "rules": [
+      { "label": "enough + rzeczownik", "text": "enough stoi PRZED rzeczownikiem: enough money, enough chairs" },
+      { "label": "przymiotnik/przysłówek + enough", "text": "enough stoi PO przymiotniku lub przysłówku: warm enough, fast enough" },
+      { "label": "too much", "text": "Z rzeczownikami niepoliczalnymi — 'za dużo': too much noise" },
+      { "label": "too many", "text": "Z rzeczownikami policzalnymi w liczbie mnogiej — 'za dużo': too many mistakes" }
+    ],
+    "usage": [
+      "enough oznacza wystarczającą ilość/stopień: We don't have enough chairs.",
+      "too much/too many oznaczają nadmiar, coś negatywnego: There's too much traffic today.",
+      "enough może też stać samodzielnie: I've had enough!",
+      "too + przymiotnik (bez rzeczownika): This coffee is too hot."
+    ],
+    "tags": ["enough", "too much", "too many"],
+    "examples": [
+      { "en": "We don't have enough time to finish this.", "pl": "Nie mamy wystarczająco dużo czasu, żeby to skończyć." },
+      { "en": "Is this jacket warm enough for winter?", "pl": "Czy ta kurtka jest wystarczająco ciepła na zimę?" },
+      { "en": "There's too much sugar in this cake.", "pl": "W tym cieście jest za dużo cukru." },
+      { "en": "I made too many mistakes in the test.", "pl": "Zrobiłem za dużo błędów w teście." }
+    ]
+  }
+]

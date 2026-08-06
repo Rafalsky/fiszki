@@ -20,6 +20,7 @@ const THEORY_URLS = {
   word_order: new URL("../data/word_order.json", import.meta.url),
   questions: new URL("../data/questions.json", import.meta.url),
   negation: new URL("../data/negation.json", import.meta.url),
+  quantifiers: new URL("../data/quantifiers.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -35,6 +36,7 @@ const DRILLS_URLS = {
   word_order: new URL("../data/word_orderDrills.json", import.meta.url),
   questions: new URL("../data/questionsDrills.json", import.meta.url),
   negation: new URL("../data/negationDrills.json", import.meta.url),
+  quantifiers: new URL("../data/quantifiersDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
