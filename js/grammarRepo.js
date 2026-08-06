@@ -12,6 +12,7 @@ const THEORY_URLS = {
   articles: new URL("../data/articles.json", import.meta.url),
   modals: new URL("../data/modals.json", import.meta.url),
   passive: new URL("../data/passive.json", import.meta.url),
+  plurals: new URL("../data/plurals.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -19,6 +20,7 @@ const DRILLS_URLS = {
   articles: new URL("../data/articleDrills.json", import.meta.url),
   modals: new URL("../data/modalDrills.json", import.meta.url),
   passive: new URL("../data/passiveDrills.json", import.meta.url),
+  plurals: new URL("../data/pluralsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
