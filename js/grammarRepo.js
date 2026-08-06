@@ -22,6 +22,7 @@ const THEORY_URLS = {
   negation: new URL("../data/negation.json", import.meta.url),
   quantifiers: new URL("../data/quantifiers.json", import.meta.url),
   gerunds_infinitives: new URL("../data/gerunds_infinitives.json", import.meta.url),
+  conditionals: new URL("../data/conditionals.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -39,6 +40,7 @@ const DRILLS_URLS = {
   negation: new URL("../data/negationDrills.json", import.meta.url),
   quantifiers: new URL("../data/quantifiersDrills.json", import.meta.url),
   gerunds_infinitives: new URL("../data/gerunds_infinitivesDrills.json", import.meta.url),
+  conditionals: new URL("../data/conditionalsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

@@ -96,5 +96,12 @@
     "title": "Gerund i bezokolicznik",
     "desc": "Gerund (-ing) vs bezokolicznik (to + czasownik) po czasownikach — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "conditionals",
+    "icon": "🧩",
+    "title": "Okresy warunkowe",
+    "desc": "Okresy warunkowe 0-3 oraz mixed conditionals — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

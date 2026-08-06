@@ -1,0 +1,107 @@
+[
+  {
+    "id": "zero_conditional",
+    "order": 1,
+    "nameEn": "Zero conditional",
+    "namePl": "Okres warunkowy zerowy",
+    "rules": [
+      { "label": "Budowa", "text": "If + czas teraźniejszy prosty, czas teraźniejszy prosty (If + present simple, present simple)" },
+      { "label": "Zamiana", "text": "If można zastąpić słowem when bez zmiany znaczenia" }
+    ],
+    "usage": [
+      "Ogólne prawdy i fakty naukowe (If you heat ice, it melts.)",
+      "Stałe zależności przyczynowo-skutkowe, zawsze prawdziwe",
+      "Instrukcje i nawyki (If it rains, I take an umbrella.)"
+    ],
+    "tags": ["if + present, present", "always true", "when = if"],
+    "examples": [
+      { "en": "If you heat water to 100°C, it boils.", "pl": "Jeśli podgrzejesz wodę do 100°C, wrze." },
+      { "en": "If I drink coffee late, I can't sleep.", "pl": "Jeśli piję kawę późno, nie mogę spać." },
+      { "en": "Plants die if they don't get water.", "pl": "Rośliny umierają, jeśli nie dostają wody." }
+    ]
+  },
+  {
+    "id": "first_conditional",
+    "order": 2,
+    "nameEn": "First conditional",
+    "namePl": "Okres warunkowy pierwszy",
+    "rules": [
+      { "label": "Budowa", "text": "If + czas teraźniejszy prosty, will + bezokolicznik (If + present simple, will + infinitive)" },
+      { "label": "Warianty", "text": "Zamiast will można użyć can/may/might, gdy chcemy wyrazić możliwość zamiast pewności" }
+    ],
+    "usage": [
+      "Realne, prawdopodobne sytuacje w przyszłości",
+      "Ostrzeżenia, obietnice i groźby (If you don't hurry, you'll miss the bus.)",
+      "Plany zależne od spełnienia warunku"
+    ],
+    "tags": ["if + present, will", "real future", "warning"],
+    "examples": [
+      { "en": "If it rains tomorrow, we will stay at home.", "pl": "Jeśli jutro będzie padać, zostaniemy w domu." },
+      { "en": "If you don't hurry, you will miss the bus.", "pl": "Jeśli się nie pospieszysz, spóźnisz się na autobus." },
+      { "en": "She will call you if she needs help.", "pl": "Ona zadzwoni do ciebie, jeśli będzie potrzebować pomocy." }
+    ]
+  },
+  {
+    "id": "second_conditional",
+    "order": 3,
+    "nameEn": "Second conditional",
+    "namePl": "Okres warunkowy drugi",
+    "rules": [
+      { "label": "Budowa", "text": "If + czas przeszły prosty, would + bezokolicznik (If + past simple, would + infinitive)" },
+      { "label": "Be", "text": "W zdaniu warunkowym z be zwykle używa się formy were dla wszystkich osób (If I were you...)" }
+    ],
+    "usage": [
+      "Nierealne lub mało prawdopodobne sytuacje w teraźniejszości/przyszłości",
+      "Marzenia, hipotezy i rady (If I were you, I would apologize.)",
+      "Sytuacje sprzeczne z obecnym stanem rzeczy"
+    ],
+    "tags": ["if + past, would", "unreal present", "if I were you"],
+    "examples": [
+      { "en": "If I won the lottery, I would travel the world.", "pl": "Gdybym wygrał na loterii, podróżowałbym po świecie." },
+      { "en": "If I were you, I would apologize to her.", "pl": "Na twoim miejscu przeprosiłbym ją." },
+      { "en": "She would help you if she had more time.", "pl": "Ona by ci pomogła, gdyby miała więcej czasu." }
+    ]
+  },
+  {
+    "id": "third_conditional",
+    "order": 4,
+    "nameEn": "Third conditional",
+    "namePl": "Okres warunkowy trzeci",
+    "rules": [
+      { "label": "Budowa", "text": "If + czas zaprzeszły, would have + imiesłów bierny (If + past perfect, would have + past participle)" },
+      { "label": "Wymowa", "text": "W mowie would have często skraca się do would've" }
+    ],
+    "usage": [
+      "Nierealne sytuacje w przeszłości, których nie da się już zmienić",
+      "Żale i wyrażanie, co mogło się wydarzyć inaczej",
+      "Krytyka przeszłych decyzji (If you had studied, you would have passed.)"
+    ],
+    "tags": ["if + past perfect, would have", "unreal past", "regret"],
+    "examples": [
+      { "en": "If I had known about the meeting, I would have come.", "pl": "Gdybym wiedział o spotkaniu, przyszedłbym." },
+      { "en": "If you had studied harder, you would have passed the exam.", "pl": "Gdybyś uczył się pilniej, zdałbyś egzamin." },
+      { "en": "She wouldn't have been late if she had left earlier.", "pl": "Nie spóźniłaby się, gdyby wyszła wcześniej." }
+    ]
+  },
+  {
+    "id": "mixed_conditionals",
+    "order": 5,
+    "nameEn": "Mixed conditionals",
+    "namePl": "Okresy warunkowe mieszane",
+    "rules": [
+      { "label": "Przeszłość → teraźniejszość", "text": "If + past perfect, would + infinitive — nierealny warunek w przeszłości ma skutek w teraźniejszości" },
+      { "label": "Teraźniejszość → przeszłość", "text": "If + past simple, would have + past participle — stała cecha/stan wpływa na skutek w przeszłości" }
+    ],
+    "usage": [
+      "Łączenie różnych okresów warunkowych, gdy czas warunku i skutku się różnią",
+      "If I had taken that job, I would be rich now. (przeszły warunek, obecny skutek)",
+      "If she weren't so shy, she would have spoken up yesterday. (obecna cecha, przeszły skutek)"
+    ],
+    "tags": ["mixed conditional", "past → present", "present → past"],
+    "examples": [
+      { "en": "If I had studied medicine, I would be a doctor now.", "pl": "Gdybym studiował medycynę, byłbym teraz lekarzem." },
+      { "en": "If she weren't so shy, she would have spoken up at the meeting.", "pl": "Gdyby nie była taka nieśmiała, zabrałaby głos na spotkaniu." },
+      { "en": "If he had taken the job, he would be earning more now.", "pl": "Gdyby przyjął tę pracę, zarabiałby teraz więcej." }
+    ]
+  }
+]
