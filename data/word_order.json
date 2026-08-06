@@ -1,0 +1,95 @@
+[
+  {
+    "id": "basic_order",
+    "order": 1,
+    "nameEn": "Basic word order (SVO / SVOMPT)",
+    "namePl": "Podstawowy szyk zdania (SVO / SVOMPT)",
+    "rules": [
+      { "label": "S-V-O", "text": "W zdaniu twierdzącym podmiot (Subject) stoi przed czasownikiem (Verb), a dopełnienie (Object) po czasowniku: I read books." },
+      { "label": "SVOMPT", "text": "Pełny szyk to Podmiot – Czasownik – Dopełnienie – Sposób (Manner) – Miejsce (Place) – Czas (Time): She sang beautifully at the party last night." },
+      { "label": "Bez rozdzielania V-O", "text": "Przysłówek sposobu nie może rozdzielać czasownika od jego dopełnienia bliższego: nie mów I like very much chocolate, tylko I like chocolate very much." }
+    ],
+    "usage": [
+      "Zdania oznajmujące zawsze zaczynają się od podmiotu",
+      "Dopełnienie stoi bezpośrednio po czasowniku, zanim pojawią się okoliczniki",
+      "Okoliczniki sposobu, miejsca i czasu, jeśli występują razem, idą w tej kolejności na końcu zdania",
+      "Angielski szyk jest sztywny — w przeciwieństwie do polskiego nie przestawia się elementów dla podkreślenia"
+    ],
+    "tags": ["SVO", "SVOMPT", "speaks English fluently", "like chocolate very much"],
+    "examples": [
+      { "en": "She speaks English fluently.", "pl": "Ona mówi płynnie po angielsku." },
+      { "en": "He reads books every evening.", "pl": "On czyta książki co wieczór." },
+      { "en": "They watched a film at the cinema last night.", "pl": "Oglądali film w kinie wczoraj wieczorem." },
+      { "en": "I like chocolate very much.", "pl": "Bardzo lubię czekoladę." }
+    ]
+  },
+  {
+    "id": "frequency_adverbs",
+    "order": 2,
+    "nameEn": "Position of adverbs of frequency",
+    "namePl": "Pozycja przysłówków częstotliwości",
+    "rules": [
+      { "label": "Przed czasownikiem głównym", "text": "always, usually, often, sometimes, rarely, never stoją PRZED czasownikiem głównym: She always drinks coffee." },
+      { "label": "Po czasowniku to be", "text": "Gdy w zdaniu jest czasownik to be, przysłówek częstotliwości stoi PO nim: He is never late." },
+      { "label": "Między posiłkowym a głównym", "text": "W zdaniach z czasownikiem posiłkowym (have, will, can...) przysłówek stoi między posiłkowym a głównym: I will always remember this." }
+    ],
+    "usage": [
+      "Opisywanie nawyków i rutyn, zwłaszcza w Present Simple",
+      "W pytaniach przysłówek stoi po podmiocie: Do you ever...?",
+      "Sometimes i usually mogą też stać na początku zdania dla emfazy"
+    ],
+    "tags": ["always drinks", "is never late", "have never been", "always complain"],
+    "examples": [
+      { "en": "She always drinks coffee in the morning.", "pl": "Ona zawsze pije kawę rano." },
+      { "en": "He is never late for work.", "pl": "On nigdy nie spóźnia się do pracy." },
+      { "en": "I have never been to Japan.", "pl": "Nigdy nie byłem w Japonii." },
+      { "en": "Do you ever go running?", "pl": "Czy kiedykolwiek biegasz?" }
+    ]
+  },
+  {
+    "id": "manner_place_time",
+    "order": 3,
+    "nameEn": "Order of manner, place and time",
+    "namePl": "Kolejność sposobu, miejsca i czasu",
+    "rules": [
+      { "label": "M-P-T", "text": "Gdy w zdaniu występują razem okoliczniki sposobu, miejsca i czasu, kolejność to: Sposób – Miejsce – Czas." },
+      { "label": "Miejsce przed czasem", "text": "Jeśli występują tylko miejsce i czas, miejsce zwykle idzie przed czasem: We met him at the station yesterday." },
+      { "label": "Czas na początku", "text": "Okolicznik czasu można też przenieść na początek zdania dla emfazy: Yesterday, we met him at the station." }
+    ],
+    "usage": [
+      "Opisywanie gdzie i kiedy coś się wydarzyło",
+      "Unikanie błędu przestawienia kolejności pod wpływem polskiego szyku",
+      "W mowie potocznej okolicznik czasu często pojawia się na początku zdania"
+    ],
+    "tags": ["beautifully at the party last night", "in the garden all afternoon", "M-P-T"],
+    "examples": [
+      { "en": "She sang beautifully at the party last night.", "pl": "Ona pięknie śpiewała na przyjęciu wczoraj wieczorem." },
+      { "en": "We met him at the station yesterday.", "pl": "Spotkaliśmy go na stacji wczoraj." },
+      { "en": "He worked hard in the garden all afternoon.", "pl": "Ciężko pracował w ogrodzie całe popołudnie." },
+      { "en": "Yesterday, we met him at the station.", "pl": "Wczoraj spotkaliśmy go na stacji." }
+    ]
+  },
+  {
+    "id": "mid_position_adverbs",
+    "order": 4,
+    "nameEn": "Mid-position adverbs (already, just, still, also, only)",
+    "namePl": "Przysłówki w pozycji środkowej (already, just, still, also, only)",
+    "rules": [
+      { "label": "Przed czasownikiem głównym", "text": "already, just, still, also, only stoją przed czasownikiem głównym: I already know that." },
+      { "label": "Po to be i po pierwszym posiłkowym", "text": "Po to be oraz po pierwszym czasowniku posiłkowym: She is still sleeping. / We have just arrived." },
+      { "label": "Still w przeczeniach", "text": "Still w przeczeniach stoi przed 'not': I still don't understand." }
+    ],
+    "usage": [
+      "Podkreślanie, że coś już się wydarzyło (already, just)",
+      "Podkreślanie kontynuacji stanu (still)",
+      "Dodawanie informacji (also) lub ograniczanie jej (only)"
+    ],
+    "tags": ["already know", "have just arrived", "is still sleeping", "also speaks"],
+    "examples": [
+      { "en": "I already know that.", "pl": "Już to wiem." },
+      { "en": "We have just arrived.", "pl": "Właśnie przyjechaliśmy." },
+      { "en": "She is still sleeping.", "pl": "Ona wciąż śpi." },
+      { "en": "He also speaks French.", "pl": "On też mówi po francusku." }
+    ]
+  }
+]
