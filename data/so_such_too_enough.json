@@ -1,0 +1,101 @@
+[
+  {
+    "id": "so",
+    "order": 1,
+    "nameEn": "so + adjective/adverb",
+    "namePl": "so + przymiotnik/przysłówek",
+    "rules": [
+      { "label": "so + przym./przysł.", "text": "so łączy się bezpośrednio z przymiotnikiem lub przysłówkiem (bez rzeczownika), żeby wzmocnić jego znaczenie" },
+      { "label": "so...that", "text": "so + przymiotnik/przysłówek + that + zdanie opisujące skutek" },
+      { "label": "so much / so many", "text": "przed rzeczownikiem używamy so much (niepoliczalne) lub so many (policzalne mnogie), nigdy samego so" }
+    ],
+    "usage": [
+      "Podkreślenie cechy: This exercise is so difficult.",
+      "Wyrażenie skutku: She was so tired that she fell asleep immediately.",
+      "so much/many + rzeczownik: There were so many people at the concert.",
+      "so nie łączy się bezpośrednio z rzeczownikiem (nie: so a problem)"
+    ],
+    "tags": ["so tired", "so quickly", "so much time", "so many people"],
+    "examples": [
+      { "en": "This exercise is so difficult that nobody could finish it.", "pl": "To ćwiczenie jest tak trudne, że nikt nie mógł go skończyć." },
+      { "en": "She was so tired that she fell asleep on the sofa.", "pl": "Była tak zmęczona, że zasnęła na kanapie." },
+      { "en": "He speaks so quickly I can't understand him.", "pl": "On mówi tak szybko, że go nie rozumiem." },
+      { "en": "There were so many people at the concert.", "pl": "Na koncercie było tak wielu ludzi." }
+    ]
+  },
+  {
+    "id": "such",
+    "order": 2,
+    "nameEn": "such (a/an) + noun",
+    "namePl": "such (a/an) + rzeczownik",
+    "rules": [
+      { "label": "such a/an", "text": "przed rzeczownikiem policzalnym w liczbie pojedynczej: such a/an (+ przymiotnik) + rzeczownik" },
+      { "label": "such (bez a/an)", "text": "przed rzeczownikiem niepoliczalnym lub w liczbie mnogiej: such (+ przymiotnik) + rzeczownik, bez a/an" },
+      { "label": "such...that", "text": "such + rzeczownik + that + zdanie opisujące skutek" },
+      { "label": "Kolejność", "text": "such zawsze stoi przed a/an, nigdy odwrotnie (poprawnie: such a good film, nie: a such good film)" }
+    ],
+    "usage": [
+      "Podkreślenie cechy rzeczownika: It was such a good film.",
+      "Wyrażenie skutku: It was such a good film that we watched it twice.",
+      "Z niepoliczalnym/mnogim: We had such nice weather on holiday.",
+      "Z rzeczownikiem mnogim: They are such good friends."
+    ],
+    "tags": ["such a good film", "such nice weather", "such good friends", "such an idiot"],
+    "examples": [
+      { "en": "It was such a good film that we watched it twice.", "pl": "To był tak dobry film, że obejrzeliśmy go dwa razy." },
+      { "en": "We had such nice weather on holiday.", "pl": "Mieliśmy tak ładną pogodę na wakacjach." },
+      { "en": "They are such good friends.", "pl": "Oni są takimi dobrymi przyjaciółmi." },
+      { "en": "It was such bad weather that the match was cancelled.", "pl": "Pogoda była tak zła, że mecz odwołano." }
+    ]
+  },
+  {
+    "id": "too",
+    "order": 3,
+    "nameEn": "too + adjective/adverb",
+    "namePl": "too + przymiotnik/przysłówek",
+    "rules": [
+      { "label": "too + przym./przysł.", "text": "too oznacza nadmiar — czegoś jest za dużo, więcej niż potrzeba lub jest to niepożądane" },
+      { "label": "too...to", "text": "too + przymiotnik + (for kogoś) + to + bezokolicznik: coś jest niemożliwe z powodu nadmiaru" },
+      { "label": "too much / too many", "text": "too much + rzeczownik niepoliczalny, too many + rzeczownik policzalny mnogi" },
+      { "label": "too vs. very", "text": "too ma negatywny wydźwięk (problem), very jest neutralnym wzmocnieniem" }
+    ],
+    "usage": [
+      "Coś jest niemożliwe/niewłaściwe z powodu nadmiaru: This coffee is too hot to drink.",
+      "too...for kogoś: The shoes were too expensive for me.",
+      "too much/too many: There is too much salt in this soup.",
+      "too...to + bezokolicznik: We arrived too late to catch the train."
+    ],
+    "tags": ["too expensive", "too hot to drink", "too much salt", "too many mistakes"],
+    "examples": [
+      { "en": "This coffee is too hot to drink.", "pl": "Ta kawa jest za gorąca, żeby ją pić." },
+      { "en": "The shoes were too expensive for me.", "pl": "Buty były dla mnie za drogie." },
+      { "en": "There is too much salt in this soup.", "pl": "W tej zupie jest za dużo soli." },
+      { "en": "We arrived too late to catch the train.", "pl": "Przyjechaliśmy za późno, żeby złapać pociąg." }
+    ]
+  },
+  {
+    "id": "enough",
+    "order": 4,
+    "nameEn": "enough — adjective/verb + enough / enough + noun",
+    "namePl": "enough — wystarczalność",
+    "rules": [
+      { "label": "przym./przysł. + enough", "text": "enough stoi PO przymiotniku lub przysłówku, nigdy przed nim (poprawnie: old enough, nie: enough old)" },
+      { "label": "enough + rzeczownik", "text": "przed rzeczownikiem enough stoi tak jak inne określniki ilości: enough money, enough time" },
+      { "label": "...enough to", "text": "przymiotnik/przysłówek + enough + to + bezokolicznik wyraża wystarczający stopień do zrobienia czegoś" },
+      { "label": "enough vs. too", "text": "enough = wystarczająco (pozytywnie/neutralnie), too = za dużo (negatywnie) — to przeciwieństwa" }
+    ],
+    "usage": [
+      "Wystarczający stopień cechy: She isn't old enough to drive.",
+      "Wystarczająca ilość: We don't have enough time to finish this.",
+      "Po czasowniku: He didn't study enough for the exam.",
+      "enough...for: Is this box big enough for all the books?"
+    ],
+    "tags": ["old enough", "enough money", "fast enough", "not enough time"],
+    "examples": [
+      { "en": "She isn't old enough to drive a car.", "pl": "Ona nie jest wystarczająco dorosła, żeby prowadzić samochód." },
+      { "en": "We don't have enough time to finish this today.", "pl": "Nie mamy dziś wystarczająco czasu, żeby to skończyć." },
+      { "en": "Is this box big enough for all the books?", "pl": "Czy to pudełko jest wystarczająco duże na wszystkie książki?" },
+      { "en": "He didn't study enough for the exam.", "pl": "On nie uczył się wystarczająco dużo do egzaminu." }
+    ]
+  }
+]
