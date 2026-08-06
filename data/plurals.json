@@ -1,0 +1,96 @@
+[
+  {
+    "id": "regular_plurals",
+    "order": 1,
+    "nameEn": "Regular plurals",
+    "namePl": "Liczba mnoga regularna",
+    "rules": [
+      { "label": "-s", "text": "Większość rzeczowników tworzy liczbę mnogą przez dodanie -s (cat → cats, book → books, table → tables)" },
+      { "label": "-es", "text": "Po zakończeniu na -s, -ss, -sh, -ch, -x, -z dodajemy -es (bus → buses, box → boxes, watch → watches, brush → brushes)" },
+      { "label": "spółgłoska + y → -ies", "text": "Gdy rzeczownik kończy się na spółgłoskę + y, zamieniamy y na ies (city → cities, baby → babies, country → countries)" },
+      { "label": "-f / -fe → -ves", "text": "Wiele rzeczowników kończących się na -f lub -fe zmienia końcówkę na -ves (leaf → leaves, knife → knives, wife → wives), ale są wyjątki (roof → roofs)" }
+    ],
+    "usage": [
+      "Domyślna, najczęstsza metoda tworzenia liczby mnogiej dla rzeczowników policzalnych",
+      "Samogłoska + y nie zmienia się — dodajemy tylko s (boy → boys, day → days, key → keys)",
+      "Rzeczowniki na -o czasem dodają -es (potato → potatoes, tomato → tomatoes), a czasem tylko -s (photo → photos, piano → pianos)"
+    ],
+    "tags": ["cats", "boxes", "cities", "knives"],
+    "examples": [
+      { "en": "I have three cats and two dogs.", "pl": "Mam trzy koty i dwa psy." },
+      { "en": "She bought two boxes of chocolates.", "pl": "Kupiła dwa pudełka czekoladek." },
+      { "en": "We visited five cities last summer.", "pl": "Odwiedziliśmy pięć miast zeszłego lata." },
+      { "en": "He sharpened all the knives in the kitchen.", "pl": "Naostrzył wszystkie noże w kuchni." }
+    ]
+  },
+  {
+    "id": "irregular_plurals",
+    "order": 2,
+    "nameEn": "Irregular plurals",
+    "namePl": "Liczba mnoga nieregularna",
+    "rules": [
+      { "label": "Zmiana samogłoski", "text": "Niektóre rzeczowniki zmieniają samogłoskę wewnątrz wyrazu: man → men, woman → women, foot → feet, tooth → teeth, mouse → mice" },
+      { "label": "Końcówka -ren / -en", "text": "Nieliczne rzeczowniki tworzą liczbę mnogą przez dodanie -ren lub -en: child → children, ox → oxen" },
+      { "label": "Forma identyczna", "text": "Niektóre rzeczowniki mają tę samą formę w liczbie pojedynczej i mnogiej: sheep, fish, deer, series, species" },
+      { "label": "Do zapamiętania", "text": "Formy nieregularne nie podlegają żadnej regule — trzeba je po prostu zapamiętać" }
+    ],
+    "usage": [
+      "Najczęściej spotykane w codziennej mowie mimo że są wyjątkami od reguł regularnych",
+      "person → people jest jedną z najczęstszych nieregularnych form w języku angielskim",
+      "Rzeczowniki o identycznej formie liczby pojedynczej i mnogiej wymagają liczebnika lub kontekstu, żeby wiedzieć o ile chodzi"
+    ],
+    "tags": ["men", "children", "feet", "sheep"],
+    "examples": [
+      { "en": "Two men were waiting outside the office.", "pl": "Dwóch mężczyzn czekało przed biurem." },
+      { "en": "The children were playing in the garden.", "pl": "Dzieci bawiły się w ogrodzie." },
+      { "en": "My feet hurt after the long walk.", "pl": "Bolą mnie stopy po długim spacerze." },
+      { "en": "There were fifty sheep in the field.", "pl": "Na polu było pięćdziesiąt owiec." }
+    ]
+  },
+  {
+    "id": "uncountable_nouns",
+    "order": 3,
+    "nameEn": "Uncountable nouns",
+    "namePl": "Rzeczowniki niepoliczalne",
+    "rules": [
+      { "label": "Brak liczby mnogiej", "text": "Rzeczowniki niepoliczalne nie mają formy mnogiej — nie dodajemy do nich -s (information, advice, furniture, news)" },
+      { "label": "Czasownik w liczbie pojedynczej", "text": "Rzeczownik niepoliczalny zawsze łączy się z czasownikiem w liczbie pojedynczej: The news is good. / This furniture is old." },
+      { "label": "Bez a/an", "text": "Rzeczowników niepoliczalnych nie poprzedzamy przedimkiem a/an — zamiast tego używamy some, much, a lot of albo jednostki miary (a piece of advice, a bit of information)" }
+    ],
+    "usage": [
+      "Substancje i materiały (water, sugar, rice, bread)",
+      "Pojęcia abstrakcyjne (love, happiness, knowledge)",
+      "Zbiorcze rzeczowniki, które po polsku bywają policzalne (furniture — meble, luggage — bagaże, advice — rady)"
+    ],
+    "tags": ["information", "furniture", "advice", "news"],
+    "examples": [
+      { "en": "Can you give me some information about the trains?", "pl": "Czy możesz podać mi trochę informacji o pociągach?" },
+      { "en": "This furniture is very old.", "pl": "Te meble są bardzo stare." },
+      { "en": "She gave me some good advice.", "pl": "Dała mi dobrą radę." },
+      { "en": "The news was surprising.", "pl": "Wiadomości były zaskakujące." }
+    ]
+  },
+  {
+    "id": "countable_vs_uncountable",
+    "order": 4,
+    "nameEn": "Countable vs uncountable",
+    "namePl": "Policzalne a niepoliczalne",
+    "rules": [
+      { "label": "Ten sam wyraz, inne znaczenie", "text": "Niektóre słowa są niepoliczalne w jednym znaczeniu, a policzalne w innym: paper (papier) vs a paper (gazeta/artykuł), hair (włosy jako całość) vs a hair (pojedynczy włos)" },
+      { "label": "many / much", "text": "Z rzeczownikami policzalnymi w liczbie mnogiej używamy many, a z niepoliczalnymi much (How many books? / How much water?)" },
+      { "label": "a few / a little", "text": "Z policzalnymi używamy a few, a z niepoliczalnymi a little (a few friends / a little time)" }
+    ],
+    "usage": [
+      "Rozróżnienie decyduje o wyborze przedimka, liczebnika i kwantyfikatora (many/much, a few/a little)",
+      "Kontekst zdania pokazuje, czy dane słowo jest w danym momencie policzalne czy niepoliczalne",
+      "Błędne przypisanie policzalności to jeden z najczęstszych błędów Polaków uczących się angielskiego (np. informations, advices — formy niepoprawne)"
+    ],
+    "tags": ["a paper", "much water", "a few friends", "a little time"],
+    "examples": [
+      { "en": "I found a hair in my soup.", "pl": "Znalazłem włos w mojej zupie." },
+      { "en": "How much water do we have left?", "pl": "Ile wody nam zostało?" },
+      { "en": "She has a few close friends.", "pl": "Ma kilku bliskich przyjaciół." },
+      { "en": "We have very little time before the train leaves.", "pl": "Mamy bardzo mało czasu, zanim odjedzie pociąg." }
+    ]
+  }
+]

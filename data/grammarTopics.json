@@ -26,5 +26,12 @@
     "title": "Strona bierna",
     "desc": "Passive voice w pięciu czasach — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 50
+  },
+  {
+    "id": "plurals",
+    "icon": "🔢",
+    "title": "Liczba mnoga",
+    "desc": "Liczba mnoga rzeczowników (regularna i nieregularna) oraz policzalne / niepoliczalne — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
