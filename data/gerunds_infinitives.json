@@ -1,0 +1,93 @@
+[
+  {
+    "id": "gerund_after_verbs",
+    "order": 1,
+    "nameEn": "Gerund after certain verbs",
+    "namePl": "Gerund (-ing) po niektórych czasownikach",
+    "rules": [
+      { "label": "Budowa", "text": "czasownik + rzeczownik odczasownikowy (verb + -ing), np. enjoy doing, avoid doing" },
+      { "label": "Częste czasowniki", "text": "enjoy, avoid, finish, mind, suggest, consider, admit, deny, imagine, postpone, keep (on), miss, risk" }
+    ],
+    "usage": [
+      "Po czasownikach wyrażających upodobania, unikanie i zakończenie czynności (enjoy, avoid, finish)",
+      "Po czasownikach sugerowania i przyznawania się (suggest, admit, deny)",
+      "Gdy czynność jest traktowana jak rzeczownik lub pojęcie, a nie jednorazowe zdarzenie w przyszłości"
+    ],
+    "tags": ["enjoy swimming", "avoid eating", "finish reading", "suggest going"],
+    "examples": [
+      { "en": "I enjoy reading before bed.", "pl": "Lubię czytać przed snem." },
+      { "en": "She avoided answering the question.", "pl": "Ona unikała odpowiedzi na pytanie." },
+      { "en": "Have you finished writing the report?", "pl": "Czy skończyłeś pisać raport?" },
+      { "en": "He suggested going for a walk.", "pl": "Zaproponował, żebyśmy poszli na spacer." }
+    ]
+  },
+  {
+    "id": "infinitive_after_verbs",
+    "order": 2,
+    "nameEn": "Infinitive (to + verb) after certain verbs",
+    "namePl": "Bezokolicznik (to + czasownik) po niektórych czasownikach",
+    "rules": [
+      { "label": "Budowa", "text": "czasownik + to + bezokolicznik, np. want to go, decide to leave" },
+      { "label": "Częste czasowniki", "text": "want, decide, plan, hope, agree, promise, offer, refuse, manage, afford, learn, seem, arrange, expect" }
+    ],
+    "usage": [
+      "Po czasownikach wyrażających zamiar, decyzję i plan na przyszłość (decide, plan, hope)",
+      "Po czasownikach obietnicy, odmowy i zgody (promise, refuse, agree)",
+      "Gdy mówimy o czynności, która ma dopiero nastąpić"
+    ],
+    "tags": ["want to go", "decide to stay", "promise to help", "refuse to leave"],
+    "examples": [
+      { "en": "I want to travel next year.", "pl": "Chcę podróżować w przyszłym roku." },
+      { "en": "She decided to change her job.", "pl": "Zdecydowała się zmienić pracę." },
+      { "en": "They promised to help us.", "pl": "Obiecali, że nam pomogą." },
+      { "en": "He refused to answer any questions.", "pl": "Odmówił odpowiedzi na jakiekolwiek pytania." }
+    ]
+  },
+  {
+    "id": "verbs_both",
+    "order": 3,
+    "nameEn": "Verbs followed by both — with or without a change in meaning",
+    "namePl": "Czasowniki łączące się z oboma — bez zmiany i ze zmianą znaczenia",
+    "rules": [
+      { "label": "Bez zmiany znaczenia", "text": "like, love, hate, start, begin, continue, prefer — sens zdania pozostaje praktycznie taki sam z gerund i z bezokolicznikiem" },
+      { "label": "remember / forget", "text": "+ gerund = pamiętać / zapomnieć, że coś się zrobiło (czynność już wykonana); + infinitive = pamiętać / zapomnieć, żeby coś zrobić (obowiązek na przyszłość)" },
+      { "label": "stop / try", "text": "stop + gerund = przestać coś robić; stop + infinitive = zatrzymać się, żeby coś zrobić. try + gerund = wypróbować coś (eksperyment); try + infinitive = starać się, usiłować" }
+    ],
+    "usage": [
+      "like / love / hate / start / begin / continue + gerund lub infinitive — znaczenie się praktycznie nie zmienia",
+      "remember / forget — sprawdź, czy chodzi o wspomnienie z przeszłości, czy o obowiązek na przyszłość",
+      "stop — czy podmiot przestaje coś robić, czy zatrzymuje się w innym celu",
+      "try — czy chodzi o eksperyment, czy o włożony wysiłek"
+    ],
+    "tags": ["stop smoking", "stop to rest", "remember locking", "remember to lock"],
+    "examples": [
+      { "en": "I love watching old films.", "pl": "Uwielbiam oglądać stare filmy." },
+      { "en": "She stopped smoking two years ago.", "pl": "Rzuciła palenie dwa lata temu." },
+      { "en": "We stopped to have lunch.", "pl": "Zatrzymaliśmy się, żeby zjeść lunch." },
+      { "en": "Please remember to lock the door.", "pl": "Pamiętaj, żeby zamknąć drzwi." }
+    ]
+  },
+  {
+    "id": "gerund_other_uses",
+    "order": 4,
+    "nameEn": "Gerund after prepositions, as subject, and fixed expressions",
+    "namePl": "Gerund po przyimkach, jako podmiot i w wyrażeniach stałych",
+    "rules": [
+      { "label": "Po przyimkach", "text": "po każdym przyimku (in, on, at, about, for, of, without, before, after, instead of) używamy gerund, nigdy bezokolicznika: interested in learning, good at cooking" },
+      { "label": "Jako podmiot zdania", "text": "gerund może pełnić funkcję podmiotu lub orzecznika zdania: Swimming is good for you. / His hobby is fishing." },
+      { "label": "look forward to / be used to", "text": "to jest tu przyimkiem, a nie cząstką bezokolicznika, więc po nim stoi gerund: I look forward to seeing you. / I'm used to getting up early." }
+    ],
+    "usage": [
+      "Zawsze po przyimku (miejsca, czasu, przy czasownikach frazowych z przyimkiem)",
+      "Gdy czynność jest podmiotem lub tematem zdania",
+      "W stałych wyrażeniach z 'to' jako przyimkiem: look forward to, be/get used to, object to"
+    ],
+    "tags": ["good at singing", "look forward to seeing", "used to living", "before leaving"],
+    "examples": [
+      { "en": "She is good at solving problems.", "pl": "Ona jest dobra w rozwiązywaniu problemów." },
+      { "en": "Smoking is bad for your health.", "pl": "Palenie jest złe dla zdrowia." },
+      { "en": "I look forward to hearing from you.", "pl": "Czekam z niecierpliwością na wiadomość od ciebie." },
+      { "en": "He is used to working late.", "pl": "On jest przyzwyczajony do pracy do późna." }
+    ]
+  }
+]

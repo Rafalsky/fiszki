@@ -89,5 +89,12 @@
     "title": "Kwantyfikatory",
     "desc": "much/many, little/few, a lot of/plenty of, enough — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "gerunds_infinitives",
+    "icon": "♾️",
+    "title": "Gerund i bezokolicznik",
+    "desc": "Gerund (-ing) vs bezokolicznik (to + czasownik) po czasownikach — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
