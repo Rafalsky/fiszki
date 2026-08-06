@@ -1,0 +1,98 @@
+[
+  {
+    "id": "short_adj",
+    "order": 1,
+    "nameEn": "Comparative & superlative of short adjectives",
+    "namePl": "Stopień wyższy i najwyższy krótkich przymiotników",
+    "rules": [
+      { "label": "-er / -est", "text": "Przymiotniki jednosylabowe: dodajemy -er (comparative) i -est (superlative) — tall → taller → the tallest" },
+      { "label": "Spółgłoska + y", "text": "Przymiotniki dwusylabowe zakończone na spółgłoskę + y: y → i + -er/-est — happy → happier → the happiest" },
+      { "label": "Podwojenie spółgłoski", "text": "Krótka samogłoska + jedna spółgłoska na końcu: podwajamy spółgłoskę — big → bigger → the biggest" },
+      { "label": "Nieme e", "text": "Przymiotnik kończy się na -e: dodajemy tylko -r/-st — nice → nicer → the nicest" }
+    ],
+    "usage": [
+      "Comparative + than porównuje dwie rzeczy (She is taller than her brother.)",
+      "Superlative z the wskazuje jedną rzecz jako najbardziej ekstremalną w grupie (He is the tallest boy in the class.)",
+      "Dotyczy przymiotników 1-sylabowych oraz 2-sylabowych zakończonych na -y, -er, -ow, -le",
+      "W ćwiczeniach wpisuj samą formę (np. taller, the tallest) bez dodatkowych słów"
+    ],
+    "tags": ["taller", "the biggest", "happier", "the nicest"],
+    "examples": [
+      { "en": "This bag is bigger than that one.", "pl": "Ta torba jest większa niż tamta." },
+      { "en": "She is the happiest person I know.", "pl": "Ona jest najszczęśliwszą osobą, jaką znam." },
+      { "en": "Today is hotter than yesterday.", "pl": "Dziś jest goręcej niż wczoraj." },
+      { "en": "This is the nicest hotel in town.", "pl": "To najładniejszy hotel w mieście." }
+    ]
+  },
+  {
+    "id": "long_adj",
+    "order": 2,
+    "nameEn": "Comparative & superlative of long adjectives",
+    "namePl": "Stopień wyższy i najwyższy długich przymiotników",
+    "rules": [
+      { "label": "more / most", "text": "Przymiotniki 2+ sylab (poza kończącymi się na -y): more + przymiotnik (comparative), the most + przymiotnik (superlative) — expensive → more expensive → the most expensive" },
+      { "label": "less / least", "text": "Formę malejącą tworzymy przez less / the least — interesting → less interesting → the least interesting" }
+    ],
+    "usage": [
+      "Stosowane do przymiotników wielosylabowych, np. beautiful, difficult, expensive, interesting",
+      "more/the most dotyczy też niektórych przymiotników 2-sylabowych, które nie kończą się na -y, -er, -ow, -le (np. modern, famous)",
+      "less/the least jest przeciwieństwem more/the most — pokazuje mniejsze natężenie cechy"
+    ],
+    "tags": ["more expensive", "the most beautiful", "less interesting", "the least difficult"],
+    "examples": [
+      { "en": "This phone is more expensive than mine.", "pl": "Ten telefon jest droższy niż mój." },
+      { "en": "It was the most beautiful sunset I've ever seen.", "pl": "To był najpiękniejszy zachód słońca, jaki widziałem." },
+      { "en": "This book is less interesting than the last one.", "pl": "Ta książka jest mniej interesująca niż poprzednia." },
+      { "en": "That was the least difficult exam this year.", "pl": "To był najmniej trudny egzamin w tym roku." }
+    ]
+  },
+  {
+    "id": "irregular",
+    "order": 3,
+    "nameEn": "Irregular comparatives & superlatives",
+    "namePl": "Nieregularne formy stopnia wyższego i najwyższego",
+    "rules": [
+      { "label": "good", "text": "good → better → the best" },
+      { "label": "bad", "text": "bad → worse → the worst" },
+      { "label": "far", "text": "far → further/farther → the furthest/farthest" },
+      { "label": "little", "text": "little → less → the least" },
+      { "label": "many/much", "text": "many/much → more → the most" }
+    ],
+    "usage": [
+      "Te przymiotniki i przysłówki nie tworzą stopnia wyższego/najwyższego regularnie — formy trzeba zapamiętać",
+      "far ma dwie równoległe formy: further/farther (odległość fizyczna) oraz further też w znaczeniu 'dodatkowy'",
+      "little (niepoliczalne, ilość) różni się od small (rozmiar), które stopniuje się regularnie: small → smaller → the smallest"
+    ],
+    "tags": ["better", "the worst", "further", "the least"],
+    "examples": [
+      { "en": "My English is better than it was last year.", "pl": "Mój angielski jest lepszy niż w zeszłym roku." },
+      { "en": "This is the worst movie I've ever seen.", "pl": "To najgorszy film, jaki widziałem." },
+      { "en": "We need to walk a bit further.", "pl": "Musimy przejść jeszcze kawałek dalej." },
+      { "en": "He has the least experience of all the candidates.", "pl": "On ma najmniej doświadczenia ze wszystkich kandydatów." }
+    ]
+  },
+  {
+    "id": "as_as_adverbs",
+    "order": 4,
+    "nameEn": "as...as & comparison of adverbs",
+    "namePl": "Konstrukcja as...as oraz stopniowanie przysłówków",
+    "rules": [
+      { "label": "as...as", "text": "Wyraża równość: as + przymiotnik/przysłówek + as — She is as tall as her sister." },
+      { "label": "not as...as", "text": "Wyraża brak równości (mniejsze natężenie): not as + przymiotnik + as — This film isn't as good as the book." },
+      { "label": "Przysłówki -ly", "text": "Przysłówki utworzone od przymiotników przez -ly stopniujemy przez more/most — carefully → more carefully → the most carefully" },
+      { "label": "Krótkie przysłówki", "text": "Krótkie przysłówki (fast, hard, early, late) stopniują się jak krótkie przymiotniki: fast → faster → the fastest" }
+    ],
+    "usage": [
+      "as...as porównuje dwie rzeczy jako równe sobie pod danym względem",
+      "twice/three times as...as wyraża wielokrotność (This car is twice as expensive as that one.)",
+      "well i badly są nieregularne jako przysłówki: well → better → best, badly → worse → worst"
+    ],
+    "tags": ["as tall as", "not as good as", "more carefully", "faster"],
+    "examples": [
+      { "en": "She runs as fast as her brother.", "pl": "Ona biega tak szybko jak jej brat." },
+      { "en": "This test wasn't as easy as the last one.", "pl": "Ten test nie był tak łatwy jak poprzedni." },
+      { "en": "He explained it more carefully than before.", "pl": "Wyjaśnił to bardziej starannie niż wcześniej." },
+      { "en": "She sings better than anyone else in the choir.", "pl": "Ona śpiewa lepiej niż ktokolwiek inny w chórze." }
+    ]
+  }
+]

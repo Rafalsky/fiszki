@@ -54,5 +54,12 @@
     "title": "Przyimki",
     "desc": "Przyimki miejsca, czasu i ruchu (in/on/at, to/into/through) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "comparatives",
+    "icon": "📏",
+    "title": "Stopniowanie",
+    "desc": "Stopień wyższy i najwyższy przymiotników i przysłówków — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
