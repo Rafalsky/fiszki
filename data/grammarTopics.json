@@ -117,5 +117,12 @@
     "title": "Zdania względne",
     "desc": "Zdania względne z who/which/that/whose/where — kiedy którego zaimka użyć, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "phrasal_verbs",
+    "icon": "⚙️",
+    "title": "Czasowniki złożone",
+    "desc": "Phrasal verbs: rozdzielne, nierozdzielne, nieprzechodnie i trójczłonowe — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
