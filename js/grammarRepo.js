@@ -23,6 +23,7 @@ const THEORY_URLS = {
   quantifiers: new URL("../data/quantifiers.json", import.meta.url),
   gerunds_infinitives: new URL("../data/gerunds_infinitives.json", import.meta.url),
   conditionals: new URL("../data/conditionals.json", import.meta.url),
+  reported_speech: new URL("../data/reported_speech.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -41,6 +42,7 @@ const DRILLS_URLS = {
   quantifiers: new URL("../data/quantifiersDrills.json", import.meta.url),
   gerunds_infinitives: new URL("../data/gerunds_infinitivesDrills.json", import.meta.url),
   conditionals: new URL("../data/conditionalsDrills.json", import.meta.url),
+  reported_speech: new URL("../data/reported_speechDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

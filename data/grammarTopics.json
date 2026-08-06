@@ -103,5 +103,12 @@
     "title": "Okresy warunkowe",
     "desc": "Okresy warunkowe 0-3 oraz mixed conditionals — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "reported_speech",
+    "icon": "🗣️",
+    "title": "Mowa zależna",
+    "desc": "Mowa zależna: zdania oznajmujące, pytania i polecenia, przesunięcie czasów (backshift) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

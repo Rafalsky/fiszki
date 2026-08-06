@@ -1,0 +1,90 @@
+[
+  {
+    "id": "statements",
+    "order": 1,
+    "nameEn": "Reported statements",
+    "namePl": "Zdania oznajmujące w mowie zależnej",
+    "rules": [
+      { "label": "Budowa", "text": "Podmiot + said (that) / told + osoba + (that) + zdanie z przesuniętym czasem (backshift)" },
+      { "label": "Backshift", "text": "present simple → past simple, present continuous → past continuous, present perfect → past perfect, past simple → past perfect, will → would, can → could" },
+      { "label": "Say vs tell", "text": "say (that) — bez dopełnienia osobowego; tell somebody (that) — zawsze z osobą, do której mówimy" }
+    ],
+    "usage": [
+      "Relacjonowanie tego, co ktoś powiedział, bez cytowania dosłownie (He said, \"I am tired.\" → He said he was tired.)",
+      "Backshift stosuje się zwykle, gdy czasownik wprowadzający (said) jest w czasie przeszłym",
+      "Backshift można pominąć, gdy relacjonowana informacja wciąż jest aktualna/prawdziwa"
+    ],
+    "tags": ["say/tell", "backshift", "that-clause"],
+    "examples": [
+      { "en": "\"I am tired,\" she said. → She said she was tired.", "pl": "„Jestem zmęczona” powiedziała. → Powiedziała, że jest zmęczona." },
+      { "en": "\"We have finished the project,\" they said. → They said they had finished the project.", "pl": "„Skończyliśmy projekt” powiedzieli. → Powiedzieli, że skończyli projekt." },
+      { "en": "\"I will call you tomorrow,\" he told me. → He told me he would call me the next day.", "pl": "„Zadzwonię do ciebie jutro” powiedział mi. → Powiedział mi, że zadzwoni do mnie następnego dnia." }
+    ]
+  },
+  {
+    "id": "questions",
+    "order": 2,
+    "nameEn": "Reported questions",
+    "namePl": "Pytania w mowie zależnej",
+    "rules": [
+      { "label": "Szyk zdania", "text": "Pytanie zmienia się w zdanie twierdzące — bez inwersji podmiot-orzeczenie i bez znaku zapytania" },
+      { "label": "Pytania szczegółowe", "text": "asked + (osoba) + słowo pytające (what/where/when/why/how) + podmiot + orzeczenie (przesunięte w czasie)" },
+      { "label": "Pytania ogólne", "text": "asked + (osoba) + if/whether + podmiot + orzeczenie (przesunięte w czasie), bez do/does/did" }
+    ],
+    "usage": [
+      "Relacjonowanie pytań zadanych przez kogoś innego",
+      "Pytania z wh- word (What did you buy? → He asked what I had bought.)",
+      "Pytania tak/nie łączy się spójnikiem if lub whether (Are you coming? → She asked if I was coming.)"
+    ],
+    "tags": ["asked", "if / whether", "no question mark"],
+    "examples": [
+      { "en": "\"Where do you live?\" he asked. → He asked where I lived.", "pl": "„Gdzie mieszkasz?” zapytał. → Zapytał, gdzie mieszkam." },
+      { "en": "\"Are you coming to the party?\" she asked. → She asked if I was coming to the party.", "pl": "„Czy przyjdziesz na imprezę?” zapytała. → Zapytała, czy przyjdę na imprezę." },
+      { "en": "\"What time does the train leave?\" I asked. → I asked what time the train left.", "pl": "„O której godzinie odjeżdża pociąg?” zapytałem. → Zapytałem, o której godzinie odjeżdża pociąg." }
+    ]
+  },
+  {
+    "id": "commands",
+    "order": 3,
+    "nameEn": "Reported commands and requests",
+    "namePl": "Polecenia i prośby w mowie zależnej",
+    "rules": [
+      { "label": "Budowa", "text": "told/asked + osoba + (not) + to + bezokolicznik — bez czasownika modalnego i bez zmiany czasu" },
+      { "label": "Polecenie vs prośba", "text": "tell somebody to do something dla poleceń/rozkazów; ask somebody to do something dla próśb" },
+      { "label": "Przeczenie", "text": "not stawia się bezpośrednio przed to + bezokolicznik (told me not to touch it)" }
+    ],
+    "usage": [
+      "Relacjonowanie rozkazów w trybie rozkazującym (\"Close the door!\" → He told me to close the door.)",
+      "Relacjonowanie próśb (\"Could you help me?\" → She asked me to help her.)",
+      "Zakazy i polecenia negatywne (\"Don't touch it!\" → He told me not to touch it.)"
+    ],
+    "tags": ["tell sb to", "ask sb to", "not to"],
+    "examples": [
+      { "en": "\"Close the door,\" he said. → He told me to close the door.", "pl": "„Zamknij drzwi” powiedział. → Powiedział mi, żebym zamknął drzwi." },
+      { "en": "\"Please help me,\" she said. → She asked me to help her.", "pl": "„Proszę, pomóż mi” powiedziała. → Poprosiła mnie, żebym jej pomógł." },
+      { "en": "\"Don't touch it!\" he said. → He told me not to touch it.", "pl": "„Nie dotykaj tego!” powiedział. → Powiedział mi, żebym tego nie dotykał." }
+    ]
+  },
+  {
+    "id": "time_place",
+    "order": 4,
+    "nameEn": "Time and place expressions",
+    "namePl": "Zmiana wyrażeń czasu, miejsca i zaimków",
+    "rules": [
+      { "label": "Czas", "text": "now → then, today → that day, tomorrow → the next day / the following day, yesterday → the day before, next week → the following week, ago → before" },
+      { "label": "Miejsce", "text": "here → there, this → that, these → those" },
+      { "label": "Zaimki", "text": "Zaimki osobowe i dzierżawcze zmieniają się zgodnie z perspektywą osoby relacjonującej (I → he/she, my → his/her)" }
+    ],
+    "usage": [
+      "Zmiana wyrażeń czasu, gdy relacja następuje w innym momencie niż wypowiedź (\"I'll see you tomorrow\" → He said he would see me the next day.)",
+      "Zmiana wyrażeń miejsca, gdy relacja pada w innym miejscu niż wypowiedź",
+      "Zmiany zaimków zawsze zależą od kontekstu — nie ma jednej sztywnej reguły, patrzy się kto mówi do kogo"
+    ],
+    "tags": ["now → then", "tomorrow → the next day", "here → there"],
+    "examples": [
+      { "en": "\"I saw her yesterday,\" he said. → He said he had seen her the day before.", "pl": "„Widziałem ją wczoraj” powiedział. → Powiedział, że widział ją dzień wcześniej." },
+      { "en": "\"I'll finish this tomorrow,\" she said. → She said she would finish that the next day.", "pl": "„Skończę to jutro” powiedziała. → Powiedziała, że skończy to następnego dnia." },
+      { "en": "\"I like this city,\" he said. → He said he liked that city.", "pl": "„Podoba mi się to miasto” powiedział. → Powiedział, że podoba mu się tamto miasto." }
+    ]
+  }
+]
