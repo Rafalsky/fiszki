@@ -75,5 +75,12 @@
     "title": "Pytania",
     "desc": "Pytania ogólne, szczegółowe (wh-), question tags i pytania pośrednie — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "negation",
+    "icon": "🚫",
+    "title": "Przeczenia",
+    "desc": "Przeczenia w różnych czasach oraz some/any/no/none — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
