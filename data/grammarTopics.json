@@ -61,5 +61,12 @@
     "title": "Stopniowanie",
     "desc": "Stopień wyższy i najwyższy przymiotników i przysłówków — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "word_order",
+    "icon": "🔀",
+    "title": "Szyk zdania",
+    "desc": "Szyk zdania w angielskim: SVO / SVOMPT, pozycja przysłówków częstotliwości i przysłówków środkowych — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
