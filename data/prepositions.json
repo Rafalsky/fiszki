@@ -1,0 +1,97 @@
+[
+  {
+    "id": "time_prepositions",
+    "order": 1,
+    "nameEn": "in / on / at — prepositions of time",
+    "namePl": "Przyimki czasu in / on / at",
+    "rules": [
+      { "label": "in", "text": "Dłuższe okresy — miesiące, lata, pory roku, części dnia (in July, in 2020, in summer, in the morning)" },
+      { "label": "on", "text": "Dni tygodnia i konkretne daty (on Monday, on 5 May, on my birthday)" },
+      { "label": "at", "text": "Konkretne godziny oraz stałe wyrażenia (at 6 o'clock, at night, at the weekend, at Christmas)" }
+    ],
+    "usage": [
+      "Krótki, konkretny moment w czasie → at",
+      "Dzień lub data → on",
+      "Dłuższy okres (miesiąc, rok, pora roku) → in",
+      "Wyjątki utarte trzeba zapamiętać osobno (at night, at the weekend, at Christmas)"
+    ],
+    "tags": ["in July", "on Monday", "at 6pm", "at night"],
+    "examples": [
+      { "en": "I was born in 1998.", "pl": "Urodziłem się w 1998 roku." },
+      { "en": "We meet on Fridays.", "pl": "Spotykamy się w piątki." },
+      { "en": "The train leaves at 9 o'clock.", "pl": "Pociąg odjeżdża o 9." },
+      { "en": "She always visits her parents at Christmas.", "pl": "Ona zawsze odwiedza rodziców na Boże Narodzenie." }
+    ]
+  },
+  {
+    "id": "place_prepositions",
+    "order": 2,
+    "nameEn": "in / on / at — prepositions of place",
+    "namePl": "Przyimki miejsca in / on / at",
+    "rules": [
+      { "label": "in", "text": "Wnętrze przestrzeni zamkniętej lub obszaru — pokój, pudełko, miasto, kraj (in the room, in London)" },
+      { "label": "on", "text": "Powierzchnia, na której coś leży lub się znajduje (on the table, on the wall)" },
+      { "label": "at", "text": "Konkretny punkt lub miejsce spotkania — adres, przystanek, wejście (at the door, at the bus stop)" }
+    ],
+    "usage": [
+      "Coś jest na powierzchni → on",
+      "Coś jest wewnątrz zamkniętej przestrzeni lub obszaru → in",
+      "Chodzi o konkretny punkt, adres lub miejsce spotkania → at"
+    ],
+    "tags": ["in the box", "on the table", "at the door", "in London"],
+    "examples": [
+      { "en": "The keys are in the drawer.", "pl": "Klucze są w szufladzie." },
+      { "en": "There's a picture on the wall.", "pl": "Na ścianie wisi obraz." },
+      { "en": "I'll meet you at the entrance.", "pl": "Spotkamy się przy wejściu." },
+      { "en": "She lives in Warsaw.", "pl": "Ona mieszka w Warszawie." }
+    ]
+  },
+  {
+    "id": "movement_prepositions",
+    "order": 3,
+    "nameEn": "Prepositions of movement",
+    "namePl": "Przyimki ruchu",
+    "rules": [
+      { "label": "to", "text": "Kierunek do celu podróży (go to work, drive to the coast)" },
+      { "label": "into / onto", "text": "Ruch do wnętrza (into) lub na powierzchnię (onto) czegoś (walk into the room, jump onto the table)" },
+      { "label": "from", "text": "Punkt początkowy ruchu (fly from Paris)" },
+      { "label": "through / across / along / over", "text": "Trasa i sposób przemieszczania się — przez środek (through), w poprzek (across), wzdłuż (along), ponad (over)" }
+    ],
+    "usage": [
+      "Cel podróży → to",
+      "Wejście do środka lub na powierzchnię → into / onto",
+      "Punkt startowy → from",
+      "Opis trasy ruchu → through, across, along, over"
+    ],
+    "tags": ["go to work", "into the room", "across the street", "through the tunnel"],
+    "examples": [
+      { "en": "We drove to the coast.", "pl": "Pojechaliśmy nad wybrzeże." },
+      { "en": "He walked into the kitchen.", "pl": "Wszedł do kuchni." },
+      { "en": "She swam across the lake.", "pl": "Przepłynęła jezioro." },
+      { "en": "They walked through the forest.", "pl": "Przeszli przez las." }
+    ]
+  },
+  {
+    "id": "other_prepositions",
+    "order": 4,
+    "nameEn": "Other common prepositions",
+    "namePl": "Inne częste przyimki",
+    "rules": [
+      { "label": "between / among", "text": "between dla dwóch osób/rzeczy, among dla grupy (więcej niż dwóch)" },
+      { "label": "during / for / while", "text": "during + rzeczownik/wydarzenie (during the film), for + długość trwania (for two hours), while + zdanie (while I was reading)" },
+      { "label": "by / until", "text": "by — najpóźniej do danego momentu (deadline), until — nieprzerwanie aż do danego momentu" }
+    ],
+    "usage": [
+      "Dwa elementy → between, grupa → among",
+      "Podajesz liczbę/czas trwania → for; nazywasz wydarzenie, w trakcie którego coś się dzieje → during; dwie czynności równocześnie → while",
+      "Termin ostateczny (najpóźniej do) → by; ciągłość aż do momentu → until"
+    ],
+    "tags": ["between two", "among the crowd", "during the meeting", "by Friday"],
+    "examples": [
+      { "en": "The shop is between the bank and the café.", "pl": "Sklep jest między bankiem a kawiarnią." },
+      { "en": "She was popular among her classmates.", "pl": "Była lubiana wśród kolegów z klasy." },
+      { "en": "I waited for two hours.", "pl": "Czekałem dwie godziny." },
+      { "en": "Please finish the report by Friday.", "pl": "Proszę skończyć raport najpóźniej do piątku." }
+    ]
+  }
+]

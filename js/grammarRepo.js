@@ -15,6 +15,7 @@ const THEORY_URLS = {
   plurals: new URL("../data/plurals.json", import.meta.url),
   possessives: new URL("../data/possessives.json", import.meta.url),
   pronouns: new URL("../data/pronouns.json", import.meta.url),
+  prepositions: new URL("../data/prepositions.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -25,6 +26,7 @@ const DRILLS_URLS = {
   plurals: new URL("../data/pluralsDrills.json", import.meta.url),
   possessives: new URL("../data/possessivesDrills.json", import.meta.url),
   pronouns: new URL("../data/pronounsDrills.json", import.meta.url),
+  prepositions: new URL("../data/prepositionsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

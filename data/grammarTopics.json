@@ -47,5 +47,12 @@
     "title": "Zaimki",
     "desc": "Zaimki osobowe, zwrotne i wskazujące — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "prepositions",
+    "icon": "🧭",
+    "title": "Przyimki",
+    "desc": "Przyimki miejsca, czasu i ruchu (in/on/at, to/into/through) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
