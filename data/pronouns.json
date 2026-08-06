@@ -1,0 +1,182 @@
+[
+  {
+    "id": "personal_subject",
+    "order": 1,
+    "nameEn": "Personal pronouns — subject (I, you, he...)",
+    "namePl": "Zaimki osobowe w funkcji podmiotu",
+    "rules": [
+      {
+        "label": "Formy",
+        "text": "I, you, he, she, it, we, they — zastępują rzeczownik pełniący funkcję podmiotu zdania"
+      },
+      {
+        "label": "Wielka litera",
+        "text": "Zaimek I (ja) zawsze piszemy wielką literą, niezależnie od miejsca w zdaniu"
+      },
+      {
+        "label": "Rodzaj",
+        "text": "he dla mężczyzn, she dla kobiet, it dla rzeczy/zwierząt/zjawisk, they także jako zaimek neutralny płciowo w liczbie pojedynczej"
+      }
+    ],
+    "usage": [
+      "Jako podmiot zdania, zawsze przed czasownikiem (She works in London.)",
+      "Zastępują wcześniej wspomniany rzeczownik, by uniknąć powtórzeń",
+      "it używamy też do pogody, czasu i odległości (It's raining. It's 5 o'clock.)",
+      "they jako zaimek neutralny płciowo, gdy płeć osoby jest nieznana lub nieistotna (Someone called. They left a message.)"
+    ],
+    "tags": ["I am", "she works", "it's raining", "they said"],
+    "examples": [
+      {
+        "en": "I live in a small flat in the city centre.",
+        "pl": "Mieszkam w małym mieszkaniu w centrum miasta."
+      },
+      {
+        "en": "He plays the guitar every evening.",
+        "pl": "On gra na gitarze każdego wieczoru."
+      },
+      {
+        "en": "It's raining, so take an umbrella.",
+        "pl": "Pada deszcz, więc weź parasol."
+      },
+      {
+        "en": "Someone left their bag here. They must be nearby.",
+        "pl": "Ktoś zostawił tu swoją torbę. Musi być gdzieś w pobliżu."
+      }
+    ]
+  },
+  {
+    "id": "personal_object",
+    "order": 2,
+    "nameEn": "Personal pronouns — object (me, you, him...)",
+    "namePl": "Zaimki osobowe w funkcji dopełnienia",
+    "rules": [
+      {
+        "label": "Formy",
+        "text": "me, you, him, her, it, us, them — zastępują rzeczownik pełniący funkcję dopełnienia"
+      },
+      {
+        "label": "Pozycja",
+        "text": "Stoją po czasowniku lub po przyimku, nigdy jako podmiot zdania"
+      },
+      {
+        "label": "Częsty błąd",
+        "text": "Po przyimkach (for, with, to, between) zawsze używamy formy dopełnieniowej, nie podmiotowej (between you and me, nie between you and I)"
+      }
+    ],
+    "usage": [
+      "Jako dopełnienie bliższe lub dalsze czasownika (She called him yesterday.)",
+      "Po przyimkach (Can you come with us?)",
+      "W krótkich odpowiedziach jednowyrazowych (Who's there? — Me.)",
+      "Po than/as w nieformalnych porównaniach (He's taller than me.)"
+    ],
+    "tags": ["call me", "with us", "than him", "between you and me"],
+    "examples": [
+      {
+        "en": "Can you help me with this box?",
+        "pl": "Możesz pomóc mi z tym pudełkiem?"
+      },
+      {
+        "en": "We invited them to the party.",
+        "pl": "Zaprosiliśmy ich na przyjęcie."
+      },
+      {
+        "en": "This letter is for her, not for him.",
+        "pl": "Ten list jest dla niej, nie dla niego."
+      },
+      {
+        "en": "Just between you and me, I don't trust him.",
+        "pl": "Tylko między nami, nie ufam mu."
+      }
+    ]
+  },
+  {
+    "id": "reflexive",
+    "order": 3,
+    "nameEn": "Reflexive pronouns (myself, yourself...)",
+    "namePl": "Zaimki zwrotne",
+    "rules": [
+      {
+        "label": "Formy",
+        "text": "myself, yourself, himself, herself, itself, ourselves, yourselves, themselves"
+      },
+      {
+        "label": "Budowa",
+        "text": "Liczba pojedyncza + self (myself, herself), liczba mnoga + selves (ourselves, themselves)"
+      },
+      {
+        "label": "Emfaza",
+        "text": "Mogą też podkreślać, że ktoś zrobił coś samodzielnie, bez niczyjej pomocy (I did it myself.)"
+      }
+    ],
+    "usage": [
+      "Gdy podmiot i dopełnienie czynności to ta sama osoba (He cut himself while cooking.)",
+      "Z czasownikami zwrotnymi typowymi dla angielskiego (enjoy oneself, help yourself, introduce yourself)",
+      "Dla podkreślenia samodzielności działania, często na końcu zdania (I fixed it myself.)",
+      "W wyrażeniu by oneself = sam, bez towarzystwa (She lives by herself.)"
+    ],
+    "tags": ["myself", "enjoy yourself", "by himself", "help yourself"],
+    "examples": [
+      {
+        "en": "Be careful, don't cut yourself with that knife.",
+        "pl": "Uważaj, nie skaleczysz się tym nożem."
+      },
+      {
+        "en": "They enjoyed themselves at the concert.",
+        "pl": "Świetnie się bawili na koncercie."
+      },
+      {
+        "en": "I painted the whole room myself.",
+        "pl": "Sam pomalowałem cały pokój."
+      },
+      {
+        "en": "He prefers to travel by himself.",
+        "pl": "On woli podróżować sam."
+      }
+    ]
+  },
+  {
+    "id": "demonstrative",
+    "order": 4,
+    "nameEn": "Demonstrative pronouns (this, that, these, those)",
+    "namePl": "Zaimki wskazujące",
+    "rules": [
+      {
+        "label": "Odległość i liczba",
+        "text": "this/these wskazują na coś blisko (tu), that/those na coś dalej (tam); this/that to liczba pojedyncza, these/those to liczba mnoga"
+      },
+      {
+        "label": "Funkcja",
+        "text": "Mogą stać samodzielnie jako zaimek albo przed rzeczownikiem jako przymiotnik wskazujący (this book)"
+      },
+      {
+        "label": "Czas",
+        "text": "this/these odnoszą się zwykle do teraźniejszości i przyszłości, that/those także do przeszłości i rzeczy już wspomnianych"
+      }
+    ],
+    "usage": [
+      "Wskazywanie przedmiotów blisko lub daleko od mówiącego (This is my phone. Those are her shoes.)",
+      "Przedstawianie się lub pytanie przez telefon (This is Anna speaking. Who's that?)",
+      "Odnoszenie się do całych zdań lub sytuacji wspomnianych wcześniej (That was a great idea.)",
+      "that/those przy rzeczach odległych w czasie lub kontekście (Those were the days.)"
+    ],
+    "tags": ["this book", "these days", "that was", "those shoes"],
+    "examples": [
+      {
+        "en": "This is my new laptop, isn't it nice?",
+        "pl": "To mój nowy laptop, ładny, prawda?"
+      },
+      {
+        "en": "These shoes are too small for me.",
+        "pl": "Te buty są dla mnie za małe."
+      },
+      {
+        "en": "That was the best film I've ever seen.",
+        "pl": "To był najlepszy film, jaki kiedykolwiek widziałem."
+      },
+      {
+        "en": "Those days were much simpler.",
+        "pl": "Tamte dni były o wiele prostsze."
+      }
+    ]
+  }
+]

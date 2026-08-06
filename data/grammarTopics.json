@@ -40,5 +40,12 @@
     "title": "Dzierżawczość",
     "desc": "Dopełniacz saksoński 's oraz zaimki i przymiotniki dzierżawcze — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "pronouns",
+    "icon": "👤",
+    "title": "Zaimki",
+    "desc": "Zaimki osobowe, zwrotne i wskazujące — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
