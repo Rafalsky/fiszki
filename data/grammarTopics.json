@@ -110,5 +110,12 @@
     "title": "Mowa zależna",
     "desc": "Mowa zależna: zdania oznajmujące, pytania i polecenia, przesunięcie czasów (backshift) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "relative_clauses",
+    "icon": "🔗",
+    "title": "Zdania względne",
+    "desc": "Zdania względne z who/which/that/whose/where — kiedy którego zaimka użyć, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

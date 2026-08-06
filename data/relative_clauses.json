@@ -1,0 +1,98 @@
+[
+  {
+    "id": "who_which_that",
+    "order": 1,
+    "nameEn": "who / which / that — subject relative pronouns",
+    "namePl": "who / which / that — zaimki względne w roli podmiotu",
+    "rules": [
+      { "label": "who", "text": "Odnosi się do ludzi (podmiot lub dopełnienie zdania względnego)" },
+      { "label": "which", "text": "Odnosi się do rzeczy, zwierząt i pojęć (podmiot lub dopełnienie)" },
+      { "label": "that", "text": "Może zastąpić who lub which, zwłaszcza w zdaniach definiujących (restrictive) — częste w mowie potocznej" }
+    ],
+    "usage": [
+      "who dla osób: The man who called you is my brother.",
+      "which dla rzeczy: The car which I bought is red.",
+      "that zamiast who/which w zdaniach definiujących, zwłaszcza po all/only/superlative",
+      "that nie używa się po przecinku (w zdaniach nieograniczających)"
+    ],
+    "tags": ["who called", "which I bought", "the book that", "the man that"],
+    "examples": [
+      { "en": "The man who called you is my brother.", "pl": "Mężczyzna, który do ciebie zadzwonił, to mój brat." },
+      { "en": "The car which I bought is red.", "pl": "Samochód, który kupiłem, jest czerwony." },
+      { "en": "She is the only person that understands me.", "pl": "Ona jest jedyną osobą, która mnie rozumie." },
+      { "en": "This is the book that changed my life.", "pl": "To jest książka, która zmieniła moje życie." }
+    ]
+  },
+  {
+    "id": "whose",
+    "order": 2,
+    "nameEn": "whose — possessive relative pronoun",
+    "namePl": "whose — zaimek względny dzierżawczy",
+    "rules": [
+      { "label": "Funkcja", "text": "whose zastępuje formę dzierżawczą (his/her/their/its) i łączy dwa zdania pokazując przynależność" },
+      { "label": "Odniesienie", "text": "Może dotyczyć zarówno osób, jak i rzeczy/zwierząt" },
+      { "label": "Szyk", "text": "Po whose zawsze stoi rzeczownik (whose + noun), nigdy sam czasownik" }
+    ],
+    "usage": [
+      "Gdy łączymy dwa zdania mówiące o czyjejś własności lub cesze",
+      "This is the girl whose bag was stolen. (= Her bag was stolen.)",
+      "The company whose profits fell is closing down.",
+      "Nie mylić z who's (skrót od who is / who has)"
+    ],
+    "tags": ["whose bag", "whose profits", "whose car", "the man whose"],
+    "examples": [
+      { "en": "This is the girl whose bag was stolen.", "pl": "To jest dziewczyna, której torebkę skradziono." },
+      { "en": "I know a man whose son is a doctor.", "pl": "Znam mężczyznę, którego syn jest lekarzem." },
+      { "en": "The company whose profits fell is closing down.", "pl": "Firma, której zyski spadły, zamyka się." },
+      { "en": "That's the dog whose owner lives next door.", "pl": "To pies, którego właściciel mieszka obok." }
+    ]
+  },
+  {
+    "id": "where_when",
+    "order": 3,
+    "nameEn": "where / when — relative adverbs",
+    "namePl": "where / when — przysłówki względne",
+    "rules": [
+      { "label": "where", "text": "Odnosi się do miejsca, zastępuje in/at which" },
+      { "label": "when", "text": "Odnosi się do czasu, zastępuje in/on/at which" },
+      { "label": "why", "text": "Odnosi się do przyczyny, zwykle po the reason" }
+    ],
+    "usage": [
+      "This is the house where I grew up. (= in which I grew up)",
+      "I remember the day when we first met. (= on which we first met)",
+      "Tell me the reason why you were late.",
+      "where/when zastępują przyimek + which, co brzmi bardziej naturalnie"
+    ],
+    "tags": ["the house where", "the day when", "the reason why", "the city where"],
+    "examples": [
+      { "en": "This is the house where I grew up.", "pl": "To jest dom, w którym dorastałem." },
+      { "en": "I remember the day when we first met.", "pl": "Pamiętam dzień, kiedy się poznaliśmy." },
+      { "en": "Tell me the reason why you were late.", "pl": "Powiedz mi, dlaczego się spóźniłeś." },
+      { "en": "That's the restaurant where we had dinner.", "pl": "To ta restauracja, w której jedliśmy kolację." }
+    ]
+  },
+  {
+    "id": "defining_non_defining",
+    "order": 4,
+    "nameEn": "defining vs non-defining relative clauses",
+    "namePl": "zdania ograniczające vs nieograniczające",
+    "rules": [
+      { "label": "Ograniczające", "text": "Podają niezbędną informację, identyfikują osobę/rzecz — bez przecinków, można użyć that" },
+      { "label": "Nieograniczające", "text": "Podają dodatkową informację, zdanie ma sens bez niej — oddzielone przecinkami, NIE można użyć that" },
+      { "label": "Pominięcie", "text": "W zdaniach ograniczających zaimek w roli dopełnienia można pominąć (the man I met)" }
+    ],
+    "usage": [
+      "Defining: The woman who lives next door is a doctor. (identyfikuje którą kobietę)",
+      "Non-defining: My sister, who lives in London, is a doctor. (dodatkowa informacja o siostrze)",
+      "W non-defining zawsze przecinki, nigdy that",
+      "Pominięcie zaimka tylko gdy pełni funkcję dopełnienia: The book (which) I read was great."
+    ],
+    "tags": ["who lives, is", "which I read", "comma clause", "essential info"],
+    "examples": [
+      { "en": "The woman who lives next door is a doctor.", "pl": "Kobieta, która mieszka obok, jest lekarką." },
+      { "en": "My sister, who lives in London, is a doctor.", "pl": "Moja siostra, która mieszka w Londynie, jest lekarką." },
+      { "en": "The book I read last week was great.", "pl": "Książka, którą przeczytałem w zeszłym tygodniu, była świetna." },
+      { "en": "Mount Everest, which is the highest mountain, attracts climbers.", "pl": "Mount Everest, który jest najwyższą górą, przyciąga wspinaczy." }
+    ]
+  }
+]
