@@ -1,0 +1,98 @@
+[
+  {
+    "id": "yes_no_questions",
+    "order": 1,
+    "nameEn": "Yes/No questions",
+    "namePl": "Pytania ogólne (tak/nie)",
+    "rules": [
+      { "label": "do/does/did", "text": "W Present Simple i Past Simple pytania ogólne tworzymy przez inwersję: Do/Does/Did + podmiot + czasownik w formie podstawowej" },
+      { "label": "be/have/modal", "text": "Gdy zdanie zawiera czasownik być (be), posiłkowy have/has/had jako operator lub czasownik modalny (can, will, must...), inwersja następuje bezpośrednio z tym czasownikiem, bez do/does/did" },
+      { "label": "Krótkie odpowiedzi", "text": "Zamiast pełnego zdania odpowiadamy krótko, powtarzając operator: Yes, I do. / No, she doesn't. / Yes, they are." }
+    ],
+    "usage": [
+      "Pytania, na które odpowiada się „tak” lub „nie”",
+      "Present Simple/Past Simple: Do/Does/Did + podmiot + czasownik",
+      "Zdania z be, have (posiłkowym), modalnymi: inwersja bez do",
+      "Krótkie odpowiedzi zamiast pełnych zdań w mowie potocznej"
+    ],
+    "tags": ["Do you...?", "Does she...?", "Are you...?", "Can you...?"],
+    "examples": [
+      { "en": "Do you like coffee?", "pl": "Czy lubisz kawę?" },
+      { "en": "Does she work here?", "pl": "Czy ona tutaj pracuje?" },
+      { "en": "Are you ready?", "pl": "Czy jesteś gotowy?" },
+      { "en": "Have you finished your homework?", "pl": "Czy skończyłeś odrabiać pracę domową?" }
+    ]
+  },
+  {
+    "id": "wh_questions",
+    "order": 2,
+    "nameEn": "Wh- questions",
+    "namePl": "Pytania szczegółowe (wh-)",
+    "rules": [
+      { "label": "Szyk pytania", "text": "Słowo pytające (What/Where/When/Why/Who/How...) na początku, potem operator (do/does/did/be/modal) + podmiot + czasownik" },
+      { "label": "Pytanie o podmiot", "text": "Gdy pytamy o podmiot zdania (Who/What jako podmiot), NIE używamy do/does/did — zachowujemy szyk zdania oznajmującego: Who called you? (nie: Who did call you?)" },
+      { "label": "how + przymiotnik/przysłówek", "text": "Kombinacje z how (how much/many/often/long/far) służą do pytań o ilość, częstotliwość, czas trwania i odległość" }
+    ],
+    "usage": [
+      "What - co, jaki; Where - gdzie; When - kiedy; Why - dlaczego; Who - kto; How - jak",
+      "Pytania o podmiot zachowują szyk zdania twierdzącego",
+      "how + przymiotnik/przysłówek tworzy rozbudowane pytania szczegółowe",
+      "Which używamy, gdy wybór jest ograniczony do znanych opcji"
+    ],
+    "tags": ["What...?", "Where...?", "Who called?", "How often...?"],
+    "examples": [
+      { "en": "What time does the film start?", "pl": "O której zaczyna się film?" },
+      { "en": "Where do you live?", "pl": "Gdzie mieszkasz?" },
+      { "en": "Who broke the window?", "pl": "Kto rozbił okno?" },
+      { "en": "How often do you go to the gym?", "pl": "Jak często chodzisz na siłownię?" }
+    ]
+  },
+  {
+    "id": "question_tags",
+    "order": 3,
+    "nameEn": "Question tags",
+    "namePl": "Question tags (pytania rozłączne)",
+    "rules": [
+      { "label": "Zasada przeciwieństwa", "text": "Twierdzenie → tag przeczący, przeczenie → tag twierdzący (You are tired, aren't you? / You aren't tired, are you?)" },
+      { "label": "Ten sam operator", "text": "Tag powtarza operator ze zdania głównego (be, have, modal) albo do/does/did, jeśli zdanie było w czasie prostym bez operatora" },
+      { "label": "Zaimek w tagu", "text": "Podmiot w tagu jest zawsze zaimkiem osobowym, zgodnym z podmiotem zdania głównego" }
+    ],
+    "usage": [
+      "Doprecyzowanie lub potwierdzenie informacji w rozmowie",
+      "I am → wyjątkowy tag: aren't I?",
+      "Zdania z Let's → tag: shall we?",
+      "Zdania rozkazujące → tag: will you? / won't you?"
+    ],
+    "tags": ["..., isn't it?", "..., don't you?", "..., aren't I?", "..., won't you?"],
+    "examples": [
+      { "en": "You like pizza, don't you?", "pl": "Lubisz pizzę, prawda?" },
+      { "en": "She isn't coming, is she?", "pl": "Ona nie przyjdzie, prawda?" },
+      { "en": "Let's go for a walk, shall we?", "pl": "Chodźmy na spacer, dobrze?" },
+      { "en": "Close the door, will you?", "pl": "Zamknij drzwi, dobrze?" }
+    ]
+  },
+  {
+    "id": "indirect_questions",
+    "order": 4,
+    "nameEn": "Indirect / embedded questions",
+    "namePl": "Pytania pośrednie",
+    "rules": [
+      { "label": "Szyk zdania twierdzącego", "text": "Po wyrażeniu wprowadzającym (Could you tell me..., I wonder..., Do you know...) następuje szyk zdania oznajmującego, bez inwersji" },
+      { "label": "Brak do/does/did", "text": "W pytaniach pośrednich nie używamy operatora do/does/did dla czasów prostych — czasownik odmienia się normalnie po podmiocie" },
+      { "label": "if / whether", "text": "Pytania ogólne (tak/nie) w formie pośredniej wprowadzamy spójnikiem if lub whether" }
+    ],
+    "usage": [
+      "Grzeczniejsza, bardziej formalna forma pytania",
+      "Wyrażenia wprowadzające: Could you tell me..., Do you know..., I wonder..., I'd like to know...",
+      "Bez znaku zapytania na końcu, jeśli całe zdanie jest twierdzeniem (I wonder where he is.)",
+      "if i whether zastępują do/does/did w pytaniach ogólnych"
+    ],
+    "tags": ["Could you tell me...", "Do you know if...", "I wonder...", "I'd like to know..."],
+    "examples": [
+      { "en": "Could you tell me where the station is?", "pl": "Czy mógłby mi pan powiedzieć, gdzie jest dworzec?" },
+      { "en": "Do you know what time it is?", "pl": "Czy wiesz, która jest godzina?" },
+      { "en": "I wonder if she is coming.", "pl": "Zastanawiam się, czy ona przyjdzie." },
+      { "en": "I'd like to know why he left.", "pl": "Chciałbym wiedzieć, dlaczego wyszedł." }
+    ]
+  }
+]

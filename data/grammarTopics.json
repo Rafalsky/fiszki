@@ -68,5 +68,12 @@
     "title": "Szyk zdania",
     "desc": "Szyk zdania w angielskim: SVO / SVOMPT, pozycja przysłówków częstotliwości i przysłówków środkowych — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "questions",
+    "icon": "❓",
+    "title": "Pytania",
+    "desc": "Pytania ogólne, szczegółowe (wh-), question tags i pytania pośrednie — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
