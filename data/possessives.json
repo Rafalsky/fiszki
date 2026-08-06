@@ -1,0 +1,98 @@
+[
+  {
+    "id": "saxon_genitive",
+    "order": 1,
+    "nameEn": "Saxon genitive ('s / s')",
+    "namePl": "Dopełniacz saksoński 's",
+    "rules": [
+      { "label": "Liczba pojedyncza", "text": "Do rzeczownika w liczbie pojedynczej dodajemy 's, niezależnie od tego, czy kończy się na s (the boss's office)" },
+      { "label": "Liczba mnoga regularna", "text": "Do rzeczownika w liczbie mnogiej zakończonego na -s dodajemy tylko apostrof (the students' books)" },
+      { "label": "Liczba mnoga nieregularna", "text": "Do rzeczownika w liczbie mnogiej niezakończonego na -s dodajemy 's, jak w liczbie pojedynczej (the children's toys)" }
+    ],
+    "usage": [
+      "Głównie z osobami, zwierzętami i grupami ludzi (my sister's car, the dog's tail)",
+      "Z wyrazami określającymi czas (yesterday's news, a week's holiday)",
+      "Gdy posiadacz stoi bezpośrednio przed rzeczy posiadanej, bez przedimka przed rzeczownikiem posiadanym",
+      "Przy dwóch właścicielach jednej rzeczy 's dodajemy tylko do ostatniego imienia (Tom and Anna's flat)"
+    ],
+    "tags": ["Anna's book", "the boss's office", "students' books", "children's toys"],
+    "examples": [
+      { "en": "This is my sister's car.", "pl": "To samochód mojej siostry." },
+      { "en": "The boss's office is on the top floor.", "pl": "Biuro szefa jest na najwyższym piętrze." },
+      { "en": "The students' books were left on the desk.", "pl": "Książki uczniów zostały na biurku." },
+      { "en": "The children's toys are all over the floor.", "pl": "Zabawki dzieci są rozrzucone po całej podłodze." }
+    ]
+  },
+  {
+    "id": "possessive_adjectives",
+    "order": 2,
+    "nameEn": "Possessive adjectives (my, your, his...)",
+    "namePl": "Przymiotniki dzierżawcze",
+    "rules": [
+      { "label": "Pozycja", "text": "Przymiotnik dzierżawczy stoi zawsze przed rzeczownikiem, którego dotyczy (my car, her phone)" },
+      { "label": "Odmiana", "text": "my, your, his, her, its, our, their — nie odmieniają się przez liczbę ani rodzaj rzeczownika, który po nich następuje" },
+      { "label": "its vs it's", "text": "its (bez apostrofu) to przymiotnik dzierżawczy; it's to skrót od it is / it has" }
+    ],
+    "usage": [
+      "Zawsze przed rzeczownikiem, nigdy samodzielnie (this is my book, nie this book is my)",
+      "Zgadzają się z posiadaczem, nie z rzeczą posiadaną (his sister, her brother)",
+      "Z częściami ciała i rzeczami osobistymi zamiast przedimka (she washed her hands)",
+      "its dla zwierząt i przedmiotów, gdy płeć jest nieznana lub nieistotna (the cat licked its paw)"
+    ],
+    "tags": ["my car", "her phone", "its paw", "their house"],
+    "examples": [
+      { "en": "Is this your umbrella?", "pl": "Czy to twój parasol?" },
+      { "en": "He forgot his keys at home.", "pl": "Zapomniał kluczy w domu." },
+      { "en": "The cat licked its paw.", "pl": "Kot polizał swoją łapę." },
+      { "en": "They sold their old house last year.", "pl": "Sprzedali swój stary dom w zeszłym roku." }
+    ]
+  },
+  {
+    "id": "possessive_pronouns",
+    "order": 3,
+    "nameEn": "Possessive pronouns (mine, yours, his...)",
+    "namePl": "Zaimki dzierżawcze",
+    "rules": [
+      { "label": "Samodzielność", "text": "Zaimek dzierżawczy zastępuje CAŁĄ frazę przymiotnik dzierżawczy + rzeczownik i stoi samodzielnie, bez rzeczownika po sobie" },
+      { "label": "Forma", "text": "mine, yours, his, hers, its (rzadko), ours, theirs — his i its są takie same jak przymiotniki dzierżawcze" },
+      { "label": "Częsty błąd", "text": "Po zaimku dzierżawczym nigdy nie stawiamy rzeczownika (this is mine, nie this is mine book)" }
+    ],
+    "usage": [
+      "Gdy unikamy powtarzania rzeczownika, o którym już była mowa (This is my pen. Where is yours?)",
+      "Na końcu zdania lub jako podmiot/dopełnienie samodzielnie (The red car is mine.)",
+      "Po przyimku of do wyrażania jednego z wielu (a friend of mine, a book of hers)",
+      "Nigdy z apostrofem — mine, yours, theirs itd. piszemy bez 's"
+    ],
+    "tags": ["mine", "yours", "a friend of mine", "theirs"],
+    "examples": [
+      { "en": "This bag isn't mine, it's yours.", "pl": "Ta torba nie jest moja, jest twoja." },
+      { "en": "Our house is bigger than theirs.", "pl": "Nasz dom jest większy niż ich." },
+      { "en": "Is that jacket hers?", "pl": "Czy ta kurtka jest jej?" },
+      { "en": "He's an old friend of mine.", "pl": "To mój stary przyjaciel." }
+    ]
+  },
+  {
+    "id": "of_possession",
+    "order": 4,
+    "nameEn": "Whose & double genitive",
+    "namePl": "whose i dopełniacz podwójny",
+    "rules": [
+      { "label": "whose", "text": "Pytanie o właściciela: whose + rzeczownik (Whose car is this?) lub samodzielnie (Whose is this car?)" },
+      { "label": "of + zaimek dzierżawczy", "text": "Dopełniacz podwójny: a/an/this/that + rzeczownik + of + zaimek dzierżawczy (a colleague of mine)" },
+      { "label": "whose vs who's", "text": "whose to zaimek pytający/względny o przynależności; who's to skrót od who is / who has" }
+    ],
+    "usage": [
+      "whose pytamy o czyjąś własność, gdy nie znamy właściciela (Whose keys are these?)",
+      "whose jako zaimek względny łączy zdania, wskazując przynależność (the man whose car was stolen)",
+      "Dopełniacz podwójny, gdy przed rzeczownikiem jest już inny określnik jak a, this, that (a friend of my mother's)",
+      "Dopełniacz podwójny podkreśla, że chodzi o jednego z wielu, a nie o wszystkich naraz"
+    ],
+    "tags": ["Whose is this?", "whose car", "a friend of my mother's", "who's vs whose"],
+    "examples": [
+      { "en": "Whose phone is ringing?", "pl": "Czyj telefon dzwoni?" },
+      { "en": "That's the woman whose son won the competition.", "pl": "To ta kobieta, której syn wygrał konkurs." },
+      { "en": "He's a colleague of mine.", "pl": "To mój kolega z pracy." },
+      { "en": "I met an old friend of my mother's yesterday.", "pl": "Wczoraj spotkałem starą przyjaciółkę mojej mamy." }
+    ]
+  }
+]
