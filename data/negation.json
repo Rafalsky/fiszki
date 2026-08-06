@@ -1,0 +1,98 @@
+[
+  {
+    "id": "verb_negation",
+    "order": 1,
+    "nameEn": "Negating verbs",
+    "namePl": "Przeczenia czasowników (not / n't)",
+    "rules": [
+      { "label": "do/does/did + not", "text": "W Present Simple i Past Simple przeczenie tworzymy operatorem don't/doesn't/didn't + czasownik w formie podstawowej" },
+      { "label": "be/have/modal + not", "text": "Gdy zdanie zawiera czasownik być (be), posiłkowy have/has/had jako operator lub czasownik modalny (can, will, must...), przeczenie dodajemy bezpośrednio do niego: isn't, haven't, can't, won't" },
+      { "label": "Skróty", "text": "W mowie i piśmie nieformalnym używamy skróconych form: don't, doesn't, didn't, isn't, aren't, wasn't, weren't, can't, won't, shouldn't" }
+    ],
+    "usage": [
+      "Present Simple/Past Simple: don't/doesn't/didn't + czasownik",
+      "Zdania z be, have (posiłkowym), modalnymi: not bezpośrednio po operatorze",
+      "Skrócone formy dominują w mowie potocznej i pisowni nieformalnej",
+      "Pełna forma (do not, does not) podkreśla przeczenie w mowie formalnej"
+    ],
+    "tags": ["don't", "doesn't", "didn't", "isn't", "can't", "won't"],
+    "examples": [
+      { "en": "I don't like coffee.", "pl": "Nie lubię kawy." },
+      { "en": "She doesn't work here.", "pl": "Ona tutaj nie pracuje." },
+      { "en": "They didn't arrive yesterday.", "pl": "Oni nie przyjechali wczoraj." },
+      { "en": "He can't swim.", "pl": "On nie umie pływać." }
+    ]
+  },
+  {
+    "id": "some_any_no",
+    "order": 2,
+    "nameEn": "some / any / no",
+    "namePl": "some / any / no",
+    "rules": [
+      { "label": "some", "text": "Używamy w zdaniach twierdzących (some apples) oraz w pytaniach będących propozycją lub prośbą (Would you like some tea?)" },
+      { "label": "any", "text": "Używamy w przeczeniach (I don't have any money) i w zwykłych pytaniach (Do you have any siblings?)" },
+      { "label": "no", "text": "no + rzeczownik zastępuje not any i pozwala tworzyć przeczenie bez dodatkowego not: There is no milk. (= There isn't any milk.)" }
+    ],
+    "usage": [
+      "some - w zdaniach twierdzących oraz w ofertach/prośbach",
+      "any - w przeczeniach i pytaniach neutralnych",
+      "no + rzeczownik = przeczenie bez not (podwójne przeczenie jest błędem)",
+      "some/any łączą się zarówno z rzeczownikami policzalnymi (w l.mn.), jak i niepoliczalnymi"
+    ],
+    "tags": ["some apples", "any money", "no milk", "Would you like some...?"],
+    "examples": [
+      { "en": "I'd like some water, please.", "pl": "Poproszę trochę wody." },
+      { "en": "I don't have any money.", "pl": "Nie mam żadnych pieniędzy." },
+      { "en": "There is no milk in the fridge.", "pl": "W lodówce nie ma mleka." },
+      { "en": "Do you have any questions?", "pl": "Czy masz jakieś pytania?" }
+    ]
+  },
+  {
+    "id": "none_neither_nor",
+    "order": 3,
+    "nameEn": "none / neither / nor",
+    "namePl": "none / neither / nor",
+    "rules": [
+      { "label": "none", "text": "none of + rzeczownik/zaimek oznacza „żaden z” — używane samodzielnie, bez rzeczownika po nim (None of them came.)" },
+      { "label": "neither", "text": "neither (of) odnosi się do dwóch osób/rzeczy i oznacza „ani jeden, ani drugi”: Neither of them is right." },
+      { "label": "neither... nor...", "text": "Struktura łącząca dwa elementy w przeczeniu: Neither Tom nor Ann came. — czasownik zgadza się z bliższym podmiotem" }
+    ],
+    "usage": [
+      "none of - żaden z (grupy więcej niż dwóch)",
+      "neither (of) - żaden z dwóch",
+      "neither... nor... - ani..., ani... (łączy dwa elementy)",
+      "Po none/neither czasownik zwykle występuje w liczbie pojedynczej (forma formalna)"
+    ],
+    "tags": ["none of them", "neither of us", "neither... nor...", "Me neither."],
+    "examples": [
+      { "en": "None of the students passed the test.", "pl": "Żaden ze studentów nie zdał testu." },
+      { "en": "Neither of them is coming to the party.", "pl": "Żadne z nich nie przyjdzie na przyjęcie." },
+      { "en": "Neither Tom nor Ann likes spicy food.", "pl": "Ani Tom, ani Ann nie lubią pikantnego jedzenia." },
+      { "en": "\"I don't like Mondays.\" \"Me neither.\"", "pl": "„Nie lubię poniedziałków.” „Ja też nie.”" }
+    ]
+  },
+  {
+    "id": "negative_prefixes_double_neg",
+    "order": 4,
+    "nameEn": "Negative prefixes & avoiding double negatives",
+    "namePl": "Przedrostki przeczące i unikanie podwójnego przeczenia",
+    "rules": [
+      { "label": "Przedrostki przeczące", "text": "un-, in-/im-, dis-, non- tworzą przeczenie przymiotnika lub rzeczownika bez użycia not: unhappy, impossible, disagree, non-smoker" },
+      { "label": "Zakaz podwójnego przeczenia", "text": "W angielskim standardowym jedno zdanie ma tylko jedno przeczenie — nie łączymy not z no/nobody/nothing/never w tym samym czasowniku: I don't have anything (nie: I don't have nothing)" },
+      { "label": "not... any vs no", "text": "not + any i no + rzeczownik są równoważne, ale nigdy nie łączymy ich razem: I don't have any money. = I have no money." }
+    ],
+    "usage": [
+      "Przedrostki un-/in-/im-/dis-/non- zamiast not + przymiotnik",
+      "Jedno przeczenie na zdanie — nie dubluj not z no/never/nobody",
+      "any/anybody/anything/anywhere używamy po not, no/nobody/nothing/nowhere używamy bez not",
+      "Podwójne przeczenie w standardowym angielskim brzmi błędnie, choć bywa spotykane w dialektach"
+    ],
+    "tags": ["unhappy", "impossible", "disagree", "I don't have anything"],
+    "examples": [
+      { "en": "It's impossible to finish it today.", "pl": "Niemożliwe jest skończyć to dzisiaj." },
+      { "en": "She was unhappy about the decision.", "pl": "Była nieszczęśliwa z powodu tej decyzji." },
+      { "en": "I don't know anything about it.", "pl": "Nic o tym nie wiem." },
+      { "en": "There isn't anybody in the office.", "pl": "Nikogo nie ma w biurze." }
+    ]
+  }
+]
