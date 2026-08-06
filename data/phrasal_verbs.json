@@ -1,0 +1,90 @@
+[
+  {
+    "id": "separable_transitive",
+    "order": 1,
+    "nameEn": "Separable transitive phrasal verbs",
+    "namePl": "Rozdzielne czasowniki złożone przechodnie",
+    "rules": [
+      { "label": "Rozdzielność", "text": "Dopełnienie rzeczownikowe może stać między czasownikiem a partykułą lub po niej (turn off the light / turn the light off)" },
+      { "label": "Zaimek", "text": "Gdy dopełnieniem jest zaimek (it, them, her...), MUSI stanąć między czasownikiem a partykułą (turn it off, NIE turn off it)" }
+    ],
+    "usage": [
+      "Typowe czasowniki: turn on/off, pick up, put on, take off, give up, put off, switch on/off, throw away, take up",
+      "Używane w codziennych czynnościach, instrukcjach i poleceniach",
+      "Znaczenie często dosłowne, ale bywa też przenośne (give up = zrezygnować, poddać się)"
+    ],
+    "tags": ["turn off", "pick up", "give up", "put on"],
+    "examples": [
+      { "en": "Please turn off the TV before you go to bed.", "pl": "Wyłącz telewizor przed pójściem spać." },
+      { "en": "Can you pick up some milk on your way home?", "pl": "Możesz kupić trochę mleka po drodze do domu?" },
+      { "en": "He finally gave up smoking last year.", "pl": "W końcu rzucił palenie w zeszłym roku." },
+      { "en": "She put on her coat and left.", "pl": "Założyła płaszcz i wyszła." }
+    ]
+  },
+  {
+    "id": "inseparable_transitive",
+    "order": 2,
+    "nameEn": "Inseparable transitive phrasal verbs",
+    "namePl": "Nierozdzielne czasowniki złożone przechodnie",
+    "rules": [
+      { "label": "Stała kolejność", "text": "Dopełnienie zawsze stoi po całym czasowniku złożonym, nigdy między jego częściami (look after the baby, NIE look the baby after)" },
+      { "label": "Zaimek", "text": "Ta sama zasada dotyczy zaimków — również stoją po całej frazie (look after her, NIE look her after)" }
+    ],
+    "usage": [
+      "Typowe czasowniki: look after, look into, run into, come across, get over, deal with, look for, count on, believe in, care for",
+      "Często mają charakter bardziej formalny lub przenośny niż rozdzielne",
+      "Warto zapamiętywać je razem ze stałym przyimkiem jako całość"
+    ],
+    "tags": ["look after", "run into", "get over", "look into"],
+    "examples": [
+      { "en": "Can you look after my dog while I'm away?", "pl": "Możesz zaopiekować się moim psem, kiedy mnie nie będzie?" },
+      { "en": "I ran into an old friend yesterday.", "pl": "Wczoraj wpadłem na starego znajomego." },
+      { "en": "It took her months to get over the illness.", "pl": "Zajęło jej miesiące, żeby dojść do siebie po chorobie." },
+      { "en": "The police are looking into the case.", "pl": "Policja bada tę sprawę." }
+    ]
+  },
+  {
+    "id": "intransitive",
+    "order": 3,
+    "nameEn": "Intransitive phrasal verbs",
+    "namePl": "Nieprzechodnie czasowniki złożone",
+    "rules": [
+      { "label": "Brak dopełnienia", "text": "Nie przyjmują żadnego dopełnienia — mają pełne znaczenie bez rzeczownika ani zaimka po sobie (The plane took off.)" },
+      { "label": "Kolejność", "text": "Partykuła stoi zawsze bezpośrednio po czasowniku, nic nie może ich rozdzielić" }
+    ],
+    "usage": [
+      "Typowe czasowniki: wake up, show up, break down, come back, grow up, get up, sit down, stand up, go away, run away",
+      "Opisują zdarzenia, zmiany stanu i codzienne czynności bez obiektu",
+      "Niektóre mają odpowiedniki przechodnie o innym znaczeniu (get up vs. get somebody up)"
+    ],
+    "tags": ["wake up", "show up", "break down", "grow up"],
+    "examples": [
+      { "en": "I usually wake up at 7am.", "pl": "Zwykle budzę się o 7 rano." },
+      { "en": "He didn't show up for the meeting.", "pl": "Nie pojawił się na spotkaniu." },
+      { "en": "My car broke down on the highway.", "pl": "Mój samochód zepsuł się na autostradzie." },
+      { "en": "She promised to come back soon.", "pl": "Obiecała, że wkrótce wróci." }
+    ]
+  },
+  {
+    "id": "three_word",
+    "order": 4,
+    "nameEn": "Three-word (phrasal-prepositional) verbs",
+    "namePl": "Czasowniki trójczłonowe",
+    "rules": [
+      { "label": "Budowa", "text": "Czasownik + partykuła przysłówkowa + przyimek, np. look forward to, get along with, put up with" },
+      { "label": "Nierozdzielność", "text": "Zawsze nierozdzielne — dopełnienie występuje dopiero po całej trójczłonowej frazie" }
+    ],
+    "usage": [
+      "Typowe czasowniki: look forward to, get along with, put up with, run out of, come up with, look up to, cut down on, keep up with, catch up with, go along with",
+      "Trzeba zapamiętywać je jako całą stałą frazę razem z przyimkiem",
+      "Bardzo częste w mowie potocznej — nadają wypowiedzi naturalności"
+    ],
+    "tags": ["look forward to", "put up with", "run out of", "come up with"],
+    "examples": [
+      { "en": "I'm looking forward to the weekend.", "pl": "Nie mogę się doczekać weekendu." },
+      { "en": "She gets along with her colleagues very well.", "pl": "Bardzo dobrze dogaduje się ze współpracownikami." },
+      { "en": "I can't put up with this noise any longer.", "pl": "Nie mogę już dłużej znosić tego hałasu." },
+      { "en": "We ran out of milk this morning.", "pl": "Skończyło nam się dziś rano mleko." }
+    ]
+  }
+]

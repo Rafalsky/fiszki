@@ -25,6 +25,7 @@ const THEORY_URLS = {
   conditionals: new URL("../data/conditionals.json", import.meta.url),
   reported_speech: new URL("../data/reported_speech.json", import.meta.url),
   relative_clauses: new URL("../data/relative_clauses.json", import.meta.url),
+  phrasal_verbs: new URL("../data/phrasal_verbs.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -45,6 +46,7 @@ const DRILLS_URLS = {
   conditionals: new URL("../data/conditionalsDrills.json", import.meta.url),
   reported_speech: new URL("../data/reported_speechDrills.json", import.meta.url),
   relative_clauses: new URL("../data/relative_clausesDrills.json", import.meta.url),
+  phrasal_verbs: new URL("../data/phrasal_verbsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
