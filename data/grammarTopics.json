@@ -33,5 +33,12 @@
     "title": "Liczba mnoga",
     "desc": "Liczba mnoga rzeczowników (regularna i nieregularna) oraz policzalne / niepoliczalne — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "possessives",
+    "icon": "🏷️",
+    "title": "Dzierżawczość",
+    "desc": "Dopełniacz saksoński 's oraz zaimki i przymiotniki dzierżawcze — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

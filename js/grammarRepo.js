@@ -13,6 +13,7 @@ const THEORY_URLS = {
   modals: new URL("../data/modals.json", import.meta.url),
   passive: new URL("../data/passive.json", import.meta.url),
   plurals: new URL("../data/plurals.json", import.meta.url),
+  possessives: new URL("../data/possessives.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -21,6 +22,7 @@ const DRILLS_URLS = {
   modals: new URL("../data/modalDrills.json", import.meta.url),
   passive: new URL("../data/passiveDrills.json", import.meta.url),
   plurals: new URL("../data/pluralsDrills.json", import.meta.url),
+  possessives: new URL("../data/possessivesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
