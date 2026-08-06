@@ -18,6 +18,7 @@ const THEORY_URLS = {
   prepositions: new URL("../data/prepositions.json", import.meta.url),
   comparatives: new URL("../data/comparatives.json", import.meta.url),
   word_order: new URL("../data/word_order.json", import.meta.url),
+  questions: new URL("../data/questions.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -31,6 +32,7 @@ const DRILLS_URLS = {
   prepositions: new URL("../data/prepositionsDrills.json", import.meta.url),
   comparatives: new URL("../data/comparativesDrills.json", import.meta.url),
   word_order: new URL("../data/word_orderDrills.json", import.meta.url),
+  questions: new URL("../data/questionsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
