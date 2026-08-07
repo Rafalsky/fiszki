@@ -222,5 +222,12 @@
     "title": "Inwersja",
     "desc": "Inwersja szyku zdania dla emfazy (Never have I…, Should you…, Only after did…) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "cleft_sentences",
+    "icon": "🔦",
+    "title": "Zdania rozszczepione",
+    "desc": "Zdania rozszczepione (It is... that / What I need is... / All you need is...) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
