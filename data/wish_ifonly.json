@@ -1,0 +1,86 @@
+[
+  {
+    "id": "wish_present",
+    "order": 1,
+    "nameEn": "wish + Past Simple — present wishes",
+    "namePl": "wish + Past Simple — życzenia dotyczące teraźniejszości",
+    "rules": [
+      { "label": "Budowa", "text": "wish + podmiot + Past Simple (I wish I knew the answer.)" },
+      { "label": "were zamiast was", "text": "W formalnym stylu po wish używamy were dla wszystkich osób (I wish I were taller.), choć was jest akceptowane potocznie" }
+    ],
+    "usage": [
+      "Wyrażanie żalu, że coś w teraźniejszości jest inne, niż byśmy chcieli",
+      "Odpowiednik polskiego 'żałuję, że nie...' / 'szkoda, że nie...' dla teraźniejszości"
+    ],
+    "tags": ["wish I knew", "wish I were", "wish she lived"],
+    "examples": [
+      { "en": "I wish I knew the answer.", "pl": "Żałuję, że nie znam odpowiedzi." },
+      { "en": "She wishes she were taller.", "pl": "Ona żałuje, że nie jest wyższa." },
+      { "en": "We wish we lived closer to the sea.", "pl": "Żałujemy, że nie mieszkamy bliżej morza." },
+      { "en": "I wish I had more free time.", "pl": "Żałuję, że nie mam więcej wolnego czasu." }
+    ]
+  },
+  {
+    "id": "wish_past",
+    "order": 2,
+    "nameEn": "wish + Past Perfect — past regrets",
+    "namePl": "wish + Past Perfect — żal dotyczący przeszłości",
+    "rules": [
+      { "label": "Budowa", "text": "wish + podmiot + Past Perfect (I wish I had studied harder.)" },
+      { "label": "Znaczenie", "text": "Wyraża żal z powodu czegoś, co się wydarzyło (lub nie) w przeszłości i czego nie można już zmienić" }
+    ],
+    "usage": [
+      "Żałowanie decyzji lub zdarzeń z przeszłości",
+      "Odpowiednik polskiego 'żałuję, że (nie) zrobiłem...'"
+    ],
+    "tags": ["wish I had studied", "wish I hadn't said", "wish they had come"],
+    "examples": [
+      { "en": "I wish I had studied harder for the exam.", "pl": "Żałuję, że nie uczyłem się pilniej do egzaminu." },
+      { "en": "She wishes she hadn't said that.", "pl": "Ona żałuje, że tego nie powiedziała." },
+      { "en": "We wish we had left earlier.", "pl": "Żałujemy, że nie wyjechaliśmy wcześniej." },
+      { "en": "He wishes he hadn't lost his job.", "pl": "On żałuje, że nie stracił pracy." }
+    ]
+  },
+  {
+    "id": "wish_would",
+    "order": 3,
+    "nameEn": "wish + would — irritation and desired change",
+    "namePl": "wish + would — irytacja i chęć zmiany",
+    "rules": [
+      { "label": "Budowa", "text": "wish + podmiot + would + bezokolicznik bez to (I wish you would listen to me.)" },
+      { "label": "Ograniczenie", "text": "Podmiot po wish musi różnić się od osoby mówiącej — nie używamy wish + would o sobie samym" }
+    ],
+    "usage": [
+      "Irytacja czyimś zachowaniem lub powtarzającą się sytuacją, którą chcemy zmienić",
+      "Życzenie, żeby ktoś/coś zaczęło robić coś inaczej w przyszłości"
+    ],
+    "tags": ["wish you would", "wish it would stop", "wish he would call"],
+    "examples": [
+      { "en": "I wish you would stop interrupting me.", "pl": "Chciałbym, żebyś przestał mi przerywać." },
+      { "en": "I wish it would stop raining.", "pl": "Żałuję, że deszcz nie przestaje padać." },
+      { "en": "She wishes he would call more often.", "pl": "Ona chciałaby, żeby on dzwonił częściej." },
+      { "en": "I wish they would be quiet.", "pl": "Chciałbym, żeby byli cicho." }
+    ]
+  },
+  {
+    "id": "if_only",
+    "order": 4,
+    "nameEn": "if only — stronger wishes and regrets",
+    "namePl": "if only — mocniejsze życzenia i żale",
+    "rules": [
+      { "label": "Te same struktury co wish", "text": "if only + Past Simple (teraźniejszość), if only + Past Perfect (przeszłość), if only + would (irytacja/zmiana)" },
+      { "label": "Różnica", "text": "if only brzmi bardziej emocjonalnie i emfatycznie niż wish; często kończy zdanie wykrzyknikiem" }
+    ],
+    "usage": [
+      "Silniejsze, bardziej emocjonalne wyrażenie życzenia lub żalu niż wish",
+      "Częste w wypowiedziach z nutą frustracji lub tęsknoty"
+    ],
+    "tags": ["if only I knew", "if only I had listened", "if only she would"],
+    "examples": [
+      { "en": "If only I knew what to say!", "pl": "Gdybym tylko wiedział, co powiedzieć!" },
+      { "en": "If only I had listened to my parents.", "pl": "Gdybym tylko posłuchał rodziców." },
+      { "en": "If only he would answer my calls.", "pl": "Gdyby tylko odbierał moje telefony." },
+      { "en": "If only we were rich!", "pl": "Gdybyśmy tylko byli bogaci!" }
+    ]
+  }
+]

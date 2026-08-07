@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "wish_present",
+    "prompt": "I wish I ___ the answer, but I have no idea.",
+    "answer": "knew",
+    "distractors": ["know", "had known", "will know"]
+  },
+  {
+    "id": 2,
+    "itemId": "wish_present",
+    "prompt": "She wishes she ___ taller.",
+    "answer": "were",
+    "distractors": ["is", "was", "has been"]
+  },
+  {
+    "id": 3,
+    "itemId": "wish_present",
+    "prompt": "We wish we ___ closer to the sea.",
+    "answer": "lived",
+    "distractors": ["live", "had lived", "would live"]
+  },
+  {
+    "id": 4,
+    "itemId": "wish_present",
+    "prompt": "I wish I ___ more free time.",
+    "answer": "had",
+    "distractors": ["have", "had had", "would have"]
+  },
+  {
+    "id": 5,
+    "itemId": "wish_present",
+    "prompt": "He wishes he ___ how to drive.",
+    "answer": "knew",
+    "distractors": ["knows", "had known", "know"]
+  },
+  {
+    "id": 6,
+    "itemId": "wish_present",
+    "prompt": "They wish they ___ in a bigger house.",
+    "answer": "lived",
+    "distractors": ["live", "would live", "had lived"]
+  },
+  {
+    "id": 7,
+    "itemId": "wish_present",
+    "prompt": "I wish it ___ Friday already.",
+    "answer": "were",
+    "distractors": ["is", "was", "will be"]
+  },
+  {
+    "id": 8,
+    "itemId": "wish_present",
+    "prompt": "She wishes she ___ speak French.",
+    "answer": "could",
+    "distractors": ["can", "would", "had could"]
+  },
+  {
+    "id": 9,
+    "itemId": "wish_present",
+    "prompt": "We wish we ___ more money.",
+    "answer": "had",
+    "distractors": ["have", "would have", "had had"]
+  },
+  {
+    "id": 10,
+    "itemId": "wish_present",
+    "prompt": "I wish you ___ here right now.",
+    "answer": "were",
+    "distractors": ["are", "was", "will be"]
+  },
+  {
+    "id": 11,
+    "itemId": "wish_past",
+    "prompt": "I wish I ___ harder for the exam.",
+    "answer": "had studied",
+    "distractors": ["studied", "have studied", "would study"]
+  },
+  {
+    "id": 12,
+    "itemId": "wish_past",
+    "prompt": "She wishes she ___ that.",
+    "answer": "hadn't said",
+    "distractors": ["didn't say", "hasn't said", "wouldn't say"]
+  },
+  {
+    "id": 13,
+    "itemId": "wish_past",
+    "prompt": "We wish we ___ earlier.",
+    "answer": "had left",
+    "distractors": ["left", "have left", "would leave"]
+  },
+  {
+    "id": 14,
+    "itemId": "wish_past",
+    "prompt": "He wishes he ___ his job.",
+    "answer": "hadn't lost",
+    "distractors": ["didn't lose", "lost", "hasn't lost"]
+  },
+  {
+    "id": 15,
+    "itemId": "wish_past",
+    "prompt": "I wish I ___ you sooner.",
+    "answer": "had met",
+    "distractors": ["met", "have met", "would meet"]
+  },
+  {
+    "id": 16,
+    "itemId": "wish_past",
+    "prompt": "They wish they ___ more careful.",
+    "answer": "had been",
+    "distractors": ["were", "have been", "would be"]
+  },
+  {
+    "id": 17,
+    "itemId": "wish_past",
+    "prompt": "She wishes she ___ the truth back then.",
+    "answer": "had known",
+    "distractors": ["knew", "has known", "would know"]
+  },
+  {
+    "id": 18,
+    "itemId": "wish_past",
+    "prompt": "I wish I ___ so much money on that phone.",
+    "answer": "hadn't spent",
+    "distractors": ["didn't spend", "spent", "hasn't spent"]
+  },
+  {
+    "id": 19,
+    "itemId": "wish_past",
+    "prompt": "We wish we ___ the flight.",
+    "answer": "hadn't missed",
+    "distractors": ["didn't miss", "missed", "haven't missed"]
+  },
+  {
+    "id": 20,
+    "itemId": "wish_past",
+    "prompt": "He wishes he ___ that email before sending it.",
+    "answer": "had read",
+    "distractors": ["read", "has read", "would read"]
+  },
+  {
+    "id": 21,
+    "itemId": "wish_would",
+    "prompt": "I wish you ___ interrupting me.",
+    "answer": "would stop",
+    "distractors": ["stop", "stopped", "will stop"]
+  },
+  {
+    "id": 22,
+    "itemId": "wish_would",
+    "prompt": "I wish it ___ raining.",
+    "answer": "would stop",
+    "distractors": ["stops", "stopped", "will stop"]
+  },
+  {
+    "id": 23,
+    "itemId": "wish_would",
+    "prompt": "She wishes he ___ more often.",
+    "answer": "would call",
+    "distractors": ["calls", "called", "will call"]
+  },
+  {
+    "id": 24,
+    "itemId": "wish_would",
+    "prompt": "I wish they ___ quiet.",
+    "answer": "would be",
+    "distractors": ["are", "were", "will be"]
+  },
+  {
+    "id": 25,
+    "itemId": "wish_would",
+    "prompt": "We wish our neighbours ___ so much noise.",
+    "answer": "wouldn't make",
+    "distractors": ["don't make", "didn't make", "won't make"]
+  },
+  {
+    "id": 26,
+    "itemId": "wish_would",
+    "prompt": "I wish you ___ your room once in a while.",
+    "answer": "would clean",
+    "distractors": ["clean", "cleaned", "will clean"]
+  },
+  {
+    "id": 27,
+    "itemId": "wish_would",
+    "prompt": "She wishes her boss ___ shouting at people.",
+    "answer": "would stop",
+    "distractors": ["stops", "stopped", "will stop"]
+  },
+  {
+    "id": 28,
+    "itemId": "wish_would",
+    "prompt": "I wish my brother ___ so lazy.",
+    "answer": "wouldn't be",
+    "distractors": ["isn't", "weren't", "won't be"]
+  },
+  {
+    "id": 29,
+    "itemId": "wish_would",
+    "prompt": "We wish the bus ___ on time for once.",
+    "answer": "would arrive",
+    "distractors": ["arrives", "arrived", "will arrive"]
+  },
+  {
+    "id": 30,
+    "itemId": "wish_would",
+    "prompt": "I wish you ___ so loudly on the phone.",
+    "answer": "wouldn't talk",
+    "distractors": ["don't talk", "didn't talk", "won't talk"]
+  },
+  {
+    "id": 31,
+    "itemId": "if_only",
+    "prompt": "If only I ___ what to say!",
+    "answer": "knew",
+    "distractors": ["know", "had known", "would know"]
+  },
+  {
+    "id": 32,
+    "itemId": "if_only",
+    "prompt": "If only I ___ to my parents.",
+    "answer": "had listened",
+    "distractors": ["listened", "have listened", "would listen"]
+  },
+  {
+    "id": 33,
+    "itemId": "if_only",
+    "prompt": "If only he ___ my calls.",
+    "answer": "would answer",
+    "distractors": ["answers", "answered", "will answer"]
+  },
+  {
+    "id": 34,
+    "itemId": "if_only",
+    "prompt": "If only we ___ rich!",
+    "answer": "were",
+    "distractors": ["are", "had been", "will be"]
+  },
+  {
+    "id": 35,
+    "itemId": "if_only",
+    "prompt": "If only she ___ the truth earlier.",
+    "answer": "had told",
+    "distractors": ["told", "has told", "would tell"]
+  },
+  {
+    "id": 36,
+    "itemId": "if_only",
+    "prompt": "If only it ___ so cold today!",
+    "answer": "weren't",
+    "distractors": ["isn't", "wasn't", "won't be"]
+  },
+  {
+    "id": 37,
+    "itemId": "if_only",
+    "prompt": "If only I ___ more time to prepare.",
+    "answer": "had",
+    "distractors": ["have", "had had", "would have"]
+  },
+  {
+    "id": 38,
+    "itemId": "if_only",
+    "prompt": "If only they ___ stop arguing!",
+    "answer": "would",
+    "distractors": ["will", "did", "had"]
+  },
+  {
+    "id": 39,
+    "itemId": "if_only",
+    "prompt": "If only I ___ that mistake.",
+    "answer": "hadn't made",
+    "distractors": ["didn't make", "made", "haven't made"]
+  },
+  {
+    "id": 40,
+    "itemId": "if_only",
+    "prompt": "If only he ___ here to see this.",
+    "answer": "were",
+    "distractors": ["is", "was", "would be"]
+  }
+]
