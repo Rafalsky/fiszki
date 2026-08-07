@@ -1,0 +1,94 @@
+[
+  {
+    "id": "ditransitive_two_objects",
+    "order": 1,
+    "nameEn": "Verb + indirect object + direct object",
+    "namePl": "Czasownik + dopełnienie pośrednie + dopełnienie bliższe",
+    "rules": [
+      { "label": "Kolejność", "text": "Po czasownikach typu give, show, tell, send, buy, lend można postawić najpierw osobę (dopełnienie pośrednie), a zaraz po niej rzecz (dopełnienie bliższe) — bez przyimka" },
+      { "label": "Bez to/for", "text": "W tym szyku nie używa się to ani for między czasownikiem a osobą: give me the book, nie give to me the book" }
+    ],
+    "usage": [
+      "Gdy oba dopełnienia są krótkie, zwykle w formie zaimka lub prostego rzeczownika",
+      "Typowe czasowniki: give, show, tell, send, buy, lend, offer, teach, bring, pass",
+      "Naturalny, potoczny szyk zdania w mówionym i pisanym angielskim",
+      "Osoba (odbiorca) zawsze pojawia się przed rzeczą w tym wzorze"
+    ],
+    "tags": ["give me the book", "show him the photo", "tell us the truth"],
+    "examples": [
+      { "en": "She gave me the book.", "pl": "Dała mi tę książkę." },
+      { "en": "Can you show him the photo?", "pl": "Możesz mu pokazać to zdjęcie?" },
+      { "en": "I'll send you the details tomorrow.", "pl": "Wyślę ci szczegóły jutro." },
+      { "en": "He bought his sister a present.", "pl": "Kupił swojej siostrze prezent." }
+    ]
+  },
+  {
+    "id": "direct_object_plus_to_for",
+    "order": 2,
+    "nameEn": "Verb + direct object + to/for + person",
+    "namePl": "Czasownik + dopełnienie bliższe + to/for + osoba",
+    "rules": [
+      { "label": "to", "text": "Z czasownikami give, show, tell, send, bring, offer, teach — gdy osoba jest na końcu, poprzedza ją to" },
+      { "label": "for", "text": "Z czasownikami buy, make, cook, find, get, order — gdy osoba jest na końcu, poprzedza ją for" }
+    ],
+    "usage": [
+      "Gdy chcemy podkreślić odbiorcę (rzecz na końcu z akcentem informacyjnym)",
+      "Gdy dopełnienie bliższe jest długie lub rozbudowane",
+      "Konieczne, gdy dopełnienie pośrednie jest zaimkiem po dłuższym dopełnieniu bliższym",
+      "Wybór to vs for zależy od czasownika, nie można ich mylić"
+    ],
+    "tags": ["give the book to me", "buy a present for her", "explain it to us"],
+    "examples": [
+      { "en": "She gave the book to me.", "pl": "Dała tę książkę mnie." },
+      { "en": "He bought a present for his sister.", "pl": "Kupił prezent dla swojej siostry." },
+      { "en": "Can you explain the rules to the new students?", "pl": "Możesz wyjaśnić zasady nowym uczniom?" },
+      { "en": "I made a sandwich for my brother.", "pl": "Zrobiłem kanapkę dla mojego brata." }
+    ]
+  },
+  {
+    "id": "pronoun_object_order",
+    "order": 3,
+    "nameEn": "Order with pronoun objects",
+    "namePl": "Kolejność, gdy dopełnienie bliższe jest zaimkiem",
+    "rules": [
+      { "label": "Zaimek jako dopełnienie bliższe", "text": "Gdy dopełnienie bliższe (rzecz) jest zaimkiem (it, them), zwykle NIE stawia się go bezpośrednio po osobie — używa się szyku z to/for: give it to me, nie give me it" },
+      { "label": "Naturalność", "text": "Szyk give me it brzmi nienaturalnie w standardowym angielskim; poprawny i naturalny jest give it to me" }
+    ],
+    "usage": [
+      "Kiedy dopełnienie bliższe to zaimek osobowy (it, them, this, that)",
+      "Ratunkowa zasada: 'rzecz-zaimek zawsze na końcu z to/for'",
+      "Dotyczy tych samych czasowników co wzorzec z to/for (give, show, send, buy...)",
+      "Pomaga uniknąć błędu typowego dla uczących się polskiego pochodzenia"
+    ],
+    "tags": ["give it to me", "show them to us", "pass it to him"],
+    "examples": [
+      { "en": "Give it to me, please.", "pl": "Daj mi to, proszę." },
+      { "en": "I already showed them to you.", "pl": "Już wam je pokazałem." },
+      { "en": "Can you pass it to him?", "pl": "Możesz mu to podać?" },
+      { "en": "She sent it to us yesterday.", "pl": "Wysłała nam to wczoraj." }
+    ]
+  },
+  {
+    "id": "verbs_without_alternation",
+    "order": 4,
+    "nameEn": "Verbs that only take one pattern",
+    "namePl": "Czasowniki dopuszczające tylko jeden wzorzec",
+    "rules": [
+      { "label": "Tylko z to", "text": "Niektóre czasowniki, np. explain, describe, suggest, say, announce, admit, wymagają zawsze to + osoba i NIE dopuszczają szyku bez przyimka (explain me the plan jest błędem)" },
+      { "label": "Tylko dwa dopełnienia bez przyimka", "text": "Kilka czasowników, np. cost, take (czas), wish, envy, występuje tylko w formie osoba + rzecz, bez wariantu z to/for" }
+    ],
+    "usage": [
+      "explain, describe, suggest, say, announce, admit, mention → zawsze + to + osoba",
+      "cost, wish, envy → zawsze osoba + rzecz, bez to/for",
+      "Warto zapamiętać te wyjątki osobno, bo nie podlegają ogólnej regule wymienności",
+      "Błąd explain me to jest jednym z najczęstszych błędów uczących się"
+    ],
+    "tags": ["explain it to me", "It cost me $20", "I wish you luck"],
+    "examples": [
+      { "en": "Can you explain the situation to me?", "pl": "Możesz mi wyjaśnić sytuację?" },
+      { "en": "She described the man to the police.", "pl": "Opisała mężczyznę policji." },
+      { "en": "The trip cost us a fortune.", "pl": "Ta podróż kosztowała nas fortunę." },
+      { "en": "I wish you all the best.", "pl": "Życzę ci wszystkiego najlepszego." }
+    ]
+  }
+]
