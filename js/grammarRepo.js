@@ -45,6 +45,7 @@ const THEORY_URLS = {
   emphasis: new URL("../data/emphasis.json", import.meta.url),
   subjunctive: new URL("../data/subjunctive.json", import.meta.url),
   word_formation: new URL("../data/word_formation.json", import.meta.url),
+  collocations_prepositions: new URL("../data/collocations_prepositions.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -85,6 +86,7 @@ const DRILLS_URLS = {
   emphasis: new URL("../data/emphasisDrills.json", import.meta.url),
   subjunctive: new URL("../data/subjunctiveDrills.json", import.meta.url),
   word_formation: new URL("../data/word_formationDrills.json", import.meta.url),
+  collocations_prepositions: new URL("../data/collocations_prepositionsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
