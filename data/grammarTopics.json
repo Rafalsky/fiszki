@@ -250,5 +250,12 @@
     "title": "Tryb łączący",
     "desc": "Tryb łączący (subjunctive): po suggest/insist/demand, po it's important that..., if I were you oraz utrwalone wyrażenia — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "word_formation",
+    "icon": "🧱",
+    "title": "Słowotwórstwo",
+    "desc": "Prefiksy i sufiksy słowotwórcze: przedrostki przeczące (un-, in-/im-/il-/ir-, dis-, non-), sufiksy rzeczownikowe i przymiotnikowe oraz re-/mis-/over-/under- — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
