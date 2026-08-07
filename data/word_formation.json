@@ -1,0 +1,99 @@
+[
+  {
+    "id": "negative_prefixes",
+    "order": 1,
+    "nameEn": "Negative prefixes (un-, in-/im-/il-/ir-, dis-, non-)",
+    "namePl": "Przedrostki przeczące (un-, in-/im-/il-/ir-, dis-, non-)",
+    "rules": [
+      { "label": "un-", "text": "Najczęstszy przedrostek przeczący, głównie z przymiotnikami i czasownikami (happy→unhappy, lock→unlock)" },
+      { "label": "in-/im-/il-/ir-", "text": "Przedrostek pochodzenia łacińskiego, zmienia formę zależnie od pierwszej litery rdzenia (possible→impossible, legal→illegal, regular→irregular, correct→incorrect)" },
+      { "label": "dis-", "text": "Przeczenie lub odwrócenie czynności (agree→disagree, appear→disappear)" },
+      { "label": "non-", "text": "Neutralne zaprzeczenie, często z rzeczownikami i przymiotnikami (sense→nonsense, existent→nonexistent)" }
+    ],
+    "usage": [
+      "Wybór przedrostka zależy od konkretnego słowa - trzeba go po prostu zapamiętać, nie ma jednej uniwersalnej reguły",
+      "im- pojawia się przed p, b, m (impossible, imbalance, immature)",
+      "il- pojawia się przed l (illegal, illogical)",
+      "ir- pojawia się przed r (irregular, irresponsible)"
+    ],
+    "tags": ["unfair", "impossible", "disagree", "nonexistent"],
+    "examples": [
+      { "en": "It's unfair to blame him for everything.", "pl": "To niesprawiedliwe obwiniać go o wszystko." },
+      { "en": "The task seemed impossible at first.", "pl": "Zadanie na początku wydawało się niemożliwe." },
+      { "en": "They disagree on almost everything.", "pl": "Nie zgadzają się prawie w niczym." },
+      { "en": "Her fears turned out to be nonexistent.", "pl": "Jej obawy okazały się bezpodstawne (nieistniejące)." }
+    ]
+  },
+  {
+    "id": "noun_suffixes",
+    "order": 2,
+    "nameEn": "Noun-forming suffixes (-tion/-sion, -ment, -ness, -ity, -er/-or)",
+    "namePl": "Sufiksy rzeczownikotwórcze (-tion/-sion, -ment, -ness, -ity, -er/-or)",
+    "rules": [
+      { "label": "-tion/-sion", "text": "Tworzy rzeczowniki abstrakcyjne od czasowników (create→creation, decide→decision)" },
+      { "label": "-ment", "text": "Tworzy rzeczowniki od czasowników, często oznaczające proces lub jego rezultat (develop→development, agree→agreement)" },
+      { "label": "-ness/-ity", "text": "Tworzy rzeczowniki abstrakcyjne od przymiotników (kind→kindness, able→ability)" },
+      { "label": "-er/-or", "text": "Tworzy rzeczowniki oznaczające wykonawcę czynności (teach→teacher, act→actor)" }
+    ],
+    "usage": [
+      "-ness dodaje się zwykle bezpośrednio do przymiotnika (kind→kindness), a -ity często wymaga zmiany końcówki (able→ability, active→activity)",
+      "-tion/-sion często pochodzi od czasowników zakończonych na -ate, -ide, -uce (create→creation, decide→decision, produce→production)",
+      "-er/-or wskazuje osobę lub rzecz wykonującą czynność - wybór między nimi trzeba zapamiętać dla każdego słowa osobno"
+    ],
+    "tags": ["investment", "decision", "kindness", "teacher"],
+    "examples": [
+      { "en": "The company announced a major investment in the city centre.", "pl": "Firma ogłosiła dużą inwestycję w centrum miasta." },
+      { "en": "Her decision to become a doctor never changed.", "pl": "Jej decyzja o zostaniu lekarką nigdy się nie zmieniła." },
+      { "en": "Kindness costs nothing.", "pl": "Życzliwość nic nie kosztuje." },
+      { "en": "She works as a translator.", "pl": "Ona pracuje jako tłumaczka." }
+    ]
+  },
+  {
+    "id": "adjective_suffixes",
+    "order": 3,
+    "nameEn": "Adjective-forming suffixes (-able/-ible, -ful/-less, -ous/-al/-ive)",
+    "namePl": "Sufiksy przymiotnikowe (-able/-ible, -ful/-less, -ous/-al/-ive)",
+    "rules": [
+      { "label": "-able/-ible", "text": "Oznacza możliwość wykonania czynności (read→readable, understand→understandable)" },
+      { "label": "-ful / -less", "text": "Przeciwstawna para: -ful oznacza 'pełen czegoś', -less 'bez czegoś' (hope→hopeful/hopeless, harm→harmful/harmless)" },
+      { "label": "-ous/-al/-ive", "text": "Tworzą przymiotniki od rzeczowników lub czasowników, zwykle z niewielką zmianą pisowni (danger→dangerous, nature→natural, create→creative)" }
+    ],
+    "usage": [
+      "-ible pojawia się głównie w słowach pochodzenia łacińskiego (visible, possible, responsible), -able jest bardziej produktywny",
+      "-ful i -less można dodać do wielu tych samych rdzeni, tworząc pary przeciwieństw (careful/careless, hopeful/hopeless)",
+      "Przy -ous/-al/-ive sprawdzaj pisownię - często trzeba usunąć końcowe -e lub zmienić literę (create→creative, inform→informative)"
+    ],
+    "tags": ["readable", "careful", "hopeless", "dangerous"],
+    "examples": [
+      { "en": "This book is very readable.", "pl": "Ta książka jest bardzo przystępna (łatwa do czytania)." },
+      { "en": "Be careful when crossing the street.", "pl": "Uważaj przy przechodzeniu przez ulicę." },
+      { "en": "The situation seemed completely hopeless.", "pl": "Sytuacja wydawała się zupełnie beznadziejna." },
+      { "en": "Swimming with sharks can be quite dangerous.", "pl": "Pływanie z rekinami może być dość niebezpieczne." }
+    ]
+  },
+  {
+    "id": "other_prefixes",
+    "order": 4,
+    "nameEn": "Other prefixes (re-, mis-, over-/under-, pre-/out-)",
+    "namePl": "Inne przedrostki (re-, mis-, over-/under-, pre-/out-)",
+    "rules": [
+      { "label": "re-", "text": "Oznacza powtórzenie czynności (write→rewrite, do→redo)" },
+      { "label": "mis-", "text": "Oznacza błędne lub złe wykonanie czynności (understand→misunderstand, spell→misspell)" },
+      { "label": "over- / under-", "text": "Przeciwstawne przedrostki oznaczające nadmiar lub niedobór (cook→overcook/undercook, estimate→overestimate/underestimate)" },
+      { "label": "pre- / out-", "text": "pre- oznacza 'przed' (view→preview, war→prewar), out- oznacza przewyższenie kogoś w czymś (grow→outgrow, smart→outsmart)" }
+    ],
+    "usage": [
+      "re- łączy się swobodnie z wieloma czasownikami i jest bardzo produktywne",
+      "mis- sugeruje błąd lub pomyłkę w wykonaniu czynności",
+      "over-/under- warto uczyć się w parach jako naturalne przeciwieństwa",
+      "pre- i out- są mniej produktywne, ale częste w typowych, utrwalonych słowach"
+    ],
+    "tags": ["rewrite", "misunderstand", "overcook", "outgrow"],
+    "examples": [
+      { "en": "Could you please rewrite this paragraph?", "pl": "Czy mógłbyś przepisać ten akapit?" },
+      { "en": "I think you misunderstood my question yesterday.", "pl": "Myślę, że źle zrozumiałeś wczoraj moje pytanie." },
+      { "en": "Don't overcook the pasta.", "pl": "Nie rozgotuj makaronu." },
+      { "en": "She has already outgrown her old shoes.", "pl": "Ona już wyrosła ze swoich starych butów." }
+    ]
+  }
+]

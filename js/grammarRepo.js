@@ -44,6 +44,7 @@ const THEORY_URLS = {
   ellipsis_substitution: new URL("../data/ellipsis_substitution.json", import.meta.url),
   emphasis: new URL("../data/emphasis.json", import.meta.url),
   subjunctive: new URL("../data/subjunctive.json", import.meta.url),
+  word_formation: new URL("../data/word_formation.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -83,6 +84,7 @@ const DRILLS_URLS = {
   ellipsis_substitution: new URL("../data/ellipsis_substitutionDrills.json", import.meta.url),
   emphasis: new URL("../data/emphasisDrills.json", import.meta.url),
   subjunctive: new URL("../data/subjunctiveDrills.json", import.meta.url),
+  word_formation: new URL("../data/word_formationDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
