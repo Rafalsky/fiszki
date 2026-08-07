@@ -1,0 +1,98 @@
+[
+  {
+    "id": "it_cleft",
+    "order": 1,
+    "nameEn": "It-cleft sentences",
+    "namePl": "Zdania rozszczepione z It (it-cleft)",
+    "rules": [
+      { "label": "Budowa", "text": "It + is/was + wyróżniony element + that (rzeczy, czas, miejsce) lub who (osoby) + reszta zdania" },
+      { "label": "Rola wyróżnionego elementu", "text": "Wyróżnionym elementem może być podmiot, dopełnienie lub okolicznik oryginalnego zdania" },
+      { "label": "Przeczenie", "text": "It wasn't ... until ... that — podkreśla, że coś stało się później niż oczekiwano" }
+    ],
+    "usage": [
+      "Podkreślenie, KTO wykonał czynność, zwłaszcza w kontraście z inną osobą (It was Tom who broke the vase, not his sister.)",
+      "Podkreślenie CO jest najważniejsze (It is money that matters most to him.)",
+      "Podkreślenie okolicznika czasu lub miejsca (It was yesterday that she called me.)",
+      "Sprostowanie błędnej informacji lub odpowiedź precyzująca na pytanie"
+    ],
+    "tags": ["It was Tom who", "It is money that", "It was yesterday that", "It wasn't until"],
+    "examples": [
+      { "en": "It was Tom who broke the vase.", "pl": "To Tom stłukł wazon." },
+      { "en": "It is money that matters most to him.", "pl": "To pieniądze liczą się dla niego najbardziej." },
+      { "en": "It was yesterday that she called me.", "pl": "To wczoraj do mnie zadzwoniła." },
+      { "en": "It wasn't until midnight that he arrived.", "pl": "Dopiero o północy przyjechał." }
+    ]
+  },
+  {
+    "id": "wh_cleft",
+    "order": 2,
+    "nameEn": "Wh-cleft sentences (what-clauses)",
+    "namePl": "Zdania rozszczepione z What (wh-cleft)",
+    "rules": [
+      { "label": "Budowa", "text": "What + podmiot + czasownik + is/was + wyróżniony element" },
+      { "label": "Funkcja What", "text": "What zastępuje 'the thing that' i wprowadza zdanie pełniące funkcję podmiotu całej konstrukcji" },
+      { "label": "Czasownik po is/was", "text": "Gdy wyróżniamy czynność, po is/was stawiamy bezokolicznik z to lub formę -ing (What you should do is apologise.)" }
+    ],
+    "usage": [
+      "Podkreślenie potrzeby lub braku (What I need is a holiday.)",
+      "Podkreślenie reakcji lub zaskoczenia (What surprised me was his reaction.)",
+      "Podkreślenie zalecanej czynności (What you should do is apologise.)",
+      "Podsumowanie głównej myśli wypowiedzi (What matters is that you tried.)"
+    ],
+    "tags": ["What I need is", "What surprised me was", "What you should do is", "What matters is"],
+    "examples": [
+      { "en": "What I need is a holiday.", "pl": "To, czego potrzebuję, to wakacje." },
+      { "en": "What surprised me was his reaction.", "pl": "To, co mnie zaskoczyło, to jego reakcja." },
+      { "en": "What you should do is apologise.", "pl": "To, co powinieneś zrobić, to przeprosić." },
+      { "en": "What matters is that you tried.", "pl": "Liczy się to, że próbowałeś." }
+    ]
+  },
+  {
+    "id": "all_cleft",
+    "order": 3,
+    "nameEn": "All-cleft sentences",
+    "namePl": "Zdania rozszczepione z All",
+    "rules": [
+      { "label": "Budowa", "text": "All + (that) + podmiot + czasownik + is/was + wyróżniony element" },
+      { "label": "Znaczenie", "text": "All podkreśla, że chodzi WYŁĄCZNIE o jedną rzecz lub czynność — nic więcej" },
+      { "label": "that opcjonalne", "text": "Spójnik that po All często się pomija w mowie potocznej (All you need is love. = All that you need is love.)" }
+    ],
+    "usage": [
+      "Minimalizowanie potrzeb lub wymagań (All you need is love.)",
+      "Upraszczanie trudnego zadania (All you have to do is press the button.)",
+      "Ograniczanie zakresu czynności, którą się wykonało (All I did was ask a question.)",
+      "Podkreślanie jedynego pragnienia (All I want is some peace and quiet.)"
+    ],
+    "tags": ["All you need is", "All I want is", "All you have to do is", "All I did was"],
+    "examples": [
+      { "en": "All you need is love.", "pl": "Wszystko, czego potrzebujesz, to miłość." },
+      { "en": "All you have to do is press the button.", "pl": "Wszystko, co musisz zrobić, to nacisnąć przycisk." },
+      { "en": "All I did was ask a question.", "pl": "Wszystko, co zrobiłem, to zadałem pytanie." },
+      { "en": "All I want is some peace and quiet.", "pl": "Wszystko, czego chcę, to trochę spokoju." }
+    ]
+  },
+  {
+    "id": "other_cleft",
+    "order": 4,
+    "nameEn": "Other cleft structures (reason/place/time clefts)",
+    "namePl": "Inne struktury rozszczepione (the reason why, the place where, the one who)",
+    "rules": [
+      { "label": "the reason why", "text": "The reason why + zdanie + is/was + wyróżniony powód" },
+      { "label": "the place/time", "text": "The place/time where/when + zdanie + is/was + wyróżniony element" },
+      { "label": "the thing/one that", "text": "The thing/one that + zdanie + is/was + wyróżniony element — ogólniejszy odpowiednik konstrukcji z What" }
+    ],
+    "usage": [
+      "Podkreślenie przyczyny czegoś (The reason why she left was the noise.)",
+      "Podkreślenie miejsca (The place where we met was a small café.)",
+      "Podkreślenie czasu (The time when I feel happiest is early morning.)",
+      "Ogólne podkreślenie osoby (The one who helped us most was our neighbour.)"
+    ],
+    "tags": ["The reason why", "The place where", "The time when", "The one who"],
+    "examples": [
+      { "en": "The reason why she left was the noise.", "pl": "Powodem, dla którego wyszła, był hałas." },
+      { "en": "The place where we met was a small café.", "pl": "Miejscem, w którym się poznaliśmy, była mała kawiarnia." },
+      { "en": "The time when I feel happiest is early morning.", "pl": "Czas, w którym czuję się najszczęśliwszy, to wczesny poranek." },
+      { "en": "The one who helped us most was our neighbour.", "pl": "Osobą, która pomogła nam najbardziej, była nasza sąsiadka." }
+    ]
+  }
+]
