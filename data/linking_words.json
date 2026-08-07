@@ -1,0 +1,100 @@
+[
+  {
+    "id": "because_vs_because_of",
+    "order": 1,
+    "nameEn": "because / since / as vs. because of / due to",
+    "namePl": "because / since / as a because of / due to — przyczyna: zdanie czy rzeczownik",
+    "rules": [
+      { "label": "because / since / as", "text": "+ całe zdanie (podmiot + orzeczenie) — wprowadzają przyczynę jako zdanie podrzędne" },
+      { "label": "because of / due to / owing to", "text": "+ rzeczownik lub gerund (czasownik+ing) — NIGDY bezpośrednio + całe zdanie z osobnym podmiotem i orzeczeniem" },
+      { "label": "since", "text": "uwaga: since może też znaczyć „odkąd” (czasowo) — właściwe znaczenie rozpoznajemy z kontekstu" }
+    ],
+    "usage": [
+      "because odpowiada na pytanie why? i wprowadza nową, kluczową przyczynę",
+      "since / as wprowadzają przyczynę uznawaną za już znaną lub oczywistą, często na początku zdania",
+      "because of / due to / owing to łączą się z rzeczownikiem (the rain) lub gerundem (being late), nie z całym zdaniem",
+      "due to najczęściej pojawia się po czasowniku be (The delay was due to snow.)"
+    ],
+    "tags": ["because", "since", "because of", "due to"],
+    "examples": [
+      { "en": "I stayed home because it was raining.", "pl": "Zostałem w domu, ponieważ padało." },
+      { "en": "Since you're already here, let's start the meeting.", "pl": "Skoro już tu jesteś, zacznijmy spotkanie." },
+      { "en": "The flight was delayed because of the storm.", "pl": "Lot był opóźniony z powodu burzy." },
+      { "en": "The match was cancelled due to heavy snow.", "pl": "Mecz odwołano z powodu obfitego śniegu." }
+    ]
+  },
+  {
+    "id": "although_vs_despite",
+    "order": 2,
+    "nameEn": "although / though / even though vs. despite / in spite of",
+    "namePl": "although / despite — kontrast: zdanie czy rzeczownik",
+    "rules": [
+      { "label": "although / though / even though", "text": "+ całe zdanie (podmiot + orzeczenie) — wprowadzają kontrastujące zdanie podrzędne" },
+      { "label": "despite / in spite of", "text": "+ rzeczownik lub gerund (czasownik+ing) — NIGDY bezpośrednio + całe zdanie" },
+      { "label": "despite / in spite of + the fact that", "text": "pozwala użyć pełnego zdania po despite/in spite of, dodając „the fact that”" },
+      { "label": "though", "text": "w mowie potocznej może stać na końcu zdania jako „jednak” (I like it though.)" }
+    ],
+    "usage": [
+      "although jest najbardziej neutralne i uniwersalne",
+      "even though podkreśla kontrast mocniej niż although",
+      "despite / in spite of + rzeczownik: despite the rain, in spite of his age",
+      "despite / in spite of + gerund: despite being tired, in spite of losing the match"
+    ],
+    "tags": ["although", "though", "despite", "in spite of"],
+    "examples": [
+      { "en": "Although it was raining, we went for a walk.", "pl": "Chociaż padało, poszliśmy na spacer." },
+      { "en": "She passed the exam even though she hadn't studied much.", "pl": "Zdała egzamin, mimo że niewiele się uczyła." },
+      { "en": "Despite the heavy traffic, we arrived on time.", "pl": "Mimo dużego ruchu dotarliśmy na czas." },
+      { "en": "In spite of being exhausted, he finished the race.", "pl": "Mimo że był wyczerpany, ukończył wyścig." }
+    ]
+  },
+  {
+    "id": "however_therefore_moreover",
+    "order": 3,
+    "nameEn": "however / therefore / moreover / nevertheless",
+    "namePl": "however / therefore / moreover / nevertheless — łączniki zdań",
+    "rules": [
+      { "label": "however", "text": "wprowadza kontrast lub zaskoczenie względem poprzedniego zdania — „jednak”" },
+      { "label": "therefore / as a result / consequently", "text": "wprowadzają wynik lub wniosek wynikający z poprzedniego zdania — „dlatego”" },
+      { "label": "moreover / furthermore", "text": "dodają kolejny argument w tym samym kierunku — „co więcej”" },
+      { "label": "nevertheless", "text": "wprowadza zdanie mimo poprzedniej informacji, zwykle negatywnej — „mimo to”" }
+    ],
+    "usage": [
+      "te wyrazy łączą DWA OSOBNE zdania (po kropce lub średniku), a nie spójniki wewnątrz jednego zdania",
+      "po however / therefore / moreover / nevertheless zwykle stawiamy przecinek",
+      "however = kontrast, therefore = wynik, moreover = dodanie, nevertheless = mimo to",
+      "można je też wstawić w środku zdania, otoczone przecinkami: The plan, however, failed."
+    ],
+    "tags": ["however", "therefore", "moreover", "nevertheless"],
+    "examples": [
+      { "en": "The exam was difficult. However, most students passed.", "pl": "Egzamin był trudny. Mimo to większość zdała." },
+      { "en": "It was raining heavily; therefore, we stayed inside.", "pl": "Padało bardzo mocno, dlatego zostaliśmy w domu." },
+      { "en": "The hotel was expensive. Moreover, the service was poor.", "pl": "Hotel był drogi. Co więcej, obsługa była słaba." },
+      { "en": "He was exhausted. Nevertheless, he kept working.", "pl": "Był wyczerpany. Mimo to dalej pracował." }
+    ]
+  },
+  {
+    "id": "so_vs_because",
+    "order": 4,
+    "nameEn": "so vs. because — result vs. reason",
+    "namePl": "so vs. because — skutek a przyczyna",
+    "rules": [
+      { "label": "because", "text": "wprowadza PRZYCZYNĘ — odpowiada na pytanie why?; zdanie z because może stać przed lub po zdaniu głównym" },
+      { "label": "so", "text": "wprowadza SKUTEK/WYNIK — zawsze po zdaniu opisującym przyczynę, poprzedzone przecinkiem" },
+      { "label": "kolejność", "text": "because: [skutek], because [przyczyna] LUB Because [przyczyna], [skutek]. so: tylko [przyczyna], so [skutek]" }
+    ],
+    "usage": [
+      "so nigdy nie stoi na początku zdania odpowiadającego na why? — zawsze łączy przyczynę ze skutkiem w tej kolejności",
+      "because można przestawić na początek zdania: Because it was raining, we stayed home.",
+      "so + skutek: It was raining, so we stayed home.",
+      "obu można użyć do opisania tej samej sytuacji, zamieniając kolejność przyczyny i skutku"
+    ],
+    "tags": ["because", "so", "reason", "result"],
+    "examples": [
+      { "en": "It was raining, so we stayed home.", "pl": "Padało, więc zostaliśmy w domu." },
+      { "en": "We stayed home because it was raining.", "pl": "Zostaliśmy w domu, ponieważ padało." },
+      { "en": "She was tired, so she went to bed early.", "pl": "Była zmęczona, więc poszła spać wcześnie." },
+      { "en": "He passed the exam because he studied hard.", "pl": "Zdał egzamin, ponieważ ciężko się uczył." }
+    ]
+  }
+]

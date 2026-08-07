@@ -180,5 +180,12 @@
     "title": "Determinatory",
     "desc": "this/that/these/those, all/every/each/both/either/neither — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "linking_words",
+    "icon": "🪢",
+    "title": "Spójniki i łączniki",
+    "desc": "Spójniki i łączniki zdań: although, despite, however, because, since — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
