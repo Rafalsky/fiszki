@@ -32,6 +32,7 @@ const THEORY_URLS = {
   causative: new URL("../data/causative.json", import.meta.url),
   adjective_order: new URL("../data/adjective_order.json", import.meta.url),
   adverbs: new URL("../data/adverbs.json", import.meta.url),
+  future_forms: new URL("../data/future_forms.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -59,6 +60,7 @@ const DRILLS_URLS = {
   causative: new URL("../data/causativeDrills.json", import.meta.url),
   adjective_order: new URL("../data/adjective_orderDrills.json", import.meta.url),
   adverbs: new URL("../data/adverbsDrills.json", import.meta.url),
+  future_forms: new URL("../data/future_formsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

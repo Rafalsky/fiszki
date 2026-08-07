@@ -166,5 +166,12 @@
     "title": "Przysłówki",
     "desc": "Tworzenie przysłówków i ich pozycja w zdaniu — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "future_forms",
+    "icon": "🚀",
+    "title": "Formy przyszłości",
+    "desc": "will vs going to vs present continuous — kiedy której formy użyć, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "will",
+    "order": 1,
+    "nameEn": "will — decisions, predictions, promises",
+    "namePl": "will — decyzje, przewidywania, obietnice",
+    "rules": [
+      { "label": "Budowa", "text": "will + bezokolicznik bez to (I will help, She won't come)" },
+      { "label": "Skróty", "text": "'ll w twierdzeniach (I'll call you), won't w przeczeniach (He won't be late)" }
+    ],
+    "usage": [
+      "Spontaniczna decyzja podjęta w momencie mówienia (I'll answer the phone.)",
+      "Przewidywanie bez konkretnego dowodu, oparte na opinii (I think it will rain tomorrow.)",
+      "Obietnice, groźby i oferty (I'll help you with that.)",
+      "Fakty i pewne zdarzenia w przyszłości (The sun will rise at 6am.)"
+    ],
+    "tags": ["I'll help", "won't come", "will rain", "will rise"],
+    "examples": [
+      { "en": "I'll answer the phone.", "pl": "Odbiorę telefon." },
+      { "en": "I think it will rain tomorrow.", "pl": "Myślę, że jutro będzie padać." },
+      { "en": "Don't worry, I'll help you with that.", "pl": "Nie martw się, pomogę ci z tym." },
+      { "en": "The sun will rise at 6am.", "pl": "Słońce wzejdzie o 6." }
+    ]
+  },
+  {
+    "id": "going_to",
+    "order": 2,
+    "nameEn": "going to — plans and evidence",
+    "namePl": "going to — plany i przewidywania z dowodem",
+    "rules": [
+      { "label": "Budowa", "text": "am/is/are + going to + bezokolicznik (I'm going to travel, She isn't going to stay)" },
+      { "label": "Odmiana", "text": "going to odmienia się przez osoby razem z czasownikiem be (I am, you are, he is)" }
+    ],
+    "usage": [
+      "Wcześniej podjęty plan lub zamiar (We're going to visit Rome next year.)",
+      "Przewidywanie oparte na obecnym dowodzie (Look at those clouds — it's going to rain.)",
+      "Coś, co już zostało zdecydowane przed momentem mówienia",
+      "W mowie potocznej często skracane do gonna (I'm gonna call her.)"
+    ],
+    "tags": ["going to travel", "isn't going to", "it's going to rain", "gonna call"],
+    "examples": [
+      { "en": "We're going to visit Rome next year.", "pl": "Wybieramy się do Rzymu w przyszłym roku." },
+      { "en": "Look at those clouds — it's going to rain.", "pl": "Spójrz na te chmury — będzie padać." },
+      { "en": "She isn't going to change her mind.", "pl": "Ona nie zmieni zdania." },
+      { "en": "He's going to gonna call her tonight.", "pl": "On zadzwoni do niej dziś wieczorem." }
+    ]
+  },
+  {
+    "id": "present_continuous_future",
+    "order": 3,
+    "nameEn": "present continuous for future arrangements",
+    "namePl": "czas present continuous dla przyszłych ustaleń",
+    "rules": [
+      { "label": "Budowa", "text": "am/is/are + czasownik z -ing (I'm meeting, They aren't leaving)" },
+      { "label": "Kontekst", "text": "prawie zawsze towarzyszy określenie czasu (tomorrow, next week, at 5pm)" }
+    ],
+    "usage": [
+      "Konkretne, ustalone plany z inną osobą lub miejscem (I'm meeting Anna at 5pm.)",
+      "Umówione spotkania i wydarzenia zaplanowane w kalendarzu (We're flying to Paris on Friday.)",
+      "Różnica od going to: present continuous podkreśla, że coś jest już zorganizowane, a nie tylko zamierzone",
+      "Rzadko używane z czasownikami statycznymi (know, like, want)"
+    ],
+    "tags": ["I'm meeting", "we're flying", "aren't leaving", "at 5pm"],
+    "examples": [
+      { "en": "I'm meeting Anna at 5pm tomorrow.", "pl": "Spotykam się jutro z Anną o 17." },
+      { "en": "We're flying to Paris on Friday.", "pl": "Lecimy do Paryża w piątek." },
+      { "en": "They aren't leaving until next week.", "pl": "Oni nie wyjeżdżają aż do przyszłego tygodnia." },
+      { "en": "Is she coming to the party tonight?", "pl": "Czy ona przyjdzie dziś wieczorem na imprezę?" }
+    ]
+  },
+  {
+    "id": "future_forms_comparison",
+    "order": 4,
+    "nameEn": "choosing the right future form",
+    "namePl": "wybór właściwej formy przyszłości",
+    "rules": [
+      { "label": "will", "text": "spontaniczna decyzja, przewidywanie bez dowodu, obietnica, fakt" },
+      { "label": "going to", "text": "wcześniejszy plan/zamiar, przewidywanie na podstawie dowodu w teraźniejszości" },
+      { "label": "present continuous", "text": "konkretne, ustalone spotkanie lub wydarzenie z określonym czasem i miejscem" }
+    ],
+    "usage": [
+      "Spontaniczna reakcja w momencie mówienia → will (I'll get it!)",
+      "Plan zdecydowany wcześniej, bez konkretnych ustaleń → going to (I'm going to start a diet.)",
+      "Plan już potwierdzony, z konkretnym terminem → present continuous (I'm starting my new job on Monday.)",
+      "Przewidywanie z widocznym dowodem teraz → going to, bez dowodu → will"
+    ],
+    "tags": ["I'll get it", "going to start", "starting on Monday", "it's going to fall"],
+    "examples": [
+      { "en": "The phone is ringing — I'll get it!", "pl": "Telefon dzwoni — odbiorę!" },
+      { "en": "I'm going to start a diet next month.", "pl": "Zacznę dietę w przyszłym miesiącu." },
+      { "en": "I'm starting my new job on Monday.", "pl": "Zaczynam nową pracę w poniedziałek." },
+      { "en": "Careful, that vase is going to fall!", "pl": "Uważaj, ten wazon zaraz spadnie!" }
+    ]
+  }
+]
