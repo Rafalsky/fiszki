@@ -138,5 +138,12 @@
     "title": "Used to / would",
     "desc": "used to i would dla wyrażania dawnych przyzwyczajeń — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "wish_ifonly",
+    "icon": "🕯️",
+    "title": "Wish / if only",
+    "desc": "wish i if only do wyrażania życzeń i żalu — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
