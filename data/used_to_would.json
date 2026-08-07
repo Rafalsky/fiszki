@@ -1,0 +1,89 @@
+[
+  {
+    "id": "used_to_affirmative",
+    "order": 1,
+    "nameEn": "used to — past habits and states",
+    "namePl": "used to — dawne przyzwyczajenia i stany",
+    "rules": [
+      { "label": "Budowa", "text": "used to + bezokolicznik bez to (I used to play football.)" },
+      { "label": "Znaczenie", "text": "Powtarzające się w przeszłości czynności, które już nie mają miejsca, oraz dawne stany, cechy i sytuacje" }
+    ],
+    "usage": [
+      "Dawne, powtarzające się czynności, które ustały (I used to smoke.)",
+      "Dawne stany, cechy, sytuacje (She used to be shy. / There used to be a shop here.)",
+      "Kontrast między przeszłością a teraźniejszością"
+    ],
+    "tags": ["used to live", "used to smoke", "there used to be", "used to be shy"],
+    "examples": [
+      { "en": "I used to play football every weekend.", "pl": "Kiedyś grałem w piłkę nożną w każdy weekend." },
+      { "en": "She used to live in Berlin.", "pl": "Ona kiedyś mieszkała w Berlinie." },
+      { "en": "There used to be a cinema on this street.", "pl": "Na tej ulicy kiedyś było kino." },
+      { "en": "He used to be much thinner.", "pl": "On kiedyś był dużo szczuplejszy." }
+    ]
+  },
+  {
+    "id": "used_to_negative_questions",
+    "order": 2,
+    "nameEn": "used to — negatives and questions",
+    "namePl": "used to — przeczenia i pytania",
+    "rules": [
+      { "label": "Przeczenie", "text": "didn't use to + bezokolicznik (po didn't jest 'use to', bez -d)" },
+      { "label": "Pytanie", "text": "Did + podmiot + use to + bezokolicznik...?" }
+    ],
+    "usage": [
+      "Standardowe przeczenie i pytania tworzy się z did/didn't + use to",
+      "Formalna wersja used not to / usedn't to jest rzadka, bardziej brytyjska"
+    ],
+    "tags": ["didn't use to", "did you use to", "never used to"],
+    "examples": [
+      { "en": "I didn't use to like coffee.", "pl": "Kiedyś nie lubiłem kawy." },
+      { "en": "Did you use to play an instrument?", "pl": "Czy kiedyś grałeś na jakimś instrumencie?" },
+      { "en": "She never used to eat vegetables.", "pl": "Ona nigdy wcześniej nie jadała warzyw." },
+      { "en": "Didn't you use to work here?", "pl": "Czy nie pracowałeś tu kiedyś?" }
+    ]
+  },
+  {
+    "id": "would_habits",
+    "order": 3,
+    "nameEn": "would — repeated past actions",
+    "namePl": "would — powtarzające się czynności w przeszłości",
+    "rules": [
+      { "label": "Budowa", "text": "would + bezokolicznik bez to (He would visit us every summer.)" },
+      { "label": "Ograniczenie", "text": "would NIE łączy się ze stanami/czasownikami statywnymi (be, like, know, own) — tylko z czynnościami" }
+    ],
+    "usage": [
+      "Powtarzające się czynności w przeszłości, często z nutą wspomnień",
+      "Częste w narracjach o dzieciństwie (When I was a child, we would spend summers at the lake.)"
+    ],
+    "tags": ["would visit", "would often", "when I was young"],
+    "examples": [
+      { "en": "Every summer, we would go camping in the mountains.", "pl": "Każdego lata jeździliśmy na kemping w góry." },
+      { "en": "My grandfather would tell us stories before bed.", "pl": "Mój dziadek opowiadał nam historie przed snem." },
+      { "en": "As a child, she would read for hours.", "pl": "Jako dziecko czytała godzinami." },
+      { "en": "He would always arrive late to class.", "pl": "On zawsze przychodził spóźniony na zajęcia." }
+    ]
+  },
+  {
+    "id": "used_to_vs_would_vs_past_simple",
+    "order": 4,
+    "nameEn": "used to vs would vs Past Simple",
+    "namePl": "used to vs would vs Past Simple — różnice",
+    "rules": [
+      { "label": "used to", "text": "Czynności i stany w przeszłości, które się zmieniły — jedyna forma dopuszczalna ze stanami (used to be, used to have)" },
+      { "label": "would", "text": "Tylko powtarzające się czynności (nie stany), typowe dla wspomnień, wymaga wcześniej ustalonych ram czasowych" },
+      { "label": "Past Simple", "text": "Uniwersalna forma przeszła — pasuje zarówno do pojedynczych, jak i powtarzalnych czynności oraz stanów, bez podtekstu 'to się skończyło'" }
+    ],
+    "usage": [
+      "Gdy mówimy o stanie (być, mieć, lubić, wiedzieć) → tylko used to lub Past Simple, NIE would",
+      "Gdy chcemy podkreślić kontrast z teraźniejszością → used to",
+      "W dłuższej narracji o powtarzalnych czynnościach, po ustaleniu ram czasowych → would"
+    ],
+    "tags": ["used to have", "would play", "past simple general"],
+    "examples": [
+      { "en": "I used to have long hair.", "pl": "Kiedyś miałem długie włosy." },
+      { "en": "When I was a kid, I used to live in Kraków, and we would often visit the park.", "pl": "Gdy byłem dzieckiem, mieszkałem w Krakowie i często odwiedzaliśmy park." },
+      { "en": "I visited Paris last year.", "pl": "Odwiedziłem Paryż w zeszłym roku." },
+      { "en": "She used to be afraid of dogs.", "pl": "Ona kiedyś bała się psów." }
+    ]
+  }
+]

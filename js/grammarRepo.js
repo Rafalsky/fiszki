@@ -27,6 +27,7 @@ const THEORY_URLS = {
   relative_clauses: new URL("../data/relative_clauses.json", import.meta.url),
   phrasal_verbs: new URL("../data/phrasal_verbs.json", import.meta.url),
   so_such_too_enough: new URL("../data/so_such_too_enough.json", import.meta.url),
+  used_to_would: new URL("../data/used_to_would.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -49,6 +50,7 @@ const DRILLS_URLS = {
   relative_clauses: new URL("../data/relative_clausesDrills.json", import.meta.url),
   phrasal_verbs: new URL("../data/phrasal_verbsDrills.json", import.meta.url),
   so_such_too_enough: new URL("../data/so_such_too_enoughDrills.json", import.meta.url),
+  used_to_would: new URL("../data/used_to_wouldDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
