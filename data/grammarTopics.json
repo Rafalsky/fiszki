@@ -215,5 +215,12 @@
     "title": "Wzorce czasownikowe",
     "desc": "Czasownik + przyimek + gerund oraz utrwalone zwroty jak look forward to i be used to — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "inversion",
+    "icon": "🔃",
+    "title": "Inwersja",
+    "desc": "Inwersja szyku zdania dla emfazy (Never have I…, Should you…, Only after did…) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
