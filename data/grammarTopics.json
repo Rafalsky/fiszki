@@ -236,5 +236,12 @@
     "title": "Elipsa i substytucja",
     "desc": "So do I, neither do I, I think so — unikanie powtórzeń przez elipsę i substytucję, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "emphasis",
+    "icon": "❗",
+    "title": "Struktury emfatyczne",
+    "desc": "Struktury emfatyczne: emfatyczne do/does/did, zaimki zwrotne, wzmacniacze so/such/really/absolutely i wyrażenia typu at all/on earth — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
