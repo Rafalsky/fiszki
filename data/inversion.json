@@ -1,0 +1,96 @@
+[
+  {
+    "id": "negative_adverbials",
+    "order": 1,
+    "nameEn": "Inversion after negative adverbials",
+    "namePl": "Inwersja po przysłówkach negatywnych i ograniczających",
+    "rules": [
+      { "label": "Budowa", "text": "Gdy zdanie zaczyna się od przysłówka negatywnego lub ograniczającego (Never, Rarely, Seldom, Little, Not only, Hardly, No sooner), stosujemy inwersję: operator (posiłkowy/modalny) + podmiot + czasownik główny" },
+      { "label": "Brak operatora", "text": "Jeśli zdanie w formie twierdzącej nie ma czasownika posiłkowego, wstawiamy do/does/did" },
+      { "label": "Rejestr", "text": "Konstrukcja typowa dla stylu formalnego i literackiego, rzadko używana w mowie potocznej" }
+    ],
+    "usage": [
+      "Never / Rarely / Seldom + inwersja — podkreślenie, że coś nigdy się nie zdarza lub zdarza się bardzo rzadko",
+      "Not only... but also + inwersja w pierwszej części zdania",
+      "Hardly... when / No sooner... than — dwie czynności następujące szybko po sobie",
+      "Little did + podmiot + czasownik — ktoś nie wiedział lub nie spodziewał się czegoś"
+    ],
+    "tags": ["Never have I", "Rarely does", "Not only did", "No sooner had"],
+    "examples": [
+      { "en": "Never have I seen such a beautiful sunset.", "pl": "Nigdy nie widziałem tak pięknego zachodu słońca." },
+      { "en": "Rarely does she arrive late for work.", "pl": "Rzadko się zdarza, że ona spóźnia się do pracy." },
+      { "en": "Not only did he forget my birthday, but he also lost my gift.", "pl": "Nie tylko zapomniał o moich urodzinach, ale też zgubił mój prezent." },
+      { "en": "No sooner had we left than it started to rain.", "pl": "Ledwo wyszliśmy, gdy zaczęło padać." }
+    ]
+  },
+  {
+    "id": "conditional_inversion",
+    "order": 2,
+    "nameEn": "Inversion in formal conditionals (without if)",
+    "namePl": "Inwersja w formalnych zdaniach warunkowych (bez if)",
+    "rules": [
+      { "label": "Should", "text": "Should + podmiot + bezokolicznik zamiast If + podmiot + should (warunek mało prawdopodobny, pierwszego typu)" },
+      { "label": "Were", "text": "Were + podmiot (+ to + bezokolicznik) zamiast If + podmiot + were (warunek drugiego typu)" },
+      { "label": "Had", "text": "Had + podmiot + III forma zamiast If + podmiot + had + III forma (warunek trzeciego typu)" }
+    ],
+    "usage": [
+      "Styl formalny, pisemny — umowy, listy formalne, instrukcje, literatura",
+      "Should you need any help, please contact us. = If you should need...",
+      "Were I in your position, I would accept the offer. = If I were...",
+      "Had I known about the meeting, I would have attended. = If I had known..."
+    ],
+    "tags": ["Should you need", "Were I you", "Had I known"],
+    "examples": [
+      { "en": "Should you have any questions, feel free to ask.", "pl": "Gdyby miał Pan/Pani jakieś pytania, proszę śmiało pytać." },
+      { "en": "Were I you, I wouldn't sign that contract.", "pl": "Na twoim miejscu nie podpisałbym tej umowy." },
+      { "en": "Had I known you were coming, I would have baked a cake.", "pl": "Gdybym wiedział, że przyjedziesz, upiekłbym ciasto." },
+      { "en": "Should the fire alarm sound, please leave the building immediately.", "pl": "Gdyby zabrzmiał alarm pożarowy, proszę natychmiast opuścić budynek." }
+    ]
+  },
+  {
+    "id": "only_inversion",
+    "order": 3,
+    "nameEn": "Inversion after 'only' expressions",
+    "namePl": "Inwersja po wyrażeniach z only",
+    "rules": [
+      { "label": "Budowa", "text": "Only after / Only when / Only by / Only then / Only in this way + inwersja występuje w zdaniu głównym, które następuje po wyrażeniu z only" },
+      { "label": "Uwaga", "text": "Inwersja pojawia się w zdaniu głównym, nie w zdaniu podrzędnym zaczynającym się od only after/when" }
+    ],
+    "usage": [
+      "Only after finishing the project did she take a break. — dopiero po...",
+      "Only when the results came back did we understand the problem. — dopiero gdy...",
+      "Only by working together can we solve this. — tylko poprzez...",
+      "Only then did I realise my mistake. — dopiero wtedy..."
+    ],
+    "tags": ["Only after did", "Only when did", "Only by can", "Only then did"],
+    "examples": [
+      { "en": "Only after the meeting did I understand the real problem.", "pl": "Dopiero po spotkaniu zrozumiałem prawdziwy problem." },
+      { "en": "Only when she called did I remember the appointment.", "pl": "Dopiero gdy zadzwoniła, przypomniałem sobie o spotkaniu." },
+      { "en": "Only by practising every day can you improve your English.", "pl": "Tylko ćwicząc codziennie, możesz poprawić swój angielski." },
+      { "en": "Only then did he realise how serious the situation was.", "pl": "Dopiero wtedy zdał sobie sprawę, jak poważna była sytuacja." }
+    ]
+  },
+  {
+    "id": "place_adverbials",
+    "order": 4,
+    "nameEn": "Inversion after place/direction adverbials",
+    "namePl": "Inwersja po przysłówkach miejsca i kierunku",
+    "rules": [
+      { "label": "Budowa", "text": "Przysłówek miejsca lub kierunku (Here, There, Down, Up, In, Away, Overhead) + czasownik + podmiot rzeczownikowy — typowe w narracji i opisie" },
+      { "label": "Zaimki", "text": "Gdy podmiotem jest zaimek (he, she, it, they), inwersji zwykle NIE stosujemy: Here he comes. (nie: Here comes he.)" }
+    ],
+    "usage": [
+      "Here comes the bus! — opisujemy coś, co się właśnie pojawia",
+      "There goes my last chance. — coś znika lub przepada",
+      "Down came the rain. — opis dynamicznego wydarzenia w narracji",
+      "Away ran the thief. — styl literacki, opowiadanie historii"
+    ],
+    "tags": ["Here comes", "There goes", "Down came", "Away ran"],
+    "examples": [
+      { "en": "Here comes the bus — hurry up!", "pl": "Tu jedzie autobus — pospiesz się!" },
+      { "en": "There goes my chance of winning.", "pl": "Tak przepada moja szansa na wygraną." },
+      { "en": "Down came the rain, soaking everyone in the park.", "pl": "Lunął deszcz, przemaczając wszystkich w parku." },
+      { "en": "Away ran the thief, disappearing into the crowd.", "pl": "Złodziej uciekł, znikając w tłumie." }
+    ]
+  }
+]
