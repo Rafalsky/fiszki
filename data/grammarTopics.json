@@ -229,5 +229,12 @@
     "title": "Zdania rozszczepione",
     "desc": "Zdania rozszczepione (It is... that / What I need is... / All you need is...) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "ellipsis_substitution",
+    "icon": "✂️",
+    "title": "Elipsa i substytucja",
+    "desc": "So do I, neither do I, I think so — unikanie powtórzeń przez elipsę i substytucję, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

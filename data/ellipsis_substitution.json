@@ -1,0 +1,94 @@
+[
+  {
+    "id": "so_neither_nor",
+    "order": 1,
+    "nameEn": "so / neither / nor + auxiliary (agreement)",
+    "namePl": "So / neither / nor + operator (zgoda z rozmówcą)",
+    "rules": [
+      { "label": "So + operator + podmiot", "text": "Używamy do wyrażenia zgody z twierdzeniem pozytywnym: So do I. / So am I. / So have I." },
+      { "label": "Neither/Nor + operator + podmiot", "text": "Używamy do wyrażenia zgody z twierdzeniem negatywnym: Neither do I. / Nor can I." },
+      { "label": "Szyk zdania", "text": "Po so/neither/nor następuje inwersja: operator przed podmiotem (So do I, NIE So I do)." }
+    ],
+    "usage": [
+      "Gdy zgadzamy się z czyimś twierdzeniem pozytywnym (I like coffee. — So do I.)",
+      "Gdy zgadzamy się z czyimś twierdzeniem negatywnym (I don't like coffee. — Neither do I. / Nor do I.)",
+      "Operator musi odpowiadać czasownikowi w zdaniu wyjściowym (be, have, modal lub do/does/did)"
+    ],
+    "tags": ["So do I", "Neither am I", "Nor can I", "So have I"],
+    "examples": [
+      { "en": "I love pizza. — So do I.", "pl": "Uwielbiam pizzę. — Ja też." },
+      { "en": "She can't swim. — Neither can I.", "pl": "Ona nie umie pływać. — Ja też nie." },
+      { "en": "He has already left. — So has she.", "pl": "On już wyszedł. — Ona też." },
+      { "en": "I didn't go to the party. — Nor did I.", "pl": "Nie poszedłem na imprezę. — Ja też nie." }
+    ]
+  },
+  {
+    "id": "think_so_hope_not",
+    "order": 2,
+    "nameEn": "so / not after think, hope, believe, say",
+    "namePl": "so / not po czasownikach think, hope, believe, say",
+    "rules": [
+      { "label": "so", "text": "Zastępuje całe zdanie twierdzące po czasownikach opinii: I think so. (= I think it will rain.)" },
+      { "label": "not", "text": "Niektóre czasowniki (hope, guess, be afraid, expect) tworzą przeczenie przez 'not' zamiast 'so + not': I hope not." },
+      { "label": "don't think so", "text": "Czasownik think zwykle przeczy się, przenosząc przeczenie do głównego czasownika: I don't think so." }
+    ],
+    "usage": [
+      "Krótka odpowiedź powtarzająca opinię bez powtarzania całego zdania (Will it rain? — I think so.)",
+      "Z czasownikami: think, hope, believe, suppose, expect, guess, be afraid, say",
+      "Wybór 'not' vs 'don't ... so' zależy od czasownika — hope/be afraid/guess/expect używają 'not', pozostałe zwykle 'don't...so'"
+    ],
+    "tags": ["I think so", "I hope not", "I'm afraid so", "I don't believe so"],
+    "examples": [
+      { "en": "Is she coming? — I think so.", "pl": "Czy ona przyjdzie? — Myślę, że tak." },
+      { "en": "Will we be late? — I hope not.", "pl": "Czy się spóźnimy? — Mam nadzieję, że nie." },
+      { "en": "Is the shop still open? — I'm afraid not.", "pl": "Czy sklep jest jeszcze otwarty? — Obawiam się, że nie." },
+      { "en": "Did they win? — I don't think so.", "pl": "Czy oni wygrali? — Nie sądzę." }
+    ]
+  },
+  {
+    "id": "verb_phrase_ellipsis",
+    "order": 3,
+    "nameEn": "Ellipsis of the verb phrase (auxiliary/modal + too/either)",
+    "namePl": "Elipsa frazy czasownikowej (operator + too/either)",
+    "rules": [
+      { "label": "too", "text": "W zdaniach twierdzących powtarzamy tylko operator (be/have/modal/do) i dodajemy 'too': She can swim, and he can, too." },
+      { "label": "either", "text": "W zdaniach przeczących powtarzamy operator z 'not' i dodajemy 'either': She can't swim, and he can't, either." },
+      { "label": "Krótkie odpowiedzi", "text": "Ten sam mechanizm elipsy pojawia się w krótkich odpowiedziach: Yes, I do. / No, I don't. — bez powtarzania czasownika głównego." }
+    ],
+    "usage": [
+      "Unikanie powtórzenia tego samego czasownika/frazy w drugiej części zdania złożonego",
+      "Krótkie odpowiedzi na pytania Yes/No (Do you like tea? — Yes, I do.)",
+      "Rozmowy potoczne, żeby nie brzmieć sztucznie przez powtarzanie całych zdań"
+    ],
+    "tags": ["can, too", "can't, either", "Yes, I do.", "No, I haven't."],
+    "examples": [
+      { "en": "I like jazz, and my brother does, too.", "pl": "Lubię jazz i mój brat też." },
+      { "en": "I haven't finished, and she hasn't, either.", "pl": "Nie skończyłem i ona też nie." },
+      { "en": "Have you seen this film? — Yes, I have.", "pl": "Widziałeś ten film? — Tak, widziałem." },
+      { "en": "Can he drive? — No, he can't.", "pl": "Czy on umie prowadzić? — Nie, nie umie." }
+    ]
+  },
+  {
+    "id": "one_ones_substitution",
+    "order": 4,
+    "nameEn": "one / ones as noun substitution",
+    "namePl": "one / ones jako zastępniki rzeczownika",
+    "rules": [
+      { "label": "one", "text": "Zastępuje rzeczownik policzalny w liczbie pojedynczej, żeby uniknąć powtórzenia: I need a pen. Can I borrow yours?" },
+      { "label": "ones", "text": "Zastępuje rzeczownik policzalny w liczbie mnogiej: These shoes are old — I need new ones." },
+      { "label": "z przymiotnikiem", "text": "One/ones często występuje po przymiotniku, gdy chcemy uniknąć powtórzenia rzeczownika: the red one, the small ones." }
+    ],
+    "usage": [
+      "Gdy rzeczownik był już wcześniej wspomniany i nie chcemy go powtarzać",
+      "Po przymiotnikach wskazujących wybór (this one, the blue ones, which one)",
+      "Rzeczowniki niepoliczalne NIE przyjmują one/ones — pomijamy je całkowicie (I need some water, nie: some water one)"
+    ],
+    "tags": ["this one", "the blue ones", "which one?", "a new one"],
+    "examples": [
+      { "en": "I don't like this bag. I prefer the black one.", "pl": "Nie podoba mi się ta torba. Wolę tę czarną." },
+      { "en": "These cookies are stale — let's buy fresh ones.", "pl": "Te ciastka są nieświeże — kupmy świeże." },
+      { "en": "Which one is yours?", "pl": "Która jest twoja?" },
+      { "en": "I lost my old phone, so I bought a new one.", "pl": "Zgubiłem stary telefon, więc kupiłem nowy." }
+    ]
+  }
+]
