@@ -37,6 +37,7 @@ const THEORY_URLS = {
   linking_words: new URL("../data/linking_words.json", import.meta.url),
   direct_indirect_objects: new URL("../data/direct_indirect_objects.json", import.meta.url),
   participle_clauses: new URL("../data/participle_clauses.json", import.meta.url),
+  modals_perfect: new URL("../data/modals_perfect.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -69,6 +70,7 @@ const DRILLS_URLS = {
   linking_words: new URL("../data/linking_wordsDrills.json", import.meta.url),
   direct_indirect_objects: new URL("../data/direct_indirect_objectsDrills.json", import.meta.url),
   participle_clauses: new URL("../data/participle_clausesDrills.json", import.meta.url),
+  modals_perfect: new URL("../data/modals_perfectDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "must_have",
+    "order": 1,
+    "nameEn": "must have + past participle — certainty about the past",
+    "namePl": "must have done — pewność co do przeszłości",
+    "rules": [
+      { "label": "must have + III forma", "text": "Wyraża silne przekonanie, że coś na pewno się wydarzyło, na podstawie dostępnych dowodów" },
+      { "label": "Budowa", "text": "podmiot + must have + imiesłów czasu przeszłego (past participle)" }
+    ],
+    "usage": [
+      "Gdy na podstawie faktów lub poszlak wnioskujemy, że coś się na pewno zdarzyło",
+      "W przeczeniu tego typu wniosku NIE używamy 'mustn't have' — używamy 'can't have' (zobacz kolejny temat)"
+    ],
+    "tags": ["must have left", "must have forgotten", "must have known"],
+    "examples": [
+      { "en": "The lights are off — they must have gone out.", "pl": "Światła są zgaszone — musieli wyjść." },
+      { "en": "She must have forgotten about the meeting.", "pl": "Ona musiała zapomnieć o spotkaniu." },
+      { "en": "He must have finished the report already.", "pl": "On musiał już skończyć raport." },
+      { "en": "You must have been very tired after the trip.", "pl": "Musiałeś być bardzo zmęczony po podróży." }
+    ]
+  },
+  {
+    "id": "cant_have",
+    "order": 2,
+    "nameEn": "can't/couldn't have + past participle — impossibility about the past",
+    "namePl": "can't have done — niemożliwość w przeszłości",
+    "rules": [
+      { "label": "can't have / couldn't have", "text": "Wyraża przekonanie, że coś na pewno się NIE wydarzyło — logiczny wniosek o niemożliwości" },
+      { "label": "Budowa", "text": "podmiot + can't/couldn't have + past participle" }
+    ],
+    "usage": [
+      "Gdy uważamy, że coś jest niemożliwe na podstawie dostępnych informacji",
+      "To przeczenie odpowiadające twierdzącemu 'must have' — nie mówimy 'mustn't have' w tym znaczeniu"
+    ],
+    "tags": ["can't have seen", "couldn't have known", "can't have left"],
+    "examples": [
+      { "en": "She can't have seen us — the room was empty.", "pl": "Ona nie mogła nas widzieć — pokój był pusty." },
+      { "en": "He couldn't have finished already, it's too soon.", "pl": "On nie mógł już skończyć, to zbyt szybko." },
+      { "en": "They can't have left without saying goodbye.", "pl": "Oni nie mogli wyjść bez pożegnania." },
+      { "en": "You can't have forgotten my birthday!", "pl": "Nie mogłeś zapomnieć o moich urodzinach!" }
+    ]
+  },
+  {
+    "id": "could_may_might_have",
+    "order": 3,
+    "nameEn": "could/may/might have + past participle — possibility about the past",
+    "namePl": "could/may/might have done — możliwość w przeszłości",
+    "rules": [
+      { "label": "could/may/might have", "text": "Wyrażają przypuszczenie, że coś mogło się wydarzyć — nie mamy pewności" },
+      { "label": "Różnica", "text": "could have często sugeruje też niewykorzystaną możliwość (mogłeś to zrobić, ale nie zrobiłeś)" }
+    ],
+    "usage": [
+      "Gdy spekulujemy o możliwym przebiegu wydarzeń w przeszłości, bez pewności",
+      "could have + wyrzut o niewykorzystanej szansie (You could have called me!)"
+    ],
+    "tags": ["might have missed", "could have called", "may have forgotten"],
+    "examples": [
+      { "en": "She might have missed the bus.", "pl": "Może spóźniła się na autobus." },
+      { "en": "He may have already left the office.", "pl": "On mógł już wyjść z biura." },
+      { "en": "You could have told me earlier!", "pl": "Mogłeś powiedzieć mi wcześniej!" },
+      { "en": "They could have taken a taxi instead of walking.", "pl": "Mogli wziąć taksówkę zamiast iść pieszo." }
+    ]
+  },
+  {
+    "id": "should_have",
+    "order": 4,
+    "nameEn": "should have / shouldn't have + past participle — criticism and regret",
+    "namePl": "should have done — krytyka i żal",
+    "rules": [
+      { "label": "should have", "text": "Wyraża żal lub krytykę — coś, co było dobrym pomysłem, ale się nie wydarzyło" },
+      { "label": "shouldn't have", "text": "Wyraża krytykę czegoś, co się wydarzyło, a nie powinno" }
+    ],
+    "usage": [
+      "Gdy krytykujemy przeszłe decyzje — własne lub cudze",
+      "Gdy wyrażamy żal z powodu czegoś niezrobionego lub zrobionego niewłaściwie"
+    ],
+    "tags": ["should have studied", "shouldn't have said", "should have listened"],
+    "examples": [
+      { "en": "You should have studied harder for the exam.", "pl": "Powinieneś był uczyć się pilniej do egzaminu." },
+      { "en": "I shouldn't have said that to her.", "pl": "Nie powinienem był tego jej mówić." },
+      { "en": "We should have left earlier to avoid traffic.", "pl": "Powinniśmy byli wyjechać wcześniej, żeby uniknąć korków." },
+      { "en": "He shouldn't have spent all his money.", "pl": "On nie powinien był wydać wszystkich pieniędzy." }
+    ]
+  }
+]

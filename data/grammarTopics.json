@@ -201,5 +201,12 @@
     "title": "Imiesłowy",
     "desc": "Imiesłowy czasownikowe (Having done…, Being…, Written…) do skracania zdań — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "modals_perfect",
+    "icon": "🔮",
+    "title": "Przypuszczenia o przeszłości",
+    "desc": "Czasowniki modalne + bezokolicznik dokonany (must/can't/could/may/might/should have done) — przypuszczenia, pewność, krytyka i żal dotyczące przeszłości, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
