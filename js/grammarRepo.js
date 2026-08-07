@@ -42,6 +42,7 @@ const THEORY_URLS = {
   inversion: new URL("../data/inversion.json", import.meta.url),
   cleft_sentences: new URL("../data/cleft_sentences.json", import.meta.url),
   ellipsis_substitution: new URL("../data/ellipsis_substitution.json", import.meta.url),
+  emphasis: new URL("../data/emphasis.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -79,6 +80,7 @@ const DRILLS_URLS = {
   inversion: new URL("../data/inversionDrills.json", import.meta.url),
   cleft_sentences: new URL("../data/cleft_sentencesDrills.json", import.meta.url),
   ellipsis_substitution: new URL("../data/ellipsis_substitutionDrills.json", import.meta.url),
+  emphasis: new URL("../data/emphasisDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

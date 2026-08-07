@@ -1,0 +1,96 @@
+[
+  {
+    "id": "emphatic_do",
+    "order": 1,
+    "nameEn": "Emphatic do / does / did",
+    "namePl": "Emfatyczne do / does / did",
+    "rules": [
+      { "label": "Zdania twierdzące", "text": "W zdaniach twierdzących dodajemy do/does/did przed czasownikiem w formie podstawowej, żeby podkreślić prawdziwość czegoś lub zaprzeczyć wątpliwościom" },
+      { "label": "Czas teraźniejszy", "text": "do/does + czasownik bez końcówki -s (I do like it. / She does like it.)" },
+      { "label": "Czas przeszły", "text": "did + czasownik w formie podstawowej (He did finish the project.)" },
+      { "label": "Akcent", "text": "W mowie do/does/did jest silnie akcentowane, żeby podkreślić emfazę" }
+    ],
+    "usage": [
+      "Żeby podkreślić, że coś naprawdę się dzieje/działo (I do agree with you.)",
+      "Żeby zaprzeczyć czyimś wątpliwościom lub skorygować kogoś (I did lock the door!)",
+      "W trybie rozkazującym dla emfazy i uprzejmości (Do sit down. / Do be careful.)"
+    ],
+    "tags": ["I do agree", "She does know", "He did call", "Do come in"],
+    "examples": [
+      { "en": "I do agree with your plan.", "pl": "Naprawdę zgadzam się z twoim planem." },
+      { "en": "She does know the answer, she's just shy.", "pl": "Ona naprawdę zna odpowiedź, po prostu jest nieśmiała." },
+      { "en": "He did call you — check your missed calls.", "pl": "On naprawdę do ciebie dzwonił — sprawdź nieodebrane." },
+      { "en": "Do sit down and make yourself comfortable.", "pl": "Proszę, usiądź i rozgość się." }
+    ]
+  },
+  {
+    "id": "emphatic_reflexive",
+    "order": 2,
+    "nameEn": "Emphatic reflexive pronouns",
+    "namePl": "Zaimki zwrotne dla emfazy",
+    "rules": [
+      { "label": "Pozycja", "text": "Zaimek zwrotny (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) stawiamy zaraz po podmiocie/dopełnieniu albo na końcu zdania" },
+      { "label": "Funkcja", "text": "Podkreśla, że dana osoba zrobiła coś sama, osobiście, bez niczyjej pomocy — to nie jest zaimek zwrotny w znaczeniu odbicia czynności na sobie" },
+      { "label": "by + zaimek", "text": "'by' + zaimek zwrotny = 'sam, bez niczyjej pomocy' (She did it all by herself.)" }
+    ],
+    "usage": [
+      "Bezpośrednio po rzeczowniku/zaimku, który chcemy podkreślić (The president himself called.)",
+      "Na końcu zdania, żeby podkreślić samodzielność wykonania (I fixed it myself.)",
+      "W konstrukcji 'by + zaimek zwrotny' dla podkreślenia braku pomocy (He built the house by himself.)"
+    ],
+    "tags": ["I did it myself", "by himself", "the manager herself", "we built it ourselves"],
+    "examples": [
+      { "en": "I fixed the sink myself.", "pl": "Sam naprawiłem zlew." },
+      { "en": "The manager herself approved the request.", "pl": "Sama kierowniczka zatwierdziła wniosek." },
+      { "en": "We built the shed ourselves, without any help.", "pl": "Sami zbudowaliśmy szopę, bez niczyjej pomocy." },
+      { "en": "He lives by himself in the countryside.", "pl": "On mieszka sam na wsi." }
+    ]
+  },
+  {
+    "id": "intensifiers",
+    "order": 3,
+    "nameEn": "Intensifiers: so, such, really, absolutely",
+    "namePl": "Wzmacniacze: so, such, really, absolutely",
+    "rules": [
+      { "label": "so", "text": "so + przymiotnik/przysłówek, bez rzeczownika (This is so difficult.)" },
+      { "label": "such", "text": "such (+ a/an) + przymiotnik + rzeczownik (It was such a great idea.)" },
+      { "label": "really", "text": "really wzmacnia czasowniki, przymiotniki i przysłówki (I really enjoyed it.)" },
+      { "label": "absolutely / totally", "text": "absolutely, totally, completely wzmacniają przymiotniki 'ekstremalne', nie stopniowalne przez 'very' (absolutely amazing, totally exhausted)" }
+    ],
+    "usage": [
+      "so przed samym przymiotnikiem/przysłówkiem, często z 'that' na skutek (so tired that...)",
+      "such przed (a/an +) przymiotnik + rzeczownik",
+      "absolutely/totally z przymiotnikami o znaczeniu skrajnym (amazing, exhausted, terrible), nie ze zwykłymi (nie 'absolutely big')"
+    ],
+    "tags": ["so tired", "such a mess", "really good", "absolutely fantastic"],
+    "examples": [
+      { "en": "This exam was so difficult that nobody finished on time.", "pl": "Ten egzamin był tak trudny, że nikt nie skończył na czas." },
+      { "en": "It was such a great idea.", "pl": "To był naprawdę świetny pomysł." },
+      { "en": "I really enjoyed the concert.", "pl": "Naprawdę spodobał mi się koncert." },
+      { "en": "We were absolutely exhausted after the hike.", "pl": "Byliśmy zupełnie wykończeni po wędrówce." }
+    ]
+  },
+  {
+    "id": "emphatic_phrases",
+    "order": 4,
+    "nameEn": "Emphatic phrases: at all, on earth, ever",
+    "namePl": "Wyrażenia emfatyczne: at all, on earth, ever",
+    "rules": [
+      { "label": "at all", "text": "Wzmacnia przeczenie, zwykle na końcu zdania (I don't like it at all.)" },
+      { "label": "on earth", "text": "Wzmacnia pytania wh-, wyrażając zdziwienie lub irytację; stawiamy zaraz po słowie pytającym (What on earth are you doing?)" },
+      { "label": "ever", "text": "W emocjonalnych pytaniach retorycznych po why/how (Why ever would you do that?) oraz z 'nobody/nothing ... ever' dla mocnego zaprzeczenia" }
+    ],
+    "usage": [
+      "at all po przeczeniu, żeby je wzmocnić",
+      "on earth / the hell zaraz po słowie pytającym (who/what/where/why/how), w mowie potocznej",
+      "ever w emocjonalnych, zaskoczonych pytaniach oraz w mocnych przeczeniach (nobody ever)"
+    ],
+    "tags": ["not at all", "what on earth", "why ever", "how on earth"],
+    "examples": [
+      { "en": "I don't like modern art at all.", "pl": "W ogóle nie lubię sztuki nowoczesnej." },
+      { "en": "What on earth are you talking about?", "pl": "O czym ty w ogóle mówisz?" },
+      { "en": "Why ever would you say something like that?", "pl": "Dlaczego, u licha, powiedziałbyś coś takiego?" },
+      { "en": "Nobody ever believed his story.", "pl": "Nikt nigdy nie uwierzył w jego historię." }
+    ]
+  }
+]
