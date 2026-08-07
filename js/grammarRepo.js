@@ -34,6 +34,7 @@ const THEORY_URLS = {
   adverbs: new URL("../data/adverbs.json", import.meta.url),
   future_forms: new URL("../data/future_forms.json", import.meta.url),
   determiners: new URL("../data/determiners.json", import.meta.url),
+  linking_words: new URL("../data/linking_words.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -63,6 +64,7 @@ const DRILLS_URLS = {
   adverbs: new URL("../data/adverbsDrills.json", import.meta.url),
   future_forms: new URL("../data/future_formsDrills.json", import.meta.url),
   determiners: new URL("../data/determinersDrills.json", import.meta.url),
+  linking_words: new URL("../data/linking_wordsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
