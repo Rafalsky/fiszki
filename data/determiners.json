@@ -1,0 +1,100 @@
+[
+  {
+    "id": "demonstratives",
+    "order": 1,
+    "nameEn": "this / that / these / those",
+    "namePl": "Zaimki wskazujące this / that / these / those",
+    "rules": [
+      { "label": "this", "text": "Liczba pojedyncza, coś blisko mówiącego (w przestrzeni lub czasie)" },
+      { "label": "that", "text": "Liczba pojedyncza, coś oddalonego od mówiącego (w przestrzeni, czasie lub emocjonalnie)" },
+      { "label": "these", "text": "Liczba mnoga formy this — rzeczy blisko mówiącego" },
+      { "label": "those", "text": "Liczba mnoga formy that — rzeczy oddalone od mówiącego" }
+    ],
+    "usage": [
+      "Wskazywanie na konkretne przedmioty lub osoby w zależności od odległości",
+      "this/these dla teraźniejszości i bliskości, that/those dla przeszłości i oddalenia",
+      "Rozpoczynanie rozmowy telefonicznej (This is Anna. / Is that Tom?)",
+      "that odnosi się do czegoś już wspomnianego, this zapowiada to, co zaraz powiemy"
+    ],
+    "tags": ["this book", "that house", "these shoes", "those days"],
+    "examples": [
+      { "en": "This is my new phone.", "pl": "To jest mój nowy telefon." },
+      { "en": "That car over there is Tom's.", "pl": "Tamten samochód to samochód Toma." },
+      { "en": "These cookies are delicious.", "pl": "Te ciasteczka są pyszne." },
+      { "en": "Those days were hard for our family.", "pl": "Tamte dni były trudne dla naszej rodziny." }
+    ]
+  },
+  {
+    "id": "all_every_each",
+    "order": 2,
+    "nameEn": "all / every / each",
+    "namePl": "all / every / each",
+    "rules": [
+      { "label": "all", "text": "+ rzeczownik policzalny mnogi lub niepoliczalny — całość traktowana jako jedna grupa" },
+      { "label": "every", "text": "+ rzeczownik policzalny w liczbie pojedynczej — każdy element grupy (min. 3), ogólnie i łącznie" },
+      { "label": "each", "text": "+ rzeczownik policzalny w liczbie pojedynczej — każdy element z osobna (może być już 2), podkreśla indywidualność" }
+    ],
+    "usage": [
+      "all the students = cała grupa jako całość; every student = każdy student ogólnie; each student = każdy z osobna",
+      "every + liczby porządkowe lub okresowość (every other day, every third house)",
+      "each może występować samodzielnie jako zaimek (Each of them got a prize.)",
+      "all może występować bez rzeczownika w wyrażeniach typu All is well."
+    ],
+    "tags": ["all day", "every day", "each student", "each of us"],
+    "examples": [
+      { "en": "All students passed the exam.", "pl": "Wszyscy studenci zdali egzamin." },
+      { "en": "Every student has a locker.", "pl": "Każdy student ma szafkę." },
+      { "en": "Each student received a certificate individually.", "pl": "Każdy student otrzymał certyfikat indywidualnie." },
+      { "en": "We meet every other week.", "pl": "Spotykamy się co drugi tydzień." }
+    ]
+  },
+  {
+    "id": "both_either_neither",
+    "order": 3,
+    "nameEn": "both / either / neither",
+    "namePl": "both / either / neither",
+    "rules": [
+      { "label": "both", "text": "\"obydwa/obydwie\" — odnosi się do dwóch rzeczy razem, łączy się z rzeczownikiem w liczbie mnogiej" },
+      { "label": "either", "text": "\"jeden z dwóch, dowolny\" — liczba pojedyncza; either... or w zdaniach wyboru" },
+      { "label": "neither", "text": "\"żaden z dwóch\" — liczba pojedyncza, znaczenie przeczące; neither... nor" }
+    ],
+    "usage": [
+      "both + rzeczownik mnogi, albo both of + zaimek/rzeczownik z przedimkiem",
+      "either/neither jako określniki przed rzeczownikiem w liczbie pojedynczej (either day, neither answer)",
+      "either... or wyraża wybór, neither... nor wyraża podwójne zaprzeczenie",
+      "either na końcu zdania przeczącego = \"też nie\" (I don't like it either.)"
+    ],
+    "tags": ["both hands", "either day", "neither option", "both of us"],
+    "examples": [
+      { "en": "Both restaurants are excellent.", "pl": "Obie restauracje są świetne." },
+      { "en": "You can park on either side of the street.", "pl": "Możesz zaparkować po dowolnej stronie ulicy." },
+      { "en": "Neither answer is correct.", "pl": "Żadna odpowiedź nie jest poprawna." },
+      { "en": "I don't speak French, and my brother doesn't either.", "pl": "Nie mówię po francusku, mój brat też nie." }
+    ]
+  },
+  {
+    "id": "another_other",
+    "order": 4,
+    "nameEn": "another / other / the other / others",
+    "namePl": "another / other / the other / others",
+    "rules": [
+      { "label": "another", "text": "= an + other; liczba pojedyncza, \"jeszcze jeden\" lub \"inny\" (dowolny)" },
+      { "label": "other", "text": "+ rzeczownik mnogi lub niepoliczalny = \"inne/pozostałe\"; przed pojedynczym rzeczownikiem wymaga the/zaimka dzierżawczego" },
+      { "label": "the other", "text": "Konkretnie wskazany drugi element (z dwóch) w liczbie pojedynczej" },
+      { "label": "others / the others", "text": "Zaimki samodzielne (bez rzeczownika po nich) — \"inni/pozostali\"" }
+    ],
+    "usage": [
+      "another cup of coffee — jeszcze jedna, dowolna",
+      "the other one — ten drugi, konkretny, z pary dwóch",
+      "other people — inni ludzie, ogólnie",
+      "others jako zaimek zamiast powtarzania rzeczownika w liczbie mnogiej"
+    ],
+    "tags": ["another one", "the other day", "other people", "each other"],
+    "examples": [
+      { "en": "Would you like another cup of tea?", "pl": "Czy chciałbyś jeszcze jedną filiżankę herbaty?" },
+      { "en": "I have two brothers; one lives in Paris, the other lives in Rome.", "pl": "Mam dwóch braci; jeden mieszka w Paryżu, drugi mieszka w Rzymie." },
+      { "en": "Some people like tea, others prefer coffee.", "pl": "Niektórzy lubią herbatę, inni wolą kawę." },
+      { "en": "We saw each other at the party.", "pl": "Widzieliśmy się nawzajem na przyjęciu." }
+    ]
+  }
+]
