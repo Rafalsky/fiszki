@@ -1,0 +1,97 @@
+[
+  {
+    "id": "mandative_verbs",
+    "order": 1,
+    "nameEn": "Mandative subjunctive after suggest, recommend, insist, demand",
+    "namePl": "Tryb łączący po czasownikach typu suggest, recommend, insist, demand",
+    "rules": [
+      { "label": "Budowa", "text": "that + podmiot + bezokolicznik bez to (base form) — forma czasownika nie zmienia się w 3. os. lp. ani w czasie przeszłym" },
+      { "label": "Czasowniki", "text": "suggest, recommend, insist, demand, propose, request, require, urge + (that)" },
+      { "label": "Przeczenie", "text": "przeczenie tworzy się przez not przed bezokolicznikiem: that he not be late" }
+    ],
+    "usage": [
+      "Po suggest/recommend/propose, gdy sugerujemy jakieś działanie (I suggest that he see a doctor.)",
+      "Po insist/demand/require, gdy ktoś stanowczo się czegoś domaga (They insisted that she apologize.)",
+      "Spójnik that można pominąć w mowie potocznej, zwłaszcza w amerykańskim angielskim",
+      "Konstrukcja częstsza w AmE; w BrE bywa zastępowana przez should + bezokolicznik"
+    ],
+    "tags": ["suggest that", "insist that", "recommend that", "demand that"],
+    "examples": [
+      { "en": "I suggest that he see a doctor.", "pl": "Sugeruję, żeby poszedł do lekarza." },
+      { "en": "The doctor recommended that she rest for a week.", "pl": "Lekarz zalecił, żeby odpoczęła przez tydzień." },
+      { "en": "They insisted that he not be late.", "pl": "Nalegali, żeby się nie spóźnił." },
+      { "en": "The manager demanded that the report be finished by Friday.", "pl": "Kierownik zażądał, żeby raport był skończony do piątku." }
+    ]
+  },
+  {
+    "id": "mandative_adjectives",
+    "order": 2,
+    "nameEn": "Subjunctive after it's important/essential/vital that...",
+    "namePl": "Tryb łączący po it's important / essential / necessary, że...",
+    "rules": [
+      { "label": "Budowa", "text": "It is + przymiotnik + that + podmiot + bezokolicznik bez to" },
+      { "label": "Przymiotniki", "text": "important, essential, vital, necessary, crucial, imperative, advisable + that" },
+      { "label": "Strona bierna", "text": "konstrukcja działa też w stronie biernej: it's essential that the form be signed" }
+    ],
+    "usage": [
+      "Gdy podkreślamy, że coś jest konieczne lub bardzo ważne (It's essential that everyone be on time.)",
+      "W formalnym, pisanym angielskim, np. w instrukcjach i regulaminach",
+      "W mowie potocznej często zastępowana przez should + bezokolicznik lub zwykły czas teraźniejszy"
+    ],
+    "tags": ["it's essential that", "it's important that", "it's vital that"],
+    "examples": [
+      { "en": "It is essential that every applicant fill in the form.", "pl": "Konieczne jest, żeby każdy kandydat wypełnił formularz." },
+      { "en": "It's important that she be informed immediately.", "pl": "Ważne jest, żeby została natychmiast poinformowana." },
+      { "en": "It is necessary that the machine be checked daily.", "pl": "Konieczne jest, żeby maszyna była sprawdzana codziennie." },
+      { "en": "It's crucial that he arrive on time.", "pl": "Kluczowe jest, żeby przyjechał na czas." }
+    ]
+  },
+  {
+    "id": "were_subjunctive",
+    "order": 3,
+    "nameEn": "Were-subjunctive: if I were you, I wish I were",
+    "namePl": "Tryb łączący were: if I were you, I wish I were",
+    "rules": [
+      { "label": "Budowa", "text": "forma were używana dla wszystkich osób (także I/he/she/it) zamiast was w zdaniach hipotetycznych" },
+      { "label": "Zastosowanie", "text": "po if (2. okres warunkowy), po wish/if only oraz w wyrażeniach typu as if / as though" },
+      { "label": "Was czy were", "text": "w mowie potocznej was jest akceptowalne (if I was you), ale were jest formą poprawną i formalną" }
+    ],
+    "usage": [
+      "Rady i hipotezy: If I were you, I would... (Na twoim miejscu...)",
+      "Życzenia dotyczące teraźniejszości: I wish I were taller.",
+      "Porównania nierzeczywiste: as if / as though + were",
+      "Zdania warunkowe nierealne dotyczące teraźniejszości"
+    ],
+    "tags": ["if I were you", "I wish I were", "as if", "as though"],
+    "examples": [
+      { "en": "If I were you, I would apologize.", "pl": "Na twoim miejscu przeprosiłbym." },
+      { "en": "I wish I were on holiday right now.", "pl": "Żałuję, że nie jestem teraz na wakacjach." },
+      { "en": "If she were here, she would know what to do.", "pl": "Gdyby ona tu była, wiedziałaby, co robić." },
+      { "en": "He acted as if he were the boss.", "pl": "Zachowywał się, jakby był szefem." }
+    ]
+  },
+  {
+    "id": "fixed_expressions",
+    "order": 4,
+    "nameEn": "Fixed subjunctive expressions",
+    "namePl": "Utrwalone wyrażenia z trybem łączącym",
+    "rules": [
+      { "label": "Budowa", "text": "krótkie, skostniałe zwroty z bezokolicznikiem bez to, zachowane z dawnej angielszczyzny" },
+      { "label": "Charakter", "text": "traktowane jako całe wyrażenia idiomatyczne — nie tworzy się ich swobodnie według wzoru" },
+      { "label": "Rejestr", "text": "typowe dla języka formalnego, literackiego lub uroczystego" }
+    ],
+    "usage": [
+      "Życzenia i formuły uroczyste: God save the Queen, Long live the King",
+      "Zgoda lub rezygnacja: So be it.",
+      "Zastrzeżenia formalne: Be that as it may, Suffice it to say",
+      "Wyrażenia warunkowe formalne: if need be, come what may"
+    ],
+    "tags": ["God save the Queen", "so be it", "be that as it may", "if need be"],
+    "examples": [
+      { "en": "God save the Queen!", "pl": "Boże, chroń Królową!" },
+      { "en": "If that's what you want, so be it.", "pl": "Jeśli tego chcesz, niech tak będzie." },
+      { "en": "Be that as it may, we still need to finish the project.", "pl": "Tak czy inaczej, wciąż musimy skończyć projekt." },
+      { "en": "Suffice it to say, the meeting did not go well.", "pl": "Wystarczy powiedzieć, że spotkanie nie poszło dobrze." }
+    ]
+  }
+]

@@ -243,5 +243,12 @@
     "title": "Struktury emfatyczne",
     "desc": "Struktury emfatyczne: emfatyczne do/does/did, zaimki zwrotne, wzmacniacze so/such/really/absolutely i wyrażenia typu at all/on earth — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "subjunctive",
+    "icon": "🙏",
+    "title": "Tryb łączący",
+    "desc": "Tryb łączący (subjunctive): po suggest/insist/demand, po it's important that..., if I were you oraz utrwalone wyrażenia — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
