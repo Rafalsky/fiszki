@@ -1,0 +1,95 @@
+[
+  {
+    "id": "verb_preposition",
+    "order": 1,
+    "nameEn": "Verb + preposition collocations",
+    "namePl": "Czasowniki ze stałym przyimkiem",
+    "rules": [
+      { "label": "Zasada", "text": "Wiele czasowników zawsze łączy się z tym samym przyimkiem, niezależnie od kontekstu — trzeba zapamiętać parę czasownik+przyimek jako całość" },
+      { "label": "Częste połączenia", "text": "depend on, believe in, apologize for, insist on, worry about, look after, apply for, wait for, listen to, care about" }
+    ],
+    "usage": [
+      "depend on — zależeć od czegoś/kogoś",
+      "apologize for — przepraszać za coś",
+      "look after — opiekować się kimś/czymś",
+      "apply for — ubiegać się o coś (np. pracę)"
+    ],
+    "tags": ["depend on", "apologize for", "look after", "apply for"],
+    "examples": [
+      { "en": "It depends on the weather.", "pl": "To zależy od pogody." },
+      { "en": "She apologized for being late.", "pl": "Przeprosiła za spóźnienie." },
+      { "en": "Can you look after my dog this weekend?", "pl": "Czy możesz zaopiekować się moim psem w ten weekend?" },
+      { "en": "He applied for a new job last week.", "pl": "W zeszłym tygodniu ubiegał się o nową pracę." }
+    ]
+  },
+  {
+    "id": "adjective_preposition",
+    "order": 2,
+    "nameEn": "Adjective + preposition collocations",
+    "namePl": "Przymiotniki ze stałym przyimkiem",
+    "rules": [
+      { "label": "Zasada", "text": "Przymiotniki po 'be' często wymagają konkretnego przyimka przed rzeczownikiem lub gerundem" },
+      { "label": "Częste połączenia", "text": "interested in, good/bad at, afraid of, tired of, famous for, proud of, worried about, angry with somebody" }
+    ],
+    "usage": [
+      "interested in — zainteresowany czymś",
+      "good/bad at — dobry/słaby w czymś",
+      "famous for — znany z czegoś",
+      "afraid of — bać się czegoś"
+    ],
+    "tags": ["interested in", "good at", "famous for", "afraid of"],
+    "examples": [
+      { "en": "She is interested in modern art.", "pl": "Ona interesuje się sztuką współczesną." },
+      { "en": "He is very good at chess.", "pl": "On jest bardzo dobry w szachy." },
+      { "en": "This town is famous for its castle.", "pl": "To miasto jest znane ze swojego zamku." },
+      { "en": "I'm afraid of spiders.", "pl": "Boję się pająków." }
+    ]
+  },
+  {
+    "id": "noun_preposition",
+    "order": 3,
+    "nameEn": "Noun + preposition collocations",
+    "namePl": "Rzeczowniki ze stałym przyimkiem",
+    "rules": [
+      { "label": "Zasada", "text": "Rzeczowniki abstrakcyjne często łączą się ze stałym przyimkiem przed kolejnym rzeczownikiem" },
+      { "label": "Częste połączenia", "text": "interest in, reason for, solution to, need for, access to, relationship with, increase/decrease in, difference between" }
+    ],
+    "usage": [
+      "reason for — powód czegoś",
+      "solution to — rozwiązanie problemu",
+      "access to — dostęp do czegoś",
+      "increase/decrease in — wzrost/spadek czegoś"
+    ],
+    "tags": ["reason for", "solution to", "access to", "increase in"],
+    "examples": [
+      { "en": "What's the reason for the delay?", "pl": "Jaki jest powód opóźnienia?" },
+      { "en": "We finally found a solution to the problem.", "pl": "W końcu znaleźliśmy rozwiązanie problemu." },
+      { "en": "Every student has access to the library.", "pl": "Każdy uczeń ma dostęp do biblioteki." },
+      { "en": "There has been an increase in prices.", "pl": "Nastąpił wzrost cen." }
+    ]
+  },
+  {
+    "id": "tricky_pairs",
+    "order": 4,
+    "nameEn": "Tricky and confusable preposition pairs",
+    "namePl": "Mylące pary czasownik/przymiotnik + przyimek",
+    "rules": [
+      { "label": "different from", "text": "be different from — najbezpieczniejszy, uniwersalny wybór (różnić się od); 'different to' i 'different than' też się zdarzają, ale from jest standardem" },
+      { "label": "married to", "text": "be married to somebody — być poślubionym komuś; nie 'married with' (to inna konstrukcja)" },
+      { "label": "listen to vs hear", "text": "listen to wymaga przyimka to, natomiast hear nie wymaga żadnego przyimka" }
+    ],
+    "usage": [
+      "be different from — różnić się od (najbezpieczniejszy wybór)",
+      "be married to — być poślubionym komuś",
+      "listen to music/somebody — słuchać czegoś/kogoś",
+      "good with somebody vs good at something — dobry w obchodzeniu się z kimś vs dobry w czymś"
+    ],
+    "tags": ["different from", "married to", "listen to", "good with"],
+    "examples": [
+      { "en": "This city is very different from what I expected.", "pl": "To miasto bardzo różni się od tego, czego się spodziewałem." },
+      { "en": "She has been married to him for ten years.", "pl": "Jest z nim w związku małżeńskim od dziesięciu lat." },
+      { "en": "I like listening to podcasts on my way to work.", "pl": "Lubię słuchać podcastów w drodze do pracy." },
+      { "en": "He's really good with children.", "pl": "On naprawdę dobrze radzi sobie z dziećmi." }
+    ]
+  }
+]

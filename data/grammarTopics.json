@@ -257,5 +257,12 @@
     "title": "Słowotwórstwo",
     "desc": "Prefiksy i sufiksy słowotwórcze: przedrostki przeczące (un-, in-/im-/il-/ir-, dis-, non-), sufiksy rzeczownikowe i przymiotnikowe oraz re-/mis-/over-/under- — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "collocations_prepositions",
+    "icon": "🧲",
+    "title": "Przyimki zależne",
+    "desc": "Czasowniki, przymiotniki i rzeczowniki ze stałym przyimkiem (depend on, interested in, reason for) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
