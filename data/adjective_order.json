@@ -1,0 +1,98 @@
+[
+  {
+    "id": "adjorder_osascomp",
+    "order": 1,
+    "nameEn": "the OSASCOMP order — opinion, size, age, shape, colour, origin, material, purpose",
+    "namePl": "Kolejność OSASCOMP — opinia, rozmiar, wiek, kształt, kolor, pochodzenie, materiał, przeznaczenie",
+    "rules": [
+      { "label": "Kolejność", "text": "Opinion → Size → Age → Shape → Colour → Origin → Material → Purpose (rzeczownik na końcu)" },
+      { "label": "Przykład", "text": "a beautiful (opinion) small (size) old (age) round (shape) black (colour) Italian (origin) leather (material) shopping (purpose) bag" },
+      { "label": "Praktyka", "text": "W praktyce rzadko używa się więcej niż 3-4 przymiotników naraz — kolejność ma znaczenie nawet przy dwóch" }
+    ],
+    "usage": [
+      "Zawsze gdy przed rzeczownikiem stoi więcej niż jeden przymiotnik",
+      "Zła kolejność brzmi nienaturalnie dla native speakera, choć zdanie pozostaje zrozumiałe",
+      "Przecinki oddzielają zwykle przymiotniki z tej samej kategorii (opinia + opinia), nie z różnych kategorii",
+      "Kategoria purpose (przeznaczenie) często ma formę rzeczownika użytego jak przymiotnik (a swimming pool)"
+    ],
+    "tags": ["a small round table", "an old Italian car", "a beautiful black leather bag", "a big red plastic ball"],
+    "examples": [
+      { "en": "She bought a beautiful small round wooden table.", "pl": "Kupiła piękny mały okrągły drewniany stolik." },
+      { "en": "He drives an old red Italian sports car.", "pl": "Jeździ starym czerwonym włoskim samochodem sportowym." },
+      { "en": "I found a strange little black plastic box.", "pl": "Znalazłem dziwne małe czarne plastikowe pudełko." },
+      { "en": "They live in a lovely big modern brick house.", "pl": "Mieszkają w ślicznym dużym nowoczesnym ceglanym domu." }
+    ]
+  },
+  {
+    "id": "adjorder_opinion_first",
+    "order": 2,
+    "nameEn": "opinion adjectives always come first",
+    "namePl": "Przymiotniki opiniujące zawsze na pierwszym miejscu",
+    "rules": [
+      { "label": "Zasada", "text": "Przymiotnik wyrażający opinię/ocenę (nice, beautiful, terrible, lovely) stoi zawsze przed przymiotnikami opisowymi (fakty)" },
+      { "label": "Ogólne vs szczegółowe", "text": "Wśród opinii ogólne (good, nice, bad) idą przed szczegółowymi (delicious, comfortable, intelligent)" },
+      { "label": "Test", "text": "Jeśli przymiotnik odpowiada na pytanie 'co o tym sądzisz?', to jest opinią i idzie pierwszy" }
+    ],
+    "usage": [
+      "Gdy łączymy subiektywną ocenę z obiektywnym opisem (rozmiar, kolor, kształt itd.)",
+      "Ogólna opinia (nice, lovely) przed bardziej konkretną (comfortable, delicious)",
+      "Częste w opisach ludzi, przedmiotów i miejsc",
+      "Pomijamy opinię, jeśli fakt jest oczywisty z kontekstu"
+    ],
+    "tags": ["a nice warm sweater", "a lovely young woman", "a horrible old chair", "a delicious hot soup"],
+    "examples": [
+      { "en": "It's a lovely little Spanish village.", "pl": "To śliczna mała hiszpańska wioska." },
+      { "en": "She wore a nice long blue dress.", "pl": "Miała na sobie ładną długą niebieską sukienkę." },
+      { "en": "We stayed in a terrible small cheap hotel.", "pl": "Zatrzymaliśmy się w okropnym małym tanim hotelu." },
+      { "en": "He is a friendly tall young man.", "pl": "To przyjazny, wysoki, młody mężczyzna." }
+    ]
+  },
+  {
+    "id": "adjorder_comma_and",
+    "order": 3,
+    "nameEn": "commas and 'and' between adjectives",
+    "namePl": "Przecinki i 'and' między przymiotnikami",
+    "rules": [
+      { "label": "Ta sama kategoria", "text": "Przymiotniki z tej samej kategorii (np. dwie opinie) rozdzielamy przecinkiem: a nice, friendly dog" },
+      { "label": "Różne kategorie", "text": "Przymiotniki z różnych kategorii łączymy bez przecinka: a small black dog (bez przecinka)" },
+      { "label": "and", "text": "'and' używamy głównie przy kolorach (a black and white cat) lub gdy przymiotniki opisują różne części tej samej rzeczy" }
+    ],
+    "usage": [
+      "Decydujemy o przecinku sprawdzając, czy przymiotniki są z tej samej kategorii OSASCOMP",
+      "'and' jest typowe dla dwóch kolorów opisujących ten sam przedmiot",
+      "Bez przecinka i bez 'and', gdy przymiotniki tworzą naturalny łańcuch opisu (size + colour + material)",
+      "Zbyt wiele przecinków w rzędzie brzmi nienaturalnie — lepiej ograniczyć liczbę przymiotników"
+    ],
+    "tags": ["a nice, friendly dog", "a black and white cat", "a small black dog", "a tall, elegant woman"],
+    "examples": [
+      { "en": "She has a kind, generous heart.", "pl": "Ma dobre, wielkoduszne serce." },
+      { "en": "He bought a black and white football.", "pl": "Kupił czarno-białą piłkę do piłki nożnej." },
+      { "en": "It was a cold, wet, windy night.", "pl": "To była zimna, mokra, wietrzna noc." },
+      { "en": "I saw a tall thin man in a grey coat.", "pl": "Widziałem wysokiego, chudego mężczyznę w szarym płaszczu." }
+    ]
+  },
+  {
+    "id": "adjorder_multiple_adjectives",
+    "order": 4,
+    "nameEn": "keeping it natural — how many adjectives to use",
+    "namePl": "Naturalność wypowiedzi — ile przymiotników użyć naraz",
+    "rules": [
+      { "label": "Limit praktyczny", "text": "W mowie i piśmie zwykle używa się maksymalnie 2-3 przymiotników przed rzeczownikiem naraz" },
+      { "label": "Rzeczownik jako przymiotnik", "text": "Rzeczownik użyty atrybutywnie (stone, wooden, London) stoi najbliżej opisywanego rzeczownika, tuż przed nim" },
+      { "label": "Kolejność materiał-przeznaczenie", "text": "Materiał (leather, wooden) stoi bliżej rzeczownika niż pochodzenie (Italian, French), a przeznaczenie (shopping, wedding) najbliżej ze wszystkich" }
+    ],
+    "usage": [
+      "Gdy opis wymaga więcej niż jednego przymiotnika, ale chcemy brzmieć naturalnie",
+      "Dłuższe łańcuchy przymiotników rozbijamy na dwa zdania w mowie potocznej",
+      "Rzeczownik-przymiotnik (a London bus, a stone wall) zawsze tuż przed głównym rzeczownikiem",
+      "W formalnym opisie (katalogi, ogłoszenia) dłuższe łańcuchy są bardziej akceptowalne"
+    ],
+    "tags": ["a lovely old wooden table", "a small French wine glass", "a modern glass office building", "a large Victorian brick house"],
+    "examples": [
+      { "en": "We bought a lovely old wooden table.", "pl": "Kupiliśmy piękny stary drewniany stół." },
+      { "en": "She gave me a small French wine glass.", "pl": "Dała mi mały francuski kieliszek do wina." },
+      { "en": "They work in a modern glass office building.", "pl": "Pracują w nowoczesnym szklanym budynku biurowym." },
+      { "en": "It's a large Victorian brick house near the park.", "pl": "To duży wiktoriański ceglany dom niedaleko parku." }
+    ]
+  }
+]

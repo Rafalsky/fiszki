@@ -152,5 +152,12 @@
     "title": "Have / get something done",
     "desc": "have/get something done — zlecanie czynności innej osobie, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "adjective_order",
+    "icon": "📐",
+    "title": "Kolejność przymiotników",
+    "desc": "Kolejność przymiotników przed rzeczownikiem (opinia, rozmiar, wiek, kształt, kolor, pochodzenie, materiał) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
