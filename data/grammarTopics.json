@@ -145,5 +145,12 @@
     "title": "Wish / if only",
     "desc": "wish i if only do wyrażania życzeń i żalu — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "causative",
+    "icon": "🛠️",
+    "title": "Have / get something done",
+    "desc": "have/get something done — zlecanie czynności innej osobie, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "causative_have",
+    "order": 1,
+    "nameEn": "have something done — basic causative",
+    "namePl": "have + dopełnienie + imiesłów bierny — podstawowa struktura causative",
+    "rules": [
+      { "label": "Budowa", "text": "have + dopełnienie + III forma czasownika / imiesłów bierny (I have my hair cut.)" },
+      { "label": "Wykonawca nieistotny", "text": "Nie wskazujemy, kto wykonuje czynność — liczy się efekt, a nie wykonawca" },
+      { "label": "Odmiana", "text": "have odmienia się przez osoby i czasy jak zwykły czasownik (have, has, had)" }
+    ],
+    "usage": [
+      "Gdy zlecamy komuś wykonanie usługi zamiast robić to samodzielnie",
+      "Podkreślamy rezultat czynności, a nie to, kto ją wykonał",
+      "Częste przy usługach: fryzjer, naprawy, pranie, budowa",
+      "Można też wyrazić coś nieprzyjemnego, co nas spotkało (I had my wallet stolen.)"
+    ],
+    "tags": ["have your hair cut", "have the car repaired", "have a house built", "have your wallet stolen"],
+    "examples": [
+      { "en": "I have my hair cut every month.", "pl": "Co miesiąc obcinam sobie włosy (u fryzjera)." },
+      { "en": "She had her car repaired yesterday.", "pl": "Ona wczoraj oddała samochód do naprawy." },
+      { "en": "We are having a new kitchen fitted.", "pl": "Mamy montowaną nową kuchnię." },
+      { "en": "He had his wallet stolen on the train.", "pl": "Skradziono mu portfel w pociągu." }
+    ]
+  },
+  {
+    "id": "causative_get",
+    "order": 2,
+    "nameEn": "get something done — informal causative",
+    "namePl": "get + dopełnienie + imiesłów bierny — nieformalny odpowiednik have",
+    "rules": [
+      { "label": "Budowa", "text": "get + dopełnienie + III forma / imiesłów bierny, identycznie jak z have (get your nails done)" },
+      { "label": "Różnica od have", "text": "get jest bardziej potoczne niż have i częściej sugeruje wysiłek włożony w zorganizowanie usługi" },
+      { "label": "Rozkazy i rady", "text": "get jest szczególnie częste w trybie rozkazującym i radach (Get your eyes tested!)" }
+    ],
+    "usage": [
+      "Nieformalne rozmowy, szczególnie w mowie potocznej",
+      "Gdy podkreślamy wysiłek włożony w zorganizowanie usługi",
+      "W poleceniach i radach (You should get your bike fixed.)",
+      "Zwykle wymiennie z have, bez zmiany znaczenia w większości kontekstów"
+    ],
+    "tags": ["get your nails done", "get the roof fixed", "get your eyes tested", "get it delivered"],
+    "examples": [
+      { "en": "You should get your eyes tested.", "pl": "Powinieneś zbadać wzrok." },
+      { "en": "We got the roof fixed before winter.", "pl": "Naprawiliśmy dach przed zimą (zleciliśmy naprawę)." },
+      { "en": "I need to get my phone repaired.", "pl": "Muszę oddać telefon do naprawy." },
+      { "en": "Did you get your suit dry-cleaned?", "pl": "Czy oddałeś garnitur do pralni chemicznej?" }
+    ]
+  },
+  {
+    "id": "causative_tenses",
+    "order": 3,
+    "nameEn": "causative have/get across tenses",
+    "namePl": "Causative have/get w różnych czasach",
+    "rules": [
+      { "label": "Present / Past Simple", "text": "have/has (teraźniejszość) lub had (przeszłość) + dopełnienie + imiesłów bierny" },
+      { "label": "Present Perfect", "text": "have/has had + dopełnienie + imiesłów bierny (I have had my car serviced.)" },
+      { "label": "Future Simple", "text": "will have + dopełnienie + imiesłów bierny (I will have my car serviced tomorrow.)" }
+    ],
+    "usage": [
+      "Odmieniamy tylko czasownik have/get, imiesłów bierny pozostaje bez zmian",
+      "W pytaniach i przeczeniach have zachowuje się jak zwykły czasownik (Did you have your car serviced? / I haven't had my hair cut yet.)",
+      "Wybór czasu zależy od kontekstu zdania, tak samo jak przy zwykłych czasownikach"
+    ],
+    "tags": ["I had it done", "I've had it done", "I'll have it done", "Did you have it done?"],
+    "examples": [
+      { "en": "I have my teeth checked twice a year.", "pl": "Sprawdzam sobie zęby dwa razy w roku." },
+      { "en": "We had the windows cleaned last weekend.", "pl": "Mieliśmy umyte okna w zeszły weekend." },
+      { "en": "She has never had her portrait painted.", "pl": "Nigdy nie miała namalowanego portretu." },
+      { "en": "I'll have the report finished by Friday.", "pl": "Będę mieć raport skończony do piątku." }
+    ]
+  },
+  {
+    "id": "causative_person",
+    "order": 4,
+    "nameEn": "have/get someone do something — causing a person to act",
+    "namePl": "have/get + osoba + czasownik — sprawianie, że ktoś coś zrobi",
+    "rules": [
+      { "label": "have + osoba + bezokolicznik bez to", "text": "Neutralne polecenie lub prośba skierowana do konkretnej osoby (I had him fix my computer.)" },
+      { "label": "get + osoba + to + bezokolicznik", "text": "Zwykle sugeruje przekonywanie lub namawianie kogoś (I got him to fix my computer.)" },
+      { "label": "Różnica od causative z dopełnieniem", "text": "Tu podkreślamy, KTO wykonał czynność — w przeciwieństwie do have/get + dopełnienie + imiesłów bierny" }
+    ],
+    "usage": [
+      "Gdy chcemy podkreślić wykonawcę czynności, a nie tylko jej rezultat",
+      "have sugeruje prostą prośbę lub polecenie",
+      "get sugeruje nakłanianie lub perswazję",
+      "Częste w kontekście pracy, zarządzania zespołem i delegowania zadań"
+    ],
+    "tags": ["have him call you", "get her to sign", "have the assistant book", "get them to agree"],
+    "examples": [
+      { "en": "I had my assistant book the flights.", "pl": "Poleciłem asystentce zarezerwować loty." },
+      { "en": "Can you get him to call me back?", "pl": "Czy możesz sprawić, żeby do mnie oddzwonił?" },
+      { "en": "The teacher had the students write an essay.", "pl": "Nauczyciel kazał uczniom napisać wypracowanie." },
+      { "en": "She got her brother to help her move.", "pl": "Namówiła brata, żeby pomógł jej się przeprowadzić." }
+    ]
+  }
+]
