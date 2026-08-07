@@ -1,0 +1,95 @@
+[
+  {
+    "id": "ing_participle",
+    "order": 1,
+    "nameEn": "-ing participle clauses (Present participle)",
+    "namePl": "Imiesłów czynny (-ing) w zdaniach okolicznikowych",
+    "rules": [
+      { "label": "Forma", "text": "czasownik + -ing (Verb-ing) zastępuje zdanie podrzędne, gdy podmiot obu czynności jest ten sam" },
+      { "label": "Znaczenie czynne", "text": "-ing wyraża czynność wykonywaną przez podmiot (aktywne znaczenie)" },
+      { "label": "Pozycja", "text": "może stać na początku zdania (z przecinkiem) lub na końcu, albo bezpośrednio po rzeczowniku" }
+    ],
+    "usage": [
+      "Zamiast zdań z 'because/as/since' (przyczyna): Feeling tired, she went to bed.",
+      "Zamiast zdań z 'when/while' (jednoczesność): Walking home, I saw an accident.",
+      "Do opisania dwóch czynności następujących szybko po sobie: Opening the door, he stepped inside.",
+      "Zamiast 'who/which' w zdaniach względnych opisujących czynność w toku: The man standing there is my uncle."
+    ],
+    "tags": ["Feeling tired,", "Walking home,", "standing there", "Opening the door,"],
+    "examples": [
+      { "en": "Feeling tired, she went to bed early.", "pl": "Czując się zmęczona, poszła wcześnie spać." },
+      { "en": "Walking home, I saw an accident.", "pl": "Idąc do domu, zobaczyłem wypadek." },
+      { "en": "The man standing by the window is my uncle.", "pl": "Mężczyzna stojący przy oknie to mój wujek." },
+      { "en": "Not knowing what to say, he stayed silent.", "pl": "Nie wiedząc, co powiedzieć, zamilkł." }
+    ]
+  },
+  {
+    "id": "ed_participle",
+    "order": 2,
+    "nameEn": "-ed / past participle clauses (Passive participle)",
+    "namePl": "Imiesłów bierny (-ed / III forma) w zdaniach okolicznikowych",
+    "rules": [
+      { "label": "Forma", "text": "czasownik w III formie / -ed (Verb-ed) zastępuje zdanie ze stroną bierną, gdy podmiot doznaje czynności" },
+      { "label": "Znaczenie bierne", "text": "-ed wyraża czynność wykonaną NA podmiocie (znaczenie pasywne), nie przez niego" },
+      { "label": "Czasowniki nieregularne", "text": "używamy III formy czasownika nieregularnego (written, broken, given) zamiast końcówki -ed" }
+    ],
+    "usage": [
+      "Zamiast zdań względnych ze stroną bierną: The book, written in 1990, became a bestseller.",
+      "Na początku zdania jako zamiennik 'because it was/if it is': Left alone, the child started to cry.",
+      "Do opisania rzeczownika, który jest odbiorcą czynności: Covered in snow, the mountains looked beautiful."
+    ],
+    "tags": ["written in 1990,", "Left alone,", "Covered in snow,", "given the chance"],
+    "examples": [
+      { "en": "Written in 1990, the book became a bestseller.", "pl": "Napisana w 1990 roku książka stała się bestsellerem." },
+      { "en": "Left alone, the child started to cry.", "pl": "Zostawione samo, dziecko zaczęło płakać." },
+      { "en": "Covered in snow, the mountains looked beautiful.", "pl": "Pokryte śniegiem góry wyglądały pięknie." },
+      { "en": "Given the chance, she would travel the world.", "pl": "Gdyby dostała szansę, podróżowałaby po świecie." }
+    ]
+  },
+  {
+    "id": "perfect_participle",
+    "order": 3,
+    "nameEn": "Perfect participle clauses (Having done)",
+    "namePl": "Imiesłów uprzedni (Having + III forma)",
+    "rules": [
+      { "label": "Forma", "text": "Having + past participle (III forma) — Having finished, Having written" },
+      { "label": "Kolejność czynności", "text": "podkreśla, że jedna czynność zakończyła się PRZED drugą (wcześniejsza akcja)" },
+      { "label": "Strona bierna", "text": "forma bierna to Having been + III forma: Having been warned, he was careful." }
+    ],
+    "usage": [
+      "Gdy chcemy podkreślić, że coś wydarzyło się najpierw, a potem coś innego: Having finished his homework, he went out.",
+      "Zamiast 'After he had finished...': Having eaten dinner, we watched a film.",
+      "W formie biernej: Having been told the news, she called her friend."
+    ],
+    "tags": ["Having finished,", "Having eaten,", "Having been told,", "Having written,"],
+    "examples": [
+      { "en": "Having finished his homework, he went out to play.", "pl": "Skończywszy odrabiać lekcje, wyszedł się bawić." },
+      { "en": "Having eaten dinner, we watched a film together.", "pl": "Zjadłszy kolację, obejrzeliśmy razem film." },
+      { "en": "Having been warned about the traffic, we left early.", "pl": "Zostawszy ostrzeżeni o korkach, wyjechaliśmy wcześnie." },
+      { "en": "Having lost her keys, she couldn't get into the house.", "pl": "Zgubiwszy klucze, nie mogła dostać się do domu." }
+    ]
+  },
+  {
+    "id": "reduced_relative",
+    "order": 4,
+    "nameEn": "Reduced relative clauses with participles",
+    "namePl": "Skracanie zdań względnych imiesłowami",
+    "rules": [
+      { "label": "Aktywne who/which + czasownik", "text": "zdanie względne w stronie czynnej skracamy imiesłowem -ing: The girl who is singing → The girl singing" },
+      { "label": "Bierne who/which + is/was + III forma", "text": "zdanie względne w stronie biernej skracamy imiesłowem -ed/III forma: The car which was damaged → The car damaged" },
+      { "label": "Tylko zdania określające", "text": "redukcja działa dla zdań względnych bez przecinka (defining relative clauses), opisujących konkretny rzeczownik" }
+    ],
+    "usage": [
+      "Opis osoby wykonującej czynność: The woman talking to the manager is my colleague.",
+      "Opis rzeczy lub osoby poddanej czynności: The window broken by the storm needs repair.",
+      "Skracanie długich opisów w tekście formalnym i dziennikarskim"
+    ],
+    "tags": ["talking to", "broken by the storm", "waiting outside", "sold last year"],
+    "examples": [
+      { "en": "The woman talking to the manager is my colleague.", "pl": "Kobieta rozmawiająca z kierownikiem to moja koleżanka." },
+      { "en": "The window broken by the storm needs repair.", "pl": "Okno rozbite przez burzę wymaga naprawy." },
+      { "en": "Passengers waiting outside were told to come in.", "pl": "Pasażerowie czekający na zewnątrz zostali poproszeni, żeby wejść." },
+      { "en": "The house sold last year has been renovated.", "pl": "Dom sprzedany w zeszłym roku został wyremontowany." }
+    ]
+  }
+]
