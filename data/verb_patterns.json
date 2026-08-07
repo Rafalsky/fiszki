@@ -1,0 +1,96 @@
+[
+  {
+    "id": "verb_prep_gerund",
+    "order": 1,
+    "nameEn": "Verb + preposition + gerund",
+    "namePl": "Czasownik + przyimek + gerund",
+    "rules": [
+      { "label": "Zasada", "text": "Po przyimku zawsze stoi gerund (-ing), nigdy bezokolicznik — nawet jeśli przyimkiem jest 'to' (look forward to, be used to)" },
+      { "label": "Utrwalone zwroty", "text": "insist on, succeed in, think about, believe in, apologize for, worry about + czasownik z -ing" }
+    ],
+    "usage": [
+      "look forward to + gerund — z niecierpliwością na coś czekać",
+      "insist on + gerund — nalegać na coś",
+      "succeed in + gerund — odnieść sukces w czymś",
+      "think about / of + gerund — rozważać coś, myśleć o czymś"
+    ],
+    "tags": ["look forward to", "insist on", "succeed in", "think about"],
+    "examples": [
+      { "en": "I look forward to hearing from you.", "pl": "Z niecierpliwością czekam na wiadomość od ciebie." },
+      { "en": "She insisted on paying for dinner.", "pl": "Nalegała, żeby zapłacić za kolację." },
+      { "en": "He finally succeeded in passing the exam.", "pl": "W końcu udało mu się zdać egzamin." },
+      { "en": "We're thinking about moving to another city.", "pl": "Rozważamy przeprowadzkę do innego miasta." }
+    ]
+  },
+  {
+    "id": "adjective_prep_gerund",
+    "order": 2,
+    "nameEn": "be + adjective + preposition + gerund",
+    "namePl": "be + przymiotnik + przyimek + gerund",
+    "rules": [
+      { "label": "Zasada", "text": "Wiele przymiotników łączy się ze stałym przyimkiem, po którym stoi gerund" },
+      { "label": "Częste połączenia", "text": "interested in, good at, afraid of, tired of, keen on, worried about + gerund" }
+    ],
+    "usage": [
+      "be interested in + gerund — interesować się czymś",
+      "be good/bad at + gerund — być dobrym/słabym w czymś",
+      "be afraid of + gerund — bać się czegoś",
+      "be tired of + gerund — być zmęczonym czymś, mieć czegoś dość"
+    ],
+    "tags": ["interested in", "good at", "afraid of", "tired of"],
+    "examples": [
+      { "en": "She is interested in learning Japanese.", "pl": "Ona interesuje się nauką japońskiego." },
+      { "en": "He is really good at cooking.", "pl": "On naprawdę dobrze gotuje." },
+      { "en": "They are afraid of losing their jobs.", "pl": "Boją się utraty pracy." },
+      { "en": "I'm tired of waiting for the bus.", "pl": "Mam dość czekania na autobus." }
+    ]
+  },
+  {
+    "id": "verb_object_prep_gerund",
+    "order": 3,
+    "nameEn": "Verb + object + preposition + gerund",
+    "namePl": "Czasownik + dopełnienie + przyimek + gerund",
+    "rules": [
+      { "label": "Zasada", "text": "Niektóre czasowniki wymagają dopełnienia (osoby lub rzeczy) przed przyimkiem, po którym stoi gerund" },
+      { "label": "Częste połączenia", "text": "accuse somebody of, thank somebody for, prevent somebody from, stop somebody from, congratulate somebody on" }
+    ],
+    "usage": [
+      "accuse somebody of + gerund — oskarżyć kogoś o coś",
+      "thank somebody for + gerund — podziękować komuś za coś",
+      "prevent / stop somebody from + gerund — powstrzymać kogoś przed czymś",
+      "congratulate somebody on + gerund — pogratulować komuś czegoś"
+    ],
+    "tags": ["accuse of", "thank for", "prevent from", "congratulate on"],
+    "examples": [
+      { "en": "They accused him of stealing the money.", "pl": "Oskarżyli go o kradzież pieniędzy." },
+      { "en": "I want to thank you for helping me.", "pl": "Chcę ci podziękować za pomoc." },
+      { "en": "The rain prevented us from finishing the match.", "pl": "Deszcz uniemożliwił nam dokończenie meczu." },
+      { "en": "We congratulated her on passing the exam.", "pl": "Pogratulowaliśmy jej zdania egzaminu." }
+    ]
+  },
+  {
+    "id": "confusable_patterns",
+    "order": 4,
+    "nameEn": "Confusable patterns: used to vs be used to, stop + -ing vs stop + to",
+    "namePl": "Mylące pary: used to vs be used to, stop + -ing vs stop + to",
+    "rules": [
+      { "label": "used to + bezokolicznik", "text": "dawny nawyk lub stan, który już nie istnieje (I used to smoke.)" },
+      { "label": "be/get used to + gerund", "text": "być przyzwyczajonym / przyzwyczajać się do czegoś (I'm used to getting up early.)" },
+      { "label": "stop + gerund", "text": "przestać coś robić (He stopped smoking.)" },
+      { "label": "stop + bezokolicznik celu", "text": "zatrzymać się, żeby coś zrobić (He stopped to smoke.)" }
+    ],
+    "usage": [
+      "used to + bezokolicznik — nawyk z przeszłości, którego już nie ma",
+      "be used to / get used to + gerund — przyzwyczajenie, oswojenie się z sytuacją",
+      "stop + gerund — zakończenie czynności",
+      "remember/forget + gerund vs + bezokolicznik — różnica w znaczeniu (pamiętać, że coś zrobiłem vs pamiętać, żeby coś zrobić)"
+    ],
+    "tags": ["used to", "be used to", "stop doing", "stop to do"],
+    "examples": [
+      { "en": "I used to play the piano when I was a child.", "pl": "Kiedyś, jako dziecko, grałem na pianinie." },
+      { "en": "She is used to working night shifts now.", "pl": "Ona jest już przyzwyczajona do pracy na nocną zmianę." },
+      { "en": "He stopped smoking two years ago.", "pl": "Rzucił palenie dwa lata temu." },
+      { "en": "On the way home, he stopped to buy some milk.", "pl": "W drodze do domu zatrzymał się, żeby kupić mleko." }
+    ]
+  }
+]

@@ -208,5 +208,12 @@
     "title": "Przypuszczenia o przeszłości",
     "desc": "Czasowniki modalne + bezokolicznik dokonany (must/can't/could/may/might/should have done) — przypuszczenia, pewność, krytyka i żal dotyczące przeszłości, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "verb_patterns",
+    "icon": "🎯",
+    "title": "Wzorce czasownikowe",
+    "desc": "Czasownik + przyimek + gerund oraz utrwalone zwroty jak look forward to i be used to — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
