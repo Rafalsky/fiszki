@@ -30,6 +30,7 @@ const THEORY_URLS = {
   used_to_would: new URL("../data/used_to_would.json", import.meta.url),
   wish_ifonly: new URL("../data/wish_ifonly.json", import.meta.url),
   causative: new URL("../data/causative.json", import.meta.url),
+  adjective_order: new URL("../data/adjective_order.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -55,6 +56,7 @@ const DRILLS_URLS = {
   used_to_would: new URL("../data/used_to_wouldDrills.json", import.meta.url),
   wish_ifonly: new URL("../data/wish_ifonlyDrills.json", import.meta.url),
   causative: new URL("../data/causativeDrills.json", import.meta.url),
+  adjective_order: new URL("../data/adjective_orderDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
