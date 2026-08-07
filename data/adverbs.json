@@ -1,0 +1,102 @@
+[
+  {
+    "id": "adverbs_formation",
+    "order": 1,
+    "nameEn": "forming adverbs of manner with -ly",
+    "namePl": "Tworzenie przysłówków sposobu za pomocą -ly",
+    "rules": [
+      { "label": "Podstawa", "text": "przymiotnik + -ly: quick → quickly, slow → slowly, careful → carefully" },
+      { "label": "-y → -ily", "text": "przymiotnik zakończony na spółgłoskę + y: happy → happily, easy → easily" },
+      { "label": "-le → -ly", "text": "przymiotnik zakończony na -le traci e: gentle → gently, simple → simply" },
+      { "label": "-ic → -ically", "text": "przymiotnik zakończony na -ic zwykle dodaje -ally: basic → basically (wyjątek: public → publicly)" }
+    ],
+    "usage": [
+      "Gdy opisujemy, JAK ktoś coś robi (czasownik + przysłówek sposobu)",
+      "Przymiotniki zakończone na -y zmieniają y na i przed -ly",
+      "Przymiotniki zakończone na -le po prostu wymieniają e na y",
+      "Formę -ically stosujemy niemal zawsze dla przymiotników na -ic"
+    ],
+    "tags": ["quickly", "happily", "gently", "basically"],
+    "examples": [
+      { "en": "She answered the question quickly.", "pl": "Odpowiedziała na pytanie szybko." },
+      { "en": "The children played happily in the garden.", "pl": "Dzieci bawiły się szczęśliwie w ogrodzie." },
+      { "en": "He closed the door gently.", "pl": "Delikatnie zamknął drzwi." },
+      { "en": "Basically, the plan didn't work.", "pl": "Zasadniczo plan nie zadziałał." }
+    ]
+  },
+  {
+    "id": "adverbs_irregular",
+    "order": 2,
+    "nameEn": "irregular adverbs and adjective/adverb look-alikes",
+    "namePl": "Przysłówki nieregularne oraz formy identyczne z przymiotnikiem",
+    "rules": [
+      { "label": "good → well", "text": "przysłówek od good to well (nie 'goodly'): He speaks English well." },
+      { "label": "fast, hard, late", "text": "niektóre przysłówki mają tę samą formę co przymiotnik: fast, hard, late, early, high, low" },
+      { "label": "hardly ≠ hard", "text": "hardly znaczy 'ledwo, prawie wcale', a nie 'ciężko' — to zupełnie inne słowo niż przysłówek od hard" },
+      { "label": "lately ≠ late", "text": "lately znaczy 'ostatnio', a late znaczy 'późno' — obie formy istnieją, ale mają różne znaczenia" }
+    ],
+    "usage": [
+      "Well jest przysłówkiem od good, ale też przymiotnikiem znaczącym 'zdrowy'",
+      "Fast, hard, late, early jako przysłówki wyglądają identycznie jak przymiotnik — nie dodajemy -ly",
+      "Hardly, lately, nearly to osobne słowa o innym znaczeniu niż podstawowy przymiotnik + ly",
+      "Good jako przymiotnik opisuje rzeczownik, well jako przysłówek opisuje czasownik"
+    ],
+    "tags": ["He speaks well.", "She drives fast.", "I hardly know him.", "He worked hard."],
+    "examples": [
+      { "en": "He plays the piano well.", "pl": "Dobrze gra na pianinie." },
+      { "en": "She drives very fast.", "pl": "Jeździ bardzo szybko." },
+      { "en": "He worked hard all day.", "pl": "Pracował ciężko cały dzień." },
+      { "en": "I hardly know him.", "pl": "Ledwo go znam." }
+    ]
+  },
+  {
+    "id": "adverbs_position",
+    "order": 3,
+    "nameEn": "position of adverbs in a sentence",
+    "namePl": "Pozycja przysłówków w zdaniu",
+    "rules": [
+      { "label": "Sposobu — koniec", "text": "przysłówki sposobu (quickly, well) stoją zwykle na końcu zdania, po dopełnieniu: She reads books quickly." },
+      { "label": "Częstotliwości — środek", "text": "przysłówki częstotliwości (always, often, never) stoją przed czasownikiem głównym, ale po 'be': He never lies. / He is never late." },
+      { "label": "Czasu — początek/koniec", "text": "przysłówki czasu (yesterday, tomorrow, now) stoją zwykle na początku lub końcu zdania" },
+      { "label": "Nie między czasownikiem a dopełnieniem", "text": "przysłówek sposobu nie powinien rozdzielać czasownika i dopełnienia: nie 'She speaks fluently English', tylko 'She speaks English fluently'" }
+    ],
+    "usage": [
+      "Przysłówki częstotliwości: przed czasownikiem zwykłym, ale po 'to be' i po czasowniku posiłkowym",
+      "Przysłówki sposobu na końcu zdania, po czasowniku i dopełnieniu",
+      "Przysłówki czasu najczęściej na końcu zdania (styl neutralny) lub na początku (nacisk)",
+      "Nigdy nie wstawiamy przysłówka sposobu między czasownik a jego dopełnienie"
+    ],
+    "tags": ["He always arrives on time.", "She speaks English fluently.", "I saw him yesterday.", "She is usually tired."],
+    "examples": [
+      { "en": "He always arrives on time.", "pl": "Zawsze przychodzi na czas." },
+      { "en": "She speaks English fluently.", "pl": "Mówi płynnie po angielsku." },
+      { "en": "I saw him yesterday.", "pl": "Widziałem go wczoraj." },
+      { "en": "She is usually tired after work.", "pl": "Zwykle jest zmęczona po pracy." }
+    ]
+  },
+  {
+    "id": "adverbs_comparison",
+    "order": 4,
+    "nameEn": "comparative and superlative adverbs",
+    "namePl": "Stopniowanie przysłówków",
+    "rules": [
+      { "label": "Krótkie przysłówki", "text": "jednosylabowe (fast, hard, late) stopniujemy jak przymiotniki: fast → faster → fastest" },
+      { "label": "Przysłówki na -ly", "text": "dłuższe, zakończone na -ly, stopniujemy przez more/most: quickly → more quickly → most quickly" },
+      { "label": "Nieregularne", "text": "well → better → best, badly → worse → worst, far → farther/further → farthest/furthest" },
+      { "label": "as...as", "text": "do porównania równości: She runs as fast as her brother." }
+    ],
+    "usage": [
+      "Krótkie przysłówki (te bez -ly, jak fast, hard) dostają końcówki -er/-est",
+      "Przysłówki utworzone przez -ly niemal zawsze stopniujemy opisowo (more/most)",
+      "Formy nieregularne (well, badly, far) trzeba zapamiętać osobno",
+      "Konstrukcja as...as służy do wyrażenia, że coś dzieje się w takim samym stopniu"
+    ],
+    "tags": ["faster", "more quickly", "better", "as fast as"],
+    "examples": [
+      { "en": "He runs faster than his brother.", "pl": "Biega szybciej niż jego brat." },
+      { "en": "She explained it more clearly this time.", "pl": "Wyjaśniła to tym razem jaśniej." },
+      { "en": "He plays tennis better than me.", "pl": "Gra w tenisa lepiej ode mnie." },
+      { "en": "She works as hard as her colleagues.", "pl": "Pracuje tak ciężko jak jej koledzy." }
+    ]
+  }
+]

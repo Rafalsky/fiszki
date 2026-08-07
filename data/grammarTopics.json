@@ -159,5 +159,12 @@
     "title": "Kolejność przymiotników",
     "desc": "Kolejność przymiotników przed rzeczownikiem (opinia, rozmiar, wiek, kształt, kolor, pochodzenie, materiał) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "adverbs",
+    "icon": "🏃",
+    "title": "Przysłówki",
+    "desc": "Tworzenie przysłówków i ich pozycja w zdaniu — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
