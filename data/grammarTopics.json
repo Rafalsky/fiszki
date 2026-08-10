@@ -313,5 +313,12 @@
     "title": "Wykrzyknienia",
     "desc": "What a…! i How…! — budowa zdań wykrzyknikowych, kiedy którego wzorca użyć, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 34
+  },
+  {
+    "id": "would_rather_had_better",
+    "icon": "⚖️",
+    "title": "Would rather / had better",
+    "desc": "would rather do wyrażania preferencji, had better do dawania rad z konsekwencjami — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
