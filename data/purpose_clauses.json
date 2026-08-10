@@ -1,0 +1,98 @@
+[
+  {
+    "id": "to_infinitive",
+    "order": 1,
+    "nameEn": "to + infinitive — purpose with the same subject",
+    "namePl": "to + bezokolicznik — cel przy tym samym podmiocie",
+    "rules": [
+      { "label": "to + verb", "text": "Bezokolicznik z 'to' wyraża cel czynności, gdy podmiot obu czynności jest ten sam" },
+      { "label": "kolejność", "text": "Zwykle na końcu zdania, po czynności głównej: I went to the shop to buy milk." },
+      { "label": "przeczenie celu", "text": "Nie używamy samego 'not to' dla przeczenia celu — zamiast tego 'so as not to' lub 'in order not to'" }
+    ],
+    "usage": [
+      "Odpowiada na pytanie 'po co? / w jakim celu?'",
+      "Podmiot czynności głównej i czynności celu jest ten sam",
+      "Najczęstszy, najbardziej neutralny sposób wyrażania celu w mowie codziennej",
+      "Może stać na początku zdania dla podkreślenia: To pass the exam, she studied every day."
+    ],
+    "tags": ["to buy", "to see", "to learn", "to relax"],
+    "examples": [
+      { "en": "I went to the shop to buy some milk.", "pl": "Poszedłem do sklepu, żeby kupić mleko." },
+      { "en": "She called me to ask for help.", "pl": "Zadzwoniła do mnie, żeby poprosić o pomoc." },
+      { "en": "He saves money to travel abroad.", "pl": "On oszczędza pieniądze, żeby podróżować za granicę." },
+      { "en": "To pass the exam, she studied every day.", "pl": "Żeby zdać egzamin, uczyła się codziennie." }
+    ]
+  },
+  {
+    "id": "in_order_to_so_as_to",
+    "order": 2,
+    "nameEn": "in order to / so as to — formal purpose, negative forms",
+    "namePl": "in order to / so as to — formalne wyrażanie celu, formy przeczące",
+    "rules": [
+      { "label": "in order to", "text": "Bardziej formalny odpowiednik 'to' — częsty w piśmie i oficjalnych wypowiedziach" },
+      { "label": "so as to", "text": "Podobne znaczenie do 'in order to', też formalne, częste przed czasownikami stanu (be, have, avoid)" },
+      { "label": "przeczenie", "text": "Forma przecząca celu: 'in order not to' / 'so as not to' + bezokolicznik" }
+    ],
+    "usage": [
+      "Gdy chcemy brzmieć bardziej formalnie niż samo 'to'",
+      "Na początku zdania dla podkreślenia celu: In order to succeed, you must work hard.",
+      "Do wyrażania celu negatywnego, czyli 'żeby czegoś nie zrobić'",
+      "so as to jest szczególnie częste z czasownikami avoid, be, have"
+    ],
+    "tags": ["in order to", "so as to", "in order not to", "so as not to"],
+    "examples": [
+      { "en": "She left early in order to catch the train.", "pl": "Wyszła wcześnie, żeby złapać pociąg." },
+      { "en": "He whispered so as not to wake the baby.", "pl": "Szeptał, żeby nie obudzić dziecka." },
+      { "en": "In order to succeed, you must work hard.", "pl": "Żeby odnieść sukces, musisz ciężko pracować." },
+      { "en": "They took a taxi so as to arrive on time.", "pl": "Wzięli taksówkę, żeby przyjechać na czas." }
+    ]
+  },
+  {
+    "id": "so_that",
+    "order": 3,
+    "nameEn": "so that — purpose clauses with a modal verb",
+    "namePl": "so that — zdania celu z czasownikiem modalnym",
+    "rules": [
+      { "label": "so that + can/will", "text": "Gdy czynność celu jest w czasie teraźniejszym/przyszłym: I'll leave now so that I can catch the bus." },
+      { "label": "so that + could/would", "text": "Gdy czynność główna jest w czasie przeszłym: She whispered so that nobody could hear." },
+      { "label": "różne podmioty", "text": "'so that' jest niezbędne (zamiast 'to'), gdy podmiot zdania celu różni się od podmiotu zdania głównego" }
+    ],
+    "usage": [
+      "Gdy podmioty obu czynności są różne: I gave her my number so that she could call me.",
+      "Gdy potrzebny jest czasownik modalny wyrażający zdolność/możliwość w celu",
+      "Częste w mowie potocznej jako naturalna alternatywa dla 'in order to'",
+      "'so that' może też wyrażać rezultat, ale tutaj skupiamy się na jego użyciu do wyrażania celu"
+    ],
+    "tags": ["so that", "so that + can", "so that + could", "so that + would"],
+    "examples": [
+      { "en": "I'll leave now so that I can catch the bus.", "pl": "Wyjdę teraz, żeby zdążyć na autobus." },
+      { "en": "She whispered so that nobody could hear.", "pl": "Szeptała, żeby nikt nie usłyszał." },
+      { "en": "I gave her my number so that she could call me.", "pl": "Dałem jej mój numer, żeby mogła do mnie zadzwonić." },
+      { "en": "He turned down the music so that the baby would sleep.", "pl": "Ściszył muzykę, żeby dziecko zasnęło." }
+    ]
+  },
+  {
+    "id": "for_purpose",
+    "order": 4,
+    "nameEn": "for + noun/gerund — purpose of an object or general activity",
+    "namePl": "for + rzeczownik/gerund — przeznaczenie przedmiotu lub ogólna czynność",
+    "rules": [
+      { "label": "for + rzeczownik", "text": "Wyraża przeznaczenie przedmiotu: This knife is for cutting bread." },
+      { "label": "for + gerund", "text": "Opisuje ogólne przeznaczenie/funkcję czegoś, nie jednorazową czynność z konkretnym podmiotem" },
+      { "label": "for vs to", "text": "'for' + rzeczownik/gerund opisuje funkcję rzeczy; 'to' + bezokolicznik opisuje cel działania osoby" }
+    ],
+    "usage": [
+      "Opisywanie przeznaczenia narzędzi i przedmiotów: a tool for opening cans",
+      "Ogólne stwierdzenia o funkcji czegoś, bez konkretnego podmiotu wykonującego czynność",
+      "Nie mylić z 'to + infinitive', które opisuje cel konkretnej osoby wykonującej czynność",
+      "'What... for?' to typowe pytanie o przeznaczenie czegoś: What is this button for?"
+    ],
+    "tags": ["for cutting", "for opening", "what... for", "for cleaning"],
+    "examples": [
+      { "en": "This knife is for cutting bread.", "pl": "Ten nóż jest do krojenia chleba." },
+      { "en": "A corkscrew is a tool for opening bottles.", "pl": "Korkociąg to narzędzie do otwierania butelek." },
+      { "en": "What is this switch for?", "pl": "Do czego służy ten przełącznik?" },
+      { "en": "We use this spray for cleaning windows.", "pl": "Używamy tego sprayu do czyszczenia okien." }
+    ]
+  }
+]
