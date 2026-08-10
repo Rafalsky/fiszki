@@ -1,0 +1,98 @@
+[
+  {
+    "id": "have_got",
+    "order": 1,
+    "nameEn": "have got vs have (possession)",
+    "namePl": "have got a have — wyrażanie posiadania",
+    "rules": [
+      { "label": "BrE", "text": "W brytyjskim angielskim posiadanie i pytania o nie zwykle wyraża się przez 'have got' (Have you got...? / I haven't got...)" },
+      { "label": "AmE", "text": "W amerykańskim angielskim naturalniejsze jest zwykłe 'have' z operatorem 'do' (Do you have...? / I don't have...)" },
+      { "label": "Uwaga", "text": "Obie formy są zrozumiałe po obu stronach Atlantyku, ale w ćwiczeniach trzymamy się wskazanego wariantu" }
+    ],
+    "usage": [
+      "Pytania o posiadanie w BrE: Have you got a car?",
+      "Pytania o posiadanie w AmE: Do you have a car?",
+      "Przeczenia w BrE: I haven't got any money.",
+      "Przeczenia w AmE: I don't have any money."
+    ],
+    "tags": ["Have you got...?", "Do you have...?", "haven't got", "don't have"],
+    "examples": [
+      { "en": "Have you got a sister? (BrE)", "pl": "Masz siostrę? (brytyjski)" },
+      { "en": "Do you have a sister? (AmE)", "pl": "Masz siostrę? (amerykański)" },
+      { "en": "She hasn't got a driving licence. (BrE)", "pl": "Ona nie ma prawa jazdy. (brytyjski)" },
+      { "en": "She doesn't have a driving licence. (AmE)", "pl": "Ona nie ma prawa jazdy. (amerykański)" }
+    ]
+  },
+  {
+    "id": "collective_nouns",
+    "order": 2,
+    "nameEn": "Collective nouns: singular or plural verb",
+    "namePl": "Rzeczowniki zbiorowe — liczba pojedyncza czy mnoga czasownika",
+    "rules": [
+      { "label": "BrE", "text": "Rzeczowniki zbiorowe (team, family, government, staff) mogą łączyć się z czasownikiem w liczbie mnogiej, gdy podkreślamy poszczególnych członków grupy" },
+      { "label": "AmE", "text": "Rzeczowniki zbiorowe niemal zawsze łączą się z czasownikiem w liczbie pojedynczej, traktowane jako jedna całość" },
+      { "label": "Zaimek", "text": "Zgodnie z liczbą czasownika dobiera się też zaimek: 'The team are doing their best' (BrE) vs 'The team is doing its best' (AmE)" }
+    ],
+    "usage": [
+      "The team are playing well tonight. (BrE, drużyna jako zbiór osób)",
+      "The team is playing well tonight. (AmE, drużyna jako jednostka)",
+      "My family are all doctors. (BrE)",
+      "My family is very supportive. (AmE)"
+    ],
+    "tags": ["The team are/is", "My family are/is", "government are/is", "staff"],
+    "examples": [
+      { "en": "The government are considering new taxes. (BrE)", "pl": "Rząd rozważa nowe podatki. (brytyjski)" },
+      { "en": "The government is considering new taxes. (AmE)", "pl": "Rząd rozważa nowe podatki. (amerykański)" },
+      { "en": "England are winning the match. (BrE, sport)", "pl": "Anglia wygrywa mecz. (brytyjski)" },
+      { "en": "The committee has made its decision. (AmE)", "pl": "Komisja podjęła decyzję. (amerykański)" }
+    ]
+  },
+  {
+    "id": "present_perfect_vs_past",
+    "order": 3,
+    "nameEn": "Present Perfect vs Simple Past with just/already/yet",
+    "namePl": "Present Perfect a Simple Past z just/already/yet",
+    "rules": [
+      { "label": "BrE", "text": "Z 'just', 'already' i 'yet' oraz przy ogłaszaniu świeżej wiadomości standardowo używa się Present Perfect" },
+      { "label": "AmE", "text": "W tych samych kontekstach naturalny i akceptowalny jest też Simple Past" },
+      { "label": "Imiesłów 'get'", "text": "BrE używa 'got' jako imiesłowu (have got), AmE rozróżnia 'have gotten' (stać się/otrzymać) od 'have got' (posiadać)" }
+    ],
+    "usage": [
+      "I've just finished my homework. (BrE, typowe)",
+      "I just finished my homework. (AmE, typowe)",
+      "Have you done it yet? (BrE)",
+      "Did you do it yet? (AmE)"
+    ],
+    "tags": ["I've just...", "I just...", "have you done it yet", "gotten"],
+    "examples": [
+      { "en": "I've already eaten. (BrE)", "pl": "Już zjadłem. (brytyjski)" },
+      { "en": "I already ate. (AmE)", "pl": "Już zjadłem. (amerykański)" },
+      { "en": "She's gotten much better at tennis. (AmE)", "pl": "Ona znacznie się poprawiła w tenisie. (amerykański)" },
+      { "en": "She's got much better at tennis. (BrE)", "pl": "Ona znacznie się poprawiła w tenisie. (brytyjski)" }
+    ]
+  },
+  {
+    "id": "shall_needn't",
+    "order": 4,
+    "nameEn": "shall & needn't vs will & don't need to",
+    "namePl": "shall i needn't a will i don't need to",
+    "rules": [
+      { "label": "BrE", "text": "W propozycjach i pytaniach o sugestie w pierwszej osobie BrE chętnie używa 'shall' (Shall we go? Shall I help?)" },
+      { "label": "AmE", "text": "W tych samych sytuacjach AmE zwykle woli 'should' albo 'will/let's' (Should we go? Let's go.)" },
+      { "label": "needn't", "text": "BrE dopuszcza modalne 'needn't' (You needn't worry), AmE preferuje opisowe 'don't need to' (You don't need to worry)" }
+    ],
+    "usage": [
+      "Shall we start? (BrE, propozycja)",
+      "Should we start? / Let's start. (AmE)",
+      "You needn't apologise. (BrE)",
+      "You don't need to apologize. (AmE)"
+    ],
+    "tags": ["Shall we...?", "needn't", "don't need to", "Should we...?"],
+    "examples": [
+      { "en": "Shall I open the window? (BrE)", "pl": "Czy mam otworzyć okno? (brytyjski)" },
+      { "en": "Should I open the window? (AmE)", "pl": "Czy mam otworzyć okno? (amerykański)" },
+      { "en": "You needn't bring anything to the party. (BrE)", "pl": "Nie musisz nic przynosić na przyjęcie. (brytyjski)" },
+      { "en": "You don't need to bring anything to the party. (AmE)", "pl": "Nie musisz nic przynosić na przyjęcie. (amerykański)" }
+    ]
+  }
+]

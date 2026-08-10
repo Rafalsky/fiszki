@@ -271,5 +271,12 @@
     "title": "Markery dyskursu",
     "desc": "Markery dyskursu: well, actually, by the way, anyway, on the other hand — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "british_american",
+    "icon": "🇬🇧",
+    "title": "Brytyjski vs amerykański angielski",
+    "desc": "Różnice gramatyczne między angielskim brytyjskim a amerykańskim: have got, czasy, rzeczowniki zbiorowe, shall/needn't — teoria, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
