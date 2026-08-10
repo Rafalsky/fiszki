@@ -1,0 +1,91 @@
+[
+  {
+    "id": "there_is",
+    "order": 1,
+    "nameEn": "There is — singular / uncountable",
+    "namePl": "There is — liczba pojedyncza i rzeczowniki niepoliczalne",
+    "rules": [
+      { "label": "Budowa", "text": "there is + rzeczownik policzalny w liczbie pojedynczej lub rzeczownik niepoliczalny" },
+      { "label": "Skrót", "text": "there is skraca się do there's w mowie i nieformalnym piśmie" }
+    ],
+    "usage": [
+      "Informowanie o istnieniu jednej rzeczy lub osoby w danym miejscu",
+      "Mówienie o rzeczownikach niepoliczalnych (there is some water)",
+      "Wprowadzanie nowej informacji do rozmowy"
+    ],
+    "tags": ["there is a", "there's", "there is some"],
+    "examples": [
+      { "en": "There is a cat on the roof.", "pl": "Na dachu jest kot." },
+      { "en": "There's some milk in the fridge.", "pl": "W lodówce jest trochę mleka." },
+      { "en": "There is a problem with the printer.", "pl": "Jest problem z drukarką." },
+      { "en": "There's a nice restaurant near my house.", "pl": "Niedaleko mojego domu jest fajna restauracja." }
+    ]
+  },
+  {
+    "id": "there_are",
+    "order": 2,
+    "nameEn": "There are — plural",
+    "namePl": "There are — liczba mnoga",
+    "rules": [
+      { "label": "Budowa", "text": "there are + rzeczownik policzalny w liczbie mnogiej" },
+      { "label": "Liczebniki", "text": "po there are często pojawiają się liczebniki lub kwantyfikatory (many, several, a few)" }
+    ],
+    "usage": [
+      "Informowanie o istnieniu więcej niż jednej rzeczy lub osoby",
+      "Podawanie liczby lub ilości czegoś w danym miejscu",
+      "Opisywanie tego, co znajduje się w pomieszczeniu, mieście itp."
+    ],
+    "tags": ["there are two", "there are many", "there are some"],
+    "examples": [
+      { "en": "There are three chairs in the kitchen.", "pl": "W kuchni są trzy krzesła." },
+      { "en": "There are many people at the concert.", "pl": "Na koncercie jest wielu ludzi." },
+      { "en": "There are no eggs left.", "pl": "Nie zostały żadne jajka." },
+      { "en": "There are several reasons for this decision.", "pl": "Jest kilka powodów tej decyzji." }
+    ]
+  },
+  {
+    "id": "there_was_were",
+    "order": 3,
+    "nameEn": "There was / there were — past",
+    "namePl": "There was / there were — czas przeszły",
+    "rules": [
+      { "label": "There was", "text": "there was + rzeczownik w liczbie pojedynczej lub niepoliczalny w czasie przeszłym" },
+      { "label": "There were", "text": "there were + rzeczownik w liczbie mnogiej w czasie przeszłym" }
+    ],
+    "usage": [
+      "Opisywanie tego, co istniało lub znajdowało się gdzieś w przeszłości",
+      "Relacjonowanie wydarzeń, które miały miejsce (there was an accident)",
+      "Opowiadanie historii i opisywanie scenerii w czasie przeszłym"
+    ],
+    "tags": ["there was a", "there were many", "there wasn't"],
+    "examples": [
+      { "en": "There was a storm last night.", "pl": "Zeszłej nocy była burza." },
+      { "en": "There were a lot of tourists in the city.", "pl": "W mieście było mnóstwo turystów." },
+      { "en": "There wasn't any food in the house.", "pl": "W domu nie było żadnego jedzenia." },
+      { "en": "There were three books on the table.", "pl": "Na stole były trzy książki." }
+    ]
+  },
+  {
+    "id": "there_questions_negation",
+    "order": 4,
+    "nameEn": "Questions and negation with there",
+    "namePl": "Pytania i przeczenia z there",
+    "rules": [
+      { "label": "Pytania", "text": "Is there...? / Are there...? — inwersja there i is/are" },
+      { "label": "Przeczenia", "text": "there isn't / there aren't / there is no / there are no" },
+      { "label": "Krótkie odpowiedzi", "text": "Yes, there is. / No, there isn't. / Yes, there are. / No, there aren't." }
+    ],
+    "usage": [
+      "Pytanie o istnienie lub dostępność czegoś",
+      "Zaprzeczanie istnieniu czegoś w danym miejscu",
+      "Udzielanie krótkich odpowiedzi na pytania z there is/are"
+    ],
+    "tags": ["is there", "are there", "there isn't", "there is no"],
+    "examples": [
+      { "en": "Is there a bank near here?", "pl": "Czy jest tu w pobliżu bank?" },
+      { "en": "Are there any tickets left?", "pl": "Czy zostały jakieś bilety?" },
+      { "en": "There isn't a pool in this hotel.", "pl": "W tym hotelu nie ma basenu." },
+      { "en": "There are no clean towels.", "pl": "Nie ma czystych ręczników." }
+    ]
+  }
+]
