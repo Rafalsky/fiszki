@@ -50,6 +50,7 @@ const THEORY_URLS = {
   british_american: new URL("../data/british_american.json", import.meta.url),
   time_clauses: new URL("../data/time_clauses.json", import.meta.url),
   subject_verb_agreement: new URL("../data/subject_verb_agreement.json", import.meta.url),
+  imperatives: new URL("../data/imperatives.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -95,6 +96,7 @@ const DRILLS_URLS = {
   british_american: new URL("../data/british_americanDrills.json", import.meta.url),
   time_clauses: new URL("../data/time_clausesDrills.json", import.meta.url),
   subject_verb_agreement: new URL("../data/subject_verb_agreementDrills.json", import.meta.url),
+  imperatives: new URL("../data/imperativesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
