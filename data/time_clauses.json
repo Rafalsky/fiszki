@@ -1,0 +1,99 @@
+[
+  {
+    "id": "when_while_as",
+    "order": 1,
+    "nameEn": "when / while / as — time conjunctions for simultaneous actions",
+    "namePl": "when / while / as — spójniki czasu dla czynności równoczesnych",
+    "rules": [
+      { "label": "when", "text": "krótkie, punktowe zdarzenie lub moment w czasie; często przerywa dłuższą czynność w tle" },
+      { "label": "while", "text": "+ czynność trwająca (często Continuous) w tle, na tle której dzieje się coś innego" },
+      { "label": "as", "text": "podkreśla dwie czynności rozwijające się równolegle i zmieniające się w tym samym tempie" }
+    ],
+    "usage": [
+      "when + czynność krótka/punktowa: When the phone rang, I answered it.",
+      "while/as + czynność długa w tle, zwykle Past/Present Continuous: While I was cooking, she was reading.",
+      "as podkreśla dokładną równoczesność zmian: As it got darker, the temperature dropped.",
+      "when może też wprowadzać nagłe przerwanie dłuższej czynności: I was reading when the phone rang."
+    ],
+    "tags": ["when", "while", "as"],
+    "examples": [
+      { "en": "When the phone rang, I answered it.", "pl": "Gdy zadzwonił telefon, odebrałem." },
+      { "en": "While I was cooking dinner, she was setting the table.", "pl": "Podczas gdy gotowałem obiad, ona nakrywała do stołu." },
+      { "en": "As it got darker, the temperature dropped.", "pl": "W miarę jak robiło się ciemniej, temperatura spadała." },
+      { "en": "I was reading a book when the phone rang.", "pl": "Czytałem książkę, gdy zadzwonił telefon." }
+    ]
+  },
+  {
+    "id": "before_after_until",
+    "order": 2,
+    "nameEn": "before / after / until / till — sequence of events",
+    "namePl": "before / after / until / till — kolejność zdarzeń",
+    "rules": [
+      { "label": "before", "text": "wprowadza czynność, która następuje później niż czynność w zdaniu głównym — „zanim”" },
+      { "label": "after", "text": "wprowadza czynność wcześniejszą niż czynność w zdaniu głównym — „po tym jak”" },
+      { "label": "until / till", "text": "„aż do”, „dopóki nie” — czynność trwa do momentu, aż coś się wydarzy; till jest bardziej potoczne" }
+    ],
+    "usage": [
+      "before + zdanie: wykonaj X, zanim wydarzy się Y",
+      "after + zdanie: wykonaj X, po tym jak wydarzyło się Y",
+      "until/till + zdanie: czynność ciągła trwa do punktu w czasie (Wait until she calls.)",
+      "not... until: podkreśla, że coś nie stanie się wcześniej niż w danym momencie (I won't leave until you arrive.)"
+    ],
+    "tags": ["before", "after", "until", "till"],
+    "examples": [
+      { "en": "Wash your hands before you eat.", "pl": "Umyj ręce, zanim zjesz." },
+      { "en": "After she finished her homework, she watched TV.", "pl": "Po odrobieniu lekcji obejrzała telewizję." },
+      { "en": "Wait here until I come back.", "pl": "Czekaj tutaj, aż wrócę." },
+      { "en": "I won't leave until you arrive.", "pl": "Nie wyjdę, dopóki nie przyjedziesz." }
+    ]
+  },
+  {
+    "id": "as_soon_as_once_by_the_time",
+    "order": 3,
+    "nameEn": "as soon as / once / by the time — immediacy and deadlines",
+    "namePl": "as soon as / once / by the time — natychmiastowość i terminy",
+    "rules": [
+      { "label": "as soon as", "text": "„jak tylko” — czynność w zdaniu głównym następuje natychmiast po czynności w zdaniu czasowym" },
+      { "label": "once", "text": "„gdy tylko / kiedy już” — podkreśla zakończenie jednej czynności jako warunek rozpoczęcia drugiej" },
+      { "label": "by the time", "text": "„zanim / do czasu gdy” — czynność w zdaniu głównym musi być zakończona do momentu wskazanego w zdaniu czasowym; często z Future Perfect w zdaniu głównym" }
+    ],
+    "usage": [
+      "as soon as + Present Simple (dla przyszłości): I'll call you as soon as I arrive.",
+      "once + Present Simple: Once you finish, you can go home.",
+      "by the time + Present Simple, zdanie główne w Future Perfect: By the time you arrive, I will have finished cooking.",
+      "by the time może też opisywać przeszłość: By the time we got there, the film had already started."
+    ],
+    "tags": ["as soon as", "once", "by the time"],
+    "examples": [
+      { "en": "I'll call you as soon as I arrive.", "pl": "Zadzwonię do ciebie, jak tylko przyjadę." },
+      { "en": "Once you finish your homework, you can go outside.", "pl": "Gdy tylko skończysz lekcje, możesz wyjść na dwór." },
+      { "en": "By the time you arrive, I will have finished cooking.", "pl": "Zanim przyjedziesz, skończę gotować." },
+      { "en": "By the time we got there, the film had already started.", "pl": "Zanim tam dotarliśmy, film już się zaczął." }
+    ]
+  },
+  {
+    "id": "no_future_in_time_clauses",
+    "order": 4,
+    "nameEn": "No future tense after time conjunctions",
+    "namePl": "Brak czasu przyszłego po spójnikach czasu",
+    "rules": [
+      { "label": "Zasada", "text": "W zdaniu czasowym (po when/while/before/after/until/as soon as/by the time/once), gdy mowa o przyszłości, NIE używamy will — używamy Present Simple lub Present Perfect" },
+      { "label": "Present Simple", "text": "dla zwykłej przyszłej czynności w zdaniu czasowym (When she arrives, we'll start.)" },
+      { "label": "Present Perfect", "text": "gdy chcemy podkreślić, że czynność w zdaniu czasowym musi się zakończyć, zanim zajdzie czynność główna (As soon as I have finished, I'll call you.)" },
+      { "label": "Zakres reguły", "text": "dotyczy TYLKO zdania czasowego — zdanie główne nadal może mieć will/going to" }
+    ],
+    "usage": [
+      "When he calls, I will tell him the news. (nie: When he will call...)",
+      "I'll wait here until you come back. (nie: until you will come)",
+      "As soon as I've finished this report, I'll send it to you.",
+      "We'll go for a walk after it stops raining."
+    ],
+    "tags": ["when he arrives", "until she calls", "as soon as I've finished", "no will"],
+    "examples": [
+      { "en": "When he calls, I will tell him the news.", "pl": "Gdy zadzwoni, powiem mu nowinę." },
+      { "en": "I'll wait here until you come back.", "pl": "Poczekam tu, aż wrócisz." },
+      { "en": "As soon as I've finished this report, I'll send it to you.", "pl": "Jak tylko skończę ten raport, wyślę ci go." },
+      { "en": "We'll go for a walk after it stops raining.", "pl": "Pójdziemy na spacer, gdy przestanie padać." }
+    ]
+  }
+]
