@@ -320,5 +320,12 @@
     "title": "Would rather / had better",
     "desc": "would rather do wyrażania preferencji, had better do dawania rad z konsekwencjami — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "purpose_clauses",
+    "icon": "🏹",
+    "title": "Zdania celu",
+    "desc": "Wyrażanie celu: to / in order to / so as to / so that / for — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
