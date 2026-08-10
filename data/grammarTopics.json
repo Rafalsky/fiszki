@@ -383,5 +383,12 @@
     "title": "Zdania ustępstwa",
     "desc": "Zdania ustępstwa z whatever/whoever/whenever/wherever/however oraz no matter what/who/where/when/how — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "stative_verbs",
+    "icon": "❄️",
+    "title": "Czasowniki stanowe",
+    "desc": "Czasowniki, których zwykle nie używamy w czasach continuous (know, like, have, understand) oraz czasowniki o podwójnym znaczeniu (stanowym i czynnościowym) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
