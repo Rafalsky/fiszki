@@ -264,5 +264,12 @@
     "title": "Przyimki zależne",
     "desc": "Czasowniki, przymiotniki i rzeczowniki ze stałym przyimkiem (depend on, interested in, reason for) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "discourse_markers",
+    "icon": "💬",
+    "title": "Markery dyskursu",
+    "desc": "Markery dyskursu: well, actually, by the way, anyway, on the other hand — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
