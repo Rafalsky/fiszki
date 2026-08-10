@@ -1,0 +1,98 @@
+[
+  {
+    "id": "affirmative",
+    "order": 1,
+    "nameEn": "Affirmative imperative",
+    "namePl": "Tryb rozkazujący twierdzący",
+    "rules": [
+      { "label": "Budowa", "text": "Bezokolicznik bez to na początku zdania, bez podmiotu (Close the door. Sit down. Listen carefully.)" },
+      { "label": "Podmiot domyślny", "text": "Podmiotem jest zawsze you (ty/wy), ale nigdy go nie wymawiamy ani nie zapisujemy" },
+      { "label": "Emfaza z do", "text": "Do + bezokolicznik wzmacnia polecenie lub brzmi bardziej uprzejmie (Do sit down. Do be careful.)" }
+    ],
+    "usage": [
+      "Polecenia i rozkazy (Open your books.)",
+      "Instrukcje i przepisy krok po kroku (Mix the eggs and sugar. Turn left at the corner.)",
+      "Rady i ostrzeżenia (Be careful! Take an umbrella.)",
+      "Zaproszenia i uprzejme propozycje, zwykle z please (Please, take a seat. Have some cake.)"
+    ],
+    "tags": ["close the door", "sit down", "do be careful", "please take a seat"],
+    "examples": [
+      { "en": "Close the window, please.", "pl": "Zamknij okno, proszę." },
+      { "en": "Turn left at the next corner.", "pl": "Skręć w lewo na następnym rogu." },
+      { "en": "Be careful on the stairs.", "pl": "Uważaj na schodach." },
+      { "en": "Do come in, the door is open.", "pl": "Wejdź śmiało, drzwi są otwarte." }
+    ]
+  },
+  {
+    "id": "negative",
+    "order": 2,
+    "nameEn": "Negative imperative",
+    "namePl": "Tryb rozkazujący przeczący",
+    "rules": [
+      { "label": "Budowa", "text": "Don't + bezokolicznik bez to (Don't touch that. Don't be late.)" },
+      { "label": "Forma pełna", "text": "W stylu formalnym lub dla emfazy używa się Do not zamiast Don't (Do not enter.)" },
+      { "label": "never", "text": "Never + bezokolicznik dla mocniejszego, trwałego zakazu (Never talk to strangers.)" }
+    ],
+    "usage": [
+      "Zakazy i ostrzeżenia (Don't touch the stove.)",
+      "Napisy i instrukcje formalne (Do not feed the animals.)",
+      "Rady, czego nie robić (Don't worry, it will be fine.)",
+      "Stanowcze, ogólne zakazy z never (Never lie to your parents.)"
+    ],
+    "tags": ["don't touch", "do not enter", "don't worry", "never talk to strangers"],
+    "examples": [
+      { "en": "Don't touch that, it's hot.", "pl": "Nie dotykaj tego, jest gorące." },
+      { "en": "Do not enter without permission.", "pl": "Nie wchodź bez pozwolenia." },
+      { "en": "Don't worry, everything will be fine.", "pl": "Nie martw się, wszystko będzie dobrze." },
+      { "en": "Never leave the door unlocked.", "pl": "Nigdy nie zostawiaj drzwi niezamkniętych." }
+    ]
+  },
+  {
+    "id": "lets",
+    "order": 3,
+    "nameEn": "Let's — suggestions",
+    "namePl": "Let's — propozycje",
+    "rules": [
+      { "label": "Budowa", "text": "Let's (let us) + bezokolicznik bez to dla propozycji obejmującej mówiącego (Let's go. Let's eat.)" },
+      { "label": "Przeczenie", "text": "Let's not + bezokolicznik (Let's not argue about this.)" },
+      { "label": "shall we?", "text": "Zdania z Let's tworzą question tag shall we? (Let's go, shall we?)" }
+    ],
+    "usage": [
+      "Propozycje wspólnego działania, gdzie mówiący też bierze udział (Let's take a break.)",
+      "Sugestie w rozmowie, łagodniejsze niż rozkaz (Let's see what happens.)",
+      "Odrzucenie pomysłu wspólnie (Let's not waste any more time.)",
+      "Zaproszenie do zgody z shall we? na końcu"
+    ],
+    "tags": ["let's go", "let's not argue", "let's see", "shall we?"],
+    "examples": [
+      { "en": "Let's take a break for ten minutes.", "pl": "Zróbmy dziesięciominutową przerwę." },
+      { "en": "Let's not tell anyone about this yet.", "pl": "Nie mówmy nikomu o tym jeszcze." },
+      { "en": "Let's watch a film tonight, shall we?", "pl": "Obejrzyjmy dziś film, dobrze?" },
+      { "en": "Let's see what the weather is like tomorrow.", "pl": "Zobaczmy, jaka będzie jutro pogoda." }
+    ]
+  },
+  {
+    "id": "subject_softeners",
+    "order": 4,
+    "nameEn": "Naming the subject & softening imperatives",
+    "namePl": "Wskazanie adresata i łagodzenie poleceń",
+    "rules": [
+      { "label": "Wskazanie adresata", "text": "Rzeczownik lub imię można dodać na początku lub na końcu, oddzielone przecinkiem, żeby wskazać, do kogo kierujemy polecenie (Anna, close the door. Wait here, everyone.)" },
+      { "label": "you dla emfazy", "text": "You przed bezokolicznikiem dodaje się dla podkreślenia lub złości, wskazując wyraźnie na adresata (You be quiet!)" },
+      { "label": "Łagodzenie", "text": "Please, could you..., would you mind... zamieniają rozkaz w uprzejmą prośbę" }
+    ],
+    "usage": [
+      "Zwracanie się do konkretnej osoby w grupie (Boys, stop shouting.)",
+      "Podkreślenie i emocje (You listen to me!)",
+      "Grzeczna prośba zamiast surowego rozkazu (Could you close the window, please?)",
+      "Please na początku lub końcu zdania łagodzi ton (Please wait. / Wait, please.)"
+    ],
+    "tags": ["anna, close the door", "you be quiet", "could you close", "wait, please"],
+    "examples": [
+      { "en": "Boys, stop shouting in the hallway.", "pl": "Chłopcy, przestańcie krzyczeć na korytarzu." },
+      { "en": "You be quiet and listen!", "pl": "Ty się uciszysz i będziesz słuchać!" },
+      { "en": "Could you close the window, please?", "pl": "Czy mógłbyś zamknąć okno, proszę?" },
+      { "en": "Wait here for a moment, please.", "pl": "Poczekaj tu chwilę, proszę." }
+    ]
+  }
+]

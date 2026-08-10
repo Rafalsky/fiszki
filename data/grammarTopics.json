@@ -292,5 +292,12 @@
     "title": "Zgodność podmiotu z orzeczeniem",
     "desc": "Zgodność liczby między podmiotem a czasownikiem: rzeczowniki zbiorowe, kwantyfikatory, spójniki, wyrażenia ilościowe — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "imperatives",
+    "icon": "📣",
+    "title": "Tryb rozkazujący",
+    "desc": "Polecenia, zakazy i propozycje z Let's — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
