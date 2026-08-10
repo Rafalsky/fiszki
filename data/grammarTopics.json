@@ -299,5 +299,12 @@
     "title": "Tryb rozkazujący",
     "desc": "Polecenia, zakazy i propozycje z Let's — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "there_is_are",
+    "icon": "📍",
+    "title": "There is / there are",
+    "desc": "Konstrukcja there is / there are do wyrażania istnienia czegoś — liczba pojedyncza i mnoga, przeczenia, pytania i czas przeszły — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
