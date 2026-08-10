@@ -1,0 +1,98 @@
+[
+  {
+    "id": "some_compounds",
+    "order": 1,
+    "nameEn": "Some- compounds (somebody, something, somewhere)",
+    "namePl": "Złożenia z some- (somebody, something, somewhere)",
+    "rules": [
+      { "label": "somebody / someone", "text": "Formy równoznaczne — 'ktoś'. Łączą się z czasownikiem w liczbie pojedynczej: Somebody is calling you." },
+      { "label": "something", "text": "'coś': There's something in the box." },
+      { "label": "somewhere", "text": "'gdzieś': I left my keys somewhere in the kitchen." },
+      { "label": "Odniesienie zwrotne", "text": "Po somebody/someone w dalszej części zdania często używa się 'they/their/them' (singular they): Somebody left their bag here." }
+    ],
+    "usage": [
+      "Używane w zdaniach twierdzących, tak jak some (I saw somebody at the door.)",
+      "W pytaniach będących propozycją lub prośbą (Would you like something to drink? Could I sit somewhere quiet?)",
+      "someone brzmi nieco bardziej formalnie niż somebody, ale w praktyce są wymienne"
+    ],
+    "tags": ["somebody", "someone", "something", "somewhere"],
+    "examples": [
+      { "en": "Somebody left the door open.", "pl": "Ktoś zostawił otwarte drzwi." },
+      { "en": "I need something to write with.", "pl": "Potrzebuję czymś napisać." },
+      { "en": "Let's go somewhere warm this winter.", "pl": "Pojedźmy gdzieś, gdzie jest ciepło, tej zimy." },
+      { "en": "Someone is knocking at the door.", "pl": "Ktoś puka do drzwi." }
+    ]
+  },
+  {
+    "id": "any_compounds",
+    "order": 2,
+    "nameEn": "Any- compounds (anybody, anything, anywhere)",
+    "namePl": "Złożenia z any- (anybody, anything, anywhere)",
+    "rules": [
+      { "label": "anybody / anyone", "text": "W pytaniach i przeczeniach — 'ktokolwiek / nikt': Is anybody home? I didn't see anybody." },
+      { "label": "anything", "text": "W pytaniach i przeczeniach — 'cokolwiek / nic': Did you buy anything? I don't want anything." },
+      { "label": "anywhere", "text": "W pytaniach i przeczeniach — 'gdziekolwiek / nigdzie': Have you been anywhere nice? I can't find it anywhere." },
+      { "label": "Znaczenie 'obojętnie kto/co'", "text": "W zdaniach twierdzących any- oznacza dowolność wyboru: Anybody can learn a language. (dowolna osoba, nieważne kto)" }
+    ],
+    "usage": [
+      "Standardowo pojawiają się w pytaniach i przeczeniach, analogicznie do any (some_any_no)",
+      "W zdaniu twierdzącym any- podkreśla, że wybór jest dowolny, a nie że czegoś nie ma",
+      "anyone i anybody są wymienne; anyone bywa nieco bardziej formalne"
+    ],
+    "tags": ["anybody", "anyone", "anything", "anywhere"],
+    "examples": [
+      { "en": "Is anybody there?", "pl": "Czy jest tam ktoś?" },
+      { "en": "I haven't eaten anything today.", "pl": "Nic dzisiaj nie jadłem." },
+      { "en": "You can sit anywhere you like.", "pl": "Możesz usiąść gdziekolwiek chcesz." },
+      { "en": "Did anyone call while I was out?", "pl": "Czy ktoś dzwonił, gdy mnie nie było?" }
+    ]
+  },
+  {
+    "id": "no_compounds",
+    "order": 3,
+    "nameEn": "No- compounds (nobody, nothing, nowhere)",
+    "namePl": "Złożenia z no- (nobody, nothing, nowhere)",
+    "rules": [
+      { "label": "nobody / no one", "text": "'nikt': Nobody knows the answer." },
+      { "label": "nothing", "text": "'nic': There's nothing in the fridge." },
+      { "label": "nowhere", "text": "'nigdzie': We have nowhere to go." },
+      { "label": "Zakaz podwójnego przeczenia", "text": "Zdanie z nobody/nothing/nowhere jest już przeczeniem — nie dodajemy don't/isn't itd.: I know nobody here. (NIE: I don't know nobody)" }
+    ],
+    "usage": [
+      "Czasownik po nobody/no one/nothing występuje w liczbie pojedynczej, mimo ogólnego znaczenia",
+      "nobody i no one są wymienne; no one zawsze piszemy dwoma słowami",
+      "Aby powiedzieć to samo w formie z any-, trzeba dodać not: Nobody called. = Not anybody called."
+    ],
+    "tags": ["nobody", "no one", "nothing", "nowhere"],
+    "examples": [
+      { "en": "Nobody answered the phone.", "pl": "Nikt nie odebrał telefonu." },
+      { "en": "There's nothing we can do about it.", "pl": "Nic nie możemy na to poradzić." },
+      { "en": "I have nowhere else to turn.", "pl": "Nie mam się już do kogo/gdzie zwrócić." },
+      { "en": "No one believed his story.", "pl": "Nikt nie uwierzył w jego historię." }
+    ]
+  },
+  {
+    "id": "every_compounds",
+    "order": 4,
+    "nameEn": "Every- compounds (everybody, everything, everywhere)",
+    "namePl": "Złożenia z every- (everybody, everything, everywhere)",
+    "rules": [
+      { "label": "everybody / everyone", "text": "'każdy / wszyscy' + czasownik w liczbie pojedynczej: Everybody knows that." },
+      { "label": "everything", "text": "'wszystko': Everything is ready for the party." },
+      { "label": "everywhere", "text": "'wszędzie': I looked everywhere for my glasses." },
+      { "label": "Odniesienie zwrotne", "text": "Podobnie jak przy somebody, w dalszej części zdania używa się 'they/their' (singular they): Everyone should bring their own lunch." }
+    ],
+    "usage": [
+      "Mimo znaczenia zbiorowego ('wszyscy'), czasownik zawsze w liczbie pojedynczej",
+      "everybody i everyone są wymienne stylistycznie",
+      "everything/everywhere odnoszą się odpowiednio do rzeczy i miejsc, nie do osób"
+    ],
+    "tags": ["everybody", "everyone", "everything", "everywhere"],
+    "examples": [
+      { "en": "Everybody enjoyed the concert.", "pl": "Wszystkim podobał się koncert." },
+      { "en": "Everything went according to plan.", "pl": "Wszystko poszło zgodnie z planem." },
+      { "en": "We looked everywhere but couldn't find it.", "pl": "Szukaliśmy wszędzie, ale nie mogliśmy tego znaleźć." },
+      { "en": "Everyone needs their own login.", "pl": "Każdy potrzebuje własnego loginu." }
+    ]
+  }
+]
