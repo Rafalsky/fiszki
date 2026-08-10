@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "whatever_whoever",
+    "prompt": "___ happens, we'll support you.",
+    "answer": "Whatever",
+    "distractors": ["Whoever", "Wherever", "However"]
+  },
+  {
+    "id": 2,
+    "itemId": "whatever_whoever",
+    "prompt": "___ broke the window will have to pay for it.",
+    "answer": "Whoever",
+    "distractors": ["Whatever", "Whenever", "However"]
+  },
+  {
+    "id": 3,
+    "itemId": "whatever_whoever",
+    "prompt": "I'll finish this project, ___ it takes.",
+    "answer": "whatever",
+    "distractors": ["whoever", "wherever", "whenever"]
+  },
+  {
+    "id": 4,
+    "itemId": "whatever_whoever",
+    "prompt": "___ you ask, you'll get the same answer.",
+    "answer": "Whoever",
+    "distractors": ["Whatever", "Whenever", "Wherever"]
+  },
+  {
+    "id": 5,
+    "itemId": "whatever_whoever",
+    "prompt": "___ you decide, I'll respect it.",
+    "answer": "Whatever",
+    "distractors": ["Whoever", "However", "Wherever"]
+  },
+  {
+    "id": 6,
+    "itemId": "whatever_whoever",
+    "prompt": "___ wins the match, it'll be a great final.",
+    "answer": "Whoever",
+    "distractors": ["Whatever", "Whenever", "However"]
+  },
+  {
+    "id": 7,
+    "itemId": "whatever_whoever",
+    "prompt": "___ she says next, don't believe her.",
+    "answer": "Whatever",
+    "distractors": ["Whoever", "Wherever", "Whenever"]
+  },
+  {
+    "id": 8,
+    "itemId": "whatever_whoever",
+    "prompt": "___ answers the phone, ask for the manager.",
+    "answer": "Whoever",
+    "distractors": ["Whatever", "However", "Wherever"]
+  },
+  {
+    "id": 9,
+    "itemId": "whatever_whoever",
+    "prompt": "___ the reason is, you must apologise.",
+    "answer": "Whatever",
+    "distractors": ["Whoever", "Whenever", "However"]
+  },
+  {
+    "id": 10,
+    "itemId": "whatever_whoever",
+    "prompt": "___ gets here first can choose the film.",
+    "answer": "Whoever",
+    "distractors": ["Whatever", "Wherever", "Whenever"]
+  },
+  {
+    "id": 11,
+    "itemId": "whenever_wherever",
+    "prompt": "___ we travel, we always try the local food.",
+    "answer": "Wherever",
+    "distractors": ["Whenever", "Whatever", "Whoever"]
+  },
+  {
+    "id": 12,
+    "itemId": "whenever_wherever",
+    "prompt": "___ he calls, I answer.",
+    "answer": "Whenever",
+    "distractors": ["Wherever", "Whatever", "However"]
+  },
+  {
+    "id": 13,
+    "itemId": "whenever_wherever",
+    "prompt": "You can sit ___ you want.",
+    "answer": "wherever",
+    "distractors": ["whenever", "whatever", "whoever"]
+  },
+  {
+    "id": 14,
+    "itemId": "whenever_wherever",
+    "prompt": "___ it rains, the roof leaks.",
+    "answer": "Whenever",
+    "distractors": ["Wherever", "However", "Whoever"]
+  },
+  {
+    "id": 15,
+    "itemId": "whenever_wherever",
+    "prompt": "Come ___ you like.",
+    "answer": "whenever",
+    "distractors": ["wherever", "whatever", "whoever"]
+  },
+  {
+    "id": 16,
+    "itemId": "whenever_wherever",
+    "prompt": "___ she works, she makes friends quickly.",
+    "answer": "Wherever",
+    "distractors": ["Whenever", "Whatever", "However"]
+  },
+  {
+    "id": 17,
+    "itemId": "whenever_wherever",
+    "prompt": "___ you go, I'll follow you.",
+    "answer": "Wherever",
+    "distractors": ["Whenever", "Whoever", "Whatever"]
+  },
+  {
+    "id": 18,
+    "itemId": "whenever_wherever",
+    "prompt": "___ you're ready, we can start.",
+    "answer": "Whenever",
+    "distractors": ["Wherever", "Whatever", "However"]
+  },
+  {
+    "id": 19,
+    "itemId": "whenever_wherever",
+    "prompt": "We can meet ___ suits you best.",
+    "answer": "whenever",
+    "distractors": ["wherever", "whatever", "whoever"]
+  },
+  {
+    "id": 20,
+    "itemId": "whenever_wherever",
+    "prompt": "___ you hide, I'll find you.",
+    "answer": "Wherever",
+    "distractors": ["Whenever", "Whatever", "Whoever"]
+  },
+  {
+    "id": 21,
+    "itemId": "however_concessive",
+    "prompt": "___ hard you try, you won't finish today.",
+    "answer": "However",
+    "distractors": ["Whatever", "No matter", "Whenever"]
+  },
+  {
+    "id": 22,
+    "itemId": "however_concessive",
+    "prompt": "___ tired I am, I always walk the dog.",
+    "answer": "However",
+    "distractors": ["Whatever", "Whoever", "Wherever"]
+  },
+  {
+    "id": 23,
+    "itemId": "however_concessive",
+    "prompt": "___ fast she runs, she can't win.",
+    "answer": "However",
+    "distractors": ["Whatever", "Whenever", "Whoever"]
+  },
+  {
+    "id": 24,
+    "itemId": "however_concessive",
+    "prompt": "___ difficult the exam is, I'll pass it.",
+    "answer": "However",
+    "distractors": ["Whatever", "Wherever", "Whoever"]
+  },
+  {
+    "id": 25,
+    "itemId": "however_concessive",
+    "prompt": "___ much it costs, we're buying it.",
+    "answer": "However",
+    "distractors": ["Whatever", "Whenever", "Wherever"]
+  },
+  {
+    "id": 26,
+    "itemId": "however_concessive",
+    "prompt": "___ hard he tried, he couldn't open the jar.",
+    "answer": "However",
+    "distractors": ["Whatever", "Whoever", "Whenever"]
+  },
+  {
+    "id": 27,
+    "itemId": "however_concessive",
+    "prompt": "___ late you arrive, call me first.",
+    "answer": "However",
+    "distractors": ["Whatever", "Wherever", "Whoever"]
+  },
+  {
+    "id": 28,
+    "itemId": "however_concessive",
+    "prompt": "___ good the offer sounds, don't sign anything yet.",
+    "answer": "However",
+    "distractors": ["Whatever", "Whenever", "Wherever"]
+  },
+  {
+    "id": 29,
+    "itemId": "however_concessive",
+    "prompt": "___ carefully you plan, something can go wrong.",
+    "answer": "However",
+    "distractors": ["Whatever", "Whoever", "Wherever"]
+  },
+  {
+    "id": 30,
+    "itemId": "however_concessive",
+    "prompt": "___ strong the coffee is, it won't wake me up now.",
+    "answer": "However",
+    "distractors": ["Whatever", "Whenever", "Whoever"]
+  },
+  {
+    "id": 31,
+    "itemId": "no_matter",
+    "prompt": "No matter ___ happens, stay calm.",
+    "answer": "what",
+    "distractors": ["who", "how", "where"]
+  },
+  {
+    "id": 32,
+    "itemId": "no_matter",
+    "prompt": "No matter ___ hard it is, keep going.",
+    "answer": "how",
+    "distractors": ["what", "who", "when"]
+  },
+  {
+    "id": 33,
+    "itemId": "no_matter",
+    "prompt": "No matter ___ calls, don't answer.",
+    "answer": "who",
+    "distractors": ["what", "how", "where"]
+  },
+  {
+    "id": 34,
+    "itemId": "no_matter",
+    "prompt": "No matter ___ you live, the internet connects us.",
+    "answer": "where",
+    "distractors": ["what", "who", "when"]
+  },
+  {
+    "id": 35,
+    "itemId": "no_matter",
+    "prompt": "No matter ___ you say, I won't change my mind.",
+    "answer": "what",
+    "distractors": ["who", "how", "where"]
+  },
+  {
+    "id": 36,
+    "itemId": "no_matter",
+    "prompt": "No matter ___ much I practise, I never get better at chess.",
+    "answer": "how",
+    "distractors": ["what", "who", "when"]
+  },
+  {
+    "id": 37,
+    "itemId": "no_matter",
+    "prompt": "No matter ___ wins, we'll celebrate together.",
+    "answer": "who",
+    "distractors": ["what", "how", "where"]
+  },
+  {
+    "id": 38,
+    "itemId": "no_matter",
+    "prompt": "No matter ___ you arrive, someone will be here to greet you.",
+    "answer": "when",
+    "distractors": ["what", "who", "where"]
+  },
+  {
+    "id": 39,
+    "itemId": "no_matter",
+    "prompt": "No matter ___ you go on holiday, send me a postcard.",
+    "answer": "where",
+    "distractors": ["what", "who", "when"]
+  },
+  {
+    "id": 40,
+    "itemId": "no_matter",
+    "prompt": "No matter ___ you feel about it, we have to make a decision.",
+    "answer": "how",
+    "distractors": ["what", "who", "where"]
+  }
+]

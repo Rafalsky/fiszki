@@ -376,5 +376,12 @@
     "title": "Podwójne porównania",
     "desc": "Struktura the + comparative..., the + comparative... (im więcej, tym lepiej) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "concessive_clauses",
+    "icon": "🤷",
+    "title": "Zdania ustępstwa",
+    "desc": "Zdania ustępstwa z whatever/whoever/whenever/wherever/however oraz no matter what/who/where/when/how — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

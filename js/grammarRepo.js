@@ -62,6 +62,7 @@ const THEORY_URLS = {
   indefinite_pronouns: new URL("../data/indefinite_pronouns.json", import.meta.url),
   modals_deduction: new URL("../data/modals_deduction.json", import.meta.url),
   double_comparatives: new URL("../data/double_comparatives.json", import.meta.url),
+  concessive_clauses: new URL("../data/concessive_clauses.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -119,6 +120,7 @@ const DRILLS_URLS = {
   indefinite_pronouns: new URL("../data/indefinite_pronounsDrills.json", import.meta.url),
   modals_deduction: new URL("../data/modals_deductionDrills.json", import.meta.url),
   double_comparatives: new URL("../data/double_comparativesDrills.json", import.meta.url),
+  concessive_clauses: new URL("../data/concessive_clausesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
