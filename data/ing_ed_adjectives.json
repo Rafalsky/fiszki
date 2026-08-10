@@ -1,0 +1,91 @@
+[
+  {
+    "id": "ed_adjectives",
+    "order": 1,
+    "nameEn": "-ed adjectives — feelings",
+    "namePl": "Przymiotniki -ed — uczucia",
+    "rules": [
+      { "label": "-ed", "text": "Opisuje, jak ktoś się czuje — osobę (lub zwierzę), która doświadcza danego uczucia (bored, interested, excited, tired)" },
+      { "label": "Budowa", "text": "Podstawa czasownikowa + -ed (bore→bored, interest→interested), z tymi samymi zasadami pisowni co Past Simple (excite→excited, tire→tired)" }
+    ],
+    "usage": [
+      "Po czasownikach łączących be/feel/seem/look (I feel bored. She seems interested.)",
+      "Gdy mówimy o własnych emocjach i reakcjach na coś (I was surprised by the news.)",
+      "Zawsze odnosi się do osoby odczuwającej uczucie, nigdy do rzeczy czy sytuacji, która je wywołuje"
+    ],
+    "tags": ["bored", "interested", "excited", "tired"],
+    "examples": [
+      { "en": "I'm really bored — there's nothing to do.", "pl": "Naprawdę się nudzę — nie ma nic do roboty." },
+      { "en": "She was excited about her new job.", "pl": "Była podekscytowana swoją nową pracą." },
+      { "en": "We felt tired after the long journey.", "pl": "Czuliśmy się zmęczeni po długiej podróży." },
+      { "en": "He seemed confused by the instructions.", "pl": "Wydawał się zdezorientowany instrukcjami." }
+    ]
+  },
+  {
+    "id": "ing_adjectives",
+    "order": 2,
+    "nameEn": "-ing adjectives — source of a feeling",
+    "namePl": "Przymiotniki -ing — źródło uczucia",
+    "rules": [
+      { "label": "-ing", "text": "Opisuje osobę, rzecz lub sytuację, która WYWOŁUJE dane uczucie (boring, interesting, exciting, tiring)" },
+      { "label": "Budowa", "text": "Podstawa czasownikowa + -ing, z tymi samymi zasadami pisowni co Present Continuous (bore→boring, tire→tiring)" }
+    ],
+    "usage": [
+      "Gdy opisujemy film, książkę, osobę czy wydarzenie jako źródło emocji (a boring film, an interesting book)",
+      "Po czasownikach łączących be/seem/look, gdy podmiotem jest rzecz lub sytuacja, a nie osoba odczuwająca uczucie",
+      "Przed rzeczownikiem jako zwykły przymiotnik (an amazing view, a frightening experience)"
+    ],
+    "tags": ["boring", "interesting", "exciting", "tiring"],
+    "examples": [
+      { "en": "This film is really boring.", "pl": "Ten film jest naprawdę nudny." },
+      { "en": "That's an interesting idea.", "pl": "To ciekawy pomysł." },
+      { "en": "The match was so exciting!", "pl": "Ten mecz był tak ekscytujący!" },
+      { "en": "It was a tiring day at work.", "pl": "To był męczący dzień w pracy." }
+    ]
+  },
+  {
+    "id": "common_pairs",
+    "order": 3,
+    "nameEn": "Common pairs & typical mistakes",
+    "namePl": "Najczęstsze pary i typowe błędy",
+    "rules": [
+      { "label": "Typowy błąd", "text": "\"I'm boring\" znaczy \"Jestem nudziarzem/nudną osobą\", a nie \"Nudzi mi się\" — do tego służy \"I'm bored\"" },
+      { "label": "Test", "text": "Zadaj sobie pytanie: czy podmiot ODCZUWA uczucie (→ -ed), czy je WYWOŁUJE (→ -ing)?" }
+    ],
+    "usage": [
+      "Sprawdź parę: interested (czuję) vs interesting (wywołuje zainteresowanie)",
+      "Sprawdź parę: bored (czuję) vs boring (wywołuje nudę)",
+      "Sprawdź parę: annoyed (czuję) vs annoying (wywołuje irytację)"
+    ],
+    "tags": ["bored/boring", "interested/interesting", "excited/exciting", "annoyed/annoying"],
+    "examples": [
+      { "en": "I was so embarrassed when I forgot her name.", "pl": "Było mi bardzo wstyd, gdy zapomniałem jej imienia." },
+      { "en": "His comment was quite embarrassing for everyone.", "pl": "Jego komentarz był dość żenujący dla wszystkich." },
+      { "en": "Don't say 'I am boring' if you mean you feel bored!", "pl": "Nie mów 'I am boring', jeśli masz na myśli, że się nudzisz!" },
+      { "en": "The news was surprising, so we were all surprised.", "pl": "Wiadomość była zaskakująca, więc wszyscy byliśmy zaskoczeni." }
+    ]
+  },
+  {
+    "id": "position_usage",
+    "order": 4,
+    "nameEn": "Position & intensifiers",
+    "namePl": "Pozycja w zdaniu i wzmacnianie",
+    "rules": [
+      { "label": "Przed rzeczownikiem", "text": "Oba typy mogą stać przed rzeczownikiem jak zwykłe przymiotniki (a boring meeting, a bored student)" },
+      { "label": "Po czasowniku", "text": "Oba typy mogą stać po czasownikach łączących be/feel/seem/look/sound (The meeting was boring. He looked bored.)" },
+      { "label": "Wzmacnianie", "text": "Można je wzmacniać przysłówkami: really, quite, very, extremely, absolutely (really exciting, absolutely fascinating)" }
+    ],
+    "usage": [
+      "Opisując coś przed rzeczownikiem: an exciting match, a bored expression",
+      "Po czasownikach zmysłów i stanu: sound interesting, look tired, feel confused",
+      "Ze wzmacniaczami dla mocniejszego efektu: absolutely amazing, really annoying"
+    ],
+    "tags": ["really exciting", "quite tired", "absolutely amazing", "a bored expression"],
+    "examples": [
+      { "en": "It was an absolutely amazing concert.", "pl": "To był absolutnie niesamowity koncert." },
+      { "en": "She had a bored expression on her face.", "pl": "Miała znudzony wyraz twarzy." },
+      { "en": "This book sounds really interesting.", "pl": "Ta książka brzmi naprawdę interesująco." },
+      { "en": "I'm quite tired after the exam.", "pl": "Jestem dość zmęczony po egzaminie." }
+    ]
+  }
+]
