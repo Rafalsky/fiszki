@@ -53,6 +53,7 @@ const THEORY_URLS = {
   imperatives: new URL("../data/imperatives.json", import.meta.url),
   there_is_are: new URL("../data/there_is_are.json", import.meta.url),
   exclamatives: new URL("../data/exclamatives.json", import.meta.url),
+  would_rather_had_better: new URL("../data/would_rather_had_better.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -101,6 +102,7 @@ const DRILLS_URLS = {
   imperatives: new URL("../data/imperativesDrills.json", import.meta.url),
   there_is_are: new URL("../data/there_is_areDrills.json", import.meta.url),
   exclamatives: new URL("../data/exclamativesDrills.json", import.meta.url),
+  would_rather_had_better: new URL("../data/would_rather_had_betterDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

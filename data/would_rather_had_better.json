@@ -1,0 +1,94 @@
+[
+  {
+    "id": "would_rather_self",
+    "order": 1,
+    "nameEn": "would rather — own preference",
+    "namePl": "would rather — własna preferencja",
+    "rules": [
+      { "label": "Budowa", "text": "would rather + bezokolicznik bez to (I'd rather stay home tonight.)" },
+      { "label": "Przeczenie", "text": "would rather not + bezokolicznik (I'd rather not go.)" },
+      { "label": "Skrót", "text": "W mowie potocznej would rather skraca się do 'd rather (I'd rather, She'd rather)" }
+    ],
+    "usage": [
+      "Wyrażanie osobistej preferencji w danej chwili lub ogólnie",
+      "Grzeczna odmowa: I'd rather not, jeśli ktoś nas o coś prosi",
+      "Pytanie o preferencję: Would you rather...?",
+      "Krótka odpowiedź na propozycję: I'd rather not, thanks."
+    ],
+    "tags": ["I'd rather", "would rather not", "Would you rather...?"],
+    "examples": [
+      { "en": "I'd rather stay home tonight.", "pl": "Wolałbym zostać dziś w domu." },
+      { "en": "Would you rather have tea or coffee?", "pl": "Wolałbyś herbatę czy kawę?" },
+      { "en": "She'd rather not talk about it.", "pl": "Ona wolałaby o tym nie rozmawiać." },
+      { "en": "We'd rather wait here.", "pl": "Wolelibyśmy tu poczekać." }
+    ]
+  },
+  {
+    "id": "would_rather_than",
+    "order": 2,
+    "nameEn": "would rather ... than",
+    "namePl": "would rather ... than — porównanie preferencji",
+    "rules": [
+      { "label": "Budowa", "text": "would rather + bezokolicznik bez to + than + bezokolicznik bez to, żeby porównać dwie opcje" },
+      { "label": "Po than", "text": "Po than może stać też rzeczownik lub zaimek zamiast czasownika (I'd rather have this one than that one.)" }
+    ],
+    "usage": [
+      "Porównywanie dwóch możliwych czynności lub rzeczy",
+      "Podkreślenie, że jedna opcja jest zdecydowanie preferowana nad drugą",
+      "Częste w odpowiedziach na propozycje z alternatywą (Shall we drive or walk?)"
+    ],
+    "tags": ["would rather ... than", "I'd rather walk than drive"],
+    "examples": [
+      { "en": "I'd rather walk than take the bus.", "pl": "Wolałbym iść pieszo niż jechać autobusem." },
+      { "en": "He'd rather cook at home than eat out.", "pl": "On wolałby gotować w domu niż jeść na mieście." },
+      { "en": "They'd rather save money than spend it on holidays.", "pl": "Oni wolą oszczędzać pieniądze niż wydawać je na wakacje." },
+      { "en": "I'd rather have coffee than tea.", "pl": "Wolałbym kawę niż herbatę." }
+    ]
+  },
+  {
+    "id": "would_rather_other",
+    "order": 3,
+    "nameEn": "would rather + subject + past simple",
+    "namePl": "would rather — preferencja dotycząca innej osoby",
+    "rules": [
+      { "label": "Budowa", "text": "would rather + podmiot + czasownik w czasie przeszłym, mimo że chodzi o teraźniejszość lub przyszłość (I'd rather you stayed.)" },
+      { "label": "Żal o przeszłości", "text": "would rather + podmiot + past perfect, gdy chodzi o żal dotyczący przeszłości (I'd rather you hadn't said that.)" },
+      { "label": "Przeczenie", "text": "would rather + podmiot + didn't + bezokolicznik (I'd rather you didn't smoke here.)" }
+    ],
+    "usage": [
+      "Mówimy, czego chcielibyśmy od innej osoby, zamiast tego, co robi teraz lub planuje",
+      "Grzeczna prośba o zmianę czyjegoś zachowania",
+      "Wyrażenie żalu dotyczącego czyjegoś działania w przeszłości"
+    ],
+    "tags": ["I'd rather you stayed", "I'd rather you hadn't said that"],
+    "examples": [
+      { "en": "I'd rather you stayed a bit longer.", "pl": "Wolałbym, żebyś został trochę dłużej." },
+      { "en": "I'd rather you didn't smoke here.", "pl": "Wolałbym, żebyś tu nie palił." },
+      { "en": "She'd rather he called before visiting.", "pl": "Ona wolałaby, żeby zadzwonił przed odwiedzinami." },
+      { "en": "I'd rather you hadn't told him.", "pl": "Wolałbym, żebyś mu tego nie powiedział." }
+    ]
+  },
+  {
+    "id": "had_better",
+    "order": 4,
+    "nameEn": "had better",
+    "namePl": "had better — rada z konsekwencją",
+    "rules": [
+      { "label": "Budowa", "text": "had better ('d better) + bezokolicznik bez to — rada połączona z ostrzeżeniem o konsekwencjach (You'd better hurry.)" },
+      { "label": "Przeczenie", "text": "had better not + bezokolicznik (You'd better not be late.)" },
+      { "label": "Różnica od should", "text": "had better sugeruje pilniejszą radę i konkretną, bliską konsekwencję niż should — mimo formy 'had' odnosi się do teraźniejszości i przyszłości" }
+    ],
+    "usage": [
+      "Pilna rada z ostrzeżeniem, co się stanie, jeśli ktoś jej nie posłucha",
+      "Sytuacje, w których czas nagli (You'd better leave now or you'll miss the train.)",
+      "Ostrzeżenia i groźby w mowie potocznej (You'd better not touch that.)"
+    ],
+    "tags": ["You'd better hurry", "had better not"],
+    "examples": [
+      { "en": "You'd better hurry or you'll miss the train.", "pl": "Lepiej się pospiesz, bo spóźnisz się na pociąg." },
+      { "en": "We'd better leave now.", "pl": "Lepiej już chodźmy." },
+      { "en": "You'd better not be late again.", "pl": "Lepiej się już więcej nie spóźnij." },
+      { "en": "He'd better apologize to her.", "pl": "Lepiej niech ją przeprosi." }
+    ]
+  }
+]
