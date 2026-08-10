@@ -355,5 +355,12 @@
     "title": "Spójniki korelatywne",
     "desc": "both...and, either...or, neither...nor, not only...but also — parami łączone spójniki i zgodność podmiotu z czasownikiem — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "indefinite_pronouns",
+    "icon": "❔",
+    "title": "Zaimki nieokreślone",
+    "desc": "Somebody/anybody/everybody/nobody, something/anything/everything/nothing, somewhere/anywhere/everywhere/nowhere — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
