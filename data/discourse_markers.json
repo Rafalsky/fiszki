@@ -1,0 +1,98 @@
+[
+  {
+    "id": "opening_hedging",
+    "order": 1,
+    "nameEn": "Opening & hedging markers (well, actually, I mean)",
+    "namePl": "Markery otwierające i łagodzące (well, actually, I mean)",
+    "rules": [
+      { "label": "well", "text": "Sygnalizuje wahanie, daje chwilę na zastanowienie lub łagodzi niewygodną odpowiedź" },
+      { "label": "actually", "text": "Wprowadza informację zaskakującą, sprostowanie albo delikatne zaprzeczenie temu, co powiedział rozmówca" },
+      { "label": "I mean", "text": "Doprecyzowuje lub poprawia to, co się właśnie powiedziało" }
+    ],
+    "usage": [
+      "Na początku odpowiedzi, gdy potrzebujemy chwili na zebranie myśli",
+      "Gdy chcemy grzecznie skorygować rozmówcę albo siebie samego",
+      "Typowe dla mowy potocznej — w piśmie formalnym używane rzadko",
+      "actually często sygnalizuje, że prawda różni się od oczekiwań rozmówcy"
+    ],
+    "tags": ["well,", "actually,", "I mean,"],
+    "examples": [
+      { "en": "Well, I'm not really sure what to say.", "pl": "Cóż, tak naprawdę nie wiem, co powiedzieć." },
+      { "en": "Actually, I think you're wrong about that.", "pl": "Właściwie to myślę, że się co do tego mylisz." },
+      { "en": "I mean, it's not exactly what I expected.", "pl": "To znaczy, to nie jest dokładnie to, czego się spodziewałem." },
+      { "en": "Well, actually, the meeting was moved to Friday.", "pl": "No cóż, właściwie to spotkanie przełożono na piątek." }
+    ]
+  },
+  {
+    "id": "sequencing",
+    "order": 2,
+    "nameEn": "Sequencing markers (firstly, then, finally)",
+    "namePl": "Markery porządkujące (firstly, then, finally)",
+    "rules": [
+      { "label": "firstly / first of all", "text": "Otwiera listę argumentów, kroków lub przyczyn" },
+      { "label": "then / next / after that", "text": "Wskazuje kolejny krok w sekwencji zdarzeń lub instrukcji" },
+      { "label": "finally / in the end", "text": "Sygnalizuje ostatni punkt listy albo wynik końcowy po serii zdarzeń" }
+    ],
+    "usage": [
+      "Przy wyliczaniu argumentów w wypracowaniach i prezentacjach",
+      "W instrukcjach krok po kroku (przepisy, poradniki)",
+      "W opowiadaniach, by uporządkować kolejność zdarzeń",
+      "finally podsumowuje ostatni etap, in the end często podkreśla nieoczekiwany rezultat"
+    ],
+    "tags": ["firstly,", "then", "finally,"],
+    "examples": [
+      { "en": "Firstly, let's look at the causes of the problem.", "pl": "Po pierwsze, przyjrzyjmy się przyczynom problemu." },
+      { "en": "Chop the onions, then fry them for five minutes.", "pl": "Pokrój cebulę, a następnie smaż ją przez pięć minut." },
+      { "en": "We tried three different solutions, and finally we found one that worked.", "pl": "Wypróbowaliśmy trzy różne rozwiązania i w końcu znaleźliśmy takie, które zadziałało." },
+      { "en": "In the end, everything turned out fine.", "pl": "Ostatecznie wszystko skończyło się dobrze." }
+    ]
+  },
+  {
+    "id": "contrast_addition",
+    "order": 3,
+    "nameEn": "Contrast & addition markers (however, moreover, on the other hand)",
+    "namePl": "Markery kontrastu i dodawania (however, moreover, on the other hand)",
+    "rules": [
+      { "label": "however", "text": "Wprowadza kontrast z poprzednim zdaniem, zwykle na początku zdania i z przecinkiem" },
+      { "label": "on the other hand", "text": "Pokazuje przeciwną stronę argumentu lub sytuacji, często w parze z on one hand" },
+      { "label": "moreover / furthermore", "text": "Dodaje kolejny, wzmacniający argument do tego, co już powiedziano" }
+    ],
+    "usage": [
+      "W formalnym piśmie: eseje, raporty, argumentacja",
+      "however łączy dwa zdania o przeciwnym wydźwięku, zwykle jako osobne zdanie",
+      "on the other hand porównuje dwa punkty widzenia na ten sam temat",
+      "moreover / furthermore sygnalizują, że kolejny argument jest równie ważny lub silniejszy"
+    ],
+    "tags": ["however,", "on the other hand,", "moreover,"],
+    "examples": [
+      { "en": "The plan sounds risky. However, it could pay off in the long run.", "pl": "Plan brzmi ryzykownie. Jednak w dłuższej perspektywie mógłby się opłacić." },
+      { "en": "On the one hand, working from home saves time. On the other hand, it can be isolating.", "pl": "Z jednej strony praca z domu oszczędza czas. Z drugiej strony może być izolująca." },
+      { "en": "The hotel is expensive. Moreover, it's far from the city centre.", "pl": "Ten hotel jest drogi. Co więcej, jest daleko od centrum miasta." },
+      { "en": "She's talented; furthermore, she works extremely hard.", "pl": "Jest utalentowana; ponadto pracuje niezwykle ciężko." }
+    ]
+  },
+  {
+    "id": "digression_conclusion",
+    "order": 4,
+    "nameEn": "Digression & conclusion markers (by the way, anyway, in conclusion)",
+    "namePl": "Markery dygresji i podsumowania (by the way, anyway, in conclusion)",
+    "rules": [
+      { "label": "by the way", "text": "Wprowadza dygresję — temat poboczny, luźno związany z rozmową" },
+      { "label": "anyway", "text": "Wraca do głównego wątku po dygresji albo kończy rozmowę na dany temat" },
+      { "label": "in conclusion / all in all", "text": "Podsumowuje całość wypowiedzi lub tekstu na samym końcu" }
+    ],
+    "usage": [
+      "by the way pojawia się głównie w rozmowie potocznej, przy zmianie tematu",
+      "anyway sygnalizuje powrót do sedna sprawy lub zamknięcie tematu",
+      "in conclusion / all in all typowe w formalnych podsumowaniach esejów i prezentacji",
+      "all in all podkreśla ogólną, łączną ocenę czegoś"
+    ],
+    "tags": ["by the way,", "anyway,", "in conclusion,"],
+    "examples": [
+      { "en": "By the way, did you get my email yesterday?", "pl": "A tak przy okazji, dostałeś wczoraj mojego maila?" },
+      { "en": "Anyway, let's get back to the main topic.", "pl": "W każdym razie wróćmy do głównego tematu." },
+      { "en": "In conclusion, the project was a success despite the delays.", "pl": "Podsumowując, projekt zakończył się sukcesem mimo opóźnień." },
+      { "en": "All in all, it was a great trip.", "pl": "Ogólnie rzecz biorąc, to była wspaniała wycieczka." }
+    ]
+  }
+]
