@@ -1,0 +1,95 @@
+[
+  {
+    "id": "senses_verbs",
+    "order": 1,
+    "nameEn": "Verbs of the senses (see, hear, smell, taste, feel)",
+    "namePl": "Czasowniki zmysłów (see, hear, smell, taste, feel)",
+    "rules": [
+      { "label": "Mimowolne postrzeganie", "text": "see/hear/smell/taste/feel opisujące bierne, mimowolne postrzeganie zmysłowe używamy w Present Simple, NIE w Continuous — I hear a noise. (NIE: I am hearing a noise.)" },
+      { "label": "can + zmysł", "text": "Do wyrażenia chwilowego, mimowolnego postrzegania częściej używamy can + czasownik zmysłu niż czasu continuous — I can hear the birds singing." },
+      { "label": "Celowa czynność", "text": "Gdy chodzi o świadome, kontrolowane działanie zmysłowe, czasownik staje się czynnościowy i może przyjmować -ing: look, listen, taste (=próbować), smell (=wąchać) — She is tasting the soup." }
+    ],
+    "usage": [
+      "Opis tego, co ktoś mimowolnie widzi, słyszy, czuje w danej chwili (Present Simple, nie Continuous)",
+      "Chwilowe, mimowolne postrzeganie zmysłowe → can + czasownik zmysłu (I can smell smoke.)",
+      "Świadome, kontrolowane działanie zmysłowe (taste=próbować, smell=wąchać) → może wystąpić continuous"
+    ],
+    "tags": ["I hear", "I can smell", "she is tasting", "it feels soft"],
+    "examples": [
+      { "en": "I hear a strange noise outside.", "pl": "Słyszę dziwny hałas na zewnątrz." },
+      { "en": "I can smell smoke — is something burning?", "pl": "Czuję zapach dymu — czy coś się pali?" },
+      { "en": "This blanket feels so soft.", "pl": "Ten koc jest taki miękki w dotyku." },
+      { "en": "She is tasting the soup to check if it needs more salt.", "pl": "Ona próbuje zupy, żeby sprawdzić, czy trzeba dosolić." }
+    ]
+  },
+  {
+    "id": "mind_emotion_verbs",
+    "order": 2,
+    "nameEn": "Verbs of thought, opinion & emotion (think, know, believe, want, like, love)",
+    "namePl": "Czasowniki myślenia, opinii i uczuć (think, know, believe, want, like)",
+    "rules": [
+      { "label": "Stan wiedzy", "text": "know, believe, understand, remember, forget, mean, suppose opisują stan wiedzy lub przekonania i nie mają form continuous — I understand the rule. (NIE: I am understanding.)" },
+      { "label": "Uczucia i preferencje", "text": "like, love, hate, want, need, prefer, wish wyrażają trwały stan emocjonalny lub potrzebę, zwykle w Simple — I like jazz. (NIE: I am liking jazz.)" },
+      { "label": "think = opinia vs proces", "text": "think w znaczeniu 'mieć opinię' jest stanowy (I think it's a good idea.), ale w znaczeniu 'rozważać, zastanawiać się' jest czynnościowy i może wystąpić w continuous (I'm thinking about my next holiday.)" }
+    ],
+    "usage": [
+      "Wyrażanie opinii, przekonań i wiedzy jako trwałego stanu umysłu",
+      "Wyrażanie upodobań, potrzeb i życzeń jako trwałych uczuć, nie chwilowych czynności",
+      "Odróżnienie think='sądzić' (stanowy) od think='rozważać' (czynnościowy, może być continuous)"
+    ],
+    "tags": ["I know", "I think (opinion)", "I'm thinking about", "she wants"],
+    "examples": [
+      { "en": "I know the answer to this question.", "pl": "Znam odpowiedź na to pytanie." },
+      { "en": "I think it's a brilliant idea.", "pl": "Uważam, że to świetny pomysł." },
+      { "en": "I'm thinking about changing my job.", "pl": "Rozważam zmianę pracy." },
+      { "en": "She wants to go home now.", "pl": "Ona chce teraz iść do domu." }
+    ]
+  },
+  {
+    "id": "possession_measurement_verbs",
+    "order": 3,
+    "nameEn": "Verbs of possession & measurement (have, own, belong, contain, cost, weigh)",
+    "namePl": "Czasowniki posiadania i miary (have, own, belong, contain, cost, weigh)",
+    "rules": [
+      { "label": "Posiadanie", "text": "have (=posiadać), own, belong to, possess opisują stan posiadania i nie występują w continuous — She has a car. (NIE: She is having a car.)" },
+      { "label": "Zawartość i miara", "text": "contain, consist of, cost, weigh, measure w znaczeniu opisu stałej cechy są stanowe — The box contains books. This bag weighs two kilos." },
+      { "label": "have = czynność", "text": "have w znaczeniach czynnościowych (jeść, brać, przeżywać) jest czasownikiem dynamicznym i przyjmuje continuous: have breakfast, have a shower, have a party — We are having lunch." }
+    ],
+    "usage": [
+      "Opis trwałego stanu posiadania czegoś (have, own, belong to)",
+      "Opis stałych cech przedmiotu: zawartość, cena, waga, wymiary (contain, cost, weigh)",
+      "Rozróżnienie have='posiadać' (stanowy) od have w wyrażeniach czynnościowych typu have breakfast, have a party (dynamiczny)"
+    ],
+    "tags": ["she has (owns)", "it contains", "it costs", "we are having lunch"],
+    "examples": [
+      { "en": "She has two brothers and a sister.", "pl": "Ona ma dwóch braci i siostrę." },
+      { "en": "This box contains old family photographs.", "pl": "To pudełko zawiera stare zdjęcia rodzinne." },
+      { "en": "The ticket costs fifty pounds.", "pl": "Bilet kosztuje pięćdziesiąt funtów." },
+      { "en": "We are having lunch right now, can I call you back?", "pl": "Właśnie jemy lunch, mogę oddzwonić?" }
+    ]
+  },
+  {
+    "id": "dual_meaning_verbs",
+    "order": 4,
+    "nameEn": "Verbs with both stative and dynamic meaning",
+    "namePl": "Czasowniki o podwójnym znaczeniu (stanowym i czynnościowym)",
+    "rules": [
+      { "label": "look", "text": "look = wyglądać (stan, bez continuous): You look tired. vs look = patrzeć celowo (czynność, z continuous): She is looking at the map." },
+      { "label": "see", "text": "see = widzieć/rozumieć (stan): I see what you mean. vs see = spotykać się z kimś (czynność): I'm seeing a friend tonight." },
+      { "label": "weigh / taste", "text": "weigh/taste w znaczeniu stałej cechy są stanowe (This suitcase weighs 20kg. / This soup tastes great.), ale w znaczeniu czynności ważenia lub próbowania są dynamiczne (The nurse is weighing the baby. / He is tasting the soup.)" },
+      { "label": "be", "text": "be jest zwykle stanowy (I am tired.), ale w continuous opisuje tymczasowe, nietypowe zachowanie: You are being very rude today." }
+    ],
+    "usage": [
+      "Rozpoznawanie, kiedy dany czasownik opisuje trwały stan, a kiedy świadomą, chwilową czynność",
+      "Wybór między Present Simple a Present Continuous na podstawie znaczenia, nie samego czasownika",
+      "Częste pary znaczeniowe: look, see, taste, smell, weigh, be, think, have"
+    ],
+    "tags": ["you look tired", "she is looking at", "I see (understand)", "I'm seeing a friend"],
+    "examples": [
+      { "en": "You look really tired today.", "pl": "Wyglądasz dziś na naprawdę zmęczonego." },
+      { "en": "She is looking at the old photos from her childhood.", "pl": "Ona ogląda stare zdjęcia z dzieciństwa." },
+      { "en": "I see what you mean now.", "pl": "Teraz rozumiem, o co ci chodzi." },
+      { "en": "I'm seeing my dentist tomorrow morning.", "pl": "Jutro rano mam wizytę u dentysty." }
+    ]
+  }
+]

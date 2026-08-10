@@ -63,6 +63,7 @@ const THEORY_URLS = {
   modals_deduction: new URL("../data/modals_deduction.json", import.meta.url),
   double_comparatives: new URL("../data/double_comparatives.json", import.meta.url),
   concessive_clauses: new URL("../data/concessive_clauses.json", import.meta.url),
+  stative_verbs: new URL("../data/stative_verbs.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -121,6 +122,7 @@ const DRILLS_URLS = {
   modals_deduction: new URL("../data/modals_deductionDrills.json", import.meta.url),
   double_comparatives: new URL("../data/double_comparativesDrills.json", import.meta.url),
   concessive_clauses: new URL("../data/concessive_clausesDrills.json", import.meta.url),
+  stative_verbs: new URL("../data/stative_verbsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
