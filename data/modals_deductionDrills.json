@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "must_certain",
+    "prompt": "The lights are on — he ___ (be) at home.",
+    "answer": "must be",
+    "distractors": ["can't be", "might be", "could be"]
+  },
+  {
+    "id": 2,
+    "itemId": "must_certain",
+    "prompt": "You've been walking all day — you ___ (be) exhausted.",
+    "answer": "must be",
+    "distractors": ["can't be", "may be", "might be"]
+  },
+  {
+    "id": 3,
+    "itemId": "must_certain",
+    "prompt": "She's not answering the phone — she ___ (drive).",
+    "answer": "must be driving",
+    "distractors": ["can't be driving", "might be driving", "could be driving"]
+  },
+  {
+    "id": 4,
+    "itemId": "must_certain",
+    "prompt": "This bag is so heavy — it ___ (weigh) at least ten kilos.",
+    "answer": "must weigh",
+    "distractors": ["can't weigh", "might weigh", "could weigh"]
+  },
+  {
+    "id": 5,
+    "itemId": "must_certain",
+    "prompt": "He's lived in Paris for years — he ___ (speak) fluent French.",
+    "answer": "must speak",
+    "distractors": ["can't speak", "might speak", "may speak"]
+  },
+  {
+    "id": 6,
+    "itemId": "must_certain",
+    "prompt": "The kids are so quiet upstairs — they ___ (do) something they shouldn't.",
+    "answer": "must be doing",
+    "distractors": ["can't be doing", "might be doing", "could be doing"]
+  },
+  {
+    "id": 7,
+    "itemId": "must_certain",
+    "prompt": "There's a queue outside the shop — they ___ (have) a sale.",
+    "answer": "must be having",
+    "distractors": ["can't be having", "might be having", "may be having"]
+  },
+  {
+    "id": 8,
+    "itemId": "must_certain",
+    "prompt": "Look at all these empty plates — the guests ___ (be) very hungry.",
+    "answer": "must be",
+    "distractors": ["can't be", "might be", "could be"]
+  },
+  {
+    "id": 9,
+    "itemId": "must_certain",
+    "prompt": "He hasn't touched his dinner — he ___ (feel) unwell.",
+    "answer": "must be feeling",
+    "distractors": ["can't be feeling", "might be feeling", "could be feeling"]
+  },
+  {
+    "id": 10,
+    "itemId": "must_certain",
+    "prompt": "The streets are flooded — it ___ (rain) all night.",
+    "answer": "must have been raining",
+    "distractors": ["can't have been raining", "might have been raining", "could have been raining"]
+  },
+  {
+    "id": 11,
+    "itemId": "cant_impossible",
+    "prompt": "She ___ (be) at the office — I just saw her at the gym.",
+    "answer": "can't be",
+    "distractors": ["must be", "might be", "could be"]
+  },
+  {
+    "id": 12,
+    "itemId": "cant_impossible",
+    "prompt": "That ___ (be) right — check the numbers again.",
+    "answer": "can't be",
+    "distractors": ["must be", "may be", "might be"]
+  },
+  {
+    "id": 13,
+    "itemId": "cant_impossible",
+    "prompt": "He ___ (sleep) — the TV is on and it's really loud.",
+    "answer": "can't be sleeping",
+    "distractors": ["must be sleeping", "might be sleeping", "could be sleeping"]
+  },
+  {
+    "id": 14,
+    "itemId": "cant_impossible",
+    "prompt": "They ___ (be) home — all the lights are off and the car is gone.",
+    "answer": "can't be",
+    "distractors": ["must be", "might be", "may be"]
+  },
+  {
+    "id": 15,
+    "itemId": "cant_impossible",
+    "prompt": "She ___ (know) the answer already — we only just found out ourselves.",
+    "answer": "can't know",
+    "distractors": ["must know", "might know", "could know"]
+  },
+  {
+    "id": 16,
+    "itemId": "cant_impossible",
+    "prompt": "This ___ (be) the right address — the house doesn't match the description at all.",
+    "answer": "can't be",
+    "distractors": ["must be", "might be", "could be"]
+  },
+  {
+    "id": 17,
+    "itemId": "cant_impossible",
+    "prompt": "He ___ (work) — it's Sunday and the office is closed.",
+    "answer": "can't be working",
+    "distractors": ["must be working", "might be working", "could be working"]
+  },
+  {
+    "id": 18,
+    "itemId": "cant_impossible",
+    "prompt": "You ___ (be) hungry already — we just had lunch an hour ago.",
+    "answer": "can't be",
+    "distractors": ["must be", "might be", "may be"]
+  },
+  {
+    "id": 19,
+    "itemId": "cant_impossible",
+    "prompt": "They ___ (afford) that car — they've been complaining about money all year.",
+    "answer": "can't afford",
+    "distractors": ["must afford", "might afford", "could afford"]
+  },
+  {
+    "id": 20,
+    "itemId": "cant_impossible",
+    "prompt": "It ___ (be) him at the door — he's on holiday in Spain this week.",
+    "answer": "can't be",
+    "distractors": ["must be", "might be", "could be"]
+  },
+  {
+    "id": 21,
+    "itemId": "may_might_could",
+    "prompt": "He ___ (stick) in traffic — that's why he's late.",
+    "answer": "might be stuck",
+    "distractors": ["must be stuck", "can't be stuck", "couldn't be stuck"]
+  },
+  {
+    "id": 22,
+    "itemId": "may_might_could",
+    "prompt": "She ___ (be) at the library, I'm not sure.",
+    "answer": "could be",
+    "distractors": ["must be", "can't be", "couldn't be"]
+  },
+  {
+    "id": 23,
+    "itemId": "may_might_could",
+    "prompt": "They ___ (see) the message yet.",
+    "answer": "may not have seen",
+    "distractors": ["must not have seen", "can't have seen", "couldn't have seen"]
+  },
+  {
+    "id": 24,
+    "itemId": "may_might_could",
+    "prompt": "It ___ (rain) later, so take an umbrella just in case.",
+    "answer": "might rain",
+    "distractors": ["must rain", "can't rain", "couldn't rain"]
+  },
+  {
+    "id": 25,
+    "itemId": "may_might_could",
+    "prompt": "He ___ (be) in a meeting — his phone keeps going to voicemail.",
+    "answer": "may be",
+    "distractors": ["must be", "can't be", "couldn't be"]
+  },
+  {
+    "id": 26,
+    "itemId": "may_might_could",
+    "prompt": "She ___ (not know) about the change of plan yet.",
+    "answer": "might not know",
+    "distractors": ["can't know", "must not know", "couldn't know"]
+  },
+  {
+    "id": 27,
+    "itemId": "may_might_could",
+    "prompt": "The results ___ (change) once we get more data.",
+    "answer": "could change",
+    "distractors": ["must change", "can't change", "couldn't change"]
+  },
+  {
+    "id": 28,
+    "itemId": "may_might_could",
+    "prompt": "He ___ (forget) — he's usually so reliable, but it's possible.",
+    "answer": "may have forgotten",
+    "distractors": ["must have forgotten", "can't have forgotten", "couldn't have forgotten"]
+  },
+  {
+    "id": 29,
+    "itemId": "may_might_could",
+    "prompt": "They ___ (be) on their way already — I haven't heard from them.",
+    "answer": "might be",
+    "distractors": ["must be", "can't be", "couldn't be"]
+  },
+  {
+    "id": 30,
+    "itemId": "may_might_could",
+    "prompt": "She ___ (not want) to come — let's ask her anyway.",
+    "answer": "might not want",
+    "distractors": ["can't want", "must not want", "couldn't want"]
+  },
+  {
+    "id": 31,
+    "itemId": "deduction_contrast",
+    "prompt": "The door is locked from the inside — she ___ (be) home.",
+    "answer": "must be",
+    "distractors": ["can't be", "might be", "could be"]
+  },
+  {
+    "id": 32,
+    "itemId": "deduction_contrast",
+    "prompt": "There's no answer — she ___ (be) home.",
+    "answer": "can't be",
+    "distractors": ["must be", "might be", "could be"]
+  },
+  {
+    "id": 33,
+    "itemId": "deduction_contrast",
+    "prompt": "Her car isn't outside, but she ___ (be) home.",
+    "answer": "might still be",
+    "distractors": ["must still be", "can't still be", "couldn't still be"]
+  },
+  {
+    "id": 34,
+    "itemId": "deduction_contrast",
+    "prompt": "He answered on the first ring — he ___ (wait) for the call.",
+    "answer": "must have been waiting",
+    "distractors": ["can't have been waiting", "might have been waiting", "could have been waiting"]
+  },
+  {
+    "id": 35,
+    "itemId": "deduction_contrast",
+    "prompt": "The shop is dark and the sign says closed — it ___ (be) open now.",
+    "answer": "can't be",
+    "distractors": ["must be", "might be", "could be"]
+  },
+  {
+    "id": 36,
+    "itemId": "deduction_contrast",
+    "prompt": "We haven't heard from them, so they ___ (still travel).",
+    "answer": "might still be travelling",
+    "distractors": ["must still be travelling", "can't still be travelling", "couldn't still be travelling"]
+  },
+  {
+    "id": 37,
+    "itemId": "deduction_contrast",
+    "prompt": "The cake has completely disappeared — someone ___ (eat) it.",
+    "answer": "must have eaten",
+    "distractors": ["can't have eaten", "might have eaten", "could have eaten"]
+  },
+  {
+    "id": 38,
+    "itemId": "deduction_contrast",
+    "prompt": "He said he'd never been there before, so that photo ___ (be) him.",
+    "answer": "can't be",
+    "distractors": ["must be", "might be", "could be"]
+  },
+  {
+    "id": 39,
+    "itemId": "deduction_contrast",
+    "prompt": "Given how tired she looked, she ___ (work) all night.",
+    "answer": "must have been working",
+    "distractors": ["can't have been working", "might have been working", "could have been working"]
+  },
+  {
+    "id": 40,
+    "itemId": "deduction_contrast",
+    "prompt": "We're not sure yet, but the delay ___ (be) due to the weather.",
+    "answer": "could be",
+    "distractors": ["must be", "can't be", "couldn't be"]
+  }
+]
