@@ -56,6 +56,7 @@ const THEORY_URLS = {
   would_rather_had_better: new URL("../data/would_rather_had_better.json", import.meta.url),
   purpose_clauses: new URL("../data/purpose_clauses.json", import.meta.url),
   passive_reporting: new URL("../data/passive_reporting.json", import.meta.url),
+  ing_ed_adjectives: new URL("../data/ing_ed_adjectives.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -107,6 +108,7 @@ const DRILLS_URLS = {
   would_rather_had_better: new URL("../data/would_rather_had_betterDrills.json", import.meta.url),
   purpose_clauses: new URL("../data/purpose_clausesDrills.json", import.meta.url),
   passive_reporting: new URL("../data/passive_reportingDrills.json", import.meta.url),
+  ing_ed_adjectives: new URL("../data/ing_ed_adjectivesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

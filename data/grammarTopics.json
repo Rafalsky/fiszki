@@ -334,5 +334,12 @@
     "title": "Bierne struktury sprawozdawcze",
     "desc": "It is said that... / He is said to be... — bezosobowe i osobowe konstrukcje sprawozdawcze w stronie biernej, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "ing_ed_adjectives",
+    "icon": "😲",
+    "title": "Przymiotniki -ing i -ed",
+    "desc": "Przymiotniki opisujące uczucia i ich źródło (bored/boring, interested/interesting) — kiedy używać formy -ed, a kiedy -ing, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
