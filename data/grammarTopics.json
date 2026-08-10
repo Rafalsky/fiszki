@@ -327,5 +327,12 @@
     "title": "Zdania celu",
     "desc": "Wyrażanie celu: to / in order to / so as to / so that / for — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "passive_reporting",
+    "icon": "📰",
+    "title": "Bierne struktury sprawozdawcze",
+    "desc": "It is said that... / He is said to be... — bezosobowe i osobowe konstrukcje sprawozdawcze w stronie biernej, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

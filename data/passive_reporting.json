@@ -1,0 +1,98 @@
+[
+  {
+    "id": "it_is_said_that",
+    "order": 1,
+    "nameEn": "It is said that... — impersonal passive reporting (present)",
+    "namePl": "It is said that... — bezosobowa konstrukcja sprawozdawcza (teraźniejszość)",
+    "rules": [
+      { "label": "budowa", "text": "It + is/are + czasownik sprawozdawczy w imiesłowie biernym + that + zdanie" },
+      { "label": "czasowniki", "text": "Najczęstsze: is said, is believed, is thought, is reported, is known, is considered, is claimed, is understood, is rumoured" },
+      { "label": "zdanie po that", "text": "Może być w dowolnym czasie odpowiednim do kontekstu — teraźniejszym, przeszłym lub przyszłym" }
+    ],
+    "usage": [
+      "Gdy nie chcemy lub nie możemy wskazać źródła informacji — ogólna opinia, plotka, raport",
+      "Styl formalny — wiadomości, artykuły prasowe, raporty urzędowe",
+      "Naturalna alternatywa dla nieformalnego 'People say that...' / 'They believe that...'",
+      "Podkreśla samą informację, a nie osobę, która ją głosi"
+    ],
+    "tags": ["it is said", "it is believed", "it is reported", "it is thought"],
+    "examples": [
+      { "en": "It is said that he is very rich.", "pl": "Mówi się, że jest bardzo bogaty." },
+      { "en": "It is believed that the company will close soon.", "pl": "Uważa się, że firma wkrótce się zamknie." },
+      { "en": "It is reported that the road was blocked for hours.", "pl": "Podaje się, że droga była zablokowana przez wiele godzin." },
+      { "en": "It is thought that she left the country last year.", "pl": "Sądzi się, że wyjechała z kraju w zeszłym roku." }
+    ]
+  },
+  {
+    "id": "subject_is_said_to",
+    "order": 2,
+    "nameEn": "Subject + is said to + infinitive — personal passive reporting (present)",
+    "namePl": "Subject + is said to + bezokolicznik — konstrukcja osobowa (teraźniejszość)",
+    "rules": [
+      { "label": "budowa", "text": "Podmiot + is/are + czasownik sprawozdawczy w imiesłowie biernym + to + bezokolicznik" },
+      { "label": "przekształcenie", "text": "To ta sama informacja co 'It is said that + podmiot...', tylko podmiot zdania podrzędnego staje się podmiotem całego zdania" },
+      { "label": "czynność równoczesna", "text": "Bezokolicznik prosty (to be, to live, to have) opisuje stan lub czynność dziejącą się w tym samym czasie co samo mówienie o niej" }
+    ],
+    "usage": [
+      "Bardziej naturalna i częściej spotykana forma niż bezosobowe 'It is said that...'",
+      "Częste czasowniki: be said to, be believed to, be thought to, be reported to, be known to, be expected to",
+      "Typowa w dziennikarstwie przy opisywaniu osób, firm lub instytucji",
+      "Podmiot musi być wcześniej wspomniany lub jasny z kontekstu"
+    ],
+    "tags": ["is said to be", "is believed to live", "is known to be", "are expected to"],
+    "examples": [
+      { "en": "He is said to be very rich.", "pl": "Mówi się, że jest bardzo bogaty." },
+      { "en": "She is believed to live in Paris.", "pl": "Uważa się, że mieszka w Paryżu." },
+      { "en": "The bridge is known to be dangerous in winter.", "pl": "Wiadomo, że most jest niebezpieczny zimą." },
+      { "en": "They are expected to arrive soon.", "pl": "Oczekuje się, że wkrótce przyjadą." }
+    ]
+  },
+  {
+    "id": "subject_is_said_to_have",
+    "order": 3,
+    "nameEn": "Subject + is said to have + past participle — earlier action",
+    "namePl": "Subject + is said to have + imiesłów bierny — czynność wcześniejsza",
+    "rules": [
+      { "label": "budowa", "text": "Podmiot + is/are + czasownik sprawozdawczy w imiesłowie biernym + to have + imiesłów bierny (perfect infinitive)" },
+      { "label": "znaczenie", "text": "Bezokolicznik doskonały 'to have done' wskazuje, że czynność w zdaniu podrzędnym wydarzyła się PRZED momentem, w którym się o niej mówi" },
+      { "label": "odpowiednik", "text": "Odpowiada zdaniu 'It is said that + podmiot + Past Simple / Present Perfect'" }
+    ],
+    "usage": [
+      "Gdy relacjonowana czynność jest wcześniejsza niż samo relacjonowanie",
+      "Bardzo częste w wiadomościach o zakończonych wydarzeniach: is said to have won, is believed to have escaped",
+      "Nie mylić z 'to + bezokolicznik' (czynność równoczesna) — tutaj czynność jest już zakończona",
+      "Może występować też w formie biernej: is reported to have been damaged"
+    ],
+    "tags": ["is said to have won", "is believed to have escaped", "is thought to have left", "is reported to have sunk"],
+    "examples": [
+      { "en": "He is said to have won the lottery.", "pl": "Mówi się, że wygrał na loterii." },
+      { "en": "The thief is believed to have escaped by car.", "pl": "Uważa się, że złodziej uciekł samochodem." },
+      { "en": "She is thought to have left the party early.", "pl": "Sądzi się, że wyszła z imprezy wcześnie." },
+      { "en": "The building is reported to have been damaged in the storm.", "pl": "Podaje się, że budynek został uszkodzony podczas burzy." }
+    ]
+  },
+  {
+    "id": "past_reporting_forms",
+    "order": 4,
+    "nameEn": "Past reporting forms — it was said that / Subject was said to",
+    "namePl": "Formy przeszłe — it was said that / Subject was said to",
+    "rules": [
+      { "label": "bezosobowa", "text": "It + was/were + czasownik sprawozdawczy w imiesłowie biernym + that + zdanie" },
+      { "label": "osobowa", "text": "Podmiot + was/were + czasownik sprawozdawczy w imiesłowie biernym + to + bezokolicznik (prosty lub doskonały)" },
+      { "label": "znaczenie czasu", "text": "Czas czasownika sprawozdawczego (is/was) wskazuje KIEDY dana opinia była głoszona — niezależnie od czasu czynności w zdaniu podrzędnym" }
+    ],
+    "usage": [
+      "Gdy relacjonujemy, co mówiono lub sądzono w przeszłości — niekoniecznie mówi się tak nadal",
+      "Częste w narracjach historycznych i relacjach z minionych wydarzeń",
+      "Można łączyć z 'to have' dla czynności wcześniejszej niż sama opinia: was said to have been",
+      "Kontrast z formami teraźniejszymi pokazuje, że opinia dotyczyła przeszłego momentu, nie teraźniejszości"
+    ],
+    "tags": ["it was said", "was believed to be", "was reported to have", "was known to have"],
+    "examples": [
+      { "en": "It was said that the castle was haunted.", "pl": "Mówiono, że zamek jest nawiedzony." },
+      { "en": "He was believed to be the richest man in town.", "pl": "Uważano, że jest najbogatszym człowiekiem w mieście." },
+      { "en": "The ship was reported to have sunk during the storm.", "pl": "Podawano, że statek zatonął podczas sztormu." },
+      { "en": "She was known to have a bad temper.", "pl": "Wiedziano, że ma zły charakter." }
+    ]
+  }
+]
