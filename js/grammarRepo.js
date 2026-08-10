@@ -57,6 +57,7 @@ const THEORY_URLS = {
   purpose_clauses: new URL("../data/purpose_clauses.json", import.meta.url),
   passive_reporting: new URL("../data/passive_reporting.json", import.meta.url),
   ing_ed_adjectives: new URL("../data/ing_ed_adjectives.json", import.meta.url),
+  partitives: new URL("../data/partitives.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -109,6 +110,7 @@ const DRILLS_URLS = {
   purpose_clauses: new URL("../data/purpose_clausesDrills.json", import.meta.url),
   passive_reporting: new URL("../data/passive_reportingDrills.json", import.meta.url),
   ing_ed_adjectives: new URL("../data/ing_ed_adjectivesDrills.json", import.meta.url),
+  partitives: new URL("../data/partitivesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

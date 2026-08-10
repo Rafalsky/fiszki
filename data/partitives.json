@@ -1,0 +1,93 @@
+[
+  {
+    "id": "piece_of",
+    "order": 1,
+    "nameEn": "a piece of — general partitive",
+    "namePl": "a piece of — ogólny partitive",
+    "rules": [
+      { "label": "a piece of", "text": "Uniwersalna jednostka do liczenia rzeczowników niepoliczalnych, gdy nie ma bardziej naturalnego słowa (advice, information, news, furniture, luggage)" },
+      { "label": "liczba mnoga", "text": "W liczbie mnogiej odmienia się piece, nie rzeczownik niepoliczalny: two pieces of advice, three pieces of furniture" },
+      { "label": "bit of / item of", "text": "a bit of (nieformalnie, mniejsza ilość) i an item of (formalnie, np. an item of clothing) to bliskie warianty" }
+    ],
+    "usage": [
+      "Gdy rzeczownik niepoliczalny nie ma własnej naturalnej jednostki miary",
+      "Advice, information, news, furniture, luggage, equipment i podobne abstrakcyjne/zbiorowe niepoliczalne",
+      "Do podkreślenia jednej konkretnej porcji czegoś niepoliczalnego"
+    ],
+    "tags": ["a piece of advice", "two pieces of furniture", "a bit of news", "an item of clothing"],
+    "examples": [
+      { "en": "Let me give you a piece of advice.", "pl": "Pozwól, że dam ci radę." },
+      { "en": "We bought three pieces of furniture for the living room.", "pl": "Kupiliśmy trzy meble do salonu." },
+      { "en": "I heard an interesting piece of news today.", "pl": "Usłyszałem dziś ciekawą wiadomość." },
+      { "en": "She was carrying a piece of luggage.", "pl": "Niosła sztukę bagażu." }
+    ]
+  },
+  {
+    "id": "food_drink_units",
+    "order": 2,
+    "nameEn": "Units for food and drink",
+    "namePl": "Jednostki dla jedzenia i napojów",
+    "rules": [
+      { "label": "kształt/pojemnik", "text": "Wiele niepoliczalnych rzeczowników jedzenia i napojów liczy się przez naturalny kształt lub pojemnik: a slice of bread, a loaf of bread, a bar of chocolate, a bottle of water, a cup of tea, a glass of juice" },
+      { "label": "dobór jednostki", "text": "Jednostka zależy od formy produktu, nie od samego rzeczownika — bread może być a loaf (cała bochenka) albo a slice (kromka)" }
+    ],
+    "usage": [
+      "Precyzyjne określanie porcji lub opakowania jedzenia i napojów",
+      "Zamawianie i przepisy kulinarne (a spoonful of sugar, a can of soda)",
+      "Codzienna mowa o zakupach spożywczych"
+    ],
+    "tags": ["a slice of bread", "a bottle of water", "a bar of chocolate", "a cup of coffee"],
+    "examples": [
+      { "en": "Could I have a slice of bread, please?", "pl": "Czy mogę prosić kromkę chleba?" },
+      { "en": "We need to buy a loaf of bread and a bottle of milk.", "pl": "Musimy kupić bochenek chleba i butelkę mleka." },
+      { "en": "He ate a whole bar of chocolate.", "pl": "Zjadł całą tabliczkę czekolady." },
+      { "en": "She drinks a cup of tea every morning.", "pl": "Ona pije filiżankę herbaty każdego ranka." }
+    ]
+  },
+  {
+    "id": "pair_couple",
+    "order": 3,
+    "nameEn": "a pair of / a couple of",
+    "namePl": "a pair of / a couple of",
+    "rules": [
+      { "label": "a pair of", "text": "Rzeczy złożone z dwóch identycznych, połączonych części: a pair of shoes, trousers, scissors, glasses, gloves" },
+      { "label": "czasownik", "text": "Z 'a pair of' czasownik jest w liczbie pojedynczej: This pair of shoes is new." },
+      { "label": "a couple of", "text": "Dwie osoby/rzeczy razem lub luźne 'kilka' w mowie potocznej: a couple of friends, a couple of days" }
+    ],
+    "usage": [
+      "Ubrania i przedmioty z dwóch symetrycznych części (a pair of jeans, a pair of gloves)",
+      "Narzędzia z dwóch ramion (a pair of scissors, a pair of pliers)",
+      "a couple of — dokładnie dwoje lub nieformalnie 'parę' (kilka)"
+    ],
+    "tags": ["a pair of shoes", "a pair of scissors", "a couple of days", "a couple of friends"],
+    "examples": [
+      { "en": "I need a new pair of shoes.", "pl": "Potrzebuję nowej pary butów." },
+      { "en": "Can you pass me the pair of scissors?", "pl": "Podasz mi nożyczki?" },
+      { "en": "We're leaving in a couple of days.", "pl": "Wyjeżdżamy za parę dni." },
+      { "en": "A couple of friends came to visit us.", "pl": "Odwiedziło nas kilkoro znajomych." }
+    ]
+  },
+  {
+    "id": "collective_groups",
+    "order": 4,
+    "nameEn": "Group units for people, animals & things",
+    "namePl": "Jednostki grupowe dla ludzi, zwierząt i rzeczy",
+    "rules": [
+      { "label": "ludzie", "text": "a group of people, a crowd of fans, a team of experts" },
+      { "label": "zwierzęta", "text": "a herd of cows, a flock of sheep/birds, a pack of wolves, a swarm of bees" },
+      { "label": "rzeczy", "text": "a bunch of flowers/keys/grapes, a stack of books, a set of tools" }
+    ],
+    "usage": [
+      "Opisywanie zorganizowanej lub naturalnej grupy ludzi, zwierząt lub przedmiotów",
+      "Niektóre słowa są specyficzne dla gatunku zwierzęcia (herd — bydło, flock — owce/ptaki, pack — wilki)",
+      "W liczbie mnogiej odmienia się jednostka, nie rzeczownik: two groups of students"
+    ],
+    "tags": ["a group of students", "a herd of cows", "a flock of birds", "a bunch of flowers"],
+    "examples": [
+      { "en": "A group of tourists was waiting outside the museum.", "pl": "Grupa turystów czekała przed muzeum." },
+      { "en": "We saw a herd of cows in the field.", "pl": "Zobaczyliśmy stado krów na polu." },
+      { "en": "A flock of birds flew over the lake.", "pl": "Stado ptaków przeleciało nad jeziorem." },
+      { "en": "He gave her a bunch of flowers.", "pl": "Dał jej bukiet kwiatów." }
+    ]
+  }
+]
