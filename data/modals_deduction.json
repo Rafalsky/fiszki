@@ -1,0 +1,162 @@
+[
+  {
+    "id": "must_certain",
+    "order": 1,
+    "nameEn": "must + infinitive — strong certainty (positive deduction)",
+    "namePl": "must + bezokolicznik — silne przekonanie (dedukcja pozytywna)",
+    "rules": [
+      {
+        "label": "must + infinitive",
+        "text": "Podmiot + must + czasownik (bez 'to') — logiczny wniosek, że coś jest niemal na pewno prawdą"
+      },
+      {
+        "label": "must be + -ing",
+        "text": "Podmiot + must be + czasownik-ing — wniosek o czynności trwającej właśnie teraz"
+      }
+    ],
+    "usage": [
+      "Silne przekonanie oparte na dowodach lub logice, nie na obowiązku (He must be tired.)",
+      "must be + -ing dla czynności odbywającej się w danym momencie (She must be sleeping.)",
+      "Nie używamy 'must' w przeczeniu do dedukcji — tam stosujemy 'can't'"
+    ],
+    "tags": [
+      "must be",
+      "must be doing",
+      "strong certainty"
+    ],
+    "examples": [
+      {
+        "en": "The lights are on — he must be at home.",
+        "pl": "Światła się palą — on musi być w domu."
+      },
+      {
+        "en": "You've been walking all day — you must be exhausted.",
+        "pl": "Spacerujesz cały dzień — musisz być wykończony."
+      },
+      {
+        "en": "She's not answering the phone — she must be driving.",
+        "pl": "Nie odbiera telefonu — musi teraz prowadzić."
+      }
+    ]
+  },
+  {
+    "id": "cant_impossible",
+    "order": 2,
+    "nameEn": "can't / couldn't + infinitive — impossibility (negative deduction)",
+    "namePl": "can't / couldn't + bezokolicznik — niemożliwość (dedukcja negatywna)",
+    "rules": [
+      {
+        "label": "can't + infinitive",
+        "text": "Podmiot + can't + czasownik (bez 'to') — logiczny wniosek, że coś jest niemal na pewno nieprawdą"
+      },
+      {
+        "label": "can't be + -ing",
+        "text": "Podmiot + can't be + czasownik-ing — wniosek, że czynność nie może się teraz odbywać"
+      }
+    ],
+    "usage": [
+      "Silne przekonanie, że coś jest niemożliwe, nie zakaz (That can't be true.)",
+      "'couldn't' bywa używane zamiennie z 'can't' w dedukcji o teraźniejszości",
+      "can't be + -ing dla wykluczenia trwającej czynności (He can't be working — it's Sunday.)"
+    ],
+    "tags": [
+      "can't be",
+      "couldn't be",
+      "impossible"
+    ],
+    "examples": [
+      {
+        "en": "She can't be at the office — I just saw her at the gym.",
+        "pl": "Ona nie może być teraz w biurze — właśnie widziałem ją na siłowni."
+      },
+      {
+        "en": "That can't be right — check the numbers again.",
+        "pl": "To nie może być poprawne — sprawdź jeszcze raz te liczby."
+      },
+      {
+        "en": "He can't be sleeping — the TV is on and it's really loud.",
+        "pl": "On nie może teraz spać — telewizor jest włączony i jest naprawdę głośno."
+      }
+    ]
+  },
+  {
+    "id": "may_might_could",
+    "order": 3,
+    "nameEn": "may / might / could + infinitive — uncertain possibility",
+    "namePl": "may / might / could + bezokolicznik — niepewna możliwość",
+    "rules": [
+      {
+        "label": "may / might / could",
+        "text": "Podmiot + may/might/could + czasownik (bez 'to') — coś jest możliwe, ale nie ma pewności"
+      },
+      {
+        "label": "przeczenie",
+        "text": "may not / might not (bez 'couldn't', które oznacza niemożliwość, nie brak pewności)"
+      }
+    ],
+    "usage": [
+      "Wyrażanie przypuszczenia bez pewności, w przeciwieństwie do 'must' i 'can't' (She might be at home.)",
+      "'could' w dedukcji ma znaczenie zbliżone do 'might', nie wyraża tu umiejętności",
+      "may not / might not do wyrażenia niepewnego przypuszczenia negatywnego (He might not know yet.)"
+    ],
+    "tags": [
+      "might be",
+      "could be",
+      "may not"
+    ],
+    "examples": [
+      {
+        "en": "He might be stuck in traffic — that's why he's late.",
+        "pl": "Może utknął w korku — dlatego się spóźnia."
+      },
+      {
+        "en": "She could be at the library, I'm not sure.",
+        "pl": "Może być w bibliotece, nie jestem pewien."
+      },
+      {
+        "en": "They may not have seen the message yet.",
+        "pl": "Może jeszcze nie widzieli tej wiadomości."
+      }
+    ]
+  },
+  {
+    "id": "deduction_contrast",
+    "order": 4,
+    "nameEn": "must vs. can't vs. might — choosing the right degree of certainty",
+    "namePl": "must vs. can't vs. might — wybór właściwego stopnia pewności",
+    "rules": [
+      {
+        "label": "skala pewności",
+        "text": "must (bardzo pewny, że tak) > may/might/could (niepewny) > can't (bardzo pewny, że nie)"
+      },
+      {
+        "label": "kontekst dowodowy",
+        "text": "Wybór modalnego zależy od siły dowodów lub przesłanek, którymi dysponuje mówiący"
+      }
+    ],
+    "usage": [
+      "Ta sama sytuacja może dać różne wnioski w zależności od dostępnych dowodów",
+      "Unikamy 'must not' w znaczeniu dedukcyjnym — w tej funkcji używamy 'can't'",
+      "Modalne dedukcyjne różnią się od tych samych czasowników w znaczeniu obowiązku/pozwolenia (must = obowiązek vs. must = dedukcja)"
+    ],
+    "tags": [
+      "must vs can't",
+      "degrees of certainty",
+      "deduction"
+    ],
+    "examples": [
+      {
+        "en": "The door is locked from the inside — she must be home.",
+        "pl": "Drzwi są zamknięte od środka — ona musi być w domu."
+      },
+      {
+        "en": "There's no answer — she can't be home.",
+        "pl": "Nikt nie odpowiada — ona na pewno nie jest w domu."
+      },
+      {
+        "en": "Her car isn't outside, but she might still be home.",
+        "pl": "Jej samochodu nie ma na zewnątrz, ale może jednak jest w domu."
+      }
+    ]
+  }
+]

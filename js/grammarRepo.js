@@ -60,6 +60,7 @@ const THEORY_URLS = {
   partitives: new URL("../data/partitives.json", import.meta.url),
   correlative_conjunctions: new URL("../data/correlative_conjunctions.json", import.meta.url),
   indefinite_pronouns: new URL("../data/indefinite_pronouns.json", import.meta.url),
+  modals_deduction: new URL("../data/modals_deduction.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -115,6 +116,7 @@ const DRILLS_URLS = {
   partitives: new URL("../data/partitivesDrills.json", import.meta.url),
   correlative_conjunctions: new URL("../data/correlative_conjunctionsDrills.json", import.meta.url),
   indefinite_pronouns: new URL("../data/indefinite_pronounsDrills.json", import.meta.url),
+  modals_deduction: new URL("../data/modals_deductionDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

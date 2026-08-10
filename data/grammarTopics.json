@@ -362,5 +362,12 @@
     "title": "Zaimki nieokreślone",
     "desc": "Somebody/anybody/everybody/nobody, something/anything/everything/nothing, somewhere/anywhere/everywhere/nowhere — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "modals_deduction",
+    "icon": "🕵️",
+    "title": "Dedukcja modalna",
+    "desc": "Modalne wyrażające przypuszczenia o teraźniejszości: must/might/could/can't + bezokolicznik — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
