@@ -1,0 +1,94 @@
+[
+  {
+    "id": "both_and",
+    "order": 1,
+    "nameEn": "both...and",
+    "namePl": "both...and — oba elementy razem",
+    "rules": [
+      { "label": "znaczenie", "text": "both...and łączy dwa elementy, podkreślając, że dotyczą oba naraz — 'i jedno, i drugie'" },
+      { "label": "czasownik", "text": "Podmiot z both...and jest zawsze traktowany jako liczba mnoga: Both Tom and Jerry are here." },
+      { "label": "paralelizm", "text": "Po obu stronach both i and powinna stać ta sama część mowy: both quick and easy (przymiotnik + przymiotnik), nie both quick and to do it easily" }
+    ],
+    "usage": [
+      "Podkreślanie, że dwie cechy, osoby lub rzeczy dotyczą jednocześnie",
+      "Łączenie dwóch rzeczowników, przymiotników lub czasowników w zdaniu",
+      "Nie używa się z przeczeniem — do tego służy neither...nor"
+    ],
+    "tags": ["both Tom and Jerry", "both quick and easy", "both...and are"],
+    "examples": [
+      { "en": "Both Tom and Jerry are here.", "pl": "Zarówno Tom, jak i Jerry są tutaj." },
+      { "en": "The film was both funny and touching.", "pl": "Film był zarówno zabawny, jak i wzruszający." },
+      { "en": "She speaks both French and German.", "pl": "Ona mówi zarówno po francusku, jak i po niemiecku." },
+      { "en": "Both my parents work in Warsaw.", "pl": "Oboje moich rodziców pracuje w Warszawie." }
+    ]
+  },
+  {
+    "id": "either_or",
+    "order": 2,
+    "nameEn": "either...or",
+    "namePl": "either...or — jedno albo drugie",
+    "rules": [
+      { "label": "znaczenie", "text": "either...or przedstawia wybór między dwiema możliwościami — 'albo jedno, albo drugie'" },
+      { "label": "zgodność podmiotu", "text": "Czasownik zgadza się z rzeczownikiem najbliżej niego: Either the students or the teacher is wrong. / Either the teacher or the students are wrong." },
+      { "label": "either sam", "text": "Either bez or może znaczyć 'którykolwiek z dwóch': You can take either road." }
+    ],
+    "usage": [
+      "Przedstawianie dwóch alternatyw, z których tylko jedna jest prawdziwa/możliwa",
+      "W pytaniach o wybór między dwiema opcjami",
+      "Zgodność czasownika zależy od rzeczownika bliższego czasownikowi (proximity rule)"
+    ],
+    "tags": ["either...or", "either road", "proximity rule"],
+    "examples": [
+      { "en": "You can either call me or send an email.", "pl": "Możesz albo do mnie zadzwonić, albo wysłać e-mail." },
+      { "en": "Either the students or the teacher is wrong.", "pl": "Albo uczniowie, albo nauczyciel się myli." },
+      { "en": "Either the teacher or the students are wrong.", "pl": "Albo nauczyciel, albo uczniowie się mylą." },
+      { "en": "We can go either today or tomorrow.", "pl": "Możemy pójść albo dziś, albo jutro." }
+    ]
+  },
+  {
+    "id": "neither_nor",
+    "order": 3,
+    "nameEn": "neither...nor",
+    "namePl": "neither...nor — ani jedno, ani drugie",
+    "rules": [
+      { "label": "znaczenie", "text": "neither...nor to przeczący odpowiednik both...and — 'ani jedno, ani drugie'" },
+      { "label": "forma czasownika", "text": "Zdanie z neither...nor jest już przeczące, więc czasownik zostaje w formie twierdzącej: Neither John nor Mary knows the answer (nie 'doesn't know')" },
+      { "label": "zgodność podmiotu", "text": "Podobnie jak przy either...or, czasownik zgadza się z podmiotem bliższym: Neither the manager nor the employees were informed." }
+    ],
+    "usage": [
+      "Zaprzeczanie obu elementom naraz zamiast używać dwóch osobnych przeczeń z 'not'",
+      "Formalniejszy, bardziej zwięzły styl niż 'not...and not...either'",
+      "Zgodność liczby czasownika z bliższym rzeczownikiem (proximity rule), tak jak przy either...or"
+    ],
+    "tags": ["neither...nor", "neither John nor Mary knows", "proximity rule"],
+    "examples": [
+      { "en": "Neither John nor Mary knows the answer.", "pl": "Ani John, ani Mary nie zna odpowiedzi." },
+      { "en": "Neither the manager nor the employees were informed.", "pl": "Ani kierownik, ani pracownicy nie zostali poinformowani." },
+      { "en": "She neither called nor texted me.", "pl": "Ona ani nie zadzwoniła, ani nie napisała do mnie." },
+      { "en": "Neither of us wanted to leave.", "pl": "Żadne z nas nie chciało wyjść." }
+    ]
+  },
+  {
+    "id": "not_only_but_also",
+    "order": 4,
+    "nameEn": "not only...but also",
+    "namePl": "not only...but also — nie tylko..., ale i...",
+    "rules": [
+      { "label": "znaczenie", "text": "not only...but also dodaje drugi, często ważniejszy lub zaskakujący element do pierwszego — 'nie tylko..., ale też...'" },
+      { "label": "also opcjonalne", "text": "'also' można pominąć lub zastąpić przez 'as well'/'too': Not only is he smart, but he's also kind. / ...but he's kind too." },
+      { "label": "paralelizm", "text": "Po obu stronach powinna stać ta sama część mowy/struktura, np. not only...but also z dwoma przymiotnikami lub dwoma czasownikami" }
+    ],
+    "usage": [
+      "Podkreślanie, że oprócz jednej cechy/faktu istnieje jeszcze jeden, zwykle istotniejszy",
+      "W stylu formalnym/pisanym często z inwersją na początku zdania (Not only is he smart...)",
+      "W mowie potocznej zwykle bez inwersji, w środku zdania"
+    ],
+    "tags": ["not only...but also", "not only is he smart", "as well / too"],
+    "examples": [
+      { "en": "She is not only intelligent but also hard-working.", "pl": "Ona jest nie tylko inteligentna, ale też pracowita." },
+      { "en": "Not only did he arrive late, but he also forgot the documents.", "pl": "Nie tylko przyszedł spóźniony, ale też zapomniał dokumentów." },
+      { "en": "The hotel is not only cheap but also comfortable.", "pl": "Hotel jest nie tylko tani, ale też wygodny." },
+      { "en": "He speaks not only English but also Spanish.", "pl": "On mówi nie tylko po angielsku, ale też po hiszpańsku." }
+    ]
+  }
+]

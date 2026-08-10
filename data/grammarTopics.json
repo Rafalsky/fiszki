@@ -348,5 +348,12 @@
     "title": "Partitywy",
     "desc": "a piece of, a bottle of, a pair of, a couple of — jednostki miary do liczenia rzeczowników niepoliczalnych i zbiorowych, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "correlative_conjunctions",
+    "icon": "🤝",
+    "title": "Spójniki korelatywne",
+    "desc": "both...and, either...or, neither...nor, not only...but also — parami łączone spójniki i zgodność podmiotu z czasownikiem — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
