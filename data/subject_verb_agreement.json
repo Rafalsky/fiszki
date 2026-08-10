@@ -1,0 +1,99 @@
+[
+  {
+    "id": "basic_rule",
+    "order": 1,
+    "nameEn": "Basic rule — singular / plural subject",
+    "namePl": "Zasada podstawowa — podmiot w liczbie pojedynczej i mnogiej",
+    "rules": [
+      { "label": "Liczba pojedyncza", "text": "Podmiot w liczbie pojedynczej wymaga czasownika w formie liczby pojedynczej (he/she/it, np. She works, The dog barks)" },
+      { "label": "Liczba mnoga", "text": "Podmiot w liczbie mnogiej wymaga czasownika w formie liczby mnogiej (np. They work, The dogs bark)" },
+      { "label": "to be", "text": "Czasownik be zmienia formę najbardziej wyraźnie: I am, he/she/it is, we/you/they are" }
+    ],
+    "usage": [
+      "Zawsze sprawdzaj prawdziwy podmiot zdania, nie najbliższe słowo przed czasownikiem",
+      "Wyrażenia dodane po podmiocie (as well as, together with, along with) nie zmieniają liczby czasownika",
+      "Gerund i bezokoliczniki jako podmiot traktujemy jako liczbę pojedynczą (Swimming is fun.)",
+      "Tytuły, nazwy państw i kwoty pieniędzy jako całość → liczba pojedyncza (Ten dollars is a lot.)"
+    ],
+    "tags": ["she works", "they work", "swimming is", "ten dollars is"],
+    "examples": [
+      { "en": "My sister lives in Warsaw.", "pl": "Moja siostra mieszka w Warszawie." },
+      { "en": "My parents live in Warsaw.", "pl": "Moi rodzice mieszkają w Warszawie." },
+      { "en": "The manager, together with her team, is preparing the report.", "pl": "Kierowniczka wraz ze swoim zespołem przygotowuje raport." },
+      { "en": "Ten years is a long time.", "pl": "Dziesięć lat to długi czas." }
+    ]
+  },
+  {
+    "id": "collective_indefinite",
+    "order": 2,
+    "nameEn": "Collective nouns & indefinite pronouns",
+    "namePl": "Rzeczowniki zbiorowe i zaimki nieokreślone",
+    "rules": [
+      { "label": "Zbiorowe (BrE elastycznie)", "text": "Rzeczowniki zbiorowe (team, family, government, staff) łączą się z liczbą pojedynczą, gdy grupa działa jako jedność, a w angielskim brytyjskim czasem z mnogą, gdy podkreślamy jej członków" },
+      { "label": "Zaimki nieokreślone", "text": "everyone, everybody, someone, somebody, no one, nobody, each, either, neither, everything, something, nothing są zawsze traktowane jako liczba pojedyncza" },
+      { "label": "police, people", "text": "Niektóre rzeczowniki są gramatycznie zawsze w liczbie mnogiej: the police are, people are" }
+    ],
+    "usage": [
+      "The team is / are — obie formy poprawne, zależnie od tego, czy grupa to jednostka czy zbiór osób",
+      "Everyone has to bring their own lunch. — zaimek zwrotny w liczbie pojedynczej mimo they/their",
+      "Each of the students has a laptop. — each + of + liczba mnoga wciąż wymaga czasownika w liczbie pojedynczej",
+      "The police are investigating the case. — police zawsze z czasownikiem w liczbie mnogiej"
+    ],
+    "tags": ["everyone has", "each student is", "the team is", "the police are"],
+    "examples": [
+      { "en": "Everybody is welcome at the party.", "pl": "Każdy jest mile widziany na przyjęciu." },
+      { "en": "The committee has made its decision.", "pl": "Komitet podjął swoją decyzję." },
+      { "en": "Each of the answers is correct.", "pl": "Każda z odpowiedzi jest poprawna." },
+      { "en": "The police have arrested three suspects.", "pl": "Policja aresztowała trzech podejrzanych." }
+    ]
+  },
+  {
+    "id": "conjunctions",
+    "order": 3,
+    "nameEn": "Subjects joined by and / or / nor",
+    "namePl": "Podmioty połączone spójnikami and / or / nor",
+    "rules": [
+      { "label": "and", "text": "Dwa podmioty połączone and zwykle tworzą liczbę mnogą (Tom and Jerry are friends.), chyba że razem tworzą jedną ideę/rzecz (bread and butter is)" },
+      { "label": "or / nor", "text": "Przy or, nor, either...or, neither...nor czasownik zgadza się z podmiotem bliższym mu (Neither the teacher nor the students are ready.)" },
+      { "label": "not only...but also", "text": "Podobnie jak przy or — czasownik zgadza się z ostatnim, bliższym podmiotem" }
+    ],
+    "usage": [
+      "Jack and Jill are climbing the hill. — and zwykle daje liczbę mnogą",
+      "Either the manager or the employees are wrong. — czasownik zgadza się z bliższym podmiotem (employees)",
+      "Neither he nor I am to blame. — z I zawsze am, nawet jeśli to nietypowo brzmi",
+      "Rice and beans is a common dish. — połączenie traktowane jako jedna potrawa → liczba pojedyncza"
+    ],
+    "tags": ["tom and jerry are", "neither...nor is/are", "either...or"],
+    "examples": [
+      { "en": "My brother and my sister are both doctors.", "pl": "Mój brat i moja siostra są lekarzami." },
+      { "en": "Neither the students nor the teacher was ready.", "pl": "Ani uczniowie, ani nauczyciel nie byli gotowi." },
+      { "en": "Either you or he is going to apologize.", "pl": "Albo ty, albo on przeprosisz." },
+      { "en": "Fish and chips is my favourite meal.", "pl": "Ryba z frytkami to moje ulubione danie." }
+    ]
+  },
+  {
+    "id": "there_quantities",
+    "order": 4,
+    "nameEn": "there is/are & quantity expressions",
+    "namePl": "there is/are oraz wyrażenia ilościowe",
+    "rules": [
+      { "label": "there is/are", "text": "Czasownik po there zgadza się z rzeczownikiem, który następuje po nim: there is a book, there are books" },
+      { "label": "Kwantyfikatory niepoliczalne", "text": "much, a little, a bit of + rzeczownik niepoliczalny → liczba pojedyncza (Much of the work is done.)" },
+      { "label": "Kwantyfikatory policzalne", "text": "many, a few, a number of, several + rzeczownik policzalny w liczbie mnogiej → liczba mnoga (A number of people are waiting.)" },
+      { "label": "the number of", "text": "the number of + rzeczownik mnogi → liczba pojedyncza (The number of visitors was high.), w przeciwieństwie do a number of" }
+    ],
+    "usage": [
+      "There is milk in the fridge. — milk niepoliczalny → is",
+      "There are two apples on the table. — apples policzalny mnogi → are",
+      "A number of students have complained. — a number of + mnoga → czasownik mnogi",
+      "The number of unemployed people has risen. — the number of + mnoga → czasownik pojedynczy"
+    ],
+    "tags": ["there is milk", "there are apples", "a number of are", "the number of is"],
+    "examples": [
+      { "en": "There is a lot of traffic today.", "pl": "Dziś jest duży ruch uliczny." },
+      { "en": "There are several reasons for this.", "pl": "Jest kilka powodów tego." },
+      { "en": "A number of employees are working from home.", "pl": "Wielu pracowników pracuje z domu." },
+      { "en": "The number of complaints has decreased.", "pl": "Liczba skarg zmalała." }
+    ]
+  }
+]

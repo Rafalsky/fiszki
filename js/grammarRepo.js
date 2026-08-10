@@ -49,6 +49,7 @@ const THEORY_URLS = {
   discourse_markers: new URL("../data/discourse_markers.json", import.meta.url),
   british_american: new URL("../data/british_american.json", import.meta.url),
   time_clauses: new URL("../data/time_clauses.json", import.meta.url),
+  subject_verb_agreement: new URL("../data/subject_verb_agreement.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -93,6 +94,7 @@ const DRILLS_URLS = {
   discourse_markers: new URL("../data/discourse_markersDrills.json", import.meta.url),
   british_american: new URL("../data/british_americanDrills.json", import.meta.url),
   time_clauses: new URL("../data/time_clausesDrills.json", import.meta.url),
+  subject_verb_agreement: new URL("../data/subject_verb_agreementDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
