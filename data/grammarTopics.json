@@ -306,5 +306,12 @@
     "title": "There is / there are",
     "desc": "Konstrukcja there is / there are do wyrażania istnienia czegoś — liczba pojedyncza i mnoga, przeczenia, pytania i czas przeszły — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "exclamatives",
+    "icon": "❗",
+    "title": "Wykrzyknienia",
+    "desc": "What a…! i How…! — budowa zdań wykrzyknikowych, kiedy którego wzorca użyć, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 34
   }
 ]

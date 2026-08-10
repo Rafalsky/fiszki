@@ -1,0 +1,96 @@
+[
+  {
+    "id": "what_exclamations",
+    "order": 1,
+    "nameEn": "What...! exclamations",
+    "namePl": "Wykrzyknienia z What...!",
+    "rules": [
+      { "label": "Rzeczownik policzalny w l.poj.", "text": "What + a/an + (przymiotnik) + rzeczownik policzalny w liczbie pojedynczej + (podmiot + orzeczenie)!: What a lovely day (it is)!" },
+      { "label": "Rzeczownik w liczbie mnogiej", "text": "Przed rzeczownikiem policzalnym w liczbie mnogiej pomijamy a/an: What beautiful flowers!" },
+      { "label": "Rzeczownik niepoliczalny", "text": "Przed rzeczownikiem niepoliczalnym też pomijamy a/an: What awful weather!" },
+      { "label": "Reszta zdania opcjonalna", "text": "Część 'podmiot + orzeczenie' na końcu jest opcjonalna i często pomijana w mowie potocznej" }
+    ],
+    "usage": [
+      "Wyrażanie zaskoczenia, zachwytu lub oburzenia związanego z rzeczownikiem",
+      "Nieformalne, emocjonalne komentarze w rozmowie",
+      "Zawsze kończymy wykrzyknikiem (!)",
+      "Nie mylić z pytaniem What...? — brak inwersji i znaku zapytania"
+    ],
+    "tags": ["What a day!", "What beautiful flowers!", "What awful weather!", "What a surprise!"],
+    "examples": [
+      { "en": "What a lovely day it is!", "pl": "Ale piękny dzień!" },
+      { "en": "What beautiful flowers!", "pl": "Ale piękne kwiaty!" },
+      { "en": "What awful weather!", "pl": "Ale okropna pogoda!" },
+      { "en": "What a mess you've made!", "pl": "Ale bałagan zrobiłeś!" }
+    ]
+  },
+  {
+    "id": "how_exclamations",
+    "order": 2,
+    "nameEn": "How...! exclamations",
+    "namePl": "Wykrzyknienia z How...!",
+    "rules": [
+      { "label": "Przymiotnik/przysłówek", "text": "How + przymiotnik/przysłówek + (podmiot + orzeczenie)!: How strange (that is)! / How quickly he ran!" },
+      { "label": "Bez rzeczownika", "text": "Po How nie występuje rzeczownik — jeśli chcemy podkreślić rzeczownik, używamy What...!, nie How...!" },
+      { "label": "Z czasownikiem", "text": "How + podmiot + czasownik! podkreśla intensywność czynności: How she sings!" }
+    ],
+    "usage": [
+      "Wyrażanie zachwytu lub zdziwienia cechą (przymiotnik) lub sposobem wykonania czynności (przysłówek)",
+      "Bardziej formalne niż What...!, częste też w piśmie",
+      "How + podmiot + czasownik — podkreślenie intensywności czynności"
+    ],
+    "tags": ["How strange!", "How quickly he ran!", "How kind of you!", "How she sings!"],
+    "examples": [
+      { "en": "How strange that sounds!", "pl": "Ale to dziwnie brzmi!" },
+      { "en": "How quickly he ran!", "pl": "Jak on szybko biegł!" },
+      { "en": "How kind of you to help!", "pl": "Ale to miło z twojej strony, że pomogłeś!" },
+      { "en": "How she sings!", "pl": "Jak ona śpiewa!" }
+    ]
+  },
+  {
+    "id": "what_vs_how",
+    "order": 3,
+    "nameEn": "What...! vs How...!",
+    "namePl": "What...! a How...! — rozróżnienie",
+    "rules": [
+      { "label": "What + rzeczownik", "text": "Gdy podkreślamy rzeczownik (z ewentualnym przymiotnikiem przed nim), używamy What: What a beautiful house!" },
+      { "label": "How + przymiotnik/przysłówek", "text": "Gdy podkreślamy sam przymiotnik lub przysłówek, bez rzeczownika, używamy How: How beautiful!" },
+      { "label": "To samo zdanie, dwa sposoby", "text": "Wiele zdań można wyrazić oboma sposobami: What a beautiful house! = How beautiful this house is!" }
+    ],
+    "usage": [
+      "Wybór między What a/an... ! a How... ! zależy od tego, czy chcemy uwypuklić rzeczownik czy cechę",
+      "Częsty błąd uczniów: How a beautiful house! — niepoprawne, bo po How nie stawiamy rzeczownika z a/an",
+      "Częsty błąd: What beautiful! — niepoprawne, bo po What musi wystąpić rzeczownik"
+    ],
+    "tags": ["What a beautiful house!", "How beautiful!", "What vs How", "błędy uczniów"],
+    "examples": [
+      { "en": "What a beautiful house this is!", "pl": "Ale piękny to dom!" },
+      { "en": "How beautiful this house is!", "pl": "Jaki piękny jest ten dom!" },
+      { "en": "What a fast car!", "pl": "Ale szybki samochód!" },
+      { "en": "How fast that car is!", "pl": "Jaki szybki jest ten samochód!" }
+    ]
+  },
+  {
+    "id": "so_such_exclamations",
+    "order": 4,
+    "nameEn": "So / Such in exclamations",
+    "namePl": "So / Such w wykrzyknieniach",
+    "rules": [
+      { "label": "So + przymiotnik/przysłówek", "text": "So + przymiotnik/przysłówek (bez rzeczownika): This is so exciting!" },
+      { "label": "Such + rzeczownik", "text": "Such (+ a/an) + (przymiotnik) + rzeczownik: It's such a great idea! / They are such nice people!" },
+      { "label": "Podobieństwo do What/How", "text": "So/Such w wykrzyknieniach pełnią podobną funkcję wzmacniającą jak What/How, ale wymagają pełnego zdania oznajmującego z podmiotem i orzeczeniem" }
+    ],
+    "usage": [
+      "Nieformalne wykrzyknienia w pełnym zdaniu oznajmującym (nie na początku, tak jak What/How)",
+      "So podkreśla przymiotnik lub przysłówek",
+      "Such podkreśla rzeczownik (z ewentualnym przymiotnikiem)"
+    ],
+    "tags": ["so exciting!", "such a great idea!", "such nice people!", "so kind!"],
+    "examples": [
+      { "en": "This is so exciting!", "pl": "To jest takie ekscytujące!" },
+      { "en": "It's such a great idea!", "pl": "To jest taki świetny pomysł!" },
+      { "en": "They are such nice people!", "pl": "Oni są takimi miłymi ludźmi!" },
+      { "en": "You're so kind!", "pl": "Jesteś taki miły!" }
+    ]
+  }
+]
