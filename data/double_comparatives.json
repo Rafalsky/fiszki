@@ -1,0 +1,127 @@
+[
+  {
+    "id": "basic_pattern",
+    "order": 1,
+    "nameEn": "The + comparative, the + comparative — basic pattern",
+    "namePl": "The + comparative, the + comparative — wzorzec podstawowy",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "Powtarzamy 'the' przed każdym przymiotnikiem/przysłówkiem w stopniu wyższym: The + comparative + zdanie, the + comparative + zdanie."
+      },
+      {
+        "label": "krótkie przymiotniki",
+        "text": "Krótkie przymiotniki i przysłówki tworzą stopień wyższy przez końcówkę -er: the bigger, the faster, the sooner."
+      },
+      {
+        "label": "znaczenie",
+        "text": "Struktura pokazuje zależność proporcjonalną między dwoma rzeczami — 'im..., tym...'"
+      }
+    ],
+    "usage": [
+      "Opisywanie zależności proporcjonalnej między dwoma zdarzeniami lub cechami",
+      "Obie części zdania mają swój własny podmiot i orzeczenie",
+      "Kolejność części jest stała — warunek/przyczyna na pierwszym miejscu, skutek na drugim"
+    ],
+    "tags": ["the bigger, the better", "the sooner, the better", "the more...the more"],
+    "examples": [
+      { "en": "The bigger the house, the more expensive it is.", "pl": "Im większy dom, tym jest droższy." },
+      { "en": "The sooner we leave, the sooner we'll arrive.", "pl": "Im szybciej wyjedziemy, tym szybciej dotrzemy." },
+      { "en": "The harder you work, the more you earn.", "pl": "Im ciężej pracujesz, tym więcej zarabiasz." },
+      { "en": "The older I get, the wiser I become.", "pl": "Im jestem starszy, tym mądrzejszy się staję." }
+    ]
+  },
+  {
+    "id": "with_more_less_nouns",
+    "order": 2,
+    "nameEn": "the more/less + noun — double comparatives with nouns",
+    "namePl": "the more/less + rzeczownik — podwójne porównania z rzeczownikami",
+    "rules": [
+      {
+        "label": "more/less + rzeczownik",
+        "text": "Gdy porównujemy ilość, używamy 'the more' lub 'the less' zamiast końcówki -er: the more money, the less time."
+      },
+      {
+        "label": "rzeczowniki policzalne w liczbie mnogiej",
+        "text": "Z rzeczownikami policzalnymi w liczbie mnogiej formalnie używa się 'the fewer': the fewer mistakes, the more confident you become."
+      },
+      {
+        "label": "fewer vs less",
+        "text": "Formalnie 'fewer' łączy się z rzeczownikami policzalnymi, 'less' z niepoliczalnymi — w mowie potocznej 'less' bywa używane z obiema kategoriami."
+      }
+    ],
+    "usage": [
+      "Gdy porównywana wielkość to ilość czegoś (rzeczownik), a nie cecha wyrażona przymiotnikiem",
+      "Podkreślanie zależności między ilością jednej rzeczy a poziomem drugiej"
+    ],
+    "tags": ["the more money", "the less time", "the fewer mistakes"],
+    "examples": [
+      { "en": "The more money he earns, the more he spends.", "pl": "Im więcej pieniędzy zarabia, tym więcej wydaje." },
+      { "en": "The less sleep you get, the less productive you are.", "pl": "Im mniej śpisz, tym jesteś mniej produktywny." },
+      { "en": "The more friends you have, the happier you feel.", "pl": "Im więcej masz przyjaciół, tym czujesz się szczęśliwszy." },
+      { "en": "The fewer distractions there are, the better you can focus.", "pl": "Im mniej rozpraszaczy, tym lepiej możesz się skupić." }
+    ]
+  },
+  {
+    "id": "long_adjectives",
+    "order": 3,
+    "nameEn": "the more + adjective — double comparatives with long adjectives",
+    "namePl": "the more + przymiotnik — podwójne porównania z długimi przymiotnikami",
+    "rules": [
+      {
+        "label": "długie przymiotniki",
+        "text": "Przymiotniki dwu- i więcej-sylabowe tworzą stopień wyższy przez 'more', nie przez końcówkę: the more comfortable, the more difficult."
+      },
+      {
+        "label": "mieszanie form",
+        "text": "W jednym zdaniu można łączyć krótką i długą formę: The more expensive the hotel, the better the service."
+      },
+      {
+        "label": "szyk",
+        "text": "'more' zostaje bezpośrednio przed przymiotnikiem, a cała fraza 'the more + adjective' otwiera klauzulę."
+      }
+    ],
+    "usage": [
+      "Gdy porównywana cecha jest wyrażona przymiotnikiem wielosylabowym",
+      "Częste w opisach jakości, trudności i komfortu"
+    ],
+    "tags": ["the more difficult", "the more comfortable", "the more expensive"],
+    "examples": [
+      { "en": "The more difficult the exam, the more nervous students feel.", "pl": "Im trudniejszy egzamin, tym bardziej zdenerwowani czują się uczniowie." },
+      { "en": "The more expensive the hotel, the better the service.", "pl": "Im droższy hotel, tym lepsza obsługa." },
+      { "en": "The more complicated the plan, the more likely it is to fail.", "pl": "Im bardziej skomplikowany plan, tym bardziej prawdopodobne, że zawiedzie." },
+      { "en": "The more comfortable the shoes, the longer you can walk.", "pl": "Im wygodniejsze buty, tym dłużej możesz chodzić." }
+    ]
+  },
+  {
+    "id": "fixed_expressions",
+    "order": 4,
+    "nameEn": "the more the merrier — fixed short expressions",
+    "namePl": "the more the merrier — utrwalone krótkie wyrażenia",
+    "rules": [
+      {
+        "label": "forma eliptyczna",
+        "text": "W krótkich, utrwalonych zwrotach pomija się podmiot i czasownik: The more, the merrier. / The sooner, the better."
+      },
+      {
+        "label": "znaczenie idiomatyczne",
+        "text": "'The more the merrier' oznacza, że im więcej osób/uczestników, tym lepsza zabawa i atmosfera."
+      },
+      {
+        "label": "użycie potoczne",
+        "text": "Te zwroty są bardzo częste w mowie potocznej jako samodzielne, krótkie komentarze lub odpowiedzi."
+      }
+    ],
+    "usage": [
+      "Nieformalne, utrwalone wyrażenia funkcjonujące jako gotowe zwroty",
+      "Odpowiedź lub komentarz w rozmowie, bez potrzeby budowania pełnego zdania"
+    ],
+    "tags": ["the more the merrier", "the sooner the better", "the bigger the better"],
+    "examples": [
+      { "en": "Can I bring my friends too? — Sure, the more the merrier!", "pl": "Czy mogę też przyprowadzić przyjaciół? — Jasne, im więcej, tym weselej!" },
+      { "en": "When should we start? — The sooner the better.", "pl": "Kiedy powinniśmy zacząć? — Im szybciej, tym lepiej." },
+      { "en": "Do you want a small or a big slice? — The bigger the better!", "pl": "Chcesz mały czy duży kawałek? — Im większy, tym lepiej!" },
+      { "en": "How many volunteers do we need? — As many as possible, the more the merrier.", "pl": "Ilu potrzebujemy ochotników? — Jak najwięcej, im więcej, tym weselej." }
+    ]
+  }
+]

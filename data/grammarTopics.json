@@ -369,5 +369,12 @@
     "title": "Dedukcja modalna",
     "desc": "Modalne wyrażające przypuszczenia o teraźniejszości: must/might/could/can't + bezokolicznik — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "double_comparatives",
+    "icon": "📈",
+    "title": "Podwójne porównania",
+    "desc": "Struktura the + comparative..., the + comparative... (im więcej, tym lepiej) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
