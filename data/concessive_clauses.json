@@ -1,0 +1,182 @@
+[
+  {
+    "id": "whatever_whoever",
+    "order": 1,
+    "nameEn": "whatever / whoever",
+    "namePl": "whatever / whoever — cokolwiek / ktokolwiek",
+    "rules": [
+      {
+        "label": "whatever",
+        "text": "= \"cokolwiek\" — wprowadza zdanie ustępstwa, niezależnie od tego, co się dzieje: whatever + podmiot + orzeczenie, ... (zdanie główne)"
+      },
+      {
+        "label": "whoever",
+        "text": "= \"ktokolwiek\" — odnosi się do osoby, niezależnie od tego, kto to jest: whoever + podmiot + orzeczenie, ... (zdanie główne)"
+      },
+      {
+        "label": "szyk",
+        "text": "zdanie z whatever/whoever może stać na początku (z przecinkiem) lub na końcu zdania (bez przecinka)"
+      }
+    ],
+    "usage": [
+      "Whatever happens, we'll support you. — wyraża, że wynik nie ma znaczenia dla decyzji/postawy",
+      "Whoever calls, tell them I'm busy. — niezależnie od tożsamości rozmówcy",
+      "Take whatever you need. — tu whatever pełni funkcję zaimka względnego (\"to, co\"), nie ustępstwa — rozróżniamy z kontekstu",
+      "Whoever wins the match, it'll be a great final. — nieważne, kto wygra"
+    ],
+    "tags": ["whatever happens", "whoever calls", "no matter what", "concession"],
+    "examples": [
+      {
+        "en": "Whatever you decide, I'll respect it.",
+        "pl": "Cokolwiek zdecydujesz, uszanuję to."
+      },
+      {
+        "en": "Whoever broke the window will have to pay for it.",
+        "pl": "Ktokolwiek zbił okno, będzie musiał za nie zapłacić."
+      },
+      {
+        "en": "I'll finish this project, whatever it takes.",
+        "pl": "Skończę ten projekt, cokolwiek by to nie kosztowało."
+      },
+      {
+        "en": "Whoever you ask, you'll get the same answer.",
+        "pl": "Kogokolwiek zapytasz, dostaniesz tę samą odpowiedź."
+      }
+    ]
+  },
+  {
+    "id": "whenever_wherever",
+    "order": 2,
+    "nameEn": "whenever / wherever",
+    "namePl": "whenever / wherever — kiedykolwiek / gdziekolwiek",
+    "rules": [
+      {
+        "label": "whenever",
+        "text": "= \"kiedykolwiek\" — czas nie ma znaczenia: whenever + podmiot + orzeczenie, ... (zdanie główne)"
+      },
+      {
+        "label": "wherever",
+        "text": "= \"gdziekolwiek\" — miejsce nie ma znaczenia: wherever + podmiot + orzeczenie, ... (zdanie główne)"
+      },
+      {
+        "label": "whenever = every time",
+        "text": "whenever może też znaczyć po prostu \"za każdym razem, gdy\" — bez odcienia ustępstwa, znaczenie rozpoznajemy z kontekstu"
+      }
+    ],
+    "usage": [
+      "Wherever you go, I'll follow you. — niezależnie od miejsca",
+      "Whenever you're ready, we can start. — niezależnie od momentu",
+      "Come whenever you like. — dowolność wyboru czasu",
+      "Wherever she works, she makes friends quickly. — w każdym miejscu pracy"
+    ],
+    "tags": ["wherever you go", "whenever you like", "no matter when", "no matter where"],
+    "examples": [
+      {
+        "en": "Wherever we travel, we always try the local food.",
+        "pl": "Gdziekolwiek podróżujemy, zawsze próbujemy lokalnego jedzenia."
+      },
+      {
+        "en": "Whenever he calls, I answer.",
+        "pl": "Kiedykolwiek dzwoni, odbieram."
+      },
+      {
+        "en": "You can sit wherever you want.",
+        "pl": "Możesz usiąść, gdziekolwiek chcesz."
+      },
+      {
+        "en": "Whenever it rains, the roof leaks.",
+        "pl": "Kiedykolwiek pada deszcz, dach przecieka."
+      }
+    ]
+  },
+  {
+    "id": "however_concessive",
+    "order": 3,
+    "nameEn": "however + adjective/adverb",
+    "namePl": "however + przymiotnik/przysłówek — jakkolwiek",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "however + przymiotnik/przysłówek + podmiot + orzeczenie, ... (zdanie główne) — \"jakkolwiek [bardzo]\""
+      },
+      {
+        "label": "różnica od however-łącznika",
+        "text": "to inna konstrukcja niż however na początku zdania jako spójnik (\"jednak\", odpowiednik but) — tu however zawsze łączy się bezpośrednio z przymiotnikiem/przysłówkiem"
+      },
+      {
+        "label": "pozycja",
+        "text": "zdanie z however zwykle stoi na początku całego zdania, z przecinkiem przed zdaniem głównym"
+      }
+    ],
+    "usage": [
+      "However hard you try, you won't finish today. — niezależnie od stopnia wysiłku",
+      "However tired I am, I always walk the dog. — niezależnie od stopnia zmęczenia",
+      "However fast she runs, she can't win. — niezależnie od tempa",
+      "Nie mylić z: However, I disagree. (tu however = jednak, spójnik zdań)"
+    ],
+    "tags": ["however hard", "however much", "no matter how", "concession"],
+    "examples": [
+      {
+        "en": "However difficult the exam is, I'll pass it.",
+        "pl": "Jakkolwiek trudny byłby egzamin, zdam go."
+      },
+      {
+        "en": "However much it costs, we're buying it.",
+        "pl": "Nieważne, ile to kosztuje, kupujemy to."
+      },
+      {
+        "en": "However hard he tried, he couldn't open the jar.",
+        "pl": "Jakkolwiek bardzo próbował, nie mógł otworzyć słoika."
+      },
+      {
+        "en": "However late you arrive, call me first.",
+        "pl": "Niezależnie od tego, jak późno przyjedziesz, zadzwoń najpierw."
+      }
+    ]
+  },
+  {
+    "id": "no_matter",
+    "order": 4,
+    "nameEn": "no matter what/who/how/where/when",
+    "namePl": "no matter what/who/how/where/when — bez względu na",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "no matter + what/who/how/where/when + podmiot + orzeczenie, ... (zdanie główne)"
+      },
+      {
+        "label": "odpowiedniki",
+        "text": "no matter what = whatever, no matter who = whoever, no matter how = however, no matter where = wherever, no matter when = whenever"
+      },
+      {
+        "label": "styl",
+        "text": "no matter... jest bardziej potoczne i częstsze w mowie niż formy z -ever, które brzmią nieco bardziej formalnie"
+      }
+    ],
+    "usage": [
+      "No matter what happens, stay calm. — niezależnie od okoliczności",
+      "No matter how hard it is, keep going. — niezależnie od stopnia trudności",
+      "No matter who calls, don't answer. — niezależnie od tego, kto dzwoni",
+      "No matter where you live, the internet connects us. — niezależnie od miejsca"
+    ],
+    "tags": ["no matter what", "no matter how", "no matter who", "concession"],
+    "examples": [
+      {
+        "en": "No matter what you say, I won't change my mind.",
+        "pl": "Bez względu na to, co powiesz, nie zmienię zdania."
+      },
+      {
+        "en": "No matter how much I practise, I never get better at chess.",
+        "pl": "Bez względu na to, jak dużo ćwiczę, nigdy nie robię się lepszy w szachy."
+      },
+      {
+        "en": "No matter who wins, we'll celebrate together.",
+        "pl": "Bez względu na to, kto wygra, będziemy świętować razem."
+      },
+      {
+        "en": "No matter when you arrive, someone will be here to greet you.",
+        "pl": "Bez względu na to, kiedy przyjedziesz, ktoś tu będzie, żeby cię przywitać."
+      }
+    ]
+  }
+]
