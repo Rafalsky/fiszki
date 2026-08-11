@@ -1,0 +1,94 @@
+[
+  {
+    "id": "absolute_ing",
+    "order": 1,
+    "nameEn": "Absolute clauses with -ing participle",
+    "namePl": "Konstrukcja absolutna z imiesłowem -ing",
+    "rules": [
+      { "label": "Forma", "text": "[podmiot] + czasownik-ing + reszta zdania — bez spójnika (because, when, as itp.)" },
+      { "label": "Własny podmiot", "text": "podmiot konstrukcji absolutnej jest INNY niż podmiot zdania głównego — to odróżnia ją od zwykłych zdań imiesłowowych, w których podmiot jest wspólny i pomijany" },
+      { "label": "Znaczenie", "text": "wyraża przyczynę, okoliczność towarzyszącą lub warunek współwystępujący z czynnością główną" }
+    ],
+    "usage": [
+      "Przyczyna z osobnym podmiotem: The weather being fine, we decided to go for a picnic.",
+      "Utrwalone formalne zwroty: Weather permitting, Time permitting, Circumstances permitting",
+      "Styl formalny i pisany — w mowie potocznej rzadkie, zastępowane przez 'because/as/since'"
+    ],
+    "tags": ["Weather permitting,", "being fine,", "rising steadily,", "Time permitting,"],
+    "examples": [
+      { "en": "Weather permitting, the outdoor concert will go ahead.", "pl": "Jeśli pogoda dopisze, koncert plenerowy się odbędzie." },
+      { "en": "The weather being fine, we decided to go for a picnic.", "pl": "Ponieważ pogoda była ładna, postanowiliśmy urządzić piknik." },
+      { "en": "Prices rising steadily, consumers began to cut back on spending.", "pl": "Ponieważ ceny stale rosły, konsumenci zaczęli ograniczać wydatki." },
+      { "en": "Time permitting, we'll cover the last chapter today.", "pl": "Jeśli czas pozwoli, omówimy dziś także ostatni rozdział." }
+    ]
+  },
+  {
+    "id": "absolute_perfect",
+    "order": 2,
+    "nameEn": "Absolute clauses with perfect participle (Having done)",
+    "namePl": "Konstrukcja absolutna z imiesłowem uprzednim (Having + III forma)",
+    "rules": [
+      { "label": "Forma", "text": "[podmiot] + Having (been) + III forma czasownika" },
+      { "label": "Kolejność czynności", "text": "podkreśla, że czynność w konstrukcji absolutnej zakończyła się PRZED czynnością główną" },
+      { "label": "Własny podmiot", "text": "podmiot różni się od podmiotu zdania głównego (w przeciwieństwie do zwykłych zdań z Having + III forma, gdzie podmiot jest wspólny)" }
+    ],
+    "usage": [
+      "Sekwencja zdarzeń z różnymi podmiotami: The meeting having ended, the delegates left the building.",
+      "Forma bierna Having been + III: All the tickets having been sold, the box office closed early.",
+      "Styl formalny, narracyjny i dziennikarski"
+    ],
+    "tags": ["having ended,", "having stopped,", "having arrived,", "having been sold,"],
+    "examples": [
+      { "en": "The meeting having ended, the delegates left the building.", "pl": "Ponieważ spotkanie się zakończyło, delegaci opuścili budynek." },
+      { "en": "The rain having stopped, they continued their walk.", "pl": "Ponieważ deszcz przestał padać, kontynuowali spacer." },
+      { "en": "Everyone having arrived, the ceremony began.", "pl": "Skoro wszyscy przybyli, ceremonia się rozpoczęła." },
+      { "en": "All the tickets having been sold, the box office closed early.", "pl": "Ponieważ wszystkie bilety zostały sprzedane, kasa zamknęła się wcześniej." }
+    ]
+  },
+  {
+    "id": "with_absolute",
+    "order": 3,
+    "nameEn": "Absolute clauses with 'with'",
+    "namePl": "Konstrukcja absolutna z 'with'",
+    "rules": [
+      { "label": "Forma", "text": "with + rzeczownik/zaimek + imiesłów (-ing lub -ed) / przymiotnik / fraza przyimkowa" },
+      { "label": "Funkcja", "text": "opisuje okoliczność, tło lub przyczynę współwystępującą z czynnością zdania głównego" },
+      { "label": "Naturalność", "text": "'with' jawnie wprowadza podmiot konstrukcji, dzięki czemu zdanie brzmi bardziej naturalnie niż goła konstrukcja absolutna bez spójnika" }
+    ],
+    "usage": [
+      "Opis tła/okoliczności towarzyszącej: With prices rising steadily, more people are turning to budget stores.",
+      "Opis wyglądu lub postawy: With his arms folded, he listened in silence.",
+      "Podanie przyczyny: With so many people off sick, the office was short-staffed."
+    ],
+    "tags": ["With prices rising,", "With his arms folded,", "With so many people off sick,", "With the deadline approaching,"],
+    "examples": [
+      { "en": "With prices rising steadily, more people are turning to budget stores.", "pl": "Ponieważ ceny stale rosną, coraz więcej ludzi wybiera tańsze sklepy." },
+      { "en": "With his arms folded, he listened to her explanation in silence.", "pl": "Ze skrzyżowanymi rękami, w milczeniu słuchał jej wyjaśnień." },
+      { "en": "With so many people off sick, the office was seriously short-staffed.", "pl": "Ponieważ tak wielu ludzi było na zwolnieniu, biuru poważnie brakowało personelu." },
+      { "en": "With the deadline approaching, the whole team worked late every night.", "pl": "W miarę zbliżania się terminu, cały zespół pracował do późna każdej nocy." }
+    ]
+  },
+  {
+    "id": "verbless_absolute",
+    "order": 4,
+    "nameEn": "Verbless absolute clauses",
+    "namePl": "Bezczasownikowa konstrukcja absolutna",
+    "rules": [
+      { "label": "Forma", "text": "[rzeczownik/zaimek] + przymiotnik / fraza przyimkowa / rzeczownik — bez żadnego czasownika ani imiesłowu" },
+      { "label": "Domyślne 'being'", "text": "konstrukcję można w myślach rozwinąć, wstawiając pominięte 'being': Her voice (being) full of excitement..." },
+      { "label": "Funkcja", "text": "dodaje zwięzły, literacki opis wyglądu, stanu lub okoliczności towarzyszącej czynności głównej" }
+    ],
+    "usage": [
+      "Opis wyglądu lub stanu towarzyszącego czynności: Her voice full of excitement, she announced the winner.",
+      "Krótkie sceniczne, narracyjne opisy: The exam over, the students burst into cheers.",
+      "Częste w stylu literackim i dziennikarskim, rzadkie w mowie potocznej"
+    ],
+    "tags": ["voice full of excitement,", "face pale with fear,", "exam over,", "coat in hand,"],
+    "examples": [
+      { "en": "Her voice full of excitement, she announced the winner's name.", "pl": "Z głosem pełnym emocji, ogłosiła imię zwycięzcy." },
+      { "en": "His face pale with fear, he opened the letter.", "pl": "Z twarzą bladą ze strachu, otworzył list." },
+      { "en": "The exam finally over, the students burst into cheers.", "pl": "Gdy egzamin się wreszcie skończył, studenci wybuchnęli radosnym okrzykiem." },
+      { "en": "Coat in hand, she rushed out of the door.", "pl": "Z płaszczem w ręku, wybiegła za drzwi." }
+    ]
+  }
+]

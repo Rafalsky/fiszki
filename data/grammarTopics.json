@@ -453,5 +453,12 @@
     "title": "Wzorce czasowników sprawozdających",
     "desc": "Wzorce składniowe czasowników sprawozdających: deny/admit + gerund, suggest/recommend + that-clause, offer/refuse/promise + bezokolicznik, advise/warn/persuade + dopełnienie + bezokolicznik, accuse/blame + of + gerund — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "absolute_clauses",
+    "icon": "🌦️",
+    "title": "Konstrukcje absolutne",
+    "desc": "Konstrukcje absolutne (Weather permitting, With prices rising..., Her voice full of excitement...) — imiesłowowe i bezczasownikowe zdania okolicznikowe z własnym podmiotem — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
