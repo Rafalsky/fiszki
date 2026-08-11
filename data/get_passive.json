@@ -1,0 +1,110 @@
+[
+  {
+    "id": "get_passive_form",
+    "order": 1,
+    "nameEn": "get + past participle — the dynamic (informal) passive",
+    "namePl": "get + imiesłów bierny — strona bierna dynamiczna (nieformalna)",
+    "rules": [
+      { "label": "Budowa", "text": "podmiot + get (w odpowiednim czasie) + past participle (III forma) — czasownik get zastępuje be jako operator strony biernej: The window got broken. / The window was broken." },
+      { "label": "be vs. get", "text": "be-passive jest neutralny stylistycznie i statyczny (opisuje stan lub fakt); get-passive jest nieformalny i dynamiczny — podkreśla samą ZMIANĘ stanu, często nagłą, niespodziewaną lub niezależną od woli podmiotu" },
+      { "label": "Ograniczenia", "text": "get-passive używamy głównie w czasach dynamicznych (Present/Past Simple, Present/Past Continuous, Present Perfect) i prawie nigdy z czasownikami statywnymi w znaczeniu biernym (np. nie mówi się 'the book got known by everyone' — tu naturalne jest be known)" }
+    ],
+    "usage": [
+      "Gdy chcemy podkreślić, że coś SIĘ STAŁO (zmiana stanu), a nie tylko opisać stan — 'The vase got broken' brzmi bardziej dynamicznie niż 'The vase was broken'",
+      "Głównie w mowie potocznej i nieformalnym piśmie; w stylu formalnym, naukowym i urzędowym niemal zawsze stosuje się be-passive",
+      "get-passive rzadko występuje z dopełnieniem sprawcy (by + wykonawca) — jeśli chcemy podać sprawcę, be-passive brzmi naturalniej"
+    ],
+    "tags": ["get broken", "got damaged", "gets confused", "get-passive vs be-passive"],
+    "examples": [
+      { "en": "The window got broken during the storm.", "pl": "Okno zostało stłuczone podczas burzy." },
+      { "en": "My phone gets updated automatically every night.", "pl": "Mój telefon aktualizuje się automatycznie każdej nocy." },
+      { "en": "She got confused by all the conflicting instructions.", "pl": "Zrobiła się skonfundowana przez wszystkie sprzeczne instrukcje." },
+      { "en": "Two cars got damaged in the accident.", "pl": "Dwa samochody zostały uszkodzone w wypadku." }
+    ]
+  },
+  {
+    "id": "get_passive_accidents",
+    "order": 2,
+    "nameEn": "get + past participle for accidents, mishaps and misfortunes",
+    "namePl": "get + III forma przy wypadkach, niefortunnych zdarzeniach i pechu",
+    "rules": [
+      { "label": "Typowe znaczenie", "text": "get-passive jest szczególnie naturalny, gdy mówimy o czymś złym, nieoczekiwanym lub pechowym, co przydarzyło się podmiotowi: get hurt, get injured, get robbed, get mugged, get sacked/fired, get stuck, get bitten" },
+      { "label": "Emocjonalny odcień", "text": "get podkreśla, że podmiot doświadczył czegoś (często wbrew swojej woli), a nie tylko że coś jest w danym stanie — dlatego dominuje w relacjonowaniu wypadków i pecha" }
+    ],
+    "usage": [
+      "Opowiadanie o wypadkach, kontuzjach i nieszczęśliwych zdarzeniach w rozmowie ('He got hit by a car but he's okay.')",
+      "Nieformalne relacje z pracy, podróży czy codziennego życia, gdzie coś poszło nie tak"
+    ],
+    "tags": ["get hurt", "got robbed", "get fired", "got stuck", "get bitten"],
+    "examples": [
+      { "en": "He got hit by a car but luckily wasn't seriously hurt.", "pl": "Potrącił go samochód, ale na szczęście nic mu poważnego się nie stało." },
+      { "en": "Our neighbours got robbed while they were on holiday.", "pl": "Naszych sąsiadów okradziono, gdy byli na wakacjach." },
+      { "en": "I got stuck in traffic for almost two hours.", "pl": "Utknąłem w korku na prawie dwie godziny." },
+      { "en": "She got fired for constantly being late.", "pl": "Została zwolniona za ciągłe spóźnianie się." }
+    ]
+  },
+  {
+    "id": "get_passive_life_events",
+    "order": 3,
+    "nameEn": "get + past participle for life changes and milestones",
+    "namePl": "get + III forma przy zmianach życiowych i ważnych wydarzeniach",
+    "rules": [
+      { "label": "Utrwalone zwroty", "text": "wiele zmian życiowych po angielsku wyraża się właśnie przez get + past participle: get married, get engaged, get divorced, get promoted, get elected, get accepted (to university), get selected" },
+      { "label": "Naturalność w mowie", "text": "w tych kontekstach get-passive jest tak powszechny, że często brzmi bardziej naturalnie niż be-passive, nawet jeśli oba są poprawne gramatycznie: 'They got married last June' jest bardziej typowe niż 'They were married last June' (to drugie sugeruje raczej stan bycia w związku małżeńskim, nie samą ceremonię)" }
+    ],
+    "usage": [
+      "Mówienie o ślubach, zaręczynach, rozwodach, awansach i innych kamieniach milowych w życiu",
+      "Podkreślenie, że coś się WYDARZYŁO w konkretnym momencie, a nie że ktoś w danym stanie po prostu 'jest'"
+    ],
+    "tags": ["get married", "get promoted", "get divorced", "get elected", "get accepted"],
+    "examples": [
+      { "en": "They got married in a small ceremony by the sea.", "pl": "Wzięli ślub podczas skromnej ceremonii nad morzem." },
+      { "en": "She got promoted to team leader after just one year.", "pl": "Awansowała na kierownika zespołu po zaledwie roku." },
+      { "en": "My parents got divorced when I was ten.", "pl": "Moi rodzice rozwiedli się, gdy miałem dziesięć lat." },
+      { "en": "He got elected mayor by a very narrow margin.", "pl": "Został wybrany na burmistrza bardzo niewielką większością głosów." }
+    ]
+  },
+  {
+    "id": "get_passive_routines",
+    "order": 4,
+    "nameEn": "get + past participle in reflexive-like daily routines",
+    "namePl": "get + III forma w rutynowych czynnościach o charakterze zwrotnym",
+    "rules": [
+      { "label": "Znaczenie zwrotne", "text": "z czasownikami takimi jak dress, wash, change, ready get + past participle opisuje czynność wykonywaną na sobie samym — podmiot jest jednocześnie wykonawcą i odbiorcą czynności: get dressed, get washed, get changed, get ready" },
+      { "label": "Różnica od prawdziwej strony biernej", "text": "semantycznie to bliżej czasownika zwrotnego (ubrać się) niż klasycznej strony biernej z zewnętrznym sprawcą — mimo to gramatycznie ma tę samą budowę get + III forma" }
+    ],
+    "usage": [
+      "Opisywanie codziennych czynności higienicznych i przygotowań: 'I need to get dressed before we leave.'",
+      "Instrukcje i polecenia w trybie rozkazującym: 'Get ready, we're leaving in five minutes!'"
+    ],
+    "tags": ["get dressed", "get washed", "get changed", "get ready"],
+    "examples": [
+      { "en": "Hurry up and get dressed — we're going to be late!", "pl": "Pospiesz się i ubierz się — spóźnimy się!" },
+      { "en": "He got washed and shaved before the interview.", "pl": "Umył się i ogolił przed rozmową kwalifikacyjną." },
+      { "en": "Let me get changed and I'll be right with you.", "pl": "Pozwól, że się przebiorę, i zaraz do ciebie dołączę." },
+      { "en": "Get ready — the taxi will be here in ten minutes.", "pl": "Przygotuj się — taksówka będzie tu za dziesięć minut." }
+    ]
+  },
+  {
+    "id": "get_passive_vs_causative",
+    "order": 5,
+    "nameEn": "get-passive vs. causative get something done vs. be-passive",
+    "namePl": "get-passive kontra causative get something done kontra be-passive",
+    "rules": [
+      { "label": "get + past participle (get-passive)", "text": "coś dzieje się PODMIOTOWI, zwykle mimowolnie: 'I got promoted.' = zostałem awansowany (przez kogoś innego, nie z mojej inicjatywy jako zlecającego)" },
+      { "label": "get + dopełnienie + past participle (causative)", "text": "podmiot ZLECA komuś wykonanie czynności na swoją rzecz: 'I got my hair cut.' = zleciłem obcięcie włosów (poszedłem do fryzjera z własnej inicjatywy) — dopełnienie (hair) stoi między get a imiesłowem" },
+      { "label": "be + past participle (be-passive)", "text": "neutralny, formalny opis stanu lub faktu, częsty z dopełnieniem sprawcy (by): 'The report was written by the committee.' — get-passive tu brzmiałoby zbyt nieformalnie" }
+    ],
+    "usage": [
+      "Rozróżnianie zdań pozornie podobnych: 'She got her car stolen' (padła ofiarą kradzieży, mimowolnie) vs. 'She got her car serviced' (sama zleciła przegląd samochodu)",
+      "Wybór między get a be w zależności od rejestru: rozmowa i e-mail do znajomego → get-passive; raport, artykuł naukowy, dokument urzędowy → be-passive"
+    ],
+    "tags": ["get something done", "get promoted vs get my hair cut", "get-passive register"],
+    "examples": [
+      { "en": "She got her car stolen right outside her house.", "pl": "Skradziono jej samochód tuż przed domem." },
+      { "en": "She got her car serviced before the long trip.", "pl": "Zleciła przegląd samochodu przed długą podróżą." },
+      { "en": "The bridge was completed two years ahead of schedule.", "pl": "Most został ukończony dwa lata przed terminem." },
+      { "en": "He got told off for arriving late to the meeting.", "pl": "Dostał reprymendę za spóźnienie się na spotkanie." }
+    ]
+  }
+]
