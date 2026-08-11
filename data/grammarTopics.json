@@ -474,5 +474,12 @@
     "title": "Przyimki złożone",
     "desc": "Wielowyrazowe przyimki formalne: due to, with regard to, by means of, in addition to — pełnią funkcję jednego przyimka, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "ergative_verbs",
+    "icon": "🔁",
+    "title": "Czasowniki ergatywne",
+    "desc": "Czasowniki ergatywne i strona środkowa (middle voice): break, open, sell, drive — ta sama forma w użyciu przechodnim i nieprzechodnim, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "core_ergative",
+    "order": 1,
+    "nameEn": "Ergative verbs — same form, transitive and intransitive",
+    "namePl": "Czasowniki ergatywne — ta sama forma w użyciu przechodnim i nieprzechodnim",
+    "rules": [
+      { "label": "Budowa", "text": "Czasownik ergatywny ma identyczną formę w użyciu przechodnim (podmiot + czasownik + dopełnienie) i nieprzechodnim (dawne dopełnienie staje się podmiotem, czasownik występuje bez dopełnienia): He broke the window. → The window broke." },
+      { "label": "Brak zmiany formy", "text": "W przeciwieństwie do strony biernej czasownik NIE zmienia formy — nie pojawia się be + III forma, zostaje w zwykłej formie aktywnej (broke, opens, started), tylko zmienia się podmiot" },
+      { "label": "Typowe czasowniki", "text": "break, open, close/shut, start, stop, begin, end, change, move, turn, dry, burn, crack, tear" }
+    ],
+    "usage": [
+      "Gdy nie znamy sprawcy czynności lub sprawca jest nieistotny, a chcemy skupić się na tym, co stało się z podmiotem",
+      "The door opened. — drzwi się otworzyły (bez wskazywania, kto je otworzył)",
+      "The meeting started at 9. — spotkanie się zaczęło (nie chodzi o to, kto je 'zaczął')",
+      "Kontrast: I opened the door. (przechodnie, ja jestem sprawcą) vs The door opened. (nieprzechodnie, drzwi 'same' się otworzyły)"
+    ],
+    "tags": ["The window broke", "The door opened", "The meeting started", "Fashions change"],
+    "examples": [
+      { "en": "She broke the vase.", "pl": "Ona stłukła wazon." },
+      { "en": "The vase broke when it fell off the table.", "pl": "Wazon stłukł się, gdy spadł ze stołu." },
+      { "en": "He opens the shop at 8am every day.", "pl": "On otwiera sklep o 8 rano każdego dnia." },
+      { "en": "The shop opens at 8am every day.", "pl": "Sklep otwiera się o 8 rano każdego dnia." }
+    ]
+  },
+  {
+    "id": "middle_voice_manner",
+    "order": 2,
+    "nameEn": "Middle voice with adverbs of manner",
+    "namePl": "Strona środkowa z przysłówkami sposobu",
+    "rules": [
+      { "label": "Budowa", "text": "Podmiot (zwykle rzecz) + czasownik ergatywny w formie aktywnej + przysłówek sposobu (well, easily, badly, smoothly) opisujący WŁAŚCIWOŚĆ podmiotu, a nie konkretnego wykonawcę czynności" },
+      { "label": "Znaczenie", "text": "Zdanie opisuje, jak dana rzecz 'zachowuje się' podczas typowej czynności wykonywanej na niej przez kogokolwiek — nie chodzi o jednorazowe działanie konkretnej osoby" },
+      { "label": "Częste czasowniki", "text": "sell, read, drive, wash, cut, peel, clean, iron, photograph, handle" }
+    ],
+    "usage": [
+      "Opisywanie jakości / cechy produktu lub przedmiotu: This car drives smoothly. (ten samochód dobrze się prowadzi)",
+      "Opinie o książkach, tekstach: This novel reads like a thriller.",
+      "Instrukcje i opisy produktów: This fabric washes well at 30 degrees.",
+      "NIE dodajemy wykonawcy przez by — zdanie *This car drives smoothly by John jest błędne"
+    ],
+    "tags": ["sells well", "drives smoothly", "reads easily", "washes well"],
+    "examples": [
+      { "en": "This book is selling really well this year.", "pl": "Ta książka naprawdę dobrze się sprzedaje w tym roku." },
+      { "en": "The new laptop handles beautifully.", "pl": "Ten nowy laptop świetnie się obsługuje." },
+      { "en": "Silk shirts don't wash well in a machine.", "pl": "Jedwabne koszule nie piorą się dobrze w pralce." },
+      { "en": "This essay reads a bit awkwardly in places.", "pl": "Ten esej miejscami czyta się trochę niezgrabnie." }
+    ]
+  },
+  {
+    "id": "ergative_vs_passive",
+    "order": 3,
+    "nameEn": "Ergative verbs vs the passive voice",
+    "namePl": "Czasowniki ergatywne a strona bierna",
+    "rules": [
+      { "label": "Kluczowa różnica", "text": "Strona bierna (be + III forma) zakłada istnienie sprawcy czynności, nawet gdy jest pominięty: The window was broken (by someone). Konstrukcja ergatywna nie zakłada żadnego konkretnego sprawcy: The window broke." },
+      { "label": "Test z 'by'", "text": "Do zdania biernego można dodać by + sprawca; do zdania ergatywnego — nie: The vase was broken by the cat. ale nie *The vase broke by the cat." },
+      { "label": "Typowy błąd", "text": "Uczniowie często dodają niepotrzebne was/were: błędne *The door was opened by itself zamiast poprawnego The door opened by itself / on its own." }
+    ],
+    "usage": [
+      "Gdy podkreślamy, że coś stało się 'samo z siebie', bez ingerencji: The ice melted in the sun. (nie: was melted)",
+      "Gdy chcemy podkreślić sprawcę lub sposób, w jaki coś zostało zrobione — używamy strony biernej: The window was broken by a stone.",
+      "Porównanie: Prices increased last year. (proces, brak wskazanego sprawcy) vs Prices were increased by the management. (ktoś podjął decyzję)"
+    ],
+    "tags": ["broke vs was broken", "melted (not was melted)", "increased vs were increased", "by itself / on its own"],
+    "examples": [
+      { "en": "The ice cream melted in the sun before we got home.", "pl": "Lody stopiły się na słońcu, zanim dotarliśmy do domu." },
+      { "en": "The chocolate was melted by the chef for the sauce.", "pl": "Czekolada została roztopiona przez szefa kuchni na sos." },
+      { "en": "The door swung open by itself — it must be the wind.", "pl": "Drzwi otworzyły się same — to pewnie wiatr." },
+      { "en": "The account was closed by the bank due to inactivity.", "pl": "Konto zostało zamknięte przez bank z powodu braku aktywności." }
+    ]
+  },
+  {
+    "id": "process_verbs",
+    "order": 4,
+    "nameEn": "Ergative verbs of change and process",
+    "namePl": "Czasowniki ergatywne procesu i zmiany",
+    "rules": [
+      { "label": "Budowa", "text": "Duża grupa czasowników opisujących zmianę ilości, stanu lub jakości działa ergatywnie: increase, decrease, improve, expand, double, drop, widen, boil, freeze" },
+      { "label": "Ekonomia i statystyki", "text": "W raportach i wiadomościach ekonomicznych czasowniki te często występują nieprzechodnio, z podmiotem będącym wskaźnikiem: Unemployment fell sharply." },
+      { "label": "Gotowanie", "text": "W przepisach kulinarnych ten sam czasownik występuje przechodnio (instrukcja) i nieprzechodnio (opis procesu): Boil the water. / The water is boiling." },
+      { "label": "Uwaga: rise/raise", "text": "rise jest zawsze nieprzechodnie, a raise zawsze przechodnie — to dwa osobne czasowniki nieregularne, nie forma ergatywna jednego czasownika: The sun rises. / He raised his hand." }
+    ],
+    "usage": [
+      "Opisywanie trendów gospodarczych bez wskazywania przyczyny: Sales increased by 10% last quarter.",
+      "Przepisy kulinarne: Add the pasta once the water boils.",
+      "Rise/raise oraz lie/lay to pary osobnych czasowników nieregularnych — trzeba je zapamiętać oddzielnie, nie stosując do nich wzorca ergatywnego"
+    ],
+    "tags": ["increased by 10%", "the water is boiling", "sales doubled", "rise vs raise"],
+    "examples": [
+      { "en": "The company doubled its profits within just two years.", "pl": "Firma podwoiła swoje zyski w ciągu zaledwie dwóch lat." },
+      { "en": "Profits doubled compared to the previous year.", "pl": "Zyski podwoiły się w porównaniu z poprzednim rokiem." },
+      { "en": "Turn the heat down once the soup boils.", "pl": "Zmniejsz ogień, gdy zupa zacznie wrzeć." },
+      { "en": "Unemployment has fallen for the third month in a row.", "pl": "Bezrobocie spada trzeci miesiąc z rzędu." }
+    ]
+  }
+]
