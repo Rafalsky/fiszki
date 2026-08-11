@@ -1,0 +1,102 @@
+[
+  {
+    "id": "basic_apposition",
+    "order": 1,
+    "nameEn": "Non-restrictive apposition — additional identifying information",
+    "namePl": "Apozycja nierestrykcyjna — dodatkowa informacja identyfikująca",
+    "rules": [
+      { "label": "Budowa", "text": "Apozycja to rzeczownik lub fraza rzeczownikowa postawiona bezpośrednio obok innego rzeczownika, odnosząca się do tego samego bytu — obie frazy 'są sobie równe': My brother, a doctor, lives in London. (a doctor = my brother)" },
+      { "label": "Interpunkcja", "text": "Apozycja nierestrykcyjna (dodatkowa, niekonieczna informacja) jest oddzielona przecinkami z obu stron zdania, a jednym przecinkiem, jeśli stoi na końcu zdania: Paris, the capital of France, is on the Seine. / He works with my sister, a lawyer." },
+      { "label": "Usuwalność", "text": "Apozycję nierestrykcyjną można usunąć ze zdania bez utraty gramatycznej poprawności i bez zmiany podstawowego znaczenia zdania głównego — to test na to, czy dana fraza jest prawdziwą apozycją nierestrykcyjną" },
+      { "label": "Funkcja", "text": "Pozwala wprowadzić dodatkową informację (zawód, tytuł, opis) o rzeczowniku bez tworzenia osobnego zdania względnego z who/which — jest zwięźlejsza niż 'who is a doctor'" }
+    ],
+    "usage": [
+      "Wprowadzanie zawodu, tytułu lub roli osoby: My father, a mechanic, taught me how to fix a car engine.",
+      "Styl dziennikarski i biograficzny przy pierwszym wprowadzeniu osoby: Barack Obama, the 44th president of the United States, ...",
+      "Dodawanie definiującej informacji o miejscu lub rzeczy: Mount Everest, the highest mountain in the world, is over 8,800 metres high.",
+      "Formalne, pisane teksty (raporty, artykuły) — pozwala unikać rozbudowanych zdań względnych z who/which"
+    ],
+    "tags": ["a doctor,", "the capital of France,", "a mechanic,", "the highest mountain,"],
+    "examples": [
+      { "en": "Mount Everest, the highest mountain in the world, is over 8,800 metres high.", "pl": "Mount Everest, najwyższa góra świata, ma ponad 8800 metrów wysokości." },
+      { "en": "My father, a mechanic, taught me how to fix a car engine.", "pl": "Mój ojciec, mechanik, nauczył mnie naprawiać silnik samochodowy." },
+      { "en": "London, the capital of England, attracts millions of tourists every year.", "pl": "Londyn, stolica Anglii, przyciąga co roku miliony turystów." },
+      { "en": "Jane Austen, the author of 'Pride and Prejudice', never married.", "pl": "Jane Austen, autorka 'Dumy i uprzedzenia', nigdy nie wyszła za mąż." }
+    ]
+  },
+  {
+    "id": "restrictive_apposition",
+    "order": 2,
+    "nameEn": "Restrictive apposition — no commas, no article",
+    "namePl": "Apozycja restrykcyjna — bez przecinków, bez rodzajnika",
+    "rules": [
+      { "label": "Budowa", "text": "Gdy nazwa własna jest niezbędna do zidentyfikowania, o kim/czym mowa (bo sam rzeczownik ogólny na to nie pozwala), apozycja jest restrykcyjna i NIE oddziela się jej przecinkami: my friend Tom, the poet Byron, the film Titanic" },
+      { "label": "Brak przecinków", "text": "Usunięcie apozycji restrykcyjnej zmienia lub zaciemnia znaczenie zdania — informacja jest konieczna do identyfikacji, więc nie stawiamy przecinków wokół niej, w przeciwieństwie do apozycji nierestrykcyjnej" },
+      { "label": "Brak rodzajnika", "text": "Gdy po rzeczowniku pospolitym w apozycji restrykcyjnej następuje nazwa własna, nie poprzedzamy jej rodzajnikiem: the scientist Marie Curie (nie: the scientist the Marie Curie / a Marie Curie)" },
+      { "label": "Kontrast znaczeniowy", "text": "Interpunkcja zmienia sens: my brother Tom (mam więcej niż jednego brata, imię precyzuje który) vs my brother, Tom, (mam jednego brata, imię to dodatkowa informacja)" }
+    ],
+    "usage": [
+      "Gdy dana osoba ma kilka odniesień tego samego typu (kilku przyjaciół, kilka sióstr) i imię jest potrzebne, by rozróżnić, o kogo chodzi: my sister Emma works as a nurse",
+      "Tytuły dzieł w apozycji do rzeczownika ogólnego: the novel Frankenstein, the film Titanic",
+      "Terminy i pojęcia wymagające definicji: the word apposition, the term loanword",
+      "Nazwiska znanych postaci przy rzeczowniku opisującym ich rolę, gdy sam rzeczownik nie wystarczy do identyfikacji: the scientist Alexander Fleming discovered penicillin"
+    ],
+    "tags": ["my friend Tom", "the poet Byron", "the film Titanic", "the word apposition"],
+    "examples": [
+      { "en": "My friend Tom is coming to the party tonight.", "pl": "Mój przyjaciel Tom przyjdzie dziś wieczorem na przyjęcie." },
+      { "en": "The poet Byron wrote many works inspired by his travels.", "pl": "Poeta Byron napisał wiele dzieł inspirowanych swoimi podróżami." },
+      { "en": "The scientist Alexander Fleming discovered penicillin almost by accident.", "pl": "Naukowiec Alexander Fleming odkrył penicylinę niemal przez przypadek." },
+      { "en": "Have you seen the film Titanic? It won several awards.", "pl": "Widziałeś film Titanic? Zdobył kilka nagród." }
+    ]
+  },
+  {
+    "id": "apposition_of",
+    "order": 3,
+    "nameEn": "Apposition with 'of' — the city of Paris, the idea of moving",
+    "namePl": "Apozycja z 'of' — the city of Paris, the idea of moving",
+    "rules": [
+      { "label": "Budowa", "text": "Rzeczownik ogólny lub abstrakcyjny + of + rzeczownik/fraza rzeczownikowa — obie części opisują to samo pojęcie, nie relację posiadania: the city of Paris (= Paris is a city), the problem of overpopulation" },
+      { "label": "Test tożsamości", "text": "W apozycji z 'of' obie strony można 'zamienić w zdanie z be': the idea of starting a business = the idea IS starting a business. To odróżnia ją od zwykłego dopełniacza z 'of' (np. the roof of the house), gdzie nie ma takiej równości" },
+      { "label": "of + gerund", "text": "Gdy druga część apozycji opisuje czynność, po 'of' używamy rzeczownika odczasownikowego (gerund), nigdy bezokolicznika: the idea of starting a business (nie: the idea to start a business), the risk of missing the deadline" },
+      { "label": "Typowe rzeczowniki wprowadzające", "text": "idea, fact, problem, possibility, risk, fear, art, habit, city/state/island of + nazwa geograficzna: the state of Texas, the island of Sicily" }
+    ],
+    "usage": [
+      "Nazwy geograficzne w formalnym, pisanym stylu: the city of Rome, the state of Texas, the island of Sicily",
+      "Wprowadzanie abstrakcyjnych pojęć jako tematu zdania: the possibility of losing his job worried him for months",
+      "Opisywanie obaw, ryzyka, nawyków z rzeczownikiem odczasownikowym: the fear of speaking in public, the habit of checking his phone",
+      "Styl formalny i akademicki — pozwala uniknąć zdania podrzędnego z that: the fact of his absence zamiast rozbudowanej konstrukcji"
+    ],
+    "tags": ["the city of Venice", "the idea of starting", "the risk of missing", "the art of negotiating"],
+    "examples": [
+      { "en": "The city of Venice is famous for its canals.", "pl": "Miasto Wenecja słynie ze swoich kanałów." },
+      { "en": "She'd always had the idea of starting her own business.", "pl": "Zawsze nosiła się z pomysłem założenia własnej firmy." },
+      { "en": "The problem of overpopulation affects many large cities.", "pl": "Problem przeludnienia dotyka wielu dużych miast." },
+      { "en": "There's a real risk of missing the deadline if we don't hurry.", "pl": "Istnieje realne ryzyko przekroczenia terminu, jeśli się nie pospieszymy." }
+    ]
+  },
+  {
+    "id": "apposition_special",
+    "order": 4,
+    "nameEn": "Reversed order, dash apposition, and apposition after pronouns",
+    "namePl": "Szyk odwrócony, apozycja z myślnikiem i apozycja po zaimku",
+    "rules": [
+      { "label": "Szyk odwrócony", "text": "Dla emfazy apozycja może poprzedzać rzeczownik główny, zwłaszcza na początku zdania: A brilliant scientist, Marie Curie won two Nobel Prizes. — podkreśla cechę, zanim padnie nazwa/imię" },
+      { "label": "Apozycja z myślnikiem", "text": "Gdy fraza apozycyjna jest długa lub zawiera własne przecinki, zamiast przecinków można użyć pary myślników — czytelniej oddziela wtrącenie: This town — a small fishing village a century ago — is now a major tourist resort." },
+      { "label": "Apozycja po zaimku", "text": "Rzeczownik może stać w apozycji bezpośrednio po zaimku osobowym, precyzując grupę lub tożsamość, do której zaimek się odnosi: We students protested the new policy. / You Americans love baseball. — rzeczownik nie zmienia liczby ani osoby zaimka" },
+      { "label": "Zaimek po apozycji wstępnej", "text": "Gdy zdanie zaczyna się od apozycji opisującej podmiot, po przecinku może wystąpić sam zaimek zamiast pełnej nazwy: A former Olympic champion, she now coaches young athletes." }
+    ],
+    "usage": [
+      "Podkreślanie osiągnięć lub cech przed podaniem nazwiska — częste w biografiach i wstępach: One of the most influential poets of the century, Emily Dickinson remained largely unknown during her own lifetime.",
+      "Łączenie tożsamości grupowej z pierwszą/drugą osobą liczby mnogiej: We British love complaining about the weather.",
+      "Unikanie powtórzenia rzeczownika, gdy apozycja wstępna wystarczająco go opisuje, a dalej wystarczy zaimek",
+      "Styl narracyjny i publicystyczny — myślniki dodają wtrąceniu większy nacisk niż zwykłe przecinki"
+    ],
+    "tags": ["A talented musician,", "We students", "You Americans", "— a small fishing village —"],
+    "examples": [
+      { "en": "A talented musician, my brother performs every weekend.", "pl": "Utalentowany muzyk, mój brat, gra co weekend." },
+      { "en": "We students protested against the new curfew.", "pl": "My, studenci, zaprotestowaliśmy przeciwko nowej godzinie policyjnej." },
+      { "en": "This town — a small fishing village a century ago — is now a major tourist resort.", "pl": "To miasteczko — sto lat temu małą wioską rybacką — jest dziś dużym kurortem turystycznym." },
+      { "en": "One of the most influential poets of the century, Emily Dickinson remained largely unknown during her own lifetime.", "pl": "Jedna z najbardziej wpływowych poetek stulecia, Emily Dickinson, pozostawała za życia niemal nieznana." }
+    ]
+  }
+]
