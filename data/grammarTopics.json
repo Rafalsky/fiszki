@@ -404,5 +404,12 @@
     "title": "Przysłówki stopnia",
     "desc": "Very, quite, rather, fairly, absolutely — wzmacnianie i osłabianie przymiotników i przysłówków, przymiotniki stopniowalne i niestopniowalne — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "reciprocal_pronouns",
+    "icon": "👥",
+    "title": "Zaimki wzajemne",
+    "desc": "Zaimki wzajemne each other i one another — kontrast z zaimkami zwrotnymi (themselves) oraz forma dzierżawcza each other's — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

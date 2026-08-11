@@ -1,0 +1,98 @@
+[
+  {
+    "id": "each_other",
+    "order": 1,
+    "nameEn": "each other — basic reciprocal pronoun",
+    "namePl": "each other — podstawowy zaimek wzajemny",
+    "rules": [
+      { "label": "Znaczenie", "text": "each other oznacza wzajemność czynności — dwie lub więcej osób robi coś sobie nawzajem" },
+      { "label": "Pozycja", "text": "Stoi w miejscu dopełnienia, po czasowniku lub po przyimku (look at each other)" },
+      { "label": "Liczba", "text": "Wymaga podmiotu w liczbie mnogiej lub kilku osób połączonych spójnikiem and" }
+    ],
+    "usage": [
+      "Gdy dwie lub więcej osoby wykonują tę samą czynność wobec siebie nawzajem (They helped each other.)",
+      "Po czasownikach z przyimkiem (look at, talk to, write to) — each other stoi po przyimku",
+      "Zamiast powtarzać podmiot i dopełnienie osobno (Anna loves Tom and Tom loves Anna → Anna and Tom love each other.)",
+      "Zawsze jako dopełnienie, nigdy jako podmiot zdania"
+    ],
+    "tags": ["help each other", "look at each other", "love each other", "talk to each other"],
+    "examples": [
+      { "en": "Anna and Tom love each other very much.", "pl": "Anna i Tom bardzo się kochają (nawzajem)." },
+      { "en": "The two teams shook hands with each other after the match.", "pl": "Obie drużyny uścisnęły sobie ręce po meczu." },
+      { "en": "We always help each other with homework.", "pl": "Zawsze pomagamy sobie nawzajem w pracy domowej." },
+      { "en": "They haven't spoken to each other since the argument.", "pl": "Nie rozmawiali ze sobą od czasu kłótni." }
+    ]
+  },
+  {
+    "id": "one_another",
+    "order": 2,
+    "nameEn": "each other vs one another",
+    "namePl": "each other a one another",
+    "rules": [
+      { "label": "Tradycyjna zasada", "text": "each other używa się tradycyjnie dla dwóch osób, one another dla więcej niż dwóch" },
+      { "label": "Współczesny angielski", "text": "We współczesnym angielskim to rozróżnienie w dużej mierze zanikło — oba wyrażenia są używane zamiennie, niezależnie od liczby osób" },
+      { "label": "Rejestr", "text": "one another brzmi nieco bardziej formalnie / pisemnie niż each other" }
+    ],
+    "usage": [
+      "Gdy mowa o dokładnie dwóch osobach — tradycyjnie each other (The couple looked at each other.)",
+      "Gdy mowa o grupie więcej niż dwóch osób — tradycyjnie one another (The students helped one another.)",
+      "W tekstach formalnych i pisanych one another jest częstsze",
+      "W mowie potocznej each other dominuje niezależnie od liczby osób"
+    ],
+    "tags": ["one another", "help one another", "support one another", "respect one another"],
+    "examples": [
+      { "en": "The two friends hugged each other at the airport.", "pl": "Dwie przyjaciółki przytuliły się (nawzajem) na lotnisku." },
+      { "en": "Members of the team should respect one another.", "pl": "Członkowie zespołu powinni się nawzajem szanować." },
+      { "en": "The neighbours often borrow tools from one another.", "pl": "Sąsiedzi często pożyczają sobie nawzajem narzędzia." },
+      { "en": "In good relationships, partners support each other.", "pl": "W dobrych związkach partnerzy wspierają się nawzajem." }
+    ]
+  },
+  {
+    "id": "reflexive_vs_reciprocal",
+    "order": 3,
+    "nameEn": "themselves vs each other",
+    "namePl": "themselves a each other — częsty błąd",
+    "rules": [
+      { "label": "Zaimek zwrotny", "text": "themselves / ourselves / yourselves — czynność zwrócona do samego siebie (każda osoba robi coś sobie samej)" },
+      { "label": "Zaimek wzajemny", "text": "each other / one another — czynność skierowana od jednej osoby do drugiej, nawzajem" },
+      { "label": "Test znaczeniowy", "text": "Jeśli zdanie znaczy 'zrobili to sobie nawzajem', użyj each other; jeśli 'każdy zrobił to sobie samemu', użyj themselves" }
+    ],
+    "usage": [
+      "They blamed themselves = każdy obwiniał samego siebie (nie innych)",
+      "They blamed each other = obwiniali się nawzajem (jeden drugiego)",
+      "Czasowniki typu hurt, blame, look at, introduce mogą przyjmować oba zaimki — ale ze zupełnie inną wymową",
+      "W ćwiczeniach zwracaj uwagę na kontekst, kto komu robi daną czynność"
+    ],
+    "tags": ["blame themselves", "blame each other", "hurt themselves", "hurt each other"],
+    "examples": [
+      { "en": "The children hurt themselves while playing in the garden.", "pl": "Dzieci zraniły się (same, każde siebie) podczas zabawy w ogrodzie." },
+      { "en": "The two boys hurt each other during the fight.", "pl": "Obaj chłopcy zranili się nawzajem podczas bójki." },
+      { "en": "Stop blaming yourselves, it wasn't your fault.", "pl": "Przestańcie obwiniać samych siebie, to nie była wasza wina." },
+      { "en": "After the accident, the drivers blamed each other.", "pl": "Po wypadku kierowcy obwiniali się nawzajem." }
+    ]
+  },
+  {
+    "id": "each_others_possessive",
+    "order": 4,
+    "nameEn": "each other's — possessive form",
+    "namePl": "each other's — forma dzierżawcza",
+    "rules": [
+      { "label": "Budowa", "text": "Dodajemy 's do each other, tak jak przy dopełniaczu saksońskim (each other's, one another's)" },
+      { "label": "Funkcja", "text": "Wskazuje, że coś należy do drugiej osoby, a czynność jest wzajemna" },
+      { "label": "Błąd", "text": "Nie mylić z each others (bez apostrofu) — taka forma nie istnieje w standardowym angielskim" }
+    ],
+    "usage": [
+      "Przed rzeczownikiem, tak jak inne formy dzierżawcze (each other's books, one another's opinions)",
+      "Gdy dwie lub więcej osoby posiadają / używają czegoś należącego do drugiej strony",
+      "Często z rzeczownikami takimi jak names, opinions, homes, problems",
+      "Zawsze each other's, nigdy each others' ani each others"
+    ],
+    "tags": ["each other's names", "each other's homes", "know each other's", "respect each other's"],
+    "examples": [
+      { "en": "We often visit each other's houses at the weekend.", "pl": "Często odwiedzamy nawzajem swoje domy w weekend." },
+      { "en": "The students corrected each other's essays.", "pl": "Uczniowie poprawiali sobie nawzajem wypracowania." },
+      { "en": "Good friends know each other's secrets.", "pl": "Dobrzy przyjaciele znają swoje nawzajem sekrety." },
+      { "en": "They respect one another's opinions, even when they disagree.", "pl": "Szanują nawzajem swoje opinie, nawet gdy się nie zgadzają." }
+    ]
+  }
+]
