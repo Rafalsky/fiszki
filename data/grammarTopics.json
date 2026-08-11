@@ -390,5 +390,12 @@
     "title": "Czasowniki stanowe",
     "desc": "Czasowniki, których zwykle nie używamy w czasach continuous (know, like, have, understand) oraz czasowniki o podwójnym znaczeniu (stanowym i czynnościowym) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "compound_nouns",
+    "icon": "🏗️",
+    "title": "Rzeczowniki złożone",
+    "desc": "Rzeczowniki złożone (noun + noun): kiedy dwa rzeczowniki obok siebie, kiedy dopełniacz 's, a kiedy fraza z of — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
