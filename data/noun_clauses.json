@@ -1,0 +1,98 @@
+[
+  {
+    "id": "that_clauses",
+    "order": 1,
+    "nameEn": "That-clauses as subject and object",
+    "namePl": "Zdania rzeczownikowe z that jako podmiot i dopełnienie",
+    "rules": [
+      { "label": "Budowa", "text": "that + podmiot + orzeczenie — całe zdanie pełni funkcję rzeczownika: podmiotu, dopełnienia lub dopełnienia po przymiotniku" },
+      { "label": "Pominięcie that", "text": "gdy zdanie z that jest dopełnieniem czasownika (np. po think, believe, say, know), spójnik that często pomija się w mowie potocznej: I think (that) he's right." },
+      { "label": "Jako podmiot", "text": "gdy that-clause jest podmiotem zdania, that jest obowiązkowe i nie można go pominąć: That he passed the exam surprised no one." }
+    ],
+    "usage": [
+      "Dopełnienie po czasownikach opinii i mowy: think, believe, know, say, admit, suggest, hope that...",
+      "Podmiot zdania (styl formalny/pisany): That she resigned so suddenly shocked everyone.",
+      "Dopełnienie po przymiotnikach wyrażających uczucia lub pewność: I'm glad that you came. / I'm sure that he'll agree.",
+      "Dopełnienie po rzeczownikach abstrakcyjnych: the fact that, the idea that, the possibility that"
+    ],
+    "tags": ["that-clause", "I think that", "the fact that", "podmiot zdaniowy"],
+    "examples": [
+      { "en": "I believe (that) she is telling the truth.", "pl": "Wierzę, że mówi prawdę." },
+      { "en": "That he lied to us surprised no one.", "pl": "To, że nas okłamał, nikogo nie zaskoczyło." },
+      { "en": "She was disappointed that nobody had called.", "pl": "Była rozczarowana, że nikt nie zadzwonił." },
+      { "en": "The fact that he apologized doesn't change anything.", "pl": "Fakt, że przeprosił, niczego nie zmienia." }
+    ]
+  },
+  {
+    "id": "wh_clauses",
+    "order": 2,
+    "nameEn": "Wh-clauses as subject and object",
+    "namePl": "Zdania rzeczownikowe z wh- jako podmiot i dopełnienie",
+    "rules": [
+      { "label": "Budowa", "text": "what/who/where/when/why/how + podmiot + orzeczenie (szyk zdania twierdzącego, BEZ inwersji pytającej)" },
+      { "label": "Funkcja", "text": "całe zdanie wh- działa jak rzeczownik — może być podmiotem, dopełnieniem lub dopełniać przyimek" },
+      { "label": "Częsty błąd", "text": "nie stosuje się szyku pytania: poprawnie I don't know where he lives (nie: where does he live)" }
+    ],
+    "usage": [
+      "Dopełnienie czasownika: I don't know what she wants. / Tell me why you're late.",
+      "Podmiot zdania: What she said made him angry. / How he did it remains a mystery.",
+      "Po przyimku: I'm interested in what you found. / It depends on where we go.",
+      "Konstrukcja what + zdanie jako temat wypowiedzi (podobna do cleft): What I need is more time."
+    ],
+    "tags": ["wh-clause", "I don't know what", "what I need is", "zdania osadzone"],
+    "examples": [
+      { "en": "I don't know what he wants.", "pl": "Nie wiem, czego on chce." },
+      { "en": "What she said made him really angry.", "pl": "To, co powiedziała, naprawdę go rozzłościło." },
+      { "en": "It all depends on where we decide to live.", "pl": "Wszystko zależy od tego, gdzie zdecydujemy się zamieszkać." },
+      { "en": "How he managed to escape remains a mystery.", "pl": "To, jak udało mu się uciec, pozostaje tajemnicą." }
+    ]
+  },
+  {
+    "id": "whether_if_clauses",
+    "order": 3,
+    "nameEn": "Whether / if clauses as noun clauses",
+    "namePl": "Zdania rzeczownikowe z whether / if",
+    "rules": [
+      { "label": "Budowa", "text": "whether/if + podmiot + orzeczenie — wyraża niepewność między dwiema (lub więcej) możliwościami" },
+      { "label": "Whether czy if", "text": "whether jest bardziej formalne i obowiązkowe: jako podmiot zdania, po przyimku oraz przed or not bezpośrednio po spójniku" },
+      { "label": "Whether + bezokolicznik", "text": "whether (ale nie if) może łączyć się z bezokolicznikiem: I can't decide whether to go or stay." }
+    ],
+    "usage": [
+      "Dopełnienie po czasownikach niepewności: wonder, ask, know, doubt, decide + whether/if",
+      "Podmiot zdania — tylko whether: Whether he'll come is still unclear.",
+      "Po przyimku — tylko whether: We argued about whether the plan was realistic.",
+      "Whether ... or not: I'll go whether you like it or not. (nie: if you like it or not)"
+    ],
+    "tags": ["whether", "if", "whether or not", "I wonder whether"],
+    "examples": [
+      { "en": "I wonder whether/if she'll come to the party.", "pl": "Zastanawiam się, czy ona przyjdzie na przyjęcie." },
+      { "en": "Whether he'll get the job is still uncertain.", "pl": "To, czy dostanie tę pracę, jest wciąż niepewne." },
+      { "en": "I can't decide whether to accept the offer.", "pl": "Nie mogę zdecydować, czy przyjąć tę ofertę." },
+      { "en": "We'll leave at six whether you're ready or not.", "pl": "Wyjeżdżamy o szóstej, niezależnie czy będziesz gotowy, czy nie." }
+    ]
+  },
+  {
+    "id": "extraposition",
+    "order": 4,
+    "nameEn": "Extraposition: anticipatory it + that/wh-clause",
+    "namePl": "Extraposition: zapowiadające it + zdanie z that/wh-",
+    "rules": [
+      { "label": "Budowa", "text": "It + be/czasownik + przymiotnik/rzeczownik + that-clause lub wh-clause — it zastępuje właściwy podmiot, który zostaje przesunięty na koniec zdania" },
+      { "label": "Dlaczego", "text": "angielski unika długiego podmiotu zdaniowego na początku; extraposition przenosi go na koniec, a it 'trzyma miejsce' podmiotu" },
+      { "label": "Warianty", "text": "it seems/appears/happens that..., it is said/known/believed that... (bierne struktury sprawozdawcze), it strikes me as... that..." }
+    ],
+    "usage": [
+      "Z przymiotnikami oceniającymi: It is important/strange/obvious/surprising that...",
+      "Z czasownikami: It seems/happens/turns out that... / It doesn't matter what you say.",
+      "Porównanie z podmiotem zdaniowym na początku: That he resigned surprised no one. → It surprised no one that he resigned.",
+      "Formalne raportowanie: It is widely believed that the plan will fail."
+    ],
+    "tags": ["it is + adj + that", "anticipatory it", "extraposition", "it seems that"],
+    "examples": [
+      { "en": "It is strange that she didn't call back.", "pl": "To dziwne, że nie oddzwoniła." },
+      { "en": "It doesn't matter what other people think.", "pl": "Nie ma znaczenia, co myślą inni ludzie." },
+      { "en": "It turned out that he had been right all along.", "pl": "Okazało się, że przez cały czas miał rację." },
+      { "en": "It is widely believed that the negotiations will fail.", "pl": "Powszechnie się uważa, że negocjacje się nie powiodą." }
+    ]
+  }
+]
