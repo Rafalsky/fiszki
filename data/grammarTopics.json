@@ -537,5 +537,12 @@
     "title": "Zaimki bezosobowe",
     "desc": "Bezosobowe odniesienie do ludzi w ogóle: formalne one, potoczne you, they i people — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "comparative_clauses",
+    "icon": "🪞",
+    "title": "Zdania porównawcze",
+    "desc": "Porównania równości i różnicy: as...as, not as/so...as, the same as, similar to, different from, nowhere near as...as — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 48
   }
 ]

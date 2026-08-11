@@ -1,0 +1,188 @@
+[
+  {
+    "id": "as_as_equality",
+    "order": 1,
+    "nameEn": "as + adjective/adverb + as — equality",
+    "namePl": "as + przymiotnik/przysłówek + as — porównanie równości",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "as + przymiotnik/przysłówek w formie podstawowej + as: She is as tall as her brother."
+      },
+      {
+        "label": "przeczenie",
+        "text": "W przeczeniu można użyć 'not as...as' lub bardziej formalnego 'not so...as' — obie formy oznaczają brak równości, druga rzadziej w zdaniach twierdzących."
+      },
+      {
+        "label": "wzmocnienie i osłabienie",
+        "text": "Stopień można modyfikować przysłówkami: just as, almost as, nearly as, twice as, half as, quite as."
+      }
+    ],
+    "usage": [
+      "Porównywanie dwóch osób, rzeczy lub sytuacji, które są równe pod jakimś względem",
+      "W zdaniu przeczącym pokazuje brak równości, a nie odwrotność (not as tall as ≠ shorter, tylko 'mniej wysoki lub tego samego wzrostu, ale niekoniecznie')"
+    ],
+    "tags": ["as tall as", "not as good as", "just as important"],
+    "examples": [
+      { "en": "She is as tall as her brother.", "pl": "Ona jest tak wysoka jak jej brat." },
+      { "en": "This exam wasn't as difficult as I expected.", "pl": "Ten egzamin nie był tak trudny, jak się spodziewałem." },
+      { "en": "He runs almost as fast as a professional athlete.", "pl": "Biega prawie tak szybko jak zawodowy sportowiec." },
+      { "en": "The new phone is twice as expensive as the old one.", "pl": "Nowy telefon jest dwa razy droższy niż stary." }
+    ]
+  },
+  {
+    "id": "not_nearly_nowhere_near",
+    "order": 2,
+    "nameEn": "not nearly / nowhere near as...as — emphatic inequality",
+    "namePl": "not nearly / nowhere near as...as — emfatyczna nierówność",
+    "rules": [
+      {
+        "label": "wzmocnione przeczenie",
+        "text": "'not nearly as...as' i nieformalne 'nowhere near as...as' podkreślają dużą różnicę: This café isn't nearly as good as the one downtown."
+      },
+      {
+        "label": "nothing like",
+        "text": "Bardzo nieformalne 'nothing like as...as' ma to samo znaczenie i jest typowe dla mowy potocznej."
+      },
+      {
+        "label": "rejestr",
+        "text": "'not nearly' jest neutralne/formalne, 'nowhere near' i 'nothing like' są potoczne — dobór zależy od kontekstu wypowiedzi."
+      }
+    ],
+    "usage": [
+      "Podkreślanie, że różnica między porównywanymi elementami jest znacząca, nie tylko nieznaczna",
+      "Typowe w rozmowie i tekstach nieformalnych (nowhere near, nothing like) oraz w piśmie bardziej starannym (not nearly)"
+    ],
+    "tags": ["not nearly as good as", "nowhere near as fast as", "nothing like as expensive"],
+    "examples": [
+      { "en": "This café isn't nearly as good as the one downtown.", "pl": "Ta kawiarnia nie jest ani w połowie tak dobra jak ta w centrum." },
+      { "en": "He's nowhere near as experienced as the previous manager.", "pl": "Jest daleko mniej doświadczony niż poprzedni menedżer." },
+      { "en": "The sequel is nothing like as exciting as the original film.", "pl": "Sequel jest o wiele mniej ekscytujący niż oryginalny film." },
+      { "en": "Traveling by train isn't nearly as fast as flying.", "pl": "Podróż pociągiem nie jest ani w połowie tak szybka jak samolotem." }
+    ]
+  },
+  {
+    "id": "same_as",
+    "order": 3,
+    "nameEn": "the same (...) as — identity",
+    "namePl": "the same (...) as — tożsamość",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "the same (+ rzeczownik) + as: Her opinion is the same as mine. / She wears the same perfume as her mother."
+      },
+      {
+        "label": "the same...as vs the same as",
+        "text": "Gdy porównujemy konkretną cechę/rzecz, wstawiamy rzeczownik między 'same' a 'as': the same colour as; gdy porównujemy całe stwierdzenia, używamy samego 'the same as'."
+      },
+      {
+        "label": "exactly/just the same",
+        "text": "Można wzmocnić przysłówkiem: exactly the same as, just the same as, precisely the same as."
+      }
+    ],
+    "usage": [
+      "Stwierdzanie, że dwie rzeczy, osoby lub sytuacje są identyczne pod danym względem",
+      "Częste przy porównywaniu cech fizycznych, opinii, zachowań i przedmiotów"
+    ],
+    "tags": ["the same as", "exactly the same as", "the same colour as"],
+    "examples": [
+      { "en": "Her opinion is the same as mine.", "pl": "Jej opinia jest taka sama jak moja." },
+      { "en": "He ordered the same dish as last time.", "pl": "Zamówił to samo danie co ostatnio." },
+      { "en": "This model is exactly the same as the one I saw online.", "pl": "Ten model jest dokładnie taki sam jak ten, który widziałem w internecie." },
+      { "en": "My schedule is just the same as yours this week.", "pl": "Mój grafik jest w tym tygodniu dokładnie taki sam jak twój." }
+    ]
+  },
+  {
+    "id": "similar_different",
+    "order": 4,
+    "nameEn": "similar to / different from — similarity and difference",
+    "namePl": "similar to / different from — podobieństwo i różnica",
+    "rules": [
+      {
+        "label": "similar to",
+        "text": "'similar to' opisuje częściowe podobieństwo, nie identyczność: Her handwriting is similar to her sister's."
+      },
+      {
+        "label": "different from/to/than",
+        "text": "'different from' jest standardem brytyjskim i amerykańskim; 'different to' jest typowe dla BrE, 'different than' dominuje w AmE, zwłaszcza przed zdaniem podrzędnym."
+      },
+      {
+        "label": "stopniowanie podobieństwa",
+        "text": "Podobieństwo/różnicę można stopniować: very similar to, quite different from, slightly different from, completely different from."
+      }
+    ],
+    "usage": [
+      "Porównywanie cech dwóch elementów pod kątem podobieństwa lub kontrastu, bez sugerowania pełnej identyczności ani prostej skali",
+      "Częste w opisach, analizach porównawczych i tekstach akademickich"
+    ],
+    "tags": ["similar to", "different from", "completely different to"],
+    "examples": [
+      { "en": "Her handwriting is similar to her sister's.", "pl": "Jej pismo jest podobne do pisma jej siostry." },
+      { "en": "This job is quite different from my previous one.", "pl": "Ta praca jest dość różna od mojej poprzedniej." },
+      { "en": "The results were completely different than we had predicted.", "pl": "Wyniki były zupełnie inne, niż przewidywaliśmy." },
+      { "en": "Modern smartphones are similar to small computers.", "pl": "Nowoczesne smartfony są podobne do małych komputerów." }
+    ]
+  },
+  {
+    "id": "than_ellipsis",
+    "order": 5,
+    "nameEn": "comparative + than — ellipsis in comparative clauses",
+    "namePl": "comparative + than — elipsa w zdaniach porównawczych",
+    "rules": [
+      {
+        "label": "podstawowa struktura",
+        "text": "przymiotnik/przysłówek w stopniu wyższym + than + druga strona porównania: She is more experienced than I am."
+      },
+      {
+        "label": "elipsa czasownika",
+        "text": "W zdaniu podrzędnym po 'than' zwykle pomija się powtarzający się czasownik/orzeczenie, jeśli jest jasne z kontekstu: He earns more than her (zamiast 'than she does')."
+      },
+      {
+        "label": "than I / than me",
+        "text": "Formalnie po 'than' używa się pełnego zaimka podmiotowego + czasownika (than I am), potocznie samego zaimka dopełnieniowego (than me) — obie formy są akceptowane w mowie."
+      }
+    ],
+    "usage": [
+      "Porównywanie stopnia jakiejś cechy między dwiema stronami, gdy jedna ma wyraźną przewagę lub brak przewagi",
+      "Elipsa pozwala unikać powtórzeń, zwłaszcza w mowie i tekście nieformalnym"
+    ],
+    "tags": ["more than", "than I am", "than her"],
+    "examples": [
+      { "en": "She is more experienced than I am.", "pl": "Ona jest bardziej doświadczona niż ja." },
+      { "en": "He earns more than her.", "pl": "On zarabia więcej niż ona." },
+      { "en": "This route is shorter than the one we took yesterday.", "pl": "Ta trasa jest krótsza niż ta, którą pojechaliśmy wczoraj." },
+      { "en": "The meeting lasted longer than expected.", "pl": "Spotkanie trwało dłużej, niż się spodziewano." }
+    ]
+  },
+  {
+    "id": "comparative_intensifiers",
+    "order": 6,
+    "nameEn": "far / a lot / much / a bit + comparative — grading the difference",
+    "namePl": "far / a lot / much / a bit + comparative — stopniowanie różnicy",
+    "rules": [
+      {
+        "label": "duża różnica",
+        "text": "Przed przymiotnikiem/przysłówkiem w stopniu wyższym można dodać wzmacniacz: far, much, a lot, considerably, significantly + comparative."
+      },
+      {
+        "label": "mała różnica",
+        "text": "Niewielką różnicę wyrażają: a bit, a little, slightly, somewhat + comparative."
+      },
+      {
+        "label": "błąd typowy",
+        "text": "Nie używa się 'very' bezpośrednio przed formą comparative (very bigger jest błędne) — 'very' łączy się z formą podstawową (very big) lub superlative (the very best)."
+      }
+    ],
+    "usage": [
+      "Precyzyjne określanie skali różnicy między dwoma porównywanymi elementami",
+      "Częste w opisach danych, trendów i zmian (much higher, slightly lower)"
+    ],
+    "tags": ["far better", "a bit more expensive", "much faster"],
+    "examples": [
+      { "en": "This laptop is far more powerful than my old one.", "pl": "Ten laptop jest znacznie mocniejszy niż mój stary." },
+      { "en": "The new office is a bit more expensive to rent.", "pl": "Nowe biuro jest odrobinę droższe w wynajmie." },
+      { "en": "Sales were significantly higher this quarter.", "pl": "Sprzedaż była w tym kwartale znacznie wyższa." },
+      { "en": "Her second attempt was only slightly better than the first.", "pl": "Jej druga próba była tylko odrobinę lepsza od pierwszej." }
+    ]
+  }
+]

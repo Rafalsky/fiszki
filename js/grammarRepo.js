@@ -85,6 +85,7 @@ const THEORY_URLS = {
   future_in_the_past: new URL("../data/future_in_the_past.json", import.meta.url),
   relative_clause_prepositions: new URL("../data/relative_clause_prepositions.json", import.meta.url),
   impersonal_pronouns: new URL("../data/impersonal_pronouns.json", import.meta.url),
+  comparative_clauses: new URL("../data/comparative_clauses.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -165,6 +166,7 @@ const DRILLS_URLS = {
   future_in_the_past: new URL("../data/future_in_the_pastDrills.json", import.meta.url),
   relative_clause_prepositions: new URL("../data/relative_clause_prepositionsDrills.json", import.meta.url),
   impersonal_pronouns: new URL("../data/impersonal_pronounsDrills.json", import.meta.url),
+  comparative_clauses: new URL("../data/comparative_clausesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
