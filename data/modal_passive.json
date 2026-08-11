@@ -1,0 +1,107 @@
+[
+  {
+    "id": "must_be_done",
+    "order": 1,
+    "nameEn": "must/have to + be + past participle — obligation and necessity in the passive",
+    "namePl": "must/have to + be + III forma — obowiązek i konieczność w stronie biernej",
+    "rules": [
+      { "label": "Budowa", "text": "podmiot + must/have to + be + imiesłów bierny (past participle) — czasownik modalny łączy się z bezokolicznikiem biernym (be + III forma) zamiast ze zwykłym bezokolicznikiem" },
+      { "label": "must be vs. has to be", "text": "must be — silny obowiązek lub przekonanie mówiącego; has to be — obowiązek wynikający z zewnętrznych zasad lub okoliczności" }
+    ],
+    "usage": [
+      "Gdy chcemy podkreślić samą czynność, a wykonawcę uznajemy za nieistotny lub nieznany",
+      "Typowe w instrukcjach, regulaminach i formalnych poleceniach (The form must be signed by both parties.)"
+    ],
+    "tags": ["must be signed", "has to be finished", "must be submitted"],
+    "examples": [
+      { "en": "The form must be signed by both parties.", "pl": "Formularz musi zostać podpisany przez obie strony." },
+      { "en": "All applications have to be submitted by Friday.", "pl": "Wszystkie wnioski muszą zostać złożone do piątku." },
+      { "en": "The engine must be checked before every flight.", "pl": "Silnik musi zostać sprawdzony przed każdym lotem." },
+      { "en": "New employees have to be trained on safety procedures.", "pl": "Nowi pracownicy muszą zostać przeszkoleni w zakresie procedur bezpieczeństwa." }
+    ]
+  },
+  {
+    "id": "can_be_done",
+    "order": 2,
+    "nameEn": "can/could + be + past participle — ability and possibility in the passive",
+    "namePl": "can/could + be + III forma — możliwość i zdolność w stronie biernej",
+    "rules": [
+      { "label": "Budowa", "text": "podmiot + can/could + be + past participle — wyraża, że coś jest (lub było) możliwe do zrobienia, niezależnie od tego, kto to robi" },
+      { "label": "can vs. could", "text": "can be — możliwość ogólna lub w teraźniejszości; could be — możliwość mniej pewna, hipotetyczna, często w zdaniach warunkowych" }
+    ],
+    "usage": [
+      "Gdy opisujemy, że coś da się zrobić lub da się to osiągnąć, koncentrując się na czynności, nie na wykonawcy",
+      "W instrukcjach i opisach technicznych, gdzie liczy się wykonalność (This problem can be solved in several ways.)"
+    ],
+    "tags": ["can be solved", "could be improved", "can be recycled"],
+    "examples": [
+      { "en": "This problem can be solved in several ways.", "pl": "Ten problem można rozwiązać na kilka sposobów." },
+      { "en": "The design could be improved with a few small changes.", "pl": "Projekt można by ulepszyć kilkoma drobnymi zmianami." },
+      { "en": "Plastic bottles can be recycled.", "pl": "Plastikowe butelki można poddać recyklingowi." },
+      { "en": "The meeting could be moved to next week if necessary.", "pl": "Spotkanie można by przenieść na przyszły tydzień, gdyby zaszła taka potrzeba." }
+    ]
+  },
+  {
+    "id": "should_be_done",
+    "order": 3,
+    "nameEn": "should/ought to + be + past participle — advice and recommendation in the passive",
+    "namePl": "should/ought to + be + III forma — rada i zalecenie w stronie biernej",
+    "rules": [
+      { "label": "Budowa", "text": "podmiot + should/ought to + be + past participle — sugeruje, że wykonanie czynności byłoby słuszne lub zalecane" },
+      { "label": "Zastosowanie", "text": "Bardzo częste w opiniach, zaleceniach i krytyce dotyczącej zasad, procedur czy polityki (More money should be invested in education.)" }
+    ],
+    "usage": [
+      "Gdy dajemy radę lub wyrażamy opinię o tym, co powinno się zrobić, bez wskazywania kto ma to zrobić",
+      "W recenzjach, esejach i dyskusjach o polityce i społeczeństwie (Smoking should be banned in public places.)"
+    ],
+    "tags": ["should be banned", "should be invested", "ought to be respected"],
+    "examples": [
+      { "en": "Smoking should be banned in all public places.", "pl": "Palenie powinno zostać zakazane we wszystkich miejscach publicznych." },
+      { "en": "More money should be invested in public transport.", "pl": "Więcej pieniędzy powinno zostać zainwestowane w transport publiczny." },
+      { "en": "Everyone's opinion ought to be respected.", "pl": "Opinia każdego powinna być szanowana." },
+      { "en": "The results should be double-checked before publishing.", "pl": "Wyniki powinny zostać sprawdzone dwukrotnie przed publikacją." }
+    ]
+  },
+  {
+    "id": "may_be_done",
+    "order": 4,
+    "nameEn": "may/might + be + past participle — possibility and permission in the passive",
+    "namePl": "may/might + be + III forma — możliwość i pozwolenie w stronie biernej",
+    "rules": [
+      { "label": "Budowa", "text": "podmiot + may/might + be + past participle — wyraża, że coś jest możliwe (may/might) albo dozwolone (may), niezależnie od wykonawcy" },
+      { "label": "Formalne pozwolenie", "text": "may be + III forma bywa też używane w formalnym stylu do wyrażenia pozwolenia (Visitors may be asked to show identification.)" }
+    ],
+    "usage": [
+      "Gdy mówimy o czymś, co być może się zdarzy lub jest dozwolone, nie precyzując wykonawcy",
+      "W formalnych regulaminach i ostrzeżeniach (Passengers may be searched at the gate.)"
+    ],
+    "tags": ["may be asked", "might be affected", "may be delayed"],
+    "examples": [
+      { "en": "Some flights may be delayed due to bad weather.", "pl": "Niektóre loty mogą zostać opóźnione z powodu złej pogody." },
+      { "en": "Visitors may be asked to show identification.", "pl": "Odwiedzający mogą zostać poproszeni o okazanie dowodu tożsamości." },
+      { "en": "The results might be affected by measurement errors.", "pl": "Na wyniki mogą wpłynąć błędy pomiarowe." },
+      { "en": "Latecomers may not be admitted until the interval.", "pl": "Spóźnieni mogą nie zostać wpuszczeni aż do przerwy." }
+    ]
+  },
+  {
+    "id": "modal_have_been_done",
+    "order": 5,
+    "nameEn": "modal + have been + past participle — modal perfect passive about the past",
+    "namePl": "modal + have been + III forma — modalne bierne odniesione do przeszłości",
+    "rules": [
+      { "label": "Budowa", "text": "podmiot + modal (must/can't/could/may/might/should) + have been + past participle — łączy modalne przypuszczenia o przeszłości (jak must have done) ze stroną bierną" },
+      { "label": "Znaczenia", "text": "must/can't have been — pewność / niemożliwość; may/might/could have been — przypuszczenie; should have been — krytyka tego, co nie zostało zrobione, choć powinno" }
+    ],
+    "usage": [
+      "Gdy wnioskujemy, spekulujemy lub krytykujemy w odniesieniu do czynności biernej z przeszłości",
+      "Łączy zasady modalnych przypuszczeń o przeszłości z passive, np. The window must have been left open, The report should have been finished by now."
+    ],
+    "tags": ["must have been stolen", "should have been finished", "could have been damaged"],
+    "examples": [
+      { "en": "The window must have been left open — that's how the cat got out.", "pl": "Okno musiało zostać otwarte — tak kot wyszedł." },
+      { "en": "The report should have been finished by now.", "pl": "Raport powinien już zostać skończony." },
+      { "en": "The vase can't have been broken by the dog — it's too heavy.", "pl": "Wazon nie mógł zostać stłuczony przez psa — jest zbyt ciężki." },
+      { "en": "The package might have been delivered to the wrong address.", "pl": "Paczka mogła zostać dostarczona pod zły adres." }
+    ]
+  }
+]
