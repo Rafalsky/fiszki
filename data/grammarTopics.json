@@ -502,5 +502,12 @@
     "title": "Przysłówki ogniskujące",
     "desc": "only, even, also, too, alone — jak pozycja przysłówka w zdaniu zmienia zakres znaczenia — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 36
+  },
+  {
+    "id": "get_passive",
+    "icon": "🎬",
+    "title": "Bierna z „get”",
+    "desc": "Get-passive (dynamiczna, nieformalna strona bierna): get hurt, get married, get promoted — kontrast z be-passive i causative get something done, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
