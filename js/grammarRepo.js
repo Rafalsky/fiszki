@@ -64,6 +64,7 @@ const THEORY_URLS = {
   double_comparatives: new URL("../data/double_comparatives.json", import.meta.url),
   concessive_clauses: new URL("../data/concessive_clauses.json", import.meta.url),
   stative_verbs: new URL("../data/stative_verbs.json", import.meta.url),
+  compound_nouns: new URL("../data/compound_nouns.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -123,6 +124,7 @@ const DRILLS_URLS = {
   double_comparatives: new URL("../data/double_comparativesDrills.json", import.meta.url),
   concessive_clauses: new URL("../data/concessive_clausesDrills.json", import.meta.url),
   stative_verbs: new URL("../data/stative_verbsDrills.json", import.meta.url),
+  compound_nouns: new URL("../data/compound_nounsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

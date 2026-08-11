@@ -1,0 +1,93 @@
+[
+  {
+    "id": "noun_noun",
+    "order": 1,
+    "nameEn": "Noun + noun compounds",
+    "namePl": "Rzeczowniki złożone: rzeczownik + rzeczownik",
+    "rules": [
+      { "label": "Pierwszy rzeczownik jak przymiotnik", "text": "Pierwszy rzeczownik określa drugi (główny) i zwykle zostaje w liczbie pojedynczej, nawet jeśli znaczenie jest mnogie (a car park, nie a cars park)" },
+      { "label": "Pisownia", "text": "Rzeczowniki złożone zapisujemy jako jedno słowo (bedroom), dwa osobne słowa (car park) albo z łącznikiem (mother-in-law) — pisownia bywa niejednolita, warto sprawdzać w słowniku" }
+    ],
+    "usage": [
+      "Do nazywania rzeczy złożonych z dwóch elementów, gdzie pierwszy określa typ lub przeznaczenie drugiego (a coffee table — stolik do kawy)",
+      "Kiedy chcemy powiedzieć, z czego coś jest zrobione lub do czego służy, bez użycia of (a stone wall, a plastic bottle)",
+      "W nazwach zawodów, miejsc i przedmiotów codziennych (a bus stop, a website, a football match)"
+    ],
+    "tags": ["car park", "bedroom", "mother-in-law", "website"],
+    "examples": [
+      { "en": "He always parks his car in the same car park near the office.", "pl": "On zawsze parkuje samochód na tym samym parkingu koło biura." },
+      { "en": "She bought a new coffee table.", "pl": "Kupiła nowy stolik do kawy." },
+      { "en": "He works as a website designer.", "pl": "Pracuje jako projektant stron internetowych." },
+      { "en": "There was an old stone wall around the garden.", "pl": "Wokół ogrodu stał stary kamienny mur." }
+    ]
+  },
+  {
+    "id": "genitive_vs_compound",
+    "order": 2,
+    "nameEn": "'s genitive vs noun + noun compound",
+    "namePl": "Dopełniacz 's a rzeczownik złożony",
+    "rules": [
+      { "label": "'s dla ludzi i zwierząt", "text": "Gdy pierwszy rzeczownik to konkretna osoba lub zwierzę i chodzi o posiadanie albo relację, używamy dopełniacza 's (my sister's car, the dog's bowl)" },
+      { "label": "Compound dla typu lub przeznaczenia", "text": "Gdy pierwszy rzeczownik określa tylko typ, kategorię lub przeznaczenie drugiego (a dog bowl — miska dla psów w ogóle, nie konkretnego psa), używamy rzeczownika złożonego, bez 's" },
+      { "label": "Różnica znaczenia", "text": "the dog's bowl (miska TEGO konkretnego psa) vs a dog bowl (miska DLA psów, rodzaj przedmiotu)" }
+    ],
+    "usage": [
+      "Konkretne posiadanie przez osobę lub zwierzę → 's (Anna's phone)",
+      "Typ, kategoria lub przeznaczenie przedmiotu → rzeczownik złożony (a phone case)",
+      "Czas i miara czasem też z 's (a week's holiday, today's newspaper)"
+    ],
+    "tags": ["Anna's phone", "a phone case", "the dog's bowl", "a dog bowl"],
+    "examples": [
+      { "en": "This is my sister's car.", "pl": "To samochód mojej siostry." },
+      { "en": "I filled the dog bowl with fresh water before we left.", "pl": "Napełniłem miskę dla psa świeżą wodą, zanim wyszliśmy." },
+      { "en": "Rex's bowl was empty, so I gave him water in a cup.", "pl": "Miska Rexa była pusta, więc dałem mu wodę w kubku." },
+      { "en": "We read today's newspaper every morning with breakfast.", "pl": "Czytamy dzisiejszą gazetę codziennie przy śniadaniu." }
+    ]
+  },
+  {
+    "id": "of_phrase",
+    "order": 3,
+    "nameEn": "of-phrase vs compound noun",
+    "namePl": "Fraza z of a rzeczownik złożony",
+    "rules": [
+      { "label": "of dla zawartości i ilości", "text": "Gdy mówimy o ilości, zawartości pojemnika lub części czegoś większego, używamy of (a cup of tea, a piece of cake, the roof of the house)" },
+      { "label": "Compound dla samego przedmiotu", "text": "Gdy chodzi o sam przedmiot jako stały typ, a nie jego zawartość, używamy rzeczownika złożonego (a tea cup — filiżanka do herbaty, niekoniecznie z herbatą w środku)" },
+      { "label": "Nieożywione części całości", "text": "Z rzeczami nieożywionymi, zwłaszcza budynkami i złożonymi strukturami, zwykle wolimy of niż 's (the roof of the house, the corner of the street)" }
+    ],
+    "usage": [
+      "a cup of tea (herbata w filiżance) vs a tea cup (rodzaj naczynia, puste)",
+      "the end of the film / the beginning of the story — części całości",
+      "the roof of the house, the corner of the street — nieożywione elementy większej struktury"
+    ],
+    "tags": ["a cup of tea", "a tea cup", "the end of the film", "the roof of the house"],
+    "examples": [
+      { "en": "Would you like a cup of tea?", "pl": "Chciałbyś filiżankę herbaty?" },
+      { "en": "She has a beautiful set of antique tea cups.", "pl": "Ma piękny zestaw antycznych filiżanek do herbaty." },
+      { "en": "The roof of the house was damaged in the storm.", "pl": "Dach domu został uszkodzony podczas burzy." },
+      { "en": "I couldn't understand the end of the film — it was too complicated.", "pl": "Nie zrozumiałem zakończenia filmu — było zbyt skomplikowane." }
+    ]
+  },
+  {
+    "id": "plural_compound",
+    "order": 4,
+    "nameEn": "Plurals of compound nouns & compounds as adjectives",
+    "namePl": "Liczba mnoga rzeczowników złożonych i złożenia jako przymiotniki",
+    "rules": [
+      { "label": "Liczba mnoga na końcu", "text": "Zwykle końcówkę liczby mnogiej dodajemy do ostatniego elementu złożenia (car parks, bedrooms, websites)" },
+      { "label": "Liczba mnoga na głównym słowie", "text": "Gdy główne słowo jest w środku lub na początku złożenia, końcówkę mnogą dodajemy do niego, nie do ostatniego wyrazu (mothers-in-law, passers-by, editors-in-chief)" },
+      { "label": "Compound jako przymiotnik = liczba pojedyncza", "text": "Gdy rzeczownik złożony z liczebnikiem pełni funkcję przymiotnika przed innym rzeczownikiem, pierwszy element zostaje w liczbie pojedynczej i z łącznikiem (a five-year-old boy, a two-hour meeting, nie a five-years-old boy)" }
+    ],
+    "usage": [
+      "Regularne złożenia: liczba mnoga na końcu (bookshelves, headaches, taxi drivers)",
+      "Złożenia z przyimkiem w środku: liczba mnoga na rzeczowniku głównym (mothers-in-law, passers-by)",
+      "Liczebnik + rzeczownik jako przymiotnik przed innym rzeczownikiem: zawsze liczba pojedyncza (a ten-minute break, a three-year contract)"
+    ],
+    "tags": ["mothers-in-law", "passers-by", "a five-year-old boy", "a two-hour meeting"],
+    "examples": [
+      { "en": "Several passers-by stopped to help after the accident.", "pl": "Kilku przechodniów zatrzymało się, żeby pomóc po wypadku." },
+      { "en": "Both of my brothers-in-law live abroad.", "pl": "Obaj moi szwagrowie mieszkają za granicą." },
+      { "en": "It was a three-hour flight, so we were exhausted.", "pl": "To był trzygodzinny lot, więc byliśmy wyczerpani." },
+      { "en": "She has a six-year-old daughter who loves painting.", "pl": "Ma sześcioletnią córkę, która uwielbia malować." }
+    ]
+  }
+]
