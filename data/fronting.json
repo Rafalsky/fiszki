@@ -1,0 +1,102 @@
+[
+  {
+    "id": "fronted_objects",
+    "order": 1,
+    "nameEn": "Fronted objects and complements — topicalization",
+    "namePl": "Przesunięte dopełnienia i orzeczniki — topikalizacja",
+    "rules": [
+      { "label": "Budowa", "text": "Dopełnienie (bliższe/dalsze) lub orzecznik zwykle stojący po czasowniku zostaje przesunięty na początek zdania, a reszta zdania zachowuje normalny szyk podmiot-orzeczenie (BEZ inwersji): This book I've read three times. (= I've read this book three times.)" },
+      { "label": "Funkcja kontrastu", "text": "Fronting podkreśla element jako temat rozmowy lub tworzy kontrast z czymś wcześniej powiedzianym: I like comedies, but horror films I really can't stand." },
+      { "label": "Orzecznik przymiotnikowy na początku", "text": "Przymiotnik pełniący funkcję orzecznika może zostać przesunięty przed podmiot i czasownik łączący, bez inwersji: Guilty he is not. / Happy she certainly wasn't." },
+      { "label": "Zaimek wskazujący/dopełnienie + zdanie względne", "text": "Fronting jest częsty, gdy dopełnieniem jest zaimek wskazujący (this/that) odnoszący się do wcześniej wspomnianej rzeczy: That I cannot accept. / Those decisions I fully support." }
+    ],
+    "usage": [
+      "Podkreślanie kontrastu między dwoma elementami wypowiedzi: Some exercises were easy; others I found impossible.",
+      "Nawiązywanie do wcześniej wspomnianego tematu i uczynienie go punktem wyjścia zdania: Her sister I've never actually met.",
+      "Styl literacki i retoryczny dla emfazy orzecznika: Strange indeed his behaviour was.",
+      "Uwaga: to NIE jest inwersja — po przesuniętym elemencie podmiot nadal poprzedza czasownik (this I like, nie: this like I)"
+    ],
+    "tags": ["This book I've read", "Guilty he is not", "That I cannot accept", "Her sister I've never met"],
+    "examples": [
+      { "en": "This book I've read three times, but I still don't fully understand the ending.", "pl": "Tę książkę czytałem trzy razy, ale wciąż nie do końca rozumiem zakończenie." },
+      { "en": "Guilty he is not, whatever the newspapers say.", "pl": "Winny on nie jest, cokolwiek piszą gazety." },
+      { "en": "That I cannot accept, no matter how you explain it.", "pl": "Tego nie mogę zaakceptować, niezależnie od tego, jak to wytłumaczysz." },
+      { "en": "Her sister I've never actually met, only spoken to on the phone.", "pl": "Jej siostry właściwie nigdy nie poznałem, tylko rozmawiałem z nią przez telefon." }
+    ]
+  },
+  {
+    "id": "fronted_adverbials",
+    "order": 2,
+    "nameEn": "Fronted adverbial and prepositional phrases — cohesion without inversion",
+    "namePl": "Przesunięte frazy przysłówkowe i przyimkowe — spójność tekstu bez inwersji",
+    "rules": [
+      { "label": "Budowa", "text": "Fraza przysłówkowa lub przyimkowa (sposobu, powodu, celu, czasu) zostaje przesunięta na początek zdania jako punkt wyjścia informacji, a podmiot i orzeczenie zachowują normalny szyk: With great reluctance, she agreed to the plan." },
+      { "label": "Kontrast z inwersją", "text": "To NIE ta sama konstrukcja co inwersja po przysłówkach miejsca/kierunku czy przysłówkach z 'not/never' (Never have I seen...) — tam czasownik posiłkowy/główny przechodzi przed podmiot; tu podmiot pozostaje przed czasownikiem" },
+      { "label": "Spójność tekstu", "text": "Fronting frazy przysłówkowej często nawiązuje do informacji z poprzedniego zdania, tworząc płynne przejście między zdaniami w formalnym, pisanym tekście: The company faced huge losses in 2020. Despite this setback, it returned to profit within two years." },
+      { "label": "Fraza z gerundem", "text": "Fraza przyimkowa z rzeczownikiem odczasownikowym (gerund) na początku zdania podkreśla okoliczność towarzyszącą głównej czynności: By working overtime every week, she managed to pay off her debts." }
+    ],
+    "usage": [
+      "Formalny styl pisany (raporty, eseje, artykuły) — buduje spójność między zdaniami: In view of these results, the committee decided to postpone the decision.",
+      "Podkreślenie sposobu lub okoliczności wykonania czynności: With remarkable patience, the teacher explained the rule for the third time.",
+      "Łączenie z wcześniejszym zdaniem przez frazę odnoszącą się wstecz: Given this context, his reaction is easier to understand.",
+      "Odróżnienie od inwersji: With great reluctance, she agreed. (bez inwersji) vs. Never had she felt so reluctant. (inwersja)"
+    ],
+    "tags": ["With great reluctance,", "Despite this setback,", "In view of these results,", "By working overtime,"],
+    "examples": [
+      { "en": "With great reluctance, she agreed to sign the contract.", "pl": "Z wielką niechęcią zgodziła się podpisać umowę." },
+      { "en": "Despite this setback, the company returned to profit within two years.", "pl": "Mimo tej porażki firma wróciła do zysków w ciągu dwóch lat." },
+      { "en": "In view of these results, the committee decided to postpone the decision.", "pl": "Ze względu na te wyniki komisja postanowiła odłożyć decyzję." },
+      { "en": "By working overtime every week, she managed to pay off her debts.", "pl": "Pracując w nadgodzinach co tydzień, udało jej się spłacić długi." }
+    ]
+  },
+  {
+    "id": "as_though_fronting",
+    "order": 3,
+    "nameEn": "Concessive fronting with as / though",
+    "namePl": "Fronting ustępstwa z as / though",
+    "rules": [
+      { "label": "Przymiotnik/przysłówek + as/though", "text": "Przymiotnik lub przysłówek zostaje przesunięty przed 'as' lub 'though', tworząc formalną konstrukcję ustępstwa o znaczeniu 'chociaż...': Strange as it may seem, nobody noticed the mistake. (= Although it may seem strange...)" },
+      { "label": "Rzeczownik + as", "text": "Rzeczownik (bez rodzajnika) może zostać przesunięty przed 'as', gdy podkreślamy rolę lub cechę: Child as she was, she understood far more than the adults realised." },
+      { "label": "Czasownik + as/though — 'try as...'", "text": "Czasownik główny w formie bazowej + podmiot + modal, przesunięty przed 'as' lub 'though', wyraża, że mimo wysiłku rezultat się nie udał: Try as he might, he couldn't open the jar. / Try though she did, she failed the exam." },
+      { "label": "much as", "text": "'much as' + podmiot + czasownik wyraża ustępstwo dotyczące stopnia uczucia lub chęci: Much as I'd like to help, I simply don't have the time." }
+    ],
+    "usage": [
+      "Formalne i literackie wprowadzenie kontrastu mimo pozorów: Young as he was, he led the expedition with great confidence.",
+      "Podkreślenie daremnego wysiłku: Try as they might, the rescuers couldn't reach the trapped climbers in time.",
+      "Wyrażenie niechętnej zgody lub ograniczonej sympatii mimo chęci: Much as I admire her work, I disagree with this decision.",
+      "Zamiennik formalny dla although/even though, częsty w eseistyce i publicystyce wyższego rejestru"
+    ],
+    "tags": ["Strange as it may seem,", "Try as he might,", "Child as she was,", "Much as I'd like to,"],
+    "examples": [
+      { "en": "Strange as it may seem, nobody noticed the mistake for weeks.", "pl": "Choć może się to wydawać dziwne, przez tygodnie nikt nie zauważył błędu." },
+      { "en": "Try as he might, he couldn't open the stubborn old jar.", "pl": "Mimo usilnych starań nie mógł otworzyć tego upartego, starego słoika." },
+      { "en": "Child as she was, she understood far more than the adults realised.", "pl": "Choć była dzieckiem, rozumiała znacznie więcej, niż zdawali sobie sprawę dorośli." },
+      { "en": "Much as I'd like to help, I simply don't have the time this week.", "pl": "Choć bardzo chciałbym pomóc, po prostu nie mam w tym tygodniu czasu." }
+    ]
+  },
+  {
+    "id": "so_such_fronting",
+    "order": 4,
+    "nameEn": "Fronted so / such triggering inversion",
+    "namePl": "Przesunięte so / such wywołujące inwersję",
+    "rules": [
+      { "label": "So + przym./przysł. + inwersja", "text": "Gdy 'so + przymiotnik/przysłówek' zostaje przesunięte na początek zdania dla emfazy, wymaga inwersji podmiotu z czasownikiem posiłkowym: So great was his surprise that he couldn't speak. (= His surprise was so great that...)" },
+      { "label": "Such + inwersja", "text": "Podobnie 'such' na początku zdania wymaga inwersji orzeczenia (czasownika 'be') przed podmiotem: Such was the noise that we couldn't hear each other." },
+      { "label": "Klauzula skutku 'that'", "text": "Ta konstrukcja niemal zawsze prowadzi do zdania skutkowego wprowadzanego przez 'that', tak jak zwykłe so...that/such...that, ale z odwróconym, bardziej dramatycznym szykiem zdania głównego" },
+      { "label": "Rejestr", "text": "Konstrukcja ta jest wyraźnie formalna i literacka — w mowie potocznej używa się zwykłego szyku (His surprise was so great that...) bez przesunięcia i inwersji" }
+    ],
+    "usage": [
+      "Dramatyczne, literackie podkreślenie intensywności cechy lub sytuacji: So sudden was the change in weather that the match had to be abandoned.",
+      "Formalna narracja i eseistyka dla mocniejszego efektu niż zwykłe so...that: Such was her determination that nothing could stop her.",
+      "Podkreślenie skutku wynikającego z ekstremalnego natężenia cechy: So exhausted were the climbers that they could barely stand.",
+      "Kontrast z neutralnym szykiem: Such was the confusion... (formalne, z inwersją) vs. The confusion was such that... (neutralne, bez inwersji)"
+    ],
+    "tags": ["So great was", "Such was the noise", "So sudden was", "Such was her determination"],
+    "examples": [
+      { "en": "So great was his surprise that he couldn't say a word.", "pl": "Jego zaskoczenie było tak wielkie, że nie mógł wykrztusić słowa." },
+      { "en": "Such was the noise that we couldn't hear each other speak.", "pl": "Hałas był tak wielki, że nie słyszeliśmy się nawzajem." },
+      { "en": "So sudden was the change in weather that the match had to be abandoned.", "pl": "Zmiana pogody była tak nagła, że mecz trzeba było przerwać." },
+      { "en": "Such was her determination that nothing could stop her from finishing the race.", "pl": "Jej determinacja była tak wielka, że nic nie mogło jej powstrzymać przed ukończeniem wyścigu." }
+    ]
+  }
+]
