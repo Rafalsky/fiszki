@@ -1,0 +1,98 @@
+[
+  {
+    "id": "gradable_ungradable",
+    "order": 1,
+    "nameEn": "Gradable vs non-gradable adjectives",
+    "namePl": "Przymiotniki stopniowalne i niestopniowalne",
+    "rules": [
+      { "label": "Stopniowalne", "text": "Przymiotniki takie jak big, cold, interesting, tired opisują cechę w różnym natężeniu — można je wzmacniać słowami very, quite, rather, fairly, pretty" },
+      { "label": "Niestopniowalne", "text": "Przymiotniki takie jak huge, freezing, fascinating, exhausted już same w sobie oznaczają skrajność — wzmacnia się je słowami absolutely, completely, totally, utterly, entirely" },
+      { "label": "Błąd", "text": "'very' nie łączy się z przymiotnikiem niestopniowalnym — poprawnie absolutely huge, nie very huge" }
+    ],
+    "usage": [
+      "Rozpoznanie, czy przymiotnik opisuje stopień (można 'bardziej') czy skrajność (już maksimum)",
+      "Dobór właściwego wzmacniacza do typu przymiotnika",
+      "Unikanie typowego błędu 'very perfect', 'very huge'",
+      "Rozpoznawanie par: big → huge, cold → freezing, tired → exhausted, good → perfect"
+    ],
+    "tags": ["very big", "absolutely huge", "quite cold", "absolutely freezing"],
+    "examples": [
+      { "en": "The room was very cold.", "pl": "W pokoju było bardzo zimno." },
+      { "en": "It's absolutely freezing outside!", "pl": "Na zewnątrz jest absolutnie lodowato!" },
+      { "en": "She was very tired after the trip.", "pl": "Była bardzo zmęczona po podróży." },
+      { "en": "He was absolutely exhausted after the marathon.", "pl": "Był kompletnie wykończony po maratonie." }
+    ]
+  },
+  {
+    "id": "very_really_so",
+    "order": 2,
+    "nameEn": "very / really / so as basic intensifiers",
+    "namePl": "very / really / so jako podstawowe wzmacniacze",
+    "rules": [
+      { "label": "very", "text": "very + przymiotnik/przysłówek — neutralne, mocne wzmocnienie, stoi bezpośrednio przed wzmacnianym słowem" },
+      { "label": "really", "text": "really jest bardziej nieformalne, może wzmacniać zarówno przymiotniki stopniowalne, jak i niestopniowalne, a także czasowniki (I really like it)" },
+      { "label": "so", "text": "so jest typowe dla mowy potocznej i emocjonalnego podkreślenia, często w zdaniu z 'that' (so tired that...)" }
+    ],
+    "usage": [
+      "very przed przymiotnikiem/przysłówkiem stopniowalnym: very interesting, very quickly",
+      "really jako uniwersalny wzmacniacz w mowie potocznej, także przy czasownikach: I really enjoyed it",
+      "so do wzmocnienia z zabarwieniem emocjonalnym: This is so exciting!",
+      "very nie wzmacnia czasowników — nie mówimy 'I very like it', tylko 'I really like it'"
+    ],
+    "tags": ["very interesting", "really like", "so exciting", "so tired that"],
+    "examples": [
+      { "en": "This book is very interesting.", "pl": "Ta książka jest bardzo interesująca." },
+      { "en": "I really enjoyed the concert.", "pl": "Naprawdę spodobał mi się koncert." },
+      { "en": "She was so tired that she fell asleep at the table.", "pl": "Była tak zmęczona, że zasnęła przy stole." },
+      { "en": "He really doesn't like coffee.", "pl": "On naprawdę nie lubi kawy." }
+    ]
+  },
+  {
+    "id": "rather_quite_fairly",
+    "order": 3,
+    "nameEn": "rather / quite / fairly — moderate degree",
+    "namePl": "rather / quite / fairly — umiarkowany stopień",
+    "rules": [
+      { "label": "quite", "text": "quite = 'dość' z przymiotnikami stopniowalnymi (quite good), ale = 'całkowicie' z niestopniowalnymi (quite amazing)" },
+      { "label": "rather", "text": "rather = 'raczej' — często bardziej formalne niż quite, czasem sugeruje lekkie zaskoczenie lub negatywny odcień (rather expensive)" },
+      { "label": "fairly", "text": "fairly = 'dość' — słabsze niż quite, neutralne, bez zabarwienia emocjonalnego (fairly easy)" }
+    ],
+    "usage": [
+      "quite przed przymiotnikiem stopniowalnym: quite tired (umiarkowanie), przed niestopniowalnym: quite amazing (całkowicie)",
+      "rather w bardziej formalnym rejestrze lub przy negatywnej ocenie: rather boring, rather difficult",
+      "fairly jako łagodniejszy, neutralny odpowiednik quite: fairly cheap, fairly simple",
+      "pretty jako nieformalny synonim quite/fairly w mowie potocznej: pretty good"
+    ],
+    "tags": ["quite good", "rather expensive", "fairly easy", "pretty good"],
+    "examples": [
+      { "en": "The film was quite good, but not amazing.", "pl": "Film był dość dobry, ale nie rewelacyjny." },
+      { "en": "This hotel is rather expensive for what it offers.", "pl": "Ten hotel jest raczej drogi jak na to, co oferuje." },
+      { "en": "The test was fairly easy this time.", "pl": "Test był tym razem dość łatwy." },
+      { "en": "It's a pretty good idea, actually.", "pl": "To właściwie całkiem niezły pomysł." }
+    ]
+  },
+  {
+    "id": "absolutely_extreme",
+    "order": 4,
+    "nameEn": "absolutely / completely / totally — extreme intensifiers",
+    "namePl": "absolutely / completely / totally — wzmacniacze skrajności",
+    "rules": [
+      { "label": "Wzmacniacze skrajne", "text": "absolutely, completely, totally, utterly, entirely łączą się TYLKO z przymiotnikami niestopniowalnymi (już skrajnymi w znaczeniu)" },
+      { "label": "Częste pary", "text": "good → excellent/perfect, bad → terrible/awful, big → huge/enormous, small → tiny, surprised → astonished, scared → terrified, interesting → fascinating, angry → furious" },
+      { "label": "Błąd", "text": "nie łączymy absolutely z przymiotnikiem stopniowalnym — źle: absolutely good, dobrze: absolutely excellent" }
+    ],
+    "usage": [
+      "Podkreślanie skrajnej cechy: absolutely perfect, completely exhausted, totally ridiculous",
+      "Wzmacnianie emocjonalnych reakcji w mowie potocznej: I'm absolutely thrilled!",
+      "Rozróżnianie, kiedy użyć very + zwykły przymiotnik, a kiedy absolutely + przymiotnik ekstremalny",
+      "Znajomość typowych par przymiotnik zwykły → przymiotnik ekstremalny"
+    ],
+    "tags": ["absolutely perfect", "completely exhausted", "totally ridiculous", "utterly amazing"],
+    "examples": [
+      { "en": "The performance was absolutely perfect.", "pl": "Występ był absolutnie perfekcyjny." },
+      { "en": "I'm completely exhausted after work.", "pl": "Jestem kompletnie wykończony po pracy." },
+      { "en": "That idea is totally ridiculous.", "pl": "Ten pomysł jest zupełnie śmieszny." },
+      { "en": "The view from the top was utterly amazing.", "pl": "Widok ze szczytu był całkowicie zdumiewający." }
+    ]
+  }
+]
