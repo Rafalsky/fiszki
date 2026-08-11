@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "verb_to_noun",
+    "prompt": "The board's ___ to merge the two companies was unexpected. (DECIDE)",
+    "answer": "decision",
+    "distractors": ["decidement", "decideness", "decidal"]
+  },
+  {
+    "id": 2,
+    "itemId": "verb_to_noun",
+    "prompt": "The rapid ___ of the local economy attracted foreign investors. (DEVELOP)",
+    "answer": "development",
+    "distractors": ["developance", "developity", "developness"]
+  },
+  {
+    "id": 3,
+    "itemId": "verb_to_noun",
+    "prompt": "Her outstanding ___ at the concert impressed everyone. (PERFORM)",
+    "answer": "performance",
+    "distractors": ["performment", "performation", "performity"]
+  },
+  {
+    "id": 4,
+    "itemId": "verb_to_noun",
+    "prompt": "The team's early ___ at the airport helped them avoid the traffic. (ARRIVE)",
+    "answer": "arrival",
+    "distractors": ["arrivement", "arrivance", "arriveness"]
+  },
+  {
+    "id": 5,
+    "itemId": "verb_to_noun",
+    "prompt": "The ___ of the negotiations led to a diplomatic crisis. (FAIL)",
+    "answer": "failure",
+    "distractors": ["failment", "failance", "failation"]
+  },
+  {
+    "id": 6,
+    "itemId": "verb_to_noun",
+    "prompt": "The government's ___ of new tax rules surprised businesses. (ANNOUNCE)",
+    "answer": "announcement",
+    "distractors": ["announciation", "announcity", "announceness"]
+  },
+  {
+    "id": 7,
+    "itemId": "verb_to_noun",
+    "prompt": "The factory's ___ of electric cars doubled last year. (PRODUCE)",
+    "answer": "production",
+    "distractors": ["producement", "producance", "produceness"]
+  },
+  {
+    "id": 8,
+    "itemId": "verb_to_noun",
+    "prompt": "Written ___ from the landlord is required before any changes. (PERMIT)",
+    "answer": "permission",
+    "distractors": ["permitment", "permitance", "permitation"]
+  },
+  {
+    "id": 9,
+    "itemId": "verb_to_noun",
+    "prompt": "The minister's sudden ___ shocked the public. (RESIGN)",
+    "answer": "resignation",
+    "distractors": ["resignment", "resignance", "resignity"]
+  },
+  {
+    "id": 10,
+    "itemId": "verb_to_noun",
+    "prompt": "Her polite ___ of the offer surprised her colleagues. (REFUSE)",
+    "answer": "refusal",
+    "distractors": ["refusement", "refusion", "refuseness"]
+  },
+  {
+    "id": 11,
+    "itemId": "adjective_to_noun",
+    "prompt": "The political ___ of the region discouraged investors. (STABLE)",
+    "answer": "stability",
+    "distractors": ["stableness", "more stable", "stably"]
+  },
+  {
+    "id": 12,
+    "itemId": "adjective_to_noun",
+    "prompt": "Public ___ of climate change has grown in recent years. (AWARE)",
+    "answer": "awareness",
+    "distractors": ["awarity", "awareful", "more aware"]
+  },
+  {
+    "id": 13,
+    "itemId": "adjective_to_noun",
+    "prompt": "The ___ of the new engine impressed the engineers. (EFFICIENT)",
+    "answer": "efficiency",
+    "distractors": ["efficientness", "more efficient", "efficiently"]
+  },
+  {
+    "id": 14,
+    "itemId": "adjective_to_noun",
+    "prompt": "The ___ of the legal system makes it hard for non-lawyers to understand. (COMPLEX)",
+    "answer": "complexity",
+    "distractors": ["complexness", "more complex", "complexly"]
+  },
+  {
+    "id": 15,
+    "itemId": "adjective_to_noun",
+    "prompt": "The ___ of his forecast was later confirmed by the data. (ACCURATE)",
+    "answer": "accuracy",
+    "distractors": ["accurateness", "more accurate", "accurately"]
+  },
+  {
+    "id": 16,
+    "itemId": "adjective_to_noun",
+    "prompt": "The ___ of the new policy will be reviewed next year. (EFFECTIVE)",
+    "answer": "effectiveness",
+    "distractors": ["effectivity", "more effective", "effectively"]
+  },
+  {
+    "id": 17,
+    "itemId": "adjective_to_noun",
+    "prompt": "The singer's sudden ___ surprised even her closest friends. (POPULAR)",
+    "answer": "popularity",
+    "distractors": ["popularness", "more popular", "popularly"]
+  },
+  {
+    "id": 18,
+    "itemId": "adjective_to_noun",
+    "prompt": "National ___ was the government's top priority. (SECURE)",
+    "answer": "security",
+    "distractors": ["secureness", "more secure", "securely"]
+  },
+  {
+    "id": 19,
+    "itemId": "adjective_to_noun",
+    "prompt": "Her ___ with the software made the training session quick. (FAMILIAR)",
+    "answer": "familiarity",
+    "distractors": ["familiarness", "more familiar", "familiarly"]
+  },
+  {
+    "id": 20,
+    "itemId": "adjective_to_noun",
+    "prompt": "The child's natural ___ led her to ask endless questions. (CURIOUS)",
+    "answer": "curiosity",
+    "distractors": ["curiousness", "more curious", "curiously"]
+  },
+  {
+    "id": 21,
+    "itemId": "clause_to_phrase",
+    "prompt": "___ the sharp increase in fuel prices, transport costs rose sharply.",
+    "answer": "Due to",
+    "distractors": ["Because", "Although", "Despite"]
+  },
+  {
+    "id": 22,
+    "itemId": "clause_to_phrase",
+    "prompt": "___ completion of the project, a final report will be submitted.",
+    "answer": "Upon",
+    "distractors": ["While", "Because", "Despite"]
+  },
+  {
+    "id": 23,
+    "itemId": "clause_to_phrase",
+    "prompt": "___ the event of a system failure, contact support immediately.",
+    "answer": "In",
+    "distractors": ["At", "On", "With"]
+  },
+  {
+    "id": 24,
+    "itemId": "clause_to_phrase",
+    "prompt": "___ the announcement of the merger, share prices jumped 10%.",
+    "answer": "Following",
+    "distractors": ["During", "Despite", "Unless"]
+  },
+  {
+    "id": 25,
+    "itemId": "clause_to_phrase",
+    "prompt": "The negotiations collapsed ___ the disagreement over pay.",
+    "answer": "due to",
+    "distractors": ["because", "although", "unless"]
+  },
+  {
+    "id": 26,
+    "itemId": "clause_to_phrase",
+    "prompt": "___ non-payment, the contract will be terminated immediately.",
+    "answer": "In case of",
+    "distractors": ["Because", "Although", "Unless"]
+  },
+  {
+    "id": 27,
+    "itemId": "clause_to_phrase",
+    "prompt": "___ the rise in unemployment, the government cut interest rates.",
+    "answer": "Because of",
+    "distractors": ["Although", "Unless", "Despite"]
+  },
+  {
+    "id": 28,
+    "itemId": "clause_to_phrase",
+    "prompt": "___ cancellation of the flight, passengers will receive a full refund.",
+    "answer": "In the event of",
+    "distractors": ["Because", "Although", "Whereas"]
+  },
+  {
+    "id": 29,
+    "itemId": "clause_to_phrase",
+    "prompt": "___ the arrival of the new manager, procedures changed significantly.",
+    "answer": "Upon",
+    "distractors": ["Despite", "Unless", "Because"]
+  },
+  {
+    "id": 30,
+    "itemId": "clause_to_phrase",
+    "prompt": "___ his resignation, the board appointed an interim director.",
+    "answer": "Following",
+    "distractors": ["Although", "Unless", "Whereas"]
+  },
+  {
+    "id": 31,
+    "itemId": "register_contrast",
+    "prompt": "A thorough ___ of all the options preceded the final decision. (CONSIDER)",
+    "answer": "consideration",
+    "distractors": ["considerment", "considering", "considerate"]
+  },
+  {
+    "id": 32,
+    "itemId": "register_contrast",
+    "prompt": "The committee's ___ of the new policy took only two weeks. (IMPLEMENT)",
+    "answer": "implementation",
+    "distractors": ["implementment", "implementing", "implementive"]
+  },
+  {
+    "id": 33,
+    "itemId": "register_contrast",
+    "prompt": "The proposal requires the ___ of several departments. (INVOLVE)",
+    "answer": "involvement",
+    "distractors": ["involving", "involvation", "involvence"]
+  },
+  {
+    "id": 34,
+    "itemId": "register_contrast",
+    "prompt": "Effective ___ of resources is essential for the project's success. (UTILISE)",
+    "answer": "utilisation",
+    "distractors": ["utilising", "utilisement", "utilisive"]
+  },
+  {
+    "id": 35,
+    "itemId": "register_contrast",
+    "prompt": "The report gives a detailed ___ of the company's financial position. (ANALYSE)",
+    "answer": "analysis",
+    "distractors": ["analysement", "analysing", "analytical"]
+  },
+  {
+    "id": 36,
+    "itemId": "register_contrast",
+    "prompt": "The gradual ___ of the old factory took several months. (DESTROY)",
+    "answer": "destruction",
+    "distractors": ["destroyment", "destroying", "destructive"]
+  },
+  {
+    "id": 37,
+    "itemId": "register_contrast",
+    "prompt": "Careful ___ of the risks is necessary before investing. (EXAMINE)",
+    "answer": "examination",
+    "distractors": ["examinement", "examining", "examinative"]
+  },
+  {
+    "id": 38,
+    "itemId": "register_contrast",
+    "prompt": "Steady ___ in sales reassured the shareholders. (GROW)",
+    "answer": "growth",
+    "distractors": ["growment", "growing", "growable"]
+  },
+  {
+    "id": 39,
+    "itemId": "register_contrast",
+    "prompt": "Reaching ___ between the two parties took months. (AGREE)",
+    "answer": "agreement",
+    "distractors": ["agreeing", "agreeable", "agreedness"]
+  },
+  {
+    "id": 40,
+    "itemId": "register_contrast",
+    "prompt": "The professor's ___ of the topic was exceptionally clear. (EXPLAIN)",
+    "answer": "explanation",
+    "distractors": ["explainment", "explaining", "explanative"]
+  }
+]

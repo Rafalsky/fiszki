@@ -439,5 +439,12 @@
     "title": "As if / as though",
     "desc": "as if i as though do wyrażania nierealnych porównań i pozorów, kontrast z like — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "nominalization",
+    "icon": "🏛️",
+    "title": "Nominalizacja",
+    "desc": "Zamiana czasowników i przymiotników na rzeczowniki (decide→decision, stable→stability) oraz kompresja zdań podrzędnych do fraz rzeczownikowych w stylu formalnym i akademickim — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

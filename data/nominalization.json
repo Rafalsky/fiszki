@@ -1,0 +1,214 @@
+[
+  {
+    "id": "verb_to_noun",
+    "order": 1,
+    "nameEn": "Nominalizing verbs (-tion/-ment/-ance/-al etc.)",
+    "namePl": "Nominalizacja czasowników (-tion/-ment/-ance/-al itd.)",
+    "rules": [
+      {
+        "label": "Zasada",
+        "text": "W stylu formalnym i akademickim czasownik z podmiotem i dopełnieniem zamienia się w rzeczownik odczasownikowy + przyimek of/by, żeby zdanie brzmiało bardziej rzeczowo i zwięźle"
+      },
+      {
+        "label": "Podmiot → dopełniacz/przyimek by",
+        "text": "Wykonawca czynności staje się dopełniaczem ('s / of) albo frazą z 'by': 'The company announced the decision.' → 'The company's announcement of the decision' / 'The announcement of the decision by the company'"
+      },
+      {
+        "label": "Czasownik → rzeczownik",
+        "text": "Sam czasownik zamienia się na formę rzeczownikową za pomocą typowych sufiksów: -tion (decide→decision), -ment (develop→development), -ance/-ence (perform→performance), -al (arrive→arrival), -ure (fail→failure)"
+      },
+      {
+        "label": "Zdanie potrzebuje nowego czasownika",
+        "text": "Ponieważ oryginalny czasownik zniknął, zdanie nominalizowane zwykle dostaje nowy, ogólny czasownik łączący (be, lead to, result in, cause, involve): 'Because prices rose, demand fell.' → 'The rise in prices led to a fall in demand.'"
+      }
+    ],
+    "usage": [
+      "Styl akademicki i naukowy: 'The experiment's failure surprised the researchers.' zamiast 'The experiment failed, which surprised the researchers.'",
+      "Raporty i streszczenia biznesowe: 'The delay in delivery caused customer complaints.'",
+      "Nagłówki prasowe i tytuły: 'Government announcement of tax cuts expected tomorrow.'",
+      "Unikanie powtarzania podmiotu osobowego, kiedy ważniejszy jest fakt/proces niż wykonawca: 'The destruction of the building took three days.'"
+    ],
+    "tags": [
+      "announcement of",
+      "decision to",
+      "development of",
+      "failure of"
+    ],
+    "examples": [
+      {
+        "en": "The government reduced taxes, which boosted the economy.",
+        "pl": "Rząd obniżył podatki, co pobudziło gospodarkę."
+      },
+      {
+        "en": "The government's reduction of taxes boosted the economy.",
+        "pl": "Obniżka podatków przez rząd pobudziła gospodarkę."
+      },
+      {
+        "en": "The committee's announcement of the results surprised everyone.",
+        "pl": "Ogłoszenie wyników przez komitet zaskoczyło wszystkich."
+      },
+      {
+        "en": "The failure of the negotiations led to a diplomatic crisis.",
+        "pl": "Niepowodzenie negocjacji doprowadziło do kryzysu dyplomatycznego."
+      }
+    ]
+  },
+  {
+    "id": "adjective_to_noun",
+    "order": 2,
+    "nameEn": "Nominalizing adjectives (-ity/-ness/-cy)",
+    "namePl": "Nominalizacja przymiotników (-ity/-ness/-cy)",
+    "rules": [
+      {
+        "label": "Zasada",
+        "text": "Zdanie 'podmiot + be + przymiotnik' zamienia się we frazę rzeczownikową, gdy cecha ma stać się tematem zdania, a nie tylko orzeczeniem"
+      },
+      {
+        "label": "Typowe sufiksy",
+        "text": "-ity (stable→stability, complex→complexity), -ness (aware→awareness, effective→effectiveness), -cy (accurate→accuracy, efficient→efficiency)"
+      },
+      {
+        "label": "Przymiotnik dzierżawczy/przyimek of",
+        "text": "Podmiot pierwotnego zdania staje się przydawką dzierżawczą lub frazą z 'of': 'The region is politically unstable.' → 'the political instability of the region'"
+      }
+    ],
+    "usage": [
+      "Wprowadzanie tematu abstrakcyjnego jako podmiotu zdania: 'The complexity of the system makes it hard to maintain.'",
+      "Formalne definicje i tezy: 'The instability of the market discouraged investors.'",
+      "Łączenie dwóch zdań w jedno bardziej zwięzłe, formalne zdanie",
+      "Unikanie powtarzania 'is/are + przymiotnik' w kolejnych zdaniach akademickiego tekstu"
+    ],
+    "tags": [
+      "stability of",
+      "awareness of",
+      "efficiency of",
+      "complexity of"
+    ],
+    "examples": [
+      {
+        "en": "The region is politically unstable, which discourages investors.",
+        "pl": "Ten region jest politycznie niestabilny, co zniechęca inwestorów."
+      },
+      {
+        "en": "The political instability of the region discourages investors.",
+        "pl": "Niestabilność polityczna regionu zniechęca inwestorów."
+      },
+      {
+        "en": "Public awareness of the issue has grown significantly.",
+        "pl": "Świadomość społeczna tego problemu znacznie wzrosła."
+      },
+      {
+        "en": "The efficiency of the new engine surprised the engineers.",
+        "pl": "Wydajność nowego silnika zaskoczyła inżynierów."
+      }
+    ]
+  },
+  {
+    "id": "clause_to_phrase",
+    "order": 3,
+    "nameEn": "Compressing clauses into noun phrases",
+    "namePl": "Kompresja zdań podrzędnych do fraz rzeczownikowych",
+    "rules": [
+      {
+        "label": "Zasada",
+        "text": "Całe zdanie podrzędne (przyczynowe, czasowe, warunkowe) można skompresować do jednej frazy rzeczownikowej z przyimkiem, co jest typowe dla stylu formalnego i pisanych streszczeń"
+      },
+      {
+        "label": "because/since → because of / due to + nominalizacja",
+        "text": "'because the prices increased' → 'because of the increase in prices' / 'due to the rise in prices'"
+      },
+      {
+        "label": "when/after → on/upon/after + nominalizacja",
+        "text": "'When the results were announced, ...' → 'Upon the announcement of the results, ...' / 'On announcing the results, ...'"
+      },
+      {
+        "label": "if → in the event of + nominalizacja",
+        "text": "'If the system fails, ...' → 'In the event of a system failure, ...'"
+      }
+    ],
+    "usage": [
+      "Skracanie zdań w formalnych raportach i instrukcjach: 'In the event of cancellation, a full refund will be issued.'",
+      "Nagłówki i tytuły sekcji dokumentów: 'Upon completion of the project, a final report will be submitted.'",
+      "Pisanie akademickie, gdzie zdania podrzędne czasowe/przyczynowe zastępuje się zwięzłą frazą",
+      "Instrukcje prawne i regulaminy: 'In case of non-payment, the contract will be terminated.'"
+    ],
+    "tags": [
+      "due to the rise in",
+      "upon completion of",
+      "in the event of",
+      "on announcing"
+    ],
+    "examples": [
+      {
+        "en": "Because the prices increased sharply, sales dropped.",
+        "pl": "Ponieważ ceny gwałtownie wzrosły, sprzedaż spadła."
+      },
+      {
+        "en": "Due to the sharp increase in prices, sales dropped.",
+        "pl": "Z powodu gwałtownego wzrostu cen sprzedaż spadła."
+      },
+      {
+        "en": "Upon completion of the project, a final report will be submitted.",
+        "pl": "Po zakończeniu projektu zostanie złożony raport końcowy."
+      },
+      {
+        "en": "In the event of a system failure, contact support immediately.",
+        "pl": "W razie awarii systemu natychmiast skontaktuj się z pomocą techniczną."
+      }
+    ]
+  },
+  {
+    "id": "register_contrast",
+    "order": 4,
+    "nameEn": "Verbal style vs nominal style",
+    "namePl": "Styl czasownikowy vs styl rzeczownikowy",
+    "rules": [
+      {
+        "label": "Styl czasownikowy",
+        "text": "Naturalny w mowie i tekstach nieformalnych: podmiot osobowy + czasownik czynny, np. 'They analysed the data carefully.'"
+      },
+      {
+        "label": "Styl rzeczownikowy",
+        "text": "Typowy dla pism naukowych, prawnych, urzędowych i biznesowych: proces/wynik jako podmiot, np. 'The careful analysis of the data revealed...'"
+      },
+      {
+        "label": "Nadużycie nominalizacji",
+        "text": "Zbyt duże nagromadzenie rzeczowników odczasownikowych w jednym zdaniu (tzw. 'nominal style overload') utrudnia czytanie — dobry styl akademicki miesza oba typy zdań"
+      },
+      {
+        "label": "Test rozpoznawania",
+        "text": "Jeśli w zdaniu głównym czasownikiem jest be/have/involve/require, a właściwa czynność ukryta jest w rzeczowniku, to jest to zdanie nominalizowane"
+      }
+    ],
+    "usage": [
+      "Rozpoznawanie rejestru tekstu: artykuł naukowy vs e-mail do znajomego",
+      "Przekształcanie nieformalnego zdania na formalne podczas pisania rozprawki lub raportu",
+      "Unikanie nadmiernej nominalizacji w streszczeniach, żeby tekst pozostał czytelny",
+      "Rozpoznawanie w czytance C2, że 'implementation', 'utilisation', 'consideration' to zwykle ukryte czasowniki"
+    ],
+    "tags": [
+      "the analysis of",
+      "the implementation of",
+      "the consideration of",
+      "requires the involvement of"
+    ],
+    "examples": [
+      {
+        "en": "They implemented the new policy quickly.",
+        "pl": "Szybko wdrożyli nową politykę."
+      },
+      {
+        "en": "The implementation of the new policy was quick.",
+        "pl": "Wdrożenie nowej polityki było szybkie."
+      },
+      {
+        "en": "The proposal requires the involvement of several departments.",
+        "pl": "Propozycja wymaga zaangażowania kilku działów."
+      },
+      {
+        "en": "A thorough consideration of all options preceded the final decision.",
+        "pl": "Dokładne rozważenie wszystkich opcji poprzedziło ostateczną decyzję."
+      }
+    ]
+  }
+]
