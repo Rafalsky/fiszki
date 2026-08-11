@@ -1,0 +1,102 @@
+[
+  {
+    "id": "only_position",
+    "order": 1,
+    "nameEn": "Only — position determines scope of restriction",
+    "namePl": "Only — pozycja decyduje o zakresie ograniczenia",
+    "rules": [
+      { "label": "Budowa", "text": "'Only' zwykle stoi bezpośrednio przed elementem, którego dotyczy (jego 'zakresem'), a nie automatycznie przed czasownikiem — zmiana pozycji zmienia znaczenie: Only Tom saw the accident. (nikt inny) / Tom only saw the accident. (nic więcej nie zrobił) / Tom saw only the accident. (nic więcej nie widział)." },
+      { "label": "Mowa vs pismo", "text": "W szybkiej, nieformalnej mowie 'only' często umieszcza się przed czasownikiem niezależnie od zamierzonego zakresu, a intonacja i nacisk zdaniowy wyjaśniają, o co chodzi: I only saw HER. (nie kogoś innego) vs I only SAW her. (nic więcej nie zrobiłem)." },
+      { "label": "Rejestr formalny", "text": "W stylu formalnym i pisanym 'only' umieszcza się bezpośrednio przy elemencie, którego dotyczy, aby uniknąć dwuznaczności — szczególnie w tekstach precyzyjnych, jak umowy, instrukcje czy prace akademickie." },
+      { "label": "Only na początku zdania", "text": "Gdy 'only' wprowadza przesuniętą na początek frazę okolicznikową, wywołuje inwersję podmiotu z czasownikiem posiłkowym: Only after the exam did she relax. (zobacz temat Inwersja)." }
+    ],
+    "usage": [
+      "Precyzyjne ograniczenie zakresu wypowiedzi w formalnym pisaniu: Only members of staff are permitted to enter this area.",
+      "Codzienna mowa z naciskiem intonacyjnym zamiast zmiany pozycji: I only bought two, I didn't steal them!",
+      "Rozróżnianie znaczeń w zależności od pozycji: She only lent him the book (nic więcej) vs She lent only him the book (nikomu innemu).",
+      "Odesłanie: 'Only' przesunięte na początek zdania wymaga inwersji — zobacz temat Inwersja."
+    ],
+    "tags": ["Only Tom saw", "Tom only saw", "Tom saw only", "Only after did she"],
+    "examples": [
+      { "en": "Only the manager has a key to this room.", "pl": "Tylko kierownik ma klucz do tego pomieszczenia." },
+      { "en": "I only borrowed the car for an hour, I didn't damage it.", "pl": "Tylko pożyczyłem samochód na godzinę, nie uszkodziłem go." },
+      { "en": "She lent the money only to her closest friend.", "pl": "Pożyczyła pieniądze tylko swojej najbliższej przyjaciółce." },
+      { "en": "Only after reading the contract twice did he agree to sign it.", "pl": "Dopiero po dwukrotnym przeczytaniu umowy zgodził się ją podpisać." }
+    ]
+  },
+  {
+    "id": "even_position",
+    "order": 2,
+    "nameEn": "Even — marking the least expected case",
+    "namePl": "Even — wskazywanie najmniej oczekiwanego przypadku",
+    "rules": [
+      { "label": "Budowa", "text": "'Even' stoi bezpośrednio przed elementem, który jest najbardziej zaskakujący, ekstremalny lub najmniej prawdopodobny w danym kontekście: Even the teacher didn't know the answer. (zaskakujące, bo nauczyciel powinien wiedzieć)." },
+      { "label": "Pozycja środkowa", "text": "Gdy 'even' odnosi się do całej czynności, a nie do jednego elementu, zajmuje typową pozycję przysłówka częstotliwości — po czasowniku 'be'/modalnym/pierwszym posiłkowym, przed czasownikiem głównym: He even offered to pay for the damage. He is even willing to apologise." },
+      { "label": "Even + stopień wyższy", "text": "'Even' przed przymiotnikiem lub przysłówkiem w stopniu wyższym wzmacnia porównanie, znacząc 'jeszcze bardziej': This exercise is even harder than the last one." },
+      { "label": "Even if / even though", "text": "'Even if' wprowadza warunek hipotetyczny (niezależnie od tego, czy...), a 'even though' wprowadza fakt, mimo którego coś jest prawdą: Even if it rains, we'll go. vs Even though it rained, we went." }
+    ],
+    "usage": [
+      "Podkreślanie zaskoczenia, że dana rzecz lub osoba jest objęta jakąś sytuacją: Even native speakers make this mistake sometimes.",
+      "Wzmacnianie stopnia wyższego dla emfazy: The exam was even more difficult than we expected.",
+      "Rozróżnienie warunku hipotetycznego od faktu ustępstwa: even if vs even though.",
+      "W połączeniu z przeczeniem dla podkreślenia skrajności: He didn't even say thank you."
+    ],
+    "tags": ["Even the teacher", "even more difficult", "even if it rains", "didn't even say"],
+    "examples": [
+      { "en": "Even the most experienced pilots find this manoeuvre challenging.", "pl": "Nawet najbardziej doświadczeni piloci uważają ten manewr za trudny." },
+      { "en": "The second attempt was even more disappointing than the first.", "pl": "Druga próba była jeszcze bardziej rozczarowująca niż pierwsza." },
+      { "en": "Even if you apologise, she probably won't forgive you.", "pl": "Nawet jeśli przeprosisz, ona prawdopodobnie ci nie wybaczy." },
+      { "en": "He was so upset that he didn't even answer the phone.", "pl": "Był tak zdenerwowany, że nawet nie odebrał telefonu." }
+    ]
+  },
+  {
+    "id": "also_too_as_well_either",
+    "order": 3,
+    "nameEn": "Also, too, as well, either — additive focus and register",
+    "namePl": "Also, too, as well, either — dodawanie informacji i różnice w rejestrze",
+    "rules": [
+      { "label": "Pozycja also", "text": "'Also' jest przysłówkiem środkowym — stoi po czasowniku 'be'/modalnym/pierwszym posiłkowym, a przed czasownikiem głównym; typowy dla formalnego, pisanego rejestru: She also speaks French. He has also been invited." },
+      { "label": "Pozycja too / as well", "text": "'Too' i 'as well' stoją zwykle na końcu zdania i są bardziej potoczne niż 'also': I'm coming too. / I'm coming as well." },
+      { "label": "Either w przeczeniach", "text": "W zdaniach przeczących zamiast 'too'/'also' używa się 'either' na końcu zdania: I don't like coffee. I don't like tea either. (NIE: ...tea too)" },
+      { "label": "Also na początku zdania", "text": "'Also' może rozpoczynać zdanie, gdy wprowadza dodatkową, ważną informację w formalnym tekście — nie wywołuje wtedy inwersji: Also, we should consider the cost." }
+    ],
+    "usage": [
+      "Formalne pisanie i prezentacje — 'also' w środku zdania: The report also highlights several risks.",
+      "Codzienna, potoczna mowa — 'too'/'as well' na końcu zdania: Can I come too? / I'd like some as well.",
+      "Odpowiadanie na przeczenie: 'I haven't finished.' 'I haven't either.'",
+      "Wprowadzanie kolejnego argumentu na początku zdania lub akapitu: Also, it's worth noting that costs have risen."
+    ],
+    "tags": ["She also speaks", "coming too", "coming as well", "not either"],
+    "examples": [
+      { "en": "The hotel also offers a free breakfast for guests.", "pl": "Hotel oferuje również darmowe śniadanie dla gości." },
+      { "en": "Can you bring some snacks too?", "pl": "Czy możesz przynieść też jakieś przekąski?" },
+      { "en": "I haven't seen that film, and I haven't read the book either.", "pl": "Nie widziałem tego filmu, a książki też nie czytałem." },
+      { "en": "Also, we need to book the venue before Friday.", "pl": "Poza tym musimy zarezerwować salę przed piątkiem." }
+    ]
+  },
+  {
+    "id": "alone_just_exclusively",
+    "order": 4,
+    "nameEn": "Alone, just, exclusively — restrictive focus and unusual word order",
+    "namePl": "Alone, just, exclusively — ograniczanie zakresu i nietypowa pozycja alone",
+    "rules": [
+      { "label": "Budowa alone", "text": "W znaczeniu 'sam/tylko' (a nie 'samotny'), 'alone' stoi PO rzeczowniku lub zaimku, którego dotyczy — jedyny z przysłówków ogniskujących w tej grupie o takiej pozycji: Money alone won't make you happy. (= Only money...)" },
+      { "label": "Just jako synonim only", "text": "'Just' przed elementem, którego dotyczy, ma znaczenie bardzo bliskie 'only', ale jest bardziej potoczne: It's just a scratch, nothing serious." },
+      { "label": "Exclusively", "text": "Formalny, pisany odpowiednik 'only' podkreślający wyłączność, częsty w kontekście biznesowym i prawnym: This offer is available exclusively to premium members." },
+      { "label": "Alone vs lonely", "text": "'Alone' w tym ograniczającym znaczeniu nie ma nic wspólnego ze znaczeniem 'samotny' — kontekst i pozycja po rzeczowniku jednoznacznie wskazują na znaczenie 'tylko'." }
+    ],
+    "usage": [
+      "Podkreślanie, że jeden czynnik nie wystarcza: Talent alone doesn't guarantee success.",
+      "Potoczne minimalizowanie znaczenia czegoś: I was just joking, don't take it seriously.",
+      "Formalne, prawne lub biznesowe ograniczenie zakresu: Access is granted exclusively to authorised personnel.",
+      "Kontrast pozycji przy tym samym znaczeniu: Money alone (po rzeczowniku) = Only money (przed rzeczownikiem)."
+    ],
+    "tags": ["Money alone", "just a scratch", "exclusively to members", "Talent alone doesn't"],
+    "examples": [
+      { "en": "Good intentions alone won't solve the problem.", "pl": "Same dobre intencje nie rozwiążą problemu." },
+      { "en": "It was just a small misunderstanding, nothing to worry about.", "pl": "To było tylko małe nieporozumienie, nie ma się czym martwić." },
+      { "en": "The new gym is available exclusively to hotel guests.", "pl": "Nowa siłownia jest dostępna wyłącznie dla gości hotelowych." },
+      { "en": "Experience alone doesn't make someone a good teacher.", "pl": "Samo doświadczenie nie czyni kogoś dobrym nauczycielem." }
+    ]
+  }
+]

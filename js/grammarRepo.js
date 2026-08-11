@@ -79,6 +79,7 @@ const THEORY_URLS = {
   ergative_verbs: new URL("../data/ergative_verbs.json", import.meta.url),
   apposition: new URL("../data/apposition.json", import.meta.url),
   fronting: new URL("../data/fronting.json", import.meta.url),
+  focusing_adverbs: new URL("../data/focusing_adverbs.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -153,6 +154,7 @@ const DRILLS_URLS = {
   ergative_verbs: new URL("../data/ergative_verbsDrills.json", import.meta.url),
   apposition: new URL("../data/appositionDrills.json", import.meta.url),
   fronting: new URL("../data/frontingDrills.json", import.meta.url),
+  focusing_adverbs: new URL("../data/focusing_adverbsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
