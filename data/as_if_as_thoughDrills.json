@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "unreal_present",
+    "prompt": "He talks as if he ___ everything about the topic.",
+    "answer": "knew",
+    "distractors": ["knows", "had known", "would know"]
+  },
+  {
+    "id": 2,
+    "itemId": "unreal_present",
+    "prompt": "She acts as though she ___ the boss.",
+    "answer": "were",
+    "distractors": ["is", "was", "had been"]
+  },
+  {
+    "id": 3,
+    "itemId": "unreal_present",
+    "prompt": "They look at me as if I ___ crazy.",
+    "answer": "were",
+    "distractors": ["am", "was", "have been"]
+  },
+  {
+    "id": 4,
+    "itemId": "unreal_present",
+    "prompt": "He drives as if he ___ the road.",
+    "answer": "owned",
+    "distractors": ["owns", "had owned", "would own"]
+  },
+  {
+    "id": 5,
+    "itemId": "unreal_present",
+    "prompt": "She treats this flat as though it ___ to her.",
+    "answer": "belonged",
+    "distractors": ["belongs", "had belonged", "would belong"]
+  },
+  {
+    "id": 6,
+    "itemId": "unreal_present",
+    "prompt": "He speaks French as if it ___ his native language.",
+    "answer": "were",
+    "distractors": ["is", "was", "had been"]
+  },
+  {
+    "id": 7,
+    "itemId": "unreal_present",
+    "prompt": "My colleague behaves as though he ___ about deadlines.",
+    "answer": "didn't care",
+    "distractors": ["doesn't care", "hadn't cared", "wouldn't care"]
+  },
+  {
+    "id": 8,
+    "itemId": "unreal_present",
+    "prompt": "The dog looked at the stranger as if it ___ him.",
+    "answer": "knew",
+    "distractors": ["knows", "had known", "would know"]
+  },
+  {
+    "id": 9,
+    "itemId": "unreal_present",
+    "prompt": "She smiled as if nothing ___ wrong.",
+    "answer": "were",
+    "distractors": ["is", "was", "had been"]
+  },
+  {
+    "id": 10,
+    "itemId": "unreal_present",
+    "prompt": "He gives orders as though he ___ in charge of the whole company.",
+    "answer": "were",
+    "distractors": ["is", "was", "had been"]
+  },
+  {
+    "id": 11,
+    "itemId": "unreal_past",
+    "prompt": "She looked as if she ___ a ghost.",
+    "answer": "had seen",
+    "distractors": ["saw", "has seen", "would see"]
+  },
+  {
+    "id": 12,
+    "itemId": "unreal_past",
+    "prompt": "He spoke as though he ___ there for years.",
+    "answer": "had lived",
+    "distractors": ["lived", "has lived", "would live"]
+  },
+  {
+    "id": 13,
+    "itemId": "unreal_past",
+    "prompt": "I felt as if I ___ for days.",
+    "answer": "hadn't slept",
+    "distractors": ["didn't sleep", "haven't slept", "wouldn't sleep"]
+  },
+  {
+    "id": 14,
+    "itemId": "unreal_past",
+    "prompt": "The room looked as if a storm ___ through it.",
+    "answer": "had passed",
+    "distractors": ["passed", "has passed", "would pass"]
+  },
+  {
+    "id": 15,
+    "itemId": "unreal_past",
+    "prompt": "She acted as though nothing ___.",
+    "answer": "had happened",
+    "distractors": ["happened", "has happened", "would happen"]
+  },
+  {
+    "id": 16,
+    "itemId": "unreal_past",
+    "prompt": "He greeted us as if he ___ us before.",
+    "answer": "had never met",
+    "distractors": ["never met", "has never met", "would never meet"]
+  },
+  {
+    "id": 17,
+    "itemId": "unreal_past",
+    "prompt": "My hands were shaking as though I ___ a marathon.",
+    "answer": "had run",
+    "distractors": ["ran", "has run", "would run"]
+  },
+  {
+    "id": 18,
+    "itemId": "unreal_past",
+    "prompt": "She spoke about the accident as if she ___ it herself.",
+    "answer": "had witnessed",
+    "distractors": ["witnessed", "has witnessed", "would witness"]
+  },
+  {
+    "id": 19,
+    "itemId": "unreal_past",
+    "prompt": "He looked at the bill as though he ___ it.",
+    "answer": "hadn't expected",
+    "distractors": ["didn't expect", "hasn't expected", "wouldn't expect"]
+  },
+  {
+    "id": 20,
+    "itemId": "unreal_past",
+    "prompt": "They welcomed us as if we ___ old friends.",
+    "answer": "had been",
+    "distractors": ["were", "have been", "would be"]
+  },
+  {
+    "id": 21,
+    "itemId": "real_possibility",
+    "prompt": "It looks as if it ___ to rain.",
+    "answer": "is going",
+    "distractors": ["was going", "will go", "would go"]
+  },
+  {
+    "id": 22,
+    "itemId": "real_possibility",
+    "prompt": "It sounds as though you ___ a cold.",
+    "answer": "are getting",
+    "distractors": ["got", "were getting", "would get"]
+  },
+  {
+    "id": 23,
+    "itemId": "real_possibility",
+    "prompt": "She looks as if she ___ in a hurry.",
+    "answer": "is",
+    "distractors": ["was", "were", "has been"]
+  },
+  {
+    "id": 24,
+    "itemId": "real_possibility",
+    "prompt": "It seems as though the meeting ___ late.",
+    "answer": "is running",
+    "distractors": ["ran", "was running", "would run"]
+  },
+  {
+    "id": 25,
+    "itemId": "real_possibility",
+    "prompt": "He sounds as if he ___ the answer already.",
+    "answer": "knows",
+    "distractors": ["knew", "has known", "would know"]
+  },
+  {
+    "id": 26,
+    "itemId": "real_possibility",
+    "prompt": "It looks as though they ___ today.",
+    "answer": "aren't coming",
+    "distractors": ["didn't come", "weren't coming", "wouldn't come"]
+  },
+  {
+    "id": 27,
+    "itemId": "real_possibility",
+    "prompt": "She looks as if she ___ the problem now.",
+    "answer": "understands",
+    "distractors": ["understood", "was understanding", "would understand"]
+  },
+  {
+    "id": 28,
+    "itemId": "real_possibility",
+    "prompt": "It seems as though prices ___ again.",
+    "answer": "are rising",
+    "distractors": ["rose", "were rising", "would rise"]
+  },
+  {
+    "id": 29,
+    "itemId": "real_possibility",
+    "prompt": "He looks as if he ___ some help.",
+    "answer": "needs",
+    "distractors": ["needed", "was needing", "would need"]
+  },
+  {
+    "id": 30,
+    "itemId": "real_possibility",
+    "prompt": "It sounds as though the negotiations ___ well.",
+    "answer": "are going",
+    "distractors": ["went", "were going", "would go"]
+  },
+  {
+    "id": 31,
+    "itemId": "as_if_vs_like",
+    "prompt": "(nieformalnie, w rozmowie) She acts ___ she owns the place.",
+    "answer": "like",
+    "distractors": ["as if", "as though", "so"]
+  },
+  {
+    "id": 32,
+    "itemId": "as_if_vs_like",
+    "prompt": "(nieformalnie) He talks ___ he knows everything about cars.",
+    "answer": "like",
+    "distractors": ["as if", "as though", "such"]
+  },
+  {
+    "id": 33,
+    "itemId": "as_if_vs_like",
+    "prompt": "(nieformalnie) Don't look at me ___ you don't understand what I mean.",
+    "answer": "like",
+    "distractors": ["as if", "as though", "so"]
+  },
+  {
+    "id": 34,
+    "itemId": "as_if_vs_like",
+    "prompt": "(nieformalnie) It looks ___ it's about to snow.",
+    "answer": "like",
+    "distractors": ["as if", "as though", "so"]
+  },
+  {
+    "id": 35,
+    "itemId": "as_if_vs_like",
+    "prompt": "(nieformalnie) He drives ___ he owns the whole road.",
+    "answer": "like",
+    "distractors": ["as if", "as though", "such"]
+  },
+  {
+    "id": 36,
+    "itemId": "as_if_vs_like",
+    "prompt": "(formalny styl pisemny) The committee behaved ___ no complaints had been received.",
+    "answer": "as if",
+    "distractors": ["like", "so", "such"]
+  },
+  {
+    "id": 37,
+    "itemId": "as_if_vs_like",
+    "prompt": "(formalny raport) The data suggest ___ the results were affected by an error.",
+    "answer": "as though",
+    "distractors": ["like", "so", "such"]
+  },
+  {
+    "id": 38,
+    "itemId": "as_if_vs_like",
+    "prompt": "(formalne wystąpienie) He spoke ___ he had rehearsed every word.",
+    "answer": "as though",
+    "distractors": ["like", "so", "such"]
+  },
+  {
+    "id": 39,
+    "itemId": "as_if_vs_like",
+    "prompt": "(formalny styl pisemny) She responded ___ the accusations were entirely unfounded.",
+    "answer": "as if",
+    "distractors": ["like", "so", "such"]
+  },
+  {
+    "id": 40,
+    "itemId": "as_if_vs_like",
+    "prompt": "(formalny raport) The building looked ___ it had been abandoned for years.",
+    "answer": "as if",
+    "distractors": ["like", "so", "such"]
+  }
+]

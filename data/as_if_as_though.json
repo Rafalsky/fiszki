@@ -1,0 +1,86 @@
+[
+  {
+    "id": "unreal_present",
+    "order": 1,
+    "nameEn": "as if / as though + Past Simple — unreal present comparisons",
+    "namePl": "as if / as though + Past Simple — nierealne porównania w teraźniejszości",
+    "rules": [
+      { "label": "Budowa", "text": "as if / as though + podmiot + Past Simple (He talks as if he knew everything.)" },
+      { "label": "were zamiast was", "text": "W formalnym stylu po as if/as though używamy were dla wszystkich osób (She acts as though she were the boss.), choć was jest akceptowane potocznie" }
+    ],
+    "usage": [
+      "Porównanie do sytuacji, która nie jest prawdziwa w teraźniejszości — mówiący sugeruje, że coś jest inaczej, niż wygląda",
+      "Odpowiednik polskiego 'tak, jakby...' przy czymś nierealnym"
+    ],
+    "tags": ["as if he knew", "as though she were", "acts as if"],
+    "examples": [
+      { "en": "He talks as if he knew everything about the topic.", "pl": "Mówi tak, jakby wiedział wszystko na ten temat (a nie wie)." },
+      { "en": "She acts as though she were the boss.", "pl": "Zachowuje się, jakby była szefową (a nie jest)." },
+      { "en": "They look at me as if I were crazy.", "pl": "Patrzą na mnie, jakbym był szalony." },
+      { "en": "He drives as if he owned the road.", "pl": "Jeździ, jakby był właścicielem drogi." }
+    ]
+  },
+  {
+    "id": "unreal_past",
+    "order": 2,
+    "nameEn": "as if / as though + Past Perfect — unreal past comparisons",
+    "namePl": "as if / as though + Past Perfect — nierealne porównania w przeszłości",
+    "rules": [
+      { "label": "Budowa", "text": "as if / as though + podmiot + Past Perfect (She looked as if she had seen a ghost.)" },
+      { "label": "Znaczenie", "text": "Odnosi się do zdarzenia wcześniejszego niż moment, o którym mowa, sugerując, że nie było ono prawdziwe" }
+    ],
+    "usage": [
+      "Porównanie do wydarzenia z przeszłości, które nie miało miejsca — czynność wcześniejsza niż czas głównego czasownika",
+      "Odpowiednik polskiego 'jakby wcześniej...' / 'tak, jakby...' odniesionego do przeszłości"
+    ],
+    "tags": ["as if he had seen", "as though she had known", "looked as if"],
+    "examples": [
+      { "en": "She looked as if she had seen a ghost.", "pl": "Wyglądała, jakby zobaczyła ducha." },
+      { "en": "He spoke as though he had lived there for years.", "pl": "Mówił, jakby mieszkał tam od lat." },
+      { "en": "I felt as if I hadn't slept for days.", "pl": "Czułem się, jakbym nie spał od kilku dni." },
+      { "en": "The room looked as if a storm had passed through it.", "pl": "Pokój wyglądał, jakby przeszła przez niego burza." }
+    ]
+  },
+  {
+    "id": "real_possibility",
+    "order": 3,
+    "nameEn": "as if / as though + Present — real or likely situations",
+    "namePl": "as if / as though + czas teraźniejszy — sytuacje prawdopodobne lub prawdziwe",
+    "rules": [
+      { "label": "Budowa", "text": "as if / as though + podmiot + Present Simple/Continuous, gdy mówiący uważa, że coś jest prawdą lub bardzo prawdopodobne" },
+      { "label": "Kontrast", "text": "W przeciwieństwie do użycia z Past Simple/Past Perfect (nierealność), forma teraźniejsza opisuje obserwację uznawaną przez mówiącego za realną" }
+    ],
+    "usage": [
+      "Opis wrażenia lub obserwacji, którą mówiący uważa za prawdopodobnie prawdziwą, zwłaszcza po look, sound, seem",
+      "Odpowiednik polskiego 'wygląda na to, że...' / 'brzmi, jakby...'"
+    ],
+    "tags": ["looks as if", "sounds as though", "seems as if"],
+    "examples": [
+      { "en": "It looks as if it's going to rain.", "pl": "Wygląda na to, że będzie padać." },
+      { "en": "It sounds as though you're getting a cold.", "pl": "Brzmi, jakbyś się przeziębiał." },
+      { "en": "She looks as if she's in a hurry.", "pl": "Wygląda na to, że się spieszy." },
+      { "en": "It seems as though the meeting is running late.", "pl": "Wygląda na to, że spotkanie się przeciąga." }
+    ]
+  },
+  {
+    "id": "as_if_vs_like",
+    "order": 4,
+    "nameEn": "as if / as though vs. like — formal and informal comparisons",
+    "namePl": "as if / as though a like — formalne i nieformalne porównania",
+    "rules": [
+      { "label": "Budowa", "text": "like + podmiot + czasownik jest częstym, potocznym (zwłaszcza amerykańskim) odpowiednikiem as if/as though (She acts like she owns the place.)" },
+      { "label": "Rejestr", "text": "as if i as though są neutralne i akceptowane w piśmie formalnym; like w tej funkcji jest potoczne i unikane w formalnym stylu pisemnym" }
+    ],
+    "usage": [
+      "Rozpoznawanie i stosowanie like jako nieformalnego zamiennika as if/as though w mowie potocznej",
+      "Wybór odpowiedniego rejestru: as if/as though w piśmie formalnym i oficjalnych wypowiedziach, like w swobodnej rozmowie"
+    ],
+    "tags": ["acts like", "looks like he", "talks like she"],
+    "examples": [
+      { "en": "She acts like she owns the place.", "pl": "Zachowuje się, jakby była właścicielką tego miejsca." },
+      { "en": "He talks like he knows everything about cars.", "pl": "Mówi, jakby wiedział wszystko o samochodach." },
+      { "en": "The committee behaved as if no complaints had been received.", "pl": "Komisja zachowywała się, jakby nie otrzymała żadnych skarg." },
+      { "en": "The building looked as if it had been abandoned for years.", "pl": "Budynek wyglądał, jakby był opuszczony od lat." }
+    ]
+  }
+]
