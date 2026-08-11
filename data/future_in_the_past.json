@@ -1,0 +1,104 @@
+[
+  {
+    "id": "was_going_to",
+    "order": 1,
+    "nameEn": "was/were going to",
+    "namePl": "was/were going to",
+    "rules": [
+      { "label": "Budowa", "text": "was/were + going to + bezokolicznik — forma 'be going to' przesunięta w czas przeszły: I was going to call you." },
+      { "label": "Plan z perspektywy przeszłości", "text": "opisuje zamiar lub plan, który ktoś miał w pewnym momencie w przeszłości, patrząc naprzód z tamtego punktu w czasie — nie z teraźniejszości" },
+      { "label": "Plan niezrealizowany", "text": "bardzo często sugeruje, że plan NIE doszedł do skutku — coś mu przeszkodziło: I was going to fix the roof, but it started raining." },
+      { "label": "Kontrast z 'would'", "text": "'was going to' podkreśla wcześniejszy ZAMIAR lub przygotowanie (decyzja podjęta zanim coś się wydarzyło), podczas gdy samo 'would' w narracji częściej opisuje coś, co miało się po prostu wydarzyć, niekoniecznie jako świadomy plan" }
+    ],
+    "usage": [
+      "Zamiar podjęty przed jakimś momentem w przeszłości: She was going to study medicine, but she changed her mind.",
+      "Plan przerwany lub udaremniony przez inne wydarzenie: We were going to have a picnic, but it poured with rain.",
+      "Uprzejme przypomnienie o czymś, co ktoś zamierzał zrobić: I was going to ask you the same thing.",
+      "Przewidywanie na podstawie widocznych oznak, patrząc z przeszłości: The sky was dark grey — it was obviously going to storm."
+    ],
+    "tags": ["was going to", "were going to", "unfulfilled plan", "intention in the past"],
+    "examples": [
+      { "en": "I was going to email you, but I completely forgot.", "pl": "Miałem do ciebie napisać maila, ale zupełnie zapomniałem." },
+      { "en": "They were going to sell the house, but the market crashed.", "pl": "Mieli sprzedać dom, ale rynek się załamał." },
+      { "en": "He was going to apologise, but she hung up before he could.", "pl": "Zamierzał przeprosić, ale ona rozłączyła się, zanim zdążył." },
+      { "en": "We were going to take the early train, so we set the alarm for five.", "pl": "Mieliśmy jechać wczesnym pociągiem, więc nastawiliśmy budzik na piątą." }
+    ]
+  },
+  {
+    "id": "would_narrative",
+    "order": 2,
+    "nameEn": "would (narrative future-in-the-past)",
+    "namePl": "would w narracji (przyszłość widziana z przeszłości)",
+    "rules": [
+      { "label": "Budowa", "text": "would + bezokolicznik — dokładnie ta sama forma co warunkowy 'would', ale bez znaczenia warunkowego" },
+      { "label": "Funkcja narracyjna", "text": "w opowiadaniu historii (zwłaszcza w trzeciej osobie) 'would' opisuje coś, co z punktu widzenia narratora WYDARZY SIĘ PÓŹNIEJ względem czasu akcji, choć jest to nadal przeszłość względem chwili mówienia" },
+      { "label": "Brak konotacji zamiaru", "text": "w przeciwieństwie do 'was going to', samo 'would' nie sugeruje wcześniejszego planu ani że coś zostało udaremnione — po prostu relacjonuje fakt, który miał nastąpić: Little did she know that this decision would change her life." },
+      { "label": "Typowe sygnały", "text": "często pojawia się po wyrażeniach w stylu 'little did X know', 'years later', 'it wasn't until... that' — charakterystyczne dla stylu literackiego i dziennikarskiego" }
+    ],
+    "usage": [
+      "Zapowiedź w narracji tego, co stanie się później w historii: He left the village that morning, never suspecting he would never return.",
+      "Podkreślenie ironii losu lub dramatycznego zwrotu akcji: The young clerk would one day become the company's CEO.",
+      "Relacja historyczna o wydarzeniach, które miały dopiero nastąpić: In 1990 nobody imagined that the wall would fall within months.",
+      "Styl formalny/biograficzny opisujący dalsze losy postaci: She would go on to win three Olympic medals."
+    ],
+    "tags": ["would (narrative)", "future in the past", "little did he know", "would go on to"],
+    "examples": [
+      { "en": "Little did he know that the phone call would change everything.", "pl": "Nie miał pojęcia, że ten telefon wszystko zmieni." },
+      { "en": "The boy who delivered newspapers on that street would later become a famous author.", "pl": "Chłopiec, który roznosił gazety na tej ulicy, miał później zostać znanym pisarzem." },
+      { "en": "She didn't know it yet, but she would meet her future husband that very evening.", "pl": "Jeszcze o tym nie wiedziała, ale tego właśnie wieczoru miała poznać swojego przyszłego męża." },
+      { "en": "The company would go on to dominate the market for the next decade.", "pl": "Firma miała później zdominować rynek na kolejną dekadę." }
+    ]
+  },
+  {
+    "id": "was_to",
+    "order": 3,
+    "nameEn": "was/were to + infinitive",
+    "namePl": "was/were to + bezokolicznik",
+    "rules": [
+      { "label": "Budowa", "text": "was/were + to + bezokolicznik — formalny odpowiednik 'was going to' / narracyjnego 'would'" },
+      { "label": "Formalne ustalenia i harmonogramy", "text": "opisuje coś, co było oficjalnie zaplanowane, ustalone lub uzgodnione z góry — typowe dla stylu formalnego, prasowego, urzędowego: The minister was to arrive at noon." },
+      { "label": "Los / nieuniknione wydarzenie (styl literacki)", "text": "w narracji literackiej sygnalizuje wydarzenie, które miało nastąpić jako część losu bohatera, niezależnie od jego woli: He was to spend the next ten years in exile." },
+      { "label": "Forma przecząca 'was never to'", "text": "was/were never to + bezokolicznik podkreśla, że coś, co było oczekiwane, ostatecznie się nie wydarzyło: She was never to see her homeland again." },
+      { "label": "Forma dokonana 'was to have done'", "text": "was/were to have + imiesłów bierny opisuje plan, który definitywnie nie doszedł do skutku: The bridge was to have been finished by June (ale nie została ukończona)." }
+    ],
+    "usage": [
+      "Oficjalny harmonogram lub protokół relacjonowany w stylu formalnym: The ceremony was to take place at the royal palace.",
+      "Losowe, nieuniknione wydarzenie w narracji biograficznej: The young officer was to die just weeks before the war ended.",
+      "Podkreślenie, że oczekiwane wydarzenie nigdy nie nastąpiło: They were never to speak to each other again.",
+      "Plan, który definitywnie się nie powiódł (forma dokonana): The new terminal was to have opened in spring, but construction stalled."
+    ],
+    "tags": ["was to", "were to", "was never to", "was to have done", "formal arrangement"],
+    "examples": [
+      { "en": "The president was to visit three countries during his tour.", "pl": "Prezydent miał odwiedzić trzy kraje podczas swojej podróży." },
+      { "en": "He was to become one of the most influential scientists of his generation.", "pl": "Miał zostać jednym z najbardziej wpływowych naukowców swojego pokolenia." },
+      { "en": "She was never to return to the town where she was born.", "pl": "Nigdy więcej nie miała wrócić do miasta, w którym się urodziła." },
+      { "en": "The talks were to have concluded on Friday, but they dragged on for another week.", "pl": "Rozmowy miały się zakończyć w piątek, ale przeciągnęły się o kolejny tydzień." }
+    ]
+  },
+  {
+    "id": "comparison_reported",
+    "order": 4,
+    "nameEn": "Comparing forms and the link to reported speech",
+    "namePl": "Porównanie form i związek z mową zależną",
+    "rules": [
+      { "label": "will → would", "text": "gdy przenosimy wypowiedź z 'will' do mowy zależnej, 'will' zwykle zamienia się na 'would' — to ta sama mechanika przesunięcia, co przy opisywaniu przyszłości widzianej z przeszłości: He said, 'I will call you.' → He said he would call me." },
+      { "label": "is/are going to → was/were going to", "text": "analogicznie 'is/are going to' w mowie zależnej i w narracji przesuwa się na 'was/were going to': She said, 'I'm going to resign.' → She said she was going to resign." },
+      { "label": "Wybór formy: intencja vs. bieg wydarzeń", "text": "'was/were going to' akcentuje wcześniejszą decyzję/zamiar (często niezrealizowany), narracyjne 'would' po prostu zapowiada dalszy bieg wydarzeń, a 'was/were to' brzmi formalnie i sugeruje ustalenie z góry lub przeznaczenie" },
+      { "label": "Wspólna cecha gramatyczna", "text": "wszystkie trzy struktury opisują przyszłość względem pewnego punktu w PRZESZŁOŚCI (nie względem teraźniejszości) — dlatego zbiorczo nazywa się je 'future in the past'" }
+    ],
+    "usage": [
+      "Rozpoznanie, że zdanie mówi o przyszłości z perspektywy przeszłego momentu, a nie z perspektywy 'teraz'",
+      "Wybór 'was going to' dla planu, który się nie powiódł: I was going to text you, but my phone died.",
+      "Wybór narracyjnego 'would' dla suchej zapowiedzi biegu wydarzeń: Nobody guessed that the quiet student would win the prize.",
+      "Wybór formalnego 'was to' dla oficjalnych ustaleń lub stylu literackiego: The talks were to resume the following Monday.",
+      "Zamiana 'will'/'going to' na 'would'/'was going to' przy relacjonowaniu czyichś słów: 'I'll help,' he said. → He said he would help."
+    ],
+    "tags": ["will vs would", "going to vs was going to", "reported speech backshift", "future in the past summary"],
+    "examples": [
+      { "en": "He promised he would finish the report by Friday.", "pl": "Obiecał, że skończy raport do piątku." },
+      { "en": "I was going to buy tickets online, but the website kept crashing.", "pl": "Miałem kupić bilety online, ale strona ciągle się zawieszała." },
+      { "en": "Nobody in the room realised they were watching a future world champion.", "pl": "Nikt w tym pokoju nie zdawał sobie sprawy, że patrzy na przyszłego mistrza świata." },
+      { "en": "The negotiations were to determine the country's future for decades.", "pl": "Negocjacje miały zdecydować o przyszłości kraju na dziesięciolecia." }
+    ]
+  }
+]
