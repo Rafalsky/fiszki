@@ -70,6 +70,7 @@ const THEORY_URLS = {
   numbers_dates: new URL("../data/numbers_dates.json", import.meta.url),
   noun_clauses: new URL("../data/noun_clauses.json", import.meta.url),
   litotes: new URL("../data/litotes.json", import.meta.url),
+  as_if_as_though: new URL("../data/as_if_as_though.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -135,6 +136,7 @@ const DRILLS_URLS = {
   numbers_dates: new URL("../data/numbers_datesDrills.json", import.meta.url),
   noun_clauses: new URL("../data/noun_clausesDrills.json", import.meta.url),
   litotes: new URL("../data/litotesDrills.json", import.meta.url),
+  as_if_as_though: new URL("../data/as_if_as_thoughDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

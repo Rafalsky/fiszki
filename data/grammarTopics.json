@@ -432,5 +432,12 @@
     "title": "Litota (niedopowiedzenie)",
     "desc": "Litota — niedopowiedzenie przez podwójne przeczenie (not un-/not without/no small) do wyrażania ostrożnych, stonowanych twierdzeń — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "as_if_as_though",
+    "icon": "🎭",
+    "title": "As if / as though",
+    "desc": "as if i as though do wyrażania nierealnych porównań i pozorów, kontrast z like — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
