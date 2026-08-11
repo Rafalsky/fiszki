@@ -481,5 +481,12 @@
     "title": "Czasowniki ergatywne",
     "desc": "Czasowniki ergatywne i strona środkowa (middle voice): break, open, sell, drive — ta sama forma w użyciu przechodnim i nieprzechodnim, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "apposition",
+    "icon": "🔖",
+    "title": "Apozycja",
+    "desc": "Apozycja (rzeczownik w apozycji): dwie frazy rzeczownikowe odnoszące się do tego samego bytu — apozycja nierestrykcyjna i restrykcyjna, apozycja z „of”, szyk odwrócony i apozycja po zaimku, budowa, interpunkcja, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 36
   }
 ]
