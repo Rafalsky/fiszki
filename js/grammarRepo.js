@@ -75,6 +75,7 @@ const THEORY_URLS = {
   reporting_verb_patterns: new URL("../data/reporting_verb_patterns.json", import.meta.url),
   absolute_clauses: new URL("../data/absolute_clauses.json", import.meta.url),
   modal_passive: new URL("../data/modal_passive.json", import.meta.url),
+  complex_prepositions: new URL("../data/complex_prepositions.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -145,6 +146,7 @@ const DRILLS_URLS = {
   reporting_verb_patterns: new URL("../data/reporting_verb_patternsDrills.json", import.meta.url),
   absolute_clauses: new URL("../data/absolute_clausesDrills.json", import.meta.url),
   modal_passive: new URL("../data/modal_passiveDrills.json", import.meta.url),
+  complex_prepositions: new URL("../data/complex_prepositionsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

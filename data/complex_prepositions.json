@@ -1,0 +1,121 @@
+[
+  {
+    "id": "reason_cause",
+    "order": 1,
+    "nameEn": "Complex prepositions of reason",
+    "namePl": "Złożone przyimki przyczyny",
+    "rules": [
+      { "label": "due to / owing to / because of", "text": "Wszystkie trzy wprowadzają przyczynę i łączą się z rzeczownikiem lub gerundem (nie ze zdaniem) — w praktyce są wymienne przed frazą rzeczownikową, choć w stylu formalnym 'due to' bywa traktowane jako bardziej rzeczownikowe (be due to)" },
+      { "label": "as a result of / on account of", "text": "'as a result of' podkreśla skutek/następstwo, 'on account of' jest formalnym synonimem 'because of', częstym w pisanym, oficjalnym stylu" },
+      { "label": "thanks to", "text": "'thanks to' zwykle wprowadza przyczynę pozytywną (zasługę), rzadziej neutralną lub ironicznie negatywną" }
+    ],
+    "usage": [
+      "due to / owing to / because of + rzeczownik/gerund — z powodu czegoś",
+      "as a result of — w wyniku czegoś",
+      "on account of — z powodu czegoś (formalnie)",
+      "thanks to — dzięki czemuś (zwykle pozytywnie)"
+    ],
+    "tags": ["due to", "owing to", "because of", "on account of", "thanks to"],
+    "examples": [
+      { "en": "The flight was delayed due to bad weather.", "pl": "Lot był opóźniony z powodu złej pogody." },
+      { "en": "Owing to a shortage of staff, the office will close early today.", "pl": "Z powodu braków kadrowych biuro zamknie się dziś wcześniej." },
+      { "en": "As a result of the new policy, sales have increased.", "pl": "W wyniku nowej polityki sprzedaż wzrosła." },
+      { "en": "Thanks to her hard work, the project was a success.", "pl": "Dzięki jej ciężkiej pracy projekt zakończył się sukcesem." }
+    ]
+  },
+  {
+    "id": "purpose_means",
+    "order": 2,
+    "nameEn": "Complex prepositions of purpose and means",
+    "namePl": "Złożone przyimki celu i sposobu",
+    "rules": [
+      { "label": "by means of / by way of", "text": "'by means of' wprowadza narzędzie lub metodę, za pomocą której coś się dzieje; 'by way of' oznacza sposób lub 'jako' (np. by way of an example — jako przykład)" },
+      { "label": "for the purpose of / with a view to", "text": "'for the purpose of' + rzeczownik/gerund wskazuje cel formalny; 'with a view to' + gerund (nie bezokolicznik!) wyraża zamiar na przyszłość — częsty błąd to użycie 'to + infinitive' po with a view to" },
+      { "label": "for the sake of", "text": "'for the sake of' oznacza 'ze względu na, dla dobra' kogoś/czegoś, często w kontekście poświęcenia" }
+    ],
+    "usage": [
+      "by means of — za pomocą, dzięki (narzędziu/metodzie)",
+      "for the purpose of + gerund — w celu zrobienia czegoś",
+      "with a view to + gerund — z zamiarem zrobienia czegoś",
+      "for the sake of — ze względu na, dla dobra"
+    ],
+    "tags": ["by means of", "for the purpose of", "with a view to", "for the sake of"],
+    "examples": [
+      { "en": "The message was sent by means of a secure channel.", "pl": "Wiadomość została wysłana za pomocą bezpiecznego kanału." },
+      { "en": "The meeting was arranged for the purpose of discussing the budget.", "pl": "Spotkanie zorganizowano w celu omówienia budżetu." },
+      { "en": "The company is investing in training with a view to improving productivity.", "pl": "Firma inwestuje w szkolenia z zamiarem poprawy wydajności." },
+      { "en": "He gave up smoking for the sake of his health.", "pl": "Rzucił palenie ze względu na swoje zdrowie." }
+    ]
+  },
+  {
+    "id": "reference_topic",
+    "order": 3,
+    "nameEn": "Complex prepositions of reference and topic",
+    "namePl": "Złożone przyimki odniesienia i tematu",
+    "rules": [
+      { "label": "with regard to / with respect to / in terms of", "text": "Te wyrażenia wprowadzają temat, do którego odnosi się wypowiedź — typowe w stylu formalnym, biznesowym i akademickim, zastępują proste 'about'" },
+      { "label": "as regards / regarding / concerning", "text": "'as regards' oraz imiesłowy używane jak przyimki 'regarding' i 'concerning' też wprowadzają temat — w przeciwieństwie do 'with regard to' nie wymagają po sobie żadnego dodatkowego przyimka" }
+    ],
+    "usage": [
+      "with regard to / with respect to — jeśli chodzi o, w odniesieniu do",
+      "in terms of — pod względem, jeśli chodzi o",
+      "as regards — co się tyczy, jeśli chodzi o",
+      "regarding / concerning — dotyczący, w sprawie"
+    ],
+    "tags": ["with regard to", "in terms of", "as regards", "regarding", "concerning"],
+    "examples": [
+      { "en": "With regard to your recent enquiry, please find attached the details.", "pl": "W odniesieniu do Pana/Pani ostatniego zapytania, w załączniku znajdują się szczegóły." },
+      { "en": "The two cities are similar in terms of population.", "pl": "Oba miasta są podobne pod względem liczby ludności." },
+      { "en": "As regards the budget, no final decision has been made.", "pl": "Jeśli chodzi o budżet, nie podjęto jeszcze ostatecznej decyzji." },
+      { "en": "She has some concerns regarding the new schedule.", "pl": "Ma pewne obawy dotyczące nowego harmonogramu." }
+    ]
+  },
+  {
+    "id": "exception_addition",
+    "order": 4,
+    "nameEn": "Complex prepositions of exception and addition",
+    "namePl": "Złożone przyimki wyjątku i dodania",
+    "rules": [
+      { "label": "apart from / except for", "text": "Oba wprowadzają wyjątek od ogólnej reguły ('poza, oprócz') — 'apart from' może też znaczyć 'w dodatku do' (podobnie jak besides), zależnie od kontekstu" },
+      { "label": "with the exception of", "text": "Bardziej formalny odpowiednik 'except for', typowy dla stylu pisanego" },
+      { "label": "in addition to / as well as / on top of", "text": "Wszystkie trzy wprowadzają dodatkowy element — 'on top of' jest bardziej nieformalne, 'in addition to' najbardziej formalne; po wszystkich trzech stoi rzeczownik lub gerund, nie zdanie" }
+    ],
+    "usage": [
+      "apart from / except for — poza, oprócz (wyjątek)",
+      "with the exception of — z wyjątkiem (formalnie)",
+      "in addition to — oprócz, w dodatku do",
+      "as well as / on top of — jak również, w dodatku do"
+    ],
+    "tags": ["apart from", "except for", "with the exception of", "in addition to", "as well as"],
+    "examples": [
+      { "en": "Apart from a small scratch, the car is in perfect condition.", "pl": "Poza małym zadrapaniem samochód jest w idealnym stanie." },
+      { "en": "All the students passed, with the exception of two.", "pl": "Wszyscy studenci zdali, z wyjątkiem dwóch." },
+      { "en": "In addition to her salary, she gets a generous bonus.", "pl": "Oprócz pensji dostaje hojną premię." },
+      { "en": "On top of losing his job, he had to move house.", "pl": "Oprócz utraty pracy musiał się jeszcze przeprowadzić." }
+    ]
+  },
+  {
+    "id": "representation_contrast",
+    "order": 5,
+    "nameEn": "Complex prepositions of representation and contrast",
+    "namePl": "Złożone przyimki reprezentacji i kontrastu",
+    "rules": [
+      { "label": "on behalf of / in favour of", "text": "'on behalf of' oznacza działanie w czyimś imieniu (jako reprezentant), 'in favour of' oznacza popieranie czegoś/kogoś (przeciwieństwo: against)" },
+      { "label": "as opposed to / in contrast to", "text": "Oba wyrażenia zestawiają dwie rzeczy jako przeciwstawne — 'as opposed to' podkreśla wybór jednej opcji zamiast drugiej, 'in contrast to' opisuje różnicę między nimi" },
+      { "label": "instead of", "text": "'instead of' + rzeczownik/gerund zastępuje jedną rzecz drugą — częsty błąd to użycie bezokolicznika zamiast gerundu po instead of" }
+    ],
+    "usage": [
+      "on behalf of — w czyimś imieniu",
+      "in favour of — za, popierając coś",
+      "as opposed to / in contrast to — w przeciwieństwie do",
+      "instead of + gerund — zamiast robienia czegoś"
+    ],
+    "tags": ["on behalf of", "in favour of", "as opposed to", "in contrast to", "instead of"],
+    "examples": [
+      { "en": "I'm writing on behalf of my manager, who is out of the office today.", "pl": "Piszę w imieniu mojego kierownika, który jest dziś nieobecny w biurze." },
+      { "en": "Most residents voted in favour of the new park.", "pl": "Większość mieszkańców głosowała za nowym parkiem." },
+      { "en": "She prefers working from home, as opposed to commuting every day.", "pl": "Woli pracować z domu, w przeciwieństwie do codziennego dojeżdżania." },
+      { "en": "He went for a walk instead of watching TV.", "pl": "Poszedł na spacer zamiast oglądać telewizję." }
+    ]
+  }
+]
