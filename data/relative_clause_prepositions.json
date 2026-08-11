@@ -1,0 +1,102 @@
+[
+  {
+    "id": "fronted_preposition",
+    "order": 1,
+    "nameEn": "Fronted preposition + whom/which",
+    "namePl": "Przyimek na początku + whom/which",
+    "rules": [
+      { "label": "Budowa", "text": "przyimek + whom (dla osób) / which (dla rzeczy) + reszta zdania: the woman to whom I gave the book, the topic about which we spoke." },
+      { "label": "Nigdy 'that' po przyimku", "text": "przyimka nie stawia się bezpośrednio przed 'that' — poprawnie: the topic about which, niepoprawnie: the topic about that." },
+      { "label": "Rejestr", "text": "bardzo formalny — typowy dla tekstów naukowych, prawniczych, urzędowych i formalnych przemówień; w mowie potocznej brzmi sztywno." },
+      { "label": "Zdania definiujące i niedefiniujące", "text": "wzorzec działa w obu typach zdań względnych: bez przecinka w definiujących (the client for whom we work), z przecinkiem w niedefiniujących (my supervisor, to whom I am very grateful, retired last year)." }
+    ],
+    "usage": [
+      "Formalne pismo akademickie i naukowe: The hypothesis on which the study is based has since been questioned.",
+      "Dokumenty prawne i urzędowe: The party to whom notice is given must respond within 14 days.",
+      "Formalne przemówienia i pisma oficjalne: The committee members, without whom this project would not exist, deserve special thanks.",
+      "Precyzyjne wskazanie relacji, gdy pominięcie przyimka groziłoby niejasnością"
+    ],
+    "tags": ["to whom", "about which", "for whom", "fronted preposition", "formal relative clause"],
+    "examples": [
+      { "en": "She is the colleague with whom I share an office.", "pl": "To koleżanka, z którą dzielę biuro." },
+      { "en": "The issue about which they disagreed was never resolved.", "pl": "Kwestia, o którą się spierali, nigdy nie została rozwiązana." },
+      { "en": "This is the university at which he studied law.", "pl": "To ten uniwersytet, na którym studiował prawo." },
+      { "en": "The board, to whom the report was addressed, rejected the proposal.", "pl": "Zarząd, do którego skierowano raport, odrzucił propozycję." }
+    ]
+  },
+  {
+    "id": "stranded_preposition",
+    "order": 2,
+    "nameEn": "Stranded preposition at the end",
+    "namePl": "Przyimek pozostawiony na końcu zdania",
+    "rules": [
+      { "label": "Budowa", "text": "who/that/which/zero + reszta zdania + przyimek na samym końcu: the woman who I gave the book to, the topic we talked about." },
+      { "label": "Rejestr", "text": "neutralny i nieformalny — zdecydowanie najczęstszy wzorzec w mowie potocznej i piśmie nieformalnym; naturalny nawet w starannej codziennej angielszczyźnie." },
+      { "label": "Zaimek zerowy w zdaniach definiujących", "text": "gdy zaimek pełni funkcję dopełnienia, można go całkowicie pominąć: the topic we talked about (bez that/which) — bardzo częste w mówionym języku." },
+      { "label": "Ta sama treść, inny rejestr", "text": "stranded i fronted to dwa sposoby wyrażenia dokładnie tej samej relacji: the man who I spoke to = the man to whom I spoke — różni je wyłącznie styl, nie znaczenie." }
+    ],
+    "usage": [
+      "Codzienna rozmowa i nieformalna korespondencja: That's the guy I told you about.",
+      "Zdania z zaimkiem zerowym dla płynności wypowiedzi: Here's the form you need to sign before you're taken off the list.",
+      "Kontekst, w którym fronted preposition brzmiałoby przesadnie formalnie: She's the friend I used to live with.",
+      "Zdania z phrasal verbs, gdzie przyimek jest częścią czasownika złożonego i nie da się go z naturalnością przenieść na początek: the plan we came up with (nie: the plan up which we came)"
+    ],
+    "tags": ["preposition stranding", "zero relative pronoun", "informal register", "who...to"],
+    "examples": [
+      { "en": "That's the house I grew up in.", "pl": "To dom, w którym dorastałem." },
+      { "en": "She's the person I was talking about.", "pl": "To ta osoba, o której mówiłem." },
+      { "en": "The job I applied for was already filled.", "pl": "Praca, o którą się ubiegałem, była już obsadzona." },
+      { "en": "This is exactly the outcome we were hoping for.", "pl": "To dokładnie ten wynik, na który liczyliśmy." }
+    ]
+  },
+  {
+    "id": "whom_usage",
+    "order": 3,
+    "nameEn": "whom vs. who as object pronoun",
+    "namePl": "whom a who jako zaimek dopełnieniowy",
+    "rules": [
+      { "label": "whom = forma dopełnieniowa who", "text": "whom odnosi się do osoby pełniącej funkcję dopełnienia (nie podmiotu) zdania względnego — analogicznie do him/her wobec he/she." },
+      { "label": "Obowiązkowe po przyimku na początku", "text": "gdy przyimek stoi bezpośrednio przed zaimkiem, MUSI to być whom, nigdy who: to whom, with whom, for whom — nie: to who." },
+      { "label": "Opcjonalne bez przyimka z przodu", "text": "gdy przyimek jest na końcu zdania (stranded) albo go nie ma, 'whom' jest opcjonalne i coraz rzadsze — współcześnie naturalniejsze i częstsze jest 'who' lub zaimek zerowy: the man who I met / the man I met, rzadziej the man whom I met." },
+      { "label": "whomever w wolnych zdaniach względnych", "text": "ta sama zależność dotyczy whoever/whomever: whomever jest dopełnieniem WEWNĄTRZ zdania względnego, a nie głównego czasownika — Give the prize to whoever deserves it (whoever jest podmiotem 'deserves', więc NIE whomever, mimo że stoi po 'to')." }
+    ],
+    "usage": [
+      "Bardzo formalny styl pisany, gdy dopełnienie zdania względnego odnosi się do osoby: The professor whom I admire most retired last year.",
+      "Obowiązkowo po przyimku fronted: the client with whom we negotiated.",
+      "Unikanie 'whom' w mowie potocznej na rzecz 'who' lub zera: the person (who) I called didn't answer.",
+      "Rozróżnianie whoever/whomever przez analizę funkcji zaimka w zdaniu podrzędnym, nie w zdaniu głównym"
+    ],
+    "tags": ["whom", "who", "whomever", "object pronoun", "formal vs informal"],
+    "examples": [
+      { "en": "The witness whom the lawyer questioned changed her story.", "pl": "Świadek, którego prawnik przesłuchał, zmieniła zeznania." },
+      { "en": "To whom should I address this letter?", "pl": "Do kogo mam zaadresować ten list?" },
+      { "en": "I don't remember the name of the man who I met at the conference.", "pl": "Nie pamiętam nazwiska mężczyzny, którego poznałem na konferencji." },
+      { "en": "The prize will go to whoever submits the best design, regardless of experience.", "pl": "Nagroda trafi do tego, kto zgłosi najlepszy projekt, niezależnie od doświadczenia." }
+    ]
+  },
+  {
+    "id": "fixed_formal_patterns",
+    "order": 4,
+    "nameEn": "Fixed formal patterns with which",
+    "namePl": "Utrwalone formalne wzorce z which",
+    "rules": [
+      { "label": "the way in which / the extent to which", "text": "utrwalone akademickie zwroty łączące rzeczownik abstrakcyjny z przyimkiem + which: the way in which the results were interpreted, the extent to which the policy succeeded." },
+      { "label": "in which case / at which point", "text": "łączniki zdań w stylu formalnym, odpowiadające 'and in that case' / 'and at that moment': The flight may be delayed, in which case we will inform passengers." },
+      { "label": "whereby", "text": "formalny spójnik względny znaczący 'by which/through which', typowy dla definicji systemów i procedur: a scheme whereby employees can buy shares at a discount." },
+      { "label": "the reason for which / the manner in which", "text": "formalne alternatywy dla prostszych 'why' i 'how', częste w piśmie akademickim i prawniczym: the reason for which she resigned was never made public." }
+    ],
+    "usage": [
+      "Pisanie akademickie przy opisie metodologii lub wyników: The extent to which the two variables are correlated remains unclear.",
+      "Dokumenty formalne łączące kolejne zdania bez powtarzania rzeczownika: The contract may be terminated early, in which case a penalty applies.",
+      "Definiowanie systemów, procedur i mechanizmów: They proposed a system whereby waste is automatically sorted for recycling.",
+      "Formalne wyjaśnienia przyczyny lub sposobu: The manner in which the announcement was made caused widespread criticism."
+    ],
+    "tags": ["the way in which", "in which case", "whereby", "the extent to which", "formal linking"],
+    "examples": [
+      { "en": "The committee changed the way in which applications are assessed.", "pl": "Komisja zmieniła sposób, w jaki oceniane są wnioski." },
+      { "en": "The meeting might run late, in which case dinner will be postponed.", "pl": "Spotkanie może się przeciągnąć, w takim wypadku kolacja zostanie przełożona." },
+      { "en": "The city introduced a scheme whereby residents can report faults online.", "pl": "Miasto wprowadziło system, dzięki któremu mieszkańcy mogą zgłaszać usterki online." },
+      { "en": "The extent to which climate change affects migration is still being studied.", "pl": "Stopień, w jakim zmiany klimatu wpływają na migrację, wciąż jest badany." }
+    ]
+  }
+]

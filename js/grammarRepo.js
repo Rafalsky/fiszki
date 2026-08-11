@@ -83,6 +83,7 @@ const THEORY_URLS = {
   get_passive: new URL("../data/get_passive.json", import.meta.url),
   viewpoint_adverbs: new URL("../data/viewpoint_adverbs.json", import.meta.url),
   future_in_the_past: new URL("../data/future_in_the_past.json", import.meta.url),
+  relative_clause_prepositions: new URL("../data/relative_clause_prepositions.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -161,6 +162,7 @@ const DRILLS_URLS = {
   get_passive: new URL("../data/get_passiveDrills.json", import.meta.url),
   viewpoint_adverbs: new URL("../data/viewpoint_adverbsDrills.json", import.meta.url),
   future_in_the_past: new URL("../data/future_in_the_pastDrills.json", import.meta.url),
+  relative_clause_prepositions: new URL("../data/relative_clause_prepositionsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
