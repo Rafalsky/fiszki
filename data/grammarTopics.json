@@ -530,5 +530,12 @@
     "title": "Przyimki w zdaniach względnych",
     "desc": "Formalne umieszczanie przyimka przed whom/which (the woman to whom I spoke) a nieformalne pozostawianie go na końcu (the woman who I spoke to) — kiedy używać której wersji, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "impersonal_pronouns",
+    "icon": "🫥",
+    "title": "Zaimki bezosobowe",
+    "desc": "Bezosobowe odniesienie do ludzi w ogóle: formalne one, potoczne you, they i people — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
