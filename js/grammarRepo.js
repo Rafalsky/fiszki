@@ -76,6 +76,7 @@ const THEORY_URLS = {
   absolute_clauses: new URL("../data/absolute_clauses.json", import.meta.url),
   modal_passive: new URL("../data/modal_passive.json", import.meta.url),
   complex_prepositions: new URL("../data/complex_prepositions.json", import.meta.url),
+  ergative_verbs: new URL("../data/ergative_verbs.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -147,6 +148,7 @@ const DRILLS_URLS = {
   absolute_clauses: new URL("../data/absolute_clausesDrills.json", import.meta.url),
   modal_passive: new URL("../data/modal_passiveDrills.json", import.meta.url),
   complex_prepositions: new URL("../data/complex_prepositionsDrills.json", import.meta.url),
+  ergative_verbs: new URL("../data/ergative_verbsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
