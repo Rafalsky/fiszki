@@ -68,6 +68,7 @@ const THEORY_URLS = {
   degree_adverbs: new URL("../data/degree_adverbs.json", import.meta.url),
   reciprocal_pronouns: new URL("../data/reciprocal_pronouns.json", import.meta.url),
   numbers_dates: new URL("../data/numbers_dates.json", import.meta.url),
+  noun_clauses: new URL("../data/noun_clauses.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -131,6 +132,7 @@ const DRILLS_URLS = {
   degree_adverbs: new URL("../data/degree_adverbsDrills.json", import.meta.url),
   reciprocal_pronouns: new URL("../data/reciprocal_pronounsDrills.json", import.meta.url),
   numbers_dates: new URL("../data/numbers_datesDrills.json", import.meta.url),
+  noun_clauses: new URL("../data/noun_clausesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
