@@ -446,5 +446,12 @@
     "title": "Nominalizacja",
     "desc": "Zamiana czasowników i przymiotników na rzeczowniki (decide→decision, stable→stability) oraz kompresja zdań podrzędnych do fraz rzeczownikowych w stylu formalnym i akademickim — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "reporting_verb_patterns",
+    "icon": "🎙️",
+    "title": "Wzorce czasowników sprawozdających",
+    "desc": "Wzorce składniowe czasowników sprawozdających: deny/admit + gerund, suggest/recommend + that-clause, offer/refuse/promise + bezokolicznik, advise/warn/persuade + dopełnienie + bezokolicznik, accuse/blame + of + gerund — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

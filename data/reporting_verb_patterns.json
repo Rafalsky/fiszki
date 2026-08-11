@@ -1,0 +1,132 @@
+[
+  {
+    "id": "gerund_pattern",
+    "order": 1,
+    "nameEn": "Reporting verb + gerund",
+    "namePl": "Czasownik sprawozdający + gerund (-ing)",
+    "rules": [
+      { "label": "Forma", "text": "reporting verb + (nie) + czasownik-ing: deny doing, admit doing, suggest doing, recommend doing, regret doing, consider doing" },
+      { "label": "Przeczenie w gerundzie", "text": "aby zaprzeczyć czynności, przeczenie stawiamy przed gerundem: deny not doing, admit not doing" },
+      { "label": "Bez podmiotu w luce", "text": "podmiot gerundu jest taki sam jak podmiot czasownika sprawozdającego — nie dodajemy 'that' ani zaimka" }
+    ],
+    "usage": [
+      "deny — zaprzeczyć, że się coś zrobiło: He denied stealing the money.",
+      "admit — przyznać się do czegoś: She admitted lying to her boss.",
+      "suggest / recommend — zaproponować (bez 'to'): The doctor suggested cutting down on sugar.",
+      "regret — żałować czegoś zrobionego: I regret telling him the truth.",
+      "consider — rozważać zrobienie czegoś: We are considering moving abroad.",
+      "risk / avoid / resist / delay / postpone — czasowniki wymagające tylko gerundu po sobie"
+    ],
+    "tags": ["denied doing", "admitted doing", "suggested doing", "considered doing", "regretted doing"],
+    "examples": [
+      { "en": "He denied breaking the window.", "pl": "Zaprzeczył, że rozbił okno." },
+      { "en": "She admitted forgetting about the meeting.", "pl": "Przyznała, że zapomniała o spotkaniu." },
+      { "en": "The manager suggested postponing the launch.", "pl": "Kierownik zaproponował przełożenie premiery." },
+      { "en": "He regretted not applying for the job earlier.", "pl": "Żałował, że nie złożył podania o pracę wcześniej." }
+    ]
+  },
+  {
+    "id": "that_clause_pattern",
+    "order": 2,
+    "nameEn": "Reporting verb + that-clause",
+    "namePl": "Czasownik sprawozdający + zdanie z 'that'",
+    "rules": [
+      { "label": "Forma", "text": "reporting verb + (that) + podmiot + orzeczenie: claim that, admit that, insist that, suggest that, argue that, complain that" },
+      { "label": "Pominięcie 'that'", "text": "'that' można pominąć w stylu nieformalnym: She claimed (that) she had never met him" },
+      { "label": "Tryb łączący", "text": "po suggest/recommend/insist/demand + that stosuje się bezokolicznik bez 'to' (tryb łączący) — insisted that he apologize" }
+    ],
+    "usage": [
+      "claim — twierdzić, utrzymywać: He claims that he saw a UFO.",
+      "admit — przyznawać (że coś jest prawdą): She admitted that she was wrong.",
+      "argue — argumentować, dowodzić: Critics argue that the plan is flawed.",
+      "complain — skarżyć się: The tenants complained that the heating didn't work.",
+      "insist — nalegać / obstawać przy czymś: He insisted that he was innocent.",
+      "point out — zwrócić uwagę na fakt: She pointed out that the deadline had passed."
+    ],
+    "tags": ["claimed that", "admitted that", "argued that", "complained that", "insisted that"],
+    "examples": [
+      { "en": "The witness claimed that she had seen the accident.", "pl": "Świadek twierdziła, że widziała wypadek." },
+      { "en": "Scientists argue that the data is inconclusive.", "pl": "Naukowcy twierdzą, że dane są niejednoznaczne." },
+      { "en": "He pointed out that the report contained errors.", "pl": "Zwrócił uwagę, że raport zawiera błędy." },
+      { "en": "The doctor insisted that the patient rest for a week.", "pl": "Lekarz nalegał, żeby pacjent odpoczywał przez tydzień." }
+    ]
+  },
+  {
+    "id": "infinitive_pattern",
+    "order": 3,
+    "nameEn": "Reporting verb + to-infinitive",
+    "namePl": "Czasownik sprawozdający + bezokolicznik (to)",
+    "rules": [
+      { "label": "Forma", "text": "reporting verb (+ podmiot) + to + czasownik: offer to do, refuse to do, promise to do, agree to do, threaten to do" },
+      { "label": "Bez dopełnienia", "text": "podmiot bezokolicznika = podmiot zdania: He promised to call, She refused to leave" },
+      { "label": "Przeczenie", "text": "'not' stawiamy przed 'to': He promised not to be late" }
+    ],
+    "usage": [
+      "offer — zaproponować, że się coś zrobi: She offered to help with the move.",
+      "refuse — odmówić zrobienia czegoś: He refused to sign the contract.",
+      "promise — obiecać: They promised to finish the project on time.",
+      "agree — zgodzić się: The company agreed to pay compensation.",
+      "threaten — grozić: The workers threatened to go on strike.",
+      "decide / plan / hope / offer — inne czasowniki z tym samym wzorcem"
+    ],
+    "tags": ["offered to", "refused to", "promised to", "agreed to", "threatened to"],
+    "examples": [
+      { "en": "He offered to drive us to the airport.", "pl": "Zaproponował, że zawiezie nas na lotnisko." },
+      { "en": "She refused to comment on the rumours.", "pl": "Odmówiła komentarza w sprawie plotek." },
+      { "en": "The government promised to lower taxes.", "pl": "Rząd obiecał obniżyć podatki." },
+      { "en": "The union threatened to strike unless demands were met.", "pl": "Związek zagroził strajkiem, jeśli żądania nie zostaną spełnione." }
+    ]
+  },
+  {
+    "id": "object_infinitive_pattern",
+    "order": 4,
+    "nameEn": "Reporting verb + object + to-infinitive",
+    "namePl": "Czasownik sprawozdający + dopełnienie + bezokolicznik (to)",
+    "rules": [
+      { "label": "Forma", "text": "reporting verb + kogoś/coś + to + czasownik: advise sb to do, warn sb to do, persuade sb to do, remind sb to do, invite sb to do" },
+      { "label": "Rola dopełnienia", "text": "osoba w dopełnieniu jest podmiotem czynności wyrażonej bezokolicznikiem — advise her to leave = 'ona' ma odejść" },
+      { "label": "Przeczenie", "text": "'not' stawiamy przed bezokolicznikiem: warned him not to go, advised her not to sign" }
+    ],
+    "usage": [
+      "advise — radzić komuś: The lawyer advised him to stay silent.",
+      "warn — ostrzec kogoś: She warned them not to be late.",
+      "persuade / convince — przekonać kogoś: He persuaded her to join the team.",
+      "remind — przypomnieć komuś: I reminded him to lock the door.",
+      "invite — zaprosić kogoś do zrobienia czegoś: They invited us to join the celebration.",
+      "order / tell / ask — czasowniki poleceń z tym samym wzorcem"
+    ],
+    "tags": ["advised sb to", "warned sb not to", "persuaded sb to", "reminded sb to", "invited sb to"],
+    "examples": [
+      { "en": "The teacher advised the students to revise regularly.", "pl": "Nauczyciel poradził uczniom, żeby regularnie powtarzali materiał." },
+      { "en": "The guide warned us not to feed the animals.", "pl": "Przewodnik ostrzegł nas, żeby nie karmić zwierząt." },
+      { "en": "She persuaded her parents to let her travel alone.", "pl": "Przekonała rodziców, żeby pozwolili jej podróżować samej." },
+      { "en": "He reminded his colleagues to submit the report by Friday.", "pl": "Przypomniał kolegom, żeby złożyli raport do piątku." }
+    ]
+  },
+  {
+    "id": "preposition_gerund_pattern",
+    "order": 5,
+    "nameEn": "Reporting verb + preposition + gerund",
+    "namePl": "Czasownik sprawozdający + przyimek + gerund",
+    "rules": [
+      { "label": "Forma", "text": "reporting verb + (kogoś) + stały przyimek + czasownik-ing: accuse sb of doing, blame sb for doing, apologize for doing, insist on doing" },
+      { "label": "Stały przyimek", "text": "przyimek jest częścią wzorca i nie zmienia się — accuse zawsze łączy się z 'of', blame z 'for'" },
+      { "label": "Podmiot gerundu", "text": "gdy jest dopełnienie osobowe (np. accuse sb of), to ono jest podmiotem czynności w gerundzie" }
+    ],
+    "usage": [
+      "accuse sb of — oskarżyć kogoś o coś: They accused him of cheating.",
+      "blame sb for — winić kogoś za coś: She blamed the delay on poor planning.",
+      "apologize for — przepraszać za coś: He apologized for being rude.",
+      "insist on — obstawać przy czymś (wariant z gerundem): She insisted on paying for dinner.",
+      "criticize sb for — krytykować kogoś za coś: Critics criticized the director for changing the ending.",
+      "confess to — przyznać się do czegoś: He confessed to forging the documents."
+    ],
+    "tags": ["accused sb of", "blamed sb for", "apologized for", "insisted on", "confessed to"],
+    "examples": [
+      { "en": "The journalist accused the company of hiding the truth.", "pl": "Dziennikarz oskarżył firmę o ukrywanie prawdy." },
+      { "en": "He apologized for missing the deadline.", "pl": "Przeprosił za spóźnienie z terminem." },
+      { "en": "She insisted on checking the figures herself.", "pl": "Obstawała przy tym, żeby sama sprawdzić liczby." },
+      { "en": "The suspect confessed to stealing the painting.", "pl": "Podejrzany przyznał się do kradzieży obrazu." }
+    ]
+  }
+]
