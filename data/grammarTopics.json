@@ -397,5 +397,12 @@
     "title": "Rzeczowniki złożone",
     "desc": "Rzeczowniki złożone (noun + noun): kiedy dwa rzeczowniki obok siebie, kiedy dopełniacz 's, a kiedy fraza z of — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "degree_adverbs",
+    "icon": "🌡️",
+    "title": "Przysłówki stopnia",
+    "desc": "Very, quite, rather, fairly, absolutely — wzmacnianie i osłabianie przymiotników i przysłówków, przymiotniki stopniowalne i niestopniowalne — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
