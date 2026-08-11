@@ -425,5 +425,12 @@
     "title": "Zdania rzeczownikowe",
     "desc": "Zdania rzeczownikowe (noun clauses): that-clauses i wh-clauses jako podmiot lub dopełnienie, whether/if w zdaniach rzeczownikowych oraz konstrukcje z anticipatory it (extraposition) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "litotes",
+    "icon": "🌫️",
+    "title": "Litota (niedopowiedzenie)",
+    "desc": "Litota — niedopowiedzenie przez podwójne przeczenie (not un-/not without/no small) do wyrażania ostrożnych, stonowanych twierdzeń — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

@@ -1,0 +1,96 @@
+[
+  {
+    "id": "not_un_adjective",
+    "order": 1,
+    "nameEn": "Litotes with negated prefixed adjectives (not un-/in-/im-/dis-)",
+    "namePl": "Litota: not + przymiotnik z przeczącym przedrostkiem",
+    "rules": [
+      { "label": "Wzorzec", "text": "not + un-/in-/im-/il-/ir-/dis- + przymiotnik — zaprzeczenie przymiotnika o znaczeniu przeczącym daje w efekcie ostrożne, stonowane potwierdzenie: not unusual = dość niezwykłe (ale nie mówimy wprost 'usual')." },
+      { "label": "Efekt retoryczny", "text": "Podwójne przeczenie (not + przedrostek przeczący) nie równa się prostemu twierdzeniu wprost — brzmi bardziej powściągliwie i dyplomatycznie niż wersja pozytywna (not unhappy jest słabsze i bardziej wymijające niż happy)." },
+      { "label": "Rejestr", "text": "Typowe dla stylu formalnego, akademickiego, dziennikarskiego i literackiego — w swobodnej rozmowie potocznej rzadziej spotykane, ale nie wykluczone." }
+    ],
+    "usage": [
+      "Gdy chcemy złagodzić lub zdystansować się od twierdzenia wprost, zachowując dyplomatyczny ton (The results were not unexpected. zamiast The results were expected.)",
+      "W formalnych opisach, recenzjach i esejach, gdzie pełna aprobata brzmiałaby zbyt kategorycznie lub zbyt entuzjastycznie",
+      "Gdy chcemy zasugerować, że coś jest 'raczej X', 'całkiem X', bez pełnego zaangażowania się w to stwierdzenie"
+    ],
+    "tags": ["not unusual", "not unhappy", "not impossible", "not unaware", "not dissimilar"],
+    "examples": [
+      { "en": "His reaction was not unexpected given the circumstances.", "pl": "Jego reakcja nie była zaskakująca, biorąc pod uwagę okoliczności." },
+      { "en": "The proposal is not impossible to implement, just expensive.", "pl": "Realizacja tej propozycji nie jest niemożliwa, tylko kosztowna." },
+      { "en": "She seemed not unhappy with the decision.", "pl": "Wyglądała na dość zadowoloną z tej decyzji." },
+      { "en": "The two theories are not dissimilar in their conclusions.", "pl": "Te dwie teorie nie różnią się bardzo we wnioskach." }
+    ]
+  },
+  {
+    "id": "not_without_noun",
+    "order": 2,
+    "nameEn": "Litotes with 'not without + noun'",
+    "namePl": "Litota: not without + rzeczownik",
+    "rules": [
+      { "label": "Wzorzec", "text": "not without + rzeczownik — zaprzeczenie braku czegoś oznacza, że dana cecha jednak występuje, choć mówiący nie stwierdza tego wprost: not without risk = wiąże się jednak z ryzykiem." },
+      { "label": "Funkcja", "text": "Litota z 'without' często wprowadza zastrzeżenie lub ostrzeżenie w sposób łagodniejszy niż zdanie twierdzące (There is a risk. vs It is not without risk.)." },
+      { "label": "Typowe kolokacje", "text": "not without reason, not without difficulty, not without merit, not without controversy, not without a certain irony." }
+    ],
+    "usage": [
+      "Gdy chcemy przyznać, że coś ma pewną cechę (trudność, ryzyko, kontrowersję), ale w sposób zdystansowany i formalny",
+      "W argumentacji, gdzie chcemy jednocześnie uznać zaletę i zasygnalizować powściągliwość (not without merit = ma pewną wartość, choć nie bezdyskusyjną)",
+      "W tekstach dziennikarskich i akademickich zamiast prostego stwierdzenia 'with'"
+    ],
+    "tags": ["not without reason", "not without difficulty", "not without risk", "not without merit"],
+    "examples": [
+      { "en": "He left the company, not without reason.", "pl": "Odszedł z firmy, i to nie bez powodu." },
+      { "en": "The project succeeded, but not without difficulty.", "pl": "Projekt się powiódł, ale nie bez trudności." },
+      { "en": "Her argument is not without merit.", "pl": "Jej argument ma pewną wartość." },
+      { "en": "The decision was not without controversy.", "pl": "Ta decyzja nie obyła się bez kontrowersji." }
+    ]
+  },
+  {
+    "id": "no_small_mean",
+    "order": 3,
+    "nameEn": "Litotes with 'no + small/mean/ordinary'",
+    "namePl": "Litota: no + small / mean / ordinary",
+    "rules": [
+      { "label": "no small + rzeczownik", "text": "Zaprzeczenie małości/niewielkości podkreśla, że coś jest w istocie duże lub znaczące: no small feat = nie lada wyczyn, spore osiągnięcie." },
+      { "label": "no mean + rzeczownik", "text": "'mean' w tym utrwalonym zwrocie znaczy 'przeciętny/marny' — 'no mean' oznacza więc 'niebylejaki, wybitny': no mean achievement = spore osiągnięcie." },
+      { "label": "no ordinary + rzeczownik", "text": "Zaprzeczenie przeciętności sugeruje, że coś jest wyjątkowe: no ordinary man = niezwykły człowiek." },
+      { "label": "in no small measure/part", "text": "Utrwalone wyrażenia przysłówkowe wzmacniające przyczynę: in no small measure = w niemałym stopniu, w dużej mierze." }
+    ],
+    "usage": [
+      "Gdy chcemy pochwalić coś jako trudne lub imponujące, ale w sposób stonowany, bez przesadnego zachwytu (climbing that mountain was no small feat)",
+      "W formalnych podziękowaniach i laudacjach: his success was due in no small part to her support",
+      "Do opisu osób lub rzeczy niezwykłych bez używania wprost słowa 'extraordinary' (she is no ordinary teacher)"
+    ],
+    "tags": ["no small feat", "no mean achievement", "no ordinary man", "in no small measure"],
+    "examples": [
+      { "en": "Finishing the marathon was no small feat.", "pl": "Ukończenie maratonu to nie lada wyczyn." },
+      { "en": "Translating poetry is no mean task.", "pl": "Tłumaczenie poezji to niełatwe zadanie." },
+      { "en": "She is no ordinary scientist — her discoveries changed the field.", "pl": "To nie jest zwyczajna naukowczyni — jej odkrycia zmieniły tę dziedzinę." },
+      { "en": "Their victory was due in no small part to the coach's strategy.", "pl": "Ich zwycięstwo w niemałej mierze zawdzięczano strategii trenera." }
+    ]
+  },
+  {
+    "id": "not_exactly_far_from",
+    "order": 4,
+    "nameEn": "Ironic understatement: not exactly / far from / hardly",
+    "namePl": "Ironiczne niedopowiedzenie: not exactly / far from / hardly",
+    "rules": [
+      { "label": "not exactly + przymiotnik/rzeczownik", "text": "Zaprzecza skrajności cechy w sposób ironiczny, sugerując coś przeciwnego: not exactly cheap = w rzeczywistości dość drogie." },
+      { "label": "far from + przymiotnik", "text": "Podkreśla duży dystans od danej cechy, zwykle pozytywnej, sugerując jej brak: far from perfect = dalekie od doskonałości, czyli mocno niedoskonałe." },
+      { "label": "hardly + przymiotnik/przysłówek", "text": "Osłabia lub odwraca znaczenie w sposób niedosłowny: hardly surprising = wcale nie zaskakujące, czyli spodziewane." },
+      { "label": "Ton", "text": "Te wyrażenia są zwykle ironiczne lub lekko sarkastyczne — mówiący celowo zaniża ocenę, żeby podkreślić rzeczywistą skalę zjawiska." }
+    ],
+    "usage": [
+      "W nieformalnej i półformalnej rozmowie, gdy chcemy skrytykować coś delikatnie, bez brutalnej szczerości (The service was not exactly fast.)",
+      "W recenzjach i komentarzach, gdzie wprost negatywna ocena brzmiałaby zbyt ostro (The film is far from a masterpiece.)",
+      "Do podkreślenia, że coś jest oczywiste lub przewidywalne (His reaction was hardly surprising.)"
+    ],
+    "tags": ["not exactly cheap", "far from perfect", "hardly surprising", "far from easy"],
+    "examples": [
+      { "en": "The hotel room was not exactly spacious.", "pl": "Pokój hotelowy nie był zbyt przestronny." },
+      { "en": "The final result was far from perfect.", "pl": "Ostateczny wynik był dalece niedoskonały." },
+      { "en": "Her promotion was hardly surprising after such hard work.", "pl": "Jej awans wcale nie był zaskoczeniem po tak ciężkiej pracy." },
+      { "en": "Learning a new language is far from easy.", "pl": "Nauka nowego języka wcale nie jest łatwa." }
+    ]
+  }
+]
