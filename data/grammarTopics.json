@@ -488,5 +488,12 @@
     "title": "Apozycja",
     "desc": "Apozycja (rzeczownik w apozycji): dwie frazy rzeczownikowe odnoszące się do tego samego bytu — apozycja nierestrykcyjna i restrykcyjna, apozycja z „of”, szyk odwrócony i apozycja po zaimku, budowa, interpunkcja, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 36
+  },
+  {
+    "id": "fronting",
+    "icon": "🔝",
+    "title": "Fronting (szyk przestawny)",
+    "desc": "Przesuwanie dopełnień, orzeczników i fraz przysłówkowych na początek zdania dla kontrastu i spójności tekstu oraz fronting z as/though i so/such — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 36
   }
 ]
