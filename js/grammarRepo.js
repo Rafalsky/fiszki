@@ -74,6 +74,7 @@ const THEORY_URLS = {
   nominalization: new URL("../data/nominalization.json", import.meta.url),
   reporting_verb_patterns: new URL("../data/reporting_verb_patterns.json", import.meta.url),
   absolute_clauses: new URL("../data/absolute_clauses.json", import.meta.url),
+  modal_passive: new URL("../data/modal_passive.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -143,6 +144,7 @@ const DRILLS_URLS = {
   nominalization: new URL("../data/nominalizationDrills.json", import.meta.url),
   reporting_verb_patterns: new URL("../data/reporting_verb_patternsDrills.json", import.meta.url),
   absolute_clauses: new URL("../data/absolute_clausesDrills.json", import.meta.url),
+  modal_passive: new URL("../data/modal_passiveDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

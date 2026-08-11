@@ -460,5 +460,12 @@
     "title": "Konstrukcje absolutne",
     "desc": "Konstrukcje absolutne (Weather permitting, With prices rising..., Her voice full of excitement...) — imiesłowowe i bezczasownikowe zdania okolicznikowe z własnym podmiotem — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "modal_passive",
+    "icon": "🛡️",
+    "title": "Strona bierna z czasownikami modalnymi",
+    "desc": "must be done, should have been finished — łączenie czasowników modalnych ze stroną bierną w teraźniejszości i przeszłości — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
