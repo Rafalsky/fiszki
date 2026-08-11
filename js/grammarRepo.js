@@ -73,6 +73,7 @@ const THEORY_URLS = {
   as_if_as_though: new URL("../data/as_if_as_though.json", import.meta.url),
   nominalization: new URL("../data/nominalization.json", import.meta.url),
   reporting_verb_patterns: new URL("../data/reporting_verb_patterns.json", import.meta.url),
+  absolute_clauses: new URL("../data/absolute_clauses.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -141,6 +142,7 @@ const DRILLS_URLS = {
   as_if_as_though: new URL("../data/as_if_as_thoughDrills.json", import.meta.url),
   nominalization: new URL("../data/nominalizationDrills.json", import.meta.url),
   reporting_verb_patterns: new URL("../data/reporting_verb_patternsDrills.json", import.meta.url),
+  absolute_clauses: new URL("../data/absolute_clausesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
