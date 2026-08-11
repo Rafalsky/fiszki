@@ -1,0 +1,127 @@
+[
+  {
+    "id": "kind_of_sort_of",
+    "order": 1,
+    "nameEn": "kind of / sort of — softening statements",
+    "namePl": "kind of / sort of — łagodzenie wypowiedzi",
+    "rules": [
+      { "label": "kind of / sort of + przymiotnik/czasownik", "text": "kind of i sort of stoją przed przymiotnikiem, czasownikiem lub rzeczownikiem, żeby złagodzić stanowczość zdania — 'jakby', 'trochę', 'w pewnym sensie'" },
+      { "label": "Wymienność", "text": "kind of i sort of są praktycznie wymienne w mowie potocznej; sort of jest nieco częstsze w brytyjskim angielskim, kind of w amerykańskim" },
+      { "label": "sorta / kinda", "text": "w bardzo nieformalnej mowie (i zapisie fonetycznym) skraca się je do sorta i kinda — unikać w piśmie formalnym" },
+      { "label": "Rejestr", "text": "obie formy są nieformalne — w tekstach akademickich i formalnych zastępuje się je słowami somewhat, rather, to some extent" }
+    ],
+    "usage": [
+      "Łagodzenie oceny lub opinii: The film was kind of boring.",
+      "Niepewność co do faktu: I sort of remember him, but not clearly.",
+      "Przed czasownikiem: I kind of expected that to happen.",
+      "Jako samodzielna odpowiedź wyrażająca częściową zgodę: 'Are you ready?' — 'Sort of.'"
+    ],
+    "tags": ["kind of boring", "sort of remember", "kind of expected", "sort of"],
+    "examples": [
+      { "en": "The film was kind of boring, to be honest.", "pl": "Ten film był, szczerze mówiąc, trochę nudny." },
+      { "en": "I sort of remember him, but not very clearly.", "pl": "Jakoś go pamiętam, ale niezbyt wyraźnie." },
+      { "en": "She kind of expected that to happen sooner or later.", "pl": "Ona jakby się spodziewała, że to się prędzej czy później stanie." },
+      { "en": "\"Do you understand the plan?\" \"Sort of, but not completely.\"", "pl": "\"Rozumiesz plan?\" \"Jakby tak, ale nie do końca.\"" }
+    ]
+  },
+  {
+    "id": "or_so_or_something",
+    "order": 2,
+    "nameEn": "or so / or something / and stuff — approximating numbers and lists",
+    "namePl": "or so / or something / and stuff — przybliżanie liczb i list",
+    "rules": [
+      { "label": "or so", "text": "po liczbie lub wyrażeniu ilości/czasu — sygnalizuje przybliżenie: 'mniej więcej', 'z okładem' (twenty or so, an hour or so)" },
+      { "label": "or something / or something like that", "text": "po rzeczowniku lub czynności — 'czy coś takiego', gdy mówiący nie jest pewny dokładnej nazwy lub szczegółu" },
+      { "label": "and stuff / and things / and so on", "text": "kończą niepełną listę przykładów — 'i tak dalej', 'i tym podobne', sugerując, że jest więcej podobnych elementów" },
+      { "label": "or two", "text": "po liczbie jeden — a day or two, a week or two — 'dzień czy dwa', 'tydzień czy dwa'" }
+    ],
+    "usage": [
+      "Przybliżanie liczby lub czasu: There were fifty people or so at the party.",
+      "Niepewność co do nazwy/szczegółu: He works as an engineer or something.",
+      "Skracanie listy przykładów: We packed towels, sunscreen and stuff like that.",
+      "Nieformalny rejestr — typowe w mowie potocznej, unikane w piśmie formalnym"
+    ],
+    "tags": ["twenty or so", "or something", "and stuff", "a day or two"],
+    "examples": [
+      { "en": "There were fifty people or so at the party.", "pl": "Na przyjęciu było jakieś pięćdziesiąt osób." },
+      { "en": "He works as a consultant or something like that.", "pl": "On pracuje jako konsultant czy coś w tym rodzaju." },
+      { "en": "We need towels, sunscreen and stuff like that for the trip.", "pl": "Potrzebujemy na wycieczkę ręczników, kremu z filtrem i tym podobnych rzeczy." },
+      { "en": "I'll be back in a day or two.", "pl": "Wrócę za dzień lub dwa." }
+    ]
+  },
+  {
+    "id": "ish_suffix",
+    "order": 3,
+    "nameEn": "-ish suffix — approximate adjectives and numbers",
+    "namePl": "przyrostek -ish — przybliżone przymiotniki i liczby",
+    "rules": [
+      { "label": "liczba + ish", "text": "dodany do liczby oznacza przybliżoną wartość: fortyish (koło czterdziestki), five-ish (koło piątej)" },
+      { "label": "przymiotnik + ish", "text": "dodany do przymiotnika osłabia jego znaczenie: tallish (dość wysoki), reddish (czerwonawy), coldish (chłodnawy)" },
+      { "label": "samodzielne ish", "text": "w bardzo nieformalnej mowie 'ish' może stać samodzielnie jako odpowiedź — 'mniej więcej', 'jakoś tak'" },
+      { "label": "Rejestr", "text": "wyłącznie nieformalny, głównie mówiony — nie używać w piśmie formalnym ani akademickim" }
+    ],
+    "usage": [
+      "Przybliżony wiek lub godzina: She's fortyish. Let's meet at seven-ish.",
+      "Osłabiony przymiotnik: He's tallish, with dark hair.",
+      "Przybliżony kolor lub odcień: The walls are a greenish colour.",
+      "Samodzielna odpowiedź na pytanie o stan: 'Are you ready?' — 'Ish.'"
+    ],
+    "tags": ["fortyish", "seven-ish", "tallish", "reddish"],
+    "examples": [
+      { "en": "She's fortyish, I'd guess, maybe a bit older.", "pl": "Ona jest gdzieś koło czterdziestki, może trochę starsza." },
+      { "en": "Let's meet at the café at seven-ish.", "pl": "Spotkajmy się w kawiarni koło siódmej." },
+      { "en": "He's tallish, with short dark hair.", "pl": "Jest dość wysoki, z krótkimi ciemnymi włosami." },
+      { "en": "The sky had a strange greenish tint before the storm.", "pl": "Niebo miało dziwny zielonkawy odcień przed burzą." }
+    ]
+  },
+  {
+    "id": "more_or_less_roughly",
+    "order": 4,
+    "nameEn": "more or less / roughly / practically — approximating degree",
+    "namePl": "more or less / roughly / practically — przybliżanie stopnia",
+    "rules": [
+      { "label": "more or less", "text": "'mniej więcej', 'z grubsza' — dotyczy stopnia ukończenia, ilości lub podobieństwa: The report is more or less finished." },
+      { "label": "roughly / approximately", "text": "przed liczbą lub ilością — roughly jest bardziej potoczne, approximately bardziej formalne (typowe dla raportów, statystyk)" },
+      { "label": "practically / virtually", "text": "'praktycznie', 'niemal' — podkreślają, że coś jest bardzo bliskie całkowitemu stanowi, choć formalnie jeszcze nie w pełni: practically impossible" },
+      { "label": "Pozycja", "text": "more or less i practically/virtually zwykle stoją przed przymiotnikiem/czasownikiem lub na końcu zdania; roughly/approximately zwykle przed liczbą" }
+    ],
+    "usage": [
+      "Przybliżony stopień ukończenia: The project is more or less ready.",
+      "Przybliżona liczba w danych: Roughly 80% of respondents agreed.",
+      "Podkreślenie bliskości całkowitego stanu: The tickets are practically sold out.",
+      "Formalny rejestr statystyczny: approximately 3,000 people attended the event."
+    ],
+    "tags": ["more or less finished", "roughly 80%", "practically impossible", "approximately 3,000"],
+    "examples": [
+      { "en": "The report is more or less finished; just a few details left.", "pl": "Raport jest z grubsza gotowy, zostało tylko kilka szczegółów." },
+      { "en": "Roughly 80% of respondents agreed with the proposal.", "pl": "Mniej więcej 80% respondentów zgodziło się z propozycją." },
+      { "en": "The concert tickets are practically sold out already.", "pl": "Bilety na koncert są już praktycznie wyprzedane." },
+      { "en": "Approximately 3,000 people attended the festival.", "pl": "W festiwalu wzięło udział około 3000 osób." }
+    ]
+  },
+  {
+    "id": "as_it_were_so_to_speak",
+    "order": 5,
+    "nameEn": "as it were / so to speak — hedging metaphorical language",
+    "namePl": "as it were / so to speak — łagodzenie sformułowań metaforycznych",
+    "rules": [
+      { "label": "as it were", "text": "formalny hedge sygnalizujący, że wyrażenie jest metaforyczne lub niedosłowne — 'że tak powiem', 'jakby' — zwykle na końcu frazy lub zdania" },
+      { "label": "so to speak", "text": "podobna funkcja co as it were, ale nieco mniej formalne i częstsze w mowie — również sygnalizuje niedosłowność użytego wyrażenia" },
+      { "label": "in a way / in a sense", "text": "łagodzą stwierdzenie, przyznając, że jest prawdziwe tylko z pewnej perspektywy: In a sense, he was right." },
+      { "label": "Pozycja", "text": "as it were i so to speak zwykle stawia się bezpośrednio po metaforycznym wyrażeniu, które mają złagodzić, oddzielone przecinkiem" }
+    ],
+    "usage": [
+      "Sygnalizowanie metafory w formalnym stylu: He became, as it were, a prisoner of his own success.",
+      "Łagodzenie niezwykłego porównania w mowie: She's the backbone of the team, so to speak.",
+      "Częściowa zgoda z zastrzeżeniem: In a way, I agree, but it's more complicated than that.",
+      "Typowe w prezentacjach, wykładach i tekstach eseistycznych, gdzie mówiący chce zaznaczyć przenośne użycie słowa"
+    ],
+    "tags": ["as it were", "so to speak", "in a way", "in a sense"],
+    "examples": [
+      { "en": "He became, as it were, a prisoner of his own success.", "pl": "Stał się, że tak powiem, więźniem własnego sukcesu." },
+      { "en": "She's the backbone of the team, so to speak.", "pl": "Ona jest, że tak powiem, kręgosłupem tego zespołu." },
+      { "en": "In a way, I agree with you, but the situation is more complicated.", "pl": "W pewnym sensie się z tobą zgadzam, ale sytuacja jest bardziej skomplikowana." },
+      { "en": "The company is, in a sense, starting from scratch after the merger.", "pl": "Firma w pewnym sensie zaczyna od zera po fuzji." }
+    ]
+  }
+]

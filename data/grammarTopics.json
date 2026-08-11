@@ -544,5 +544,12 @@
     "title": "Zdania porównawcze",
     "desc": "Porównania równości i różnicy: as...as, not as/so...as, the same as, similar to, different from, nowhere near as...as — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 48
+  },
+  {
+    "id": "vague_language",
+    "icon": "🫧",
+    "title": "Język przybliżony i hedging",
+    "desc": "kind of / sort of, or so, -ish, as it were — łagodzenie i uściślanie wypowiedzi przez celowe niedopowiedzenie — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
