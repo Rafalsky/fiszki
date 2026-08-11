@@ -1,0 +1,100 @@
+[
+  {
+    "id": "viewpoint",
+    "order": 1,
+    "nameEn": "Viewpoint adverbs (personally, frankly, theoretically)",
+    "namePl": "Przysłówki stanowiska (personally, frankly, theoretically)",
+    "rules": [
+      { "label": "Funkcja", "text": "przysłówek stanowiska (viewpoint adverb) mówi, Z JAKIEGO PUNKTU WIDZENIA albo w jakiej roli mówiący ocenia całe zdanie — nie opisuje sposobu wykonania czynności, tylko ramę, w jakiej pada wypowiedź" },
+      { "label": "Typowe przysłówki", "text": "personally, frankly, honestly, theoretically, technically, realistically, ideally, politically, economically, officially" },
+      { "label": "Pozycja", "text": "niemal zawsze na początku zdania, oddzielony przecinkiem: Personally, I'd rather stay home. — cała reszta zdania jest oceniana z tej perspektywy" }
+    ],
+    "usage": [
+      "Zaznaczenie, że opinia jest osobista i subiektywna: Personally, I think the plan is too risky.",
+      "Sygnalizowanie szczerej, czasem niewygodnej opinii: Frankly, the whole presentation was a waste of time.",
+      "Wprowadzenie zastrzeżenia teoria vs. praktyka: Theoretically, the system should work — but in practice it often crashes.",
+      "Wskazanie dziedziny, z której perspektywy patrzymy: Politically, the decision makes sense, even if economically it's questionable."
+    ],
+    "tags": ["personally,", "frankly,", "honestly,", "theoretically,", "realistically,"],
+    "examples": [
+      { "en": "Personally, I wouldn't trust him with that kind of responsibility.", "pl": "Osobiście nie powierzyłbym mu takiej odpowiedzialności." },
+      { "en": "Frankly, I don't think the project will be finished on time.", "pl": "Szczerze mówiąc, nie sądzę, żeby projekt został ukończony na czas." },
+      { "en": "Theoretically, anyone can apply, but in practice only insiders get hired.", "pl": "Teoretycznie każdy może się zgłosić, ale w praktyce zatrudnia się tylko swoich." },
+      { "en": "Realistically, we won't have the results before next month.", "pl": "Realistycznie rzecz biorąc, nie będziemy mieli wyników przed przyszłym miesiącem." }
+    ]
+  },
+  {
+    "id": "comment",
+    "order": 2,
+    "nameEn": "Comment adverbs (unfortunately, surprisingly, understandably)",
+    "namePl": "Przysłówki komentujące (unfortunately, surprisingly, understandably)",
+    "rules": [
+      { "label": "Funkcja", "text": "przysłówek komentujący (comment adverb) wyraża OCENĘ lub REAKCJĘ mówiącego na całą sytuację opisaną w zdaniu — odpowiada mniej więcej na 'co sądzę o tym, że...'" },
+      { "label": "Typowe przysłówki", "text": "unfortunately, fortunately, surprisingly, predictably, understandably, ironically, interestingly, curiously, sadly, remarkably, tellingly" },
+      { "label": "Kontrast z przysłówkiem sposobu", "text": "ten sam wyraz może być przysłówkiem sposobu (opisuje czasownik) albo przysłówkiem komentującym (opisuje całe zdanie) — znaczenie i pozycja się różnią: He answered surprisingly (= w zaskakujący sposób) vs. Surprisingly, he answered at all (= zaskakujące jest to, że w ogóle odpowiedział)" }
+    ],
+    "usage": [
+      "Wyrażenie żalu lub ulgi wobec całej sytuacji: Unfortunately, the flight was cancelled. / Fortunately, nobody was hurt.",
+      "Podkreślenie, że coś jest zaskakujące, przewidywalne lub logiczne w danym kontekście: Predictably, the meeting overran by an hour.",
+      "Okazanie zrozumienia dla czyjejś reakcji: Understandably, she was furious when she found out.",
+      "Zwrócenie uwagi na ironię lub ciekawy zbieg okoliczności: Ironically, the fire station itself once burned down."
+    ],
+    "tags": ["unfortunately,", "surprisingly,", "understandably,", "ironically,", "predictably,"],
+    "examples": [
+      { "en": "Unfortunately, we ran out of time before the discussion could finish.", "pl": "Niestety, zabrakło nam czasu, zanim dyskusja mogła się zakończyć." },
+      { "en": "Surprisingly, nobody complained about the change at all.", "pl": "Co zaskakujące, nikt w ogóle nie narzekał na tę zmianę." },
+      { "en": "Understandably, the staff were nervous about the new policy.", "pl": "Co zrozumiałe, personel był zdenerwowany nową polityką." },
+      { "en": "Ironically, the safety inspector's own office failed the inspection.", "pl": "Co ironiczne, biuro samego inspektora bezpieczeństwa nie przeszło kontroli." }
+    ]
+  },
+  {
+    "id": "evidentiality",
+    "order": 3,
+    "nameEn": "Evidentiality and certainty adverbs (apparently, allegedly, undoubtedly, arguably)",
+    "namePl": "Przysłówki źródła informacji i pewności (apparently, allegedly, undoubtedly, arguably)",
+    "rules": [
+      { "label": "Funkcja", "text": "ta grupa przysłówków sygnalizuje, SKĄD pochodzi informacja i JAK bardzo mówiący jest jej pewien — pozwala zdystansować się od twierdzenia albo przeciwnie, mocno je podkreślić" },
+      { "label": "Niepewne źródło / dystans", "text": "apparently, allegedly, reportedly, supposedly — mówiący relacjonuje coś, czego sam nie zweryfikował, często z podtekstem wątpliwości: Allegedly, he lied about his qualifications (= tak się mówi, ale nie jest to potwierdzone)" },
+      { "label": "Duża pewność / mocna teza", "text": "undoubtedly, unquestionably, arguably, presumably, admittedly — undoubtedly wyraża pełne przekonanie, arguably wprowadza tezę do obrony ('można argumentować, że'), presumably to ostrożne domniemanie, a admittedly sygnalizuje ustępstwo wobec kontrargumentu" }
+    ],
+    "usage": [
+      "Dystansowanie się od nieformalnej lub niepotwierdzonej informacji: Apparently, the shop is closing down next month.",
+      "Relacjonowanie oskarżeń lub twierdzeń bez potwierdzania ich prawdziwości: The company allegedly dumped waste into the river.",
+      "Wyrażenie mocnego, niepodważalnego przekonania: This is undoubtedly the best solution we have.",
+      "Wprowadzenie tezy, którą można bronić, choć nie jest oczywista: Arguably, the sequel is even better than the original.",
+      "Ustępstwo przed przedstawieniem kontrargumentu: Admittedly, the plan has some risks, but the potential reward is huge."
+    ],
+    "tags": ["apparently,", "allegedly,", "undoubtedly,", "arguably,", "admittedly,", "presumably,"],
+    "examples": [
+      { "en": "Apparently, the meeting has been moved to Friday.", "pl": "Podobno spotkanie zostało przeniesione na piątek." },
+      { "en": "The suspect allegedly stole over ten thousand pounds.", "pl": "Podejrzany rzekomo ukradł ponad dziesięć tysięcy funtów." },
+      { "en": "This is undoubtedly the hardest exam we've ever set.", "pl": "To niewątpliwie najtrudniejszy egzamin, jaki kiedykolwiek przygotowaliśmy." },
+      { "en": "Arguably, the whole approach needs to be rethought.", "pl": "Można argumentować, że całe podejście trzeba przemyśleć na nowo." },
+      { "en": "Admittedly, I hadn't read the instructions properly.", "pl": "Trzeba przyznać, że nie przeczytałem instrukcji dokładnie." }
+    ]
+  },
+  {
+    "id": "position",
+    "order": 4,
+    "nameEn": "Position, punctuation and contrast with manner adverbs",
+    "namePl": "Pozycja, interpunkcja i kontrast z przysłówkami sposobu",
+    "rules": [
+      { "label": "Pozycja początkowa (najczęstsza)", "text": "przysłówek zdaniowy zwykle otwiera zdanie i jest oddzielony przecinkiem: Frankly, this isn't good enough. — obejmuje wtedy swoim zasięgiem całe następujące po nim zdanie" },
+      { "label": "Pozycja środkowa", "text": "możliwa jest też pozycja środkowa (po podmiocie / czasowniku posiłkowym, przed czasownikiem głównym), wtedy przecinki są zwykle pomijane: She has, understandably, refused to comment. / He is, admittedly, right about the timing." },
+      { "label": "Pozycja końcowa", "text": "rzadziej, dla dodatkowego, jakby dorzuconego komentarza, zwykle po przecinku: He got the job, apparently." },
+      { "label": "Kontrast z przysłówkiem sposobu (manner)", "text": "wiele z tych wyrazów istnieje też jako zwykły przysłówek sposobu opisujący czasownik, bez przecinka i zwykle na końcu zdania: 'She spoke frankly about her mistakes' (jak mówiła = szczerze) różni się od 'Frankly, she made a mistake' (moja opinia o całej sprawie)" }
+    ],
+    "usage": [
+      "Rozpoznanie funkcji przysłówka po pozycji i interpunkcji, nie tylko po samym słowie",
+      "Świadome umieszczanie przysłówka w pozycji środkowej dla płynniejszego, bardziej formalnego stylu pisanego",
+      "Unikanie dwuznaczności — porównanie 'He answered honestly' (opisuje SPOSÓB odpowiedzi) z 'Honestly, he shouldn't have answered at all' (opinia o całej sytuacji)"
+    ],
+    "tags": ["comma after viewpoint adverb", "mid-position adverb", "manner vs. sentence adverb"],
+    "examples": [
+      { "en": "Honestly, I have no idea what happened to the missing files.", "pl": "Szczerze mówiąc, nie mam pojęcia, co się stało z brakującymi plikami." },
+      { "en": "The committee has, predictably, rejected the proposal again.", "pl": "Komisja, jak można było przewidzieć, znów odrzuciła propozycję." },
+      { "en": "She answered every question honestly, without hiding anything.", "pl": "Odpowiedziała na każde pytanie szczerze, niczego nie ukrywając." },
+      { "en": "He'll be late again, apparently.", "pl": "Podobno znowu się spóźni." }
+    ]
+  }
+]
