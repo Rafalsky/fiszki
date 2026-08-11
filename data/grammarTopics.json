@@ -516,5 +516,12 @@
     "title": "Przysłówki stanowiska i komentarza",
     "desc": "Przysłówki zdaniowe wyrażające stanowisko mówiącego, ocenę i pewność co do informacji: frankly, personally, apparently, undoubtedly, arguably, admittedly — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "future_in_the_past",
+    "icon": "🎞️",
+    "title": "Przyszłość w przeszłości",
+    "desc": "was/were going to, narracyjne would oraz was/were to + bezokolicznik — przyszłość widziana z perspektywy przeszłości, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
