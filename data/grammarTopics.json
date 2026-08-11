@@ -411,5 +411,12 @@
     "title": "Zaimki wzajemne",
     "desc": "Zaimki wzajemne each other i one another — kontrast z zaimkami zwrotnymi (themselves) oraz forma dzierżawcza each other's — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "numbers_dates",
+    "icon": "🔟",
+    "title": "Liczebniki i daty",
+    "desc": "Liczebniki główne i porządkowe, zapis dat, ułamki, dziesiętne i procenty — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

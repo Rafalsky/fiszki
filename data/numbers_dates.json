@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cardinal_numbers",
+    "order": 1,
+    "nameEn": "Cardinal numbers",
+    "namePl": "Liczebniki główne",
+    "rules": [
+      { "label": "Setki i tysiące", "text": "Liczby złożone 21-99 zapisujemy z łącznikiem (twenty-one, forty-five). W liczbach powyżej 100 w brytyjskim angielskim między setkami a resztą stawiamy and: two hundred and fifty" },
+      { "label": "Bez and (AmE)", "text": "W amerykańskim angielskim and między setkami a resztą zwykle pomijamy: two hundred fifty" },
+      { "label": "Liczby mnogie", "text": "hundred, thousand, million nie przyjmują -s po liczebniku (three hundred, nie three hundreds), chyba że mówimy ogólnie: hundreds of people" }
+    ],
+    "usage": [
+      "Liczenie ilości, wieku, cen i innych wartości liczbowych",
+      "Numery telefonów czytamy cyfra po cyfrze (double dla powtórzonej cyfry w BrE)",
+      "Duże liczby dzielimy przecinkiem co trzy cyfry: 1,000,000",
+      "Kwoty pieniężne: symbol waluty przed liczbą w piśmie (£20), ale czytane po liczbie (twenty pounds)"
+    ],
+    "tags": ["twenty-one", "two hundred and fifty", "a thousand", "hundreds of"],
+    "examples": [
+      { "en": "There are two hundred and fifty pages in this book.", "pl": "Ta książka ma dwieście pięćdziesiąt stron." },
+      { "en": "My phone number is oh-two-oh, double four, one-nine.", "pl": "Mój numer telefonu to zero-dwa-zero, cztery-cztery, jeden-dziewięć." },
+      { "en": "Over a thousand people attended the concert.", "pl": "W koncercie wzięło udział ponad tysiąc osób." },
+      { "en": "The car costs twenty-five thousand dollars.", "pl": "Samochód kosztuje dwadzieścia pięć tysięcy dolarów." }
+    ]
+  },
+  {
+    "id": "ordinal_numbers",
+    "order": 2,
+    "nameEn": "Ordinal numbers",
+    "namePl": "Liczebniki porządkowe",
+    "rules": [
+      { "label": "Końcówka -th", "text": "Większość liczebników porządkowych tworzymy dodając -th do liczebnika głównego: four → fourth, six → sixth" },
+      { "label": "Wyjątki", "text": "one → first, two → second, three → third oraz ich złożenia (twenty-first, thirty-second, forty-third)" },
+      { "label": "Zmiany pisowni", "text": "five → fifth, eight → eighth (bez podwójnego t), nine → ninth (bez e), twelve → twelfth; liczby na -y zmieniają y na ie: twenty → twentieth" }
+    ],
+    "usage": [
+      "Kolejność i ranking: the first prize, the third floor",
+      "Daty: zawsze z the przed liczebnikiem porządkowym w mowie (the fifth of May)",
+      "Tytuły władców i imiona po numerze: Elizabeth the Second (Elizabeth II)",
+      "Piętra budynków i klasy w szkole"
+    ],
+    "tags": ["the first", "fifth", "twentieth", "Elizabeth the Second"],
+    "examples": [
+      { "en": "She came first in the competition.", "pl": "Zajęła pierwsze miejsce w konkursie." },
+      { "en": "Our office is on the eighth floor.", "pl": "Nasze biuro jest na ósmym piętrze." },
+      { "en": "This is his twenty-first birthday.", "pl": "To jego dwudzieste pierwsze urodziny." },
+      { "en": "The king was known as Henry the Eighth.", "pl": "Król był znany jako Henryk Ósmy." }
+    ]
+  },
+  {
+    "id": "dates",
+    "order": 3,
+    "nameEn": "Dates",
+    "namePl": "Zapis i odczytywanie dat",
+    "rules": [
+      { "label": "BrE zapis", "text": "dzień/miesiąc/rok: 5 May 2023 lub 5th May 2023 — czytane jako: the fifth of May, twenty twenty-three" },
+      { "label": "AmE zapis", "text": "miesiąc/dzień/rok: May 5, 2023 — czytane jako: May fifth, twenty twenty-three" },
+      { "label": "Czytanie lat", "text": "Lata do 1999 czytamy w parach: 1984 → nineteen eighty-four; lata 2000-2009 zwykle: two thousand (and) five; od 2010: twenty ten / twenty twenty-three" }
+    ],
+    "usage": [
+      "Pisemne daty w dokumentach, formularzach, na zaproszeniach",
+      "Mówienie o dacie urodzenia, ważnych wydarzeniach historycznych",
+      "Przyimek in z miesiącem/rokiem (in May, in 2023), on z dniem (on 5 May), at z porą dnia",
+      "Skrót daty liczbowo różni się między BrE (05/05/2023 = 5 maja) a AmE (05/05/2023 = 5 stycznia)"
+    ],
+    "tags": ["the fifth of May", "May fifth", "nineteen eighty-four", "in 2023"],
+    "examples": [
+      { "en": "She was born on the fifth of May, nineteen ninety.", "pl": "Urodziła się piątego maja tysiąc dziewięćset dziewięćdziesiątego roku." },
+      { "en": "The meeting is scheduled for May 5, 2023.", "pl": "Spotkanie jest zaplanowane na 5 maja 2023." },
+      { "en": "The war ended in nineteen forty-five.", "pl": "Wojna zakończyła się w tysiąc dziewięćset czterdziestym piątym roku." },
+      { "en": "We're moving in twenty twenty-four.", "pl": "Przeprowadzamy się w dwa tysiące dwudziestym czwartym roku." }
+    ]
+  },
+  {
+    "id": "fractions_decimals",
+    "order": 4,
+    "nameEn": "Fractions, decimals & percentages",
+    "namePl": "Ułamki, liczby dziesiętne i procenty",
+    "rules": [
+      { "label": "Ułamki", "text": "1/2 = a half, 1/3 = a third, 1/4 = a quarter, 3/4 = three quarters; liczby mieszane: 1½ = one and a half" },
+      { "label": "Dziesiętne", "text": "Kropkę dziesiętną czytamy jako point, każdą cyfrę po niej osobno: 3.14 → three point one four" },
+      { "label": "Procenty", "text": "Znak % czytamy jako per cent: 20% → twenty per cent (BrE) / twenty percent (AmE)" }
+    ],
+    "usage": [
+      "Przepisy kulinarne i miary (half a cup, a quarter of an hour)",
+      "Statystyki, wyniki badań i ceny (a 10% discount)",
+      "Liczby dziesiętne w wynikach pomiarów i finansach",
+      "Czas: a quarter past / a quarter to, half past"
+    ],
+    "tags": ["a half", "three point one four", "twenty per cent", "a quarter past"],
+    "examples": [
+      { "en": "Add half a cup of sugar to the mixture.", "pl": "Dodaj pół szklanki cukru do mieszanki." },
+      { "en": "The value of pi is approximately three point one four.", "pl": "Wartość liczby pi wynosi w przybliżeniu trzy przecinek czternaście." },
+      { "en": "Almost twenty per cent of students passed with distinction.", "pl": "Prawie dwadzieścia procent uczniów zdało z wyróżnieniem." },
+      { "en": "It's a quarter past six.", "pl": "Jest kwadrans po szóstej." }
+    ]
+  }
+]
