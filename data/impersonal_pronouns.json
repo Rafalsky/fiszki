@@ -1,0 +1,98 @@
+[
+  {
+    "id": "generic_one",
+    "order": 1,
+    "nameEn": "one — formal generic pronoun",
+    "namePl": "one — formalny zaimek bezosobowy",
+    "rules": [
+      { "label": "Znaczenie", "text": "one odnosi się do ludzi w ogóle, w tym często do samego mówiącego — 'każdy, w tym ja'" },
+      { "label": "Rejestr", "text": "Bardzo formalne, typowe dla pisma akademickiego, oficjalnych ogłoszeń i starannej mowy brytyjskiej — w codziennej rozmowie brzmi sztywno lub afektowanie" },
+      { "label": "Formy pochodne", "text": "Dopełnienie: one; forma dzierżawcza: one's; zaimek zwrotny: oneself" }
+    ],
+    "usage": [
+      "Formułowanie ogólnych prawd i zasad w stylu formalnym (One should always check the facts.)",
+      "Unikanie bezpośredniego wskazania na siebie lub słuchacza przy niezręcznych tematach",
+      "W tekstach pisanych: instrukcjach, esejach, przewodnikach o wysokim rejestrze",
+      "Z czasownikami modalnymi should/can/must dla rad i zasad ogólnych"
+    ],
+    "tags": ["one should", "one's own", "oneself", "one can never"],
+    "examples": [
+      { "en": "One should always double-check important documents.", "pl": "Człowiek powinien zawsze dokładnie sprawdzić ważne dokumenty." },
+      { "en": "One can never be too careful with personal data.", "pl": "Nigdy nie można być zbyt ostrożnym z danymi osobowymi." },
+      { "en": "It is important to look after one's health.", "pl": "Ważne jest, by dbać o własne zdrowie." },
+      { "en": "One should never blame oneself for other people's mistakes.", "pl": "Nie powinno się winić samego siebie za cudze błędy." }
+    ]
+  },
+  {
+    "id": "generic_you",
+    "order": 2,
+    "nameEn": "you — informal generic pronoun",
+    "namePl": "you — potoczny zaimek bezosobowy",
+    "rules": [
+      { "label": "Znaczenie", "text": "you w znaczeniu bezosobowym nie odnosi się do konkretnego słuchacza, lecz do ludzi w ogóle — 'każdy, kto znajdzie się w takiej sytuacji'" },
+      { "label": "Rejestr", "text": "Neutralne do nieformalnego — najczęstszy sposób mówienia bezosobowo w codziennej angielszczyźnie, znacznie częstszy niż one" },
+      { "label": "Kontekst", "text": "Odczytanie jako bezosobowe zależy od kontekstu — brak wyraźnego odniesienia do rozmówcy sugeruje znaczenie ogólne" }
+    ],
+    "usage": [
+      "Opisywanie ogólnych doświadczeń i prawd życiowych w rozmowie (You never know what might happen.)",
+      "Instrukcje i porady w nieformalnym stylu, np. przepisy kulinarne, poradniki (You add the eggs and mix well.)",
+      "Refleksje i uogólnienia oparte na osobistym doświadczeniu, ale odnoszące się do każdego",
+      "Zamiennik formalnego one w mowie potocznej i mniej oficjalnym piśmie"
+    ],
+    "tags": ["you never know", "you can't", "if you", "you have to"],
+    "examples": [
+      { "en": "You never know what life is going to throw at you.", "pl": "Nigdy nie wiadomo, co przyniesie życie." },
+      { "en": "When you live abroad, you learn to adapt quickly.", "pl": "Kiedy mieszka się za granicą, uczy się szybko adaptować." },
+      { "en": "You can't always get what you want.", "pl": "Nie zawsze można dostać to, czego się chce." },
+      { "en": "First you chop the onions, then you add them to the pan.", "pl": "Najpierw kroi się cebulę, potem dodaje ją do patelni." }
+    ]
+  },
+  {
+    "id": "generic_they_people",
+    "order": 3,
+    "nameEn": "they / people — unspecified agents and authorities",
+    "namePl": "they / people — nieokreślony sprawca lub autorytet",
+    "rules": [
+      { "label": "they bez wskazanego podmiotu", "text": "they odnosi się do bliżej nieokreślonych osób, instytucji lub władz odpowiedzialnych za coś, gdy sprawca nie jest ważny lub nieznany" },
+      { "label": "they say / people say", "text": "Wprowadza powszechne przekonanie, plotkę lub powiedzenie, którego autora nie da się wskazać — odpowiednik polskiego 'mówi się, że'" },
+      { "label": "people jako ogólny podmiot", "text": "people + czasownik w liczbie mnogiej odnosi się do ludzi w ogóle jako grupy, bez wskazywania nikogo konkretnego" }
+    ],
+    "usage": [
+      "Mówienie o decyzjach władz, firm lub instytucji bez podawania konkretnego sprawcy (They've raised the taxes again.)",
+      "Przywoływanie powszechnych opinii i porzekadeł (They say money can't buy happiness.)",
+      "Uogólnienia o ludzkich zachowaniach i postawach (People tend to fear change.)",
+      "Gdy podmiot jest oczywisty z kontekstu (np. urząd, firma) i nie trzeba go nazywać"
+    ],
+    "tags": ["they say", "people say", "people tend to", "they've closed"],
+    "examples": [
+      { "en": "They say it's going to rain all weekend.", "pl": "Mówią, że przez cały weekend ma padać." },
+      { "en": "They've closed the old bridge for repairs.", "pl": "Zamknęli stary most na remont." },
+      { "en": "People often assume that money brings happiness.", "pl": "Ludzie często zakładają, że pieniądze dają szczęście." },
+      { "en": "In some countries they drive on the left.", "pl": "W niektórych krajach jeżdżą lewą stroną." }
+    ]
+  },
+  {
+    "id": "impersonal_register_choice",
+    "order": 4,
+    "nameEn": "Choosing and staying consistent: one vs you vs they/people",
+    "namePl": "Wybór i konsekwencja: one, you a they/people",
+    "rules": [
+      { "label": "Skala formalności", "text": "one (bardzo formalne) > people (neutralne, opisuje ludzi jako grupę) > you (neutralne/nieformalne, bezpośrednie) > they (nieformalne, nieokreślony sprawca)" },
+      { "label": "Spójność w tekście", "text": "Raz wybranego zaimka bezosobowego (najczęściej one lub you) należy trzymać się konsekwentnie w całym akapicie — mieszanie one i you w jednym fragmencie brzmi niezręcznie" },
+      { "label": "Częsty błąd", "text": "Rozpoczęcie zdania od one, a kontynuowanie go zaimkiem you (lub jego formami) jest uznawane za błąd stylistyczny w formalnym piśmie" }
+    ],
+    "usage": [
+      "W formalnym eseju lub raporcie: konsekwentnie one... one's... oneself",
+      "W rozmowie i mniej formalnym tekście: konsekwentnie you... your... yourself",
+      "Gdy chodzi o nieznanego sprawcę działania (władze, firmy) — they, nie you ani one",
+      "Gdy chodzi o ludzi jako grupę społeczną w uogólnieniu — people, szczególnie z czasownikami postaw (people believe, people think)"
+    ],
+    "tags": ["stylistic consistency", "one...one's", "you...your", "formal vs informal"],
+    "examples": [
+      { "en": "One should always proofread one's work before submitting it.", "pl": "Człowiek powinien zawsze sprawdzić swoją pracę przed oddaniem jej." },
+      { "en": "You should always proofread your work before handing it in.", "pl": "Powinieneś zawsze sprawdzić swoją pracę przed oddaniem jej." },
+      { "en": "They're building a new hospital on the edge of town.", "pl": "Budują nowy szpital na obrzeżach miasta." },
+      { "en": "People generally dislike sudden change, even when it's for the better.", "pl": "Ludzie na ogół nie lubią nagłych zmian, nawet gdy są na lepsze." }
+    ]
+  }
+]
