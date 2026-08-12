@@ -1,0 +1,202 @@
+[
+  {
+    "id": "role_vs_similarity",
+    "order": 1,
+    "nameEn": "as (role/function) vs. like (similarity)",
+    "namePl": "as (rola/funkcja) a like (podobieństwo)",
+    "rules": [
+      {
+        "label": "as + rzeczownik",
+        "text": "as + rzeczownik mówi, kim/czym ktoś/coś naprawdę jest lub jaką pełni funkcję — podmiot faktycznie zajmuje tę rolę"
+      },
+      {
+        "label": "like + rzeczownik",
+        "text": "like + rzeczownik mówi, że ktoś/coś jest podobny do kogoś/czegoś innego — podmiot NIE jest tą osobą/rzeczą, tylko ją przypomina"
+      },
+      {
+        "label": "pułapka znaczeniowa",
+        "text": "zamiana as na like zmienia sens zdania: 'As your doctor, I advise rest' (jestem twoim lekarzem) vs. 'Like your doctor, I advise rest' (nie jestem twoim lekarzem, ale zgadzam się z nim)"
+      }
+    ],
+    "usage": [
+      "Opis rzeczywistej roli, zawodu lub funkcji: As the team leader, she makes the final decision.",
+      "Opis czegoś użytego w danej funkcji: They used an old ladder as a bookshelf. (ladder faktycznie służy jako półka)",
+      "Podobieństwo bez tożsamości: He worked like a machine. (nie jest maszyną, ale tak wygląda jego praca)",
+      "Kontrast na początku zdania: As a native speaker, I can tell it sounds odd. vs. Like a native speaker, he speaks fluently. (nie jest native speakerem)"
+    ],
+    "tags": [
+      "as a teacher",
+      "as your manager",
+      "like a robot",
+      "like his father"
+    ],
+    "examples": [
+      {
+        "en": "As the company's founder, she has the final say in every decision.",
+        "pl": "Jako założycielka firmy, to ona ma ostatnie słowo w każdej decyzji."
+      },
+      {
+        "en": "Like his father, he has a real talent for negotiation, though he never studied law.",
+        "pl": "Podobnie jak jego ojciec, ma prawdziwy talent do negocjacji, choć nigdy nie studiował prawa."
+      },
+      {
+        "en": "We used the garage as a temporary office during the renovation.",
+        "pl": "Używaliśmy garażu jako tymczasowego biura podczas remontu."
+      },
+      {
+        "en": "She sings like an angel, but she has actually never had a single singing lesson.",
+        "pl": "Śpiewa jak anioł, ale tak naprawdę nigdy nie miała ani jednej lekcji śpiewu."
+      }
+    ]
+  },
+  {
+    "id": "manner_conjunction",
+    "order": 2,
+    "nameEn": "as (manner conjunction) vs. like (informal substitute)",
+    "namePl": "as (spójnik sposobu) a like (nieformalny zamiennik)",
+    "rules": [
+      {
+        "label": "as + zdanie",
+        "text": "as jako spójnik łączy się z pełnym zdaniem (podmiot + orzeczenie) i oznacza 'w sposób, w jaki' lub 'zgodnie z' — standardowa, poprawna forma we wszystkich rejestrach"
+      },
+      {
+        "label": "like + zdanie",
+        "text": "like w tej samej funkcji (przed pełnym zdaniem) jest formą potoczną, typową dla nieformalnej mowy, zwłaszcza amerykańskiej — w piśmie formalnym i egzaminach unikane"
+      },
+      {
+        "label": "utrwalone zwroty z as",
+        "text": "as agreed, as expected, as planned, as I said, as you know, as instructed — w tych stałych zwrotach używamy wyłącznie as, nigdy like"
+      }
+    ],
+    "usage": [
+      "Formalne wskazanie sposobu wykonania czynności: Please proceed as instructed in the manual.",
+      "Odniesienie do wcześniejszych ustaleń: As agreed, the payment was made in three instalments.",
+      "Potoczny odpowiednik w mowie codziennej: Nobody showed up, like I expected. (nieformalnie, zamiast as I expected)",
+      "'Do as I say' (formalnie poprawne) vs. 'Do like I say' (potoczne, krytykowane w gramatyce normatywnej)"
+    ],
+    "tags": [
+      "as agreed",
+      "as instructed",
+      "as expected",
+      "like I said (informal)"
+    ],
+    "examples": [
+      {
+        "en": "As we discussed at the meeting, the deadline has been moved to Friday.",
+        "pl": "Zgodnie z tym, co ustaliliśmy na spotkaniu, termin został przesunięty na piątek."
+      },
+      {
+        "en": "The results turned out exactly as we expected.",
+        "pl": "Wyniki okazały się dokładnie takie, jak się spodziewaliśmy."
+      },
+      {
+        "en": "Nobody wanted to help, like I told you would happen.",
+        "pl": "Nikt nie chciał pomóc, tak jak ci mówiłem, że tak będzie."
+      },
+      {
+        "en": "Please fill in the form exactly as shown in the example.",
+        "pl": "Proszę wypełnić formularz dokładnie tak, jak pokazano w przykładzie."
+      }
+    ]
+  },
+  {
+    "id": "time_reason",
+    "order": 3,
+    "nameEn": "as for time and reason",
+    "namePl": "as w znaczeniu czasowym i przyczynowym",
+    "rules": [
+      {
+        "label": "as = w miarę jak / podczas gdy",
+        "text": "as może wprowadzać zdanie czasowe opisujące dwie czynności zachodzące równocześnie lub jedną rozwijającą się w miarę trwania drugiej"
+      },
+      {
+        "label": "as = ponieważ",
+        "text": "as może wprowadzać zdanie przyczynowe (podobnie jak because/since), zwykle na początku zdania, w bardziej formalnym rejestrze"
+      },
+      {
+        "label": "like nie zastępuje as w tych znaczeniach",
+        "text": "like nie może wprowadzać zdania czasowego ani przyczynowego — w tych funkcjach zawsze używamy as, since lub because, nigdy like"
+      }
+    ],
+    "usage": [
+      "Dwie czynności jednocześnie: As she opened the door, the phone started ringing.",
+      "Stopniowa zmiana: As the sun set, the temperature began to drop rapidly.",
+      "Przyczyna w formalnym stylu: As it was getting late, we decided to postpone the meeting.",
+      "Kontrast: As he was tired, he went to bed early. (przyczyna) — nigdy: Like he was tired..."
+    ],
+    "tags": [
+      "as she walked in",
+      "as time went by",
+      "as it was raining",
+      "as the price rose"
+    ],
+    "examples": [
+      {
+        "en": "As the plane took off, she finally allowed herself to relax.",
+        "pl": "Kiedy samolot startował, w końcu pozwoliła sobie się zrelaksować."
+      },
+      {
+        "en": "As prices continued to rise, more and more families struggled to make ends meet.",
+        "pl": "W miarę jak ceny wciąż rosły, coraz więcej rodzin z trudem wiązało koniec z końcem."
+      },
+      {
+        "en": "As none of the witnesses agreed to testify, the case was eventually dropped.",
+        "pl": "Ponieważ żaden ze świadków nie zgodził się zeznawać, sprawa została ostatecznie umorzona."
+      },
+      {
+        "en": "As we got closer to the deadline, the whole team grew increasingly nervous.",
+        "pl": "W miarę jak zbliżaliśmy się do terminu, cały zespół stawał się coraz bardziej zdenerwowany."
+      }
+    ]
+  },
+  {
+    "id": "such_as_vs_like",
+    "order": 4,
+    "nameEn": "such as vs. like for examples",
+    "namePl": "such as a like przy podawaniu przykładów",
+    "rules": [
+      {
+        "label": "such as = jednoznaczny przykład",
+        "text": "such as wprowadza konkretne, jednoznaczne przykłady należące do wymienionej wcześniej kategorii — standard w stylu formalnym i pisanym"
+      },
+      {
+        "label": "like = przykład lub tylko podobieństwo",
+        "text": "like w tej samej pozycji bywa niejednoznaczne — może oznaczać zarówno konkretny przykład, jak i coś jedynie podobnego, ale spoza wymienionej grupy; częstsze w mowie potocznej"
+      },
+      {
+        "label": "as such — nie mylić!",
+        "text": "as such to odrębny, utrwalony zwrot znaczący 'jako taki/sam w sobie' (np. 'There is no rule as such') — nie ma nic wspólnego z such as"
+      }
+    ],
+    "usage": [
+      "Formalne wyliczenie przykładów: Some European languages, such as Portuguese and Romanian, are Romance languages.",
+      "Potoczne wyliczenie: We visited a few cities like Paris and Rome. (zwykle rozumiane jako przykłady)",
+      "Unikanie niejasności w tekście formalnym: raporty i eseje preferują such as, bo nie budzi wątpliwości co do przynależności do kategorii",
+      "Fixed phrase 'as such': The proposal has no legal force as such, but it does carry moral weight."
+    ],
+    "tags": [
+      "such as",
+      "cities like",
+      "as such",
+      "for example"
+    ],
+    "examples": [
+      {
+        "en": "The museum houses works by several Renaissance painters, such as Botticelli and Raphael.",
+        "pl": "Muzeum przechowuje dzieła kilku malarzy renesansowych, takich jak Botticelli i Rafael."
+      },
+      {
+        "en": "Companies like Google and Amazon have transformed the way we shop and search for information.",
+        "pl": "Firmy takie jak Google i Amazon zmieniły sposób, w jaki robimy zakupy i szukamy informacji."
+      },
+      {
+        "en": "Problems such as unemployment and inflation dominated the election campaign.",
+        "pl": "Problemy takie jak bezrobocie i inflacja zdominowały kampanię wyborczą."
+      },
+      {
+        "en": "Her new title doesn't carry any real authority as such, but it does look good on paper.",
+        "pl": "Jej nowy tytuł nie niesie ze sobą żadnej realnej władzy jako taki, ale dobrze wygląda na papierze."
+      }
+    ]
+  }
+]
