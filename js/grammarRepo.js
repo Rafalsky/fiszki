@@ -110,6 +110,7 @@ const THEORY_URLS = {
   verbless_clauses: new URL("../data/verbless_clauses.json", import.meta.url),
   infinitive_postmodifiers: new URL("../data/infinitive_postmodifiers.json", import.meta.url),
   dislocation: new URL("../data/dislocation.json", import.meta.url),
+  rhetorical_questions: new URL("../data/rhetorical_questions.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -215,6 +216,7 @@ const DRILLS_URLS = {
   verbless_clauses: new URL("../data/verbless_clausesDrills.json", import.meta.url),
   infinitive_postmodifiers: new URL("../data/infinitive_postmodifiersDrills.json", import.meta.url),
   dislocation: new URL("../data/dislocationDrills.json", import.meta.url),
+  rhetorical_questions: new URL("../data/rhetorical_questionsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
