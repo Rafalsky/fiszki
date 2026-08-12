@@ -1,0 +1,102 @@
+[
+  {
+    "id": "yes_no_rhetorical",
+    "order": 1,
+    "nameEn": "Yes/No rhetorical questions",
+    "namePl": "Retoryczne pytania rozstrzygnięcia (Yes/No)",
+    "rules": [
+      { "label": "Forma przecząca → mocne twierdzenie", "text": "Pytanie w formie przeczącej nie oczekuje odpowiedzi — komunikuje silne przekonanie mówiącego, że coś jest prawdą (Isn't that fantastic? = To naprawdę fantastyczne.)" },
+      { "label": "Forma twierdząca → mocne zaprzeczenie", "text": "Pytanie w formie twierdzącej może sugerować, że mówiący uważa coś za nieprawdę lub niesprawiedliwe (Is that fair? = To nie jest sprawiedliwe.)" },
+      { "label": "Intonacja opadająca", "text": "W mowie retoryczne Yes/No questions często wymawia się z intonacją opadającą (jak w zdaniu oznajmującym), nie wznoszącą jak w prawdziwym pytaniu" },
+      { "label": "Brak oczekiwanej odpowiedzi", "text": "Rozmówca zazwyczaj nie odpowiada dosłownie — pytanie służy podkreśleniu opinii, a nie zdobyciu informacji" }
+    ],
+    "usage": [
+      "Wyrażanie oburzenia lub niedowierzania (Have you completely lost your mind?)",
+      "Podkreślanie oczywistości czegoś (Isn't it obvious what he wants?)",
+      "Ironiczne skomentowanie sytuacji (Oh, isn't that just typical?)",
+      "Podkreślanie wspólnej opinii i budowanie zgody ze słuchaczem (Wouldn't it be wonderful to live by the sea?)"
+    ],
+    "tags": ["Isn't it obvious", "Is that fair", "Wouldn't it be wonderful", "Have you lost your mind"],
+    "examples": [
+      { "en": "Isn't it obvious what he wants?", "pl": "Czy to nie jest oczywiste, czego on chce?" },
+      { "en": "Is that fair on the rest of the team?", "pl": "Czy to jest sprawiedliwe wobec reszty zespołu?" },
+      { "en": "Wouldn't it be wonderful to live by the sea?", "pl": "Czy nie byłoby wspaniale mieszkać nad morzem?" },
+      { "en": "Have you completely lost your mind?", "pl": "Czy ty całkiem oszalałeś?" }
+    ]
+  },
+  {
+    "id": "wh_rhetorical",
+    "order": 2,
+    "nameEn": "Wh-rhetorical questions",
+    "namePl": "Retoryczne pytania z wh- (nikt / nic / nigdy)",
+    "rules": [
+      { "label": "Ukryte znaczenie 'nikt/nic/nigdzie'", "text": "Pytania z who, what, where, why implikują odpowiedź zerową lub negatywną (Who cares? = Nobody cares. / What's the point? = There's no point.)" },
+      { "label": "Why + bezokolicznik bez to", "text": "Why + czasownik bazowy wyraża, że dana czynność jest bezcelowa lub niepotrzebna (Why bother? Why wait?)" },
+      { "label": "How + modal", "text": "How + should/could + podmiot wyraża, że mówiący nie ma (i nie powinien mieć) takiej wiedzy (How should I know? How could you possibly understand?)" },
+      { "label": "What + on earth / the point of", "text": "Wzmacniacze on earth, the hell, the point of nadają pytaniu silniejszy, często zirytowany ton" }
+    ],
+    "usage": [
+      "Sugerowanie, że coś jest bezwartościowe lub bezsensowne (What's the point of complaining?)",
+      "Wyrażanie obojętności lub braku zainteresowania (Who cares what they think?)",
+      "Odrzucenie odpowiedzialności za brak wiedzy (How should I know what he's planning?)",
+      "Podkreślenie, że coś jest niemożliwe lub nie ma sensu tego robić (Why bother arguing with him?)"
+    ],
+    "tags": ["Who cares", "What's the point of", "Why bother", "How should I know"],
+    "examples": [
+      { "en": "Who cares what the neighbours think?", "pl": "Kogo obchodzi, co myślą sąsiedzi?" },
+      { "en": "What's the point of complaining if nothing changes?", "pl": "Jaki jest sens narzekać, skoro nic się nie zmienia?" },
+      { "en": "Why bother arguing with someone so stubborn?", "pl": "Po co się kłócić z kimś tak upartym?" },
+      { "en": "How should I know what he's planning?", "pl": "Skąd mam wiedzieć, co on planuje?" }
+    ]
+  },
+  {
+    "id": "tag_rhetorical",
+    "order": 3,
+    "nameEn": "Rhetorical question tags",
+    "namePl": "Retoryczne question tags (nacechowane opinią)",
+    "rules": [
+      { "label": "Intonacja opadająca = brak pytania", "text": "Question tag z intonacją opadającą po zdaniu twierdzącym nie prosi o potwierdzenie — wyraża silną, gotową opinię, którą mówiący zakłada, że słuchacz podziela (Great film, wasn't it! z intonacją opadającą)" },
+      { "label": "Zgodność biegunów", "text": "Zdanie twierdzące + tag przeczący (i odwrotnie) — ta sama reguła co w zwykłych tagach, ale funkcja jest komentująca, nie pytająca" },
+      { "label": "Ironiczne/oburzone tagi", "text": "Tagi po zdaniu z wyraźnie negatywną oceną wzmacniają krytykę lub sarkazm (Real clever, aren't you?)" },
+      { "label": "Reakcja bez odpowiedzi słownej", "text": "Rozmówca zwykle odpowiada mruknięciem zgody lub gestem, a nie pełną informacją — bo pytanie nie było prawdziwym pytaniem" }
+    ],
+    "usage": [
+      "Dzielenie się entuzjazmem i oczekiwanie potwierdzenia opinii (Lovely evening, isn't it!)",
+      "Sarkastyczne skomentowanie czyjegoś zachowania (Real clever, aren't you?)",
+      "Podkreślenie irytacji lub dezaprobaty (Nice mess you've made, haven't you?)",
+      "Podsumowanie oczywistej sytuacji, do której nie trzeba komentarza (Small world, isn't it!)"
+    ],
+    "tags": ["isn't it!", "aren't you", "haven't you", "wasn't it!"],
+    "examples": [
+      { "en": "Lovely evening, isn't it!", "pl": "Piękny wieczór, prawda!" },
+      { "en": "Real clever, aren't you?", "pl": "Ale z ciebie mądrala, co nie?" },
+      { "en": "Nice mess you've made, haven't you?", "pl": "Ale bałagan zrobiłeś, no nie?" },
+      { "en": "Small world, isn't it!", "pl": "Mały świat, prawda!" }
+    ]
+  },
+  {
+    "id": "idiomatic_rhetorical",
+    "order": 4,
+    "nameEn": "Fixed rhetorical formulas",
+    "namePl": "Utarte formuły retoryczne",
+    "rules": [
+      { "label": "Since when...?", "text": "Wyraża zaskoczenie i niedowierzanie wobec nowej, nieoczekiwanej sytuacji, często z podtekstem sprzeciwu (Since when do you care about fashion?)" },
+      { "label": "Is the Pope Catholic? / Do bears...?", "text": "Idiomatyczne pytania-odpowiedzi na pytanie oczywiste — odpowiadają twierdząco w żartobliwy sposób, sugerując 'oczywiście, że tak'" },
+      { "label": "You don't say! / No kidding!", "text": "Wykrzyknienia w formie pseudo-pytania wyrażające ironiczne 'zaskoczenie' czymś oczywistym lub już wiadomym" },
+      { "label": "What difference does it make?", "text": "Utarta formuła sugerująca, że dana rzecz nie ma żadnego znaczenia — funkcjonuje jako mocne stwierdzenie 'to nie ma znaczenia'" }
+    ],
+    "usage": [
+      "Wyrażanie niedowierzania wobec zmiany czyjegoś zachowania (Since when do you get up before noon?)",
+      "Żartobliwe potwierdzenie czegoś oczywistego (Is the Pope Catholic?)",
+      "Ironiczna reakcja na banalną informację (You don't say!)",
+      "Podkreślenie, że coś jest bez znaczenia w danej sytuacji (What difference does it make now?)"
+    ],
+    "tags": ["Since when", "Is the Pope Catholic", "You don't say", "What difference does it make"],
+    "examples": [
+      { "en": "Since when do you care about fashion?", "pl": "Odkąd to obchodzi cię moda?" },
+      { "en": "\"He's actually quite talented.\" \"Is the Pope Catholic?\"", "pl": "„On jest naprawdę zdolny.” „A niedźwiedź srak w lesie?”" },
+      { "en": "\"It's raining again.\" \"You don't say!\"", "pl": "„Znowu pada.” „Ale niespodzianka!”" },
+      { "en": "What difference does it make what he thinks now?", "pl": "Jakie to ma teraz znaczenie, co on myśli?" }
+    ]
+  }
+]

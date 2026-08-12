@@ -712,5 +712,12 @@
     "title": "Dyslokacja (lewa i prawa)",
     "desc": "Wysunięcie tematu poza zdanie z zaimkiem wskazującym (left/right dislocation) — This guy, I really trust him. / He's brilliant, that guy. — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 36
+  },
+  {
+    "id": "rhetorical_questions",
+    "icon": "🗯️",
+    "title": "Pytania retoryczne",
+    "desc": "Pytania retoryczne w angielskim: przeczące pytania podkreślające twierdzenie, pytania z wh- sugerujące brak odpowiedzi, retoryczne question tags i utarte formuły. Teoria, ćwiczenia z lukami i testy.",
+    "drillCount": 32
   }
 ]
