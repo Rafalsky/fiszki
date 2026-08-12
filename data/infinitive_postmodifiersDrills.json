@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "superlative_ordinal_infinitive",
+    "prompt": "Neil Armstrong was the first man ___ (walk) on the Moon.",
+    "answer": "to walk",
+    "distractors": ["walking", "who walk", "walked"]
+  },
+  {
+    "id": 2,
+    "itemId": "superlative_ordinal_infinitive",
+    "prompt": "She was the only student ___ (pass) the exam on the first try.",
+    "answer": "to pass",
+    "distractors": ["passing", "passed", "for passing"]
+  },
+  {
+    "id": 3,
+    "itemId": "superlative_ordinal_infinitive",
+    "prompt": "He was the last guest ___ (leave) the party.",
+    "answer": "to leave",
+    "distractors": ["leaving", "left", "who leaving"]
+  },
+  {
+    "id": 4,
+    "itemId": "superlative_ordinal_infinitive",
+    "prompt": "This is the easiest way ___ (solve) the problem.",
+    "answer": "to solve",
+    "distractors": ["solving", "solve", "for solve"]
+  },
+  {
+    "id": 5,
+    "itemId": "superlative_ordinal_infinitive",
+    "prompt": "She was the first woman ___ (become) president of the company.",
+    "answer": "to become",
+    "distractors": ["becoming", "became", "who becoming"]
+  },
+  {
+    "id": 6,
+    "itemId": "superlative_ordinal_infinitive",
+    "prompt": "He was the fastest runner ___ (finish) the marathon that year.",
+    "answer": "to finish",
+    "distractors": ["finishing", "finished", "for finish"]
+  },
+  {
+    "id": 7,
+    "itemId": "superlative_ordinal_infinitive",
+    "prompt": "Who was the next person ___ (speak) at the conference?",
+    "answer": "to speak",
+    "distractors": ["speaking", "spoke", "for speaking"]
+  },
+  {
+    "id": 8,
+    "itemId": "superlative_ordinal_infinitive",
+    "prompt": "She's the only person ___ (know) the whole truth.",
+    "answer": "to know",
+    "distractors": ["knowing", "knew", "for knowing"]
+  },
+  {
+    "id": 9,
+    "itemId": "superlative_ordinal_infinitive",
+    "prompt": "This was the third attempt ___ (climb) the mountain successfully.",
+    "answer": "to climb",
+    "distractors": ["climbing", "climbed", "for climb"]
+  },
+  {
+    "id": 10,
+    "itemId": "superlative_ordinal_infinitive",
+    "prompt": "He was the only witness ___ (see) the whole accident.",
+    "answer": "to see",
+    "distractors": ["seeing", "saw", "who seeing"]
+  },
+  {
+    "id": 11,
+    "itemId": "indefinite_pronoun_infinitive",
+    "prompt": "I'm thirsty — I need something ___ (drink).",
+    "answer": "to drink",
+    "distractors": ["drinking", "for drink", "drunk"]
+  },
+  {
+    "id": 12,
+    "itemId": "indefinite_pronoun_infinitive",
+    "prompt": "There's nothing ___ (worry) about; everything is fine.",
+    "answer": "to worry",
+    "distractors": ["worrying", "for worry", "worried"]
+  },
+  {
+    "id": 13,
+    "itemId": "indefinite_pronoun_infinitive",
+    "prompt": "We had nowhere ___ (stay) that night, so we slept in the car.",
+    "answer": "to stay",
+    "distractors": ["staying", "for stay", "stayed"]
+  },
+  {
+    "id": 14,
+    "itemId": "indefinite_pronoun_infinitive",
+    "prompt": "She finally found someone ___ (share) her problems with.",
+    "answer": "to share",
+    "distractors": ["sharing", "for sharing", "shared"]
+  },
+  {
+    "id": 15,
+    "itemId": "indefinite_pronoun_infinitive",
+    "prompt": "I don't have a pen ___ (write) with — can you lend me one?",
+    "answer": "to write",
+    "distractors": ["writing", "for write", "wrote"]
+  },
+  {
+    "id": 16,
+    "itemId": "indefinite_pronoun_infinitive",
+    "prompt": "He had no one ___ (turn) to when things went wrong.",
+    "answer": "to turn",
+    "distractors": ["turning", "for turn", "turned"]
+  },
+  {
+    "id": 17,
+    "itemId": "indefinite_pronoun_infinitive",
+    "prompt": "Is there anything ___ (eat) in the fridge?",
+    "answer": "to eat",
+    "distractors": ["eating", "for eat", "eaten"]
+  },
+  {
+    "id": 18,
+    "itemId": "indefinite_pronoun_infinitive",
+    "prompt": "We had nowhere ___ (sit), so we stood at the back.",
+    "answer": "to sit",
+    "distractors": ["sitting", "for sit", "sat"]
+  },
+  {
+    "id": 19,
+    "itemId": "indefinite_pronoun_infinitive",
+    "prompt": "Bring a book ___ (read) on the train — it's a long journey.",
+    "answer": "to read",
+    "distractors": ["reading", "for read", "read"]
+  },
+  {
+    "id": 20,
+    "itemId": "indefinite_pronoun_infinitive",
+    "prompt": "She was lonely and had nobody ___ (talk) to.",
+    "answer": "to talk",
+    "distractors": ["talking", "for talk", "talked"]
+  },
+  {
+    "id": 21,
+    "itemId": "abstract_noun_infinitive",
+    "prompt": "She has the ability ___ (solve) even the most complex problems.",
+    "answer": "to solve",
+    "distractors": ["solving", "for solve", "solved"]
+  },
+  {
+    "id": 22,
+    "itemId": "abstract_noun_infinitive",
+    "prompt": "He made the decision ___ (resign) from his post.",
+    "answer": "to resign",
+    "distractors": ["resigning", "for resign", "resigned"]
+  },
+  {
+    "id": 23,
+    "itemId": "abstract_noun_infinitive",
+    "prompt": "Every citizen has the right ___ (vote) in a free election.",
+    "answer": "to vote",
+    "distractors": ["voting", "for vote", "voted"]
+  },
+  {
+    "id": 24,
+    "itemId": "abstract_noun_infinitive",
+    "prompt": "Their failure ___ (respond) in time cost them the contract.",
+    "answer": "to respond",
+    "distractors": ["responding", "for respond", "responded"]
+  },
+  {
+    "id": 25,
+    "itemId": "abstract_noun_infinitive",
+    "prompt": "We had no intention ___ (upset) anyone with our comment.",
+    "answer": "to upset",
+    "distractors": ["upsetting", "for upset", "upset"]
+  },
+  {
+    "id": 26,
+    "itemId": "abstract_noun_infinitive",
+    "prompt": "She finally got the opportunity ___ (study) abroad.",
+    "answer": "to study",
+    "distractors": ["studying", "for study", "studied"]
+  },
+  {
+    "id": 27,
+    "itemId": "abstract_noun_infinitive",
+    "prompt": "He has a strong desire ___ (succeed) in his new career.",
+    "answer": "to succeed",
+    "distractors": ["succeeding", "for succeed", "succeeded"]
+  },
+  {
+    "id": 28,
+    "itemId": "abstract_noun_infinitive",
+    "prompt": "Their attempt ___ (rescue) the climbers failed due to the storm.",
+    "answer": "to rescue",
+    "distractors": ["rescuing", "for rescue", "rescued"]
+  },
+  {
+    "id": 29,
+    "itemId": "abstract_noun_infinitive",
+    "prompt": "There's no need ___ (worry) — everything is under control.",
+    "answer": "to worry",
+    "distractors": ["worrying", "for worry", "worried"]
+  },
+  {
+    "id": 30,
+    "itemId": "abstract_noun_infinitive",
+    "prompt": "They finally reached an agreement ___ (share) the costs equally.",
+    "answer": "to share",
+    "distractors": ["sharing", "for share", "shared"]
+  },
+  {
+    "id": 31,
+    "itemId": "passive_infinitive_postmodifier",
+    "prompt": "There's still a lot of work ___ (do) before the deadline.",
+    "answer": "to do",
+    "distractors": ["doing", "for do", "done"]
+  },
+  {
+    "id": 32,
+    "itemId": "passive_infinitive_postmodifier",
+    "prompt": "This is a decision ___ (make) carefully, not in a hurry.",
+    "answer": "to be made",
+    "distractors": ["to make", "making", "made"]
+  },
+  {
+    "id": 33,
+    "itemId": "passive_infinitive_postmodifier",
+    "prompt": "He was the last person ___ (inform) about the changes.",
+    "answer": "to be informed",
+    "distractors": ["to inform", "informing", "informed"]
+  },
+  {
+    "id": 34,
+    "itemId": "passive_infinitive_postmodifier",
+    "prompt": "There are several issues ___ (address) at the meeting.",
+    "answer": "to be addressed",
+    "distractors": ["to address", "addressing", "addressed"]
+  },
+  {
+    "id": 35,
+    "itemId": "passive_infinitive_postmodifier",
+    "prompt": "This letter is urgent — it's a letter ___ (sign) today.",
+    "answer": "to be signed",
+    "distractors": ["to sign", "signing", "signed"]
+  },
+  {
+    "id": 36,
+    "itemId": "passive_infinitive_postmodifier",
+    "prompt": "We still have plenty ___ (read) before the exam, so let's start now.",
+    "answer": "to read",
+    "distractors": ["to be read", "reading", "read"]
+  },
+  {
+    "id": 37,
+    "itemId": "passive_infinitive_postmodifier",
+    "prompt": "There are a few matters ___ (discuss) before we close the meeting.",
+    "answer": "to be discussed",
+    "distractors": ["to discuss", "discussing", "discussed"]
+  },
+  {
+    "id": 38,
+    "itemId": "passive_infinitive_postmodifier",
+    "prompt": "It's a serious problem ___ (solve) as soon as possible.",
+    "answer": "to be solved",
+    "distractors": ["to solve", "solving", "solved"]
+  },
+  {
+    "id": 39,
+    "itemId": "passive_infinitive_postmodifier",
+    "prompt": "There's nothing more ___ (say) — the decision is final.",
+    "answer": "to say",
+    "distractors": ["to be said", "saying", "said"]
+  },
+  {
+    "id": 40,
+    "itemId": "passive_infinitive_postmodifier",
+    "prompt": "The report contains several errors ___ (correct) before publication.",
+    "answer": "to be corrected",
+    "distractors": ["to correct", "correcting", "corrected"]
+  }
+]
