@@ -1,0 +1,117 @@
+[
+  {
+    "id": "prepositional_verb_passive",
+    "order": 1,
+    "nameEn": "Passive of prepositional verbs (look after, deal with, pay for)",
+    "namePl": "Strona bierna czasowników przyimkowych (look after, deal with, pay for)",
+    "rules": [
+      { "label": "Budowa", "text": "dopełnienie czasownika przyimkowego staje się podmiotem zdania biernego, a sam przyimek NIE znika i zostaje BEZPOŚREDNIO po czasowniku posiłkowym be + III forma: look after the baby → the baby is looked after; deal with the problem → the problem was dealt with" },
+      { "label": "Jeden czasownik przechodni", "text": "czasownik + przyimek działają razem jak jeden czasownik przechodni (mają jedno dopełnienie) — dlatego pasywizacja przebiega tak samo jak przy zwykłym czasowniku przechodnim, tylko forma orzeczenia to be + III forma + przyimek" },
+      { "label": "Sprawca (by)", "text": "jeśli podajemy wykonawcę czynności, 'by + wykonawca' stoi na samym końcu, PO przyimku czasownika: The children are looked after by a qualified nanny." }
+    ],
+    "usage": [
+      "Gdy chcemy podkreślić dopełnienie czasownika przyimkowego, a nie jego wykonawcę — typowe w opisach, sprawozdaniach i formalnych relacjach ('The matter is being dealt with.')",
+      "Gdy wykonawca jest nieznany, nieistotny lub oczywisty z kontekstu i wolimy go pominąć",
+      "W odpowiedziach na skargi i w komunikacji biznesowej: 'Your complaint has been looked into.'"
+    ],
+    "tags": ["look after → be looked after", "deal with → be dealt with", "pay for → be paid for", "look into", "attend to"],
+    "examples": [
+      { "en": "The baby is looked after by her grandmother every morning.", "pl": "Dzieckiem opiekuje się jej babcia każdego ranka." },
+      { "en": "This problem has already been dealt with.", "pl": "Ten problem został już rozwiązany." },
+      { "en": "All the drinks were paid for by the company.", "pl": "Za wszystkie napoje zapłaciła firma." },
+      { "en": "Your complaint is being looked into at the moment.", "pl": "Twoja skarga jest właśnie badana." }
+    ]
+  },
+  {
+    "id": "separable_phrasal_passive",
+    "order": 2,
+    "nameEn": "Passive of separable phrasal verbs (turn off, throw away, call off)",
+    "namePl": "Strona bierna rozdzielnych czasowników frazowych (turn off, throw away, call off)",
+    "rules": [
+      { "label": "Budowa", "text": "dopełnienie staje się podmiotem, a cząstka (particle) zostaje razem z czasownikiem, tuż po be + III forma: turn off the lights → the lights were turned off; call off the meeting → the meeting was called off" },
+      { "label": "Cząstka nigdy nie wraca przed be", "text": "mimo że w formie czynnej cząstka może stać przed lub po dopełnieniu (turn the lights off / turn off the lights), w stronie biernej ZAWSZE stoi po imiesłowie, nigdy przed be: poprawnie 'the lights were turned off', niepoprawnie 'the lights off were turned'" },
+      { "label": "Nierozdzielne czasowniki przechodnie", "text": "czasowniki, których w formie czynnej NIE można rozdzielić dopełnieniem (np. come across, run into, look after — w znaczeniu przechodnim), pasywizuje się dokładnie tak samo: come across an old photo → an old photo was come across (rzadkie, zwykle unika się przez parafrazę)" }
+    ],
+    "usage": [
+      "Instrukcje, ogłoszenia i procedury, gdzie ważna jest czynność, a nie wykonawca: 'The event has been called off due to bad weather.'",
+      "Wiadomości i nagłówki prasowe: 'The flight was delayed and later cancelled.'",
+      "Opisy stanu po wykonaniu czynności: 'The rubbish has been thrown away already.'"
+    ],
+    "tags": ["turn off → be turned off", "throw away → be thrown away", "call off → be called off", "put off", "cancel out"],
+    "examples": [
+      { "en": "The lights were turned off before everyone left the office.", "pl": "Światła zostały wyłączone, zanim wszyscy wyszli z biura." },
+      { "en": "The meeting was called off at the last minute.", "pl": "Spotkanie zostało odwołane w ostatniej chwili." },
+      { "en": "All the old furniture has been thrown away.", "pl": "Wszystkie stare meble zostały wyrzucone." },
+      { "en": "The trip was put off until next month.", "pl": "Wycieczkę odłożono do przyszłego miesiąca." }
+    ]
+  },
+  {
+    "id": "non_passivizable_intransitive",
+    "order": 3,
+    "nameEn": "Phrasal verbs that cannot be passivized",
+    "namePl": "Czasowniki frazowe, których nie da się pasywizować",
+    "rules": [
+      { "label": "Brak dopełnienia = brak strony biernej", "text": "czasowniki frazowe nieprzechodnie (bez dopełnienia) NIE mają formy biernej, ponieważ nie ma nic, co mogłoby stać się podmiotem: break down, turn up, go off, show up, take off (o samolocie) — nie istnieje 'was broken down' w znaczeniu 'zepsuł się'" },
+      { "label": "Ta sama forma, inne znaczenie", "text": "niektóre czasowniki wyglądają identycznie w formie przechodniej i nieprzechodniej, ale tylko znaczenie przechodnie da się pasywizować: 'break down the door' (przechodnie, ma pasywę: the door was broken down) vs. 'the car broke down' (nieprzechodnie, brak pasywy)" },
+      { "label": "Czasowniki stanowe i wzajemne", "text": "czasowniki frazowe opisujące stan lub wzajemną relację bez wyraźnego 'obiektu poddanego czynności' zwykle też unikają strony biernej, nawet jeśli formalnie mają dopełnienie: get on with somebody, hang out with friends" }
+    ],
+    "usage": [
+      "Rozpoznawanie, kiedy czasownik frazowy jest przechodni (ma dopełnienie → można pasywizować) a kiedy nieprzechodni (brak dopełnienia → strona bierna niemożliwa)",
+      "Unikanie typowego błędu uczących się: próby tworzenia 'was broken down' zamiast poprawnego 'broke down' w znaczeniu awarii",
+      "Parafrazowanie zamiast wymuszonej strony biernej, gdy czasownik jest nieprzechodni: zamiast szukać pasywy, zmienia się całą konstrukcję zdania"
+    ],
+    "tags": ["break down (nieprzechodnie)", "turn up", "go off", "show up", "take off"],
+    "examples": [
+      { "en": "The car broke down on the motorway. (NOT: the car was broken down)", "pl": "Samochód zepsuł się na autostradzie." },
+      { "en": "She turned up late again, as usual.", "pl": "Znowu spóźniła się, jak zwykle." },
+      { "en": "The alarm went off in the middle of the night.", "pl": "Alarm włączył się w środku nocy." },
+      { "en": "The door was broken down by the firefighters. (przechodnie, tu pasywa jest możliwa)", "pl": "Drzwi zostały wyważone przez strażaków." }
+    ]
+  },
+  {
+    "id": "three_word_verb_passive",
+    "order": 4,
+    "nameEn": "Passive of three-word (phrasal-prepositional) verbs",
+    "namePl": "Strona bierna czasowników trójczłonowych (look forward to, put up with, catch up on)",
+    "rules": [
+      { "label": "Budowa", "text": "oba elementy (particle + przyimek) zostają razem, w tej samej kolejności, bezpośrednio po be + III forma: look forward to the event → the event is looked forward to; put up with the noise → the noise was put up with" },
+      { "label": "Kolejność się nie zmienia", "text": "particle zawsze stoi przed przyimkiem, tak jak w formie czynnej — nie da się ich zamienić miejscami ani rozdzielić dopełnieniem, które teraz jest już podmiotem" },
+      { "label": "Ograniczona naturalność", "text": "część trójczłonowych czasowników brzmi w stronie biernej nienaturalnie lub bardzo formalnie (np. 'be caught up on') — w mowie potocznej często zastępuje się je parafrazą, ale w piśmie formalnym pasywa jest w pełni akceptowalna i częsta" }
+    ],
+    "usage": [
+      "Formalne zaproszenia i komunikaty: 'The results are eagerly looked forward to.'",
+      "Skargi i opisy trudnych sytuacji, gdzie wykonawca (osoba znosząca coś) jest oczywisty z kontekstu: 'Such behaviour should not be put up with.'",
+      "Raporty i podsumowania, gdzie temat sprawy jest ważniejszy niż kto go realizuje: 'All outstanding issues have been caught up on.'"
+    ],
+    "tags": ["look forward to", "put up with", "catch up on", "look down on", "do away with"],
+    "examples": [
+      { "en": "The concert is being looked forward to by fans all over the country.", "pl": "Fani w całym kraju z niecierpliwością czekają na ten koncert." },
+      { "en": "Such rude behaviour should never be put up with.", "pl": "Takie niegrzeczne zachowanie nigdy nie powinno być tolerowane." },
+      { "en": "All the missed lessons have been caught up on.", "pl": "Wszystkie opuszczone lekcje zostały nadrobione." },
+      { "en": "Old, unfair rules like this one should be done away with.", "pl": "Stare, niesprawiedliwe zasady jak ta powinny zostać zniesione." }
+    ]
+  },
+  {
+    "id": "passive_phrasal_style",
+    "order": 5,
+    "nameEn": "Register and style: when to use the passive of multi-word verbs",
+    "namePl": "Rejestr i styl: kiedy używać strony biernej czasowników wieloczłonowych",
+    "rules": [
+      { "label": "Rejestr formalny i dziennikarski", "text": "strona bierna czasowników złożonych jest szczególnie częsta w wiadomościach, raportach i piśmie formalnym, gdzie liczy się fakt/sytuacja, a nie wykonawca: 'The suspect was picked up by police near the station.'" },
+      { "label": "Unikanie niezgrabnych konstrukcji", "text": "niektóre pasywne formy czasowników wieloczłonowych brzmią sztucznie (np. 'the problem was gone into'); w takich razach rodzimi użytkownicy często wybierają parafrazę z rzeczownikiem odczasownikowym lub inny czasownik zamiast wymuszonej strony biernej" },
+      { "label": "Kontrast z prostą stroną bierną", "text": "gdy istnieje prostszy, jednowyrazowy synonim czasownika złożonego (look after = care for, put off = postpone), w stylu formalnym często wybiera się właśnie synonim zamiast strony biernej czasownika frazowego — obie opcje są poprawne, różnią się tylko rejestrem" }
+    ],
+    "usage": [
+      "Wybór między stroną bierną czasownika złożonego a jego jednowyrazowym synonimem w zależności od rejestru tekstu (formalny raport vs. rozmowa)",
+      "Rozpoznawanie w tekstach dziennikarskich i urzędowych, dlaczego autor użył strony biernej czasownika wieloczłonowego zamiast strony czynnej",
+      "Świadome unikanie nienaturalnie brzmiących pasywnych form rzadziej używanych czasowników złożonych"
+    ],
+    "tags": ["register", "formal vs informal passive", "paraphrase instead of passive", "news style"],
+    "examples": [
+      { "en": "The missing hikers were finally tracked down by mountain rescue.", "pl": "Zaginionych turystów w końcu odnaleziono dzięki górskiemu pogotowiu ratunkowemu." },
+      { "en": "The proposal was gone over in great detail during the meeting.", "pl": "Propozycja została szczegółowo omówiona podczas spotkania." },
+      { "en": "The issue is being followed up on by our support team.", "pl": "Sprawą zajmuje się teraz nasz zespół wsparcia." },
+      { "en": "The old policy was done away with last year.", "pl": "Starą politykę zniesiono w zeszłym roku." }
+    ]
+  }
+]
