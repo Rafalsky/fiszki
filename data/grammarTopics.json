@@ -586,5 +586,12 @@
     "title": "Will / would dla cech charakteru",
     "desc": "will i would opisujące typowe, przewidywalne zachowanie oraz uporczywe upieranie się (Boys will be boys, He would always turn up late, The car won't start) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 32
+  },
+  {
+    "id": "modal_remoteness",
+    "icon": "🙇",
+    "title": "Dystans modalny i grzeczność",
+    "desc": "Czas przeszły, would, could i tryb warunkowy jako narzędzia grzeczności i dystansu (I was wondering if..., Would you mind..., I'd rather you didn't...) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

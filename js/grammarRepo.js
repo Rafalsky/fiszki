@@ -92,6 +92,7 @@ const THEORY_URLS = {
   wh_infinitive: new URL("../data/wh_infinitive.json", import.meta.url),
   relative_clause_reference: new URL("../data/relative_clause_reference.json", import.meta.url),
   characteristic_will_would: new URL("../data/characteristic_will_would.json", import.meta.url),
+  modal_remoteness: new URL("../data/modal_remoteness.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -179,6 +180,7 @@ const DRILLS_URLS = {
   wh_infinitive: new URL("../data/wh_infinitiveDrills.json", import.meta.url),
   relative_clause_reference: new URL("../data/relative_clause_referenceDrills.json", import.meta.url),
   characteristic_will_would: new URL("../data/characteristic_will_wouldDrills.json", import.meta.url),
+  modal_remoteness: new URL("../data/modal_remotenessDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
