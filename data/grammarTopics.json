@@ -656,5 +656,12 @@
     "title": "Modalne need i dare",
     "desc": "need i dare jako czasowniki na pograniczu modalnych: użycie bez do-support (Need I say more?, You needn't worry, He daren't ask) kontra jako czasowniki leksykalne (Do you need to..., He doesn't dare to...) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 48
+  },
+  {
+    "id": "ditransitive_passive",
+    "icon": "🎁",
+    "title": "Bierna czasowników ditransitive",
+    "desc": "Strona bierna czasowników dwudopełnieniowych: osoba lub rzecz jako podmiot (I was given a book / A book was given to her), czasowniki bez biernej z osobą oraz dopełnienie zachowane — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
