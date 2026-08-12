@@ -621,5 +621,12 @@
     "title": "Pozycja przymiotnika",
     "desc": "Przymiotniki wyłącznie atrybutywne (main, mere, utter) i wyłącznie predykatywne (afraid, asleep, alone) — kiedy przymiotnik może stać tylko przed rzeczownikiem, a kiedy tylko po czasowniku łączącym, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "imminent_future",
+    "icon": "🔜",
+    "title": "Bliska przyszłość",
+    "desc": "be about to, on the point of / on the verge of, be to, be set to / be due to — dodatkowe sposoby wyrażania bliskiej i zaplanowanej przyszłości, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
