@@ -1,0 +1,186 @@
+[
+  {
+    "id": "left_dislocation",
+    "order": 1,
+    "nameEn": "Left dislocation — fronted topic + resumptive pronoun",
+    "namePl": "Dyslokacja lewostronna — temat na początku + zaimek wskazujący/osobowy",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "rzeczownik/fraza rzeczownikowa (temat) na samym początku zdania, oddzielona przecinkiem, + reszta zdania z zaimkiem osobowym lub wskazującym w miejscu, gdzie normalnie stałby ten rzeczownik (That woman next door, she never says hello.)"
+      },
+      {
+        "label": "Różnica względem zwykłego frontingu",
+        "text": "przy zwykłym frontingu (This book I've read three times.) wysunięty element zostawia po sobie puste miejsce (gap) — tutaj zamiast luki zostaje pełnoprawny zaimek (This book, I've read it three times.); dyslokacja jest więc podwojeniem, nie przesunięciem"
+      }
+    ],
+    "usage": [
+      "Wprowadzanie nowego tematu rozmowy w mowie potocznej, zanim mówiący sformułuje o nim zdanie (My neighbour's dog, it barks all night long.)",
+      "Podkreślanie kontrastu między dwoma tematami (Your sister, she always calls back. Your brother, he never does.)",
+      "Ułatwianie odbiorcy śledzenia długiej lub złożonej frazy rzeczownikowej przez wcześniejsze jej zasygnalizowanie (The guy who fixed our boiler last winter, he's opening his own business now.)",
+      "Rejestr: typowe dla języka mówionego i nieformalnego pisanego (dialogi, blogi); w tekście formalnym zastępowane zwykłym szykiem zdania lub frontingiem bez zaimka"
+    ],
+    "tags": [
+      "left dislocation",
+      "resumptive pronoun",
+      "topic + pronoun",
+      "spoken grammar"
+    ],
+    "examples": [
+      {
+        "en": "That woman next door, she never says hello to anyone.",
+        "pl": "Ta kobieta obok, ona nigdy się z nikim nie wita."
+      },
+      {
+        "en": "My brother, I haven't seen him in years.",
+        "pl": "Mój brat, nie widziałem go od lat."
+      },
+      {
+        "en": "The guy who fixed our boiler, he's opening his own business now.",
+        "pl": "Ten facet, który naprawiał nam piec, teraz otwiera własną firmę."
+      },
+      {
+        "en": "This new phone, it's already driving me crazy.",
+        "pl": "Ten nowy telefon, on już mnie doprowadza do szału."
+      }
+    ]
+  },
+  {
+    "id": "right_dislocation",
+    "order": 2,
+    "nameEn": "Right dislocation — afterthought identification tag",
+    "namePl": "Dyslokacja prawostronna — dopowiedzenie identyfikujące na końcu",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "zaimek osobowy/wskazujący pojawia się najpierw, w normalnym miejscu w zdaniu, a pełna fraza rzeczownikowa, którą ten zaimek zastępuje, zostaje dodana na końcu jako dopowiedzenie, oddzielona przecinkiem (She never says hello, that woman next door.)"
+      },
+      {
+        "label": "Funkcja dopowiedzenia",
+        "text": "fraza końcowa nie wnosi nowej informacji o czynności — dopiero na końcu precyzuje, o kogo/co chodziło; brzmi jak refleksja lub uściślenie dodane po namyśle (He's a real genius, that guy.)"
+      }
+    ],
+    "usage": [
+      "Doprecyzowanie, o kim/czym mowa, gdy zaimek mógłby być niejednoznaczny lub gdy mówiący chce podkreślić ocenę zanim poda referenta (He's impossible to live with, that man.)",
+      "Wyrażanie emocjonalnej reakcji lub komentarza, a dopiero potem identyfikacja obiektu komentarza — typowe w potocznych narzekaniach i zachwytach (It's absolutely delicious, this soup.)",
+      "W dialogu — nawiązanie do czegoś już widocznego w kontekście sytuacyjnym, z dopowiedzeniem jako uzupełnieniem dla jasności (She's late again, your sister.)",
+      "Rejestr: wyłącznie mowa potoczna i bardzo nieformalne pisanie (czaty, dialogi w prozie) — w piśmie formalnym niespotykane"
+    ],
+    "tags": [
+      "right dislocation",
+      "afterthought tag",
+      "clause-final NP",
+      "spoken grammar"
+    ],
+    "examples": [
+      {
+        "en": "She never says hello, that woman next door.",
+        "pl": "Ona nigdy się nie wita, ta kobieta obok."
+      },
+      {
+        "en": "He's a real genius, that guy.",
+        "pl": "On jest prawdziwym geniuszem, ten facet."
+      },
+      {
+        "en": "It's absolutely delicious, this soup.",
+        "pl": "Jest absolutnie pyszna, ta zupa."
+      },
+      {
+        "en": "She's late again, your sister.",
+        "pl": "Ona znowu się spóźnia, twoja siostra."
+      }
+    ]
+  },
+  {
+    "id": "dislocation_vs_fronting",
+    "order": 3,
+    "nameEn": "Dislocation vs true fronting — pronoun or gap?",
+    "namePl": "Dyslokacja a prawdziwy fronting — zaimek czy luka?",
+    "rules": [
+      {
+        "label": "Test luki",
+        "text": "jeśli po usunięciu wysuniętej frazy zdanie jest niepełne (brakuje podmiotu/dopełnienia) — to prawdziwy fronting/topicalizacja (Bananas I like ___.); jeśli zdanie jest gramatycznie kompletne samo w sobie, bo zaimek już pełni rolę podmiotu/dopełnienia — to dyslokacja (Bananas, I like them.)"
+      },
+      {
+        "label": "Inwersja",
+        "text": "fronting orzeczników i fraz przysłówkowych bywa połączony z inwersją podmiot-orzeczenie (Never have I seen such chaos.); dyslokacja nigdy nie wywołuje inwersji — szyk reszty zdania pozostaje standardowy (Never, I have never seen it — konstrukcja niepoprawna/nienaturalna w tym sensie)"
+      }
+    ],
+    "usage": [
+      "Fronting bez zaimka jest naturalny w piśmie formalnym i literackim (This decision I will not make lightly.); dyslokacja z zaimkiem brzmi tam nienaturalnie i jest typowa dla mowy",
+      "W mowie spontanicznej dyslokacja jest częstsza niż czysty fronting, bo pozwala mówiącemu zapowiedzieć temat, zanim zaplanuje resztę zdania",
+      "Rozróżnienie ma znaczenie przy testach C2/CPE: pytania o 'poprawność rejestru' często oczekują wyboru dyslokacji w dialogu i frontingu bez zaimka w tekście formalnym",
+      "Obie konstrukcje pełnią podobną funkcję pragmatyczną — uwypuklenie tematu — ale różnią się gramatyczną kompletnością pozostałej części zdania"
+    ],
+    "tags": [
+      "fronting vs dislocation",
+      "gap test",
+      "register",
+      "topicalization"
+    ],
+    "examples": [
+      {
+        "en": "Bananas I like, but apples I can't stand. (fronting, no pronoun)",
+        "pl": "Banany lubię, ale jabłek nie znoszę. (fronting, bez zaimka)"
+      },
+      {
+        "en": "Bananas, I like them, but apples, I can't stand them. (dislocation, with pronoun)",
+        "pl": "Banany, lubię je, ale jabłka, nie znoszę ich. (dyslokacja, z zaimkiem)"
+      },
+      {
+        "en": "This decision I will not make lightly. (formal fronting)",
+        "pl": "Tej decyzji nie podejmę lekkomyślnie. (formalny fronting)"
+      },
+      {
+        "en": "This decision, I'm not going to make it lightly, believe me. (spoken dislocation)",
+        "pl": "Ta decyzja, nie podejmę jej lekkomyślnie, uwierz mi. (potoczna dyslokacja)"
+      }
+    ]
+  },
+  {
+    "id": "dislocation_function",
+    "order": 4,
+    "nameEn": "Function in discourse — contrast, clarity and topic management",
+    "namePl": "Funkcja w dyskursie — kontrast, przejrzystość i zarządzanie tematem",
+    "rules": [
+      {
+        "label": "Zarządzanie tematem (topic management)",
+        "text": "dyslokacja lewostronna pozwala mówiącemu 'zarezerwować' temat na początku zdania, zanim zdecyduje, co o nim powiedzieć — przydatne przy planowaniu wypowiedzi na żywo"
+      },
+      {
+        "label": "Wielokrotna dyslokacja",
+        "text": "w bardzo potocznej mowie można wysunąć więcej niż jeden element na raz, każdy z własnym zaimkiem w zdaniu głównym (That restaurant, the one on the corner, my parents, they go there every Friday.)"
+      }
+    ],
+    "usage": [
+      "Kontrastowanie dwóch tematów obok siebie — każdy wysunięty osobno, żeby porównanie było czytelne (Coffee, I love it. Tea, I can't stand it.)",
+      "Sygnalizowanie zmiany tematu w dłuższej wypowiedzi lub wracanie do wcześniej wspomnianej osoby/rzeczy (Anyway, that job offer, I still haven't decided about it.)",
+      "Podkreślanie emocjonalnego stosunku mówiącego przed ujawnieniem, kogo dotyczy (He never listens, my husband — I mean it.)",
+      "W transkrypcjach mowy spontanicznej i dialogach w powieściach dyslokacja jest jednym z głównych sygnałów autentyczności języka mówionego"
+    ],
+    "tags": [
+      "topic management",
+      "contrast",
+      "double dislocation",
+      "spoken discourse"
+    ],
+    "examples": [
+      {
+        "en": "Coffee, I love it. Tea, I can't stand it.",
+        "pl": "Kawa, uwielbiam ją. Herbata, nie znoszę jej."
+      },
+      {
+        "en": "That job offer, I still haven't decided about it.",
+        "pl": "Ta oferta pracy, wciąż jeszcze się co do niej nie zdecydowałem."
+      },
+      {
+        "en": "He never listens, my husband.",
+        "pl": "On nigdy nie słucha, mój mąż."
+      },
+      {
+        "en": "That restaurant on the corner, my parents, they go there every Friday.",
+        "pl": "Ta restauracja na rogu, moi rodzice, oni chodzą tam w każdy piątek."
+      }
+    ]
+  }
+]
