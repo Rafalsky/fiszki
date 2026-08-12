@@ -600,5 +600,12 @@
     "title": "Czasowniki delekscjonalizowane (make/do/have/take/give)",
     "desc": "Kolokacje typu make a decision, do damage, have a look, take a break, give advice — jak wybrać właściwy czasownik „pusty” do rzeczownika, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "free_relative_clauses",
+    "icon": "🧶",
+    "title": "Zdania względne bez poprzednika",
+    "desc": "Nominalne (wolne) zdania względne z what/whoever/whatever/whichever pełniące funkcję podmiotu lub dopełnienia — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 32
   }
 ]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "itemId": "what_clauses",
+    "prompt": "___ surprised me was his honesty.",
+    "answer": "What",
+    "distractors": ["That", "Which", "Who"]
+  },
+  {
+    "id": 2,
+    "itemId": "what_clauses",
+    "prompt": "I couldn't believe ___ I saw.",
+    "answer": "what",
+    "distractors": ["that", "which", "whom"]
+  },
+  {
+    "id": 3,
+    "itemId": "what_clauses",
+    "prompt": "Tell me ___ you need.",
+    "answer": "what",
+    "distractors": ["that which", "which", "whose"]
+  },
+  {
+    "id": 4,
+    "itemId": "what_clauses",
+    "prompt": "This isn't ___ I ordered.",
+    "answer": "what",
+    "distractors": ["that", "which", "who"]
+  },
+  {
+    "id": 5,
+    "itemId": "what_clauses",
+    "prompt": "___ worries me most is the lack of communication.",
+    "answer": "What",
+    "distractors": ["That", "Which", "It"]
+  },
+  {
+    "id": 6,
+    "itemId": "what_clauses",
+    "prompt": "You can borrow ___ you like from my bookshelf.",
+    "answer": "what",
+    "distractors": ["that", "which", "who"]
+  },
+  {
+    "id": 7,
+    "itemId": "what_clauses",
+    "prompt": "Nobody knows ___ really happened that night.",
+    "answer": "what",
+    "distractors": ["that", "which", "whoever"]
+  },
+  {
+    "id": 8,
+    "itemId": "what_clauses",
+    "prompt": "___ I need right now is a good night's sleep.",
+    "answer": "What",
+    "distractors": ["That", "It", "Which"]
+  },
+  {
+    "id": 9,
+    "itemId": "whoever_whatever_free",
+    "prompt": "___ finishes the test first can leave.",
+    "answer": "Whoever",
+    "distractors": ["Whatever", "Whichever", "Whenever"]
+  },
+  {
+    "id": 10,
+    "itemId": "whoever_whatever_free",
+    "prompt": "She'll eat ___ you cook.",
+    "answer": "whatever",
+    "distractors": ["whoever", "whichever", "wherever"]
+  },
+  {
+    "id": 11,
+    "itemId": "whoever_whatever_free",
+    "prompt": "There are two trains — take ___ leaves first.",
+    "answer": "whichever",
+    "distractors": ["whatever", "whoever", "whenever"]
+  },
+  {
+    "id": 12,
+    "itemId": "whoever_whatever_free",
+    "prompt": "Give the prize to ___ deserves it most.",
+    "answer": "whoever",
+    "distractors": ["whomever", "whatever", "whichever"]
+  },
+  {
+    "id": 13,
+    "itemId": "whoever_whatever_free",
+    "prompt": "You can order ___ you want, it's my treat.",
+    "answer": "whatever",
+    "distractors": ["whoever", "whichever", "however"]
+  },
+  {
+    "id": 14,
+    "itemId": "whoever_whatever_free",
+    "prompt": "___ left this note forgot to sign it.",
+    "answer": "Whoever",
+    "distractors": ["Whatever", "Whichever", "Whenever"]
+  },
+  {
+    "id": 15,
+    "itemId": "whoever_whatever_free",
+    "prompt": "___ answers the phone should take a message.",
+    "answer": "Whoever",
+    "distractors": ["Whatever", "Whichever", "Whenever"]
+  },
+  {
+    "id": 16,
+    "itemId": "whoever_whatever_free",
+    "prompt": "Of the two desserts, order ___ looks best to you.",
+    "answer": "whichever",
+    "distractors": ["whatever", "whoever", "whenever"]
+  },
+  {
+    "id": 17,
+    "itemId": "whatever_whichever_determiner",
+    "prompt": "___ decision you make, I'll support you.",
+    "answer": "Whatever",
+    "distractors": ["Whichever", "What", "Which"]
+  },
+  {
+    "id": 18,
+    "itemId": "whatever_whichever_determiner",
+    "prompt": "___ team wins, the fans will celebrate.",
+    "answer": "Whichever",
+    "distractors": ["Whatever", "What", "Which"]
+  },
+  {
+    "id": 19,
+    "itemId": "whatever_whichever_determiner",
+    "prompt": "Bring ___ equipment you have.",
+    "answer": "whatever",
+    "distractors": ["whichever", "what", "which"]
+  },
+  {
+    "id": 20,
+    "itemId": "whatever_whichever_determiner",
+    "prompt": "___ option you pick, read the contract first.",
+    "answer": "Whichever",
+    "distractors": ["Whatever", "What", "Which"]
+  },
+  {
+    "id": 21,
+    "itemId": "whatever_whichever_determiner",
+    "prompt": "Use ___ method works best for you.",
+    "answer": "whatever",
+    "distractors": ["whichever", "what", "which"]
+  },
+  {
+    "id": 22,
+    "itemId": "whatever_whichever_determiner",
+    "prompt": "___ excuse he gives, don't believe him.",
+    "answer": "Whatever",
+    "distractors": ["Whichever", "What", "Which"]
+  },
+  {
+    "id": 23,
+    "itemId": "whatever_whichever_determiner",
+    "prompt": "To the restaurant we go to, book a table — ___ one we choose gets busy fast.",
+    "answer": "whichever",
+    "distractors": ["whatever", "what", "which"]
+  },
+  {
+    "id": 24,
+    "itemId": "whatever_whichever_determiner",
+    "prompt": "___ way you look at it, it was a mistake.",
+    "answer": "Whichever",
+    "distractors": ["Whatever", "What", "Which"]
+  },
+  {
+    "id": 25,
+    "itemId": "free_relative_vs_other",
+    "prompt": "___ wins deserves the prize. (mowa o zwycięzcy jako podmiocie zdania)",
+    "answer": "Whoever",
+    "distractors": ["Whatever", "Who", "Whichever"]
+  },
+  {
+    "id": 26,
+    "itemId": "free_relative_vs_other",
+    "prompt": "___ wins, I'll still be proud of you. (niezależnie od wyniku)",
+    "answer": "Whoever",
+    "distractors": ["Who", "Whatever", "Whichever"]
+  },
+  {
+    "id": 27,
+    "itemId": "free_relative_vs_other",
+    "prompt": "___ annoyed him was the noise. (podmiot zdania, bez emfazy)",
+    "answer": "What",
+    "distractors": ["That which", "It", "Which"]
+  },
+  {
+    "id": 28,
+    "itemId": "free_relative_vs_other",
+    "prompt": "It was the noise ___ annoyed him. (zdanie rozszczepione it-cleft)",
+    "answer": "that",
+    "distractors": ["what", "which one", "who"]
+  },
+  {
+    "id": 29,
+    "itemId": "free_relative_vs_other",
+    "prompt": "___ you decide is fine with me. (twoja decyzja jako podmiot)",
+    "answer": "Whatever",
+    "distractors": ["Whoever", "Which", "That"]
+  },
+  {
+    "id": 30,
+    "itemId": "free_relative_vs_other",
+    "prompt": "___ you decide, I'll support you. (niezależnie od decyzji, z przecinkiem)",
+    "answer": "Whatever",
+    "distractors": ["What", "Whichever", "That"]
+  },
+  {
+    "id": 31,
+    "itemId": "free_relative_vs_other",
+    "prompt": "We'll do ___ happens next. (dopełnienie zdania — to, co się wydarzy)",
+    "answer": "whatever",
+    "distractors": ["what", "whichever", "however"]
+  },
+  {
+    "id": 32,
+    "itemId": "free_relative_vs_other",
+    "prompt": "What she cooked was delicious. → ___ was delicious was her cooking. (przekształcenie na wh-cleft z emfazą)",
+    "answer": "What",
+    "distractors": ["That", "Whatever", "It"]
+  }
+]
