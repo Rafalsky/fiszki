@@ -1,0 +1,252 @@
+[
+  {
+    "id": "albeit",
+    "order": 1,
+    "nameEn": "albeit — formal concession",
+    "namePl": "albeit — formalne przyzwolenie",
+    "rules": [
+      {
+        "label": "albeit + przymiotnik / rzeczownik / imiesłów",
+        "text": "albeit (='although it is/was') wprowadza krótkie, formalne zastrzeżenie bez własnego podmiotu i orzeczenia — łączy się bezpośrednio z przymiotnikiem, frazą rzeczownikową lub imiesłowem, nigdy z pełnym zdaniem: a small, albeit significant, improvement."
+      },
+      {
+        "label": "pozycja w zdaniu",
+        "text": "albeit zwykle stoi zaraz po elemencie, do którego się odnosi (najczęściej po rzeczowniku lub na końcu frazy), często wydzielone przecinkami: He agreed, albeit reluctantly."
+      },
+      {
+        "label": "rejestr",
+        "text": "typowe dla stylu pisanego — akademickiego, dziennikarskiego, biznesowego; w mowie potocznej naturalniejsze jest although / but."
+      }
+    ],
+    "usage": [
+      "Zastrzeżenie do przymiotnika: The plan is workable, albeit expensive.",
+      "Zastrzeżenie do przysłówka sposobu: She succeeded, albeit slowly.",
+      "Zastrzeżenie do frazy rzeczownikowej: They offered a solution, albeit a temporary one.",
+      "Nie łączy się z pełnym zdaniem podrzędnym — 'albeit he was late' jest błędne; poprawnie: although he was late."
+    ],
+    "tags": [
+      "albeit reluctantly",
+      "albeit expensive",
+      "albeit a temporary one",
+      "albeit briefly"
+    ],
+    "examples": [
+      {
+        "en": "The team met the deadline, albeit at the very last minute.",
+        "pl": "Zespół dotrzymał terminu, choć w ostatniej chwili."
+      },
+      {
+        "en": "It was a convincing, albeit controversial, argument.",
+        "pl": "To był przekonujący, choć kontrowersyjny, argument."
+      },
+      {
+        "en": "The company posted a profit, albeit a small one.",
+        "pl": "Firma odnotowała zysk, choć niewielki."
+      },
+      {
+        "en": "He apologized, albeit half-heartedly.",
+        "pl": "Przeprosił, choć bez przekonania."
+      }
+    ]
+  },
+  {
+    "id": "whereby",
+    "order": 2,
+    "nameEn": "whereby — formal relative connector",
+    "namePl": "whereby — formalny łącznik relatywny",
+    "rules": [
+      {
+        "label": "whereby = 'by/through which'",
+        "text": "whereby wprowadza zdanie względne opisujące system, proces, umowę lub zasadę i zastępuje 'by which / through which / according to which': a system whereby employees can report problems anonymously."
+      },
+      {
+        "label": "po rzeczowniku abstrakcyjnym",
+        "text": "najczęściej występuje po rzeczownikach takich jak system, process, arrangement, scheme, method, procedure, mechanism — opisuje, JAK dany system działa lub co umożliwia."
+      },
+      {
+        "label": "rejestr formalny / prawniczy",
+        "text": "typowe dla dokumentów prawnych, regulaminów, tekstów akademickich i formalnych opisów procedur; w mowie potocznej zastępowane przez 'where' lub 'in which'."
+      }
+    ],
+    "usage": [
+      "Opis mechanizmu/systemu: They introduced a scheme whereby volunteers get free training.",
+      "Opis procedury prawnej: This is the process whereby a company becomes a public entity.",
+      "Opis umowy/porozumienia: We reached an agreement whereby both parties share the costs.",
+      "Nie mylić z 'wherein' (='in which') czy 'whereas' (='while, in contrast') — whereby zawsze wskazuje SPOSÓB/MECHANIZM, nie miejsce ani kontrast."
+    ],
+    "tags": [
+      "a system whereby",
+      "an arrangement whereby",
+      "the process whereby",
+      "a scheme whereby"
+    ],
+    "examples": [
+      {
+        "en": "The council adopted a policy whereby residents can vote online.",
+        "pl": "Rada przyjęła politykę, dzięki której mieszkańcy mogą głosować online."
+      },
+      {
+        "en": "It is a legal mechanism whereby creditors can recover unpaid debts.",
+        "pl": "To mechanizm prawny, dzięki któremu wierzyciele mogą odzyskać niespłacone długi."
+      },
+      {
+        "en": "They set up a rota whereby each employee works one weekend a month.",
+        "pl": "Ustalili grafik, zgodnie z którym każdy pracownik pracuje jeden weekend w miesiącu."
+      },
+      {
+        "en": "The contract includes a clause whereby either party can withdraw with notice.",
+        "pl": "Umowa zawiera klauzulę, na mocy której każda ze stron może się wycofać z zachowaniem okresu wypowiedzenia."
+      }
+    ]
+  },
+  {
+    "id": "notwithstanding",
+    "order": 3,
+    "nameEn": "notwithstanding — formal concession",
+    "namePl": "notwithstanding — formalne 'mimo, pomimo'",
+    "rules": [
+      {
+        "label": "notwithstanding + rzeczownik (przed)",
+        "text": "jako przyimek, przed rzeczownikiem lub frazą rzeczownikową, znaczy 'pomimo, mimo': Notwithstanding these concerns, the project went ahead."
+      },
+      {
+        "label": "rzeczownik + notwithstanding (po)",
+        "text": "notwithstanding może też stać PO rzeczowniku, którego dotyczy — typowa cecha stylu prawniczego: These objections notwithstanding, the vote proceeded."
+      },
+      {
+        "label": "notwithstanding that + zdanie",
+        "text": "rzadszy, bardzo formalny wariant z pełnym zdaniem podrzędnym po 'that', o znaczeniu zbliżonym do although: Notwithstanding that the risks were known, they proceeded."
+      }
+    ],
+    "usage": [
+      "Formalny raport/dokument prawny: Notwithstanding the delay, the contract remains valid.",
+      "Odwrócona kolejność (rzeczownik + notwithstanding): Minor errors notwithstanding, the report was approved.",
+      "Zastępuje despite / in spite of w bardzo formalnym, oficjalnym rejestrze.",
+      "Nie mylić z 'nonetheless/nevertheless' (przysłówki łączące zdania) — notwithstanding łączy się z rzeczownikiem, nie stoi samodzielnie między dwoma zdaniami."
+    ],
+    "tags": [
+      "notwithstanding the risks",
+      "notwithstanding this",
+      "objections notwithstanding",
+      "notwithstanding that"
+    ],
+    "examples": [
+      {
+        "en": "Notwithstanding the criticism, the minister refused to resign.",
+        "pl": "Pomimo krytyki minister odmówił dymisji."
+      },
+      {
+        "en": "The merger went ahead, shareholder concerns notwithstanding.",
+        "pl": "Fuzja doszła do skutku, mimo obaw akcjonariuszy."
+      },
+      {
+        "en": "Notwithstanding its small size, the company dominates the local market.",
+        "pl": "Pomimo swoich niewielkich rozmiarów firma dominuje na lokalnym rynku."
+      },
+      {
+        "en": "Notwithstanding that the evidence was circumstantial, the jury reached a verdict.",
+        "pl": "Mimo że dowody były poszlakowe, ława przysięgłych wydała werdykt."
+      }
+    ]
+  },
+  {
+    "id": "insofar_inasmuch",
+    "order": 4,
+    "nameEn": "insofar as / inasmuch as — formal degree and reason",
+    "namePl": "insofar as / inasmuch as — formalny stopień i przyczyna",
+    "rules": [
+      {
+        "label": "insofar as = 'w takim zakresie, w jakim'",
+        "text": "insofar as (też pisane in so far as) ogranicza prawdziwość stwierdzenia do pewnego zakresu lub stopnia — odpowiada polskiemu 'o ile, w takim stopniu, w jakim': The plan is sound, insofar as it addresses the budget."
+      },
+      {
+        "label": "inasmuch as = 'jako że, w tym sensie, że'",
+        "text": "inasmuch as jest bliższe formalnemu 'because / in that' — wprowadza przyczynę lub doprecyzowanie, a nie ograniczenie zakresu: The proposal is unusual, inasmuch as it rejects the standard model."
+      },
+      {
+        "label": "rejestr i pozycja",
+        "text": "oba wyrażenia są bardzo formalne (akademickie, prawnicze) i zwykle wprowadzają zdanie podrzędne w środku lub na końcu zdania głównego, oddzielone przecinkiem."
+      }
+    ],
+    "usage": [
+      "Ograniczenie zakresu prawdziwości: The theory is useful insofar as it explains short-term trends.",
+      "Doprecyzowanie/przyczyna: The rule is unfair, inasmuch as it applies only to new employees.",
+      "Formalne zastrzeżenie w argumentacji akademickiej: The results are valid insofar as the sample is representative.",
+      "insofar as i inasmuch as bywają używane zamiennie w luźniejszym formalnym rejestrze, ale precyzyjnie: insofar as = 'w zakresie, w jakim', inasmuch as = 'ponieważ / w tym sensie, że'."
+    ],
+    "tags": [
+      "insofar as it",
+      "in so far as",
+      "inasmuch as",
+      "insofar as possible"
+    ],
+    "examples": [
+      {
+        "en": "The reform is progressive, insofar as it extends benefits to part-time workers.",
+        "pl": "Reforma jest postępowa w takim zakresie, w jakim rozszerza świadczenia na pracowników niepełnoetatowych."
+      },
+      {
+        "en": "We will help insofar as our resources allow.",
+        "pl": "Pomożemy w takim zakresie, na jaki pozwolą nasze zasoby."
+      },
+      {
+        "en": "The comparison is misleading, inasmuch as the two markets operate under different regulations.",
+        "pl": "Porównanie jest mylące, jako że oba rynki działają w oparciu o różne regulacje."
+      },
+      {
+        "en": "The claim is questionable, inasmuch as no independent source confirms it.",
+        "pl": "Twierdzenie jest wątpliwe, ponieważ żadne niezależne źródło go nie potwierdza."
+      }
+    ]
+  },
+  {
+    "id": "given_seeing_in_that",
+    "order": 5,
+    "nameEn": "given (that) / seeing that / in that — formal reason and clarification",
+    "namePl": "given (that) / seeing that / in that — formalna przyczyna i doprecyzowanie",
+    "rules": [
+      {
+        "label": "given (that) = 'zważywszy, że / biorąc pod uwagę, że'",
+        "text": "given, jako spójnik, wprowadza fakt uznawany za znany lub oczywisty, na którym opiera się wniosek: Given that the deadline is tomorrow, we need to hurry. Given + rzeczownik/gerund też jest możliwe: Given the circumstances, this is a good result."
+      },
+      {
+        "label": "seeing that / seeing as = 'skoro, jako że'",
+        "text": "bliskie znaczeniowo 'since', ale bardziej formalne i nieco starszej stylistyki — wprowadza przyczynę oczywistą dla obu stron: Seeing that you're already here, let's begin."
+      },
+      {
+        "label": "in that = 'w tym sensie, że' (doprecyzowanie, nie przyczyna czasowa)",
+        "text": "in that wprowadza zdanie, które WYJAŚNIA lub DOPRECYZOWUJE poprzednie stwierdzenie — nie oznacza czasu ani miejsca, mimo że wygląda jak 'in' + 'that': The two systems differ in that one is automated and the other is not."
+      }
+    ],
+    "usage": [
+      "Wniosek z uznanego faktu: Given that inflation is rising, wages should increase too.",
+      "Przyczyna oczywista: Seeing that no one objected, the motion was passed.",
+      "Doprecyzowanie różnicy/podobieństwa: The book is unusual in that it has no chapters.",
+      "Given + rzeczownik (bez 'that'): Given her experience, she was the obvious choice for the role."
+    ],
+    "tags": [
+      "given that",
+      "seeing that",
+      "seeing as",
+      "in that"
+    ],
+    "examples": [
+      {
+        "en": "Given that the flight was delayed, we missed our connection.",
+        "pl": "Zważywszy na to, że lot był opóźniony, straciliśmy przesiadkę."
+      },
+      {
+        "en": "Seeing that the shop was closed, we went home empty-handed.",
+        "pl": "Skoro sklep był zamknięty, wróciliśmy do domu z pustymi rękami."
+      },
+      {
+        "en": "The two proposals are similar in that both cut costs by outsourcing.",
+        "pl": "Obie propozycje są podobne w tym sensie, że obie obniżają koszty poprzez outsourcing."
+      },
+      {
+        "en": "Given the risks involved, the board decided against the investment.",
+        "pl": "Biorąc pod uwagę związane z tym ryzyko, zarząd zdecydował się nie inwestować."
+      }
+    ]
+  }
+]

@@ -677,5 +677,12 @@
     "title": "Zdania skutkowe",
     "desc": "so...that / such...that / so much/many/little/few...that — wyrażanie skutku wynikającego ze stopnia cechy, sposobu lub ilości, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "formal_connectors",
+    "icon": "📜",
+    "title": "Formalne spójniki i łączniki",
+    "desc": "albeit, whereby, notwithstanding, insofar as / inasmuch as, given/seeing that, in that — formalne spójniki i łączniki typowe dla stylu pisanego, akademickiego i prawniczego — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

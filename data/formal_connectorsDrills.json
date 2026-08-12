@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "albeit",
+    "prompt": "The renovation was a success, ___ a costly one.",
+    "answer": "albeit",
+    "distractors": ["whereby", "notwithstanding", "in that"]
+  },
+  {
+    "id": 2,
+    "itemId": "albeit",
+    "prompt": "She finished the marathon, ___ several hours behind the leaders.",
+    "answer": "albeit",
+    "distractors": ["whereby", "insofar as", "seeing that"]
+  },
+  {
+    "id": 3,
+    "itemId": "albeit",
+    "prompt": "It was a workable plan, ___ an expensive one.",
+    "answer": "albeit",
+    "distractors": ["notwithstanding", "inasmuch as", "whereby"]
+  },
+  {
+    "id": 4,
+    "itemId": "albeit",
+    "prompt": "He accepted the offer, ___ reluctantly.",
+    "answer": "albeit",
+    "distractors": ["given that", "whereby", "in that"]
+  },
+  {
+    "id": 5,
+    "itemId": "albeit",
+    "prompt": "The company reported growth, ___ a modest one.",
+    "answer": "albeit",
+    "distractors": ["notwithstanding", "seeing that", "whereby"]
+  },
+  {
+    "id": 6,
+    "itemId": "albeit",
+    "prompt": "They reached an agreement, ___ a fragile one.",
+    "answer": "albeit",
+    "distractors": ["insofar as", "whereby", "in that"]
+  },
+  {
+    "id": 7,
+    "itemId": "albeit",
+    "prompt": "The results were positive, ___ preliminary.",
+    "answer": "albeit",
+    "distractors": ["notwithstanding", "whereby", "given that"]
+  },
+  {
+    "id": 8,
+    "itemId": "albeit",
+    "prompt": "He answered every question, ___ briefly.",
+    "answer": "albeit",
+    "distractors": ["whereby", "inasmuch as", "notwithstanding"]
+  },
+  {
+    "id": 9,
+    "itemId": "whereby",
+    "prompt": "The council introduced a scheme ___ residents can report faults online.",
+    "answer": "whereby",
+    "distractors": ["albeit", "notwithstanding", "in that"]
+  },
+  {
+    "id": 10,
+    "itemId": "whereby",
+    "prompt": "This is the process ___ raw data is converted into a usable report.",
+    "answer": "whereby",
+    "distractors": ["insofar as", "albeit", "given that"]
+  },
+  {
+    "id": 11,
+    "itemId": "whereby",
+    "prompt": "They devised a system ___ each department reviews its own budget.",
+    "answer": "whereby",
+    "distractors": ["notwithstanding", "inasmuch as", "albeit"]
+  },
+  {
+    "id": 12,
+    "itemId": "whereby",
+    "prompt": "The contract has a clause ___ either side can end the agreement early.",
+    "answer": "whereby",
+    "distractors": ["albeit", "seeing that", "notwithstanding"]
+  },
+  {
+    "id": 13,
+    "itemId": "whereby",
+    "prompt": "We reached an arrangement ___ both companies share the delivery costs.",
+    "answer": "whereby",
+    "distractors": ["insofar as", "albeit", "in that"]
+  },
+  {
+    "id": 14,
+    "itemId": "whereby",
+    "prompt": "It is a mechanism ___ small investors can pool their savings.",
+    "answer": "whereby",
+    "distractors": ["notwithstanding", "albeit", "given that"]
+  },
+  {
+    "id": 15,
+    "itemId": "whereby",
+    "prompt": "The school adopted a policy ___ latecomers must report to the office first.",
+    "answer": "whereby",
+    "distractors": ["albeit", "inasmuch as", "notwithstanding"]
+  },
+  {
+    "id": 16,
+    "itemId": "whereby",
+    "prompt": "They set up a rota ___ every volunteer works one shift a week.",
+    "answer": "whereby",
+    "distractors": ["insofar as", "notwithstanding", "albeit"]
+  },
+  {
+    "id": 17,
+    "itemId": "notwithstanding",
+    "prompt": "___ the criticism, the minister refused to resign.",
+    "answer": "Notwithstanding",
+    "distractors": ["Whereby", "Insofar as", "In that"]
+  },
+  {
+    "id": 18,
+    "itemId": "notwithstanding",
+    "prompt": "The merger went ahead, shareholder concerns ___.",
+    "answer": "notwithstanding",
+    "distractors": ["whereby", "albeit", "given that"]
+  },
+  {
+    "id": 19,
+    "itemId": "notwithstanding",
+    "prompt": "___ its small size, the firm dominates the local market.",
+    "answer": "Notwithstanding",
+    "distractors": ["Whereby", "Seeing that", "Inasmuch as"]
+  },
+  {
+    "id": 20,
+    "itemId": "notwithstanding",
+    "prompt": "Minor objections ___, the report was approved unanimously.",
+    "answer": "notwithstanding",
+    "distractors": ["albeit", "whereby", "in that"]
+  },
+  {
+    "id": 21,
+    "itemId": "notwithstanding",
+    "prompt": "___ the risks involved, the board approved the expedition.",
+    "answer": "Notwithstanding",
+    "distractors": ["Whereby", "Insofar as", "Given"]
+  },
+  {
+    "id": 22,
+    "itemId": "notwithstanding",
+    "prompt": "___ that the evidence was circumstantial, the jury reached a verdict.",
+    "answer": "Notwithstanding",
+    "distractors": ["Whereby", "Albeit", "Seeing"]
+  },
+  {
+    "id": 23,
+    "itemId": "notwithstanding",
+    "prompt": "The treaty remains in force, recent tensions ___.",
+    "answer": "notwithstanding",
+    "distractors": ["whereby", "in that", "inasmuch as"]
+  },
+  {
+    "id": 24,
+    "itemId": "notwithstanding",
+    "prompt": "___ the delay, the contract remains legally valid.",
+    "answer": "Notwithstanding",
+    "distractors": ["Whereby", "Seeing that", "Albeit"]
+  },
+  {
+    "id": 25,
+    "itemId": "insofar_inasmuch",
+    "prompt": "The theory is useful ___ it explains short-term price movements.",
+    "answer": "insofar as",
+    "distractors": ["whereby", "albeit", "notwithstanding"]
+  },
+  {
+    "id": 26,
+    "itemId": "insofar_inasmuch",
+    "prompt": "We will help ___ our resources allow.",
+    "answer": "insofar as",
+    "distractors": ["whereby", "notwithstanding", "in that"]
+  },
+  {
+    "id": 27,
+    "itemId": "insofar_inasmuch",
+    "prompt": "The comparison is misleading, ___ the two markets follow different rules.",
+    "answer": "inasmuch as",
+    "distractors": ["whereby", "notwithstanding", "given"]
+  },
+  {
+    "id": 28,
+    "itemId": "insofar_inasmuch",
+    "prompt": "The proposal is unusual ___ it rejects the standard funding model.",
+    "answer": "inasmuch as",
+    "distractors": ["whereby", "albeit", "notwithstanding"]
+  },
+  {
+    "id": 29,
+    "itemId": "insofar_inasmuch",
+    "prompt": "The reform is progressive ___ it extends benefits to part-time staff.",
+    "answer": "insofar as",
+    "distractors": ["notwithstanding", "seeing that", "whereby"]
+  },
+  {
+    "id": 30,
+    "itemId": "insofar_inasmuch",
+    "prompt": "The results are valid ___ the sample is genuinely representative.",
+    "answer": "insofar as",
+    "distractors": ["whereby", "albeit", "in that"]
+  },
+  {
+    "id": 31,
+    "itemId": "insofar_inasmuch",
+    "prompt": "The claim is questionable, ___ no independent source confirms it.",
+    "answer": "inasmuch as",
+    "distractors": ["whereby", "notwithstanding", "albeit"]
+  },
+  {
+    "id": 32,
+    "itemId": "insofar_inasmuch",
+    "prompt": "The plan is sound ___ it stays within the approved budget.",
+    "answer": "insofar as",
+    "distractors": ["whereby", "notwithstanding", "given"]
+  },
+  {
+    "id": 33,
+    "itemId": "given_seeing_in_that",
+    "prompt": "___ that the deadline is tomorrow, we need to hurry.",
+    "answer": "Given",
+    "distractors": ["Whereby", "Notwithstanding", "Insofar as"]
+  },
+  {
+    "id": 34,
+    "itemId": "given_seeing_in_that",
+    "prompt": "___ that no one objected, the motion was passed.",
+    "answer": "Seeing",
+    "distractors": ["Whereby", "Notwithstanding", "Inasmuch"]
+  },
+  {
+    "id": 35,
+    "itemId": "given_seeing_in_that",
+    "prompt": "The two systems differ ___ one is automated and the other is not.",
+    "answer": "in that",
+    "distractors": ["whereby", "notwithstanding", "given that"]
+  },
+  {
+    "id": 36,
+    "itemId": "given_seeing_in_that",
+    "prompt": "___ her experience, she was the obvious choice for the role.",
+    "answer": "Given",
+    "distractors": ["Whereby", "Notwithstanding", "Seeing"]
+  },
+  {
+    "id": 37,
+    "itemId": "given_seeing_in_that",
+    "prompt": "The two proposals are similar ___ both cut costs through outsourcing.",
+    "answer": "in that",
+    "distractors": ["whereby", "notwithstanding", "albeit"]
+  },
+  {
+    "id": 38,
+    "itemId": "given_seeing_in_that",
+    "prompt": "___ the shop was closed, we went home empty-handed.",
+    "answer": "Seeing that",
+    "distractors": ["Whereby", "Notwithstanding", "Insofar as"]
+  },
+  {
+    "id": 39,
+    "itemId": "given_seeing_in_that",
+    "prompt": "___ the risks involved, the board decided against the investment.",
+    "answer": "Given",
+    "distractors": ["Whereby", "Seeing", "Notwithstanding"]
+  },
+  {
+    "id": 40,
+    "itemId": "given_seeing_in_that",
+    "prompt": "The book is unusual ___ it has no chapters at all.",
+    "answer": "in that",
+    "distractors": ["whereby", "given that", "notwithstanding"]
+  }
+]
