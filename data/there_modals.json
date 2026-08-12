@@ -1,0 +1,202 @@
+[
+  {
+    "id": "there_modal_be",
+    "order": 1,
+    "nameEn": "there + modal verb + be — certainty, possibility, obligation about existence",
+    "namePl": "there + czasownik modalny + be — pewność, możliwość, konieczność co do istnienia czegoś",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "there + czasownik modalny (must/might/may/could/can't/should/will/would) + be + rzeczownik: There must be a mistake somewhere. There modalny wciąż zachowuje się jak podmiot gramatyczny — czasownik modalny stoi zaraz po nim, tak jak po zwykłym podmiocie."
+      },
+      {
+        "label": "Znaczenie zależne od modalnego",
+        "text": "must be = pewność, że coś istnieje (There must be a reason for this); might/may/could be = niepewność (There could be a problem); can't be = pewność, że coś nie istnieje (There can't be any milk left); should/ought to be = oczekiwanie zgodne z logiką lub zasadami (There should be a fire exit on every floor)."
+      },
+      {
+        "label": "Liczba mnoga i przeczenie",
+        "text": "be nie odmienia się przez liczbę w tej konstrukcji — forma be jest stała niezależnie od liczby rzeczownika: There must be some tickets left. Przeczenie tworzy się przez not po czasowniku modalnym: There shouldn't be any delay."
+      }
+    ],
+    "usage": [
+      "Wnioskowanie o istnieniu czegoś na podstawie poszlak lub logiki: There must be someone in the house — the lights are on.",
+      "Przewidywanie problemów lub warunków w przyszłości: There will be a lot of traffic tomorrow. / There could be some resistance to the plan.",
+      "Formalne zasady i oczekiwania: There should always be a supervisor present during the exam.",
+      "Kontrast z osobowym podmiotem + modal + be: różnica między 'There must be a reason' (istnienie powodu) a 'He must be tired' (stan konkretnej osoby) — ten sam wzorzec gramatyczny, inny typ podmiotu."
+    ],
+    "tags": [
+      "there must be",
+      "there could be",
+      "there can't be",
+      "there should be"
+    ],
+    "examples": [
+      {
+        "en": "There must be a reason why she left so suddenly.",
+        "pl": "Musi być jakiś powód, dla którego wyszła tak nagle."
+      },
+      {
+        "en": "There could be a storm later, according to the forecast.",
+        "pl": "Może być burza później, według prognozy."
+      },
+      {
+        "en": "There can't be anyone in the office at this hour.",
+        "pl": "Nie może być nikogo w biurze o tej porze."
+      },
+      {
+        "en": "There should be enough chairs for everyone.",
+        "pl": "Powinno wystarczyć krzeseł dla wszystkich."
+      }
+    ]
+  },
+  {
+    "id": "there_seem_appear_tend",
+    "order": 2,
+    "nameEn": "there + seem/appear/tend + to be — hedged, cautious existential claims",
+    "namePl": "there + seem/appear/tend + to be — ostrożne, złagodzone stwierdzenia o istnieniu czegoś",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "there + seem(s)/appear(s)/tend(s) + to be + rzeczownik: There seems to be a misunderstanding. Czasownik (seem/appear/tend) odmienia się przez osobę i liczbę zgodnie z there jako podmiotem gramatycznym — w praktyce zawsze w 3. os. lp., bo there nie ma liczby mnogiej jako forma czasownika."
+      },
+      {
+        "label": "Odcień znaczeniowy",
+        "text": "seem to be i appear to be łagodzą stwierdzenie — mówiący nie jest w 100% pewny, opiera się na wrażeniu lub dostępnych dowodach (There appears to be no easy solution); tend to be dodaje znaczenie 'zazwyczaj, z reguły' (There tend to be fewer tourists in November)."
+      },
+      {
+        "label": "Czasy i przeczenie",
+        "text": "całą konstrukcję można postawić w czasie przeszłym: There seemed to be no way out. Przeczenie zwykle dotyczy rzeczownika (there seems to be no problem) lub czasownika (there doesn't seem to be a problem) — obie formy są poprawne i częste."
+      }
+    ],
+    "usage": [
+      "Formalne, ostrożne relacjonowanie obserwacji lub wyników badań: There appears to be a strong correlation between the two factors.",
+      "Uprzejme sygnalizowanie problemu bez oskarżania nikogo wprost: There seems to be a mistake on the invoice.",
+      "Opisywanie tendencji lub wzorców statystycznych: There tends to be more demand during the summer months.",
+      "Częste w pisemnym stylu akademickim i dziennikarskim jako alternatywa dla stanowczego 'there is'."
+    ],
+    "tags": [
+      "there seems to be",
+      "there appears to be",
+      "there tends to be",
+      "hedging"
+    ],
+    "examples": [
+      {
+        "en": "There seems to be a misunderstanding between the two departments.",
+        "pl": "Wydaje się, że jest jakieś nieporozumienie między tymi dwoma działami."
+      },
+      {
+        "en": "There appears to be no easy solution to this problem.",
+        "pl": "Wygląda na to, że nie ma łatwego rozwiązania tego problemu."
+      },
+      {
+        "en": "There tend to be fewer tourists here in November.",
+        "pl": "Zazwyczaj jest tu mniej turystów w listopadzie."
+      },
+      {
+        "en": "There didn't seem to be anyone available to help.",
+        "pl": "Nie wydawało się, żeby był ktoś dostępny, kto mógłby pomóc."
+      }
+    ]
+  },
+  {
+    "id": "there_used_to_going_to",
+    "order": 3,
+    "nameEn": "there used to be / there is going to be — existence in other tenses and semi-modal forms",
+    "namePl": "there used to be / there is going to be — istnienie czegoś w innych czasach i formach semi-modalnych",
+    "rules": [
+      {
+        "label": "there used to be",
+        "text": "there + used to + be + rzeczownik opisuje coś, co kiedyś istniało, ale już nie istnieje: There used to be a cinema on this street. Przeczenie: there didn't use to be / there never used to be."
+      },
+      {
+        "label": "there was/is going to be",
+        "text": "there + be (was/were/is/are) + going to + be wyraża przewidywanie na podstawie obecnych oznak (podobnie jak zwykłe be going to): There is going to be trouble if we don't act now. There was going to be a party, but it got cancelled."
+      },
+      {
+        "label": "there is bound to be / there is likely to be",
+        "text": "semi-modalne wyrażenia pewności i prawdopodobieństwa: bound to be = niemal pewne (There is bound to be a queue on a Saturday), likely/unlikely to be = prawdopodobne/mało prawdopodobne (There is unlikely to be any change before next year)."
+      }
+    ],
+    "usage": [
+      "Opisywanie zmian w czasie — coś, co zniknęło lub przestało istnieć: There used to be a small shop on the corner, but it closed down years ago.",
+      "Przewidywanie na podstawie obecnej sytuacji: Look at those clouds — there's going to be a storm.",
+      "Wyrażanie wysokiego prawdopodobieństwa w stylu bardziej formalnym niż will: There is bound to be some disagreement at first.",
+      "Kontrast z 'there was/were' (zwykły fakt przeszły, bez podkreślenia zmiany) — 'there used to be' zawsze sugeruje kontrast z teraźniejszością."
+    ],
+    "tags": [
+      "there used to be",
+      "there is going to be",
+      "there is bound to be",
+      "there is likely to be"
+    ],
+    "examples": [
+      {
+        "en": "There used to be a cinema on this street, but it closed years ago.",
+        "pl": "Kiedyś było tu kino przy tej ulicy, ale zamknięto je lata temu."
+      },
+      {
+        "en": "Look at those clouds — there's going to be a storm.",
+        "pl": "Spójrz na te chmury — będzie burza."
+      },
+      {
+        "en": "There is bound to be some disagreement at the start of the negotiations.",
+        "pl": "Na pewno pojawi się jakieś niezgoda na początku negocjacji."
+      },
+      {
+        "en": "There is unlikely to be any improvement before next spring.",
+        "pl": "Mało prawdopodobne, żeby nastąpiła jakaś poprawa przed przyszłą wiosną."
+      }
+    ]
+  },
+  {
+    "id": "there_formal_existential_verbs",
+    "order": 4,
+    "nameEn": "there + exist/remain/arise/lie — formal existential verbs beyond be",
+    "namePl": "there + exist/remain/arise/lie — formalne czasowniki egzystencjalne inne niż be",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "w rejestrze formalnym, akademickim i prawnym there może łączyć się z czasownikami innymi niż be, które również wyrażają istnienie, pojawienie się lub trwanie: There exists a clear correlation between the two variables. There remain several unresolved issues. There arose a serious dispute."
+      },
+      {
+        "label": "Wybór czasownika",
+        "text": "exist = istnieć (stan, fakt), remain = wciąż pozostawać, nie zniknąć (There remain doubts about the plan), arise = pojawić się, wyniknąć (There arises a need for further research), lie = tkwić, znajdować się (There lies the real challenge)."
+      },
+      {
+        "label": "Zgodność liczby",
+        "text": "w przeciwieństwie do konstrukcji z be, gdzie w mowie potocznej czasem pomija się zgodność liczby, w tych formalnych czasownikach zgodność liczby z rzeczownikiem jest obowiązkowa i konsekwentnie przestrzegana: There exists one solution. / There exist several solutions."
+      }
+    ],
+    "usage": [
+      "Teksty akademickie, naukowe i prawnicze zamiast prostego there is/are: There exists strong evidence to support this theory.",
+      "Podsumowania i wnioski wskazujące na wciąż nierozwiązane kwestie: There remain significant gaps in our understanding.",
+      "Opisywanie pojawienia się problemu, konfliktu lub potrzeby: There arose a disagreement over the terms of the contract.",
+      "Styl literacki lub retoryczny do podkreślenia miejsca, w którym coś się znajduje: Therein lies the problem."
+    ],
+    "tags": [
+      "there exists",
+      "there remain",
+      "there arises",
+      "formal register"
+    ],
+    "examples": [
+      {
+        "en": "There exists strong evidence to support this theory.",
+        "pl": "Istnieją mocne dowody na poparcie tej teorii."
+      },
+      {
+        "en": "There remain several unresolved issues in the report.",
+        "pl": "W raporcie pozostaje kilka nierozwiązanych kwestii."
+      },
+      {
+        "en": "There arose a serious dispute over the ownership of the land.",
+        "pl": "Wynikł poważny spór o własność ziemi."
+      },
+      {
+        "en": "Therein lies the real challenge for policymakers.",
+        "pl": "Właśnie w tym tkwi prawdziwe wyzwanie dla decydentów."
+      }
+    ]
+  }
+]
