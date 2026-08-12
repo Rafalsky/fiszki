@@ -1,0 +1,104 @@
+[
+  {
+    "id": "attributive_only",
+    "order": 1,
+    "nameEn": "Attributive-only adjectives",
+    "namePl": "Przymiotniki wyłącznie atrybutywne",
+    "rules": [
+      { "label": "Tylko przed rzeczownikiem", "text": "Niektóre przymiotniki mogą stać WYŁĄCZNIE przed rzeczownikiem, którego dotyczą (an utter disaster), a nie mogą stać po czasowniku łączącym (nie: *the disaster was utter)" },
+      { "label": "Ograniczające / klasyfikujące", "text": "Wiele z nich ogranicza lub klasyfikuje rzeczownik, zamiast opisywać jego cechę: former, latter, main, chief, principal, sole, mere, sheer, utter, outright, main, elder, eldest, indoor, outdoor" },
+      { "label": "Dlaczego nie po czasowniku", "text": "Te przymiotniki nie przypisują rzeczownikowi cechy, którą da się „mieć” w oderwaniu od niego (np. former nie opisuje jakości, tylko relację czasową) — dlatego konstrukcja *the president is former jest niegramatyczna" }
+    ],
+    "usage": [
+      "Klasyfikacja / ograniczenie zakresu: the former president, the main reason, the sole survivor, the chief cause",
+      "Wzmacnianie / emfaza: an utter disaster, sheer nonsense, an outright lie, a mere formality",
+      "Przymiotniki relacyjne bez formy predykatywnej: indoor pool, outdoor market, eldest daughter",
+      "Aby wyrazić tę samą treść po czasowniku łączącym, trzeba przeformułować zdanie (He is the former president. / He used to be president.)"
+    ],
+    "tags": ["former", "mere", "utter", "sheer", "main", "sole", "outright"],
+    "examples": [
+      { "en": "She's the former manager of this branch.", "pl": "Ona jest byłą kierowniczką tego oddziału." },
+      { "en": "It was sheer luck that we won.", "pl": "To był czysty przypadek, że wygraliśmy." },
+      { "en": "That's an utter waste of time.", "pl": "To kompletna strata czasu." },
+      { "en": "The main problem is a lack of funding.", "pl": "Głównym problemem jest brak funduszy." },
+      { "en": "It was an outright refusal.", "pl": "To była całkowita odmowa." }
+    ]
+  },
+  {
+    "id": "predicative_only",
+    "order": 2,
+    "nameEn": "Predicative-only adjectives",
+    "namePl": "Przymiotniki wyłącznie predykatywne",
+    "rules": [
+      { "label": "Tylko po czasowniku łączącym", "text": "Niektóre przymiotniki, głównie zaczynające się na a-, mogą stać WYŁĄCZNIE po czasowniku łączącym (be, seem, feel, look): She was asleep — a nie przed rzeczownikiem (nie: *an asleep child)" },
+      { "label": "Grupa a-", "text": "afraid, alive, alone, asleep, awake, aware, ashamed, alike, afloat, averse — historycznie powstały z przyimka „a-” + rzeczownik/przymiotnik, stąd brak formy atrybutywnej" },
+      { "label": "Inne przymiotniki predykatywne", "text": "Poza grupą a- do tej kategorii należą też m.in. ill (w znaczeniu „chory”, choć BrE dopuszcza an ill person w innym znaczeniu), well (zdrowy), unable, glad, content, loath" },
+      { "label": "Zamiennik atrybutywny", "text": "Gdy trzeba użyć podobnego znaczenia przed rzeczownikiem, sięga się po synonim: a sleeping child (nie an asleep child), a frightened man (nie an afraid man), a live wire / a living creature (nie an alive creature)" }
+    ],
+    "usage": [
+      "Opis chwilowego stanu po czasowniku łączącym: The baby is asleep. He seems afraid. They are alone.",
+      "Zamiast atrybutywnego 'afraid' używamy synonimu: a frightened man, a scared child",
+      "Zamiast atrybutywnego 'asleep' używamy synonimu: a sleeping baby",
+      "Zamiast atrybutywnego 'alive' używamy synonimu: a living organism / a live broadcast"
+    ],
+    "tags": ["afraid", "asleep", "alone", "alive", "aware", "ashamed"],
+    "examples": [
+      { "en": "The children were fast asleep by nine o'clock.", "pl": "Dzieci mocno spały już o dziewiątej." },
+      { "en": "I'm not afraid of the dark anymore.", "pl": "Już się nie boję ciemności." },
+      { "en": "She lives alone in a small flat.", "pl": "Mieszka sama w małym mieszkaniu." },
+      { "en": "Are you aware of the risks involved?", "pl": "Czy jesteś świadomy związanego z tym ryzyka?" },
+      { "en": "He looked ashamed of what he'd done.", "pl": "Wyglądał na zawstydzonego tym, co zrobił." }
+    ]
+  },
+  {
+    "id": "meaning_shift",
+    "order": 3,
+    "nameEn": "Adjectives that change meaning with position",
+    "namePl": "Przymiotniki zmieniające znaczenie w zależności od pozycji",
+    "rules": [
+      { "label": "Ta sama forma, inne znaczenie", "text": "Niewielka grupa przymiotników ma zupełnie inne znaczenie w pozycji atrybutywnej niż predykatywnej: present (concerned/vs obecny), late (nieżyjący/vs spóźniony), certain (pewien konkretny/vs pewny czegoś), responsible (odpowiedzialny za coś konkretnego/vs solidny)" },
+      { "label": "present", "text": "Atrybutywnie: „obecny, aktualny” (the present situation). Predykatywnie: „obecny, będący na miejscu” (All the students were present.)" },
+      { "label": "late", "text": "Atrybutywnie przed osobą: „nieżyjący, zmarły” (my late grandfather). Predykatywnie: „spóźniony” (The train was late.)" },
+      { "label": "certain", "text": "Atrybutywnie: „pewien, jakiś konkretny, nieokreślony” (a certain person). Predykatywnie: „pewny, przekonany” (I'm certain about this.)" }
+    ],
+    "usage": [
+      "Rozpoznaj znaczenie po pozycji: 'the present government' (obecny rząd) vs 'the students present' (obecni studenci)",
+      "'my late father' = mój zmarły ojciec, ale 'the bus was late' = autobus się spóźnił",
+      "'a certain advantage' = pewna (jakaś) korzyść, ale 'I'm certain' = jestem pewien (przekonany)",
+      "'the concerned parents' = zaniepokojeni rodzice, ale 'the parents concerned' = rodzice, których to dotyczy"
+    ],
+    "tags": ["present", "late", "certain", "concerned", "responsible"],
+    "examples": [
+      { "en": "My late uncle used to live in this house.", "pl": "Mój zmarły wujek mieszkał kiedyś w tym domu." },
+      { "en": "Sorry I'm late — the bus broke down.", "pl": "Przepraszam za spóźnienie — autobus się zepsuł." },
+      { "en": "There's a certain charm to this old town.", "pl": "W tym starym miasteczku jest pewien urok." },
+      { "en": "I'm not entirely certain what he meant.", "pl": "Nie jestem do końca pewien, co miał na myśli." },
+      { "en": "All members present voted in favour.", "pl": "Wszyscy obecni członkowie zagłosowali za." }
+    ]
+  },
+  {
+    "id": "postpositive",
+    "order": 4,
+    "nameEn": "Postpositive adjectives",
+    "namePl": "Przymiotniki poimienne (po rzeczowniku)",
+    "rules": [
+      { "label": "Po rzeczowniku, bez czasownika", "text": "Nieliczna grupa przymiotników stoi bezpośrednio PO rzeczowniku, mimo że nie jest to zdanie z czasownikiem łączącym — głównie w utrwalonych, często oficjalnych zwrotach: the president elect, the sum total, from time immemorial, court martial, notary public" },
+      { "label": "Z 'available' / 'possible' / 'involved'", "text": "Po zaimkach nieokreślonych (something, everything, anyone) oraz przy najwyższym stopniu / all/every przymiotnik często przechodzi za rzeczownik: the best room available, everyone involved, the only option possible" },
+      { "label": "Wpływ francuskiego", "text": "Wiele utrwalonych fraz poimiennych pochodzi z francuskiego szyku rzeczownik + przymiotnik: attorney general, heir apparent, secretary general, poet laureate" }
+    ],
+    "usage": [
+      "Utrwalone tytuły i terminy formalne: the president elect, notary public, court martial, attorney general",
+      "Po zaimkach na -thing/-body/-one: something strange, everyone present, nobody else",
+      "Po 'the only', 'the first/last' + rzeczownik + przymiotniku najwyższego stopnia: the best solution available, the only person suitable",
+      "W wyrażeniach czasowych i formalnych utartych zwrotach: time immemorial, the sum total, the world entire (styl literacki)"
+    ],
+    "tags": ["available", "involved", "elect", "immemorial", "concerned"],
+    "examples": [
+      { "en": "This is the best hotel available in the area.", "pl": "To najlepszy dostępny hotel w okolicy." },
+      { "en": "Everyone involved deserves credit for the project.", "pl": "Każdy, kto brał w tym udział, zasługuje na uznanie za ten projekt." },
+      { "en": "The president elect will take office in January.", "pl": "Prezydent elekt obejmie urząd w styczniu." },
+      { "en": "There must be something wrong with the engine.", "pl": "Coś musi być nie tak z silnikiem." },
+      { "en": "It has been like this since time immemorial.", "pl": "Tak jest odkąd sięgnąć pamięcią." }
+    ]
+  }
+]
