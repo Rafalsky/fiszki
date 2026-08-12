@@ -95,6 +95,7 @@ const THEORY_URLS = {
   modal_remoteness: new URL("../data/modal_remoteness.json", import.meta.url),
   delexicalized_verbs: new URL("../data/delexicalized_verbs.json", import.meta.url),
   free_relative_clauses: new URL("../data/free_relative_clauses.json", import.meta.url),
+  perception_causative: new URL("../data/perception_causative.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -185,6 +186,7 @@ const DRILLS_URLS = {
   modal_remoteness: new URL("../data/modal_remotenessDrills.json", import.meta.url),
   delexicalized_verbs: new URL("../data/delexicalized_verbsDrills.json", import.meta.url),
   free_relative_clauses: new URL("../data/free_relative_clausesDrills.json", import.meta.url),
+  perception_causative: new URL("../data/perception_causativeDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
