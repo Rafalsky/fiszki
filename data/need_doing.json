@@ -1,0 +1,247 @@
+[
+  {
+    "id": "need_doing_basic",
+    "order": 1,
+    "nameEn": "need + -ing — passive meaning (needs to be done)",
+    "namePl": "need + gerund (-ing) — znaczenie bierne (trzeba, żeby to zrobiono)",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "podmiot (rzecz, nie osoba) + need + czasownik z końcówką -ing. Forma gramatyczna jest czynna, ale znaczenie jest bierne: The car needs washing. = The car needs to be washed."
+      },
+      {
+        "label": "Kto wykonuje czynność",
+        "text": "podmiotem zdania jest RZECZ, która ma zostać poddana czynności, a nie osoba, która ją wykona — dlatego 'need doing' nie jest zwykłym gerundem czynności wykonywanej przez podmiot (jak w 'I need sleeping' — błędnie), tylko skrótem od 'needs to be + imiesłów bierny'."
+      },
+      {
+        "label": "Czasy",
+        "text": "need w tej konstrukcji zwykle występuje w Present Simple lub Past Simple (needed doing); w czasach continuous praktycznie się jej nie używa."
+      }
+    ],
+    "usage": [
+      "Naprawy, konserwacja, remonty i porządki domowe: The gutter needs clearing. / The walls need painting.",
+      "Bez zmiany znaczenia można zamienić na need to be + imiesłów bierny — obie formy są poprawne, ale 'need doing' brzmi bardziej naturalnie i potocznie.",
+      "Nie używa się tej konstrukcji, gdy podmiotem jest osoba wykonująca czynność na sobie samej w zwykłym sensie — 'I need washing' nie znaczy 'muszę się umyć', lecz brzmi dziwnie/żartobliwie, jakby mówiący sam wymagał umycia jak przedmiot."
+    ],
+    "tags": [
+      "needs cleaning",
+      "needs fixing",
+      "needs doing",
+      "passive gerund"
+    ],
+    "examples": [
+      {
+        "en": "The car needs washing before the trip.",
+        "pl": "Samochód trzeba umyć przed wyjazdem."
+      },
+      {
+        "en": "This shirt needs ironing — it's very creased.",
+        "pl": "Tę koszulę trzeba wyprasować — jest bardzo pomięta."
+      },
+      {
+        "en": "The lawn really needs cutting.",
+        "pl": "Trawnik naprawdę trzeba skosić."
+      },
+      {
+        "en": "My bike's tyres need replacing.",
+        "pl": "Opony w moim rowerze trzeba wymienić."
+      }
+    ]
+  },
+  {
+    "id": "want_doing_informal",
+    "order": 2,
+    "nameEn": "want + -ing — informal British equivalent",
+    "namePl": "want + gerund (-ing) — nieformalny brytyjski odpowiednik",
+    "rules": [
+      {
+        "label": "Budowa i znaczenie",
+        "text": "identyczna konstrukcja jak need + -ing, ale z want; ma to samo znaczenie bierne ('trzeba to zrobić') i jest jeszcze bardziej potoczna niż need doing, częsta w British English: That fence wants painting."
+      },
+      {
+        "label": "Uwaga na pułapkę",
+        "text": "nie mylić z want w zwykłym znaczeniu 'chcieć' + bezokolicznik: I want to swim today (poprawnie) — nie I want swimming today. W konstrukcji biernej want + -ing odnosi się wyłącznie do rzeczy wymagających naprawy lub uwagi, nie do pragnień osoby."
+      },
+      {
+        "label": "Regionalizm",
+        "text": "typowe głównie dla British English, zwłaszcza mowy potocznej; w American English znacznie częściej usłyszy się needs + -ing lub needs to be + imiesłów bierny."
+      }
+    ],
+    "usage": [
+      "Nieformalna krytyka lub porada w rozmowie: That fence wants painting. / Your hair wants cutting.",
+      "Rzadko w piśmie formalnym — tam naturalniejsze jest need to be + imiesłów bierny lub should be + imiesłów bierny.",
+      "Często z odcieniem lekkiej dezaprobaty lub zwrócenia uwagi na zaniedbanie: This room wants tidying up."
+    ],
+    "tags": [
+      "wants painting",
+      "wants tidying",
+      "informal passive",
+      "British English"
+    ],
+    "examples": [
+      {
+        "en": "That fence wants painting — it looks awful.",
+        "pl": "Ten płot trzeba pomalować — wygląda okropnie."
+      },
+      {
+        "en": "Your shoes want polishing before the interview.",
+        "pl": "Twoje buty trzeba wyczyścić przed rozmową kwalifikacyjną."
+      },
+      {
+        "en": "This room wants tidying up.",
+        "pl": "Ten pokój trzeba posprzątać."
+      },
+      {
+        "en": "The kitchen floor wants mopping.",
+        "pl": "Podłogę w kuchni trzeba umyć."
+      }
+    ]
+  },
+  {
+    "id": "require_doing_formal",
+    "order": 3,
+    "nameEn": "require + -ing — formal register",
+    "namePl": "require + gerund (-ing) — rejestr formalny",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "require działa analogicznie do need, ale brzmi znacznie bardziej oficjalnie i technicznie — typowe dla instrukcji, umów i dokumentacji technicznej: The equipment requires servicing every six months."
+      },
+      {
+        "label": "Wariant z bezokolicznikiem biernym",
+        "text": "require to be + imiesłów bierny ma identyczne znaczenie i również jest poprawne w stylu formalnym: The equipment requires to be serviced regularly — choć w praktyce requires servicing jest częstsze."
+      },
+      {
+        "label": "Kontrast z require sb to do sth",
+        "text": "gdy chcemy podać, KTO ma wykonać czynność, używa się innego wzorca — require + dopełnienie + bezokolicznik (znaczenie czynne): We require you to submit the form by Friday. W require + -ing wykonawca jest nieokreślony lub nieważny."
+      }
+    ],
+    "usage": [
+      "Instrukcje obsługi, umowy, regulaminy i dokumentacja techniczna: The system requires updating before use.",
+      "Formalne opisy procedur medycznych, prawnych i administracyjnych: The wound requires cleaning twice a day.",
+      "W mowie potocznej zwykle zastępowane przez need + -ing — require + -ing brzmi sztywno w codziennej rozmowie."
+    ],
+    "tags": [
+      "requires servicing",
+      "requires updating",
+      "formal register",
+      "technical instructions"
+    ],
+    "examples": [
+      {
+        "en": "The machinery requires servicing every six months.",
+        "pl": "Maszyny wymagają serwisowania co sześć miesięcy."
+      },
+      {
+        "en": "All documents require signing before submission.",
+        "pl": "Wszystkie dokumenty wymagają podpisania przed złożeniem."
+      },
+      {
+        "en": "The wound requires cleaning twice a day.",
+        "pl": "Rana wymaga oczyszczania dwa razy dziennie."
+      },
+      {
+        "en": "This software requires updating regularly.",
+        "pl": "To oprogramowanie wymaga regularnego aktualizowania."
+      }
+    ]
+  },
+  {
+    "id": "deserve_doing",
+    "order": 4,
+    "nameEn": "deserve + -ing — passive meaning",
+    "namePl": "deserve + gerund (-ing) — znaczenie bierne",
+    "rules": [
+      {
+        "label": "Budowa i znaczenie",
+        "text": "deserve + -ing = zasługiwać na to, by coś zostało zrobione; deserve to be + imiesłów bierny ma identyczne znaczenie: Her hard work deserves rewarding. = Her hard work deserves to be rewarded."
+      },
+      {
+        "label": "Podmiot",
+        "text": "podobnie jak przy need/want/require, podmiotem jest rzecz, sytuacja lub czyjeś osiągnięcie oceniane jako godne działania — nie wykonawca tej czynności."
+      },
+      {
+        "label": "Częstość i rejestr",
+        "text": "deserve + -ing występuje rzadziej w codziennej mowie niż deserve to be + imiesłów bierny, ale jest równie poprawne gramatycznie i typowe dla stylu eseistycznego oraz recenzji."
+      }
+    ],
+    "usage": [
+      "Ocena, że coś zasługuje na uwagę, nagrodę lub potępienie: This proposal deserves considering carefully.",
+      "Recenzje filmów, książek i wydarzeń w stylu formalnym/publicystycznym: The film deserves watching more than once.",
+      "Można wzmocnić przysłówkiem: certainly deserves examining, fully deserves punishing."
+    ],
+    "tags": [
+      "deserves rewarding",
+      "deserves considering",
+      "passive gerund",
+      "formal evaluation"
+    ],
+    "examples": [
+      {
+        "en": "Her achievement deserves recognizing.",
+        "pl": "Jej osiągnięcie zasługuje na uznanie."
+      },
+      {
+        "en": "This proposal deserves considering carefully.",
+        "pl": "Ta propozycja zasługuje na dokładne rozważenie."
+      },
+      {
+        "en": "The problem deserves examining in more detail.",
+        "pl": "Ten problem zasługuje na dokładniejsze zbadanie."
+      },
+      {
+        "en": "Such behaviour deserves punishing.",
+        "pl": "Takie zachowanie zasługuje na ukaranie."
+      }
+    ]
+  },
+  {
+    "id": "worth_doing_related",
+    "order": 5,
+    "nameEn": "worth + -ing — a related (but distinct) passive-flavoured structure",
+    "namePl": "worth + gerund (-ing) — pokrewna, ale odrębna konstrukcja o zabarwieniu biernym",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "podmiot + be + worth + -ing: This book is worth reading. Można też użyć ogólnego it jako podmiotu: It's worth trying."
+      },
+      {
+        "label": "Różnica względem need/want/require/deserve + -ing",
+        "text": "worth nie jest czasownikiem, lecz przymiotnikiem/przyimkiem występującym po be — znaczenie to 'coś jest warte tego, żeby to zrobić' (ocena wartości), a nie 'coś musi zostać zrobione' (konieczność), jak przy need/want/require."
+      },
+      {
+        "label": "Zaprzeczenie i wzmocnienie",
+        "text": "not worth + -ing (nie warto), well worth + -ing (zdecydowanie warto): It's not worth worrying about it. / The museum is well worth visiting."
+      }
+    ],
+    "usage": [
+      "Rekomendacje i oceny wartości czegoś: This restaurant is worth trying.",
+      "Rady, czy warto podejmować jakiś wysiłek: It isn't worth arguing about such a small thing.",
+      "Nie mylić z worth + rzeczownik (This painting is worth a fortune) — tam worth pełni inną funkcję składniową, wprowadzając wartość, a nie czynność."
+    ],
+    "tags": [
+      "worth reading",
+      "worth visiting",
+      "well worth",
+      "not worth"
+    ],
+    "examples": [
+      {
+        "en": "This museum is well worth visiting.",
+        "pl": "To muzeum zdecydowanie warto odwiedzić."
+      },
+      {
+        "en": "It's not worth worrying about such a small mistake.",
+        "pl": "Nie warto martwić się o tak drobny błąd."
+      },
+      {
+        "en": "The book is definitely worth reading.",
+        "pl": "Ta książka zdecydowanie jest warta przeczytania."
+      },
+      {
+        "en": "Is it worth trying to fix the old radio?",
+        "pl": "Czy warto próbować naprawić to stare radio?"
+      }
+    ]
+  }
+]

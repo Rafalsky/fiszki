@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "itemId": "need_doing_basic",
+    "prompt": "The car ___ (wash) before the trip.",
+    "answer": "needs washing",
+    "distractors": [
+      "need washing",
+      "needs to washing",
+      "needs washed"
+    ]
+  },
+  {
+    "id": 2,
+    "itemId": "need_doing_basic",
+    "prompt": "This shirt ___ (iron) — it's very creased.",
+    "answer": "needs ironing",
+    "distractors": [
+      "need ironing",
+      "needs ironed",
+      "needs to ironing"
+    ]
+  },
+  {
+    "id": 3,
+    "itemId": "need_doing_basic",
+    "prompt": "The lawn really ___ (cut).",
+    "answer": "needs cutting",
+    "distractors": [
+      "need cutting",
+      "needs cut",
+      "needs to cutting"
+    ]
+  },
+  {
+    "id": 4,
+    "itemId": "need_doing_basic",
+    "prompt": "My bike's tyres ___ (replace) soon.",
+    "answer": "need replacing",
+    "distractors": [
+      "needs replacing",
+      "need replaced",
+      "need to replacing"
+    ]
+  },
+  {
+    "id": 5,
+    "itemId": "need_doing_basic",
+    "prompt": "The roof ___ (repair) — there's a leak.",
+    "answer": "needs repairing",
+    "distractors": [
+      "need repairing",
+      "needs repaired",
+      "needs to repair"
+    ]
+  },
+  {
+    "id": 6,
+    "itemId": "need_doing_basic",
+    "prompt": "Last year the whole house ___ (paint).",
+    "answer": "needed painting",
+    "distractors": [
+      "needs painting",
+      "needed paint",
+      "needed to painting"
+    ]
+  },
+  {
+    "id": 7,
+    "itemId": "need_doing_basic",
+    "prompt": "These old photos ___ (scan) before they fade completely.",
+    "answer": "need scanning",
+    "distractors": [
+      "needs scanning",
+      "need scanned",
+      "need to scanning"
+    ]
+  },
+  {
+    "id": 8,
+    "itemId": "need_doing_basic",
+    "prompt": "The battery in the smoke alarm ___ (change).",
+    "answer": "needs changing",
+    "distractors": [
+      "need changing",
+      "needs changed",
+      "needs to changing"
+    ]
+  },
+  {
+    "id": 9,
+    "itemId": "want_doing_informal",
+    "prompt": "That fence ___ (paint) — it looks awful.",
+    "answer": "wants painting",
+    "distractors": [
+      "want painting",
+      "wants painted",
+      "wants to painting"
+    ]
+  },
+  {
+    "id": 10,
+    "itemId": "want_doing_informal",
+    "prompt": "Your shoes ___ (polish) before the interview.",
+    "answer": "want polishing",
+    "distractors": [
+      "wants polishing",
+      "want polished",
+      "want to polishing"
+    ]
+  },
+  {
+    "id": 11,
+    "itemId": "want_doing_informal",
+    "prompt": "This room really ___ (tidy) up.",
+    "answer": "wants tidying",
+    "distractors": [
+      "want tidying",
+      "wants tidied",
+      "wants to tidying"
+    ]
+  },
+  {
+    "id": 12,
+    "itemId": "want_doing_informal",
+    "prompt": "The kitchen floor ___ (mop).",
+    "answer": "wants mopping",
+    "distractors": [
+      "want mopping",
+      "wants mopped",
+      "wants to mopping"
+    ]
+  },
+  {
+    "id": 13,
+    "itemId": "want_doing_informal",
+    "prompt": "That old car ___ (service) badly.",
+    "answer": "wants servicing",
+    "distractors": [
+      "want servicing",
+      "wants serviced",
+      "wants to servicing"
+    ]
+  },
+  {
+    "id": 14,
+    "itemId": "want_doing_informal",
+    "prompt": "Your hair ___ (cut) — it's getting really long.",
+    "answer": "wants cutting",
+    "distractors": [
+      "want cutting",
+      "wants cut",
+      "wants to cutting"
+    ]
+  },
+  {
+    "id": 15,
+    "itemId": "want_doing_informal",
+    "prompt": "The hedge in the front garden ___ (trim).",
+    "answer": "wants trimming",
+    "distractors": [
+      "want trimming",
+      "wants trimmed",
+      "wants to trimming"
+    ]
+  },
+  {
+    "id": 16,
+    "itemId": "want_doing_informal",
+    "prompt": "This carpet ___ (clean) — look at the stains.",
+    "answer": "wants cleaning",
+    "distractors": [
+      "want cleaning",
+      "wants cleaned",
+      "wants to cleaning"
+    ]
+  },
+  {
+    "id": 17,
+    "itemId": "require_doing_formal",
+    "prompt": "The machinery ___ (service) every six months.",
+    "answer": "requires servicing",
+    "distractors": [
+      "require servicing",
+      "requires serviced",
+      "requires to servicing"
+    ]
+  },
+  {
+    "id": 18,
+    "itemId": "require_doing_formal",
+    "prompt": "All documents ___ (sign) before submission.",
+    "answer": "require signing",
+    "distractors": [
+      "requires signing",
+      "require signed",
+      "require to signing"
+    ]
+  },
+  {
+    "id": 19,
+    "itemId": "require_doing_formal",
+    "prompt": "The wound ___ (clean) twice a day.",
+    "answer": "requires cleaning",
+    "distractors": [
+      "require cleaning",
+      "requires cleaned",
+      "requires to cleaning"
+    ]
+  },
+  {
+    "id": 20,
+    "itemId": "require_doing_formal",
+    "prompt": "This software ___ (update) regularly.",
+    "answer": "requires updating",
+    "distractors": [
+      "require updating",
+      "requires updated",
+      "requires to updating"
+    ]
+  },
+  {
+    "id": 21,
+    "itemId": "require_doing_formal",
+    "prompt": "The bridge ___ (inspect) annually for safety.",
+    "answer": "requires inspecting",
+    "distractors": [
+      "require inspecting",
+      "requires inspected",
+      "requires to inspecting"
+    ]
+  },
+  {
+    "id": 22,
+    "itemId": "require_doing_formal",
+    "prompt": "These figures ___ (check) before the report is published.",
+    "answer": "require checking",
+    "distractors": [
+      "requires checking",
+      "require checked",
+      "require to checking"
+    ]
+  },
+  {
+    "id": 23,
+    "itemId": "require_doing_formal",
+    "prompt": "The contract ___ (review) by a lawyer.",
+    "answer": "requires reviewing",
+    "distractors": [
+      "require reviewing",
+      "requires reviewed",
+      "requires to reviewing"
+    ]
+  },
+  {
+    "id": 24,
+    "itemId": "require_doing_formal",
+    "prompt": "Old wiring like this ___ (replace) for safety reasons.",
+    "answer": "requires replacing",
+    "distractors": [
+      "require replacing",
+      "requires replaced",
+      "requires to replacing"
+    ]
+  },
+  {
+    "id": 25,
+    "itemId": "deserve_doing",
+    "prompt": "Her achievement ___ (recognize).",
+    "answer": "deserves recognizing",
+    "distractors": [
+      "deserve recognizing",
+      "deserves recognized",
+      "deserves to recognizing"
+    ]
+  },
+  {
+    "id": 26,
+    "itemId": "deserve_doing",
+    "prompt": "This proposal ___ (consider) carefully.",
+    "answer": "deserves considering",
+    "distractors": [
+      "deserve considering",
+      "deserves considered",
+      "deserves to considering"
+    ]
+  },
+  {
+    "id": 27,
+    "itemId": "deserve_doing",
+    "prompt": "The problem ___ (examine) in more detail.",
+    "answer": "deserves examining",
+    "distractors": [
+      "deserve examining",
+      "deserves examined",
+      "deserves to examining"
+    ]
+  },
+  {
+    "id": 28,
+    "itemId": "deserve_doing",
+    "prompt": "Such behaviour ___ (punish).",
+    "answer": "deserves punishing",
+    "distractors": [
+      "deserve punishing",
+      "deserves punished",
+      "deserves to punishing"
+    ]
+  },
+  {
+    "id": 29,
+    "itemId": "deserve_doing",
+    "prompt": "Their generosity ___ (mention) in the speech.",
+    "answer": "deserves mentioning",
+    "distractors": [
+      "deserve mentioning",
+      "deserves mentioned",
+      "deserves to mentioning"
+    ]
+  },
+  {
+    "id": 30,
+    "itemId": "deserve_doing",
+    "prompt": "This old theory ___ (revisit) in light of new evidence.",
+    "answer": "deserves revisiting",
+    "distractors": [
+      "deserve revisiting",
+      "deserves revisited",
+      "deserves to revisiting"
+    ]
+  },
+  {
+    "id": 31,
+    "itemId": "deserve_doing",
+    "prompt": "Her latest novel ___ (praise) for its originality.",
+    "answer": "deserves praising",
+    "distractors": [
+      "deserve praising",
+      "deserves praised",
+      "deserves to praising"
+    ]
+  },
+  {
+    "id": 32,
+    "itemId": "deserve_doing",
+    "prompt": "The team's effort this season ___ (celebrate).",
+    "answer": "deserves celebrating",
+    "distractors": [
+      "deserve celebrating",
+      "deserves celebrated",
+      "deserves to celebrating"
+    ]
+  },
+  {
+    "id": 33,
+    "itemId": "worth_doing_related",
+    "prompt": "This museum is well ___ (visit).",
+    "answer": "worth visiting",
+    "distractors": [
+      "worthy visiting",
+      "worth to visit",
+      "worth visited"
+    ]
+  },
+  {
+    "id": 34,
+    "itemId": "worth_doing_related",
+    "prompt": "It's not ___ (worry) about such a small mistake.",
+    "answer": "worth worrying",
+    "distractors": [
+      "worthy worrying",
+      "worth to worry",
+      "worth worried"
+    ]
+  },
+  {
+    "id": 35,
+    "itemId": "worth_doing_related",
+    "prompt": "The book is definitely ___ (read).",
+    "answer": "worth reading",
+    "distractors": [
+      "worthy reading",
+      "worth to read",
+      "worth read"
+    ]
+  },
+  {
+    "id": 36,
+    "itemId": "worth_doing_related",
+    "prompt": "Is it ___ (try) to fix the old radio?",
+    "answer": "worth trying",
+    "distractors": [
+      "worthy trying",
+      "worth to try",
+      "worth tried"
+    ]
+  },
+  {
+    "id": 37,
+    "itemId": "worth_doing_related",
+    "prompt": "This job offer is really ___ (consider).",
+    "answer": "worth considering",
+    "distractors": [
+      "worthy considering",
+      "worth to consider",
+      "worth considered"
+    ]
+  },
+  {
+    "id": 38,
+    "itemId": "worth_doing_related",
+    "prompt": "That restaurant is well ___ (try) — the food is excellent.",
+    "answer": "worth trying",
+    "distractors": [
+      "worthy trying",
+      "worth to try",
+      "worth tried"
+    ]
+  },
+  {
+    "id": 39,
+    "itemId": "worth_doing_related",
+    "prompt": "It isn't ___ (argue) about such a small thing.",
+    "answer": "worth arguing",
+    "distractors": [
+      "worthy arguing",
+      "worth to argue",
+      "worth argued"
+    ]
+  },
+  {
+    "id": 40,
+    "itemId": "worth_doing_related",
+    "prompt": "Her advice is always ___ (listen) to.",
+    "answer": "worth listening",
+    "distractors": [
+      "worthy listening",
+      "worth to listen",
+      "worth listened"
+    ]
+  }
+]
