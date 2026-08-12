@@ -88,6 +88,7 @@ const THEORY_URLS = {
   comparative_clauses: new URL("../data/comparative_clauses.json", import.meta.url),
   vague_language: new URL("../data/vague_language.json", import.meta.url),
   conditional_conjunctions: new URL("../data/conditional_conjunctions.json", import.meta.url),
+  phrasal_verb_passive: new URL("../data/phrasal_verb_passive.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -171,6 +172,7 @@ const DRILLS_URLS = {
   comparative_clauses: new URL("../data/comparative_clausesDrills.json", import.meta.url),
   vague_language: new URL("../data/vague_languageDrills.json", import.meta.url),
   conditional_conjunctions: new URL("../data/conditional_conjunctionsDrills.json", import.meta.url),
+  phrasal_verb_passive: new URL("../data/phrasal_verb_passiveDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

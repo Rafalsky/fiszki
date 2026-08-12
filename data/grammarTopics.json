@@ -558,5 +558,12 @@
     "title": "Spójniki warunkowe",
     "desc": "unless, provided/providing that, in case, on condition that, otherwise — alternatywne spójniki warunku poza if — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "phrasal_verb_passive",
+    "icon": "🪝",
+    "title": "Bierna czasowników złożonych",
+    "desc": "Strona bierna czasowników frazowych i przyimkowych (look after → be looked after, turn off → be turned off) — kiedy i jak pasywizować czasowniki wieloczłonowe, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
