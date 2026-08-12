@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "role_vs_similarity",
+    "prompt": "___ your accountant, I must warn you about this risk.",
+    "answer": "As",
+    "distractors": ["Like", "Such as", "So"]
+  },
+  {
+    "id": 2,
+    "itemId": "role_vs_similarity",
+    "prompt": "He walks ___ his grandfather did — the same slow, careful steps.",
+    "answer": "like",
+    "distractors": ["as", "such as", "so"]
+  },
+  {
+    "id": 3,
+    "itemId": "role_vs_similarity",
+    "prompt": "___ the only witness, she was called to testify first.",
+    "answer": "As",
+    "distractors": ["Like", "Such as", "Because"]
+  },
+  {
+    "id": 4,
+    "itemId": "role_vs_similarity",
+    "prompt": "The hotel used the old barn ___ a wedding venue.",
+    "answer": "as",
+    "distractors": ["like", "such as", "so"]
+  },
+  {
+    "id": 5,
+    "itemId": "role_vs_similarity",
+    "prompt": "Stop treating me ___ a child; I'm forty years old.",
+    "answer": "like",
+    "distractors": ["as", "such as", "so"]
+  },
+  {
+    "id": 6,
+    "itemId": "role_vs_similarity",
+    "prompt": "___ president of the club, he chairs every meeting.",
+    "answer": "As",
+    "distractors": ["Like", "Such as", "So"]
+  },
+  {
+    "id": 7,
+    "itemId": "role_vs_similarity",
+    "prompt": "This fabric feels ___ silk, but it's actually polyester.",
+    "answer": "like",
+    "distractors": ["as", "such as", "so"]
+  },
+  {
+    "id": 8,
+    "itemId": "role_vs_similarity",
+    "prompt": "They appointed her ___ head of the department last month.",
+    "answer": "as",
+    "distractors": ["like", "such as", "so"]
+  },
+  {
+    "id": 9,
+    "itemId": "role_vs_similarity",
+    "prompt": "___ many teenagers, he spends most evenings online.",
+    "answer": "Like",
+    "distractors": ["As", "Such as", "So"]
+  },
+  {
+    "id": 10,
+    "itemId": "role_vs_similarity",
+    "prompt": "We employed him ___ a consultant for six months.",
+    "answer": "as",
+    "distractors": ["like", "such as", "so"]
+  },
+  {
+    "id": 11,
+    "itemId": "manner_conjunction",
+    "prompt": "Please do it exactly ___ I showed you.",
+    "answer": "as",
+    "distractors": ["like", "such as", "so"]
+  },
+  {
+    "id": 12,
+    "itemId": "manner_conjunction",
+    "prompt": "Everything happened exactly ___ we had planned.",
+    "answer": "as",
+    "distractors": ["like", "such as", "so"]
+  },
+  {
+    "id": 13,
+    "itemId": "manner_conjunction",
+    "prompt": "Nobody came to help, ___ I told you would happen.",
+    "answer": "like",
+    "distractors": ["as such", "such as", "so"]
+  },
+  {
+    "id": 14,
+    "itemId": "manner_conjunction",
+    "prompt": "___ agreed, the goods were delivered on Monday morning.",
+    "answer": "As",
+    "distractors": ["Like", "Such as", "So"]
+  },
+  {
+    "id": 15,
+    "itemId": "manner_conjunction",
+    "prompt": "Fill in the form exactly ___ instructed on the website.",
+    "answer": "as",
+    "distractors": ["like", "such as", "so"]
+  },
+  {
+    "id": 16,
+    "itemId": "manner_conjunction",
+    "prompt": "She finished the race exactly ___ expected — in first place.",
+    "answer": "as",
+    "distractors": ["like", "such as", "so"]
+  },
+  {
+    "id": 17,
+    "itemId": "manner_conjunction",
+    "prompt": "___ you know, the office will be closed next week.",
+    "answer": "As",
+    "distractors": ["Like", "Such as", "So"]
+  },
+  {
+    "id": 18,
+    "itemId": "manner_conjunction",
+    "prompt": "He never listens, ___ I said he wouldn't.",
+    "answer": "like",
+    "distractors": ["as such", "such as", "so"]
+  },
+  {
+    "id": 19,
+    "itemId": "manner_conjunction",
+    "prompt": "Do ___ I say, not as I do.",
+    "answer": "as",
+    "distractors": ["like", "such as", "so"]
+  },
+  {
+    "id": 20,
+    "itemId": "manner_conjunction",
+    "prompt": "The machine is working exactly ___ planned, with no errors so far.",
+    "answer": "as",
+    "distractors": ["like", "such as", "so"]
+  },
+  {
+    "id": 21,
+    "itemId": "time_reason",
+    "prompt": "___ the sun rose, the fog slowly disappeared.",
+    "answer": "As",
+    "distractors": ["Like", "Such as", "So"]
+  },
+  {
+    "id": 22,
+    "itemId": "time_reason",
+    "prompt": "___ nobody objected, the plan was approved without further discussion.",
+    "answer": "As",
+    "distractors": ["Like", "Such as", "So"]
+  },
+  {
+    "id": 23,
+    "itemId": "time_reason",
+    "prompt": "___ she grew older, she became far more confident.",
+    "answer": "As",
+    "distractors": ["Like", "Such as", "So"]
+  },
+  {
+    "id": 24,
+    "itemId": "time_reason",
+    "prompt": "___ it was raining heavily, the match was postponed.",
+    "answer": "As",
+    "distractors": ["Like", "Such as", "So"]
+  },
+  {
+    "id": 25,
+    "itemId": "time_reason",
+    "prompt": "The phone rang just ___ we were leaving the house.",
+    "answer": "as",
+    "distractors": ["like", "such as", "so"]
+  },
+  {
+    "id": 26,
+    "itemId": "time_reason",
+    "prompt": "___ time went by, the town changed almost beyond recognition.",
+    "answer": "As",
+    "distractors": ["Like", "Such as", "So"]
+  },
+  {
+    "id": 27,
+    "itemId": "time_reason",
+    "prompt": "___ he hadn't paid the bill, the electricity was cut off.",
+    "answer": "As",
+    "distractors": ["Like", "Such as", "So"]
+  },
+  {
+    "id": 28,
+    "itemId": "time_reason",
+    "prompt": "Prices kept rising ___ the shortage continued.",
+    "answer": "as",
+    "distractors": ["like", "such as", "so"]
+  },
+  {
+    "id": 29,
+    "itemId": "time_reason",
+    "prompt": "___ the deadline approached, tension in the office grew.",
+    "answer": "As",
+    "distractors": ["Like", "Such as", "So"]
+  },
+  {
+    "id": 30,
+    "itemId": "time_reason",
+    "prompt": "___ none of the applicants met the requirements, the position remained vacant.",
+    "answer": "As",
+    "distractors": ["Like", "Such as", "So"]
+  },
+  {
+    "id": 31,
+    "itemId": "such_as_vs_like",
+    "prompt": "Some countries, ___ Norway and Sweden, have very high living standards.",
+    "answer": "such as",
+    "distractors": ["like", "as such", "so"]
+  },
+  {
+    "id": 32,
+    "itemId": "such_as_vs_like",
+    "prompt": "We need someone with real experience, ___ a former teacher or a coach.",
+    "answer": "like",
+    "distractors": ["such as", "as such", "so"]
+  },
+  {
+    "id": 33,
+    "itemId": "such_as_vs_like",
+    "prompt": "Fruits ___ mangoes and papayas grow well in this climate.",
+    "answer": "such as",
+    "distractors": ["like", "as such", "so"]
+  },
+  {
+    "id": 34,
+    "itemId": "such_as_vs_like",
+    "prompt": "The title sounds impressive but carries no real power ___.",
+    "answer": "as such",
+    "distractors": ["such as", "like", "so"]
+  },
+  {
+    "id": 35,
+    "itemId": "such_as_vs_like",
+    "prompt": "Cities ___ Venice attract millions of tourists every year.",
+    "answer": "like",
+    "distractors": ["such as", "as such", "so"]
+  },
+  {
+    "id": 36,
+    "itemId": "such_as_vs_like",
+    "prompt": "Certain metals, ___ gold and platinum, rarely lose their value.",
+    "answer": "such as",
+    "distractors": ["like", "as such", "so"]
+  },
+  {
+    "id": 37,
+    "itemId": "such_as_vs_like",
+    "prompt": "He collects vintage cameras, ___ old Leicas and Kodaks.",
+    "answer": "such as",
+    "distractors": ["like", "as such", "so"]
+  },
+  {
+    "id": 38,
+    "itemId": "such_as_vs_like",
+    "prompt": "The device isn't really a phone ___, but it can make calls.",
+    "answer": "as such",
+    "distractors": ["such as", "like", "so"]
+  },
+  {
+    "id": 39,
+    "itemId": "such_as_vs_like",
+    "prompt": "Popular sports ___ football and basketball dominate school programmes.",
+    "answer": "such as",
+    "distractors": ["like", "as such", "so"]
+  },
+  {
+    "id": 40,
+    "itemId": "such_as_vs_like",
+    "prompt": "People ___ my grandmother rarely trust online banking.",
+    "answer": "like",
+    "distractors": ["such as", "as such", "so"]
+  }
+]

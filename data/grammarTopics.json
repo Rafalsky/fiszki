@@ -663,5 +663,12 @@
     "title": "Bierna czasowników ditransitive",
     "desc": "Strona bierna czasowników dwudopełnieniowych: osoba lub rzecz jako podmiot (I was given a book / A book was given to her), czasowniki bez biernej z osobą oraz dopełnienie zachowane — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "as_vs_like",
+    "icon": "🆚",
+    "title": "As czy like?",
+    "desc": "Rozróżnienie as (rola, sposób, czas, przyczyna) i like (podobieństwo) oraz such as do podawania przykładów — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
