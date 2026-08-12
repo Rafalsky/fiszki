@@ -1,0 +1,94 @@
+[
+  {
+    "id": "be_about_to",
+    "order": 1,
+    "nameEn": "be about to — the immediate future",
+    "namePl": "be about to — czynność tuż przed rozpoczęciem",
+    "rules": [
+      { "label": "Budowa", "text": "am/is/are + about to + bezokolicznik (I'm about to leave, She isn't about to call)" },
+      { "label": "Przeszłość", "text": "was/were + about to — coś, co miało się wydarzyć, ale często zostało przerwane (I was about to call you when the phone rang.)" }
+    ],
+    "usage": [
+      "Czynność, która wydarzy się za chwilę, niemal natychmiast (The film is about to start.)",
+      "Coś dzieje się w bardzo bliskiej przyszłości, często widoczne teraz (Look, the bus is about to leave!)",
+      "'not about to' w mowie potocznej oznacza silną niechęć lub odmowę, a nie tylko czas (I'm not about to apologise to him.)",
+      "was/were about to — plan przerwany przez inne wydarzenie (I was about to call you when the phone rang.)"
+    ],
+    "tags": ["about to leave", "about to start", "not about to", "was about to call"],
+    "examples": [
+      { "en": "The film is about to start — hurry up!", "pl": "Film zaraz się zacznie — pospiesz się!" },
+      { "en": "Look, the bus is about to leave!", "pl": "Patrz, autobus zaraz odjeżdża!" },
+      { "en": "I'm not about to apologise for something I didn't do.", "pl": "Nie zamierzam przepraszać za coś, czego nie zrobiłem." },
+      { "en": "I was about to call you when the phone rang.", "pl": "Właśnie miałem do ciebie zadzwonić, kiedy zadzwonił telefon." }
+    ]
+  },
+  {
+    "id": "on_the_point_verge_of",
+    "order": 2,
+    "nameEn": "on the point of / on the verge of + gerund",
+    "namePl": "on the point of / on the verge of — na skraju czegoś",
+    "rules": [
+      { "label": "Budowa", "text": "be + on the point of / on the verge of + rzeczownik odczasownikowy lub rzeczownik (She was on the point of leaving, The company is on the verge of collapse)" },
+      { "label": "Rejestr", "text": "bardziej formalne i literackie niż be about to; on the verge of często podkreśla emocje lub sytuacje kryzysowe" }
+    ],
+    "usage": [
+      "Coś, co ma się wydarzyć za chwilę, zwykle w formalnym lub pisanym stylu (The negotiations are on the point of breaking down.)",
+      "on the verge of podkreśla bliskość silnej, często negatywnej zmiany (She was on the verge of tears.)",
+      "Możliwe też z samym rzeczownikiem, bez gerund (on the verge of collapse, on the point of no return)",
+      "was/were on the point of — coś przerwanego w ostatniej chwili (He was on the point of resigning when they offered him a promotion.)"
+    ],
+    "tags": ["on the point of leaving", "on the verge of tears", "on the verge of collapse", "was on the point of"],
+    "examples": [
+      { "en": "The negotiations are on the point of breaking down.", "pl": "Negocjacje są o krok od załamania." },
+      { "en": "She was on the verge of tears when she heard the news.", "pl": "Była o krok od płaczu, gdy usłyszała tę wiadomość." },
+      { "en": "The company is on the verge of bankruptcy.", "pl": "Firma jest na skraju bankructwa." },
+      { "en": "He was on the point of resigning when they offered him a promotion.", "pl": "Był bliski rezygnacji, kiedy zaproponowano mu awans." }
+    ]
+  },
+  {
+    "id": "formal_be_to",
+    "order": 3,
+    "nameEn": "be to + infinitive — formal instructions and schedules",
+    "namePl": "be to + bezokolicznik — formalne polecenia i harmonogramy",
+    "rules": [
+      { "label": "Budowa", "text": "am/is/are + to + bezokolicznik (The President is to visit Warsaw, You are to hand in your reports by Friday)" },
+      { "label": "Przeszłość", "text": "was/were + to + bezokolicznik — zaplanowane wydarzenie z przeszłości, często nieodbyte (The ceremony was to take place at noon.); z bezokolicznikiem dokonanym (was to have started) oznacza plan, który się nie ziścił" }
+    ],
+    "usage": [
+      "Oficjalne, formalne ustalenia i harmonogramy, częste w wiadomościach (The Prime Minister is to meet EU leaders tomorrow.)",
+      "Formalne polecenia i zasady, zwłaszcza w instrukcjach i regulaminach (Passengers are to remain seated until the seatbelt sign is off.)",
+      "was/were + to + have + III forma — plan, który się nie wydarzył (She was to have started her new job, but she fell ill.)",
+      "Nie używamy be to dla osobistych, nieformalnych planów — tam wolimy going to lub present continuous"
+    ],
+    "tags": ["is to visit", "are to remain seated", "was to take place", "was to have started"],
+    "examples": [
+      { "en": "The Prime Minister is to meet EU leaders tomorrow.", "pl": "Premier ma się jutro spotkać z przywódcami UE." },
+      { "en": "Passengers are to remain seated until the seatbelt sign is switched off.", "pl": "Pasażerowie mają pozostać na miejscach do wyłączenia znaku zapięcia pasów." },
+      { "en": "The ceremony was to take place at noon, but it was postponed.", "pl": "Uroczystość miała się odbyć w południe, ale została przełożona." },
+      { "en": "She was to have started her new job on Monday, but she fell ill.", "pl": "Miała rozpocząć nową pracę w poniedziałek, ale zachorowała." }
+    ]
+  },
+  {
+    "id": "be_set_due_to",
+    "order": 4,
+    "nameEn": "be set to / be due to + infinitive — expected events",
+    "namePl": "be set to / be due to — spodziewane wydarzenia",
+    "rules": [
+      { "label": "Budowa", "text": "am/is/are + due to / set to + bezokolicznik (The train is due to arrive at 9, Prices are set to rise.)" },
+      { "label": "Różnica", "text": "be due to podkreśla oczekiwany, zaplanowany czas — rozkład jazdy, terminarz; be set to podkreśla, że coś wydaje się niemal pewne na podstawie obecnej sytuacji, typowe w wiadomościach" }
+    ],
+    "usage": [
+      "be due to — coś zaplanowanego zgodnie z rozkładem lub harmonogramem (The plane is due to land at 10pm.)",
+      "be due to w przeczeniu i pytaniu (The delivery isn't due to arrive until next week. When is the baby due?)",
+      "be set to — typowe w prasie i wiadomościach dla wydarzeń, które wydają się niemal pewne (Prices are set to rise again next month.)",
+      "obie konstrukcje częste w kontekście biznesowym i informacyjnym, rzadkie w rozmowie o osobistych planach"
+    ],
+    "tags": ["due to arrive", "isn't due to", "set to rise", "set to premiere"],
+    "examples": [
+      { "en": "The plane is due to land at 10pm.", "pl": "Samolot ma wylądować o 22." },
+      { "en": "The delivery isn't due to arrive until next week.", "pl": "Dostawa nie ma dotrzeć wcześniej niż w przyszłym tygodniu." },
+      { "en": "Prices are set to rise again next month.", "pl": "Ceny mają znowu wzrosnąć w przyszłym miesiącu." },
+      { "en": "The new film is set to premiere in June.", "pl": "Nowy film ma mieć premierę w czerwcu." }
+    ]
+  }
+]
