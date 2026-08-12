@@ -670,5 +670,12 @@
     "title": "As czy like?",
     "desc": "Rozróżnienie as (rola, sposób, czas, przyczyna) i like (podobieństwo) oraz such as do podawania przykładów — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "result_clauses",
+    "icon": "💥",
+    "title": "Zdania skutkowe",
+    "desc": "so...that / such...that / so much/many/little/few...that — wyrażanie skutku wynikającego ze stopnia cechy, sposobu lub ilości, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

@@ -104,6 +104,7 @@ const THEORY_URLS = {
   need_dare: new URL("../data/need_dare.json", import.meta.url),
   ditransitive_passive: new URL("../data/ditransitive_passive.json", import.meta.url),
   as_vs_like: new URL("../data/as_vs_like.json", import.meta.url),
+  result_clauses: new URL("../data/result_clauses.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -203,6 +204,7 @@ const DRILLS_URLS = {
   need_dare: new URL("../data/need_dareDrills.json", import.meta.url),
   ditransitive_passive: new URL("../data/ditransitive_passiveDrills.json", import.meta.url),
   as_vs_like: new URL("../data/as_vs_likeDrills.json", import.meta.url),
+  result_clauses: new URL("../data/result_clausesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
