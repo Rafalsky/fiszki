@@ -551,5 +551,12 @@
     "title": "Język przybliżony i hedging",
     "desc": "kind of / sort of, or so, -ish, as it were — łagodzenie i uściślanie wypowiedzi przez celowe niedopowiedzenie — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "conditional_conjunctions",
+    "icon": "☂️",
+    "title": "Spójniki warunkowe",
+    "desc": "unless, provided/providing that, in case, on condition that, otherwise — alternatywne spójniki warunku poza if — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

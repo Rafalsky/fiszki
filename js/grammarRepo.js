@@ -87,6 +87,7 @@ const THEORY_URLS = {
   impersonal_pronouns: new URL("../data/impersonal_pronouns.json", import.meta.url),
   comparative_clauses: new URL("../data/comparative_clauses.json", import.meta.url),
   vague_language: new URL("../data/vague_language.json", import.meta.url),
+  conditional_conjunctions: new URL("../data/conditional_conjunctions.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -169,6 +170,7 @@ const DRILLS_URLS = {
   impersonal_pronouns: new URL("../data/impersonal_pronounsDrills.json", import.meta.url),
   comparative_clauses: new URL("../data/comparative_clausesDrills.json", import.meta.url),
   vague_language: new URL("../data/vague_languageDrills.json", import.meta.url),
+  conditional_conjunctions: new URL("../data/conditional_conjunctionsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

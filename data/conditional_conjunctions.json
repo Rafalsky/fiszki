@@ -1,0 +1,102 @@
+[
+  {
+    "id": "unless",
+    "order": 1,
+    "nameEn": "unless — negative condition",
+    "namePl": "unless — warunek przeczący (jeśli nie)",
+    "rules": [
+      { "label": "unless = if not", "text": "unless znaczy „jeśli nie” — wprowadza warunek, którego niespełnienie jest konieczne, by zaszła czynność w zdaniu głównym" },
+      { "label": "Bez podwójnego przeczenia", "text": "po unless nie dodajemy drugiego „not” w tym samym znaczeniu (poprawnie: unless it rains, nie: unless it doesn't rain, gdy chodzi o „jeśli nie będzie padać”)" },
+      { "label": "Czas jak w if", "text": "w zdaniu z unless obowiązują te same zasady czasu co w odpowiednim okresie warunkowym z if — Present Simple dla teraźniejszości/przyszłości, nigdy will" },
+      { "label": "Nie zawsze zamienne z if not", "text": "unless podkreśla warunek konieczny/wyjątek i nie nadaje się tam, gdzie „if not” odnosi się do całego wcześniejszego zdania lub wprowadza kontrast (np. w pytaniach retorycznych)" }
+    ],
+    "usage": [
+      "Warunek konieczny: I won't go unless you come with me. (= if you don't come)",
+      "Ostrzeżenie: Unless you hurry, you'll miss the bus.",
+      "Formalne zastrzeżenie: Unless otherwise stated, all prices include tax.",
+      "Nie w kontrastowych pytaniach z „if not”: What will we do if she doesn't come? (nie: unless she doesn't come)"
+    ],
+    "tags": ["unless you hurry", "unless it rains", "unless otherwise stated", "won't...unless"],
+    "examples": [
+      { "en": "I won't go to the party unless you come with me.", "pl": "Nie pójdę na przyjęcie, jeśli nie przyjdziesz ze mną." },
+      { "en": "Unless it rains, we'll have the picnic outside.", "pl": "Jeśli nie będzie padać, zrobimy piknik na dworze." },
+      { "en": "You'll fail the exam unless you study harder.", "pl": "Oblejesz egzamin, jeśli nie będziesz się uczyć pilniej." },
+      { "en": "Unless otherwise stated, all prices include VAT.", "pl": "O ile nie zaznaczono inaczej, wszystkie ceny zawierają VAT." }
+    ]
+  },
+  {
+    "id": "provided_as_long_as",
+    "order": 2,
+    "nameEn": "provided (that) / as long as — strong condition",
+    "namePl": "provided (that) / as long as — pod warunkiem że",
+    "rules": [
+      { "label": "provided / providing (that)", "text": "formalny odpowiednik if, podkreślający, że warunek MUSI być spełniony; „that” można pominąć" },
+      { "label": "as long as / so long as", "text": "mniej formalny odpowiednik o tym samym znaczeniu — konieczny warunek, często z podtekstem ograniczenia" },
+      { "label": "Czas jak w conditionals", "text": "gdy warunek dotyczy przyszłości, po provided/providing/as long as używamy Present Simple, nie will" },
+      { "label": "Pozycja w zdaniu", "text": "podobnie jak if, mogą otwierać zdanie (z przecinkiem po warunku) lub występować w jego środku" }
+    ],
+    "usage": [
+      "Formalne zezwolenie: You can borrow my car provided that you drive carefully.",
+      "Nieformalny warunek konieczny: I'll help you as long as you don't tell anyone.",
+      "Regulaminy i umowy: Providing that all conditions are met, the refund will be issued.",
+      "Podkreślenie granicy: You can stay as long as you like, as long as you're quiet."
+    ],
+    "tags": ["provided that", "providing you", "as long as", "so long as"],
+    "examples": [
+      { "en": "You can borrow my car provided that you drive carefully.", "pl": "Możesz pożyczyć mój samochód, pod warunkiem że będziesz ostrożnie prowadzić." },
+      { "en": "I'll come to the party as long as Tom isn't there.", "pl": "Przyjdę na przyjęcie, o ile nie będzie tam Toma." },
+      { "en": "Providing you finish your homework, you can watch TV.", "pl": "Pod warunkiem że skończysz pracę domową, możesz oglądać telewizję." },
+      { "en": "You can stay here as long as you like.", "pl": "Możesz tu zostać, jak długo chcesz." }
+    ]
+  },
+  {
+    "id": "in_case",
+    "order": 3,
+    "nameEn": "in case — precaution",
+    "namePl": "in case — na wypadek gdyby",
+    "rules": [
+      { "label": "in case ≠ if", "text": "in case wyraża środek ostrożności podjęty ZANIM coś się wydarzy, a nie warunek, od którego zależy czynność główna" },
+      { "label": "Czas po in case", "text": "zwykle Present Simple (teraźniejszość/przyszłość) lub Past Simple (przeszłość); nigdy will" },
+      { "label": "in case of + rzeczownik", "text": "formalny odpowiednik „w razie/na wypadek”, typowy dla instrukcji, znaków i regulaminów" },
+      { "label": "Różnica logiczna in case vs. if", "text": "Take an umbrella in case it rains (bierzesz parasol ZANIM wiesz, czy będzie padać) vs. Take an umbrella if it rains (bezsensowne — parasol trzeba wziąć wcześniej, nie w momencie deszczu)" }
+    ],
+    "usage": [
+      "Środek ostrożności: Take your phone in case you need to call someone.",
+      "Przeszłość — powód wcześniejszego działania: I bought extra food in case more guests came.",
+      "Formalne in case of: In case of fire, use the stairs, not the lift.",
+      "just in case jako samodzielny dodatek: She took a first-aid kit just in case."
+    ],
+    "tags": ["in case it rains", "in case of fire", "just in case", "in case you need"],
+    "examples": [
+      { "en": "Take an umbrella in case it rains later.", "pl": "Weź parasol na wypadek, gdyby później padało." },
+      { "en": "I wrote down her number in case I forgot it.", "pl": "Zapisałem jej numer, na wypadek gdybym go zapomniał." },
+      { "en": "In case of emergency, call this number.", "pl": "W razie nagłego wypadku zadzwoń pod ten numer." },
+      { "en": "She took a first-aid kit just in case.", "pl": "Wzięła apteczkę tak na wszelki wypadek." }
+    ]
+  },
+  {
+    "id": "on_condition_otherwise",
+    "order": 4,
+    "nameEn": "on condition (that) / otherwise — formal condition and consequence",
+    "namePl": "on condition (that) / otherwise — formalny warunek i konsekwencja",
+    "rules": [
+      { "label": "on condition (that)", "text": "bardzo formalny odpowiednik if/provided that, typowy dla umów, oficjalnych zgód i ustaleń" },
+      { "label": "otherwise", "text": "przysłówek zdaniowy o znaczeniu „w przeciwnym razie, jeśli nie (to, co powiedziano wcześniej)” — zaczyna nowe zdanie lub człon po średniku, nie łączy dwóch zdań jak zwykły spójnik" },
+      { "label": "otherwise = unless + zaprzeczenie", "text": "zdanie z otherwise parafrazuje zdanie z unless w odwrotnej kolejności: Study hard, otherwise you'll fail. = Unless you study hard, you'll fail." },
+      { "label": "Interpunkcja", "text": "otherwise zwykle poprzedza średnik lub zaczyna nowe zdanie po kropce — unikamy łączenia dwóch niezależnych zdań samym przecinkiem" }
+    ],
+    "usage": [
+      "Formalna zgoda pod warunkiem: The bank approved the loan on condition that he found a guarantor.",
+      "Konsekwencja niespełnienia warunku: Finish the report today; otherwise, we'll miss the deadline.",
+      "Ostrzeżenie: You must wear a helmet on this site; otherwise you won't be allowed in.",
+      "Parafraza z unless: Save your work regularly, otherwise you might lose everything. (= Unless you save your work regularly, you might lose everything.)"
+    ],
+    "tags": ["on condition that", "otherwise", "or you'll", "unless...otherwise"],
+    "examples": [
+      { "en": "The bank approved the loan on condition that he found a guarantor.", "pl": "Bank zatwierdził kredyt pod warunkiem, że znajdzie poręczyciela." },
+      { "en": "Finish the report today; otherwise, we'll miss the deadline.", "pl": "Skończ raport dzisiaj, w przeciwnym razie nie zdążymy na termin." },
+      { "en": "Hurry up, or you'll miss the train.", "pl": "Pospiesz się, bo spóźnisz się na pociąg." },
+      { "en": "You must wear a helmet on this site; otherwise you won't be allowed in.", "pl": "Na tym terenie musisz nosić kask, w przeciwnym razie nie zostaniesz wpuszczony." }
+    ]
+  }
+]
