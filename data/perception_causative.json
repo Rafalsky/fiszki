@@ -1,0 +1,148 @@
+[
+  {
+    "id": "perception_bare_infinitive",
+    "order": 1,
+    "nameEn": "see/hear/watch/notice/feel + object + bare infinitive — the whole action",
+    "namePl": "see/hear/watch/notice/feel + dopełnienie + bezokolicznik bez to — cała czynność",
+    "rules": [
+      { "label": "Budowa", "text": "czasownik percepcji + dopełnienie + bezokolicznik bez „to” (I saw him leave the house.)" },
+      { "label": "Znaczenie", "text": "obserwator widział/słyszał całą czynność, od początku do końca, jako jedno zakończone zdarzenie" },
+      { "label": "Czasowniki percepcji", "text": "see, hear, watch, notice, feel, listen to, smell — wszystkie działają według tego samego wzorca" },
+      { "label": "Strona bierna", "text": "w stronie biernej bezokolicznik odzyskuje „to” (He was seen to leave the house.)" }
+    ],
+    "usage": [
+      "Gdy czynność jest krótka, jednorazowa i została zaobserwowana w całości",
+      "W relacjach o wydarzeniach, zeznaniach świadków i opisach zdarzeń",
+      "Gdy chcemy podkreślić, że coś się dokonało, a nie tylko trwało",
+      "Bezokolicznik bez „to” występuje tylko w stronie czynnej — w biernej wraca „to”"
+    ],
+    "tags": ["saw him leave", "heard her scream", "watched them arrive", "felt the ground shake"],
+    "examples": [
+      { "en": "I saw him leave the house at six o'clock.", "pl": "Widziałem, jak wyszedł z domu o szóstej." },
+      { "en": "We heard her scream and immediately ran outside.", "pl": "Usłyszeliśmy, jak krzyknęła, i od razu wybiegliśmy na zewnątrz." },
+      { "en": "They watched the plane take off from the terminal.", "pl": "Obserwowali, jak samolot startuje z terminala." },
+      { "en": "He was seen to leave the building shortly before the alarm went off.", "pl": "Widziano, jak wychodził z budynku tuż przed uruchomieniem alarmu." }
+    ]
+  },
+  {
+    "id": "perception_ing_form",
+    "order": 2,
+    "nameEn": "see/hear/watch/notice/feel + object + -ing — action in progress",
+    "namePl": "see/hear/watch/notice/feel + dopełnienie + -ing — czynność w trakcie",
+    "rules": [
+      { "label": "Budowa", "text": "czasownik percepcji + dopełnienie + forma -ing (I saw him leaving the house.)" },
+      { "label": "Znaczenie", "text": "obserwator widział/słyszał tylko fragment trwającej czynności, niekoniecznie jej początek lub koniec" },
+      { "label": "Czynność w tle", "text": "forma -ing często opisuje coś, co działo się w tle innego wydarzenia" },
+      { "label": "Strona bierna", "text": "forma -ing nie zmienia się w stronie biernej (He was seen leaving the house.)" }
+    ],
+    "usage": [
+      "Gdy podkreślamy, że czynność trwała, a obserwator zauważył tylko jej część",
+      "Gdy w tle rozgrywa się coś dłuższego, podczas gdy dzieje się coś innego",
+      "Przy czynnościach powtarzalnych lub ciągłych zaobserwowanych przelotnie",
+      "Częste w opisach scen, wspomnieniach i relacjach z obserwacji"
+    ],
+    "tags": ["saw him leaving", "heard her crying", "watched them arguing", "noticed her shaking"],
+    "examples": [
+      { "en": "I saw him leaving the house as I was driving past.", "pl": "Widziałem, jak wychodził z domu, kiedy przejeżdżałem obok." },
+      { "en": "She heard someone crying in the next room.", "pl": "Usłyszała, jak ktoś płacze w sąsiednim pokoju." },
+      { "en": "We watched the children playing in the park for an hour.", "pl": "Przez godzinę obserwowaliśmy dzieci bawiące się w parku." },
+      { "en": "He was seen leaving the building just before the alarm went off.", "pl": "Widziano go, jak wychodzi z budynku tuż przed uruchomieniem alarmu." }
+    ]
+  },
+  {
+    "id": "perception_bare_vs_ing",
+    "order": 3,
+    "nameEn": "bare infinitive vs -ing after perception verbs — meaning contrast",
+    "namePl": "bezokolicznik bez to a -ing po czasownikach percepcji — różnica znaczeniowa",
+    "rules": [
+      { "label": "Bezokolicznik = całość", "text": "bezokolicznik bez „to” opisuje czynność od początku do końca, jako kompletne zdarzenie" },
+      { "label": "-ing = fragment", "text": "forma -ing opisuje czynność zaobserwowaną w trakcie, bez informacji o jej początku lub końcu" },
+      { "label": "Przykład kontrastu", "text": "I saw her cross the road. (widziałem całe przejście) vs I saw her crossing the road. (widziałem ją w trakcie przechodzenia)" }
+    ],
+    "usage": [
+      "Wybór formy zależy od tego, czy chcemy podkreślić kompletność czy trwanie czynności",
+      "Przy czynnościach bardzo krótkich (wybuch, upadek, klaśnięcie) różnica bywa w praktyce niewielka",
+      "Rozróżnienie jest istotne w opisach wypadków, zeznaniach i relacjach z wydarzeń, gdzie liczy się precyzja"
+    ],
+    "tags": ["saw her cross vs crossing", "heard him sing vs singing", "watched the sun set vs setting"],
+    "examples": [
+      { "en": "I watched the sun set completely before I went inside.", "pl": "Obejrzałem cały zachód słońca, zanim wszedłem do środka." },
+      { "en": "I watched the sun setting as I sat on the beach.", "pl": "Obserwowałem zachodzące słońce, siedząc na plaży." },
+      { "en": "She heard him sing the whole song from start to finish.", "pl": "Usłyszała, jak śpiewa całą piosenkę od początku do końca." },
+      { "en": "She heard him singing in the shower as she walked past.", "pl": "Usłyszała, jak śpiewa pod prysznicem, kiedy przechodziła obok." }
+    ]
+  },
+  {
+    "id": "make_causative",
+    "order": 4,
+    "nameEn": "make + object + bare infinitive — forcing someone to act",
+    "namePl": "make + dopełnienie + bezokolicznik bez to — zmuszanie kogoś do działania",
+    "rules": [
+      { "label": "Budowa", "text": "make + dopełnienie + bezokolicznik bez „to” (Her boss made her work overtime.)" },
+      { "label": "Znaczenie", "text": "silny przymus — wykonawca czynności nie ma realnego wyboru" },
+      { "label": "Strona bierna", "text": "be made + to + bezokolicznik — w stronie biernej „to” wraca (She was made to work overtime.)" }
+    ],
+    "usage": [
+      "Rozkazy, zmuszanie, wymuszanie zachowania wbrew czyjejś woli",
+      "Kontrast z have/get something done — make sugeruje przymus, nie zlecenie usługi",
+      "Częste w kontekście pracy, szkoły, przepisów i sytuacji bez wyboru",
+      "make może też opisywać reakcję emocjonalną wywołaną czymś (His joke made everyone laugh.)"
+    ],
+    "tags": ["made her work", "made me cry", "was made to wait", "made the students redo"],
+    "examples": [
+      { "en": "Her boss made her work overtime every Friday.", "pl": "Jej szef zmuszał ją do pracy w nadgodzinach w każdy piątek." },
+      { "en": "The film was so sad it made me cry.", "pl": "Film był tak smutny, że rozpłakałam się." },
+      { "en": "The teacher made the students redo the exercise.", "pl": "Nauczyciel kazał uczniom ponownie zrobić ćwiczenie." },
+      { "en": "The passengers were made to wait for two hours at the airport.", "pl": "Pasażerowie zostali zmuszeni do czekania dwie godziny na lotnisku." }
+    ]
+  },
+  {
+    "id": "let_causative",
+    "order": 5,
+    "nameEn": "let + object + bare infinitive — permission",
+    "namePl": "let + dopełnienie + bezokolicznik bez to — pozwolenie",
+    "rules": [
+      { "label": "Budowa", "text": "let + dopełnienie + bezokolicznik bez „to” (My parents let me stay out late.)" },
+      { "label": "Znaczenie", "text": "wyrażanie zgody, pozwolenia lub braku sprzeciwu wobec czyjegoś działania" },
+      { "label": "Brak strony biernej", "text": "let nie ma naturalnej formy biernej — zamiast tego używa się be allowed to (I was allowed to stay out late.)" }
+    ],
+    "usage": [
+      "Dawanie pozwolenia, zgody, przyzwolenia na coś",
+      "Kontrast z make (przymus) i formalnym allow, które wymaga „to” (allow somebody to do something)",
+      "Częste w kontekście rodziny, zasad, pracy i codziennych ustaleń",
+      "let's w trybie rozkazującym (Let's go!) to osobna, niepowiązana konstrukcja"
+    ],
+    "tags": ["let me stay", "let the students leave", "wouldn't let us in", "was allowed to take"],
+    "examples": [
+      { "en": "My parents let me stay out late on weekends.", "pl": "Rodzice pozwalają mi wracać późno w weekendy." },
+      { "en": "The teacher let the students leave early because of the storm.", "pl": "Nauczyciel pozwolił uczniom wyjść wcześniej z powodu burzy." },
+      { "en": "They wouldn't let us in without a ticket.", "pl": "Nie chcieli nas wpuścić bez biletu." },
+      { "en": "We were allowed to use our phones during the break.", "pl": "Pozwolono nam korzystać z telefonów podczas przerwy." }
+    ]
+  },
+  {
+    "id": "help_causative",
+    "order": 6,
+    "nameEn": "help + object + (to) infinitive — both forms acceptable",
+    "namePl": "help + dopełnienie + (to) bezokolicznik — obie formy poprawne",
+    "rules": [
+      { "label": "Budowa", "text": "help + dopełnienie + bezokolicznik z „to” lub bez (She helped me carry the boxes. / She helped me to carry the boxes.)" },
+      { "label": "Swoboda wyboru", "text": "obie formy są poprawne i powszechnie używane — forma bez „to” jest nieco bardziej naturalna w mowie codziennej" },
+      { "label": "Bez dopełnienia osobowego", "text": "help może też łączyć się z bezokolicznikiem bez dopełnienia osobowego (This will help reduce stress.)" },
+      { "label": "Częsty błąd", "text": "po help NIE używa się formy -ing (nie: help me carrying, tylko help me carry / help me to carry)" }
+    ],
+    "usage": [
+      "Współpraca, wsparcie, ułatwianie komuś wykonania czynności",
+      "Wybór formy z „to” lub bez nie zmienia znaczenia zdania",
+      "Częste w kontekście pomocy, nauki, zdrowia i pracy zespołowej",
+      "Amerykański angielski częściej pomija „to” niż brytyjski, ale obie formy są uznawane za standardowe"
+    ],
+    "tags": ["helped me carry", "help him finish", "helps reduce stress", "helped rebuild"],
+    "examples": [
+      { "en": "She helped me carry the boxes upstairs.", "pl": "Pomogła mi zanieść pudła na górę." },
+      { "en": "Could you help him finish his homework tonight?", "pl": "Czy mógłbyś pomóc mu dziś skończyć pracę domową?" },
+      { "en": "Regular exercise helps reduce stress and anxiety.", "pl": "Regularne ćwiczenia pomagają redukować stres i niepokój." },
+      { "en": "Volunteers helped the victims rebuild their homes after the flood.", "pl": "Wolontariusze pomogli ofiarom odbudować domy po powodzi." }
+    ]
+  }
+]

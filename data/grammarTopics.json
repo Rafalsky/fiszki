@@ -607,5 +607,12 @@
     "title": "Zdania względne bez poprzednika",
     "desc": "Nominalne (wolne) zdania względne z what/whoever/whatever/whichever pełniące funkcję podmiotu lub dopełnienia — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 32
+  },
+  {
+    "id": "perception_causative",
+    "icon": "👁️",
+    "title": "Czasowniki percepcji i przyczynowe",
+    "desc": "see/hear/watch/notice + dopełnienie + bezokolicznik bez to lub -ing oraz make/let/help + dopełnienie + bezokolicznik — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 46
   }
 ]
