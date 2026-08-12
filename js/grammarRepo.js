@@ -99,6 +99,7 @@ const THEORY_URLS = {
   adjective_position: new URL("../data/adjective_position.json", import.meta.url),
   imminent_future: new URL("../data/imminent_future.json", import.meta.url),
   anticipatory_object_it: new URL("../data/anticipatory_object_it.json", import.meta.url),
+  need_doing: new URL("../data/need_doing.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -193,6 +194,7 @@ const DRILLS_URLS = {
   adjective_position: new URL("../data/adjective_positionDrills.json", import.meta.url),
   imminent_future: new URL("../data/imminent_futureDrills.json", import.meta.url),
   anticipatory_object_it: new URL("../data/anticipatory_object_itDrills.json", import.meta.url),
+  need_doing: new URL("../data/need_doingDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
