@@ -684,5 +684,12 @@
     "title": "Formalne spójniki i łączniki",
     "desc": "albeit, whereby, notwithstanding, insofar as / inasmuch as, given/seeing that, in that — formalne spójniki i łączniki typowe dla stylu pisanego, akademickiego i prawniczego — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "progressive_comparatives",
+    "icon": "🧊",
+    "title": "Powtórzone porównania stopniowe",
+    "desc": "Powtórzone przymiotniki i przysłówki w stopniu wyższym (colder and colder, more and more difficult) do wyrażania stopniowej zmiany — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 30
   }
 ]

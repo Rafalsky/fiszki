@@ -1,0 +1,165 @@
+[
+  {
+    "id": "basic_repetition",
+    "order": 1,
+    "nameEn": "Repeated comparative — one-word forms (-er / more)",
+    "namePl": "Powtórzony przymiotnik/przysłówek w stopniu wyższym",
+    "rules": [
+      {
+        "label": "budowa (krótkie formy)",
+        "text": "Przymiotnik/przysłówek w stopniu wyższym (-er) powtarzamy dwukrotnie, łącząc spójnikiem 'and': colder and colder, faster and faster, closer and closer."
+      },
+      {
+        "label": "budowa (formy z more)",
+        "text": "Dla przymiotników/przysłówków tworzących stopień wyższy przez 'more' powtarzamy samo 'more', a przymiotnik zostaje w formie podstawowej tylko raz — wystarczy: more and more difficult, more and more often (NIE: more difficult and more difficult)."
+      },
+      {
+        "label": "znaczenie",
+        "text": "Struktura wyraża stopniową, ciągłą zmianę cechy w czasie — coś stale rośnie lub maleje: 'coraz zimniej', 'coraz trudniej', 'coraz szybciej'."
+      },
+      {
+        "label": "z czasownikami 'get/become/grow'",
+        "text": "Najczęściej występuje po czasownikach oznaczających zmianę stanu: get, become, grow, turn — It's getting colder and colder."
+      }
+    ],
+    "usage": [
+      "Opisywanie stopniowego, postępującego procesu (pogoda, samopoczucie, ceny, tempo)",
+      "Można stosować z przymiotnikami i przysłówkami — the traffic moved slower and slower",
+      "Struktura jest samodzielna — nie wymaga 'the' na początku (to nie jest double comparative typu 'the...the...')",
+      "Często pojawia się w narracji i opisach zmieniającej się sytuacji w czasie"
+    ],
+    "tags": [
+      "colder and colder",
+      "faster and faster",
+      "more and more difficult",
+      "more and more often"
+    ],
+    "examples": [
+      {
+        "en": "As the sun set, it got colder and colder.",
+        "pl": "Gdy słońce zachodziło, robiło się coraz zimniej."
+      },
+      {
+        "en": "The exam questions became more and more difficult.",
+        "pl": "Pytania na egzaminie stawały się coraz trudniejsze."
+      },
+      {
+        "en": "The car went faster and faster down the hill.",
+        "pl": "Samochód jechał coraz szybciej w dół zbocza."
+      },
+      {
+        "en": "People are eating out more and more often these days.",
+        "pl": "Ludzie w dzisiejszych czasach jedzą na mieście coraz częściej."
+      },
+      {
+        "en": "Her English is getting better and better.",
+        "pl": "Jej angielski robi się coraz lepszy."
+      }
+    ]
+  },
+  {
+    "id": "long_adjectives",
+    "order": 2,
+    "nameEn": "Repeated comparative — longer adjectives with more",
+    "namePl": "Powtórzone porównanie z dłuższymi przymiotnikami (more)",
+    "rules": [
+      {
+        "label": "przymiotniki 2+ sylabowe",
+        "text": "Dla przymiotników dłuższych (zwykle 2+ sylab, niezakończonych na -y, -er, -ow, -le) stopień wyższy tworzymy przez 'more', więc powtarzamy 'more and more' + przymiotnik w formie podstawowej."
+      },
+      {
+        "label": "typowy błąd",
+        "text": "Nie powtarzamy całej frazy porównawczej: poprawnie 'more and more expensive', NIE 'more expensive and more expensive'."
+      },
+      {
+        "label": "przysłówki na -ly",
+        "text": "Ta sama zasada dotyczy przysłówków na -ly: more and more frequently, more and more carefully."
+      }
+    ],
+    "usage": [
+      "Stosowane z przymiotnikami typu: expensive, difficult, popular, complicated, important, dangerous",
+      "Stosowane z przysłówkami na -ly: quickly, carefully, frequently, easily",
+      "W ćwiczeniach wpisuj całą frazę 'more and more + przymiotnik/przysłówek'"
+    ],
+    "tags": [
+      "more and more expensive",
+      "more and more popular",
+      "more and more carefully"
+    ],
+    "examples": [
+      {
+        "en": "Renewable energy is becoming more and more popular.",
+        "pl": "Energia odnawialna staje się coraz bardziej popularna."
+      },
+      {
+        "en": "The negotiations grew more and more complicated.",
+        "pl": "Negocjacje stawały się coraz bardziej skomplikowane."
+      },
+      {
+        "en": "Housing in the city centre is more and more expensive every year.",
+        "pl": "Mieszkania w centrum miasta są co roku coraz droższe."
+      },
+      {
+        "en": "He spoke more and more quietly until he fell asleep.",
+        "pl": "Mówił coraz ciszej, aż w końcu zasnął."
+      },
+      {
+        "en": "As deadlines approach, the team works more and more carefully.",
+        "pl": "W miarę zbliżania się terminów zespół pracuje coraz staranniej."
+      }
+    ]
+  },
+  {
+    "id": "irregular_forms",
+    "order": 3,
+    "nameEn": "Repeated comparative — irregular forms",
+    "namePl": "Powtórzone porównanie z formami nieregularnymi",
+    "rules": [
+      {
+        "label": "better and better / worse and worse",
+        "text": "Formy nieregularne (good → better, bad → worse, far → further/farther) powtarzamy tak samo jak formy regularne: better and better, worse and worse."
+      },
+      {
+        "label": "less and less",
+        "text": "Ujemny kierunek zmiany z przymiotnikami/rzeczownikami wyraża się przez 'less and less': He seemed less and less interested. / We have less and less time."
+      },
+      {
+        "label": "fewer and fewer",
+        "text": "Z rzeczownikami policzalnymi w liczbie mnogiej używamy 'fewer and fewer' zamiast 'less and less': Fewer and fewer people read newspapers."
+      }
+    ],
+    "usage": [
+      "better/worse and better/worse — ocena jakości, stanu zdrowia, sytuacji",
+      "less and less + przymiotnik/rzeczownik niepoliczalny — malejąca ilość lub stopień",
+      "fewer and fewer + rzeczownik policzalny w liczbie mnogiej — malejąca liczba"
+    ],
+    "tags": [
+      "better and better",
+      "worse and worse",
+      "less and less",
+      "fewer and fewer"
+    ],
+    "examples": [
+      {
+        "en": "Since starting physiotherapy, her knee has been getting better and better.",
+        "pl": "Odkąd zaczęła fizjoterapię, jej kolano ma się coraz lepiej."
+      },
+      {
+        "en": "The traffic in this city gets worse and worse every year.",
+        "pl": "Ruch uliczny w tym mieście z roku na rok jest coraz gorszy."
+      },
+      {
+        "en": "He seemed less and less interested in the project.",
+        "pl": "Wydawał się coraz mniej zainteresowany projektem."
+      },
+      {
+        "en": "Fewer and fewer young people are buying newspapers.",
+        "pl": "Coraz mniej młodych ludzi kupuje gazety."
+      },
+      {
+        "en": "We have less and less free time as the deadline gets closer.",
+        "pl": "Mamy coraz mniej wolnego czasu, im bliżej terminu."
+      }
+    ]
+  }
+]
