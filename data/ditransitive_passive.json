@@ -1,0 +1,94 @@
+[
+  {
+    "id": "indirect_object_as_subject",
+    "order": 1,
+    "nameEn": "Indirect object as passive subject",
+    "namePl": "Dopełnienie pośrednie (osoba) jako podmiot strony biernej",
+    "rules": [
+      { "label": "Budowa", "text": "Czasownik ditransitive (give, show, tell, send, buy, offer, teach, promise, pay, lend, award, grant, ask) ma w stronie czynnej dwa dopełnienia — pośrednie (osoba) i bliższe (rzecz). W stronie biernej to właśnie dopełnienie pośrednie (osoba) najczęściej staje się podmiotem zdania." },
+      { "label": "Wzór", "text": "podmiot (osoba) + was/were/is/are + imiesłów bierny + dopełnienie bliższe (rzecz, bez przyimka): I was given a book. — nie: A book was given me." }
+    ],
+    "usage": [
+      "Najbardziej naturalny i najczęstszy sposób pasywizacji czasowników ditransitive w angielskim",
+      "Stosowany, gdy odbiorca (osoba) jest tematem zdania — tym, o czym mówimy",
+      "Typowe czasowniki: give, show, tell, send, buy, offer, teach, promise, pay, lend, award, grant, ask",
+      "Dopełnienie bliższe (rzecz) zostaje po imiesłowie biernym bez żadnego przyimka"
+    ],
+    "tags": ["I was given a book", "She was told the truth", "We were promised a refund"],
+    "examples": [
+      { "en": "I was given a beautiful watch for my birthday.", "pl": "Dostałem piękny zegarek na urodziny." },
+      { "en": "She was told the truth eventually.", "pl": "W końcu powiedziano jej prawdę." },
+      { "en": "We were promised a full refund within a week.", "pl": "Obiecano nam pełny zwrot pieniędzy w ciągu tygodnia." },
+      { "en": "He was sent a warning letter by the council.", "pl": "Rada wysłała mu pismo z ostrzeżeniem." }
+    ]
+  },
+  {
+    "id": "direct_object_as_subject",
+    "order": 2,
+    "nameEn": "Direct object as passive subject (with to/for)",
+    "namePl": "Dopełnienie bliższe (rzecz) jako podmiot strony biernej (z to/for)",
+    "rules": [
+      { "label": "Budowa", "text": "Rzecz (dopełnienie bliższe) też może stać się podmiotem zdania biernego — wtedy osoba (odbiorca) pojawia się na końcu, poprzedzona to (give, tell, send, show, offer, pay, lend, teach) lub for (buy, make, cook, find, get, order)." },
+      { "label": "Kiedy", "text": "Ta forma jest rzadsza i bardziej formalna niż wersja z osobą jako podmiotem; wybiera się ją, gdy to rzecz jest tematem zdania albo gdy chcemy przesunąć odbiorcę na koniec jako nową informację." }
+    ],
+    "usage": [
+      "A book was given to her. / A cake was baked for the guests.",
+      "Wybór to vs for zależy od tego samego czasownika co w stronie czynnej (give→to, buy→for)",
+      "Częstsza w piśmie formalnym, sprawozdaniach i tekstach urzędowych",
+      "Pozwala umieścić nową lub ważną informację (odbiorcę) na końcu zdania — zasada end-focus"
+    ],
+    "tags": ["A book was given to her", "A prize was awarded to the winner", "Dinner was cooked for us"],
+    "examples": [
+      { "en": "A book was given to her by the librarian.", "pl": "Bibliotekarka dała jej książkę." },
+      { "en": "A prize was awarded to the winner at the ceremony.", "pl": "Zwycięzcy przyznano nagrodę na ceremonii." },
+      { "en": "Dinner was cooked for us by the hotel staff.", "pl": "Personel hotelu ugotował nam obiad." },
+      { "en": "The documents were sent to the wrong address.", "pl": "Dokumenty wysłano na zły adres." }
+    ]
+  },
+  {
+    "id": "verbs_without_person_passive",
+    "order": 3,
+    "nameEn": "Verbs that block the person-subject passive",
+    "namePl": "Czasowniki bez biernej z osobą jako podmiotem",
+    "rules": [
+      { "label": "Zasada", "text": "Czasowniki typu explain, describe, suggest, recommend, propose, announce, admit, mention, report, say, point out NIE pozwalają, by osoba stała się podmiotem strony biernej — dopuszczają tylko rzecz jako podmiot + to + osoba." },
+      { "label": "Błąd", "text": "*I was explained the problem. jest błędem — poprawnie: The problem was explained to me." }
+    ],
+    "usage": [
+      "Dotyczy głównie czasowników 'mówienia' opisujących przekazywanie informacji: explain, describe, suggest, recommend, propose, announce, admit, mention, report, say, point out",
+      "Kontrastuje z tell, które DOPUSZCZA osobę jako podmiot: I was told the news.",
+      "Jedna z częstszych pułapek zaawansowanych uczących się — warto zapamiętać tę listę jako wyjątek",
+      "Rozwiązanie zawsze takie samo: rzecz + was/were + imiesłów bierny + to + osoba"
+    ],
+    "tags": ["The problem was explained to me", "*I was explained the problem ✗", "A solution was suggested to us"],
+    "examples": [
+      { "en": "The situation was explained to me in great detail.", "pl": "Sytuacja została mi szczegółowo wyjaśniona." },
+      { "en": "A new strategy was suggested to the board.", "pl": "Zaproponowano zarządowi nową strategię." },
+      { "en": "The changes were announced to all employees.", "pl": "Zmiany ogłoszono wszystkim pracownikom." },
+      { "en": "Her concerns were reported to the committee.", "pl": "Jej obawy zgłoszono komisji." }
+    ]
+  },
+  {
+    "id": "retained_object",
+    "order": 4,
+    "nameEn": "Retained object and choosing between the two passives",
+    "namePl": "Dopełnienie zachowane i wybór między dwiema formami biernymi",
+    "rules": [
+      { "label": "Dopełnienie zachowane", "text": "Gdy osoba staje się podmiotem (I was given a book), rzecz (a book) pozostaje w zdaniu jako tzw. dopełnienie zachowane (retained object) — nadal pełni funkcję dopełnienia, mimo że całe zdanie jest bierne." },
+      { "label": "Wybór formy", "text": "O wyborze między 'osoba jako podmiot' a 'rzecz jako podmiot' decyduje to, co jest tematem zdania (informacja już znana), a co niesie nową informację umieszczaną na końcu — zasada end-focus, nie sztywna reguła gramatyczna." }
+    ],
+    "usage": [
+      "Dopełnienie zachowane może być zaimkiem: I was given it. / He was sent them.",
+      "Gdy wykonawca czynności jest nieznany lub nieważny, agent (by + osoba) zwykle pomija się w obu formach",
+      "Forma z osobą jako podmiotem jest domyślna i bardziej naturalna, gdy nie ma powodu, by uwypuklić rzecz",
+      "Forma z rzeczą jako podmiotem sprawdza się w stylu formalnym/sprawozdawczym i gdy odbiorca jest nową informacją"
+    ],
+    "tags": ["I was given it", "He was sent them", "The award was presented to her by the mayor"],
+    "examples": [
+      { "en": "I was given it as a leaving present.", "pl": "Dostałem to jako prezent pożegnalny." },
+      { "en": "He was sent them by mistake.", "pl": "Wysłano mu je przez pomyłkę." },
+      { "en": "The award was presented to her by the mayor himself.", "pl": "Nagrodę wręczył jej sam burmistrz." },
+      { "en": "We were shown it during the factory tour.", "pl": "Pokazano nam to podczas zwiedzania fabryki." }
+    ]
+  }
+]
