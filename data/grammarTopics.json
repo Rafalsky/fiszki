@@ -698,5 +698,12 @@
     "title": "Zdania eliptyczne",
     "desc": "Pomijanie podmiotu i czasownika be po if/when/while/though/unless/once — zdania bezczasownikowe w stylu formalnym — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "infinitive_postmodifiers",
+    "icon": "➡️",
+    "title": "Bezokolicznik po rzeczowniku",
+    "desc": "Bezokolicznik jako określenie rzeczownika: po stopniu najwyższym i the only/first/next, po zaimkach nieokreślonych (something to do) oraz po rzeczownikach abstrakcyjnych (the chance to, the decision to) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

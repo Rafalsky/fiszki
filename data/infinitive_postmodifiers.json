@@ -1,0 +1,98 @@
+[
+  {
+    "id": "superlative_ordinal_infinitive",
+    "order": 1,
+    "nameEn": "Infinitive after superlatives, ordinals and 'the only'",
+    "namePl": "Bezokolicznik po stopniu najwyższym, liczebnikach porządkowych i 'the only'",
+    "rules": [
+      { "label": "Budowa", "text": "the + stopień najwyższy / liczebnik porządkowy / only/next/last + rzeczownik + to + bezokolicznik (She was the first woman to become president.)" },
+      { "label": "Znaczenie", "text": "Bezokolicznik zastępuje tu zdanie względne definiujące — the first woman to become president = the first woman who became president" },
+      { "label": "Podmiot bezokolicznika", "text": "Rzeczownik przed bezokolicznikiem jest jednocześnie jego logicznym podmiotem — to on wykonuje czynność" }
+    ],
+    "usage": [
+      "Po stopniu najwyższym przymiotnika: the fastest runner to finish the race",
+      "Po liczebnikach porządkowych: the first/second/third person to arrive",
+      "Po the only: He was the only student to fail the test.",
+      "Po the next i the last: She was the last guest to leave the party."
+    ],
+    "tags": ["the first to", "the only one to", "the last to", "the fastest to finish"],
+    "examples": [
+      { "en": "Neil Armstrong was the first man to walk on the Moon.", "pl": "Neil Armstrong był pierwszym człowiekiem, który stanął na Księżycu." },
+      { "en": "She was the only candidate to answer every question correctly.", "pl": "Była jedyną kandydatką, która odpowiedziała poprawnie na każde pytanie." },
+      { "en": "He was the last person to see her alive.", "pl": "Był ostatnią osobą, która widziała ją żywą." },
+      { "en": "This is the easiest way to solve the problem.", "pl": "To najłatwiejszy sposób na rozwiązanie tego problemu." }
+    ]
+  },
+  {
+    "id": "indefinite_pronoun_infinitive",
+    "order": 2,
+    "nameEn": "Infinitive after indefinite pronouns and adverbs",
+    "namePl": "Bezokolicznik po zaimkach i przysłówkach nieokreślonych",
+    "rules": [
+      { "label": "Budowa", "text": "something/anything/nothing/everything, somewhere/anywhere/nowhere + to + bezokolicznik (I need something to drink.)" },
+      { "label": "Przyimek na końcu", "text": "Jeśli czasownik wymaga przyimka, ten przyimek zostaje na końcu zdania, po bezokoliczniku (I need a pen to write with. / She has no friends to talk to.)" },
+      { "label": "Brak przyimka, gdy jest zbędny", "text": "Przyimka nie dodajemy, gdy bezokolicznik jest przechodni sam w sobie (nothing to eat, something to read)" }
+    ],
+    "usage": [
+      "Po nothing/something/anything/everything: There's nothing to worry about.",
+      "Po somewhere/anywhere/nowhere: We had nowhere to stay that night.",
+      "Po no one/nobody/someone: She had no one to turn to.",
+      "Częste w formalnych i potocznych ofertach oraz opisach braków i możliwości"
+    ],
+    "tags": ["something to eat", "nothing to worry about", "nowhere to stay", "someone to talk to"],
+    "examples": [
+      { "en": "I need something to drink — I'm really thirsty.", "pl": "Potrzebuję czegoś do picia — jestem naprawdę spragniony." },
+      { "en": "There's nothing to worry about; everything is under control.", "pl": "Nie ma się czym martwić; wszystko jest pod kontrolą." },
+      { "en": "We had nowhere to sit, so we stood at the back.", "pl": "Nie mieliśmy gdzie usiąść, więc staliśmy z tyłu." },
+      { "en": "He finally found someone to share his problems with.", "pl": "W końcu znalazł kogoś, z kim mógł podzielić się problemami." }
+    ]
+  },
+  {
+    "id": "abstract_noun_infinitive",
+    "order": 3,
+    "nameEn": "Infinitive after abstract nouns",
+    "namePl": "Bezokolicznik po rzeczownikach abstrakcyjnych",
+    "rules": [
+      { "label": "Budowa", "text": "rzeczownik abstrakcyjny + to + bezokolicznik (the ability to solve, a decision to leave, the right to vote)" },
+      { "label": "Związek z czasownikiem", "text": "Wiele takich rzeczowników pochodzi od czasowników przyjmujących bezokolicznik: decide → decision to, need → need to, plan → plan to, fail → failure to, attempt → attempt to" },
+      { "label": "Rzeczowniki bez czasownikowego odpowiednika", "text": "Niektóre rzeczowniki nie mają czasownika pokrewnego, ale i tak łączą się z bezokolicznikiem: the right to, the chance to, the opportunity to, the wish to" }
+    ],
+    "usage": [
+      "Po rzeczownikach wyrażających zdolność, prawo lub możliwość: the ability/right/opportunity/chance to do something",
+      "Po rzeczownikach wyrażających decyzję, plan lub zamiar: the decision/plan/intention to do something",
+      "Po rzeczownikach wyrażających potrzebę lub pragnienie: the need/wish/desire to do something",
+      "Po rzeczownikach wyrażających niepowodzenie lub próbę: the failure/attempt to do something"
+    ],
+    "tags": ["the ability to", "the decision to", "the right to", "the chance to"],
+    "examples": [
+      { "en": "She has the ability to solve even the most complex problems.", "pl": "Ma zdolność rozwiązywania nawet najbardziej skomplikowanych problemów." },
+      { "en": "He made the decision to resign from his post.", "pl": "Podjął decyzję o rezygnacji ze stanowiska." },
+      { "en": "Every citizen has the right to vote.", "pl": "Każdy obywatel ma prawo do głosowania." },
+      { "en": "Their failure to respond in time cost them the contract.", "pl": "Ich niepowodzenie w terminowej odpowiedzi kosztowało ich kontrakt." }
+    ]
+  },
+  {
+    "id": "passive_infinitive_postmodifier",
+    "order": 4,
+    "nameEn": "Passive infinitive as postmodifier; paraphrasing with a relative clause",
+    "namePl": "Bierny bezokolicznik jako postmodyfikator; parafraza zdaniem względnym",
+    "rules": [
+      { "label": "Budowa", "text": "rzeczownik + to be + imiesłów bierny (a problem to be solved, a decision to be made) — rzeczownik jest logicznym dopełnieniem czynności, nie jej wykonawcą" },
+      { "label": "Bezokolicznik czynny o znaczeniu biernym", "text": "Po rzeczownikach ogólnych typu work/things/a lot bezokolicznik czynny bywa rozumiany biernie: There's a lot of work to do. (= to be done)" },
+      { "label": "Parafraza zdaniem względnym", "text": "Konstrukcję można zamienić na zdanie względne z modalnym should/need: an issue to be addressed = an issue that needs to be addressed" }
+    ],
+    "usage": [
+      "Gdy rzeczownik jest odbiorcą czynności, a nie jej wykonawcą: a letter to be signed, a problem to be solved",
+      "W oficjalnych ogłoszeniach, planach i porządkach obrad: matters to be discussed, issues to be resolved",
+      "Kontrast z konstrukcją z sekcji 1: 'the last person to be told' (bierne, ktoś jej to powiedział) vs 'the last person to leave' (czynne, sama wyszła)",
+      "Czasem bezokolicznik czynny zastępuje bierny bez zmiany znaczenia po rzeczownikach ogólnych: nothing to do, plenty to read"
+    ],
+    "tags": ["a problem to be solved", "work to be done", "the last person to be told", "issues to be addressed"],
+    "examples": [
+      { "en": "There's still a lot of work to be done before the deadline.", "pl": "Wciąż jest dużo pracy do zrobienia przed terminem." },
+      { "en": "This is a decision to be made carefully, not in a hurry.", "pl": "To decyzja, którą trzeba podjąć ostrożnie, a nie w pośpiechu." },
+      { "en": "He was the last person to be informed about the changes.", "pl": "Był ostatnią osobą, którą poinformowano o zmianach." },
+      { "en": "There are several issues to be addressed at the meeting.", "pl": "Jest kilka kwestii do omówienia na spotkaniu." }
+    ]
+  }
+]
