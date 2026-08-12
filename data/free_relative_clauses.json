@@ -1,0 +1,198 @@
+[
+  {
+    "id": "what_clauses",
+    "order": 1,
+    "nameEn": "what-clauses (the thing(s) that/which)",
+    "namePl": "what-clauses — \"to, co\" jako podmiot lub dopełnienie",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "what + podmiot + orzeczenie (lub what jako podmiot + orzeczenie) — całe zdanie z what pełni funkcję jednej frazy rzeczownikowej w zdaniu głównym"
+      },
+      {
+        "label": "znaczenie",
+        "text": "what = \"to, co\" — zastępuje jednocześnie zaimek wskazujący i zaimek względny (the thing(s) that/which); nie ma osobnego poprzednika przed what"
+      },
+      {
+        "label": "funkcja w zdaniu",
+        "text": "zdanie z what może być podmiotem (What she said surprised everyone), dopełnieniem (I don't understand what you mean) albo orzecznikiem (This is what I need)"
+      },
+      {
+        "label": "różnica od pytania",
+        "text": "to nie pytanie pośrednie — what-clause nazywa konkretną rzecz/treść, a nie pyta o nią; kontekst i brak sensu pytającego to odróżniają"
+      }
+    ],
+    "usage": [
+      "What surprised me was his honesty. — what-clause jako podmiot całego zdania",
+      "I couldn't believe what I saw. — what-clause jako dopełnienie czasownika believe",
+      "Tell me what you need. — what-clause jako dopełnienie po tell",
+      "This isn't what I ordered. — what-clause jako orzecznik po this is"
+    ],
+    "tags": ["what I need", "what she said", "the thing that", "free relative", "nominal relative"],
+    "examples": [
+      {
+        "en": "What I need right now is a good night's sleep.",
+        "pl": "To, czego teraz potrzebuję, to dobrze przespana noc."
+      },
+      {
+        "en": "Nobody knows what really happened that night.",
+        "pl": "Nikt nie wie, co naprawdę wydarzyło się tamtej nocy."
+      },
+      {
+        "en": "You can borrow what you like from my bookshelf.",
+        "pl": "Możesz pożyczyć, co chcesz, z mojej półki z książkami."
+      },
+      {
+        "en": "What worries me most is the lack of communication.",
+        "pl": "Co mnie najbardziej niepokoi, to brak komunikacji."
+      }
+    ]
+  },
+  {
+    "id": "whoever_whatever_free",
+    "order": 2,
+    "nameEn": "whoever / whatever / whichever as free relatives",
+    "namePl": "whoever / whatever / whichever — \"ten, kto\" / \"to, co\" / \"ten, który\"",
+    "rules": [
+      {
+        "label": "whoever",
+        "text": "= \"ten, kto / którykolwiek\" — wskazuje osobę bez podawania jej z góry: Whoever arrives first gets the best seat."
+      },
+      {
+        "label": "whatever",
+        "text": "= \"to, co (jakiekolwiek)\" — jak what, ale z odcieniem dowolności/braku ograniczeń: Take whatever you find useful."
+      },
+      {
+        "label": "whichever",
+        "text": "= \"ten, który (z ograniczonego zbioru)\" — używane, gdy wybór dotyczy konkretnej, znanej grupy opcji: Choose whichever suits you best."
+      },
+      {
+        "label": "funkcja",
+        "text": "podobnie jak what-clause, całe zdanie z whoever/whatever/whichever zastępuje jedną frazę rzeczownikową (podmiot, dopełnienie lub orzecznik) — nie ma poprzednika"
+      }
+    ],
+    "usage": [
+      "Whoever finishes the test first can leave. — nieznana z góry osoba, wybrana przez okoliczności",
+      "She'll eat whatever you cook. — dowolna rzecz, bez ograniczeń",
+      "Pick whichever colour you prefer. — wybór z konkretnego, ograniczonego zestawu (np. dostępnych kolorów)",
+      "Give the prize to whoever deserves it most. — whoever jako dopełnienie przyimka to"
+    ],
+    "tags": ["whoever wins", "whatever you like", "whichever you prefer", "free relative pronoun"],
+    "examples": [
+      {
+        "en": "Whoever left this note forgot to sign it.",
+        "pl": "Ktokolwiek zostawił tę notatkę, zapomniał ją podpisać."
+      },
+      {
+        "en": "You can order whatever you want, it's my treat.",
+        "pl": "Możesz zamówić, co chcesz, ja stawiam."
+      },
+      {
+        "en": "There are two trains — take whichever leaves first.",
+        "pl": "Są dwa pociągi — weź ten, który odjeżdża pierwszy."
+      },
+      {
+        "en": "Whoever answers the phone should take a message.",
+        "pl": "Ktokolwiek odbierze telefon, powinien zapisać wiadomość."
+      }
+    ]
+  },
+  {
+    "id": "whatever_whichever_determiner",
+    "order": 3,
+    "nameEn": "whatever / whichever as determiners",
+    "namePl": "whatever / whichever + rzeczownik — \"jakikolwiek\" / \"którykolwiek\"",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "whatever/whichever + rzeczownik (bez the/a) rozpoczyna zdanie względne bez poprzednika, w którym rzeczownik po whatever/whichever jest jednocześnie określany i wskazywany dowolnie"
+      },
+      {
+        "label": "whatever + rzeczownik",
+        "text": "= \"jakikolwiek [rzeczownik]\" — bez ograniczenia do zamkniętego zbioru: Whatever decision you make, I'll support you."
+      },
+      {
+        "label": "whichever + rzeczownik",
+        "text": "= \"którykolwiek [rzeczownik] (z dostępnych)\" — sugeruje wybór spośród znanych, policzalnych opcji: Whichever route you take, it's a long drive."
+      },
+      {
+        "label": "różnica od zaimka",
+        "text": "tu whatever/whichever pełnią funkcję determinatora przed rzeczownikiem, a nie samodzielnego zaimka — porównaj: Take whichever seat is free. (determinator) vs Take whichever is free. (zaimek)"
+      }
+    ],
+    "usage": [
+      "Whatever plan we choose, we need to start today. — jakikolwiek z możliwych planów",
+      "Whichever team wins, the fans will celebrate. — którykolwiek z dwóch/kilku znanych zespołów",
+      "Bring whatever equipment you have. — dowolny sprzęt, bez ograniczeń",
+      "Whichever option you pick, read the contract first. — wybór z ograniczonej listy opcji"
+    ],
+    "tags": ["whatever decision", "whichever team", "determiner", "free relative"],
+    "examples": [
+      {
+        "en": "Whatever excuse he gives, don't believe him.",
+        "pl": "Jakąkolwiek wymówkę poda, nie wierz mu."
+      },
+      {
+        "en": "Whichever restaurant we go to, book a table in advance.",
+        "pl": "Do którejkolwiek restauracji pójdziemy, zarezerwuj stolik z wyprzedzeniem."
+      },
+      {
+        "en": "Use whatever method works best for you.",
+        "pl": "Użyj dowolnej metody, która najlepiej ci odpowiada."
+      },
+      {
+        "en": "Whichever way you look at it, it was a mistake.",
+        "pl": "Jakkolwiek by na to spojrzeć, to był błąd."
+      }
+    ]
+  },
+  {
+    "id": "free_relative_vs_other",
+    "order": 4,
+    "nameEn": "free relative clauses vs cleft sentences vs concessive clauses",
+    "namePl": "wolne zdania względne a zdania rozszczepione i zdania ustępstwa",
+    "rules": [
+      {
+        "label": "vs wh-cleft",
+        "text": "wh-cleft (What I need is patience) UŻYWA what-clause jako podmiotu, ale dokłada czasownik be, żeby wyeksponować jeden element zdania; sam what-clause (What I need) to wolne zdanie względne — cleft to dodatkowa konstrukcja emfatyczna zbudowana na nim"
+      },
+      {
+        "label": "vs zdania ustępstwa (concession)",
+        "text": "Whatever/whoever w zdaniu ustępstwa (Whatever you say, I won't change my mind) znaczy \"niezależnie od tego, co/kto\" i modyfikuje CAŁE zdanie główne; w wolnym zdaniu względnym (Take whatever you like) whatever/whoever jest częścią frazy rzeczownikowej pełniącej rolę składniową (podmiot/dopełnienie)"
+      },
+      {
+        "label": "test rozróżnienia",
+        "text": "jeśli zdanie z whatever/whoever da się zastąpić frazą rzeczownikową (\"the thing(s) that...\", \"the person who...\") i wstawić w miejsce podmiotu/dopełnienia — to wolne zdanie względne; jeśli da się zastąpić przez \"no matter what/who...\" — to zdanie ustępstwa"
+      },
+      {
+        "label": "przecinek",
+        "text": "zdania ustępstwa zwykle oddziela się przecinkiem od zdania głównego (Whatever happens, we'll cope); wolne zdania względne nie mają przecinka, bo są integralną częścią zdania (We'll do whatever happens next)"
+      }
+    ],
+    "usage": [
+      "Whatever you decide is fine with me. — wolne zdanie względne (podmiot = \"to, co zdecydujesz\")",
+      "Whatever you decide, I'll support you. — zdanie ustępstwa (\"niezależnie od decyzji\")",
+      "What she cooked was delicious. — wolne zdanie względne jako podmiot",
+      "What was delicious was her cooking. — wh-cleft, emfaza na \"her cooking\""
+    ],
+    "tags": ["free relative vs cleft", "free relative vs concession", "whatever ambiguity"],
+    "examples": [
+      {
+        "en": "Whoever wins deserves the prize. (free relative — subject)",
+        "pl": "Kto wygra, zasługuje na nagrodę. (wolne zdanie względne — podmiot)"
+      },
+      {
+        "en": "Whoever wins, I'll still be proud of you. (concession)",
+        "pl": "Kto by nie wygrał, i tak będę z ciebie dumny. (zdanie ustępstwa)"
+      },
+      {
+        "en": "What annoyed him was the noise. (free relative as subject)",
+        "pl": "To, co go zirytowało, to hałas. (wolne zdanie względne jako podmiot)"
+      },
+      {
+        "en": "It was the noise that annoyed him. (it-cleft, same meaning, different focus)",
+        "pl": "To hałas go zirytował. (zdanie rozszczepione it-cleft, to samo znaczenie, inny nacisk)"
+      }
+    ]
+  }
+]
