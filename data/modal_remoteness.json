@@ -1,0 +1,272 @@
+[
+  {
+    "id": "past_simple_politeness",
+    "order": 1,
+    "nameEn": "Past simple for politeness — distancing requests and offers",
+    "namePl": "Czas przeszły dla grzeczności — dystansowanie próśb i propozycji",
+    "rules": [
+      {
+        "label": "Czas przeszły zamiast teraźniejszego",
+        "text": "W pytaniach grzecznościowych i propozycjach czas przeszły (nieodnoszący się do przeszłości) tworzy dystans i brzmi mniej bezpośrednio niż czas teraźniejszy: Did you want a coffee? zamiast Do you want a coffee?"
+      },
+      {
+        "label": "Typowe czasowniki",
+        "text": "Najczęściej w tej funkcji występują want, hope, wonder, think — I hoped you could help, I thought we might discuss it"
+      },
+      {
+        "label": "Nie chodzi o przeszłość",
+        "text": "Mimo formy przeszłej zdanie odnosi się do teraźniejszości lub przyszłości — to grzecznościowe „odsunięcie w czasie”, a nie relacja zdarzenia minionego"
+      },
+      {
+        "label": "Rejestr",
+        "text": "Forma bardziej uprzejma i formalna niż odpowiednik w czasie teraźniejszym — typowa dla obsługi klienta, e-maili biznesowych i próśb wobec osób nieznajomych"
+      }
+    ],
+    "usage": [
+      "Grzeczne pytanie o życzenie: Did you want sugar in your tea?",
+      "Wyrażenie nadziei jako łagodna prośba: I hoped you might reconsider.",
+      "Sugestia w formie wspomnienia: I thought we could start earlier.",
+      "Pytanie o cel wizyty: What did you want to see me about?"
+    ],
+    "tags": [
+      "did you want",
+      "I hoped",
+      "I thought we could",
+      "what did you want"
+    ],
+    "examples": [
+      {
+        "en": "Did you want a coffee before we start?",
+        "pl": "Czy chciałbyś kawę, zanim zaczniemy?"
+      },
+      {
+        "en": "I hoped you could help me with this report.",
+        "pl": "Miałem nadzieję, że mógłbyś mi pomóc z tym raportem."
+      },
+      {
+        "en": "I thought we might discuss the budget today.",
+        "pl": "Pomyślałem, że moglibyśmy dziś omówić budżet."
+      },
+      {
+        "en": "What did you want to talk to me about?",
+        "pl": "O czym chciałeś ze mną porozmawiać?"
+      }
+    ]
+  },
+  {
+    "id": "past_continuous_tentative",
+    "order": 2,
+    "nameEn": "Past continuous for tentative requests — I was wondering...",
+    "namePl": "Czas przeszły ciągły dla nieśmiałych próśb — I was wondering...",
+    "rules": [
+      {
+        "label": "I was wondering if...",
+        "text": "Najbardziej charakterystyczna formuła bardzo uprzejmej, niepewnej prośby — czas przeszły ciągły dodaje kolejną warstwę dystansu w porównaniu z samym czasem przeszłym prostym"
+      },
+      {
+        "label": "I was hoping...",
+        "text": "Podobnie I was hoping (that) / I was hoping to + bezokolicznik wyraża nieśmiałą nadzieję lub prośbę, bardziej uprzejmą niż I hope"
+      },
+      {
+        "label": "Stopniowanie uprzejmości",
+        "text": "Skala rosnącej uprzejmości: Can you help? → Could you help? → I was wondering if you could help — każdy kolejny stopień dodaje dystans i zmniejsza presję na rozmówcę"
+      },
+      {
+        "label": "Czasowniki stanowe wyjątkowo w continuous",
+        "text": "wonder i hope to zwykle czasowniki niestosowane w continuous w znaczeniu dosłownym, ale w tej utrwalonej grzecznościowej funkcji continuous jest standardem, nie błędem"
+      }
+    ],
+    "usage": [
+      "Bardzo uprzejma prośba: I was wondering if you could give me a hand.",
+      "Nieśmiała nadzieja/prośba: I was hoping you might have some time this week.",
+      "Pytanie o możliwość: I was wondering whether the meeting could be moved.",
+      "Formalna prośba pisemna: I was hoping to arrange a short call."
+    ],
+    "tags": [
+      "I was wondering if",
+      "I was hoping",
+      "wondering whether",
+      "hoping you might"
+    ],
+    "examples": [
+      {
+        "en": "I was wondering if you could give me a hand with these boxes.",
+        "pl": "Zastanawiałem się, czy mógłbyś mi pomóc z tymi pudłami."
+      },
+      {
+        "en": "I was hoping you might have some time to look at my draft.",
+        "pl": "Miałem nadzieję, że może znajdziesz czas, żeby spojrzeć na mój szkic."
+      },
+      {
+        "en": "I was wondering whether the meeting could be moved to Friday.",
+        "pl": "Zastanawiałem się, czy spotkania nie dałoby się przenieść na piątek."
+      },
+      {
+        "en": "I was hoping to arrange a short call sometime this week.",
+        "pl": "Miałem nadzieję umówić się na krótką rozmowę telefoniczną w tym tygodniu."
+      }
+    ]
+  },
+  {
+    "id": "could_would_softening",
+    "order": 3,
+    "nameEn": "Could / would instead of can / will — softening requests and suggestions",
+    "namePl": "Could / would zamiast can / will — łagodzenie próśb i sugestii",
+    "rules": [
+      {
+        "label": "Could zamiast can",
+        "text": "Could you...? brzmi bardziej uprzejmie niż Can you...?, ponieważ 'przeszła' forma czasownika modalnego sugeruje hipotetyczność, a nie bezpośrednie żądanie"
+      },
+      {
+        "label": "Would zamiast will",
+        "text": "Would you...? jest bardziej uprzejmą wersją Will you...? — szczególnie w formalnych prośbach i propozycjach: Would you close the window?"
+      },
+      {
+        "label": "Would like zamiast want",
+        "text": "Would like jest standardowym uprzejmym odpowiednikiem want: I'd like a table for two zamiast I want a table for two"
+      },
+      {
+        "label": "Could / would possibly",
+        "text": "Dodanie possibly wzmacnia uprzejmość i sygnalizuje świadomość, że prośba może być kłopotliwa: Could you possibly send me the file?"
+      }
+    ],
+    "usage": [
+      "Uprzejma prośba o czynność: Could you pass me the salt, please?",
+      "Formalna prośba: Would you mind waiting a moment? (patrz też would you mind)",
+      "Uprzejme zamówienie: I'd like the soup, please.",
+      "Bardzo delikatna prośba: Could you possibly reschedule our meeting?"
+    ],
+    "tags": [
+      "could you",
+      "would you",
+      "I'd like",
+      "could you possibly"
+    ],
+    "examples": [
+      {
+        "en": "Could you pass me the salt, please?",
+        "pl": "Czy mógłbyś podać mi sól?"
+      },
+      {
+        "en": "Would you close the window? It's getting cold.",
+        "pl": "Czy zamknąłbyś okno? Robi się zimno."
+      },
+      {
+        "en": "I'd like a table for two by the window.",
+        "pl": "Poproszę stolik dla dwóch osób przy oknie."
+      },
+      {
+        "en": "Could you possibly send me the file by tomorrow?",
+        "pl": "Czy mógłbyś ewentualnie przesłać mi ten plik do jutra?"
+      }
+    ]
+  },
+  {
+    "id": "would_mind_gerund",
+    "order": 4,
+    "nameEn": "Would you mind + gerund / Would you mind if — very polite requests and permission",
+    "namePl": "Would you mind + gerund / Would you mind if — bardzo uprzejme prośby i pytania o pozwolenie",
+    "rules": [
+      {
+        "label": "Would you mind + gerund",
+        "text": "Pytanie o zgodę na wykonanie czynności przez rozmówcę: Would you mind closing the door? — dosłownie 'czy miałbyś coś przeciwko...'"
+      },
+      {
+        "label": "Would you mind if + czas przeszły",
+        "text": "Pytanie o pozwolenie na własne działanie mówiącego wymaga zdania z czasem przeszłym po if: Would you mind if I opened the window?"
+      },
+      {
+        "label": "Odpowiedź przecząca = zgoda",
+        "text": "Logika odpowiedzi jest odwrócona — Not at all / No, of course not oznacza zgodę, a Yes / I would oznacza sprzeciw, co bywa mylące dla uczących się"
+      },
+      {
+        "label": "Do you mind — wariant bez would",
+        "text": "Do you mind...? jest nieco mniej formalne niż Would you mind...?, ale działa według tych samych zasad gramatycznych"
+      }
+    ],
+    "usage": [
+      "Prośba o czynność rozmówcy: Would you mind turning down the music?",
+      "Pytanie o pozwolenie na własne działanie: Would you mind if I sat here?",
+      "Grzeczne przypomnienie: Would you mind repeating that, please?",
+      "Odpowiedź wyrażająca zgodę: 'Would you mind waiting?' — 'Not at all.'"
+    ],
+    "tags": [
+      "would you mind",
+      "would you mind if",
+      "do you mind",
+      "not at all"
+    ],
+    "examples": [
+      {
+        "en": "Would you mind turning down the music a little?",
+        "pl": "Czy mógłbyś trochę ściszyć muzykę?"
+      },
+      {
+        "en": "Would you mind if I sat here? This seat looks free.",
+        "pl": "Czy nie miałbyś nic przeciwko, gdybym tu usiadł? To miejsce wygląda na wolne."
+      },
+      {
+        "en": "Would you mind repeating that? I didn't quite catch it.",
+        "pl": "Czy mógłbyś to powtórzyć? Nie do końca dosłyszałem."
+      },
+      {
+        "en": "\"Would you mind waiting a few minutes?\" \"Not at all.\"",
+        "pl": "\"Czy nie miałbyś nic przeciwko poczekaniu kilka minut?\" \"Żaden problem.\""
+      }
+    ]
+  },
+  {
+    "id": "conditional_distancing",
+    "order": 5,
+    "nameEn": "Conditional distancing — softening opinions, preferences and criticism",
+    "namePl": "Dystansowanie przez tryb warunkowy — łagodzenie opinii, preferencji i krytyki",
+    "rules": [
+      {
+        "label": "It would be... if",
+        "text": "Zamiast bezpośredniego stwierdzenia It's better if..., forma warunkowa It would be better if... brzmi jak sugestia, a nie żądanie"
+      },
+      {
+        "label": "I'd rather / I'd prefer",
+        "text": "I'd rather you didn't smoke here (czas przeszły po rather mimo odniesienia do teraźniejszości/przyszłości) łagodzi prośbę o zaprzestanie czynności"
+      },
+      {
+        "label": "I would have thought",
+        "text": "Uprzejme, ostrożne wyrażenie niezgody lub zdziwienia: I would have thought that was obvious — sugeruje opinię bez narzucania jej jako faktu"
+      },
+      {
+        "label": "I would say / I would suggest",
+        "text": "Warunkowa forma zamiast stanowczego I say / I suggest łagodzi wypowiadaną opinię lub radę, częsta w informacji zwrotnej i krytyce"
+      }
+    ],
+    "usage": [
+      "Łagodna sugestia zamiast żądania: It would be great if you could arrive a bit earlier.",
+      "Uprzejma prośba o zaprzestanie: I'd rather you didn't park there.",
+      "Ostrożne wyrażenie zdziwienia: I would have thought the deadline was clear.",
+      "Delikatna opinia w informacji zwrotnej: I would say the introduction is a bit too long."
+    ],
+    "tags": [
+      "it would be great if",
+      "I'd rather you didn't",
+      "I would have thought",
+      "I would say"
+    ],
+    "examples": [
+      {
+        "en": "It would be great if you could arrive a little earlier next time.",
+        "pl": "Byłoby świetnie, gdybyś mógł następnym razem przyjść trochę wcześniej."
+      },
+      {
+        "en": "I'd rather you didn't park in front of the entrance.",
+        "pl": "Wolałbym, żebyś nie parkował przed wejściem."
+      },
+      {
+        "en": "I would have thought the deadline was clear to everyone.",
+        "pl": "Wydawało mi się, że termin był dla wszystkich jasny."
+      },
+      {
+        "en": "I would say the introduction is a bit too long.",
+        "pl": "Powiedziałbym, że wstęp jest trochę za długi."
+      }
+    ]
+  }
+]

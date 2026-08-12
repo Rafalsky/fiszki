@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "past_simple_politeness",
+    "prompt": "___ you want sugar in your tea?",
+    "answer": "Did",
+    "distractors": ["Do", "Would", "Were"]
+  },
+  {
+    "id": 2,
+    "itemId": "past_simple_politeness",
+    "prompt": "I ___ you could help me with this report.",
+    "answer": "hoped",
+    "distractors": ["hope", "am hoping", "will hope"]
+  },
+  {
+    "id": 3,
+    "itemId": "past_simple_politeness",
+    "prompt": "I ___ we might discuss the budget today.",
+    "answer": "thought",
+    "distractors": ["think", "am thinking", "will think"]
+  },
+  {
+    "id": 4,
+    "itemId": "past_simple_politeness",
+    "prompt": "What ___ you want to talk to me about?",
+    "answer": "did",
+    "distractors": ["do", "have", "will"]
+  },
+  {
+    "id": 5,
+    "itemId": "past_simple_politeness",
+    "prompt": "___ you want me to close the door?",
+    "answer": "Did",
+    "distractors": ["Do", "Are", "Have"]
+  },
+  {
+    "id": 6,
+    "itemId": "past_simple_politeness",
+    "prompt": "I ___ you might reconsider your decision.",
+    "answer": "hoped",
+    "distractors": ["hope", "am hoping", "have hoped"]
+  },
+  {
+    "id": 7,
+    "itemId": "past_simple_politeness",
+    "prompt": "I ___ we could start the meeting earlier.",
+    "answer": "thought",
+    "distractors": ["think", "am thinking", "have thought"]
+  },
+  {
+    "id": 8,
+    "itemId": "past_simple_politeness",
+    "prompt": "Excuse me, ___ you want a receipt?",
+    "answer": "did",
+    "distractors": ["do", "would", "were"]
+  },
+  {
+    "id": 9,
+    "itemId": "past_continuous_tentative",
+    "prompt": "I ___ if you could give me a hand with these boxes.",
+    "answer": "was wondering",
+    "distractors": ["wonder", "am wondering", "wondered"]
+  },
+  {
+    "id": 10,
+    "itemId": "past_continuous_tentative",
+    "prompt": "I ___ you might have some time to look at my draft.",
+    "answer": "was hoping",
+    "distractors": ["hope", "am hoping", "hoped"]
+  },
+  {
+    "id": 11,
+    "itemId": "past_continuous_tentative",
+    "prompt": "I ___ whether the meeting could be moved to Friday.",
+    "answer": "was wondering",
+    "distractors": ["wonder", "am wondering", "had wondered"]
+  },
+  {
+    "id": 12,
+    "itemId": "past_continuous_tentative",
+    "prompt": "I ___ to arrange a short call sometime this week.",
+    "answer": "was hoping",
+    "distractors": ["hope", "am hoping", "have hoped"]
+  },
+  {
+    "id": 13,
+    "itemId": "past_continuous_tentative",
+    "prompt": "I ___ if I could leave a bit earlier today.",
+    "answer": "was wondering",
+    "distractors": ["wonder", "am wondering", "wondered"]
+  },
+  {
+    "id": 14,
+    "itemId": "past_continuous_tentative",
+    "prompt": "I ___ you wouldn't mind proofreading this email.",
+    "answer": "was hoping",
+    "distractors": ["hope", "am hoping", "hoped"]
+  },
+  {
+    "id": 15,
+    "itemId": "past_continuous_tentative",
+    "prompt": "I ___ if you had a moment to talk.",
+    "answer": "was wondering",
+    "distractors": ["wonder", "am wondering", "have wondered"]
+  },
+  {
+    "id": 16,
+    "itemId": "past_continuous_tentative",
+    "prompt": "I ___ we could reschedule the interview.",
+    "answer": "was hoping",
+    "distractors": ["hope", "am hoping", "hoped"]
+  },
+  {
+    "id": 17,
+    "itemId": "could_would_softening",
+    "prompt": "___ you pass me the salt, please?",
+    "answer": "Could",
+    "distractors": ["Can", "Shall", "May"]
+  },
+  {
+    "id": 18,
+    "itemId": "could_would_softening",
+    "prompt": "___ you close the window? It's getting cold.",
+    "answer": "Would",
+    "distractors": ["Will", "Shall", "Do"]
+  },
+  {
+    "id": 19,
+    "itemId": "could_would_softening",
+    "prompt": "I'd ___ a table for two by the window.",
+    "answer": "like",
+    "distractors": ["want", "prefer to", "wish"]
+  },
+  {
+    "id": 20,
+    "itemId": "could_would_softening",
+    "prompt": "Could you ___ send me the file by tomorrow?",
+    "answer": "possibly",
+    "distractors": ["absolutely", "certainly", "definitely"]
+  },
+  {
+    "id": 21,
+    "itemId": "could_would_softening",
+    "prompt": "___ you help me carry these bags?",
+    "answer": "Could",
+    "distractors": ["Can", "Shall", "May"]
+  },
+  {
+    "id": 22,
+    "itemId": "could_would_softening",
+    "prompt": "___ you email me the report when it's ready?",
+    "answer": "Would",
+    "distractors": ["Will", "Shall", "Must"]
+  },
+  {
+    "id": 23,
+    "itemId": "could_would_softening",
+    "prompt": "I'd ___ the soup, please.",
+    "answer": "like",
+    "distractors": ["want", "prefer to", "will have"]
+  },
+  {
+    "id": 24,
+    "itemId": "could_would_softening",
+    "prompt": "Could you ___ explain that once more?",
+    "answer": "possibly",
+    "distractors": ["absolutely", "definitely", "surely"]
+  },
+  {
+    "id": 25,
+    "itemId": "would_mind_gerund",
+    "prompt": "Would you mind ___ down the music a little?",
+    "answer": "turning",
+    "distractors": ["turn", "to turn", "turned"]
+  },
+  {
+    "id": 26,
+    "itemId": "would_mind_gerund",
+    "prompt": "Would you mind if I ___ here? This seat looks free.",
+    "answer": "sat",
+    "distractors": ["sit", "will sit", "sitting"]
+  },
+  {
+    "id": 27,
+    "itemId": "would_mind_gerund",
+    "prompt": "Would you mind ___ that? I didn't quite catch it.",
+    "answer": "repeating",
+    "distractors": ["repeat", "to repeat", "repeated"]
+  },
+  {
+    "id": 28,
+    "itemId": "would_mind_gerund",
+    "prompt": "\"Would you mind waiting a few minutes?\" \"Not ___.\"",
+    "answer": "at all",
+    "distractors": ["really", "so much", "any"]
+  },
+  {
+    "id": 29,
+    "itemId": "would_mind_gerund",
+    "prompt": "Would you mind ___ the window? It's a bit stuffy in here.",
+    "answer": "opening",
+    "distractors": ["open", "to open", "opened"]
+  },
+  {
+    "id": 30,
+    "itemId": "would_mind_gerund",
+    "prompt": "Would you mind if I ___ a photo of this?",
+    "answer": "took",
+    "distractors": ["take", "will take", "taking"]
+  },
+  {
+    "id": 31,
+    "itemId": "would_mind_gerund",
+    "prompt": "Do you ___ if I sit next to you?",
+    "answer": "mind",
+    "distractors": ["care", "matter", "worry"]
+  },
+  {
+    "id": 32,
+    "itemId": "would_mind_gerund",
+    "prompt": "Would you mind ___ the door on your way out?",
+    "answer": "closing",
+    "distractors": ["close", "to close", "closed"]
+  },
+  {
+    "id": 33,
+    "itemId": "conditional_distancing",
+    "prompt": "It would be great if you ___ arrive a little earlier next time.",
+    "answer": "could",
+    "distractors": ["can", "will", "would"]
+  },
+  {
+    "id": 34,
+    "itemId": "conditional_distancing",
+    "prompt": "I'd rather you ___ park in front of the entrance.",
+    "answer": "didn't",
+    "distractors": ["don't", "won't", "haven't"]
+  },
+  {
+    "id": 35,
+    "itemId": "conditional_distancing",
+    "prompt": "I would have ___ the deadline was clear to everyone.",
+    "answer": "thought",
+    "distractors": ["think", "thinking", "thought of"]
+  },
+  {
+    "id": 36,
+    "itemId": "conditional_distancing",
+    "prompt": "I would ___ the introduction is a bit too long.",
+    "answer": "say",
+    "distractors": ["said", "saying", "have said"]
+  },
+  {
+    "id": 37,
+    "itemId": "conditional_distancing",
+    "prompt": "It would be better if we ___ this decision until Monday.",
+    "answer": "postponed",
+    "distractors": ["postpone", "will postpone", "post pone"]
+  },
+  {
+    "id": 38,
+    "itemId": "conditional_distancing",
+    "prompt": "I'd rather you ___ me before making changes.",
+    "answer": "told",
+    "distractors": ["tell", "will tell", "telling"]
+  },
+  {
+    "id": 39,
+    "itemId": "conditional_distancing",
+    "prompt": "I would ___ that a second opinion might help here.",
+    "answer": "suggest",
+    "distractors": ["suggested", "suggesting", "have suggest"]
+  },
+  {
+    "id": 40,
+    "itemId": "conditional_distancing",
+    "prompt": "I would have ___ someone would have told me sooner.",
+    "answer": "expected",
+    "distractors": ["expect", "expecting", "been expect"]
+  }
+]
