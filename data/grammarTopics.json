@@ -572,5 +572,12 @@
     "title": "Pytajnik + bezokolicznik",
     "desc": "Konstrukcja pytajnik (what/how/where/who/which/whether) + bezokolicznik — I don't know what to do, She wondered how to react — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "relative_clause_reference",
+    "icon": "🪃",
+    "title": "Odniesienie w zdaniach względnych",
+    "desc": "which odnoszące się do całego zdania oraz kwantyfikator + of which/of whom (some of which, none of whom, the youngest of whom) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

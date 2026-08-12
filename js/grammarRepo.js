@@ -90,6 +90,7 @@ const THEORY_URLS = {
   conditional_conjunctions: new URL("../data/conditional_conjunctions.json", import.meta.url),
   phrasal_verb_passive: new URL("../data/phrasal_verb_passive.json", import.meta.url),
   wh_infinitive: new URL("../data/wh_infinitive.json", import.meta.url),
+  relative_clause_reference: new URL("../data/relative_clause_reference.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -175,6 +176,7 @@ const DRILLS_URLS = {
   conditional_conjunctions: new URL("../data/conditional_conjunctionsDrills.json", import.meta.url),
   phrasal_verb_passive: new URL("../data/phrasal_verb_passiveDrills.json", import.meta.url),
   wh_infinitive: new URL("../data/wh_infinitiveDrills.json", import.meta.url),
+  relative_clause_reference: new URL("../data/relative_clause_referenceDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

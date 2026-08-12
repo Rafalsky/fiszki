@@ -1,0 +1,102 @@
+[
+  {
+    "id": "sentential_which",
+    "order": 1,
+    "nameEn": "which referring to a whole clause (sentential relative clause)",
+    "namePl": "which odnoszące się do całego zdania (zdanie względne zdaniowe)",
+    "rules": [
+      { "label": "Odniesienie do całej myśli", "text": "which może odnosić się nie do pojedynczego rzeczownika, lecz do całej poprzedzającej treści zdania — komentuje ją lub podaje jej skutek: He forgot her birthday, which annoyed her a lot." },
+      { "label": "Zawsze przecinek, zawsze nieograniczające", "text": "Ta konstrukcja zawsze stoi po przecinku i jest zdaniem nieograniczającym (dodatkowy komentarz) — nigdy nie identyfikuje rzeczownika, więc nigdy nie można jej pominąć bez straty sensu." },
+      { "label": "Nigdy 'that'", "text": "W tej funkcji zaimka nie da się zastąpić przez 'that' — that nie może odnosić się do całego zdania, tylko do konkretnego rzeczownika: NIE: He forgot her birthday, that annoyed her." },
+      { "label": "Typowe czasowniki komentujące", "text": "Po which często pojawiają się czasowniki oceny/skutku: annoy, surprise, mean, suggest, explain, prove, worry — czasami też which is why / which makes sense." }
+    ],
+    "usage": [
+      "Dodanie komentarza lub oceny do całej wcześniejszej sytuacji: She passed the exam, which surprised everyone.",
+      "Wskazanie skutku wynikającego z całego zdania głównego: The flight was cancelled, which meant we had to stay overnight.",
+      "Podsumowanie przyczyny czegoś w formalnym lub narracyjnym stylu: Prices have risen sharply, which has hit low-income families hardest.",
+      "Odróżnienie od zwykłego which odnoszącego się tylko do ostatniego rzeczownika: I borrowed her car, which broke down. (auto się zepsuło) vs I borrowed her car, which annoyed her. (cała sytuacja ją zirytowała)"
+    ],
+    "tags": ["which annoyed", "which surprised", "which meant", "which is why"],
+    "examples": [
+      { "en": "He forgot her birthday, which annoyed her a lot.", "pl": "Zapomniał o jej urodzinach, co bardzo ją zirytowało." },
+      { "en": "She passed the exam, which surprised everyone.", "pl": "Zdała egzamin, co wszystkich zaskoczyło." },
+      { "en": "The flight was cancelled, which meant we had to stay overnight.", "pl": "Lot odwołano, co oznaczało, że musieliśmy zostać na noc." },
+      { "en": "Prices have risen sharply, which has hit low-income families hardest.", "pl": "Ceny gwałtownie wzrosły, co najmocniej uderzyło w rodziny o niskich dochodach." }
+    ]
+  },
+  {
+    "id": "quantifier_of_which_whom",
+    "order": 2,
+    "nameEn": "quantifier + of which / of whom",
+    "namePl": "kwantyfikator + of which / of whom",
+    "rules": [
+      { "label": "Budowa", "text": "przecinek + kwantyfikator (some/many/most/none/both/several/each/a number) + of which (rzeczy) / of whom (ludzie) + reszta zdania: She has three sisters, two of whom live abroad." },
+      { "label": "which dla rzeczy, whom dla ludzi", "text": "of which stosujemy, gdy wcześniejszy rzeczownik oznacza rzeczy/pojęcia (books, plans, cities), of whom — gdy oznacza ludzi (sisters, candidates, guests)." },
+      { "label": "Odniesienie do liczby mnogiej", "text": "konstrukcja zawsze odnosi się do rzeczownika w liczbie mnogiej wymienionego wcześniej — kwantyfikator wybiera jego część lub całość: dozens of books, many of which..." },
+      { "label": "Rejestr formalny", "text": "typowe dla pisma formalnego i akademickiego jako sposób na uniknięcie dwóch osobnych zdań: The committee interviewed twelve candidates. None of the candidates were suitable. → The committee interviewed twelve candidates, none of whom were suitable." }
+    ],
+    "usage": [
+      "Precyzyjne określenie liczby/części grupy bez powtarzania rzeczownika: He owns dozens of books, many of which he has never read.",
+      "Formalne pismo i raporty: The team includes several experts, most of whom have PhDs.",
+      "Zdania z 'none' — pamiętaj, że w tej konstrukcji czasownik często występuje w liczbie mnogiej: The committee interviewed twelve candidates, none of whom were suitable.",
+      "Kontrast z prostym wyliczeniem: zamiast 'She has three sisters. Two of them live abroad.' formalniej: She has three sisters, two of whom live abroad."
+    ],
+    "tags": ["two of whom", "many of which", "none of whom", "most of which"],
+    "examples": [
+      { "en": "She has three sisters, two of whom live abroad.", "pl": "Ma trzy siostry, z których dwie mieszkają za granicą." },
+      { "en": "He owns dozens of books, many of which he has never read.", "pl": "Ma dziesiątki książek, z których wielu nigdy nie przeczytał." },
+      { "en": "The committee interviewed twelve candidates, none of whom were suitable.", "pl": "Komisja przesłuchała dwunastu kandydatów, z których żaden się nie nadawał." },
+      { "en": "The team includes several experts, most of whom have PhDs.", "pl": "Zespół obejmuje kilku ekspertów, z których większość ma doktoraty." }
+    ]
+  },
+  {
+    "id": "superlative_ordinal_of_which_whom",
+    "order": 3,
+    "nameEn": "ordinal / superlative + of which / of whom",
+    "namePl": "liczebnik porządkowy / stopień najwyższy + of which / of whom",
+    "rules": [
+      { "label": "Budowa", "text": "przecinek + the + liczebnik porządkowy lub przymiotnik w stopniu najwyższym + of which/of whom + reszta zdania: She has three children, the youngest of whom is still at school." },
+      { "label": "Funkcja", "text": "wskazuje jeden konkretny element spośród wcześniej wymienionej grupy — porządkuje go w kolejności (the first, the last) lub cechą skrajną (the biggest, the best, the eldest)." },
+      { "label": "which/whom jak wyżej", "text": "wybór which (rzeczy) vs whom (ludzie) rządzi się tą samą zasadą co przy zwykłym kwantyfikatorze — the largest of which dla rzeczy, the eldest of whom dla ludzi." },
+      { "label": "Rejestr", "text": "formalne, typowe dla opisów, biografii i tekstów akademickich — pozwala uniknąć zdania 'Of these, the X is/was...' jako osobnego zdania." }
+    ],
+    "usage": [
+      "Wskazanie skrajnego elementu grupy osób: She has three children, the youngest of whom is still at school.",
+      "Wskazanie skrajnego elementu grupy rzeczy: The museum has five wings, the largest of which houses modern art.",
+      "Uporządkowanie chronologiczne lub logiczne: They proposed three plans, the first of which was rejected immediately.",
+      "Podkreślenie osiągnięcia w opisie dorobku: He wrote several novels, the best of which won a major award."
+    ],
+    "tags": ["the youngest of whom", "the largest of which", "the first of which", "the best of which"],
+    "examples": [
+      { "en": "She has three children, the youngest of whom is still at school.", "pl": "Ma troje dzieci, z których najmłodsze wciąż chodzi do szkoły." },
+      { "en": "The museum has five wings, the largest of which houses modern art.", "pl": "Muzeum ma pięć skrzydeł, z których największe mieści sztukę nowoczesną." },
+      { "en": "They proposed three plans, the first of which was rejected immediately.", "pl": "Zaproponowali trzy plany, z których pierwszy natychmiast odrzucono." },
+      { "en": "He wrote several novels, the best of which won a major award.", "pl": "Napisał kilka powieści, z których najlepsza zdobyła ważną nagrodę." }
+    ]
+  },
+  {
+    "id": "reference_common_errors",
+    "order": 4,
+    "nameEn": "common errors and punctuation rules",
+    "namePl": "typowe błędy i zasady interpunkcji",
+    "rules": [
+      { "label": "Nigdy 'that' w tych konstrukcjach", "text": "ani przy odniesieniu do całego zdania, ani po kwantyfikatorze/liczebniku z 'of' nie można użyć 'that' — poprawnie tylko which/whom: NIE: some of that, NIE: the best of that." },
+      { "label": "Przecinek jest obowiązkowy", "text": "pominięcie przecinka przed which/kwantyfikatorem to częsty błąd — bez przecinka zdanie brzmi jak niepoprawnie skonstruowane zdanie ograniczające: He was late, which annoyed his boss. (NIE: He was late which annoyed his boss.)" },
+      { "label": "which dla rzeczy, whom (nie who) po 'of' dla ludzi", "text": "po przyimku 'of' zawsze whom, nigdy who, gdy chodzi o ludzi: some of whom (NIE: some of who); analogicznie do zasady 'to whom' w zdaniach z przyimkiem na początku." },
+      { "label": "Nie mylić z 'what'", "text": "nominalne zdanie względne z 'what' (= the thing that) nie może pełnić tej funkcji odniesienia do grupy lub całego zdania — what wprowadza własne zdanie rzeczownikowe, nie komentarz do poprzedniego: NIE: He was late, what annoyed his boss." }
+    ],
+    "usage": [
+      "Poprawianie typowego błędu ucznia: He was late, that annoyed his boss. → He was late, which annoyed his boss.",
+      "Poprawianie braku przecinka: She invited ten guests, some of whom couldn't come. (NIE: guests some of whom)",
+      "Poprawianie who zamiast whom po 'of': the candidates, several of whom (NIE: several of who) applied online.",
+      "Rozpoznawanie, kiedy nie stosować tej konstrukcji wcale — jeśli można jednoznacznie wskazać pojedynczy rzeczownik, zwykłe which/who wystarczy bez kwantyfikatora."
+    ],
+    "tags": ["not 'that'", "comma before which", "of whom not of who", "not 'what'"],
+    "examples": [
+      { "en": "He was late, which annoyed his boss.", "pl": "Spóźnił się, co zirytowało jego szefa." },
+      { "en": "She invited ten guests, some of whom couldn't come.", "pl": "Zaprosiła dziesięciu gości, z których część nie mogła przyjść." },
+      { "en": "The company hired five interns, several of whom stayed on permanently.", "pl": "Firma zatrudniła pięciu stażystów, z których kilku zostało na stałe." },
+      { "en": "The report was released late, which caused considerable frustration.", "pl": "Raport opublikowano z opóźnieniem, co wywołało spore rozgoryczenie." }
+    ]
+  }
+]
