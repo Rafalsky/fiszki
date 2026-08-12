@@ -101,6 +101,7 @@ const THEORY_URLS = {
   anticipatory_object_it: new URL("../data/anticipatory_object_it.json", import.meta.url),
   need_doing: new URL("../data/need_doing.json", import.meta.url),
   there_modals: new URL("../data/there_modals.json", import.meta.url),
+  need_dare: new URL("../data/need_dare.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -197,6 +198,7 @@ const DRILLS_URLS = {
   anticipatory_object_it: new URL("../data/anticipatory_object_itDrills.json", import.meta.url),
   need_doing: new URL("../data/need_doingDrills.json", import.meta.url),
   there_modals: new URL("../data/there_modalsDrills.json", import.meta.url),
+  need_dare: new URL("../data/need_dareDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

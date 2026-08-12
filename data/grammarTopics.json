@@ -649,5 +649,12 @@
     "title": "There z czasownikami modalnymi",
     "desc": "there must/could/should be, there seems/appears to be, there used to be, there is bound to be, formalne there exists/remains — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "need_dare",
+    "icon": "🚧",
+    "title": "Modalne need i dare",
+    "desc": "need i dare jako czasowniki na pograniczu modalnych: użycie bez do-support (Need I say more?, You needn't worry, He daren't ask) kontra jako czasowniki leksykalne (Do you need to..., He doesn't dare to...) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 48
   }
 ]
