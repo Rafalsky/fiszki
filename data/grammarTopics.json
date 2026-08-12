@@ -614,5 +614,12 @@
     "title": "Czasowniki percepcji i przyczynowe",
     "desc": "see/hear/watch/notice + dopełnienie + bezokolicznik bez to lub -ing oraz make/let/help + dopełnienie + bezokolicznik — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 46
+  },
+  {
+    "id": "adjective_position",
+    "icon": "📌",
+    "title": "Pozycja przymiotnika",
+    "desc": "Przymiotniki wyłącznie atrybutywne (main, mere, utter) i wyłącznie predykatywne (afraid, asleep, alone) — kiedy przymiotnik może stać tylko przed rzeczownikiem, a kiedy tylko po czasowniku łączącym, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

@@ -96,6 +96,7 @@ const THEORY_URLS = {
   delexicalized_verbs: new URL("../data/delexicalized_verbs.json", import.meta.url),
   free_relative_clauses: new URL("../data/free_relative_clauses.json", import.meta.url),
   perception_causative: new URL("../data/perception_causative.json", import.meta.url),
+  adjective_position: new URL("../data/adjective_position.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -187,6 +188,7 @@ const DRILLS_URLS = {
   delexicalized_verbs: new URL("../data/delexicalized_verbsDrills.json", import.meta.url),
   free_relative_clauses: new URL("../data/free_relative_clausesDrills.json", import.meta.url),
   perception_causative: new URL("../data/perception_causativeDrills.json", import.meta.url),
+  adjective_position: new URL("../data/adjective_positionDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
