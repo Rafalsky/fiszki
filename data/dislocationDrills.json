@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "itemId": "left_dislocation",
+    "prompt": "That woman next door, ___ never says hello to anyone.",
+    "answer": "she",
+    "distractors": ["her", "it", "they"]
+  },
+  {
+    "id": 2,
+    "itemId": "left_dislocation",
+    "prompt": "My brother, I haven't seen ___ in years.",
+    "answer": "him",
+    "distractors": ["he", "it", "them"]
+  },
+  {
+    "id": 3,
+    "itemId": "left_dislocation",
+    "prompt": "My neighbour's dog, ___ barks all night long.",
+    "answer": "it",
+    "distractors": ["he", "them", "this"]
+  },
+  {
+    "id": 4,
+    "itemId": "left_dislocation",
+    "prompt": "This new phone, ___ already driving me crazy.",
+    "answer": "it's",
+    "distractors": ["it", "he's", "its"]
+  },
+  {
+    "id": 5,
+    "itemId": "left_dislocation",
+    "prompt": "Your sister, ___ always calls back.",
+    "answer": "she",
+    "distractors": ["her", "it", "hers"]
+  },
+  {
+    "id": 6,
+    "itemId": "left_dislocation",
+    "prompt": "The car we bought last year, ___ already broken down twice.",
+    "answer": "it's",
+    "distractors": ["it", "its", "that's"]
+  },
+  {
+    "id": 7,
+    "itemId": "left_dislocation",
+    "prompt": "Our new neighbours, ___ seem very friendly.",
+    "answer": "they",
+    "distractors": ["it", "them", "those"]
+  },
+  {
+    "id": 8,
+    "itemId": "left_dislocation",
+    "prompt": "The teacher who retired last June, ___ still comes to visit sometimes.",
+    "answer": "he",
+    "distractors": ["him", "it", "his"]
+  },
+  {
+    "id": 9,
+    "itemId": "left_dislocation",
+    "prompt": "That old house on the hill, ___ been empty for years.",
+    "answer": "it's",
+    "distractors": ["it", "its", "that's"]
+  },
+  {
+    "id": 10,
+    "itemId": "right_dislocation",
+    "prompt": "___ never says hello to anyone, that woman next door.",
+    "answer": "She",
+    "distractors": ["Her", "It", "They"]
+  },
+  {
+    "id": 11,
+    "itemId": "right_dislocation",
+    "prompt": "___ a real genius, that guy.",
+    "answer": "He's",
+    "distractors": ["His", "He", "Him's"]
+  },
+  {
+    "id": 12,
+    "itemId": "right_dislocation",
+    "prompt": "___ absolutely delicious, this soup.",
+    "answer": "It's",
+    "distractors": ["It", "Its", "That's"]
+  },
+  {
+    "id": 13,
+    "itemId": "right_dislocation",
+    "prompt": "___ late again, your sister.",
+    "answer": "She's",
+    "distractors": ["She", "Her's", "Hers"]
+  },
+  {
+    "id": 14,
+    "itemId": "right_dislocation",
+    "prompt": "___ impossible to live with, that man.",
+    "answer": "He's",
+    "distractors": ["His", "Him", "He"]
+  },
+  {
+    "id": 15,
+    "itemId": "right_dislocation",
+    "prompt": "___ such a mess, this kitchen.",
+    "answer": "It's",
+    "distractors": ["It", "Its", "That's"]
+  },
+  {
+    "id": 16,
+    "itemId": "right_dislocation",
+    "prompt": "___ getting worse every year, the traffic in this city.",
+    "answer": "It's",
+    "distractors": ["It", "Its", "That's"]
+  },
+  {
+    "id": 17,
+    "itemId": "right_dislocation",
+    "prompt": "___ incredibly talented, that young violinist.",
+    "answer": "They're",
+    "distractors": ["Their", "They", "Them're"]
+  },
+  {
+    "id": 18,
+    "itemId": "right_dislocation",
+    "prompt": "___ always so kind to everyone, our new neighbour.",
+    "answer": "She's",
+    "distractors": ["Her's", "She", "Hers"]
+  },
+  {
+    "id": 19,
+    "itemId": "dislocation_vs_fronting",
+    "prompt": "___ I like, but apples I can't stand.",
+    "answer": "Bananas",
+    "distractors": ["The bananas", "Banana", "Bananas'"]
+  },
+  {
+    "id": 20,
+    "itemId": "dislocation_vs_fronting",
+    "prompt": "Bananas, I like ___, but apples, I can't stand them.",
+    "answer": "them",
+    "distractors": ["it", "one", "so"]
+  },
+  {
+    "id": 21,
+    "itemId": "dislocation_vs_fronting",
+    "prompt": "___ I will not make lightly.",
+    "answer": "This decision",
+    "distractors": ["This decisions", "These decision", "This decide"]
+  },
+  {
+    "id": 22,
+    "itemId": "dislocation_vs_fronting",
+    "prompt": "This decision, I'm not going to make ___ lightly, believe me.",
+    "answer": "it",
+    "distractors": ["one", "so", "that"]
+  },
+  {
+    "id": 23,
+    "itemId": "dislocation_vs_fronting",
+    "prompt": "___ she would never forgive, not even after all these years.",
+    "answer": "That betrayal",
+    "distractors": ["That betrayed", "Those betrayal", "That betrays"]
+  },
+  {
+    "id": 24,
+    "itemId": "dislocation_vs_fronting",
+    "prompt": "That betrayal, she would never forgive ___, not even after all these years.",
+    "answer": "it",
+    "distractors": ["one", "so", "that"]
+  },
+  {
+    "id": 25,
+    "itemId": "dislocation_vs_fronting",
+    "prompt": "___ he refuses to discuss, no matter how many times we ask.",
+    "answer": "His past",
+    "distractors": ["He past", "His pasts", "The past's"]
+  },
+  {
+    "id": 26,
+    "itemId": "dislocation_vs_fronting",
+    "prompt": "His past, he refuses to discuss ___, no matter how many times we ask.",
+    "answer": "it",
+    "distractors": ["one", "so", "that"]
+  },
+  {
+    "id": 27,
+    "itemId": "dislocation_vs_fronting",
+    "prompt": "___ I couldn't possibly accept, given the circumstances.",
+    "answer": "That offer",
+    "distractors": ["That offers", "Those offer", "That offered"]
+  },
+  {
+    "id": 28,
+    "itemId": "dislocation_function",
+    "prompt": "Coffee, I love ___. Tea, I can't stand it.",
+    "answer": "it",
+    "distractors": ["one", "so", "them"]
+  },
+  {
+    "id": 29,
+    "itemId": "dislocation_function",
+    "prompt": "Tea, I can't stand ___. Coffee, I love it.",
+    "answer": "it",
+    "distractors": ["one", "so", "them"]
+  },
+  {
+    "id": 30,
+    "itemId": "dislocation_function",
+    "prompt": "That job offer, I still haven't decided about ___.",
+    "answer": "it",
+    "distractors": ["one", "so", "that"]
+  },
+  {
+    "id": 31,
+    "itemId": "dislocation_function",
+    "prompt": "He never listens, ___ husband.",
+    "answer": "my",
+    "distractors": ["me", "mine", "I"]
+  },
+  {
+    "id": 32,
+    "itemId": "dislocation_function",
+    "prompt": "That restaurant on the corner, my parents, ___ go there every Friday.",
+    "answer": "they",
+    "distractors": ["them", "it", "those"]
+  },
+  {
+    "id": 33,
+    "itemId": "dislocation_function",
+    "prompt": "My car, it keeps breaking down. My bike, ___ never lets me down.",
+    "answer": "it",
+    "distractors": ["he", "one", "so"]
+  },
+  {
+    "id": 34,
+    "itemId": "dislocation_function",
+    "prompt": "That colleague of mine, I really don't trust ___.",
+    "answer": "him",
+    "distractors": ["he", "his", "one"]
+  },
+  {
+    "id": 35,
+    "itemId": "dislocation_function",
+    "prompt": "This city, I could never live in ___ again.",
+    "answer": "it",
+    "distractors": ["one", "so", "that"]
+  },
+  {
+    "id": 36,
+    "itemId": "dislocation_function",
+    "prompt": "My upstairs neighbours, ___ throw parties every weekend.",
+    "answer": "they",
+    "distractors": ["them", "it", "those"]
+  }
+]

@@ -705,5 +705,12 @@
     "title": "Bezokolicznik po rzeczowniku",
     "desc": "Bezokolicznik jako określenie rzeczownika: po stopniu najwyższym i the only/first/next, po zaimkach nieokreślonych (something to do) oraz po rzeczownikach abstrakcyjnych (the chance to, the decision to) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "dislocation",
+    "icon": "👉",
+    "title": "Dyslokacja (lewa i prawa)",
+    "desc": "Wysunięcie tematu poza zdanie z zaimkiem wskazującym (left/right dislocation) — This guy, I really trust him. / He's brilliant, that guy. — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 36
   }
 ]
