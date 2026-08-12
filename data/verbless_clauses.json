@@ -1,0 +1,98 @@
+[
+  {
+    "id": "adjective_ellipsis",
+    "order": 1,
+    "nameEn": "Ellipsis before an adjective (if necessary, though tired)",
+    "namePl": "Elipsa podmiotu i be przed przymiotnikiem",
+    "rules": [
+      { "label": "Forma", "text": "Spójnik (if / unless / though / although / when / while / once) + przymiotnik — pomijamy podmiot i czasownik be, gdy podmiot zdania podrzędnego jest taki sam jak podmiot zdania głównego" },
+      { "label": "Warunek", "text": "Elipsa jest możliwa tylko wtedy, gdy nie prowadzi do dwuznaczności — pominięty podmiot musi być jednoznacznie odczytywalny z kontekstu (często to 'you' w poleceniach i instrukcjach)" },
+      { "label": "Rejestr", "text": "Typowe dla stylu formalnego i pisemnego: instrukcje, przepisy, ostrzeżenia, teksty urzędowe i naukowe — w mowie potocznej rzadsze" }
+    ],
+    "usage": [
+      "If necessary, we will contact you by phone. — jeśli to będzie konieczne",
+      "Though/Although tired, she finished the race. — mimo że była zmęczona",
+      "When ready, press the green button. — gdy będziesz gotowy/gotowa",
+      "Unless absolutely certain, don't sign the contract. — jeśli nie jesteś absolutnie pewien"
+    ],
+    "tags": ["If necessary,", "Though tired,", "When ready,", "Unless certain,"],
+    "examples": [
+      { "en": "If necessary, we will arrange an extra meeting.", "pl": "Jeśli to będzie konieczne, zorganizujemy dodatkowe spotkanie." },
+      { "en": "Though exhausted, the climbers reached the summit before dark.", "pl": "Choć wyczerpani, wspinacze dotarli na szczyt przed zmrokiem." },
+      { "en": "When ready, hand in your test papers.", "pl": "Gdy będziecie gotowi, oddajcie arkusze testowe." },
+      { "en": "Unless absolutely sure, don't make any promises.", "pl": "Jeśli nie jesteś absolutnie pewien, nie składaj żadnych obietnic." }
+    ]
+  },
+  {
+    "id": "participle_ellipsis",
+    "order": 2,
+    "nameEn": "Ellipsis before an -ing or past participle",
+    "namePl": "Elipsa podmiotu i be przed imiesłowem -ing lub III formą",
+    "rules": [
+      { "label": "Forma -ing", "text": "Spójnik (while / when / once / before / after / since) + czasownik-ing — pomijamy podmiot i 'be', gdy podmiot obu zdań jest wspólny; znaczenie czynne" },
+      { "label": "Forma III / -ed", "text": "Spójnik (if / unless / once / until / though) + III forma czasownika — znaczenie bierne, pomijamy podmiot i 'be' w stronie biernej" },
+      { "label": "Różnica od zwykłych zdań imiesłowowych", "text": "W przeciwieństwie do zwykłych zdań z imiesłowem bez spójnika (Walking home, I...), tutaj spójnik zostaje i jednoznacznie wskazuje relację czasową lub warunkową" }
+    ],
+    "usage": [
+      "While waiting for the bus, I read a whole chapter. — podczas gdy czekałem",
+      "Once completed, the form should be returned to reception. — gdy zostanie wypełniony (bierne)",
+      "If asked, say you know nothing. — jeśli zostaniesz zapytany (bierne)",
+      "Unless told otherwise, assume the class starts at 9. — jeśli nie zostaniesz poinformowany inaczej"
+    ],
+    "tags": ["While waiting,", "Once completed,", "If asked,", "Unless told,"],
+    "examples": [
+      { "en": "While waiting for the bus, I read a whole chapter of my book.", "pl": "Czekając na autobus, przeczytałem cały rozdział mojej książki." },
+      { "en": "Once completed, the application must be signed and dated.", "pl": "Po wypełnieniu wniosek musi zostać podpisany i opatrzony datą." },
+      { "en": "If asked about the accident, tell them exactly what you saw.", "pl": "Jeśli zostaniesz zapytany o wypadek, powiedz dokładnie, co widziałeś." },
+      { "en": "Unless stated otherwise, all prices include tax.", "pl": "O ile nie zaznaczono inaczej, wszystkie ceny zawierają podatek." }
+    ]
+  },
+  {
+    "id": "noun_phrase_ellipsis",
+    "order": 3,
+    "nameEn": "Ellipsis before a noun phrase",
+    "namePl": "Elipsa podmiotu i be przed frazą rzeczownikową",
+    "rules": [
+      { "label": "Forma", "text": "Spójnik (as / while / when / though / although / if) + fraza rzeczownikowa (bez czasownika) — opisuje rolę, tożsamość lub stan podmiotu w danym momencie" },
+      { "label": "Znaczenie", "text": "Odpowiada rozwiniętemu zdaniu z 'be': While at university = While I was at university" },
+      { "label": "Częste połączenia", "text": "as a child/student/teenager, while at work/university/sea, though/although a beginner/novice, if in doubt" }
+    ],
+    "usage": [
+      "While at university, she volunteered at a homeless shelter. — kiedy była na studiach",
+      "As a child, he was terrified of dogs. — gdy był dzieckiem",
+      "Though/Although a complete beginner, he picked up the rules quickly. — mimo że był kompletnym początkującym",
+      "If in any doubt, consult a specialist. — fraza rzeczownikowa 'any doubt'"
+    ],
+    "tags": ["While at university,", "As a child,", "Though a beginner,", "If in doubt,"],
+    "examples": [
+      { "en": "While at sea, sailors often lose track of the days.", "pl": "Będąc na morzu, marynarze często tracą rachubę dni." },
+      { "en": "As a young boy, he dreamed of becoming a pilot.", "pl": "Jako mały chłopiec marzył o zostaniu pilotem." },
+      { "en": "Though a novice, she impressed everyone with her skill.", "pl": "Choć była nowicjuszką, zaimponowała wszystkim swoimi umiejętnościami." },
+      { "en": "If in any doubt about the dosage, ask your doctor.", "pl": "W razie jakichkolwiek wątpliwości co do dawkowania, zapytaj lekarza." }
+    ]
+  },
+  {
+    "id": "subject_identity_rule",
+    "order": 4,
+    "nameEn": "Same-subject rule and avoiding ambiguity",
+    "namePl": "Zasada tożsamości podmiotu i unikanie dwuznaczności",
+    "rules": [
+      { "label": "Zasada", "text": "Elipsę stosujemy tylko wtedy, gdy pominięty podmiot zdania podrzędnego jest identyczny z podmiotem zdania głównego (albo ma znaczenie ogólne/nieokreślone, np. w poleceniach)" },
+      { "label": "Błąd (dangling)", "text": "Jeśli podmioty się różnią, eliptyczna konstrukcja brzmi niejednoznacznie lub wręcz błędnie — trzeba wtedy zachować pełne zdanie z osobnym podmiotem i 'be'" },
+      { "label": "Poprawka", "text": "Rozwiązaniem jest dodanie podmiotu i czasownika (While I was walking..., Although she felt...), zamiast pozostawiać samo 'While walking...'" }
+    ],
+    "usage": [
+      "Poprawnie: While I was driving to work, a deer ran across the road. (podmioty się różnią, więc elipsa jest niedopuszczalna)",
+      "Błędnie: While driving to work, a deer ran across the road. (sugeruje, że to jeleń prowadził samochód)",
+      "Poprawnie z elipsą: While driving to work, I saw an accident. (podmiot 'I' pasuje do obu części)",
+      "Wyjątek ogólny: If in doubt, ask. — podmiot 'you' jest domyślny i ogólny, więc elipsa jest naturalna"
+    ],
+    "tags": ["dangling participle", "same subject", "While I was...", "ambiguous"],
+    "examples": [
+      { "en": "While studying for the exam, Maria fell asleep at her desk.", "pl": "Ucząc się do egzaminu, Maria zasnęła przy biurku." },
+      { "en": "Incorrect: Although only six, the teacher praised the boy's essay.", "pl": "Błędnie: Although only six, the teacher praised the boy's essay. (to nie nauczyciel miał sześć lat)" },
+      { "en": "Correct: Although only six, the boy wrote an impressively long essay.", "pl": "Poprawnie: Although only six, the boy wrote an impressively long essay." },
+      { "en": "If unsure how to proceed, contact your supervisor.", "pl": "Jeśli nie wiesz, jak dalej postępować, skontaktuj się z przełożonym." }
+    ]
+  }
+]
