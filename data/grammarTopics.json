@@ -642,5 +642,12 @@
     "title": "Bierne -ing (need doing)",
     "desc": "need/want/require/deserve + gerund (-ing) o znaczeniu biernym (The car needs washing = needs to be washed) oraz pokrewna konstrukcja worth + -ing — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "there_modals",
+    "icon": "🌀",
+    "title": "There z czasownikami modalnymi",
+    "desc": "there must/could/should be, there seems/appears to be, there used to be, there is bound to be, formalne there exists/remains — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
