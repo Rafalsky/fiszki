@@ -1,0 +1,164 @@
+[
+  {
+    "id": "need_modal",
+    "order": 1,
+    "nameEn": "need as a semi-modal (no do-support)",
+    "namePl": "need jako półmodalny (bez do-support)",
+    "rules": [
+      {
+        "label": "Need + bezokolicznik bez 'to'",
+        "text": "Need + podmiot + czasownik (bez 'to') w pytaniach; podmiot + needn't + czasownik (bez 'to') w przeczeniach — bez -s w 3. os. lp. i bez do/does"
+      },
+      {
+        "label": "Ograniczony zakres",
+        "text": "Ta forma występuje właściwie tylko w pytaniach i przeczeniach czasu teraźniejszego, głównie w formalnym/brytyjskim angielskim"
+      }
+    ],
+    "usage": [
+      "Formalny, często pisany styl brytyjski: Need we discuss this now?",
+      "Nie występuje w zdaniach twierdzących — nie mówimy 'You need go' w tym znaczeniu modalnym",
+      "Nie ma odrębnej formy przeszłej dla zwykłej konieczności — do przeszłości służy 'didn't need to' albo 'needn't have done'"
+    ],
+    "tags": ["need modal", "needn't", "no do-support"],
+    "examples": [
+      { "en": "Need I remind you of the deadline?", "pl": "Czy muszę ci przypominać o terminie?" },
+      { "en": "You needn't worry about the cost.", "pl": "Nie musisz martwić się o koszt." },
+      { "en": "Need she come to the meeting?", "pl": "Czy ona musi przyjść na spotkanie?" }
+    ]
+  },
+  {
+    "id": "need_lexical",
+    "order": 2,
+    "nameEn": "need as an ordinary lexical verb",
+    "namePl": "need jako zwykły czasownik leksykalny",
+    "rules": [
+      {
+        "label": "need(s)/needed + to + bezokolicznik",
+        "text": "Podmiot + need(s)/needed + to + czasownik; przeczenia i pytania tworzone z do/does/did, tak jak przy każdym zwykłym czasowniku"
+      },
+      {
+        "label": "need + rzeczownik",
+        "text": "need może też łączyć się bezpośrednio z rzeczownikiem lub zaimkiem (I need a break.)"
+      }
+    ],
+    "usage": [
+      "Dominująca, uniwersalna forma we wszystkich odmianach angielskiego i we wszystkich typach zdań",
+      "Jedyna naturalna forma w amerykańskim angielskim i w mowie potocznej",
+      "Różni się od formy modalnej (need_modal) tym, że działa jak zwykły czasownik pod każdym względem gramatycznym"
+    ],
+    "tags": ["need to", "does/doesn't need", "lexical verb"],
+    "examples": [
+      { "en": "She needs to finish the report by Friday.", "pl": "Ona musi skończyć raport do piątku." },
+      { "en": "Do you need any help with that?", "pl": "Czy potrzebujesz pomocy z tym?" },
+      { "en": "We didn't need to book in advance.", "pl": "Nie musieliśmy rezerwować z wyprzedzeniem." }
+    ]
+  },
+  {
+    "id": "neednt_have_didnt_need",
+    "order": 3,
+    "nameEn": "needn't have done vs. didn't need to do",
+    "namePl": "needn't have done vs. didn't need to do",
+    "rules": [
+      {
+        "label": "needn't have + Past Participle",
+        "text": "Czynność ZOSTAŁA wykonana, ale z perspektywy czasu okazała się zbędna — odcień żalu lub łagodnej krytyki"
+      },
+      {
+        "label": "didn't need to + bezokolicznik",
+        "text": "Czynność nie była konieczna — neutralna informacja, zwykle sugerująca, że jej nie wykonano"
+      }
+    ],
+    "usage": [
+      "needn't have done zawsze zakłada wykonanie czynności, która okazała się niepotrzebna",
+      "didn't need to do jest neutralne co do wykonania i najczęściej implikuje, że czynności nie zrobiono",
+      "'didn't have to' ma znaczenie bardzo bliskie 'didn't need to' — również neutralne, bez założenia o wykonaniu"
+    ],
+    "tags": ["needn't have done", "didn't need to", "past necessity"],
+    "examples": [
+      { "en": "You needn't have brought a present — it wasn't necessary, but you did.", "pl": "Nie musiałeś przynosić prezentu (a jednak to zrobiłeś)." },
+      { "en": "I didn't need to queue because I'd booked online.", "pl": "Nie musiałem stać w kolejce, bo zarezerwowałem online." },
+      { "en": "She needn't have rushed — the train was delayed anyway.", "pl": "Nie musiała się spieszyć — pociąg i tak był opóźniony." }
+    ]
+  },
+  {
+    "id": "dare_modal",
+    "order": 4,
+    "nameEn": "dare as a semi-modal (no do-support)",
+    "namePl": "dare jako półmodalny (bez do-support)",
+    "rules": [
+      {
+        "label": "dare/daren't + bezokolicznik bez 'to'",
+        "text": "Podmiot + dare/daren't + czasownik (bez 'to') — głównie w przeczeniach i pytaniach, styl formalny lub literacki; brak -s w 3. os. lp."
+      },
+      {
+        "label": "How dare you...!",
+        "text": "Utrwalone, emfatyczne wykrzyknienie oburzenia: How dare you + bezokolicznik bez 'to' — niezależnie od podmiotu i czasu"
+      }
+    ],
+    "usage": [
+      "Rzadsza i bardziej formalna/literacka niż leksykalna forma dare",
+      "'How dare you...!' to stały zwrot wyrażający oburzenie, nieodmienny gramatycznie",
+      "W przeczeniach obie formy (daren't / doesn't dare) są możliwe, ale daren't brzmi bardziej formalnie"
+    ],
+    "tags": ["dare modal", "daren't", "how dare you"],
+    "examples": [
+      { "en": "I daren't tell her the truth.", "pl": "Nie śmiem powiedzieć jej prawdy." },
+      { "en": "How dare you speak to me like that!", "pl": "Jak śmiesz tak do mnie mówić!" },
+      { "en": "Dare he ask for a raise?", "pl": "Czy on ośmieli się poprosić o podwyżkę?" }
+    ]
+  },
+  {
+    "id": "dare_lexical",
+    "order": 5,
+    "nameEn": "dare as an ordinary lexical verb",
+    "namePl": "dare jako zwykły czasownik leksykalny",
+    "rules": [
+      {
+        "label": "dare(s)/dared + (not) to + bezokolicznik",
+        "text": "Podmiot + dare(s)/dared + (not) to + czasownik; przeczenia i pytania tworzone z do/does/did, tak jak przy każdym zwykłym czasowniku"
+      },
+      {
+        "label": "dare somebody to do something",
+        "text": "Konstrukcja przechodnia oznaczająca rzucenie komuś wyzwania: dare + dopełnienie + to + bezokolicznik"
+      }
+    ],
+    "usage": [
+      "Standardowa, uniwersalna forma używana we wszystkich typach zdań i odmianach angielskiego",
+      "W mowie potocznej po przeczeniu 'to' bywa pomijane (He doesn't dare ask.)",
+      "'dare somebody to do something' służy do rzucania wyzwania (I dare you to jump.)"
+    ],
+    "tags": ["dare to", "doesn't dare", "dare somebody to"],
+    "examples": [
+      { "en": "She didn't dare to interrupt him.", "pl": "Nie odważyła się mu przerwać." },
+      { "en": "He doesn't dare argue with his boss.", "pl": "On nie odważa się kłócić z szefem." },
+      { "en": "I dare you to try it.", "pl": "Rzucam ci wyzwanie, żebyś spróbował." }
+    ]
+  },
+  {
+    "id": "dare_say",
+    "order": 6,
+    "nameEn": "I dare say — a fixed idiomatic expression",
+    "namePl": "I dare say — utrwalone wyrażenie",
+    "rules": [
+      {
+        "label": "I dare say (that) + zdanie",
+        "text": "Stała, nieodmienna forma (zawsze 'I dare say', bez -s, bez do-support) o znaczeniu 'przypuszczam / śmiem twierdzić'"
+      },
+      {
+        "label": "Tylko forma twierdząca",
+        "text": "Występuje wyłącznie w pierwszej osobie liczby pojedynczej i w formie twierdzącej — nie tworzy się przeczeń ani pytań"
+      }
+    ],
+    "usage": [
+      "Formalny, nieco staroświecki sposób wyrażania przypuszczenia lub akceptacji czegoś jako prawdopodobnego",
+      "Nie należy mylić z modalną formą dare w pytaniach/przeczeniach — to osobny, utrwalony zwrot",
+      "Często wprowadza ustępstwo lub łagodne przyznanie racji rozmówcy"
+    ],
+    "tags": ["I dare say", "fixed expression", "supposition"],
+    "examples": [
+      { "en": "I dare say you're right.", "pl": "Śmiem twierdzić, że masz rację." },
+      { "en": "I dare say it will rain later.", "pl": "Przypuszczam, że później będzie padać." },
+      { "en": "I dare say she already knows.", "pl": "Śmiem twierdzić, że ona już wie." }
+    ]
+  }
+]
