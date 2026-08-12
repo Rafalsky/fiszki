@@ -107,6 +107,7 @@ const THEORY_URLS = {
   result_clauses: new URL("../data/result_clauses.json", import.meta.url),
   formal_connectors: new URL("../data/formal_connectors.json", import.meta.url),
   progressive_comparatives: new URL("../data/progressive_comparatives.json", import.meta.url),
+  verbless_clauses: new URL("../data/verbless_clauses.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -209,6 +210,7 @@ const DRILLS_URLS = {
   result_clauses: new URL("../data/result_clausesDrills.json", import.meta.url),
   formal_connectors: new URL("../data/formal_connectorsDrills.json", import.meta.url),
   progressive_comparatives: new URL("../data/progressive_comparativesDrills.json", import.meta.url),
+  verbless_clauses: new URL("../data/verbless_clausesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

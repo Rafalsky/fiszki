@@ -691,5 +691,12 @@
     "title": "Powtórzone porównania stopniowe",
     "desc": "Powtórzone przymiotniki i przysłówki w stopniu wyższym (colder and colder, more and more difficult) do wyrażania stopniowej zmiany — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 30
+  },
+  {
+    "id": "verbless_clauses",
+    "icon": "🪶",
+    "title": "Zdania eliptyczne",
+    "desc": "Pomijanie podmiotu i czasownika be po if/when/while/though/unless/once — zdania bezczasownikowe w stylu formalnym — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
