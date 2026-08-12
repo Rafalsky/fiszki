@@ -1,0 +1,94 @@
+[
+  {
+    "id": "adj_to_infinitive",
+    "order": 1,
+    "nameEn": "find/consider/make it + adjective + to-infinitive",
+    "namePl": "find/consider/make it + przymiotnik + to-bezokolicznik",
+    "rules": [
+      { "label": "Budowa", "text": "podmiot + czasownik (find/consider/think/make) + it + przymiotnik + to + bezokolicznik — it zapowiada właściwe dopełnienie (bezokolicznik), które zostaje przesunięte na koniec zdania (I find it hard to concentrate here.)" },
+      { "label": "Dlaczego it", "text": "gdyby bezokolicznik stał bezpośrednio po czasowniku, zdanie brzmiałoby nienaturalnie lub niepoprawnie — porównaj: I find to concentrate hard (źle) vs I find it hard to concentrate (dobrze)" }
+    ],
+    "usage": [
+      "Po czasownikach oceny: find/consider/think/believe + it + przymiotnik + to-inf (I consider it essential to plan ahead.)",
+      "Po make + it + przymiotnik + to-inf, gdy coś sprawia, że coś staje się łatwiejsze lub trudniejsze (The new software makes it easier to track expenses.)",
+      "it można zastąpić rzeczownikiem zamiast przymiotnika: consider it an honour to..., make it a priority to...",
+      "kontrast z podmiotem zdaniowym na początku: To concentrate here is hard (sztywne, rzadkie) vs I find it hard to concentrate here (naturalne, typowe)"
+    ],
+    "tags": ["find it hard to", "make it easier to", "consider it essential", "think it wise to"],
+    "examples": [
+      { "en": "I find it hard to concentrate with all this noise.", "pl": "Trudno mi się skupić przy tym całym hałasie." },
+      { "en": "The new software makes it easier to track your expenses.", "pl": "Nowe oprogramowanie ułatwia śledzenie wydatków." },
+      { "en": "We consider it essential to consult the whole team before deciding.", "pl": "Uważamy za niezbędne skonsultować się z całym zespołem przed podjęciem decyzji." },
+      { "en": "She thought it wise to say nothing for the moment.", "pl": "Uznała za rozsądne nic na razie nie mówić." }
+    ]
+  },
+  {
+    "id": "make_it_that",
+    "order": 2,
+    "nameEn": "make it clear/known + that-clause",
+    "namePl": "make it clear/known + zdanie z that",
+    "rules": [
+      { "label": "Budowa", "text": "make + it + przymiotnik/rzeczownik + (that) + zdanie — it zapowiada zdanie podrzędne przesunięte na koniec (He made it clear that he wasn't interested.)" },
+      { "label": "Warianty", "text": "make it clear/plain/known/obvious + that...; make it a rule/habit/condition + to-infinitive lub + that..." }
+    ],
+    "usage": [
+      "make it clear/plain that... — jednoznacznie coś zakomunikować (The manager made it clear that latecomers would be penalised.)",
+      "make it known that... — formalnie ogłosić stanowisko (The committee made it known that no further changes would be accepted.)",
+      "make it a rule/condition/habit + to-infinitive — ustalona zasada lub zwyczaj (I make it a rule never to lend money to friends.)",
+      "spójnik that często pomijany w mowie potocznej, ale it nigdy nie znika ze zdania"
+    ],
+    "tags": ["make it clear that", "make it known that", "make it a rule to", "make it a condition that"],
+    "examples": [
+      { "en": "He made it clear that he wasn't interested in the offer.", "pl": "Jasno dał do zrozumienia, że nie jest zainteresowany ofertą." },
+      { "en": "The committee made it known that no further changes would be accepted.", "pl": "Komisja ogłosiła, że żadne dalsze zmiany nie zostaną przyjęte." },
+      { "en": "I make it a rule never to check emails after 8pm.", "pl": "Mam zasadę, żeby nigdy nie sprawdzać maili po 20." },
+      { "en": "They made it a condition that the payment be made in advance.", "pl": "Postawili warunek, że zapłata musi nastąpić z góry." }
+    ]
+  },
+  {
+    "id": "owe_see_leave_it",
+    "order": 3,
+    "nameEn": "owe it to somebody / see to it / leave it to somebody",
+    "namePl": "owe it to somebody / see to it / leave it to somebody",
+    "rules": [
+      { "label": "Budowa", "text": "czasownik + it + to + dopełnienie/bezokolicznik — utrwalone zwroty, w których it jest obowiązkowym, formalnym dopełnieniem zapowiadającym (You owe it to yourself to take a break. See to it that the door is locked.)" },
+      { "label": "Stałość zwrotu", "text": "nie da się pominąć it w tych wyrażeniach — jest częścią stałej frazy, a nie tylko zapowiedzią dopełnienia" }
+    ],
+    "usage": [
+      "owe it to somebody + to-infinitive — mieć wobec kogoś (lub siebie) moralny obowiązek (We owe it to future generations to protect the environment.)",
+      "see to it that + zdanie — formalnie zadbać, dopilnować, żeby coś się stało (Please see to it that the report is finished by Friday.)",
+      "leave it to somebody + to-infinitive — powierzyć komuś decyzję lub zadanie (I'll leave it to you to decide.)",
+      "put it to somebody that — formalnie zasugerować komuś swoje zdanie, częste w debatach i na sali sądowej (I put it to you that you were lying.)"
+    ],
+    "tags": ["owe it to yourself", "see to it that", "leave it to you to", "put it to you that"],
+    "examples": [
+      { "en": "You owe it to yourself to take a proper holiday this year.", "pl": "Jesteś to sobie winien/winna, żeby w tym roku wziąć porządny urlop." },
+      { "en": "Please see to it that all the lights are switched off before you leave.", "pl": "Proszę dopilnować, żeby wszystkie światła były zgaszone przed wyjściem." },
+      { "en": "I'll leave it to you to decide which option is best.", "pl": "Zostawię tobie decyzję, która opcja jest najlepsza." },
+      { "en": "I put it to you that the witness is not telling the truth.", "pl": "Twierdzę, że świadek nie mówi prawdy." }
+    ]
+  },
+  {
+    "id": "take_it_that",
+    "order": 4,
+    "nameEn": "take it for granted / take it that",
+    "namePl": "take it for granted / take it, że…",
+    "rules": [
+      { "label": "Budowa", "text": "take + it + for granted + (that) + zdanie — uznawać coś za oczywiste, nie kwestionować (We took it for granted that the trains would run on time.)" },
+      { "label": "take it that", "text": "take + it + that + zdanie — zakładać/rozumieć, że coś jest prawdą, często w formalnej lub grzecznej rozmowie (I take it that you've already read the report.)" }
+    ],
+    "usage": [
+      "take something for granted — nie doceniać czegoś, bo jest zawsze dostępne (People often take clean water for granted.)",
+      "take it for granted that + zdanie — zakładać coś bez sprawdzania, czasem z odcieniem krytyki (He took it for granted that she would say yes.)",
+      "take it that + zdanie — grzeczne, formalne domniemanie w rozmowie lub korespondencji (I take it that the meeting is still on for Monday?)",
+      "I take it (that)... jako pytanie retoryczne potwierdzające przypuszczenie mówiącego"
+    ],
+    "tags": ["take it for granted that", "take it that", "take something for granted", "I take it (that)"],
+    "examples": [
+      { "en": "We took it for granted that the trains would run on time.", "pl": "Uznaliśmy za oczywiste, że pociągi będą jeździć punktualnie." },
+      { "en": "People often take clean water for granted.", "pl": "Ludzie często nie doceniają dostępu do czystej wody." },
+      { "en": "I take it that you've already read the report?", "pl": "Rozumiem, że przeczytałeś/aś już raport?" },
+      { "en": "He took it for granted that she would agree to help.", "pl": "Uznał za oczywiste, że zgodzi się pomóc." }
+    ]
+  }
+]
