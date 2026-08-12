@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "so_that",
+    "prompt": "The music was ___ loud that we couldn't hear each other talk.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 2,
+    "itemId": "so_that",
+    "prompt": "He answered the questions ___ confidently that the panel was clearly impressed.",
+    "answer": "so",
+    "distractors": ["such", "too", "as"]
+  },
+  {
+    "id": 3,
+    "itemId": "so_that",
+    "prompt": "It was ___ hot in the office that several employees asked to work from home.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 4,
+    "itemId": "so_that",
+    "prompt": "The instructions were ___ unclear that nobody knew where to start.",
+    "answer": "so",
+    "distractors": ["such", "too", "as"]
+  },
+  {
+    "id": 5,
+    "itemId": "so_that",
+    "prompt": "She sang ___ beautifully that the whole audience stood up to applaud.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 6,
+    "itemId": "so_that",
+    "prompt": "The bridge was closed because it had become ___ dangerous that engineers feared it might collapse.",
+    "answer": "so",
+    "distractors": ["such", "too", "as"]
+  },
+  {
+    "id": 7,
+    "itemId": "so_that",
+    "prompt": "The road was ___ icy that cars kept sliding into the ditch.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 8,
+    "itemId": "so_that",
+    "prompt": "He works ___ slowly (that) his manager has started to worry.",
+    "answer": "so",
+    "distractors": ["such", "too", "as"]
+  },
+  {
+    "id": 9,
+    "itemId": "so_that",
+    "prompt": "The plot was ___ predictable that I guessed the ending after ten minutes.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 10,
+    "itemId": "so_that",
+    "prompt": "The queue moved ___ slowly that some customers simply gave up and left.",
+    "answer": "so",
+    "distractors": ["such", "too", "as"]
+  },
+  {
+    "id": 11,
+    "itemId": "such_that",
+    "prompt": "It was ___ a boring lecture that half the students fell asleep.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 12,
+    "itemId": "such_that",
+    "prompt": "They were ___ generous hosts that we felt spoiled the whole weekend.",
+    "answer": "such",
+    "distractors": ["so", "too", "as"]
+  },
+  {
+    "id": 13,
+    "itemId": "such_that",
+    "prompt": "There was ___ chaos at the border that our bus was delayed for hours.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 14,
+    "itemId": "such_that",
+    "prompt": "She gave ___ a persuasive argument that the committee changed its decision.",
+    "answer": "such",
+    "distractors": ["so", "too", "as"]
+  },
+  {
+    "id": 15,
+    "itemId": "such_that",
+    "prompt": "He is ___ an unreliable colleague that nobody wants to work with him on projects.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 16,
+    "itemId": "such_that",
+    "prompt": "It was ___ appalling weather that the match had to be postponed.",
+    "answer": "such",
+    "distractors": ["so", "too", "as"]
+  },
+  {
+    "id": 17,
+    "itemId": "such_that",
+    "prompt": "They are ___ close friends that they finish each other's sentences.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 18,
+    "itemId": "such_that",
+    "prompt": "The company faced ___ fierce competition that its profits fell sharply.",
+    "answer": "such",
+    "distractors": ["so", "too", "as"]
+  },
+  {
+    "id": 19,
+    "itemId": "such_that",
+    "prompt": "It was ___ a relief to finish the exam that she burst into tears.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 20,
+    "itemId": "such_that",
+    "prompt": "He made ___ a mess in the kitchen that it took hours to clean up.",
+    "answer": "such",
+    "distractors": ["so", "too", "as"]
+  },
+  {
+    "id": 21,
+    "itemId": "quantity_result",
+    "prompt": "There was ___ traffic on the motorway that we arrived an hour late.",
+    "answer": "so much",
+    "distractors": ["so many", "so few", "so little"]
+  },
+  {
+    "id": 22,
+    "itemId": "quantity_result",
+    "prompt": "___ people attended the concert that the venue had to open extra doors.",
+    "answer": "So many",
+    "distractors": ["So much", "So few", "So little"]
+  },
+  {
+    "id": 23,
+    "itemId": "quantity_result",
+    "prompt": "We had ___ time before the flight that we couldn't even grab a coffee.",
+    "answer": "so little",
+    "distractors": ["so few", "so much", "so many"]
+  },
+  {
+    "id": 24,
+    "itemId": "quantity_result",
+    "prompt": "___ candidates applied that the interviews had to be spread over two weeks.",
+    "answer": "So many",
+    "distractors": ["So much", "So few", "So little"]
+  },
+  {
+    "id": 25,
+    "itemId": "quantity_result",
+    "prompt": "The company had ___ money left that it had to lay off half its staff.",
+    "answer": "so little",
+    "distractors": ["so few", "so much", "so many"]
+  },
+  {
+    "id": 26,
+    "itemId": "quantity_result",
+    "prompt": "___ volunteers showed up that the organisers ran out of tasks for them.",
+    "answer": "So many",
+    "distractors": ["So much", "So few", "So little"]
+  },
+  {
+    "id": 27,
+    "itemId": "quantity_result",
+    "prompt": "There was ___ evidence against him that the jury reached a verdict in an hour.",
+    "answer": "so much",
+    "distractors": ["so many", "so few", "so little"]
+  },
+  {
+    "id": 28,
+    "itemId": "quantity_result",
+    "prompt": "___ shops stayed open that finding a bottle of water proved almost impossible.",
+    "answer": "So few",
+    "distractors": ["So much", "So many", "So little"]
+  },
+  {
+    "id": 29,
+    "itemId": "quantity_result",
+    "prompt": "He drank ___ coffee that he couldn't fall asleep until 3 a.m.",
+    "answer": "so much",
+    "distractors": ["so many", "so few", "so little"]
+  },
+  {
+    "id": 30,
+    "itemId": "quantity_result",
+    "prompt": "___ tourists visit the island in winter that most hotels simply close.",
+    "answer": "So few",
+    "distractors": ["So much", "So many", "So little"]
+  },
+  {
+    "id": 31,
+    "itemId": "as_to_infinitive",
+    "prompt": "The evidence was so compelling ___ leave no room for reasonable doubt.",
+    "answer": "as to",
+    "distractors": ["that to", "so to", "for to"]
+  },
+  {
+    "id": 32,
+    "itemId": "as_to_infinitive",
+    "prompt": "He would never be so reckless ___ risk his entire career on a single decision.",
+    "answer": "as to",
+    "distractors": ["that to", "so to", "for to"]
+  },
+  {
+    "id": 33,
+    "itemId": "as_to_infinitive",
+    "prompt": "The signal was so weak ___ be practically undetectable.",
+    "answer": "as to",
+    "distractors": ["that to", "so to", "for to"]
+  },
+  {
+    "id": 34,
+    "itemId": "as_to_infinitive",
+    "prompt": "It was such a minor detail ___ be barely worth mentioning.",
+    "answer": "as to",
+    "distractors": ["that to", "so to", "for to"]
+  },
+  {
+    "id": 35,
+    "itemId": "as_to_infinitive",
+    "prompt": "She wasn't ___ naive as to trust a stranger with her savings.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 36,
+    "itemId": "as_to_infinitive",
+    "prompt": "The damage was so extensive ___ make the building unsafe.",
+    "answer": "as to",
+    "distractors": ["that to", "so to", "for to"]
+  },
+  {
+    "id": 37,
+    "itemId": "as_to_infinitive",
+    "prompt": "The offer was so tempting ___ be almost impossible to refuse.",
+    "answer": "as to",
+    "distractors": ["that to", "so to", "for to"]
+  },
+  {
+    "id": 38,
+    "itemId": "as_to_infinitive",
+    "prompt": "No one is ___ foolish as to ignore such obvious warning signs.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 39,
+    "itemId": "as_to_infinitive",
+    "prompt": "It was such a serious offence ___ warrant instant dismissal.",
+    "answer": "as to",
+    "distractors": ["that to", "so to", "for to"]
+  },
+  {
+    "id": 40,
+    "itemId": "as_to_infinitive",
+    "prompt": "The proof was so overwhelming ___ silence even his fiercest critics.",
+    "answer": "as to",
+    "distractors": ["that to", "so to", "for to"]
+  }
+]

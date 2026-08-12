@@ -1,0 +1,202 @@
+[
+  {
+    "id": "so_that",
+    "order": 1,
+    "nameEn": "so + adjective/adverb + that — result clauses",
+    "namePl": "so + przymiotnik/przysłówek + that — zdania skutkowe",
+    "rules": [
+      {
+        "label": "so + przymiotnik/przysłówek",
+        "text": "so stoi bezpośrednio przed przymiotnikiem lub przysłówkiem (nigdy przed samym rzeczownikiem) i wprowadza skutek opisany w zdaniu podrzędnym po that: It was so cold that we couldn't go outside."
+      },
+      {
+        "label": "that można pominąć w mowie potocznej",
+        "text": "w nieformalnym języku mówionym that często się pomija (It's so late we should go home), ale w piśmie formalnym i na egzaminach zaleca się je zachować."
+      },
+      {
+        "label": "so + przysłówek + czasownik",
+        "text": "so łączy się też z przysłówkiem sposobu stojącym przy czasowniku: She spoke so quietly that nobody could hear her."
+      }
+    ],
+    "usage": [
+      "Skutek wynikający ze stopnia cechy: The exam was so difficult that half the class failed.",
+      "Skutek związany ze sposobem wykonania czynności: He drove so fast that he lost control of the car.",
+      "Nieformalne pominięcie that: It's so late (that) we should go home.",
+      "Kontrast z too...to: so...that opisuje skutek (pozytywny lub negatywny), a too...to zawsze sugeruje niemożność wykonania czegoś."
+    ],
+    "tags": [
+      "so cold that",
+      "so quickly that",
+      "so tired that",
+      "so loudly that"
+    ],
+    "examples": [
+      {
+        "en": "The lecture was so boring that several students fell asleep.",
+        "pl": "Wykład był tak nudny, że kilku studentów zasnęło."
+      },
+      {
+        "en": "She was so exhausted after the shift that she fell asleep on the bus.",
+        "pl": "Była tak wyczerpana po zmianie, że zasnęła w autobusie."
+      },
+      {
+        "en": "The traffic was moving so slowly that we decided to walk instead.",
+        "pl": "Ruch był tak wolny, że postanowiliśmy zamiast tego pójść pieszo."
+      },
+      {
+        "en": "It's so noisy in here (that) I can barely hear you.",
+        "pl": "Tu jest tak głośno, że ledwo cię słyszę."
+      }
+    ]
+  },
+  {
+    "id": "such_that",
+    "order": 2,
+    "nameEn": "such (a/an) + noun (+ that) — result clauses with nouns",
+    "namePl": "such (a/an) + rzeczownik (+ that) — zdania skutkowe z rzeczownikiem",
+    "rules": [
+      {
+        "label": "such + rzeczownik",
+        "text": "such stoi przed (przymiotnikiem +) rzeczownikiem, nigdy bezpośrednio przed samym przymiotnikiem — such a difficult exam, NIE: so a difficult exam."
+      },
+      {
+        "label": "a/an po such w liczbie pojedynczej",
+        "text": "z rzeczownikiem policzalnym w liczbie pojedynczej używamy such a/an; z rzeczownikiem w liczbie mnogiej lub niepoliczalnym such występuje bez przedimka."
+      },
+      {
+        "label": "kolejność: such + (przymiotnik) + rzeczownik + that",
+        "text": "przymiotnik opisujący rzeczownik wchodzi między such a rzeczownik: It was such a boring film that I fell asleep."
+      }
+    ],
+    "usage": [
+      "Rzeczownik policzalny w liczbie pojedynczej: She's such a good teacher that all her students love her.",
+      "Rzeczownik w liczbie mnogiej: They were such loud neighbours that we called the police.",
+      "Rzeczownik niepoliczalny: There was such chaos at the airport that many flights were delayed.",
+      "Pułapka: nie mylić such a + rzeczownik z so + przymiotnik — such a nice day, NIE: so a nice day."
+    ],
+    "tags": [
+      "such a good teacher",
+      "such loud neighbours",
+      "such chaos",
+      "such nice weather"
+    ],
+    "examples": [
+      {
+        "en": "It was such a complicated form that most applicants needed help filling it in.",
+        "pl": "To był tak skomplikowany formularz, że większość wnioskodawców potrzebowała pomocy w jego wypełnieniu."
+      },
+      {
+        "en": "He gave such a convincing speech that even his critics applauded.",
+        "pl": "Wygłosił tak przekonujące przemówienie, że nawet jego krytycy klaskali."
+      },
+      {
+        "en": "There was such demand for tickets that the concert sold out in minutes.",
+        "pl": "Popyt na bilety był tak duży, że koncert wyprzedał się w kilka minut."
+      },
+      {
+        "en": "They were such close friends that nothing could come between them.",
+        "pl": "Byli tak bliskimi przyjaciółmi, że nic nie mogło ich poróżnić."
+      }
+    ]
+  },
+  {
+    "id": "quantity_result",
+    "order": 3,
+    "nameEn": "so much/many/little/few + noun + that — result with quantity",
+    "namePl": "so much/many/little/few + rzeczownik + that — skutek wynikający z ilości",
+    "rules": [
+      {
+        "label": "so much/little + rzeczownik niepoliczalny",
+        "text": "z rzeczownikami niepoliczalnymi przed that używamy so much (nadmiar) lub so little (niedobór): There was so much noise that I couldn't concentrate."
+      },
+      {
+        "label": "so many/few + rzeczownik policzalny",
+        "text": "z rzeczownikami policzalnymi w liczbie mnogiej używamy so many (dużo) lub so few (mało): So many people came that there weren't enough chairs."
+      },
+      {
+        "label": "so much bez rzeczownika, przy czasowniku",
+        "text": "so much może też stać bezpośrednio po czasowniku, bez rzeczownika, wzmacniając samą czynność: He worked so much that he made himself ill."
+      }
+    ],
+    "usage": [
+      "Nadmiar rzeczy niepoliczalnej: There was so much traffic that we arrived an hour late.",
+      "Niedobór rzeczy niepoliczalnej: We had so little time that we skipped lunch altogether.",
+      "Nadmiar rzeczy policzalnej: So many complaints were filed that the manager resigned.",
+      "Niedobór rzeczy policzalnej: So few students passed that the teacher had to redesign the test."
+    ],
+    "tags": [
+      "so much noise",
+      "so little time",
+      "so many people",
+      "so few students"
+    ],
+    "examples": [
+      {
+        "en": "There was so much confusion at the gate that our flight was delayed by twenty minutes.",
+        "pl": "Przy bramce było tak duże zamieszanie, że nasz lot został opóźniony o dwadzieścia minut."
+      },
+      {
+        "en": "We received so little support from the council that the project was eventually cancelled.",
+        "pl": "Otrzymaliśmy tak małe wsparcie od rady, że projekt ostatecznie anulowano."
+      },
+      {
+        "en": "So many people applied for the position that the company had to extend the deadline.",
+        "pl": "Na to stanowisko zgłosiło się tak wielu ludzi, że firma musiała przedłużyć termin."
+      },
+      {
+        "en": "So few tickets remained that we decided not to bother trying to get any.",
+        "pl": "Zostało tak mało biletów, że postanowiliśmy nawet nie próbować ich zdobyć."
+      }
+    ]
+  },
+  {
+    "id": "as_to_infinitive",
+    "order": 4,
+    "nameEn": "so...as to / such...as to — formal result with infinitive",
+    "namePl": "so...as to / such...as to — formalny skutek z bezokolicznikiem",
+    "rules": [
+      {
+        "label": "so + przymiotnik/przysłówek + as + bezokolicznik",
+        "text": "formalny, pisany odpowiednik so...that + can/could — wyraża skutek wynikający ze stopnia cechy, bez osobnego podmiotu w zdaniu podrzędnym: The wound was so severe as to require immediate surgery."
+      },
+      {
+        "label": "such + rzeczownik + as + bezokolicznik",
+        "text": "rzadszy, jeszcze bardziej formalny wariant z rzeczownikiem zamiast przymiotnika: It was such a serious offence as to warrant instant dismissal."
+      },
+      {
+        "label": "nie mylić z celowym 'so as to'",
+        "text": "'so as to' bez poprzedzającego przymiotnika, na początku frazy okolicznikowej, wyraża CEL (in order to): He lowered his voice so as to avoid being overheard. Nasza struktura zawsze ma przymiotnik/przysłówek między so a as i wyraża SKUTEK, nie cel."
+      }
+    ],
+    "usage": [
+      "Formalny raport lub esej: The structural damage was so extensive as to make the building unsafe.",
+      "Rzeczownik w bardzo formalnym rejestrze: She would never be such a hypocrite as to criticize others for what she does herself.",
+      "Przeczenie skutku: He isn't so foolish as to ignore such clear warning signs.",
+      "Kontrast z celowym so as to: 'He spoke slowly so as to be understood' (CEL — mówił wolno, żeby być zrozumianym) vs. 'He spoke so slowly as to be barely audible' (SKUTEK — mówił tak wolno, że ledwo było go słychać)."
+    ],
+    "tags": [
+      "so severe as to",
+      "such a fool as to",
+      "not so naive as to",
+      "so weak as to"
+    ],
+    "examples": [
+      {
+        "en": "The evidence was so compelling as to leave no room for reasonable doubt.",
+        "pl": "Dowody były tak przekonujące, że nie pozostawiały miejsca na uzasadnione wątpliwości."
+      },
+      {
+        "en": "He would never be so reckless as to invest his entire savings in a single stock.",
+        "pl": "Nigdy nie byłby tak lekkomyślny, żeby zainwestować całe oszczędności w jedną akcję."
+      },
+      {
+        "en": "The signal from the old transmitter was so weak as to be practically undetectable.",
+        "pl": "Sygnał ze starego nadajnika był tak słaby, że praktycznie nie dało się go wykryć."
+      },
+      {
+        "en": "It was such a minor error as to be barely worth mentioning in the report.",
+        "pl": "Był to tak drobny błąd, że ledwo warto go było wspominać w raporcie."
+      }
+    ]
+  }
+]
