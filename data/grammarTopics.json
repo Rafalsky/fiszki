@@ -565,5 +565,12 @@
     "title": "Bierna czasowników złożonych",
     "desc": "Strona bierna czasowników frazowych i przyimkowych (look after → be looked after, turn off → be turned off) — kiedy i jak pasywizować czasowniki wieloczłonowe, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "wh_infinitive",
+    "icon": "🤔",
+    "title": "Pytajnik + bezokolicznik",
+    "desc": "Konstrukcja pytajnik (what/how/where/who/which/whether) + bezokolicznik — I don't know what to do, She wondered how to react — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

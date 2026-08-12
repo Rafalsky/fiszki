@@ -1,0 +1,98 @@
+[
+  {
+    "id": "basic_pattern",
+    "order": 1,
+    "nameEn": "Question word + infinitive after verbs",
+    "namePl": "Pytajnik + bezokolicznik po czasownikach (know, wonder, decide, ask, show...)",
+    "rules": [
+      { "label": "Budowa", "text": "wh-word (what/where/when/who/which/how) + to + bezokolicznik — BEZ podmiotu i bez odmienionego czasownika" },
+      { "label": "Znaczenie", "text": "wyraża niepewność albo potrzebę decyzji co do tego, co/jak/gdzie NALEŻY zrobić — bezosobowy odcień powinności lub możliwości" },
+      { "label": "Czasowniki wprowadzające", "text": "know, wonder, decide, ask, show, explain, forget, remember, learn, teach, tell somebody" }
+    ],
+    "usage": [
+      "Po czasownikach (nie)pewności i wiedzy: I don't know what to say.",
+      "Po czasownikach instruowania: She showed me how to use the machine.",
+      "whom zamiast who w formalnym rejestrze, zwłaszcza po przyimku: I didn't know whom to ask.",
+      "which + rzeczownik + bezokolicznik przy wyborze spośród ograniczonej liczby opcji: I can't decide which dress to wear."
+    ],
+    "tags": ["what to do", "how to use", "where to go", "which to choose"],
+    "examples": [
+      { "en": "I really don't know what to say.", "pl": "Naprawdę nie wiem, co powiedzieć." },
+      { "en": "She showed me how to use the new coffee machine.", "pl": "Pokazała mi, jak używać nowego ekspresu do kawy." },
+      { "en": "He asked the guide where to find the museum.", "pl": "Zapytał przewodnika, gdzie znaleźć muzeum." },
+      { "en": "I can't decide which dress to wear to the wedding.", "pl": "Nie mogę zdecydować, którą sukienkę założyć na wesele." }
+    ]
+  },
+  {
+    "id": "whether_infinitive",
+    "order": 2,
+    "nameEn": "Whether + infinitive",
+    "namePl": "Whether + bezokolicznik (nie if)",
+    "rules": [
+      { "label": "Budowa", "text": "whether + to + bezokolicznik — wyraża wahanie między dwiema (lub więcej) możliwościami" },
+      { "label": "Zakaz z if", "text": "if NIE łączy się z bezokolicznikiem — poprawnie tylko whether to go, NIGDY if to go" },
+      { "label": "whether... or (not)", "text": "po whether to można dodać drugą opcję: whether to stay or leave" }
+    ],
+    "usage": [
+      "Po czasownikach: decide, wonder, know, discuss, consider, debate + whether to",
+      "I can't decide whether to accept the job offer.",
+      "We're still discussing whether to sell the house or rent it out.",
+      "He wasn't sure whether to laugh or cry."
+    ],
+    "tags": ["whether to", "not if to", "whether to accept"],
+    "examples": [
+      { "en": "I can't decide whether to accept the job offer.", "pl": "Nie mogę zdecydować, czy przyjąć tę ofertę pracy." },
+      { "en": "We're still discussing whether to sell the house or rent it out.", "pl": "Wciąż dyskutujemy, czy sprzedać dom, czy go wynająć." },
+      { "en": "He wasn't sure whether to laugh or cry.", "pl": "Nie był pewien, czy się śmiać, czy płakać." },
+      { "en": "She's wondering whether to tell him the truth.", "pl": "Zastanawia się, czy powiedzieć mu prawdę." }
+    ]
+  },
+  {
+    "id": "subject_and_after_noun",
+    "order": 3,
+    "nameEn": "Wh-infinitive as subject, after a preposition, and after a noun",
+    "namePl": "Pytajnik + bezokolicznik jako podmiot, po przyimku i po rzeczowniku",
+    "rules": [
+      { "label": "Jako podmiot", "text": "cała fraza wh + bezokolicznik może otwierać zdanie jako podmiot: Where to go on holiday was the big question." },
+      { "label": "Po przyimku", "text": "advice on, question of, thinking about + wh + bezokolicznik: advice on how to prepare" },
+      { "label": "Po rzeczowniku abstrakcyjnym", "text": "question, dilemma, decision + of/about + wh + bezokolicznik: the question of what to do next" }
+    ],
+    "usage": [
+      "Where to go on holiday was the biggest question of the summer.",
+      "She gave us some useful advice on how to prepare for the interview.",
+      "There's no easy answer to the question of what to do next.",
+      "It's time to decide what to wear to the interview."
+    ],
+    "tags": ["where to go was", "advice on how to", "question of what to do"],
+    "examples": [
+      { "en": "Where to go on holiday was the biggest question of the summer.", "pl": "Dokąd pojechać na wakacje, było największym pytaniem tego lata." },
+      { "en": "She gave us some useful advice on how to prepare for the interview.", "pl": "Dała nam kilka przydatnych rad, jak przygotować się do rozmowy kwalifikacyjnej." },
+      { "en": "There's no easy answer to the question of what to do next.", "pl": "Nie ma łatwej odpowiedzi na pytanie, co robić dalej." },
+      { "en": "It's time to decide what to wear to the interview.", "pl": "Czas zdecydować, co założyć na rozmowę kwalifikacyjną." }
+    ]
+  },
+  {
+    "id": "contrast_full_clause",
+    "order": 4,
+    "nameEn": "Wh-infinitive vs. full wh-clause: a meaning contrast",
+    "namePl": "Pytajnik + bezokolicznik a pełne zdanie z wh-: różnica znaczenia",
+    "rules": [
+      { "label": "Bezokolicznik", "text": "wyraża ogólną, bezosobową radę lub decyzję — co ktoś POWINIEN/MOŻE zrobić: I don't know what to do." },
+      { "label": "Pełne zdanie (wh + podmiot + orzeczenie)", "text": "opisuje konkretny fakt lub konkretną czynność wykonaną przez kogoś: I don't know what she did." },
+      { "label": "Ten sam wh-word, inna forma czasownika", "text": "różnica leży wyłącznie w czasowniku po wh-word: to do (rada/decyzja) vs. did (fakt z przeszłości)" }
+    ],
+    "usage": [
+      "I don't know what to do — should I call her or send an email? (rada, decyzja)",
+      "I don't know what she did yesterday; nobody told me. (konkretny fakt)",
+      "Tell me how to fix this — I've never done it before. (instrukcja)",
+      "Tell me how you fixed it last time — it broke again. (relacja z faktu)"
+    ],
+    "tags": ["what to do vs what she did", "how to fix vs how you fixed"],
+    "examples": [
+      { "en": "I don't know what to do — should I call her or send an email?", "pl": "Nie wiem, co zrobić — zadzwonić do niej czy wysłać e-mail?" },
+      { "en": "I don't know what she did yesterday; nobody told me.", "pl": "Nie wiem, co ona wczoraj zrobiła; nikt mi nie powiedział." },
+      { "en": "Tell me how to fix this — I've never done it before.", "pl": "Powiedz mi, jak to naprawić — nigdy tego nie robiłem." },
+      { "en": "Tell me how you fixed it last time — it broke again.", "pl": "Powiedz mi, jak to naprawiłeś ostatnim razem — znowu się zepsuło." }
+    ]
+  }
+]
