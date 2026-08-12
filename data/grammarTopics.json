@@ -593,5 +593,12 @@
     "title": "Dystans modalny i grzeczność",
     "desc": "Czas przeszły, would, could i tryb warunkowy jako narzędzia grzeczności i dystansu (I was wondering if..., Would you mind..., I'd rather you didn't...) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "delexicalized_verbs",
+    "icon": "🧰",
+    "title": "Czasowniki delekscjonalizowane (make/do/have/take/give)",
+    "desc": "Kolokacje typu make a decision, do damage, have a look, take a break, give advice — jak wybrać właściwy czasownik „pusty” do rzeczownika, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

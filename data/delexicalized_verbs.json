@@ -1,0 +1,272 @@
+[
+  {
+    "id": "make_collocations",
+    "order": 1,
+    "nameEn": "Make + noun — creating, producing, deciding",
+    "namePl": "Make + rzeczownik — tworzenie, powodowanie, decydowanie",
+    "rules": [
+      {
+        "label": "Znaczenie bazowe",
+        "text": "Make podkreśla tworzenie czegoś nowego, sprawianie, że coś powstaje lub następuje — decyzje, plany, hałas, błędy, postępy, wysiłek"
+      },
+      {
+        "label": "Typowe kolokacje",
+        "text": "make a decision, make a plan, make an effort, make progress, make a mistake, make noise, make an offer, make a difference, make a point, make sense"
+      },
+      {
+        "label": "Make vs do — rozróżnienie",
+        "text": "Make zwykle dotyczy wytwarzania/rezultatu (make a cake, make money), a do — wykonywania czynności/procesu bez konkretnego produktu (do the washing, do a job); to najczęstsza pułapka dla uczących się"
+      },
+      {
+        "label": "Make + it/sense",
+        "text": "Utrwalone zwroty bezosobowe: make sense (mieć sens), make it (zdążyć/dać radę), make it clear (wyjaśnić jednoznacznie)"
+      }
+    ],
+    "usage": [
+      "Decyzje i wybory: We need to make a decision by Friday.",
+      "Wysiłek i postęp: She made a real effort to make progress on the project.",
+      "Błędy i hałas: Don't make a mistake — and please don't make so much noise.",
+      "Zwroty bezosobowe: It doesn't make sense to leave now. / I won't make it to the meeting."
+    ],
+    "tags": [
+      "make a decision",
+      "make progress",
+      "make an effort",
+      "make sense"
+    ],
+    "examples": [
+      {
+        "en": "The board will make a final decision next week.",
+        "pl": "Zarząd podejmie ostateczną decyzję w przyszłym tygodniu."
+      },
+      {
+        "en": "He made a huge effort to finish the report on time.",
+        "pl": "Włożył ogromny wysiłek, żeby skończyć raport na czas."
+      },
+      {
+        "en": "Stop making excuses and make a plan instead.",
+        "pl": "Przestań wymyślać wymówki i zamiast tego zrób plan."
+      },
+      {
+        "en": "None of this makes any sense to me.",
+        "pl": "Nic z tego nie ma dla mnie sensu."
+      }
+    ]
+  },
+  {
+    "id": "do_collocations",
+    "order": 2,
+    "nameEn": "Do + noun — general activities, duties, tasks",
+    "namePl": "Do + rzeczownik — czynności ogólne, obowiązki, zadania",
+    "rules": [
+      {
+        "label": "Znaczenie bazowe",
+        "text": "Do odnosi się do wykonywania czynności lub obowiązku traktowanego jako proces, często bez konkretnego, namacalnego produktu na końcu"
+      },
+      {
+        "label": "Typowe kolokacje",
+        "text": "do the shopping/cleaning/cooking/washing up, do homework, do a favour, do business, do research, do damage, do your best, do harm"
+      },
+      {
+        "label": "Rzeczowniki abstrakcyjne z the",
+        "text": "Prace domowe rutynowe zwykle z przedimkiem the: do the dishes, do the ironing — bo mówimy o konkretnej, znanej czynności w danym gospodarstwie"
+      },
+      {
+        "label": "Do jako czasownik posiłkowy vs pełnoznaczny",
+        "text": "W kolokacjach do jest czasownikiem pełnoznacznym (leksykalnym), nie posiłkowym — Did you do your homework? ma do w obu funkcjach naraz"
+      }
+    ],
+    "usage": [
+      "Obowiązki domowe: I always do the shopping on Saturdays.",
+      "Grzeczność i pomoc: Could you do me a favour?",
+      "Praca i badania: The team is doing research into renewable energy.",
+      "Starania: Just do your best — that's all anyone can ask."
+    ],
+    "tags": [
+      "do the shopping",
+      "do a favour",
+      "do research",
+      "do your best"
+    ],
+    "examples": [
+      {
+        "en": "Can you do the washing up while I do the shopping?",
+        "pl": "Możesz umyć naczynia, podczas gdy ja zrobię zakupy?"
+      },
+      {
+        "en": "She's doing research on climate change for her thesis.",
+        "pl": "Robi badania nad zmianami klimatu do swojej pracy dyplomowej."
+      },
+      {
+        "en": "Could you do me a favour and pick up the kids?",
+        "pl": "Możesz zrobić mi przysługę i odebrać dzieci?"
+      },
+      {
+        "en": "The storm did a lot of damage to the roof.",
+        "pl": "Burza wyrządziła dużo szkód w dachu."
+      }
+    ]
+  },
+  {
+    "id": "have_collocations",
+    "order": 3,
+    "nameEn": "Have + noun — experiencing a brief action",
+    "namePl": "Have + rzeczownik — przeżywanie krótkiej czynności",
+    "rules": [
+      {
+        "label": "Znaczenie bazowe",
+        "text": "Have + rzeczownik odczasownikowy zamienia czasownik w jednorazową, ograniczoną w czasie czynność, którą się „przeżywa” — typowe w angielskim brytyjskim potocznym"
+      },
+      {
+        "label": "Typowe kolokacje",
+        "text": "have a look, have a rest, have a chat, have a bath/shower, have a break, have a go, have a word (with somebody), have an argument"
+      },
+      {
+        "label": "Have a vs czasownik prosty",
+        "text": "Have a look ≈ look, ale have a look sugeruje jedno, konkretne, ograniczone spojrzenie — bardziej naturalne w mowie potocznej niż sam czasownik"
+      },
+      {
+        "label": "Have + rzeczownik abstrakcyjny",
+        "text": "Również z emocjami i relacjami: have an argument, have a disagreement, have a laugh, have fun — czasownik have 'użycza' formy gramatycznej rzeczownikowi"
+      }
+    ],
+    "usage": [
+      "Krótkie czynności fizyczne: Let's have a break and then have a bite to eat.",
+      "Higiena i odpoczynek: I need to have a shower and then have a rest.",
+      "Rozmowa i konflikt: They had an argument about money last night.",
+      "Próba czegoś: Just have a go — you might be good at it."
+    ],
+    "tags": [
+      "have a look",
+      "have a rest",
+      "have a word",
+      "have a go"
+    ],
+    "examples": [
+      {
+        "en": "Let's have a quick look at the numbers before the meeting.",
+        "pl": "Rzućmy okiem na liczby przed spotkaniem."
+      },
+      {
+        "en": "I had a word with him about being late every day.",
+        "pl": "Zamieniłem z nim słowo na temat codziennych spóźnień."
+      },
+      {
+        "en": "We had a huge argument about the holiday plans.",
+        "pl": "Pokłóciliśmy się mocno o plany urlopowe."
+      },
+      {
+        "en": "Why don't you have a go at fixing it yourself?",
+        "pl": "Czemu nie spróbujesz naprawić tego sam?"
+      }
+    ]
+  },
+  {
+    "id": "take_collocations",
+    "order": 4,
+    "nameEn": "Take + noun — accepting, undertaking, requiring",
+    "namePl": "Take + rzeczownik — przyjmowanie, podejmowanie, wymaganie",
+    "rules": [
+      {
+        "label": "Znaczenie bazowe",
+        "text": "Take podkreśla aktywne przyjęcie na siebie czegoś (odpowiedzialności, decyzji, ryzyka) albo wymaganie zasobu (czasu, wysiłku)"
+      },
+      {
+        "label": "Typowe kolokacje",
+        "text": "take a break, take a risk, take responsibility, take action, take care, take a decision (BrE, obok make a decision), take advantage of, take place, take time"
+      },
+      {
+        "label": "Take place — zdarzenia",
+        "text": "Take place to utrwalony zwrot bezosobowy oznaczający 'odbywać się/mieć miejsce' — nie łączy się z make ani happen w tym kontekście: The ceremony will take place on Sunday"
+      },
+      {
+        "label": "It takes + czas/wysiłek",
+        "text": "Konstrukcja bezosobowa it takes + rzeczownik/osoba + to-infinitive: It took her two hours to finish. / It takes courage to admit a mistake"
+      }
+    ],
+    "usage": [
+      "Odpowiedzialność i ryzyko: You need to take responsibility and take action now.",
+      "Wydarzenia: The conference takes place every June.",
+      "Czas i wysiłek: It takes patience to learn a language. / This will take a while.",
+      "Korzystanie z okazji: They took advantage of the sale to buy everything cheaply."
+    ],
+    "tags": [
+      "take place",
+      "take responsibility",
+      "it takes",
+      "take advantage of"
+    ],
+    "examples": [
+      {
+        "en": "The meeting will take place in the main hall at noon.",
+        "pl": "Spotkanie odbędzie się w głównej sali w południe."
+      },
+      {
+        "en": "Someone has to take responsibility for this mistake.",
+        "pl": "Ktoś musi wziąć odpowiedzialność za ten błąd."
+      },
+      {
+        "en": "It took us three years to save enough money.",
+        "pl": "Zaoszczędzenie wystarczającej ilości pieniędzy zajęło nam trzy lata."
+      },
+      {
+        "en": "She took advantage of the quiet afternoon to finish her book.",
+        "pl": "Wykorzystała spokojne popołudnie, żeby skończyć książkę."
+      }
+    ]
+  },
+  {
+    "id": "give_and_mixed_collocations",
+    "order": 5,
+    "nameEn": "Give + noun and mixed light-verb contrasts",
+    "namePl": "Give + rzeczownik i kontrasty między czasownikami delekscjonalizowanymi",
+    "rules": [
+      {
+        "label": "Give — przekazywanie na zewnątrz",
+        "text": "Give podkreśla przekazanie czegoś drugiej osobie — rady, informacji, reakcji, pozwolenia: give advice, give a speech, give permission, give a hand, give an example"
+      },
+      {
+        "label": "Ten sam rzeczownik, różny czasownik, różne znaczenie",
+        "text": "Niektóre rzeczowniki łączą się z kilkoma czasownikami delekscjonalizowanymi o różnych odcieniach: give a look (rzucić komuś spojrzenie z wyrazem twarzy) vs have a look (przyjrzeć się czemuś); make a call (zadzwonić) vs take a call (odebrać telefon)"
+      },
+      {
+        "label": "Brak reguły semantycznej — kolokacja jako całość",
+        "text": "Wybór czasownika w tych zestawieniach jest w dużej mierze umowny i trzeba go zapamiętać jako gotową parę, a nie wyprowadzać logicznie ze znaczenia rzeczownika"
+      },
+      {
+        "label": "Rejestr i odmiany regionalne",
+        "text": "Niektóre pary różnią się między BrE i AmE (have a bath BrE / take a bath AmE) lub rejestrem (make a decision neutralne, take a decision bardziej formalne/BrE)"
+      }
+    ],
+    "usage": [
+      "Przekazywanie rady i informacji: Can you give me some advice? / He gave a great presentation.",
+      "Pozwolenie i pomoc: She gave me permission to leave early. / Give me a hand with this box.",
+      "Kontrast tego samego rzeczownika: He gave me a strange look. vs Have a look at this email.",
+      "Kontrast telefonu: I'll give her a call. vs Can you take this call for me?"
+    ],
+    "tags": [
+      "give advice",
+      "give a hand",
+      "give a look vs have a look",
+      "make a call vs take a call"
+    ],
+    "examples": [
+      {
+        "en": "Could you give me some advice about this contract?",
+        "pl": "Mógłbyś dać mi jakąś radę w sprawie tej umowy?"
+      },
+      {
+        "en": "He gave a short speech before the ceremony began.",
+        "pl": "Wygłosił krótkie przemówienie przed rozpoczęciem ceremonii."
+      },
+      {
+        "en": "She gave me a suspicious look when I mentioned the money.",
+        "pl": "Spojrzała na mnie podejrzliwie, kiedy wspomniałem o pieniądzach."
+      },
+      {
+        "en": "I'll give him a call, but can you take any calls while I'm out?",
+        "pl": "Zadzwonię do niego, ale czy możesz odbierać telefony, kiedy mnie nie będzie?"
+      }
+    ]
+  }
+]

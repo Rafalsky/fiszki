@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "make_collocations",
+    "prompt": "We need to ___ a decision by Friday.",
+    "answer": "make",
+    "distractors": ["do", "have", "take"]
+  },
+  {
+    "id": 2,
+    "itemId": "make_collocations",
+    "prompt": "He made a huge ___ to finish the report on time.",
+    "answer": "effort",
+    "distractors": ["work", "job", "power"]
+  },
+  {
+    "id": 3,
+    "itemId": "make_collocations",
+    "prompt": "Please stop making so much ___ — I'm trying to work.",
+    "answer": "noise",
+    "distractors": ["voice", "sound", "loud"]
+  },
+  {
+    "id": 4,
+    "itemId": "make_collocations",
+    "prompt": "None of this ___ any sense to me.",
+    "answer": "makes",
+    "distractors": ["does", "has", "takes"]
+  },
+  {
+    "id": 5,
+    "itemId": "make_collocations",
+    "prompt": "The new manager has made real ___ on the project this month.",
+    "answer": "progress",
+    "distractors": ["success", "work", "step"]
+  },
+  {
+    "id": 6,
+    "itemId": "make_collocations",
+    "prompt": "I'm sorry, I think I made a ___ in my calculation.",
+    "answer": "mistake",
+    "distractors": ["fault", "wrong", "error mistake"]
+  },
+  {
+    "id": 7,
+    "itemId": "make_collocations",
+    "prompt": "I don't think I'll ___ it to the meeting on time.",
+    "answer": "make",
+    "distractors": ["do", "have", "take"]
+  },
+  {
+    "id": 8,
+    "itemId": "make_collocations",
+    "prompt": "They made an ___ to buy the company for two million dollars.",
+    "answer": "offer",
+    "distractors": ["proposal offer", "propose", "suggest"]
+  },
+  {
+    "id": 9,
+    "itemId": "do_collocations",
+    "prompt": "Can you ___ the washing up while I do the shopping?",
+    "answer": "do",
+    "distractors": ["make", "have", "take"]
+  },
+  {
+    "id": 10,
+    "itemId": "do_collocations",
+    "prompt": "She's doing ___ on climate change for her thesis.",
+    "answer": "research",
+    "distractors": ["study", "science", "investigation"]
+  },
+  {
+    "id": 11,
+    "itemId": "do_collocations",
+    "prompt": "Could you ___ me a favour and pick up the kids?",
+    "answer": "do",
+    "distractors": ["make", "give", "have"]
+  },
+  {
+    "id": 12,
+    "itemId": "do_collocations",
+    "prompt": "The storm did a lot of ___ to the roof.",
+    "answer": "damage",
+    "distractors": ["destroy", "broken", "harmful"]
+  },
+  {
+    "id": 13,
+    "itemId": "do_collocations",
+    "prompt": "Just do your ___ — that's all anyone can ask.",
+    "answer": "best",
+    "distractors": ["better", "good", "effort"]
+  },
+  {
+    "id": 14,
+    "itemId": "do_collocations",
+    "prompt": "I always do the ___ on Saturday mornings before breakfast.",
+    "answer": "shopping",
+    "distractors": ["shop", "buying", "bought"]
+  },
+  {
+    "id": 15,
+    "itemId": "do_collocations",
+    "prompt": "They do a lot of ___ with companies in Asia.",
+    "answer": "business",
+    "distractors": ["trade", "job", "commerce"]
+  },
+  {
+    "id": 16,
+    "itemId": "do_collocations",
+    "prompt": "Smoking can do serious ___ to your lungs.",
+    "answer": "harm",
+    "distractors": ["hurt", "damaged", "bad"]
+  },
+  {
+    "id": 17,
+    "itemId": "have_collocations",
+    "prompt": "Let's ___ a quick look at the numbers before the meeting.",
+    "answer": "have",
+    "distractors": ["make", "do", "take"]
+  },
+  {
+    "id": 18,
+    "itemId": "have_collocations",
+    "prompt": "I need to have a shower and then have a ___.",
+    "answer": "rest",
+    "distractors": ["resting", "relax", "sleep rest"]
+  },
+  {
+    "id": 19,
+    "itemId": "have_collocations",
+    "prompt": "They had an ___ about money last night.",
+    "answer": "argument",
+    "distractors": ["argue", "arguing", "argument fight"]
+  },
+  {
+    "id": 20,
+    "itemId": "have_collocations",
+    "prompt": "Why don't you have a ___ at fixing it yourself?",
+    "answer": "go",
+    "distractors": ["try", "attempt", "trying"]
+  },
+  {
+    "id": 21,
+    "itemId": "have_collocations",
+    "prompt": "I had a ___ with him about being late every day.",
+    "answer": "word",
+    "distractors": ["talk", "speak", "voice"]
+  },
+  {
+    "id": 22,
+    "itemId": "have_collocations",
+    "prompt": "We should have a ___ before we carry on working.",
+    "answer": "break",
+    "distractors": ["breaking", "pause break", "stop"]
+  },
+  {
+    "id": 23,
+    "itemId": "have_collocations",
+    "prompt": "It's been ages — let's have a ___ over coffee sometime.",
+    "answer": "chat",
+    "distractors": ["chatting", "talking", "speak"]
+  },
+  {
+    "id": 24,
+    "itemId": "have_collocations",
+    "prompt": "We had a good ___ about the film afterwards.",
+    "answer": "laugh",
+    "distractors": ["laughing", "fun laugh", "joke"]
+  },
+  {
+    "id": 25,
+    "itemId": "take_collocations",
+    "prompt": "The meeting will ___ place in the main hall at noon.",
+    "answer": "take",
+    "distractors": ["make", "have", "do"]
+  },
+  {
+    "id": 26,
+    "itemId": "take_collocations",
+    "prompt": "Someone has to ___ responsibility for this mistake.",
+    "answer": "take",
+    "distractors": ["make", "do", "have"]
+  },
+  {
+    "id": 27,
+    "itemId": "take_collocations",
+    "prompt": "It ___ us three years to save enough money.",
+    "answer": "took",
+    "distractors": ["made", "did", "spent"]
+  },
+  {
+    "id": 28,
+    "itemId": "take_collocations",
+    "prompt": "She took ___ of the quiet afternoon to finish her book.",
+    "answer": "advantage",
+    "distractors": ["benefit", "profit", "use"]
+  },
+  {
+    "id": 29,
+    "itemId": "take_collocations",
+    "prompt": "You need to take ___ and act before it's too late.",
+    "answer": "action",
+    "distractors": ["act", "acting", "activity"]
+  },
+  {
+    "id": 30,
+    "itemId": "take_collocations",
+    "prompt": "Investing all your savings in one company is a big ___ to take.",
+    "answer": "risk",
+    "distractors": ["risky", "dangerous", "gamble risk"]
+  },
+  {
+    "id": 31,
+    "itemId": "take_collocations",
+    "prompt": "It takes real ___ to admit you were wrong in public.",
+    "answer": "courage",
+    "distractors": ["brave", "bravery courage", "strong"]
+  },
+  {
+    "id": 32,
+    "itemId": "take_collocations",
+    "prompt": "Please take ___ — the roads are icy tonight.",
+    "answer": "care",
+    "distractors": ["careful", "caring", "attention"]
+  },
+  {
+    "id": 33,
+    "itemId": "give_and_mixed_collocations",
+    "prompt": "Could you give me some ___ about this contract?",
+    "answer": "advice",
+    "distractors": ["advise", "advices", "suggestion advice"]
+  },
+  {
+    "id": 34,
+    "itemId": "give_and_mixed_collocations",
+    "prompt": "He gave a short ___ before the ceremony began.",
+    "answer": "speech",
+    "distractors": ["speak", "talk speech", "speaking"]
+  },
+  {
+    "id": 35,
+    "itemId": "give_and_mixed_collocations",
+    "prompt": "She gave me a suspicious ___ when I mentioned the money.",
+    "answer": "look",
+    "distractors": ["watch", "stare look", "eye"]
+  },
+  {
+    "id": 36,
+    "itemId": "give_and_mixed_collocations",
+    "prompt": "I'll give him a call, but can you ___ any calls while I'm out?",
+    "answer": "take",
+    "distractors": ["make", "give", "have"]
+  },
+  {
+    "id": 37,
+    "itemId": "give_and_mixed_collocations",
+    "prompt": "Give me a ___ with this box, it's really heavy.",
+    "answer": "hand",
+    "distractors": ["help hand", "arm", "handle"]
+  },
+  {
+    "id": 38,
+    "itemId": "give_and_mixed_collocations",
+    "prompt": "The teacher gave us an ___ to explain the idea more clearly.",
+    "answer": "example",
+    "distractors": ["exemplify", "sample", "instance example"]
+  },
+  {
+    "id": 39,
+    "itemId": "give_and_mixed_collocations",
+    "prompt": "My parents never gave me ___ to stay out that late.",
+    "answer": "permission",
+    "distractors": ["permit", "allowance", "permitted"]
+  },
+  {
+    "id": 40,
+    "itemId": "give_and_mixed_collocations",
+    "prompt": "In British English people often have a bath, but in American English they usually ___ a bath.",
+    "answer": "take",
+    "distractors": ["make", "do", "have"]
+  }
+]
