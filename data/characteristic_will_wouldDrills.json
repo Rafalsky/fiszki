@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "itemId": "will_characteristic",
+    "prompt": "My grandfather ___ (tell) the same story every Christmas.",
+    "answer": "will tell",
+    "distractors": ["is telling", "told", "has told"]
+  },
+  {
+    "id": 2,
+    "itemId": "will_characteristic",
+    "prompt": "Boys ___ (be) boys — you can't change that.",
+    "answer": "will be",
+    "distractors": ["are", "would be", "have been"]
+  },
+  {
+    "id": 3,
+    "itemId": "will_characteristic",
+    "prompt": "This door ___ (stick) whenever it's humid outside.",
+    "answer": "will stick",
+    "distractors": ["sticks always", "is sticking", "would stick"]
+  },
+  {
+    "id": 4,
+    "itemId": "will_characteristic",
+    "prompt": "Cats ___ (sleep) for up to sixteen hours a day.",
+    "answer": "will sleep",
+    "distractors": ["are sleeping", "slept", "have slept"]
+  },
+  {
+    "id": 5,
+    "itemId": "will_characteristic",
+    "prompt": "Our dog ___ (bark) at every stranger who walks past the gate.",
+    "answer": "will bark",
+    "distractors": ["barks", "is barking", "would bark"]
+  },
+  {
+    "id": 6,
+    "itemId": "will_characteristic",
+    "prompt": "Accidents ___ (happen), however careful you are.",
+    "answer": "will happen",
+    "distractors": ["happen just", "are happening", "would happen"]
+  },
+  {
+    "id": 7,
+    "itemId": "will_characteristic",
+    "prompt": "My sister ___ (spend) hours reorganising her bookshelf — it's just how she is.",
+    "answer": "will spend",
+    "distractors": ["spends", "is spending", "spent"]
+  },
+  {
+    "id": 8,
+    "itemId": "will_characteristic",
+    "prompt": "A good manager ___ (listen) to feedback without getting defensive.",
+    "answer": "will listen",
+    "distractors": ["listens careful", "is listening", "would listen"]
+  },
+  {
+    "id": 9,
+    "itemId": "would_characteristic_past",
+    "prompt": "Every summer, we ___ (spend) our evenings on the porch, watching the sunset.",
+    "answer": "would spend",
+    "distractors": ["spent always", "were spending", "have spent"]
+  },
+  {
+    "id": 10,
+    "itemId": "would_characteristic_past",
+    "prompt": "Whenever he was upset, he ___ (go) quiet for the rest of the day.",
+    "answer": "would go",
+    "distractors": ["went always", "will go", "was going"]
+  },
+  {
+    "id": 11,
+    "itemId": "would_characteristic_past",
+    "prompt": "She ___ (leave) the last biscuit for someone else — that was just like her.",
+    "answer": "would leave",
+    "distractors": ["left always", "will leave", "was leaving"]
+  },
+  {
+    "id": 12,
+    "itemId": "would_characteristic_past",
+    "prompt": "My father ___ (hum) to himself while he worked in the garden.",
+    "answer": "would hum",
+    "distractors": ["hummed always", "will hum", "was humming always"]
+  },
+  {
+    "id": 13,
+    "itemId": "would_characteristic_past",
+    "prompt": "As a child, I ___ (love) dogs. (stan — nie użyjemy tu 'would')",
+    "answer": "used to love",
+    "distractors": ["would love", "will love", "was loving"]
+  },
+  {
+    "id": 14,
+    "itemId": "would_characteristic_past",
+    "prompt": "Grandma ___ (knit) by the fire every winter evening.",
+    "answer": "would knit",
+    "distractors": ["knitted always", "will knit", "was knitting always"]
+  },
+  {
+    "id": 15,
+    "itemId": "would_characteristic_past",
+    "prompt": "He ___ (twist) his hair around his finger whenever he was nervous.",
+    "answer": "would twist",
+    "distractors": ["twisted always", "will twist", "was twisting always"]
+  },
+  {
+    "id": 16,
+    "itemId": "would_characteristic_past",
+    "prompt": "On Fridays, our teacher ___ (let) us leave class five minutes early.",
+    "answer": "would let",
+    "distractors": ["let always", "will let", "was letting always"]
+  },
+  {
+    "id": 17,
+    "itemId": "will_predictable_facts",
+    "prompt": "That ___ (be) the postman — he always rings twice.",
+    "answer": "will be",
+    "distractors": ["is being", "would be", "must being"]
+  },
+  {
+    "id": 18,
+    "itemId": "will_predictable_facts",
+    "prompt": "A room at that hotel ___ (cost) you at least two hundred dollars a night.",
+    "answer": "will cost",
+    "distractors": ["costs surely", "is costing", "would cost surely"]
+  },
+  {
+    "id": 19,
+    "itemId": "will_predictable_facts",
+    "prompt": "You ___ (remember) Auntie Rose — she came to my wedding.",
+    "answer": "will remember",
+    "distractors": ["are remembering", "remembered", "would remember"]
+  },
+  {
+    "id": 20,
+    "itemId": "will_predictable_facts",
+    "prompt": "That ___ (be) John at the door — he's always exactly on time.",
+    "answer": "will be",
+    "distractors": ["is being", "would be", "was being"]
+  },
+  {
+    "id": 21,
+    "itemId": "will_predictable_facts",
+    "prompt": "The flight from London ___ (take) about two hours, I'd guess.",
+    "answer": "will take",
+    "distractors": ["takes surely", "is taking", "would take surely"]
+  },
+  {
+    "id": 22,
+    "itemId": "will_predictable_facts",
+    "prompt": "You ___ (be) tired after such a long flight, I expect.",
+    "answer": "will be",
+    "distractors": ["are being", "would be", "was being"]
+  },
+  {
+    "id": 23,
+    "itemId": "will_predictable_facts",
+    "prompt": "Don't worry, she ___ (know) exactly what to do — she's done this a hundred times.",
+    "answer": "will know",
+    "distractors": ["is knowing", "would know", "knew"]
+  },
+  {
+    "id": 24,
+    "itemId": "will_predictable_facts",
+    "prompt": "This model ___ (weigh) around three kilos, according to the specs.",
+    "answer": "will weigh",
+    "distractors": ["weighs surely", "is weighing", "would weigh surely"]
+  },
+  {
+    "id": 25,
+    "itemId": "will_insistence",
+    "prompt": "He ___ (leave) his dirty dishes in the sink every single morning!",
+    "answer": "will leave",
+    "distractors": ["leaves", "is leaving", "left"]
+  },
+  {
+    "id": 26,
+    "itemId": "will_insistence",
+    "prompt": "The kids ___ (argue) about whose turn it was, no matter what I said.",
+    "answer": "would argue",
+    "distractors": ["argued", "will argue", "were arguing"]
+  },
+  {
+    "id": 27,
+    "itemId": "will_insistence",
+    "prompt": "My laptop ___ (connect, przeczenie) to the printer, however many times I restart it.",
+    "answer": "won't connect",
+    "distractors": ["doesn't connect", "wouldn't connect", "isn't connecting"]
+  },
+  {
+    "id": 28,
+    "itemId": "will_insistence",
+    "prompt": "The old lock ___ (turn, przeczenie), so we had to call a locksmith.",
+    "answer": "wouldn't turn",
+    "distractors": ["didn't turn", "won't turn", "wasn't turning"]
+  },
+  {
+    "id": 29,
+    "itemId": "will_insistence",
+    "prompt": "He ___ (interrupt) me every time I'm on the phone — it drives me mad!",
+    "answer": "will interrupt",
+    "distractors": ["interrupts", "is interrupting", "interrupted"]
+  },
+  {
+    "id": 30,
+    "itemId": "will_insistence",
+    "prompt": "No matter how politely I asked, she ___ (refuse) to apologise.",
+    "answer": "would refuse",
+    "distractors": ["refused", "will refuse", "was refusing"]
+  },
+  {
+    "id": 31,
+    "itemId": "will_insistence",
+    "prompt": "The car ___ (start, przeczenie) this morning, however many times I turned the key.",
+    "answer": "wouldn't start",
+    "distractors": ["didn't start", "won't start", "wasn't starting"]
+  },
+  {
+    "id": 32,
+    "itemId": "will_insistence",
+    "prompt": "My neighbour ___ (play) loud music at midnight, even after I complained twice.",
+    "answer": "will play",
+    "distractors": ["plays", "is playing", "played"]
+  }
+]

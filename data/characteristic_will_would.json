@@ -1,0 +1,177 @@
+[
+  {
+    "id": "will_characteristic",
+    "order": 1,
+    "nameEn": "will — characteristic behaviour and typical habits",
+    "namePl": "will — cecha charakteru i typowe zachowanie",
+    "rules": [
+      {
+        "label": "will + bezokolicznik",
+        "text": "Podmiot + will + czasownik (forma podstawowa) — opisuje typowe, przewidywalne zachowanie osoby, zwierzęcia lub rzeczy, wynikające z jej natury lub zwyczaju, a nie z przyszłej decyzji"
+      },
+      {
+        "label": "akcent zdaniowy",
+        "text": "'will' jest tu zwykle akcentowane w mowie i często tłumaczone jako 'to typowe, że...' albo pomijane w tłumaczeniu na rzecz czasu teraźniejszego"
+      }
+    ],
+    "usage": [
+      "Opisywanie stałych cech charakteru lub zwyczajowych zachowań (He'll sit there for hours without saying a word.)",
+      "Uogólnienia o ludziach lub świecie, często w formie przysłowia (Boys will be boys. Accidents will happen.)",
+      "Przewidywalne działanie urządzeń i mechanizmów (The engine will start even in cold weather.)",
+      "Nie chodzi tu o przyszłość — zdanie może dotyczyć teraźniejszości lub prawdy ogólnej"
+    ],
+    "tags": [
+      "will sit for hours",
+      "boys will be boys",
+      "typical behaviour"
+    ],
+    "examples": [
+      {
+        "en": "My grandfather will tell the same story every Christmas.",
+        "pl": "Mój dziadek zawsze opowiada tę samą historię na każde Boże Narodzenie."
+      },
+      {
+        "en": "Boys will be boys.",
+        "pl": "Chłopcy zawsze będą chłopcami (takie już są)."
+      },
+      {
+        "en": "This door will stick if it's humid outside.",
+        "pl": "Te drzwi zawsze się zacinają, gdy jest wilgotno."
+      },
+      {
+        "en": "Cats will sleep for up to sixteen hours a day.",
+        "pl": "Koty potrafią spać nawet szesnaście godzin dziennie."
+      }
+    ]
+  },
+  {
+    "id": "would_characteristic_past",
+    "order": 2,
+    "nameEn": "would — characteristic behaviour in the past",
+    "namePl": "would — cecha charakteru w przeszłości",
+    "rules": [
+      {
+        "label": "would + bezokolicznik",
+        "text": "Podmiot + would + czasownik (forma podstawowa) — przeszły odpowiednik 'characteristic will': typowe, powtarzalne zachowanie w przeszłości, wynikające z charakteru danej osoby"
+      },
+      {
+        "label": "kontrast z used to",
+        "text": "W przeciwieństwie do 'used to', 'would' w tym znaczeniu podkreśla charakterystyczność zachowania, a nie sam fakt, że coś się zmieniło — często pojawia się w narracji, wspomnieniach i anegdotach"
+      }
+    ],
+    "usage": [
+      "Typowe zachowanie osoby w przeszłości, często ze zniuansowanym zabarwieniem emocjonalnym (My father would spend hours in the garden, humming to himself.)",
+      "Anegdoty i wspomnienia biograficzne (Whenever she was nervous, she would twist her hair around her finger.)",
+      "Nie używamy 'would' w tym znaczeniu dla stanów — 'She would love dogs' jest niepoprawne w sensie charakterystyki; stany wymagają 'used to' (She used to love dogs)"
+    ],
+    "tags": [
+      "would spend hours",
+      "characteristic past habit",
+      "used to vs would"
+    ],
+    "examples": [
+      {
+        "en": "Every summer, we would spend our evenings on the porch, watching the sunset.",
+        "pl": "Każdego lata spędzaliśmy wieczory na werandzie, patrząc na zachód słońca."
+      },
+      {
+        "en": "Whenever he was upset, he would go quiet for the rest of the day.",
+        "pl": "Ilekroć był zdenerwowany, milkł na resztę dnia."
+      },
+      {
+        "en": "She would always leave the last biscuit for someone else — that was just like her.",
+        "pl": "Zawsze zostawiała ostatnie ciastko dla kogoś innego — taka już była."
+      }
+    ]
+  },
+  {
+    "id": "will_predictable_facts",
+    "order": 3,
+    "nameEn": "will — predictable facts and identity guesses",
+    "namePl": "will — przewidywalne fakty i domysły co do tożsamości",
+    "rules": [
+      {
+        "label": "will + be",
+        "text": "Podmiot + will + be — wyraża pewność mówiącego opartą na wiedzy o zwyczajach, harmonogramach lub logice, a nie na obserwacji w danej chwili"
+      },
+      {
+        "label": "will + czasownik statywny",
+        "text": "Z czasownikami statywnymi (know, understand, remember, cost) 'will' opisuje coś, co jest przewidywalnie prawdziwe teraz, na podstawie znanych faktów"
+      }
+    ],
+    "usage": [
+      "Zgadywanie tożsamości na podstawie logiki lub zwyczaju (That will be the postman — he always comes at ten.)",
+      "Stwierdzanie przewidywalnych faktów (A ticket to London will cost around fifty pounds.)",
+      "Formalne, uprzejme domysły w rozmowie (You'll be tired after such a long flight, I expect.)",
+      "Różnica względem 'must be': 'will' sugeruje przewidywalność wynikającą z rutyny, 'must be' — wniosek z konkretnych dowodów w danej chwili"
+    ],
+    "tags": [
+      "that will be",
+      "predictable fact",
+      "will cost"
+    ],
+    "examples": [
+      {
+        "en": "That'll be the postman — he always rings twice.",
+        "pl": "To pewnie listonosz — zawsze dzwoni dwa razy."
+      },
+      {
+        "en": "A room at that hotel will cost you at least two hundred dollars a night.",
+        "pl": "Pokój w tym hotelu będzie kosztował co najmniej dwieście dolarów za noc."
+      },
+      {
+        "en": "You'll remember Auntie Rose — she came to my wedding.",
+        "pl": "Na pewno pamiętasz ciocię Rose — była na moim ślubie."
+      }
+    ]
+  },
+  {
+    "id": "will_insistence",
+    "order": 4,
+    "nameEn": "will / would — stubborn insistence and irritation",
+    "namePl": "will / would — uporczywe upieranie się i irytacja",
+    "rules": [
+      {
+        "label": "will (akcentowane) + czasownik",
+        "text": "Podmiot + will + czasownik — z silnym akcentem na 'will' wyraża irytację mówiącego uporczywym, powtarzającym się zachowaniem kogoś innego, mimo próśb, by tego nie robił"
+      },
+      {
+        "label": "would (akcentowane) w przeszłości",
+        "text": "Podmiot + would + czasownik — przeszły odpowiednik: opisuje uporczywe zachowanie w przeszłości, które irytowało mówiącego"
+      },
+      {
+        "label": "will/would + not — odmowa",
+        "text": "Podmiot + will/won't albo would/wouldn't + czasownik — wyraża stanowczą odmowę zrobienia czegoś (uparte 'nie chce')"
+      }
+    ],
+    "usage": [
+      "Krytyka powtarzającego się, irytującego zachowania (He will keep interrupting me when I'm on the phone!)",
+      "To samo w przeszłości (She would always turn up late, no matter how many times I asked her not to.)",
+      "Uporczywa odmowa działania — także o przedmiotach, które 'nie chcą' działać (The car won't start. The door wouldn't open, however hard I pushed.)",
+      "Ton jest zwykle negatywny i emocjonalny — sygnalizuje go akcent na 'will'/'would' w mowie oraz kontekst skargi"
+    ],
+    "tags": [
+      "will keep interrupting",
+      "wouldn't open",
+      "stubborn insistence"
+    ],
+    "examples": [
+      {
+        "en": "He will leave his dirty dishes in the sink every single morning!",
+        "pl": "On uparcie zostawia brudne naczynia w zlewie co rano!"
+      },
+      {
+        "en": "The kids would keep arguing about whose turn it was, no matter what I said.",
+        "pl": "Dzieciaki uparcie kłóciły się, czyja jest kolej, cokolwiek bym nie powiedziała."
+      },
+      {
+        "en": "My laptop won't connect to the printer, however many times I restart it.",
+        "pl": "Mój laptop uparcie nie chce się połączyć z drukarką, niezależnie od tego, ile razy go restartuję."
+      },
+      {
+        "en": "The old lock wouldn't turn, so we had to call a locksmith.",
+        "pl": "Stary zamek uparcie nie chciał się przekręcić, więc musieliśmy wezwać ślusarza."
+      }
+    ]
+  }
+]

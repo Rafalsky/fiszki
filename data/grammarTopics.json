@@ -579,5 +579,12 @@
     "title": "Odniesienie w zdaniach względnych",
     "desc": "which odnoszące się do całego zdania oraz kwantyfikator + of which/of whom (some of which, none of whom, the youngest of whom) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "characteristic_will_would",
+    "icon": "😤",
+    "title": "Will / would dla cech charakteru",
+    "desc": "will i would opisujące typowe, przewidywalne zachowanie oraz uporczywe upieranie się (Boys will be boys, He would always turn up late, The car won't start) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 32
   }
 ]
