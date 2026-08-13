@@ -761,5 +761,12 @@
     "title": "Retoryczne struktury porównawcze",
     "desc": "no more...than, not so much...as, let alone, nothing less than — porównania retoryczne do podkreślania kontrastu i emfazy — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "for_to_infinitive",
+    "icon": "🫴",
+    "title": "For + to-bezokolicznik",
+    "desc": "for + rzeczownik/zaimek + to-bezokolicznik: jak wprowadzić własny podmiot bezokolicznika (wait for her to call, it's important for you to know) oraz kontrast for/of — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

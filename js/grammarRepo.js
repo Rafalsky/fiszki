@@ -117,6 +117,7 @@ const THEORY_URLS = {
   floating_quantifiers: new URL("../data/floating_quantifiers.json", import.meta.url),
   nominal_adjectives: new URL("../data/nominal_adjectives.json", import.meta.url),
   rhetorical_comparison: new URL("../data/rhetorical_comparison.json", import.meta.url),
+  for_to_infinitive: new URL("../data/for_to_infinitive.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -229,6 +230,7 @@ const DRILLS_URLS = {
   floating_quantifiers: new URL("../data/floating_quantifiersDrills.json", import.meta.url),
   nominal_adjectives: new URL("../data/nominal_adjectivesDrills.json", import.meta.url),
   rhetorical_comparison: new URL("../data/rhetorical_comparisonDrills.json", import.meta.url),
+  for_to_infinitive: new URL("../data/for_to_infinitiveDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
