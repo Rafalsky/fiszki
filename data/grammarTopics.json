@@ -831,5 +831,12 @@
     "title": "Whether… or",
     "desc": "Whether...or (not) — ustępstwo i alternatywa niezależna od wyboru (whether you like it or not, whether by accident or design) — budowa, użycie, kontrast z if, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "but_for_without",
+    "icon": "➖",
+    "title": "But for / Without",
+    "desc": "But for, without oraz were it not for / had it not been for — formalne wyrażanie warunku przeczącego bez if, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
