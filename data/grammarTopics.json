@@ -768,5 +768,12 @@
     "title": "For + to-bezokolicznik",
     "desc": "for + rzeczownik/zaimek + to-bezokolicznik: jak wprowadzić własny podmiot bezokolicznika (wait for her to call, it's important for you to know) oraz kontrast for/of — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "comment_clauses",
+    "icon": "💭",
+    "title": "Zdania wtrącone (comment clauses)",
+    "desc": "Krótkie zdania wtrącone (comment clauses) typu I think, you know, to be honest, which is a shame, as far as I know — komentowanie, osłabianie stanowczości i podkreślanie wiarygodności wypowiedzi. Teoria, ćwiczenia z lukami i testy.",
+    "drillCount": 40
   }
 ]
