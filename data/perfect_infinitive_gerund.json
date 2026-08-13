@@ -1,0 +1,104 @@
+[
+  {
+    "id": "verbs_perfect_infinitive",
+    "order": 1,
+    "nameEn": "claim / pretend / profess + to have done — perfect infinitive after verbs",
+    "namePl": "claim / pretend / profess + to have done — bezokolicznik dokonany po czasownikach",
+    "rules": [
+      { "label": "Budowa", "text": "czasownik + to have + imiesłów bierny (past participle) — perfect infinitive zamiast zwykłego 'to + bezokolicznik'" },
+      { "label": "Znaczenie", "text": "wskazuje, że czynność wyrażona bezokolicznikiem wydarzyła się WCZEŚNIEJ niż czynność czasownika głównego — działa jak Present Perfect/Past Perfect przeniesiony do bezokolicznika" },
+      { "label": "Kontrast z prostym bezokolicznikiem", "text": "He claims to know her (twierdzi, że ją zna — teraz) vs He claims to have known her (twierdzi, że ją znał — wcześniej, niekoniecznie teraz)" },
+      { "label": "Typowe czasowniki", "text": "claim, pretend, profess, happen, appear, seem + to have + past participle — czasownik główny wyraża twierdzenie, pozór lub wniosek o czymś, co już minęło" },
+      { "label": "Forma bierna", "text": "można ją połączyć ze stroną bierną: He claims to have been misquoted by the newspaper" }
+    ],
+    "usage": [
+      "Relacjonowanie cudzego twierdzenia o wcześniejszym zdarzeniu: He claims to have witnessed the crime.",
+      "Udawanie, że coś się wydarzyło (pretend + perfect infinitive): She pretended to have forgotten his name.",
+      "Formalne, ostrożne stwierdzenie o przeszłości (profess): He professed to have no knowledge of the deal.",
+      "Przypadkowe odkrycie faktu z przeszłości (happen): They happened to have met before, years earlier."
+    ],
+    "tags": ["claims to have seen", "pretended to have left", "professed to have known", "happened to have met"],
+    "examples": [
+      { "en": "He claims to have finished the report last night.", "pl": "Twierdzi, że skończył raport wczoraj wieczorem." },
+      { "en": "She pretended not to have heard the question.", "pl": "Udawała, że nie usłyszała pytania." },
+      { "en": "The minister professed to have had no involvement in the scandal.", "pl": "Minister utrzymywał, że nie miał żadnego udziału w skandalu." },
+      { "en": "It later turned out that the two witnesses happened to have met before the trial.", "pl": "Później okazało się, że dwoje świadków przypadkiem spotkało się wcześniej, przed procesem." }
+    ]
+  },
+  {
+    "id": "adjectives_perfect_infinitive",
+    "order": 2,
+    "nameEn": "glad / sorry / lucky + to have done — perfect infinitive after adjectives",
+    "namePl": "glad / sorry / lucky + to have done — bezokolicznik dokonany po przymiotnikach",
+    "rules": [
+      { "label": "Budowa", "text": "be + przymiotnik + to have + imiesłów bierny — przymiotnik opisuje UCZUCIE mówiącego TERAZ w związku z czynnością, która wydarzyła się wcześniej" },
+      { "label": "Kontrast z prostym bezokolicznikiem", "text": "I'm glad to meet you (mówię to w chwili poznania) vs I'm glad to have met you (mówię to później, patrząc wstecz na to, że się poznaliśmy)" },
+      { "label": "Typowe przymiotniki", "text": "glad, pleased, delighted, happy, sorry, relieved, lucky, fortunate, proud, ashamed, the first/last/only + osoba" },
+      { "label": "the first/last/only + to have done", "text": "po tych wyrażeniach perfect infinitive podkreśla, że czynność jest już zakończona: She was the first woman to have climbed the peak solo" }
+    ],
+    "usage": [
+      "Wyrażenie satysfakcji lub ulgi z powodu czegoś, co już się dokonało: I'm delighted to have been part of this project.",
+      "Formalne przeprosiny za coś z przeszłości: We are sorry to have kept you waiting so long.",
+      "Podkreślenie szczęścia/pecha w odniesieniu do wcześniejszego zdarzenia: He was lucky to have survived the crash.",
+      "Osiągnięcie jako fakt dokonany po superlatywach i the only: She's the only student to have won the award twice."
+    ],
+    "tags": ["glad to have met", "sorry to have kept", "lucky to have survived", "the first to have won"],
+    "examples": [
+      { "en": "I'm glad to have finally met you in person.", "pl": "Cieszę się, że w końcu poznałem cię osobiście." },
+      { "en": "We're sorry to have caused you so much trouble.", "pl": "Przepraszamy, że sprawiliśmy tyle kłopotu." },
+      { "en": "He was lucky to have escaped without any injuries.", "pl": "Miał szczęście, że uszedł bez żadnych obrażeń." },
+      { "en": "She was the first athlete to have won gold at three consecutive Olympics.", "pl": "Była pierwszą sportowczynią, która zdobyła złoto na trzech kolejnych igrzyskach." }
+    ]
+  },
+  {
+    "id": "unfulfilled_expectations",
+    "order": 3,
+    "nameEn": "hope / expect / intend / mean + perfect infinitive — unfulfilled plans",
+    "namePl": "hope / expect / intend / mean + bezokolicznik dokonany — niespełnione plany",
+    "rules": [
+      { "label": "Budowa", "text": "hoped/expected/intended/meant/planned + to have + imiesłów bierny — czasownik w Past Simple + perfect infinitive" },
+      { "label": "Znaczenie", "text": "opisuje coś, co ktoś miał nadzieję/zamiar zrobić, ale się to NIE wydarzyło — sam czasownik już sugeruje niepowodzenie, perfect infinitive je dodatkowo podkreśla" },
+      { "label": "Wariant standardowy", "text": "ten sam sens można wyrazić przez Past Perfect + prosty bezokolicznik: I had hoped to finish = I hoped to have finished — obie formy są powszechnie akceptowane, choć część gramatyków uznaje 'had hoped to finish' za nieco bardziej staranną" },
+      { "label": "Nie mylić z realizacją planu", "text": "I hoped to finish the book (bez informacji, czy się udało) różni się od I hoped to have finished the book (by now) — silniej sugeruje, że termin minął, a plan zawiódł" }
+    ],
+    "usage": [
+      "Niespełniona nadzieja z podkreśleniem, że coś miało się już wydarzyć: I had hoped to have finished by five, but the meeting overran.",
+      "Zamiar, który nie doszedł do skutku: We had intended to have left before the storm hit.",
+      "Formalne, nieco książkowe wyrażenie zawiedzionego planu: The committee had meant to have reached a decision by now.",
+      "Oczekiwanie, które się nie spełniło: I had expected to have received a reply by this stage."
+    ],
+    "tags": ["hoped to have finished", "intended to have left", "meant to have called", "expected to have heard"],
+    "examples": [
+      { "en": "I had hoped to have finished the painting before the exhibition opened.", "pl": "Miałem nadzieję, że skończę obraz przed otwarciem wystawy." },
+      { "en": "We had intended to have left the city before rush hour, but we got stuck in a meeting.", "pl": "Zamierzaliśmy wyjechać z miasta przed godziną szczytu, ale utknęliśmy na spotkaniu." },
+      { "en": "She had meant to have called her grandmother that day, but it slipped her mind.", "pl": "Zamierzała zadzwonić do babci tego dnia, ale wyleciało jej to z głowy." },
+      { "en": "They had expected to have received the results by now.", "pl": "Spodziewali się, że do tej pory otrzymają wyniki." }
+    ]
+  },
+  {
+    "id": "perfect_gerund",
+    "order": 4,
+    "nameEn": "having done — perfect gerund",
+    "namePl": "having done — gerund dokonany",
+    "rules": [
+      { "label": "Budowa", "text": "having + imiesłów bierny (past participle) — gerund w formie dokonanej, odpowiednik Present/Past Perfect w formie -ing" },
+      { "label": "Znaczenie", "text": "podkreśla, że czynność w gerundzie zdarzyła się PRZED inną czynnością — używany, gdy sama kolejność nie jest oczywista z kontekstu i warto ją jasno zaznaczyć" },
+      { "label": "Po przyimkach", "text": "despite/in spite of/after/without + having done — Despite having studied all night, he failed the test. / She left without having said goodbye" },
+      { "label": "Po czasownikach z gerundem", "text": "deny/admit/regret/risk + having done — dla podkreślenia, że mówimy o czymś zakończonym w przeszłości: He denied having taken the money" },
+      { "label": "Kontrast z prostym gerundem", "text": "prosty gerund (doing) zwykle wystarcza, gdy kolejność wynika z kontekstu (He admitted stealing the money); perfect gerund (having done) jest opcjonalny, ale bardziej precyzyjny lub formalny — obie formy są poprawne" }
+    ],
+    "usage": [
+      "Formalne podkreślenie zakończonej czynności po przyimku: After having reviewed all the evidence, the jury reached a verdict.",
+      "Brak wykonanej czynności przed inną: He walked out without having paid the bill.",
+      "Ustępstwo z naciskiem na wcześniejszy wysiłek: Despite having worked there for ten years, she was never promoted.",
+      "Formalne wyznanie lub zaprzeczenie czemuś zakończonemu: The company admitted having breached the regulations."
+    ],
+    "tags": ["despite having studied", "without having said", "denied having taken", "after having reviewed"],
+    "examples": [
+      { "en": "Despite having prepared thoroughly, she still felt nervous before the interview.", "pl": "Mimo że dokładnie się przygotowała, wciąż czuła się zdenerwowana przed rozmową." },
+      { "en": "He left the building without having switched off the lights.", "pl": "Wyszedł z budynku, nie wyłączywszy świateł." },
+      { "en": "The company admitted having breached several safety regulations.", "pl": "Firma przyznała, że naruszyła kilka przepisów bezpieczeństwa." },
+      { "en": "After having lived abroad for a decade, he found it hard to readjust.", "pl": "Po dziesięciu latach życia za granicą trudno było mu się ponownie przystosować." }
+    ]
+  }
+]
