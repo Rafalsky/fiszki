@@ -1,0 +1,98 @@
+[
+  {
+    "id": "people_groups",
+    "order": 1,
+    "nameEn": "the + adjective for groups of people",
+    "namePl": "the + przymiotnik dla grup ludzi",
+    "rules": [
+      { "label": "Budowa", "text": "the + przymiotnik (bez rzeczownika) oznacza całą grupę ludzi posiadających daną cechę: the poor = ludzie biedni, the elderly = ludzie starsi, the unemployed = bezrobotni." },
+      { "label": "Liczba mnoga w znaczeniu", "text": "Takie wyrażenie ma znaczenie mnogie i łączy się z czasownikiem w liczbie mnogiej, mimo że nie ma końcówki -s: The poor ARE often ignored by politicians. (nie: is)" },
+      { "label": "Brak -s i brak a/an", "text": "Nigdy nie dodajemy końcówki -s do przymiotnika (the poors) ani nie używamy z a/an w znaczeniu ogólnym (a poor); the jest tu obowiązkowe." },
+      { "label": "Typowe przymiotniki", "text": "the rich, the poor, the homeless, the unemployed, the elderly, the disabled, the blind, the deaf, the dead, the injured, the wounded, the sick, the mentally ill, the young, the old" }
+    ],
+    "usage": [
+      "Mówienie ogólnie o kategorii społecznej lub grupie ludzi o wspólnej cesze, bez wskazywania konkretnych osób (The government promised to help the homeless.)",
+      "W stylu formalnym, publicystycznym i akademickim przy omawianiu polityki społecznej, zdrowia czy demografii",
+      "Kontrast z konkretną osobą, którą opisujemy zwykłym przymiotnikiem + rzeczownikiem (an elderly woman, a disabled man) — the + przymiotnik dotyczy zawsze całej grupy, nigdy jednej osoby"
+    ],
+    "tags": ["the poor", "the elderly", "the unemployed", "the homeless", "the disabled"],
+    "examples": [
+      { "en": "The government introduced new benefits for the unemployed.", "pl": "Rząd wprowadził nowe świadczenia dla bezrobotnych." },
+      { "en": "The elderly often feel isolated during the winter months.", "pl": "Osoby starsze często czują się osamotnione zimą." },
+      { "en": "The hospital was built to treat the sick and the injured.", "pl": "Szpital zbudowano, by leczyć chorych i rannych." },
+      { "en": "Charities collect food and clothes for the homeless.", "pl": "Organizacje charytatywne zbierają jedzenie i ubrania dla bezdomnych." }
+    ]
+  },
+  {
+    "id": "nationality_groups",
+    "order": 2,
+    "nameEn": "the + nationality adjective (collective plural)",
+    "namePl": "the + przymiotnik narodowości (cały naród)",
+    "rules": [
+      { "label": "Budowa", "text": "Przymiotniki narodowości kończące się na -ch, -sh, -ese lub -ss, użyte po the, oznaczają cały naród jako grupę: the French, the English, the Chinese, the Swiss, the Dutch, the Spanish, the Welsh, the Irish, the Japanese." },
+      { "label": "Zawsze liczba mnoga", "text": "Te formy mają zawsze znaczenie mnogie i łączą się z czasownikiem w liczbie mnogiej: The French ARE famous for their cuisine. Nie istnieje forma pojedyncza 'a French' — jedną osobę określamy jako a French man/woman lub a Frenchman." },
+      { "label": "Kontrast z narodowościami na -an / -i", "text": "Narodowości kończące się na -an, -i lub -ese-podobne z regularną liczbą mnogą (Pole, American, Italian, Israeli) tworzą zwykłe rzeczowniki policzalne z końcówką -s: Poles, Americans, Italians — bez the w znaczeniu ogólnym." },
+      { "label": "Pisownia", "text": "Przymiotnik narodowości zawsze piszemy wielką literą, niezależnie od pozycji w zdaniu: the Dutch, the Chinese." }
+    ],
+    "usage": [
+      "Mówienie ogólnie o całym narodzie lub jego mieszkańcach jako grupie (The Swiss are known for their punctuality.)",
+      "W tekstach historycznych, kulturowych i publicystycznych przy porównywaniu narodów",
+      "Rozróżnienie między całym narodem (the Chinese) a pojedynczą osobą tej narodowości (a Chinese man / a Chinese woman / a Chinese person)"
+    ],
+    "tags": ["the French", "the English", "the Chinese", "the Swiss", "the Dutch"],
+    "examples": [
+      { "en": "The French take great pride in their culinary traditions.", "pl": "Francuzi są bardzo dumni ze swoich tradycji kulinarnych." },
+      { "en": "The Dutch are famous for their cycling culture.", "pl": "Holendrzy są znani ze swojej kultury rowerowej." },
+      { "en": "Historically, the English and the Welsh have shared a long, complicated relationship.", "pl": "Historycznie Anglicy i Walijczycy mieli długą, skomplikowaną relację." },
+      { "en": "Unlike the Chinese, the Japanese use a different writing system for native words.", "pl": "W przeciwieństwie do Chińczyków, Japończycy używają innego systemu pisma dla rodzimych słów." }
+    ]
+  },
+  {
+    "id": "abstract_qualities",
+    "order": 3,
+    "nameEn": "the + adjective for abstract qualities",
+    "namePl": "the + przymiotnik dla pojęć abstrakcyjnych",
+    "rules": [
+      { "label": "Budowa", "text": "the + przymiotnik może też oznaczać abstrakcyjne pojęcie lub kategorię zjawisk, a nie grupę ludzi: the unknown = to, co nieznane; the impossible = to, co niemożliwe; the supernatural = zjawiska nadprzyrodzone." },
+      { "label": "Liczba pojedyncza", "text": "W przeciwieństwie do 'the + przymiotnik' dla ludzi, ta konstrukcja ma znaczenie pojedyncze (niepoliczalne) i łączy się z czasownikiem w liczbie pojedynczej: The unknown always fascinates people. (nie: fascinate)" },
+      { "label": "Typowe przymiotniki", "text": "the unknown, the impossible, the supernatural, the absurd, the mundane, the sublime, the unexpected, the inevitable, the surreal, the unthinkable, the ridiculous" },
+      { "label": "Rejestr", "text": "Konstrukcja typowa dla stylu literackiego, filozoficznego i eseistycznego — pozwala mówić o abstrakcyjnych ideach bez podawania konkretnego rzeczownika." }
+    ],
+    "usage": [
+      "Nazywanie ogólnej kategorii zjawisk lub idei bez wskazywania konkretnego przykładu (Some people are drawn to the supernatural.)",
+      "W esejach, recenzjach i tekstach filozoficznych do skondensowanego wyrażenia abstrakcyjnej myśli",
+      "Po czasownikach takich jak face, accept, embrace, fear, explore + the + przymiotnik (face the unknown, accept the inevitable)"
+    ],
+    "tags": ["the unknown", "the impossible", "the supernatural", "the absurd", "the inevitable"],
+    "examples": [
+      { "en": "Explorers are drawn to the unknown.", "pl": "Odkrywców przyciąga to, co nieznane." },
+      { "en": "Sometimes engineers achieve the impossible.", "pl": "Czasem inżynierowie osiągają to, co niemożliwe." },
+      { "en": "Her novels often blend the ordinary with the supernatural.", "pl": "Jej powieści często łączą to, co zwyczajne, z tym, co nadprzyrodzone." },
+      { "en": "At some point, we all have to accept the inevitable.", "pl": "W pewnym momencie wszyscy musimy pogodzić się z tym, co nieuniknione." }
+    ]
+  },
+  {
+    "id": "group_vs_individual",
+    "order": 4,
+    "nameEn": "the + adjective (group) vs a/an + adjective + noun (individual)",
+    "namePl": "Kontrast: the + przymiotnik (grupa) a a/an + przymiotnik + rzeczownik (jedna osoba)",
+    "rules": [
+      { "label": "Grupa jako całość", "text": "the + przymiotnik (bez rzeczownika) opisuje CAŁĄ grupę ludzi o danej cesze: The blind rely on other senses. (osoby niewidome jako grupa)" },
+      { "label": "Jedna konkretna osoba", "text": "Żeby mówić o JEDNEJ osobie, musimy użyć zwykłego przymiotnika + rzeczownika (a/an + przymiotnik + person/man/woman/child): A blind man crossed the street. (nie: A blind crossed the street.)" },
+      { "label": "Typowy błąd", "text": "'the poor' NIGDY nie oznacza jednej biednej osoby — do pojedynczej osoby zawsze potrzebny jest rzeczownik: a poor man/woman/person, nie 'a poor'." },
+      { "label": "Liczba mnoga zwykłych osób", "text": "Kiedy mówimy o kilku (ale nie wszystkich) konkretnych osobach, również potrzebujemy rzeczownika: several disabled people, some elderly residents — nie: several disabled, some elderly." }
+    ],
+    "usage": [
+      "Rozróżnienie ogólnego stwierdzenia o całej kategorii (The disabled deserve equal access.) od zdania o konkretnej osobie (A disabled man asked for help.)",
+      "Unikanie typowego błędu uczniów: dodawania rzeczownika po 'the + przymiotnik' w znaczeniu ogólnym (the poor people jest rzadziej naturalne niż samo the poor, choć nie jest błędem gramatycznym)",
+      "Precyzyjne opisywanie liczby osób, których dotyczy zdanie — cała grupa vs konkretna liczba osób"
+    ],
+    "tags": ["the poor vs a poor man", "the blind vs a blind woman", "the elderly vs an elderly man", "the disabled vs a disabled person"],
+    "examples": [
+      { "en": "The blind often develop a heightened sense of hearing.", "pl": "Osoby niewidome często rozwijają wyostrzony słuch." },
+      { "en": "A blind man was walking his guide dog along the street.", "pl": "Niewidomy mężczyzna szedł ulicą ze swoim psem przewodnikiem." },
+      { "en": "The elderly need better access to healthcare.", "pl": "Osoby starsze potrzebują lepszego dostępu do opieki zdrowotnej." },
+      { "en": "An elderly woman was sitting alone on the bench.", "pl": "Starsza kobieta siedziała samotnie na ławce." }
+    ]
+  }
+]

@@ -747,5 +747,12 @@
     "title": "Kwantyfikatory ruchome",
     "desc": "Kwantyfikatory ruchome all, both i each: przesuwanie poza grupę rzeczownikową, pozycja względem czasowników posiłkowych, modalnych i be — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 32
+  },
+  {
+    "id": "nominal_adjectives",
+    "icon": "🧓",
+    "title": "Przymiotniki jako rzeczowniki",
+    "desc": "the + przymiotnik (the poor, the elderly, the unemployed, the French, the impossible) — przymiotniki oznaczające grupy ludzi, narody i pojęcia abstrakcyjne, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
