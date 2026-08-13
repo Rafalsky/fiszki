@@ -1,0 +1,102 @@
+[
+  {
+    "id": "generic_the",
+    "order": 1,
+    "nameEn": "The + singular noun — a whole species or invention",
+    "namePl": "The + rzeczownik w liczbie pojedynczej — cały gatunek lub wynalazek",
+    "rules": [
+      { "label": "Budowa", "text": "the + rzeczownik policzalny w liczbie pojedynczej może oznaczać CAŁY gatunek, wynalazek lub kategorię, a nie jeden konkretny egzemplarz (The tiger is native to Asia.)" },
+      { "label": "Typowe konteksty", "text": "gatunki zwierząt i roślin w tekstach naukowych/popularnonaukowych, wynalazki i urządzenia techniczne (the wheel, the telephone, the internet)" },
+      { "label": "Instrumenty muzyczne", "text": "the + instrument po czasowniku play (play the piano, play the guitar) — nawet gdy nie mamy na myśli konkretnego instrumentu" },
+      { "label": "Dwuznaczność", "text": "ta sama fraza (the whale) może w innym kontekście oznaczać jeden konkretny egzemplarz — rozstrzyga kontekst zdania, nie forma gramatyczna" }
+    ],
+    "usage": [
+      "Definicje i uogólnienia w rejestrze formalnym/naukowym (The elephant is the largest land animal.)",
+      "Historia wynalazków i technologii (Who invented the telephone? The computer changed the way we work.)",
+      "Instrumenty muzyczne po play (She plays the violin beautifully.)",
+      "Rzadziej niż generic a/an w mowie potocznej — brzmi bardziej książkowo i encyklopedycznie"
+    ],
+    "tags": ["the tiger", "the telephone", "play the piano", "the wheel"],
+    "examples": [
+      { "en": "The tiger is one of the most endangered big cats.", "pl": "Tygrys jest jednym z najbardziej zagrożonych dużych kotów." },
+      { "en": "The telephone revolutionised communication.", "pl": "Telefon zrewolucjonizował komunikację." },
+      { "en": "He has played the piano since he was five.", "pl": "Gra na pianinie od piątego roku życia." },
+      { "en": "The computer has transformed almost every industry.", "pl": "Komputer zmienił niemal każdą branżę." }
+    ]
+  },
+  {
+    "id": "generic_a",
+    "order": 2,
+    "nameEn": "A/an + singular noun — any representative member of a class",
+    "namePl": "A/an + rzeczownik w liczbie pojedynczej — dowolny przedstawiciel klasy",
+    "rules": [
+      { "label": "Budowa", "text": "a/an + rzeczownik policzalny w liczbie pojedynczej może oznaczać 'weź dowolny jeden przykład tej kategorii, i to o nim jest prawda' (A tiger is a dangerous animal.)" },
+      { "label": "Definicje", "text": "typowe w definicjach słownikowych i podręcznikowych: A verb is a word that describes an action." },
+      { "label": "Kontrast z generic the", "text": "a/an podkreśla pojedynczy, wymienny przedstawiciel; the + l.poj. podkreśla gatunek/kategorię jako uporządkowaną całość — bardziej formalne i naukowe" },
+      { "label": "Ograniczenie", "text": "nie używamy tej konstrukcji z rzeczownikami niepoliczalnymi ani w liczbie mnogiej — tam obowiązuje brak przedimka (zero article)" }
+    ],
+    "usage": [
+      "Definicje pojęć i terminów (A dictionary is a book that explains the meaning of words.)",
+      "Ogólne prawdy formułowane przez pojedynczy przykład (A child needs love and security to grow up happy.)",
+      "Częstsze i bardziej naturalne w mowie potocznej niż generic the + l.poj.",
+      "Nie da się użyć a/an, gdy mówimy o całym gatunku jako abstrakcyjnej całości (np. w kontekście wymierania) — tam lepiej pasuje the lub liczba mnoga"
+    ],
+    "tags": ["a tiger", "a verb is", "a dictionary", "definition"],
+    "examples": [
+      { "en": "A tiger is a dangerous wild animal.", "pl": "Tygrys jest niebezpiecznym dzikim zwierzęciem." },
+      { "en": "A verb is a word that describes an action or state.", "pl": "Czasownik to słowo opisujące czynność lub stan." },
+      { "en": "A dictionary explains the meaning of words.", "pl": "Słownik wyjaśnia znaczenie słów." },
+      { "en": "A good teacher makes lessons interesting.", "pl": "Dobry nauczyciel sprawia, że lekcje są interesujące." }
+    ]
+  },
+  {
+    "id": "generic_choice",
+    "order": 3,
+    "nameEn": "Choosing between the three generic patterns",
+    "namePl": "Wybór między trzema wzorcami rodzajowymi (the / a / brak przedimka)",
+    "rules": [
+      { "label": "Trzy wzorce", "text": "to mówić ogólnie o całej klasie rzeczy, angielski ma trzy możliwości: The tiger is... / A tiger is... / Tigers are..." },
+      { "label": "Najbardziej neutralny", "text": "liczba mnoga bez przedimka (Tigers are dangerous.) jest najczęstsza i najbardziej naturalna w mowie codziennej" },
+      { "label": "Rejestr formalny", "text": "the + l.poj. (The tiger is...) brzmi najbardziej książkowo/naukowo i jest typowe dla opisów gatunków, wynalazków i instytucji" },
+      { "label": "Definicje", "text": "a/an + l.poj. (A tiger is...) jest naturalne w definicjach i uogólnieniach opartych na jednym przykładzie, ale rzadziej w opisach całych gatunków jako grupy statystycznej" }
+    ],
+    "usage": [
+      "Gdy mówimy o gatunku zagrożonym wyginięciem lub jako grupie badanej naukowo, the + l.poj. lub liczba mnoga brzmią naturalniej niż a/an (The giant panda is endangered., nie A giant panda is endangered w tym sensie)",
+      "Gdy definiujemy pojęcie przez pojedynczy przykład, naturalne jest a/an (A mammal is a warm-blooded animal.)",
+      "Liczba mnoga bez przedimka pasuje niemal wszędzie i jest najbezpieczniejszym wyborem w mowie potocznej",
+      "Nie miesza się wzorców w jednym zdaniu (np. The tiger... they are... zamiast The tiger... it is...)"
+    ],
+    "tags": ["Tigers are", "The tiger is", "A tiger is", "generic reference"],
+    "examples": [
+      { "en": "Tigers are among the most endangered big cats. (najbardziej naturalne, potoczne)", "pl": "Tygrysy są jednymi z najbardziej zagrożonych dużych kotów. (naturalne, potoczne)" },
+      { "en": "The tiger is among the most endangered big cats. (formalne, naukowe)", "pl": "Tygrys jest jednym z najbardziej zagrożonych dużych kotów. (formalne, naukowe)" },
+      { "en": "A mammal is a warm-blooded animal that feeds its young with milk. (definicja)", "pl": "Ssak to zwierzę stałocieplne, które karmi młode mlekiem. (definicja)" },
+      { "en": "Computers have changed the way we work. (neutralne, potoczne)", "pl": "Komputery zmieniły sposób, w jaki pracujemy. (neutralne, potoczne)" }
+    ]
+  },
+  {
+    "id": "institutions_zero_article",
+    "order": 4,
+    "nameEn": "Zero article with institutions — function vs building",
+    "namePl": "Brak przedimka z instytucjami — funkcja a budynek",
+    "rules": [
+      { "label": "Główna funkcja", "text": "bez przedimka, gdy mówimy o instytucji w jej typowej, głównej funkcji, niezależnie od konkretnego budynku (go to school = uczyć się, be in prison = odbywać karę, go to bed = iść spać)" },
+      { "label": "Konkretny budynek", "text": "z the, gdy mówimy o konkretnym miejscu/budynku, a nie o jego funkcji (go to the school = iść do budynku szkoły, np. po dziecko; be in the prison = przebywać w budynku więzienia, np. jako gość na wycieczce)" },
+      { "label": "Typowe rzeczowniki", "text": "school, university/college, prison/jail, hospital, church, bed, court, work — działają w tej opozycji funkcja/budynek" },
+      { "label": "BrE vs AmE", "text": "w brytyjskim angielskim hospital zwykle bez przedimka (go to hospital, be in hospital); w amerykańskim angielskim zwykle z the (go to the hospital)" }
+    ],
+    "usage": [
+      "go to bed (iść spać) vs sit on the bed (siedzieć na łóżku jako meblu)",
+      "at church (uczestniczyć w nabożeństwie) vs at the church (być przy budynku kościoła, np. na spotkaniu)",
+      "in court (jako strona/świadek w procesie) vs in the court (na sali sądowej, np. jako zwiedzający)",
+      "at university/college (jako student) vs at the university (na terenie kampusu w dowolnym celu)"
+    ],
+    "tags": ["go to school", "in prison", "go to bed", "at church", "in hospital"],
+    "examples": [
+      { "en": "My son is still at school; he won't be home until four.", "pl": "Mój syn jest jeszcze w szkole; wróci dopiero o czwartej." },
+      { "en": "I need to go to the school to pick up his forgotten bag.", "pl": "Muszę iść do szkoły odebrać jego zapomnianą torbę." },
+      { "en": "He spent five years in prison for fraud.", "pl": "Spędził pięć lat w więzieniu za oszustwo." },
+      { "en": "The journalist visited the prison to interview the governor.", "pl": "Dziennikarz odwiedził budynek więzienia, żeby przeprowadzić wywiad z naczelnikiem." }
+    ]
+  }
+]

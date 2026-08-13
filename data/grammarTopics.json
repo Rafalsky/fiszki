@@ -817,5 +817,12 @@
     "title": "Odniesienia formalne",
     "desc": "the former / the latter, respectively, the aforementioned / the said, former i latter jako przymiotniki oraz the following / as follows — formalne odsyłanie do rzeczy wymienionych wcześniej lub zapowiadanych dalej w tekście, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "generic_reference",
+    "icon": "🐯",
+    "title": "Odniesienie rodzajowe",
+    "desc": "The tiger / a tiger / tigers oraz brak przedimka z instytucjami (school, prison, hospital) — jak mówić ogólnie o całych klasach rzeczy, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
