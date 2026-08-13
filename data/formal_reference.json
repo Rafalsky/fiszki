@@ -1,0 +1,122 @@
+[
+  {
+    "id": "former_latter",
+    "order": 1,
+    "nameEn": "The former / the latter — referring back to two things already mentioned",
+    "namePl": "The former / the latter — odniesienie do dwóch wcześniej wymienionych rzeczy",
+    "rules": [
+      { "label": "Budowa", "text": "the former odnosi się do PIERWSZEJ z dwóch wcześniej wymienionych rzeczy, the latter do DRUGIEJ; używane zamiast powtarzania rzeczownika" },
+      { "label": "Liczba", "text": "gdy former/latter zastępują rzeczownik w liczbie mnogiej, czasownik występuje w liczbie mnogiej (The former are cheaper.)" },
+      { "label": "Rejestr", "text": "typowe dla formalnego, pisanego angielskiego (eseje, raporty, artykuły akademickie); w mowie potocznej zwykle zastępowane przez the first one / the second one" }
+    ],
+    "usage": [
+      "Unikanie powtórzenia dwóch rzeczowników już wymienionych w poprzednim zdaniu",
+      "the former i the latter mogą występować samodzielnie (jako zaimki) lub przed rzeczownikiem (the former option)",
+      "Kolejność w zdaniu źródłowym musi być zachowana: former = pierwszy wymieniony, latter = drugi wymieniony",
+      "Częste w porównaniach dwóch opcji, osób lub zjawisk w tekście formalnym"
+    ],
+    "tags": ["the former", "the latter", "reference"],
+    "examples": [
+      { "en": "Cats and dogs are popular pets; the former are more independent, the latter more affectionate.", "pl": "Koty i psy to popularne zwierzęta domowe; te pierwsze są bardziej niezależne, te drugie bardziej przywiązane." },
+      { "en": "I was offered a job in Paris and one in Berlin; I chose the former.", "pl": "Zaproponowano mi pracę w Paryżu i w Berlinie; wybrałem tę pierwszą." },
+      { "en": "Tom and Ann arrived late; the latter apologised, the former didn't.", "pl": "Tom i Ann przyszli późno; ta druga przeprosiła, ten pierwszy nie." },
+      { "en": "The report compares two strategies; the former is riskier than the latter.", "pl": "Raport porównuje dwie strategie; ta pierwsza jest bardziej ryzykowna niż ta druga." }
+    ]
+  },
+  {
+    "id": "respectively",
+    "order": 2,
+    "nameEn": "Respectively — matching two parallel lists item by item",
+    "namePl": "Respectively — dopasowanie dwóch równoległych list element po elemencie",
+    "rules": [
+      { "label": "Budowa", "text": "respectively stoi na końcu zdania, po dwóch (lub więcej) listach elementów wymienionych w tej samej kolejności" },
+      { "label": "Zasada kolejności", "text": "pierwszy element pierwszej listy odpowiada pierwszemu elementowi drugiej listy, drugi drugiemu, itd." },
+      { "label": "Rejestr", "text": "formalne, typowe dla raportów, statystyk i instrukcji naukowych" }
+    ],
+    "usage": [
+      "Podawanie odpowiadających sobie par danych bez powtarzania struktury zdania",
+      "Częste po czasownikach takich jak score, receive, be awarded, finish",
+      "Może łączyć więcej niż dwie pary (trzy osoby i trzy wyniki itd.)",
+      "Bez respectively zdanie byłoby niejednoznaczne co do tego, kto/co czemu odpowiada"
+    ],
+    "tags": ["respectively", "parallel lists"],
+    "examples": [
+      { "en": "Tom and Ann scored 90% and 85% respectively.", "pl": "Tom i Ann uzyskali odpowiednio 90% i 85%." },
+      { "en": "The first and second prizes went to Maria and Jan respectively.", "pl": "Pierwsza i druga nagroda trafiły odpowiednio do Marii i Jana." },
+      { "en": "France and Italy are famous for wine and pasta respectively.", "pl": "Francja i Włochy słyną odpowiednio z wina i makaronu." },
+      { "en": "The two teams finished first and third respectively.", "pl": "Obie drużyny zajęły odpowiednio pierwsze i trzecie miejsce." }
+    ]
+  },
+  {
+    "id": "aforementioned_said",
+    "order": 3,
+    "nameEn": "The aforementioned / the said — formal reference to something stated earlier",
+    "namePl": "The aforementioned / the said — formalne odniesienie do czegoś wspomnianego wcześniej",
+    "rules": [
+      { "label": "Budowa", "text": "the aforementioned / the above-mentioned + rzeczownik (lub samodzielnie) odsyła do czegoś już opisanego w tekście; the said + rzeczownik to prawniczy odpowiednik" },
+      { "label": "Kierunek", "text": "odnosi się WSTECZ, do informacji podanej wcześniej — nigdy naprzód (w przeciwieństwie do the following)" },
+      { "label": "Rejestr", "text": "bardzo formalne — dokumenty prawne, raporty urzędowe, teksty akademickie; w codziennej mowie brzmi sztywno lub żartobliwie" }
+    ],
+    "usage": [
+      "the aforementioned / the above-mentioned + rzeczownik — precyzyjne odesłanie w długim, formalnym dokumencie",
+      "the said + rzeczownik — typowe dla języka prawniczego (the said contract, the said party)",
+      "Unikanie wielokrotnego powtarzania pełnej nazwy własnej lub długiej frazy rzeczownikowej",
+      "W mniej formalnym stylu zastępowane przez this/that/the above"
+    ],
+    "tags": ["the aforementioned", "the above-mentioned", "the said"],
+    "examples": [
+      { "en": "The aforementioned contract will expire on 1 January.", "pl": "Wyżej wspomniana umowa wygaśnie 1 stycznia." },
+      { "en": "All the above-mentioned documents must be submitted by Friday.", "pl": "Wszystkie wyżej wymienione dokumenty należy złożyć do piątku." },
+      { "en": "The said company failed to deliver the goods on time.", "pl": "Wspomniana firma nie dostarczyła towaru na czas." },
+      { "en": "Please refer to the aforementioned clause for further details.", "pl": "Proszę odnieść się do wyżej wspomnianego paragrafu po dalsze szczegóły." }
+    ]
+  },
+  {
+    "id": "former_latter_adjectives",
+    "order": 4,
+    "nameEn": "Former and latter as ordinary time/order adjectives",
+    "namePl": "Former i latter jako zwykłe przymiotniki czasu i kolejności",
+    "rules": [
+      { "label": "Znaczenie", "text": "poza funkcją odsyłającą, former znaczy 'dawny/były', a latter 'końcowy/ostatni' w odniesieniu do czasu lub kolejności" },
+      { "label": "Pozycja", "text": "stoją przed rzeczownikiem, tak jak zwykłe przymiotniki (my former boss, the latter half of the film)" },
+      { "label": "Kontrast", "text": "to osobne, niestopniowalne znaczenie — nie mylić z 'later' (później), które dotyczy czasu względnego, a nie kolejności/pozycji" }
+    ],
+    "usage": [
+      "former + rzeczownik — ktoś/coś, kim/czym było się wcześniej (former president, former colleague)",
+      "latter + rzeczownik — druga, końcowa część danego okresu (the latter part of the year, in latter years)",
+      "Obie formy typowe dla stylu formalnego i pisanego, rzadziej w mowie potocznej",
+      "latter w tym znaczeniu nie tworzy pary z 'the former' — działa samodzielnie jako przymiotnik"
+    ],
+    "tags": ["former", "latter", "adjective"],
+    "examples": [
+      { "en": "She is a former teacher who now works in publishing.", "pl": "Jest byłą nauczycielką, która teraz pracuje w wydawnictwie." },
+      { "en": "In his latter years, he rarely left the house.", "pl": "W swoich ostatnich latach rzadko wychodził z domu." },
+      { "en": "The former president gave a speech at the ceremony.", "pl": "Były prezydent wygłosił przemówienie na ceremonii." },
+      { "en": "The latter half of the meeting focused on budget issues.", "pl": "Druga połowa spotkania skupiła się na kwestiach budżetowych." }
+    ]
+  },
+  {
+    "id": "the_following_as_follows",
+    "order": 5,
+    "nameEn": "The following / as follows — pointing forward to what comes next",
+    "namePl": "The following / as follows — odesłanie do tego, co następuje dalej",
+    "rules": [
+      { "label": "Kierunek", "text": "w przeciwieństwie do the aforementioned (wstecz), the following i as follows zapowiadają informację, która dopiero nastąpi" },
+      { "label": "Budowa", "text": "the following + rzeczownik (the following steps) lub samodzielnie (do the following); as follows zawsze na końcu zdania, zwykle po be, po którym następuje dwukropek i lista" },
+      { "label": "Interpunkcja", "text": "po as follows zwykle stawia się dwukropek przed wyliczeniem" }
+    ],
+    "usage": [
+      "the following + rzeczownik — zapowiedź listy, instrukcji lub dokumentu poniżej",
+      "as follows — formalne wprowadzenie listy lub wyjaśnienia po dwukropku",
+      "Częste w instrukcjach, raportach, prezentacjach i pismach formalnych",
+      "the following (bez rzeczownika) może zastępować całą wcześniej zapowiedzianą listę"
+    ],
+    "tags": ["the following", "as follows"],
+    "examples": [
+      { "en": "Please bring the following documents: a passport and two photos.", "pl": "Proszę przynieść następujące dokumenty: paszport i dwa zdjęcia." },
+      { "en": "The results were as follows: 45%, 30%, and 25%.", "pl": "Wyniki były następujące: 45%, 30% i 25%." },
+      { "en": "The procedure is as follows: first log in, then select your account.", "pl": "Procedura wygląda następująco: najpierw zaloguj się, potem wybierz konto." },
+      { "en": "The following applies to all new employees.", "pl": "Poniższe dotyczy wszystkich nowych pracowników." }
+    ]
+  }
+]
