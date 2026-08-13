@@ -1,0 +1,98 @@
+[
+  {
+    "id": "for_after_adjective",
+    "order": 1,
+    "nameEn": "for + somebody/something + to-infinitive after adjectives (extraposition)",
+    "namePl": "for + osoba/rzecz + to-bezokolicznik po przymiotnikach (extraposition)",
+    "rules": [
+      { "label": "Budowa", "text": "It + be + przymiotnik + for + rzeczownik/zaimek + to + bezokolicznik — 'for + X' wprowadza logiczny (semantyczny) podmiot czynności wyrażonej bezokolicznikiem" },
+      { "label": "Dlaczego potrzebny jest podmiot", "text": "Sam bezokolicznik nie ma własnej odmiany przez osoby, więc gdy wykonawca czynności jest inny niż podmiot całego zdania, trzeba go dopisać przez 'for': It's important for you to know the facts." },
+      { "label": "Kolejność z rzeczownikiem", "text": "Ta sama konstrukcja występuje po rzeczownikach abstrakcyjnych zamiast 'it': There's no need for anyone to worry. / It's time for the meeting to start." }
+    ],
+    "usage": [
+      "Po przymiotnikach oceniających sytuację lub czynność (nie osobę): important, necessary, essential, possible, easy, difficult, common, unusual, vital, crucial + for + X + to-inf",
+      "Gdy wykonawca czynności różni się od podmiotu głównego zdania: It would be better for her to stay at home.",
+      "W formalnych zaleceniach i instrukcjach: It is essential for all passengers to fasten their seatbelts.",
+      "Po rzeczownikach abstrakcyjnych zamiast 'it': There's no need for you to apologise. / It's time for us to leave."
+    ],
+    "tags": ["important for you to", "there's no need for", "it's time for", "essential for them to"],
+    "examples": [
+      { "en": "It's important for you to know all the facts before deciding.", "pl": "Ważne jest, żebyś znał wszystkie fakty, zanim zdecydujesz." },
+      { "en": "It would be difficult for us to finish the project by Friday.", "pl": "Trudno byłoby nam skończyć projekt do piątku." },
+      { "en": "There's no need for you to apologise — it wasn't your fault.", "pl": "Nie musisz przepraszać — to nie była twoja wina." },
+      { "en": "It's time for the children to go to bed.", "pl": "Czas, żeby dzieci poszły spać." }
+    ]
+  },
+  {
+    "id": "for_after_verb",
+    "order": 2,
+    "nameEn": "for + somebody/something + to-infinitive after verbs",
+    "namePl": "for + osoba/rzecz + to-bezokolicznik po czasownikach",
+    "rules": [
+      { "label": "Budowa", "text": "czasownik + for + rzeczownik/zaimek + to + bezokolicznik — czasownik sam nie łączy się bezpośrednio z bezokolicznikiem, potrzebuje 'for', by wprowadzić wykonawcę czynności" },
+      { "label": "Częste czasowniki", "text": "wait, ask, arrange, long, appeal, plan, wish, call, apply, pay, vote + for + X + to-inf" },
+      { "label": "Kontrast z bezpośrednim dopełnieniem", "text": "Czasowniki takie jak want/expect/tell łączą się z dopełnieniem BEZ 'for' (I want you to come), podczas gdy wait/arrange/ask WYMAGAJĄ 'for' (I'm waiting for you to come) — to częsty błąd uczących się" }
+    ],
+    "usage": [
+      "wait for + X + to-inf — czekać, aż ktoś/coś coś zrobi: I'm waiting for the rain to stop.",
+      "arrange/ask/call for + X + to-inf — zorganizować, poprosić, zażądać, żeby coś się stało: She arranged for a taxi to pick us up.",
+      "long/appeal/wish for + X + to-inf — pragnąć, apelować, żeby coś się stało: They are appealing for witnesses to come forward.",
+      "pay/vote for + X + to-inf — zapłacić lub zagłosować, żeby coś zostało zrobione: We voted for the plan to be approved."
+    ],
+    "tags": ["waiting for the bus to arrive", "arranged for a taxi to", "asked for the door to be", "longing for the war to end"],
+    "examples": [
+      { "en": "I'm waiting for the rain to stop before I leave.", "pl": "Czekam, aż deszcz przestanie padać, zanim wyjdę." },
+      { "en": "She arranged for a taxi to pick us up at the airport.", "pl": "Zorganizowała, żeby taksówka odebrała nas z lotniska." },
+      { "en": "He asked for the window to be closed — it was too cold.", "pl": "Poprosił, żeby zamknięto okno — było zbyt zimno." },
+      { "en": "The charity is appealing for volunteers to help with the flood relief.", "pl": "Organizacja charytatywna apeluje, żeby wolontariusze pomogli w akcji powodziowej." }
+    ]
+  },
+  {
+    "id": "for_as_subject",
+    "order": 3,
+    "nameEn": "for + somebody/something + to-infinitive as the subject of a sentence",
+    "namePl": "for + osoba/rzecz + to-bezokolicznik jako podmiot zdania",
+    "rules": [
+      { "label": "Budowa", "text": "For + rzeczownik/zaimek + to + bezokolicznik na początku zdania pełni funkcję podmiotu, po którym następuje orzeczenie zdania głównego: For prices to fall, demand must drop." },
+      { "label": "Styl formalny i rzadszy niż extraposition", "text": "Ta forma jest bardziej formalna i pisemna; w mowie potocznej częściej używa się extraposition z 'it': For him to admit his mistake would be unusual. ≈ It would be unusual for him to admit his mistake." },
+      { "label": "Bez powtórzenia 'it'", "text": "Gdy zdanie zaczyna się od 'For + X + to-inf', nie dodajemy już 'it' jako podmiotu — cała fraza 'for...to' JEST podmiotem" }
+    ],
+    "usage": [
+      "Warunek konieczny do osiągnięcia czegoś: For prices to fall, demand must drop first.",
+      "Ocena czegoś jako mało prawdopodobnego lub zaskakującego: For a stranger to say that seemed odd.",
+      "Formalne cele i zamierzenia na początku zdania: For the plan to succeed, everyone must cooperate.",
+      "Częste w stylu akademickim i publicystycznym zamiast bardziej potocznego 'it'-extraposition"
+    ],
+    "tags": ["For prices to fall,", "For him to admit that", "For the plan to succeed,", "For a stranger to say"],
+    "examples": [
+      { "en": "For prices to fall, demand must drop significantly.", "pl": "Żeby ceny spadły, popyt musi znacznie się zmniejszyć." },
+      { "en": "For him to admit his mistake would be completely out of character.", "pl": "To, żeby przyznał się do błędu, byłoby zupełnie niepodobne do niego." },
+      { "en": "For the plan to succeed, everyone needs to cooperate fully.", "pl": "Żeby plan się powiódł, wszyscy muszą w pełni współpracować." },
+      { "en": "For a complete stranger to say something so personal seemed odd.", "pl": "To, że zupełnie obcy człowiek powiedział coś tak osobistego, wydawało się dziwne." }
+    ]
+  },
+  {
+    "id": "for_vs_of",
+    "order": 4,
+    "nameEn": "for vs of before the semantic subject of an infinitive",
+    "namePl": "for a of przed logicznym podmiotem bezokolicznika",
+    "rules": [
+      { "label": "for + przymiotnik oceniający sytuację/czynność", "text": "Gdy przymiotnik ocenia samą czynność lub sytuację (nie cechę osoby), używamy 'for': It's important/necessary/essential/possible/easy for you to help." },
+      { "label": "of + przymiotnik oceniający osobę", "text": "Gdy przymiotnik opisuje cechę CHARAKTERU lub zachowania osoby wykonującej czynność, używamy 'of': It was kind/nice/generous/silly/stupid/rude of you to help." },
+      { "label": "Test praktyczny", "text": "Jeśli przymiotnik można sensownie powiedzieć wprost o osobie (You are kind/silly), używamy 'of'; jeśli nie można (nie mówimy 'You are important'), używamy 'for'" }
+    ],
+    "usage": [
+      "for: important, necessary, essential, vital, possible, impossible, easy, difficult, hard, common, unusual, dangerous + for + X + to-inf",
+      "of: kind, nice, generous, thoughtful, polite, rude, silly, stupid, foolish, clever, brave, selfish + of + X + to-inf",
+      "Porównanie znaczenia: 'It's necessary for you to leave' (ocena sytuacji) vs 'It's kind of you to help' (ocena cechy osoby)",
+      "Błąd typowy dla uczących się: mieszanie 'for' i 'of' — sprawdzaj, czy przymiotnik ocenia CZYNNOŚĆ czy CHARAKTER osoby"
+    ],
+    "tags": ["kind of you to", "necessary for you to", "stupid of him to", "possible for us to"],
+    "examples": [
+      { "en": "It was very kind of you to help me carry the boxes.", "pl": "Było z twojej strony bardzo miło, że pomogłeś mi nosić pudła." },
+      { "en": "It's necessary for all applicants to submit the form by Friday.", "pl": "Konieczne jest, żeby wszyscy kandydaci złożyli formularz do piątku." },
+      { "en": "It was stupid of him to leave his phone on the train.", "pl": "Głupio zrobił, zostawiając telefon w pociągu." },
+      { "en": "It's not always easy for beginners to understand this rule.", "pl": "Nie zawsze łatwo jest początkującym zrozumieć tę zasadę." }
+    ]
+  }
+]
