@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "whether_or_basic",
+    "prompt": "___ you agree or not, the decision has been made.",
+    "answer": "Whether",
+    "distractors": ["If", "Even if", "Unless"]
+  },
+  {
+    "id": 2,
+    "itemId": "whether_or_basic",
+    "prompt": "___ it rains or shines, the match will go ahead.",
+    "answer": "Whether",
+    "distractors": ["If", "Although", "Unless"]
+  },
+  {
+    "id": 3,
+    "itemId": "whether_or_basic",
+    "prompt": "___ she wins or loses, she'll have given her best.",
+    "answer": "Whether",
+    "distractors": ["If", "Even though", "Unless"]
+  },
+  {
+    "id": 4,
+    "itemId": "whether_or_basic",
+    "prompt": "___ we like it or not, prices are going to rise.",
+    "answer": "Whether",
+    "distractors": ["If", "Even if", "Because"]
+  },
+  {
+    "id": 5,
+    "itemId": "whether_or_basic",
+    "prompt": "Whether you like it ___ not, you have to attend the meeting.",
+    "answer": "or",
+    "distractors": ["nor", "and", "but"]
+  },
+  {
+    "id": 6,
+    "itemId": "whether_or_basic",
+    "prompt": "Whether he apologises ___ stays silent, I've already forgiven him.",
+    "answer": "or",
+    "distractors": ["nor", "and", "but"]
+  },
+  {
+    "id": 7,
+    "itemId": "whether_or_basic",
+    "prompt": "Whether the plan succeeds ___ fails, we'll have learned something.",
+    "answer": "or",
+    "distractors": ["nor", "and", "but"]
+  },
+  {
+    "id": 8,
+    "itemId": "whether_or_basic",
+    "prompt": "Whether you vote for it ___ against it, the law will pass anyway.",
+    "answer": "or",
+    "distractors": ["nor", "and", "but"]
+  },
+  {
+    "id": 9,
+    "itemId": "whether_or_basic",
+    "prompt": "___ you call or text me, just let me know you arrived safely.",
+    "answer": "Whether",
+    "distractors": ["If", "Unless", "Because"]
+  },
+  {
+    "id": 10,
+    "itemId": "whether_or_basic",
+    "prompt": "Whether you're ready ___ not, the train leaves in five minutes.",
+    "answer": "or",
+    "distractors": ["nor", "and", "yet"]
+  },
+  {
+    "id": 11,
+    "itemId": "whether_or_ellipsis",
+    "prompt": "___ right or wrong, she always defends her team.",
+    "answer": "Whether",
+    "distractors": ["If", "Even", "Though"]
+  },
+  {
+    "id": 12,
+    "itemId": "whether_or_ellipsis",
+    "prompt": "Whether by accident or ___, the two events coincided.",
+    "answer": "design",
+    "distractors": ["designed", "designing", "designs"]
+  },
+  {
+    "id": 13,
+    "itemId": "whether_or_ellipsis",
+    "prompt": "Whether awake or ___, he keeps mumbling numbers.",
+    "answer": "asleep",
+    "distractors": ["awoken", "sleepless", "slept"]
+  },
+  {
+    "id": 14,
+    "itemId": "whether_or_ellipsis",
+    "prompt": "Whether at work or at ___, she never stops worrying about the project.",
+    "answer": "home",
+    "distractors": ["house", "working", "job"]
+  },
+  {
+    "id": 15,
+    "itemId": "whether_or_ellipsis",
+    "prompt": "Whether guilty or ___, he deserves a fair trial.",
+    "answer": "innocent",
+    "distractors": ["blameless", "guiltless", "suspect"]
+  },
+  {
+    "id": 16,
+    "itemId": "whether_or_ellipsis",
+    "prompt": "Whether intentional or ___, the remark caused real offence.",
+    "answer": "not",
+    "distractors": ["none", "never", "no"]
+  },
+  {
+    "id": 17,
+    "itemId": "whether_or_ellipsis",
+    "prompt": "Whether in public or in ___, he always speaks his mind.",
+    "answer": "private",
+    "distractors": ["secret", "personal", "hidden"]
+  },
+  {
+    "id": 18,
+    "itemId": "whether_or_ellipsis",
+    "prompt": "Whether out of curiosity or out of ___, she kept asking questions.",
+    "answer": "concern",
+    "distractors": ["worry", "caring", "careful"]
+  },
+  {
+    "id": 19,
+    "itemId": "whether_or_ellipsis",
+    "prompt": "___ rich or poor, everyone deserves respect.",
+    "answer": "Whether",
+    "distractors": ["If", "Even", "Since"]
+  },
+  {
+    "id": 20,
+    "itemId": "whether_or_ellipsis",
+    "prompt": "Whether spoken or ___, a promise is a promise.",
+    "answer": "written",
+    "distractors": ["writing", "wrote", "write"]
+  },
+  {
+    "id": 21,
+    "itemId": "whether_or_vs_if",
+    "prompt": "___ it rains or not, we're going hiking.",
+    "answer": "Whether",
+    "distractors": ["If", "Even", "Unless"]
+  },
+  {
+    "id": 22,
+    "itemId": "whether_or_vs_if",
+    "prompt": "___ it rains, we'll cancel the hike.",
+    "answer": "If",
+    "distractors": ["Whether", "Unless", "Even if"]
+  },
+  {
+    "id": 23,
+    "itemId": "whether_or_vs_if",
+    "prompt": "___ you call or email, let me know by Friday.",
+    "answer": "Whether",
+    "distractors": ["If", "Unless", "Because"]
+  },
+  {
+    "id": 24,
+    "itemId": "whether_or_vs_if",
+    "prompt": "___ you agree with me, we can start today.",
+    "answer": "If",
+    "distractors": ["Whether", "Unless", "Although"]
+  },
+  {
+    "id": 25,
+    "itemId": "whether_or_vs_if",
+    "prompt": "___ the train is late or on time, I always leave early just in case.",
+    "answer": "Whether",
+    "distractors": ["If", "Unless", "Because"]
+  },
+  {
+    "id": 26,
+    "itemId": "whether_or_vs_if",
+    "prompt": "___ the train is late, I'll miss my connection.",
+    "answer": "If",
+    "distractors": ["Whether", "Unless", "Though"]
+  },
+  {
+    "id": 27,
+    "itemId": "whether_or_vs_if",
+    "prompt": "___ you're right or wrong, apologise and move on.",
+    "answer": "Whether",
+    "distractors": ["If", "Unless", "Because"]
+  },
+  {
+    "id": 28,
+    "itemId": "whether_or_vs_if",
+    "prompt": "___ you pass the exam, you'll get a certificate.",
+    "answer": "If",
+    "distractors": ["Whether", "Unless", "Even"]
+  },
+  {
+    "id": 29,
+    "itemId": "whether_or_vs_if",
+    "prompt": "___ she smiles or frowns, her opinion never changes.",
+    "answer": "Whether",
+    "distractors": ["If", "Unless", "Because"]
+  },
+  {
+    "id": 30,
+    "itemId": "whether_or_vs_if",
+    "prompt": "___ you study hard, you will improve your English.",
+    "answer": "If",
+    "distractors": ["Whether", "Unless", "Although"]
+  },
+  {
+    "id": 31,
+    "itemId": "whether_or_not_adverbial",
+    "prompt": "I will attend the meeting, whether ___ not it rains.",
+    "answer": "or",
+    "distractors": ["and", "nor", "but"]
+  },
+  {
+    "id": 32,
+    "itemId": "whether_or_not_adverbial",
+    "prompt": "Whether or ___, you agree, the policy takes effect on Monday.",
+    "answer": "not",
+    "distractors": ["never", "no", "none"]
+  },
+  {
+    "id": 33,
+    "itemId": "whether_or_not_adverbial",
+    "prompt": "We still have to decide whether or not ___ accept the offer.",
+    "answer": "to",
+    "distractors": ["for", "that", "of"]
+  },
+  {
+    "id": 34,
+    "itemId": "whether_or_not_adverbial",
+    "prompt": "The fee is charged whether or not the service is ___.",
+    "answer": "used",
+    "distractors": ["using", "use", "uses"]
+  },
+  {
+    "id": 35,
+    "itemId": "whether_or_not_adverbial",
+    "prompt": "The event will take place, whether or not the weather ___.",
+    "answer": "improves",
+    "distractors": ["improving", "improve", "improved"]
+  },
+  {
+    "id": 36,
+    "itemId": "whether_or_not_adverbial",
+    "prompt": "Whether or not you're interested, I think you should know the ___.",
+    "answer": "facts",
+    "distractors": ["fact", "facted", "facting"]
+  },
+  {
+    "id": 37,
+    "itemId": "whether_or_not_adverbial",
+    "prompt": "She hasn't decided whether or not ___ move abroad.",
+    "answer": "to",
+    "distractors": ["for", "that", "of"]
+  },
+  {
+    "id": 38,
+    "itemId": "whether_or_not_adverbial",
+    "prompt": "Membership fees apply whether or not you ___ the facilities.",
+    "answer": "use",
+    "distractors": ["used", "using", "uses"]
+  },
+  {
+    "id": 39,
+    "itemId": "whether_or_not_adverbial",
+    "prompt": "Whether or not it's ___, we need to talk now.",
+    "answer": "convenient",
+    "distractors": ["convenience", "conveniently", "convenience of"]
+  },
+  {
+    "id": 40,
+    "itemId": "whether_or_not_adverbial",
+    "prompt": "He'll get paid whether or not he ___ up for work.",
+    "answer": "shows",
+    "distractors": ["show", "showing", "shown"]
+  }
+]
