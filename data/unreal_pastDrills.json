@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "its_time",
+    "prompt": "It's time you ___ to bed — it's midnight already.",
+    "answer": "went",
+    "distractors": ["go", "have gone", "will go"]
+  },
+  {
+    "id": 2,
+    "itemId": "its_time",
+    "prompt": "It's high time we ___, or we'll miss the train.",
+    "answer": "left",
+    "distractors": ["leave", "have left", "will leave"]
+  },
+  {
+    "id": 3,
+    "itemId": "its_time",
+    "prompt": "It's about time you ___ to her for what you said.",
+    "answer": "apologized",
+    "distractors": ["apologize", "have apologized", "will apologize"]
+  },
+  {
+    "id": 4,
+    "itemId": "its_time",
+    "prompt": "Isn't it time you ___ a proper job?",
+    "answer": "got",
+    "distractors": ["get", "have got", "will get"]
+  },
+  {
+    "id": 5,
+    "itemId": "its_time",
+    "prompt": "It's high time the government ___ something about the traffic.",
+    "answer": "did",
+    "distractors": ["does", "has done", "will do"]
+  },
+  {
+    "id": 6,
+    "itemId": "its_time",
+    "prompt": "It's time you ___ up and took responsibility.",
+    "answer": "grew",
+    "distractors": ["grow", "have grown", "will grow"]
+  },
+  {
+    "id": 7,
+    "itemId": "its_time",
+    "prompt": "It's about time this house ___ a good clean.",
+    "answer": "had",
+    "distractors": ["has", "have had", "will have"]
+  },
+  {
+    "id": 8,
+    "itemId": "its_time",
+    "prompt": "It's high time you ___ your homework instead of watching TV.",
+    "answer": "did",
+    "distractors": ["do", "have done", "will do"]
+  },
+  {
+    "id": 9,
+    "itemId": "its_time",
+    "prompt": "Don't you think it's time she ___ the truth?",
+    "answer": "knew",
+    "distractors": ["knows", "had known", "will know"]
+  },
+  {
+    "id": 10,
+    "itemId": "its_time",
+    "prompt": "It's time we ___ this argument once and for all.",
+    "answer": "settled",
+    "distractors": ["settle", "have settled", "will settle"]
+  },
+  {
+    "id": 11,
+    "itemId": "suppose_supposing",
+    "prompt": "Suppose you ___ your passport abroad — what would you do?",
+    "answer": "lost",
+    "distractors": ["lose", "had lost", "will lose"]
+  },
+  {
+    "id": 12,
+    "itemId": "suppose_supposing",
+    "prompt": "Supposing she ___ out the truth, how would she react?",
+    "answer": "found",
+    "distractors": ["finds", "had found", "will find"]
+  },
+  {
+    "id": 13,
+    "itemId": "suppose_supposing",
+    "prompt": "Suppose we ___ a taxi instead of walking — we're already late.",
+    "answer": "take",
+    "distractors": ["took", "had taken", "will take"]
+  },
+  {
+    "id": 14,
+    "itemId": "suppose_supposing",
+    "prompt": "Supposing it ___ tomorrow, shall we cancel the picnic?",
+    "answer": "rains",
+    "distractors": ["rained", "had rained", "would rain"]
+  },
+  {
+    "id": 15,
+    "itemId": "suppose_supposing",
+    "prompt": "Suppose you ___ the lottery — would you keep working?",
+    "answer": "won",
+    "distractors": ["win", "had won", "will win"]
+  },
+  {
+    "id": 16,
+    "itemId": "suppose_supposing",
+    "prompt": "Suppose we ___ the meeting until Friday — is everyone free then?",
+    "answer": "move",
+    "distractors": ["moved", "had moved", "will move"]
+  },
+  {
+    "id": 17,
+    "itemId": "suppose_supposing",
+    "prompt": "Supposing you ___ the wrong decision, would you admit it?",
+    "answer": "made",
+    "distractors": ["make", "had made", "will make"]
+  },
+  {
+    "id": 18,
+    "itemId": "suppose_supposing",
+    "prompt": "Suppose he ___ up late — should we start without him?",
+    "answer": "turns",
+    "distractors": ["turned", "had turned", "would turn"]
+  },
+  {
+    "id": 19,
+    "itemId": "suppose_supposing",
+    "prompt": "Supposing you ___ everything overnight — where would you start again?",
+    "answer": "lost",
+    "distractors": ["lose", "had lost", "will lose"]
+  },
+  {
+    "id": 20,
+    "itemId": "suppose_supposing",
+    "prompt": "Suppose we ___ separately and meet at the hotel later.",
+    "answer": "travel",
+    "distractors": ["travelled", "had travelled", "would travel"]
+  },
+  {
+    "id": 21,
+    "itemId": "what_if",
+    "prompt": "What if you ___ your job tomorrow — do you have any savings?",
+    "answer": "lost",
+    "distractors": ["lose", "had lost", "will lose"]
+  },
+  {
+    "id": 22,
+    "itemId": "what_if",
+    "prompt": "What if it ___ during the wedding? Have you got a plan B?",
+    "answer": "rains",
+    "distractors": ["rained", "had rained", "would rain"]
+  },
+  {
+    "id": 23,
+    "itemId": "what_if",
+    "prompt": "What if we ___ a completely different approach?",
+    "answer": "tried",
+    "distractors": ["try", "had tried", "will try"]
+  },
+  {
+    "id": 24,
+    "itemId": "what_if",
+    "prompt": "What if nobody ___ her story?",
+    "answer": "believed",
+    "distractors": ["believes", "had believed", "will believe"]
+  },
+  {
+    "id": 25,
+    "itemId": "what_if",
+    "prompt": "What if the flight ___ delayed again?",
+    "answer": "gets",
+    "distractors": ["got", "had got", "would get"]
+  },
+  {
+    "id": 26,
+    "itemId": "what_if",
+    "prompt": "What if you ___ the wrong choice — would you regret it?",
+    "answer": "made",
+    "distractors": ["make", "had made", "will make"]
+  },
+  {
+    "id": 27,
+    "itemId": "what_if",
+    "prompt": "What if he ___ up and refuses to help?",
+    "answer": "shows",
+    "distractors": ["showed", "had shown", "would show"]
+  },
+  {
+    "id": 28,
+    "itemId": "what_if",
+    "prompt": "What if we ___ everything we own in the fire?",
+    "answer": "lost",
+    "distractors": ["lose", "have lost", "will lose"]
+  },
+  {
+    "id": 29,
+    "itemId": "what_if",
+    "prompt": "What if the printer ___ working right before the deadline?",
+    "answer": "stops",
+    "distractors": ["stopped", "had stopped", "would stop"]
+  },
+  {
+    "id": 30,
+    "itemId": "what_if",
+    "prompt": "What if she ___ no when he proposes?",
+    "answer": "said",
+    "distractors": ["says", "had said", "will say"]
+  },
+  {
+    "id": 31,
+    "itemId": "imagine",
+    "prompt": "Imagine you ___ a million pounds — what would you do first?",
+    "answer": "won",
+    "distractors": ["win", "had won", "will win"]
+  },
+  {
+    "id": 32,
+    "itemId": "imagine",
+    "prompt": "Just imagine ___ without electricity for a whole month.",
+    "answer": "living",
+    "distractors": ["live", "lived", "to live"]
+  },
+  {
+    "id": 33,
+    "itemId": "imagine",
+    "prompt": "Imagine if everyone always ___ the truth.",
+    "answer": "told",
+    "distractors": ["tells", "had told", "will tell"]
+  },
+  {
+    "id": 34,
+    "itemId": "imagine",
+    "prompt": "Imagine you ___ the last person left on Earth.",
+    "answer": "were",
+    "distractors": ["are", "had been", "will be"]
+  },
+  {
+    "id": 35,
+    "itemId": "imagine",
+    "prompt": "Just imagine ___ fluent in five languages.",
+    "answer": "being",
+    "distractors": ["be", "was", "to be"]
+  },
+  {
+    "id": 36,
+    "itemId": "imagine",
+    "prompt": "Imagine you ___ up one day with no memory at all.",
+    "answer": "woke",
+    "distractors": ["wake", "had woken", "will wake"]
+  },
+  {
+    "id": 37,
+    "itemId": "imagine",
+    "prompt": "Imagine ___ in a house with no internet connection.",
+    "answer": "living",
+    "distractors": ["live", "lived", "to live"]
+  },
+  {
+    "id": 38,
+    "itemId": "imagine",
+    "prompt": "Imagine you ___ your whole life over again — what would you change?",
+    "answer": "had",
+    "distractors": ["have", "had had", "would have"]
+  },
+  {
+    "id": 39,
+    "itemId": "imagine",
+    "prompt": "Just imagine what it ___ like to travel back in time.",
+    "answer": "would be",
+    "distractors": ["is", "was", "will be"]
+  },
+  {
+    "id": 40,
+    "itemId": "imagine",
+    "prompt": "Imagine you ___ the chance to meet your hero — what would you say?",
+    "answer": "got",
+    "distractors": ["get", "had gotten", "will get"]
+  }
+]

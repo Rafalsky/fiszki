@@ -1,0 +1,96 @@
+[
+  {
+    "id": "its_time",
+    "order": 1,
+    "nameEn": "It's (high) time + Past Simple",
+    "namePl": "It's (high) time + Past Simple — najwyższy czas, żeby...",
+    "rules": [
+      { "label": "Budowa", "text": "It's (high/about) time + podmiot + Past Simple (It's time you went to bed.)" },
+      { "label": "Znaczenie mimo formy przeszłej", "text": "Choć czasownik ma formę przeszłą, chodzi o teraźniejszość lub bliską przyszłość — coś powinno się wydarzyć teraz, a najlepiej powinno było się już zdarzyć" },
+      { "label": "high / about", "text": "high time i about time wzmacniają wydźwięk — sugerują naganę lub zniecierpliwienie, że coś się jeszcze nie stało" },
+      { "label": "Bez podmiotu", "text": "It's time to leave (bezokolicznik, bez konkretnego adresata) to neutralne stwierdzenie, inne znaczeniowo niż it's time + podmiot + Past Simple, które kieruje uwagę na konkretną osobę" }
+    ],
+    "usage": [
+      "Krytyka zwłoki — sugerowanie, że coś dawno powinno się wydarzyć",
+      "Naciskanie na kogoś, żeby wreszcie coś zrobił",
+      "Formalne lub emfatyczne wyrażenie pilności danej sytuacji"
+    ],
+    "tags": ["it's time you went", "it's high time", "it's about time"],
+    "examples": [
+      { "en": "It's time you went to bed — it's already midnight.", "pl": "Czas iść spać — jest już północ." },
+      { "en": "It's high time we left, or we'll miss the train.", "pl": "Najwyższy czas, żebyśmy wyszli, bo spóźnimy się na pociąg." },
+      { "en": "It's about time you apologized to her.", "pl": "Najwyższy czas, żebyś ją przeprosił." },
+      { "en": "Isn't it time you got a proper job?", "pl": "Czy nie czas, żebyś znalazł porządną pracę?" }
+    ]
+  },
+  {
+    "id": "suppose_supposing",
+    "order": 2,
+    "nameEn": "Suppose / Supposing + Past Simple / Present Simple",
+    "namePl": "Suppose / Supposing — hipoteza i realna możliwość",
+    "rules": [
+      { "label": "Hipoteza mało prawdopodobna", "text": "Suppose/Supposing + podmiot + Past Simple (Suppose you lost your job — what would you do?)" },
+      { "label": "Realna, prawdopodobna możliwość", "text": "Suppose/Supposing + podmiot + Present Simple (Suppose we take a taxi instead.)" },
+      { "label": "Funkcja", "text": "Zastępuje 'what would happen if...?' lub 'what if...?' — wprowadza hipotezę do rozważenia lub sugestię działania" },
+      { "label": "Suppose vs Supposing", "text": "Znaczą to samo i są wymienne; suppose jest częstsze w piśmie, supposing brzmi bardziej potocznie" }
+    ],
+    "usage": [
+      "Proponowanie hipotezy, którą rozmówca ma rozważyć",
+      "Ostrzeganie przed możliwymi konsekwencjami",
+      "Sugerowanie konkretnego planu działania (z Present Simple)"
+    ],
+    "tags": ["suppose you lost", "supposing it rained", "suppose we take"],
+    "examples": [
+      { "en": "Suppose you lost your passport abroad — what would you do?", "pl": "Załóżmy, że zgubiłbyś paszport za granicą — co byś zrobił?" },
+      { "en": "Supposing she found out the truth, how would she react?", "pl": "Przypuśćmy, że dowiedziałaby się prawdy — jak by zareagowała?" },
+      { "en": "Suppose we take a taxi instead of walking — we're already late.", "pl": "Może weźmiemy taksówkę zamiast iść piechotą — już się spóźniamy." },
+      { "en": "Supposing it rains tomorrow, shall we cancel the picnic?", "pl": "Jeśli jutro będzie padać, to może odwołajmy piknik?" }
+    ]
+  },
+  {
+    "id": "what_if",
+    "order": 3,
+    "nameEn": "What if + Past Simple / Present Simple",
+    "namePl": "What if — hipotetyczne i realne pytania o konsekwencje",
+    "rules": [
+      { "label": "Hipoteza mało prawdopodobna", "text": "What if + podmiot + Past Simple (What if you lost your job tomorrow?)" },
+      { "label": "Realna, prawdopodobna sytuacja", "text": "What if + podmiot + Present Simple (What if it rains tomorrow?)" },
+      { "label": "Elipsa", "text": "Pytanie eliptyczne — pełna forma to 'What would happen if...?', ale w mowie i piśmie zwykle skracamy do samego What if...?" }
+    ],
+    "usage": [
+      "Wyrażanie obaw, niepokoju o możliwy rozwój wydarzeń",
+      "Proponowanie alternatywnego rozwiązania w formie pytania",
+      "Rozważanie konsekwencji hipotetycznej sytuacji w rozmowie lub burzy mózgów"
+    ],
+    "tags": ["what if you lost", "what if it rains", "what if we tried"],
+    "examples": [
+      { "en": "What if you lost your job tomorrow — do you have any savings?", "pl": "A co, jeśli jutro straciłbyś pracę — masz jakieś oszczędności?" },
+      { "en": "What if it rains during the wedding? Have you got a plan B?", "pl": "A co, jeśli będzie padać podczas ślubu? Masz plan B?" },
+      { "en": "What if we tried a completely different approach?", "pl": "A gdybyśmy spróbowali zupełnie innego podejścia?" },
+      { "en": "What if nobody believed her story?", "pl": "A gdyby nikt nie uwierzył w jej historię?" }
+    ]
+  },
+  {
+    "id": "imagine",
+    "order": 4,
+    "nameEn": "(Just) Imagine + Past Simple",
+    "namePl": "(Just) Imagine + Past Simple — zaproszenie do wyobrażenia sobie",
+    "rules": [
+      { "label": "Budowa", "text": "(Just) imagine + podmiot + Past Simple (Imagine you won a million pounds.)" },
+      { "label": "Wariant z gerund", "text": "Imagine + rzeczownik odczasownikowy (Imagine winning a million pounds) — bardziej ogólne, bezosobowe ujęcie tej samej hipotezy" },
+      { "label": "Znaczenie", "text": "Zaprasza rozmówcę do wyobrażenia sobie nierealnej lub mało prawdopodobnej sytuacji, zwykle z pytaniem lub konsekwencją w drugiej części wypowiedzi" }
+    ],
+    "usage": [
+      "Rozpoczynanie hipotetycznej dygresji w rozmowie",
+      "Podkreślanie skrajności lub niezwykłości danej sytuacji",
+      "Łagodne przekonywanie kogoś do zmiany punktu widzenia"
+    ],
+    "tags": ["imagine you won", "imagine living", "just imagine if"],
+    "examples": [
+      { "en": "Imagine you won a million pounds — what would you do first?", "pl": "Wyobraź sobie, że wygrałeś milion funtów — co zrobiłbyś najpierw?" },
+      { "en": "Just imagine living without electricity for a whole month.", "pl": "Wyobraź sobie życie bez prądu przez cały miesiąc." },
+      { "en": "Imagine if everyone always told the truth.", "pl": "Wyobraź sobie, gdyby wszyscy zawsze mówili prawdę." },
+      { "en": "Imagine you were the last person left on Earth.", "pl": "Wyobraź sobie, że byłbyś ostatnią osobą na Ziemi." }
+    ]
+  }
+]
