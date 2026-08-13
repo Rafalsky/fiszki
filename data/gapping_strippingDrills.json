@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "gapping_basic",
+    "prompt": "Tom studies law, ___ his sister medicine.",
+    "answer": "and",
+    "distractors": ["because", "although", "when"]
+  },
+  {
+    "id": 2,
+    "itemId": "gapping_basic",
+    "prompt": "Some like tea, ___ others coffee.",
+    "answer": "and",
+    "distractors": ["if", "since", "unless"]
+  },
+  {
+    "id": 3,
+    "itemId": "gapping_basic",
+    "prompt": "She teaches English, ___ he mathematics.",
+    "answer": "and",
+    "distractors": ["although", "because", "while"]
+  },
+  {
+    "id": 4,
+    "itemId": "gapping_basic",
+    "prompt": "We travel by car in summer, ___ by train in winter.",
+    "answer": "and",
+    "distractors": ["because", "when", "so that"]
+  },
+  {
+    "id": 5,
+    "itemId": "gapping_basic",
+    "prompt": "One team won the first half, ___ the other the second.",
+    "answer": "and",
+    "distractors": ["until", "since", "although"]
+  },
+  {
+    "id": 6,
+    "itemId": "gapping_basic",
+    "prompt": "He collects stamps, ___ his brother coins.",
+    "answer": "and",
+    "distractors": ["because", "when", "if"]
+  },
+  {
+    "id": 7,
+    "itemId": "gapping_basic",
+    "prompt": "Monday is for maths, ___ Tuesday for science.",
+    "answer": "and",
+    "distractors": ["since", "unless", "although"]
+  },
+  {
+    "id": 8,
+    "itemId": "gapping_basic",
+    "prompt": "The company raised salaries in the north, ___ bonuses in the south.",
+    "answer": "and",
+    "distractors": ["because", "when", "whereas"]
+  },
+  {
+    "id": 9,
+    "itemId": "gapping_basic",
+    "prompt": "The rich get richer, ___ the poor poorer.",
+    "answer": "but",
+    "distractors": ["because", "when", "since"]
+  },
+  {
+    "id": 10,
+    "itemId": "gapping_basic",
+    "prompt": "You can have steak, ___ I chicken.",
+    "answer": "or",
+    "distractors": ["because", "although", "until"]
+  },
+  {
+    "id": 11,
+    "itemId": "stripping",
+    "prompt": "John smokes, and Mary ___.",
+    "answer": "too",
+    "distractors": ["not", "never", "so"]
+  },
+  {
+    "id": 12,
+    "itemId": "stripping",
+    "prompt": "I like jazz, but ___ classical music.",
+    "answer": "not",
+    "distractors": ["too", "also", "never"]
+  },
+  {
+    "id": 13,
+    "itemId": "stripping",
+    "prompt": "We won the first game, and the second ___.",
+    "answer": "too",
+    "distractors": ["not", "never", "so"]
+  },
+  {
+    "id": 14,
+    "itemId": "stripping",
+    "prompt": "She trusts him, but ___ his brother.",
+    "answer": "not",
+    "distractors": ["too", "also", "so"]
+  },
+  {
+    "id": 15,
+    "itemId": "stripping",
+    "prompt": "Tom can drive a car, and his wife ___.",
+    "answer": "too",
+    "distractors": ["not", "never", "so"]
+  },
+  {
+    "id": 16,
+    "itemId": "stripping",
+    "prompt": "I enjoy hiking, but ___ my brother.",
+    "answer": "not",
+    "distractors": ["too", "also", "so"]
+  },
+  {
+    "id": 17,
+    "itemId": "stripping",
+    "prompt": "The museum is free on Mondays, and the gallery ___.",
+    "answer": "too",
+    "distractors": ["not", "never", "so"]
+  },
+  {
+    "id": 18,
+    "itemId": "stripping",
+    "prompt": "He speaks French fluently, and Spanish ___.",
+    "answer": "too",
+    "distractors": ["not", "never", "so"]
+  },
+  {
+    "id": 19,
+    "itemId": "stripping",
+    "prompt": "We invited the neighbours, but ___ their kids.",
+    "answer": "not",
+    "distractors": ["too", "also", "so"]
+  },
+  {
+    "id": 20,
+    "itemId": "stripping",
+    "prompt": "She reads novels for pleasure, and biographies ___.",
+    "answer": "too",
+    "distractors": ["not", "never", "so"]
+  },
+  {
+    "id": 21,
+    "itemId": "pseudo_gapping",
+    "prompt": "I haven't visited Rome, but I ___ Paris.",
+    "answer": "have",
+    "distractors": ["has", "do", "did"]
+  },
+  {
+    "id": 22,
+    "itemId": "pseudo_gapping",
+    "prompt": "She didn't finish the report, but he ___ the presentation.",
+    "answer": "did",
+    "distractors": ["done", "does", "has"]
+  },
+  {
+    "id": 23,
+    "itemId": "pseudo_gapping",
+    "prompt": "They won't accept cash, but they ___ cards.",
+    "answer": "will",
+    "distractors": ["would", "shall", "can't"]
+  },
+  {
+    "id": 24,
+    "itemId": "pseudo_gapping",
+    "prompt": "He can't fix the car, but he ___ the bike.",
+    "answer": "can",
+    "distractors": ["could", "will", "does"]
+  },
+  {
+    "id": 25,
+    "itemId": "pseudo_gapping",
+    "prompt": "We hadn't seen the museum, but we ___ the cathedral.",
+    "answer": "had",
+    "distractors": ["have", "did", "were"]
+  },
+  {
+    "id": 26,
+    "itemId": "pseudo_gapping",
+    "prompt": "I don't like coffee, but I ___ tea.",
+    "answer": "do",
+    "distractors": ["did", "am", "have"]
+  },
+  {
+    "id": 27,
+    "itemId": "pseudo_gapping",
+    "prompt": "She isn't studying biology, but she ___ chemistry.",
+    "answer": "is",
+    "distractors": ["was", "does", "has"]
+  },
+  {
+    "id": 28,
+    "itemId": "pseudo_gapping",
+    "prompt": "They haven't tried sushi, but they ___ pizza.",
+    "answer": "have",
+    "distractors": ["has", "had", "do"]
+  },
+  {
+    "id": 29,
+    "itemId": "pseudo_gapping",
+    "prompt": "He won't call his mother, but he ___ his father.",
+    "answer": "will",
+    "distractors": ["would", "shall", "does"]
+  },
+  {
+    "id": 30,
+    "itemId": "pseudo_gapping",
+    "prompt": "I couldn't solve the first puzzle, but I ___ the second.",
+    "answer": "could",
+    "distractors": ["can", "would", "did"]
+  },
+  {
+    "id": 31,
+    "itemId": "right_node_raising",
+    "prompt": "John washed, ___ Mary dried, the dishes.",
+    "answer": "and",
+    "distractors": ["because", "when", "although"]
+  },
+  {
+    "id": 32,
+    "itemId": "right_node_raising",
+    "prompt": "She wrote, ___ he illustrated, the book.",
+    "answer": "and",
+    "distractors": ["since", "if", "unless"]
+  },
+  {
+    "id": 33,
+    "itemId": "right_node_raising",
+    "prompt": "We ordered, ___ they paid for, the meal.",
+    "answer": "and",
+    "distractors": ["because", "while", "so that"]
+  },
+  {
+    "id": 34,
+    "itemId": "right_node_raising",
+    "prompt": "The manager praised, ___ the team appreciated, the new policy.",
+    "answer": "and",
+    "distractors": ["although", "when", "since"]
+  },
+  {
+    "id": 35,
+    "itemId": "right_node_raising",
+    "prompt": "He designed, ___ she built, the website.",
+    "answer": "and",
+    "distractors": ["because", "if", "until"]
+  },
+  {
+    "id": 36,
+    "itemId": "right_node_raising",
+    "prompt": "The critics loved, ___ the audience hated, the ending.",
+    "answer": "but",
+    "distractors": ["because", "when", "since"]
+  },
+  {
+    "id": 37,
+    "itemId": "right_node_raising",
+    "prompt": "I baked, ___ my sister decorated, the cake.",
+    "answer": "and",
+    "distractors": ["although", "unless", "while"]
+  },
+  {
+    "id": 38,
+    "itemId": "right_node_raising",
+    "prompt": "The teacher assigned, ___ the students completed, the project.",
+    "answer": "and",
+    "distractors": ["because", "when", "if"]
+  },
+  {
+    "id": 39,
+    "itemId": "right_node_raising",
+    "prompt": "The company developed, ___ its rival copied, the technology.",
+    "answer": "but",
+    "distractors": ["although", "since", "when"]
+  },
+  {
+    "id": 40,
+    "itemId": "right_node_raising",
+    "prompt": "She planted, ___ he watered, the roses.",
+    "answer": "and",
+    "distractors": ["because", "while", "although"]
+  }
+]
