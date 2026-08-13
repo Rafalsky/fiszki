@@ -740,5 +740,12 @@
     "title": "Rozdzielony bezokolicznik",
     "desc": "to + przysłówek + czasownik (to boldly go) — kiedy rozdzielenie bezokolicznika jest naturalne, skąd wziął się tradycyjny zakaz, jak unikać dwuznaczności i zachować umiar stylistyczny. Teoria, ćwiczenia z lukami i testy.",
     "drillCount": 32
+  },
+  {
+    "id": "floating_quantifiers",
+    "icon": "🛟",
+    "title": "Kwantyfikatory ruchome",
+    "desc": "Kwantyfikatory ruchome all, both i each: przesuwanie poza grupę rzeczownikową, pozycja względem czasowników posiłkowych, modalnych i be — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 32
   }
 ]
