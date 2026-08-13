@@ -754,5 +754,12 @@
     "title": "Przymiotniki jako rzeczowniki",
     "desc": "the + przymiotnik (the poor, the elderly, the unemployed, the French, the impossible) — przymiotniki oznaczające grupy ludzi, narody i pojęcia abstrakcyjne, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "rhetorical_comparison",
+    "icon": "⚔️",
+    "title": "Retoryczne struktury porównawcze",
+    "desc": "no more...than, not so much...as, let alone, nothing less than — porównania retoryczne do podkreślania kontrastu i emfazy — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
