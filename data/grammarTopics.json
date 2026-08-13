@@ -796,5 +796,12 @@
     "title": "Gapping i stripping",
     "desc": "Pomijanie powtarzającego się czasownika i całych fragmentów zdania w zdaniach współrzędnych: gapping (Tom ordered fish, and Mary chicken), stripping (Tom drinks tea, and Ann too), pseudo-gapping i right node raising — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "object_complements",
+    "icon": "🏷️",
+    "title": "Dopełnienie orzecznikowe",
+    "desc": "paint it red, elect her president, regard him as a hero — konstrukcje, w których dopełnienie łączy się z przymiotnikiem, rzeczownikiem lub frazą „as”, opisującymi jego stan lub rolę. Teoria, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
