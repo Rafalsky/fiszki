@@ -1,0 +1,104 @@
+[
+  {
+    "id": "possessive_pronoun_gerund",
+    "order": 1,
+    "nameEn": "my / your / his + -ing — possessive before a gerund",
+    "namePl": "my / your / his + -ing — zaimek dzierżawczy przed gerundem",
+    "rules": [
+      { "label": "Budowa", "text": "zaimek dzierżawczy (my, your, his, her, its, our, their) + gerund (-ing) — gerund pełni funkcję rzeczownika (podmiotu lub dopełnienia), a zaimek dzierżawczy wskazuje, KTO wykonuje tę czynność" },
+      { "label": "Jako podmiot zdania", "text": "Your leaving early upset her. — cała fraza 'your leaving' jest podmiotem, tak jak zwykły rzeczownik" },
+      { "label": "Jako dopełnienie", "text": "po czasownikach typu mind, imagine, appreciate, understand, resent, remember, forget, involve: I don't mind your asking. / Would you mind my opening the window?" },
+      { "label": "Rejestr", "text": "to forma bardziej formalna i typowa dla stylu pisanego — podkreśla samą CZYNNOŚĆ jako fakt czy zdarzenie, a nie osobę, która ją w danym momencie wykonuje" },
+      { "label": "Kontrast ze zdaniem z that", "text": "czasem możliwe jest parafrazowanie zdaniem podrzędnym: I don't mind that you ask ≈ I don't mind your asking — ale po przyimkach (np. despite, in spite of) tylko konstrukcja z gerundem jest naturalna" }
+    ],
+    "usage": [
+      "Formalne, pisemne wprowadzenie czyjejś czynności jako podmiotu zdania: Their arriving late caused a delay.",
+      "Po czasownikach wyrażających (nie)akceptację, zrozumienie lub pamięć: mind, appreciate, understand, resent, recall, forget.",
+      "Gdy chcemy podkreślić fakt lub zdarzenie jako całość, a nie skupić się na osobie wykonującej czynność.",
+      "W stylu formalnym i pisemnym; w mowie potocznej częściej używa się formy dopełnieniowej (zob. temat 'Zaimek dopełnieniowy przed gerundem')."
+    ],
+    "tags": ["your asking", "my opening", "his leaving", "her admitting"],
+    "examples": [
+      { "en": "I don't mind your asking, but I'd rather not answer right now.", "pl": "Nie mam nic przeciwko temu, że pytasz, ale wolałbym teraz nie odpowiadać." },
+      { "en": "Would you mind my opening the window? It's quite stuffy in here.", "pl": "Czy miałbyś coś przeciwko temu, żebym otworzył okno? Jest tu dość duszno." },
+      { "en": "His leaving so early upset her deeply.", "pl": "To, że wyszedł tak wcześnie, bardzo ją zdenerwowało." },
+      { "en": "I really appreciate your helping me with the move.", "pl": "Naprawdę doceniam to, że pomogłeś mi w przeprowadzce." }
+    ]
+  },
+  {
+    "id": "noun_possessive_gerund",
+    "order": 2,
+    "nameEn": "John's leaving — 's genitive before a gerund",
+    "namePl": "John's leaving — dopełniacz saksoński 's przed gerundem",
+    "rules": [
+      { "label": "Budowa", "text": "rzeczownik osobowy lub imię w dopełniaczu saksońskim ('s) + gerund — działa dokładnie tak samo jak zaimek dzierżawczy, tylko z rzeczownikiem: John's leaving, Mary's winning" },
+      { "label": "Typowe użycie", "text": "najczęściej z imionami i rzeczownikami osobowymi w stylu formalnym: I was surprised at John's leaving without saying goodbye." },
+      { "label": "Rzeczowniki nieosobowe i abstrakcyjne", "text": "rzeczowniki oznaczające rzeczy, zjawiska lub pojęcia zwykle NIE przyjmują 's przed gerundem — naturalniejsza jest zwykła forma rzeczownika + gerund (zob. temat 'Zaimek dopełnieniowy przed gerundem')" },
+      { "label": "Po przyimkach", "text": "konstrukcja jest szczególnie częsta po przyimkach in, at, of, about, despite, in view of: There's no chance of Mary's winning the election now." },
+      { "label": "Rejestr", "text": "to forma wyraźnie formalna i pisemna — w mowie potocznej rzeczownik zwykle występuje bez 's (Tom being late didn't surprise anyone)" }
+    ],
+    "usage": [
+      "Formalne komentowanie cudzej, konkretnej czynności jako faktu: I resent Sarah's being mentioned before me.",
+      "Po wyrażeniach z przyimkiem, gdy 'wykonawca' gerundu różni się od podmiotu zdania głównego: Despite the board's rejecting the plan twice, they tried again.",
+      "Głównie z rzeczownikami osobowymi (imiona, tytuły, funkcje) — rzadziej z rzeczownikami nieżywotnymi.",
+      "W stylu formalnym, akademickim i pisemnym."
+    ],
+    "tags": ["John's leaving", "Mary's winning", "Tom's being", "the chairman's supporting"],
+    "examples": [
+      { "en": "I was surprised at John's leaving without saying goodbye.", "pl": "Byłem zaskoczony tym, że John wyszedł bez pożegnania." },
+      { "en": "There's no chance of Mary's winning the race now.", "pl": "Teraz nie ma szans, żeby Mary wygrała ten wyścig." },
+      { "en": "Tom's being late again didn't surprise anyone.", "pl": "To, że Tom znów się spóźnił, nikogo nie zdziwiło." },
+      { "en": "In view of Peter's declining the invitation, we won't ask again.", "pl": "Biorąc pod uwagę to, że Peter odrzucił zaproszenie, nie zapytamy ponownie." }
+    ]
+  },
+  {
+    "id": "object_case_gerund",
+    "order": 3,
+    "nameEn": "you / me / the door + -ing — object form before a gerund",
+    "namePl": "you / me / the door + -ing — forma dopełnieniowa przed gerundem",
+    "rules": [
+      { "label": "Budowa", "text": "zaimek w formie dopełnieniowej (me, you, him, her, it, us, them) lub zwykła forma rzeczownika (bez 's) + gerund — to nieformalny, mówiony odpowiednik konstrukcji z zaimkiem dzierżawczym lub 's" },
+      { "label": "Rejestr", "text": "w mowie potocznej i stylu nieformalnym forma dopełnieniowa jest znacznie częstsza niż dzierżawcza: I don't mind you asking (mówione) obok bardziej formalnego I don't mind your asking (pisane)" },
+      { "label": "Rzeczowniki nieżywotne i zbiorowe", "text": "gdy 'wykonawcą' gerundu jest rzecz, zwierzę lub dłuższa fraza rzeczownikowa, forma dzierżawcza prawie się nie stosuje — używamy wyłącznie zwykłej formy rzeczownika: I remember the door banging shut (NIE the door's banging)" },
+      { "label": "Dłuższe frazy rzeczownikowe", "text": "gdy przed gerundem stoi rozbudowana fraza (nie pojedynczy zaimek czy imię), forma dzierżawcza brzmi nienaturalnie: I don't like the neighbours playing music so loud at night" },
+      { "label": "Kontrast z podobnymi konstrukcjami", "text": "nie mylić z czasownikami percepcji (see/hear/watch + dopełnienie + -ing), gdzie -ing opisuje czynność W TRAKCIE trwania, a nie pełni funkcji podmiotu/dopełnienia całego zdania — to osobny temat" }
+    ],
+    "usage": [
+      "Codzienna, mówiona angielszczyzna: forma dopełnieniowa zamiast dzierżawczej po czasownikach typu mind, remember, hate, understand, appreciate.",
+      "Z rzeczownikami nieżywotnymi, zbiorowymi lub rozbudowanymi frazami rzeczownikowymi — tam wyłącznie zwykła forma, nigdy dzierżawcza.",
+      "Gdy zależy nam na naturalności i lekkości wypowiedzi mówionej, a nie na formalnym stylu pisemnym."
+    ],
+    "tags": ["you asking", "the door banging", "that dog barking", "the children talking"],
+    "examples": [
+      { "en": "I don't mind you asking, but I'd rather not answer right now.", "pl": "Nie mam nic przeciwko temu, że pytasz, ale wolałbym teraz nie odpowiadać." },
+      { "en": "I remember the door banging shut in the middle of the night.", "pl": "Pamiętam, jak drzwi trzasnęły w środku nocy." },
+      { "en": "I can't stand that dog barking all night next door.", "pl": "Nie znoszę tego, jak ten pies szczeka całą noc u sąsiadów." },
+      { "en": "I don't like the neighbours playing music so loud at night.", "pl": "Nie podoba mi się, że sąsiedzi puszczają tak głośną muzykę w nocy." }
+    ]
+  },
+  {
+    "id": "fixed_expressions_gerund_subject",
+    "order": 4,
+    "nameEn": "there's no point in your / it's no use his — fixed expressions with a gerund subject",
+    "namePl": "there's no point in your / it's no use his — utrwalone zwroty z podmiotem gerundu",
+    "rules": [
+      { "label": "Ustalone konstrukcje", "text": "there's no point in, it's no use, it's no good, what's the point of, in view of, on account of, with a view to + zaimek dzierżawczy/dopełnieniowy + gerund — w stylu formalnym częściej dzierżawczy, w nieformalnym dopełnieniowy" },
+      { "label": "Imagine + gerund", "text": "po imagine dopuszczalne są obie formy, ale forma dopełnieniowa jest w praktyce dużo częstsza: Imagine my/me winning the lottery!" },
+      { "label": "Unikanie niejasności", "text": "gdy 'wykonawca' czynności w gerundzie różni się od podmiotu zdania głównego, NIE MOŻNA go pominąć — trzeba dodać zaimek dzierżawczy lub dopełnieniowy, inaczej zdanie staje się niejasne lub błędne" },
+      { "label": "Bezcelowość konkretnej osoby", "text": "it's no use / it's no good + zaimek + gerund podkreśla, że działanie KONKRETNEJ osoby jest bezcelowe: It's no use his apologising — chodzi wyraźnie o niego, nie o przeprosiny w ogóle" }
+    ],
+    "usage": [
+      "Stałe zwroty formalne oceniające sensowność czynności: there's no point in, it's no use, it's no good, what's the point of.",
+      "Wyrażenia przyczynowe wymagające gerundu: in view of, on account of, with a view to.",
+      "Podkreślanie bezcelowości działania wykonywanego przez konkretną osobę, a nie w ogóle.",
+      "Unikanie dwuznaczności, gdy 'wykonawca' gerundu różni się od podmiotu głównego zdania."
+    ],
+    "tags": ["there's no point in your", "it's no use his", "imagine my winning", "in view of their"],
+    "examples": [
+      { "en": "There's no point in your worrying about it now — what's done is done.", "pl": "Nie ma sensu, żebyś się teraz tym martwił — stało się." },
+      { "en": "It's no use his apologising; the damage is already done.", "pl": "Nie ma sensu, żeby przepraszał; szkoda już wyrządzona." },
+      { "en": "Imagine my winning the lottery — I still can't believe it!", "pl": "Wyobraź sobie, że wygrałem na loterii — wciąż nie mogę w to uwierzyć!" },
+      { "en": "In view of their refusing twice already, we won't ask again.", "pl": "Biorąc pod uwagę, że już dwa razy odmówili, nie zapytamy ponownie." }
+    ]
+  }
+]

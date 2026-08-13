@@ -120,6 +120,7 @@ const THEORY_URLS = {
   for_to_infinitive: new URL("../data/for_to_infinitive.json", import.meta.url),
   comment_clauses: new URL("../data/comment_clauses.json", import.meta.url),
   perfect_infinitive_gerund: new URL("../data/perfect_infinitive_gerund.json", import.meta.url),
+  possessive_gerund: new URL("../data/possessive_gerund.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -235,6 +236,7 @@ const DRILLS_URLS = {
   for_to_infinitive: new URL("../data/for_to_infinitiveDrills.json", import.meta.url),
   comment_clauses: new URL("../data/comment_clausesDrills.json", import.meta.url),
   perfect_infinitive_gerund: new URL("../data/perfect_infinitive_gerundDrills.json", import.meta.url),
+  possessive_gerund: new URL("../data/possessive_gerundDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

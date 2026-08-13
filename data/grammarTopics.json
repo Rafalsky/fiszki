@@ -782,5 +782,12 @@
     "title": "Bezokolicznik i gerund dokonany",
     "desc": "to have done / having done — jak zaznaczyć, że czynność wydarzyła się wcześniej niż czynność głównego czasownika, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "possessive_gerund",
+    "icon": "👐",
+    "title": "Dopełniacz przed gerundem",
+    "desc": "my/your/John's + -ing (formalnie) vs me/you/the door + -ing (nieformalnie) oraz utrwalone zwroty jak there's no point in your... — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
