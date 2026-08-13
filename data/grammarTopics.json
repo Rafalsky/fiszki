@@ -810,5 +810,12 @@
     "title": "Nierealna przeszłość",
     "desc": "It's (high) time, suppose/supposing, what if, imagine + Past Simple — hipotetyczne konstrukcje z przeszłością o znaczeniu teraźniejszym lub przyszłym, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "formal_reference",
+    "icon": "📇",
+    "title": "Odniesienia formalne",
+    "desc": "the former / the latter, respectively, the aforementioned / the said, former i latter jako przymiotniki oraz the following / as follows — formalne odsyłanie do rzeczy wymienionych wcześniej lub zapowiadanych dalej w tekście, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
