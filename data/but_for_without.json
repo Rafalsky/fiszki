@@ -1,0 +1,102 @@
+[
+  {
+    "id": "but_for",
+    "order": 1,
+    "nameEn": "but for + noun/gerund — formal negative condition",
+    "namePl": "but for + rzeczownik/gerund — formalny warunek przeczący",
+    "rules": [
+      { "label": "but for = gdyby nie", "text": "but for + rzeczownik / zaimek / gerund zastępuje całe zdanie z if it weren't for / if it hadn't been for — wskazuje na jedyny czynnik, bez którego coś innego by się wydarzyło" },
+      { "label": "Czas wynika z kontekstu", "text": "but for samo nie mówi, czy chodzi o teraźniejszość czy przeszłość — czas głównego zdania (would / would have) rozstrzyga, o którą sytuację chodzi" },
+      { "label": "Bardzo formalny rejestr", "text": "typowe dla stylu pisanego, literackiego i oficjalnego — w mowie potocznej zwykle zastępowane przez if it weren't for / if it hadn't been for" },
+      { "label": "Pozycja w zdaniu", "text": "but for zwykle otwiera zdanie (z przecinkiem po frazie) lub pojawia się w jego środku, tuż przed would/would have" }
+    ],
+    "usage": [
+      "Warunek przeczący dotyczący teraźniejszości/przyszłości: But for your advice, I would be lost. (= If it weren't for your advice...)",
+      "Warunek przeczący dotyczący przeszłości: But for her quick reaction, the accident would have been much worse.",
+      "Podziękowanie/uznanie zasługi jednej osoby lub rzeczy: But for the volunteers, the shelter would have closed years ago.",
+      "but for + gerund: But for having insurance, they would have lost everything in the fire."
+    ],
+    "tags": ["but for your help", "but for the rain", "would have been", "but for + gerund"],
+    "examples": [
+      { "en": "But for your help, I would never have finished this project.", "pl": "Gdyby nie twoja pomoc, nigdy nie skończyłbym tego projektu." },
+      { "en": "But for the storm, the flight would have landed on time.", "pl": "Gdyby nie burza, lot wylądowałby na czas." },
+      { "en": "But for a small mistake, the whole plan would have worked perfectly.", "pl": "Gdyby nie mały błąd, cały plan zadziałałby idealnie." },
+      { "en": "But for having a spare key, we would have been locked out all night.", "pl": "Gdyby nie to, że mieliśmy zapasowy klucz, zostalibyśmy zamknięci na dworze całą noc." }
+    ]
+  },
+  {
+    "id": "without_condition",
+    "order": 2,
+    "nameEn": "without + noun/gerund — condition marker",
+    "namePl": "without + rzeczownik/gerund — wyznacznik warunku",
+    "rules": [
+      { "label": "without jako warunek", "text": "without + rzeczownik / zaimek / gerund może zastępować całe zdanie warunkowe z if...not — mniej formalne niż but for, powszechne w mowie i piśmie" },
+      { "label": "Kontrast z but for", "text": "without kładzie nacisk na brak czegoś jako warunek, but for podkreśla, że dana rzecz jest jedynym czynnikiem ratującym sytuację — w wielu zdaniach są wymienne" },
+      { "label": "without + -ing", "text": "gdy podmiot zdania warunkowego jest taki sam jak podmiot zdania głównego, po without używamy gerundu, nie bezokolicznika" },
+      { "label": "Zakres czasowy", "text": "podobnie jak but for, without samo nie określa czasu — decyduje o tym forma czasownika w zdaniu głównym (would / would have)" }
+    ],
+    "usage": [
+      "Warunek dotyczący teraźniejszości/przyszłości: Without your support, I couldn't cope with this. (= If I didn't have your support...)",
+      "Warunek dotyczący przeszłości: Without his warning, we would have walked straight into the trap.",
+      "without + gerund, ten sam podmiot: Without knowing the language, she still managed to order food.",
+      "Kontrast z with: With more time, we would have finished; without it, we had to rush."
+    ],
+    "tags": ["without your help", "without knowing", "would never have", "without + gerund"],
+    "examples": [
+      { "en": "Without your support, I couldn't have made this decision.", "pl": "Bez twojego wsparcia nie mógłbym podjąć tej decyzji." },
+      { "en": "Without his warning, we would have walked straight into the trap.", "pl": "Gdyby nie jego ostrzeżenie, wpadlibyśmy prosto w pułapkę." },
+      { "en": "Without checking the map, they got completely lost.", "pl": "Nie sprawdzając mapy, całkowicie się zgubili." },
+      { "en": "Without electricity, modern hospitals simply couldn't function.", "pl": "Bez prądu współczesne szpitale po prostu nie mogłyby funkcjonować." }
+    ]
+  },
+  {
+    "id": "were_it_not_for",
+    "order": 3,
+    "nameEn": "were it not for — inverted negative condition (present)",
+    "namePl": "were it not for — inwersja warunku przeczącego (teraźniejszość)",
+    "rules": [
+      { "label": "Budowa", "text": "Were it not for + rzeczownik/zaimek = formalny odpowiednik if it weren't for — inwersja z dummy-podmiotem it zamiast spójnika if" },
+      { "label": "Znaczenie", "text": "opisuje sytuację hipotetyczną w teraźniejszości/przyszłości: gdyby nie istniał dany czynnik, konsekwencja w zdaniu głównym byłaby inna" },
+      { "label": "Zdanie główne", "text": "po zdaniu z were it not for stosujemy would/could/might + bezokolicznik, tak jak w drugim okresie warunkowym" },
+      { "label": "Rejestr", "text": "bardzo formalna, pisemna konstrukcja — częsta w przemówieniach, esejach i literaturze, rzadka w codziennej rozmowie" }
+    ],
+    "usage": [
+      "Hipotetyczna teraźniejszość: Were it not for the language barrier, negotiations would move much faster.",
+      "Uznanie czyjejś roli: Were it not for her generosity, the museum would not exist today.",
+      "Parafraza if it weren't for: Were it not for the traffic, I would already be home. (= If it weren't for the traffic...)",
+      "Formalne przemówienia i podziękowania: Were it not for this team's dedication, we would be nowhere near our goal."
+    ],
+    "tags": ["were it not for", "would move", "if it weren't for", "formal inversion"],
+    "examples": [
+      { "en": "Were it not for the language barrier, negotiations would move much faster.", "pl": "Gdyby nie bariera językowa, negocjacje szłyby dużo szybciej." },
+      { "en": "Were it not for her generosity, the museum would not exist today.", "pl": "Gdyby nie jej hojność, muzeum dziś by nie istniało." },
+      { "en": "Were it not for modern medicine, this disease would still be deadly.", "pl": "Gdyby nie nowoczesna medycyna, ta choroba nadal byłaby śmiertelna." },
+      { "en": "Were it not for the noise, this would be the perfect neighbourhood.", "pl": "Gdyby nie hałas, to byłaby idealna okolica." }
+    ]
+  },
+  {
+    "id": "had_it_not_been_for",
+    "order": 4,
+    "nameEn": "had it not been for — inverted negative condition (past)",
+    "namePl": "had it not been for — inwersja warunku przeczącego (przeszłość)",
+    "rules": [
+      { "label": "Budowa", "text": "Had it not been for + rzeczownik/zaimek = formalny odpowiednik if it hadn't been for — inwersja z dummy-podmiotem it, równoległa do trzeciego okresu warunkowego" },
+      { "label": "Znaczenie", "text": "opisuje nierealną przeszłość: gdyby dany czynnik wtedy nie zaistniał, wydarzyłoby się coś innego niż w rzeczywistości" },
+      { "label": "Zdanie główne", "text": "po zdaniu z had it not been for stosujemy would/could/might have + imiesłów bierny (III forma), tak jak w trzecim okresie warunkowym" },
+      { "label": "Odróżnienie od were it not for", "text": "had it not been for dotyczy zdarzenia w przeszłości (skutek też w przeszłości), a were it not for — stanu obecnego (skutek w teraźniejszości/przyszłości)" }
+    ],
+    "usage": [
+      "Nierealna przeszłość: Had it not been for the doctor's quick action, he wouldn't have survived.",
+      "Uznanie czyjejś zasługi w przeszłości: Had it not been for their donations, the school would never have been built.",
+      "Parafraza if it hadn't been for: Had it not been for the delay, we would have missed the connection anyway. (= If it hadn't been for the delay...)",
+      "Formalne relacje historyczne: Had it not been for a single vote, the law would not have passed."
+    ],
+    "tags": ["had it not been for", "would not have survived", "if it hadn't been for", "past inversion"],
+    "examples": [
+      { "en": "Had it not been for the doctor's quick action, he wouldn't have survived.", "pl": "Gdyby nie szybka reakcja lekarza, on by nie przeżył." },
+      { "en": "Had it not been for their donations, the school would never have been built.", "pl": "Gdyby nie ich darowizny, szkoła nigdy nie zostałaby zbudowana." },
+      { "en": "Had it not been for a single vote, the law would not have passed.", "pl": "Gdyby nie jeden głos, ustawa by nie przeszła." },
+      { "en": "Had it not been for the delay, we would have missed the connection anyway.", "pl": "Gdyby nie opóźnienie, i tak spóźnilibyśmy się na przesiadkę." }
+    ]
+  }
+]
