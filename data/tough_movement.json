@@ -1,0 +1,102 @@
+[
+  {
+    "id": "basic_tough_construction",
+    "order": 1,
+    "nameEn": "Easy / hard / difficult / impossible + to-infinitive — the tough construction",
+    "namePl": "Easy / hard / difficult / impossible + bezokolicznik — konstrukcja 'tough movement'",
+    "rules": [
+      { "label": "Podmiot jest w rzeczywistości dopełnieniem", "text": "W This problem is easy to solve. rzeczownik 'this problem' brzmi jak podmiot zdania, ale znaczeniowo jest dopełnieniem czasownika solve (ktoś rozwiązuje ten problem) — nazywane jest to 'tough movement', bo dopełnienie 'przenosi się' na miejsce podmiotu" },
+      { "label": "Dwie równoważne struktury", "text": "It is easy to solve this problem. = This problem is easy to solve. Znaczenie jest identyczne, ale druga forma brzmi bardziej naturalnie i częściej pojawia się w mowie i piśmie" },
+      { "label": "Typowe przymiotniki 'tough'", "text": "easy, hard, difficult, tough, simple, (im)possible, pleasant, dangerous, safe, interesting — wszystkie oceniają, jak łatwo/trudno/przyjemnie coś zrobić względem danej rzeczy lub osoby" },
+      { "label": "Bezokolicznik musi mieć lukę", "text": "Czasownik po 'to' musi normalnie wymagać dopełnienia, którego tu brakuje — to ono zostało 'przeniesione': This exercise is impossible to finish in ten minutes (finish + luka = exercise)" }
+    ],
+    "usage": [
+      "Ocena stopnia trudności, łatwości lub przyjemności wykonania czynności wobec konkretnej rzeczy lub osoby (This song is easy to sing along to.)",
+      "Naturalna, płynna alternatywa dla sztywnego 'it is + adj + to + bezokolicznik + dopełnienie' (This report is difficult to summarise zamiast It is difficult to summarise this report.)",
+      "Częste w recenzjach, opiniach i instrukcjach (The interface is refreshingly simple to use.)",
+      "Podkreślanie cechy samego obiektu, a nie ogólnego stwierdzenia o sytuacji"
+    ],
+    "tags": ["easy to read", "hard to believe", "difficult to please", "impossible to ignore"],
+    "examples": [
+      { "en": "This book is easy to read.", "pl": "Tę książkę łatwo się czyta." },
+      { "en": "The exam turned out to be surprisingly difficult to finish in time.", "pl": "Egzamin okazał się zaskakująco trudny do ukończenia na czas." },
+      { "en": "Her accent is sometimes hard to understand.", "pl": "Jej akcent jest czasem trudny do zrozumienia." },
+      { "en": "The stain proved impossible to remove completely.", "pl": "Plama okazała się niemożliwa do całkowitego usunięcia." }
+    ]
+  },
+  {
+    "id": "no_gap_constraint",
+    "order": 2,
+    "nameEn": "The gap constraint: why tough-movement needs a missing object",
+    "namePl": "Warunek luki: dlaczego 'tough movement' wymaga brakującego dopełnienia",
+    "rules": [
+      { "label": "Musi istnieć luka po czasowniku", "text": "Bezokolicznik musi mieć 'dziurę' tam, gdzie normalnie stałoby dopełnienie: This song is annoying to listen to (listen to + luka = song). Bez tej luki zdanie jest niegramatyczne albo bezsensowne" },
+      { "label": "Nadmiarowy zaimek jest błędem", "text": "Skoro rzeczownik-podmiot WYPEŁNIA już tę lukę znaczeniowo, nie dodaje się go drugi raz jako zaimek: This problem is easy to solve (poprawnie), NIE This problem is easy to solve it" },
+      { "label": "Kontrast z przymiotnikami kontrolującymi (eager, willing, ready)", "text": "Te przymiotniki wymagają realnego, 'chcącego' podmiotu i NIE tworzą luki dopełnieniowej: She is eager to help (ona sama chce pomóc) — nie da się przez analogię powiedzieć *This book is eager to read, bo książka niczego nie chce" },
+      { "label": "Czasownik nieprzechodni bez przyimka nie pasuje", "text": "*This chair is easy to sit jest niegramatyczne, bo 'sit' bez przyimka nie ma tu odpowiedniej luki — potrzeba: This chair is easy to sit on/in" }
+    ],
+    "usage": [
+      "Rozpoznawanie, kiedy konstrukcja tough jest w ogóle gramatycznie możliwa (musi istnieć luka dopełnieniowa w bezokoliczniku)",
+      "Unikanie typowego błędu uczących się — dodawania zbędnego zaimka po bezokoliczniku",
+      "Odróżnianie przymiotników 'tough' (easy, hard, difficult) od przymiotników kontrolujących (eager, willing, keen), które wymagają odczuwającego podmiotu",
+      "Poprawny wybór między 'it is adj to do X' a 'X is adj to do', kiedy oba są możliwe"
+    ],
+    "tags": ["gap constraint", "no extra pronoun", "eager vs easy", "This problem is easy to solve"],
+    "examples": [
+      { "en": "The novel is fascinating to read from start to finish.", "pl": "Ta powieść jest fascynująca do przeczytania od początku do końca." },
+      { "en": "Her handwriting is nearly impossible to decipher.", "pl": "Jej pismo odręczne jest niemal niemożliwe do odczytania." },
+      { "en": "This sofa is comfortable to sit on for hours.", "pl": "Ta sofa jest wygodna, żeby siedzieć na niej godzinami." },
+      { "en": "The rules are far too complicated to explain in one sentence.", "pl": "Zasady są o wiele za skomplikowane, żeby wyjaśnić je w jednym zdaniu." }
+    ]
+  },
+  {
+    "id": "prepositional_gap",
+    "order": 3,
+    "nameEn": "Tough constructions with a stranded preposition",
+    "namePl": "Konstrukcje 'tough' z przyimkiem pozostawionym na końcu (stranded preposition)",
+    "rules": [
+      { "label": "Luka po przyimku", "text": "Gdy czasownik wymaga przyimka, ten przyimek zostaje 'osierocony' na końcu zdania, bo to on wskazuje na lukę: She is difficult to get on with. (get on with + luka = she)" },
+      { "label": "Przyimka nie można pominąć", "text": "*She is difficult to get on jest niegramatyczne albo zmienia znaczenie, bo 'get on' bez 'with' oznacza 'radzić sobie', a nie 'dogadywać się z kimś'" },
+      { "label": "Typowe czasowniki w tej konstrukcji", "text": "talk to, deal with, rely on, look at, live with, work with, agree with, argue with: This colleague is impossible to work with." },
+      { "label": "Naturalniejsze niż formalne 'z przyimkiem na początku'", "text": "a colleague who is impossible to work with brzmi naturalnie i potocznie w porównaniu ze sztywnym, książkowym a colleague with whom it is impossible to work" }
+    ],
+    "usage": [
+      "Opisywanie ludzi i rzeczy trudnych lub łatwych we współpracy, kontakcie czy obcowaniu (He's easy to talk to.)",
+      "Naturalna, potoczna alternatywa dla formalnych konstrukcji z przyimkiem na początku zdania",
+      "Częste w opiniach o ludziach — współpracownikach, szefach, sąsiadach, klientach",
+      "Rozpoznawanie, który przyimek 'należy' do danego czasownika frazowego, żeby nie zgubić go w zdaniu"
+    ],
+    "tags": ["difficult to get on with", "impossible to work with", "hard to talk to", "easy to rely on"],
+    "examples": [
+      { "en": "My new boss is surprisingly easy to talk to.", "pl": "Mój nowy szef jest zaskakująco łatwy w rozmowie." },
+      { "en": "That old radiator is a nightmare to deal with.", "pl": "Ten stary kaloryfer to koszmar, jeśli chodzi o naprawę." },
+      { "en": "He's the kind of person who's impossible to argue with.", "pl": "To typ osoby, z którą nie da się kłócić." },
+      { "en": "The new manager turned out to be genuinely easy to work with.", "pl": "Nowy kierownik okazał się naprawdę łatwy we współpracy." }
+    ]
+  },
+  {
+    "id": "tough_vs_raising_contrast",
+    "order": 4,
+    "nameEn": "Tough-movement vs. true raising — telling the two apart",
+    "namePl": "Tough-movement a prawdziwe 'raising' — jak je odróżnić",
+    "rules": [
+      { "label": "Podstaw rzeczownik z powrotem w miejsce luki", "text": "Przy czasownikach/przymiotnikach wznoszących (seem, likely — zobacz temat 'Czasowniki wznoszące') luka jest PODMIOTEM bezokolicznika: She seems to know = She knows. Przy przymiotnikach 'tough' (easy, hard, difficult) luka jest DOPEŁNIENIEM: This book is easy to read = [ktoś] czyta tę książkę" },
+      { "label": "Wstawka 'for + wykonawca'", "text": "W konstrukcji tough można dodać 'for + osoba', która naprawdę wykonuje czynność, bez zmiany roli rzeczownika-podmiotu: This book is easy for children to read. Przy raising taka wstawka jest niegramatyczna, bo podmiot i tak jest wykonawcą czynności: *She seems for us to know the answer" },
+      { "label": "Czasownik czy przymiotnik wznoszący vs. przymiotnik 'tough'", "text": "seem/appear/tend to = czasowniki wznoszące; likely/certain/bound = przymiotniki wznoszące z luką PODMIOTOWĄ; easy/hard/difficult/impossible = przymiotniki 'tough' z luką DOPEŁNIENIOWĄ — na powierzchni wyglądają podobnie, ale mają inną strukturę znaczeniową" },
+      { "label": "Typowy błąd uczących się", "text": "Mieszanie obu wzorców — dodawanie zbędnego zaimka dopełnienia w konstrukcji tough (*This book is easy to read it) albo próba wstawienia 'for kogoś' tam, gdzie nie pasuje przy raising" }
+    ],
+    "usage": [
+      "Rozróżnianie subject-raising (seem, likely) od object-raising / tough-movement (easy, difficult) przy analizie zdań",
+      "Poprawne stosowanie wstawki 'for + wykonawca' wyłącznie w konstrukcjach tough, nie w raising",
+      "Unikanie nadmiarowego zaimka dopełnienia po bezokoliczniku w zdaniach typu tough",
+      "Świadomy wybór struktury 'rzeczownik + adj + to-inf' zamiast sztywnego 'it is adj that/to' w piśmie i mowie"
+    ],
+    "tags": ["tough movement", "raising vs tough", "easy for children to read", "gap in object position"],
+    "examples": [
+      { "en": "This book is easy for beginners to read.", "pl": "Tę książkę łatwo czyta się początkującym." },
+      { "en": "The mountain is dangerous to climb without proper equipment.", "pl": "Ta góra jest niebezpieczna do wspinaczki bez odpowiedniego sprzętu." },
+      { "en": "That contract is virtually impossible to understand without a lawyer.", "pl": "Ta umowa jest praktycznie niemożliwa do zrozumienia bez prawnika." },
+      { "en": "The instructions are simple enough for anyone to follow.", "pl": "Instrukcje są na tyle proste, że każdy może je zrozumieć." }
+    ]
+  }
+]

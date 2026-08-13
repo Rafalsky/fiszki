@@ -112,6 +112,7 @@ const THEORY_URLS = {
   dislocation: new URL("../data/dislocation.json", import.meta.url),
   rhetorical_questions: new URL("../data/rhetorical_questions.json", import.meta.url),
   raising_verbs: new URL("../data/raising_verbs.json", import.meta.url),
+  tough_movement: new URL("../data/tough_movement.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -219,6 +220,7 @@ const DRILLS_URLS = {
   dislocation: new URL("../data/dislocationDrills.json", import.meta.url),
   rhetorical_questions: new URL("../data/rhetorical_questionsDrills.json", import.meta.url),
   raising_verbs: new URL("../data/raising_verbsDrills.json", import.meta.url),
+  tough_movement: new URL("../data/tough_movementDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
