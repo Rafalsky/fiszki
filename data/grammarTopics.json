@@ -733,5 +733,12 @@
     "title": "Tough movement",
     "desc": "Konstrukcja ‘tough’: easy/hard/difficult/impossible + bezokolicznik z luką dopełnieniową (This book is easy to read.) — budowa, przyimki na końcu zdania i kontrast z prawdziwym raising. Teoria, ćwiczenia z lukami i testy.",
     "drillCount": 32
+  },
+  {
+    "id": "split_infinitive",
+    "icon": "🗡️",
+    "title": "Rozdzielony bezokolicznik",
+    "desc": "to + przysłówek + czasownik (to boldly go) — kiedy rozdzielenie bezokolicznika jest naturalne, skąd wziął się tradycyjny zakaz, jak unikać dwuznaczności i zachować umiar stylistyczny. Teoria, ćwiczenia z lukami i testy.",
+    "drillCount": 32
   }
 ]

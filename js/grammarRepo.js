@@ -113,6 +113,7 @@ const THEORY_URLS = {
   rhetorical_questions: new URL("../data/rhetorical_questions.json", import.meta.url),
   raising_verbs: new URL("../data/raising_verbs.json", import.meta.url),
   tough_movement: new URL("../data/tough_movement.json", import.meta.url),
+  split_infinitive: new URL("../data/split_infinitive.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -221,6 +222,7 @@ const DRILLS_URLS = {
   rhetorical_questions: new URL("../data/rhetorical_questionsDrills.json", import.meta.url),
   raising_verbs: new URL("../data/raising_verbsDrills.json", import.meta.url),
   tough_movement: new URL("../data/tough_movementDrills.json", import.meta.url),
+  split_infinitive: new URL("../data/split_infinitiveDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
