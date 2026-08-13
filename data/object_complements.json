@@ -1,0 +1,218 @@
+[
+  {
+    "id": "adjective_complement",
+    "order": 1,
+    "nameEn": "Adjective object complements — object + adjective describing the result",
+    "namePl": "Przymiotnikowy dopełnik orzecznikowy — dopełnienie + przymiotnik określający rezultat",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Po czasowniku przechodnim złożonym podmiot działa na dopełnienie, a przymiotnik po dopełnieniu opisuje jego stan lub rezultat działania: They painted the fence white. / I find this book interesting. / Leave the door open."
+      },
+      {
+        "label": "Typowe czasowniki",
+        "text": "Typowe czasowniki w tej konstrukcji to make, paint, keep, leave, find, consider, think, call, drive, wipe, get — łączą dopełnienie z przymiotnikiem bez żadnego spójnika ani przyimka"
+      },
+      {
+        "label": "Różnica od przysłówka",
+        "text": "Przymiotnik opisuje dopełnienie (rzecz/osobę), nie sposób wykonania czynności — dlatego 'She painted the wall red' (ściana jest czerwona), a nie 'redly'; pomylenie z przysłówkiem zmienia sens albo jest błędem"
+      },
+      {
+        "label": "Kolejność",
+        "text": "Przymiotnik stoi bezpośrednio po dopełnieniu, nigdy przed nim — szyk 'paint red the fence' jest niepoprawny"
+      }
+    ],
+    "usage": [
+      "Opisywanie rezultatu czynności wykonanej na obiekcie lub osobie (make someone happy, drive her crazy, wipe it clean)",
+      "Wyrażanie opinii lub oceny za pomocą czasowników find, consider, think, believe (I find it strange, we consider him reliable)",
+      "Czasowniki keep i leave opisują utrzymanie już istniejącego stanu (keep the window shut, leave it unfinished)",
+      "Konstrukcja jest bardzo produktywna w codziennym języku — łatwo tworzyć nowe kombinacje czasownik + przymiotnik rezultatu"
+    ],
+    "tags": [
+      "object complement",
+      "paint it red",
+      "SVOC",
+      "dopełnik orzecznikowy"
+    ],
+    "examples": [
+      {
+        "en": "The news left everyone speechless.",
+        "pl": "Wiadomość pozostawiła wszystkich bez słowa."
+      },
+      {
+        "en": "He wiped the table clean before dinner.",
+        "pl": "Wytarł stół do czysta przed kolacją."
+      },
+      {
+        "en": "I consider the plan risky.",
+        "pl": "Uważam ten plan za ryzykowny."
+      },
+      {
+        "en": "The heat drove them mad.",
+        "pl": "Upał doprowadził ich do szaleństwa."
+      }
+    ]
+  },
+  {
+    "id": "noun_complement",
+    "order": 2,
+    "nameEn": "Noun object complements — object + noun phrase naming a role or result",
+    "namePl": "Rzeczownikowy dopełnik orzecznikowy — dopełnienie + rzeczownik nazywający funkcję lub rezultat",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Po dopełnieniu następuje rzeczownik lub fraza rzeczownikowa, która nazywa, kim/czym stało się dopełnienie: They elected her president. / We named the baby Emma. / The judges declared him the winner."
+      },
+      {
+        "label": "Brak przedimka przy tytułach i funkcjach",
+        "text": "Gdy rzeczownik nazywa unikalną funkcję lub tytuł, zwykle nie ma przedimka: elect her president, appoint him chairman — podobnie jak w dopełnieniu podmiotowym po 'be' (She is president.)"
+      },
+      {
+        "label": "Typowe czasowniki",
+        "text": "Typowe czasowniki: elect, appoint, name, call, crown, declare, make, nominate, proclaim — każdy łączy dopełnienie z rzeczownikiem opisującym jego nowy status"
+      },
+      {
+        "label": "Rozróżnienie od dopełnienia podwójnego",
+        "text": "To nie to samo co dwa dopełnienia (give her a book) — tu drugi element nie jest odrębnym odbiorcą, tylko opisuje/nazywa to samo dopełnienie (ta sama osoba lub rzecz)"
+      }
+    ],
+    "usage": [
+      "Formalne nadawanie tytułów, funkcji i nazw (appoint her director, crown him king)",
+      "Nadawanie imion i nazw (they named the ship Titanic, we call him Tom)",
+      "Oficjalne deklaracje i wyniki (declare the meeting closed, pronounce them husband and wife)",
+      "W stronie biernej podmiot przejmuje rolę dopełnienia, a rzeczownik zostaje bez zmian: She was elected president."
+    ],
+    "tags": [
+      "object complement",
+      "elect her president",
+      "SVOC rzeczownikowe",
+      "dopełnik orzecznikowy"
+    ],
+    "examples": [
+      {
+        "en": "The committee appointed him treasurer.",
+        "pl": "Komitet mianował go skarbnikiem."
+      },
+      {
+        "en": "The board named him acting director.",
+        "pl": "Zarząd mianował go tymczasowym dyrektorem."
+      },
+      {
+        "en": "The judge declared the trial a mistrial.",
+        "pl": "Sędzia uznał proces za nieważny."
+      },
+      {
+        "en": "Colleagues consider her the driving force behind the project.",
+        "pl": "Koledzy uważają ją za siłę napędową tego projektu."
+      }
+    ]
+  },
+  {
+    "id": "as_complement",
+    "order": 3,
+    "nameEn": "as-complements — regard / describe / see + object + as + complement",
+    "namePl": "Dopełnik z 'as' — regard / describe / see + dopełnienie + as + dopełnik",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Niektóre czasowniki wymagają 'as' przed dopełnikiem orzecznikowym: They regard him as a hero. / She described the process as complicated. / We see this as an opportunity."
+      },
+      {
+        "label": "Czasowniki wymagające 'as'",
+        "text": "regard, see, view, describe, portray, class(ify), define, think of, refer to — po nich zdanie bez 'as' jest niegramatyczne (nie: 'regard him a hero')"
+      },
+      {
+        "label": "Kontrast z consider",
+        "text": "consider i call zwykle NIE używają 'as' (consider him a hero, nie 'consider him as a hero') — to częsty błąd uczących się, warto ćwiczyć obie grupy czasowników osobno"
+      },
+      {
+        "label": "Dopełnik po 'as'",
+        "text": "Po 'as' może stać rzeczownik, przymiotnik lub fraza -ing: describe her as reliable, refer to it as cheating, view it as a stepping stone"
+      }
+    ],
+    "usage": [
+      "Wyrażanie opinii, klasyfikacji i interpretacji kogoś lub czegoś (regard it as a failure, view him as a threat)",
+      "Formalny, pisany styl — częste w dziennikarstwie, raportach i esejach akademickich",
+      "Kontrast dwóch grup czasowników (z 'as' i bez) jest typowym źródłem błędów na poziomie C1/C2 — warto ćwiczyć je razem",
+      "'Refer to X as Y' i 'think of X as Y' są szczególnie częste, gdy mowa o nazewnictwie i postrzeganiu"
+    ],
+    "tags": [
+      "as complement",
+      "regard as",
+      "consider vs regard as",
+      "dopełnik z as"
+    ],
+    "examples": [
+      {
+        "en": "Critics describe the novel as groundbreaking.",
+        "pl": "Krytycy określają tę powieść jako przełomową."
+      },
+      {
+        "en": "She sees the setback as a valuable lesson.",
+        "pl": "Postrzega tę porażkę jako cenną lekcję."
+      },
+      {
+        "en": "Many people think of him as a genius.",
+        "pl": "Wiele osób uważa go za geniusza."
+      },
+      {
+        "en": "The company classified the incident as minor.",
+        "pl": "Firma zaklasyfikowała incydent jako drobny."
+      }
+    ]
+  },
+  {
+    "id": "resultative_reflexive",
+    "order": 4,
+    "nameEn": "Resultative reflexive constructions — verb + oneself + result phrase",
+    "namePl": "Zwrotne konstrukcje rezultatywne — czasownik + oneself + fraza rezultatu",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Czasownik nieprzechodni staje się przechodni dzięki zaimkowi zwrotnemu, a fraza po nim opisuje rezultat: She cried herself to sleep. / He talked himself hoarse. / They danced themselves exhausted."
+      },
+      {
+        "label": "Zaimek zwrotny jako dopełnienie",
+        "text": "Zaimek zwrotny (myself, yourself, himself, herself, ourselves, themselves...) pełni funkcję dopełnienia gramatycznego — podmiot 'powoduje' skutek u samego siebie poprzez wykonywaną czynność"
+      },
+      {
+        "label": "Rodzaje frazy rezultatu",
+        "text": "Fraza rezultatu może być przymiotnikiem (talk oneself hoarse), frazą przyimkową (laugh oneself into hiccups) albo 'to sleep / to death' (cry oneself to sleep, work oneself to death)"
+      },
+      {
+        "label": "Rejestr i produktywność",
+        "text": "Konstrukcja jest w dużej mierze idiomatyczna i ograniczona do utrwalonych połączeń — nie każdy czasownik nieprzechodni da się tak użyć; zupełnie nowe kombinacje mogą brzmieć nienaturalnie"
+      }
+    ],
+    "usage": [
+      "Opisywanie skrajnego, często przesadzonego skutku długotrwałej czynności (worry oneself sick, work oneself to death)",
+      "Częste w narracji i mowie potocznej dla dramatycznego lub humorystycznego efektu",
+      "Typowe utrwalone zwroty: cry oneself to sleep, laugh oneself silly, talk oneself hoarse, drink oneself into a stupor",
+      "Odróżnij od zwykłego użycia zaimka zwrotnego (he hurt himself) — tu chodzi o wynik/rezultat czynności, a nie o to, że czynność jest po prostu skierowana na siebie"
+    ],
+    "tags": [
+      "resultative",
+      "cry oneself to sleep",
+      "reflexive result",
+      "konstrukcje zwrotne rezultatywne"
+    ],
+    "examples": [
+      {
+        "en": "The baby cried herself to sleep.",
+        "pl": "Dziecko wypłakało się do snu."
+      },
+      {
+        "en": "He talked himself hoarse trying to convince them.",
+        "pl": "Zdarł sobie gardło, próbując ich przekonać."
+      },
+      {
+        "en": "She worried herself sick about the exam.",
+        "pl": "Zamartwiała się do granic wytrzymałości egzaminem."
+      },
+      {
+        "en": "They danced themselves into exhaustion.",
+        "pl": "Tańczyli, aż byli kompletnie wyczerpani."
+      }
+    ]
+  }
+]

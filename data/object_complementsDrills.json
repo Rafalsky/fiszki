@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "adjective_complement",
+    "prompt": "The heat drove the tourists ___. (CRAZY)",
+    "answer": "crazy",
+    "distractors": ["crazily", "craziness", "crazed"]
+  },
+  {
+    "id": 2,
+    "itemId": "adjective_complement",
+    "prompt": "He kicked the door ___. (OPEN)",
+    "answer": "open",
+    "distractors": ["opened", "opening", "openly"]
+  },
+  {
+    "id": 3,
+    "itemId": "adjective_complement",
+    "prompt": "She wiped the counter ___ before the guests arrived. (CLEAN)",
+    "answer": "clean",
+    "distractors": ["cleanly", "cleaned", "cleaning"]
+  },
+  {
+    "id": 4,
+    "itemId": "adjective_complement",
+    "prompt": "The manager considers the new policy ___. (EFFECTIVE)",
+    "answer": "effective",
+    "distractors": ["effectively", "effectiveness", "effected"]
+  },
+  {
+    "id": 5,
+    "itemId": "adjective_complement",
+    "prompt": "Leave the safe ___ until the inspector arrives. (LOCK)",
+    "answer": "locked",
+    "distractors": ["locking", "lock", "lockable"]
+  },
+  {
+    "id": 6,
+    "itemId": "adjective_complement",
+    "prompt": "The judges found the contestant's answer ___. (SURPRISE)",
+    "answer": "surprising",
+    "distractors": ["surprised", "surprise", "surprisingly"]
+  },
+  {
+    "id": 7,
+    "itemId": "adjective_complement",
+    "prompt": "The fans painted their faces ___ and gold for the final. (BLUE)",
+    "answer": "blue",
+    "distractors": ["bluely", "blueness", "blued"]
+  },
+  {
+    "id": 8,
+    "itemId": "adjective_complement",
+    "prompt": "He hammered the metal sheet ___. (FLAT)",
+    "answer": "flat",
+    "distractors": ["flatly", "flatten", "flattened"]
+  },
+  {
+    "id": 9,
+    "itemId": "adjective_complement",
+    "prompt": "The committee declared the building ___ after the fire. (UNSAFE)",
+    "answer": "unsafe",
+    "distractors": ["unsafely", "safety", "unsafeness"]
+  },
+  {
+    "id": 10,
+    "itemId": "adjective_complement",
+    "prompt": "The long queue made the customers ___. (IMPATIENT)",
+    "answer": "impatient",
+    "distractors": ["impatiently", "impatience", "impatiented"]
+  },
+  {
+    "id": 11,
+    "itemId": "noun_complement",
+    "prompt": "The shareholders elected her ___ of the board. (CHAIR)",
+    "answer": "chair",
+    "distractors": ["chairman", "chairing", "chairs"]
+  },
+  {
+    "id": 12,
+    "itemId": "noun_complement",
+    "prompt": "They appointed him ___ of the new department. (HEAD)",
+    "answer": "head",
+    "distractors": ["heading", "headed", "heads"]
+  },
+  {
+    "id": 13,
+    "itemId": "noun_complement",
+    "prompt": "The academy crowned her ___ of the festival. (QUEEN)",
+    "answer": "queen",
+    "distractors": ["queenly", "queens", "queening"]
+  },
+  {
+    "id": 14,
+    "itemId": "noun_complement",
+    "prompt": "The board named him acting ___ while the CEO recovered. (DIRECTOR)",
+    "answer": "director",
+    "distractors": ["directing", "directed", "directorship"]
+  },
+  {
+    "id": 15,
+    "itemId": "noun_complement",
+    "prompt": "Voters elected her ___ of the town for a second term. (MAYOR)",
+    "answer": "mayor",
+    "distractors": ["mayoral", "mayors", "mayoring"]
+  },
+  {
+    "id": 16,
+    "itemId": "noun_complement",
+    "prompt": "The panel declared the invention the ___ of the year. (BREAKTHROUGH)",
+    "answer": "breakthrough",
+    "distractors": ["breakthroughs", "breaking through", "broke through"]
+  },
+  {
+    "id": 17,
+    "itemId": "noun_complement",
+    "prompt": "The court appointed him legal ___ for his younger brother. (GUARDIAN)",
+    "answer": "guardian",
+    "distractors": ["guarding", "guardianship", "guarded"]
+  },
+  {
+    "id": 18,
+    "itemId": "noun_complement",
+    "prompt": "Colleagues consider her the driving ___ behind the project. (FORCE)",
+    "answer": "force",
+    "distractors": ["forcing", "forced", "forceful"]
+  },
+  {
+    "id": 19,
+    "itemId": "noun_complement",
+    "prompt": "The tribunal proclaimed him the rightful ___ to the estate. (HEIR)",
+    "answer": "heir",
+    "distractors": ["heiress", "inheriting", "heirdom"]
+  },
+  {
+    "id": 20,
+    "itemId": "noun_complement",
+    "prompt": "The union elected her their official ___ in the negotiations. (SPOKESPERSON)",
+    "answer": "spokesperson",
+    "distractors": ["spokesman", "speaking", "spoken"]
+  },
+  {
+    "id": 21,
+    "itemId": "as_complement",
+    "prompt": "Critics regard the novel ___ a masterpiece.",
+    "answer": "as",
+    "distractors": ["like", "for", "to"]
+  },
+  {
+    "id": 22,
+    "itemId": "as_complement",
+    "prompt": "She described the meeting ___ a complete waste of time.",
+    "answer": "as",
+    "distractors": ["like", "for", "being"]
+  },
+  {
+    "id": 23,
+    "itemId": "as_complement",
+    "prompt": "Many people view social media ___ a double-edged sword.",
+    "answer": "as",
+    "distractors": ["like", "for", "to"]
+  },
+  {
+    "id": 24,
+    "itemId": "as_complement",
+    "prompt": "He referred to the delay ___ 'a minor inconvenience.'",
+    "answer": "as",
+    "distractors": ["like", "for", "to"]
+  },
+  {
+    "id": 25,
+    "itemId": "as_complement",
+    "prompt": "The report classified the incident ___ low risk.",
+    "answer": "as",
+    "distractors": ["like", "for", "to"]
+  },
+  {
+    "id": 26,
+    "itemId": "as_complement",
+    "prompt": "We think of trust ___ the foundation of any relationship.",
+    "answer": "as",
+    "distractors": ["like", "for", "to"]
+  },
+  {
+    "id": 27,
+    "itemId": "as_complement",
+    "prompt": "The critics portrayed the film ___ a bold artistic statement.",
+    "answer": "as",
+    "distractors": ["like", "for", "to"]
+  },
+  {
+    "id": 28,
+    "itemId": "as_complement",
+    "prompt": "The teacher defined plagiarism ___ presenting someone else's work as your own.",
+    "answer": "as",
+    "distractors": ["like", "for", "to"]
+  },
+  {
+    "id": 29,
+    "itemId": "as_complement",
+    "prompt": "Employees see the new policy ___ a step backwards.",
+    "answer": "as",
+    "distractors": ["like", "for", "to"]
+  },
+  {
+    "id": 30,
+    "itemId": "as_complement",
+    "prompt": "Analysts characterize the market ___ highly volatile.",
+    "answer": "as",
+    "distractors": ["like", "for", "to"]
+  },
+  {
+    "id": 31,
+    "itemId": "resultative_reflexive",
+    "prompt": "The baby cried ___ to sleep. (HERSELF)",
+    "answer": "herself",
+    "distractors": ["her", "hers", "she"]
+  },
+  {
+    "id": 32,
+    "itemId": "resultative_reflexive",
+    "prompt": "He talked ___ hoarse trying to persuade the committee. (HIMSELF)",
+    "answer": "himself",
+    "distractors": ["him", "his", "he"]
+  },
+  {
+    "id": 33,
+    "itemId": "resultative_reflexive",
+    "prompt": "They danced ___ into exhaustion at the wedding. (THEMSELVES)",
+    "answer": "themselves",
+    "distractors": ["them", "their", "they"]
+  },
+  {
+    "id": 34,
+    "itemId": "resultative_reflexive",
+    "prompt": "She worried ___ sick about the results. (HERSELF)",
+    "answer": "herself",
+    "distractors": ["her", "hers", "she"]
+  },
+  {
+    "id": 35,
+    "itemId": "resultative_reflexive",
+    "prompt": "We laughed ___ silly at his impression. (OURSELVES)",
+    "answer": "ourselves",
+    "distractors": ["us", "our", "we"]
+  },
+  {
+    "id": 36,
+    "itemId": "resultative_reflexive",
+    "prompt": "He worked ___ to death trying to finish the project on time. (HIMSELF)",
+    "answer": "himself",
+    "distractors": ["him", "his", "he"]
+  },
+  {
+    "id": 37,
+    "itemId": "resultative_reflexive",
+    "prompt": "I shouted ___ hoarse at the concert. (MYSELF)",
+    "answer": "myself",
+    "distractors": ["me", "my", "I"]
+  },
+  {
+    "id": 38,
+    "itemId": "resultative_reflexive",
+    "prompt": "The children played ___ tired before bedtime. (THEMSELVES)",
+    "answer": "themselves",
+    "distractors": ["them", "their", "they"]
+  },
+  {
+    "id": 39,
+    "itemId": "resultative_reflexive",
+    "prompt": "She drank ___ into a stupor after the breakup. (HERSELF)",
+    "answer": "herself",
+    "distractors": ["her", "hers", "she"]
+  },
+  {
+    "id": 40,
+    "itemId": "resultative_reflexive",
+    "prompt": "He argued ___ blue in the face, but no one listened. (HIMSELF)",
+    "answer": "himself",
+    "distractors": ["him", "his", "he"]
+  }
+]
