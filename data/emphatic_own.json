@@ -1,0 +1,102 @@
+[
+  {
+    "id": "own_before_noun",
+    "order": 1,
+    "nameEn": "possessive + own + noun — emphasizing exclusive possession",
+    "namePl": "zaimek dzierżawczy + own + rzeczownik — podkreślenie wyłącznego posiadania",
+    "rules": [
+      { "label": "own jako wzmocnienie posiadania", "text": "own po zaimku dzierżawczym (my/your/his/her/its/our/their) podkreśla, że coś należy wyłącznie do danej osoby, bez udziału innych — nie zastępuje zaimka dzierżawczego, lecz go wzmacnia" },
+      { "label": "Szyk: dzierżawczy + own + rzeczownik", "text": "own zawsze stoi między zaimkiem dzierżawczym a rzeczownikiem: my own room, her own business, their own rules — nigdy samo, bez poprzedzającego zaimka dzierżawczego" },
+      { "label": "Kontrast bez own", "text": "my car informuje tylko, czyj to samochód; my own car dodatkowo podkreśla, że to nie pożyczony, wspólny ani firmowy samochód — wyłącznie mój" },
+      { "label": "own + rzeczownik odczasownikowy", "text": "own może też poprzedzać gerund: I like doing my own cooking / making my own decisions — podkreśla samodzielność w wykonywaniu czynności" }
+    ],
+    "usage": [
+      "Podkreślenie, że coś nie jest współdzielone: She finally has her own office. (nie dzieli go z nikim)",
+      "Kontrast z cudzą opinią: Don't just repeat what others say — have your own opinion.",
+      "Podkreślenie niezależności działania: The children cook their own meals now.",
+      "Emfaza w opisie wysiłku: He built the house with his own hands."
+    ],
+    "tags": ["her own office", "my own opinion", "their own rules", "with his own hands"],
+    "examples": [
+      { "en": "She finally has her own office.", "pl": "Ona w końcu ma swój własny gabinet." },
+      { "en": "Don't just repeat what others say — have your own opinion.", "pl": "Nie powtarzaj tylko tego, co mówią inni — miej własne zdanie." },
+      { "en": "The children cook their own meals now.", "pl": "Dzieci same teraz gotują sobie posiłki." },
+      { "en": "He built the house with his own hands.", "pl": "Zbudował dom własnymi rękami." }
+    ]
+  },
+  {
+    "id": "of_own",
+    "order": 2,
+    "nameEn": "noun + of + possessive + own — having something exclusively yours",
+    "namePl": "rzeczownik + of + zaimek dzierżawczy + own — mieć coś na wyłączność",
+    "rules": [
+      { "label": "Budowa", "text": "rzeczownik (zwykle z a/an) + of + zaimek dzierżawczy + own — a house of my own, a room of her own, friends of their own — podkreśla, że dana osoba ma coś na wyłączność, często po raz pierwszy" },
+      { "label": "Znaczenie 'w końcu mieć coś swojego'", "text": "konstrukcja często niesie odcień 'nareszcie', 'samodzielnie', bez pomocy czy zależności od innych — a place of my own = własne miejsce, o które nikogo nie muszę pytać" },
+      { "label": "Odrębna, ustalona fraza", "text": "of + zaimek dzierżawczy + own to nie double genitive typu a friend of mine — to osobna, utrwalona konstrukcja, zwykle z rzeczownikami oznaczającymi miejsce, przestrzeń lub niezależność (a place/house/room/business/life of one's own)" },
+      { "label": "Rejestr", "text": "naturalna, częsta konstrukcja w mowie i piśmie, typowa dla opisu marzeń, planów i osiągnięć życiowych" }
+    ],
+    "usage": [
+      "Marzenie o niezależności: All she ever wanted was a place of her own.",
+      "Osiągnięcie samodzielności: After years of renting, they finally bought a house of their own.",
+      "Podkreślenie oryginalności pomysłu: He has a style of his own that no one can copy.",
+      "Życie bez zależności od rodziny: At eighteen, I wanted a life of my own."
+    ],
+    "tags": ["a place of my own", "a house of their own", "a style of his own", "of one's own"],
+    "examples": [
+      { "en": "All she ever wanted was a place of her own.", "pl": "Zawsze chciała mieć własne miejsce." },
+      { "en": "After years of renting, they finally bought a house of their own.", "pl": "Po latach wynajmowania w końcu kupili własny dom." },
+      { "en": "He has a style of his own that no one can copy.", "pl": "Ma swój własny styl, którego nikt nie potrafi skopiować." },
+      { "en": "At eighteen, I wanted a life of my own.", "pl": "W wieku osiemnastu lat chciałem mieć własne życie." }
+    ]
+  },
+  {
+    "id": "on_own",
+    "order": 3,
+    "nameEn": "on + possessive + own — alone, unaided",
+    "namePl": "on + zaimek dzierżawczy + own — samodzielnie, bez pomocy",
+    "rules": [
+      { "label": "Budowa i znaczenie", "text": "on + zaimek dzierżawczy + own = sam, samodzielnie, bez niczyjej pomocy lub towarzystwa — I did it on my own = zrobiłem to sam, bez pomocy" },
+      { "label": "Dwa znaczenia", "text": "on my own może znaczyć zarówno 'bez towarzystwa' (fizycznie sam), jak i 'bez niczyjej pomocy' (samodzielnie wykonując zadanie) — właściwe znaczenie wynika z kontekstu" },
+      { "label": "Kontrast z by oneself", "text": "on my own i by myself są w większości kontekstów wymienne, ale on my own jest nieco częstsze przy podkreślaniu niezależności i radzenia sobie, a by myself podkreśla często fizyczną samotność" },
+      { "label": "leave somebody on their own", "text": "utrwalony zwrot: leave somebody on their own/on his own = zostawić kogoś samego — częsty w kontekście opieki nad dziećmi lub osobami starszymi" }
+    ],
+    "usage": [
+      "Fizyczna samotność: I live on my own in a small flat.",
+      "Samodzielne wykonanie zadania: She fixed the engine on her own, without any help.",
+      "Rada/ostrzeżenie: Never leave a toddler on their own near water.",
+      "Podkreślenie niezależności decyzji: He decided to start the business on his own."
+    ],
+    "tags": ["on my own", "on her own", "leave him on his own", "by myself"],
+    "examples": [
+      { "en": "I live on my own in a small flat.", "pl": "Mieszkam sam w małym mieszkaniu." },
+      { "en": "She fixed the engine on her own, without any help.", "pl": "Naprawiła silnik sama, bez niczyjej pomocy." },
+      { "en": "Never leave a toddler on their own near water.", "pl": "Nigdy nie zostawiaj małego dziecka samego blisko wody." },
+      { "en": "He decided to start the business on his own.", "pl": "Zdecydował się rozpocząć ten biznes samodzielnie." }
+    ]
+  },
+  {
+    "id": "own_idioms",
+    "order": 4,
+    "nameEn": "in + possessive + own right/time/way/words — fixed idiomatic expressions",
+    "namePl": "in + zaimek dzierżawczy + own right/time/way/words — utrwalone wyrażenia idiomatyczne",
+    "rules": [
+      { "label": "in + dzierżawczy + own right", "text": "in one's own right = z własnych zasług/z własnego prawa, niezależnie od czyjegoś statusu — She's a successful entrepreneur in her own right (nie dzięki mężowi czy rodzinie, lecz dzięki sobie)" },
+      { "label": "in + dzierżawczy + own time/way", "text": "in my own time = we własnym tempie/kiedy mi pasuje, bez narzuconego terminu; in his own way = na swój sposób, niekoniecznie zgodnie z konwencją" },
+      { "label": "in + dzierżawczy + own words", "text": "in your own words = własnymi słowami, nie cytując/kopiując — częste polecenie w edukacji: Explain the theory in your own words" },
+      { "label": "Fixed phrases, brak wariantów", "text": "te zwroty są utrwalone — nie zamienia się own na inne słowo ani nie zmienia szyku; jedynym zmiennym elementem jest zaimek dzierżawczy dopasowany do podmiotu" }
+    ],
+    "usage": [
+      "Uznanie niezależnych osiągnięć: Although she comes from a famous family, she's a respected scientist in her own right.",
+      "Tempo pracy bez presji: Take your time and finish the report in your own time.",
+      "Niekonwencjonalny styl działania: He always solves problems in his own way.",
+      "Polecenie w edukacji: Summarise the article in your own words."
+    ],
+    "tags": ["in her own right", "in your own time", "in his own way", "in your own words"],
+    "examples": [
+      { "en": "Although she comes from a famous family, she's a respected scientist in her own right.", "pl": "Choć pochodzi ze sławnej rodziny, jest cenioną naukowczynią z własnych zasług." },
+      { "en": "Take your time and finish the report in your own time.", "pl": "Nie spiesz się i dokończ raport we własnym tempie." },
+      { "en": "He always solves problems in his own way.", "pl": "Zawsze rozwiązuje problemy na swój własny sposób." },
+      { "en": "Summarise the article in your own words.", "pl": "Streść artykuł własnymi słowami." }
+    ]
+  }
+]
