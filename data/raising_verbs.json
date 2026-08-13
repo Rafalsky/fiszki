@@ -1,0 +1,104 @@
+[
+  {
+    "id": "seem_appear",
+    "order": 1,
+    "nameEn": "Seem / appear + to-infinitive",
+    "namePl": "Seem / appear + bezokolicznik — czasowniki 'wznoszące' (raising verbs)",
+    "rules": [
+      { "label": "Dwie równoważne struktury", "text": "It seems that she knows the answer. = She seems to know the answer. Znaczenie jest identyczne — podmiot zdania podrzędnego 'wznosi się' i staje się podmiotem seem/appear, choć to nie on 'wykonuje' czynność seem" },
+      { "label": "seem/appear to be + przymiotnik/rzeczownik", "text": "Dla opisu stanu używamy 'to be': He seems to be rather tired. / They appear to be old friends" },
+      { "label": "seem/appear to + bezokolicznik prosty", "text": "Dla czynności lub opinii bieżącej: She seems to understand the problem. / The company appears to be losing money" },
+      { "label": "seem/appear to have + imiesłów bierny (perfect infinitive)", "text": "Gdy wniosek dotyczy czegoś wcześniejszego: He seems to have left already. / The rumours appear to have been exaggerated" },
+      { "label": "appear — bardziej formalne i ostrożne niż seem", "text": "appear często pojawia się w tekstach oficjalnych, sprawozdaniach i wiadomościach, gdzie sugeruje dystans mówiącego wobec pewności twierdzenia: The negotiations appear to have reached a deadlock" }
+    ],
+    "usage": [
+      "Łagodne, uprzejme formułowanie opinii zamiast stanowczego stwierdzenia (She seems to be right, ale nie She is right)",
+      "Opisywanie pierwszego wrażenia na podstawie obserwacji (He seems nervous about something)",
+      "Formalna alternatywa dla 'it seems that' w raportach, artykułach i wiadomościach (The economy appears to be recovering)",
+      "Wnioskowanie o zdarzeniach z przeszłości za pomocą perfect infinitive (The witness seems to have changed her story)"
+    ],
+    "tags": ["seem to", "appear to", "it seems that", "seem to have + past participle"],
+    "examples": [
+      { "en": "She seems to know everything about the case.", "pl": "Ona zdaje się wiedzieć wszystko o tej sprawie." },
+      { "en": "The negotiations appear to have reached a deadlock.", "pl": "Negocjacje zdają się utknąć w martwym punkcie." },
+      { "en": "He seems to have left the office rather suddenly.", "pl": "Wygląda na to, że wyszedł z biura dość nagle." },
+      { "en": "The committee appears to have overlooked several key details.", "pl": "Komisja najwyraźniej przeoczyła kilka kluczowych szczegółów." }
+    ]
+  },
+  {
+    "id": "happen_turn_out",
+    "order": 2,
+    "nameEn": "Happen to / turn out to — coincidence and unexpected result",
+    "namePl": "Happen to / turn out to — przypadek i nieoczekiwany rezultat",
+    "rules": [
+      { "label": "happen to + bezokolicznik = czysty przypadek", "text": "Podkreśla, że coś wydarzyło się bez zamiaru czy planu: I happened to meet an old school friend on the train" },
+      { "label": "Pytania grzecznościowe z happen to", "text": "Do you happen to know...? / Do you happen to have...? to bardziej uprzejma, mniej bezpośrednia forma pytania niż zwykłe Do you know...?" },
+      { "label": "As it happens — utarty łącznik dyskursu", "text": "Wprowadza informację, która akurat pasuje do sytuacji przez zbieg okoliczności: As it happens, I already had the documents you needed" },
+      { "label": "turn out to + bezokolicznik = rezultat ujawniony później", "text": "Opisuje, jak coś się ostatecznie okazało — zwykle wbrew wcześniejszym oczekiwaniom: The stranger who helped us turned out to be a retired police officer" },
+      { "label": "turn out that + zdanie — wariant równoważny", "text": "It turned out that we were both born in the same town. = We turned out to have been born in the same town (rzadsze, bardziej książkowe)" }
+    ],
+    "usage": [
+      "Podkreślanie, że coś stało się przypadkiem, a nie celowo (I happened to be in the area)",
+      "Uprzejme, pośrednie pytanie o informację (Do you happen to know the time?)",
+      "Wprowadzanie zbiegu okoliczności jako komentarza do rozmowy (As it happens, I was just thinking about that)",
+      "Ujawnianie zaskakującego zakończenia historii lub sytuacji (The plan turned out to be a complete disaster)"
+    ],
+    "tags": ["happen to", "as it happens", "turn out to", "turn out that"],
+    "examples": [
+      { "en": "I happened to meet an old school friend on the train yesterday.", "pl": "Przypadkiem spotkałem w pociągu starego szkolnego kolegę." },
+      { "en": "As it happens, I already had the documents you needed.", "pl": "Tak się składa, że miałem już dokumenty, których potrzebowałeś." },
+      { "en": "The stranger who helped us turned out to be a retired police officer.", "pl": "Okazało się, że nieznajomy, który nam pomógł, był emerytowanym policjantem." },
+      { "en": "The plan, which had seemed so promising, turned out to be a complete disaster.", "pl": "Plan, który wydawał się tak obiecujący, okazał się kompletną katastrofą." }
+    ]
+  },
+  {
+    "id": "tend_to",
+    "order": 3,
+    "nameEn": "Tend to — habitual raising verb",
+    "namePl": "Tend to — czasownik wyrażający tendencję/skłonność",
+    "rules": [
+      { "label": "tend to + bezokolicznik = ogólna tendencja", "text": "Opisuje to, co zwykle się dzieje, łagodniej niż always/usually: Prices tend to rise sharply before the holidays" },
+      { "label": "tend to jako 'raising verb'", "text": "Podobnie jak seem, tend nie ma własnego znaczenia agentywnego — podmiot 'wznosi się' z podrzędnej czynności: Meetings tend to run over time = It tends to be the case that meetings run over time" },
+      { "label": "Przeczenie doesn't/don't tend to", "text": "Łagodniejsze niż never — sugeruje wyjątki, a nie absolutną regułę: She doesn't tend to complain, even when things go wrong" },
+      { "label": "Kontrast z czasownikami kontrolującymi (control verbs)", "text": "tend nie zakłada intencji ani woli podmiotu, w przeciwieństwie do decide/choose/try, które wymagają realnego, zamierzającego czegoś podmiotu" }
+    ],
+    "usage": [
+      "Opisywanie ogólnych prawidłowości i statystycznych tendencji (Younger employees tend to adapt more quickly)",
+      "Łagodne uogólnienia w rozmowie, unikające kategoryczności (In my experience, Mondays tend to be busy)",
+      "Formułowanie obserwacji bez oskarżania czy oceniania (That printer tends to jam if you overload the tray)",
+      "Kontrastowanie ogólnej skłonności z pojedynczym wyjątkiem (He tends to be quiet, but today he was very talkative)"
+    ],
+    "tags": ["tend to", "tends to", "doesn't tend to"],
+    "examples": [
+      { "en": "Prices tend to rise sharply just before the holidays.", "pl": "Ceny mają tendencję do gwałtownego wzrostu tuż przed świętami." },
+      { "en": "He tends to get rather quiet when he's worried about something.", "pl": "Ma tendencję do milknięcia, kiedy się czymś martwi." },
+      { "en": "Younger employees tend to adapt more quickly to new software.", "pl": "Młodsi pracownicy zwykle szybciej przystosowują się do nowego oprogramowania." },
+      { "en": "She doesn't tend to complain, even when things go wrong.", "pl": "Ona raczej nie narzeka, nawet gdy coś idzie źle." }
+    ]
+  },
+  {
+    "id": "adjective_raising",
+    "order": 4,
+    "nameEn": "Likely / certain / bound + to-infinitive — raising adjectives",
+    "namePl": "Likely / certain / bound + bezokolicznik — przymiotniki 'wznoszące'",
+    "rules": [
+      { "label": "be likely/certain/bound/sure + bezokolicznik", "text": "Ten sam wzorzec 'wznoszenia' co przy czasownikach, tylko z przymiotnikiem: It is likely that the flight will be delayed. = The flight is likely to be delayed" },
+      { "label": "Różnice w stopniu pewności", "text": "likely = prawdopodobne; certain/sure = niemal pewne, oparte na przekonaniu mówiącego; bound = pewne na podstawie logiki, prawa naturalnego lub nieuchronności sytuacji (With that attitude, he is bound to upset someone)" },
+      { "label": "Test dummy-subject: there/it bez znaczenia", "text": "Prawdziwe przymiotniki wznoszące akceptują pusty podmiot there/it, bo nie przypisują mu żadnej roli znaczeniowej: There is likely to be a delay. / There is certain to be trouble. To odróżnia je od przymiotników kontrolujących (eager, willing, keen), które WYMAGAJĄ realnego podmiotu: *There is eager to be a solution jest niegramatyczne" },
+      { "label": "Rejestr formalny vs nieformalny", "text": "bound to i sure to brzmią bardziej potocznie i emfatycznie niż certain to i likely to, które częściej pojawiają się w piśmie formalnym i prognozach" }
+    ],
+    "usage": [
+      "Prognozowanie wydarzeń z różnym stopniem pewności (The talks are likely to collapse unless both sides compromise)",
+      "Wyrażanie logicznej nieuchronności czegoś (Given the evidence, he is bound to be found guilty)",
+      "Formalne alternatywy dla 'it is likely/certain that' w raportach i analizach (The new policy is bound to face strong opposition)",
+      "Rozpoznawanie, które przymiotniki dopuszczają pusty podmiot there/it, a które nie (kontrast raising vs. control)"
+    ],
+    "tags": ["likely to", "certain to", "bound to", "there is likely to be"],
+    "examples": [
+      { "en": "The talks are likely to collapse unless both sides compromise.", "pl": "Rozmowy prawdopodobnie się załamią, jeśli obie strony nie pójdą na kompromis." },
+      { "en": "Given the evidence, he is bound to be found guilty.", "pl": "Biorąc pod uwagę dowody, on na pewno zostanie uznany za winnego." },
+      { "en": "There is likely to be a considerable delay because of the strike.", "pl": "Prawdopodobnie będzie znaczne opóźnienie z powodu strajku." },
+      { "en": "With that attitude, he is bound to upset someone eventually.", "pl": "Z takim podejściem w końcu na pewno kogoś zdenerwuje." }
+    ]
+  }
+]

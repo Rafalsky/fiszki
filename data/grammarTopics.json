@@ -719,5 +719,12 @@
     "title": "Pytania retoryczne",
     "desc": "Pytania retoryczne w angielskim: przeczące pytania podkreślające twierdzenie, pytania z wh- sugerujące brak odpowiedzi, retoryczne question tags i utarte formuły. Teoria, ćwiczenia z lukami i testy.",
     "drillCount": 32
+  },
+  {
+    "id": "raising_verbs",
+    "icon": "🎈",
+    "title": "Czasowniki wznoszące (raising verbs)",
+    "desc": "seem, appear, happen to, turn out to, tend to oraz przymiotniki likely/certain/bound + bezokolicznik — budowa, użycie i test dummy-subject odróżniający raising od control verbs. Teoria, ćwiczenia z lukami i testy.",
+    "drillCount": 32
   }
 ]

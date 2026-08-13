@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "itemId": "seem_appear",
+    "prompt": "She ___ know everything about the case.",
+    "answer": "seems to",
+    "distractors": ["seems that", "is seeming to", "seem to"]
+  },
+  {
+    "id": 2,
+    "itemId": "seem_appear",
+    "prompt": "The negotiations ___ have reached a deadlock.",
+    "answer": "appear to",
+    "distractors": ["appear that", "are appearing to", "appears to"]
+  },
+  {
+    "id": 3,
+    "itemId": "seem_appear",
+    "prompt": "He ___ have left the office rather suddenly yesterday.",
+    "answer": "seems to",
+    "distractors": ["seemed having", "seems having", "is seeming to"]
+  },
+  {
+    "id": 4,
+    "itemId": "seem_appear",
+    "prompt": "They ___ be having a rather heated argument.",
+    "answer": "seem to",
+    "distractors": ["seem that", "are seeming to", "seems to"]
+  },
+  {
+    "id": 5,
+    "itemId": "seem_appear",
+    "prompt": "The committee ___ have overlooked several key details.",
+    "answer": "appears to",
+    "distractors": ["appears that", "is appearing to", "appear to"]
+  },
+  {
+    "id": 6,
+    "itemId": "seem_appear",
+    "prompt": "It ___ that nobody had noticed the mistake.",
+    "answer": "seemed",
+    "distractors": ["seems to", "appeared to", "was seeming"]
+  },
+  {
+    "id": 7,
+    "itemId": "seem_appear",
+    "prompt": "The rumours ___ have been greatly exaggerated.",
+    "answer": "seem to",
+    "distractors": ["seem that", "seemed to having", "is seeming to"]
+  },
+  {
+    "id": 8,
+    "itemId": "seem_appear",
+    "prompt": "She ___ be rather nervous about the interview.",
+    "answer": "seems to",
+    "distractors": ["seems that", "is seeming to", "seem to"]
+  },
+  {
+    "id": 9,
+    "itemId": "happen_turn_out",
+    "prompt": "I ___ meet an old school friend on the train yesterday.",
+    "answer": "happened to",
+    "distractors": ["happen to", "was happening to", "have happened to"]
+  },
+  {
+    "id": 10,
+    "itemId": "happen_turn_out",
+    "prompt": "___, I already had the documents you needed.",
+    "answer": "As it happens",
+    "distractors": ["As it happened to", "It happens", "As it seems"]
+  },
+  {
+    "id": 11,
+    "itemId": "happen_turn_out",
+    "prompt": "The stranger who helped us ___ be a retired police officer.",
+    "answer": "turned out to",
+    "distractors": ["turned out that", "turns out to", "was turning out to"]
+  },
+  {
+    "id": 12,
+    "itemId": "happen_turn_out",
+    "prompt": "Do you ___ know what time the shop closes?",
+    "answer": "happen to",
+    "distractors": ["happened to", "are happening to", "happen that"]
+  },
+  {
+    "id": 13,
+    "itemId": "happen_turn_out",
+    "prompt": "The plan, which had seemed so promising, ___ be a complete disaster.",
+    "answer": "turned out to",
+    "distractors": ["turned out that", "was turning out to", "turns out to"]
+  },
+  {
+    "id": 14,
+    "itemId": "happen_turn_out",
+    "prompt": "It ___ that we were both born in the same small town.",
+    "answer": "turned out",
+    "distractors": ["happened to", "turned out to", "was turning out"]
+  },
+  {
+    "id": 15,
+    "itemId": "happen_turn_out",
+    "prompt": "If you ___ have a spare charger, could I borrow it?",
+    "answer": "happen to",
+    "distractors": ["happened to", "are happening to", "will happen to"]
+  },
+  {
+    "id": 16,
+    "itemId": "happen_turn_out",
+    "prompt": "Her casual remark ___ be the key piece of evidence.",
+    "answer": "turned out to",
+    "distractors": ["turned out that", "turns out to", "was turned out to"]
+  },
+  {
+    "id": 17,
+    "itemId": "tend_to",
+    "prompt": "Prices ___ rise sharply just before the holidays.",
+    "answer": "tend to",
+    "distractors": ["tend that", "are tending to", "tended that"]
+  },
+  {
+    "id": 18,
+    "itemId": "tend_to",
+    "prompt": "He ___ get rather quiet when he's worried about something.",
+    "answer": "tends to",
+    "distractors": ["tends that", "is tending to", "tend to"]
+  },
+  {
+    "id": 19,
+    "itemId": "tend_to",
+    "prompt": "Younger employees ___ adapt more quickly to new software.",
+    "answer": "tend to",
+    "distractors": ["tend that", "are tended to", "tends to"]
+  },
+  {
+    "id": 20,
+    "itemId": "tend_to",
+    "prompt": "In my experience, meetings on Mondays ___ run over time.",
+    "answer": "tend to",
+    "distractors": ["tend that", "are tending to", "tended to"]
+  },
+  {
+    "id": 21,
+    "itemId": "tend_to",
+    "prompt": "She doesn't ___ complain, even when things go wrong.",
+    "answer": "tend to",
+    "distractors": ["tend that", "tends to", "used to"]
+  },
+  {
+    "id": 22,
+    "itemId": "tend_to",
+    "prompt": "Small businesses ___ struggle more during economic downturns.",
+    "answer": "tend to",
+    "distractors": ["tend that", "are tended to", "tends to"]
+  },
+  {
+    "id": 23,
+    "itemId": "tend_to",
+    "prompt": "We ___ eat out on Fridays, though not always.",
+    "answer": "tend to",
+    "distractors": ["tend that", "tended that", "are tending"]
+  },
+  {
+    "id": 24,
+    "itemId": "tend_to",
+    "prompt": "That printer ___ jam if you overload the tray.",
+    "answer": "tends to",
+    "distractors": ["tends that", "is tending to", "tend to"]
+  },
+  {
+    "id": 25,
+    "itemId": "adjective_raising",
+    "prompt": "The talks ___ collapse unless both sides compromise.",
+    "answer": "are likely to",
+    "distractors": ["are likely that", "likely to", "are likely for"]
+  },
+  {
+    "id": 26,
+    "itemId": "adjective_raising",
+    "prompt": "Given the evidence, he ___ be found guilty.",
+    "answer": "is bound to",
+    "distractors": ["is bound that", "bounds to", "is binding to"]
+  },
+  {
+    "id": 27,
+    "itemId": "adjective_raising",
+    "prompt": "There ___ be a considerable delay because of the strike.",
+    "answer": "is likely to",
+    "distractors": ["is likely that", "likely to", "is likely for"]
+  },
+  {
+    "id": 28,
+    "itemId": "adjective_raising",
+    "prompt": "She ___ win; nobody else even came close in training.",
+    "answer": "is certain to",
+    "distractors": ["is certain that", "certains to", "is certaining to"]
+  },
+  {
+    "id": 29,
+    "itemId": "adjective_raising",
+    "prompt": "With that attitude, he ___ upset someone eventually.",
+    "answer": "is bound to",
+    "distractors": ["is bound that", "bounds to", "is binding to"]
+  },
+  {
+    "id": 30,
+    "itemId": "adjective_raising",
+    "prompt": "It is ___ that the flight will be delayed.",
+    "answer": "likely",
+    "distractors": ["bound", "certain", "seem"]
+  },
+  {
+    "id": 31,
+    "itemId": "adjective_raising",
+    "prompt": "There ___ be no easy solution to this problem.",
+    "answer": "is certain to",
+    "distractors": ["is certain that", "certains to", "is certaining to"]
+  },
+  {
+    "id": 32,
+    "itemId": "adjective_raising",
+    "prompt": "The new policy ___ face strong opposition.",
+    "answer": "is bound to",
+    "distractors": ["is bound that", "bounds to", "is binding to"]
+  }
+]
