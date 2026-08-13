@@ -1,0 +1,102 @@
+[
+  {
+    "id": "basic_float_position",
+    "order": 1,
+    "nameEn": "Floating all/both/each away from the noun: basic position",
+    "namePl": "Podstawowa pozycja kwantyfikatora ruchomego (all/both/each)",
+    "rules": [
+      { "label": "Definicja", "text": "Kwantyfikatory all, both i each zwykle stoją przed frazą rzeczownikową, którą określają (all the students, both books, each child), ale mogą też 'spłynąć' (float) od tej frazy i przyczepić się bezpośrednio do podmiotu, zajmując specjalne miejsce w środku zdania" },
+      { "label": "Przed czasownikiem głównym (nie be)", "text": "Gdy zdanie ma zwykły czasownik główny (inny niż be), kwantyfikator ruchomy stoi BEZPOŚREDNIO PRZED nim: They all left early. We both enjoyed the film. The kids each got a prize" },
+      { "label": "Po czasowniku 'be'", "text": "Gdy czasownikiem głównym jest 'be', kwantyfikator ruchomy stoi PO nim, a nie przed: They are all ready. We were both surprised. The rooms are each different" },
+      { "label": "To samo znaczenie, inna forma", "text": "Forma pełna i forma ruchoma znaczą dokładnie to samo: All the students passed = The students all passed — różnica dotyczy tylko struktury zdania i rejestru, nie treści" }
+    ],
+    "usage": [
+      "Skracanie i uelastycznianie zdania przez przesunięcie kwantyfikatora od rzeczownika do czasownika",
+      "Naturalna, płynna pozycja bardzo częsta w mowie i nieformalnym piśmie",
+      "Odróżnianie zachowania czasownika 'be' (kwantyfikator PO nim) od innych czasowników głównych (kwantyfikator PRZED nimi)",
+      "Zachowanie tego samego znaczenia zdania niezależnie od wybranej pozycji kwantyfikatora"
+    ],
+    "tags": ["they all left", "we are both ready", "the kids each got one", "float from noun to verb"],
+    "examples": [
+      { "en": "They all left early.", "pl": "Wszyscy wyszli wcześnie." },
+      { "en": "We are both ready for the exam.", "pl": "Oboje jesteśmy gotowi do egzaminu." },
+      { "en": "The kids each got a prize.", "pl": "Każde z dzieci dostało nagrodę." },
+      { "en": "The students all passed the test.", "pl": "Wszyscy studenci zdali test." }
+    ]
+  },
+  {
+    "id": "auxiliary_modal_position",
+    "order": 2,
+    "nameEn": "Floating quantifiers with auxiliary and modal verbs",
+    "namePl": "Kwantyfikator ruchomy przy czasownikach posiłkowych i modalnych",
+    "rules": [
+      { "label": "Po pierwszym czasowniku posiłkowym/modalnym", "text": "Gdy w zdaniu jest jeden czasownik posiłkowy lub modalny, kwantyfikator ruchomy wchodzi zaraz PO nim, przed czasownikiem głównym: They have all left. They will both be there. They could each choose one gift" },
+      { "label": "Kilka czasowników posiłkowych", "text": "Gdy czasowników posiłkowych jest więcej niż jeden, kwantyfikator zawsze stoi po PIERWSZYM z nich, niezależnie od tego, ile ich łącznie jest: They might all have left already. They have all been working hard" },
+      { "label": "Pytania z inwersją", "text": "W pytaniach z inwersją podmiotowo-orzeczeniową kwantyfikator zostaje przy podmiocie, a nie przesuwa się przed czasownik posiłkowy: Have they all left? Will they both be there? (nie: *Have all they left?)" },
+      { "label": "Kontrast z pełną frazą przy podmiocie", "text": "Obie wersje są poprawne i znaczą to samo: Have all the students left? (pełna fraza) oraz Have they all left? (kwantyfikator ruchomy przy zaimku) — wybór zależy od tego, czy podmiotem jest pełny rzeczownik czy zaimek" }
+    ],
+    "usage": [
+      "Poprawne umieszczanie kwantyfikatora ruchomego w zdaniach z czasownikiem posiłkowym lub modalnym",
+      "Rozpoznawanie, że przy kilku czasownikach posiłkowych liczy się tylko ten pierwszy",
+      "Budowanie pytań z kwantyfikatorem ruchomym bez zaburzania szyku pytającego",
+      "Naturalne łączenie kwantyfikatora z czasami złożonymi (present perfect, modalne + perfect itd.)"
+    ],
+    "tags": ["they have all left", "they will both be there", "have they all left?", "first auxiliary rule"],
+    "examples": [
+      { "en": "They have all left already.", "pl": "Wszyscy już wyszli." },
+      { "en": "They will both be there tonight.", "pl": "Oboje będą tam dziś wieczorem." },
+      { "en": "They could each choose one gift.", "pl": "Każdy z nich mógł wybrać jeden prezent." },
+      { "en": "Have they all finished the exam?", "pl": "Czy wszyscy skończyli egzamin?" }
+    ]
+  },
+  {
+    "id": "object_of_pronoun_position",
+    "order": 3,
+    "nameEn": "Floating quantifiers with objects and the obligatory 'of' with pronouns",
+    "namePl": "Kwantyfikator ruchomy przy dopełnieniu i obowiązkowe 'of' z zaimkiem",
+    "rules": [
+      { "label": "Spłynięcie na dopełnienie", "text": "Kwantyfikator może 'spłynąć' nie tylko na podmiot, ale i na dopełnienie — wtedy stoi bezpośrednio PO zaimku dopełnieniowym: I saw them both yesterday. She invited us all to the party. I gave them each a copy" },
+      { "label": "Obowiązkowe 'of' przed zaimkiem osobowym", "text": "Gdy zaimek osobowy jest głównym elementem frazy określanej przez kwantyfikator (kwantyfikator stoi PRZED nim), konieczne jest 'of': all of us, both of you, each of them — nie da się powiedzieć *all us ani *both you w tej pozycji" },
+      { "label": "Brak 'of' w formie ruchomej", "text": "Gdy kwantyfikator jest 'spłynięty' i stoi PO zaimku, 'of' znika: They all passed (nie: they all of passed); I saw them both (nie: I saw them of both)" },
+      { "label": "Rzeczownik pospolity a zaimek", "text": "Z rzeczownikiem pospolitym 'of' jest opcjonalne: all of the students / all the students — ale z zaimkiem osobowym w pozycji przed nim jest obowiązkowe: all of them (nie: all them)" }
+    ],
+    "usage": [
+      "Umieszczanie kwantyfikatora ruchomego bezpośrednio po zaimku pełniącym funkcję dopełnienia",
+      "Odróżnianie, kiedy 'of' jest wymagane (zaimek jako główny element frazy), a kiedy go nie ma (kwantyfikator ruchomy)",
+      "Unikanie typowego błędu *all them / *both you zamiast all of them / both of you",
+      "Naturalne budowanie zdań z zaimkiem dopełnieniowym i kwantyfikatorem ruchomym"
+    ],
+    "tags": ["I saw them both", "all of them not all them", "she invited us all", "of + pronoun obligatory"],
+    "examples": [
+      { "en": "I saw them both at the station.", "pl": "Widziałem ich oboje na dworcu." },
+      { "en": "She invited us all to the party.", "pl": "Zaprosiła nas wszystkich na przyjęcie." },
+      { "en": "I gave them each a copy of the report.", "pl": "Dałem każdemu z nich kopię raportu." },
+      { "en": "All of them agreed, but not all of us were convinced.", "pl": "Wszyscy się zgodzili, ale nie wszyscy z nas byli przekonani." }
+    ]
+  },
+  {
+    "id": "negation_scope_style",
+    "order": 4,
+    "nameEn": "Negation scope and style effects of floating",
+    "namePl": "Zakres przeczenia i efekty stylistyczne kwantyfikatora ruchomego",
+    "rules": [
+      { "label": "Przeczenie częściowe", "text": "Kwantyfikator ruchomy przed 'not' daje przeczenie częściowe (nie wszyscy, ale nie żaden): The students don't all agree. = Nie wszyscy studenci się zgadzają (część tak, część nie)" },
+      { "label": "Pełna fraza bywa dwuznaczna", "text": "Zdanie All the students didn't pass może znaczyć 'nie wszyscy zdali' (przeczenie częściowe) lub, rzadziej, 'żaden nie zdał' (przeczenie całkowite) — rozstrzyga kontekst; forma ruchoma The students didn't all pass jednoznacznie wskazuje na przeczenie częściowe" },
+      { "label": "None of / neither of dla przeczenia całkowitego", "text": "Do jednoznacznego wyrażenia przeczenia całkowitego (żaden) lepiej użyć none of / neither of zamiast kwantyfikatora ruchomego z 'not': None of the students passed. Neither of them agreed — unika się w ten sposób dwuznaczności" },
+      { "label": "Rejestr: mówiony vs pisany", "text": "Forma ruchoma brzmi bardziej naturalnie i płynnie w mowie potocznej, dlatego jest tam częstsza, podczas gdy pełna fraza na początku zdania (All the students...) częściej pojawia się w piśmie formalnym i akademickim" }
+    ],
+    "usage": [
+      "Rozróżnianie przeczenia częściowego (not all) od całkowitego (none) przy użyciu kwantyfikatora ruchomego",
+      "Unikanie dwuznaczności przez wybór między formą ruchomą a none of / neither of",
+      "Świadomy wybór między formą pełną a ruchomą w zależności od rejestru (mówiony vs pisany/formalny)",
+      "Interpretacja zdań z kwantyfikatorem ruchomym i przeczeniem w kontekście"
+    ],
+    "tags": ["don't all agree = not everyone", "none of vs not all", "partial vs total negation", "spoken vs formal register"],
+    "examples": [
+      { "en": "The students don't all agree with the new policy.", "pl": "Nie wszyscy studenci zgadzają się z nową polityką." },
+      { "en": "None of the students passed the final exam.", "pl": "Żaden ze studentów nie zdał egzaminu końcowego." },
+      { "en": "We didn't both make it to the meeting — only one of us did.", "pl": "Nie oboje dotarliśmy na spotkanie — tylko jedno z nas." },
+      { "en": "Neither of them agreed to the proposal.", "pl": "Żadne z nich nie zgodziło się na propozycję." }
+    ]
+  }
+]

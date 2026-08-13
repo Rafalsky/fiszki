@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "itemId": "basic_float_position",
+    "prompt": "They ___ early after the meeting ended.",
+    "answer": "all left",
+    "distractors": ["left all", "all are left", "are all left"]
+  },
+  {
+    "id": 2,
+    "itemId": "basic_float_position",
+    "prompt": "We ___ for the final exam next week.",
+    "answer": "are both ready",
+    "distractors": ["both are ready", "are ready both", "both ready are"]
+  },
+  {
+    "id": 3,
+    "itemId": "basic_float_position",
+    "prompt": "The kids ___ a small prize at the party.",
+    "answer": "each got",
+    "distractors": ["got each", "are each got", "each are got"]
+  },
+  {
+    "id": 4,
+    "itemId": "basic_float_position",
+    "prompt": "The students ___ the test on the first attempt.",
+    "answer": "all passed",
+    "distractors": ["passed all", "all are passed", "are all passed"]
+  },
+  {
+    "id": 5,
+    "itemId": "basic_float_position",
+    "prompt": "My parents ___ born in the same small town.",
+    "answer": "were both",
+    "distractors": ["both were", "are both", "both are"]
+  },
+  {
+    "id": 6,
+    "itemId": "basic_float_position",
+    "prompt": "The rooms ___ different in size and style.",
+    "answer": "are each",
+    "distractors": ["each are", "each is", "is each"]
+  },
+  {
+    "id": 7,
+    "itemId": "basic_float_position",
+    "prompt": "The two brothers ___ successful in their careers.",
+    "answer": "are both",
+    "distractors": ["both are", "both is", "is both"]
+  },
+  {
+    "id": 8,
+    "itemId": "basic_float_position",
+    "prompt": "The applicants ___ interviewed twice before the final decision.",
+    "answer": "were each",
+    "distractors": ["each were", "each was", "was each"]
+  },
+  {
+    "id": 9,
+    "itemId": "auxiliary_modal_position",
+    "prompt": "They ___ already by the time we arrived.",
+    "answer": "have all left",
+    "distractors": ["all have left", "have left all", "all left have"]
+  },
+  {
+    "id": 10,
+    "itemId": "auxiliary_modal_position",
+    "prompt": "They ___ there tonight, so don't worry.",
+    "answer": "will both be",
+    "distractors": ["both will be", "will be both", "both be will"]
+  },
+  {
+    "id": 11,
+    "itemId": "auxiliary_modal_position",
+    "prompt": "They ___ one gift from the box.",
+    "answer": "could each choose",
+    "distractors": ["each could choose", "could choose each", "each choose could"]
+  },
+  {
+    "id": 12,
+    "itemId": "auxiliary_modal_position",
+    "prompt": "They ___ working hard on the project for weeks.",
+    "answer": "have all been",
+    "distractors": ["all have been", "have been all", "all been have"]
+  },
+  {
+    "id": 13,
+    "itemId": "auxiliary_modal_position",
+    "prompt": "They ___ left already when the fire alarm went off.",
+    "answer": "might all have",
+    "distractors": ["all might have", "might have all", "all have might"]
+  },
+  {
+    "id": 14,
+    "itemId": "auxiliary_modal_position",
+    "prompt": "___ finished the exam yet?",
+    "answer": "Have they all",
+    "distractors": ["Have all they", "All have they", "They have all"]
+  },
+  {
+    "id": 15,
+    "itemId": "auxiliary_modal_position",
+    "prompt": "___ be there for the ceremony?",
+    "answer": "Will they both",
+    "distractors": ["Will both they", "Both will they", "They will both"]
+  },
+  {
+    "id": 16,
+    "itemId": "auxiliary_modal_position",
+    "prompt": "They ___ have completed the training by June.",
+    "answer": "should each",
+    "distractors": ["each should", "each shall", "shall each"]
+  },
+  {
+    "id": 17,
+    "itemId": "object_of_pronoun_position",
+    "prompt": "I saw ___ at the station yesterday.",
+    "answer": "them both",
+    "distractors": ["both them", "them of both", "both them of"]
+  },
+  {
+    "id": 18,
+    "itemId": "object_of_pronoun_position",
+    "prompt": "She invited ___ to the party.",
+    "answer": "us all",
+    "distractors": ["all us", "us of all", "all us of"]
+  },
+  {
+    "id": 19,
+    "itemId": "object_of_pronoun_position",
+    "prompt": "I gave ___ a copy of the report.",
+    "answer": "them each",
+    "distractors": ["each them", "them of each", "each them of"]
+  },
+  {
+    "id": 20,
+    "itemId": "object_of_pronoun_position",
+    "prompt": "___ agreed, but not everyone was convinced.",
+    "answer": "All of them",
+    "distractors": ["All them", "Them all of", "All of they"]
+  },
+  {
+    "id": 21,
+    "itemId": "object_of_pronoun_position",
+    "prompt": "I'd like to thank ___ for their support.",
+    "answer": "both of you",
+    "distractors": ["both you", "you both of", "both of your"]
+  },
+  {
+    "id": 22,
+    "itemId": "object_of_pronoun_position",
+    "prompt": "I explained the plan to ___ separately.",
+    "answer": "each of them",
+    "distractors": ["them each of", "each them of", "of each them"]
+  },
+  {
+    "id": 23,
+    "itemId": "object_of_pronoun_position",
+    "prompt": "The manager praised ___ for their effort.",
+    "answer": "them all",
+    "distractors": ["all them", "them of all", "all them of"]
+  },
+  {
+    "id": 24,
+    "itemId": "object_of_pronoun_position",
+    "prompt": "Can I invite ___ to dinner?",
+    "answer": "you both",
+    "distractors": ["both you", "you of both", "both you of"]
+  },
+  {
+    "id": 25,
+    "itemId": "negation_scope_style",
+    "prompt": "The students ___ agree with the new policy.",
+    "answer": "don't all",
+    "distractors": ["all don't", "not all don't", "all not"]
+  },
+  {
+    "id": 26,
+    "itemId": "negation_scope_style",
+    "prompt": "___ of the students passed the final exam — every single one failed.",
+    "answer": "None",
+    "distractors": ["Not all", "Not both", "All not"]
+  },
+  {
+    "id": 27,
+    "itemId": "negation_scope_style",
+    "prompt": "We ___ make it to the meeting — only one of us did.",
+    "answer": "didn't both",
+    "distractors": ["both didn't", "not both didn't", "both not"]
+  },
+  {
+    "id": 28,
+    "itemId": "negation_scope_style",
+    "prompt": "___ of them agreed to the proposal — they both refused.",
+    "answer": "Neither",
+    "distractors": ["None", "Not each", "Both not"]
+  },
+  {
+    "id": 29,
+    "itemId": "negation_scope_style",
+    "prompt": "The committee ___ approve the plan — some members were against it.",
+    "answer": "didn't all",
+    "distractors": ["all didn't", "not all didn't", "all not"]
+  },
+  {
+    "id": 30,
+    "itemId": "negation_scope_style",
+    "prompt": "To avoid ambiguity about total refusal, it's clearer to say '___ of the guests came' rather than 'The guests didn't all come'.",
+    "answer": "None",
+    "distractors": ["Not all", "All not", "Not every"]
+  },
+  {
+    "id": 31,
+    "itemId": "negation_scope_style",
+    "prompt": "The floated form 'The students didn't all pass' unambiguously means ___ of them passed.",
+    "answer": "not all",
+    "distractors": ["none", "all", "most"]
+  },
+  {
+    "id": 32,
+    "itemId": "negation_scope_style",
+    "prompt": "In casual speech we usually say 'They're all here', while formal writing prefers '___ of them are here'.",
+    "answer": "All",
+    "distractors": ["Every", "Each", "Both"]
+  }
+]
