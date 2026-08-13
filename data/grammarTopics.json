@@ -824,5 +824,12 @@
     "title": "Odniesienie rodzajowe",
     "desc": "The tiger / a tiger / tigers oraz brak przedimka z instytucjami (school, prison, hospital) — jak mówić ogólnie o całych klasach rzeczy, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "whether_or_clauses",
+    "icon": "🔱",
+    "title": "Whether… or",
+    "desc": "Whether...or (not) — ustępstwo i alternatywa niezależna od wyboru (whether you like it or not, whether by accident or design) — budowa, użycie, kontrast z if, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

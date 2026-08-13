@@ -126,6 +126,7 @@ const THEORY_URLS = {
   unreal_past: new URL("../data/unreal_past.json", import.meta.url),
   formal_reference: new URL("../data/formal_reference.json", import.meta.url),
   generic_reference: new URL("../data/generic_reference.json", import.meta.url),
+  whether_or_clauses: new URL("../data/whether_or_clauses.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -247,6 +248,7 @@ const DRILLS_URLS = {
   unreal_past: new URL("../data/unreal_pastDrills.json", import.meta.url),
   formal_reference: new URL("../data/formal_referenceDrills.json", import.meta.url),
   generic_reference: new URL("../data/generic_referenceDrills.json", import.meta.url),
+  whether_or_clauses: new URL("../data/whether_or_clausesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

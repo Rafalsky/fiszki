@@ -1,0 +1,182 @@
+[
+  {
+    "id": "whether_or_basic",
+    "order": 1,
+    "nameEn": "whether ... or (not) — concession",
+    "namePl": "whether ... or (not) — ustępstwo niezależne od wyboru",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "Whether + podmiot + orzeczenie + or (+ podmiot) + orzeczenie, ... (zdanie główne) — dwie wykluczające się możliwości, z których żadna nie zmienia wyniku"
+      },
+      {
+        "label": "znaczenie",
+        "text": "= \"bez względu na to, czy... czy...\" — mówiący sygnalizuje, że decyzja/wynik jest taki sam niezależnie od tego, która z dwóch (lub więcej) opcji się sprawdzi"
+      },
+      {
+        "label": "whether ... or not",
+        "text": "gdy druga opcja to po prostu zaprzeczenie pierwszej, zamiast powtarzać całe zdanie używamy skróconego \"or not\": whether you agree or not"
+      }
+    ],
+    "usage": [
+      "Whether you agree or not, the decision has been made. — decyzja jest niezależna od zgody rozmówcy",
+      "Whether it rains or shines, the match will go ahead. — dwie przeciwstawne możliwości pogodowe, wynik ten sam",
+      "Whether she wins or loses, she'll have given her best. — obie możliwości prowadzą do tej samej konkluzji",
+      "Whether we like it or not, prices are going to rise. — akceptacja faktu nie ma wpływu na jego zaistnienie"
+    ],
+    "tags": ["whether or not", "concession", "regardless", "alternative"],
+    "examples": [
+      {
+        "en": "Whether you like it or not, you have to attend the meeting.",
+        "pl": "Czy ci się to podoba, czy nie, musisz przyjść na spotkanie."
+      },
+      {
+        "en": "Whether he apologises or stays silent, I've already forgiven him.",
+        "pl": "Czy przeprosi, czy będzie milczał, i tak już mu wybaczyłam."
+      },
+      {
+        "en": "Whether the plan succeeds or fails, we'll have learned something.",
+        "pl": "Czy plan się powiedzie, czy nie, i tak się czegoś nauczymy."
+      },
+      {
+        "en": "Whether you vote for it or against it, the law will pass anyway.",
+        "pl": "Czy zagłosujesz za, czy przeciw, ustawa i tak przejdzie."
+      }
+    ]
+  },
+  {
+    "id": "whether_or_ellipsis",
+    "order": 2,
+    "nameEn": "ellipsis after whether",
+    "namePl": "elipsa po whether — pomijanie podmiotu i czasownika be",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "whether + przymiotnik/imiesłów/fraza przyimkowa + or + przymiotnik/imiesłów/fraza przyimkowa — podmiot i czasownik be są domyślne i pomijane"
+      },
+      {
+        "label": "kiedy stosować",
+        "text": "gdy podmiot obu wariantów jest ten sam, a różni się tylko orzecznik — pełna forma z powtórzonym podmiotem i be brzmi sztucznie i przeładowanie"
+      },
+      {
+        "label": "rekonstrukcja",
+        "text": "whether right or wrong = whether it is right or wrong; whether by accident or design = whether it happened by accident or by design"
+      }
+    ],
+    "usage": [
+      "Whether right or wrong, she always defends her team. — pominięte \"she is\"",
+      "Whether by accident or design, the two events coincided. — pominięte \"it happened\"",
+      "Whether awake or asleep, he keeps mumbling numbers. — pominięte \"he is\"",
+      "Whether at work or at home, she never stops worrying about the project. — pominięte \"she is\""
+    ],
+    "tags": ["ellipsis", "whether right or wrong", "by accident or design", "concision"],
+    "examples": [
+      {
+        "en": "Whether guilty or innocent, he deserves a fair trial.",
+        "pl": "Czy jest winny, czy niewinny, zasługuje na sprawiedliwy proces."
+      },
+      {
+        "en": "Whether intentional or not, the remark caused real offence.",
+        "pl": "Czy zamierzona, czy nie, uwaga naprawdę kogoś uraziła."
+      },
+      {
+        "en": "Whether in public or in private, he always speaks his mind.",
+        "pl": "Czy publicznie, czy prywatnie, zawsze mówi, co myśli."
+      },
+      {
+        "en": "Whether out of curiosity or out of concern, she kept asking questions.",
+        "pl": "Czy z ciekawości, czy z troski, wciąż zadawała pytania."
+      }
+    ]
+  },
+  {
+    "id": "whether_or_vs_if",
+    "order": 3,
+    "nameEn": "whether ... or vs. if",
+    "namePl": "whether ... or a if — różnica w funkcji",
+    "rules": [
+      {
+        "label": "whether ... or (ustępstwo)",
+        "text": "wprowadza dwie (lub więcej) alternatywy i mówi, że wynik zdania głównego jest taki sam bez względu na to, która się ziści"
+      },
+      {
+        "label": "if (warunek)",
+        "text": "if wprowadza pojedynczy warunek, od którego zależy wynik zdania głównego — nie sygnalizuje żadnej alternatywy"
+      },
+      {
+        "label": "if w zdaniu rzeczownikowym",
+        "text": "nie mylić z if/whether jako spójnikiem wprowadzającym pytanie pośrednie (I don't know if/whether she's coming) — to inna, niekoncesywna funkcja: tam whether/if są wymienne, tutaj whether jest jedyną poprawną opcją"
+      }
+    ],
+    "usage": [
+      "Whether it rains or not, we're going hiking. (ustępstwo — pogoda nie zmieni decyzji)",
+      "If it rains, we'll cancel the hike. (warunek — deszcz zmienia decyzję)",
+      "Whether you call or email, let me know by Friday. (dwie równorzędne opcje, ten sam skutek)",
+      "*If you call or email... — brzmi niepoprawnie w znaczeniu koncesywnym; if nie łączy się naturalnie z or w tej funkcji"
+    ],
+    "tags": ["whether vs if", "concession vs condition", "contrast"],
+    "examples": [
+      {
+        "en": "Whether you agree with me or not, I'm going ahead with the plan.",
+        "pl": "Czy zgadzasz się ze mną, czy nie, i tak realizuję ten plan."
+      },
+      {
+        "en": "If you agree with me, we can start today.",
+        "pl": "Jeśli się ze mną zgadzasz, możemy zacząć dziś."
+      },
+      {
+        "en": "Whether the train is late or on time, I always leave early just in case.",
+        "pl": "Czy pociąg się spóźni, czy przyjedzie na czas, i tak wychodzę wcześnie na wszelki wypadek."
+      },
+      {
+        "en": "If the train is late, I'll miss my connection.",
+        "pl": "Jeśli pociąg się spóźni, przegapię przesiadkę."
+      }
+    ]
+  },
+  {
+    "id": "whether_or_not_adverbial",
+    "order": 4,
+    "nameEn": "whether or not as a fixed adverbial",
+    "namePl": "whether or not jako stały zwrot przysłówkowy",
+    "rules": [
+      {
+        "label": "pozycja stała",
+        "text": "\"whether or not\" może występować jako niepodzielna fraza wtrącona w środku lub na końcu zdania, bez powtarzania czasownika ani podmiotu"
+      },
+      {
+        "label": "whether or not + rzeczownik/gerund",
+        "text": "po whether or not może też stać rzeczownik lub forma -ing zamiast całego zdania: whether or not to accept the offer"
+      },
+      {
+        "label": "rejestr",
+        "text": "konstrukcja jest neutralna do formalnej — częsta w pisanym angielskim, umowach, regulaminach i oficjalnych ogłoszeniach"
+      }
+    ],
+    "usage": [
+      "I will attend the meeting, whether or not it rains. — fraza wtrącona po przecinku, na końcu",
+      "Whether or not you agree, the policy takes effect on Monday. — fraza na początku zdania",
+      "We still have to decide whether or not to accept the offer. — whether or not + bezokolicznik",
+      "The fee is charged whether or not the service is used. — rejestr formalny, typowy dla regulaminów"
+    ],
+    "tags": ["whether or not", "fixed phrase", "formal register", "adverbial"],
+    "examples": [
+      {
+        "en": "The event will take place, whether or not the weather improves.",
+        "pl": "Wydarzenie odbędzie się, niezależnie od tego, czy pogoda się poprawi."
+      },
+      {
+        "en": "Whether or not you're interested, I think you should know the facts.",
+        "pl": "Niezależnie od tego, czy cię to interesuje, myślę, że powinieneś znać fakty."
+      },
+      {
+        "en": "She hasn't decided whether or not to move abroad.",
+        "pl": "Nie zdecydowała jeszcze, czy przeprowadzić się za granicę, czy nie."
+      },
+      {
+        "en": "Membership fees apply whether or not you use the facilities.",
+        "pl": "Opłata członkowska obowiązuje niezależnie od tego, czy korzystasz z obiektów."
+      }
+    ]
+  }
+]
