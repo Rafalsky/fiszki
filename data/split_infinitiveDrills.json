@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "itemId": "basic_pattern",
+    "prompt": "Its five-year mission: ___ where no one has gone before.",
+    "answer": "to boldly go",
+    "distractors": ["to go boldly", "boldly to go", "to bold go"]
+  },
+  {
+    "id": 2,
+    "itemId": "basic_pattern",
+    "prompt": "I need you ___ on this task.",
+    "answer": "to really focus",
+    "distractors": ["to focus really", "really to focus", "to real focus"]
+  },
+  {
+    "id": 3,
+    "itemId": "basic_pattern",
+    "prompt": "She decided ___ her working hours.",
+    "answer": "to gradually reduce",
+    "distractors": ["to reduce gradually", "gradually to reduce", "to gradual reduce"]
+  },
+  {
+    "id": 4,
+    "itemId": "basic_pattern",
+    "prompt": "He promised ___ to her again.",
+    "answer": "to never lie",
+    "distractors": ["to lie never", "never to lie", "to never lied"]
+  },
+  {
+    "id": 5,
+    "itemId": "basic_pattern",
+    "prompt": "Scientists hope ___ how the disease spreads.",
+    "answer": "to fully understand",
+    "distractors": ["to understand fully", "fully to understand", "to full understand"]
+  },
+  {
+    "id": 6,
+    "itemId": "basic_pattern",
+    "prompt": "They want ___ their customers better.",
+    "answer": "to really serve",
+    "distractors": ["to serve really", "really to serve", "to real serve"]
+  },
+  {
+    "id": 7,
+    "itemId": "basic_pattern",
+    "prompt": "It's important ___ this point before moving on.",
+    "answer": "to clearly explain",
+    "distractors": ["to explain clearly", "clearly to explain", "to clear explain"]
+  },
+  {
+    "id": 8,
+    "itemId": "basic_pattern",
+    "prompt": "We plan ___ the whole process by next year.",
+    "answer": "to completely automate",
+    "distractors": ["to automate completely", "completely to automate", "to complete automate"]
+  },
+  {
+    "id": 9,
+    "itemId": "prescriptive_rule_history",
+    "prompt": "Modern style guides agree it's fine ___ an infinitive.",
+    "answer": "to boldly split",
+    "distractors": ["to split boldly", "boldly to split", "boldly split to"]
+  },
+  {
+    "id": 10,
+    "itemId": "prescriptive_rule_history",
+    "prompt": "Some conservative editors still prefer 'to state clearly' over '___'.",
+    "answer": "to clearly state",
+    "distractors": ["clearly to state", "state to clearly", "to clear state"]
+  },
+  {
+    "id": 11,
+    "itemId": "prescriptive_rule_history",
+    "prompt": "The 'rule' against splitting was borrowed from ___ grammar.",
+    "answer": "Latin",
+    "distractors": ["Greek", "French", "German"]
+  },
+  {
+    "id": 12,
+    "itemId": "prescriptive_rule_history",
+    "prompt": "In Latin, the infinitive is ___ word, so it cannot be split.",
+    "answer": "one",
+    "distractors": ["two", "three", "no"]
+  },
+  {
+    "id": 13,
+    "itemId": "prescriptive_rule_history",
+    "prompt": "Rewriting every split infinitive can make a text sound ___.",
+    "answer": "stiff and old-fashioned",
+    "distractors": ["clear and modern", "short and simple", "loud and direct"]
+  },
+  {
+    "id": 14,
+    "itemId": "prescriptive_rule_history",
+    "prompt": "Fowler's Modern English Usage treats the split infinitive as fully ___.",
+    "answer": "grammatical",
+    "distractors": ["archaic", "illegal", "childish"]
+  },
+  {
+    "id": 15,
+    "itemId": "prescriptive_rule_history",
+    "prompt": "Very formal legal writing sometimes still avoids ___ infinitives.",
+    "answer": "split",
+    "distractors": ["short", "passive", "bare"]
+  },
+  {
+    "id": 16,
+    "itemId": "prescriptive_rule_history",
+    "prompt": "The rewritten line, '___ where no one has gone before', sounds stiffer than the original.",
+    "answer": "to go boldly",
+    "distractors": ["to boldly go", "boldly go to", "to bold go"]
+  },
+  {
+    "id": 17,
+    "itemId": "disambiguation",
+    "prompt": "He failed ___ the plan — he understood only part of it.",
+    "answer": "to completely understand",
+    "distractors": ["to understand completely", "completely to understand", "to complete understand"]
+  },
+  {
+    "id": 18,
+    "itemId": "disambiguation",
+    "prompt": "He ___ the plan — he understood nothing at all.",
+    "answer": "completely failed to understand",
+    "distractors": ["failed to completely understand", "failed completely to understand", "completely failed understand to"]
+  },
+  {
+    "id": 19,
+    "itemId": "disambiguation",
+    "prompt": "He decided ___ the company — it's unclear whether the deciding or the leaving was gradual.",
+    "answer": "gradually to leave",
+    "distractors": ["to gradually leave", "to leave gradually", "gradually leave to"]
+  },
+  {
+    "id": 20,
+    "itemId": "disambiguation",
+    "prompt": "He decided ___ the company, which clearly means he would leave in stages.",
+    "answer": "to gradually leave",
+    "distractors": ["gradually to leave", "to leave gradually", "to leaving gradually"]
+  },
+  {
+    "id": 21,
+    "itemId": "disambiguation",
+    "prompt": "The committee failed ___ the risks (partial appreciation).",
+    "answer": "to fully appreciate",
+    "distractors": ["fully to appreciate", "to appreciate fully", "to full appreciate"]
+  },
+  {
+    "id": 22,
+    "itemId": "disambiguation",
+    "prompt": "The committee ___ the risks (no appreciation at all).",
+    "answer": "fully failed to appreciate",
+    "distractors": ["failed to fully appreciate", "failed fully to appreciate", "fully failed appreciate to"]
+  },
+  {
+    "id": 23,
+    "itemId": "disambiguation",
+    "prompt": "We agreed ___ the old system, step by step.",
+    "answer": "to gradually phase out",
+    "distractors": ["to phase out gradually", "gradually to phase out", "to gradual phase out"]
+  },
+  {
+    "id": 24,
+    "itemId": "disambiguation",
+    "prompt": "I want you ___ about what you just said.",
+    "answer": "to really think",
+    "distractors": ["to think really", "really to think", "to real think"]
+  },
+  {
+    "id": 25,
+    "itemId": "style_restraint",
+    "prompt": "The plan is ___ into new markets.",
+    "answer": "to gradually expand",
+    "distractors": ["to expand gradually", "gradually to expand", "to gradual expand"]
+  },
+  {
+    "id": 26,
+    "itemId": "style_restraint",
+    "prompt": "Trying ___ the project backfired.",
+    "answer": "to boldly and quickly finish",
+    "distractors": ["to quickly and boldly finish", "to finish boldly and quickly", "boldly and quickly to finish"]
+  },
+  {
+    "id": 27,
+    "itemId": "style_restraint",
+    "prompt": "It's better ___ the whole paragraph than to overload the infinitive with adverbs.",
+    "answer": "to carefully rewrite",
+    "distractors": ["to rewrite carefully", "carefully to rewrite", "to careful rewrite"]
+  },
+  {
+    "id": 28,
+    "itemId": "style_restraint",
+    "prompt": "She asked him ___ the results.",
+    "answer": "to simply explain",
+    "distractors": ["to explain simply", "simply to explain", "to simple explain"]
+  },
+  {
+    "id": 29,
+    "itemId": "style_restraint",
+    "prompt": "A single short adverb, like in 'to really help', reads better than a ___ adverbial phrase.",
+    "answer": "heavy",
+    "distractors": ["short", "single", "silent"]
+  },
+  {
+    "id": 30,
+    "itemId": "style_restraint",
+    "prompt": "Careful writers usually avoid a ___ split, such as 'to boldly and quickly go'.",
+    "answer": "double",
+    "distractors": ["single", "hidden", "formal"]
+  },
+  {
+    "id": 31,
+    "itemId": "style_restraint",
+    "prompt": "For very formal writing, it's sometimes better ___ the sentence than force an awkward split.",
+    "answer": "to rewrite",
+    "distractors": ["to splitting", "rewriting to", "to rewritten"]
+  },
+  {
+    "id": 32,
+    "itemId": "style_restraint",
+    "prompt": "The safest style choice is usually ___ adverb between 'to' and the verb.",
+    "answer": "one short",
+    "distractors": ["two long", "no", "three short"]
+  }
+]

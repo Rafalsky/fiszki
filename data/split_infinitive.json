@@ -1,0 +1,102 @@
+[
+  {
+    "id": "basic_pattern",
+    "order": 1,
+    "nameEn": "The split infinitive — to + adverb + verb",
+    "namePl": "Rozdzielony bezokolicznik — to + przysłówek + czasownik",
+    "rules": [
+      { "label": "Definicja", "text": "Rozdzielony bezokolicznik (split infinitive) powstaje, gdy między 'to' a czasownikiem w formie podstawowej wstawia się przysłówek: to boldly go, to really understand, to never give up — przysłówek 'rozdziela' cząstkę 'to' od czasownika, zamiast stać przed 'to' lub po całym bezokoliczniku" },
+      { "label": "Typowe przysłówki w tej pozycji", "text": "Najczęściej trafiają tam przysłówki sposobu i stopnia oraz przysłówki częstotliwości: really, actually, completely, fully, clearly, gradually, always, never, just — czyli te same przysłówki, które w zdaniu twierdzącym stoją zwykle w pozycji środkowej (por. temat 'Szyk zdania')" },
+      { "label": "To naturalne miejsce w mowie", "text": "Wstawienie przysłówka tuż przed czasownikiem głównym brzmi w mówionej angielszczyźnie najbardziej naturalnie, bo przysłówek stoi wtedy bezpośrednio przy słowie, które opisuje: I want you to really listen to this brzmi płynniej niż I want you to listen really to this" },
+      { "label": "Nie mylić z przysłówkiem przed 'to' lub po bezokoliczniku", "text": "He decided really to leave (przed 'to') i He decided to leave really (po całym bezokoliczniku) to NIE są split infinitives — w obu przypadkach 'to' i czasownik zostają razem; rozdzielenie zachodzi tylko wtedy, gdy przysłówek wchodzi dokładnie między 'to' a czasownik" }
+    ],
+    "usage": [
+      "Naturalne, płynne umieszczenie przysłówka sposobu lub stopnia tuż przy czasowniku, który opisuje (to really enjoy, to fully understand)",
+      "Podkreślenie znaczenia przysłówka poprzez umieszczenie go w newralgicznym punkcie zdania, tuż przed czynnością",
+      "Bardzo częste w mowie potocznej i we współczesnym piśmie nieformalnym oraz dziennikarskim",
+      "Znane, utrwalone w kulturze przykłady (to boldly go) pokazują, że konstrukcja jest w pełni naturalna dla rodzimych użytkowników"
+    ],
+    "tags": ["to boldly go", "to really understand", "to fully appreciate", "to never give up"],
+    "examples": [
+      { "en": "To boldly go where no one has gone before.", "pl": "Śmiało iść tam, gdzie jeszcze nikt nie dotarł." },
+      { "en": "I need you to really focus on this task.", "pl": "Musisz się naprawdę skupić na tym zadaniu." },
+      { "en": "She decided to gradually reduce her working hours.", "pl": "Zdecydowała się stopniowo skracać swój czas pracy." },
+      { "en": "He promised to never lie to her again.", "pl": "Obiecał, że już nigdy jej nie okłamie." }
+    ]
+  },
+  {
+    "id": "prescriptive_rule_history",
+    "order": 2,
+    "nameEn": "The traditional 'rule' against splitting — origin and modern status",
+    "namePl": "Tradycyjny zakaz rozdzielania bezokolicznika — pochodzenie i współczesny status",
+    "rules": [
+      { "label": "Pochodzenie zakazu z łaciny", "text": "Zakaz rozdzielania bezokolicznika wywodzi się z gramatyki łacińskiej, gdzie bezokolicznik to jedno słowo (np. habere) i fizycznie nie da się go rozdzielić — XIX-wieczni gramatycy-normatywiści przenieśli tę zasadę na angielski, mimo że angielski bezokolicznik składa się z DWÓCH oddzielnych słów (to + czasownik)" },
+      { "label": "Współczesny status: w pełni akceptowalne", "text": "Dziś czołowe autorytety językowe (np. Fowler's Modern English Usage, Merriam-Webster, Garner's Modern English Usage) zgodnie uznają split infinitive za w pełni gramatyczny, a często wręcz za najlepszy, najbardziej naturalny wybór" },
+      { "label": "Konserwatywne rejestry wciąż go unikają", "text": "Bardzo formalne, zachowawcze konteksty (część pism prawniczych, tradycyjny styl akademicki, niektóre wydawnictwa) nadal wolą unikać rozdzielonego bezokolicznika, żeby nie drażnić czytelników trzymających się starej zasady — to kwestia rejestru i ostrożności, nie poprawności gramatycznej" },
+      { "label": "Unikanie za wszelką cenę bywa gorsze", "text": "Sztuczne przestawianie przysłówka tylko po to, by uniknąć rozdzielenia, często brzmi bardziej nienaturalnie niż sam split infinitive: to go boldly albo boldly to go brzmią sztywno i archaicznie w porównaniu z naturalnym to boldly go" }
+    ],
+    "usage": [
+      "Świadomy wybór między rozdzielonym a nierozdzielonym bezokolicznikiem w zależności od rejestru tekstu",
+      "Rozpoznanie, że 'zakaz' rozdzielania to spuścizna historyczna, a nie żywa zasada gramatyczna współczesnego angielskiego",
+      "Unikanie sztucznie sztywnych zdań powstałych z przesadnego trzymania się przestarzałej reguły",
+      "Dostosowanie stylu do bardzo formalnych kontekstów, gdzie konserwatywni czytelnicy mogą nadal oczekiwać unikania rozdzielenia"
+    ],
+    "tags": ["Fowler's Modern English Usage", "prescriptive vs descriptive", "formal register", "to boldly go"],
+    "examples": [
+      { "en": "Modern style guides agree that it's fine to boldly split an infinitive.", "pl": "Współczesne poradniki stylistyczne zgadzają się, że można spokojnie rozdzielić bezokolicznik." },
+      { "en": "Some conservative editors still prefer 'to state clearly' over 'to clearly state'.", "pl": "Niektórzy konserwatywni redaktorzy nadal wolą 'to state clearly' niż 'to clearly state'." },
+      { "en": "Rewriting every split infinitive can make a text sound stiff and old-fashioned.", "pl": "Poprawianie każdego rozdzielonego bezokolicznika może sprawić, że tekst zabrzmi sztywno i staroświecko." },
+      { "en": "The 'rule' was borrowed from Latin grammar, where it never really applied to English.", "pl": "Ta 'zasada' została zapożyczona z gramatyki łacińskiej, gdzie nigdy tak naprawdę nie miała zastosowania do angielskiego." }
+    ]
+  },
+  {
+    "id": "disambiguation",
+    "order": 3,
+    "nameEn": "Splitting to avoid ambiguity or awkwardness",
+    "namePl": "Rozdzielenie bezokolicznika, by uniknąć dwuznaczności lub niezręczności",
+    "rules": [
+      { "label": "Pozycja przysłówka zmienia znaczenie", "text": "He failed to completely understand the plan (nie zrozumiał planu w pełni — częściowe zrozumienie) różni się znaczeniowo od He completely failed to understand the plan (całkowicie nie zrozumiał planu) — przesunięcie przysłówka zmienia to, CO dokładnie jest 'completely'" },
+      { "label": "Nierozdzielona wersja bywa dwuznaczna", "text": "He decided gradually to leave the company jest dwuznaczne — nie wiadomo, czy 'gradually' opisuje decydowanie (decydował stopniowo) czy odchodzenie (odchodził stopniowo); He decided to gradually leave the company jednoznacznie wiąże 'gradually' z odchodzeniem" },
+      { "label": "Split infinitive jako narzędzie precyzji", "text": "Kiedy przesunięcie przysłówka przed 'to' lub na koniec zdania zmieniłoby sens albo brzmiałoby dwuznacznie, rozdzielenie bezokolicznika jest nie tylko dopuszczalne, ale wręcz najjaśniejszą, zalecaną opcją" },
+      { "label": "Zasada praktyczna", "text": "Wybieraj tę pozycję przysłówka, która usuwa dwuznaczność i brzmi najbardziej naturalnie w danym zdaniu — nie ma jednej 'poprawnej' pozycji dla każdego zdania, liczy się jasność przekazu" }
+    ],
+    "usage": [
+      "Rozstrzyganie dwuznaczności powstałych przy przenoszeniu przysłówka poza pozycję między 'to' a czasownikiem",
+      "Świadomy dobór miejsca przysłówka tak, by jasno wskazywał, którą część zdania modyfikuje",
+      "Poprawianie zdań, w których unikanie rozdzielenia sprawiło, że znaczenie stało się niejasne",
+      "Analiza kontrastu znaczeniowego między różnymi pozycjami tego samego przysłówka w zdaniu"
+    ],
+    "tags": ["failed to completely understand", "decided gradually to leave", "ambiguity", "clarity over rule"],
+    "examples": [
+      { "en": "The committee failed to fully appreciate the risks.", "pl": "Komisja nie doceniła w pełni tego ryzyka." },
+      { "en": "The committee fully failed to appreciate the risks.", "pl": "Komisja zupełnie nie doceniła tego ryzyka." },
+      { "en": "We agreed to gradually phase out the old system.", "pl": "Zgodziliśmy się stopniowo wycofywać stary system." },
+      { "en": "I want you to really think about what you just said.", "pl": "Chcę, żebyś naprawdę przemyślał to, co przed chwilą powiedziałeś." }
+    ]
+  },
+  {
+    "id": "style_restraint",
+    "order": 4,
+    "nameEn": "Style guidance: single splits, double splits, and heavy adverbials",
+    "namePl": "Wskazówki stylistyczne: pojedyncze rozdzielenie, podwójne rozdzielenie i ciężkie okoliczniki",
+    "rules": [
+      { "label": "Preferuj krótki, pojedynczy przysłówek", "text": "Najlepiej brzmi jedno krótkie słowo między 'to' a czasownikiem: to really help, to fully understand — długie lub wielosłowne frazy przysłówkowe w tej pozycji szybko robią się ciężkie i niezgrabne" },
+      { "label": "Unikaj podwójnego rozdzielenia", "text": "Wstawienie dwóch przysłówków naraz zwykle brzmi niezręcznie: to boldly and quickly go jest cięższe niż to go quickly and boldly albo przeredagowanie zdania — starannie napisany tekst zwykle ogranicza się do jednego przysłówka w tej pozycji" },
+      { "label": "Unikaj ciężkich fraz przysłówkowych", "text": "Rozbudowane okoliczniki (to slowly and very carefully explain everything in detail) lepiej przenieść poza rdzeń bezokolicznika i przeredagować zdanie, bo nagromadzenie słów między 'to' a czasownikiem utrudnia czytanie" },
+      { "label": "Reguła ogólna", "text": "Rozdzielony bezokolicznik z pojedynczym, krótkim przysłówkiem jest standardowy i często najlepszy; gdy wymagałoby to długiego lub podwójnego przysłówka, albo tekst jest wyjątkowo formalny, warto rozważyć przeredagowanie zdania zamiast rozdzielania na siłę" }
+    ],
+    "usage": [
+      "Ocena, kiedy rozdzielony bezokolicznik z jednym przysłówkiem jest najlepszym, najbardziej naturalnym wyborem stylistycznym",
+      "Rozpoznawanie i poprawianie niezręcznych podwójnych rozdzieleń oraz zbyt ciężkich fraz przysłówkowych",
+      "Redagowanie zdań w stylu formalnym z umiarem — jeden krótki przysłówek zamiast rozbudowanej frazy",
+      "Podejmowanie decyzji redakcyjnej: zostawić rozdzielony bezokolicznik czy przeredagować całe zdanie dla lekkości stylu"
+    ],
+    "tags": ["single adverb only", "double split", "heavy adverbial phrase", "rewrite for clarity"],
+    "examples": [
+      { "en": "The plan is to gradually expand into new markets.", "pl": "Plan zakłada stopniową ekspansję na nowe rynki." },
+      { "en": "Trying to boldly and quickly finish the project backfired.", "pl": "Próba śmiałego i szybkiego dokończenia projektu na siebie się nie sprawdziła." },
+      { "en": "It's better to carefully rewrite the whole paragraph than to overload the infinitive with adverbs.", "pl": "Lepiej starannie przeredagować cały akapit, niż przeładowywać bezokolicznik przysłówkami." },
+      { "en": "She asked him to simply explain the results.", "pl": "Poprosiła go, żeby po prostu wyjaśnił wyniki." }
+    ]
+  }
+]
