@@ -1,0 +1,218 @@
+[
+  {
+    "id": "gapping_basic",
+    "order": 1,
+    "nameEn": "Gapping — omitting a repeated verb in coordination",
+    "namePl": "Gapping — pomijanie powtórzonego czasownika w zdaniu współrzędnym",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "W drugim (i kolejnym) zdaniu współrzędnym pomijamy powtarzający się czasownik, zostawiając tylko kontrastowane elementy: Tom had steak, and Ann salad. (= Ann had salad)"
+      },
+      {
+        "label": "Wymagana koordynacja",
+        "text": "Gapping działa wyłącznie w zdaniach połączonych spójnikiem współrzędnym (and, but, or) — nigdy w zdaniu podrzędnym wprowadzonym przez because, although czy when"
+      },
+      {
+        "label": "Luka w środku",
+        "text": "Pominięty element znajduje się w środku drugiego zdania, między dwoma pozostawionymi elementami — stąd nazwa 'gapping' (luka)"
+      },
+      {
+        "label": "Paralelizm",
+        "text": "Konstrukcja wymaga wyraźnej symetrii między zdaniami — te same role gramatyczne (podmiot, dopełnienie) muszą się sobie odpowiadać"
+      }
+    ],
+    "usage": [
+      "Unikanie powtórzeń przy wyliczaniu równoległych faktów lub kontrastów (Some students chose French, others German.)",
+      "Częste w stylu formalnym i pisanym — w mowie potocznej ludzie chętniej powtarzają czasownik",
+      "Można pominąć więcej niż jeden element, jeśli obie części zdania mają identyczną strukturę składniową",
+      "Nie da się zastosować gappingu, jeśli zdania łączy spójnik podrzędny lub jeśli struktury nie są symetryczne"
+    ],
+    "tags": [
+      "gapping",
+      "Tom had steak, and Ann salad",
+      "elipsa czasownika",
+      "zdania współrzędne"
+    ],
+    "examples": [
+      {
+        "en": "Tom ordered fish, and Mary chicken.",
+        "pl": "Tom zamówił rybę, a Mary kurczaka."
+      },
+      {
+        "en": "Some students chose French, and others German.",
+        "pl": "Niektórzy studenci wybrali francuski, a inni niemiecki."
+      },
+      {
+        "en": "He plays the guitar, and his sister the piano.",
+        "pl": "On gra na gitarze, a jego siostra na pianinie."
+      },
+      {
+        "en": "One group studied grammar, and the other vocabulary.",
+        "pl": "Jedna grupa uczyła się gramatyki, a druga słownictwa."
+      }
+    ]
+  },
+  {
+    "id": "stripping",
+    "order": 2,
+    "nameEn": "Stripping — bare argument ellipsis with too / either / not",
+    "namePl": "Stripping — pozostawienie tylko jednego elementu zdania",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Cały drugi predykat znika, a zostaje tylko jeden element (najczęściej podmiot) plus too/as well (zgoda) albo not (zaprzeczenie): Tom likes coffee, and Ann too. / Tom likes coffee, but not Ann."
+      },
+      {
+        "label": "Różnica względem gappingu",
+        "text": "Gapping zostawia dwa lub więcej kontrastowanych elementów; stripping redukuje drugie zdanie do JEDNEGO elementu — reszta predykatu znika bez śladu, bez żadnego operatora pomocniczego"
+      },
+      {
+        "label": "Pozycja too/not",
+        "text": "too/as well stoi bezpośrednio po zachowanym elemencie (and Ann too), a not zwykle poprzedza go po spójniku but (but not Ann)"
+      },
+      {
+        "label": "Zachowany element",
+        "text": "Elementem, który zostaje, może być podmiot, dopełnienie lub okolicznik — zależnie od tego, co jest w danym zdaniu kontrastowane"
+      }
+    ],
+    "usage": [
+      "Krótkie, eliptyczne potwierdzenie lub zaprzeczenie tego samego faktu wobec innego podmiotu lub obiektu",
+      "Bardzo naturalne w mowie potocznej jako sposób na uniknięcie powtarzania całego predykatu",
+      "Not bez operatora pomocniczego brzmi bardziej zwięźle niż pełna forma z 'doesn't/isn't'",
+      "Nie należy mylić strippingu z elipsą czasownikową (so/neither + operator), gdzie operator pomocniczy pozostaje w zdaniu"
+    ],
+    "tags": [
+      "stripping",
+      "and Ann too",
+      "but not Tom",
+      "elipsa argumentu"
+    ],
+    "examples": [
+      {
+        "en": "John smokes, and Mary too.",
+        "pl": "John pali, Mary też."
+      },
+      {
+        "en": "I like jazz, but not classical music.",
+        "pl": "Lubię jazz, ale nie muzykę klasyczną."
+      },
+      {
+        "en": "We won the first game, and the second too.",
+        "pl": "Wygraliśmy pierwszy mecz, i drugi też."
+      },
+      {
+        "en": "She trusts him, but not his brother.",
+        "pl": "Ona mu ufa, ale nie jego bratu."
+      }
+    ]
+  },
+  {
+    "id": "pseudo_gapping",
+    "order": 3,
+    "nameEn": "Pseudo-gapping — auxiliary retained with a contrasted element",
+    "namePl": "Pseudo-gapping — zachowany operator + element kontrastowy",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Operator (auxiliary/modal) zostaje w zdaniu, a główny czasownik znika, zostawiając za sobą kontrastowany element: I haven't visited Rome, but I have Paris. (= I have visited Paris)"
+      },
+      {
+        "label": "Kontrast z gappingiem",
+        "text": "Klasyczny gapping usuwa CAŁY czasownik razem z operatorem; pseudo-gapping zachowuje operator jako 'kotwicę', do której doczepiony jest nowy, kontrastowany element"
+      },
+      {
+        "label": "Kontrast z elipsą czasownikową",
+        "text": "Zwykła elipsa czasownikowa (I have, too.) nie zostawia żadnego dodatkowego elementu — pseudo-gapping zawsze ma dodatkowy remnant (Paris) po operatorze"
+      },
+      {
+        "label": "Rejestr",
+        "text": "Konstrukcja typowa dla stylu formalnego i pisanego, sygnalizuje wyraźny kontrast, często wprowadzany przez but"
+      }
+    ],
+    "usage": [
+      "Podkreślanie kontrastu przy jednoczesnym zachowaniu informacji o czasie/aspekcie niesionej przez operator",
+      "Częste w argumentacji i porównaniach dwóch faktów o różnym wyniku (I haven't finished the report, but I have the summary.)",
+      "Operator musi zgadzać się czasem i osobą z podmiotem drugiego zdania",
+      "Bez zachowanego operatora zdanie stałoby się zwykłym gappingiem (bez wyraźnej informacji o czasie)"
+    ],
+    "tags": [
+      "pseudo-gapping",
+      "but I have Paris",
+      "operator + kontrast",
+      "elipsa czasownika głównego"
+    ],
+    "examples": [
+      {
+        "en": "I haven't read the novel, but I have the play.",
+        "pl": "Nie czytałem powieści, ale czytałem sztukę."
+      },
+      {
+        "en": "She didn't finish the report, but he did the presentation.",
+        "pl": "Ona nie skończyła raportu, ale on skończył prezentację."
+      },
+      {
+        "en": "They won't accept cash, but they will cards.",
+        "pl": "Nie przyjmą gotówki, ale przyjmą karty."
+      },
+      {
+        "en": "He can't fix the car, but he can the bike.",
+        "pl": "On nie potrafi naprawić samochodu, ale potrafi rower."
+      }
+    ]
+  },
+  {
+    "id": "right_node_raising",
+    "order": 4,
+    "nameEn": "Right node raising — a shared element at the end of coordinate clauses",
+    "namePl": "Right node raising — wspólny element na końcu zdań współrzędnych",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Dwa niepełne zdania współrzędne dzielą jeden wspólny element umieszczony na samym końcu całej konstrukcji: John washed, and Mary dried, the dishes. (= John washed the dishes, and Mary dried the dishes)"
+      },
+      {
+        "label": "Kierunek elipsy",
+        "text": "W przeciwieństwie do gappingu (luka w środku) i strippingu (tylko jeden element na końcu), tu wspólny element jest wysunięty na sam koniec i obsługuje obie części zdania naraz"
+      },
+      {
+        "label": "Interpunkcja",
+        "text": "Pierwsze niepełne zdanie zwykle oddziela się przecinkami z obu stron, sygnalizując, że jego czasownik czeka jeszcze na dopełnienie"
+      },
+      {
+        "label": "Warunek gramatyczny",
+        "text": "Wspólny element musi pasować gramatycznie do obu niepełnych zdań (ta sama liczba, ten sam przypadek)"
+      }
+    ],
+    "usage": [
+      "Podkreślanie równoległych czynności dotyczących tego samego obiektu lub osoby",
+      "Typowe w stylu pisanym i retorycznym — rzadziej spotykane w swobodnej mowie",
+      "Pozwala uniknąć dwukrotnego powtarzania długiego dopełnienia",
+      "Nadużywane może brzmieć sztucznie — w mowie częściej po prostu powtarza się dopełnienie"
+    ],
+    "tags": [
+      "right node raising",
+      "John washed, and Mary dried, the dishes",
+      "wspólny element na końcu",
+      "elipsa na końcu zdania"
+    ],
+    "examples": [
+      {
+        "en": "John washed, and Mary dried, the dishes.",
+        "pl": "John umył, a Mary wytarła, naczynia."
+      },
+      {
+        "en": "She wrote, and he illustrated, the book.",
+        "pl": "Ona napisała, a on zilustrował, tę książkę."
+      },
+      {
+        "en": "We ordered, and they paid for, the meal.",
+        "pl": "My zamówiliśmy posiłek, a oni za niego zapłacili."
+      },
+      {
+        "en": "The manager praised, and the team appreciated, the new policy.",
+        "pl": "Kierownik pochwalił, a zespół docenił, nową politykę."
+      }
+    ]
+  }
+]

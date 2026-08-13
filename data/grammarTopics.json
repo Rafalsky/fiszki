@@ -789,5 +789,12 @@
     "title": "Dopełniacz przed gerundem",
     "desc": "my/your/John's + -ing (formalnie) vs me/you/the door + -ing (nieformalnie) oraz utrwalone zwroty jak there's no point in your... — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "gapping_stripping",
+    "icon": "✂️",
+    "title": "Gapping i stripping",
+    "desc": "Pomijanie powtarzającego się czasownika i całych fragmentów zdania w zdaniach współrzędnych: gapping (Tom ordered fish, and Mary chicken), stripping (Tom drinks tea, and Ann too), pseudo-gapping i right node raising — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
