@@ -775,5 +775,12 @@
     "title": "Zdania wtrącone (comment clauses)",
     "desc": "Krótkie zdania wtrącone (comment clauses) typu I think, you know, to be honest, which is a shame, as far as I know — komentowanie, osłabianie stanowczości i podkreślanie wiarygodności wypowiedzi. Teoria, ćwiczenia z lukami i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "perfect_infinitive_gerund",
+    "icon": "⏮️",
+    "title": "Bezokolicznik i gerund dokonany",
+    "desc": "to have done / having done — jak zaznaczyć, że czynność wydarzyła się wcześniej niż czynność głównego czasownika, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
