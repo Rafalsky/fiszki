@@ -726,5 +726,12 @@
     "title": "Czasowniki wznoszące (raising verbs)",
     "desc": "seem, appear, happen to, turn out to, tend to oraz przymiotniki likely/certain/bound + bezokolicznik — budowa, użycie i test dummy-subject odróżniający raising od control verbs. Teoria, ćwiczenia z lukami i testy.",
     "drillCount": 32
+  },
+  {
+    "id": "tough_movement",
+    "icon": "💪",
+    "title": "Tough movement",
+    "desc": "Konstrukcja ‘tough’: easy/hard/difficult/impossible + bezokolicznik z luką dopełnieniową (This book is easy to read.) — budowa, przyimki na końcu zdania i kontrast z prawdziwym raising. Teoria, ćwiczenia z lukami i testy.",
+    "drillCount": 32
   }
 ]

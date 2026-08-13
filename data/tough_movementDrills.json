@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "itemId": "basic_tough_construction",
+    "prompt": "This book ___ read.",
+    "answer": "is easy to",
+    "distractors": ["is easy for", "is easy that", "easy is to"]
+  },
+  {
+    "id": 2,
+    "itemId": "basic_tough_construction",
+    "prompt": "The exam ___ finish in time.",
+    "answer": "was difficult to",
+    "distractors": ["was difficult that", "was difficulting to", "difficult was to"]
+  },
+  {
+    "id": 3,
+    "itemId": "basic_tough_construction",
+    "prompt": "Her accent ___ understand sometimes.",
+    "answer": "is hard to",
+    "distractors": ["is hard that", "is harding to", "hard is to"]
+  },
+  {
+    "id": 4,
+    "itemId": "basic_tough_construction",
+    "prompt": "The stain ___ remove completely.",
+    "answer": "proved impossible to",
+    "distractors": ["proved impossible that", "proved impossible for", "impossible proved to"]
+  },
+  {
+    "id": 5,
+    "itemId": "basic_tough_construction",
+    "prompt": "This song ___ sing along to.",
+    "answer": "is easy to",
+    "distractors": ["is easy for", "is easy that", "easy is to"]
+  },
+  {
+    "id": 6,
+    "itemId": "basic_tough_construction",
+    "prompt": "The interface ___ use.",
+    "answer": "is simple to",
+    "distractors": ["is simple that", "is simple for to", "simple is to"]
+  },
+  {
+    "id": 7,
+    "itemId": "basic_tough_construction",
+    "prompt": "This report ___ summarise.",
+    "answer": "is difficult to",
+    "distractors": ["is difficult that", "is difficult for", "difficult is to"]
+  },
+  {
+    "id": 8,
+    "itemId": "basic_tough_construction",
+    "prompt": "The exercise ___ finish in ten minutes.",
+    "answer": "is impossible to",
+    "distractors": ["is impossible that", "is impossible for", "impossible is to"]
+  },
+  {
+    "id": 9,
+    "itemId": "no_gap_constraint",
+    "prompt": "This problem is easy ___, so don't worry.",
+    "answer": "to solve",
+    "distractors": ["to solve it", "to be solve", "for solve"]
+  },
+  {
+    "id": 10,
+    "itemId": "no_gap_constraint",
+    "prompt": "The novel ___ read from start to finish.",
+    "answer": "is fascinating to",
+    "distractors": ["is fascinating to read it", "is fascinating that", "fascinating is to"]
+  },
+  {
+    "id": 11,
+    "itemId": "no_gap_constraint",
+    "prompt": "Her handwriting ___ decipher.",
+    "answer": "is nearly impossible to",
+    "distractors": ["is nearly impossible to decipher it", "is nearly impossible that", "nearly impossible is to"]
+  },
+  {
+    "id": 12,
+    "itemId": "no_gap_constraint",
+    "prompt": "This sofa ___ sit on for hours.",
+    "answer": "is comfortable to",
+    "distractors": ["is comfortable to sit on it", "is comfortable that", "comfortable is to"]
+  },
+  {
+    "id": 13,
+    "itemId": "no_gap_constraint",
+    "prompt": "This chair is easy ___.",
+    "answer": "to sit on",
+    "distractors": ["to sit", "to sit it", "to sitting on"]
+  },
+  {
+    "id": 14,
+    "itemId": "no_gap_constraint",
+    "prompt": "She ___ help; it's just her nature.",
+    "answer": "is eager to",
+    "distractors": ["is easy to", "is eager that", "eager is to"]
+  },
+  {
+    "id": 15,
+    "itemId": "no_gap_constraint",
+    "prompt": "The rules ___ explain in one sentence.",
+    "answer": "are far too complicated to",
+    "distractors": ["are far too complicated to explain it", "are far too complicated that", "far too complicated are to"]
+  },
+  {
+    "id": 16,
+    "itemId": "no_gap_constraint",
+    "prompt": "This puzzle is hard ___, so don't feel bad.",
+    "answer": "to solve",
+    "distractors": ["to solve it", "for solve", "to solving"]
+  },
+  {
+    "id": 17,
+    "itemId": "prepositional_gap",
+    "prompt": "My new boss ___ talk to.",
+    "answer": "is surprisingly easy to",
+    "distractors": ["is surprisingly easy to talk", "is surprisingly easy that", "surprisingly easy is to"]
+  },
+  {
+    "id": 18,
+    "itemId": "prepositional_gap",
+    "prompt": "That old radiator ___ deal with.",
+    "answer": "is a nightmare to",
+    "distractors": ["is a nightmare to deal", "is a nightmare that", "a nightmare is to"]
+  },
+  {
+    "id": 19,
+    "itemId": "prepositional_gap",
+    "prompt": "He's the kind of person who's impossible ___.",
+    "answer": "to argue with",
+    "distractors": ["to argue", "to argue him", "to arguing with"]
+  },
+  {
+    "id": 20,
+    "itemId": "prepositional_gap",
+    "prompt": "The new manager turned out ___ work with.",
+    "answer": "to be genuinely easy to",
+    "distractors": ["to be genuinely easy", "to being genuinely easy to", "genuinely easy to being"]
+  },
+  {
+    "id": 21,
+    "itemId": "prepositional_gap",
+    "prompt": "This bed ___ sleep in.",
+    "answer": "is comfortable to",
+    "distractors": ["is comfortable to sleep", "is comfortable that", "comfortable is to"]
+  },
+  {
+    "id": 22,
+    "itemId": "prepositional_gap",
+    "prompt": "She's difficult ___, to be honest.",
+    "answer": "to get on with",
+    "distractors": ["to get on", "to getting on with", "to get on with her"]
+  },
+  {
+    "id": 23,
+    "itemId": "prepositional_gap",
+    "prompt": "This colleague is impossible ___.",
+    "answer": "to work with",
+    "distractors": ["to work", "to work him", "to working with"]
+  },
+  {
+    "id": 24,
+    "itemId": "prepositional_gap",
+    "prompt": "Old Mr. Harris ___ talk to about politics.",
+    "answer": "is hard to",
+    "distractors": ["is hard that", "is hard for", "hard is to"]
+  },
+  {
+    "id": 25,
+    "itemId": "tough_vs_raising_contrast",
+    "prompt": "This book ___ read.",
+    "answer": "is easy for beginners to",
+    "distractors": ["is easy for beginners that", "easy for beginners is to", "is easy that beginners"]
+  },
+  {
+    "id": 26,
+    "itemId": "tough_vs_raising_contrast",
+    "prompt": "The mountain ___ climb without proper equipment.",
+    "answer": "is dangerous to",
+    "distractors": ["is dangerous for to", "is dangerous that", "dangerous is to"]
+  },
+  {
+    "id": 27,
+    "itemId": "tough_vs_raising_contrast",
+    "prompt": "That contract ___ understand without a lawyer.",
+    "answer": "is virtually impossible to",
+    "distractors": ["is virtually impossible that", "virtually impossible is to", "is virtually impossible for to"]
+  },
+  {
+    "id": 28,
+    "itemId": "tough_vs_raising_contrast",
+    "prompt": "The instructions ___ follow.",
+    "answer": "are simple enough for anyone to",
+    "distractors": ["are simple enough that anyone", "are simple enough for anyone", "simple enough are for anyone to"]
+  },
+  {
+    "id": 29,
+    "itemId": "tough_vs_raising_contrast",
+    "prompt": "She ___ know the answer.",
+    "answer": "seems to",
+    "distractors": ["is easy to", "seems for", "seems that to"]
+  },
+  {
+    "id": 30,
+    "itemId": "tough_vs_raising_contrast",
+    "prompt": "The truth ___ know sometimes.",
+    "answer": "is hard to",
+    "distractors": ["seems hard to", "is hard for know", "hard is to"]
+  },
+  {
+    "id": 31,
+    "itemId": "tough_vs_raising_contrast",
+    "prompt": "This medicine ___ take.",
+    "answer": "is safe enough for children to",
+    "distractors": ["is safe enough that children", "is safe enough for children", "safe enough is for children to"]
+  },
+  {
+    "id": 32,
+    "itemId": "tough_vs_raising_contrast",
+    "prompt": "The task ___ complete alone.",
+    "answer": "is too difficult to",
+    "distractors": ["is too difficult for to", "is too difficult that", "too difficult is to"]
+  }
+]
