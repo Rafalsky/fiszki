@@ -118,6 +118,7 @@ const THEORY_URLS = {
   nominal_adjectives: new URL("../data/nominal_adjectives.json", import.meta.url),
   rhetorical_comparison: new URL("../data/rhetorical_comparison.json", import.meta.url),
   for_to_infinitive: new URL("../data/for_to_infinitive.json", import.meta.url),
+  comment_clauses: new URL("../data/comment_clauses.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -231,6 +232,7 @@ const DRILLS_URLS = {
   nominal_adjectives: new URL("../data/nominal_adjectivesDrills.json", import.meta.url),
   rhetorical_comparison: new URL("../data/rhetorical_comparisonDrills.json", import.meta.url),
   for_to_infinitive: new URL("../data/for_to_infinitiveDrills.json", import.meta.url),
+  comment_clauses: new URL("../data/comment_clausesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

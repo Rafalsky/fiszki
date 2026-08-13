@@ -1,0 +1,122 @@
+[
+  {
+    "id": "attitude_comment_clauses",
+    "order": 1,
+    "nameEn": "Comment clauses of opinion: I think, I suppose, I guess, I believe",
+    "namePl": "Zdania wtrącone opinii: I think, I suppose, I guess, I believe",
+    "rules": [
+      { "label": "Budowa", "text": "krótkie zdanie (podmiot + czasownik, zwykle bez that) wstawione na początku, w środku lub na końcu zdania głównego, oddzielone przecinkiem" },
+      { "label": "Pozycja", "text": "na początku brzmi jak zwykłe zdanie nadrzędne (I think it's a good idea.), na końcu lub w środku działa jak wtrącenie osłabiające pewność (It's a good idea, I think.)" },
+      { "label": "Rejestr", "text": "I guess typowe dla amerykańskiego angielskiego i mowy potocznej, I believe brzmi bardziej formalnie niż I think" }
+    ],
+    "usage": [
+      "Osłabianie stanowczości twierdzenia (hedging) — unikanie zbyt kategorycznego brzmienia wypowiedzi",
+      "Wtrącenie na końcu zdania brzmi bardziej niepewnie i naturalnie w mowie niż na początku",
+      "W formalnym piśmie często zastępowane przez przysłówki typu arguably, presumably, apparently",
+      "Wtrącenie w środku zdania (He's, I guess, about forty.) sygnalizuje wahanie w trakcie mówienia"
+    ],
+    "tags": ["I think", "I suppose", "I guess", "I believe"],
+    "examples": [
+      { "en": "It's going to rain later, I think.", "pl": "Chyba będzie później padać." },
+      { "en": "I suppose we should leave now.", "pl": "Chyba powinniśmy już iść." },
+      { "en": "He's, I guess, about forty.", "pl": "On ma, jak sądzę, jakieś czterdzieści lat." },
+      { "en": "That's not fair, I believe.", "pl": "To niesprawiedliwe, jak sądzę." }
+    ]
+  },
+  {
+    "id": "engaging_comment_clauses",
+    "order": 2,
+    "nameEn": "Comment clauses engaging the listener: you know, you see, mind you",
+    "namePl": "Zdania wtrącone angażujące słuchacza: you know, you see, mind you",
+    "rules": [
+      { "label": "Budowa", "text": "stałe, niezmienne przez osoby zwroty wstawiane w dowolnym miejscu zdania, oddzielone przecinkiem" },
+      { "label": "Znaczenie", "text": "you know sygnalizuje wspólną wiedzę lub daje czas na sformułowanie myśli; you see wprowadza wyjaśnienie przyczyny; mind you dodaje zastrzeżenie kontrastujące z wcześniejszym stwierdzeniem" },
+      { "label": "Rejestr", "text": "typowe dla mowy potocznej, w piśmie formalnym praktycznie nieużywane" }
+    ],
+    "usage": [
+      "you know — zapełnianie pauzy w mówieniu, budowanie porozumienia ze słuchaczem",
+      "you see — poprzedza wyjaśnienie przyczyny lub uzasadnienie czegoś",
+      "mind you — dodaje zastrzeżenie lub kontrastującą uwagę do poprzedniego zdania",
+      "wszystkie trzy mogą stać zarówno na początku, jak i w środku lub na końcu zdania"
+    ],
+    "tags": ["you know", "you see", "mind you"],
+    "examples": [
+      { "en": "It's, you know, kind of complicated.", "pl": "To jest, wiesz, dość skomplikowane." },
+      { "en": "I couldn't come — I was ill, you see.", "pl": "Nie mogłem przyjść — byłem chory, rozumiesz." },
+      { "en": "He's very talented. Mind you, he doesn't work very hard.", "pl": "Jest bardzo utalentowany. Choć trzeba przyznać, niezbyt ciężko pracuje." },
+      { "en": "You know, I've never actually been to Paris.", "pl": "Wiesz, nigdy tak naprawdę nie byłem w Paryżu." }
+    ]
+  },
+  {
+    "id": "frankness_comment_clauses",
+    "order": 3,
+    "nameEn": "Comment clauses of frankness: to be honest, to tell you the truth, frankly speaking",
+    "namePl": "Zdania wtrącone szczerości: to be honest, to tell you the truth, frankly speaking",
+    "rules": [
+      { "label": "Budowa", "text": "bezokolicznikowe zwroty (to be honest, to tell (you) the truth) lub imiesłowowe (frankly speaking, quite honestly) wstawiane zwykle na początku zdania" },
+      { "label": "Funkcja", "text": "zapowiadają, że mówiący powie coś szczerze, wprost lub niewygodnego dla odbiorcy" },
+      { "label": "Interpunkcja", "text": "oddzielane przecinkiem od reszty zdania niezależnie od pozycji" }
+    ],
+    "usage": [
+      "Poprzedzanie krytyki lub niewygodnej opinii (To be honest, I didn't like the film.)",
+      "Podkreślanie szczerości wypowiedzi w rozmowie",
+      "to tell you the truth często wprowadza przyznanie się do czegoś zawstydzającego",
+      "frankly speaking / quite frankly bywa odbierane jako mniej uprzejme niż to be honest"
+    ],
+    "tags": ["to be honest", "to tell you the truth", "frankly speaking", "quite honestly"],
+    "examples": [
+      { "en": "To be honest, I didn't like the film.", "pl": "Szczerze mówiąc, nie podobał mi się ten film." },
+      { "en": "To tell you the truth, I forgot about the meeting.", "pl": "Prawdę mówiąc, zapomniałem o spotkaniu." },
+      { "en": "Frankly speaking, I think you're wrong.", "pl": "Mówiąc szczerze, myślę, że się mylisz." },
+      { "en": "Quite honestly, I don't care what happens.", "pl": "Zupełnie szczerze, nie obchodzi mnie, co się stanie." }
+    ]
+  },
+  {
+    "id": "afterthought_comment_clauses",
+    "order": 4,
+    "nameEn": "Afterthought comment clauses: which is..., come to think of it, as it happens",
+    "namePl": "Zdania wtrącone-refleksje: which is..., come to think of it, as it happens",
+    "rules": [
+      { "label": "Budowa", "text": "which + is/was + przymiotnik/rzeczownik komentuje całe poprzednie zdanie, a nie pojedynczy rzeczownik — inaczej niż zwykłe zdanie względne" },
+      { "label": "Nagłe refleksje", "text": "come to think of it i as it happens sygnalizują, że mówiący właśnie coś sobie przypomniał lub zauważa przypadkowy zbieg okoliczności" },
+      { "label": "Oczywistość", "text": "needless to say zapowiada informację, która powinna być dla odbiorcy oczywista" }
+    ],
+    "usage": [
+      "which is a shame/lucky/odd — komentarz oceniający całą wcześniejszą informację, nie rzeczownik przed nim",
+      "come to think of it — wprowadzenie nagłej refleksji w trakcie mówienia",
+      "as it happens — wprowadzenie zaskakującego zbiegu okoliczności",
+      "needless to say — podkreślenie, że dana informacja jest oczywista lub przewidywalna"
+    ],
+    "tags": ["which is...", "come to think of it", "as it happens", "needless to say"],
+    "examples": [
+      { "en": "He passed the exam, which is great news.", "pl": "Zdał egzamin, co jest świetną wiadomością." },
+      { "en": "Come to think of it, I never actually asked her.", "pl": "Teraz jak się nad tym zastanawiam, nigdy jej właściwie nie zapytałem." },
+      { "en": "As it happens, I was in town that day too.", "pl": "Tak się złożyło, że tego dnia też byłem w mieście." },
+      { "en": "Needless to say, everyone was very upset.", "pl": "Nie trzeba dodawać, że wszyscy byli bardzo zdenerwowani." }
+    ]
+  },
+  {
+    "id": "reference_comment_clauses",
+    "order": 5,
+    "nameEn": "Referring comment clauses: as I said, as far as I know, as far as I'm concerned",
+    "namePl": "Zdania wtrącone odsyłające: as I said, as far as I know, as far as I'm concerned",
+    "rules": [
+      { "label": "Budowa", "text": "as + podmiot + czasownik odsyła do wcześniej powiedzianych słów lub ogranicza zakres wiedzy bądź opinii mówiącego" },
+      { "label": "Ograniczenie wiedzy", "text": "as far as I know / as far as I'm aware zastrzega, że informacja opiera się tylko na wiedzy mówiącego i może być niepełna" },
+      { "label": "Osobiste stanowisko", "text": "as far as I'm concerned wyraża wyłącznie osobistą opinię, często kontrastującą ze stanowiskiem innych" }
+    ],
+    "usage": [
+      "as I said / as I mentioned — przypomnienie czegoś, co już zostało powiedziane wcześniej",
+      "as far as I know / as far as I'm aware — zastrzeżenie, że informacja może być niepełna lub nieaktualna",
+      "as far as I'm concerned — podkreślenie osobistego punktu widzenia mówiącego",
+      "wszystkie zwykle stoją na początku lub na końcu zdania"
+    ],
+    "tags": ["as I said", "as far as I know", "as far as I'm concerned", "as far as I'm aware"],
+    "examples": [
+      { "en": "As I said earlier, the meeting has been postponed.", "pl": "Jak wcześniej mówiłem, spotkanie zostało przełożone." },
+      { "en": "As far as I know, the shop is still open.", "pl": "O ile wiem, sklep jest wciąż otwarty." },
+      { "en": "As far as I'm concerned, this is the best option.", "pl": "Jeśli o mnie chodzi, to najlepsza opcja." },
+      { "en": "As far as I'm aware, no decision has been made yet.", "pl": "O ile mi wiadomo, nie podjęto jeszcze żadnej decyzji." }
+    ]
+  }
+]
