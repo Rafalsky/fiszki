@@ -1,0 +1,98 @@
+[
+  {
+    "id": "no_more_than",
+    "order": 1,
+    "nameEn": "'no more...than' — rhetorical denial by comparison",
+    "namePl": "'no more...than' — retoryczne zaprzeczenie przez porównanie",
+    "rules": [
+      { "label": "Wzorzec", "text": "podmiot + be + no more + przymiotnik/rzeczownik + than + drugi element — He is no more a genius than I am = ani on, ani ja nie jesteśmy geniuszami. Zdanie nie porównuje stopnia, tylko zaprzecza obu stronom naraz." },
+      { "label": "Mechanizm", "text": "'no more X than Y' zakłada, że Y na pewno nie jest X — i przez to porównanie stwierdza, że podmiot też nim nie jest. Im bardziej absurdalne/oczywiste Y (np. 'than I can fly'), tym mocniejsze zaprzeczenie." },
+      { "label": "Wariant z czasownikiem", "text": "Ten sam wzorzec działa z czasownikami: She no more believes that story than I do = ani ona, ani ja w to nie wierzymy." },
+      { "label": "Rejestr i ton", "text": "Struktura formalna i retoryczna, częsta w eseistyce, debatach i polemikach — brzmi bardziej przekonująco i literacko niż zwykłe 'isn't'." }
+    ],
+    "usage": [
+      "Do stanowczego, ale eleganckiego zaprzeczenia twierdzeniu przez porównanie go z czymś oczywiście fałszywym (He is no more a spy than I am the Queen of England.)",
+      "W argumentacji i polemice, gdy chcemy odrzucić czyjąś tezę bez wprost mówienia 'that's wrong'",
+      "Do podkreślenia, że dwie rzeczy są w równym stopniu nieprawdziwe lub nietrafne"
+    ],
+    "tags": ["no more a genius than", "no more true than", "no more likely than", "no more believes...than"],
+    "examples": [
+      { "en": "He is no more a genius than his brother is.", "pl": "On jest geniuszem tak samo mało, jak jego brat, czyli żaden z nich nim nie jest." },
+      { "en": "This theory is no more scientific than astrology.", "pl": "Ta teoria jest tak samo mało naukowa, jak astrologia." },
+      { "en": "I no more trust him than I trust a stranger on the street.", "pl": "Ufam mu tak samo mało, jak nieznajomemu na ulicy." },
+      { "en": "Winning the lottery is no more likely than being struck by lightning twice.", "pl": "Wygrana na loterii jest tak samo mało prawdopodobna, jak dwukrotne trafienie przez piorun." }
+    ]
+  },
+  {
+    "id": "nothing_less_than",
+    "order": 2,
+    "nameEn": "'nothing less than' / 'no less than' — emphatic affirmation",
+    "namePl": "'nothing less than' / 'no less than' — emfatyczne potwierdzenie",
+    "rules": [
+      { "label": "nothing less than + rzeczownik/przymiotnik", "text": "Podkreśla, że coś w pełni zasługuje na mocne określenie, bez żadnego pomniejszenia: Her performance was nothing less than brilliant = absolutnie, w pełni genialny, nic mniej niż to." },
+      { "label": "no less + przymiotnik + than", "text": "Porównuje coś do wzorca, podkreślając równie wysoki poziom: He is no less talented than his famous father = jest równie utalentowany, ani trochę mniej." },
+      { "label": "no less than + liczba", "text": "Przed liczebnikiem wyraża zaskoczenie wielkością ilości: no less than fifty applicants = aż pięćdziesięciu (więcej, niż się spodziewano)." },
+      { "label": "Kontrast z 'no more...than'", "text": "'no more...than' zaprzecza obu stronom porównania, a 'nothing/no less than' potwierdza z naciskiem — to lustrzane, przeciwstawne narzędzie retoryczne." }
+    ],
+    "usage": [
+      "Do wyrażenia pełnego, entuzjastycznego uznania bez umniejszania (This achievement is nothing less than extraordinary.)",
+      "Do podkreślenia, że coś dorównuje wysoko postawionemu wzorcowi porównania (She is no less capable than any of her male colleagues.)",
+      "Przed liczbą, by podkreślić, że jest ona zaskakująco wysoka (The committee received no less than two hundred complaints.)"
+    ],
+    "tags": ["nothing less than brilliant", "no less talented than", "no less than a triumph", "no less than fifty"],
+    "examples": [
+      { "en": "Her recovery was nothing less than a miracle.", "pl": "Jej powrót do zdrowia był niczym innym jak cudem." },
+      { "en": "The new stadium is nothing less than magnificent.", "pl": "Nowy stadion jest po prostu wspaniały, bez żadnego 'ale'." },
+      { "en": "He is no less determined than his rivals.", "pl": "Jest równie zdeterminowany, co jego rywale, ani trochę mniej." },
+      { "en": "The festival attracted no less than ten thousand visitors.", "pl": "Festiwal przyciągnął aż dziesięć tysięcy odwiedzających." }
+    ]
+  },
+  {
+    "id": "not_so_much_as",
+    "order": 3,
+    "nameEn": "'not so much X as Y' — recasting the emphasis",
+    "namePl": "'not so much X as Y' — przesunięcie akcentu wypowiedzi",
+    "rules": [
+      { "label": "Wzorzec", "text": "not so much X as Y — nie odrzuca X całkowicie, tylko przesuwa nacisk na Y jako trafniejsze, ważniejsze określenie: He's not so much lazy as unmotivated = problemem nie jest lenistwo, tylko brak motywacji." },
+      { "label": "Funkcja retoryczna", "text": "Służy do precyzyjnego skorygowania czyjegoś (lub własnego) sformułowania — mówiący uznaje częściową trafność X, ale wskazuje Y jako lepszy opis sytuacji." },
+      { "label": "Z czasownikami", "text": "Wzorzec działa też z czasownikami: I don't so much dislike the plan as worry about its cost = problemem nie jest niechęć, tylko obawa o koszty." },
+      { "label": "Wariant formalny 'not so much...but rather'", "text": "W bardziej formalnym stylu 'as' bywa zastępowane przez 'but rather': It's not so much a rule but rather a guideline." }
+    ],
+    "usage": [
+      "Gdy chcemy sprecyzować lub skorygować wcześniejsze stwierdzenie, wskazując trafniejszy powód lub opis (It's not so much that I don't want to go as that I'm exhausted.)",
+      "W dyskusji i analizie, by przesunąć uwagę z jednego aspektu na drugi, ważniejszy (The problem is not so much the price as the quality.)",
+      "Do delikatnego zdystansowania się od czyjejś oceny bez jej całkowitego odrzucenia"
+    ],
+    "tags": ["not so much lazy as unmotivated", "not so much X as Y", "not so much...but rather", "not so much dislike as"],
+    "examples": [
+      { "en": "The issue is not so much the cost as the time it takes.", "pl": "Problemem nie jest tyle koszt, co czas, jaki to zajmuje." },
+      { "en": "She was not so much angry as disappointed.", "pl": "Nie była tyle zła, co rozczarowana." },
+      { "en": "It's not so much a rule as a general guideline.", "pl": "To nie tyle reguła, co ogólna wskazówka." },
+      { "en": "He doesn't so much teach as inspire his students.", "pl": "On nie tyle uczy, co inspiruje swoich uczniów." }
+    ]
+  },
+  {
+    "id": "let_alone",
+    "order": 4,
+    "nameEn": "'let alone' / 'much less' — emphatic addition after a negative",
+    "namePl": "'let alone' / 'much less' — emfatyczne rozszerzenie po przeczeniu",
+    "rules": [
+      { "label": "Wzorzec", "text": "przeczenie/mało prawdopodobne twierdzenie + let alone + jeszcze bardziej skrajny przykład: I can't afford a bike, let alone a car = tym bardziej nie stać mnie na samochód." },
+      { "label": "Logika", "text": "'let alone' dodaje przykład, który jest jeszcze mniej prawdopodobny lub trudniejszy niż to, co już zostało zaprzeczone — zawsze wzmacnia, nigdy nie osłabia przeczenia." },
+      { "label": "much less jako synonim", "text": "'much less' pełni tę samą funkcję, choć jest nieco bardziej formalne/literackie: He can't boil an egg, much less cook a three-course meal." },
+      { "label": "Pozycja i konstrukcja", "text": "Po 'let alone' zwykle następuje sam rzeczownik, czasownik w formie podstawowej lub fraza — bez pełnego zdania podrzędnego: I barely have time to eat, let alone relax." }
+    ],
+    "usage": [
+      "Do podkreślenia skali niemożliwości lub braku przez zestawienie z jeszcze bardziej ekstremalnym przypadkiem (She doesn't have time to shower, let alone go to the gym.)",
+      "W mowie potocznej i formalnej pisemnej jednakowo — bardzo produktywna, uniwersalna struktura",
+      "Do wzmocnienia argumentu bez powtarzania przeczenia (He never reads the news, let alone follows politics.)"
+    ],
+    "tags": ["let alone", "much less", "can't afford...let alone", "barely...let alone"],
+    "examples": [
+      { "en": "I don't have enough money for lunch, let alone dinner.", "pl": "Nie mam nawet pieniędzy na lunch, a co dopiero na kolację." },
+      { "en": "The baby can't even crawl yet, let alone walk.", "pl": "Dziecko jeszcze nawet nie raczkuje, a co dopiero ma chodzić." },
+      { "en": "He can't speak French, much less write it fluently.", "pl": "Nie mówi po francusku, a tym bardziej nie pisze biegle." },
+      { "en": "We barely had time to pack, let alone plan the trip properly.", "pl": "Ledwo mieliśmy czas się spakować, a co dopiero porządnie zaplanować wyjazd." }
+    ]
+  }
+]
