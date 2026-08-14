@@ -922,5 +922,12 @@
     "title": "Przyimki w pytaniach",
     "desc": "Przyimek pozostawiony na końcu pytania (Who did you talk to?) a formalne przeniesienie go przed zaimek pytający (To whom did you talk?) — kiedy używać której wersji, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "shall_modality",
+    "icon": "📜",
+    "title": "Shall — oferty, formalna przyszłość i zobowiązania prawne",
+    "desc": "Shall I/we w ofertach i propozycjach, formalna shall + I/we jako przyszłość w BrE, prawny i formalny obowiązek shall w umowach i regulaminach oraz archaiczne/retoryczne shall w obietnicach i cytatach — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
