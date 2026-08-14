@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cataphoric_as",
+    "order": 1,
+    "nameEn": "Cataphoric 'as'-clauses (As is often the case, ...)",
+    "namePl": "Zapowiadające zdania z 'as' (As is often the case, ...)",
+    "rules": [
+      { "label": "Budowa", "text": "As + is/was/has been + przymiotnik/imiesłów (often the case, widely expected, usual) na początku zdania odnosi się do CAŁEJ następującej po nim myśli, a nie do pojedynczego rzeczownika" },
+      { "label": "Kierunek odniesienia", "text": "'as' jest tu kataforyczne — wskazuje NAPRZÓD, na treść, która dopiero nastąpi w zdaniu głównym, w przeciwieństwie do zwykłych zdań względnych, które odnoszą się wstecz do wcześniej wspomnianego rzeczownika" },
+      { "label": "Przecinek", "text": "zdanie z 'as' oddziela się przecinkiem od zdania głównego, które po nim następuje" }
+    ],
+    "usage": [
+      "As is often the case, the meeting started late. — komentarz do całej sytuacji jako typowej",
+      "As was widely expected, the government lost the election. — sygnalizowanie, że coś było przewidywane",
+      "As is usual in such negotiations, both sides made concessions. — odniesienie do typowego przebiegu zdarzeń",
+      "As has already been mentioned, the results will be published in June. — odesłanie do wcześniejszej części tekstu, poprzedzające nową informację"
+    ],
+    "tags": ["As is often the case", "As was expected", "As is usual", "As has been mentioned"],
+    "examples": [
+      { "en": "As is often the case, nobody wanted to take responsibility.", "pl": "Jak to często bywa, nikt nie chciał wziąć odpowiedzialności." },
+      { "en": "As was widely expected, the company reported a loss.", "pl": "Zgodnie z powszechnymi oczekiwaniami, firma odnotowała stratę." },
+      { "en": "As is usual at this time of year, prices went up.", "pl": "Jak zwykle o tej porze roku, ceny wzrosły." },
+      { "en": "As has already been noted, the results were inconclusive.", "pl": "Jak już wcześniej zauważono, wyniki były niejednoznaczne." }
+    ]
+  },
+  {
+    "id": "parenthetical_as",
+    "order": 2,
+    "nameEn": "Parenthetical mid-sentence 'as'-clauses (He was, as everyone predicted, re-elected.)",
+    "namePl": "Wtrącone w środku zdania 'as'-klauzule (He was, as everyone predicted, re-elected.)",
+    "rules": [
+      { "label": "Budowa", "text": "zdanie z 'as' zostaje wstawione w środek zdania głównego, między dwoma przecinkami, i komentuje treść całego zdania głównego, nie tylko sąsiadujące z nim słowo" },
+      { "label": "Ruchomość", "text": "tę samą klauzulę z 'as' można zwykle przesunąć na koniec zdania bez zmiany znaczenia: He was re-elected, as everyone predicted." },
+      { "label": "Kontrast z podmiotem osobowym", "text": "w odróżnieniu od zdań wtrąconych typu 'as I said' (comment clauses odsyłające do wiedzy mówiącego), tu podmiotem 'as'-klauzuli jest zwykle rzeczownik ogólny (everyone, most experts) lub konstrukcja bierna, a nie 'I'" }
+    ],
+    "usage": [
+      "He was, as everyone predicted, re-elected with a large majority. — wtrącenie potwierdzające zgodność z przewidywaniami",
+      "The bridge, as engineers had warned, collapsed under the extra weight. — komentarz do całej sytuacji opisanej w zdaniu głównym",
+      "Her novel, as most critics agree, is her finest work. — odniesienie do ogólnej opinii, nie do pojedynczego rzeczownika",
+      "The negotiations, as so often happens, dragged on for months. — podkreślenie typowości przebiegu wydarzeń"
+    ],
+    "tags": ["as everyone predicted", "as engineers had warned", "as most critics agree", "as so often happens"],
+    "examples": [
+      { "en": "He was, as everyone predicted, re-elected with ease.", "pl": "Został, jak wszyscy przewidywali, ponownie wybrany bez trudu." },
+      { "en": "The bridge, as engineers had warned, eventually collapsed.", "pl": "Most, jak ostrzegali inżynierowie, w końcu się zawalił." },
+      { "en": "Her latest novel, as most critics agree, is her best.", "pl": "Jej najnowsza powieść jest, zgodnie z opinią większości krytyków, jej najlepszą." },
+      { "en": "The talks, as so often happens, ended without an agreement.", "pl": "Rozmowy, jak to często bywa, zakończyły się bez porozumienia." }
+    ]
+  },
+  {
+    "id": "as_passive_reporting",
+    "order": 3,
+    "nameEn": "'As' with passive reporting verbs (as is believed, as is thought, as is agreed)",
+    "namePl": "'As' z biernymi czasownikami sprawozdającymi (as is believed, as is thought, as is agreed)",
+    "rules": [
+      { "label": "Budowa", "text": "As + is/was + III forma czasownika sprawozdającego (believed, thought, agreed, reported, expected, feared) — bezosobowa konstrukcja odsyłająca do ogólnej, powszechnej opinii lub informacji" },
+      { "label": "Brak wykonawcy", "text": "podobnie jak w zwykłej stronie biernej sprawozdawczej (it is said that...), wykonawca opinii pozostaje niewyrażony — chodzi o wiedzę ogólną lub relacjonowaną, a nie osobiste zdanie mówiącego" },
+      { "label": "Kontrast z it is + czasownik + that", "text": "'As is believed, X' i 'It is believed that X' przekazują tę samą treść, ale konstrukcja z 'as' jest bardziej zwięzła i typowa dla stylu formalnego, dziennikarskiego i akademickiego, gdzie pełni funkcję wtrącenia, a nie osobnego zdania" }
+    ],
+    "usage": [
+      "As is widely believed, stress can affect the immune system. — odesłanie do powszechnie przyjętej wiedzy",
+      "As is generally agreed, the reform came too late. — sygnalizowanie konsensusu",
+      "As is often reported, tourism has boosted the local economy. — odesłanie do relacji medialnych",
+      "As is feared, the drought may continue into next year. — sygnalizowanie powszechnej obawy"
+    ],
+    "tags": ["as is believed", "as is agreed", "as is reported", "as is feared"],
+    "examples": [
+      { "en": "As is widely believed, regular exercise improves mental health.", "pl": "Jak się powszechnie uważa, regularne ćwiczenia poprawiają zdrowie psychiczne." },
+      { "en": "As is generally agreed, the policy failed to achieve its goals.", "pl": "Jak się powszechnie zgodnie uważa, polityka ta nie osiągnęła swoich celów." },
+      { "en": "As is often reported, the region attracts millions of tourists.", "pl": "Jak często się donosi, region ten przyciąga miliony turystów." },
+      { "en": "As is feared by many economists, inflation will rise further.", "pl": "Jak obawia się wielu ekonomistów, inflacja jeszcze wzrośnie." }
+    ]
+  },
+  {
+    "id": "sentential_as_vs_which_vs_reason",
+    "order": 4,
+    "nameEn": "Sentential 'as' vs 'which' vs restrictive 'as' (time/reason)",
+    "namePl": "'As' odnoszące się do całego zdania vs 'which' vs 'as' czasowe/przyczynowe",
+    "rules": [
+      { "label": "'as' vs 'which'", "text": "zarówno 'as', jak i 'which' mogą komentować całe poprzednie zdanie (He failed, as/which was no surprise.), ale tylko 'as' może stać PRZED zdaniem głównym (As was no surprise, he failed. — nie: *Which was no surprise, he failed.)" },
+      { "label": "'as' sentential vs 'as' czasowe/sposobu", "text": "'as' odnoszące się do całej myśli komentuje FAKT lub SYTUACJĘ (As was expected, ...), podczas gdy 'as' czasowe wprowadza równoczesną czynność (As she walked in, everyone stood up.), a 'as' przyczynowe podaje powód (As it was raining, we stayed home.) — rozróżnia je znaczenie, nie forma" },
+      { "label": "Test podstawienia", "text": "jeśli 'as' można zastąpić przez 'which' bez zmiany znaczenia i bez utraty poprawności (w pozycji za zdaniem głównym), mamy do czynienia z 'as' odnoszącym się do całej myśli, a nie z 'as' czasowym czy przyczynowym" }
+    ],
+    "usage": [
+      "As was no surprise, the team lost the final. (poprawnie na początku zdania) — nie: Which was no surprise...",
+      "The team lost the final, as/which was no surprise. (obie formy poprawne na końcu)",
+      "As she opened the door, the phone rang. — 'as' czasowe (jednoczesność), nie sentential",
+      "As we were tired, we went to bed early. — 'as' przyczynowe, nie sentential"
+    ],
+    "tags": ["as vs which", "as (time)", "as (reason)", "substitution test"],
+    "examples": [
+      { "en": "As was to be expected, ticket prices rose again.", "pl": "Jak było do przewidzenia, ceny biletów znów wzrosły." },
+      { "en": "The company went bankrupt, which surprised nobody.", "pl": "Firma zbankrutowała, co nikogo nie zdziwiło." },
+      { "en": "As the sun set, the temperature dropped quickly.", "pl": "Gdy słońce zachodziło, temperatura szybko spadała." },
+      { "en": "As the roads were icy, the match was postponed.", "pl": "Ponieważ drogi były oblodzone, mecz przełożono." }
+    ]
+  }
+]

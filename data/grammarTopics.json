@@ -964,5 +964,12 @@
     "title": "Zdolność w przeszłości",
     "desc": "could vs was/were able to vs managed to — jak wyrażać ogólną zdolność i jednorazowe osiągnięcia w przeszłości, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "sentential_as",
+    "icon": "🪡",
+    "title": "Sentencjalne „as”",
+    "desc": "As is often the case / He was, as everyone predicted... — „as” odnoszące się do całej myśli, a nie do pojedynczego rzeczownika — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
