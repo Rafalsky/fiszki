@@ -1,0 +1,98 @@
+[
+  {
+    "id": "think_believe_suppose",
+    "order": 1,
+    "nameEn": "Transferred negation with think, believe, suppose (I don't think... = I think... not)",
+    "namePl": "Przeniesione przeczenie z think, believe, suppose (I don't think... = I think, że nie...)",
+    "rules": [
+      { "label": "Budowa", "text": "don't/doesn't + think/believe/suppose/imagine/expect/reckon + zdanie podrzędne (zwykle bez 'that') — przeczenie stoi gramatycznie przy czasowniku głównym, ale znaczeniowo dotyczy zdania podrzędnego" },
+      { "label": "Znaczenie", "text": "'I don't think it's true' znaczy 'myślę, że to nieprawda' (I think it isn't true), a nie 'w ogóle nie myślę' — przeczenie 'przenosi się' (transfers) z czasownika nadrzędnego do zdania podrzędnego" },
+      { "label": "Naturalność", "text": "forma z przeczeniem przy czasowniku głównym (I don't think she'll come) jest w angielskim zdecydowanie bardziej naturalna i częstsza niż dosłowne przeniesienie przeczenia do zdania podrzędnego (I think she won't come), które brzmi bardziej kategorycznie i mniej idiomatycznie" }
+    ],
+    "usage": [
+      "I don't think she'll come. — bardziej naturalne niż 'I think she won't come'",
+      "I don't believe he did it on purpose. — łagodniejsze wyrażenie wątpliwości niż 'I believe he didn't...'",
+      "I don't suppose you could help me, could you? — uprzejma, stonowana prośba",
+      "I don't imagine they'll agree to that. — przewidywanie wyrażone z rezerwą, nie stanowczo"
+    ],
+    "tags": ["I don't think", "I don't believe", "I don't suppose", "I don't imagine", "I don't expect"],
+    "examples": [
+      { "en": "I don't think it's going to rain today.", "pl": "Myślę, że dzisiaj nie będzie padać." },
+      { "en": "I don't believe he meant to hurt her feelings.", "pl": "Nie sądzę, żeby chciał ją zranić." },
+      { "en": "I don't suppose there's any coffee left, is there?", "pl": "Chyba nie zostało już kawy, prawda?" },
+      { "en": "I don't imagine the plan will work.", "pl": "Nie wydaje mi się, żeby ten plan miał się udać." }
+    ]
+  },
+  {
+    "id": "verbs_resisting_transfer",
+    "order": 2,
+    "nameEn": "Verbs that resist transferred negation (hope, be afraid, be sure, know)",
+    "namePl": "Czasowniki odporne na przeniesienie przeczenia (hope, be afraid, be sure, know)",
+    "rules": [
+      { "label": "Brak transferu", "text": "hope, be afraid, be sure, be certain zwykle NIE poddają się transferowi przeczenia — przeczenie zostaje tam, gdzie jest znaczeniowo, np. 'I hope it doesn't rain' (nie: 'I don't hope it rains')" },
+      { "label": "Dlaczego hope się opiera", "text": "'hope' wyraża pozytywne pragnienie, więc zaprzeczenie samego czasownika ('I don't hope') brzmiałoby jak całkowity brak nadziei, a nie nadzieja na coś przeciwnego — dlatego przeczenie musi zostać w zdaniu podrzędnym" },
+      { "label": "be afraid i be sure", "text": "'I'm afraid' z przeczeniem w zdaniu podrzędnym (I'm afraid I can't come) jest normą, bo 'I'm not afraid that...' zmienia znaczenie na brak obawy; podobnie 'I'm sure she won't mind' różni się znaczeniem od 'I'm not sure she'll mind' (pewność vs niepewność), więc nie są to formy wymienne" }
+    ],
+    "usage": [
+      "I hope it doesn't rain tomorrow. — nie: 'I don't hope it rains'",
+      "I'm afraid I can't help you with this. — nie: 'I'm not afraid that I can help'",
+      "I'm sure she won't mind. — stanowcze przekonanie, różne od 'I'm not sure she'll mind'",
+      "I know he isn't ready yet. — nie: 'I don't know he's ready' (inne znaczenie: brak wiedzy)"
+    ],
+    "tags": ["hope + przeczenie w zdaniu podrzędnym", "be afraid + przeczenie", "be sure vs not sure", "know"],
+    "examples": [
+      { "en": "I hope she doesn't find out about this.", "pl": "Mam nadzieję, że się o tym nie dowie." },
+      { "en": "I'm afraid we won't make it on time.", "pl": "Obawiam się, że nie zdążymy na czas." },
+      { "en": "I'm sure he didn't do it deliberately.", "pl": "Jestem pewien, że nie zrobił tego celowo." },
+      { "en": "I know she isn't telling the whole truth.", "pl": "Wiem, że nie mówi całej prawdy." }
+    ]
+  },
+  {
+    "id": "transferred_negation_want",
+    "order": 3,
+    "nameEn": "Transferred negation with want and would like",
+    "namePl": "Przeniesione przeczenie z want i would like",
+    "rules": [
+      { "label": "Budowa", "text": "don't/doesn't want + dopełnienie + to-bezokolicznik — przeczenie przy 'want' zwykle odnosi się do całej sytuacji: 'I don't want you to go' znaczy w praktyce 'I want you not to go', choć ta druga forma jest rzadka i bardzo formalna" },
+      { "label": "would like", "text": "'would like' różni się od 'want' tym, że przeczenie w zdaniu podrzędnym (I'd like you not to go) jest równie naturalne jak przeczenie przy 'would like' (I wouldn't like you to go) — obie formy funkcjonują obok siebie, w przeciwieństwie do sztywniejszego 'want'" },
+      { "label": "not to + bezokolicznik", "text": "'not to' + bezokolicznik po want/would like jest możliwe, ale brzmi bardziej formalnie i precyzyjnie niż przeniesione przeczenie: 'I want you not to worry' podkreśla staranne, świadome sformułowanie, podczas gdy 'I don't want you to worry' jest naturalną, potoczną normą" }
+    ],
+    "usage": [
+      "I don't want you to be late. — naturalna, potoczna forma",
+      "I want you not to worry about it. — formalne, staranne podkreślenie przeczenia",
+      "I wouldn't like you to think I was rude. — grzeczne zastrzeżenie",
+      "I'd like you not to mention this to anyone. — równie naturalne jak wersja z 'wouldn't like'"
+    ],
+    "tags": ["don't want + to", "want + somebody not to", "wouldn't like", "would like + not to"],
+    "examples": [
+      { "en": "I don't want you to worry about the exam.", "pl": "Nie chcę, żebyś martwił się o egzamin." },
+      { "en": "I want you not to say a word about this to anyone.", "pl": "Chcę, żebyś nikomu nie powiedział o tym ani słowa." },
+      { "en": "I wouldn't like you to feel excluded from the decision.", "pl": "Nie chciałbym, żebyś czuł się wykluczony z tej decyzji." },
+      { "en": "I'd like you not to interrupt me while I'm speaking.", "pl": "Chciałbym, żebyś mi nie przerywał, kiedy mówię." }
+    ]
+  },
+  {
+    "id": "question_tags_transferred_negation",
+    "order": 4,
+    "nameEn": "Question tags after transferred negation",
+    "namePl": "Question tags po przeniesionym przeczeniu",
+    "rules": [
+      { "label": "Zasada", "text": "kiedy przeczenie logicznie dotyczy zdania podrzędnego (I don't think it's true), question tag zgadza się z CZASOWNIKIEM ZDANIA PODRZĘDNEGO, a nie z czasownikiem głównym: 'I don't think it's true, is it?' (nie: 'don't I?')" },
+      { "label": "Dlaczego", "text": "tag pyta o prawdziwość treści zdania podrzędnego, bo to ona jest przedmiotem wątpliwości mówiącego, a nie sam akt myślenia — dokładnie odzwierciedla to semantyczne przeniesienie przeczenia z czasownika nadrzędnego do podrzędnego" },
+      { "label": "Podmiot 'I' w zdaniu podrzędnym", "text": "kiedy podmiotem zdania podrzędnego jest 'I' (np. I don't think I'm right), tag odnosi się do 'I' w zdaniu podrzędnym: '..., am I?', a nie do czasownika głównego" }
+    ],
+    "usage": [
+      "I don't think she's ready, is she? — nie: 'don't I?'",
+      "I don't suppose you'd help me, would you? — tag zgadza się z 'you'd help'",
+      "I don't believe he's telling the truth, is he? — tag odnosi się do 'he's telling'",
+      "I don't think I'm being very clear, am I? — tag odnosi się do podmiotu w zdaniu podrzędnym"
+    ],
+    "tags": ["tag zgadza się ze zdaniem podrzędnym", "is she? nie don't I?", "I don't suppose...would you?"],
+    "examples": [
+      { "en": "I don't think they've finished yet, have they?", "pl": "Chyba jeszcze nie skończyli, prawda?" },
+      { "en": "I don't suppose you know the answer, do you?", "pl": "Chyba nie znasz odpowiedzi, prawda?" },
+      { "en": "I don't believe she's seen this film before, has she?", "pl": "Nie sądzę, żeby widziała ten film wcześniej, prawda?" },
+      { "en": "I don't think I've met you before, have I?", "pl": "Chyba wcześniej się nie spotkaliśmy, prawda?" }
+    ]
+  }
+]
