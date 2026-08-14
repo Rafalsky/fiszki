@@ -1,0 +1,146 @@
+[
+  {
+    "id": "twice_times_as",
+    "order": 1,
+    "nameEn": "twice / three times + as...as — multiplicative equality",
+    "namePl": "twice / three times + as...as — porównanie wielokrotności",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "twice / three times / four times... + as + przymiotnik/przysłówek w formie podstawowej + as: This flat is twice as expensive as ours."
+      },
+      {
+        "label": "twice, nie 'two times'",
+        "text": "Dla dwukrotności standardowo używamy 'twice', nie 'two times' (choć 'two times' pojawia się potocznie, zwłaszcza w amerykańskim angielskim)."
+      },
+      {
+        "label": "od trzech wzwyż",
+        "text": "Od trzykrotności w górę używamy liczebnika + times: three times as fast as, ten times as many as."
+      },
+      {
+        "label": "z rzeczownikami",
+        "text": "Przed rzeczownikiem policzalnym w liczbie mnogiej stosujemy 'as many', a przed niepoliczalnym 'as much': twice as many books, three times as much money."
+      }
+    ],
+    "usage": [
+      "Precyzyjne, liczbowe określenie, ile razy jedna rzecz przewyższa drugą pod względem cechy lub ilości",
+      "Najbardziej neutralna i akceptowana we wszystkich rejestrach struktura wielokrotności",
+      "Możliwa zarówno z przymiotnikami/przysłówkami (as + adj/adv + as), jak i z ilością (as many/much + noun + as)"
+    ],
+    "tags": ["twice as expensive as", "three times as fast as", "twice as many books"],
+    "examples": [
+      { "en": "This flat is twice as expensive as ours.", "pl": "To mieszkanie jest dwa razy droższe od naszego." },
+      { "en": "He earns three times as much as I do.", "pl": "Zarabia trzy razy więcej niż ja." },
+      { "en": "The new engine is twice as powerful as the old one.", "pl": "Nowy silnik jest dwa razy mocniejszy niż stary." },
+      { "en": "There were four times as many visitors this year.", "pl": "W tym roku było cztery razy więcej odwiedzających." }
+    ]
+  },
+  {
+    "id": "half_fraction_as",
+    "order": 2,
+    "nameEn": "half / a third / a quarter + as...as — fractional comparison",
+    "namePl": "half / a third / a quarter + as...as — porównanie ułamkowe",
+    "rules": [
+      {
+        "label": "half as...as",
+        "text": "'half' zastępuje liczebnik, gdy porównywana wartość jest o połowę mniejsza: This laptop is half as heavy as mine."
+      },
+      {
+        "label": "a third / a quarter as...as",
+        "text": "Inne ułamki wyrażamy jako 'a third', 'a quarter', 'a fifth' + as...as: My rent is a third as high as hers."
+      },
+      {
+        "label": "not half as...as",
+        "text": "Idiomatyczne 'not half as...as' oznacza dużą różnicę na niekorzyść, silniejsze niż zwykłe 'not as...as': The sequel isn't half as good as the original."
+      },
+      {
+        "label": "half the + rzeczownik + of",
+        "text": "Zamiast przymiotnika można porównać samą wielkość rzeczownika: This flat is half the size of our old one (zob. też temat 'X times the + noun + of')."
+      }
+    ],
+    "usage": [
+      "Wyrażanie, że jedna rzecz stanowi ułamek wartości drugiej (a nie jej wielokrotność)",
+      "'not half as...as' jest częstym, ekspresywnym sposobem podkreślenia rozczarowania lub kontrastu",
+      "Naturalny sposób mówienia o proporcjach mniejszych niż całość (połowa, jedna trzecia, jedna czwarta)"
+    ],
+    "tags": ["half as heavy as", "a third as high as", "not half as good as"],
+    "examples": [
+      { "en": "This laptop is half as heavy as mine.", "pl": "Ten laptop jest o połowę lżejszy od mojego." },
+      { "en": "My rent is a third as high as hers.", "pl": "Mój czynsz stanowi jedną trzecią jej czynszu." },
+      { "en": "The sequel isn't half as good as the original.", "pl": "Sequel nie jest nawet w połowie tak dobry jak oryginał." },
+      { "en": "Our new office is a quarter as big as the old headquarters.", "pl": "Nasze nowe biuro jest cztery razy mniejsze niż stara siedziba." }
+    ]
+  },
+  {
+    "id": "times_the_noun",
+    "order": 3,
+    "nameEn": "X times the + noun + of — multiplicative comparison of nouns",
+    "namePl": "X times the + rzeczownik + of — porównanie wielkości rzeczownika",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "liczebnik/twice + times + the + rzeczownik (size/price/number/amount...) + of + rzeczownik porównywany: This house is twice the size of ours."
+      },
+      {
+        "label": "bez 'as'",
+        "text": "W przeciwieństwie do 'twice as big as' ta struktura nie używa 'as' — porównujemy rzeczownik abstrakcyjny (rozmiar, cenę, liczbę), a nie przymiotnik."
+      },
+      {
+        "label": "typowe rzeczowniki",
+        "text": "Najczęściej: the size, the price, the number, the amount, the length, the population, the population of."
+      },
+      {
+        "label": "wymienność z as...as",
+        "text": "'Twice the size of X' i 'twice as big as X' są zwykle wymienne znaczeniowo, ale różnią się budową gramatyczną (rzeczownik vs przymiotnik)."
+      }
+    ],
+    "usage": [
+      "Formalny, precyzyjny sposób porównywania wielkości, liczby lub ceny dwóch rzeczy",
+      "Częste w tekstach statystycznych, ekonomicznych i naukowych",
+      "Pozwala uniknąć powtarzania przymiotnika, gdy porównanie dotyczy samej miary/liczby"
+    ],
+    "tags": ["twice the size of", "three times the price of", "twice the population of"],
+    "examples": [
+      { "en": "This house is twice the size of ours.", "pl": "Ten dom jest dwa razy większy od naszego." },
+      { "en": "The new phone costs three times the price of the old model.", "pl": "Nowy telefon kosztuje trzy razy tyle co stary model." },
+      { "en": "Tokyo has more than twice the population of London.", "pl": "Tokio ma ponad dwukrotnie więcej mieszkańców niż Londyn." },
+      { "en": "The company reported four times the profit of last year.", "pl": "Firma zgłosiła czterokrotnie większy zysk niż w zeszłym roku." }
+    ]
+  },
+  {
+    "id": "times_comparative",
+    "order": 4,
+    "nameEn": "X times + comparative + than — informal multiplicative comparative",
+    "namePl": "X times + comparative + than — potoczna forma z comparative",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "liczebnik + times + przymiotnik/przysłówek w stopniu wyższym + than: This flat is three times bigger than mine."
+      },
+      {
+        "label": "rejestr",
+        "text": "Struktura jest powszechna w mowie potocznej, ale w stylu formalnym i pisanym preferuje się 'three times as big as'."
+      },
+      {
+        "label": "niejednoznaczność matematyczna",
+        "text": "'Three times bigger' bywa krytykowane jako niejednoznaczne (trzy razy większy czy o trzy razy więcej, czyli cztery razy tyle?) — w precyzyjnych kontekstach lepiej użyć 'three times as big as' lub 'three times the size of'."
+      },
+      {
+        "label": "twice more — unikać",
+        "text": "'Twice more' zamiast 'twice as much/many' jest niepoprawne lub bardzo niejednoznaczne w standardowym angielskim — poprawnie: twice as much, not twice more."
+      }
+    ],
+    "usage": [
+      "Nieformalna, potoczna alternatywa dla 'as...as' przy porównaniach wielokrotności",
+      "Powszechna w mowie codziennej, ale unikana w tekstach naukowych i precyzyjnych ze względu na niejednoznaczność",
+      "Warto rozpoznawać tę formę biernie, nawet jeśli w produkcji pisemnej preferuje się formę z 'as...as'"
+    ],
+    "tags": ["three times bigger than", "twice as much, not twice more", "register: informal vs formal"],
+    "examples": [
+      { "en": "This flat is three times bigger than mine.", "pl": "To mieszkanie jest trzy razy większe od mojego." },
+      { "en": "Sales this quarter are almost twice as high as last quarter's.", "pl": "Sprzedaż w tym kwartale jest niemal dwa razy wyższa niż w poprzednim." },
+      { "en": "The new model runs five times faster than the previous one.", "pl": "Nowy model działa pięć razy szybciej niż poprzedni." },
+      { "en": "Prices are nearly twice as high as they were a decade ago.", "pl": "Ceny są niemal dwa razy wyższe niż dekadę temu." }
+    ]
+  }
+]
