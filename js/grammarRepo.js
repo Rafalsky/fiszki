@@ -146,6 +146,7 @@ const THEORY_URLS = {
   measure_genitive: new URL("../data/measure_genitive.json", import.meta.url),
   place_clauses: new URL("../data/place_clauses.json", import.meta.url),
   past_ability: new URL("../data/past_ability.json", import.meta.url),
+  sentential_as: new URL("../data/sentential_as.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -287,6 +288,7 @@ const DRILLS_URLS = {
   measure_genitive: new URL("../data/measure_genitiveDrills.json", import.meta.url),
   place_clauses: new URL("../data/place_clausesDrills.json", import.meta.url),
   past_ability: new URL("../data/past_abilityDrills.json", import.meta.url),
+  sentential_as: new URL("../data/sentential_asDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
