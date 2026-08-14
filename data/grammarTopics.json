@@ -971,5 +971,12 @@
     "title": "Sentencjalne „as”",
     "desc": "As is often the case / He was, as everyone predicted... — „as” odnoszące się do całej myśli, a nie do pojedynczego rzeczownika — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "transferred_negation",
+    "icon": "↪️",
+    "title": "Przeniesione przeczenie",
+    "desc": "Przeniesienie przeczenia z czasownika głównego (think, believe, suppose, want) do zdania podrzędnego oraz zgodność question tags — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

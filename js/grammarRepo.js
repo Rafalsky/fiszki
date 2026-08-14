@@ -147,6 +147,7 @@ const THEORY_URLS = {
   place_clauses: new URL("../data/place_clauses.json", import.meta.url),
   past_ability: new URL("../data/past_ability.json", import.meta.url),
   sentential_as: new URL("../data/sentential_as.json", import.meta.url),
+  transferred_negation: new URL("../data/transferred_negation.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -289,6 +290,7 @@ const DRILLS_URLS = {
   place_clauses: new URL("../data/place_clausesDrills.json", import.meta.url),
   past_ability: new URL("../data/past_abilityDrills.json", import.meta.url),
   sentential_as: new URL("../data/sentential_asDrills.json", import.meta.url),
+  transferred_negation: new URL("../data/transferred_negationDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
