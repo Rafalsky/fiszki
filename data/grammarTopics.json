@@ -915,5 +915,12 @@
     "title": "Styl nagłówkowy",
     "desc": "Gramatyka nagłówków prasowych: pomijanie przedimków i czasownika be, czas teraźniejszy dla przeszłości, bezokolicznik dla przyszłości, interpunkcja i słownictwo nagłówkowe — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "question_prepositions",
+    "icon": "🎣",
+    "title": "Przyimki w pytaniach",
+    "desc": "Przyimek pozostawiony na końcu pytania (Who did you talk to?) a formalne przeniesienie go przed zaimek pytający (To whom did you talk?) — kiedy używać której wersji, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

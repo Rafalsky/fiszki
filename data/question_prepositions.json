@@ -1,0 +1,127 @@
+[
+  {
+    "id": "stranded_wh_questions",
+    "order": 1,
+    "nameEn": "Stranded preposition in wh-questions",
+    "namePl": "Przyimek na końcu pytania szczegółowego",
+    "rules": [
+      { "label": "Budowa", "text": "who/what/which + reszta pytania + przyimek na samym końcu: Who did you talk to? What are you looking for?" },
+      { "label": "Rejestr", "text": "neutralny i nieformalny — zdecydowanie najczęstszy i najbardziej naturalny wzorzec, także w starannej mowie codziennej." },
+      { "label": "Who zamiast whom", "text": "w tym wzorcu podmiotem pytajnym jest zwykle 'who', nie 'whom' — Who did you talk to?, nie: Whom did you talk to? (choć to drugie jest poprawne formalnie)." },
+      { "label": "Pytania pośrednie", "text": "ten sam szyk przenosi się do pytań osadzonych: I don't know who she's talking to." }
+    ],
+    "usage": [
+      "Codzienna rozmowa: Who are you waiting for?",
+      "Pytania o rzecz lub temat: What is this book about?",
+      "Pytania z which: Which team does he play for?",
+      "Naturalny wybór nawet w piśmie standardowym, nieformalnym e-mailu, dialogu"
+    ],
+    "tags": ["Who...to?", "What...for?", "stranded preposition", "informal question"],
+    "examples": [
+      { "en": "Who did you go to the concert with?", "pl": "Z kim poszedłeś na koncert?" },
+      { "en": "What are you so afraid of?", "pl": "Czego się tak boisz?" },
+      { "en": "Which company does she work for?", "pl": "Dla jakiej firmy ona pracuje?" },
+      { "en": "What was the meeting about?", "pl": "O czym było to spotkanie?" }
+    ]
+  },
+  {
+    "id": "fronted_wh_questions",
+    "order": 2,
+    "nameEn": "Fronted preposition + whom/which in questions",
+    "namePl": "Przyimek na początku pytania + whom/which",
+    "rules": [
+      { "label": "Budowa", "text": "przyimek + whom (dla osób) / which (dla rzeczy) na początku pytania: To whom did you speak? On which date did it happen?" },
+      { "label": "Whom obowiązkowe", "text": "gdy przyimek stoi bezpośrednio przed zaimkiem pytajnym, musi to być 'whom', nigdy 'who': For whom is this gift?, nie: For who is this gift?" },
+      { "label": "Rejestr", "text": "bardzo formalny — typowy dla pism urzędowych, przemówień, formalnych wywiadów i egzaminów; w mowie potocznej brzmi sztywno i archaicznie." },
+      { "label": "Ta sama treść, inny rejestr", "text": "fronted i stranded wyrażają dokładnie to samo pytanie: To whom did you give the keys? = Who did you give the keys to? — różnica dotyczy wyłącznie stylu." }
+    ],
+    "usage": [
+      "Formalne przemówienia i wystąpienia publiczne: To whom should we direct our thanks?",
+      "Pisma urzędowe i prawnicze: On what grounds was the decision made?",
+      "Formalne wywiady i egzaminy ustne: With whom did you conduct the interview?",
+      "Precyzyjne, oficjalne sformułowanie, gdy stranded brzmiałoby zbyt swobodnie"
+    ],
+    "tags": ["To whom", "For whom", "On which", "fronted preposition", "formal question"],
+    "examples": [
+      { "en": "To whom did you address the complaint?", "pl": "Do kogo skierowałeś skargę?" },
+      { "en": "For whom was the award intended?", "pl": "Dla kogo była przeznaczona nagroda?" },
+      { "en": "On which floor is the manager's office?", "pl": "Na którym piętrze jest biuro kierownika?" },
+      { "en": "With whom did she share the news first?", "pl": "Z kim najpierw podzieliła się tą wiadomością?" }
+    ]
+  },
+  {
+    "id": "phrasal_verb_questions",
+    "order": 3,
+    "nameEn": "Phrasal verb particles in questions",
+    "namePl": "Cząstka czasownika złożonego w pytaniach",
+    "rules": [
+      { "label": "Zawsze na końcu", "text": "gdy 'przyimek' jest w rzeczywistości cząstką czasownika frazowego (put up with, come up with, look forward to), zostaje na końcu pytania i NIE da się go przenieść na początek." },
+      { "label": "Dlaczego brak frontingu", "text": "cząstka tworzy jedno znaczenie z czasownikiem (put up with = tolerować), więc oderwanie jej i przeniesienie przed zaimek pytajny niszczy sens: niepoprawnie *Up with what do you put?" },
+      { "label": "Rozpoznanie", "text": "jeśli zdanie zawiera czasownik złożony o znaczeniu idiomatycznym, różnym od sumy części, przyimek/cząstka jest stały (fixed) — zawsze stranded, niezależnie od rejestru." },
+      { "label": "Kontrast z przyimkiem swobodnym", "text": "porównaj: What did you look at? (look + przyimek miejsca, można teoretycznie frontować: At what did you look?) vs. What did you look up? (phrasal verb 'sprawdzić w słowniku' — nie da się frontować)." }
+    ],
+    "usage": [
+      "Pytania o znaczenie idiomatyczne: What does this abbreviation stand for?",
+      "Pytania o wymówki i uzasadnienia: What did she come up with this time?",
+      "Pytania o tolerancję/znoszenie czegoś: How much can you put up with?",
+      "Nawet w bardzo formalnym rejestrze cząstka phrasal verba pozostaje na końcu"
+    ],
+    "tags": ["phrasal verb", "put up with", "come up with", "fixed particle", "stranded only"],
+    "examples": [
+      { "en": "What does this word stand for?", "pl": "Co oznacza ten skrót?" },
+      { "en": "Who is he looking after this weekend?", "pl": "Kim on opiekuje się w ten weekend?" },
+      { "en": "What did the team come up with in the end?", "pl": "Z czym w końcu wystąpił zespół?" },
+      { "en": "What are you looking forward to?", "pl": "Na co się cieszysz?" }
+    ]
+  },
+  {
+    "id": "indirect_question_prepositions",
+    "order": 4,
+    "nameEn": "Preposition placement in indirect/embedded questions",
+    "namePl": "Miejsce przyimka w pytaniach pośrednich",
+    "rules": [
+      { "label": "Stranded w mowie potocznej", "text": "w nieformalnych pytaniach pośrednich przyimek zwykle zostaje na końcu całej struktury: I wonder who she's talking to. / I have no idea what he's referring to." },
+      { "label": "Fronted w stylu formalnym", "text": "w formalnym piśmie, zwłaszcza akademickim i urzędowym, przyimek może stać przed zaimkiem: I would like to know to whom I should address my complaint." },
+      { "label": "Struktura zdania pośredniego", "text": "szyk wewnątrz pytania pośredniego pozostaje twierdzący (bez inwersji), a różni się jedynie miejsce przyimka: I don't know who he was talking to / to whom he was talking." },
+      { "label": "Whether/if a przyimek", "text": "gdy pytanie pośrednie tworzone jest przez whether/if (bez zaimka pytajnego), przyimek trafia w naturalne miejsce zdania oznajmującego: I'm not sure what she's interested in." }
+    ],
+    "usage": [
+      "Grzeczne pytania pośrednie w rozmowie: Could you tell me who this letter is from?",
+      "Formalne zapytania pisemne: We would appreciate knowing on what basis the decision was reached.",
+      "Zdania z 'I wonder', 'I have no idea', 'I'm not sure': I wonder what he was aiming at.",
+      "Raportowanie cudzych pytań (reported questions) z zachowaniem miejsca przyimka: She asked me who I had come with."
+    ],
+    "tags": ["indirect question", "embedded question", "I wonder who...to", "reported question"],
+    "examples": [
+      { "en": "I have no idea who this parcel is addressed to.", "pl": "Nie mam pojęcia, do kogo jest adresowana ta paczka." },
+      { "en": "Could you tell me what this tool is used for?", "pl": "Czy mógłbyś mi powiedzieć, do czego służy to narzędzie?" },
+      { "en": "We are not sure on what grounds the claim was rejected.", "pl": "Nie jesteśmy pewni, na jakiej podstawie roszczenie zostało odrzucone." },
+      { "en": "She asked me who I had been talking to.", "pl": "Zapytała mnie, z kim rozmawiałem." }
+    ]
+  },
+  {
+    "id": "fixed_formal_question_openers",
+    "order": 5,
+    "nameEn": "Fixed formal question openers with prepositions",
+    "namePl": "Utrwalone formalne otwarcia pytań z przyimkiem",
+    "rules": [
+      { "label": "By what means / for what reason", "text": "formalne zwroty łączące przyimek z rzeczownikiem abstrakcyjnym na początku pytania, zastępujące proste how/why: By what means was the data collected? = How was the data collected?" },
+      { "label": "Under what circumstances / at what point", "text": "pytania o warunki i moment zdarzenia w stylu formalnym: Under what circumstances would you resign? At what point did the plan fail?" },
+      { "label": "In what way / to what extent", "text": "formalne alternatywy dla 'how' pytające o sposób lub stopień: In what way did the policy change public opinion? To what extent is the theory supported by evidence?" },
+      { "label": "Brak frontingu w wersji potocznej", "text": "te same pytania w mowie potocznej tracą przyimek na początku i przybierają prostszą formę: Why did the plan fail? / How much does the theory hold up?" }
+    ],
+    "usage": [
+      "Formalne wywiady, egzaminy ustne i debaty: For what reason did the committee reject the application?",
+      "Pisma urzędowe i prawnicze: Under what circumstances can the contract be terminated?",
+      "Akademickie pytania badawcze: To what extent does income affect life expectancy?",
+      "Precyzyjne, oficjalne sformułowanie pytania, gdy prosta forma z how/why brzmiałaby zbyt potocznie"
+    ],
+    "tags": ["By what means", "For what reason", "Under what circumstances", "To what extent", "formal question opener"],
+    "examples": [
+      { "en": "By what means did the intruder enter the building?", "pl": "W jaki sposób intruz dostał się do budynku?" },
+      { "en": "For what reason was the meeting postponed?", "pl": "Z jakiego powodu spotkanie zostało przełożone?" },
+      { "en": "Under what circumstances would you consider resigning?", "pl": "W jakich okolicznościach rozważyłbyś rezygnację?" },
+      { "en": "To what extent has the situation improved since last year?", "pl": "W jakim stopniu sytuacja poprawiła się od zeszłego roku?" }
+    ]
+  }
+]
