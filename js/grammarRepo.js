@@ -142,6 +142,7 @@ const THEORY_URLS = {
   question_prepositions: new URL("../data/question_prepositions.json", import.meta.url),
   shall_modality: new URL("../data/shall_modality.json", import.meta.url),
   manner_clauses: new URL("../data/manner_clauses.json", import.meta.url),
+  binomial_expressions: new URL("../data/binomial_expressions.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -279,6 +280,7 @@ const DRILLS_URLS = {
   question_prepositions: new URL("../data/question_prepositionsDrills.json", import.meta.url),
   shall_modality: new URL("../data/shall_modalityDrills.json", import.meta.url),
   manner_clauses: new URL("../data/manner_clausesDrills.json", import.meta.url),
+  binomial_expressions: new URL("../data/binomial_expressionsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

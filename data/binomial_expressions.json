@@ -1,0 +1,122 @@
+[
+  {
+    "id": "frozen_order_and",
+    "order": 1,
+    "nameEn": "Binomials with 'and' — frozen word order",
+    "namePl": "Binominały z 'and' — zamrożona kolejność słów",
+    "rules": [
+      { "label": "Definicja", "text": "binominał (binomial) to utrwalone wyrażenie złożone z dwóch słów tej samej kategorii gramatycznej połączonych spójnikiem (najczęściej and) w kolejności, która jest ZAMROŻONA — nie można jej odwrócić bez utraty naturalności (bread and butter, nie *butter and bread)." },
+      { "label": "Odwracalność jako test", "text": "swobodne wyliczenie (a cat and a dog / a dog and a cat) jest odwracalne bez zmiany znaczenia; binominał natomiast traci naturalność lub całkiem zmienia znaczenie po odwróceniu — to odróżnia go od zwykłej koordynacji." },
+      { "label": "Reguły kolejności", "text": "kolejność w binominałach rządzi się tendencjami: krótsze/prostsze słowo zwykle na pierwszym miejscu (salt and pepper), kolejność chronologiczna lub logiczna odzwierciedla rzeczywistość (bride and groom, cause and effect, day and night), a płeć męska tradycyjnie pierwsza w starszych utrwalonych zwrotach (husband and wife, ladies and gentlemen jest wyjątkiem grzecznościowym)." }
+    ],
+    "usage": [
+      "Nazwy par przedmiotów używanych razem: knife and fork, salt and pepper, bread and butter",
+      "Pary osób w utrwalonych rolach: husband and wife, ladies and gentlemen, bride and groom",
+      "Pojęcia abstrakcyjne funkcjonujące jako jedność: law and order, health and safety, trial and error",
+      "Podmiot w liczbie pojedynczej, gdy binominał oznacza jedno pojęcie: Bread and butter is a simple breakfast."
+    ],
+    "tags": ["bread and butter", "salt and pepper", "law and order", "frozen order", "binomial"],
+    "examples": [
+      { "en": "For many families, bread and butter is still the cheapest breakfast.", "pl": "Dla wielu rodzin chleb z masłem to nadal najtańsze śniadanie." },
+      { "en": "Could you pass the salt and pepper, please?", "pl": "Czy mógłbyś podać sól i pieprz?" },
+      { "en": "Restoring law and order was the new government's top priority.", "pl": "Przywrócenie prawa i porządku było priorytetem nowego rządu." },
+      { "en": "The bride and groom will arrive at the reception at seven.", "pl": "Panna młoda i pan młody przybędą na przyjęcie o siódmej." }
+    ]
+  },
+  {
+    "id": "frozen_order_or",
+    "order": 2,
+    "nameEn": "Binomials with 'or' — alternatives and approximation",
+    "namePl": "Binominały z 'or' — alternatywa i przybliżenie",
+    "rules": [
+      { "label": "Funkcja", "text": "binominały z or wyrażają alternatywę traktowaną jako jedna, zamknięta całość pojęciowa (sooner or later = 'w końcu, prędzej czy później'), a nie realny wybór między dwiema opcjami." },
+      { "label": "Przybliżenie ilościowe", "text": "kilka binominałów z or służy do przybliżania liczby lub ilości: give or take (z grubsza), more or less (mniej więcej), a hundred or so — te konstrukcje osłabiają precyzję liczebnika bezpośrednio go poprzedzającego lub następującego po nim." },
+      { "label": "Kolejność", "text": "podobnie jak w binominałach z and, kolejność jest zamrożona — odwrócenie (*later or sooner, *take or give) brzmi nienaturalnie lub jest wręcz niegramatyczne w utrwalonym znaczeniu idiomatycznym." }
+    ],
+    "usage": [
+      "Nieuchronność zdarzenia: sooner or later, now or never",
+      "Przybliżenie liczby/ilości: more or less, give or take, X or so",
+      "Ostateczność/brak alternatywy: like it or not, one way or another",
+      "Rejestr neutralny do potocznego — naturalne zarówno w mowie, jak i w piśmie"
+    ],
+    "tags": ["sooner or later", "give or take", "more or less", "now or never"],
+    "examples": [
+      { "en": "Sooner or later, you'll have to tell her the truth.", "pl": "Prędzej czy później będziesz musiał powiedzieć jej prawdę." },
+      { "en": "The journey takes about three hours, give or take.", "pl": "Podróż zajmuje jakieś trzy godziny, plus minus." },
+      { "en": "There were a hundred people or so at the meeting.", "pl": "Na spotkaniu było jakieś sto osób." },
+      { "en": "Like it or not, the deadline isn't going to move.", "pl": "Czy ci się to podoba, czy nie, termin się nie przesunie." }
+    ]
+  },
+  {
+    "id": "reduplicative_binomials",
+    "order": 3,
+    "nameEn": "Reduplicative binomials — repeated words for gradual change",
+    "namePl": "Binominały reduplikacyjne — powtórzone słowo dla wyrażenia stopniowości",
+    "rules": [
+      { "label": "Budowa", "text": "reduplikacyjny binominał powtarza to samo słowo połączone and lub by, tworząc znaczenie stopniowości, powtarzalności lub narastania: again and again, day by day, little by little, step by step." },
+      { "label": "and vs by", "text": "wzorzec z and (again and again, on and on) podkreśla powtarzalność czynności w czasie, a wzorzec z by (day by day, step by step, one by one) podkreśla stopniowe, sekwencyjne przechodzenie przez kolejne jednostki lub etapy." },
+      { "label": "Funkcja składniowa", "text": "reduplikacyjne binominały pełnią funkcję przysłówka sposobu lub czasu i mogą stać zarówno na początku, jak i na końcu zdania, bez zmiany znaczenia (Little by little, she regained her confidence. / She regained her confidence little by little.)" }
+    ],
+    "usage": [
+      "Powtarzalność czynności: again and again, over and over (again)",
+      "Stopniowa, sekwencyjna zmiana: day by day, little by little, step by step, bit by bit",
+      "Kolejność jednostkowa: one by one, name by name",
+      "Ciągłość bez końca: on and on, round and round"
+    ],
+    "tags": ["again and again", "little by little", "step by step", "day by day", "reduplication"],
+    "examples": [
+      { "en": "He warned her again and again, but she never listened.", "pl": "Ostrzegał ją wielokrotnie, ale nigdy go nie słuchała." },
+      { "en": "Little by little, the town rebuilt itself after the flood.", "pl": "Krok po kroku miasteczko odbudowało się po powodzi." },
+      { "en": "The instructions explain the process step by step.", "pl": "Instrukcja wyjaśnia proces krok po kroku." },
+      { "en": "Day by day, his English is getting better.", "pl": "Z dnia na dzień jego angielski jest coraz lepszy." }
+    ]
+  },
+  {
+    "id": "rhyming_alliterative_binomials",
+    "order": 4,
+    "nameEn": "Rhyming and alliterative informal binomials",
+    "namePl": "Rymowane i aliteracyjne binominały potoczne",
+    "rules": [
+      { "label": "Rym", "text": "część binominałów łączy słowa o podobnym brzmieniu końcowym (rym), co wzmacnia ich zapadanie w pamięć i nadaje im lekko żartobliwy, potoczny charakter: chop and change, wear and tear, fair and square, high and dry." },
+      { "label": "Aliteracja", "text": "inne binominały opierają się na powtórzeniu tej samej głoski początkowej (aliteracja): hustle and bustle, spick and span, might and main, part and parcel — brzmienie, a nie logika, decyduje o kolejności słów." },
+      { "label": "Rejestr", "text": "te wyrażenia są typowe dla mowy potocznej i stylu narracyjnego/publicystycznego; w tekście formalnym lub naukowym zwykle zastępuje się je neutralnym synonimem (np. spick and span → immaculately clean)." }
+    ],
+    "usage": [
+      "Opis stopniowego zużycia lub zmian: wear and tear, chop and change",
+      "Opis nieporządku vs porządku: hustle and bustle (zgiełk), spick and span (nienagannie czysty)",
+      "Podkreślenie uczciwości/rzetelności: fair and square, safe and sound",
+      "Styl potoczny, narracyjny — unikać w rejestrze formalnym i akademickim"
+    ],
+    "tags": ["wear and tear", "spick and span", "hustle and bustle", "fair and square", "rhyme", "alliteration"],
+    "examples": [
+      { "en": "The car's engine noise is just normal wear and tear.", "pl": "Hałas silnika to po prostu normalne zużycie eksploatacyjne." },
+      { "en": "She kept changing her mind — always chopping and changing.", "pl": "Ciągle zmieniała zdanie — nieustannie się wahała." },
+      { "en": "By the time we arrived, the flat was spick and span.", "pl": "Zanim przyjechaliśmy, mieszkanie było nieskazitelnie czyste." },
+      { "en": "He won the race fair and square.", "pl": "Wygrał wyścig w pełni uczciwie." }
+    ]
+  },
+  {
+    "id": "legal_formal_doublets",
+    "order": 5,
+    "nameEn": "Formal and legal doublets",
+    "namePl": "Formalne i prawnicze dublety",
+    "rules": [
+      { "label": "Geneza", "text": "dublety prawnicze (legal doublets) powstały historycznie z zestawienia synonimu angielskiego (staroangielskiego) z synonimem francuskim lub łacińskim, by dokument był zrozumiały dla obu grup językowych po podboju normańskim — dziś funkcjonują jako jedna utrwalona formuła: null and void, aid and abet, cease and desist, terms and conditions." },
+      { "label": "Semantyka", "text": "oba człony dubletu są bliskoznaczne lub się dopełniają, a całość ma znaczenie precyzyjniejsze i bardziej kategoryczne niż każde ze słów osobno — usunięcie jednego z nich w tekście prawnym zmieniłoby postrzeganą moc formuły, mimo że semantycznie jest ona nadmiarowa." },
+      { "label": "Rejestr", "text": "dublety te występują niemal wyłącznie w języku prawnym, urzędowym i formalnych ogłoszeniach; w codziennej angielszczyźnie brzmią sztywno lub żartobliwie-ironicznie, gdy używane poza kontekstem prawnym." }
+    ],
+    "usage": [
+      "Unieważnienie: null and void, cease and desist",
+      "Współudział w przestępstwie: aid and abet",
+      "Umowy i regulaminy: terms and conditions, rights and obligations",
+      "Formuły kategoryczne: each and every, first and foremost, without let or hindrance"
+    ],
+    "tags": ["null and void", "terms and conditions", "cease and desist", "aid and abet", "legal doublet"],
+    "examples": [
+      { "en": "The contract was declared null and void by the court.", "pl": "Sąd uznał umowę za nieważną." },
+      { "en": "Please read the terms and conditions before signing.", "pl": "Proszę zapoznać się z regulaminem przed podpisaniem." },
+      { "en": "He was charged with aiding and abetting the robbery.", "pl": "Postawiono mu zarzut pomocnictwa w napadzie." },
+      { "en": "The company sent a cease and desist letter to the competitor.", "pl": "Firma wysłała konkurentowi wezwanie do zaprzestania naruszeń." }
+    ]
+  }
+]
