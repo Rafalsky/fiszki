@@ -852,5 +852,12 @@
     "title": "Might as well / may as well",
     "desc": "might as well i may as well — sugestia w braku lepszej alternatywy, rezygnacja i krytyka bezcelowego działania w przeszłości — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "so_such_inversion",
+    "icon": "⚡",
+    "title": "Inwersja z So / Such",
+    "desc": "So i such na początku zdania z inwersją (So great was her surprise…, Such was the impact…) — emfatyczne podkreślenie skutku, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 36
   }
 ]

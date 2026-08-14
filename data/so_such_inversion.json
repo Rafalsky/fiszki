@@ -1,0 +1,77 @@
+[
+  {
+    "id": "so_adjective_inversion",
+    "order": 1,
+    "nameEn": "So + adjective + inverted verb (+ that)",
+    "namePl": "So + przymiotnik + inwersja (+ that)",
+    "rules": [
+      { "label": "Budowa", "text": "Gdy zdanie zaczyna się od So + przymiotnik, następuje inwersja: operator (be lub czasownik posiłkowy/modalny) + podmiot, a przymiotnik pełni funkcję orzecznika przeniesionego na początek zdania: So great was her surprise that she couldn't speak." },
+      { "label": "Skąd operator", "text": "Jeśli zdanie w szyku podstawowym używa czasownika be, to on właśnie przechodzi przed podmiot (Her surprise was great → So great was her surprise). Przy innych czasownikach wprowadzamy do/does/did lub odpowiedni operator posiłkowy/modalny." },
+      { "label": "that-clause", "text": "Zdanie podrzędne z that opisujące skutek jest opcjonalne, ale typowe — bez niego konstrukcja brzmi bardziej jak podkreślenie samego stopnia cechy niż zapowiedź skutku: So intense was the heat (that no one could stay outside)." },
+      { "label": "Rejestr", "text": "Konstrukcja jest formalna i literacka — typowa dla pisma akademickiego, dziennikarskiego i narracji; w mowie potocznej używa się zwykłego szyku z podstawowym so...that (Her surprise was so great that...)." }
+    ],
+    "usage": [
+      "Emfatyczne podkreślenie stopnia cechy na początku zdania w formalnym/pisanym stylu: So severe was the storm that flights were cancelled for two days.",
+      "Z be jako operatorem: So great was the demand that tickets sold out within minutes.",
+      "Z czasownikiem modalnym: So convinced was he of his innocence that he refused a lawyer.",
+      "Nagłówki prasowe i teksty narracyjne dla dramatycznego efektu: So fierce was the competition that only the best three advanced."
+    ],
+    "tags": ["So great was", "So severe was", "So convinced was he", "So intense was the heat"],
+    "examples": [
+      { "en": "So great was her surprise that she couldn't utter a word.", "pl": "Jej zdziwienie było tak wielkie, że nie mogła wykrztusić słowa." },
+      { "en": "So severe was the storm that flights were cancelled for two days.", "pl": "Burza była tak dotkliwa, że przez dwa dni odwoływano loty." },
+      { "en": "So convinced was he of his innocence that he refused a lawyer.", "pl": "Był tak przekonany o swojej niewinności, że odmówił skorzystania z adwokata." },
+      { "en": "So popular has the show become that a second season has already been announced.", "pl": "Serial stał się tak popularny, że ogłoszono już drugi sezon." }
+    ]
+  },
+  {
+    "id": "such_inversion",
+    "order": 2,
+    "nameEn": "Such + be + subject (+ that)",
+    "namePl": "Such + be + podmiot (+ that)",
+    "rules": [
+      { "label": "Budowa", "text": "Such stoi na samym początku zdania, zaraz po nim czasownik be (was/were/is/are), a dopiero potem podmiot: Such was the chaos that the meeting was postponed." },
+      { "label": "Brak rzeczownika po such", "text": "W tej inwersyjnej konstrukcji such występuje samodzielnie, bez rzeczownika po sobie (w przeciwieństwie do zwykłego such a mess) — rzeczownik, którego dotyczy such, jest podmiotem przeniesionym za czasownik: Such was his anger. (= His anger was such.)" },
+      { "label": "that-clause", "text": "Zdanie podrzędne z that wyraża skutek wynikający ze stopnia intensywności rzeczownika-podmiotu: Such was the pressure that he eventually resigned." },
+      { "label": "Kontrast z So + adjective", "text": "Such + be + podmiot odnosi się do rzeczownika (the chaos, his anger), podczas gdy So + przymiotnik + inwersja odnosi się do cechy wyrażonej przymiotnikiem — obu używa się w tym samym formalnym rejestrze, ale nie są wymienne bez przekształcenia zdania." }
+    ],
+    "usage": [
+      "Formalne, pisane teksty (raporty, powieści, artykuły prasowe) dla dramatycznego wprowadzenia skutku: Such was the outcry that the decision was reversed within a day.",
+      "Podkreślenie intensywności emocji lub stanu jako podmiotu zdania: Such was her determination that nothing could stop her.",
+      "Opis wydarzeń historycznych lub dramatycznych w narracji: Such was the devastation that the town took years to rebuild.",
+      "Bez that-clause, jako samodzielne, mocne stwierdzenie: Such was life in those days."
+    ],
+    "tags": ["Such was the chaos", "Such was his anger", "Such was the pressure", "Such was her determination"],
+    "examples": [
+      { "en": "Such was the chaos at the airport that hundreds of passengers missed their flights.", "pl": "Na lotnisku panował taki chaos, że setki pasażerów spóźniły się na loty." },
+      { "en": "Such was his anger that he could barely speak.", "pl": "Jego złość była tak wielka, że ledwo mógł mówić." },
+      { "en": "Such was the pressure on him that he eventually resigned.", "pl": "Presja na niego była tak duża, że w końcu zrezygnował." },
+      { "en": "Such was the devastation caused by the flood that entire villages had to be rebuilt.", "pl": "Zniszczenia spowodowane powodzią były tak wielkie, że całe wioski musiały zostać odbudowane." }
+    ]
+  },
+  {
+    "id": "so_adverb_verb_inversion",
+    "order": 3,
+    "nameEn": "So + adverb + inverted operator + subject + verb (+ that)",
+    "namePl": "So + przysłówek + inwersja + podmiot + czasownik (+ that)",
+    "rules": [
+      { "label": "Budowa", "text": "Gdy So + przysłówek sposobu otwiera zdanie, po nim następuje inwersja operatora i podmiotu, a główny czasownik zostaje na swoim miejscu, po podmiocie: So quickly did she react that no one noticed the mistake." },
+      { "label": "do-support", "text": "Jeśli zdanie podstawowe nie ma czasownika posiłkowego/modalnego, przy inwersji trzeba wprowadzić do/does/did, tak jak przy innych inwersjach z przysłówkiem na początku: She reacted so quickly → So quickly did she react." },
+      { "label": "Różnica od So + adjective", "text": "Tu so łączy się z przysłówkiem opisującym sposób wykonania czynności (quickly, skilfully, convincingly), a czasownik główny pozostaje po podmiocie — inaczej niż przy So + przymiotnik + be, gdzie całe orzeczenie (be) przechodzi przed podmiot." },
+      { "label": "Rejestr i użycie", "text": "Konstrukcja jest wyraźnie formalna/literacka i rzadka w mowie — częstsza w tekstach narracyjnych, biograficznych i dziennikarskich, gdzie podkreśla się sposób, w jaki coś się wydarzyło." }
+    ],
+    "usage": [
+      "Podkreślenie sposobu wykonania czynności prowadzącego do skutku: So skilfully did she negotiate the deal that both sides left satisfied.",
+      "Z czasownikiem modalnym jako operatorem: So convincingly could he argue his case that even sceptics were persuaded.",
+      "Narracja historyczna i biograficzna: So bravely did the soldiers fight that they were awarded medals.",
+      "Bez that-clause, dla samego podkreślenia sposobu: So smoothly did the ceremony proceed."
+    ],
+    "tags": ["So quickly did she react", "So skilfully did she negotiate", "So bravely did", "So convincingly could he argue"],
+    "examples": [
+      { "en": "So quickly did she react that no one even noticed the mistake.", "pl": "Zareagowała tak szybko, że nikt nawet nie zauważył błędu." },
+      { "en": "So skilfully did she negotiate the deal that both sides left the table satisfied.", "pl": "Wynegocjowała umowę tak umiejętnie, że obie strony opuściły stół zadowolone." },
+      { "en": "So bravely did the soldiers fight that they were all awarded medals.", "pl": "Żołnierze walczyli tak dzielnie, że wszyscy otrzymali medale." },
+      { "en": "So convincingly could he argue his case that even the sceptics were persuaded.", "pl": "Potrafił argumentować swoją sprawę tak przekonująco, że przekonał nawet sceptyków." }
+    ]
+  }
+]
