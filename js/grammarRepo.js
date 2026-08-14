@@ -135,6 +135,7 @@ const THEORY_URLS = {
   modals_perfect_continuous: new URL("../data/modals_perfect_continuous.json", import.meta.url),
   compound_adjectives: new URL("../data/compound_adjectives.json", import.meta.url),
   elative: new URL("../data/elative.json", import.meta.url),
+  multiplicative_comparison: new URL("../data/multiplicative_comparison.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -265,6 +266,7 @@ const DRILLS_URLS = {
   modals_perfect_continuous: new URL("../data/modals_perfect_continuousDrills.json", import.meta.url),
   compound_adjectives: new URL("../data/compound_adjectivesDrills.json", import.meta.url),
   elative: new URL("../data/elativeDrills.json", import.meta.url),
+  multiplicative_comparison: new URL("../data/multiplicative_comparisonDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

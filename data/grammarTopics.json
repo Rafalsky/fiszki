@@ -887,5 +887,12 @@
     "title": "Elativ",
     "desc": "most + przymiotnik/przysłówek bez „the” do wyrażania wysokiego stopnia cechy, nie porównania (a most interesting book, I thank you most sincerely) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "multiplicative_comparison",
+    "icon": "✖️",
+    "title": "Porównania wielokrotności",
+    "desc": "twice as...as, three times as...as, half the size of — wyrażanie wielokrotności w porównaniach, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
