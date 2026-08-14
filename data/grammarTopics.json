@@ -943,5 +943,12 @@
     "title": "Wyrażenia binominalne (stałe pary)",
     "desc": "Stałe pary słów łączone and/or w zamrożonej kolejności (bread and butter, sooner or later, wear and tear) — reguły kolejności, elipsa w binominałach, dublety prawnicze, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "measure_genitive",
+    "icon": "⏱️",
+    "title": "Dopełniacz miary i czasu",
+    "desc": "Dopełniacz z rzeczownikami miary i czasu (two weeks' notice, a day's work) — liczba pojedyncza i mnoga, kontrast z przymiotnikiem złożonym oraz utrwalone wyrażenia idiomatyczne, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
