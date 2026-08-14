@@ -1,0 +1,95 @@
+[
+  {
+    "id": "elative_adjective",
+    "order": 1,
+    "nameEn": "Elative 'most' + adjective (no comparison)",
+    "namePl": "Elativ: most + przymiotnik (bez porównania)",
+    "rules": [
+      { "label": "Forma", "text": "most + przymiotnik, BEZ przedimka 'the' i bez frazy porównawczej (than, of all, in the world) — wyraża bardzo wysoki stopień cechy, czyli po prostu 'bardzo', a nie porównanie z innymi rzeczami" },
+      { "label": "Przedimek nieokreślony", "text": "Gdy elativ opisuje policzalny rzeczownik w liczbie pojedynczej, zwykle poprzedza go a/an, nigdy the — a most surprising discovery (nie: the most surprising discovery, jeśli nie ma na myśli porównania)" },
+      { "label": "Rejestr", "text": "Struktura formalna i literacka — typowa dla oficjalnych podziękowań, recenzji, listów i przemówień; w mowie potocznej zastępowana przez very / extremely" }
+    ],
+    "usage": [
+      "Formalne wyrażenia grzecznościowe: It was most kind of you to come. / I am most grateful for your help.",
+      "Opisy w recenzjach i tekstach pisanych: a most disturbing account of the war",
+      "Nigdy nie łączy się z frazą porównawczą — *most kind than usual jest niegramatyczne, bo elativ nic z niczym nie porównuje",
+      "Może poprzedzać zarówno przymiotniki krótkie, jak i długie — most kind, most fascinating"
+    ],
+    "tags": ["most kind", "most grateful", "a most surprising", "most unfortunate"],
+    "examples": [
+      { "en": "It was most kind of you to help us move house.", "pl": "To było bardzo miło z twojej strony, że pomogłeś nam się przeprowadzić." },
+      { "en": "The reviewer called the novel a most disappointing sequel.", "pl": "Recenzent nazwał tę powieść bardzo rozczarowującą kontynuacją." },
+      { "en": "We are most grateful for your continued support.", "pl": "Jesteśmy bardzo wdzięczni za wasze nieustające wsparcie." },
+      { "en": "This is, I must say, a most unusual request.", "pl": "Muszę przyznać, że to bardzo nietypowa prośba." }
+    ]
+  },
+  {
+    "id": "elative_adverb",
+    "order": 2,
+    "nameEn": "Elative 'most' + adverb",
+    "namePl": "Elativ: most + przysłówek",
+    "rules": [
+      { "label": "Forma", "text": "most + przysłówek (najczęściej na -ly) — wzmacnia znaczenie przysłówka do 'bardzo', bez wskazywania na porównanie z innymi sytuacjami" },
+      { "label": "Typowe czasowniki", "text": "Najczęściej towarzyszy czasownikom mówienia, dziękowania i zachowania: thank, apologize, speak, behave, welcome, recommend" },
+      { "label": "Styl", "text": "Formalne podziękowania, przeprosiny i przemówienia — I thank you most sincerely brzmi bardziej podniośle niż I thank you very sincerely" }
+    ],
+    "usage": [
+      "Formalne podziękowania i przeprosiny: We apologize most sincerely for the inconvenience caused.",
+      "Opis zachowania w stylu formalnym: He behaved most strangely throughout the meeting.",
+      "Kontrast z 'very': 'most' w tej funkcji jest bardziej oficjalne i literackie niż potoczne 'very'"
+    ],
+    "tags": ["most sincerely", "most warmly", "most strangely", "most gladly"],
+    "examples": [
+      { "en": "We thank you most sincerely for your kind donation.", "pl": "Dziękujemy wam bardzo serdecznie za hojną darowiznę." },
+      { "en": "She spoke most eloquently about the challenges ahead.", "pl": "Mówiła bardzo elokwentnie o czekających nas wyzwaniach." },
+      { "en": "The manager apologized most humbly for the mistake.", "pl": "Kierownik przeprosił bardzo pokornie za pomyłkę." },
+      { "en": "He behaved most oddly after receiving the news.", "pl": "Zachowywał się bardzo dziwnie po otrzymaniu tej wiadomości." }
+    ]
+  },
+  {
+    "id": "elative_vs_true_superlative",
+    "order": 3,
+    "nameEn": "Elative vs. true (relative) superlative",
+    "namePl": "Elativ a prawdziwy stopień najwyższy",
+    "rules": [
+      { "label": "Prawdziwy superlativ", "text": "the + stopień najwyższy + jawna lub domyślna grupa porównawcza — wybiera JEDEN element z określonego zbioru: the most beautiful city in Europe, the tallest building in the city" },
+      { "label": "Elativ", "text": "brak 'the', brak grupy porównawczej — wyraża wysoki stopień cechy samej w sobie, bez wskazywania na inne elementy: a most beautiful city, a most impressive building" },
+      { "label": "Test rozpoznawczy", "text": "Jeśli naturalnie da się dodać 'of all / in the world / I've ever seen' bez zmiany sensu, to prawdziwy superlativ; jeśli takie dodanie brzmi nienaturalnie lub zmienia sens, to elativ" }
+    ],
+    "usage": [
+      "Kontrast: This is the tallest building in the city (porównanie w grupie) vs It was a most impressive building, whatever else you might say about the architect (elativ, brak porównania)",
+      "Elativ często występuje z przedimkiem nieokreślonym a/an; prawdziwy superlativ względny niemal zawsze z 'the'",
+      "W mowie potocznej elativ jest rzadki i zastępowany przez very/extremely; pozostaje typowy dla stylu pisanego i formalnego"
+    ],
+    "tags": ["the tallest building", "a most impressive", "of all the candidates", "elative vs superlative"],
+    "examples": [
+      { "en": "This is the tallest building in the city.", "pl": "To najwyższy budynek w mieście." },
+      { "en": "It was a most impressive building, whatever else you might say about the architect.", "pl": "To był bardzo imponujący budynek, cokolwiek by nie powiedzieć o architekcie." },
+      { "en": "Of all the candidates, she seemed the most confident.", "pl": "Ze wszystkich kandydatów wydawała się najbardziej pewna siebie." },
+      { "en": "He struck everyone as a most confident young man.", "pl": "Zrobił na wszystkich wrażenie bardzo pewnego siebie młodego mężczyzny." }
+    ]
+  },
+  {
+    "id": "elative_utmost_greatest",
+    "order": 4,
+    "nameEn": "Elative 'utmost' / 'greatest' in fixed formal phrases",
+    "namePl": "Elativ utmost / greatest w utartych zwrotach formalnych",
+    "rules": [
+      { "label": "Nieregularne elativy", "text": "utmost, uttermost, greatest, highest, deepest w utartych frazach formalnych wyrażają najwyższy możliwy stopień, a nie porównanie z innymi elementami" },
+      { "label": "Stałe kolokacje", "text": "of the utmost importance/urgency, with the greatest care/respect, to the best of my knowledge, in the deepest sense, in the extreme" },
+      { "label": "utmost jako przymiotnik i rzeczownik", "text": "Jako przymiotnik zawsze stoi przed rzeczownikiem i nie ma formy porównawczej (nie istnieje 'more utmost' — to sam w sobie stopień skrajny); jako rzeczownik występuje w zwrocie do/try one's utmost (zrobić wszystko, co w czyjejś mocy)" }
+    ],
+    "usage": [
+      "Formalne pismo urzędowe i biznesowe: This matter is of the utmost importance.",
+      "Grzecznościowe zwroty i zapewnienia: I assure you of my greatest respect. / We will do our utmost to help.",
+      "Utarte zwroty z 'best': To the best of my knowledge, the report is accurate."
+    ],
+    "tags": ["the utmost", "of the utmost importance", "the greatest", "to the best of my knowledge"],
+    "examples": [
+      { "en": "Please handle this document with the utmost care.", "pl": "Proszę obchodzić się z tym dokumentem z najwyższą starannością." },
+      { "en": "This decision is of the utmost importance to our future.", "pl": "Ta decyzja ma najwyższe znaczenie dla naszej przyszłości." },
+      { "en": "I hold her judgment in the greatest esteem.", "pl": "Darzę jej osąd najwyższym szacunkiem." },
+      { "en": "To the best of my knowledge, no one has ever solved this problem.", "pl": "Zgodnie z moją najlepszą wiedzą, nikt nigdy nie rozwiązał tego problemu." }
+    ]
+  }
+]
