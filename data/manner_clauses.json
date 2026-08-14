@@ -1,0 +1,98 @@
+[
+  {
+    "id": "the_way_that",
+    "order": 1,
+    "nameEn": "the way (that) / the way in which — formal manner conjunction",
+    "namePl": "the way (that) / the way in which — formalny spójnik sposobu",
+    "rules": [
+      { "label": "Budowa", "text": "the way (+ that) + podmiot + orzeczenie = 'sposób, w jaki' — that jest opcjonalne i w mowie potocznej zwykle pomijane (She smiled the way her mother used to.)" },
+      { "label": "Wersja formalna", "text": "the way in which jest bardziej formalnym, pisemnym odpowiednikiem, typowym dla stylu akademickiego i urzędowego (The way in which the data was collected raises questions.)" },
+      { "label": "Funkcja składniowa", "text": "the way (that) wprowadza zdanie okolicznikowe sposobu, odpowiadające na pytanie 'jak?' — pełni funkcję zbliżoną do przysłówka, w odróżnieniu od zdań rzeczownikowych typu what he did" }
+    ],
+    "usage": [
+      "Opis sposobu wykonania czynności: I like the way he explains things.",
+      "Styl formalny i pisemny: the way in which zamiast potocznego the way (that)",
+      "Możliwość pominięcia that bez zmiany znaczenia: the way (that) she looked at me",
+      "Kontrast z as: the way (that) brzmi bardziej opisowo i częściej wprowadza ocenę mówiącego niż neutralne as"
+    ],
+    "tags": ["the way that", "the way in which", "manner clause"],
+    "examples": [
+      { "en": "I love the way you always stay calm under pressure.", "pl": "Uwielbiam to, jak zawsze zachowujesz spokój pod presją." },
+      { "en": "She smiled the way her mother used to smile.", "pl": "Uśmiechnęła się tak, jak kiedyś uśmiechała się jej matka." },
+      { "en": "The way in which the experiment was conducted has been widely criticised.", "pl": "Sposób, w jaki przeprowadzono eksperyment, był szeroko krytykowany." },
+      { "en": "That's not the way you're supposed to hold a violin.", "pl": "Tak się nie trzyma skrzypiec." }
+    ]
+  },
+  {
+    "id": "how_manner",
+    "order": 2,
+    "nameEn": "how as an informal manner conjunction",
+    "namePl": "how jako nieformalny spójnik sposobu",
+    "rules": [
+      { "label": "Budowa", "text": "how + podmiot + orzeczenie zastępuje the way (that) po czasownikach reakcji emocjonalnej: love, like, hate, appreciate, notice (I love how you never give up.)" },
+      { "label": "Rejestr", "text": "how w tej funkcji jest wyraźnie nieformalne i typowe dla mowy potocznej oraz mediów społecznościowych — w tekście formalnym zastępowane przez the way (that)" },
+      { "label": "Nie mylić z pytaniem", "text": "how tutaj nie wprowadza pytania pośredniego (I don't know how it works.), lecz komentuje sposób wykonania znanej już czynności — różnica widoczna w czasowniku nadrzędnym i intonacji" }
+    ],
+    "usage": [
+      "Po czasownikach lubienia/nielubienia: I love/like/hate/can't stand how + zdanie",
+      "Wyrażanie zachwytu lub irytacji sposobem, w jaki ktoś coś robi",
+      "Częste w nagłówkach i mowie potocznej: 'How she did it' jako tytuł artykułu (rzeczownikowe użycie how, pokrewne, lecz odrębne)",
+      "W rejestrze formalnym zamiana na the way (that): I appreciate the way you handled it. zamiast I appreciate how you handled it."
+    ],
+    "tags": ["I love how", "I like how", "I hate how", "informal manner"],
+    "examples": [
+      { "en": "I love how you always find time to help others.", "pl": "Uwielbiam to, jak zawsze znajdujesz czas, żeby pomóc innym." },
+      { "en": "I hate how he interrupts people all the time.", "pl": "Nienawidzę tego, jak on ciągle wchodzi ludziom w słowo." },
+      { "en": "She noticed how carefully he wrapped the present.", "pl": "Zauważyła, jak ostrożnie zapakował prezent." },
+      { "en": "I appreciate how quickly you replied to my email.", "pl": "Doceniam to, jak szybko odpowiedziałeś na mój e-mail." }
+    ]
+  },
+  {
+    "id": "same_way_similarly",
+    "order": 3,
+    "nameEn": "(in) the same way (that) / just as ... so ... — comparing manners",
+    "namePl": "(in) the same way (that) / just as ... so ... — porównywanie sposobów",
+    "rules": [
+      { "label": "Budowa podstawowa", "text": "(in) the same way (that) + zdanie = 'w taki sam sposób, w jaki' — porównuje sposób wykonania jednej czynności do drugiej (He handled it in the same way (that) his predecessor did.)" },
+      { "label": "Struktura korelatywna", "text": "just as + zdanie, so + inwersja/zdanie główne to formalna, symetryczna konstrukcja porównawcza, typowa dla stylu pisanego i retorycznego (Just as water shapes stone, so criticism shapes character.)" },
+      { "label": "Interpunkcja i szyk", "text": "w just as ... so ... część 'so' może zaczynać się inwersją pomocniczego czasownika dla podkreślenia formalności (Just as the roots feed the tree, so too does tradition feed a culture.)" }
+    ],
+    "usage": [
+      "Porównanie sposobu działania dwóch różnych sytuacji lub osób",
+      "the same way that w mowie potocznej, in the same way że w piśmie formalnym bywa bez 'that'",
+      "just as ... so ... w retoryce, eseistyce i przemówieniach dla efektu paralelizmu",
+      "so too/so also po just as wzmacnia formalny, niemal aforystyczny charakter zdania"
+    ],
+    "tags": ["the same way that", "in the same way", "just as ... so ..."],
+    "examples": [
+      { "en": "He solved the problem in the same way that his teacher had taught him.", "pl": "Rozwiązał problem w taki sam sposób, w jaki nauczył go tego nauczyciel." },
+      { "en": "Just as a plant needs light, so a child needs encouragement.", "pl": "Tak jak roślina potrzebuje światła, tak dziecko potrzebuje zachęty." },
+      { "en": "She greeted every guest the same way, with a warm smile.", "pl": "Każdego gościa witała w taki sam sposób, ciepłym uśmiechem." },
+      { "en": "Just as the tide turns, so too does public opinion.", "pl": "Tak jak zmienia się przypływ, tak zmienia się opinia publiczna." }
+    ]
+  },
+  {
+    "id": "manner_clause_ellipsis",
+    "order": 4,
+    "nameEn": "Ellipsis in manner clauses with a shared subject",
+    "namePl": "Elipsa w zdaniach sposobu o wspólnym podmiocie",
+    "rules": [
+      { "label": "Zasada", "text": "gdy podmiot zdania sposobu jest taki sam jak podmiot zdania głównego, powtarzany czasownik (i ewentualnie inne elementy) można pominąć: She sang the way she always sings [pominięte: sang]." },
+      { "label": "Pozostawiony element", "text": "po elipsie zwykle zostaje sam podmiot lub podmiot + czasownik posiłkowy (the way she always does/did), co brzmi bardziej naturalnie niż pełne powtórzenie czasownika" },
+      { "label": "Ryzyko niejednoznaczności", "text": "elipsa jest możliwa tylko wtedy, gdy z kontekstu jasno wynika, jaki czasownik został pominięty — w przeciwnym razie lepiej go zachować" }
+    ],
+    "usage": [
+      "Unikanie powtórzenia tego samego czasownika w zdaniu głównym i podrzędnym sposobu",
+      "Zastępowanie pominiętego czasownika przez do/does/did: he did it the way his father always did",
+      "Naturalne, ekonomiczne brzmienie zdania w mowie i piśmie",
+      "Zachowanie pełnej formy, gdy chcemy podkreślić kontrast (the way he used to do it, not the way he does it now)"
+    ],
+    "tags": ["ellipsis", "the way he always does", "shared subject"],
+    "examples": [
+      { "en": "She sang the way she always does.", "pl": "Śpiewała tak, jak zawsze śpiewa." },
+      { "en": "He fixed the shelf the way his father used to.", "pl": "Naprawił półkę tak, jak zwykł to robić jego ojciec." },
+      { "en": "They celebrated the win the way champions do.", "pl": "Świętowali zwycięstwo tak, jak robią to mistrzowie." },
+      { "en": "Do it the way I showed you, not the way you did it last time.", "pl": "Zrób to tak, jak ci pokazałem, nie tak, jak zrobiłeś to ostatnim razem." }
+    ]
+  }
+]
