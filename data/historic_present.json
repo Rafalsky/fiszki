@@ -1,0 +1,103 @@
+[
+  {
+    "id": "informal_narrative",
+    "order": 1,
+    "nameEn": "Historic present in spoken storytelling",
+    "namePl": "Czas teraźniejszy historyczny w opowiadaniu historii",
+    "rules": [
+      { "label": "Budowa", "text": "czas Present Simple (a dla czynności w toku Present Continuous) używany zamiast Past Simple/Continuous do opisania wydarzeń, które naprawdę miały miejsce w przeszłości: So I'm walking down the street and this guy comes up to me." },
+      { "label": "Funkcja", "text": "nadaje relacji żywość i bezpośredniość, jakby wydarzenia działy się teraz, na oczach słuchacza — typowe dla nieformalnych, spontanicznych opowieści w rozmowie" },
+      { "label": "Sygnał wejścia w narrację", "text": "opowieść zwykle zaczyna się w zwykłym czasie przeszłym, żeby osadzić ją w czasie (Yesterday I was walking to work...), a dopiero potem narrator przełącza się na czas teraźniejszy w najbardziej istotnym/dramatycznym momencie" },
+      { "label": "Mieszanie czasów", "text": "narrator swobodnie wraca do czasu przeszłego dla mniej istotnych szczegółów tła i może użyć Present Perfect jako punktu odniesienia tuż przed przełączeniem na teraźniejszość — nie jest to błąd, lecz naturalna cecha tego stylu" },
+      { "label": "Czasowniki mówienia w narracji", "text": "w żywej relacji dialogi wprowadza się też w czasie teraźniejszym: she goes 'no way!' and I'm like 'I know, right?' — typowe dla bardzo nieformalnego rejestru" }
+    ],
+    "usage": [
+      "Opowiadanie anegdoty z życia w rozmowie towarzyskiej, żeby uczynić ją bardziej wciągającą: So we're at the airport and suddenly they announce the flight's cancelled.",
+      "Przejście z czasu przeszłego (osadzenie w czasie) na teraźniejszy w kulminacyjnym momencie historii: I was in the kitchen when suddenly the fire alarm goes off.",
+      "Wprowadzanie czyichś słów w żywej relacji: He looks at me and goes, 'You've got to be kidding.'",
+      "Naturalne mieszanie czasu przeszłego (tło) i teraźniejszego (akcja główna) w tej samej opowieści"
+    ],
+    "tags": ["historic present", "storytelling", "narrative present", "spoken English", "so I'm walking"],
+    "examples": [
+      { "en": "So I'm sitting on the bus, right, and this woman starts talking to herself.", "pl": "Więc siedzę w autobusie i nagle ta kobieta zaczyna mówić sama do siebie." },
+      { "en": "I was about to leave when my phone rings and it's my boss.", "pl": "Miałem już wychodzić, kiedy dzwoni mój telefon i to mój szef." },
+      { "en": "He opens the fridge, and there's nothing inside except a jar of pickles.", "pl": "Otwiera lodówkę, a tam nic oprócz słoika ogórków." },
+      { "en": "We get to the hotel and they tell us there's no reservation under our name.", "pl": "Docieramy do hotelu, a oni mówią, że nie ma żadnej rezerwacji na nasze nazwisko." }
+    ]
+  },
+  {
+    "id": "jokes_anecdotes",
+    "order": 2,
+    "nameEn": "Historic present in jokes",
+    "namePl": "Czas teraźniejszy historyczny w dowcipach",
+    "rules": [
+      { "label": "Konwencja gatunkowa", "text": "klasyczne dowcipy niemal zawsze opowiada się w czasie teraźniejszym, niezależnie od tego, że opisywana sytuacja jest fikcyjna i 'dzieje się' w bliżej nieokreślonym momencie: A man walks into a bar and orders a drink." },
+      { "label": "Dlaczego czas teraźniejszy", "text": "teraźniejszość sprawia, że puenta (punchline) brzmi bardziej bezpośrednio i zaskakująco — dowcip opowiedziany w czasie przeszłym traci część komicznego efektu" },
+      { "label": "Stały wzorzec otwarcia", "text": "typowe otwarcie dowcipu ma formę: [postać] + czasownik w Present Simple + okoliczności: A horse walks into a bar. The bartender says, 'Why the long face?'" },
+      { "label": "Puenta w teraźniejszości", "text": "kluczowe jest utrzymanie czasu teraźniejszego aż do samej puenty — nagła zmiana na czas przeszły w środku dowcipu brzmi nienaturalnie i psuje rytm" }
+    ],
+    "usage": [
+      "Opowiadanie klasycznego dowcipu z ustaloną konwencją: A guy walks into a doctor's office and says, 'Doctor, it hurts when I do this.'",
+      "Anegdota opowiadana dla efektu komicznego, nie jako relacja historyczna: My grandfather always tells this one: a farmer sees a talking frog...",
+      "Zachowanie spójności czasu przez cały dowcip, łącznie z dialogami postaci",
+      "Rozpoznanie, że w tym kontekście czas teraźniejszy nie oznacza wydarzenia dziejącego się właśnie teraz"
+    ],
+    "tags": ["jokes", "punchline", "historic present", "a man walks into a bar", "anecdotes"],
+    "examples": [
+      { "en": "A man walks into a bar and asks for a beer that costs a penny.", "pl": "Mężczyzna wchodzi do baru i prosi o piwo za grosz." },
+      { "en": "Two goldfish are in a tank. One turns to the other and says, 'Do you know how to drive this thing?'", "pl": "Dwie złote rybki są w akwarium. Jedna zwraca się do drugiej: 'Wiesz, jak się prowadzi to coś?'" },
+      { "en": "A snail gets robbed by two turtles, and when police ask what happened, he says, 'I don't know, it all happened so fast.'", "pl": "Ślimaka okradają dwa żółwie, a gdy policja pyta, co się stało, mówi: 'Nie wiem, wszystko stało się tak szybko.'" },
+      { "en": "A skeleton walks into a bar and orders a beer and a mop.", "pl": "Szkielet wchodzi do baru i zamawia piwo i mopa." }
+    ]
+  },
+  {
+    "id": "plot_summary",
+    "order": 3,
+    "nameEn": "Historic present in plot summaries",
+    "namePl": "Czas teraźniejszy historyczny w streszczeniach fabuły",
+    "rules": [
+      { "label": "Konwencja", "text": "streszczając fabułę książki, filmu, sztuki czy opery, używa się czasu teraźniejszego niezależnie od tego, kiedy dzieło powstało lub kiedy rozgrywa się jego akcja: In the novel, the protagonist discovers a hidden letter." },
+      { "label": "Uzasadnienie", "text": "dzieło literackie/filmowe 'żyje' w teraźniejszości za każdym razem, gdy jest czytane lub oglądane — fabuła 'dzieje się' na nowo przy każdym odbiorze, dlatego opisuje się ją tak, jakby trwała teraz" },
+      { "label": "Tło sprzed akcji głównej", "text": "wydarzenia, które miały miejsce PRZED początkiem opisywanej fabuły, można oddać przez Present Perfect: By the time the play begins, the king has already died." },
+      { "label": "Zastosowanie", "text": "obowiązuje w recenzjach, opisach na okładkach książek, esejach o literaturze, streszczeniach filmów oraz odpowiedziach na egzaminach z literatury — konsekwentne trzymanie się czasu przeszłego w takim kontekście uznaje się za błąd stylistyczny" }
+    ],
+    "usage": [
+      "Streszczanie akcji powieści lub filmu w recenzji: The film follows a detective who investigates a murder in a small coastal town.",
+      "Opis fabuły na okładce książki lub w opisie filmu: When her father disappears, Maria sets out to find him.",
+      "Analiza literacka w eseju szkolnym lub akademickim: Hamlet hesitates to act because he doubts the ghost's reliability.",
+      "Odróżnienie faktów o autorze/powstaniu dzieła (czas przeszły) od wydarzeń w samej fabule (czas teraźniejszy): The novel was published in 1949 and tells the story of a totalitarian future."
+    ],
+    "tags": ["plot summary", "literary present", "book review", "film synopsis", "historic present"],
+    "examples": [
+      { "en": "In the film, a young woman inherits an old mansion and slowly uncovers its dark secrets.", "pl": "W filmie młoda kobieta dziedziczy stary dwór i powoli odkrywa jego mroczne tajemnice." },
+      { "en": "By the time the story begins, the family has already lost everything.", "pl": "Zanim historia się zaczyna, rodzina już straciła wszystko." },
+      { "en": "Macbeth murders the king and then spends the rest of the play consumed by guilt.", "pl": "Makbet morduje króla, a potem przez resztę sztuki jest trawiony poczuciem winy." },
+      { "en": "The novel, published in 1954, tells the story of boys stranded on a desert island.", "pl": "Powieść, wydana w 1954 roku, opowiada historię chłopców uwięzionych na bezludnej wyspie." }
+    ]
+  },
+  {
+    "id": "live_commentary",
+    "order": 4,
+    "nameEn": "Historic present in live commentary",
+    "namePl": "Czas teraźniejszy historyczny w relacji na żywo",
+    "rules": [
+      { "label": "Present Simple dla krótkich, zakończonych czynności", "text": "kolejne, szybko następujące po sobie czynności w relacji na żywo (np. z meczu) opisuje się w Present Simple, tak jak stają się faktem: He passes to Rodriguez, Rodriguez shoots... and it's a goal!" },
+      { "label": "Present Continuous dla czynności w toku", "text": "tło lub czynność trwającą w danym momencie oddaje Present Continuous: The crowd is roaring as the players are walking onto the pitch." },
+      { "label": "Kontrast z czasem przeszłym", "text": "gdy komentator odnosi się do czegoś, co już się skończyło przed chwilą (np. powtórka), wraca do czasu przeszłego: That was a brilliant save a minute ago, and now he saves it again!" },
+      { "label": "Zastosowania poza sportem", "text": "ten sam mechanizm pojawia się w relacjach na żywo z innych wydarzeń (ceremonie, wybory, dramatyczne wydarzenia bieżące) oraz w didaskaliach (stage directions) w tekstach dramatycznych, które zawsze są w czasie teraźniejszym" }
+    ],
+    "usage": [
+      "Relacja sportowa na żywo, gdzie akcja zmienia się z sekundy na sekundę: She serves, he returns it deep, and now they're both scrambling for the net.",
+      "Opis czynności w toku jako tła dla głównej akcji: The goalkeeper is watching closely as the striker is lining up the shot.",
+      "Relacja z wydarzenia na żywo poza sportem: The president is now approaching the podium and the crowd falls silent.",
+      "Didaskalia w tekście dramatu, zawsze w czasie teraźniejszym niezależnie od czasu reszty narracji: (Enter Macbeth. He stares at his hands.)"
+    ],
+    "tags": ["live commentary", "sports commentary", "stage directions", "present continuous", "historic present"],
+    "examples": [
+      { "en": "He shoots... and it's a goal! The stadium erupts.", "pl": "Strzela... i to jest gol! Stadion wybucha." },
+      { "en": "The runners are approaching the final bend, and Johnson is pulling ahead.", "pl": "Biegacze zbliżają się do ostatniego zakrętu, a Johnson wysuwa się na prowadzenie." },
+      { "en": "She tosses the ball, serves, and the game is over in seconds.", "pl": "Podrzuca piłkę, serwuje, i mecz kończy się w kilka sekund." },
+      { "en": "(He opens the letter slowly. His hands are shaking.)", "pl": "(Otwiera list powoli. Jego ręce się trzęsą.)" }
+    ]
+  }
+]

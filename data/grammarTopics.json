@@ -985,5 +985,12 @@
     "title": "Mowa pozornie zależna",
     "desc": "Free indirect speech — mechanika (backshift bez 'that', zachowany szyk pytań i wykrzyknień), kontrast z mową bezpośrednią i zależną, monolog wewnętrzny, sygnały narracyjne — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "historic_present",
+    "icon": "🎪",
+    "title": "Czas teraźniejszy historyczny",
+    "desc": "Present Simple/Continuous zamiast czasu przeszłego w opowiadaniu historii, dowcipach, streszczeniach fabuły i relacji na żywo — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
