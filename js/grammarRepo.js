@@ -133,6 +133,7 @@ const THEORY_URLS = {
   so_such_inversion: new URL("../data/so_such_inversion.json", import.meta.url),
   reason_clauses: new URL("../data/reason_clauses.json", import.meta.url),
   modals_perfect_continuous: new URL("../data/modals_perfect_continuous.json", import.meta.url),
+  compound_adjectives: new URL("../data/compound_adjectives.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -261,6 +262,7 @@ const DRILLS_URLS = {
   so_such_inversion: new URL("../data/so_such_inversionDrills.json", import.meta.url),
   reason_clauses: new URL("../data/reason_clausesDrills.json", import.meta.url),
   modals_perfect_continuous: new URL("../data/modals_perfect_continuousDrills.json", import.meta.url),
+  compound_adjectives: new URL("../data/compound_adjectivesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
