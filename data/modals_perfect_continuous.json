@@ -1,0 +1,89 @@
+[
+  {
+    "id": "must_have_been",
+    "order": 1,
+    "nameEn": "must have been + -ing — certainty about an ongoing past action",
+    "namePl": "must have been doing — pewność co do trwającej czynności",
+    "rules": [
+      { "label": "must have been + -ing", "text": "Wyraża silne przekonanie, że coś trwało lub było w toku w danym momencie przeszłości, na podstawie dostępnych dowodów" },
+      { "label": "Budowa", "text": "podmiot + must have been + czasownik-ing" },
+      { "label": "Kontrast z must have + III forma", "text": "must have done podkreśla, że czynność się zakończyła (must have finished), a must have been doing podkreśla, że trwała lub powtarzała się przez jakiś czas (must have been finishing = był w trakcie kończenia)" }
+    ],
+    "usage": [
+      "Gdy dowody (zmęczenie, hałas, ślady) wskazują na czynność, która trwała jakiś czas, a nie na pojedyncze zdarzenie",
+      "Często z okolicznikami czasu trwania: must have been waiting for hours, must have been raining all night"
+    ],
+    "tags": ["must have been waiting", "must have been raining", "must have been crying"],
+    "examples": [
+      { "en": "The streets are wet — it must have been raining all night.", "pl": "Ulice są mokre — musiało padać całą noc." },
+      { "en": "Her eyes are red — she must have been crying.", "pl": "Ma czerwone oczy — musiała płakać." },
+      { "en": "He looks exhausted — he must have been working overtime again.", "pl": "Wygląda na wykończonego — musiał znowu pracować w nadgodzinach." },
+      { "en": "They must have been waiting for ages — they seemed really annoyed.", "pl": "Musieli czekać całe wieki — wyglądali na naprawdę zirytowanych." }
+    ]
+  },
+  {
+    "id": "might_could_have_been",
+    "order": 2,
+    "nameEn": "might/could have been + -ing — uncertain possibility about an ongoing action",
+    "namePl": "might/could have been doing — niepewna możliwość trwającej czynności",
+    "rules": [
+      { "label": "might/could have been + -ing", "text": "Wyraża przypuszczenie, że coś mogło trwać w przeszłości — bez pewności" },
+      { "label": "may have been + -ing", "text": "Podobne znaczenie do might have been, nieco bardziej formalne" },
+      { "label": "Budowa", "text": "podmiot + might/could/may have been + czasownik-ing" }
+    ],
+    "usage": [
+      "Gdy spekulujemy o czynności, która mogła być w toku, ale nie mamy dowodów jak przy must",
+      "Często w kontekście wyjaśniania czyjegoś zachowania lub wyglądu"
+    ],
+    "tags": ["might have been sleeping", "could have been joking", "may have been listening"],
+    "examples": [
+      { "en": "She didn't answer the phone — she might have been sleeping.", "pl": "Nie odebrała telefonu — może spała." },
+      { "en": "He could have been joking, it's hard to tell with him.", "pl": "Może żartował, trudno powiedzieć z nim." },
+      { "en": "They may have been listening the whole time.", "pl": "Może słuchali przez cały ten czas." },
+      { "en": "I think she could have been watching us from the window.", "pl": "Myślę, że mogła obserwować nas z okna." }
+    ]
+  },
+  {
+    "id": "cant_couldnt_have_been",
+    "order": 3,
+    "nameEn": "can't/couldn't have been + -ing — impossibility of an ongoing action",
+    "namePl": "can't have been doing — niemożliwość trwającej czynności",
+    "rules": [
+      { "label": "can't/couldn't have been + -ing", "text": "Wyraża przekonanie, że coś na pewno NIE trwało w danym momencie — logiczny wniosek o niemożliwości" },
+      { "label": "Budowa", "text": "podmiot + can't/couldn't have been + czasownik-ing" }
+    ],
+    "usage": [
+      "Gdy dowody wykluczają, że dana czynność mogła być w toku",
+      "To przeczenie odpowiadające must have been — nie mówimy 'mustn't have been' w tym znaczeniu"
+    ],
+    "tags": ["can't have been sleeping", "couldn't have been working", "can't have been driving"],
+    "examples": [
+      { "en": "She can't have been sleeping — the light was on all night.", "pl": "Nie mogła spać — światło paliło się całą noc." },
+      { "en": "He couldn't have been working — his computer was switched off.", "pl": "Nie mógł pracować — jego komputer był wyłączony." },
+      { "en": "They can't have been driving for long, the car is still cold.", "pl": "Nie mogli jechać długo, samochód wciąż jest zimny." },
+      { "en": "You can't have been listening — I explained it twice.", "pl": "Chyba nie słuchałeś — wytłumaczyłem to dwa razy." }
+    ]
+  },
+  {
+    "id": "should_have_been",
+    "order": 4,
+    "nameEn": "should have been + -ing — criticism of an unfulfilled ongoing action",
+    "namePl": "should have been doing — krytyka niedopełnionej trwającej czynności",
+    "rules": [
+      { "label": "should have been + -ing", "text": "Wyraża krytykę, że ktoś nie robił czegoś, co w danym momencie powinien był robić" },
+      { "label": "shouldn't have been + -ing", "text": "Wyraża krytykę, że ktoś robił coś, czego w danym momencie nie powinien był robić" },
+      { "label": "Budowa", "text": "podmiot + should(n't) have been + czasownik-ing" }
+    ],
+    "usage": [
+      "Gdy krytykujemy, że ktoś zaniedbywał obowiązek trwający przez jakiś czas (np. naukę, pracę, uwagę)",
+      "Gdy podkreślamy, że dana czynność była nie na miejscu w konkretnym, trwającym momencie"
+    ],
+    "tags": ["should have been studying", "shouldn't have been texting", "should have been watching"],
+    "examples": [
+      { "en": "You should have been studying, not watching TV all evening.", "pl": "Powinieneś był się uczyć, a nie oglądać telewizję cały wieczór." },
+      { "en": "He shouldn't have been texting while driving.", "pl": "Nie powinien był pisać SMS-ów podczas jazdy." },
+      { "en": "The lifeguard should have been watching the pool more closely.", "pl": "Ratownik powinien był uważniej obserwować basen." },
+      { "en": "We shouldn't have been talking during the exam.", "pl": "Nie powinniśmy byli rozmawiać podczas egzaminu." }
+    ]
+  }
+]

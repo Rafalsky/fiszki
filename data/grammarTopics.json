@@ -866,5 +866,12 @@
     "title": "Zdania przyczynowe",
     "desc": "because, because of, as, since, for, seeing that — spójniki i wyrażenia przyczyny, różnice w formalności i budowie zdania, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "modals_perfect_continuous",
+    "icon": "🌊",
+    "title": "Modalne + Perfect Continuous",
+    "desc": "Modalne wyrażające przypuszczenia o czynności trwającej w przeszłości: must/might/could/can't/should have been doing — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
