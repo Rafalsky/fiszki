@@ -950,5 +950,12 @@
     "title": "Dopełniacz miary i czasu",
     "desc": "Dopełniacz z rzeczownikami miary i czasu (two weeks' notice, a day's work) — liczba pojedyncza i mnoga, kontrast z przymiotnikiem złożonym oraz utrwalone wyrażenia idiomatyczne, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "place_clauses",
+    "icon": "🗺️",
+    "title": "Zdania okolicznikowe miejsca",
+    "desc": "where, wherever, anywhere jako spójniki miejsca oraz rozróżnienie zdania okolicznikowego od zdania względnego z where — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
