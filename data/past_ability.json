@@ -1,0 +1,98 @@
+[
+  {
+    "id": "could_general",
+    "order": 1,
+    "nameEn": "could — general or repeated ability in the past",
+    "namePl": "could — ogólna lub powtarzająca się zdolność w przeszłości",
+    "rules": [
+      { "label": "budowa", "text": "podmiot + could (+ not) + czasownik w formie podstawowej, bez 'to': She could swim before she could walk." },
+      { "label": "znaczenie", "text": "'could' opisuje ogólną umiejętność lub zdolność, którą ktoś posiadał przez pewien okres w przeszłości — nie pojedyncze, konkretne osiągnięcie w jednej sytuacji." },
+      { "label": "kontrast z jednym zdarzeniem", "text": "'could' NIE używamy zwykle w zdaniu twierdzącym do opisania, że ktoś zdołał zrobić coś konkretnego jednorazowo — do tego służy 'was/were able to' albo 'managed to'." }
+    ],
+    "usage": [
+      "Umiejętności wyuczone lub trwające przez pewien czas: My grandfather could speak four languages.",
+      "Zdolności fizyczne lub zmysłowe posiadane w przeszłości ogólnie: As a child, she could run for miles without getting tired.",
+      "Przeczenia z 'couldn't' są naturalne również dla pojedynczych sytuacji: I couldn't open the jar, so I asked for help.",
+      "Często z przysłówkami częstotliwości lub okresami czasu: When I was young, I could stay up all night and still function."
+    ],
+    "tags": ["could speak", "could swim", "couldn't open", "as a child, she could"],
+    "examples": [
+      { "en": "My grandfather could speak four languages fluently.", "pl": "Mój dziadek potrafił biegle mówić w czterech językach." },
+      { "en": "As a child, I could run for miles without getting tired.", "pl": "Jako dziecko potrafiłem biegać kilometrami, nie męcząc się." },
+      { "en": "She couldn't ride a bike until she was eight.", "pl": "Nie umiała jeździć na rowerze, dopóki nie skończyła ośmiu lat." },
+      { "en": "He could play the piano beautifully when he was younger.", "pl": "Kiedy był młodszy, potrafił pięknie grać na pianinie." }
+    ]
+  },
+  {
+    "id": "was_able_to_specific",
+    "order": 2,
+    "nameEn": "was/were able to — a specific single achievement",
+    "namePl": "was/were able to — konkretne, jednorazowe osiągnięcie",
+    "rules": [
+      { "label": "budowa", "text": "podmiot + was/were (+ not) + able to + czasownik w formie podstawowej: We were able to find a table despite the crowd." },
+      { "label": "znaczenie", "text": "W zdaniach twierdzących opisujących JEDNO konkretne zdarzenie w przeszłości, w którym ktoś zdołał coś osiągnąć (często mimo trudności), używamy 'was/were able to', a NIE 'could'." },
+      { "label": "dlaczego nie 'could'", "text": "'could' w twierdzeniu sugerowałoby ogólną zdolność w danym momencie, a nie fakt, że dane zdarzenie faktycznie się wydarzyło; 'was able to' jednoznacznie potwierdza, że czynność została wykonana." }
+    ],
+    "usage": [
+      "Pojedyncze, dokonane osiągnięcie w konkretnej sytuacji: After two hours of searching, we were able to find the missing keys.",
+      "Często po okolicznikach wskazujących wysiłek lub przeszkodę: despite the storm, in spite of the traffic, eventually, finally.",
+      "W przeczeniach 'was/were not able to' i 'couldn't' są równoważne i wymienne: I wasn't able to / couldn't finish the report on time.",
+      "W pytaniach o konkretne osiągnięcie zwykle również 'was/were able to': Were you able to reach him on the phone?"
+    ],
+    "tags": ["was able to find", "were able to escape", "eventually able to", "despite... able to"],
+    "examples": [
+      { "en": "After two hours of searching, we were able to find the missing keys.", "pl": "Po dwóch godzinach szukania udało nam się znaleźć zgubione klucze." },
+      { "en": "Despite the heavy traffic, she was able to reach the airport on time.", "pl": "Mimo dużego korku udało jej się dotrzeć na lotnisko na czas." },
+      { "en": "The firefighters were able to rescue everyone from the building.", "pl": "Strażakom udało się uratować wszystkich z budynku." },
+      { "en": "Were you able to fix the printer in the end?", "pl": "Czy w końcu udało ci się naprawić drukarkę?" }
+    ]
+  },
+  {
+    "id": "managed_to_succeeded_in",
+    "order": 3,
+    "nameEn": "managed to / succeeded in — emphasising effort and success",
+    "namePl": "managed to / succeeded in — podkreślenie wysiłku i sukcesu",
+    "rules": [
+      { "label": "managed to", "text": "podmiot + managed + to + czasownik w formie podstawowej — 'managed to' kładzie nacisk na to, że coś było trudne, a mimo to się udało: He managed to persuade his boss to give him a day off." },
+      { "label": "succeeded in", "text": "podmiot + succeeded in + rzeczownik/gerund — bardziej formalny odpowiednik 'managed to', wymaga 'in' i formy -ing lub rzeczownika: She succeeded in convincing the committee." },
+      { "label": "fail to jako przeciwieństwo", "text": "'fail to' + bezokolicznik jest formalnym przeciwieństwem 'managed to' — opisuje nieudaną próbę: They failed to reach an agreement." }
+    ],
+    "usage": [
+      "'managed to' jest naturalny i częsty w mowie potocznej, zawsze sugeruje jakiś wysiłek lub trudność: I managed to catch the last train.",
+      "'succeeded in' jest bardziej formalny, typowy dla pisma i relacji o osiągnięciach: The team succeeded in reducing costs by 20%.",
+      "Obu wyrażeń NIE zastępujemy przez 'could' w zdaniu twierdzącym o jednym zdarzeniu — z tego samego powodu co 'was able to'.",
+      "'not manage to' jest częstą, nieco łagodniejszą alternatywą dla 'couldn't': We didn't manage to see the whole exhibition."
+    ],
+    "tags": ["managed to catch", "succeeded in convincing", "failed to reach", "didn't manage to"],
+    "examples": [
+      { "en": "I managed to catch the last train home.", "pl": "Udało mi się złapać ostatni pociąg do domu." },
+      { "en": "She succeeded in convincing the committee to approve the plan.", "pl": "Udało jej się przekonać komisję, by zatwierdziła plan." },
+      { "en": "They failed to reach an agreement after hours of negotiation.", "pl": "Po wielu godzinach negocjacji nie udało im się dojść do porozumienia." },
+      { "en": "We didn't manage to see the whole exhibition before it closed.", "pl": "Nie zdążyliśmy zobaczyć całej wystawy, zanim się zamknęła." }
+    ]
+  },
+  {
+    "id": "perception_verbs_exception",
+    "order": 4,
+    "nameEn": "could with verbs of perception and mental state — an exception",
+    "namePl": "could z czasownikami percepcji i stanu umysłu — wyjątek",
+    "rules": [
+      { "label": "wyjątek od reguły", "text": "Z czasownikami percepcji (see, hear, feel, smell, taste) i niektórymi czasownikami stanu (understand, remember, guess) 'could' MOŻE opisywać pojedyncze, konkretne zdarzenie w przeszłości — nie tylko ogólną zdolność." },
+      { "label": "dlaczego wyjątek", "text": "Te czasowniki opisują mimowolne, chwilowe doznanie w danym momencie, a nie świadomie wykonaną czynność — dlatego nie podlegają tej samej regule co czasowniki czynnościowe typu 'find' czy 'escape'." },
+      { "label": "was able to nadal poprawne", "text": "'was/were able to' jest wciąż gramatycznie poprawne z tymi czasownikami, ale 'could' brzmi bardziej naturalnie i jest częstsze: I could smell smoke as soon as I opened the door." }
+    ],
+    "usage": [
+      "Percepcja zmysłowa w konkretnej chwili: From the hill, we could see the whole valley below us.",
+      "Zrozumienie lub przypomnienie sobie czegoś w danym momencie: I could tell she was upset from the tone of her voice.",
+      "Kontrast z czasownikami czynnościowymi: I could hear him shouting (percepcja, poprawne) vs. I was able to find him (czynność, 'could' byłoby niepoprawne).",
+      "Ta sama zasada dotyczy 'couldn't' w przeczeniach z czasownikami percepcji, choć przeczenia z 'could' są naturalne dla wszystkich czasowników."
+    ],
+    "tags": ["could see", "could hear", "could smell", "could tell she was"],
+    "examples": [
+      { "en": "From the hill, we could see the whole valley below us.", "pl": "Ze wzgórza mogliśmy zobaczyć całą dolinę poniżej." },
+      { "en": "I could smell smoke as soon as I opened the door.", "pl": "Poczułem zapach dymu, gdy tylko otworzyłem drzwi." },
+      { "en": "She could tell something was wrong from his expression.", "pl": "Po jego minie poznała, że coś jest nie tak." },
+      { "en": "We could hear music coming from the next room.", "pl": "Słyszeliśmy muzykę dochodzącą z sąsiedniego pokoju." }
+    ]
+  }
+]
