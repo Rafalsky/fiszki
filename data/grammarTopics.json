@@ -936,5 +936,12 @@
     "title": "Zdania sposobu (manner clauses)",
     "desc": "The way (that) i how jako spójniki sposobu, formalne i nieformalne wyrażanie „w jaki sposób”, odróżnienie od as/like i zdań względnych. Teoria, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 32
+  },
+  {
+    "id": "binomial_expressions",
+    "icon": "🧂",
+    "title": "Wyrażenia binominalne (stałe pary)",
+    "desc": "Stałe pary słów łączone and/or w zamrożonej kolejności (bread and butter, sooner or later, wear and tear) — reguły kolejności, elipsa w binominałach, dublety prawnicze, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
