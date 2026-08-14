@@ -1,0 +1,95 @@
+[
+  {
+    "id": "adj_adv_participle",
+    "order": 1,
+    "nameEn": "Adjective/Adverb + Participle compounds",
+    "namePl": "Przymiotnik/przysłówek + imiesłów",
+    "rules": [
+      { "label": "Przymiotnik + imiesłów", "text": "Przymiotnik łączy się z imiesłowem (-ing lub -ed), opisując cechę jedną zwięzłą frazą: good-looking, easy-going, quick-thinking, free-standing" },
+      { "label": "Przysłówek + imiesłów", "text": "Przysłówek modyfikuje imiesłów tak, jak zwykły przysłówek modyfikuje czasownik: well-known, newly-built, hard-working, highly-regarded" },
+      { "label": "Łącznik przed rzeczownikiem", "text": "Gdy złożenie stoi przed rzeczownikiem, zawsze piszemy je z łącznikiem: a well-known author, a good-looking man" }
+    ],
+    "usage": [
+      "Zwięzłe opisanie cechy zamiast całego zdania względnego (a hard-working student = a student who works hard)",
+      "Opis wyglądu i charakteru ludzi (good-looking, easy-going, quick-thinking, absent-minded)",
+      "Kontrast drugiego członu -ed vs -ing: well-behaved (jak się zachowuje, bierne) vs good-looking (jak wygląda, opisowe, nie dosłownie czynne)"
+    ],
+    "tags": ["well-known", "good-looking", "hard-working", "newly-built"],
+    "examples": [
+      { "en": "She's a very good-looking woman with a warm smile.", "pl": "To bardzo ładna kobieta z ciepłym uśmiechem." },
+      { "en": "He gave a well-known example from ancient history.", "pl": "Podał znany przykład ze starożytnej historii." },
+      { "en": "They live in a newly-built house on the edge of town.", "pl": "Mieszkają w nowo wybudowanym domu na skraju miasta." },
+      { "en": "My grandmother was always easy-going about small mistakes.", "pl": "Moja babcia zawsze była wyrozumiała wobec drobnych błędów." }
+    ]
+  },
+  {
+    "id": "noun_participle",
+    "order": 2,
+    "nameEn": "Noun + Participle compounds",
+    "namePl": "Rzeczownik + imiesłów",
+    "rules": [
+      { "label": "Rzeczownik + imiesłów bierny (-ed)", "text": "Opisuje przez kogo/co coś zostało zrobione: man-made (zrobiony przez człowieka), self-employed (zatrudniony sam przez siebie), home-made" },
+      { "label": "Rzeczownik + imiesłów czynny (-ing)", "text": "Rzeczownik pełni rolę dopełnienia czynności wyrażonej imiesłowem: English-speaking (mówiący po angielsku), mouth-watering (sprawiający, że cieknie ślinka), record-breaking" },
+      { "label": "self- jako specjalny pierwszy człon", "text": "self-employed, self-taught, self-confident — czynność skierowana na samego siebie lub wykonana samodzielnie, bez cudzej pomocy" }
+    ],
+    "usage": [
+      "Narodowości i języki: English-speaking countries, French-speaking staff, Spanish-speaking clients",
+      "Opis produktów, osiągnięć i cech niezwykłych: award-winning film, record-breaking heat, time-consuming task",
+      "Cechy zawodowe i osobiste: self-employed, self-taught musician, well-educated, computer-generated"
+    ],
+    "tags": ["self-employed", "English-speaking", "mouth-watering", "record-breaking"],
+    "examples": [
+      { "en": "Most of our clients are English-speaking, but some prefer French.", "pl": "Większość naszych klientów mówi po angielsku, ale niektórzy wolą francuski." },
+      { "en": "He's been self-employed as a graphic designer for ten years.", "pl": "Od dziesięciu lat prowadzi własną działalność jako grafik." },
+      { "en": "The restaurant serves the most mouth-watering desserts in town.", "pl": "Restauracja serwuje najbardziej apetyczne desery w mieście." },
+      { "en": "She set a record-breaking time in the marathon last year.", "pl": "W zeszłym roku pobiła rekordowy czas w maratonie." }
+    ]
+  },
+  {
+    "id": "number_noun_premodifier",
+    "order": 3,
+    "nameEn": "Number + noun as premodifier",
+    "namePl": "Liczebnik + rzeczownik jako przydawka",
+    "rules": [
+      { "label": "Rzeczownik w liczbie pojedynczej", "text": "Choć znaczenie jest mnogie, rzeczownik zostaje w liczbie pojedynczej: a five-year-old boy (nie a five-years-old boy), a two-hour meeting" },
+      { "label": "Łącznik między wszystkimi elementami", "text": "Wszystkie części złożenia łączymy łącznikami: a ten-page report, a three-day trip, a four-bedroom house" },
+      { "label": "Kontrast z użyciem orzecznikowym", "text": "Przed rzeczownikiem: a five-year-old boy. Jako orzecznik po be, bez łącznika i z rzeczownikiem w liczbie mnogiej: He is five years old" }
+    ],
+    "usage": [
+      "Wiek: a five-year-old boy, a five-year-old (rzeczownikowo, o dziecku lub zwierzęciu)",
+      "Czas trwania: a two-hour flight, a three-week course, a ten-minute break",
+      "Wymiar, ilość i pojemność: a ten-page essay, a four-bedroom house, a 20-mile drive, a five-litre bottle"
+    ],
+    "tags": ["five-year-old", "two-hour meeting", "ten-page report", "four-bedroom house"],
+    "examples": [
+      { "en": "They just moved into a four-bedroom house near the park.", "pl": "Właśnie wprowadzili się do czteropokojowego domu koło parku." },
+      { "en": "We sat through a two-hour meeting that could have been an email.", "pl": "Przesiedzieliśmy dwugodzinne spotkanie, które mogło być mailem." },
+      { "en": "She handed in a ten-page report on the project.", "pl": "Oddała dziesięciostronicowy raport z projektu." },
+      { "en": "Their five-year-old daughter already reads on her own.", "pl": "Ich pięcioletnia córka już czyta samodzielnie." }
+    ]
+  },
+  {
+    "id": "hyphenation_rules",
+    "order": 4,
+    "nameEn": "Hyphenation and predicative use",
+    "namePl": "Łącznik: przed rzeczownikiem a po czasowniku być",
+    "rules": [
+      { "label": "Przed rzeczownikiem — zawsze z łącznikiem", "text": "W pozycji atrybutywnej (przed rzeczownikiem) złożenie zawsze piszemy z łącznikiem: a well-known author, a five-year-old girl" },
+      { "label": "Po be — często bez łącznika", "text": "W pozycji orzecznikowej (po czasowniku być) łącznik często znika: The author is well known. She is five years old" },
+      { "label": "Przysłówki na -ly bez łącznika", "text": "Gdy pierwszy człon to przysłówek zakończony na -ly, nie stawiamy łącznika: a highly successful campaign, a beautifully written novel (nie highly-successful)" },
+      { "label": "Stopniowanie złożeń", "text": "Dwuczłonowe złożenia zwykle stopniujemy na pierwszym elemencie: better-known, best-known, more widely-known" }
+    ],
+    "usage": [
+      "Test: czy fraza stoi przed rzeczownikiem (attributive) czy po be (predicative)? To decyduje o łączniku",
+      "Test na przysłówek -ly: jeśli pierwszy człon kończy się na -ly, łącznika nie używamy nigdy, nawet przed rzeczownikiem",
+      "Stopień wyższy/najwyższy: dodajemy -er/-est lub more/most tylko do pierwszego elementu złożenia"
+    ],
+    "tags": ["well known", "highly successful", "better-known", "beautifully written"],
+    "examples": [
+      { "en": "He's a well-known journalist, though most readers wouldn't recognise his face.", "pl": "To znany dziennikarz, choć większość czytelników nie rozpoznałaby jego twarzy." },
+      { "en": "Outside her field, she isn't very well known.", "pl": "Poza swoją dziedziną nie jest zbyt znana." },
+      { "en": "It was a highly successful campaign that doubled our sales.", "pl": "To była bardzo udana kampania, która podwoiła naszą sprzedaż." },
+      { "en": "Of the two candidates, she's the better-known one.", "pl": "Z dwóch kandydatów to ona jest bardziej znana." }
+    ]
+  }
+]
