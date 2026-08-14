@@ -957,5 +957,12 @@
     "title": "Zdania okolicznikowe miejsca",
     "desc": "where, wherever, anywhere jako spójniki miejsca oraz rozróżnienie zdania okolicznikowego od zdania względnego z where — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "past_ability",
+    "icon": "🏋️",
+    "title": "Zdolność w przeszłości",
+    "desc": "could vs was/were able to vs managed to — jak wyrażać ogólną zdolność i jednorazowe osiągnięcia w przeszłości, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
