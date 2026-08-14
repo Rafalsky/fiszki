@@ -1,0 +1,98 @@
+[
+  {
+    "id": "where_basic",
+    "order": 1,
+    "nameEn": "where — basic adverbial clause of place",
+    "namePl": "where — podstawowe zdanie okolicznikowe miejsca",
+    "rules": [
+      { "label": "budowa", "text": "'where' + podmiot + orzeczenie tworzy zdanie podrzędne okolicznikowe miejsca, które odpowiada na pytanie 'gdzie?' i odnosi się do całej czynności głównego zdania, nie do jednego rzeczownika: Sit where you like." },
+      { "label": "pozycja w zdaniu", "text": "Zdanie z 'where' może stać po zdaniu głównym lub przed nim; gdy stoi na początku, po nim zwykle stawiamy przecinek: Where the road ends, you'll find the lake. / You'll find the lake where the road ends." },
+      { "label": "brak poprzednika", "text": "W przeciwieństwie do zdania względnego, tu 'where' nie odnosi się do wcześniej wymienionego rzeczownika-miejsca — samo wprowadza informację o lokalizacji czynności." }
+    ],
+    "usage": [
+      "Odpowiada na pytanie 'gdzie?' w odniesieniu do całej czynności głównego zdania: Put the box where it belongs.",
+      "Częste po czasownikach ruchu, umieszczania i pozostawania: go, stay, live, put, leave, stand, sit, park",
+      "Może wprowadzać uogólnienie lub instrukcję: Leave your shoes where I can see them.",
+      "Nie mylić z pytającym 'where' w pytaniach bezpośrednich i pośrednich (Where do you live? / I don't know where he lives.) — to osobna funkcja, nie zdanie okolicznikowe"
+    ],
+    "tags": ["where you like", "where it belongs", "where the road ends"],
+    "examples": [
+      { "en": "Sit where you like — there are plenty of free seats.", "pl": "Usiądź, gdzie chcesz — jest mnóstwo wolnych miejsc." },
+      { "en": "Leave the keys where I can find them.", "pl": "Zostaw klucze tam, gdzie będę mógł je znaleźć." },
+      { "en": "Where the road ends, you'll find a small lake.", "pl": "Tam, gdzie kończy się droga, znajdziesz małe jezioro." },
+      { "en": "Put the ladder back where it was.", "pl": "Odstaw drabinę z powrotem tam, gdzie stała." }
+    ]
+  },
+  {
+    "id": "wherever_anywhere_everywhere",
+    "order": 2,
+    "nameEn": "wherever / anywhere / everywhere — universal and indefinite place",
+    "namePl": "wherever / anywhere / everywhere — miejsce uniwersalne i nieokreślone",
+    "rules": [
+      { "label": "wherever", "text": "'wherever' oznacza 'gdziekolwiek, niezależnie od miejsca' — wprowadza zdanie, którego prawdziwość nie zależy od konkretnej lokalizacji: I'll find you wherever you hide." },
+      { "label": "anywhere / everywhere jako spójniki", "text": "W stylu potocznym 'anywhere' i 'everywhere' mogą pełnić funkcję spójnika miejsca podobnie do 'wherever': Sit anywhere you like. / Everywhere I go, people recognise me." },
+      { "label": "wherever = no matter where", "text": "'wherever' można zwykle zastąpić formalniejszym 'no matter where' bez zmiany znaczenia: Wherever you go, I'll follow. = No matter where you go, I'll follow." }
+    ],
+    "usage": [
+      "wherever podkreśla, że czynność zachodzi we wszystkich możliwych miejscach lub niezależnie od miejsca: Wherever she travels, she takes her camera.",
+      "anywhere w zdaniu okolicznikowym oznacza pełną dowolność wyboru miejsca, bez ograniczeń: You can sit anywhere you want.",
+      "everywhere w tej funkcji oznacza 'w każdym miejscu, w którym...': Everywhere we looked, the streets were empty.",
+      "wherever bywa też wzmacniane przez 'ever' dla emfazy w mowie potocznej: Wherever on earth did you find this?"
+    ],
+    "tags": ["wherever you go", "sit anywhere", "everywhere I go", "no matter where"],
+    "examples": [
+      { "en": "Wherever you go, I'll follow you.", "pl": "Gdziekolwiek pójdziesz, pójdę za tobą." },
+      { "en": "You can sit anywhere you like in this carriage.", "pl": "W tym wagonie możesz usiąść, gdzie tylko chcesz." },
+      { "en": "Everywhere we went, we heard the same song.", "pl": "Gdziekolwiek poszliśmy, słyszeliśmy tę samą piosenkę." },
+      { "en": "Wherever she goes, trouble seems to follow.", "pl": "Gdziekolwiek się pojawia, kłopoty zdają się za nią podążać." }
+    ]
+  },
+  {
+    "id": "place_clause_vs_relative_where",
+    "order": 3,
+    "nameEn": "adverbial clause of place vs relative clause with where",
+    "namePl": "zdanie okolicznikowe miejsca a zdanie względne z where",
+    "rules": [
+      { "label": "zdanie okolicznikowe", "text": "'where' bez poprzednika opisuje miejsce wykonania czynności głównego zdania — nie zastępuje żadnego rzeczownika: I found my glasses where I'd left them." },
+      { "label": "zdanie względne", "text": "'where' po rzeczowniku oznaczającym miejsce (the house, the town, the place) wprowadza zdanie względne, które opisuje ten rzeczownik — można je zastąpić przez 'in/at which': This is the town where I was born. = ...in which I was born." },
+      { "label": "test rozróżniający", "text": "Jeśli przed 'where' można wstawić konkretny rzeczownik-miejsce, którego 'where' dotyczy, to jest to zdanie względne; jeśli 'where' samo tworzy sens 'w miejscu, w którym', to jest to zdanie okolicznikowe." }
+    ],
+    "usage": [
+      "Zdanie okolicznikowe: I always feel calm where the sea meets the sky — brak konkretnego rzeczownika, na który wskazuje 'where'.",
+      "Zdanie względne: the restaurant where we had dinner — 'where' opisuje 'the restaurant', można pominąć przecinek (restrykcyjne) lub go dodać (nierestrykcyjne).",
+      "W zdaniu względnym nierestrykcyjnym 'where' wprowadza dodatkową informację o już zidentyfikowanym miejscu, oddzieloną przecinkami: Paris, where I spent my twenties, is my favourite city.",
+      "Mylenie tych dwóch struktur nie zmienia zwykle gramatyczności zdania, ale zmienia jego interpretację — warto rozróżniać je świadomie w piśmie formalnym"
+    ],
+    "tags": ["where I'd left them", "the town where I was born", "the restaurant where we had dinner"],
+    "examples": [
+      { "en": "I found my glasses where I'd left them on the table.", "pl": "Znalazłem okulary tam, gdzie je zostawiłem na stole." },
+      { "en": "This is the town where I was born.", "pl": "To jest miasto, w którym się urodziłem." },
+      { "en": "We went back to the restaurant where we had our first date.", "pl": "Wróciliśmy do restauracji, w której mieliśmy pierwszą randkę." },
+      { "en": "Paris, where I spent my twenties, is my favourite city.", "pl": "Paryż, gdzie spędziłem swoje dwudziestki, jest moim ulubionym miastem." }
+    ]
+  },
+  {
+    "id": "formal_fronted_place",
+    "order": 4,
+    "nameEn": "formal and fronted place expressions",
+    "namePl": "formalne i wysunięte na początek wyrażenia miejsca",
+    "rules": [
+      { "label": "fronting dla emfazy", "text": "Zdanie okolicznikowe miejsca można wysunąć na początek zdania, by podkreślić lokalizację jako punkt wyjścia opowieści, zwłaszcza w stylu literackim: Where the forest once stood, there is now a car park." },
+      { "label": "'there' jako powtórzenie", "text": "Po wysuniętym zdaniu z 'where' formalny/literacki styl często powtarza miejsce zaimkiem 'there' w zdaniu głównym, dla jasności i rytmu: Where the river bends, there the old mill still stands." },
+      { "label": "in the place where / at the point where", "text": "Formalne, opisowe warianty 'where' używane w piśmie akademickim i technicznym, gdy chcemy podkreślić precyzyjne miejsce lub etap: The crack appears at the point where the two materials meet." }
+    ],
+    "usage": [
+      "Fronting z 'where' jest typowy dla opisów, relacji podróżniczych i prozy literackiej, rzadszy w mowie potocznej",
+      "'there' po wysuniętym zdaniu miejsca nie jest błędem powtórzenia — to celowy zabieg stylistyczny wzmacniający spójność zdania",
+      "'in the place where' i 'at the point where' zastępują samo 'where', gdy potrzebna jest większa precyzja lub formalność wypowiedzi",
+      "W stylu prawniczym i urzędowym pojawia się też 'wherever applicable' / 'wherever appropriate' w znaczeniu 'we wszystkich przypadkach, gdzie to ma zastosowanie'"
+    ],
+    "tags": ["Where the forest once stood, there is now...", "at the point where", "wherever applicable"],
+    "examples": [
+      { "en": "Where the forest once stood, there is now a car park.", "pl": "Tam, gdzie kiedyś stał las, jest teraz parking." },
+      { "en": "Where the river bends, there the old mill still stands.", "pl": "Tam, gdzie rzeka zakręca, wciąż stoi stary młyn." },
+      { "en": "The crack appears at the point where the two materials meet.", "pl": "Pęknięcie pojawia się w miejscu, w którym łączą się oba materiały." },
+      { "en": "Safety equipment must be worn, wherever applicable.", "pl": "Sprzęt ochronny musi być noszony wszędzie tam, gdzie ma to zastosowanie." }
+    ]
+  }
+]
