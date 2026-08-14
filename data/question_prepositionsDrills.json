@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "stranded_wh_questions",
+    "prompt": "Who did you go to the party ___?",
+    "answer": "with",
+    "distractors": ["for", "by", "at"]
+  },
+  {
+    "id": 2,
+    "itemId": "stranded_wh_questions",
+    "prompt": "What is she so worried ___?",
+    "answer": "about",
+    "distractors": ["for", "with", "of"]
+  },
+  {
+    "id": 3,
+    "itemId": "stranded_wh_questions",
+    "prompt": "Which department does he report ___?",
+    "answer": "to",
+    "distractors": ["at", "for", "with"]
+  },
+  {
+    "id": 4,
+    "itemId": "stranded_wh_questions",
+    "prompt": "What are you looking ___ in a new flat?",
+    "answer": "for",
+    "distractors": ["at", "with", "on"]
+  },
+  {
+    "id": 5,
+    "itemId": "stranded_wh_questions",
+    "prompt": "Who was that letter written ___?",
+    "answer": "by",
+    "distractors": ["to", "for", "with"]
+  },
+  {
+    "id": 6,
+    "itemId": "stranded_wh_questions",
+    "prompt": "What did the film remind you ___?",
+    "answer": "of",
+    "distractors": ["about", "from", "with"]
+  },
+  {
+    "id": 7,
+    "itemId": "stranded_wh_questions",
+    "prompt": "Which shelf did you take the book ___?",
+    "answer": "from",
+    "distractors": ["of", "by", "for"]
+  },
+  {
+    "id": 8,
+    "itemId": "stranded_wh_questions",
+    "prompt": "Who does this umbrella belong ___?",
+    "answer": "to",
+    "distractors": ["with", "for", "at"]
+  },
+  {
+    "id": 9,
+    "itemId": "fronted_wh_questions",
+    "prompt": "___ whom did you address your complaint?",
+    "answer": "To",
+    "distractors": ["For", "With", "By"]
+  },
+  {
+    "id": 10,
+    "itemId": "fronted_wh_questions",
+    "prompt": "___ whom was the award intended?",
+    "answer": "For",
+    "distractors": ["To", "By", "Of"]
+  },
+  {
+    "id": 11,
+    "itemId": "fronted_wh_questions",
+    "prompt": "___ which grounds was the decision made?",
+    "answer": "On",
+    "distractors": ["At", "In", "By"]
+  },
+  {
+    "id": 12,
+    "itemId": "fronted_wh_questions",
+    "prompt": "With ___ did she conduct the interview?",
+    "answer": "whom",
+    "distractors": ["who", "which", "that"]
+  },
+  {
+    "id": 13,
+    "itemId": "fronted_wh_questions",
+    "prompt": "___ whom should we direct our thanks?",
+    "answer": "To",
+    "distractors": ["At", "For", "With"]
+  },
+  {
+    "id": 14,
+    "itemId": "fronted_wh_questions",
+    "prompt": "By ___ means was the message delivered?",
+    "answer": "what",
+    "distractors": ["which one", "who", "whom"]
+  },
+  {
+    "id": 15,
+    "itemId": "fronted_wh_questions",
+    "prompt": "On ___ floor is the manager's office?",
+    "answer": "which",
+    "distractors": ["what", "whom", "that"]
+  },
+  {
+    "id": 16,
+    "itemId": "fronted_wh_questions",
+    "prompt": "For ___ is this parcel intended?",
+    "answer": "whom",
+    "distractors": ["who", "which", "what"]
+  },
+  {
+    "id": 17,
+    "itemId": "phrasal_verb_questions",
+    "prompt": "What does this abbreviation stand ___?",
+    "answer": "for",
+    "distractors": ["with", "of", "at"]
+  },
+  {
+    "id": 18,
+    "itemId": "phrasal_verb_questions",
+    "prompt": "Who is she looking ___ this weekend?",
+    "answer": "after",
+    "distractors": ["for", "at", "with"]
+  },
+  {
+    "id": 19,
+    "itemId": "phrasal_verb_questions",
+    "prompt": "What did the team come up ___ in the end?",
+    "answer": "with",
+    "distractors": ["for", "of", "on"]
+  },
+  {
+    "id": 20,
+    "itemId": "phrasal_verb_questions",
+    "prompt": "What are you looking forward ___?",
+    "answer": "to",
+    "distractors": ["for", "at", "with"]
+  },
+  {
+    "id": 21,
+    "itemId": "phrasal_verb_questions",
+    "prompt": "How much can you put up ___?",
+    "answer": "with",
+    "distractors": ["for", "of", "at"]
+  },
+  {
+    "id": 22,
+    "itemId": "phrasal_verb_questions",
+    "prompt": "What time did you set ___ this morning?",
+    "answer": "off",
+    "distractors": ["up", "for", "on"]
+  },
+  {
+    "id": 23,
+    "itemId": "phrasal_verb_questions",
+    "prompt": "Who does she take ___ most, her mother or her father?",
+    "answer": "after",
+    "distractors": ["from", "with", "for"]
+  },
+  {
+    "id": 24,
+    "itemId": "phrasal_verb_questions",
+    "prompt": "What did he end up ___ after the interview?",
+    "answer": "with",
+    "distractors": ["of", "for", "at"]
+  },
+  {
+    "id": 25,
+    "itemId": "indirect_question_prepositions",
+    "prompt": "I have no idea who this parcel is addressed ___.",
+    "answer": "to",
+    "distractors": ["for", "with", "at"]
+  },
+  {
+    "id": 26,
+    "itemId": "indirect_question_prepositions",
+    "prompt": "Could you tell me what this tool is used ___?",
+    "answer": "for",
+    "distractors": ["with", "on", "at"]
+  },
+  {
+    "id": 27,
+    "itemId": "indirect_question_prepositions",
+    "prompt": "We are not sure ___ what grounds the claim was rejected.",
+    "answer": "on",
+    "distractors": ["at", "in", "for"]
+  },
+  {
+    "id": 28,
+    "itemId": "indirect_question_prepositions",
+    "prompt": "She asked me who I had been talking ___.",
+    "answer": "to",
+    "distractors": ["with", "for", "at"]
+  },
+  {
+    "id": 29,
+    "itemId": "indirect_question_prepositions",
+    "prompt": "I wonder what he was aiming ___.",
+    "answer": "at",
+    "distractors": ["for", "with", "on"]
+  },
+  {
+    "id": 30,
+    "itemId": "indirect_question_prepositions",
+    "prompt": "I'm not sure what she's interested ___.",
+    "answer": "in",
+    "distractors": ["at", "for", "with"]
+  },
+  {
+    "id": 31,
+    "itemId": "indirect_question_prepositions",
+    "prompt": "We would appreciate knowing ___ what basis the decision was reached.",
+    "answer": "on",
+    "distractors": ["at", "by", "in"]
+  },
+  {
+    "id": 32,
+    "itemId": "indirect_question_prepositions",
+    "prompt": "Nobody could tell us who the message had come ___.",
+    "answer": "from",
+    "distractors": ["of", "with", "by"]
+  },
+  {
+    "id": 33,
+    "itemId": "fixed_formal_question_openers",
+    "prompt": "By what ___ did the intruder enter the building?",
+    "answer": "means",
+    "distractors": ["reason", "extent", "circumstances"]
+  },
+  {
+    "id": 34,
+    "itemId": "fixed_formal_question_openers",
+    "prompt": "For what ___ was the meeting postponed?",
+    "answer": "reason",
+    "distractors": ["means", "way", "point"]
+  },
+  {
+    "id": 35,
+    "itemId": "fixed_formal_question_openers",
+    "prompt": "Under what ___ would you consider resigning?",
+    "answer": "circumstances",
+    "distractors": ["means", "extent", "reason"]
+  },
+  {
+    "id": 36,
+    "itemId": "fixed_formal_question_openers",
+    "prompt": "To what ___ has the situation improved since last year?",
+    "answer": "extent",
+    "distractors": ["means", "reason", "way"]
+  },
+  {
+    "id": 37,
+    "itemId": "fixed_formal_question_openers",
+    "prompt": "In what ___ did the policy change public opinion?",
+    "answer": "way",
+    "distractors": ["means", "extent", "circumstances"]
+  },
+  {
+    "id": 38,
+    "itemId": "fixed_formal_question_openers",
+    "prompt": "At what ___ did the plan fail?",
+    "answer": "point",
+    "distractors": ["means", "reason", "way"]
+  },
+  {
+    "id": 39,
+    "itemId": "fixed_formal_question_openers",
+    "prompt": "___ what reason did the committee reject the application?",
+    "answer": "For",
+    "distractors": ["By", "In", "At"]
+  },
+  {
+    "id": 40,
+    "itemId": "fixed_formal_question_openers",
+    "prompt": "___ what circumstances can the contract be terminated?",
+    "answer": "Under",
+    "distractors": ["By", "For", "In"]
+  }
+]
