@@ -999,5 +999,12 @@
     "title": "Question tags",
     "desc": "Pytania dodane (question tags): dobór operatora i zaimka, biegunowość dodatnia/ujemna, intonacja opadająca i wznosząca, ukryte przeczenia (never, nobody, hardly), przypadki specjalne (aren't I, let's, tryb rozkazujący, there is), tagi tej samej biegunowości (sarkazm) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "passive_infinitive_gerund",
+    "icon": "🕳️",
+    "title": "Bezokolicznik i gerund bierny",
+    "desc": "being done / to be done / to have been done — bierne formy bezokolicznika i gerundu po czasownikach, przymiotnikach i przyimkach, kontrast z needs doing i causative have something done — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "gerund_being_done",
+    "order": 1,
+    "nameEn": "Passive gerund (being + past participle)",
+    "namePl": "Gerund bierny (being + III forma)",
+    "rules": [
+      {
+        "label": "Forma",
+        "text": "being + past participle (III forma): being invited, being watched, being told. Podmiot gerundu jest odbiorcą czynności, nie jej wykonawcą."
+      },
+      {
+        "label": "Czasowniki tylko z gerundem",
+        "text": "Po czasownikach, które łączą się WYŁĄCZNIE z gerundem (deny, avoid, resent, risk, mind, enjoy, admit, can't stand, be used to), bierne znaczenie wymaga formy being + III forma: He denied being involved. She can't stand being ignored."
+      },
+      {
+        "label": "Po przyimkach",
+        "text": "Po przyimkach (without, after, before, since, despite, for) — tylko gerund jest możliwy, więc strona bierna to zawsze being + III forma: After being warned twice, he finally listened. She left without being noticed."
+      },
+      {
+        "label": "Kontrast z active gerund o znaczeniu biernym",
+        "text": "Nie myl z konstrukcją need/want + -ing (np. needs washing), gdzie forma jest AKTYWNA, ale znaczenie bierne — to osobny, wąski wzorzec ograniczony głównie do need/want/require/deserve z rzeczami. being + III forma to prawdziwy, ogólny gerund bierny, używany z dowolnym czasownikiem i podmiotem."
+      }
+    ],
+    "usage": [
+      "Gdy podmiot gerundu doznaje czynności, a wykonawca jest nieznany, nieistotny lub oczywisty z kontekstu",
+      "Szczególnie częste po: enjoy, hate, dislike, mind, avoid, deny, resent, remember, risk, admit, can't stand, be used to",
+      "W zdaniach okolicznikowych po przyimkach czasu i sposobu: without being seen, before being interviewed, after being warned"
+    ],
+    "tags": ["being told", "being watched", "without being seen", "hate being interrupted", "risk being caught"],
+    "examples": [
+      { "en": "I hate being told what to do.", "pl": "Nie znoszę, gdy mówi mi się, co robić." },
+      { "en": "She left without being noticed.", "pl": "Wyszła niezauważona." },
+      { "en": "He denied being involved in the scandal.", "pl": "Zaprzeczył, że był w to zamieszany." },
+      { "en": "The children love being read to before bed.", "pl": "Dzieci uwielbiają, gdy czyta się im przed snem." }
+    ]
+  },
+  {
+    "id": "infinitive_to_be_done",
+    "order": 2,
+    "nameEn": "Passive infinitive (to be + past participle)",
+    "namePl": "Bezokolicznik bierny (to be + III forma)",
+    "rules": [
+      {
+        "label": "Forma",
+        "text": "to be + past participle (III forma): to be invited, to be chosen, to be told. Podmiot zdania nadrzędnego (lub gramatyczny wykonawca bezokolicznika) jest odbiorcą czynności."
+      },
+      {
+        "label": "Czasowniki tylko z bezokolicznikiem",
+        "text": "Po czasownikach łączących się WYŁĄCZNIE z bezokolicznikiem (want, would like, expect, hope, ask, promise, decide, arrange, seem, appear, agree, refuse) bierne znaczenie wymaga formy to be + III forma: She wants to be left alone. He seems to be liked by everyone."
+      },
+      {
+        "label": "Po przymiotnikach",
+        "text": "Po przymiotnikach opisujących reakcję emocjonalną (glad, happy, pleased, relieved, afraid, eager) + to be + III forma: I was glad to be invited. She was afraid to be left behind."
+      },
+      {
+        "label": "Znaczenie: kto jest odbiorcą",
+        "text": "Kluczowe jest rozpoznanie, że podmiot zdania głównego NIE wykonuje czynności, lecz jej doznaje: 'He wants to be told' = ktoś ma powiedzieć jemu (nie: on komuś)."
+      }
+    ],
+    "usage": [
+      "Gdy podmiot bezokolicznika jest odbiorcą czynności, a nie jej wykonawcą",
+      "Bardzo częste po czasownikach życzenia i oczekiwania: want, need, expect, hope, would like, ask",
+      "Po przymiotnikach wyrażających emocjonalną reakcję na czynność: glad/happy/afraid/relieved + to be + III forma"
+    ],
+    "tags": ["to be invited", "wants to be left alone", "expects to be promoted", "glad to be chosen"],
+    "examples": [
+      { "en": "I don't want to be disturbed while I'm working.", "pl": "Nie chcę, żeby mi przeszkadzano podczas pracy." },
+      { "en": "The house needs to be repainted before winter.", "pl": "Dom trzeba przemalować przed zimą." },
+      { "en": "She was delighted to be chosen for the role.", "pl": "Była zachwycona, że została wybrana do tej roli." },
+      { "en": "He expects to be told the truth.", "pl": "Oczekuje, że powie mu się prawdę." }
+    ]
+  },
+  {
+    "id": "perfect_passive_infinitive",
+    "order": 3,
+    "nameEn": "Perfect passive infinitive and gerund (to have been / having been done)",
+    "namePl": "Bezokolicznik i gerund bierny dokonany (to have been / having been done)",
+    "rules": [
+      {
+        "label": "Bezokolicznik: to have been + III forma",
+        "text": "Wyraża czynność bierną wcześniejszą niż czas czasownika głównego lub niż moment mówienia: He is believed to have been arrested last night. = It is believed that he was arrested."
+      },
+      {
+        "label": "Typowe czasowniki sprawozdawcze",
+        "text": "Częste po czasownikach opinii i doniesienia w stronie biernej: is said/believed/thought/reported/rumoured/claimed to have been + III forma — rejestr formalny, dziennikarski."
+      },
+      {
+        "label": "Gerund: having been + III forma",
+        "text": "Na początku zdania jako imiesłów uprzedni bierny lub po przyimkach (despite, without, since) — podkreśla, że czynność bierna zaszła wcześniej: Having been warned about the risks, she decided not to go. Despite having been criticised, he continued."
+      },
+      {
+        "label": "Różnica względem prostego to be / being",
+        "text": "to have been / having been zawsze dodają element wcześniejszości (Perfect); zwykłe to be / being nie precyzują kolejności w czasie, tylko wskazują na stronę bierną."
+      }
+    ],
+    "usage": [
+      "Gdy chcemy podkreślić, że czynność bierna wydarzyła się wcześniej niż inna czynność lub niż moment wypowiedzi",
+      "Formalny, sprawozdawczy rejestr: is reported/thought/rumoured to have been + III forma",
+      "having been + III forma jako formalny, skrócony odpowiednik zdania z since/after/although + was/were + III forma"
+    ],
+    "tags": ["to have been arrested", "having been warned", "is said to have been", "despite having been rejected"],
+    "examples": [
+      { "en": "She is believed to have been kidnapped.", "pl": "Uważa się, że została porwana." },
+      { "en": "The painting is thought to have been stolen decades ago.", "pl": "Uważa się, że ten obraz skradziono dziesiątki lat temu." },
+      { "en": "Having been warned about the storm, they cancelled the trip.", "pl": "Ostrzeżeni o burzy, odwołali wycieczkę." },
+      { "en": "Despite having been rejected twice, she applied again.", "pl": "Mimo że dwukrotnie ją odrzucono, złożyła podanie ponownie." }
+    ]
+  },
+  {
+    "id": "choosing_active_passive",
+    "order": 4,
+    "nameEn": "Choosing between active and passive non-finite forms",
+    "namePl": "Wybór między aktywną a bierną formą nieosobową",
+    "rules": [
+      {
+        "label": "needs/wants + -ing vs needs/wants + to be + III forma",
+        "text": "Z rzeczami obie formy często znaczą to samo: The car needs washing. = The car needs to be washed. To osobny, wąski idiom ograniczony głównie do need/want/require/deserve — nie myl go z ogólnym gerundem biernym z zasady 1."
+      },
+      {
+        "label": "Causative have/get something done",
+        "text": "have/get + dopełnienie + III forma (bez to be, bez being) opisuje ZLECENIE czynności innej osobie: She had her photo taken. He got his car repaired. To odrębna konstrukcja (patrz temat 'Have/get something done'), nie bezokolicznik ani gerund bierny."
+      },
+      {
+        "label": "Osoba jako podmiot",
+        "text": "Gdy podmiotem jest osoba będąca odbiorcą czynności (nie zleceniodawcą), naturalny wybór to zwykle bezokolicznik lub gerund bierny (to be told / being told), a nie idiom needs + -ing, który brzmi naturalnie głównie z rzeczami i zadaniami."
+      },
+      {
+        "label": "Aktywny podmiot-wykonawca a bierny podmiot-odbiorca",
+        "text": "Porównaj: He wants to punish them (on karze innych) vs He wants to be punished (on jest karany) — forma bierna zmienia, kto jest wykonawcą, a kto odbiorcą czynności."
+      }
+    ],
+    "usage": [
+      "needs/wants + -ing ograniczone głównie do rzeczy i zadań, rzadziej naturalne z osobami",
+      "Odróżnij zlecanie czynności (causative have/get something done) od bycia biernym odbiorcą czynności bez elementu zlecenia (to be done / being done)",
+      "Sprawdź, kto w zdaniu jest wykonawcą, a kto odbiorcą czynności — to decyduje o wyborze formy"
+    ],
+    "tags": ["needs washing vs needs to be washed", "had her photo taken", "wants to be treated", "active vs passive infinitive"],
+    "examples": [
+      { "en": "This report still needs finishing before the deadline.", "pl": "Ten raport wciąż trzeba dokończyć przed terminem." },
+      { "en": "She had her photo taken for the new passport.", "pl": "Zrobiła sobie zdjęcie do nowego paszportu." },
+      { "en": "New employees need to be trained properly before they start.", "pl": "Nowych pracowników trzeba porządnie przeszkolić, zanim zaczną pracę." },
+      { "en": "He doesn't want to be interrupted during his presentation.", "pl": "Nie chce, żeby mu przeszkadzano podczas prezentacji." }
+    ]
+  }
+]
