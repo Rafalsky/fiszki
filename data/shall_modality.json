@@ -1,0 +1,98 @@
+[
+  {
+    "id": "shall_offers_suggestions",
+    "order": 1,
+    "nameEn": "Shall I/we...? — offers and suggestions",
+    "namePl": "Shall I/we...? — oferty i propozycje",
+    "rules": [
+      { "label": "Budowa", "text": "Shall I/we + bezokolicznik bez to w pytaniach — forma zarezerwowana niemal wyłącznie dla podmiotów I oraz we (Shall I open the window? Shall we dance?)" },
+      { "label": "Znaczenie", "text": "Shall I...? to grzeczna oferta zrobienia czegoś dla rozmówcy; Shall we...? to propozycja wspólnego działania, bardzo bliska znaczeniowo Let's...?" },
+      { "label": "Rejestr", "text": "Znacznie częstsze w brytyjskim angielskim niż amerykańskim — w AmE naturalniejsze są Should I...?, Do you want me to...? albo How about...?" }
+    ],
+    "usage": [
+      "Oferowanie pomocy (Shall I carry your bag?)",
+      "Proponowanie wspólnej czynności (Shall we go for a walk?)",
+      "Pytanie o decyzję rozmówcy, gdy mówiący czeka na wskazówkę (What shall we do now?)",
+      "Naturalny question tag do zdań z Let's... (Let's go, shall we?)"
+    ],
+    "tags": ["shall I", "shall we", "offer", "suggestion"],
+    "examples": [
+      { "en": "Shall I open the window?", "pl": "Czy mam otworzyć okno?" },
+      { "en": "Shall we start the meeting?", "pl": "Zaczynamy zebranie?" },
+      { "en": "Shall I help you with those bags?", "pl": "Mam pomóc ci z tymi torbami?" },
+      { "en": "What shall we do this weekend?", "pl": "Co zrobimy w ten weekend?" }
+    ]
+  },
+  {
+    "id": "shall_formal_future",
+    "order": 2,
+    "nameEn": "shall — formal future with I/we (prescriptive British usage)",
+    "namePl": "shall — formalna przyszłość z I/we (tradycyjna zasada brytyjska)",
+    "rules": [
+      { "label": "Tradycyjna zasada", "text": "W formalnej gramatyce przepisowej BrE shall + I/we wyrażało neutralną przyszłość (czystą przepowiednię), a will z pozostałymi osobami — to samo; zamiana miejscami (will z I/we, shall z you/he/she/it/they) miała oznaczać silną wolę, determinację lub uroczystą obietnicę" },
+      { "label": "Współczesny uzus", "text": "W praktyce shall dla zwykłej przyszłości z I/we jest dziś rzadkie i brzmi formalnie lub staroświecko — w mowie potocznej niemal wszędzie zastępowane przez will/'ll" },
+      { "label": "Rejestr", "text": "Przetrwało głównie w bardzo formalnym lub literackim BrE (I shall write to you. We shall see.) — uczący się na poziomie C1/C2 powinni je rozpoznawać w tekście, niekoniecznie aktywnie stosować" }
+    ],
+    "usage": [
+      "Formalne listy, komunikaty i pisma urzędowe (I shall write to you again next week.)",
+      "Utarte, nieco podniosłe zwroty (We shall see. I shall never forget.)",
+      "Rozpoznawanie w tekstach literackich i historycznych bez mylenia z odcieniem obowiązku",
+      "Kontrast ze współczesnym, neutralnym stylistycznie I will / I'll"
+    ],
+    "tags": ["shall - formal future", "I shall", "we shall", "prescriptive rule"],
+    "examples": [
+      { "en": "I shall be there at nine o'clock sharp.", "pl": "Będę tam punktualnie o dziewiątej." },
+      { "en": "We shall see what happens.", "pl": "Zobaczymy, co się stanie." },
+      { "en": "I shall never forget your kindness.", "pl": "Nigdy nie zapomnę twojej dobroci." },
+      { "en": "We shall inform you as soon as a decision has been made.", "pl": "Poinformujemy pana, gdy tylko zostanie podjęta decyzja." }
+    ]
+  },
+  {
+    "id": "shall_legal_obligation",
+    "order": 3,
+    "nameEn": "shall — legal and formal obligation in contracts, statutes and regulations",
+    "namePl": "shall — prawny i formalny obowiązek w umowach, ustawach i regulaminach",
+    "rules": [
+      { "label": "Znaczenie", "text": "W języku prawnym i formalnych dokumentach shall z podmiotem w dowolnej osobie (nie tylko I/we) wyraża wiążący obowiązek lub nakaz, a nie zwykłą przyszłość — odpowiednik must / is obliged to" },
+      { "label": "Budowa", "text": "[Strona umowy / podmiot] + shall + bezokolicznik bez to (The Tenant shall pay the rent by the fifth day of each month.)" },
+      { "label": "Przeczenie", "text": "shall not wyraża formalny zakaz, w kontekście prawnym postrzegany jako bardziej wiążący niż must not (The Employee shall not disclose confidential information.)" }
+    ],
+    "usage": [
+      "Umowy, regulaminy, statuty, akty prawne, oficjalne procedury",
+      "Precyzyjne określanie obowiązków stron umowy niezależnie od osoby gramatycznej",
+      "Formalne specyfikacje techniczne i normy (The device shall meet the following requirements.)",
+      "Rozpoznawane, nie naśladowane — ta funkcja shall nie występuje w mowie potocznej"
+    ],
+    "tags": ["legal shall", "shall not - prohibition", "contracts", "obligation"],
+    "examples": [
+      { "en": "The Tenant shall pay the rent in advance on the first day of each month.", "pl": "Najemca jest zobowiązany płacić czynsz z góry pierwszego dnia każdego miesiąca." },
+      { "en": "All visitors shall report to reception upon arrival.", "pl": "Wszyscy odwiedzający są zobowiązani zgłosić się do recepcji po przybyciu." },
+      { "en": "The Contractor shall not subcontract any part of this agreement without written consent.", "pl": "Wykonawca nie może zlecić żadnej części tej umowy podwykonawcy bez pisemnej zgody." },
+      { "en": "This certificate shall remain valid for a period of five years.", "pl": "Niniejszy certyfikat zachowuje ważność przez okres pięciu lat." }
+    ]
+  },
+  {
+    "id": "shall_rhetorical_archaic",
+    "order": 4,
+    "nameEn": "shall — archaic, biblical and rhetorical uses (insistence, promise, prophecy)",
+    "namePl": "shall — archaiczne, biblijne i retoryczne użycie (stanowczość, obietnica, przepowiednia)",
+    "rules": [
+      { "label": "Stanowcza obietnica", "text": "shall z dowolnym podmiotem może wyrażać uroczystą obietnicę lub stanowcze zapewnienie mówiącego, że coś się wydarzy — silniejsze niż zwykłe will (You shall have your answer by tomorrow. = Obiecuję, że będziesz miał odpowiedź.)" },
+      { "label": "Rejestr archaiczny/biblijny", "text": "Archaiczna forma thou shalt (2. os. lp.) pojawia się w tekstach religijnych i cytatach (Thou shalt not kill.) oraz we frazach retorycznych i sloganach (We shall overcome. We shall fight on the beaches.)" },
+      { "label": "Odcień znaczeniowy", "text": "W tym użyciu shall nie opisuje zwykłej przyszłości, lecz siłę determinacji, przeznaczenie lub podniosły charakter wypowiedzi — typowe dla przemówień, poezji i baśni" }
+    ],
+    "usage": [
+      "Uroczyste obietnice i zapewnienia (You shall not be forgotten.)",
+      "Cytaty biblijne i archaiczne teksty religijne/prawne (Thou shalt not steal.)",
+      "Retoryka polityczna i przemówienia budujące determinację (We shall never surrender.)",
+      "Baśnie i literatura klasyczna (You shall go to the ball, Cinderella.)"
+    ],
+    "tags": ["archaic shall", "thou shalt", "rhetorical shall", "promise/insistence"],
+    "examples": [
+      { "en": "You shall have your answer by tomorrow, I promise.", "pl": "Będziesz miał odpowiedź do jutra, obiecuję." },
+      { "en": "We shall fight on the beaches, we shall never surrender.", "pl": "Będziemy walczyć na plażach, nigdy się nie poddamy." },
+      { "en": "Thou shalt not bear false witness.", "pl": "Nie będziesz mówił fałszywego świadectwa." },
+      { "en": "Cinderella, you shall go to the ball!", "pl": "Kopciuszku, pójdziesz na bal!" }
+    ]
+  }
+]
