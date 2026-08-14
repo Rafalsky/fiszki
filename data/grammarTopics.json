@@ -901,5 +901,12 @@
     "title": "Inwersja przymiotnika i przedimka",
     "desc": "too/so/as/how + przymiotnik + a/an + rzeczownik (too difficult a task, so good a film, as good a chance, how strange a coincidence) — kiedy przymiotnik wyprzedza przedimek nieokreślony, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "verb_object_ing",
+    "icon": "🪤",
+    "title": "Czasownik + dopełnienie + -ing",
+    "desc": "catch/find/keep/leave/spend/waste/get/have + dopełnienie + -ing (caught him stealing, kept us waiting, spent hours looking, got everyone talking) — łapanie kogoś na czymś, podtrzymywanie czynności, spędzanie czasu, inicjowanie reakcji — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
