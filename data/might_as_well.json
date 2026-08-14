@@ -1,0 +1,98 @@
+[
+  {
+    "id": "might_may_as_well_suggestion",
+    "order": 1,
+    "nameEn": "might / may as well — suggestion in the absence of a better option",
+    "namePl": "might / may as well — sugestia w braku lepszej alternatywy",
+    "rules": [
+      { "label": "Budowa", "text": "might as well / may as well + bezokolicznik bez to — skoro nie ma lepszego pomysłu, czynność wykonujemy z braku alternatywy" },
+      { "label": "Znaczenie", "text": "Sugestia luźniejsza niż should — nie mówimy, że coś jest dobrym pomysłem, tylko że nic nie stoi na przeszkodzie i nie ma nic lepszego do zrobienia" },
+      { "label": "Kontekst", "text": "Bardzo często poprzedzone since / as / seeing that, które podaje powód braku lepszej opcji (Since we're early, we might as well grab a coffee.)" }
+    ],
+    "usage": [
+      "Proponowanie czegoś, bo i tak nie ma nic lepszego do roboty",
+      "Reagowanie na sytuację, która sama podsuwa dane rozwiązanie (The shop's on the way, so we might as well stop there.)",
+      "W pytaniach retorycznych typu Why don't we...? bywa zastępowane przez might as well jako stwierdzenie",
+      "Naturalne w rozmowie, mniej formalne niż should albo it would be a good idea to"
+    ],
+    "tags": ["might as well", "may as well", "since we're here"],
+    "examples": [
+      { "en": "We're already at the station, so we might as well wait for the next train.", "pl": "Jesteśmy już na stacji, więc równie dobrze możemy zaczekać na następny pociąg." },
+      { "en": "Since nobody's using the car, I might as well borrow it.", "pl": "Skoro nikt nie używa samochodu, to równie dobrze mogę go pożyczyć." },
+      { "en": "You may as well tell me now — I'll find out eventually.", "pl": "Równie dobrze możesz mi powiedzieć teraz — i tak się w końcu dowiem." },
+      { "en": "The meeting's cancelled, so we might as well go home early.", "pl": "Spotkanie odwołane, więc równie dobrze możemy wrócić wcześniej do domu." }
+    ]
+  },
+  {
+    "id": "might_as_well_resignation",
+    "order": 2,
+    "nameEn": "might as well — resignation and reluctant acceptance",
+    "namePl": "might as well — pogodzenie się z sytuacją, niechętna akceptacja",
+    "rules": [
+      { "label": "Odcień znaczeniowy", "text": "might as well może wyrażać rezygnację — mówiący nie widzi sensu w oporze, więc akceptuje jedyną dostępną opcję, choć niekoniecznie mu się ona podoba" },
+      { "label": "Ton", "text": "Często wypowiadane z westchnieniem, wzruszeniem ramion — sugeruje bierne poddanie się okolicznościom, a nie entuzjastyczną propozycję" },
+      { "label": "Might as well not", "text": "Przeczenie might as well not sugeruje, że coś jest tak samo bezwartościowe jak jego brak: You might as well not bother — nikt tego nie przeczyta." }
+    ],
+    "usage": [
+      "Wyrażanie, że nie ma innego wyjścia, więc trzeba się poddać sytuacji",
+      "Podkreślanie braku entuzjazmu wobec jedynej realnej opcji",
+      "Porównywanie dwóch działań jako równie bezcelowych (I might as well talk to a wall.)",
+      "Zabarwienie ironiczne lub lekko sfrustrowane w mowie potocznej"
+    ],
+    "tags": ["might as well not", "no point resisting", "give up"],
+    "examples": [
+      { "en": "Nobody's listening to me — I might as well stop talking.", "pl": "Nikt mnie nie słucha — równie dobrze mogę przestać mówić." },
+      { "en": "It's raining anyway, so we might as well cancel the picnic.", "pl": "I tak pada, więc równie dobrze możemy odwołać piknik." },
+      { "en": "You might as well not bother explaining — he never listens.", "pl": "Równie dobrze możesz sobie darować tłumaczenie — on i tak nigdy nie słucha." },
+      { "en": "If they're not going to pay me, I might as well quit.", "pl": "Skoro i tak mi nie zapłacą, to równie dobrze mogę się zwolnić." }
+    ]
+  },
+  {
+    "id": "may_as_well_formality",
+    "order": 3,
+    "nameEn": "may as well vs. might as well — register and frequency",
+    "namePl": "may as well vs. might as well — różnica formalności i częstotliwości",
+    "rules": [
+      { "label": "Znaczenie identyczne", "text": "may as well i might as well znaczą dokładnie to samo — nie ma między nimi różnicy semantycznej" },
+      { "label": "Rejestr", "text": "might as well jest zdecydowanie częstsze i bardziej naturalne w mowie potocznej; may as well brzmi nieco bardziej formalnie i częściej pojawia się w piśmie" },
+      { "label": "Pytania i przeczenia", "text": "Obie formy tworzą pytania i przeczenia identycznie: Might/May we as well leave now? nie jest naturalne — zamiast tego pytamy Shall we...? / Why don't we...?, a might/may as well używamy głównie w twierdzeniach" }
+    ],
+    "usage": [
+      "Wybór między may a might zależy od stylu wypowiedzi, nie od znaczenia",
+      "W dialogach i mowie potocznej naturalniejsze jest might as well",
+      "W tekstach pisanych, oficjalniejszych może pojawić się may as well",
+      "Nie mylić z may/might wyrażającymi przypuszczenie (He may be right.) — to zupełnie inna, niezależna funkcja tych czasowników"
+    ],
+    "tags": ["may as well", "might as well", "informal vs formal"],
+    "examples": [
+      { "en": "We may as well accept their offer — it's the best we'll get.", "pl": "Równie dobrze możemy przyjąć ich ofertę — i tak lepszej nie dostaniemy." },
+      { "en": "You might as well ask him directly instead of guessing.", "pl": "Równie dobrze możesz go zapytać wprost, zamiast zgadywać." },
+      { "en": "The committee may as well postpone the decision until next month.", "pl": "Komisja równie dobrze może odłożyć decyzję do przyszłego miesiąca." },
+      { "en": "I might as well admit it — I forgot to send the email.", "pl": "Równie dobrze mogę się przyznać — zapomniałem wysłać maila." }
+    ]
+  },
+  {
+    "id": "might_as_well_have_done",
+    "order": 4,
+    "nameEn": "might / may as well have done — criticism of a pointless action",
+    "namePl": "might / may as well have done — krytyka bezcelowego działania w przeszłości",
+    "rules": [
+      { "label": "Budowa", "text": "might as well have + imiesłów bierny (Past Participle) — odnosi się do przeszłości: coś, co ktoś zrobił, okazało się bezcelowe albo równie dobrze mógł zrobić coś innego" },
+      { "label": "Znaczenie", "text": "Wyraża, że rezultat byłby taki sam niezależnie od podjętego działania — z perspektywy czasu wysiłek okazał się zbędny lub daremny" },
+      { "label": "Kontrast z needn't have done", "text": "needn't have done mówi, że czynność nie była konieczna (ale mogła mieć sens); might as well have done sugeruje, że była wręcz bezcelowa albo że lepsza byłaby zupełnie inna czynność" }
+    ],
+    "usage": [
+      "Krytyczna, czasem ironiczna ocena decyzji, która nie przyniosła żadnej korzyści",
+      "Porównanie tego, co ktoś zrobił, z inną, równie (bez)sensowną czynnością: You might as well have stayed in bed.",
+      "Podsumowanie sytuacji, w której wysiłek poszedł na marne",
+      "Częste w narzekaniu na zmarnowany czas lub pieniądze"
+    ],
+    "tags": ["might as well have done", "may as well have done", "pointless effort"],
+    "examples": [
+      { "en": "The traffic was so bad we might as well have walked.", "pl": "Korki były tak duże, że równie dobrze mogliśmy iść pieszo." },
+      { "en": "Nobody read my report — I might as well not have written it.", "pl": "Nikt nie przeczytał mojego raportu — równie dobrze mogłem go nie pisać." },
+      { "en": "He didn't say a word all evening — he might as well have stayed home.", "pl": "Nie odezwał się słowem przez cały wieczór — równie dobrze mógł zostać w domu." },
+      { "en": "We waited two hours for nothing — we may as well have cancelled the trip.", "pl": "Czekaliśmy dwie godziny na nic — równie dobrze mogliśmy odwołać wyjazd." }
+    ]
+  }
+]

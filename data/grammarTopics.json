@@ -845,5 +845,12 @@
     "title": "Own — emfaza posiadania",
     "desc": "my own, a house of my own, on my own, in her own right — jak podkreślić wyłączność posiadania i samodzielność, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "might_as_well",
+    "icon": "🙃",
+    "title": "Might as well / may as well",
+    "desc": "might as well i may as well — sugestia w braku lepszej alternatywy, rezygnacja i krytyka bezcelowego działania w przeszłości — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
