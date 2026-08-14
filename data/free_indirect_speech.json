@@ -1,0 +1,98 @@
+[
+  {
+    "id": "core_mechanics",
+    "order": 1,
+    "nameEn": "Free indirect speech — core mechanics",
+    "namePl": "Mowa pozornie zależna — mechanika podstawowa",
+    "rules": [
+      { "label": "Przesunięcie czasu i osoby bez wprowadzenia", "text": "tak jak w zwykłej mowie zależnej, czasy się cofają (will → would, is → was) i zaimki zmieniają osobę (I → she/he), ale BEZ czasownika sprawozdającego (she said/thought) i BEZ spójnika 'that' — zdanie wygląda jak zwykłe zdanie narracyjne, tylko treściowo należy do bohatera" },
+      { "label": "Zachowany szyk i interpunkcja mowy bezpośredniej", "text": "pytania zachowują szyk pytający i znak zapytania (Would he ever forgive her?), wykrzyknienia zachowują wykrzyknik (How wonderful it all was!) — w przeciwieństwie do zwykłej mowy zależnej, gdzie pytanie zmienia się w zdanie oznajmujące (she wondered if he would forgive her)" },
+      { "label": "Przesunięcie wskaźników czasu/miejsca (deixis)", "text": "tomorrow → the next day, today → that day, here → there, this → that — tak jak w mowie zależnej, mimo braku formalnego wprowadzenia; to właśnie to przesunięcie odróżnia FIS od zwykłej narracji w czasie teraźniejszym cytowanej wprost" }
+    ],
+    "usage": [
+      "She would be there tomorrow, whatever he said. — brak 'she thought that', ale 'would' i brak dosłownego cytatu sygnalizują FIS",
+      "Would he ever call? She had waited long enough. — pytanie zachowuje szyk pytający, mimo że nie ma cudzysłowu ani 'she wondered'",
+      "How could he have forgotten her birthday! — wykrzyknienie osadzone w narracji trzecioosobowej, bez 'she thought'",
+      "He would go there tomorrow morning — no, the next day, he corrected himself. — przesunięcie 'tomorrow' → 'the next day' typowe dla FIS w narracji przeszłej"
+    ],
+    "tags": ["backshift bez 'that'", "pytania z szykiem pytającym", "wykrzyknienia w narracji", "przesunięcie deixis"],
+    "examples": [
+      { "en": "She would never marry him, not if he begged on his knees.", "pl": "Nigdy za niego nie wyjdzie, nawet gdyby błagał na kolanach." },
+      { "en": "Would she ever see her home again? The ship sailed on regardless.", "pl": "Czy jeszcze kiedyś zobaczy swój dom? Statek płynął dalej, obojętny na to." },
+      { "en": "How dare he speak to her like that! She would not forget it easily.", "pl": "Jak on śmiał tak do niej mówić! Nieprędko o tym zapomni." },
+      { "en": "He would visit her the next day; today was already too late.", "pl": "Odwiedzi ją następnego dnia; dziś było już za późno." }
+    ]
+  },
+  {
+    "id": "vs_direct_indirect",
+    "order": 2,
+    "nameEn": "Free indirect speech vs. direct and reported speech",
+    "namePl": "Mowa pozornie zależna a mowa bezpośrednia i zależna",
+    "rules": [
+      { "label": "Trzy formy tej samej wypowiedzi", "text": "direct: 'I will never speak to him again,' she said. / reported: She said that she would never speak to him again. / FIS: She would never speak to him again. — FIS łączy przesunięty czas i osobę mowy zależnej z brakiem ramy 'she said that' typowej dla mowy bezpośredniej" },
+      { "label": "Brak cudzysłowu i czasownika wprowadzającego jako sygnał", "text": "jedyną formalną różnicą między zwykłym zdaniem narracyjnym a FIS bywa kontekst i słownictwo — brak 'she said/thought that' oznacza, że zdanie MOŻE być albo neutralną narracją, albo przefiltrowaną przez świadomość bohatera myślą; rozstrzyga o tym subiektywny ładunek zdania" },
+      { "label": "Test podstawienia", "text": "aby sprawdzić, czy zdanie jest FIS, spróbuj wstawić przed nim 'she thought/said that' i cofnąć przesunięcie czasu do mowy bezpośredniej — jeśli wynik brzmi naturalnie jako czyjaś wypowiedź lub myśl, zdanie jest przykładem FIS, a nie zwykłej narracji" }
+    ],
+    "usage": [
+      "Direct: 'I hate this town,' he muttered. — cudzysłów, czasownik wprowadzający, zaimek 'I'",
+      "Reported: He muttered that he hated that town. — 'that', przesunięty czas i zaimek, ale forma jednoznacznie sprawozdawcza",
+      "FIS: He hated this town. Everyone in it was a stranger. — brak 'he thought that', zdanie wygląda jak narracja, ale niesie subiektywną ocenę bohatera",
+      "Test podstawienia: 'He hated this town' → cofnij do 'I hate this town,' he thought — brzmi naturalnie, więc to FIS"
+    ],
+    "tags": ["direct vs indirect vs free indirect", "brak ramy wprowadzającej", "test podstawienia", "przesunięty czas bez 'that'"],
+    "examples": [
+      { "en": "\"I will never forgive her,\" he said. → He said he would never forgive her. → He would never forgive her.", "pl": "\"Nigdy jej nie wybaczę\", powiedział. → Powiedział, że nigdy jej nie wybaczy. → Nigdy jej nie wybaczy." },
+      { "en": "This was absurd. Why should she apologise first?", "pl": "To było absurdalne. Dlaczego to ona miałaby przeprosić pierwsza?" },
+      { "en": "He glanced at the clock. He was already late, wasn't he?", "pl": "Spojrzał na zegar. Był już spóźniony, prawda?" },
+      { "en": "Nonsense — she had done nothing wrong, nothing at all.", "pl": "Bzdura — nie zrobiła nic złego, absolutnie nic." }
+    ]
+  },
+  {
+    "id": "free_indirect_thought",
+    "order": 3,
+    "nameEn": "Free indirect thought (represented thought / interior monologue)",
+    "namePl": "Mowa pozornie zależna myśli (przedstawiona myśl / monolog wewnętrzny)",
+    "rules": [
+      { "label": "Modalność niepewności z perspektywy bohatera", "text": "would/could/might/should użyte nie jako gramatyczne 'czasy przeszłe' modalnych, lecz jako ślad niepewności lub przypuszczenia bohatera w danym momencie (Perhaps he would understand, after all. — to ocena bohatera, nie narratora)" },
+      { "label": "Pytania retoryczne i wykrzyknienia jako wejście w świadomość", "text": "nagłe pytanie retoryczne lub wykrzyknienie w trzecioosobowej narracji (Why had she ever agreed to this?) sygnalizuje przejście od obiektywnej narracji do wnętrza myśli bohatera, bez formalnego zapowiedzenia" },
+      { "label": "Niejednoznaczność głosu", "text": "czytelnik musi wywnioskować z kontekstu (słownictwo emocjonalne, wartościujące przymiotniki, potoczne zwroty niepasujące do stylu narratora), czy dane zdanie to obiektywny fakt podany przez narratora, czy myśl bohatera — gramatyka sama w sobie tego nie rozstrzyga" }
+    ],
+    "usage": [
+      "Perhaps it would all work out in the end. — 'would' jako ślad nadziei bohatera, nie zwykły czas przeszły",
+      "Why had she ever agreed to this ridiculous plan? — pytanie retoryczne wprowadzające myśl bohatera bez 'she wondered'",
+      "Of course he would be late again — he always was. — 'of course' i ocena typowe dla głosu bohatera, nie neutralnego narratora",
+      "She looked round the room. What on earth was she doing here? — nagłe pytanie sygnalizujące przejście do wnętrza postaci"
+    ],
+    "tags": ["monolog wewnętrzny", "would/could jako ślad niepewności", "pytania retoryczne bohatera", "niejednoznaczność głosu narracyjnego"],
+    "examples": [
+      { "en": "Perhaps she would never understand him, not fully, not the way she wanted to.", "pl": "Może nigdy go w pełni nie zrozumie, nie tak, jak by chciała." },
+      { "en": "Why on earth had he said yes? It was too late to take it back now.", "pl": "Dlaczego, u licha, się zgodził? Teraz było już za późno, żeby się wycofać." },
+      { "en": "Of course nobody had thought to warn her. Typical.", "pl": "Oczywiście nikt nie pomyślał, żeby ją ostrzec. Typowe." },
+      { "en": "Could this really be happening? She pinched herself to make sure.", "pl": "Czy to naprawdę się dzieje? Uszczypnęła się, żeby się upewnić." }
+    ]
+  },
+  {
+    "id": "narrative_markers_ambiguity",
+    "order": 4,
+    "nameEn": "Recognizing FIS: narrative markers and ambiguity tests",
+    "namePl": "Rozpoznawanie mowy pozornie zależnej: sygnały narracyjne i testy niejednoznaczności",
+    "rules": [
+      { "label": "Słownictwo wartościujące jako sygnał", "text": "wyrazy typu 'of course', 'surely', 'naturally', 'after all', 'how ridiculous', 'thank goodness' w narracji trzecioosobowej zwykle zdradzają, że mówi bohater, nie neutralny narrator — narrator rzadko ocenia wprost" },
+      { "label": "Kontrast z psycho-narracją", "text": "psycho-narracja to narrator OPISUJĄCY stan bohatera własnymi słowami (She felt angry and humiliated.) — FIS natomiast oddaje słowa/frazowanie SAMEGO bohatera, przefiltrowane tylko przez osobę i czas (How dare he humiliate her like that!)" },
+      { "label": "Brak jednoznacznego markera gramatycznego", "text": "FIS nie ma stałego wyznacznika formalnego — rozpoznaje się ją po kombinacji: przesunięty czas/osoba + brak ramy sprawozdawczej + subiektywne słownictwo/interpunkcja niepasująca do neutralnego stylu narratora w danym tekście" }
+    ],
+    "usage": [
+      "Of course, he had known all along — hadn't he? — 'of course' + pytanie retoryczne zdradzają głos bohatera",
+      "She felt a wave of anger rise in her chest. — to psycho-narracja (opis stanu), NIE FIS",
+      "How dare he humiliate her like that! — to FIS (frazowanie i emocja samej bohaterki, nie opis narratora)",
+      "Naturally, nobody had bothered to ask her opinion. — 'naturally' jako sygnał subiektywnej oceny bohatera wtopionej w narrację"
+    ],
+    "tags": ["słownictwo wartościujące", "psycho-narracja vs FIS", "brak stałego markera", "sygnały kontekstowe"],
+    "examples": [
+      { "en": "Naturally, he would be the last to admit he was wrong.", "pl": "Oczywiście, on ostatni przyznałby, że się mylił." },
+      { "en": "She felt exhausted after the long journey. — narrator's plain description, not FIS.", "pl": "Czuła się wyczerpana po długiej podróży. — zwykły opis narratora, nie FIS." },
+      { "en": "What a ridiculous fuss over nothing! She would ignore it, as usual.", "pl": "Co za śmieszne zamieszanie o nic! Zignoruje to, jak zwykle." },
+      { "en": "After all, hadn't she warned them this would happen?", "pl": "W końcu, czyż ich nie ostrzegała, że tak się to skończy?" }
+    ]
+  }
+]

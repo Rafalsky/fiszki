@@ -978,5 +978,12 @@
     "title": "Przeniesione przeczenie",
     "desc": "Przeniesienie przeczenia z czasownika głównego (think, believe, suppose, want) do zdania podrzędnego oraz zgodność question tags — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "free_indirect_speech",
+    "icon": "📖",
+    "title": "Mowa pozornie zależna",
+    "desc": "Free indirect speech — mechanika (backshift bez 'that', zachowany szyk pytań i wykrzyknień), kontrast z mową bezpośrednią i zależną, monolog wewnętrzny, sygnały narracyjne — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
