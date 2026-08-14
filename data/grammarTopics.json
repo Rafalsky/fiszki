@@ -880,5 +880,12 @@
     "title": "Przymiotniki złożone",
     "desc": "Przymiotniki złożone (well-known, five-year-old, English-speaking) — budowa, łącznik, użycie przed rzeczownikiem i po be, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "elative",
+    "icon": "🌟",
+    "title": "Elativ",
+    "desc": "most + przymiotnik/przysłówek bez „the” do wyrażania wysokiego stopnia cechy, nie porównania (a most interesting book, I thank you most sincerely) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
