@@ -131,6 +131,7 @@ const THEORY_URLS = {
   emphatic_own: new URL("../data/emphatic_own.json", import.meta.url),
   might_as_well: new URL("../data/might_as_well.json", import.meta.url),
   so_such_inversion: new URL("../data/so_such_inversion.json", import.meta.url),
+  reason_clauses: new URL("../data/reason_clauses.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -257,6 +258,7 @@ const DRILLS_URLS = {
   emphatic_own: new URL("../data/emphatic_ownDrills.json", import.meta.url),
   might_as_well: new URL("../data/might_as_wellDrills.json", import.meta.url),
   so_such_inversion: new URL("../data/so_such_inversionDrills.json", import.meta.url),
+  reason_clauses: new URL("../data/reason_clausesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

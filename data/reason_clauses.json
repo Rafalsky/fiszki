@@ -1,0 +1,98 @@
+[
+  {
+    "id": "because_because_of",
+    "order": 1,
+    "nameEn": "because vs because of — clause vs noun phrase reason",
+    "namePl": "because vs because of — zdanie a fraza rzeczownikowa jako przyczyna",
+    "rules": [
+      { "label": "because + zdanie", "text": "'because' wprowadza pełne zdanie z podmiotem i orzeczeniem: He stayed home because he was ill." },
+      { "label": "because of + rzeczownik/gerund", "text": "'because of' to przyimek złożony — po nim rzeczownik, zaimek lub gerund, nigdy pełne zdanie odmienione: He stayed home because of his illness / because of feeling ill." },
+      { "label": "typowy błąd", "text": "Nie łączymy 'because of' bezpośrednio z podmiotem i czasownikiem odmienionym — to najczęstszy błąd uczących się: ✗ because of he was ill." }
+    ],
+    "usage": [
+      "because + zdanie podrzędne odpowiada na pytanie 'dlaczego?' pełnym zdaniem przyczynowym",
+      "because of + fraza rzeczownikowa skraca przyczynę do jednego elementu, częste w piśmie i mowie formalnej",
+      "obie formy mogą stać na początku zdania dla podkreślenia przyczyny: Because of the storm, the flight was cancelled.",
+      "'because of the fact that' jest częstym, choć nadmiarowym mostkiem między obiema formami — w dobrym stylu lepiej użyć samego 'because'"
+    ],
+    "tags": ["because", "because of", "due to", "owing to"],
+    "examples": [
+      { "en": "He stayed home because he was ill.", "pl": "Został w domu, bo był chory." },
+      { "en": "He stayed home because of his illness.", "pl": "Został w domu z powodu choroby." },
+      { "en": "Because of the storm, the flight was cancelled.", "pl": "Z powodu burzy lot został odwołany." },
+      { "en": "She was late because of the traffic.", "pl": "Spóźniła się z powodu korków." }
+    ]
+  },
+  {
+    "id": "as_since_vs_because",
+    "order": 2,
+    "nameEn": "as / since vs because — given reason, sentence position and the time-meaning of since",
+    "namePl": "as / since a because — znana przyczyna, pozycja w zdaniu i czasowe znaczenie since",
+    "rules": [
+      { "label": "znana informacja", "text": "'as' i 'since' wprowadzają przyczynę, którą słuchacz już zna lub łatwo się jej domyśli — nacisk pada na główną część zdania, nie na przyczynę." },
+      { "label": "because = nowa informacja", "text": "'because' wprowadza przyczynę jako nową, kluczową informację — jest jedynym z trzech, który może samodzielnie odpowiedzieć na pytanie 'Why...?'" },
+      { "label": "since = też czas", "text": "'since' może też znaczyć 'od kiedy' (czas) — wtedy łączy się z czasem present perfect i punktem w czasie: I haven't seen him since 2015." }
+    ],
+    "usage": [
+      "since/as na początku zdania brzmi bardziej płynnie i naturalnie niż because na początku",
+      "because jest jedynym z trzech, którego można użyć jako samodzielnej odpowiedzi na pytanie 'Why...?': 'Why did you leave?' 'Because I was tired.'",
+      "as bywa dwuznaczne (przyczyna vs czas 'podczas gdy') — w mowie precyzyjnej lepiej użyć since lub because, gdy chodzi wyłącznie o przyczynę",
+      "kontekst rozstrzyga, czy 'since' oznacza przyczynę, czy punkt w czasie, od którego coś trwa"
+    ],
+    "tags": ["as", "since", "because", "given that"],
+    "examples": [
+      { "en": "As it was raining, we stayed indoors.", "pl": "Ponieważ padało, zostaliśmy w domu." },
+      { "en": "Since you're already here, you might as well help.", "pl": "Skoro już tu jesteś, równie dobrze możesz pomóc." },
+      { "en": "'Why did you leave?' 'Because I was tired.'", "pl": "„Dlaczego wyszedłeś?” „Bo byłem zmęczony”." },
+      { "en": "I haven't seen him since he moved to Canada.", "pl": "Nie widziałem go, odkąd wyjechał do Kanady." }
+    ]
+  },
+  {
+    "id": "reason_for",
+    "order": 3,
+    "nameEn": "for — literary coordinating conjunction of reason",
+    "namePl": "for — literacki spójnik współrzędny przyczyny",
+    "rules": [
+      { "label": "for = spójnik współrzędny", "text": "'for' w znaczeniu 'ponieważ' łączy dwa niezależne zdania jak spójnik współrzędny (and, but, so) — poprzedza go przecinek, nigdy nie stoi na początku zdania." },
+      { "label": "styl literacki/formalny", "text": "To bardzo formalny, literacki sposób wyrażania przyczyny — typowy dla prozy, esejów i przemówień, rzadki w mowie potocznej." },
+      { "label": "ograniczenia", "text": "'for' nie może odpowiadać samodzielnie na pytanie 'why?' i nie może otwierać zdania jak because/as/since." }
+    ],
+    "usage": [
+      "for wprowadza dodatkowe wyjaśnienie lub uzasadnienie do już wypowiedzianego stwierdzenia, niemal jak dopowiedzenie",
+      "częste w narracji literackiej i tekstach podniosłych: He did not go out, for the night was cold and dark.",
+      "w przeciwieństwie do because, for nigdy nie wprowadza przyczyny jako głównego celu wypowiedzi, lecz jako komentarz do niej",
+      "we współczesnym języku mówionym for w tym znaczeniu jest rzadkie i zwykle zastępowane przez because/as/since"
+    ],
+    "tags": ["for", "reason", "literary", "formal"],
+    "examples": [
+      { "en": "He did not go out, for the night was cold and dark.", "pl": "Nie wyszedł, bo noc była zimna i mroczna." },
+      { "en": "She must have left already, for her coat is gone.", "pl": "Musiała już wyjść, bo jej płaszcza nie ma." },
+      { "en": "They hurried home, for a storm was approaching.", "pl": "Pospieszyli do domu, bo zbliżała się burza." },
+      { "en": "I could not answer, for I did not know the truth myself.", "pl": "Nie mogłem odpowiedzieć, bo sam nie znałem prawdy." }
+    ]
+  },
+  {
+    "id": "formal_reason_expressions",
+    "order": 4,
+    "nameEn": "seeing that / now that / in that / on the grounds that — formal and semi-formal reason expressions",
+    "namePl": "seeing that / now that / in that / on the grounds that — formalne i półformalne wyrażenia przyczyny",
+    "rules": [
+      { "label": "seeing that / seeing as", "text": "potoczne/półformalne odpowiedniki since, częste w mowie brytyjskiej: Seeing as you're free, let's go now." },
+      { "label": "now that", "text": "wprowadza przyczynę wynikającą z nowej sytuacji, która właśnie zaszła: Now that I have a car, I don't take the bus." },
+      { "label": "in that / on the grounds that", "text": "formalne, pisemne konstrukcje: 'in that' precyzuje, w jaki sposób coś jest prawdą (po stwierdzeniu oceniającym); 'on the grounds that' podaje formalną podstawę decyzji." }
+    ],
+    "usage": [
+      "seeing that/seeing as pasują do mowy potocznej i nieformalnego pisma, nie do stylu akademickiego",
+      "now that podkreśla związek przyczyny ze zmianą stanu rzeczy, często z teraźniejszością lub przyszłością",
+      "on the grounds that jest typowe dla kontekstów prawnych, urzędowych i formalnych decyzji: The appeal was rejected on the grounds that...",
+      "in that wprowadza wyjaśnienie sposobu lub zakresu, zwykle po przymiotniku oceniającym (better, different, unusual), nie zwykłą przyczynę czasową: The new model is better in that it uses less fuel."
+    ],
+    "tags": ["seeing that", "now that", "in that", "on the grounds that"],
+    "examples": [
+      { "en": "Seeing as you're free, let's go now.", "pl": "Skoro jesteś wolny, chodźmy teraz." },
+      { "en": "Now that I have a car, I don't take the bus.", "pl": "Teraz, gdy mam samochód, nie jeżdżę autobusem." },
+      { "en": "The appeal was rejected on the grounds that no new evidence was presented.", "pl": "Odwołanie odrzucono na tej podstawie, że nie przedstawiono nowych dowodów." },
+      { "en": "The new model is better in that it uses less fuel.", "pl": "Nowy model jest lepszy w tym sensie, że zużywa mniej paliwa." }
+    ]
+  }
+]

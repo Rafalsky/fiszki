@@ -859,5 +859,12 @@
     "title": "Inwersja z So / Such",
     "desc": "So i such na początku zdania z inwersją (So great was her surprise…, Such was the impact…) — emfatyczne podkreślenie skutku, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 36
+  },
+  {
+    "id": "reason_clauses",
+    "icon": "💡",
+    "title": "Zdania przyczynowe",
+    "desc": "because, because of, as, since, for, seeing that — spójniki i wyrażenia przyczyny, różnice w formalności i budowie zdania, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
