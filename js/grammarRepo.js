@@ -141,6 +141,7 @@ const THEORY_URLS = {
   headline_language: new URL("../data/headline_language.json", import.meta.url),
   question_prepositions: new URL("../data/question_prepositions.json", import.meta.url),
   shall_modality: new URL("../data/shall_modality.json", import.meta.url),
+  manner_clauses: new URL("../data/manner_clauses.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -277,6 +278,7 @@ const DRILLS_URLS = {
   headline_language: new URL("../data/headline_languageDrills.json", import.meta.url),
   question_prepositions: new URL("../data/question_prepositionsDrills.json", import.meta.url),
   shall_modality: new URL("../data/shall_modalityDrills.json", import.meta.url),
+  manner_clauses: new URL("../data/manner_clausesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
