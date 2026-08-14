@@ -1,0 +1,102 @@
+[
+  {
+    "id": "too_adjective_article",
+    "order": 1,
+    "nameEn": "too + adjective + a/an + noun",
+    "namePl": "too + przymiotnik + a/an + rzeczownik",
+    "rules": [
+      { "label": "Budowa", "text": "too + przymiotnik + a/an + rzeczownik policzalny w liczbie pojedynczej — przymiotnik przesuwa się PRZED przedimek nieokreślony: too difficult a task (nie: a too difficult task)." },
+      { "label": "Tylko liczba pojedyncza policzalna", "text": "Konstrukcja wymaga a/an, więc dotyczy tylko rzeczowników policzalnych w liczbie pojedynczej — z niepoliczalnymi i mnogimi używamy zwykłego too much/too many bez przedimka." },
+      { "label": "too...to", "text": "Konstrukcję często rozszerza się o bezokolicznik wyrażający niemożliwą do zrealizowania czynność: too difficult a task to solve alone." },
+      { "label": "Kontrast z very", "text": "too niesie znaczenie nadmiaru uniemożliwiającego coś (This is too difficult a task = nie da się go wykonać), podczas gdy very + a/an + przymiotnik + rzeczownik jest neutralnym wzmocnieniem bez tej implikacji." }
+    ],
+    "usage": [
+      "Podkreślenie, że coś jest nadmiernie jakieś, co uniemożliwia realizację czynności: It was too difficult a task to solve alone.",
+      "Rejestr pisany/formalny, częsty w opiniach i recenzjach: This is too important a decision to make in a hurry.",
+      "Z „for kogoś”: It was too complex a problem for a first-year student.",
+      "W krytyce i argumentacji, gdy podkreślamy nadmiar cechy rzeczownika: That's too big a risk to take."
+    ],
+    "tags": ["too difficult a task", "too important a decision", "too complex a problem", "too good an opportunity"],
+    "examples": [
+      { "en": "It was too difficult a task to solve alone.", "pl": "To było zbyt trudne zadanie, żeby rozwiązać je samodzielnie." },
+      { "en": "This is too important a decision to make in a hurry.", "pl": "To zbyt ważna decyzja, żeby podejmować ją w pośpiechu." },
+      { "en": "It was too complex a problem for a first-year student.", "pl": "To był zbyt złożony problem dla studenta pierwszego roku." },
+      { "en": "That's too good an opportunity to miss.", "pl": "To zbyt dobra okazja, żeby ją przegapić." }
+    ]
+  },
+  {
+    "id": "so_adjective_article",
+    "order": 2,
+    "nameEn": "so + adjective + a/an + noun",
+    "namePl": "so + przymiotnik + a/an + rzeczownik",
+    "rules": [
+      { "label": "Budowa", "text": "so + przymiotnik + a/an + rzeczownik — analogicznie do too, przymiotnik przesuwa się przed przedimek: so good a film, so rare an opportunity." },
+      { "label": "Porównania z as", "text": "Bardzo często używane w formalnych porównaniach z as: I have never seen so good a film as this one." },
+      { "label": "so...that", "text": "Konstrukcja bywa też rozwinięta o that-clause wyrażający skutek: It was so difficult a question that nobody answered it." },
+      { "label": "Rejestr", "text": "so + przymiotnik + a/an jest bardzo formalne i literackie — w mowie potocznej naturalniejszy jest zwykły szyk z such a + rzeczownik (such a good film)." }
+    ],
+    "usage": [
+      "Formalne porównanie z as...as: I've rarely met so kind a person as her.",
+      "Podkreślenie skutku w stylu pisanym: It was so bad a mistake that he was fired.",
+      "Recenzje i krytyka literacka/filmowa: Rarely has there been so controversial a film.",
+      "Jako formalny odpowiednik such a + rzeczownik: so good a film = such a good film (to samo znaczenie, inny rejestr)."
+    ],
+    "tags": ["so good a film", "so rare an opportunity", "so difficult a question", "so kind a person"],
+    "examples": [
+      { "en": "I've rarely met so kind a person as her.", "pl": "Rzadko spotykam tak miłą osobę jak ona." },
+      { "en": "It was so difficult a question that nobody answered it.", "pl": "To było tak trudne pytanie, że nikt na nie nie odpowiedział." },
+      { "en": "He made so bad a mistake that he was fired.", "pl": "Popełnił tak zły błąd, że został zwolniony." },
+      { "en": "Never have I read so moving a story.", "pl": "Nigdy nie czytałem tak wzruszającej historii." }
+    ]
+  },
+  {
+    "id": "as_adjective_article",
+    "order": 3,
+    "nameEn": "as + adjective + a/an + noun (+ as)",
+    "namePl": "as + przymiotnik + a/an + rzeczownik (+ as)",
+    "rules": [
+      { "label": "Budowa", "text": "as + przymiotnik + a/an + rzeczownik (+ as + porównanie) — przymiotnik stoi przed przedimkiem w konstrukcji porównania równości: as good a chance as any." },
+      { "label": "Pomijanie drugiego as", "text": "Drugi człon (as + porównanie) można pominąć, gdy porównanie wynika jasno z kontekstu: Take as good a look as you can." },
+      { "label": "Utarte zwroty", "text": "Bardzo częste w utartych wyrażeniach oceniających: as good a time as any (tak dobra okazja jak każda inna), as good a place as any." },
+      { "label": "Odróżnienie od zwykłego as...as", "text": "Nie mylić ze zwykłym as + przymiotnik + as bez rzeczownika (as tall as her brother) — tu chodzi o porównanie z rzeczownikiem policzalnym w liczbie pojedynczej wewnątrz frazy." }
+    ],
+    "usage": [
+      "Porównanie jakości z naciskiem na rzeczownik: This is as good a solution as we're going to find.",
+      "Utarte zwroty oceniające: Now is as good a time as any to start.",
+      "Formalne recenzje i argumentacja: It was as compelling a performance as I've ever seen.",
+      "W pytaniach: Could you find as reliable a source as this one?"
+    ],
+    "tags": ["as good a chance as any", "as fine a day as", "as good a time as any", "as compelling a performance"],
+    "examples": [
+      { "en": "This is as good a solution as we're going to find.", "pl": "To tak dobre rozwiązanie, jakie tylko znajdziemy." },
+      { "en": "Now is as good a time as any to start.", "pl": "Teraz jest tak dobry moment na start jak każdy inny." },
+      { "en": "It was as compelling a performance as I've ever seen.", "pl": "To był tak przekonujący występ, jak żaden inny, jaki widziałem." },
+      { "en": "It was as fine a day as we've had all summer.", "pl": "To był tak piękny dzień, jak żaden inny tego lata." }
+    ]
+  },
+  {
+    "id": "how_adjective_article",
+    "order": 4,
+    "nameEn": "how + adjective + a/an + noun",
+    "namePl": "how + przymiotnik + a/an + rzeczownik",
+    "rules": [
+      { "label": "Budowa", "text": "how + przymiotnik + a/an + rzeczownik — w wykrzyknieniach i pytaniach przymiotnik przesuwa się przed przedimek: How strange a coincidence! / How great a risk are you willing to take?" },
+      { "label": "Wykrzyknienia", "text": "Formalny, emfatyczny odpowiednik potocznego what a + przymiotnik + rzeczownik: How strange a coincidence! = What a strange coincidence!" },
+      { "label": "Pytania pośrednie", "text": "Konstrukcja pojawia się też w pytaniach pośrednich (embedded questions): She wondered how big a risk it really was." },
+      { "label": "Rejestr", "text": "how + przymiotnik + a/an jest wyraźnie formalne i pisane — w mowie potocznej naturalniejsze są what a... w wykrzyknieniach oraz zwykły szyk w pytaniach." }
+    ],
+    "usage": [
+      "Wykrzyknienie z naciskiem na stopień cechy: How strange a coincidence that we met here!",
+      "Pytanie bezpośrednie o stopień: How great a risk are you willing to take?",
+      "Pytanie pośrednie: I hadn't realised how serious a problem it had become.",
+      "Formalny kontrast z what a: What a strange coincidence! (potoczne) vs How strange a coincidence! (formalne, emfatyczne)."
+    ],
+    "tags": ["How strange a coincidence", "how big a risk", "how serious a problem", "how great a risk"],
+    "examples": [
+      { "en": "How strange a coincidence that we met here!", "pl": "Cóż za dziwny zbieg okoliczności, że się tu spotkaliśmy!" },
+      { "en": "How great a risk are you willing to take?", "pl": "Jak duże ryzyko jesteś skłonny podjąć?" },
+      { "en": "I hadn't realised how serious a problem it had become.", "pl": "Nie zdawałem sobie sprawy, jak poważnym problemem się to stało." },
+      { "en": "She wondered how big a risk it really was.", "pl": "Zastanawiała się, jak duże jest tak naprawdę to ryzyko." }
+    ]
+  }
+]
