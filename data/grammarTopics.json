@@ -908,5 +908,12 @@
     "title": "Czasownik + dopełnienie + -ing",
     "desc": "catch/find/keep/leave/spend/waste/get/have + dopełnienie + -ing (caught him stealing, kept us waiting, spent hours looking, got everyone talking) — łapanie kogoś na czymś, podtrzymywanie czynności, spędzanie czasu, inicjowanie reakcji — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "headline_language",
+    "icon": "🗞️",
+    "title": "Styl nagłówkowy",
+    "desc": "Gramatyka nagłówków prasowych: pomijanie przedimków i czasownika be, czas teraźniejszy dla przeszłości, bezokolicznik dla przyszłości, interpunkcja i słownictwo nagłówkowe — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

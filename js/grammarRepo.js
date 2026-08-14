@@ -138,6 +138,7 @@ const THEORY_URLS = {
   multiplicative_comparison: new URL("../data/multiplicative_comparison.json", import.meta.url),
   indefinite_article_inversion: new URL("../data/indefinite_article_inversion.json", import.meta.url),
   verb_object_ing: new URL("../data/verb_object_ing.json", import.meta.url),
+  headline_language: new URL("../data/headline_language.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -271,6 +272,7 @@ const DRILLS_URLS = {
   multiplicative_comparison: new URL("../data/multiplicative_comparisonDrills.json", import.meta.url),
   indefinite_article_inversion: new URL("../data/indefinite_article_inversionDrills.json", import.meta.url),
   verb_object_ing: new URL("../data/verb_object_ingDrills.json", import.meta.url),
+  headline_language: new URL("../data/headline_languageDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

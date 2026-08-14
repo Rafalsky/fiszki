@@ -1,0 +1,102 @@
+[
+  {
+    "id": "headline_omission",
+    "order": 1,
+    "nameEn": "Omission of articles, the verb 'be' and other grammar words",
+    "namePl": "Pomijanie przedimków, czasownika 'be' i innych słów gramatycznych",
+    "rules": [
+      { "label": "Przedimki", "text": "Nagłówki prasowe pomijają a/an/the, żeby zmieścić więcej treści w krótkiej przestrzeni: (The) Minister Resigns Over (a) Scandal — czytelnik sam dopowiada przedimek." },
+      { "label": "Czasownik be", "text": "W stronie biernej i czasie continuous pomija się formę 'be' (is/are/was/were), zostawiając sam imiesłów: Man (Is) Injured In Car Crash / Talks (Are) Underway To End Strike." },
+      { "label": "Dopełniacz i spójniki", "text": "Dopełniacz saksoński bywa skracany do samego rzeczownika w funkcji przymiotnika (Council Plan zamiast Council's Plan), a spójnik 'and' często zastępuje przecinek." },
+      { "label": "Czasownik have (Present Perfect)", "text": "W Present Perfect pomija się 'have/has', zostawiając sam imiesłów przeszły: Prices (Have) Risen Again — nagłówek wygląda jak Past Simple, ale znaczenie jest wciąż 'skutek widoczny teraz'." }
+    ],
+    "usage": [
+      "Pierwsze zdanie/tytuł artykułu prasowego, gdzie liczy się zwięzłość i miejsce na stronie",
+      "Odróżnianie stylu nagłówkowego od zwykłej prozy — w treści artykułu przedimki i 'be' wracają w pełnej formie",
+      "Domyślanie się pominiętego elementu z kontekstu: rzeczownik + imiesłów bierny (-ed) zwykle sygnalizuje pominięte 'is/are' strony biernej",
+      "Skróty w nagłówkach analizowane jako osobny rejestr (headlinese), a nie błąd gramatyczny"
+    ],
+    "tags": ["Minister Resigns", "Man Injured In Crash", "Talks Underway", "Prices Risen Again"],
+    "examples": [
+      { "en": "PM Resigns Amid Corruption Scandal.", "pl": "Premier ustępuje w obliczu skandalu korupcyjnego." },
+      { "en": "Two Killed In Motorway Pile-Up.", "pl": "Dwie osoby zginęły w karambolu na autostradzie." },
+      { "en": "Talks Underway To End Rail Strike.", "pl": "Trwają rozmowy mające zakończyć strajk kolejarzy." },
+      { "en": "House Prices Risen Sharply This Year.", "pl": "Ceny domów wyraźnie wzrosły w tym roku." }
+    ]
+  },
+  {
+    "id": "headline_present_for_past",
+    "order": 2,
+    "nameEn": "Present simple instead of past tense for reported events",
+    "namePl": "Czas teraźniejszy prosty zamiast przeszłego dla relacjonowanych wydarzeń",
+    "rules": [
+      { "label": "Zasada", "text": "Nawet gdy wydarzenie już się wydarzyło, nagłówek zwykle używa Present Simple zamiast Past Simple, żeby brzmiało bardziej aktualnie i dynamicznie: Earthquake Hits Japan (= an earthquake has hit / hit Japan)." },
+      { "label": "Kontrast z treścią artykułu", "text": "Pierwsze zdanie samego artykułu wraca do normalnego Past Simple lub Present Perfect: nagłówek 'Storm Batters Coast', ale tekst zaczyna się 'A powerful storm battered the coast yesterday...'." },
+      { "label": "Present Perfect ukryty w Present Simple", "text": "Forma teraźniejsza w nagłówku często odpowiada znaczeniowo Present Perfect (skutek trwa) — Government Announces New Tax = the government has announced." },
+      { "label": "Present Continuous dla wydarzeń w toku", "text": "Dla wydarzeń trwających w chwili pisania nagłówka (bez pominiętego 'be' z reguły 1) używa się Present Continuous: Firefighters Battling Blaze in City Centre." }
+    ],
+    "usage": [
+      "Nagłówki o wydarzeniach z ostatnich godzin/dni — sport, polityka, wypadki: Team Wins Championship After Dramatic Final",
+      "Budowanie wrażenia świeżości i bezpośredniości informacji, typowe dla stylu dziennikarskiego (i pokrewne narracyjnemu czasowi teraźniejszemu w opowiadaniach)",
+      "Rozpoznawanie w testach typu 'dopasuj nagłówek do artykułu' — Present Simple w nagłówku prawie zawsze odnosi się do przeszłości",
+      "Kontrastowanie z bezokolicznikiem (reguła 2 w kolejnym temacie) dla wydarzeń przyszłych, żeby nie pomylić czasu wydarzenia"
+    ],
+    "tags": ["Earthquake Hits Japan", "Storm Batters Coast", "Government Announces Tax", "Team Wins Championship"],
+    "examples": [
+      { "en": "Earthquake Hits Northern Japan, Thousands Evacuated.", "pl": "Trzęsienie ziemi uderza w północną Japonię, tysiące osób ewakuowanych." },
+      { "en": "Local Team Wins Championship After Dramatic Final.", "pl": "Lokalna drużyna wygrywa mistrzostwa po dramatycznym finale." },
+      { "en": "Government Announces New Tax On Sugary Drinks.", "pl": "Rząd ogłasza nowy podatek od słodzonych napojów." },
+      { "en": "Firefighters Battling Blaze In City Centre.", "pl": "Strażacy walczą z pożarem w centrum miasta." }
+    ]
+  },
+  {
+    "id": "headline_future_forms",
+    "order": 3,
+    "nameEn": "To-infinitive for the future, and other compressed verb forms",
+    "namePl": "Bezokolicznik z 'to' dla przyszłości i inne skompresowane formy czasownika",
+    "rules": [
+      { "label": "to + bezokolicznik", "text": "Planowane, jeszcze niezaszłe wydarzenia sygnalizuje sam bezokolicznik z 'to' (zamiast will/be going to): President To Visit China Next Week = the president is going to visit / will visit." },
+      { "label": "Odróżnienie od celu", "text": "Ten sam wzorzec 'to + bezokolicznik' w zwykłym zdaniu wyraża cel (poszła, żeby...), ale w nagłówku, gdy stoi tuż po podmiocie zamiast czasownika głównego, oznacza czas przyszły, nie cel." },
+      { "label": "Elipsa 'be' przed 'to'", "text": "Pełna forma to zwykle be + to-infinitive (is to visit); w nagłówku 'be' znika tak samo jak w regule o pomijaniu 'be', zostaje goły bezokolicznik z 'to'." },
+      { "label": "Rzeczownik odsłowny (-ing) jako nagłówek", "text": "Sam rzeczownik odsłowny bez podmiotu bywa używany jako tytuł krótkiej notatki lub podpisu pod zdjęciem, opisując czynność w toku: Cleaning Up After The Storm." }
+    ],
+    "usage": [
+      "Zapowiedzi wydarzeń, wizyt i decyzji, które dopiero nastąpią: PM To Announce Cabinet Reshuffle Tomorrow",
+      "Odróżnianie w czytaniu nagłówków, czy wydarzenie już zaszło (Present Simple, temat 2) czy dopiero nastąpi (to + bezokolicznik)",
+      "Podpisy pod zdjęciami i krótkie zapowiedzi w gazetach i serwisach informacyjnych",
+      "Typowe zadanie na egzaminach C1/C2 (np. CPE) polegające na rozpoznaniu czasu wydarzenia z samej struktury nagłówka"
+    ],
+    "tags": ["President To Visit China", "PM To Announce Reshuffle", "Council To Close Library", "Cleaning Up After Storm"],
+    "examples": [
+      { "en": "President To Visit China Next Week For Trade Talks.", "pl": "Prezydent odwiedzi Chiny w przyszłym tygodniu na rozmowy handlowe." },
+      { "en": "PM To Announce Cabinet Reshuffle Tomorrow.", "pl": "Premier ogłosi jutro rekonstrukcję rządu." },
+      { "en": "Council To Close Local Library Next Month.", "pl": "Rada zamknie lokalną bibliotekę w przyszłym miesiącu." },
+      { "en": "Cleaning Up After The Storm.", "pl": "Sprzątanie po burzy. (podpis pod zdjęciem)" }
+    ]
+  },
+  {
+    "id": "headline_punctuation_vocabulary",
+    "order": 4,
+    "nameEn": "Headline punctuation and typical headline vocabulary",
+    "namePl": "Interpunkcja nagłówków i typowe słownictwo nagłówkowe",
+    "rules": [
+      { "label": "Przecinek zamiast 'and'", "text": "Przecinek często zastępuje spójnik 'and' między dwoma podmiotami lub czynnościami: Storm, Floods Cause Chaos Across Region." },
+      { "label": "Dwukropek", "text": "Dwukropek wprowadza cytat, komentarz źródła lub wynik/konsekwencję po dwukropku: Minister: 'We Will Not Raise Taxes.' / Report: Climate Change Accelerating." },
+      { "label": "Znak zapytania", "text": "Znak zapytania na końcu nagłówka sygnalizuje spekulację lub pytanie bez potwierdzonej odpowiedzi (tzw. Betteridge's law): Is This The End Of The Road For The Party?" },
+      { "label": "Krótkie 'słowa nagłówkowe'", "text": "Zamiast długich, neutralnych czasowników nagłówki używają krótkich, mocnych słów, np. bid (próba), row (kłótnia), axe (zwolnić/skreślić), slam (ostro skrytykować), vow (obiecać), curb (ograniczyć), probe (dochodzenie), rap (skrytykować) — mieszczą się w wąskiej kolumnie i brzmią dobitniej." }
+    ],
+    "usage": [
+      "Rozdzielanie dwóch powiązanych ze sobą faktów bez miejsca na 'and': Talks Fail, Strike Continues",
+      "Sygnalizowanie bezpośredniego cytatu osoby, o której mowa w artykule, bez cudzysłowu otwierającego cały nagłówek: Minister: Reform 'Long Overdue'",
+      "Rozpoznawanie skrótowego słownictwa nagłówkowego przy czytaniu prasy — bid, axe, slam, vow, row, probe, curb, rap",
+      "Budowanie emfazy i napięcia typowego dla stylu tabloidowego i informacyjnego jednocześnie"
+    ],
+    "tags": ["Storm, Floods Cause Chaos", "Minister: 'No New Taxes'", "Company Axes 200 Jobs", "Union Slams Pay Offer"],
+    "examples": [
+      { "en": "Storm, Floods Cause Chaos Across The Region.", "pl": "Burza i powodzie sieją chaos w całym regionie." },
+      { "en": "Minister: 'We Will Not Raise Taxes.'", "pl": "Minister: „Nie podniesiemy podatków”." },
+      { "en": "Company Axes 200 Jobs In Cost-Cutting Bid.", "pl": "Firma likwiduje 200 miejsc pracy w ramach cięcia kosztów." },
+      { "en": "Union Slams Pay Offer As 'Insulting'.", "pl": "Związek ostro krytykuje ofertę płacową jako „obraźliwą”." }
+    ]
+  }
+]
