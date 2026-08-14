@@ -151,6 +151,7 @@ const THEORY_URLS = {
   free_indirect_speech: new URL("../data/free_indirect_speech.json", import.meta.url),
   historic_present: new URL("../data/historic_present.json", import.meta.url),
   tag_questions: new URL("../data/tag_questions.json", import.meta.url),
+  passive_infinitive_gerund: new URL("../data/passive_infinitive_gerund.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -297,6 +298,7 @@ const DRILLS_URLS = {
   free_indirect_speech: new URL("../data/free_indirect_speechDrills.json", import.meta.url),
   historic_present: new URL("../data/historic_presentDrills.json", import.meta.url),
   tag_questions: new URL("../data/tag_questionsDrills.json", import.meta.url),
+  passive_infinitive_gerund: new URL("../data/passive_infinitive_gerundDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
