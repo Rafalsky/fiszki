@@ -1,0 +1,105 @@
+[
+  {
+    "id": "catch_find_ing",
+    "order": 1,
+    "nameEn": "catch/find + object + -ing — catching someone in the act / discovering a state",
+    "namePl": "catch/find + dopełnienie + -ing — złapanie kogoś na czymś / zastanie w jakimś stanie",
+    "rules": [
+      { "label": "Budowa", "text": "catch/find + dopełnienie (osoba/rzecz) + imiesłów -ing: I caught him reading my diary. / She found the door standing open." },
+      { "label": "catch — przyłapanie na czymś", "text": "zwykle coś niepożądanego lub zaskakującego, przyłapanie na gorącym uczynku: They caught the boy stealing apples from the orchard." },
+      { "label": "find — neutralne odkrycie stanu", "text": "opisuje, w jakim stanie kogoś/coś zastaliśmy, niekoniecznie negatywnym: I found her sitting alone on the bench." },
+      { "label": "catch oneself + -ing", "text": "złapanie się na robieniu czegoś, zwykle mimowolnie: I caught myself smiling at the memory." },
+      { "label": "Strona bierna", "text": "dopełnienie catch/find staje się podmiotem, imiesłów -ing pozostaje bez zmian: He was caught cheating in the exam." }
+    ],
+    "usage": [
+      "Opisywanie przyłapania kogoś na niewłaściwym lub nieoczekiwanym zachowaniu (caught stealing, caught lying)",
+      "Relacjonowanie, w jakim stanie zastaliśmy kogoś lub coś (found the children playing in the rain)",
+      "Refleksja nad własnym, często mimowolnym zachowaniem (catch myself doing something)",
+      "Rejestr neutralny, częsty w narracji, relacjach z wydarzeń i doniesieniach prasowych"
+    ],
+    "tags": ["caught him stealing", "found her crying", "catch myself doing", "caught cheating"],
+    "examples": [
+      { "en": "I caught him going through my emails.", "pl": "Złapałem go, jak przeglądał moje maile." },
+      { "en": "She found the children playing in the rain.", "pl": "Zastała dzieci bawiące się w deszczu." },
+      { "en": "He was caught speeding on the motorway.", "pl": "Złapano go na przekroczeniu prędkości na autostradzie." },
+      { "en": "I caught myself daydreaming during the meeting.", "pl": "Złapałem się na tym, że marzę podczas spotkania." }
+    ]
+  },
+  {
+    "id": "keep_leave_ing",
+    "order": 2,
+    "nameEn": "keep/leave + object + -ing — keeping an action or state going",
+    "namePl": "keep/leave + dopełnienie + -ing — utrzymywanie czynności lub stanu w toku",
+    "rules": [
+      { "label": "Budowa", "text": "keep/leave + dopełnienie + imiesłów -ing: Keep the engine running. / Don't leave the tap running." },
+      { "label": "keep — aktywne podtrzymywanie", "text": "podmiot powoduje, że coś trwa dalej, często wbrew woli dopełnienia: The noise kept me awake — ale z -ing: She kept us waiting for an hour." },
+      { "label": "leave — pozostawienie w danym stanie", "text": "zwykle przez zaniedbanie lub celowo, bez dalszej ingerencji: He left the washing machine running while he went shopping." },
+      { "label": "keep + dopełnienie + from + -ing", "text": "pokrewna konstrukcja o znaczeniu przeciwnym — zapobieganie, powstrzymywanie: The rain kept us from going outside." }
+    ],
+    "usage": [
+      "Skarga na to, że ktoś każe nam czekać lub pozostawać w niepewności (kept us waiting, kept us guessing)",
+      "Instrukcje i ostrzeżenia dotyczące pozostawienia urządzenia lub czynności bez nadzoru (leave the tap running)",
+      "Opis kogoś podtrzymującego czyjeś zaangażowanie lub emocje (kept the audience laughing)",
+      "keep + from + -ing jako wariant o znaczeniu 'powstrzymać przed' — warto odróżniać od podstawowego wzorca"
+    ],
+    "tags": ["kept me waiting", "leave the tap running", "kept us guessing", "left the engine running"],
+    "examples": [
+      { "en": "The manager kept us waiting outside his office for twenty minutes.", "pl": "Kierownik kazał nam czekać pod jego biurem przez dwadzieścia minut." },
+      { "en": "Please don't leave the tap running while you brush your teeth.", "pl": "Proszę nie zostawiaj odkręconego kranu podczas mycia zębów." },
+      { "en": "The mystery kept the audience guessing until the very end.", "pl": "Zagadka trzymała widownię w niepewności aż do samego końca." },
+      { "en": "Nothing could keep her from talking about the trip.", "pl": "Nic nie mogło powstrzymać jej od mówienia o tej podróży." }
+    ]
+  },
+  {
+    "id": "spend_waste_ing",
+    "order": 3,
+    "nameEn": "spend/waste + time/money + -ing — how time or money is used",
+    "namePl": "spend/waste + czas/pieniądze + -ing — sposób spędzania czasu lub wydawania pieniędzy",
+    "rules": [
+      { "label": "Budowa", "text": "spend/waste + wyrażenie czasu lub pieniędzy + imiesłów -ing: I spend two hours a day commuting. / They wasted money renovating a house they later sold." },
+      { "label": "spend — neutralny opis", "text": "informuje, na co poszedł czas lub pieniądze, bez oceny: We spent the whole afternoon looking for a parking space." },
+      { "label": "waste — negatywna ocena", "text": "sugeruje, że czas lub pieniądze zostały zmarnowane, użyte bez efektu: She wasted a small fortune buying clothes she never wore." },
+      { "label": "Brak bezokolicznika z 'to'", "text": "po spend/waste w tym znaczeniu nigdy nie stawiamy 'to + bezokolicznik' — niepoprawne: *spend time to clean the house" },
+      { "label": "Pokrewna konstrukcja: have difficulty/trouble/a hard time + -ing", "text": "ten sam schemat 'wyrażenie + -ing' pojawia się po have difficulty/trouble/a hard time: He has a hard time remembering names." }
+    ],
+    "usage": [
+      "Opis nawyków i sposobu organizacji czasu w życiu codziennym (spends every evening reading)",
+      "Krytyka nieefektywnego lub bezcelowego wykorzystania zasobów (wasted a fortune redecorating)",
+      "Rejestr neutralny/potoczny, bardzo częsty w rozmowie o codziennych czynnościach",
+      "Rozszerzenie wzorca na have difficulty/trouble/a hard time + -ing przy opisie trudności"
+    ],
+    "tags": ["spend time doing", "waste money buying", "have difficulty finding", "spends hours"],
+    "examples": [
+      { "en": "We spent the whole afternoon looking for a parking space.", "pl": "Spędziliśmy całe popołudnie na szukaniu miejsca parkingowego." },
+      { "en": "She wasted a small fortune buying clothes she never wore.", "pl": "Zmarnowała małą fortunę na kupowanie ubrań, których nigdy nie nosiła." },
+      { "en": "He has a hard time remembering people's names.", "pl": "Ma trudności z zapamiętywaniem imion ludzi." },
+      { "en": "I don't want to waste any more time arguing about this.", "pl": "Nie chcę już marnować czasu na kłócenie się o to." }
+    ]
+  },
+  {
+    "id": "get_have_ing",
+    "order": 4,
+    "nameEn": "get/have + object + -ing — informal triggering of an action",
+    "namePl": "get/have + dopełnienie + -ing — nieformalne zainicjowanie czynności lub reakcji",
+    "rules": [
+      { "label": "Budowa", "text": "get/have + dopełnienie + imiesłów -ing: That got me thinking. / She had everyone laughing." },
+      { "label": "get — zainicjowanie działania", "text": "podmiot sprawia, że coś/ktoś zaczyna działać lub coś zaczyna się dziać: We finally got the engine running." },
+      { "label": "have — wywołanie zbiorowej reakcji", "text": "podkreśla umiejętność wywołania reakcji emocjonalnej u słuchaczy/uczestników: The comedian had the whole room laughing." },
+      { "label": "Kontrast z przyczynowym have/get + dopełnienie + imiesłów bierny", "text": "w have/get something done dopełnienie OTRZYMUJE wykonaną czynność (get the car washed), a tu dopełnienie SAMO wykonuje czynność wyrażoną -ing (get the car running) — nie należy mylić tych dwóch wzorców" },
+      { "label": "Rejestr", "text": "konstrukcja typowo potoczna, bardzo częsta w mowie i nieformalnym piśmie" }
+    ],
+    "usage": [
+      "Opisywanie, jak coś zainicjowało reakcję, proces lub dyskusję (got people talking, got things moving)",
+      "Podkreślanie zdolności kogoś do wywoływania reakcji publiczności (had the audience cheering)",
+      "Odróżnianie aktywnej czynności dopełnienia (get/have + -ing) od biernego rezultatu (have/get + past participle)",
+      "Rejestr potoczny — rzadziej spotykana w formalnym, pisanym angielskim"
+    ],
+    "tags": ["got me thinking", "had everyone laughing", "get things moving", "had the crowd cheering"],
+    "examples": [
+      { "en": "Her speech got everyone thinking about climate change.", "pl": "Jej przemówienie skłoniło wszystkich do myślenia o zmianach klimatu." },
+      { "en": "The comedian had the whole audience laughing within seconds.", "pl": "Komik rozśmieszył całą publiczność w kilka sekund." },
+      { "en": "We need to get things moving before the deadline.", "pl": "Musimy ruszyć sprawy z miejsca przed terminem." },
+      { "en": "His jokes had us all crying with laughter.", "pl": "Jego żarty doprowadziły nas wszystkich do łez ze śmiechu." }
+    ]
+  }
+]
