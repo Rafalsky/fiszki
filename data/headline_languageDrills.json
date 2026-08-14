@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "headline_omission",
+    "prompt": "Minister ___ Over Scandal.",
+    "answer": "Resigns",
+    "distractors": ["Is Resigns", "Resigning", "Has Resigns"]
+  },
+  {
+    "id": 2,
+    "itemId": "headline_omission",
+    "prompt": "Man ___ In Car Crash.",
+    "answer": "Injured",
+    "distractors": ["Is Injured", "Injures", "Injuring"]
+  },
+  {
+    "id": 3,
+    "itemId": "headline_omission",
+    "prompt": "Roads ___ After Heavy Snowfall.",
+    "answer": "Closed",
+    "distractors": ["Are Closed", "Closing", "Close"]
+  },
+  {
+    "id": 4,
+    "itemId": "headline_omission",
+    "prompt": "House Prices ___ Sharply This Year.",
+    "answer": "Risen",
+    "distractors": ["Have Risen", "Rise", "Rising"]
+  },
+  {
+    "id": 5,
+    "itemId": "headline_omission",
+    "prompt": "Two Killed ___ Motorway Pile-Up.",
+    "answer": "In",
+    "distractors": ["At", "On", "By"]
+  },
+  {
+    "id": 6,
+    "itemId": "headline_omission",
+    "prompt": "___ Plan Approved By Residents.",
+    "answer": "Council",
+    "distractors": ["Council's", "The Council's", "Councils"]
+  },
+  {
+    "id": 7,
+    "itemId": "headline_omission",
+    "prompt": "New Runway ___ Ahead Of Schedule.",
+    "answer": "Completed",
+    "distractors": ["Is Completed", "Completing", "Complete"]
+  },
+  {
+    "id": 8,
+    "itemId": "headline_omission",
+    "prompt": "Firefighters ___ Trapped Family From Blaze.",
+    "answer": "Rescue",
+    "distractors": ["Are Rescue", "Rescuing", "Rescued's"]
+  },
+  {
+    "id": 9,
+    "itemId": "headline_omission",
+    "prompt": "New Airport Opening ___ Until Next Year.",
+    "answer": "Delayed",
+    "distractors": ["Is Delayed", "Delaying", "Delays"]
+  },
+  {
+    "id": 10,
+    "itemId": "headline_omission",
+    "prompt": "Company ___ Bankrupt After Years Of Losses.",
+    "answer": "Declared",
+    "distractors": ["Is Declared", "Declaring", "Declares"]
+  },
+  {
+    "id": 11,
+    "itemId": "headline_present_for_past",
+    "prompt": "Earthquake ___ Northern Japan, Thousands Evacuated.",
+    "answer": "Hits",
+    "distractors": ["Hit", "Is Hitting", "Has Hitting"]
+  },
+  {
+    "id": 12,
+    "itemId": "headline_present_for_past",
+    "prompt": "Local Team ___ Championship After Dramatic Final.",
+    "answer": "Wins",
+    "distractors": ["Won", "Winning", "Has Win"]
+  },
+  {
+    "id": 13,
+    "itemId": "headline_present_for_past",
+    "prompt": "Government ___ New Tax On Sugary Drinks.",
+    "answer": "Announces",
+    "distractors": ["Announced", "Announcing", "Will Announces"]
+  },
+  {
+    "id": 14,
+    "itemId": "headline_present_for_past",
+    "prompt": "Firefighters ___ Blaze In City Centre.",
+    "answer": "Battling",
+    "distractors": ["Battle", "Battled", "To Battle"]
+  },
+  {
+    "id": 15,
+    "itemId": "headline_present_for_past",
+    "prompt": "Storm ___ Coast, Leaving Thousands Without Power.",
+    "answer": "Batters",
+    "distractors": ["Battered", "Battering", "Has Battering"]
+  },
+  {
+    "id": 16,
+    "itemId": "headline_present_for_past",
+    "prompt": "Scientists ___ New Species In Amazon Rainforest.",
+    "answer": "Discover",
+    "distractors": ["Discovered", "Discovering", "Have Discover"]
+  },
+  {
+    "id": 17,
+    "itemId": "headline_present_for_past",
+    "prompt": "Thousands ___ Streets To Protest New Law.",
+    "answer": "Flood",
+    "distractors": ["Flooded", "Flooding", "Will Flood"]
+  },
+  {
+    "id": 18,
+    "itemId": "headline_present_for_past",
+    "prompt": "President ___ Historic Peace Deal.",
+    "answer": "Signs",
+    "distractors": ["Signed", "Signing", "Has Signs"]
+  },
+  {
+    "id": 19,
+    "itemId": "headline_present_for_past",
+    "prompt": "Rescue Teams ___ For Survivors After Landslide.",
+    "answer": "Searching",
+    "distractors": ["Search", "Searched", "To Search"]
+  },
+  {
+    "id": 20,
+    "itemId": "headline_present_for_past",
+    "prompt": "Share Prices ___ After Merger Announcement.",
+    "answer": "Soar",
+    "distractors": ["Soared", "Soaring", "Have Soar"]
+  },
+  {
+    "id": 21,
+    "itemId": "headline_future_forms",
+    "prompt": "President ___ China Next Week For Trade Talks.",
+    "answer": "To Visit",
+    "distractors": ["Visit", "Visiting", "Will To Visit"]
+  },
+  {
+    "id": 22,
+    "itemId": "headline_future_forms",
+    "prompt": "PM ___ Cabinet Reshuffle Tomorrow.",
+    "answer": "To Announce",
+    "distractors": ["Announce", "Announcing", "Will To Announce"]
+  },
+  {
+    "id": 23,
+    "itemId": "headline_future_forms",
+    "prompt": "Council ___ Local Library Next Month.",
+    "answer": "To Close",
+    "distractors": ["Close", "Closing", "For Close"]
+  },
+  {
+    "id": 24,
+    "itemId": "headline_future_forms",
+    "prompt": "___ Up After The Storm. (photo caption)",
+    "answer": "Cleaning",
+    "distractors": ["Clean", "To Clean", "Cleaned"]
+  },
+  {
+    "id": 25,
+    "itemId": "headline_future_forms",
+    "prompt": "Airline ___ New Routes To Asia In Spring.",
+    "answer": "To Launch",
+    "distractors": ["Launch", "Launching", "For Launch"]
+  },
+  {
+    "id": 26,
+    "itemId": "headline_future_forms",
+    "prompt": "Company ___ 200 New Staff Next Year.",
+    "answer": "To Hire",
+    "distractors": ["Hire", "Hiring", "Will To Hire"]
+  },
+  {
+    "id": 27,
+    "itemId": "headline_future_forms",
+    "prompt": "City ___ Host Next Year's Festival.",
+    "answer": "To Host",
+    "distractors": ["Host", "Hosting", "For Host"]
+  },
+  {
+    "id": 28,
+    "itemId": "headline_future_forms",
+    "prompt": "Government ___ New Law On Plastic Waste.",
+    "answer": "To Introduce",
+    "distractors": ["Introduce", "Introducing", "Will To Introduce"]
+  },
+  {
+    "id": 29,
+    "itemId": "headline_future_forms",
+    "prompt": "Bank ___ Interest Rates Next Month.",
+    "answer": "To Raise",
+    "distractors": ["Raise", "Raising", "For Raise"]
+  },
+  {
+    "id": 30,
+    "itemId": "headline_future_forms",
+    "prompt": "Queen ___ Hospital Next Tuesday.",
+    "answer": "To Leave",
+    "distractors": ["Leave", "Leaving", "Will To Leave"]
+  },
+  {
+    "id": 31,
+    "itemId": "headline_punctuation_vocabulary",
+    "prompt": "Storm, Floods ___ Chaos Across The Region.",
+    "answer": "Cause",
+    "distractors": ["Causes", "Caused", "Causing"]
+  },
+  {
+    "id": 32,
+    "itemId": "headline_punctuation_vocabulary",
+    "prompt": "Minister: 'We Will Not ___ Taxes.'",
+    "answer": "Raise",
+    "distractors": ["Rise", "Arise", "Raising"]
+  },
+  {
+    "id": 33,
+    "itemId": "headline_punctuation_vocabulary",
+    "prompt": "Company ___ 200 Jobs In Cost-Cutting Bid.",
+    "answer": "Axes",
+    "distractors": ["Removes", "Deletes", "Cancels"]
+  },
+  {
+    "id": 34,
+    "itemId": "headline_punctuation_vocabulary",
+    "prompt": "Union ___ Pay Offer As 'Insulting'.",
+    "answer": "Slams",
+    "distractors": ["Criticizes Softly", "Mentions", "Discusses"]
+  },
+  {
+    "id": 35,
+    "itemId": "headline_punctuation_vocabulary",
+    "prompt": "Is This The End Of The ___ For The Party?",
+    "answer": "Road",
+    "distractors": ["Way", "Path", "Line"]
+  },
+  {
+    "id": 36,
+    "itemId": "headline_punctuation_vocabulary",
+    "prompt": "Mayor ___ To Cut Crime By Half.",
+    "answer": "Vows",
+    "distractors": ["Whispers", "Mentions", "Suggests"]
+  },
+  {
+    "id": 37,
+    "itemId": "headline_punctuation_vocabulary",
+    "prompt": "Police Launch ___ Into Missing Funds.",
+    "answer": "Probe",
+    "distractors": ["Search Party", "Investigation Team", "Inquiry Group"]
+  },
+  {
+    "id": 38,
+    "itemId": "headline_punctuation_vocabulary",
+    "prompt": "New Rules ___ Late-Night Noise.",
+    "answer": "Curb",
+    "distractors": ["Increase", "Permit", "Ignore"]
+  },
+  {
+    "id": 39,
+    "itemId": "headline_punctuation_vocabulary",
+    "prompt": "Residents ___ Over Planned Motorway.",
+    "answer": "Row",
+    "distractors": ["Discussion", "Meeting", "Conversation"]
+  },
+  {
+    "id": 40,
+    "itemId": "headline_punctuation_vocabulary",
+    "prompt": "Critics ___ Government Over Handling Of Crisis.",
+    "answer": "Rap",
+    "distractors": ["Thank", "Support", "Congratulate"]
+  }
+]
