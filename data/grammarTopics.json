@@ -992,5 +992,12 @@
     "title": "Czas teraźniejszy historyczny",
     "desc": "Present Simple/Continuous zamiast czasu przeszłego w opowiadaniu historii, dowcipach, streszczeniach fabuły i relacji na żywo — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "tag_questions",
+    "icon": "🔖",
+    "title": "Question tags",
+    "desc": "Pytania dodane (question tags): dobór operatora i zaimka, biegunowość dodatnia/ujemna, intonacja opadająca i wznosząca, ukryte przeczenia (never, nobody, hardly), przypadki specjalne (aren't I, let's, tryb rozkazujący, there is), tagi tej samej biegunowości (sarkazm) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

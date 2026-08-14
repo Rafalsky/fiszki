@@ -150,6 +150,7 @@ const THEORY_URLS = {
   transferred_negation: new URL("../data/transferred_negation.json", import.meta.url),
   free_indirect_speech: new URL("../data/free_indirect_speech.json", import.meta.url),
   historic_present: new URL("../data/historic_present.json", import.meta.url),
+  tag_questions: new URL("../data/tag_questions.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -295,6 +296,7 @@ const DRILLS_URLS = {
   transferred_negation: new URL("../data/transferred_negationDrills.json", import.meta.url),
   free_indirect_speech: new URL("../data/free_indirect_speechDrills.json", import.meta.url),
   historic_present: new URL("../data/historic_presentDrills.json", import.meta.url),
+  tag_questions: new URL("../data/tag_questionsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

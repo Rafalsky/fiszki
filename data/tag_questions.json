@@ -1,0 +1,176 @@
+[
+  {
+    "id": "basic_polarity",
+    "order": 1,
+    "nameEn": "Basic rule: reversed polarity",
+    "namePl": "Podstawowa zasada: odwrócona biegunowość",
+    "rules": [
+      {
+        "label": "Twierdzenie → tag przeczący",
+        "text": "Zdanie twierdzące dostaje tag przeczący: You're tired, aren't you? Zdanie przeczące dostaje tag twierdzący: You aren't tired, are you? Tag powtarza operator zdania głównego (be/have/modal/posiłkowy do) i zaimek odpowiadający podmiotowi."
+      },
+      {
+        "label": "Operator zdania głównego",
+        "text": "Tag ZAWSZE powtarza operator (czasownik posiłkowy/modalny/be) zdania głównego, nigdy czasownik główny: She has finished, hasn't she? (nie: doesn't she); They can swim, can't they?"
+      },
+      {
+        "label": "Brak operatora → do/does/did",
+        "text": "Gdy zdanie główne jest w Present Simple lub Past Simple bez czasownika posiłkowego, tag używa do/does/did: He likes tea, doesn't he? They left early, didn't they?"
+      },
+      {
+        "label": "Zaimek w tagu",
+        "text": "Podmiot rzeczownikowy zastępujemy w tagu odpowiednim zaimkiem: Tom is late, isn't he? The children were asleep, weren't they? This is yours, isn't it?"
+      }
+    ],
+    "usage": [
+      "Standardowa konstrukcja pytania dodanego przy zdaniach z jasną biegunowością (twierdzącej lub przeczącej)",
+      "Tag zawsze odzwierciedla czas i operator zdania głównego, nigdy nie wprowadza nowego czasu ani znaczenia modalnego",
+      "W mowie potocznej tag pełni funkcję sprawdzenia lub podtrzymania rozmowy, nie jest prawdziwym pytaniem o informację"
+    ],
+    "tags": ["question tag", "polarity", "aren't you", "doesn't he", "auxiliary matching"],
+    "examples": [
+      { "en": "You're coming to the party, aren't you?", "pl": "Przyjdziesz na imprezę, prawda?" },
+      { "en": "She doesn't eat meat, does she?", "pl": "Ona nie je mięsa, prawda?" },
+      { "en": "They've already left, haven't they?", "pl": "Oni już wyjechali, prawda?" },
+      { "en": "He can't drive, can he?", "pl": "On nie umie prowadzić, prawda?" }
+    ]
+  },
+  {
+    "id": "intonation_meaning",
+    "order": 2,
+    "nameEn": "Intonation: real question vs. confirmation",
+    "namePl": "Intonacja: prawdziwe pytanie a prośba o potwierdzenie",
+    "rules": [
+      {
+        "label": "Intonacja wznosząca ↗",
+        "text": "Gdy mówiący naprawdę nie zna odpowiedzi i pyta szczerze, tag wymawia się z intonacją wznoszącą — funkcjonuje jak zwykłe pytanie ogólne: You locked the door, didn't you? ↗ (nie jestem pewien, pytam naprawdę)"
+      },
+      {
+        "label": "Intonacja opadająca ↘",
+        "text": "Gdy mówiący jest przekonany o odpowiedzi i tylko szuka potwierdzenia lub zaprasza rozmówcę do zgody, tag wymawia się z intonacją opadającą: It's a beautiful day, isn't it? ↘ (oczekuję zgody, nie informacji)"
+      },
+      {
+        "label": "Ta sama forma, różna funkcja",
+        "text": "Forma gramatyczna tagu jest identyczna niezależnie od intonacji — to właśnie intonacja, a nie budowa zdania, niesie różnicę znaczenia między pytaniem informacyjnym a podtrzymaniem rozmowy (phatic function)"
+      }
+    ],
+    "usage": [
+      "Intonacja opadająca: small talk, komentarze o pogodzie, szukanie aprobaty rozmówcy — 'Nice weather, isn't it?'",
+      "Intonacja wznosząca: prawdziwa niepewność, sprawdzanie faktu, którego mówiący nie jest pewien",
+      "W pisanym tekście funkcję rozróżnia kontekst i interpunkcja, ale native speakerzy polegają głównie na intonacji w mowie"
+    ],
+    "tags": ["rising intonation", "falling intonation", "phatic", "confirmation", "genuine question"],
+    "examples": [
+      { "en": "This is your bag, isn't it? ↗ (I'm not sure whose it is)", "pl": "To twoja torba, prawda? (nie jestem pewien, pytam)" },
+      { "en": "Lovely evening, isn't it? ↘ (making conversation)", "pl": "Cudowny wieczór, prawda? (podtrzymuję rozmowę)" },
+      { "en": "You've met before, haven't you? ↗ (genuinely checking)", "pl": "Poznaliście się już wcześniej, prawda? (rzeczywiście sprawdzam)" },
+      { "en": "That was a great film, wasn't it? ↘ (inviting agreement)", "pl": "To był świetny film, prawda? (zapraszam do zgody)" }
+    ]
+  },
+  {
+    "id": "negative_words",
+    "order": 3,
+    "nameEn": "Hidden negatives: never, nobody, hardly, little",
+    "namePl": "Ukryte przeczenia: never, nobody, hardly, little",
+    "rules": [
+      {
+        "label": "Zdanie semantycznie przeczące",
+        "text": "Zdania zawierające never, nobody/no one, nothing, hardly, scarcely, barely, few, little (bez 'a') są TREŚCIOWO przeczące, mimo że gramatycznie nie mają 'not' — dostają więc tag TWIERDZĄCY, tak jak zdania z 'not'."
+      },
+      {
+        "label": "nobody/no one/nothing jako podmiot",
+        "text": "Gdy podmiotem jest nobody, no one, nothing lub everybody/everyone/everything, w tagu używamy zaimka 'they' (dla osób) lub 'it' (dla rzeczy), niezależnie od formalnie liczby pojedynczej czasownika: Nobody called, did they? Everything is ready, isn't it?"
+      },
+      {
+        "label": "hardly / scarcely / barely",
+        "text": "Te przysłówki częstotliwości/stopnia działają jak ukryte 'not' i wymagają tagu twierdzącego: He hardly ever complains, does he? She can hardly walk, can she?"
+      }
+    ],
+    "usage": [
+      "Rozpoznawanie 'ukrytych' przeczeń, które nie zawierają słowa 'not', ale semantycznie negują zdanie",
+      "Poprawny dobór zaimka zbiorowego (they/it) dla podmiotów typu nobody/everybody/nothing/everything",
+      "Częsty błąd uczących się: dopasowanie tagu do gramatycznej (nie semantycznej) polarności zdania"
+    ],
+    "tags": ["never", "nobody", "hardly", "little", "hidden negative", "semantic negation"],
+    "examples": [
+      { "en": "She never calls me, does she?", "pl": "Ona nigdy do mnie nie dzwoni, prawda?" },
+      { "en": "Nobody understood the joke, did they?", "pl": "Nikt nie zrozumiał żartu, prawda?" },
+      { "en": "He can hardly hear us, can he?", "pl": "On ledwo nas słyszy, prawda?" },
+      { "en": "There's little hope left, is there?", "pl": "Zostało mało nadziei, prawda?" }
+    ]
+  },
+  {
+    "id": "special_verbs",
+    "order": 4,
+    "nameEn": "Special cases: I am, let's, imperatives",
+    "namePl": "Przypadki specjalne: I am, let's, tryb rozkazujący",
+    "rules": [
+      {
+        "label": "am I → aren't I",
+        "text": "Wyjątek gramatyczny: 'I am' w zdaniu twierdzącym dostaje tag 'aren't I?', nie 'amn't I?' (choć amn't I występuje w niektórych dialektach nieformalnie): I'm right, aren't I?"
+      },
+      {
+        "label": "Let's → shall we",
+        "text": "Po propozycji z 'Let's' tag to zawsze 'shall we?', niezależnie od reszty zdania: Let's have a coffee, shall we? Let's not argue about it, shall we?"
+      },
+      {
+        "label": "Tryb rozkazujący → will you / won't you",
+        "text": "Polecenia i prośby (tryb rozkazujący) dostają tag 'will you?' (neutralnie/stanowczo) lub 'won't you?' (jako uprzejme zaproszenie); przeczący rozkaz zawsze dostaje 'will you?': Close the door, will you? Have a seat, won't you? Don't be late, will you?"
+      },
+      {
+        "label": "there is/are → there",
+        "text": "Gdy podmiotem jest konstrukcja egzystencjalna 'there is/are', tag powtarza 'there', nie zaimek: There's a problem, isn't there? There weren't many people, were there?"
+      },
+      {
+        "label": "used to",
+        "text": "'Used to' jako czasownik w Past Simple tworzy tag z 'did': You used to live here, didn't you?"
+      }
+    ],
+    "usage": [
+      "am I → aren't I: jedyny nieregularny przypadek dopasowania operatora w standardowym angielskim",
+      "let's → shall we: stała, niezmienna forma tagu po propozycjach z let's",
+      "tryb rozkazujący → will you/won't you: łagodzi polecenie, czyni je uprzejmiejszym lub bardziej stanowczym w zależności od intonacji",
+      "there is/are → there: podmiot formalny 'there' zachowuje się jak zaimek osobowy w tagu"
+    ],
+    "tags": ["aren't I", "shall we", "will you", "won't you", "there isn't there", "imperative tag"],
+    "examples": [
+      { "en": "I'm invited too, aren't I?", "pl": "Ja też jestem zaproszony, prawda?" },
+      { "en": "Let's go for a walk, shall we?", "pl": "Chodźmy na spacer, dobrze?" },
+      { "en": "Pass me the salt, will you?", "pl": "Podaj mi sól, dobrze?" },
+      { "en": "There's no milk left, is there?", "pl": "Nie ma już mleka, prawda?" }
+    ]
+  },
+  {
+    "id": "same_polarity_tags",
+    "order": 5,
+    "nameEn": "Same-polarity tags: sarcasm, surprise, realisation",
+    "namePl": "Tagi o tej samej biegunowości: sarkazm, zdziwienie, konstatacja",
+    "rules": [
+      {
+        "label": "Twierdzenie + tag twierdzący",
+        "text": "W nieformalnej, ekspresywnej mowie brytyjskiej zdanie twierdzące może dostać RÓWNIEŻ twierdzący tag (zamiast oczekiwanego przeczącego), by wyrazić zdziwienie, oburzenie, sarkazm lub nagłą konstatację, a nie prosić o potwierdzenie: So you think you're clever, do you? (nie pyta — wyraża sceptycyzm/irytację)"
+      },
+      {
+        "label": "Odmienna funkcja komunikacyjna",
+        "text": "Ten wzorzec NIE prosi o informację ani potwierdzenie — sygnalizuje postawę mówiącego (sarkazm, groźbę, złość, ironiczne zdziwienie) wobec tego, co przed chwilą usłyszał lub zaobserwował"
+      },
+      {
+        "label": "Kontrast z tagiem przeczącym",
+        "text": "Porównaj: 'You're leaving, aren't you?' (neutralne pytanie/potwierdzenie) vs. 'Oh, you're leaving, are you?' (z ironicznym/oburzonym tonem — 'więc jednak wychodzisz, tak?')"
+      }
+    ],
+    "usage": [
+      "Rejestr silnie nieformalny, mówiony, głównie brytyjski angielski",
+      "Wyrażanie sarkazmu, groźby lub ironii: 'Oh, so you broke it, did you?'",
+      "Wyrażanie nagłego zrozumienia/konstatacji na podstawie czyjejś wypowiedzi lub zachowania",
+      "Nie należy mylić z błędem gramatycznym — to świadomy, celowy wzorzec retoryczny, nie standardowa reguła odwróconej biegunowości"
+    ],
+    "tags": ["same polarity", "sarcasm", "irony", "so you think", "attitude marker"],
+    "examples": [
+      { "en": "Oh, you think that's funny, do you?", "pl": "Aha, myślisz, że to śmieszne, tak?" },
+      { "en": "So you're the one who ate my lunch, are you?", "pl": "A więc to ty zjadłeś mój lunch, tak?" },
+      { "en": "You want to fight, do you?", "pl": "Chcesz się bić, tak?" },
+      { "en": "Oh, it's like that, is it?", "pl": "Ach, tak to wygląda, tak?" }
+    ]
+  }
+]
