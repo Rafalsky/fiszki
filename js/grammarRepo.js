@@ -136,6 +136,7 @@ const THEORY_URLS = {
   compound_adjectives: new URL("../data/compound_adjectives.json", import.meta.url),
   elative: new URL("../data/elative.json", import.meta.url),
   multiplicative_comparison: new URL("../data/multiplicative_comparison.json", import.meta.url),
+  indefinite_article_inversion: new URL("../data/indefinite_article_inversion.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -267,6 +268,7 @@ const DRILLS_URLS = {
   compound_adjectives: new URL("../data/compound_adjectivesDrills.json", import.meta.url),
   elative: new URL("../data/elativeDrills.json", import.meta.url),
   multiplicative_comparison: new URL("../data/multiplicative_comparisonDrills.json", import.meta.url),
+  indefinite_article_inversion: new URL("../data/indefinite_article_inversionDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

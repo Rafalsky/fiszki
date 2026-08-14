@@ -894,5 +894,12 @@
     "title": "Porównania wielokrotności",
     "desc": "twice as...as, three times as...as, half the size of — wyrażanie wielokrotności w porównaniach, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "indefinite_article_inversion",
+    "icon": "↔️",
+    "title": "Inwersja przymiotnika i przedimka",
+    "desc": "too/so/as/how + przymiotnik + a/an + rzeczownik (too difficult a task, so good a film, as good a chance, how strange a coincidence) — kiedy przymiotnik wyprzedza przedimek nieokreślony, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
