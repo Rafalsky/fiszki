@@ -1,0 +1,96 @@
+[
+  {
+    "id": "plural_measure_genitive",
+    "order": 1,
+    "nameEn": "Genitive with plural time/measure nouns",
+    "namePl": "Dopełniacz z rzeczownikiem miary/czasu w liczbie mnogiej",
+    "rules": [
+      { "label": "Forma", "text": "Rzeczownik miary lub czasu w liczbie mnogiej + sam apostrof (bez dodatkowego s, bo liczba mnoga już kończy się na -s): two weeks' notice, three days' journey, ten years' experience" },
+      { "label": "Struktura", "text": "liczebnik/określnik + rzeczownik miary (l.mn.) + ' + rzeczownik posiadany: six months' salary, several hours' delay, a few days' rest" },
+      { "label": "Pominięcie rzeczownika posiadanego", "text": "Rzeczownik posiadany można pominąć, gdy jest oczywisty z kontekstu, zwłaszcza w utartej frazie in ... time: We'll be back in two years' time (= za dwa lata)" }
+    ],
+    "usage": [
+      "Rejestr formalny, głównie pisany: umowy, ogłoszenia, artykuły prasowe (a two weeks' notice period, three months' rent in advance)",
+      "Wyrażenia z 'in ... time': in a few years' time, in two months' time = za dany okres",
+      "Typowe rzeczowniki posiadane: notice, warning, holiday, experience, journey, wait, delay, rest, salary",
+      "W mowie potocznej często zastępowany przymiotnikiem złożonym (a two-week holiday) — patrz temat 'Dopełniacz a przymiotnik złożony'"
+    ],
+    "tags": ["two weeks' notice", "in two years' time", "six months' experience", "several hours' delay"],
+    "examples": [
+      { "en": "You need to give two weeks' notice before leaving this job.", "pl": "Musisz złożyć dwutygodniowe wypowiedzenie przed odejściem z tej pracy." },
+      { "en": "We'll be back in three days' time.", "pl": "Wrócimy za trzy dni." },
+      { "en": "The company requires six months' experience for this position.", "pl": "Firma wymaga sześciu miesięcy doświadczenia na to stanowisko." },
+      { "en": "After several hours' delay, the flight finally departed.", "pl": "Po kilkugodzinnym opóźnieniu lot w końcu wystartował." }
+    ]
+  },
+  {
+    "id": "singular_measure_genitive",
+    "order": 2,
+    "nameEn": "Genitive with singular time/measure nouns",
+    "namePl": "Dopełniacz z rzeczownikiem miary/czasu w liczbie pojedynczej",
+    "rules": [
+      { "label": "Forma", "text": "Rzeczownik miary lub czasu w liczbie pojedynczej + 's, dokładnie jak zwykły dopełniacz saksoński z osobą: a day's work, an hour's delay, a moment's notice" },
+      { "label": "Przedimek", "text": "Zwykle poprzedzony przedimkiem nieokreślonym a/an, bo chodzi o jedną jednostkę: a week's holiday, a night's sleep, a moment's thought" },
+      { "label": "Posiadacz nieżywotny", "text": "Struktura identyczna jak dopełniacz osobowy, ale 'posiadaczem' jest tu jednostka czasu, odległości lub abstrakcyjna chwila, nie osoba ani zwierzę" }
+    ],
+    "usage": [
+      "Utarte wyrażenia: a day's work, a night's sleep, a week's holiday, a moment's hesitation, a moment's notice, a moment's peace",
+      "Odległość i czas podróży: The town is about an hour's drive from here. / It's a ten-minute walk (tu już przymiotnik złożony, patrz kolejny temat)",
+      "Z rzeczownikami abstrakcyjnymi: a moment's thought, a moment's silence, a moment's hesitation"
+    ],
+    "tags": ["a day's work", "a night's sleep", "an hour's drive", "a moment's notice"],
+    "examples": [
+      { "en": "I need a good night's sleep before the exam.", "pl": "Potrzebuję dobrze się wyspać przed egzaminem." },
+      { "en": "The town is about an hour's drive from here.", "pl": "Miasteczko jest jakąś godzinę drogi stąd." },
+      { "en": "She gave it a moment's thought before answering.", "pl": "Zastanowiła się chwilę, zanim odpowiedziała." },
+      { "en": "He handed in his resignation without a day's notice.", "pl": "Złożył wypowiedzenie bez jednodniowego uprzedzenia." }
+    ]
+  },
+  {
+    "id": "genitive_vs_compound_adjective",
+    "order": 3,
+    "nameEn": "Genitive vs. compound adjective",
+    "namePl": "Dopełniacz miary a przymiotnik złożony",
+    "rules": [
+      { "label": "Przymiotnik złożony", "text": "liczebnik + rzeczownik miary w liczbie POJEDYNCZEJ, połączone łącznikami, stoi PRZED rzeczownikiem: a two-week holiday, a ten-minute break, a five-hour delay" },
+      { "label": "Dopełniacz miary", "text": "rzeczownik miary w liczbie MNOGIEJ (jeśli >1) + apostrof, bez łącznika: two weeks' holiday, ten minutes' break, five hours' delay" },
+      { "label": "Kontrast z użyciem orzecznikowym", "text": "Nie myl obu form ze zwykłym dopełnieniem czasownika bez przymiotnika ani dopełniacza: The holiday lasted two weeks (zwykła liczba mnoga jako dopełnienie czasownika last, bez łącznika i bez apostrofu)" }
+    ],
+    "usage": [
+      "Obie formy — przymiotnik złożony i dopełniacz — są poprawne i zwykle wymienne znaczeniowo",
+      "Przymiotnik złożony (a two-week holiday) jest częstszy w mowie potocznej i pismie nieformalnym",
+      "Dopełniacz (two weeks' holiday) brzmi bardziej formalnie i częściej pojawia się w piśmie urzędowym, umowach, ogłoszeniach",
+      "Test: przed rzeczownikiem i bez apostrofu → liczba pojedyncza + łącznik (compound adjective); z apostrofem → liczba zgodna z wartością (genitive)"
+    ],
+    "tags": ["a two-week holiday", "two weeks' holiday", "a ten-minute walk", "ten minutes' walk"],
+    "examples": [
+      { "en": "We're planning a two-week holiday in Italy.", "pl": "Planujemy dwutygodniowe wakacje we Włoszech." },
+      { "en": "We're planning two weeks' holiday in Italy.", "pl": "Planujemy dwa tygodnie wakacji we Włoszech." },
+      { "en": "It was a ten-minute walk to the station.", "pl": "Do stacji było dziesięć minut piechotą." },
+      { "en": "They offered him a three-month contract, starting three months' work from Monday.", "pl": "Zaoferowali mu trzymiesięczny kontrakt, zaczynając trzy miesiące pracy od poniedziałku." }
+    ]
+  },
+  {
+    "id": "fixed_idiomatic_genitives",
+    "order": 4,
+    "nameEn": "Fixed idiomatic genitive expressions",
+    "namePl": "Utrwalone wyrażenia idiomatyczne z dopełniaczem",
+    "rules": [
+      { "label": "Idiomy odległości i miary", "text": "Wiele utartych zwrotów zachowało strukturę dopełniacza, choć nie chodzi dosłownie o czas: a stone's throw (bardzo blisko), a hair's breadth (o włos), at a snail's pace (bardzo wolno)" },
+      { "label": "for + rzeczownik na -s + sake", "text": "Gdy rzeczownik przed 'sake' kończy się na -s, dodajemy tylko apostrof, bez dodatkowego s: for goodness' sake, for old times' sake; z rzeczownikiem bez -s dodajemy pełne 's: for heaven's sake, for God's sake" },
+      { "label": "Traktuj jako całość", "text": "Te zwroty ucz się jako gotowe, niezmienne frazy — nie próbuj rozkładać ich na osobne reguły miary/czasu, bo znaczenie jest przenośne, nie dosłowne" }
+    ],
+    "usage": [
+      "Częste w mowie potocznej mimo formalnej struktury gramatycznej: a stone's throw away, at arm's length, at death's door",
+      "Wykrzyknienia i wzmocnienia emocjonalne: For goodness' sake, hurry up! / For heaven's sake, be quiet!",
+      "Sentymentalne odniesienia do przeszłości: We still meet once a year, for old times' sake"
+    ],
+    "tags": ["a stone's throw", "for goodness' sake", "at arm's length", "a hair's breadth"],
+    "examples": [
+      { "en": "We live just a stone's throw from the beach.", "pl": "Mieszkamy o rzut kamieniem od plaży." },
+      { "en": "For heaven's sake, calm down!", "pl": "Na miłość boską, uspokój się!" },
+      { "en": "He always keeps people at arm's length.", "pl": "Zawsze trzyma ludzi na dystans." },
+      { "en": "She survived the accident by a hair's breadth.", "pl": "Przeżyła wypadek o włos." }
+    ]
+  }
+]
