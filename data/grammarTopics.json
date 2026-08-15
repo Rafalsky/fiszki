@@ -1048,5 +1048,12 @@
     "title": "Elipsa sytuacyjna",
     "desc": "Pomijanie podmiotu i/lub operatora na początku zdania w mowie potocznej (Seen John? / Sounds good / Hope you don't mind) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "invariable_nouns",
+    "icon": "👓",
+    "title": "Rzeczowniki o stałej liczbie",
+    "desc": "Rzeczowniki zawsze w liczbie mnogiej (scissors, police, cattle) i pozornie mnogie, a gramatycznie pojedyncze (mathematics, news, measles) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "pluralia_tantum_pairs",
+    "order": 1,
+    "nameEn": "Pluralia tantum — paired tools and clothing",
+    "namePl": "Rzeczowniki zawsze mnogie — narzędzia i ubrania z dwóch części",
+    "rules": [
+      { "label": "Forma", "text": "Rzeczowniki oznaczające przedmioty złożone z dwóch identycznych, połączonych części (scissors, trousers, jeans, glasses, pyjamas, binoculars, pliers, tights, shorts, tongs) istnieją WYŁĄCZNIE w liczbie mnogiej — nie ma form 'a scissor', 'a trouser'" },
+      { "label": "Czasownik", "text": "Zawsze łączą się z czasownikiem w liczbie mnogiej, nawet gdy chodzi o jedną sztukę: These scissors are sharp. / My trousers are too long." },
+      { "label": "Liczenie", "text": "Żeby policzyć taki przedmiot, używamy 'a pair of' (a pair of scissors, two pairs of jeans) — wtedy czasownik zgadza się z 'pair', nie z rzeczownikiem: This pair of scissors is blunt." },
+      { "label": "Brak liczebnika wprost", "text": "Nie łączymy tych rzeczowników bezpośrednio z liczebnikiem (nie 'two scissors', tylko 'two pairs of scissors'); można natomiast użyć these/those/some bez liczebnika: these glasses, some pliers" }
+    ],
+    "usage": [
+      "Typowe narzędzia z dwóch ramion: scissors, pliers, tweezers, tongs, scales",
+      "Odzież z dwóch nogawek: trousers, jeans, shorts, pyjamas, tights",
+      "Akcesoria optyczne z dwóch szkieł: glasses, spectacles, binoculars, goggles",
+      "Uwaga na różnicę BrE/AmE: w AmE 'pants' = spodnie (BrE trousers), a w BrE 'pants' = bielizna — to fałszywy przyjaciel"
+    ],
+    "tags": ["scissors are", "a pair of trousers", "these glasses", "two pairs of jeans"],
+    "examples": [
+      { "en": "These scissors are too blunt to cut this paper.", "pl": "Te nożyczki są zbyt tępe, żeby przeciąć ten papier." },
+      { "en": "My trousers are ripped at the knee.", "pl": "Moje spodnie są rozdarte w kolanie." },
+      { "en": "I need a new pair of glasses.", "pl": "Potrzebuję nowych okularów." },
+      { "en": "She packed three pairs of jeans for the trip.", "pl": "Spakowała trzy pary dżinsów na wyjazd." }
+    ]
+  },
+  {
+    "id": "singular_s_ending_nouns",
+    "order": 2,
+    "nameEn": "Nouns ending in -s but grammatically singular",
+    "namePl": "Rzeczowniki zakończone na -s, ale gramatycznie pojedyncze",
+    "rules": [
+      { "label": "Nazwy dziedzin i gier", "text": "Dziedziny nauki i niektóre gry kończące się na -ics (mathematics, physics, economics, politics, athletics, gymnastics, statistics, ethics) oraz kilka innych rzeczowników na -s (news, billiards, darts) wyglądają jak liczba mnoga, ale są niepoliczalne i gramatycznie pojedyncze" },
+      { "label": "Czasownik", "text": "Łączą się z czasownikiem w liczbie pojedynczej: Mathematics is my favourite subject. / Physics was never easy for me. / The news is on at nine." },
+      { "label": "Znaczenie podwójne", "text": "Economics, politics, statistics jako nazwa dziedziny = liczba pojedyncza; te same słowa jako konkretne poglądy/dane = liczba mnoga: His politics are quite radical. / The statistics are alarming." },
+      { "label": "Choroby", "text": "Kilka nazw chorób również kończy się na -s i jest gramatycznie pojedynczych: measles, mumps, shingles, rabies — She has measles (nie 'have')." }
+    ],
+    "usage": [
+      "Przedmioty szkolne/akademickie: Mathematics is compulsory until the age of 16.",
+      "Nazwy gier: Billiards is played on a large green table. / Darts is popular in British pubs.",
+      "Wiadomości: No news is good news.",
+      "Choroby: Mumps can cause serious complications in adults.",
+      "Kontrast: economics/politics/statistics jako dziedzina = l.poj.; jako konkretne dane/opinie = l.mnoga"
+    ],
+    "tags": ["mathematics is", "the news is", "politics is/are", "she has measles"],
+    "examples": [
+      { "en": "Physics has always fascinated me.", "pl": "Fizyka zawsze mnie fascynowała." },
+      { "en": "The news about the merger is surprising.", "pl": "Wiadomość o fuzji jest zaskakująca." },
+      { "en": "Statistics is a required course for economics students.", "pl": "Statystyka jest obowiązkowym przedmiotem dla studentów ekonomii." },
+      { "en": "My grandmother caught shingles last winter.", "pl": "Moja babcia zachorowała na półpaśca zeszłej zimy." }
+    ]
+  },
+  {
+    "id": "invariable_plural_collectives",
+    "order": 3,
+    "nameEn": "Collective nouns with no singular form",
+    "namePl": "Rzeczowniki zbiorowe bez formy pojedynczej",
+    "rules": [
+      { "label": "Forma", "text": "Niektóre rzeczowniki oznaczające grupy ludzi lub zwierząt nie mają w ogóle formy pojedynczej, choć nie kończą się na -s: police, cattle, people, vermin" },
+      { "label": "Czasownik", "text": "Zawsze łączą się z czasownikiem w liczbie mnogiej, nawet gdy mówimy o grupie jako całości: The police are investigating the case. / Cattle graze in the field. / Vermin are a serious problem on this farm." },
+      { "label": "Forma pojedyncza zastępcza", "text": "Żeby mówić o jednej osobie/sztuce, używamy zupełnie innego słowa: a police officer (nie 'a police'), a cow/bull (nie 'a cattle'), a person (nie 'a people' w tym znaczeniu — 'a people' istnieje, ale znaczy 'naród')" },
+      { "label": "Kontrast z regularną liczbą mnogą", "text": "Te rzeczowniki nie powstały przez dodanie -s do formy pojedynczej — są mnogie 'z natury', dlatego nie mają odpowiednika w liczbie pojedynczej do 'odjęcia' końcówki" }
+    ],
+    "usage": [
+      "Wiadomości i sprawy kryminalne: The police have arrested three suspects.",
+      "Rolnictwo: The cattle were moved to the north field yesterday.",
+      "Szkodniki: Vermin have infested the old barn.",
+      "People jako liczba mnoga od 'person': Many people were waiting outside — zawsze liczba mnoga w tym znaczeniu"
+    ],
+    "tags": ["the police are", "cattle graze", "many people were", "vermin are"],
+    "examples": [
+      { "en": "The police are looking for two suspects.", "pl": "Policja szuka dwóch podejrzanych." },
+      { "en": "The cattle were grazing peacefully in the meadow.", "pl": "Bydło pasło się spokojnie na łące." },
+      { "en": "A lot of people were disappointed with the result.", "pl": "Wielu ludzi było rozczarowanych wynikiem." },
+      { "en": "Vermin have been spotted near the storage barn.", "pl": "W pobliżu magazynu zauważono szkodniki." }
+    ]
+  }
+]
