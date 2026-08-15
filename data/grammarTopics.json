@@ -1034,5 +1034,12 @@
     "title": "Struktura równoległa (parallelism)",
     "desc": "Zachowanie tej samej formy gramatycznej w wyliczeniach, po spójnikach korelacyjnych (not only...but also, either...or) i w porównaniach (as...as, than) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 32
+  },
+  {
+    "id": "contrastive_while_whereas",
+    "icon": "🌗",
+    "title": "While / whereas",
+    "desc": "while i whereas jako spójniki kontrastu (nie czasu, nie ustępstwa) — zestawianie dwóch równoległych faktów, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
