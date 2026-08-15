@@ -1,0 +1,77 @@
+[
+  {
+    "id": "verb_possessive_way",
+    "order": 1,
+    "nameEn": "Verb + possessive + 'way' + directional phrase — the core pattern",
+    "namePl": "Czasownik + zaimek dzierżawczy + 'way' + fraza kierunkowa — konstrukcja podstawowa",
+    "rules": [
+      { "label": "Wzór zdania", "text": "podmiot + czasownik sposobu poruszania się + zaimek dzierżawczy (my/your/his/her/its/our/their) + way + fraza przyimkowa kierunkowa: She pushed her way through the crowd." },
+      { "label": "Zaimek dzierżawczy musi zgadzać się z podmiotem", "text": "'way' zawsze poprzedzone jest zaimkiem dzierżawczym odnoszącym się do podmiotu zdania, nigdy przedimkiem: He forced his way in. (nie: He forced the way in / He forced a way in)" },
+      { "label": "Czasownik opisuje SPOSÓB, 'way' + PP opisuje TRASĘ", "text": "Sam czasownik (push, fight, elbow, thread, force, claw, worm) mówi JAK ktoś się porusza, a fraza przyimkowa po 'way' mówi DOKĄD — razem tworzą znaczenie 'przedostać się gdzieś, pokonując opór'" },
+      { "label": "Fraza kierunkowa jest obowiązkowa", "text": "Konstrukcja wymaga frazy przyimkowej określającej trasę lub cel (through, into, across, out of, up, down, to): He pushed his way through the crowd, nie samo *He pushed his way" }
+    ],
+    "usage": [
+      "Opisywanie mozolnego, wymagającego wysiłku przemieszczania się przez przeszkodę fizyczną (tłum, teren, przeszkody)",
+      "Czasowniki typowe dla tej konstrukcji: push, force, fight, elbow, shoulder, shove, thread, pick, feel, claw, worm, muscle, inch, wind, make",
+      "Podkreślanie trudności i determinacji, nie samego faktu przemieszczenia się",
+      "Częste w relacjach z wydarzeń, reportażach i opisach akcji (He fought his way to the front of the queue.)"
+    ],
+    "tags": ["pushed her way through", "fought his way to", "forced their way into", "picked our way across"],
+    "examples": [
+      { "en": "She pushed her way through the dense crowd to reach the stage.", "pl": "Przepchnęła się przez gęsty tłum, żeby dotrzeć do sceny." },
+      { "en": "The soldiers picked their way carefully across the minefield.", "pl": "Żołnierze ostrożnie przedzierali się przez pole minowe." },
+      { "en": "He forced his way into the locked building through a side window.", "pl": "Wdarł się siłą do zamkniętego budynku przez boczne okno." },
+      { "en": "We threaded our way through the narrow alleys of the old town.", "pl": "Przemykaliśmy się wąskimi uliczkami starego miasta." }
+    ]
+  },
+  {
+    "id": "figurative_way",
+    "order": 2,
+    "nameEn": "Figurative uses — achieving an abstract goal by a particular manner",
+    "namePl": "Użycia przenośne — osiąganie abstrakcyjnego celu przez określony sposób działania",
+    "rules": [
+      { "label": "Ta sama struktura, cel niematerialny", "text": "Wzór zostaje identyczny (czasownik + zaimek dzierżawczy + way + fraza kierunkowa), ale 'przeszkoda' i 'trasa' są abstrakcyjne: talk/lie/charm/buy/bribe/flirt/joke/worm one's way out of/into/through something" },
+      { "label": "Czasownik mówi, JAKIMI ŚRODKAMI cel został osiągnięty", "text": "He talked his way out of trouble. — czasownik 'talk' wskazuje NARZĘDZIE (rozmowa, gadanina), którym uniknął kłopotów, nie samą czynność mówienia" },
+      { "label": "Częste cele: kariera, uniknięcie konsekwencji, wejście gdzieś, gdzie nie powinno się wejść", "text": "work one's way up (piąć się w karierze), talk/lie/charm one's way out of trouble (uniknąć konsekwencji), buy/bribe one's way into (dostać się dzięki pieniądzom/łapówce), worm/weasel one's way into (wkraść się podstępnie)" },
+      { "label": "Odcień oceniający", "text": "Wybór czasownika często niesie ocenę sposobu działania — 'charm' i 'talk' brzmią zręcznie, 'bribe' i 'worm' brzmią nagannie, choć struktura gramatyczna jest identyczna" }
+    ],
+    "usage": [
+      "Opisywanie, jak ktoś osiągnął cel dzięki określonej umiejętności lub taktyce, a nie fizycznemu ruchowi",
+      "Kariera i awans: work/climb one's way up (from intern to manager)",
+      "Unikanie kłopotów lub konsekwencji: talk/lie/wriggle one's way out of something",
+      "Podstępne lub nieuczciwe dostanie się gdzieś: buy/bribe/worm/weasel one's way into"
+    ],
+    "tags": ["talked his way out of trouble", "charmed her way into", "worked their way up", "bought his way into"],
+    "examples": [
+      { "en": "He talked his way out of trouble with the police.", "pl": "Wygadał się z kłopotów z policją." },
+      { "en": "She charmed her way into the director's office without an appointment.", "pl": "Wkradła się swoim urokiem do gabinetu dyrektora bez umówionej wizyty." },
+      { "en": "He worked his way up from intern to CEO in fifteen years.", "pl": "Wypracował sobie awans od stażysty do prezesa w piętnaście lat." },
+      { "en": "The company was accused of buying its way into the local market.", "pl": "Firmę oskarżono o przekupienie sobie drogi na lokalny rynek." }
+    ]
+  },
+  {
+    "id": "way_construction_constraints",
+    "order": 3,
+    "nameEn": "Grammatical constraints: why 'way' behaves unlike a normal object",
+    "namePl": "Ograniczenia gramatyczne: dlaczego 'way' nie zachowuje się jak zwykłe dopełnienie",
+    "rules": [
+      { "label": "Brak strony biernej", "text": "Choć 'way' stoi w pozycji dopełnienia, konstrukcja NIE tworzy strony biernej: *Her way was pushed through the crowd jest niegramatyczne — 'way' nie jest prawdziwym odbiorcą czynności, tylko markerem trasy" },
+      { "label": "Kontrast z neutralnym czasownikiem ruchu", "text": "She walked through the crowd. (neutralnie, bez trudu) vs She pushed her way through the crowd. (z wysiłkiem, pokonując opór) — dodanie 'way' zawsze wnosi znaczenie mozołu, przeszkody lub determinacji" },
+      { "label": "Czasownik nie musi być normalnie przechodni", "text": "push, fight, worm, inch, claw nie wymagają zwykle dopełnienia w innych kontekstach (He fought bravely.), ale w konstrukcji 'way' zachowują się jak przechodnie właśnie dzięki 'way' jako sztucznemu, ustalonemu dopełnieniu" },
+      { "label": "Nie da się pominąć zaimka dzierżawczego ani zastąpić go przedimkiem", "text": "*He pushed a way through / *He pushed the way through są błędne — jedyna poprawna forma to zaimek dzierżawczy zgodny z podmiotem" }
+    ],
+    "usage": [
+      "Rozpoznawanie, że 'way' w tej konstrukcji nie jest zwykłym rzeczownikiem-dopełnieniem, tylko ustalonym elementem gramatycznym",
+      "Unikanie typowego błędu: użycia strony biernej lub przedimka zamiast zaimka dzierżawczego",
+      "Świadomy wybór między neutralnym czasownikiem ruchu a konstrukcją 'way', gdy chcemy podkreślić trud lub przeszkodę",
+      "Analiza znaczenia: konstrukcja zawsze sugeruje pokonywanie oporu, nawet gdy dosłowne znaczenie czasownika na to nie wskazuje"
+    ],
+    "tags": ["no passive with way", "possessive obligatory", "pushed her way (not the way)", "effortful vs neutral motion"],
+    "examples": [
+      { "en": "They fought their way back to the top of the league after years of decline.", "pl": "Po latach spadku znów wywalczyli sobie drogę na szczyt ligi." },
+      { "en": "I had to elbow my way onto the packed train.", "pl": "Musiałam się przepchnąć łokciami do zatłoczonego pociągu." },
+      { "en": "The stream wound its way through the valley below.", "pl": "Strumień wił się przez leżącą poniżej dolinę." },
+      { "en": "You can't just push your way in without an invitation.", "pl": "Nie możesz się tak po prostu wepchnąć bez zaproszenia." }
+    ]
+  }
+]
