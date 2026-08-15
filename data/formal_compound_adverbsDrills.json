@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "here_compounds",
+    "prompt": "I ___ declare this meeting officially open.",
+    "answer": "hereby",
+    "distractors": ["thereby", "wherein", "thereof"]
+  },
+  {
+    "id": 2,
+    "itemId": "here_compounds",
+    "prompt": "The conditions set out ___ apply to all users of this website.",
+    "answer": "herein",
+    "distractors": ["thereupon", "hereby", "whereof"]
+  },
+  {
+    "id": 3,
+    "itemId": "here_compounds",
+    "prompt": "Please refer to Section 5 ___ for the full definitions.",
+    "answer": "hereof",
+    "distractors": ["thereafter", "wherein", "hereby"]
+  },
+  {
+    "id": 4,
+    "itemId": "here_compounds",
+    "prompt": "Bright Star Media Ltd. (___ 'the Publisher') shall pay royalties quarterly.",
+    "answer": "hereinafter",
+    "distractors": ["thereupon", "wherein", "heretofore"]
+  },
+  {
+    "id": 5,
+    "itemId": "here_compounds",
+    "prompt": "The undersigned ___ confirms that all details above are correct.",
+    "answer": "hereby",
+    "distractors": ["thereupon", "wherein", "thereby"]
+  },
+  {
+    "id": 6,
+    "itemId": "here_compounds",
+    "prompt": "Nothing ___ shall be read as granting additional rights to either party.",
+    "answer": "herein",
+    "distractors": ["thereof", "hereby", "whereupon"]
+  },
+  {
+    "id": 7,
+    "itemId": "here_compounds",
+    "prompt": "The company ___ waives its right to a jury trial.",
+    "answer": "hereby",
+    "distractors": ["therein", "hereof", "wherewith"]
+  },
+  {
+    "id": 8,
+    "itemId": "here_compounds",
+    "prompt": "The obligations described in Clause 9 ___ survive termination of the contract.",
+    "answer": "hereof",
+    "distractors": ["thereafter", "hereby", "whereupon"]
+  },
+  {
+    "id": 9,
+    "itemId": "here_compounds",
+    "prompt": "The parties, ___ collectively 'the Signatories', agree to the schedule below.",
+    "answer": "hereinafter",
+    "distractors": ["thereupon", "wherein", "hereof"]
+  },
+  {
+    "id": 10,
+    "itemId": "here_compounds",
+    "prompt": "All amendments to the terms ___ must be made in writing.",
+    "answer": "herein",
+    "distractors": ["thereof", "hereby", "whereupon"]
+  },
+  {
+    "id": 11,
+    "itemId": "there_compounds",
+    "prompt": "He missed the filing deadline, ___ forfeiting his right to appeal.",
+    "answer": "thereby",
+    "distractors": ["hereby", "wherein", "therein"]
+  },
+  {
+    "id": 12,
+    "itemId": "there_compounds",
+    "prompt": "The minutes of the meeting and the decisions recorded ___ were approved unanimously.",
+    "answer": "therein",
+    "distractors": ["hereby", "thereby", "whereupon"]
+  },
+  {
+    "id": 13,
+    "itemId": "there_compounds",
+    "prompt": "The buyer must pay the purchase price and any duty payable in respect ___.",
+    "answer": "thereof",
+    "distractors": ["herein", "thereupon", "wherewith"]
+  },
+  {
+    "id": 14,
+    "itemId": "there_compounds",
+    "prompt": "The visa expired in April; ___ his stay in the country was unlawful.",
+    "answer": "thereafter",
+    "distractors": ["thereby", "herein", "whereof"]
+  },
+  {
+    "id": 15,
+    "itemId": "there_compounds",
+    "prompt": "The chairman called for a vote, and the motion was ___ approved.",
+    "answer": "thereupon",
+    "distractors": ["therein", "hereby", "thereof"]
+  },
+  {
+    "id": 16,
+    "itemId": "there_compounds",
+    "prompt": "She doubled production, ___ increasing profits significantly.",
+    "answer": "thereby",
+    "distractors": ["therein", "hereinafter", "whereupon"]
+  },
+  {
+    "id": 17,
+    "itemId": "there_compounds",
+    "prompt": "The property and all fixtures attached ___ are included in the sale.",
+    "answer": "thereto",
+    "distractors": ["herein", "thereby", "whereof"]
+  },
+  {
+    "id": 18,
+    "itemId": "there_compounds",
+    "prompt": "The license was revoked in January; ___ no further sales were permitted.",
+    "answer": "thereafter",
+    "distractors": ["thereby", "herein", "wherewith"]
+  },
+  {
+    "id": 19,
+    "itemId": "there_compounds",
+    "prompt": "The witness contradicted himself, ___ weakening his own testimony.",
+    "answer": "thereby",
+    "distractors": ["thereupon", "herein", "hereof"]
+  },
+  {
+    "id": 20,
+    "itemId": "there_compounds",
+    "prompt": "The judge read the verdict, ___ the courtroom erupted in applause.",
+    "answer": "whereupon",
+    "distractors": ["thereof", "therein", "hereby"]
+  },
+  {
+    "id": 21,
+    "itemId": "wherein_whereupon_whereof",
+    "prompt": "The company issued a memo ___ it explained the new policy in detail.",
+    "answer": "wherein",
+    "distractors": ["whereby", "thereof", "hereby"]
+  },
+  {
+    "id": 22,
+    "itemId": "wherein_whereupon_whereof",
+    "prompt": "The defendant confessed, ___ the trial was brought to an abrupt end.",
+    "answer": "whereupon",
+    "distractors": ["wherein", "thereof", "hereinafter"]
+  },
+  {
+    "id": 23,
+    "itemId": "wherein_whereupon_whereof",
+    "prompt": "This is a field ___ I have spent thirty years of my career.",
+    "answer": "wherein",
+    "distractors": ["whereupon", "thereby", "whereof"]
+  },
+  {
+    "id": 24,
+    "itemId": "wherein_whereupon_whereof",
+    "prompt": "I have studied the matter closely, and I know ___ I speak.",
+    "answer": "whereof",
+    "distractors": ["wherein", "whereupon", "thereto"]
+  },
+  {
+    "id": 25,
+    "itemId": "wherein_whereupon_whereof",
+    "prompt": "The charity had plenty of ambition but not the ___ to build a new shelter.",
+    "answer": "wherewithal",
+    "distractors": ["hereof", "thereupon", "whereupon"]
+  },
+  {
+    "id": 26,
+    "itemId": "wherein_whereupon_whereof",
+    "prompt": "He signed the confession, ___ the officers immediately released him.",
+    "answer": "whereupon",
+    "distractors": ["wherein", "hereby", "therein"]
+  },
+  {
+    "id": 27,
+    "itemId": "wherein_whereupon_whereof",
+    "prompt": "The report describes a system ___ complaints are logged automatically.",
+    "answer": "wherein",
+    "distractors": ["whereof", "hereby", "thereupon"]
+  },
+  {
+    "id": 28,
+    "itemId": "wherein_whereupon_whereof",
+    "prompt": "They lacked the ___ to pay for the repairs, so the building stayed closed.",
+    "answer": "wherewithal",
+    "distractors": ["whereof", "hereof", "therein"]
+  },
+  {
+    "id": 29,
+    "itemId": "wherein_whereupon_whereof",
+    "prompt": "The board rejected the proposal, ___ the founder resigned the same day.",
+    "answer": "whereupon",
+    "distractors": ["wherein", "thereof", "hereinafter"]
+  },
+  {
+    "id": 30,
+    "itemId": "wherein_whereupon_whereof",
+    "prompt": "This is a subject ___ few people have any real expertise.",
+    "answer": "whereof",
+    "distractors": ["wherein", "whereupon", "hereby"]
+  },
+  {
+    "id": 31,
+    "itemId": "register_and_alternatives",
+    "prompt": "Legal: 'the terms set out ___' = Plain: 'the terms in this document'.",
+    "answer": "herein",
+    "distractors": ["thereby", "wherein", "whereupon"]
+  },
+  {
+    "id": 32,
+    "itemId": "register_and_alternatives",
+    "prompt": "Legal: 'the parties ___ agree to the following conditions' = Plain: 'the parties by this agree to the following conditions'.",
+    "answer": "hereby",
+    "distractors": ["thereupon", "wherein", "hereof"]
+  },
+  {
+    "id": 33,
+    "itemId": "register_and_alternatives",
+    "prompt": "Legal: 'the goods and any duty payable in respect ___' = Plain: 'the goods and any duty payable on them'.",
+    "answer": "thereof",
+    "distractors": ["herein", "whereupon", "hereto"]
+  },
+  {
+    "id": 34,
+    "itemId": "register_and_alternatives",
+    "prompt": "Legal: 'he signed the form, ___ accepting full responsibility' = Plain: 'he signed the form, and that way accepted full responsibility'.",
+    "answer": "thereby",
+    "distractors": ["hereby", "wherein", "thereof"]
+  },
+  {
+    "id": 35,
+    "itemId": "register_and_alternatives",
+    "prompt": "Legal: 'a report ___ the causes of the failure are explained' = Plain: 'a report in which the causes of the failure are explained'.",
+    "answer": "wherein",
+    "distractors": ["whereby", "thereby", "hereof"]
+  },
+  {
+    "id": 36,
+    "itemId": "register_and_alternatives",
+    "prompt": "Legal: 'she raised the objection, ___ the meeting was adjourned' = Plain: 'she raised the objection, and right after that the meeting was adjourned'.",
+    "answer": "whereupon",
+    "distractors": ["wherein", "hereby", "thereof"]
+  },
+  {
+    "id": 37,
+    "itemId": "register_and_alternatives",
+    "prompt": "Legal: 'the licence expired in June; ___ all sales were illegal' = Plain: 'the licence expired in June; after that all sales were illegal'.",
+    "answer": "thereafter",
+    "distractors": ["hereby", "wherein", "hereof"]
+  },
+  {
+    "id": 38,
+    "itemId": "register_and_alternatives",
+    "prompt": "Legal: 'Bright Ltd (___ 'the Company') shall pay royalties' = Plain: 'Bright Ltd (from now on called 'the Company') shall pay royalties'.",
+    "answer": "hereinafter",
+    "distractors": ["thereupon", "wherein", "hereof"]
+  },
+  {
+    "id": 39,
+    "itemId": "register_and_alternatives",
+    "prompt": "Legal: 'nothing ___ shall limit statutory rights' = Plain: 'nothing in this document shall limit statutory rights'.",
+    "answer": "herein",
+    "distractors": ["thereof", "whereupon", "wherewith"]
+  },
+  {
+    "id": 40,
+    "itemId": "register_and_alternatives",
+    "prompt": "These compound forms belong to a ___ register and should be avoided in everyday spoken English.",
+    "answer": "formal",
+    "distractors": ["casual", "poetic", "humorous"]
+  }
+]

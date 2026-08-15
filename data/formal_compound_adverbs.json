@@ -1,0 +1,218 @@
+[
+  {
+    "id": "here_compounds",
+    "order": 1,
+    "nameEn": "here- compounds: hereby, herein, hereof, hereinafter",
+    "namePl": "Złożenia z „here-”: hereby, herein, hereof, hereinafter",
+    "rules": [
+      {
+        "label": "here- = 'this document/matter'",
+        "text": "hereby, herein, hereof, hereinafter, heretofore to zrośnięte formy 'here' + przyimek, w których 'here' odnosi się nie do miejsca fizycznego, lecz do NINIEJSZEGO dokumentu, umowy lub aktualnie omawianej sprawy: hereby = 'by this (document/statement)', herein = 'in this (document)'."
+      },
+      {
+        "label": "hereby — 'niniejszym'",
+        "text": "hereby towarzyszy czasownikowi performatywnemu (czynności dokonywanej samym wypowiedzeniem zdania) i znaczy 'przez to, niniejszym': I hereby declare the meeting open. The parties hereby agree to the following terms."
+      },
+      {
+        "label": "herein, hereof, hereinafter — odniesienie do dokumentu",
+        "text": "herein = 'w tym (dokumencie)', hereof = 'tego (dokumentu/paragrafu)', hereinafter = 'dalej (w tym dokumencie, zwany/a)' — służą do odsyłania czytelnika do treści tego samego tekstu bez powtarzania jego nazwy: the terms set out herein; Section 3 hereof; ABC Ltd (hereinafter 'the Company')."
+      }
+    ],
+    "usage": [
+      "Formuła performatywna: I hereby resign from my position with immediate effect.",
+      "Odesłanie wewnątrz dokumentu: Any breach of the conditions herein shall void the warranty.",
+      "Odesłanie do konkretnego fragmentu: the definitions given in Clause 2 hereof.",
+      "Wprowadzenie nazwy skróconej: This Agreement (hereinafter referred to as 'the Agreement') sets out...",
+      "Poza kontekstem prawnym/urzędowym te formy brzmią archaicznie lub przesadnie formalnie — w zwykłym tekście lepiej użyć 'in this document', 'by this'."
+    ],
+    "tags": [
+      "hereby declare",
+      "herein",
+      "hereof",
+      "hereinafter referred to as"
+    ],
+    "examples": [
+      {
+        "en": "The undersigned hereby certifies that the information provided is accurate.",
+        "pl": "Niżej podpisany niniejszym zaświadcza, że podane informacje są prawdziwe."
+      },
+      {
+        "en": "Nothing herein shall be construed as a waiver of either party's rights.",
+        "pl": "Żaden zapis niniejszego dokumentu nie może być interpretowany jako zrzeczenie się praw którejkolwiek ze stron."
+      },
+      {
+        "en": "The obligations described in Section 4 hereof remain in force after termination.",
+        "pl": "Zobowiązania opisane w Sekcji 4 niniejszego dokumentu pozostają w mocy po jego rozwiązaniu."
+      },
+      {
+        "en": "Global Systems Inc. (hereinafter 'the Supplier') shall deliver the goods within 30 days.",
+        "pl": "Global Systems Inc. (dalej zwana „Dostawcą”) dostarczy towar w ciągu 30 dni."
+      }
+    ]
+  },
+  {
+    "id": "there_compounds",
+    "order": 2,
+    "nameEn": "there- compounds: thereby, therein, thereof, thereafter, thereupon",
+    "namePl": "Złożenia z „there-”: thereby, therein, thereof, thereafter, thereupon",
+    "rules": [
+      {
+        "label": "there- = 'that (thing/event just mentioned)'",
+        "text": "podobnie jak przy 'here-', 'there' w tych złożeniach nie oznacza miejsca, lecz odsyła do rzeczy, faktu lub dokumentu WCZEŚNIEJ wspomnianego w tekście — odpowiednik 'by/in/of/after THAT': thereby = 'by that means', therein = 'in that (thing)'."
+      },
+      {
+        "label": "thereby — skutek lub środek",
+        "text": "thereby wprowadza SKUTEK lub SPOSÓB wynikający z wcześniej opisanej czynności, blisko znaczenia 'in this way' / 'as a result': He signed the form, thereby accepting full responsibility."
+      },
+      {
+        "label": "therein, thereof — odniesienie do wcześniejszej treści",
+        "text": "therein = 'w tym (dokumencie/miejscu, o którym mowa)', thereof = 'tego (rzeczy wcześniej wymienionej)': the risks therein described; the value thereof."
+      },
+      {
+        "label": "thereafter, thereupon — czas",
+        "text": "thereafter = 'od tamtej pory, następnie' (formalne 'after that'), thereupon = 'natychmiast po tym, wskutek tego' (formalne 'immediately after that, as a result'): She was warned; thereafter she complied. He apologized, and the matter was thereupon closed."
+      }
+    ],
+    "usage": [
+      "Skutek/sposób: The company reduced staff, thereby cutting costs by 20%.",
+      "Odesłanie do wcześniej opisanej treści: the property and the rights attached thereto.",
+      "Odesłanie ilościowe/jakościowe: the total sum and interest accrued thereof.",
+      "Sekwencja czasowa w formalnej narracji: The license was suspended in March; thereafter, no further shipments were made.",
+      "Natychmiastowy skutek: The board approved the merger, and shares rose sharply thereupon."
+    ],
+    "tags": [
+      "thereby",
+      "therein",
+      "thereof",
+      "thereafter",
+      "thereupon"
+    ],
+    "examples": [
+      {
+        "en": "The tenant failed to pay rent, thereby breaching the terms of the lease.",
+        "pl": "Najemca nie zapłacił czynszu, naruszając tym samym warunki umowy najmu."
+      },
+      {
+        "en": "The report and the conclusions set out therein were rejected by the committee.",
+        "pl": "Raport i zawarte w nim wnioski zostały odrzucone przez komisję."
+      },
+      {
+        "en": "The buyer shall pay the price and any taxes payable in respect thereof.",
+        "pl": "Kupujący zapłaci cenę oraz wszelkie należne od niej podatki."
+      },
+      {
+        "en": "The permit expired in June; thereafter, all operations were illegal.",
+        "pl": "Pozwolenie wygasło w czerwcu; od tego momentu wszelka działalność była nielegalna."
+      }
+    ]
+  },
+  {
+    "id": "wherein_whereupon_whereof",
+    "order": 3,
+    "nameEn": "wherein, whereupon, whereof, wherewith — the where- family",
+    "namePl": "wherein, whereupon, whereof, wherewith — rodzina „where-”",
+    "rules": [
+      {
+        "label": "where- = 'which' (łącznik relatywny)",
+        "text": "złożenia z 'where-' pełnią funkcję zaimka względnego 'which' poprzedzonego przyimkiem i wprowadzają zdanie podrzędne opisujące wcześniej wymieniony dokument, sytuację lub przedmiot — działają jak 'in which', 'upon which', 'of which', 'with which'."
+      },
+      {
+        "label": "wherein — 'in which'",
+        "text": "wherein wprowadza zdanie opisujące, CO ZAWIERA lub CO SIĘ DZIEJE W obrębie wcześniej wspomnianej rzeczy: a report wherein the causes of the failure are explained. Nie mylić z whereby ('by which' — SPOSÓB) ani whereas ('while, in contrast' — KONTRAST)."
+      },
+      {
+        "label": "whereupon — 'upon which, and then immediately'",
+        "text": "whereupon łączy dwa zdania, wskazując, że druga czynność nastąpiła NATYCHMIAST jako reakcja na pierwszą — częste w formalnej narracji: She raised her hand, whereupon the room fell silent."
+      },
+      {
+        "label": "whereof, wherewith — rzadkie, bardzo archaiczne",
+        "text": "whereof = 'of which' (rzadkie poza utartymi zwrotami typu 'I know whereof I speak'), wherewith = 'with which' (dziś niemal wyłącznie w rzeczowniku 'the wherewithal' = środki/zasoby potrzebne do czegoś)."
+      }
+    ],
+    "usage": [
+      "Opis zawartości/treści: a clause wherein the parties define their respective liabilities.",
+      "Natychmiastowy skutek narracyjny: The alarm sounded, whereupon everyone evacuated the building.",
+      "Utarty zwrot z whereof: He speaks with authority, for he knows whereof he speaks.",
+      "Rzeczownik wherewithal (nie sam łącznik): They lacked the wherewithal to fund the expansion.",
+      "W praktyce, poza whereupon i whereby, reszta tej rodziny jest dziś rzadka nawet w tekstach prawnych — częściej zastępowana przez 'in which', 'of which'."
+    ],
+    "tags": [
+      "wherein",
+      "whereupon",
+      "whereof",
+      "the wherewithal"
+    ],
+    "examples": [
+      {
+        "en": "The company issued a statement wherein it denied all the allegations.",
+        "pl": "Firma wydała oświadczenie, w którym zaprzeczyła wszystkim zarzutom."
+      },
+      {
+        "en": "The witness withdrew his statement, whereupon the case was dismissed.",
+        "pl": "Świadek wycofał swoje zeznanie, w wyniku czego sprawa została oddalona."
+      },
+      {
+        "en": "This is a subject whereof I have considerable personal experience.",
+        "pl": "To temat, w którym mam spore osobiste doświadczenie."
+      },
+      {
+        "en": "The charity had the mission but not the wherewithal to carry it out.",
+        "pl": "Organizacja charytatywna miała misję, ale nie miała środków, by ją zrealizować."
+      }
+    ]
+  },
+  {
+    "id": "register_and_alternatives",
+    "order": 4,
+    "nameEn": "Choosing here-/there-/where- vs plain alternatives",
+    "namePl": "Wybór here-/there-/where- a proste odpowiedniki",
+    "rules": [
+      {
+        "label": "here- / there- / where- jako spójny system",
+        "text": "trzy rodziny różnią się TYLKO tym, do czego odsyłają: here- = to, co WŁAŚNIE piszemy (ten dokument), there- = to, co WCZEŚNIEJ wspomniano (tamta rzecz/fakt), where- = łącznik względny wprowadzający zdanie opisujące wcześniej wymieniony rzeczownik (jak 'which')."
+      },
+      {
+        "label": "rejestr: prawo, umowy, akty urzędowe, styl akademicki",
+        "text": "te formy są typowe dla umów, ustaw, regulaminów, patentów i bardzo formalnej prozy — nadają tekstowi precyzję i zwięzłość, bo pozwalają uniknąć powtarzania pełnych nazw ('the terms of this Agreement' → 'the terms herein')."
+      },
+      {
+        "label": "proste odpowiedniki w zwykłym tekście",
+        "text": "poza kontekstem prawnym/urzędowym naturalniejsze są zwykłe przyimki + zaimek: hereby → 'by this', herein → 'in this', thereby → 'by that / this way', therein → 'in that', thereof → 'of that/it', wherein → 'in which', whereupon → 'and then, at which point'."
+      },
+      {
+        "label": "pułapka nadużycia",
+        "text": "użycie tych form w mowie potocznej, e-mailu do znajomego czy zwykłym opowiadaniu brzmi sztucznie, przesadnie formalnie albo komicznie archaicznie — są narzędziem rejestru, nie ozdobnikiem stylistycznym do każdego formalnego tekstu."
+      }
+    ],
+    "usage": [
+      "Zamiana w umowie na prostszy język: 'the rights set out herein' → 'the rights in this agreement'.",
+      "Rozpoznanie funkcji po rdzeniu: here- = ten dokument, there- = tamta rzecz, where- = 'który/która/które'.",
+      "Świadome użycie dla precyzji prawnej: unikanie dwuznaczności przez odesłanie 'hereof' zamiast powtarzania nazwy dokumentu.",
+      "Unikanie w rejestrze nieformalnym: w mailu do kolegi 'thereby' zabrzmi sztucznie — lepiej 'so' / 'that way'."
+    ],
+    "tags": [
+      "herein vs in this",
+      "thereby vs that way",
+      "wherein vs in which",
+      "formal register"
+    ],
+    "examples": [
+      {
+        "en": "The parties acknowledge and agree to the terms set forth herein.",
+        "pl": "Strony przyjmują do wiadomości i akceptują warunki określone w niniejszym dokumencie."
+      },
+      {
+        "en": "She lowered the price, thereby attracting more buyers.",
+        "pl": "Obniżyła cenę, przyciągając tym samym więcej kupujących."
+      },
+      {
+        "en": "In everyday speech, people simply say 'so' instead of 'thereby' or 'in this document' instead of 'herein'.",
+        "pl": "W mowie potocznej ludzie po prostu mówią 'so' zamiast 'thereby' albo 'in this document' zamiast 'herein'."
+      },
+      {
+        "en": "The clause wherein liability is limited was added at the last minute.",
+        "pl": "Klauzula, w której ograniczono odpowiedzialność, została dodana w ostatniej chwili."
+      }
+    ]
+  }
+]
