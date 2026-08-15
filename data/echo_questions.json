@@ -1,0 +1,146 @@
+[
+  {
+    "id": "wh_echo_form",
+    "order": 1,
+    "nameEn": "Wh-echo questions: the wh-word stays in place",
+    "namePl": "Pytania echo z wh-: słowo pytające zostaje na swoim miejscu",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Wh-word zajmuje dokładnie to miejsce w zdaniu, w którym była niedosłyszana lub zaskakująca informacja — NIE przesuwa się na początek zdania. Reszta zdania zachowuje szyk zdania twierdzącego (podmiot + orzeczenie), bez inwersji: 'He moved WHERE last year?' (nie: Where did he move last year?)"
+      },
+      {
+        "label": "Brak operatora pomocniczego",
+        "text": "Nawet w Present Simple i Past Simple nie wprowadzamy do/does/did — echo pytanie jest podmianą jednego elementu w gotowym zdaniu, a nie nowo tworzonym pytaniem: 'She paid HOW MUCH for it?' (nie: How much did she pay for it?)"
+      },
+      {
+        "label": "Silny akcent i intonacja",
+        "text": "Wh-word niesie silny akcent zdaniowy oraz intonację wznoszącą, sygnalizując, że właśnie ten fragment trzeba powtórzyć lub doprecyzować."
+      },
+      {
+        "label": "Kontrast ze zwykłym pytaniem",
+        "text": "Zwykłe pytanie o informację od razu przesuwa wh-word na początek i wymaga inwersji (Where does he work?). Echo question powstaje z gotowego, usłyszanego zdania i tylko podmienia niejasny fragment na wh-word, zachowując resztę szyku bez zmian."
+      }
+    ],
+    "usage": [
+      "Gdy rozmówca nie dosłyszał lub nie zrozumiał części zdania i prosi o powtórzenie właśnie tego fragmentu",
+      "W naturalnej, spontanicznej rozmowie — szybsze i bardziej naturalne niż pełne 'Could you repeat that, please?'",
+      "Wh-word odpowiada gramatycznie funkcji brakującego elementu (kto → who, gdzie → where, ile → how much itd.)"
+    ],
+    "tags": ["echo question", "wh-word in situ", "no inversion", "mishearing", "clarification"],
+    "examples": [
+      { "en": "\"I'm meeting Sarah at the airport.\" \"You're meeting WHO at the airport?\"", "pl": "„Spotykam się z Sarą na lotnisku.” „Spotykasz się z KIM na lotnisku?”" },
+      { "en": "\"He moved to Prague last year.\" \"He moved WHERE last year?\"", "pl": "„On przeprowadził się do Pragi w zeszłym roku.” „Przeprowadził się DOKĄD w zeszłym roku?”" },
+      { "en": "\"She paid two thousand dollars for it.\" \"She paid HOW MUCH for it?\"", "pl": "„Zapłaciła za to dwa tysiące dolarów.” „Zapłaciła ZA ILE?”" },
+      { "en": "\"They're leaving on Thursday.\" \"They're leaving WHEN?\"", "pl": "„Wyjeżdżają w czwartek.” „Wyjeżdżają KIEDY?”" }
+    ]
+  },
+  {
+    "id": "echo_function",
+    "order": 2,
+    "nameEn": "Function: genuine clarification vs. disbelief",
+    "namePl": "Funkcja: prawdziwe doprecyzowanie a niedowierzanie",
+    "rules": [
+      {
+        "label": "Doprecyzowanie (neutralne)",
+        "text": "Intonacja łagodnie wznosząca; mówiący naprawdę nie usłyszał lub nie zrozumiał fragmentu i chce, by rozmówca go powtórzył — brak nacechowania emocjonalnego."
+      },
+      {
+        "label": "Niedowierzanie / zdziwienie",
+        "text": "Ta sama budowa gramatyczna, ale intonacja bardziej dramatyczna, często z dodatkowym naciskiem — mówiący usłyszał zdanie poprawnie, ale nie może w nie uwierzyć."
+      },
+      {
+        "label": "Wzmacniacz 'on earth'",
+        "text": "Dodanie 'on earth' bezpośrednio po wh-word wzmacnia odcień niedowierzania lub oburzenia: 'What ON EARTH made you do that?' Konstrukcja pozostaje echem — nie stosujemy inwersji mimo dodanego wzmacniacza."
+      },
+      {
+        "label": "Ta sama forma, różny kontekst",
+        "text": "Identyczne zdanie 'You did WHAT?' może znaczyć zarówno 'nie usłyszałem' jak i 'nie mogę uwierzyć' — rozstrzyga o tym kontekst, mimika i ton głosu, nie sama gramatyka."
+      }
+    ],
+    "usage": [
+      "Typowe w reakcjach na zaskakujące, szokujące lub absurdalne wiadomości",
+      "Wzmacniacz 'on earth' (lub potocznie 'the hell') podkreśla emocjonalny odcień pytania echo",
+      "Częste w dialogach potocznych i literaturze do oddania emocji bohatera"
+    ],
+    "tags": ["incredulity", "disbelief", "surprise", "on earth", "intonation"],
+    "examples": [
+      { "en": "\"I quit my job today.\" \"You did WHAT?\" (shock)", "pl": "„Rzuciłem dziś pracę.” „Zrobiłeś CO?” (szok)" },
+      { "en": "\"Sorry, could you say that again? I quit my job WHEN?\" (genuine mishearing)", "pl": "„Przepraszam, powtórzysz? Rzuciłeś pracę KIEDY?” (naprawdę nie dosłyszałem)" },
+      { "en": "\"We spent the whole night on a train station bench.\" \"What ON EARTH were you thinking?\"", "pl": "„Spędziliśmy całą noc na ławce na dworcu.” „Co WY SOBIE, do licha, myśleliście?”" },
+      { "en": "\"He proposed to her after two weeks.\" \"He did WHAT after two weeks?\"", "pl": "„Oświadczył się jej po dwóch tygodniach.” „Zrobił CO po dwóch tygodniach?”" }
+    ]
+  },
+  {
+    "id": "yesno_echo",
+    "order": 3,
+    "nameEn": "Yes/No echo questions: statement repeated, no inversion",
+    "namePl": "Pytania echo tak/nie: powtórzenie zdania bez inwersji",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Całe zdanie oznajmujące powtarzamy niemal dosłownie, zachowując szyk podmiot + orzeczenie (bez inwersji), i dodajemy tylko intonację wznoszącą (w piśmie: znak zapytania): 'You're not going?'"
+      },
+      {
+        "label": "Brak inwersji nawet z be/have/modalnymi",
+        "text": "Mimo że zwykłe pytanie ogólne wymaga inwersji (Are you leaving?), echo question zachowuje szyk zdania twierdzącego: 'You're leaving?' — inwersja zamieniłaby echo w zwykłe, neutralne pytanie o nową informację."
+      },
+      {
+        "label": "Funkcja",
+        "text": "Sprawdzenie, czy dobrze zrozumiano lub usłyszano całe zdanie, albo wyrażenie zdziwienia całą informacją, a nie pojedynczym jej elementem."
+      },
+      {
+        "label": "Kontrast z normalnym pytaniem ogólnym",
+        "text": "Normalne 'Are you leaving?' pyta o nową informację, której mówiący jeszcze nie zna. Echo 'You're leaving?' odnosi się do informacji, którą rozmówca WŁAŚNIE podał."
+      }
+    ],
+    "usage": [
+      "Potwierdzanie zaskakującej lub niespodziewanej informacji podanej przez rozmówcę",
+      "Naturalna, szybka reakcja w rozmowie, częstsza w mowie niż pełne pytanie z inwersją",
+      "Może wyrażać wątpliwość, zdziwienie lub prośbę o powtórzenie całej wypowiedzi"
+    ],
+    "tags": ["yes/no echo", "no inversion", "statement question", "rising intonation"],
+    "examples": [
+      { "en": "\"I'm not going to the party.\" \"You're not going?\"", "pl": "„Nie idę na imprezę.” „Nie idziesz?”" },
+      { "en": "\"She sold her car.\" \"She sold her car?\"", "pl": "„Sprzedała samochód.” „Sprzedała samochód?”" },
+      { "en": "\"We won the match.\" \"You won?\"", "pl": "„Wygraliśmy mecz.” „Wygraliście?”" },
+      { "en": "\"I saw a ghost.\" \"You saw a ghost?\"", "pl": "„Widziałem ducha.” „Widziałeś ducha?”" }
+    ]
+  },
+  {
+    "id": "echo_tags",
+    "order": 4,
+    "nameEn": "Echo tags: short reactive responses",
+    "namePl": "Echo tagi: krótkie reakcje odpowiadającego",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Operator (be/have/modal/do) zdania rozmówcy + zaimek odpowiadający jego podmiotowi, wypowiedziane jako samodzielna, krótka reakcja na cudzą wypowiedź: 'I saw a ghost.' 'Did you?!'"
+      },
+      {
+        "label": "Różnica od question tags",
+        "text": "Question tag dołącza się na końcu WŁASNEGO zdania tego samego mówiącego (You saw a ghost, didn't you?). Echo tag to ODDZIELNA, samodzielna wypowiedź DRUGIEJ osoby jako reakcja na zdanie, które właśnie usłyszała."
+      },
+      {
+        "label": "Biegunowość",
+        "text": "Zwykle taka sama jak w usłyszanym zdaniu (nie odwrócona jak w question tag): zdanie twierdzące → echo tag twierdzący (I saw a ghost. Did you?); zdanie przeczące → echo tag przeczący (I don't like it. Don't you?)."
+      },
+      {
+        "label": "Funkcja",
+        "text": "Sygnalizuje żywe zainteresowanie, zaangażowanie w rozmowę, zdziwienie lub grzeczne potwierdzenie, że się słucha — typowe dla brytyjskiej konwersacji potocznej."
+      }
+    ],
+    "usage": [
+      "Podtrzymywanie rozmowy i okazywanie zainteresowania bez przejmowania inicjatywy",
+      "Wyrażanie zaskoczenia lub niedowierzania krótką reakcją zamiast pełnego pytania",
+      "Bardzo częste w brytyjskim angielskim potocznym jako minimalna odpowiedź konwersacyjna (backchannel)"
+    ],
+    "tags": ["echo tag", "reactive response", "backchannel", "same polarity", "minimal response"],
+    "examples": [
+      { "en": "\"I saw a ghost last night.\" \"Did you?! What did it look like?\"", "pl": "„Widziałam wczoraj ducha.” „Naprawdę?! Jak wyglądał?”" },
+      { "en": "\"I don't really like modern art.\" \"Don't you? I love it.\"", "pl": "„Nie bardzo lubię sztukę współczesną.” „Nie lubisz? Ja ją uwielbiam.”" },
+      { "en": "\"We're moving to Canada.\" \"Are you? That's exciting!\"", "pl": "„Przeprowadzamy się do Kanady.” „Naprawdę? To ekscytujące!”" },
+      { "en": "\"He can speak five languages.\" \"Can he? I'm impressed.\"", "pl": "„On mówi w pięciu językach.” „Naprawdę? Robi wrażenie.”" }
+    ]
+  }
+]

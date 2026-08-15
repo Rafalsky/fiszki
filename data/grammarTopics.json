@@ -1013,5 +1013,12 @@
     "title": "Supposed to / meant to",
     "desc": "be supposed to i be meant to — oczekiwania, zasady i reputacja w kontraście z should/have to/must — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "echo_questions",
+    "icon": "🔊",
+    "title": "Pytania echo",
+    "desc": "Pytania echo: dopytywanie o niedosłyszany fragment, niedowierzanie, pytania tak/nie bez inwersji i echo tagi — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 35
   }
 ]
