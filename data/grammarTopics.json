@@ -1104,5 +1104,12 @@
     "title": "Liczba mnoga wyrazów obcych (łacina/greka)",
     "desc": "Klasyczna liczba mnoga zapożyczeń z łaciny i greki: criterion/criteria, cactus/cacti, analysis/analyses, datum/data, formula/formulae, appendix/appendices — wzorce odmiany, formy zanglicyzowane i współczesna reanaliza data/media jako rzeczowników niepoliczalnych, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "infinitive_ellipsis",
+    "icon": "🪓",
+    "title": "Elipsa bezokolicznika",
+    "desc": "Elipsa bezokolicznika (stranded to): I want to, but I can't — pomijanie powtórzonego bezokolicznika po want to / like to / need to / have to i innych, kiedy zostawić samo „to”, a kiedy pominąć je całkowicie.",
+    "drillCount": 40
   }
 ]

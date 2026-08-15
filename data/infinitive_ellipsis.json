@@ -1,0 +1,200 @@
+[
+  {
+    "id": "basic_pattern",
+    "order": 1,
+    "nameEn": "Basic stranded 'to' after to-infinitive verbs",
+    "namePl": "Podstawowy wzorzec: samo „to” zamiast powtórzonego bezokolicznika",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "czasownik (want / like / love / hate / try / hope / decide / plan / mean / forget / offer / refuse / ask + inne) + samo „to” — reszta bezokolicznika jest pomijana, bo wynika z kontekstu"
+      },
+      {
+        "label": "Funkcja „to”",
+        "text": "„to” działa jak zaimek zastępujący całą frazę bezokolicznikową (pro-VP) — podobnie jak „so” zastępuje całe zdanie po think/hope/say"
+      },
+      {
+        "label": "Kiedy stosować",
+        "text": "gdy czynność została już nazwana w poprzednim zdaniu lub pytaniu i powtórzenie jej byłoby niepotrzebnie ciężkie stylistycznie"
+      }
+    ],
+    "usage": [
+      "Po want to / like to / love to / hate to / need to / try to / hope to / decide to / plan to / mean to / manage to / offer to / promise to / forget to / refuse to / ask to / used to",
+      "\"Are you going to clean your room?\" \"I don't want to.\" (= I don't want to clean my room.)",
+      "\"Did you call her back?\" \"I meant to, but I forgot.\"",
+      "\"Would you like to join us?\" \"I'd love to!\""
+    ],
+    "tags": [
+      "want to",
+      "I'd love to",
+      "meant to",
+      "pro-VP to"
+    ],
+    "examples": [
+      {
+        "en": "\"Are you going to clean your room?\" \"I don't want to.\"",
+        "pl": "„Posprzątasz pokój?” „Nie chcę.”"
+      },
+      {
+        "en": "\"Did you call her back?\" \"I meant to, but I forgot.\"",
+        "pl": "„Oddzwoniłeś do niej?” „Zamierzałem, ale zapomniałem.”"
+      },
+      {
+        "en": "\"Would you like to join us for dinner?\" \"I'd love to!\"",
+        "pl": "„Chciałbyś dołączyć do nas na kolację?” „Bardzo chętnie!”"
+      },
+      {
+        "en": "You don't have to finish it today, but you can if you want to.",
+        "pl": "Nie musisz tego kończyć dzisiaj, ale możesz, jeśli chcesz."
+      }
+    ]
+  },
+  {
+    "id": "negative_ellipsis",
+    "order": 2,
+    "nameEn": "Negative infinitive ellipsis: 'not to'",
+    "namePl": "Przeczenie eliptycznego bezokolicznika: „not to”",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "not + to zamiast powtórzonego przeczonego bezokolicznika — przeczenie stoi bezpośrednio przed „to”, nigdy po nim"
+      },
+      {
+        "label": "Błędny szyk",
+        "text": "„to not” jest tu niepoprawne — poprawna kolejność to zawsze „not to”: I decided not to. (nie: I decided to not.)"
+      },
+      {
+        "label": "Kontrast z przeczeniem czasownika głównego",
+        "text": "I don't want to (przeczy się chęci) vs I want not to (błędne) — gdy przeczymy samą czynność bezokolicznikową, przeczenie idzie z „to”, nie z czasownikiem nadrzędnym"
+      }
+    ],
+    "usage": [
+      "Po decide / choose / promise / try / plan / mean / ask / tell somebody + not to",
+      "\"Are you coming to the party?\" \"I've decided not to.\"",
+      "He promised not to.",
+      "Try not to — it's important."
+    ],
+    "tags": [
+      "decided not to",
+      "promised not to",
+      "try not to"
+    ],
+    "examples": [
+      {
+        "en": "\"Are you coming to the party?\" \"I've decided not to.\"",
+        "pl": "„Przyjdziesz na imprezę?” „Zdecydowałem, że nie.”"
+      },
+      {
+        "en": "He said he'd help, but in the end he chose not to.",
+        "pl": "Powiedział, że pomoże, ale w końcu zdecydował, że nie."
+      },
+      {
+        "en": "I'd rather you didn't mention it, so please try not to.",
+        "pl": "Wolałbym, żebyś o tym nie wspominał, więc proszę, postaraj się nie."
+      },
+      {
+        "en": "She told him to apologize, but he promised not to.",
+        "pl": "Kazała mu przeprosić, ale on obiecał, że nie."
+      }
+    ]
+  },
+  {
+    "id": "after_be_constructions",
+    "order": 3,
+    "nameEn": "Stranded 'to' after be + adjective/participle",
+    "namePl": "Samo „to” po konstrukcjach be + przymiotnik/imiesłów",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "be able to / be allowed to / be willing to / be supposed to / be going to / be about to + samo „to” — druga część bezokolicznika znika, „to” zostaje przy „be”"
+      },
+      {
+        "label": "Łączenie z innymi bezokolicznikami eliptycznymi",
+        "text": "te konstrukcje często łączą się w łańcuchy: I'd love to, but I'm not going to be able to."
+      },
+      {
+        "label": "Rejestr",
+        "text": "naturalne w mowie potocznej jako zwięzła odpowiedź na pytanie lub sugestię, unika ciężkiego powtórzenia całej frazy"
+      }
+    ],
+    "usage": [
+      "\"Can you help me move this weekend?\" \"I'd love to, but I'm not going to be able to.\"",
+      "\"Is she allowed to stay out late?\" \"She isn't supposed to, but she often does.\"",
+      "\"Are you leaving already?\" \"I'm about to, yes.\"",
+      "He wasn't willing to at first, but eventually he was."
+    ],
+    "tags": [
+      "not going to be able to",
+      "not supposed to",
+      "about to"
+    ],
+    "examples": [
+      {
+        "en": "\"Can you help me move this weekend?\" \"I'd love to, but I'm not going to be able to.\"",
+        "pl": "„Możesz pomóc mi się przeprowadzić w ten weekend?” „Bardzo bym chciał, ale nie dam rady.”"
+      },
+      {
+        "en": "\"Is she allowed to stay out late?\" \"She isn't supposed to, but she often does.\"",
+        "pl": "„Wolno jej wracać późno?” „Nie powinna, ale często to robi.”"
+      },
+      {
+        "en": "\"Are you leaving already?\" \"I'm about to, yes.\"",
+        "pl": "„Już wychodzisz?” „Właśnie się do tego zabieram.”"
+      },
+      {
+        "en": "He wasn't willing to help at first, but eventually he was.",
+        "pl": "Z początku nie chciał pomóc, ale w końcu się zgodził."
+      }
+    ]
+  },
+  {
+    "id": "verbs_blocking_ellipsis",
+    "order": 4,
+    "nameEn": "No 'to' to strand: bare-infinitive verbs",
+    "namePl": "Kiedy nie ma czego zostawić: czasowniki z bezokolicznikiem bez „to”",
+    "rules": [
+      {
+        "label": "Kontrast",
+        "text": "make / let / help / see / hear / watch / feel + dopełnienie + bezokolicznik BEZ „to” — skoro w pełnej formie nie ma „to”, elipsa polega na pominięciu całego bezokolicznika, a nie na zostawieniu samego „to”"
+      },
+      {
+        "label": "Częsty błąd",
+        "text": "po tych czasownikach NIE dodajemy „to” przy elipsie: She made me apologize. → \"Did she make you apologize?\" \"Yes, she made me.\" (nie: she made me to.)"
+      },
+      {
+        "label": "Modalne — inny mechanizm",
+        "text": "podobnie po czasownikach modalnych (can, must, should, will) elipsa czasownika głównego nie zostawia „to”, bo modalne w ogóle go nie wymagają: \"Can you swim?\" \"I can.\" (to inna, szersza elipsa czasownika, nie elipsa bezokolicznika z „to”)"
+      }
+    ],
+    "usage": [
+      "\"Did she make you apologize?\" \"Yes, she made me.\"",
+      "\"Did your parents let you go?\" \"They let me, actually.\"",
+      "\"Did he help you carry the boxes?\" \"He helped me, yes.\"",
+      "Porównaj: \"Do you want to leave?\" \"I want to.\" (bezokolicznik z „to” → zostaje „to”) vs \"Did they make you leave?\" \"They made me.\" (bezokolicznik bez „to” → nic nie zostaje)"
+    ],
+    "tags": [
+      "made me",
+      "let me",
+      "helped me",
+      "no to"
+    ],
+    "examples": [
+      {
+        "en": "\"Did she make you apologize?\" \"Yes, she made me.\"",
+        "pl": "„Kazała ci przeprosić?” „Tak, kazała mi.”"
+      },
+      {
+        "en": "\"Did your parents let you go to the concert?\" \"They let me, actually.\"",
+        "pl": "„Rodzice pozwolili ci pójść na koncert?” „Właściwie to pozwolili.”"
+      },
+      {
+        "en": "\"Did he help you carry the boxes?\" \"He helped me, yes.\"",
+        "pl": "„Pomógł ci nieść pudła?” „Tak, pomógł mi.”"
+      },
+      {
+        "en": "\"Do you want to leave early?\" \"I want to.\" \"Did they make you leave early?\" \"They made me.\"",
+        "pl": "„Chcesz wyjść wcześniej?” „Chcę.” „Kazali ci wyjść wcześniej?” „Kazali mi.”"
+      }
+    ]
+  }
+]

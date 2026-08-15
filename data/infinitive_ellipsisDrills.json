@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "basic_pattern",
+    "prompt": "Are you going to clean your room? — I don't ___.",
+    "answer": "want to",
+    "distractors": ["want", "want it", "wanting to"]
+  },
+  {
+    "id": 2,
+    "itemId": "basic_pattern",
+    "prompt": "Did you call her back? — I meant ___, but I forgot.",
+    "answer": "to",
+    "distractors": ["to it", "it", "doing it"]
+  },
+  {
+    "id": 3,
+    "itemId": "basic_pattern",
+    "prompt": "Would you like to join us for dinner? — I'd love ___!",
+    "answer": "to",
+    "distractors": ["it", "to it", "doing"]
+  },
+  {
+    "id": 4,
+    "itemId": "basic_pattern",
+    "prompt": "Have you told him the news yet? — I'm planning ___ this weekend.",
+    "answer": "to",
+    "distractors": ["to it", "on it", "for it"]
+  },
+  {
+    "id": 5,
+    "itemId": "basic_pattern",
+    "prompt": "Why didn't you apply for the job? — I tried ___, but I missed the deadline.",
+    "answer": "to",
+    "distractors": ["to it", "it", "for it"]
+  },
+  {
+    "id": 6,
+    "itemId": "basic_pattern",
+    "prompt": "Are you moving abroad? — I'm hoping ___ next year.",
+    "answer": "to",
+    "distractors": ["for it", "to it", "on it"]
+  },
+  {
+    "id": 7,
+    "itemId": "basic_pattern",
+    "prompt": "Did you finish the presentation? — I offered ___, but they said it wasn't needed.",
+    "answer": "to",
+    "distractors": ["for it", "to it", "doing it"]
+  },
+  {
+    "id": 8,
+    "itemId": "basic_pattern",
+    "prompt": "Did you go to the party? — I was invited, but I refused ___.",
+    "answer": "to",
+    "distractors": ["it", "to it", "doing so"]
+  },
+  {
+    "id": 9,
+    "itemId": "basic_pattern",
+    "prompt": "Did you clean the garage yourself? — Yes, I was asked ___.",
+    "answer": "to",
+    "distractors": ["to it", "for it", "it"]
+  },
+  {
+    "id": 10,
+    "itemId": "basic_pattern",
+    "prompt": "Do you still go jogging every morning? — I used ___, but not anymore.",
+    "answer": "to",
+    "distractors": ["to it", "for it", "doing so"]
+  },
+  {
+    "id": 11,
+    "itemId": "negative_ellipsis",
+    "prompt": "Are you coming to the party? — I've decided ___.",
+    "answer": "not to",
+    "distractors": ["to not", "don't", "to not go"]
+  },
+  {
+    "id": 12,
+    "itemId": "negative_ellipsis",
+    "prompt": "Did he help move the furniture? — He promised he would, but in the end he chose ___.",
+    "answer": "not to",
+    "distractors": ["to not", "not", "didn't"]
+  },
+  {
+    "id": 13,
+    "itemId": "negative_ellipsis",
+    "prompt": "Should I mention the accident? — I'd rather you didn't, so please try ___.",
+    "answer": "not to",
+    "distractors": ["to not", "not", "don't try"]
+  },
+  {
+    "id": 14,
+    "itemId": "negative_ellipsis",
+    "prompt": "Did she apologize to her sister? — She was supposed to, but she decided ___.",
+    "answer": "not to",
+    "distractors": ["to not", "not", "didn't to"]
+  },
+  {
+    "id": 15,
+    "itemId": "negative_ellipsis",
+    "prompt": "Are you going to tell him the truth? — I've made up my mind ___.",
+    "answer": "not to",
+    "distractors": ["to not", "not", "won't to"]
+  },
+  {
+    "id": 16,
+    "itemId": "negative_ellipsis",
+    "prompt": "Will you interrupt the meeting? — I'll do my best ___.",
+    "answer": "not to",
+    "distractors": ["to not", "not", "don't"]
+  },
+  {
+    "id": 17,
+    "itemId": "negative_ellipsis",
+    "prompt": "Did he sign the contract? — His lawyer advised him ___, so he didn't.",
+    "answer": "not to",
+    "distractors": ["to not", "not", "against to"]
+  },
+  {
+    "id": 18,
+    "itemId": "negative_ellipsis",
+    "prompt": "Are the children allowed to stay up late? — They're told ___, but they often do anyway.",
+    "answer": "not to",
+    "distractors": ["to not", "not", "don't to"]
+  },
+  {
+    "id": 19,
+    "itemId": "negative_ellipsis",
+    "prompt": "Is she going to quit her job? — Everyone expected her to, but she chose ___.",
+    "answer": "not to",
+    "distractors": ["to not", "not", "not"]
+  },
+  {
+    "id": 20,
+    "itemId": "negative_ellipsis",
+    "prompt": "Are you planning to retire early? — I was, but I've decided ___ for now.",
+    "answer": "not to",
+    "distractors": ["to not", "not", "no to"]
+  },
+  {
+    "id": 21,
+    "itemId": "after_be_constructions",
+    "prompt": "Can you help me move this weekend? — I'd love to, but I'm not going ___.",
+    "answer": "to be able to",
+    "distractors": ["to able to", "able to", "to being able to"]
+  },
+  {
+    "id": 22,
+    "itemId": "after_be_constructions",
+    "prompt": "Is she allowed to stay out late? — She isn't ___, but she often does.",
+    "answer": "supposed to",
+    "distractors": ["suppose to", "supposed", "to supposed"]
+  },
+  {
+    "id": 23,
+    "itemId": "after_be_constructions",
+    "prompt": "Are you leaving already? — I'm ___, yes.",
+    "answer": "about to",
+    "distractors": ["about", "to about", "on about to"]
+  },
+  {
+    "id": 24,
+    "itemId": "after_be_constructions",
+    "prompt": "Was he willing to apologize? — He wasn't ___ at first, but eventually he was.",
+    "answer": "willing to",
+    "distractors": ["willing", "to willing", "willing for to"]
+  },
+  {
+    "id": 25,
+    "itemId": "after_be_constructions",
+    "prompt": "Will you be able to finish by Friday? — I'm not sure I'm going ___.",
+    "answer": "to be able to",
+    "distractors": ["to able to", "able to", "to be able"]
+  },
+  {
+    "id": 26,
+    "itemId": "after_be_constructions",
+    "prompt": "Is the shop about to close? — Yes, it's ___.",
+    "answer": "about to",
+    "distractors": ["about", "to about", "on the point to"]
+  },
+  {
+    "id": 27,
+    "itemId": "after_be_constructions",
+    "prompt": "Are guests allowed to bring pets? — They're not ___, unfortunately.",
+    "answer": "allowed to",
+    "distractors": ["allowed", "to allowed", "allow to"]
+  },
+  {
+    "id": 28,
+    "itemId": "after_be_constructions",
+    "prompt": "Is he going to resign? — He's ___, apparently.",
+    "answer": "going to",
+    "distractors": ["going", "to going", "goes to"]
+  },
+  {
+    "id": 29,
+    "itemId": "after_be_constructions",
+    "prompt": "Do you think they're prepared to negotiate? — They don't seem ___.",
+    "answer": "prepared to",
+    "distractors": ["prepared", "to prepared", "preparing to"]
+  },
+  {
+    "id": 30,
+    "itemId": "after_be_constructions",
+    "prompt": "Is he due to arrive soon? — He's ___.",
+    "answer": "due to",
+    "distractors": ["due", "to due", "duing to"]
+  },
+  {
+    "id": 31,
+    "itemId": "verbs_blocking_ellipsis",
+    "prompt": "Did she make you apologize? — Yes, she ___.",
+    "answer": "made me",
+    "distractors": ["made me to", "made to me", "made"]
+  },
+  {
+    "id": 32,
+    "itemId": "verbs_blocking_ellipsis",
+    "prompt": "Did your parents let you go to the concert? — They ___, actually.",
+    "answer": "let me",
+    "distractors": ["let me to", "let to me", "let"]
+  },
+  {
+    "id": 33,
+    "itemId": "verbs_blocking_ellipsis",
+    "prompt": "Did he help you carry the boxes? — He ___, yes.",
+    "answer": "helped me",
+    "distractors": ["helped me to", "helped to me", "helped"]
+  },
+  {
+    "id": 34,
+    "itemId": "verbs_blocking_ellipsis",
+    "prompt": "Did the teacher make the students rewrite the essay? — Yes, she ___.",
+    "answer": "made them",
+    "distractors": ["made them to", "made to them", "made"]
+  },
+  {
+    "id": 35,
+    "itemId": "verbs_blocking_ellipsis",
+    "prompt": "Did your boss let you leave early? — He ___, surprisingly.",
+    "answer": "let me",
+    "distractors": ["let me to", "let to me", "let"]
+  },
+  {
+    "id": 36,
+    "itemId": "verbs_blocking_ellipsis",
+    "prompt": "Did the new medicine help him sleep better? — It ___.",
+    "answer": "helped him",
+    "distractors": ["helped him to", "helped to him", "helped"]
+  },
+  {
+    "id": 37,
+    "itemId": "verbs_blocking_ellipsis",
+    "prompt": "Did they let the guests in before the doors officially opened? — They ___ eventually.",
+    "answer": "let them",
+    "distractors": ["let them to", "let to them", "let"]
+  },
+  {
+    "id": 38,
+    "itemId": "verbs_blocking_ellipsis",
+    "prompt": "Did the coach make the team train twice a day? — He ___ during the finals.",
+    "answer": "made them",
+    "distractors": ["made them to", "made to them", "made"]
+  },
+  {
+    "id": 39,
+    "itemId": "verbs_blocking_ellipsis",
+    "prompt": "Did your sister help you move the sofa? — She ___, thankfully.",
+    "answer": "helped me",
+    "distractors": ["helped me to", "helped to me", "helped"]
+  },
+  {
+    "id": 40,
+    "itemId": "verbs_blocking_ellipsis",
+    "prompt": "You said you want to leave early — did someone make you? — No, nobody ___.",
+    "answer": "made me",
+    "distractors": ["made me to", "made to me", "made"]
+  }
+]
