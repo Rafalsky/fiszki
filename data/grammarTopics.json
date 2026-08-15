@@ -1069,5 +1069,12 @@
     "title": "Konstrukcja „way”",
     "desc": "push/fight/talk your way — czasownik sposobu + zaimek dzierżawczy + „way” + fraza kierunkowa do wyrażania mozolnego pokonywania przeszkody dosłownie i w przenośni — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 36
+  },
+  {
+    "id": "formal_compound_adverbs",
+    "icon": "📃",
+    "title": "Przysłówki złożone (here-/there-/where-)",
+    "desc": "Formalne przysłówki złożone hereby, herein, thereof, thereafter, wherein, whereupon i inne — budowa, użycie w dokumentach i tekstach prawnych, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
