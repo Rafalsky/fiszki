@@ -1020,5 +1020,12 @@
     "title": "Pytania echo",
     "desc": "Pytania echo: dopytywanie o niedosłyszany fragment, niedowierzanie, pytania tak/nie bez inwersji i echo tagi — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 35
+  },
+  {
+    "id": "heavy_np_shift",
+    "icon": "🐘",
+    "title": "Heavy NP shift",
+    "desc": "Heavy NP shift i zasada end-weight: przesuwanie ciężkich, długich fraz rzeczownikowych na koniec zdania przy czasownikach dwudopełnieniowych i czasownikach frazowych — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 36
   }
 ]
