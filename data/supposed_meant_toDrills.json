@@ -1,0 +1,47 @@
+[
+  { "id": 1, "itemId": "supposed_to_present", "prompt": "You ___ wear a helmet on a bike.", "answer": "are supposed to", "distractors": ["are supposed", "supposed to", "are meant"] },
+  { "id": 2, "itemId": "supposed_to_present", "prompt": "The train ___ arrive at 9, but it's always late.", "answer": "is supposed to", "distractors": ["is supposed", "supposed to", "has supposed to"] },
+  { "id": 3, "itemId": "supposed_to_present", "prompt": "This restaurant ___ be excellent, or so I've heard.", "answer": "is supposed to", "distractors": ["supposed to", "is supposing to", "is suppose to"] },
+  { "id": 4, "itemId": "supposed_to_present", "prompt": "Employees ___ clock in by 8 a.m.", "answer": "are supposed to", "distractors": ["supposed to", "are suppose to", "is supposed to"] },
+  { "id": 5, "itemId": "supposed_to_present", "prompt": "I ___ finish this report every Monday — it's the routine.", "answer": "am supposed to", "distractors": ["supposed to", "am suppose to", "is supposed to"] },
+  { "id": 6, "itemId": "supposed_to_present", "prompt": "This medicine ___ relieve the pain within an hour.", "answer": "is supposed to", "distractors": ["supposed to", "is supposed", "are supposed to"] },
+  { "id": 7, "itemId": "supposed_to_present", "prompt": "According to the schedule, the shop ___ open at nine.", "answer": "is supposed to", "distractors": ["supposed to", "is suppose to", "has supposed to"] },
+
+  { "id": 8, "itemId": "supposed_to_past", "prompt": "I ___ call her yesterday, but I completely forgot.", "answer": "was supposed to", "distractors": ["am supposed to", "supposed to", "were supposed to"] },
+  { "id": 9, "itemId": "supposed_to_past", "prompt": "We ___ meet at six, and you never showed up.", "answer": "were supposed to", "distractors": ["was supposed to", "supposed to", "are supposed to"] },
+  { "id": 10, "itemId": "supposed_to_past", "prompt": "The report ___ be finished by Friday, but it wasn't.", "answer": "was supposed to", "distractors": ["is supposed to", "supposed to", "were supposed to"] },
+  { "id": 11, "itemId": "supposed_to_past", "prompt": "She ___ be here an hour ago.", "answer": "was supposed to", "distractors": ["is supposed to", "supposed to", "were supposed to"] },
+  { "id": 12, "itemId": "supposed_to_past", "prompt": "They ___ arrive before dinner, but their flight got delayed.", "answer": "were supposed to", "distractors": ["was supposed to", "supposed to", "are supposed to"] },
+  { "id": 13, "itemId": "supposed_to_past", "prompt": "We ___ paint the fence last weekend, but it rained.", "answer": "were supposed to", "distractors": ["was supposed to", "supposed to", "are supposed to"] },
+
+  { "id": 14, "itemId": "not_supposed_to", "prompt": "We're ___ use our phones during the lecture.", "answer": "not supposed to", "distractors": ["no supposed to", "not suppose to", "not supposed"] },
+  { "id": 15, "itemId": "not_supposed_to", "prompt": "You're ___ know that yet — it's a surprise.", "answer": "not supposed to", "distractors": ["no supposed to", "not suppose to", "not meant"] },
+  { "id": 16, "itemId": "not_supposed_to", "prompt": "He's ___ be here without permission.", "answer": "not supposed to", "distractors": ["no supposed to", "not suppose to", "not supposed"] },
+  { "id": 17, "itemId": "not_supposed_to", "prompt": "I'm ___ tell anyone, but I trust you.", "answer": "not supposed to", "distractors": ["no supposed to", "not suppose to", "am not supposed"] },
+  { "id": 18, "itemId": "not_supposed_to", "prompt": "Students ___ leave the exam room before time is up.", "answer": "are not supposed to", "distractors": ["not supposed to", "are no supposed to", "supposed not to"] },
+  { "id": 19, "itemId": "not_supposed_to", "prompt": "We ___ feed the animals at the zoo.", "answer": "are not supposed to", "distractors": ["not supposed to", "supposed not to", "are no supposed to"] },
+  { "id": 20, "itemId": "not_supposed_to", "prompt": "You ___ park here — can't you see the sign?", "answer": "are not supposed to", "distractors": ["not supposed to", "supposed not to", "are no supposed to"] },
+
+  { "id": 21, "itemId": "meant_to", "prompt": "This gift ___ cheer you up.", "answer": "is meant to", "distractors": ["meant to", "is meaning to", "are meant to"] },
+  { "id": 22, "itemId": "meant_to", "prompt": "I think we ___ meet.", "answer": "were meant to", "distractors": ["are meant to", "meant to", "was meant to"] },
+  { "id": 23, "itemId": "meant_to", "prompt": "This old house ___ be haunted.", "answer": "is meant to", "distractors": ["meant to", "is meaning to", "was mean to"] },
+  { "id": 24, "itemId": "meant_to", "prompt": "The new policy ___ reduce waste.", "answer": "is meant to", "distractors": ["meant to", "is meaning to", "are meant to"] },
+  { "id": 25, "itemId": "meant_to", "prompt": "They say those two ___ be together — they're perfect for each other.", "answer": "are meant to", "distractors": ["meant to", "is meant to", "were meant to"] },
+  { "id": 26, "itemId": "meant_to", "prompt": "This tool ___ make the job easier, not harder.", "answer": "is meant to", "distractors": ["meant to", "is meaning to", "are meant to"] },
+  { "id": 27, "itemId": "meant_to", "prompt": "It ___ be a joke, but nobody laughed.", "answer": "was meant to", "distractors": ["is meant to", "meant to", "were meant to"] },
+
+  { "id": 28, "itemId": "supposed_meant_vs_modals", "prompt": "You ___ apologize — that's just my opinion.", "answer": "should", "distractors": ["are supposed to", "have to", "are meant to"] },
+  { "id": 29, "itemId": "supposed_meant_vs_modals", "prompt": "You ___ hand in the form by Friday — that's the rule, not my personal view.", "answer": "are supposed to", "distractors": ["should", "have to", "must"] },
+  { "id": 30, "itemId": "supposed_meant_vs_modals", "prompt": "You ___ pay the fine, or they'll take you to court.", "answer": "have to", "distractors": ["are supposed to", "should", "are meant to"] },
+  { "id": 31, "itemId": "supposed_meant_vs_modals", "prompt": "The meeting ___ start at ten, but it never does — the rule and reality don't match.", "answer": "is supposed to", "distractors": ["should", "has to", "must"] },
+  { "id": 32, "itemId": "supposed_meant_vs_modals", "prompt": "In my opinion, she ___ study harder.", "answer": "should", "distractors": ["is supposed to", "has to", "is meant to"] },
+  { "id": 33, "itemId": "supposed_meant_vs_modals", "prompt": "Passengers ___ show a valid ticket — it's a legal requirement.", "answer": "must", "distractors": ["are supposed to", "should", "are meant to"] },
+  { "id": 34, "itemId": "supposed_meant_vs_modals", "prompt": "According to the manual, this switch ___ be off during installation.", "answer": "is supposed to", "distractors": ["should", "must", "has to"] },
+
+  { "id": 35, "itemId": "supposed_to_questions", "prompt": "Where ___ I park my car?", "answer": "am supposed to", "distractors": ["supposed to", "do supposed to", "I am supposed to"] },
+  { "id": 36, "itemId": "supposed_to_questions", "prompt": "What ___ I do now?!", "answer": "am supposed to", "distractors": ["supposed to", "do supposed to", "should supposed to"] },
+  { "id": 37, "itemId": "supposed_to_questions", "prompt": "How ___ I know you'd be late?", "answer": "was supposed to", "distractors": ["am supposed to", "supposed to", "did supposed to"] },
+  { "id": 38, "itemId": "supposed_to_questions", "prompt": "___ we supposed to bring our own laptops?", "answer": "Are", "distractors": ["Do", "Have", "Is"] },
+  { "id": 39, "itemId": "supposed_to_questions", "prompt": "What ___ that supposed to mean?", "answer": "is", "distractors": ["does", "do", "has"] },
+  { "id": 40, "itemId": "supposed_to_questions", "prompt": "Who ___ supposed to lock the door last night?", "answer": "was", "distractors": ["is", "were", "did"] }
+]

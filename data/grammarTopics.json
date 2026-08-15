@@ -1006,5 +1006,12 @@
     "title": "Bezokolicznik i gerund bierny",
     "desc": "being done / to be done / to have been done — bierne formy bezokolicznika i gerundu po czasownikach, przymiotnikach i przyimkach, kontrast z needs doing i causative have something done — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "supposed_meant_to",
+    "icon": "📋",
+    "title": "Supposed to / meant to",
+    "desc": "be supposed to i be meant to — oczekiwania, zasady i reputacja w kontraście z should/have to/must — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

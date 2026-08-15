@@ -1,0 +1,135 @@
+[
+  {
+    "id": "supposed_to_present",
+    "order": 1,
+    "nameEn": "be supposed to — present expectation and rules",
+    "namePl": "be supposed to — oczekiwania i zasady w teraźniejszości",
+    "rules": [
+      { "label": "Budowa", "text": "am/is/are + supposed to + bezokolicznik bez to (You are supposed to wear a helmet.)" },
+      { "label": "Znaczenie", "text": "To, czego się oczekuje na podstawie zasady, umowy, harmonogramu lub ogólnej opinii — niekoniecznie to, co faktycznie się dzieje" }
+    ],
+    "usage": [
+      "Zasady i przepisy (You're supposed to wear a helmet on a bike.)",
+      "Ustalenia i harmonogramy (The train is supposed to arrive at 9.)",
+      "Ogólna opinia / pogłoska, podobnie do 'they say' (This restaurant is supposed to be excellent.)",
+      "Często sugeruje kontrast z rzeczywistością — coś dzieje się inaczej niż powinno"
+    ],
+    "tags": ["supposed to arrive", "supposed to be", "you're supposed to", "supposed to wear"],
+    "examples": [
+      { "en": "You're supposed to wear a helmet on a bike.", "pl": "Masz obowiązek nosić kask na rowerze." },
+      { "en": "The train is supposed to arrive at 9, but it's always late.", "pl": "Pociąg ma przyjeżdżać o 9, ale zawsze się spóźnia." },
+      { "en": "This restaurant is supposed to be excellent.", "pl": "Ta restauracja podobno jest znakomita." },
+      { "en": "Employees are supposed to clock in by 8 a.m.", "pl": "Pracownicy mają obowiązek odbić kartę przed 8 rano." }
+    ]
+  },
+  {
+    "id": "supposed_to_past",
+    "order": 2,
+    "nameEn": "be supposed to — past and unfulfilled expectations",
+    "namePl": "be supposed to — przeszłość i niespełnione oczekiwania",
+    "rules": [
+      { "label": "Budowa", "text": "was/were + supposed to + bezokolicznik bez to (I was supposed to call her.)" },
+      { "label": "Znaczenie", "text": "Coś było zaplanowane, uzgodnione lub oczekiwane, ale się nie wydarzyło albo nie wiadomo, czy się wydarzyło" }
+    ],
+    "usage": [
+      "Plany i obietnice, które się nie ziściły (I was supposed to call her, but I forgot.)",
+      "Delikatna krytyka niedopełnienia obowiązku lub złamania ustalenia",
+      "Kontrast z 'had to' — 'was supposed to' nie mówi, czy czynność się odbyła"
+    ],
+    "tags": ["was supposed to call", "were supposed to meet", "supposed to finish"],
+    "examples": [
+      { "en": "I was supposed to call her yesterday, but I completely forgot.", "pl": "Miałem do niej zadzwonić wczoraj, ale kompletnie zapomniałem." },
+      { "en": "We were supposed to meet at six, and you never showed up.", "pl": "Mieliśmy się spotkać o szóstej, a ty się w ogóle nie zjawiłeś." },
+      { "en": "The report was supposed to be finished by Friday.", "pl": "Raport miał być gotowy do piątku." },
+      { "en": "She was supposed to be here an hour ago.", "pl": "Ona miała tu być godzinę temu." }
+    ]
+  },
+  {
+    "id": "not_supposed_to",
+    "order": 3,
+    "nameEn": "not supposed to — prohibition and secrecy",
+    "namePl": "not supposed to — zakaz i poufność",
+    "rules": [
+      { "label": "Budowa", "text": "not supposed to + bezokolicznik bez to (We're not supposed to use phones here.)" },
+      { "label": "Znaczenie", "text": "Nie wolno / nie powinno się, zgodnie z zasadą, poleceniem lub oczekiwaniem — rejestr nieformalny, częsty w mówionym angielskim" }
+    ],
+    "usage": [
+      "Zakazy wynikające z zasad lub instrukcji (We're not supposed to use phones in class.)",
+      "Poufność i sekrety (You're not supposed to know that yet.)",
+      "Łagodniejszy, bardziej rozmowny odpowiednik 'mustn't'"
+    ],
+    "tags": ["not supposed to tell", "not supposed to be here", "not supposed to know"],
+    "examples": [
+      { "en": "We're not supposed to use our phones during the lecture.", "pl": "Nie wolno nam używać telefonów podczas wykładu." },
+      { "en": "You're not supposed to know that — it's a surprise.", "pl": "Nie powinieneś jeszcze o tym wiedzieć — to niespodzianka." },
+      { "en": "He's not supposed to be here without permission.", "pl": "Nie powinno go tu być bez pozwolenia." },
+      { "en": "I'm not supposed to tell anyone, but I trust you.", "pl": "Nie powinienem nikomu mówić, ale ci ufam." }
+    ]
+  },
+  {
+    "id": "meant_to",
+    "order": 4,
+    "nameEn": "be meant to — purpose, destiny and reputation",
+    "namePl": "be meant to — przeznaczenie, cel i reputacja",
+    "rules": [
+      { "label": "Budowa", "text": "am/is/are/was/were + meant to + bezokolicznik bez to (This gift is meant to cheer you up.)" },
+      { "label": "Znaczenie", "text": "Cel lub intencja (do czego coś ma służyć), przeznaczenie/los (że coś miało się wydarzyć), lub reputacja — podobnie do 'supposed to', ale z mocniejszym odcieniem przeznaczenia" }
+    ],
+    "usage": [
+      "Cel/intencja przedmiotu lub działania (This app is meant to help you save money.)",
+      "Przeznaczenie, los, związek (They were meant to be together.)",
+      "Reputacja / ogólna opinia (This place is meant to be haunted.)"
+    ],
+    "tags": ["meant to be", "meant to happen", "meant for each other", "meant to help"],
+    "examples": [
+      { "en": "This gift is meant to cheer you up.", "pl": "Ten prezent ma cię pocieszyć." },
+      { "en": "I think we were meant to meet.", "pl": "Myślę, że było nam pisane się spotkać." },
+      { "en": "This old house is meant to be haunted.", "pl": "Ten stary dom podobno straszy." },
+      { "en": "The new policy is meant to reduce waste.", "pl": "Nowa polityka ma na celu ograniczenie marnotrawstwa." }
+    ]
+  },
+  {
+    "id": "supposed_meant_vs_modals",
+    "order": 5,
+    "nameEn": "supposed to / meant to vs should / have to / must",
+    "namePl": "supposed to / meant to a should / have to / must — różnice",
+    "rules": [
+      { "label": "should", "text": "Osobista rada lub opinia mówiącego o tym, co jest słuszne (You should apologize.)" },
+      { "label": "have to / must", "text": "Rzeczywista konieczność — obiektywny obowiązek lub przymus (You have to show your passport.)" },
+      { "label": "supposed to / meant to", "text": "Oczekiwanie oparte na zewnętrznej zasadzie, umowie lub cudzej opinii — nie opinia samego mówiącego, i nie zawsze faktycznie egzekwowane" }
+    ],
+    "usage": [
+      "Gdy mówimy o czyimś ustaleniu lub zasadzie, a nie własnej opinii → supposed to/meant to, nie should",
+      "Gdy chodzi o realny przymus → have to/must, nie supposed to",
+      "supposed to często sugeruje rozdźwięk między zasadą a rzeczywistością, czego should/have to nie sugerują"
+    ],
+    "tags": ["should vs supposed to", "have to vs supposed to", "must vs meant to"],
+    "examples": [
+      { "en": "You should exercise more. (my opinion)", "pl": "Powinieneś więcej ćwiczyć. (moja opinia)" },
+      { "en": "You're supposed to hand in the form by Friday. (that's the rule)", "pl": "Masz oddać formularz do piątku. (taka jest zasada)" },
+      { "en": "You have to pay the fine, or they'll take you to court. (real necessity)", "pl": "Musisz zapłacić grzywnę, inaczej pozwą cię do sądu. (realna konieczność)" },
+      { "en": "The meeting is supposed to start at ten, but it never does.", "pl": "Spotkanie ma się zaczynać o dziesiątej, ale nigdy się tak nie dzieje." }
+    ]
+  },
+  {
+    "id": "supposed_to_questions",
+    "order": 6,
+    "nameEn": "be supposed to in questions",
+    "namePl": "be supposed to w pytaniach",
+    "rules": [
+      { "label": "Budowa", "text": "Am/Is/Are + podmiot + supposed to + bezokolicznik...? (Am I supposed to sign here?)" },
+      { "label": "Użycie retoryczne", "text": "Pytania z wh- + supposed to często wyrażają bezradność, irytację lub oburzenie, nie proszą o dosłowną informację (What am I supposed to do now?)" }
+    ],
+    "usage": [
+      "Dosłowne pytanie o zasadę lub ustalenie (Where am I supposed to park?)",
+      "Retoryczne wyrażenie bezradności lub sprzeciwu (How am I supposed to know?! What was I supposed to say?)"
+    ],
+    "tags": ["am I supposed to", "what am I supposed to do", "how am I supposed to know"],
+    "examples": [
+      { "en": "Where am I supposed to park my car?", "pl": "Gdzie mam zaparkować samochód?" },
+      { "en": "What am I supposed to do now?!", "pl": "I co ja mam teraz zrobić?!" },
+      { "en": "How was I supposed to know you'd be late?", "pl": "Skąd miałem wiedzieć, że się spóźnisz?" },
+      { "en": "Are we supposed to bring our own laptops?", "pl": "Czy mamy przynieść własne laptopy?" }
+    ]
+  }
+]
