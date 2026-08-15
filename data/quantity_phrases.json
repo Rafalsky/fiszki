@@ -1,0 +1,122 @@
+[
+  {
+    "id": "majority_of",
+    "order": 1,
+    "nameEn": "the majority of — quantifying most of a group",
+    "namePl": "the majority of — większość grupy",
+    "rules": [
+      { "label": "Budowa", "text": "the majority of + rzeczownik policzalny w liczbie mnogiej (the majority of voters) lub the majority of + rzeczownik niepoliczalny/zbiorowy (the majority of the population); 'majority' może też występować samodzielnie jako podmiot bez 'of': The majority agreed." },
+      { "label": "Zgodność liczby z czasownikiem", "text": "gdy po 'the majority of' stoi rzeczownik policzalny w liczbie mnogiej, czasownik zwykle przyjmuje liczbę mnogą (The majority of students HAVE passed); gdy 'majority' odnosi się do jednej, zwartej całości bez wskazania konkretnych elementów, możliwa jest liczba pojedyncza (The majority WAS in favour of the motion)." },
+      { "label": "Kontrast z 'most of'", "text": "'the majority of' brzmi bardziej formalnie i statystycznie niż neutralne 'most of' — częstsze w raportach, wynikach głosowań i tekstach naukowych; 'most of' jest naturalniejsze w mowie potocznej." }
+    ],
+    "usage": [
+      "Raporty, statystyki, wyniki głosowań: The majority of respondents preferred option B.",
+      "Kontrast z mniejszością (a minority of): A minority of members objected, but the majority approved the plan.",
+      "Wzmocnienie przymiotnikiem stopnia: the vast/overwhelming majority of",
+      "Samodzielne 'the majority' bez 'of' jako podmiot zdania"
+    ],
+    "tags": ["the majority of", "vast majority", "overwhelming majority", "minority"],
+    "examples": [
+      { "en": "The majority of respondents preferred option B.", "pl": "Większość respondentów wolała opcję B." },
+      { "en": "The vast majority of the population supports the new law.", "pl": "Zdecydowana większość społeczeństwa popiera nową ustawę." },
+      { "en": "A minority of members objected, but the majority approved the plan.", "pl": "Mniejszość członków się sprzeciwiła, ale większość zatwierdziła plan." },
+      { "en": "The majority was clearly in favour of postponing the vote.", "pl": "Większość była wyraźnie za odłożeniem głosowania." }
+    ]
+  },
+  {
+    "id": "great_deal_of",
+    "order": 2,
+    "nameEn": "a great deal of / a good deal of — large quantity (uncountable)",
+    "namePl": "a great deal of / a good deal of — duża ilość (niepoliczalne)",
+    "rules": [
+      { "label": "Budowa", "text": "a great deal of / a good deal of + rzeczownik niepoliczalny (a great deal of money, a good deal of effort); NIE łączy się z rzeczownikami policzalnymi w liczbie mnogiej — poprawnie w tym znaczeniu jest 'a great many books', nie 'a great deal of books'." },
+      { "label": "Funkcja przysłówkowa", "text": "'a great deal' bez rzeczownika po sobie może pełnić funkcję przysłówka stopnia, wzmacniając przymiotnik w stopniu wyższym lub czasownik: a great deal happier, to worry a great deal." },
+      { "label": "Rejestr", "text": "obie formy należą do rejestru formalnego/pisanego; 'a great deal of' jest częstsze i nieco mniej książkowe niż 'a good deal of'." }
+    ],
+    "usage": [
+      "Duża ilość czegoś niepoliczalnego: a great deal of money/time/effort/attention",
+      "Wzmocnienie porównania: a great deal + comparative (a great deal more expensive)",
+      "Formalne pisma, raporty, eseje — alternatywa dla 'a lot of' w rejestrze formalnym",
+      "Kontrast z 'a great many' dla rzeczowników policzalnych w liczbie mnogiej"
+    ],
+    "tags": ["a great deal of", "a good deal of", "a great deal + comparative", "formal 'a lot of'"],
+    "examples": [
+      { "en": "The project required a great deal of patience.", "pl": "Projekt wymagał ogromnej cierpliwości." },
+      { "en": "She has spent a good deal of money on renovations.", "pl": "Wydała sporo pieniędzy na remont." },
+      { "en": "The new model is a great deal more reliable than the old one.", "pl": "Nowy model jest dużo bardziej niezawodny niż stary." },
+      { "en": "He worries a great deal about his exams.", "pl": "Bardzo się martwi o swoje egzaminy." }
+    ]
+  },
+  {
+    "id": "handful_bulk_of",
+    "order": 3,
+    "nameEn": "a handful of / the bulk of — small amount vs the largest part",
+    "namePl": "a handful of / the bulk of — garstka a większa część",
+    "rules": [
+      { "label": "Znaczenie kontrastowe", "text": "'a handful of' oznacza małą, często nieformalną liczbę (dosłownie: tyle, ile mieści się w garści) — a handful of people/students/exceptions; 'the bulk of' oznacza NAJWIĘKSZĄ, główną część czegoś — the bulk of the work/population/budget." },
+      { "label": "Zgodność z czasownikiem", "text": "'a handful of' + rzeczownik policzalny w liczbie mnogiej → czasownik w liczbie mnogiej (A handful of protesters WERE arrested); 'the bulk of' + rzeczownik niepoliczalny → czasownik w liczbie pojedynczej (The bulk of the work IS done), a z rzeczownikiem policzalnym mnogim → liczba mnoga (The bulk of the tourists ARE from Asia)." },
+      { "label": "Rejestr i kontekst", "text": "'a handful of' bywa też przenośnie o czymś nielicznym, ale ważnym (only a handful of experts understand this); 'the bulk of' jest typowe dla tekstów analitycznych, finansowych i raportów." }
+    ],
+    "usage": [
+      "Mała, nieliczna grupa/ilość: only a handful of survivors",
+      "Główna, przeważająca część czegoś: the bulk of the population lives in cities",
+      "Kontrast obu wyrażeń w jednym zdaniu dla podkreślenia dysproporcji",
+      "Częste w dziennikarstwie i raportach ekonomicznych"
+    ],
+    "tags": ["a handful of", "the bulk of", "small number vs largest part"],
+    "examples": [
+      { "en": "Only a handful of students showed up to the lecture.", "pl": "Na wykład przyszła tylko garstka studentów." },
+      { "en": "The bulk of the company's revenue comes from overseas sales.", "pl": "Większa część przychodów firmy pochodzi ze sprzedaży zagranicznej." },
+      { "en": "A handful of volunteers stayed to clean up after the event.", "pl": "Garstka wolontariuszy została, by posprzątać po wydarzeniu." },
+      { "en": "The bulk of the damage was caused by flooding, not the storm itself.", "pl": "Większość szkód spowodowała powódź, a nie sama burza." }
+    ]
+  },
+  {
+    "id": "wealth_plethora_array",
+    "order": 4,
+    "nameEn": "a wealth of / a plethora of / an array of / a myriad of — formal abundance",
+    "namePl": "a wealth of / a plethora of / an array of / a myriad of — formalne wyrażenia obfitości",
+    "rules": [
+      { "label": "Znaczenie i konotacje", "text": "wszystkie cztery oznaczają bardzo dużą ilość lub różnorodność, ale różnią się konotacją: 'a wealth of' jest zawsze pozytywne (bogactwo czegoś wartościowego: a wealth of experience/information); 'a plethora of' bywa neutralne lub lekko negatywne (nadmiar: a plethora of options może sugerować, że jest ich zbyt wiele); 'an array of' podkreśla różnorodność i jest neutralne/pozytywne (an array of choices/products); 'a myriad of' podkreśla ogromną, trudną do policzenia liczbę." },
+      { "label": "Konstrukcja z 'myriad' bez 'of'", "text": "'myriad' może też występować jako przymiotnik bezpośrednio przed rzeczownikiem w liczbie mnogiej, bez 'a' i bez 'of': myriad problems (zamiast a myriad of problems) — obie formy są poprawne, forma bez 'of' jest bardziej literacka." },
+      { "label": "Rejestr", "text": "wszystkie cztery wyrażenia należą do rejestru formalnego/pisanego — akademickiego, dziennikarskiego, biznesowego — i brzmią sztucznie w swobodnej rozmowie, gdzie naturalniejsze jest 'a lot of' lub 'lots of'." }
+    ],
+    "usage": [
+      "Pozytywne bogactwo wiedzy/zasobów: a wealth of knowledge/experience/detail",
+      "Neutralny lub krytyczny nadmiar opcji: a plethora of choices/regulations",
+      "Zróżnicowana oferta lub zbiór: a wide array of products/services",
+      "Ogromna, niepoliczalna liczba: a myriad of reasons / myriad reasons"
+    ],
+    "tags": ["a wealth of", "a plethora of", "an array of", "a myriad of", "myriad problems"],
+    "examples": [
+      { "en": "The museum offers a wealth of information about local history.", "pl": "Muzeum oferuje bogactwo informacji o lokalnej historii." },
+      { "en": "Customers are faced with a plethora of options, which can be overwhelming.", "pl": "Klienci stają przed nadmiarem opcji, co może przytłaczać." },
+      { "en": "The shop stocks a wide array of imported cheeses.", "pl": "Sklep ma w ofercie szeroki wybór importowanych serów." },
+      { "en": "There are myriad reasons why the project failed.", "pl": "Jest niezliczenie wiele powodów, dla których projekt się nie powiódł." }
+    ]
+  },
+  {
+    "id": "numerous_various_several",
+    "order": 5,
+    "nameEn": "numerous / various / several / countless — quantifying adjectives without 'of'",
+    "namePl": "numerous / various / several / countless — przymiotniki ilościowe bez 'of'",
+    "rules": [
+      { "label": "Budowa bez 'of'", "text": "w przeciwieństwie do wyrażeń z 'of' (a wealth of, the majority of), numerous/various/several/countless łączą się BEZPOŚREDNIO z rzeczownikiem policzalnym w liczbie mnogiej, bez przedimka i bez 'of': numerous complaints, various reasons, several options, countless attempts." },
+      { "label": "Różnice znaczeniowe", "text": "'numerous' = bardzo liczne (formalne); 'various' = różnorodne, kładzie nacisk na różnorodność, nie liczbę; 'several' = kilka/kilkanaście, więcej niż dwa lub trzy, ale niezbyt wiele — konkretniejsze niż 'some'; 'countless' = niezliczone, emfatycznie podkreśla ogromną liczbę." },
+      { "label": "Pozycja i funkcja", "text": "wszystkie cztery funkcjonują jak zwykłe przymiotniki przed rzeczownikiem, w przeciwieństwie do 'the majority' nie występują samodzielnie jako podmiot — czasownik zgadza się z rzeczownikiem głównym w liczbie mnogiej." }
+    ],
+    "usage": [
+      "Formalne podkreślenie dużej liczby: numerous studies have shown...",
+      "Podkreślenie różnorodności, nie liczby: for various reasons",
+      "Konkretna, umiarkowana liczba: several times, several candidates",
+      "Emfatyczne, retoryczne podkreślenie ogromnej liczby: countless hours, countless attempts"
+    ],
+    "tags": ["numerous", "various", "several", "countless", "no 'of' before plural noun"],
+    "examples": [
+      { "en": "Numerous studies have confirmed the link between diet and health.", "pl": "Liczne badania potwierdziły związek między dietą a zdrowiem." },
+      { "en": "She left the company for various reasons.", "pl": "Odeszła z firmy z różnych powodów." },
+      { "en": "We've met several times to discuss the proposal.", "pl": "Spotkaliśmy się kilka razy, żeby omówić propozycję." },
+      { "en": "He's tried to quit smoking countless times.", "pl": "Próbował rzucić palenie niezliczoną ilość razy." }
+    ]
+  }
+]

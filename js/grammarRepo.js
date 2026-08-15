@@ -163,6 +163,7 @@ const THEORY_URLS = {
   way_construction: new URL("../data/way_construction.json", import.meta.url),
   formal_compound_adverbs: new URL("../data/formal_compound_adverbs.json", import.meta.url),
   evaluative_binominal: new URL("../data/evaluative_binominal.json", import.meta.url),
+  quantity_phrases: new URL("../data/quantity_phrases.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -321,6 +322,7 @@ const DRILLS_URLS = {
   way_construction: new URL("../data/way_constructionDrills.json", import.meta.url),
   formal_compound_adverbs: new URL("../data/formal_compound_adverbsDrills.json", import.meta.url),
   evaluative_binominal: new URL("../data/evaluative_binominalDrills.json", import.meta.url),
+  quantity_phrases: new URL("../data/quantity_phrasesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
