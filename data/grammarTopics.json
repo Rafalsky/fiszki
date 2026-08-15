@@ -1041,5 +1041,12 @@
     "title": "While / whereas",
     "desc": "while i whereas jako spójniki kontrastu (nie czasu, nie ustępstwa) — zestawianie dwóch równoległych faktów, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "situational_ellipsis",
+    "icon": "🗨️",
+    "title": "Elipsa sytuacyjna",
+    "desc": "Pomijanie podmiotu i/lub operatora na początku zdania w mowie potocznej (Seen John? / Sounds good / Hope you don't mind) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
