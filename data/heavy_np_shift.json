@@ -1,0 +1,186 @@
+[
+  {
+    "id": "ditransitive_shift",
+    "order": 1,
+    "nameEn": "Heavy NP shift with ditransitive verbs — postponing a long direct object",
+    "namePl": "Heavy NP shift przy czasownikach dwudopełnieniowych — przesunięcie długiego dopełnienia bliższego",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "przy czasownikach typu give/hand/pass/show, które dopuszczają wzorzec V + dopełnienie bliższe (DO) + to/for + odbiorca, jeśli DO jest 'ciężkie' (długie, rozbudowane frazą przyimkową lub zdaniem względnym), przenosi się je na sam koniec zdania, za frazę z to/for: I handed to my boss the letter that had been sitting on my desk for three weeks. zamiast I handed the letter that had been sitting on my desk for three weeks to my boss."
+      },
+      {
+        "label": "Test 'ciężkości'",
+        "text": "fraza jest 'ciężka', gdy zawiera zdanie względne, długi przydawkowy ciąg lub kilka modyfikatorów (the book that I bought yesterday, the very expensive watch his grandfather had left him); pojedyncze krótkie rzeczowniki (the book, a letter) zwykle zostają w standardowej pozycji przed to/for i przesunięcie brzmiałoby sztucznie"
+      }
+    ],
+    "usage": [
+      "Unikanie 'zagrzebania' krótkiej, ważnej informacji (odbiorcy) w środku zdania, gdy dopełnienie bliższe jest bardzo długie (I gave to the committee all the documents that had been requested during the previous three meetings.)",
+      "Poprawa czytelności zdania pisanego — czytelnik najpierw poznaje czynność i odbiorcę, a długi, złożony opis przedmiotu zostawiony jest na koniec, gdzie łatwiej go przetworzyć",
+      "Rejestr formalny i pisany (raporty, narracja literacka); w mowie potocznej mówiący częściej po prostu dzieli wypowiedź na krótsze zdania zamiast budować jedno długie",
+      "Z czasownikami bez wariantu przyimkowego (np. cost, spare — I'll spare you the details) heavy NP shift w tym wzorcu nie działa, bo nie ma frazy z to/for, za którą można by przesunąć dopełnienie"
+    ],
+    "tags": [
+      "heavy NP shift",
+      "ditransitive verbs",
+      "prepositional dative",
+      "end position"
+    ],
+    "examples": [
+      {
+        "en": "I handed to my boss the letter that had been sitting on my desk for three weeks.",
+        "pl": "Podałem szefowi list, który leżał na moim biurku od trzech tygodni."
+      },
+      {
+        "en": "She gave to the children all the toys she no longer had room for in her flat.",
+        "pl": "Oddała dzieciom wszystkie zabawki, na które nie miała już miejsca w mieszkaniu."
+      },
+      {
+        "en": "He showed to the inspectors every document that could possibly prove the building was safe.",
+        "pl": "Pokazał inspektorom każdy dokument, który mógł dowieść, że budynek jest bezpieczny."
+      },
+      {
+        "en": "We sent to the printer the final version of the manuscript we had been revising for months.",
+        "pl": "Wysłaliśmy do drukarni ostateczną wersję manuskryptu, którą poprawialiśmy od miesięcy."
+      }
+    ]
+  },
+  {
+    "id": "particle_verb_shift",
+    "order": 2,
+    "nameEn": "Obligatory particle-before-object order with heavy direct objects in phrasal verbs",
+    "namePl": "Obowiązkowa kolejność partykuła-przed-dopełnieniem przy ciężkich dopełnieniach w czasownikach frazowych",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "rozdzielne czasowniki frazowe (pick up, look up, throw away, sort out) zwykle dopuszczają dwa szyki z krótkim dopełnieniem (pick up the book / pick the book up), ale gdy dopełnienie jest ciężkie, wstawienie go między czasownik a partykułę staje się niemożliwe: She looked up the phone number of the small hotel where they had stayed last summer. — nigdy: She looked the phone number of the small hotel where they had stayed last summer up."
+      },
+      {
+        "label": "Dlaczego",
+        "text": "wstawienie długiej frazy między czasownik a partykułę rozrywa jednostkę czasownikową na dużą odległość i przeciąża pamięć odbiorcy zanim dotrze do partykuły kończącej znaczenie (throw away wszystko co) — dlatego angielski wymusza wzorzec 'lekki czasownik + partykuła + ciężkie dopełnienie'"
+      }
+    ],
+    "usage": [
+      "Z zaimkami osobowymi (krótkimi z definicji) obowiązuje odwrotna zasada — zaimek MUSI stanąć między czasownikiem a partykułą (pick it up, nie pick up it); to kontrastuje z ciężkimi frazami, które muszą iść po partykule",
+      "Test praktyczny: jeśli dopełnienie ma więcej niż ok. 3-4 słowa lub zawiera zdanie względne/frazę przyimkową, prawie na pewno musi iść po partykule (throw away anything that still has any sentimental value to you.)",
+      "Dotyczy tylko czasowników rozdzielnych (separable); czasowniki nierozdzielne (look after, deal with) i tak zawsze mają partykułę/przyimek bezpośrednio przed dopełnieniem, więc reguła ciężaru ich nie dotyczy",
+      "Pisanie 'sort the whole mess that had built up over the past six months out' zamiast 'sort out the whole mess...' brzmi rażąco niepoprawnie nawet dla native speakerów — to jeden z najbardziej jednoznacznych testów gramatyczności w tym obszarze"
+    ],
+    "tags": [
+      "phrasal verbs",
+      "particle placement",
+      "heavy NP",
+      "separable verbs"
+    ],
+    "examples": [
+      {
+        "en": "She looked up the phone number of the small hotel where they had stayed last summer.",
+        "pl": "Wyszukała numer telefonu do małego hotelu, w którym nocowali zeszłego lata."
+      },
+      {
+        "en": "He threw away everything that reminded him of his old job.",
+        "pl": "Wyrzucił wszystko, co przypominało mu o starej pracy."
+      },
+      {
+        "en": "Can you sort out the whole mess that has built up on this desk over the past six months?",
+        "pl": "Możesz posprzątać ten cały bałagan, który narósł na tym biurku przez ostatnie sześć miesięcy?"
+      },
+      {
+        "en": "They put off the decision that everyone had been dreading for weeks.",
+        "pl": "Odłożyli decyzję, której wszyscy obawiali się od tygodni."
+      }
+    ]
+  },
+  {
+    "id": "end_weight_principle",
+    "order": 3,
+    "nameEn": "The end-weight principle — why English postpones heavy constituents",
+    "namePl": "Zasada end-weight — dlaczego angielski przesuwa ciężkie elementy na koniec",
+    "rules": [
+      {
+        "label": "Ogólna zasada",
+        "text": "angielski szyk zdania preferuje układ od elementów krótkich/prostych do długich/złożonych ('lekkie przed ciężkimi'); gdy naturalna kolejność gramatyczna kłóci się z tą preferencją, język ma narzędzia, by ją przywrócić — heavy NP shift to jedno z nich, obok extraposition (It's a shame that... zamiast That... is a shame) i inwersji z there"
+      },
+      {
+        "label": "Powiązanie z extraposition",
+        "text": "extraposition (already covered as part of noun clauses) przesuwa ciężkie zdanie podmiotowe na koniec i zostawia 'it' na miejscu podmiotu (It surprised everyone that she resigned.); heavy NP shift robi to samo z dopełnieniami w obrębie orzeczenia — oba mechanizmy realizują tę samą nadrzędną zasadę end-weight, ale działają na różnych pozycjach składniowych"
+      }
+    ],
+    "usage": [
+      "Przetwarzanie zdania jest łatwiejsze, gdy słuchacz/czytelnik najpierw dostaje krótką, przewidywalną strukturę (czasownik, ewentualnie krótki odbiorca), a dopiero potem musi przetworzyć długi, informacyjnie gęsty fragment",
+      "Zasada end-weight tłumaczy również, dlaczego w zdaniach z dwoma dopełnieniami krótsze zwykle poprzedza dłuższe niezależnie od roli semantycznej — nie jest to wyłącznie kwestia czasowników ditransitywnych",
+      "Naruszenie zasady (postawienie bardzo długiej frazy w środku zdania) nie jest błędem gramatycznym w ścisłym sensie, ale odczuwane jest jako niezręczne, 'ciężkie' stylistycznie zdanie — typowy błąd uczących się na poziomie C1, poprawiany dopiero na C2",
+      "W stylu akademickim i dziennikarskim redaktorzy świadomie stosują heavy NP shift i extraposition jako narzędzia redakcyjne poprawiające płynność długich zdań"
+    ],
+    "tags": [
+      "end-weight",
+      "information structure",
+      "extraposition",
+      "processing"
+    ],
+    "examples": [
+      {
+        "en": "Awkward: I gave the very detailed report that had taken three weeks to prepare to the board. → Better: I gave to the board the very detailed report that had taken three weeks to prepare.",
+        "pl": "Niezgrabnie: Dałem bardzo szczegółowy raport, którego przygotowanie zajęło trzy tygodnie, zarządowi. → Lepiej: Dałem zarządowi bardzo szczegółowy raport, którego przygotowanie zajęło trzy tygodnie."
+      },
+      {
+        "en": "It surprised everyone that she resigned so suddenly. (extraposition — same end-weight logic)",
+        "pl": "Wszystkich zaskoczyło, że tak nagle zrezygnowała. (extraposition — ta sama logika end-weight)"
+      },
+      {
+        "en": "He explained to the new recruits every rule that the company had introduced since the merger.",
+        "pl": "Wyjaśnił nowym pracownikom każdą zasadę, jaką firma wprowadziła od czasu fuzji."
+      },
+      {
+        "en": "Short before long: She gave him a book. / She gave to him the collection of essays their professor had recommended in the very first lecture.",
+        "pl": "Krótkie przed długim: Dała mu książkę. / Dała mu zbiór esejów, który ich profesor polecił na samym pierwszym wykładzie."
+      }
+    ]
+  },
+  {
+    "id": "heavy_np_register",
+    "order": 4,
+    "nameEn": "Register, ambiguity and stylistic choice",
+    "namePl": "Rejestr, dwuznaczność i wybór stylistyczny",
+    "rules": [
+      {
+        "label": "Nie jest obowiązkowe",
+        "text": "w przeciwieństwie do partykuły w czasownikach frazowych (gdzie reguła jest twarda), heavy NP shift z czasownikami ditransitywnymi jest preferencją stylistyczną, nie twardym wymogiem gramatycznym — oba szyki są gramatyczne, ale wersja z przesunięciem brzmi płynniej, im dłuższe dopełnienie"
+      },
+      {
+        "label": "Funkcja usuwania dwuznaczności",
+        "text": "przesunięcie ciężkiej frazy na koniec bywa też stosowane, by uniknąć niejasności co do zasięgu zdania względnego — She gave the man who was waiting outside the keys pozostawia niejasne, czy 'who was waiting outside' modyfikuje 'the man' czy dalszą część zdania; She gave the keys to the man who was waiting outside usuwa tę dwuznaczność, umieszczając zdanie względne bezpośrednio po rzeczowniku, który opisuje"
+      }
+    ],
+    "usage": [
+      "W mowie spontanicznej mówiący rzadko planują z wyprzedzeniem bardzo długie dopełnienia — heavy NP shift jest więc częstszy w tekście pisanym i przygotowanej mowie formalnej niż w swobodnej rozmowie",
+      "Redaktorzy i nauczyciele pisania akademickiego uczą tej zasady jako techniki poprawiającej czytelność, obok unikania zdań wielokrotnie złożonych i nadmiaru imiesłowów",
+      "Nadużywanie heavy NP shift przy dopełnieniach, które wcale nie są bardzo długie, brzmi sztucznie i przesadnie formalnie — zasada dotyczy wyraźnie 'ciężkich' fraz, nie każdego dopełnienia dłuższego niż jedno słowo",
+      "Na poziomie C2 rozpoznanie i świadome stosowanie heavy NP shift jest też przydatne przy analizie tekstów literackich i dziennikarskich, gdzie autorzy manipulują szykiem zdania dla efektu rytmicznego i emfazy"
+    ],
+    "tags": [
+      "register",
+      "ambiguity",
+      "style",
+      "written English"
+    ],
+    "examples": [
+      {
+        "en": "Ambiguous: She gave the man who was waiting outside the keys. → Clear: She gave the keys to the man who was waiting outside.",
+        "pl": "Niejednoznaczne: Dała mężczyźnie, który czekał na zewnątrz, klucze. → Jasne: Dała klucze mężczyźnie, który czekał na zewnątrz."
+      },
+      {
+        "en": "The professor recommended to every first-year student the same three novels he had recommended for the past twenty years.",
+        "pl": "Profesor polecił każdemu studentowi pierwszego roku te same trzy powieści, które polecał od dwudziestu lat."
+      },
+      {
+        "en": "Overused and unnatural: I gave to him the pen. (too short to justify the shift — just say: I gave him the pen.)",
+        "pl": "Nadużyte i nienaturalne: Dałem mu długopis w takiej formie. (za krótkie dopełnienie, by uzasadnić przesunięcie — wystarczy: I gave him the pen.)"
+      },
+      {
+        "en": "The committee awarded to the young researcher a grant covering every expense related to the three-year project.",
+        "pl": "Komisja przyznała młodemu badaczowi grant pokrywający każdy wydatek związany z trzyletnim projektem."
+      }
+    ]
+  }
+]
