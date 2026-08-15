@@ -167,6 +167,7 @@ const THEORY_URLS = {
   group_genitive: new URL("../data/group_genitive.json", import.meta.url),
   classical_plurals: new URL("../data/classical_plurals.json", import.meta.url),
   infinitive_ellipsis: new URL("../data/infinitive_ellipsis.json", import.meta.url),
+  exceptive_clauses: new URL("../data/exceptive_clauses.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -329,6 +330,7 @@ const DRILLS_URLS = {
   group_genitive: new URL("../data/group_genitiveDrills.json", import.meta.url),
   classical_plurals: new URL("../data/classical_pluralsDrills.json", import.meta.url),
   infinitive_ellipsis: new URL("../data/infinitive_ellipsisDrills.json", import.meta.url),
+  exceptive_clauses: new URL("../data/exceptive_clausesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

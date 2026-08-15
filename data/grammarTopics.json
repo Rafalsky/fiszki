@@ -1111,5 +1111,12 @@
     "title": "Elipsa bezokolicznika",
     "desc": "Elipsa bezokolicznika (stranded to): I want to, but I can't — pomijanie powtórzonego bezokolicznika po want to / like to / need to / have to i innych, kiedy zostawić samo „to”, a kiedy pominąć je całkowicie.",
     "drillCount": 40
+  },
+  {
+    "id": "exceptive_clauses",
+    "icon": "🔓",
+    "title": "Zdania wyjątku",
+    "desc": "except (that), except when/if, only i save (that) — spójniki wprowadzające wyjątek do ogólnego stwierdzenia (nie przyimki jak except for), budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
