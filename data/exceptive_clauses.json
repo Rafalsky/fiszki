@@ -1,0 +1,102 @@
+[
+  {
+    "id": "except_that",
+    "order": 1,
+    "nameEn": "except (that) — exception to a general statement",
+    "namePl": "except (that) — wyjątek od ogólnego stwierdzenia",
+    "rules": [
+      { "label": "except (that) + zdanie", "text": "except (that) wprowadza zdanie twierdzące, które ogranicza lub częściowo zaprzecza wcześniejszemu ogólnemu stwierdzeniu — 'that' jest w mowie potocznej często pomijane" },
+      { "label": "Nie mylić z 'except for'", "text": "except (that) łączy się z całym zdaniem (podmiot + orzeczenie), podczas gdy except for łączy się tylko z rzeczownikiem lub gerundem (np. except for the noise, nie except for it was noisy)" },
+      { "label": "Pozycja w zdaniu", "text": "zdanie z except (that) zwykle następuje po zdaniu głównym, oddzielone przecinkiem; rzadziej otwiera całą wypowiedź w stylu formalnym" },
+      { "label": "Czas i tryb", "text": "czasownik po except (that) przyjmuje normalny czas gramatyczny odpowiedni do kontekstu — nie ma tu specjalnego trybu łączącego" }
+    ],
+    "usage": [
+      "Ograniczenie ogólnego stwierdzenia jednym wyjątkiem: The report is finished, except that the last section still needs checking.",
+      "Opis podobieństwa z jedną różnicą: The two brothers look identical, except that one wears glasses.",
+      "Nieformalne pominięcie 'that': I'd say yes, except I'm not sure I'll be free that day.",
+      "W odpowiedzi korygującej wcześniejsze stwierdzenie: Everything went well, except that we arrived twenty minutes late."
+    ],
+    "tags": ["except that", "except I", "identical, except that", "finished, except that"],
+    "examples": [
+      { "en": "The plan sounds perfect, except that it costs far more than we can afford.", "pl": "Plan brzmi idealnie, poza tym że kosztuje dużo więcej, niż możemy sobie pozwolić." },
+      { "en": "She would have called you back, except she lost her phone.", "pl": "Oddzwoniłaby do ciebie, tylko że zgubiła telefon." },
+      { "en": "The rooms are all the same, except that the corner one has a bigger window.", "pl": "Wszystkie pokoje są takie same, poza tym że narożny ma większe okno." },
+      { "en": "I don't mind the job, except that the commute is exhausting.", "pl": "Nie przeszkadza mi ta praca, poza tym że dojazdy są wykańczające." }
+    ]
+  },
+  {
+    "id": "except_when_if",
+    "order": 2,
+    "nameEn": "except when / except if — exception tied to time or condition",
+    "namePl": "except when / except if — wyjątek związany z czasem lub warunkiem",
+    "rules": [
+      { "label": "except when", "text": "except when + zdanie ogranicza ogólne stwierdzenie do konkretnych sytuacji, w których ono nie obowiązuje — wskazuje moment lub okoliczność wyjątku" },
+      { "label": "except if", "text": "except if + zdanie działa podobnie, ale wskazuje warunek, a nie moment w czasie — jest rzadsze i bardziej formalne niż except when" },
+      { "label": "Kontrast z unless", "text": "unless samo wprowadza warunek konieczny dla całego zdania głównego (nie stanie się X, chyba że Y), a except if/when zawęża już przyjętą regułę o pojedynczy wyjątek" },
+      { "label": "Rejestr", "text": "except when jest naturalne w mowie i piśmie; except if bywa odbierane jako nieco sztywne — w swobodnej rozmowie częściej słychać samo except lub unless" }
+    ],
+    "usage": [
+      "Wyjątek czasowy od zwyczaju: He walks to work every day, except when it's raining heavily.",
+      "Wyjątek warunkowy od reguły: Guests may use the pool at any time, except if a private event is being held there.",
+      "Kontrast z unless w tym samym kontekście: The alarm stays off, except when someone opens a window.",
+      "Formalny rejestr pisany: Refunds are not available, except if the item arrives damaged."
+    ],
+    "tags": ["except when it's raining", "except if the item", "every day, except when", "not available, except if"],
+    "examples": [
+      { "en": "She never raises her voice, except when the children are being reckless.", "pl": "Nigdy nie podnosi głosu, poza sytuacjami, gdy dzieci są nieostrożne." },
+      { "en": "The library is open every day, except when a public holiday falls on that date.", "pl": "Biblioteka jest otwarta codziennie, poza dniami, gdy wypada w nie dzień wolny od pracy." },
+      { "en": "You won't be charged, except if you cancel less than 24 hours before arrival.", "pl": "Nie zostaniesz obciążony opłatą, poza sytuacją, gdy anulujesz rezerwację mniej niż 24 godziny przed przyjazdem." },
+      { "en": "Employees may work from home, except if a client meeting requires their presence in the office.", "pl": "Pracownicy mogą pracować z domu, poza sytuacją, gdy spotkanie z klientem wymaga ich obecności w biurze." }
+    ]
+  },
+  {
+    "id": "only_exception",
+    "order": 3,
+    "nameEn": "only — informal conjunction of exception",
+    "namePl": "only — nieformalny spójnik wyjątku",
+    "rules": [
+      { "label": "only = but/except", "text": "w mowie potocznej only na początku drugiego zdania działa jak spójnik znaczący 'ale, tylko że' — wprowadza zastrzeżenie, które ogranicza lub psuje wcześniejsze stwierdzenie" },
+      { "label": "Pozycja", "text": "only zawsze otwiera drugie zdanie (po przecinku lub jako osobne zdanie), nigdy nie stoi w środku zdania jak 'but'" },
+      { "label": "Rejestr", "text": "wyraźnie nieformalne, typowe dla mówionego angielskiego i dialogów — w piśmie formalnym zastępowane przez except that / but" },
+      { "label": "Częste połączenie z modalnymi", "text": "only często poprzedza zdanie z czasownikiem modalnym lub czasem przeszłym wyrażającym powód niemożności (only I can't, only I don't have time) — sygnalizuje niespełnioną chęć" }
+    ],
+    "usage": [
+      "Odmowa z powodem: I'd love to help you move, only I've already promised to babysit that day.",
+      "Cofnięcie wcześniejszej zgody: You can borrow my car, only you'll need to fill it up before you bring it back.",
+      "Nieformalne wyjaśnienie w rozmowie: It's a great restaurant, only it's a bit pricey for a weekday lunch.",
+      "Reakcja na propozycję: I would come to the party, only I'm not feeling very well."
+    ],
+    "tags": ["only I've", "only it's a bit", "would come, only", "help you, only"],
+    "examples": [
+      { "en": "I'd have texted you, only my phone died halfway through the day.", "pl": "Wysłałabym ci SMS-a, tylko że mój telefon padł w połowie dnia." },
+      { "en": "You can stay at ours, only the spare room is a bit of a mess right now.", "pl": "Możesz zostać u nas, tylko że pokój gościnny jest teraz trochę w bałaganie." },
+      { "en": "He's a brilliant cook, only he never cleans up afterwards.", "pl": "Jest świetnym kucharzem, tylko że nigdy nie sprząta po sobie." },
+      { "en": "We'd go camping this weekend, only the forecast looks terrible.", "pl": "Pojechalibyśmy w ten weekend na camping, tylko że prognoza wygląda fatalnie." }
+    ]
+  },
+  {
+    "id": "save_that",
+    "order": 4,
+    "nameEn": "save (that) / but that — formal and literary exception",
+    "namePl": "save (that) / but that — formalny i literacki wyjątek",
+    "rules": [
+      { "label": "save (that)", "text": "save (that) to bardzo formalny, literacki synonim except (that) — save + rzeczownik/gerund działa jak przyimek, save that + zdanie działa jak spójnik" },
+      { "label": "but that", "text": "but that + zdanie to archaiczny/literacki odpowiednik except that, dziś rzadki poza stylem podniosłym lub cytatami — nie mylić z 'but' jako zwykłym spójnikiem przeciwstawnym" },
+      { "label": "Rejestr", "text": "obie formy należą do rejestru pisanego, formalnego, prawniczego lub literackiego — w codziennej mowie brzmią archaicznie i są zastępowane przez except (that)" },
+      { "label": "save for", "text": "save for + rzeczownik (bez 'that') to formalny odpowiednik except for — 'The room was empty, save for a single chair.'" }
+    ],
+    "usage": [
+      "Formalne/literackie zdanie wyjątku: He revealed nothing about his plans, save that he intended to leave before dawn.",
+      "Prawniczy lub oficjalny rejestr: All members are eligible to vote, save that new members must wait six months.",
+      "Archaiczne but that w stylu podniosłym: I would have spoken up, but that I feared the consequences.",
+      "save for + rzeczownik jako formalny 'except for': The street was silent, save for the distant sound of a train."
+    ],
+    "tags": ["save that he", "save for a single chair", "but that I feared", "eligible to vote, save that"],
+    "examples": [
+      { "en": "The old house stood untouched, save that the garden had grown completely wild.", "pl": "Stary dom stał nietknięty, poza tym że ogród całkowicie zdziczał." },
+      { "en": "She told him everything, save that she never mentioned the letter.", "pl": "Powiedziała mu wszystko, poza tym że nigdy nie wspomniała o liście." },
+      { "en": "He said nothing, save for a quiet nod of agreement.", "pl": "Nic nie powiedział, poza cichym skinieniem głowy na znak zgody." },
+      { "en": "I would have forgiven him, but that he never even apologised.", "pl": "Wybaczyłabym mu, gdyby nie to, że nigdy nawet nie przeprosił." }
+    ]
+  }
+]
