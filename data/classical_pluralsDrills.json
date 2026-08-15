@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "greek_on_a",
+    "prompt": "Price should not be the only ___ (kryterium) for choosing a supplier.",
+    "answer": "criterion",
+    "distractors": ["criteria", "criterions", "criterias"]
+  },
+  {
+    "id": 2,
+    "itemId": "greek_on_a",
+    "prompt": "The committee agreed on three clear ___ (kryteria) for the award.",
+    "answer": "criteria",
+    "distractors": ["criterion", "criterions", "criteria's"]
+  },
+  {
+    "id": 3,
+    "itemId": "greek_on_a",
+    "prompt": "Ball lightning is a rare and poorly understood ___ (zjawisko).",
+    "answer": "phenomenon",
+    "distractors": ["phenomena", "phenomenons", "phenomenom"]
+  },
+  {
+    "id": 4,
+    "itemId": "greek_on_a",
+    "prompt": "The lecture covered several natural ___ (zjawiska) linked to climate change.",
+    "answer": "phenomena",
+    "distractors": ["phenomenon", "phenomenons", "phenomenas"]
+  },
+  {
+    "id": 5,
+    "itemId": "greek_on_a",
+    "prompt": "___ (to kryterium) is far too vague to be useful.",
+    "answer": "This criterion",
+    "distractors": ["This criteria", "These criterion", "That criterias"]
+  },
+  {
+    "id": 6,
+    "itemId": "greek_on_a",
+    "prompt": "We need to define ___ (nowe kryteria) before the next round of interviews.",
+    "answer": "new criteria",
+    "distractors": ["new criterion", "a new criteria", "new criterions"]
+  },
+  {
+    "id": 7,
+    "itemId": "greek_on_a",
+    "prompt": "Sleepwalking is considered ___ (dość powszechnym zjawiskiem) among children.",
+    "answer": "a fairly common phenomenon",
+    "distractors": ["a fairly common phenomena", "fairly common phenomenons", "fairly common phenomenon's"]
+  },
+  {
+    "id": 8,
+    "itemId": "greek_on_a",
+    "prompt": "Early factory robots are sometimes described as simple ___ (automaty).",
+    "answer": "automata",
+    "distractors": ["automatons", "automaton", "automatas"]
+  },
+  {
+    "id": 9,
+    "itemId": "latin_us_i",
+    "prompt": "The desert garden was full of tall ___ (kaktusów).",
+    "answer": "cacti",
+    "distractors": ["cactuses's", "cactus", "cactis"]
+  },
+  {
+    "id": 10,
+    "itemId": "latin_us_i",
+    "prompt": "Each of the two atoms had a single proton in its ___ (jądrze).",
+    "answer": "nucleus",
+    "distractors": ["nuclei", "nucleuses", "nucleon"]
+  },
+  {
+    "id": 11,
+    "itemId": "latin_us_i",
+    "prompt": "The cells were examined under a microscope, and their ___ (jądra) looked healthy.",
+    "answer": "nuclei",
+    "distractors": ["nucleuses", "nucleus", "nucleis"]
+  },
+  {
+    "id": 12,
+    "itemId": "latin_us_i",
+    "prompt": "Loud noises and bright lights are common ___ (bodźce) for a headache.",
+    "answer": "stimuli",
+    "distractors": ["stimuluses", "stimulus", "stimulis"]
+  },
+  {
+    "id": 13,
+    "itemId": "latin_us_i",
+    "prompt": "Draw a circle with a ___ (promieniu) of five centimetres.",
+    "answer": "radius",
+    "distractors": ["radii", "radiuses", "radious"]
+  },
+  {
+    "id": 14,
+    "itemId": "latin_us_i",
+    "prompt": "The two circles have different ___ (promienie) but the same centre.",
+    "answer": "radii",
+    "distractors": ["radiuses", "radius", "radias"]
+  },
+  {
+    "id": 15,
+    "itemId": "latin_us_i",
+    "prompt": "The linguistics study was based on two large text ___ (korpusach).",
+    "answer": "corpora",
+    "distractors": ["corpuses", "corpus", "corpi"]
+  },
+  {
+    "id": 16,
+    "itemId": "latin_us_i",
+    "prompt": "Every lecturer has to submit a ___ (sylabus) before the term starts.",
+    "answer": "syllabus",
+    "distractors": ["syllabi", "syllabuses'", "sylabus"]
+  },
+  {
+    "id": 17,
+    "itemId": "latin_is_es",
+    "prompt": "The consultant carried out a thorough ___ (analizę) of our finances.",
+    "answer": "analysis",
+    "distractors": ["analyses", "analysises", "analisis"]
+  },
+  {
+    "id": 18,
+    "itemId": "latin_is_es",
+    "prompt": "The report contains several detailed ___ (analiz) of last quarter's sales.",
+    "answer": "analyses",
+    "distractors": ["analysis", "analysises", "analyzes"]
+  },
+  {
+    "id": 19,
+    "itemId": "latin_is_es",
+    "prompt": "The country is currently going through a serious economic ___ (kryzys).",
+    "answer": "crisis",
+    "distractors": ["crises", "crisises", "crysis"]
+  },
+  {
+    "id": 20,
+    "itemId": "latin_is_es",
+    "prompt": "Historians have studied several major financial ___ (kryzysy) of the last century.",
+    "answer": "crises",
+    "distractors": ["crisis", "crisises", "crisus"]
+  },
+  {
+    "id": 21,
+    "itemId": "latin_is_es",
+    "prompt": "She is writing her doctoral ___ (pracę) on renewable energy policy.",
+    "answer": "thesis",
+    "distractors": ["theses", "thesises", "thesis'"]
+  },
+  {
+    "id": 22,
+    "itemId": "latin_is_es",
+    "prompt": "Two competing ___ (tezy) were presented at the conference.",
+    "answer": "theses",
+    "distractors": ["thesis", "thesises", "thesus"]
+  },
+  {
+    "id": 23,
+    "itemId": "latin_is_es",
+    "prompt": "Scientists proposed a new ___ (hipotezę) to explain the results.",
+    "answer": "hypothesis",
+    "distractors": ["hypotheses", "hypothesises", "hypothesis'"]
+  },
+  {
+    "id": 24,
+    "itemId": "latin_is_es",
+    "prompt": "The team tested several competing ___ (hipotez) before reaching a conclusion.",
+    "answer": "hypotheses",
+    "distractors": ["hypothesis", "hypothesises", "hypothesus"]
+  },
+  {
+    "id": 25,
+    "itemId": "latin_um_a",
+    "prompt": "In academic writing it is safer to say ___ (dane są) still being processed.",
+    "answer": "the data are",
+    "distractors": ["the datas are", "the data's are", "the datum are"]
+  },
+  {
+    "id": 26,
+    "itemId": "latin_um_a",
+    "prompt": "In everyday speech, people often say ___ (dane jest) clear enough to act on.",
+    "answer": "the data is",
+    "distractors": ["the datas is", "the datum is", "the data're"]
+  },
+  {
+    "id": 27,
+    "itemId": "latin_um_a",
+    "prompt": "___ (media relacjonują) the story from every angle this week.",
+    "answer": "The media is covering",
+    "distractors": ["The media are covering", "The medias is covering", "The medium is covering"]
+  },
+  {
+    "id": 28,
+    "itemId": "latin_um_a",
+    "prompt": "USB drives and cloud storage are both common storage ___ (nośnikami).",
+    "answer": "media",
+    "distractors": ["mediums", "medias", "medium"]
+  },
+  {
+    "id": 29,
+    "itemId": "latin_um_a",
+    "prompt": "Some ___ (bakterie) in the gut actually help with digestion.",
+    "answer": "bacteria",
+    "distractors": ["bacterium", "bacterias", "bacteriums"]
+  },
+  {
+    "id": 30,
+    "itemId": "latin_um_a",
+    "prompt": "Under the microscope, a single ___ (bakteria) was clearly visible.",
+    "answer": "bacterium",
+    "distractors": ["bacteria", "bacteriums", "bacterias"]
+  },
+  {
+    "id": 31,
+    "itemId": "latin_um_a",
+    "prompt": "The two schools follow completely different ___ (programy nauczania).",
+    "answer": "curricula",
+    "distractors": ["curriculums'", "curriculum", "curriculas"]
+  },
+  {
+    "id": 32,
+    "itemId": "latin_um_a",
+    "prompt": "He sent a short internal ___ (notatkę służbową) to the whole department.",
+    "answer": "memorandum",
+    "distractors": ["memoranda", "memorandums'", "memorandas"]
+  },
+  {
+    "id": 33,
+    "itemId": "latin_a_ae_ex_ix",
+    "prompt": "Chemists rely on precise ___ (wzorów) to describe these reactions.",
+    "answer": "formulae",
+    "distractors": ["formulas'", "formula", "formulaes"]
+  },
+  {
+    "id": 34,
+    "itemId": "latin_a_ae_ex_ix",
+    "prompt": "The X-ray showed that two of her ___ (kręgów) were slightly out of place.",
+    "answer": "vertebrae",
+    "distractors": ["vertebras", "vertebra", "vertebraes"]
+  },
+  {
+    "id": 35,
+    "itemId": "latin_a_ae_ex_ix",
+    "prompt": "The final report included three ___ (załączniki) with supporting data.",
+    "answer": "appendices",
+    "distractors": ["appendixs", "appendix", "appendixes'"]
+  },
+  {
+    "id": 36,
+    "itemId": "latin_a_ae_ex_ix",
+    "prompt": "The surgeon removed both patients' inflamed ___ (wyrostki robaczkowe) that day.",
+    "answer": "appendixes",
+    "distractors": ["appendices", "appendix's", "appendixe"]
+  },
+  {
+    "id": 37,
+    "itemId": "latin_a_ae_ex_ix",
+    "prompt": "Stock market ___ (wskaźniki) fell sharply after the announcement.",
+    "answer": "indices",
+    "distractors": ["indexes'", "index", "indexs"]
+  },
+  {
+    "id": 38,
+    "itemId": "latin_a_ae_ex_ix",
+    "prompt": "The book has a detailed ___ (indeks) at the back for easy reference.",
+    "answer": "index",
+    "distractors": ["indices", "indexes'", "indexus"]
+  },
+  {
+    "id": 39,
+    "itemId": "latin_a_ae_ex_ix",
+    "prompt": "The professor asked the class to multiply the two ___ (macierze).",
+    "answer": "matrices",
+    "distractors": ["matrixes'", "matrix", "matrixs"]
+  },
+  {
+    "id": 40,
+    "itemId": "latin_a_ae_ex_ix",
+    "prompt": "A single ___ (macierz) can represent a whole system of equations.",
+    "answer": "matrix",
+    "distractors": ["matrices", "matrixe", "matrics"]
+  }
+]
