@@ -1,0 +1,98 @@
+[
+  {
+    "id": "basic_group_genitive",
+    "order": 1,
+    "nameEn": "Group genitive with postmodified noun phrases",
+    "namePl": "Dopełniacz grupowy z rozbudowaną frazą rzeczownikową",
+    "rules": [
+      { "label": "Zasada podstawowa", "text": "'s dołączamy nie do rzeczownika głównego, lecz do OSTATNIEGO SŁOWA całej frazy rzeczownikowej, gdy rzeczownik jest rozbudowany o frazę przyimkową, zdanie względne lub inny postmodyfikator: the man next door's car (nie: the man's next door car)" },
+      { "label": "Typowe rozszerzenia", "text": "Fraza przyimkowa (the Queen of England's crown), zdanie względne bez zaimka (the woman I met's name), fraza z 'else' i inne określenia stojące PO rzeczowniku głównym" },
+      { "label": "Kontrast z prostym dopełniaczem", "text": "Dopełniacz saksoński w podstawowej formie łączy 's bezpośrednio z pojedynczym rzeczownikiem (Anna's book); dopełniacz grupowy traktuje całą frazę jak jeden 'wielki rzeczownik' i dodaje 's dopiero na jej końcu" }
+    ],
+    "usage": [
+      "Gdy posiadacz jest opisany dłuższą frazą, a nie pojedynczym rzeczownikiem: the man next door's garden, the boy on the bike's helmet",
+      "Z tytułami zawierającymi 'of': the President of France's speech, the Duke of Cambridge's title",
+      "W mowie potocznej bardzo częste, w piśmie formalnym przy dłuższych frazach bywa niezgrabne i lepiej je przeformułować (patrz temat: kiedy unikać dopełniacza grupowego)",
+      "Nie myl z podwójnym dopełniaczem (of + zaimek dzierżawczy, jak 'a friend of mine') — to inna konstrukcja, opisana w temacie Dzierżawczość"
+    ],
+    "tags": ["the man next door's car", "the Queen of England's crown", "the woman I met's name", "the boy on the bike's helmet"],
+    "examples": [
+      { "en": "The man next door's dog barks all night.", "pl": "Pies sąsiada zza ściany szczeka całą noc." },
+      { "en": "Have you met the Queen of England's grandson?", "pl": "Poznałeś wnuka królowej Anglii?" },
+      { "en": "The girl I told you about's brother works here.", "pl": "Brat dziewczyny, o której ci mówiłem, pracuje tutaj." },
+      { "en": "The woman in the red coat's umbrella is missing.", "pl": "Zginął parasol kobiety w czerwonym płaszczu." }
+    ]
+  },
+  {
+    "id": "someone_else_genitive",
+    "order": 2,
+    "nameEn": "Genitive with 'else' (someone else's, everybody else's)",
+    "namePl": "Dopełniacz z „else” (someone else's, everybody else's)",
+    "rules": [
+      { "label": "Budowa", "text": "zaimek nieokreślony (someone/somebody/anyone/anybody/everyone/everybody/no one/nobody/who) + else + 's — 's dołączamy do 'else', NIE do samego zaimka: someone else's, nigdy someone's else" },
+      { "label": "Obowiązkowość", "text": "To jedyna poprawna forma — nie istnieje wariant bez przesunięcia 's na 'else', gdy chcemy powiedzieć 'czyjś inny / cudzy'" },
+      { "label": "who else's", "text": "W pytaniach: Who else's coat could this be? — pytamy, czyj jeszcze (poza znaną już osobą) może to być" }
+    ],
+    "usage": [
+      "Wyrażanie, że coś należy do innej, nieokreślonej osoby: This isn't my umbrella — it must be somebody else's.",
+      "Krytyka lub oskarżenie o obwinianie innych: He always blames everyone else's mistakes instead of his own.",
+      "Pytania o dodatkowego posiadacza: Whose bag is this? Who else's could it be?",
+      "Forma 'else's' może stać samodzielnie jak zaimek dzierżawczy (It's someone else's) lub przed rzeczownikiem (someone else's coat)"
+    ],
+    "tags": ["someone else's", "somebody else's problem", "who else's", "everyone else's opinion"],
+    "examples": [
+      { "en": "This jacket isn't mine — it must be someone else's.", "pl": "Ta kurtka nie jest moja — musi być czyjaś inna." },
+      { "en": "Stop worrying about everybody else's business.", "pl": "Przestań się martwić cudzymi sprawami." },
+      { "en": "Whose idea was this? It certainly wasn't anybody else's.", "pl": "Czyj to był pomysł? Na pewno niczyj inny." },
+      { "en": "He never takes responsibility — he always blames someone else's mistakes.", "pl": "Nigdy nie bierze odpowiedzialności — zawsze obwinia cudze błędy." }
+    ]
+  },
+  {
+    "id": "joint_vs_separate_genitive",
+    "order": 3,
+    "nameEn": "Joint vs. separate (individual) genitive with coordination",
+    "namePl": "Dopełniacz łączny a rozdzielny przy współrzędności",
+    "rules": [
+      { "label": "Dopełniacz łączny (jedna wspólna rzecz)", "text": "Gdy dwie lub więcej osób posiada wspólnie JEDNĄ rzecz, 's dodajemy tylko do OSTATNIEGO rzeczownika w wyliczeniu — całą frazę 'X and Y' traktujemy jak jeden dopełniacz grupowy: Tom and Jerry's house (jeden wspólny dom)" },
+      { "label": "Dopełniacz rozdzielny (osobne rzeczy)", "text": "Gdy każda osoba posiada WŁASNY, osobny egzemplarz, 's dodajemy do KAŻDEGO rzeczownika osobno, a rzeczownik posiadany zwykle występuje w liczbie mnogiej: Tom's and Jerry's houses (dwa osobne domy)" },
+      { "label": "Test znaczeniowy", "text": "Zadaj pytanie: czy chodzi o jedną wspólną rzecz, czy o po jednej rzeczy na osobę? Liczba rzeczownika posiadanego (house vs houses) często to podpowiada, choć czasem trzeba polegać na kontekście" }
+    ],
+    "usage": [
+      "Wspólna własność, wspólne relacje: Jack and Jill's parents (ci sami rodzice, wspólni dla obojga), my mum and dad's car",
+      "Osobna własność: John's and Mary's opinions were completely different (dwie różne, osobne opinie)",
+      "Z zaimkiem osobowym zamiast drugiego rzeczownika naturalniejsza jest osobna forma: Tom's and my plan, nie Tom and I's plan",
+      "W nazwach firm i duetów niemal zawsze dopełniacz łączny, bo to jedna, wspólna instytucja: Marks and Spencer's, Fortnum and Mason's"
+    ],
+    "tags": ["Tom and Jerry's house", "Tom's and Jerry's houses", "Jack and Jill's parents", "Marks and Spencer's"],
+    "examples": [
+      { "en": "We had dinner at Tom and Jerry's house last night.", "pl": "Byliśmy wczoraj na kolacji w domu Toma i Jerry'ego (ich wspólnym domu)." },
+      { "en": "Tom's and Jerry's houses are on opposite sides of town.", "pl": "Domy Toma i Jerry'ego są po przeciwnych stronach miasta (dwa osobne domy)." },
+      { "en": "Jack and Jill's parents still live in the old farmhouse.", "pl": "Rodzice Jacka i Jill (ci sami) wciąż mieszkają w starym gospodarstwie." },
+      { "en": "I couldn't tell John's and Mary's handwriting apart.", "pl": "Nie mogłem rozróżnić pisma Johna i pisma Mary (dwóch osobnych charakterów pisma)." }
+    ]
+  },
+  {
+    "id": "group_genitive_avoidance",
+    "order": 4,
+    "nameEn": "When to avoid the group genitive (of-genitive instead)",
+    "namePl": "Kiedy unikać dopełniacza grupowego (dopełniacz z „of”)",
+    "rules": [
+      { "label": "Kiedy brzmi niezgrabnie", "text": "Im dłuższa i bardziej złożona fraza przed 's, tym trudniej ją przetworzyć — rodzimi użytkownicy unikają wtedy dopełniacza grupowego na rzecz frazy z 'of' lub innego przeformułowania" },
+      { "label": "Alternatywa z of", "text": "Zamiast the Editor of the Times's decision naturalniej: the decision of the Editor of the Times, lub krócej: the Times editor's decision (skrócenie frazy przed 's)" },
+      { "label": "Przeformułowanie zdaniem", "text": "Zamiast the man who lives next door's garden, lepiej: the garden of the man who lives next door" }
+    ],
+    "usage": [
+      "Styl formalny i pisany: unikaj piętrzenia modyfikatorów przed 's, zwłaszcza z tytułami i nazwami instytucji zawierającymi 'of'",
+      "Test 'na głos': jeśli fraza przed 's brzmi nienaturalnie, przeformułuj zdanie z 'of' albo skróć frazę przed 's",
+      "Z rzeczami nieożywionymi dopełniacz z 'of' jest i tak zwykle preferowany niezależnie od długości frazy: the roof of the building",
+      "Reguła nie jest sztywna — krótkie, utarte frazy grupowe (someone else's, the man next door's) pozostają całkowicie naturalne nawet w piśmie formalnym"
+    ],
+    "tags": ["the decision of the Editor of the Times", "the Times editor's decision", "avoid group genitive", "of-phrase alternative"],
+    "examples": [
+      { "en": "Formal writing usually prefers 'the decision of the Editor of the Times' over an awkward group genitive.", "pl": "Styl formalny woli 'decyzję redaktora naczelnego Timesa' niż niezgrabny dopełniacz grupowy." },
+      { "en": "Instead of 'the man who lives next door's car', it's more natural to say 'the car belonging to the man next door'.", "pl": "Zamiast niezgrabnej formy, naturalniej powiedzieć 'samochód należący do sąsiada'." },
+      { "en": "The roof of the old building needs repairing.", "pl": "Dach starego budynku wymaga naprawy." },
+      { "en": "Rather than piling up modifiers before 's, formal writing often prefers an of-phrase.", "pl": "Zamiast piętrzyć określenia przed 's, styl formalny często woli frazę z of." }
+    ]
+  }
+]
