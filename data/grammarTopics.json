@@ -1062,5 +1062,12 @@
     "title": "Spójniki współrzędne",
     "desc": "Spójniki współrzędne and / but / or / so / yet / for / nor — łączenie zdań i orzeczeń, przecinek przed spójnikiem — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "way_construction",
+    "icon": "🛣️",
+    "title": "Konstrukcja „way”",
+    "desc": "push/fight/talk your way — czasownik sposobu + zaimek dzierżawczy + „way” + fraza kierunkowa do wyrażania mozolnego pokonywania przeszkody dosłownie i w przenośni — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 36
   }
 ]

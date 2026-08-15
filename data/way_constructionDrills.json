@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "itemId": "verb_possessive_way",
+    "prompt": "She ___ through the dense crowd to reach the stage.",
+    "answer": "pushed her way",
+    "distractors": ["pushed the way", "pushed a way", "was pushed her way"]
+  },
+  {
+    "id": 2,
+    "itemId": "verb_possessive_way",
+    "prompt": "The soldiers ___ carefully across the minefield.",
+    "answer": "picked their way",
+    "distractors": ["picked its way", "picked the way", "were picked their way"]
+  },
+  {
+    "id": 3,
+    "itemId": "verb_possessive_way",
+    "prompt": "He ___ into the locked building through a side window.",
+    "answer": "forced his way",
+    "distractors": ["forced the way", "forced a way", "was forced his way"]
+  },
+  {
+    "id": 4,
+    "itemId": "verb_possessive_way",
+    "prompt": "We ___ through the narrow alleys of the old town.",
+    "answer": "threaded our way",
+    "distractors": ["threaded the way", "threaded a way", "were threaded our way"]
+  },
+  {
+    "id": 5,
+    "itemId": "verb_possessive_way",
+    "prompt": "I had to ___ onto the packed train.",
+    "answer": "elbow my way",
+    "distractors": ["elbow the way", "elbow a way", "be elbowed my way"]
+  },
+  {
+    "id": 6,
+    "itemId": "verb_possessive_way",
+    "prompt": "The climbers slowly ___ up the icy slope.",
+    "answer": "inched their way",
+    "distractors": ["inched the way", "inched a way", "were inched their way"]
+  },
+  {
+    "id": 7,
+    "itemId": "verb_possessive_way",
+    "prompt": "The river ___ through the valley below.",
+    "answer": "wound its way",
+    "distractors": ["wound the way", "wound a way", "was wound its way"]
+  },
+  {
+    "id": 8,
+    "itemId": "verb_possessive_way",
+    "prompt": "She ___ blindly through the smoke-filled room.",
+    "answer": "felt her way",
+    "distractors": ["felt the way", "felt a way", "was felt her way"]
+  },
+  {
+    "id": 9,
+    "itemId": "verb_possessive_way",
+    "prompt": "He ___ across the rubble, searching for survivors.",
+    "answer": "clawed his way",
+    "distractors": ["clawed the way", "clawed a way", "was clawed his way"]
+  },
+  {
+    "id": 10,
+    "itemId": "verb_possessive_way",
+    "prompt": "They had to ___ through thick undergrowth to reach the river.",
+    "answer": "make their way",
+    "distractors": ["make the way", "make a way", "be made their way"]
+  },
+  {
+    "id": 11,
+    "itemId": "verb_possessive_way",
+    "prompt": "The prisoner ___ out of the cell through a narrow gap.",
+    "answer": "wormed his way",
+    "distractors": ["wormed the way", "wormed a way", "was wormed his way"]
+  },
+  {
+    "id": 12,
+    "itemId": "verb_possessive_way",
+    "prompt": "You can't just ___ into every conversation.",
+    "answer": "shoulder your way",
+    "distractors": ["shoulder the way", "shoulder a way", "be shouldered your way"]
+  },
+  {
+    "id": 13,
+    "itemId": "figurative_way",
+    "prompt": "He ___ out of trouble with the police.",
+    "answer": "talked his way",
+    "distractors": ["talked the way", "talked a way", "was talked his way"]
+  },
+  {
+    "id": 14,
+    "itemId": "figurative_way",
+    "prompt": "She ___ into the director's office without an appointment.",
+    "answer": "charmed her way",
+    "distractors": ["charmed the way", "charmed a way", "was charmed her way"]
+  },
+  {
+    "id": 15,
+    "itemId": "figurative_way",
+    "prompt": "He ___ up from intern to CEO in fifteen years.",
+    "answer": "worked his way",
+    "distractors": ["worked the way", "worked a way", "was worked his way"]
+  },
+  {
+    "id": 16,
+    "itemId": "figurative_way",
+    "prompt": "The company was accused of ___ into the local market.",
+    "answer": "buying its way",
+    "distractors": ["buying the way", "buying a way", "having bought its way"]
+  },
+  {
+    "id": 17,
+    "itemId": "figurative_way",
+    "prompt": "He tried to ___ out of paying the fine.",
+    "answer": "lie his way",
+    "distractors": ["lie the way", "lie a way", "be lied his way"]
+  },
+  {
+    "id": 18,
+    "itemId": "figurative_way",
+    "prompt": "The official was caught ___ into a lucrative contract.",
+    "answer": "bribing his way",
+    "distractors": ["bribing the way", "bribing a way", "having bribed the way"]
+  },
+  {
+    "id": 19,
+    "itemId": "figurative_way",
+    "prompt": "She ___ through the interview with confident, witty answers.",
+    "answer": "joked her way",
+    "distractors": ["joked the way", "joked a way", "was joked her way"]
+  },
+  {
+    "id": 20,
+    "itemId": "figurative_way",
+    "prompt": "He managed to ___ into the exclusive club without an invitation.",
+    "answer": "worm his way",
+    "distractors": ["worm the way", "worm a way", "be wormed his way"]
+  },
+  {
+    "id": 21,
+    "itemId": "figurative_way",
+    "prompt": "They ___ through years of financial hardship with grit and determination.",
+    "answer": "fought their way",
+    "distractors": ["fought the way", "fought a way", "were fought their way"]
+  },
+  {
+    "id": 22,
+    "itemId": "figurative_way",
+    "prompt": "The band ___ to the top of the charts after years of obscurity.",
+    "answer": "clawed their way",
+    "distractors": ["clawed the way", "clawed a way", "were clawed their way"]
+  },
+  {
+    "id": 23,
+    "itemId": "figurative_way",
+    "prompt": "She ___ into his good graces with flattery and small favours.",
+    "answer": "wheedled her way",
+    "distractors": ["wheedled the way", "wheedled a way", "was wheedled her way"]
+  },
+  {
+    "id": 24,
+    "itemId": "figurative_way",
+    "prompt": "He ___ out of every awkward situation with a clever excuse.",
+    "answer": "weaselled his way",
+    "distractors": ["weaselled the way", "weaselled a way", "was weaselled his way"]
+  },
+  {
+    "id": 25,
+    "itemId": "way_construction_constraints",
+    "prompt": "They ___ back to the top of the league after years of decline.",
+    "answer": "fought their way",
+    "distractors": ["fought the way", "were fought their way", "had their way fought"]
+  },
+  {
+    "id": 26,
+    "itemId": "way_construction_constraints",
+    "prompt": "You can't just ___ in without an invitation.",
+    "answer": "push your way",
+    "distractors": ["push the way", "be pushed your way", "have your way pushed"]
+  },
+  {
+    "id": 27,
+    "itemId": "way_construction_constraints",
+    "prompt": "It was crowded, but she ___ through calmly, unlike the man who shoved everyone aside.",
+    "answer": "made her way",
+    "distractors": ["was made her way", "had her way made", "made the way"]
+  },
+  {
+    "id": 28,
+    "itemId": "way_construction_constraints",
+    "prompt": "The gate was locked, so we ___ through the hedge instead.",
+    "answer": "forced our way",
+    "distractors": ["were forced our way", "had our way forced", "forced the way"]
+  },
+  {
+    "id": 29,
+    "itemId": "way_construction_constraints",
+    "prompt": "The crowd was dense, and it took him ten minutes to ___ to the exit.",
+    "answer": "fight his way",
+    "distractors": ["fight the way", "be fought his way", "have his way fought"]
+  },
+  {
+    "id": 30,
+    "itemId": "way_construction_constraints",
+    "prompt": "Compare: 'She walked through the crowd' (easily) vs 'She ___ through the crowd' (with effort).",
+    "answer": "pushed her way",
+    "distractors": ["pushed the way", "was pushed her way", "had her way pushed"]
+  },
+  {
+    "id": 31,
+    "itemId": "way_construction_constraints",
+    "prompt": "*Her way was pushed through the crowd is ungrammatical; correctly: She ___ through the crowd.",
+    "answer": "pushed her way",
+    "distractors": ["was pushed her way", "had pushed the way", "pushed a way"]
+  },
+  {
+    "id": 32,
+    "itemId": "way_construction_constraints",
+    "prompt": "We ___ down the mountain before the storm hit.",
+    "answer": "made our way",
+    "distractors": ["were made our way", "had our way made", "made the way"]
+  },
+  {
+    "id": 33,
+    "itemId": "way_construction_constraints",
+    "prompt": "He couldn't afford a ticket, so he ___ backstage disguised as a technician.",
+    "answer": "talked his way",
+    "distractors": ["was talked his way", "had his way talked", "talked the way"]
+  },
+  {
+    "id": 34,
+    "itemId": "way_construction_constraints",
+    "prompt": "Despite the guards, the reporters ___ into the press conference.",
+    "answer": "muscled their way",
+    "distractors": ["were muscled their way", "had their way muscled", "muscled the way"]
+  },
+  {
+    "id": 35,
+    "itemId": "way_construction_constraints",
+    "prompt": "The old dog ___ slowly across the busy road.",
+    "answer": "picked its way",
+    "distractors": ["picked the way", "was picked its way", "had its way picked"]
+  },
+  {
+    "id": 36,
+    "itemId": "way_construction_constraints",
+    "prompt": "I ___ through the paperwork one exhausting form at a time.",
+    "answer": "worked my way",
+    "distractors": ["worked the way", "was worked my way", "had my way worked"]
+  }
+]
