@@ -1,0 +1,117 @@
+[
+  {
+    "id": "and_but_or",
+    "order": 1,
+    "nameEn": "and / but / or — addition, contrast, alternative",
+    "namePl": "and / but / or — dodawanie, kontrast, alternatywa",
+    "rules": [
+      { "label": "and", "text": "łączy dwa równorzędne elementy: słowa, frazy albo całe zdania — dodaje jedną informację do drugiej." },
+      { "label": "but", "text": "wprowadza kontrast lub sprzeczność między dwoma elementami/zdaniami." },
+      { "label": "or", "text": "wprowadza alternatywę lub wybór; w zdaniu rozkazującym może też znaczyć „bo inaczej” (Hurry up, or we'll miss the train.)." }
+    ],
+    "usage": [
+      "and/but/or łączą elementy o RÓWNEJ randze gramatycznej — słowo ze słowem, frazę z frazą, zdanie niezależne ze zdaniem niezależnym",
+      "mogą łączyć zarówno pojedyncze wyrazy w środku zdania (tea and coffee), jak i dwa pełne zdania",
+      "w przeciwieństwie do spójników podrzędnych (although, because) nie da się nimi rozpocząć zdania w stylu formalnym, choć w mowie potocznej and/but na początku zdania są częste"
+    ],
+    "tags": ["and", "but", "or"],
+    "examples": [
+      { "en": "She likes tea and coffee.", "pl": "Ona lubi herbatę i kawę." },
+      { "en": "He is smart but lazy.", "pl": "Jest bystry, ale leniwy." },
+      { "en": "Would you like tea or coffee?", "pl": "Chcesz herbatę czy kawę?" },
+      { "en": "Hurry up, or we'll miss the train.", "pl": "Pospiesz się, bo inaczej spóźnimy się na pociąg." }
+    ]
+  },
+  {
+    "id": "so_for",
+    "order": 2,
+    "nameEn": "so / for — result and (formal) reason",
+    "namePl": "so / for — skutek i (formalna) przyczyna",
+    "rules": [
+      { "label": "so", "text": "wprowadza SKUTEK/WYNIK poprzedzającego zdania — stoi zawsze po zdaniu opisującym przyczynę: It was raining, so we stayed home." },
+      { "label": "for", "text": "formalny, literacki spójnik PRZYCZYNY (= because), łączący dwa zdania niezależne — nigdy nie zaczyna zdania i nie może stać samodzielnie na początku, jak because." },
+      { "label": "for vs because", "text": "for dodaje wyjaśniającą uwagę do już wypowiedzianego faktu, jest typowe dla stylu pisanego/literackiego; because jest neutralne i uniwersalne, może otwierać zdanie." }
+    ],
+    "usage": [
+      "so zawsze łączy przyczynę ze skutkiem w tej kolejności: [przyczyna], so [skutek]",
+      "for w tym znaczeniu jest dziś rzadkie w mowie codziennej — spotykane głównie w tekstach formalnych, literackich i podniosłych",
+      "for nie należy mylić z przyimkiem for (dla) — tu pełni funkcję spójnika łączącego dwa zdania"
+    ],
+    "tags": ["so", "for", "result", "reason"],
+    "examples": [
+      { "en": "It was raining, so we stayed home.", "pl": "Padało, więc zostaliśmy w domu." },
+      { "en": "She was tired, so she went to bed early.", "pl": "Była zmęczona, więc poszła spać wcześnie." },
+      { "en": "He rarely spoke, for he was shy.", "pl": "Rzadko się odzywał, gdyż był nieśmiały." },
+      { "en": "I trust him, for he has never lied to me.", "pl": "Ufam mu, bowiem nigdy mnie nie okłamał." }
+    ]
+  },
+  {
+    "id": "yet_nor",
+    "order": 3,
+    "nameEn": "yet / nor — contrast and negative addition",
+    "namePl": "yet / nor — kontrast i dodawanie przeczenia",
+    "rules": [
+      { "label": "yet", "text": "wprowadza silniejszy, bardziej zaskakujący kontrast niż but — „a jednak”, „mimo to”: She is highly qualified, yet she still struggles to find a job." },
+      { "label": "nor", "text": "dodaje kolejny element przeczący do zdania, które jest już przeczące — odpowiada polskiemu „ani”." },
+      { "label": "inwersja po nor", "text": "po nor stosuje się inwersję podmiot–orzeczenie/operator, tak jak w pytaniu: nor do I, nor did she, nor was he." }
+    ],
+    "usage": [
+      "yet może zastąpić but, gdy kontrast jest szczególnie mocny lub nieoczekiwany",
+      "samodzielne nor (bez neither na początku pierwszego zdania) łączy dwa osobne zdania przeczące: I don't like it, nor do I want it",
+      "nor w tym użyciu różni się od pary korelatywnej neither...nor, która łączy dwa elementy w jednym zdaniu od razu jako przeczenie"
+    ],
+    "tags": ["yet", "nor"],
+    "examples": [
+      { "en": "She is highly qualified, yet she still struggles to find a job.", "pl": "Jest wysoko wykwalifikowana, a jednak wciąż ma trudności ze znalezieniem pracy." },
+      { "en": "It's a small car, yet it's surprisingly spacious inside.", "pl": "To mały samochód, a jednak jest zaskakująco przestronny w środku." },
+      { "en": "I don't like horror films, nor do I enjoy thrillers.", "pl": "Nie lubię horrorów, ani thrillerów też nie." },
+      { "en": "She never called, nor did she write.", "pl": "Ani nie zadzwoniła, ani nie napisała." }
+    ]
+  },
+  {
+    "id": "comma_independent_clauses",
+    "order": 4,
+    "nameEn": "comma before a coordinating conjunction joining two independent clauses",
+    "namePl": "przecinek przed spójnikiem łączącym dwa niezależne zdania",
+    "rules": [
+      { "label": "zasada", "text": "gdy spójnik (and/but/or/so/yet/for/nor) łączy dwa PEŁNE, niezależne zdania (każde z własnym podmiotem i orzeczeniem), przed spójnikiem stawiamy przecinek." },
+      { "label": "krótkie zdania", "text": "przy bardzo krótkich, ściśle powiązanych zdaniach przecinek bywa w praktyce pomijany (I called and she answered.), ale jego postawienie nigdy nie jest błędem." },
+      { "label": "comma splice", "text": "łączenie dwóch niezależnych zdań samym przecinkiem, bez spójnika, jest błędem (tzw. comma splice) — trzeba dodać spójnik albo użyć średnika lub kropki." }
+    ],
+    "usage": [
+      "test na niezależność zdania: czy fragment po spójniku ma własny podmiot i własne orzeczenie i mógłby stać samodzielnie jako zdanie?",
+      "przecinek przed spójnikiem sygnalizuje czytelnikowi, że nadchodzi drugie, kompletne zdanie, a nie tylko kolejny element listy",
+      "w stylu formalnym i akademickim przecinek przed spójnikiem łączącym dwa niezależne zdania jest właściwie obowiązkowy"
+    ],
+    "tags": ["comma splice", "independent clause", "so", "but"],
+    "examples": [
+      { "en": "The meeting was cancelled, so everyone went home early.", "pl": "Spotkanie zostało odwołane, więc wszyscy wcześnie wrócili do domu." },
+      { "en": "He wanted to stay, but his flight was leaving soon.", "pl": "Chciał zostać, ale jego lot już wkrótce odlatywał." },
+      { "en": "We can meet on Monday, or we can wait until next week.", "pl": "Możemy spotkać się w poniedziałek albo poczekać do przyszłego tygodnia." },
+      { "en": "It started to rain, so we decided to go inside.", "pl": "Zaczęło padać, więc postanowiliśmy wejść do środka." }
+    ]
+  },
+  {
+    "id": "no_comma_compound_predicate",
+    "order": 5,
+    "nameEn": "no comma when the conjunction joins only the predicate (compound predicate)",
+    "namePl": "brak przecinka, gdy spójnik łączy tylko orzeczenia (wspólny podmiot)",
+    "rules": [
+      { "label": "wspólny podmiot", "text": "gdy podmiot jest wspólny dla obu czasowników połączonych spójnikiem (drugi czasownik nie ma własnego podmiotu), NIE stawiamy przed spójnikiem przecinka: He opened the door and walked in." },
+      { "label": "dodanie drugiego podmiotu", "text": "dodanie drugiego podmiotu zamienia zdanie w dwa niezależne zdania i wtedy przecinek jest wymagany: He opened the door, and he walked in." },
+      { "label": "ta sama zasada dla fraz", "text": "podobnie nie stawiamy przecinka, łącząc spójnikiem dwa dopełnienia, przymiotniki albo inne frazy przy jednym podmiocie i jednym czasowniku." }
+    ],
+    "usage": [
+      "rozróżnienie 'compound predicate' (jeden podmiot, dwa czasowniki) od dwóch zdań niezależnych decyduje o obecności przecinka",
+      "błąd typowy: stawianie przecinka przed spójnikiem, gdy druga część zdania nie ma własnego podmiotu",
+      "przydatne przy redagowaniu tekstu formalnego, gdzie nadmiarowy przecinek jest traktowany jako błąd interpunkcyjny"
+    ],
+    "tags": ["compound predicate", "and", "but"],
+    "examples": [
+      { "en": "He opened the door and walked in.", "pl": "Otworzył drzwi i wszedł do środka." },
+      { "en": "She finished her homework and went to bed.", "pl": "Skończyła odrabiać lekcje i poszła spać." },
+      { "en": "He tried to fix the car but failed.", "pl": "Próbował naprawić samochód, ale mu się nie udało." },
+      { "en": "They cooked dinner and washed the dishes together.", "pl": "Ugotowali razem obiad i pozmywali naczynia." }
+    ]
+  }
+]
