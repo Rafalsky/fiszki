@@ -1,0 +1,224 @@
+[
+  {
+    "id": "contrast_intro",
+    "order": 1,
+    "nameEn": "while / whereas — introducing balanced contrast between two facts",
+    "namePl": "while / whereas — spójniki kontrastu dwóch równoległych faktów",
+    "rules": [
+      {
+        "label": "while / whereas + zdanie",
+        "text": "Zdanie 1 + while/whereas + zdanie 2 — zestawiają dwa fakty, zwykle o różnych podmiotach, dla porównania"
+      },
+      {
+        "label": "różnica od zdania przyczynowo-skutkowego",
+        "text": "while/whereas nie wprowadzają przyczyny ani skutku — po prostu stawiają dwa fakty obok siebie, bez sugerowania, że jeden wynika z drugiego"
+      }
+    ],
+    "usage": [
+      "Zestawianie dwóch różniących się faktów o dwóch różnych podmiotach (Tom is tall, whereas his brother is short.)",
+      "Podkreślanie różnicy w sposób neutralny, opisowy, bez oceniania, która strona jest 'lepsza'",
+      "Częste w statystykach, raportach i opisach danych (40% of respondents agreed, whereas 60% disagreed.)",
+      "Można przetłumaczyć jako 'podczas gdy' lub 'natomiast', w zależności od kontekstu"
+    ],
+    "tags": ["while", "whereas", "contrast", "balance"],
+    "examples": [
+      {
+        "en": "Tom is very tall, whereas his brother is quite short.",
+        "pl": "Tom jest bardzo wysoki, podczas gdy jego brat jest dość niski."
+      },
+      {
+        "en": "Some people work best in the morning, while others prefer the evening.",
+        "pl": "Niektórzy ludzie najlepiej pracują rano, podczas gdy inni wolą wieczór."
+      },
+      {
+        "en": "In the north the climate is dry, whereas in the south it's humid.",
+        "pl": "Na północy klimat jest suchy, podczas gdy na południu jest wilgotny."
+      }
+    ]
+  },
+  {
+    "id": "whereas_register",
+    "order": 2,
+    "nameEn": "whereas vs. while — formality and register",
+    "namePl": "whereas a while — różnica w formalności i rejestrze",
+    "rules": [
+      {
+        "label": "whereas",
+        "text": "Bardziej formalne, typowe dla języka pisanego, prawniczego, akademickiego i biznesowego — rzadko używane w swobodnej rozmowie"
+      },
+      {
+        "label": "while",
+        "text": "Neutralne, naturalne zarówno w mowie, jak i piśmie — bardziej uniwersalny wybór niż whereas"
+      }
+    ],
+    "usage": [
+      "whereas dominuje w dokumentach prawnych, umowach i formalnych preambułach (Whereas the parties agree...)",
+      "while jest naturalnym wyborem w rozmowie i większości tekstów codziennych",
+      "w tekstach akademickich i naukowych oba są akceptowalne, ale whereas brzmi bardziej precyzyjnie i formalnie",
+      "użycie whereas w luźnej rozmowie brzmi sztucznie i przesadnie oficjalnie"
+    ],
+    "tags": ["whereas formal", "while neutral", "register", "legal"],
+    "examples": [
+      {
+        "en": "Whereas the first study found no effect, the second reported a significant increase.",
+        "pl": "Podczas gdy pierwsze badanie nie wykazało efektu, drugie odnotowało istotny wzrost."
+      },
+      {
+        "en": "My sister loves spicy food, while I can't stand it.",
+        "pl": "Moja siostra uwielbia pikantne jedzenie, a ja go nie znoszę."
+      },
+      {
+        "en": "Whereas earlier models required manual input, the new system is fully automated.",
+        "pl": "Podczas gdy wcześniejsze modele wymagały ręcznego wprowadzania danych, nowy system jest w pełni zautomatyzowany."
+      }
+    ]
+  },
+  {
+    "id": "clause_position_punctuation",
+    "order": 3,
+    "nameEn": "clause position and comma placement",
+    "namePl": "pozycja zdania i przecinek",
+    "rules": [
+      {
+        "label": "while/whereas na początku zdania",
+        "text": "While/Whereas + zdanie podrzędne, [przecinek] + zdanie główne — przecinek obowiązkowy po zdaniu podrzędnym"
+      },
+      {
+        "label": "while/whereas w środku zdania",
+        "text": "Zdanie główne + przecinek + while/whereas + zdanie podrzędne — przecinek stawiamy przed spójnikiem"
+      }
+    ],
+    "usage": [
+      "Kolejność zdań można odwrócić bez zmiany znaczenia — while/whereas zawsze wprowadza zdanie podrzędne",
+      "Przecinek jest obowiązkowy niezależnie od pozycji spójnika",
+      "Whereas rzadziej otwiera zdanie w mowie potocznej, ale często w formalnym piśmie i dokumentach",
+      "Brak przecinka przy spójniku kontrastowym jest typowym błędem interpunkcyjnym na tym poziomie"
+    ],
+    "tags": ["comma", "clause order", "sentence-initial", "sentence-medial"],
+    "examples": [
+      {
+        "en": "While the company's profits rose, its market share declined.",
+        "pl": "Podczas gdy zyski firmy wzrosły, jej udział w rynku spadł."
+      },
+      {
+        "en": "The company's profits rose, while its market share declined.",
+        "pl": "Zyski firmy wzrosły, podczas gdy jej udział w rynku spadł."
+      },
+      {
+        "en": "Whereas older employees preferred stability, younger staff wanted flexibility.",
+        "pl": "Podczas gdy starsi pracownicy woleli stabilność, młodsi chcieli elastyczności."
+      }
+    ]
+  },
+  {
+    "id": "while_time_vs_contrast",
+    "order": 4,
+    "nameEn": "while — time or contrast? disambiguation",
+    "namePl": "while — czas czy kontrast? jak odróżnić",
+    "rules": [
+      {
+        "label": "while = czas",
+        "text": "+ czynność trwająca (często Continuous) w tle innej czynności w tym samym momencie — 'podczas gdy, w trakcie gdy'"
+      },
+      {
+        "label": "while = kontrast",
+        "text": "+ zestawienie dwóch różnych, zwykle statycznych faktów o różnych podmiotach — 'podczas gdy, natomiast'"
+      }
+    ],
+    "usage": [
+      "Czasowe while zwykle łączy się z czasownikami dynamicznymi i tym samym momentem w czasie (While she was cooking, I was cleaning.)",
+      "Kontrastowe while zwykle łączy się z czasownikami stanowymi lub ogólnymi prawdami o dwóch różnych podmiotach (While he loves cats, she prefers dogs.)",
+      "Whereas nigdy nie ma znaczenia czasowego — jeśli zależy nam na jednoznaczności, whereas jest bezpieczniejszym wyborem niż while",
+      "Kontekst i czasy gramatyczne w zdaniu zwykle jednoznacznie wskazują, o które znaczenie chodzi"
+    ],
+    "tags": ["while ambiguity", "time vs contrast", "whereas unambiguous"],
+    "examples": [
+      {
+        "en": "While I was reading, she was watching TV.",
+        "pl": "Podczas gdy ja czytałem, ona oglądała telewizję. (czas)"
+      },
+      {
+        "en": "While I enjoy reading, she prefers watching TV.",
+        "pl": "Podczas gdy ja lubię czytać, ona woli oglądać telewizję. (kontrast)"
+      },
+      {
+        "en": "Whereas I enjoy reading, she prefers watching TV.",
+        "pl": "Podczas gdy ja lubię czytać, ona woli oglądać telewizję. (jednoznacznie kontrast)"
+      }
+    ]
+  },
+  {
+    "id": "contrast_vs_concession",
+    "order": 5,
+    "nameEn": "while / whereas vs. although / despite — contrast vs. concession",
+    "namePl": "while / whereas a although / despite — kontrast a ustępstwo",
+    "rules": [
+      {
+        "label": "while / whereas — kontrast",
+        "text": "Zestawiają dwa niezależne fakty jako różne od siebie, bez sugerowania, że jeden 'powinien był' powstrzymać drugi"
+      },
+      {
+        "label": "although / despite — ustępstwo",
+        "text": "Sugerują, że drugi fakt jest zaskakujący lub sprzeczny z oczekiwaniami wynikającymi z pierwszego (mimo X, jednak Y)"
+      }
+    ],
+    "usage": [
+      "Test: jeśli można dodać 'co zaskakujące...', pasuje although/despite, a nie while/whereas",
+      "while/whereas: zwykłe porównanie dwóch faktów, bez elementu zaskoczenia (Tom is tall, whereas Ben is short.)",
+      "although: zaskakujące zestawienie wbrew oczekiwaniom (Although Tom is only five, he's already very tall.)",
+      "Czasami gramatycznie pasują oba, ale zmieniają odcień znaczenia — although/despite dodaje implikację nieoczekiwania"
+    ],
+    "tags": ["while vs although", "contrast vs concession", "despite"],
+    "examples": [
+      {
+        "en": "While the north is mountainous, the south is flat.",
+        "pl": "Podczas gdy północ jest górzysta, południe jest płaskie."
+      },
+      {
+        "en": "Although the north is mountainous, it still receives very little rain.",
+        "pl": "Chociaż północ jest górzysta, wciąż pada tam bardzo mało deszczu."
+      },
+      {
+        "en": "The company invested heavily in marketing, whereas its main rival cut costs.",
+        "pl": "Firma mocno zainwestowała w marketing, podczas gdy jej główny rywal ciął koszty."
+      }
+    ]
+  },
+  {
+    "id": "formal_writing_balance",
+    "order": 6,
+    "nameEn": "whereas in formal reports and balanced argument structures",
+    "namePl": "whereas w formalnych raportach i strukturach równoważących argumenty",
+    "rules": [
+      {
+        "label": "struktura równoległa",
+        "text": "W formalnym piśmie whereas często łączy dwa zdania o podobnej strukturze gramatycznej dla większej klarowności i elegancji stylu"
+      },
+      {
+        "label": "whereas w zestawieniach danych",
+        "text": "W raportach i analizach whereas zestawia dwie grupy danych lub okresy czasu w symetryczny, czytelny sposób"
+      }
+    ],
+    "usage": [
+      "Zachowanie równoległej struktury (ten sam czas gramatyczny, podobna kolejność wyrazów) po obu stronach whereas zwiększa czytelność formalnego tekstu",
+      "Typowe w raportach biznesowych, analizach porównawczych i tekstach akademickich (Whereas sales grew by 5% in Europe, they fell by 3% in Asia.)",
+      "Whereas w preambułach prawnych ma osobne, wyspecjalizowane znaczenie ('zważywszy, że') — to odrębne, formalne użycie prawnicze, różne od zwykłego kontrastu",
+      "W tym prawnym użyciu whereas otwiera każdy akapit preambuły, wyliczając fakty, na których opiera się dokument"
+    ],
+    "tags": ["parallel structure", "formal reports", "whereas legal preamble"],
+    "examples": [
+      {
+        "en": "Whereas sales grew by 5% in Europe, they fell by 3% in Asia.",
+        "pl": "Podczas gdy sprzedaż w Europie wzrosła o 5%, w Azji spadła o 3%."
+      },
+      {
+        "en": "Whereas the 1990s saw rapid industrial growth, the following decade brought stagnation.",
+        "pl": "Podczas gdy lata 90. przyniosły szybki wzrost przemysłowy, kolejna dekada przyniosła stagnację."
+      },
+      {
+        "en": "Whereas the parties hereby agree to the terms set out below, this agreement shall take effect immediately.",
+        "pl": "Zważywszy, że strony niniejszym zgadzają się na poniższe warunki, umowa ta wchodzi w życie natychmiast."
+      }
+    ]
+  }
+]

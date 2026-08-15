@@ -1,0 +1,47 @@
+[
+  {"id": 1, "itemId": "contrast_intro", "prompt": "Tom is very tall, ___ his brother is quite short.", "answer": "whereas", "distractors": ["although", "despite", "because"]},
+  {"id": 2, "itemId": "contrast_intro", "prompt": "Some people work best in the morning, ___ others prefer the evening.", "answer": "while", "distractors": ["despite", "because", "so"]},
+  {"id": 3, "itemId": "contrast_intro", "prompt": "In the north the climate is dry, ___ in the south it's humid.", "answer": "whereas", "distractors": ["despite", "because of", "so"]},
+  {"id": 4, "itemId": "contrast_intro", "prompt": "___ men make up 40% of the staff, women make up 60%.", "answer": "Whereas", "distractors": ["Despite", "Because", "So"]},
+  {"id": 5, "itemId": "contrast_intro", "prompt": "He prefers tea, ___ his wife always drinks coffee.", "answer": "while", "distractors": ["despite", "because", "so"]},
+  {"id": 6, "itemId": "contrast_intro", "prompt": "The first chapter focuses on history, ___ the second deals with modern politics.", "answer": "whereas", "distractors": ["despite", "because of", "so"]},
+  {"id": 7, "itemId": "contrast_intro", "prompt": "Some countries drive on the left, ___ others drive on the right.", "answer": "while", "distractors": ["despite", "because", "so"]},
+
+  {"id": 8, "itemId": "whereas_register", "prompt": "My sister loves spicy food, ___ I can't stand it. (swobodna rozmowa)", "answer": "while", "distractors": ["whereas", "despite", "because"]},
+  {"id": 9, "itemId": "whereas_register", "prompt": "___ the parties agree to the terms set out below, this agreement shall take effect immediately. (preambuła prawna)", "answer": "Whereas", "distractors": ["While", "Despite", "Because"]},
+  {"id": 10, "itemId": "whereas_register", "prompt": "Profits in Q1 rose sharply, ___ they fell in Q2. (formalny raport finansowy)", "answer": "whereas", "distractors": ["while", "despite", "so"]},
+  {"id": 11, "itemId": "whereas_register", "prompt": "I like dogs, ___ my brother's more of a cat person, to be honest. (luźna pogawędka)", "answer": "while", "distractors": ["whereas", "despite", "because"]},
+  {"id": 12, "itemId": "whereas_register", "prompt": "___ earlier models required manual input, the new system is fully automated. (dokumentacja techniczna, styl formalny)", "answer": "Whereas", "distractors": ["While", "Despite", "So"]},
+  {"id": 13, "itemId": "whereas_register", "prompt": "He's into football, ___ she's really more into swimming. (nieformalna rozmowa)", "answer": "while", "distractors": ["whereas", "despite", "because"]},
+  {"id": 14, "itemId": "whereas_register", "prompt": "___ the first study found no effect, the second reported a significant increase. (artykuł naukowy)", "answer": "Whereas", "distractors": ["While", "Despite", "So"]},
+
+  {"id": 15, "itemId": "clause_position_punctuation", "prompt": "___ the first team scored early, the second waited until the final minutes. (na początku zdania)", "answer": "Whereas", "distractors": ["Despite", "Because", "So"]},
+  {"id": 16, "itemId": "clause_position_punctuation", "prompt": "The first team scored early, ___ the second waited until the final minutes. (w środku zdania)", "answer": "whereas", "distractors": ["despite", "because", "so"]},
+  {"id": 17, "itemId": "clause_position_punctuation", "prompt": "___ profits doubled last year, costs barely changed. (na początku zdania)", "answer": "While", "distractors": ["Despite", "Because", "So"]},
+  {"id": 18, "itemId": "clause_position_punctuation", "prompt": "Profits doubled last year, ___ costs barely changed. (w środku zdania)", "answer": "while", "distractors": ["despite", "because", "so"]},
+  {"id": 19, "itemId": "clause_position_punctuation", "prompt": "___ she grew up in the city, he was raised in a small village. (na początku zdania)", "answer": "Whereas", "distractors": ["Despite", "Because", "So"]},
+  {"id": 20, "itemId": "clause_position_punctuation", "prompt": "He was raised in a small village, ___ she grew up in the city. (w środku zdania)", "answer": "whereas", "distractors": ["despite", "because", "so"]},
+  {"id": 21, "itemId": "clause_position_punctuation", "prompt": "___ the west coast has a mild climate, the east coast experiences harsh winters. (na początku zdania)", "answer": "While", "distractors": ["Despite", "Because", "So"]},
+
+  {"id": 22, "itemId": "while_time_vs_contrast", "prompt": "___ she was walking home, it started to rain.", "answer": "While", "distractors": ["Whereas", "When", "Since"]},
+  {"id": 23, "itemId": "while_time_vs_contrast", "prompt": "___ I enjoy horror films, my husband can't stand them.", "answer": "While", "distractors": ["When", "Since", "As soon as"]},
+  {"id": 24, "itemId": "while_time_vs_contrast", "prompt": "He was watching TV ___ I was doing the dishes.", "answer": "while", "distractors": ["whereas", "when", "since"]},
+  {"id": 25, "itemId": "while_time_vs_contrast", "prompt": "___ Iceland has almost no light in winter, Australia enjoys long summer days at the same time of year.", "answer": "Whereas", "distractors": ["When", "Since", "As soon as"]},
+  {"id": 26, "itemId": "while_time_vs_contrast", "prompt": "I was getting dressed ___ my phone started ringing nonstop.", "answer": "while", "distractors": ["whereas", "since", "as soon as"]},
+  {"id": 27, "itemId": "while_time_vs_contrast", "prompt": "___ my father is quite reserved, my mother is extremely outgoing.", "answer": "Whereas", "distractors": ["When", "Since", "Until"]},
+
+  {"id": 28, "itemId": "contrast_vs_concession", "prompt": "___ the north is mountainous, the south is flat.", "answer": "While", "distractors": ["Although", "Despite", "Because"]},
+  {"id": 29, "itemId": "contrast_vs_concession", "prompt": "___ the north is mountainous, it still receives very little rain.", "answer": "Although", "distractors": ["While", "Whereas", "Because"]},
+  {"id": 30, "itemId": "contrast_vs_concession", "prompt": "The company invested heavily in marketing, ___ its main rival cut costs.", "answer": "whereas", "distractors": ["although", "despite", "because"]},
+  {"id": 31, "itemId": "contrast_vs_concession", "prompt": "___ having very little experience, she got the job.", "answer": "Despite", "distractors": ["While", "Whereas", "Because of"]},
+  {"id": 32, "itemId": "contrast_vs_concession", "prompt": "He passed the exam ___ he had barely studied.", "answer": "although", "distractors": ["while", "whereas", "because"]},
+  {"id": 33, "itemId": "contrast_vs_concession", "prompt": "Tom works in finance, ___ his brother is a musician.", "answer": "while", "distractors": ["although", "despite", "because"]},
+  {"id": 34, "itemId": "contrast_vs_concession", "prompt": "___ he's only twenty, he already runs his own company.", "answer": "Although", "distractors": ["While", "Whereas", "Because"]},
+
+  {"id": 35, "itemId": "formal_writing_balance", "prompt": "___ sales grew by 5% in Europe, they fell by 3% in Asia. (raport biznesowy)", "answer": "Whereas", "distractors": ["While", "Despite", "Because"]},
+  {"id": 36, "itemId": "formal_writing_balance", "prompt": "___ the 1990s saw rapid industrial growth, the following decade brought stagnation. (tekst akademicki)", "answer": "Whereas", "distractors": ["Despite", "Because", "So"]},
+  {"id": 37, "itemId": "formal_writing_balance", "prompt": "___ the parties hereby agree to the terms set out below, this agreement shall take effect immediately. (preambuła umowy)", "answer": "Whereas", "distractors": ["While", "Despite", "Because"]},
+  {"id": 38, "itemId": "formal_writing_balance", "prompt": "Group A received the placebo, ___ Group B received the actual treatment. (opis metodologii badania)", "answer": "whereas", "distractors": ["despite", "because of", "so"]},
+  {"id": 39, "itemId": "formal_writing_balance", "prompt": "___ the buyer hereby agrees to purchase the property, the seller agrees to the terms below. (preambuła umowy)", "answer": "Whereas", "distractors": ["While", "Despite", "So"]},
+  {"id": 40, "itemId": "formal_writing_balance", "prompt": "Revenue in the first half increased steadily, ___ it declined sharply in the second half. (raport roczny)", "answer": "whereas", "distractors": ["despite", "because of", "so"]}
+]
