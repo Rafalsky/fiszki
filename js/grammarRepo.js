@@ -159,6 +159,7 @@ const THEORY_URLS = {
   contrastive_while_whereas: new URL("../data/contrastive_while_whereas.json", import.meta.url),
   situational_ellipsis: new URL("../data/situational_ellipsis.json", import.meta.url),
   invariable_nouns: new URL("../data/invariable_nouns.json", import.meta.url),
+  coordinating_conjunctions: new URL("../data/coordinating_conjunctions.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -313,6 +314,7 @@ const DRILLS_URLS = {
   contrastive_while_whereas: new URL("../data/contrastive_while_whereasDrills.json", import.meta.url),
   situational_ellipsis: new URL("../data/situational_ellipsisDrills.json", import.meta.url),
   invariable_nouns: new URL("../data/invariable_nounsDrills.json", import.meta.url),
+  coordinating_conjunctions: new URL("../data/coordinating_conjunctionsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

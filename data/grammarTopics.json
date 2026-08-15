@@ -1055,5 +1055,12 @@
     "title": "Rzeczowniki o stałej liczbie",
     "desc": "Rzeczowniki zawsze w liczbie mnogiej (scissors, police, cattle) i pozornie mnogie, a gramatycznie pojedyncze (mathematics, news, measles) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "coordinating_conjunctions",
+    "icon": "➕",
+    "title": "Spójniki współrzędne",
+    "desc": "Spójniki współrzędne and / but / or / so / yet / for / nor — łączenie zdań i orzeczeń, przecinek przed spójnikiem — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
