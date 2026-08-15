@@ -1,0 +1,98 @@
+[
+  {
+    "id": "subject_drop",
+    "order": 1,
+    "nameEn": "Dropping the subject \"I\" at the start",
+    "namePl": "Pomijanie podmiotu \"I\" na początku zdania",
+    "rules": [
+      { "label": "Forma", "text": "W nieformalnej mowie i pisemnej korespondencji (SMS, e-mail) pomijamy podmiot I, gdy jest oczywisty z kontekstu — zdanie zaczyna się od razu od czasownika: Hope you're well. = I hope you're well." },
+      { "label": "Najczęstsze czasowniki", "text": "hope, think, guess, suppose, wonder, bet, mean, promise, reckon — czasowniki opinii i deklaracji w pierwszej osobie" },
+      { "label": "Ograniczenie", "text": "Elipsa dotyczy tylko podmiotu I na samym początku zdania — nie pomijamy go w środku zdania ani przy innych osobach (he/she/we)" }
+    ],
+    "usage": [
+      "Hope you don't mind me asking. = I hope you don't mind me asking.",
+      "Think I'll stay in tonight. = I think I'll stay in tonight.",
+      "Promise I'll call you tomorrow. = I promise I'll call you tomorrow.",
+      "Typowe w nieformalnych wiadomościach, notatkach i szybkiej wymianie zdań"
+    ],
+    "tags": ["Hope you're well", "Think I'll", "Guess so", "Promise I'll"],
+    "examples": [
+      { "en": "Hope you had a great weekend!", "pl": "Mam nadzieję, że miałeś świetny weekend!" },
+      { "en": "Think I'll take the early train.", "pl": "Chyba wezmę wcześniejszy pociąg." },
+      { "en": "Wonder what she meant by that.", "pl": "Zastanawiam się, co miała na myśli." },
+      { "en": "Promise I won't be late.", "pl": "Obiecuję, że się nie spóźnię." }
+    ]
+  },
+  {
+    "id": "aux_subject_question_drop",
+    "order": 2,
+    "nameEn": "Dropping auxiliary + subject in questions",
+    "namePl": "Pomijanie operatora i podmiotu w pytaniach",
+    "rules": [
+      { "label": "Forma", "text": "W pytaniach potocznych pomijamy operator (do/have/be) i podmiot you, zostawiając samo pytanie z akcentem pytającym: Seen John? = Have you seen John?" },
+      { "label": "Warunek", "text": "Pominięcie jest jasne dzięki intonacji pytającej i kontekstowi — bez tego zdanie brzmiałoby jak stwierdzenie lub polecenie" },
+      { "label": "Typowe wzorce", "text": "Coming? (=Are you coming?), Want a lift? (=Do you want a lift?), Finished? (=Have you finished?), Anybody home? (=Is anybody home?)" }
+    ],
+    "usage": [
+      "Coming with us? = Are you coming with us?",
+      "Want some coffee? = Do you want some coffee?",
+      "Seen my glasses anywhere? = Have you seen my glasses anywhere?",
+      "Bardzo częste w rozmowie twarzą w twarz i wiadomościach tekstowych, gdy kontekst jest jasny"
+    ],
+    "tags": ["Coming?", "Want a lift?", "Seen John?", "Finished yet?"],
+    "examples": [
+      { "en": "Coming to the party tonight?", "pl": "Idziesz dziś na imprezę?" },
+      { "en": "Want a lift to the station?", "pl": "Podwieźć cię na stację?" },
+      { "en": "Seen this film before?", "pl": "Widziałeś już ten film?" },
+      { "en": "Sure you don't need any help?", "pl": "Na pewno nie potrzebujesz pomocy?" }
+    ]
+  },
+  {
+    "id": "it_there_drop",
+    "order": 3,
+    "nameEn": "Dropping \"It's\" / \"There's\" at the start",
+    "namePl": "Pomijanie \"It's\" / \"There's\" na początku zdania",
+    "rules": [
+      { "label": "Forma", "text": "W krótkich, utartych zwrotach potocznych pomijamy podmiot pusty it lub egzystencjalne there wraz z be: (It's) Nice to meet you. / (There's) Nothing we can do." },
+      { "label": "Utarte zwroty", "text": "(It) Sounds good, (It) Doesn't matter, (It) Serves you right, (There's) No wonder, (There's) No need to worry" },
+      { "label": "Rozpoznanie", "text": "Odtworzenie pominiętego it's lub there's zależy od znaczenia — it's przy ocenach i wrażeniach, there's przy istnieniu/braku czegoś" }
+    ],
+    "usage": [
+      "Sounds like a great plan. = It sounds like a great plan.",
+      "Nice to see you again. = It's nice to see you again.",
+      "No wonder she's tired. = It's no wonder she's tired.",
+      "Nothing to worry about. = There's nothing to worry about."
+    ],
+    "tags": ["Sounds good", "Nice to meet you", "No wonder", "Nothing to worry about"],
+    "examples": [
+      { "en": "Sounds like fun — count me in!", "pl": "Brzmi fajnie — liczcie na mnie!" },
+      { "en": "Nice of you to come.", "pl": "Miło, że przyszedłeś." },
+      { "en": "No wonder he's exhausted after that trip.", "pl": "Nic dziwnego, że jest wykończony po tej podróży." },
+      { "en": "Nothing we can do about the weather.", "pl": "Nic nie możemy poradzić na pogodę." }
+    ]
+  },
+  {
+    "id": "register_and_limits",
+    "order": 4,
+    "nameEn": "Register and limits of situational ellipsis",
+    "namePl": "Rejestr i granice elipsy sytuacyjnej",
+    "rules": [
+      { "label": "Rejestr", "text": "Elipsa sytuacyjna jest naturalna wyłącznie w mowie potocznej, SMS-ach i nieformalnych notatkach — w piśmie formalnym (esej, raport, list oficjalny) pełne zdanie z podmiotem jest obowiązkowe" },
+      { "label": "Różnica od trybu rozkazującego", "text": "Seen the news? (pytanie, elipsa Have you) różni się od See the news! (rozkaz, z domyślnym you) — kontekst i intonacja rozstrzygają, o którą konstrukcję chodzi" },
+      { "label": "Dwuznaczność", "text": "Elipsy unikamy, gdy pominięty element nie jest jednoznaczny z kontekstu — np. samo Looks tired bez wcześniej wspomnianej osoby jest niejasne" }
+    ],
+    "usage": [
+      "Formalnie zawsze pełne zdanie: I am writing to inform you that... (nigdy: Would be grateful if...)",
+      "Nieformalnie w rozmowie i wiadomościach: Sound good? zamiast Does that sound good to you?",
+      "Elipsa działa tylko, gdy słuchacz/czytelnik może odtworzyć pominięty element z sytuacji lub poprzedniego zdania",
+      "W dialogach literackich i scenariuszach elipsa sytuacyjna oddaje naturalność żywej mowy"
+    ],
+    "tags": ["formal vs informal", "context-dependent", "no drop in formal writing", "ambiguous without context"],
+    "examples": [
+      { "en": "A: Coffee? B: Please, thanks.", "pl": "A: Kawy? B: Poproszę, dzięki." },
+      { "en": "I am writing to inform you that the meeting has been rescheduled.", "pl": "Piszę, aby poinformować, że spotkanie zostało przełożone." },
+      { "en": "Looks like rain.", "pl": "Wygląda na to, że będzie padać." },
+      { "en": "Mind if I sit here?", "pl": "Nie masz nic przeciwko, żebym tu usiadł?" }
+    ]
+  }
+]

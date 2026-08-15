@@ -157,6 +157,7 @@ const THEORY_URLS = {
   heavy_np_shift: new URL("../data/heavy_np_shift.json", import.meta.url),
   parallel_structure: new URL("../data/parallel_structure.json", import.meta.url),
   contrastive_while_whereas: new URL("../data/contrastive_while_whereas.json", import.meta.url),
+  situational_ellipsis: new URL("../data/situational_ellipsis.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -309,6 +310,7 @@ const DRILLS_URLS = {
   heavy_np_shift: new URL("../data/heavy_np_shiftDrills.json", import.meta.url),
   parallel_structure: new URL("../data/parallel_structureDrills.json", import.meta.url),
   contrastive_while_whereas: new URL("../data/contrastive_while_whereasDrills.json", import.meta.url),
+  situational_ellipsis: new URL("../data/situational_ellipsisDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
