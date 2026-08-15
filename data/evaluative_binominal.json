@@ -1,0 +1,98 @@
+[
+  {
+    "id": "core_pattern",
+    "order": 1,
+    "nameEn": "a/an + evaluative noun + of + a/an + noun — intensifying description",
+    "namePl": "a/an + rzeczownik oceniający + of + a/an + rzeczownik — konstrukcja intensyfikująca",
+    "rules": [
+      { "label": "Budowa", "text": "a/an + rzeczownik nacechowany emocjonalnie (pozytywnie lub negatywnie) + of + a/an + rzeczownik główny: an idiot of a plan, a jewel of a city, a giant of a man. Pierwszy rzeczownik nie nazywa osobno istniejącej rzeczy — działa jak wzmocniony przymiotnik opisujący drugi rzeczownik." },
+      { "label": "Test parafrazy", "text": "całą konstrukcję można sparafrazować jako 'a [rzeczownik2], który jest [przymiotnik od rzeczownika1]': a jewel of a city = 'a city that is a jewel / an exceptionally beautiful city'; an idiot of a doctor = 'a doctor who is an idiot / an incredibly stupid doctor'." },
+      { "label": "Kierunek znaczenia", "text": "referentem całej frazy jest ZAWSZE drugi rzeczownik (po 'of'), nie pierwszy — 'a jewel of a city' to miasto, nie klejnot. To odróżnia tę konstrukcję od zwykłego 'of' dopełniaczowego (a piece of cake), gdzie oba rzeczowniki zachowują dosłowne znaczenie." }
+    ],
+    "usage": [
+      "Wzmocniona pochwała: a beauty of a house, a gem of an idea, a diamond of a find",
+      "Wzmocniona krytyka lub pogarda: an idiot of a manager, a disgrace of a performance, a nightmare of a journey",
+      "Wzmocniony rozmiar lub siła: a giant of a man, a monster of a machine, a beast of a truck",
+      "Rejestr potoczny do neutralnego, częste w mowie i narracji, rzadkie w tekstach czysto formalnych/naukowych"
+    ],
+    "tags": ["a jewel of a city", "an idiot of a plan", "a giant of a man", "N of a N", "binominal"],
+    "examples": [
+      { "en": "Venice is a jewel of a city — every corner looks like a painting.", "pl": "Wenecja to prawdziwy klejnot — każdy zakątek wygląda jak obraz." },
+      { "en": "Hiring him was an idiot of a decision.", "pl": "Zatrudnienie go było skrajnie głupią decyzją." },
+      { "en": "Her grandfather was a giant of a man, well over two metres tall.", "pl": "Jej dziadek był olbrzymem, dobrze ponad dwa metry wzrostu." },
+      { "en": "They drove up in a monster of a truck that barely fit on the street.", "pl": "Podjechali potworną ciężarówką, która ledwo mieściła się na ulicy." }
+    ]
+  },
+  {
+    "id": "demonstrative_determiners",
+    "order": 2,
+    "nameEn": "that/this + evaluative noun + of + a/an + noun — pejorative or affectionate demonstrative use",
+    "namePl": "that/this + rzeczownik oceniający + of + a/an + rzeczownik — użycie z zaimkiem wskazującym",
+    "rules": [
+      { "label": "Zamiana rodzajnika na zaimek wskazujący", "text": "zamiast nieokreślonego 'a/an' przed pierwszym rzeczownikiem można użyć 'that' (pogardliwie, o czymś już znanym rozmówcy) lub 'this' (poufale, entuzjastycznie): that idiot of a landlord, this beauty of a bike." },
+      { "label": "Funkcja pragmatyczna", "text": "'that + rzeczownik oceniający' sygnalizuje irytację lub dystans wobec osoby/rzeczy znanej z kontekstu (that fool of a clerk kept me waiting), podczas gdy 'this' wprowadza coś nowego z entuzjazmem lub bliskością (I just bought this beauty of a guitar)." },
+      { "label": "Brak 'the'", "text": "rodzajnik określony 'the' NIE występuje w tej konstrukcji przed pierwszym rzeczownikiem (*the idiot of a manager jest niegramatyczne w tym znaczeniu) — miejsce zaimka/rodzajnika nieokreślonego jest tu strukturalnie obowiązkowe, bo cała fraza funkcjonuje jak pojedyncza fraza nieokreślona lub wskazująca, nie identyfikująca." }
+    ],
+    "usage": [
+      "Pogardliwe odniesienie do znanej osoby: that idiot of a neighbour, that brute of a dog",
+      "Entuzjastyczne, poufałe przedstawienie czegoś nowego: this gem of a restaurant, this beast of a car",
+      "Narracja i anegdoty — ożywia opis postaci lub przedmiotu przez emocjonalny komentarz mówiącego",
+      "Częste w połączeniu z czasownikami mowy potocznej: 'That idiot of a plumber flooded the kitchen again.'"
+    ],
+    "tags": ["that idiot of a", "this gem of a", "demonstrative binominal", "pejorative", "affectionate"],
+    "examples": [
+      { "en": "That idiot of a plumber flooded the kitchen again.", "pl": "Ten idiota hydraulik znowu zalał kuchnię." },
+      { "en": "This gem of a restaurant only opened last month, and it's already full every night.", "pl": "Ta perełka restauracji otworzyła się dopiero miesiąc temu, a już co wieczór jest pełna." },
+      { "en": "That brute of a dog nearly knocked the postman over.", "pl": "Ten bydlak pies o mało nie przewrócił listonosza." },
+      { "en": "I test-drove this beast of a car yesterday and I still can't stop thinking about it.", "pl": "Testowałem wczoraj to bydlę auto i wciąż nie mogę o nim przestać myśleć." }
+    ]
+  },
+  {
+    "id": "exclamative_binominal",
+    "order": 3,
+    "nameEn": "What (a/an) + evaluative noun + of + a/an + noun! — exclamations",
+    "namePl": "What (a/an) + rzeczownik oceniający + of + a/an + rzeczownik! — wykrzyknienia",
+    "rules": [
+      { "label": "Budowa wykrzyknienia", "text": "'What' + a/an + rzeczownik oceniający + of + a/an + rzeczownik + '!' wzmacnia jeszcze bardziej emfazę konstrukcji binominalnej: What a beauty of a house! What a nightmare of a week!" },
+      { "label": "Możliwe opuszczenie pierwszego rodzajnika po 'what'", "text": "w bardzo potocznej mowie pierwszy 'a/an' bywa pomijany po 'what' bez zmiany znaczenia (What beauty of a house! zamiast What a beauty of a house!), choć forma pełna z rodzajnikiem jest standardowa i zalecana w piśmie." },
+      { "label": "Kontrast ze zwykłym wykrzyknieniem 'What a + rzeczownik!'", "text": "zwykłe 'What a house!' ocenia rzeczownik wprost przez sam kontekst intonacyjny, natomiast binominalne 'What a beauty of a house!' dodaje osobny, jawnie nazwany rzeczownik oceniający — jest bardziej ekspresywne i precyzyjnie nazywa RODZAJ zachwytu lub oburzenia." }
+    ],
+    "usage": [
+      "Spontaniczny zachwyt: What a beauty of a garden!, What a gem of a find!",
+      "Spontaniczne oburzenie lub frustracja: What a nightmare of a journey!, What a disgrace of a performance!",
+      "Komentarz retrospektywny do właśnie opisanego wydarzenia: 'We waited four hours. What a farce of a meeting.'",
+      "Wyłącznie mowa i tekst bardzo nieformalny/emocjonalny — nie w rejestrze formalnym"
+    ],
+    "tags": ["What a beauty of a", "What a nightmare of a", "exclamative binominal", "What a X of a Y"],
+    "examples": [
+      { "en": "What a beauty of a sunset — look at those colours!", "pl": "Co za piękny zachód słońca — spójrz na te kolory!" },
+      { "en": "What a nightmare of a journey that turned out to be.", "pl": "Co za koszmarna podróż to była." },
+      { "en": "What a gem of a find this little café is!", "pl": "Co za perełkę odkryliśmy w tej małej kawiarni!" },
+      { "en": "What a farce of a trial — the verdict was decided before it even started.", "pl": "Co za farsa tego procesu — wyrok był ustalony, zanim się jeszcze zaczął." }
+    ]
+  },
+  {
+    "id": "apposition_contrast",
+    "order": 4,
+    "nameEn": "Contrast with definitional apposition and simple modification, and agreement rules",
+    "namePl": "Kontrast z apozycją definicyjną i zwykłym przydawkowym opisem oraz reguły zgody",
+    "rules": [
+      { "label": "Kontrast z apozycją definicyjną ('the city of Paris')", "text": "'the city of Paris' to apozycja definicyjna — obie strony nazywają dokładnie to samo pojęcie bez oceny ('Paris IS a city'), używa rodzajnika 'the' i jest neutralna stylistycznie. Konstrukcja ewaluatywna ('a jewel of a city') zawsze używa 'a/an/this/that' i ZAWSZE niesie ocenę — pierwszy rzeczownik nie jest dosłownym opisem drugiego, tylko metaforą jego cechy." },
+      { "label": "Kontrast ze zwykłym przymiotnikiem", "text": "'an idiot of a manager' i 'an idiotic manager' są bliskoznaczne, ale binominał jest silniej nacechowany emocjonalnie i bardziej obrazowy/metaforyczny niż zwykły przymiotnik — wybiera się go dla większej ekspresji, zwłaszcza w mowie i narracji." },
+      { "label": "Zgoda podmiotu z orzeczeniem", "text": "czasownik zgadza się w liczbie z DRUGIM rzeczownikiem (prawdziwym referentem), nie z pierwszym: 'That giant of a man WAS impossible to miss' (nie 'were', mimo że 'giant' sugerowałby liczbę pojedynczą i tak, ale przy liczbie mnogiej drugiego rzeczownika: 'Those idiots of assistants WERE useless' — 'of' + rzeczownik w liczbie mnogiej bez rodzajnika)." }
+    ],
+    "usage": [
+      "Rozróżnianie apozycji definicyjnej od ewaluatywnej w czytaniu i pisaniu tekstów formalnych vs literackich",
+      "Świadomy wybór między zwykłym przymiotnikiem a binominałem dla efektu stylistycznego",
+      "Poprawna zgoda liczby czasownika z drugim rzeczownikiem, zwłaszcza w liczbie mnogiej: those idiots of assistants WERE useless",
+      "Unikanie błędnego użycia 'the' zamiast 'a/an/this/that' w konstrukcji ewaluatywnej"
+    ],
+    "tags": ["the city of Paris vs a jewel of a city", "idiotic manager vs idiot of a manager", "subject-verb agreement", "evaluative vs definitional apposition"],
+    "examples": [
+      { "en": "The city of Rome was founded, according to legend, in 753 BC — but Venice is a jewel of a city in its own right.", "pl": "Miasto Rzym zostało założone, wedle legendy, w 753 roku p.n.e. — ale Wenecja to prawdziwy klejnot sama w sobie." },
+      { "en": "Calling him 'an idiot of a manager' says a lot more than just 'an idiotic manager'.", "pl": "Nazwanie go 'idiotą menedżerem' mówi znacznie więcej niż samo 'głupi menedżer'." },
+      { "en": "That giant of a man was impossible to miss in the crowd.", "pl": "Tego olbrzyma nie sposób było przeoczyć w tłumie." },
+      { "en": "Those idiots of assistants were useless during the whole event.", "pl": "Ci nieudolni asystenci byli bezużyteczni podczas całego wydarzenia." }
+    ]
+  }
+]

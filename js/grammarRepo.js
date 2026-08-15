@@ -162,6 +162,7 @@ const THEORY_URLS = {
   coordinating_conjunctions: new URL("../data/coordinating_conjunctions.json", import.meta.url),
   way_construction: new URL("../data/way_construction.json", import.meta.url),
   formal_compound_adverbs: new URL("../data/formal_compound_adverbs.json", import.meta.url),
+  evaluative_binominal: new URL("../data/evaluative_binominal.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -319,6 +320,7 @@ const DRILLS_URLS = {
   coordinating_conjunctions: new URL("../data/coordinating_conjunctionsDrills.json", import.meta.url),
   way_construction: new URL("../data/way_constructionDrills.json", import.meta.url),
   formal_compound_adverbs: new URL("../data/formal_compound_adverbsDrills.json", import.meta.url),
+  evaluative_binominal: new URL("../data/evaluative_binominalDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
