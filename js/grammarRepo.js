@@ -164,6 +164,7 @@ const THEORY_URLS = {
   formal_compound_adverbs: new URL("../data/formal_compound_adverbs.json", import.meta.url),
   evaluative_binominal: new URL("../data/evaluative_binominal.json", import.meta.url),
   quantity_phrases: new URL("../data/quantity_phrases.json", import.meta.url),
+  group_genitive: new URL("../data/group_genitive.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -323,6 +324,7 @@ const DRILLS_URLS = {
   formal_compound_adverbs: new URL("../data/formal_compound_adverbsDrills.json", import.meta.url),
   evaluative_binominal: new URL("../data/evaluative_binominalDrills.json", import.meta.url),
   quantity_phrases: new URL("../data/quantity_phrasesDrills.json", import.meta.url),
+  group_genitive: new URL("../data/group_genitiveDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

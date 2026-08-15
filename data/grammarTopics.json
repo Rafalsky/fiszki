@@ -1090,5 +1090,12 @@
     "title": "Formalne wyrażenia ilości",
     "desc": "the majority of, a great deal of, a handful of, the bulk of, a wealth of, a plethora of, an array of, a myriad of, numerous/various/several/countless — formalne wyrażenia ilości i ich zgodność z czasownikiem, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "group_genitive",
+    "icon": "🏘️",
+    "title": "Dopełniacz grupowy",
+    "desc": "Dopełniacz grupowy 's dla całej frazy (the man next door's car, someone else's problem) oraz łączony i rozdzielny dopełniacz przy dwóch posiadaczach — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
