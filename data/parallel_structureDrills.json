@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "itemId": "list_series_parallelism",
+    "prompt": "The manager is responsible for hiring, training, and ___ new staff (zwalniania — forma równoległa do 'hiring, training').",
+    "answer": "firing",
+    "distractors": ["to fire", "fired", "fires"]
+  },
+  {
+    "id": 2,
+    "itemId": "list_series_parallelism",
+    "prompt": "She spent the weekend reading, relaxing, and ___ with friends (spotykania się — forma -ing równoległa).",
+    "answer": "meeting",
+    "distractors": ["to meet", "met", "meets"]
+  },
+  {
+    "id": 3,
+    "itemId": "list_series_parallelism",
+    "prompt": "The report should be clear, concise, and ___ (dobrze zorganizowany — przymiotnik równoległy do clear, concise).",
+    "answer": "well-organized",
+    "distractors": ["organizing well", "organization", "to organize"]
+  },
+  {
+    "id": 4,
+    "itemId": "list_series_parallelism",
+    "prompt": "He promised to arrive on time, finish the project, and ___ the client updated (informować — bezokolicznik bez 'to' równoległy do 'finish').",
+    "answer": "keep",
+    "distractors": ["keeping", "kept", "keeps"]
+  },
+  {
+    "id": 5,
+    "itemId": "list_series_parallelism",
+    "prompt": "The course covers grammar, vocabulary, and ___ skills (wymowy — rzeczownik równoległy do grammar, vocabulary).",
+    "answer": "pronunciation",
+    "distractors": ["pronounce", "pronouncing", "pronounced"]
+  },
+  {
+    "id": 6,
+    "itemId": "list_series_parallelism",
+    "prompt": "Government of the people, by the people, ___ the people (dla ludu — równoległa struktura przyimkowa).",
+    "answer": "for",
+    "distractors": ["to", "with", "of"]
+  },
+  {
+    "id": 7,
+    "itemId": "list_series_parallelism",
+    "prompt": "The instructions say to preheat the oven, grease the pan, and ___ the batter in (wlać — bezokolicznik bez 'to' równoległy).",
+    "answer": "pour",
+    "distractors": ["pouring", "poured", "pours"]
+  },
+  {
+    "id": 8,
+    "itemId": "list_series_parallelism",
+    "prompt": "A good leader listens carefully, decides quickly, and ___ decisively (działa — czasownik równoległy do listens, decides).",
+    "answer": "acts",
+    "distractors": ["acting", "to act", "acted"]
+  },
+  {
+    "id": 9,
+    "itemId": "correlative_parallelism",
+    "prompt": "She not only wrote the report but also ___ it to the whole team (zaprezentowała — forma czasownikowa równoległa do 'wrote').",
+    "answer": "presented",
+    "distractors": ["presenting", "to present", "presentation"]
+  },
+  {
+    "id": 10,
+    "itemId": "correlative_parallelism",
+    "prompt": "You can either call me or ___ me an email (wysłać — bezokolicznik bez 'to' równoległy do 'call').",
+    "answer": "send",
+    "distractors": ["sending", "to send", "sent"]
+  },
+  {
+    "id": 11,
+    "itemId": "correlative_parallelism",
+    "prompt": "The film was neither entertaining nor ___ (pouczający — przymiotnik równoległy do entertaining).",
+    "answer": "informative",
+    "distractors": ["informing", "to inform", "information"]
+  },
+  {
+    "id": 12,
+    "itemId": "correlative_parallelism",
+    "prompt": "Both the manager and ___ agreed to the new schedule (pracownicy — rzeczownik równoległy do 'the manager').",
+    "answer": "the employees",
+    "distractors": ["employees work", "to employ", "employing"]
+  },
+  {
+    "id": 13,
+    "itemId": "correlative_parallelism",
+    "prompt": "He is not only talented but also ___ (pracowity — przymiotnik równoległy do talented).",
+    "answer": "hardworking",
+    "distractors": ["works hard", "to work hard", "hard work"]
+  },
+  {
+    "id": 14,
+    "itemId": "correlative_parallelism",
+    "prompt": "Either you apologize, or ___ (zrezygnujesz — zdanie równoległe do 'you apologize').",
+    "answer": "you resign",
+    "distractors": ["resigning", "to resign", "resignation"]
+  },
+  {
+    "id": 15,
+    "itemId": "correlative_parallelism",
+    "prompt": "The company aims not only to cut costs but also ___ quality (poprawić — bezokolicznik z 'to' równoległy do 'to cut').",
+    "answer": "to improve",
+    "distractors": ["improving", "improve", "improved"]
+  },
+  {
+    "id": 16,
+    "itemId": "correlative_parallelism",
+    "prompt": "Neither the students nor ___ understood the instructions (nauczyciel — rzeczownik równoległy do 'the students').",
+    "answer": "the teacher",
+    "distractors": ["teaching", "to teach", "teacher's"]
+  },
+  {
+    "id": 17,
+    "itemId": "comparative_parallelism",
+    "prompt": "Learning a language is as challenging as ___ a musical instrument (nauka gry — forma -ing równoległa do 'learning').",
+    "answer": "learning",
+    "distractors": ["to learn", "learn", "learned"]
+  },
+  {
+    "id": 18,
+    "itemId": "comparative_parallelism",
+    "prompt": "He would rather stay home than ___ to the noisy party (iść — bezokolicznik bez 'to' równoległy do 'stay').",
+    "answer": "go",
+    "distractors": ["going", "to go", "goes"]
+  },
+  {
+    "id": 19,
+    "itemId": "comparative_parallelism",
+    "prompt": "Reading a book is more relaxing than ___ television (oglądanie — forma -ing równoległa do 'reading').",
+    "answer": "watching",
+    "distractors": ["to watch", "watch", "watched"]
+  },
+  {
+    "id": 20,
+    "itemId": "comparative_parallelism",
+    "prompt": "It's better to ask a stupid question than ___ a stupid mistake (popełnić — bezokolicznik z 'to' równoległy do 'to ask').",
+    "answer": "to make",
+    "distractors": ["making", "make", "made"]
+  },
+  {
+    "id": 21,
+    "itemId": "comparative_parallelism",
+    "prompt": "Her handwriting is as neat as ___ (jego — zaimek dzierżawczy zastępujący 'his handwriting').",
+    "answer": "his",
+    "distractors": ["him", "he", "his own"]
+  },
+  {
+    "id": 22,
+    "itemId": "comparative_parallelism",
+    "prompt": "Working from home is just as productive as ___ in an office (praca — forma -ing równoległa do 'working').",
+    "answer": "working",
+    "distractors": ["to work", "work", "worked"]
+  },
+  {
+    "id": 23,
+    "itemId": "comparative_parallelism",
+    "prompt": "I'd sooner walk for an hour than ___ in this traffic (czekać — bezokolicznik bez 'to' równoległy do 'walk').",
+    "answer": "wait",
+    "distractors": ["waiting", "to wait", "waits"]
+  },
+  {
+    "id": 24,
+    "itemId": "comparative_parallelism",
+    "prompt": "The committee is comparing the new policy with the old one rather than ___ it entirely (zastępując — forma -ing równoległa do 'comparing').",
+    "answer": "replacing",
+    "distractors": ["to replace", "replace", "replaced"]
+  },
+  {
+    "id": 25,
+    "itemId": "faulty_parallelism_fixes",
+    "prompt": "Popraw: 'I enjoy hiking, swimming, and to cook.' → I enjoy hiking, swimming, and ___ (poprawiona forma -ing).",
+    "answer": "cooking",
+    "distractors": ["to cook", "cook", "cooked"]
+  },
+  {
+    "id": 26,
+    "itemId": "faulty_parallelism_fixes",
+    "prompt": "Popraw: 'The report was thorough, accurate, and it convinced everyone.' → The report was thorough, accurate, and ___ (przymiotnik równoległy do thorough, accurate).",
+    "answer": "convincing",
+    "distractors": ["it convinces", "convinced everyone", "to convince"]
+  },
+  {
+    "id": 27,
+    "itemId": "faulty_parallelism_fixes",
+    "prompt": "Popraw: 'She likes to read, to write, and painting.' → She likes to read, to write, and ___ (bezokolicznik z 'to' równoległy do 'to read, to write').",
+    "answer": "to paint",
+    "distractors": ["painting", "paint", "paints"]
+  },
+  {
+    "id": 28,
+    "itemId": "faulty_parallelism_fixes",
+    "prompt": "Popraw: 'The mistakes were noticed by the editor and the writer corrected them.' → The mistakes were noticed by the editor and ___ by the writer (strona bierna równoległa do 'were noticed').",
+    "answer": "corrected",
+    "distractors": ["correcting", "to correct", "corrects"]
+  },
+  {
+    "id": 29,
+    "itemId": "faulty_parallelism_fixes",
+    "prompt": "Popraw: 'The plan is cost-effective and it saves time.' → The plan is cost-effective and ___ (przymiotnik złożony równoległy do cost-effective).",
+    "answer": "time-saving",
+    "distractors": ["it saves time", "saving time it", "to save time"]
+  },
+  {
+    "id": 30,
+    "itemId": "faulty_parallelism_fixes",
+    "prompt": "Popraw: 'He spoke slowly, clearly, and with confidence.' → He spoke slowly, clearly, and ___ (przysłówek równoległy do slowly, clearly).",
+    "answer": "confidently",
+    "distractors": ["with confidence", "confidence", "confident"]
+  },
+  {
+    "id": 31,
+    "itemId": "faulty_parallelism_fixes",
+    "prompt": "Popraw: 'The book is not only informative but it also entertains.' → The book is not only informative but also ___ (przymiotnik równoległy do informative).",
+    "answer": "entertaining",
+    "distractors": ["it entertains", "entertains", "to entertain"]
+  },
+  {
+    "id": 32,
+    "itemId": "faulty_parallelism_fixes",
+    "prompt": "Popraw: 'Employees must arrive on time, follow the dress code, and they should respect colleagues.' → Employees must arrive on time, follow the dress code, and ___ colleagues (bezokolicznik bez 'to' równoległy do 'arrive, follow').",
+    "answer": "respect",
+    "distractors": ["respecting", "to respect", "respects"]
+  }
+]

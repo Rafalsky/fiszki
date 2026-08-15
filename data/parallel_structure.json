@@ -1,0 +1,215 @@
+[
+  {
+    "id": "list_series_parallelism",
+    "order": 1,
+    "nameEn": "Parallel structure in lists and series",
+    "namePl": "Struktura równoległa w wyliczeniach i seriach",
+    "rules": [
+      {
+        "label": "Zasada podstawowa",
+        "text": "Kiedy wyliczamy dwa lub więcej elementów połączonych przecinkami albo spójnikiem and/or, wszystkie muszą mieć tę samą formę gramatyczną: same rzeczowniki, same bezokoliczniki, same formy -ing albo same przymiotniki. Mieszanie form (np. rzeczownik + bezokolicznik) brzmi niezręcznie i jest uznawane za błąd na poziomie C2."
+      },
+      {
+        "label": "Wyliczenia czasownikowe",
+        "text": "Czasowniki w serii muszą mieć spójną formę i czas: She cooked, cleaned, and organized the house (wszystkie w Past Simple) — nie She cooked, cleaning, and organized."
+      },
+      {
+        "label": "Wyliczenia rzeczownikowe i przymiotnikowe",
+        "text": "Ta sama zasada dotyczy rzeczowników (grammar, vocabulary, and pronunciation) i przymiotników (clear, concise, and well-organized) — każdy element ma pasować kategorią gramatyczną do pozostałych."
+      },
+      {
+        "label": "Powtarzanie przyimków, rodzajników i 'to'",
+        "text": "Jeśli elementy wyliczenia różnią się odniesieniem, warto powtórzyć przyimek/rodzajnik/'to' przy każdym z nich dla jasności: He believes in hard work, in honesty, and in loyalty — a nie tylko przy pierwszym elemencie, gdy mogłoby to wprowadzać dwuznaczność."
+      }
+    ],
+    "usage": [
+      "W formalnym pisaniu (eseje, raporty, CV) — brak równoległości jest tam traktowany jako wyraźny błąd stylistyczny",
+      "W przemówieniach i tekstach retorycznych, gdzie równoległość buduje rytm i siłę wyrazu (government of the people, by the people, for the people)",
+      "Przy tworzeniu list punktowanych (bullet points) — każdy punkt powinien zaczynać się tą samą formą gramatyczną"
+    ],
+    "tags": [
+      "parallel list",
+      "series parallelism",
+      "matching grammatical form",
+      "bullet point consistency"
+    ],
+    "examples": [
+      {
+        "en": "The manager is responsible for hiring, training, and firing new staff.",
+        "pl": "Kierownik odpowiada za zatrudnianie, szkolenie i zwalnianie nowych pracowników."
+      },
+      {
+        "en": "The report should be clear, concise, and well-organized.",
+        "pl": "Raport powinien być jasny, zwięzły i dobrze zorganizowany."
+      },
+      {
+        "en": "He promised to arrive on time, finish the project, and keep the client updated.",
+        "pl": "Obiecał przyjechać na czas, skończyć projekt i informować klienta na bieżąco."
+      },
+      {
+        "en": "A good leader listens carefully, decides quickly, and acts decisively.",
+        "pl": "Dobry lider słucha uważnie, decyduje szybko i działa zdecydowanie."
+      }
+    ]
+  },
+  {
+    "id": "correlative_parallelism",
+    "order": 2,
+    "nameEn": "Parallelism after correlative conjunctions",
+    "namePl": "Równoległość po spójnikach korelacyjnych",
+    "rules": [
+      {
+        "label": "Zasada podstawowa",
+        "text": "Spójniki korelacyjne (not only...but also, either...or, neither...nor, both...and) łączą dwa elementy, które muszą mieć identyczną kategorię gramatyczną — oba rzeczowniki, oba czasowniki, oba przymiotniki albo oba całe zdania."
+      },
+      {
+        "label": "not only...but also",
+        "text": "Element po 'not only' i element po 'but also' muszą pasować formą: She not only wrote the report but also presented it (oba czasowniki w Past Simple) — nie but also the presentation (rzeczownik)."
+      },
+      {
+        "label": "either...or / neither...nor",
+        "text": "Te same zasady dotyczą either...or i neither...nor: You can either call me or send me an email — oba czasowniki w bezokoliczniku bez 'to'. Przy podmiotach złożonych czasownik zgadza się z elementem bliższym: Neither the students nor the teacher understands."
+      },
+      {
+        "label": "both...and",
+        "text": "Both...and łączy zwykle dwa rzeczowniki lub frazy rzeczownikowe o tej samej funkcji składniowej: Both the manager and the employees agreed to the new schedule."
+      }
+    ],
+    "usage": [
+      "W zdaniach z podwójnym naciskiem lub kontrastem, gdzie ważna jest symetria informacji",
+      "W formalnym i akademickim pisaniu, gdzie brak równoległości po spójnikach korelacyjnych jest częstym błędem",
+      "Przy budowaniu perswazyjnych, zrównoważonych zdań w przemówieniach i argumentacji"
+    ],
+    "tags": [
+      "not only but also",
+      "either or",
+      "neither nor",
+      "both and",
+      "correlative conjunctions"
+    ],
+    "examples": [
+      {
+        "en": "She not only wrote the report but also presented it to the whole team.",
+        "pl": "Nie tylko napisała raport, ale też zaprezentowała go całemu zespołowi."
+      },
+      {
+        "en": "You can either call me or send me an email.",
+        "pl": "Możesz albo do mnie zadzwonić, albo wysłać mi maila."
+      },
+      {
+        "en": "The film was neither entertaining nor informative.",
+        "pl": "Film nie był ani zabawny, ani pouczający."
+      },
+      {
+        "en": "He is not only talented but also hardworking.",
+        "pl": "Jest nie tylko utalentowany, ale też pracowity."
+      }
+    ]
+  },
+  {
+    "id": "comparative_parallelism",
+    "order": 3,
+    "nameEn": "Parallel structure in comparisons",
+    "namePl": "Równoległość struktur w porównaniach",
+    "rules": [
+      {
+        "label": "Zasada podstawowa",
+        "text": "Struktury porównawcze (as...as, than, rather than, compared with/to) wymagają, żeby obie porównywane strony miały tę samą formę gramatyczną — inaczej porównanie brzmi niezgrabnie lub jest niejasne."
+      },
+      {
+        "label": "as...as",
+        "text": "Learning a language is as challenging as learning a musical instrument — po obu stronach forma -ing, bo porównujemy dwie czynności jako rzeczowniki odczasownikowe, nie 'as challenging as to learn'."
+      },
+      {
+        "label": "than / rather than",
+        "text": "He would rather stay home than go to the noisy party — po 'rather' i po 'than' ten sam bezokolicznik bez 'to'. Podobnie: It's better to ask a stupid question than to make a stupid mistake — oba elementy z pełnym 'to'."
+      },
+      {
+        "label": "unikanie powtórzeń przez zaimki/formy zastępcze",
+        "text": "Żeby uniknąć powtórzenia całej frazy, druga strona porównania często używa zaimka dzierżawczego lub formy zastępczej zachowującej tę samą kategorię: Her handwriting is as neat as his (= his handwriting) — zaimek 'his' zastępuje rzeczownik, zachowując równoległość."
+      }
+    ],
+    "usage": [
+      "W zdaniach porównawczych typu as...as, than, rather than, compared with/to",
+      "W formalnym pisaniu, gdzie niedopasowana forma po obu stronach porównania razi jako błąd",
+      "Przy unikaniu powtórzeń w porównaniach — zaimki i formy zastępcze muszą pasować kategorią do zastępowanego elementu"
+    ],
+    "tags": [
+      "as as comparison",
+      "rather than parallel",
+      "than parallelism",
+      "comparative structures"
+    ],
+    "examples": [
+      {
+        "en": "Learning a language is as challenging as learning a musical instrument.",
+        "pl": "Nauka języka jest tak samo trudna, jak nauka gry na instrumencie."
+      },
+      {
+        "en": "He would rather stay home than go to the noisy party.",
+        "pl": "Wolałby zostać w domu, niż iść na hałaśliwą imprezę."
+      },
+      {
+        "en": "It's better to ask a stupid question than to make a stupid mistake.",
+        "pl": "Lepiej zadać głupie pytanie, niż popełnić głupi błąd."
+      },
+      {
+        "en": "The committee is comparing the new policy with the old one rather than replacing it entirely.",
+        "pl": "Komitet porównuje nową politykę ze starą, zamiast całkowicie ją zastępować."
+      }
+    ]
+  },
+  {
+    "id": "faulty_parallelism_fixes",
+    "order": 4,
+    "nameEn": "Common faulty parallelism and how to fix it",
+    "namePl": "Typowe błędy braku równoległości i ich poprawianie",
+    "rules": [
+      {
+        "label": "Mieszanie gerund i bezokolicznika",
+        "text": "Najczęstszy błąd: jeden element wyliczenia jest w formie -ing, a inny w bezokoliczniku. I enjoy hiking, swimming, and to cook. → I enjoy hiking, swimming, and cooking. (albo: to hike, to swim, and to cook)."
+      },
+      {
+        "label": "Mieszanie strony czynnej i biernej",
+        "text": "Elementy wyliczenia nie powinny mieszać strony czynnej i biernej: The mistakes were noticed by the editor and the writer corrected them. → The mistakes were noticed by the editor and corrected by the writer."
+      },
+      {
+        "label": "Zastępowanie przymiotnika całym zdaniem",
+        "text": "Jeśli pierwszy element jest przymiotnikiem, kolejne też powinny nim być, a nie całym zdaniem podrzędnym: The plan is cost-effective and it saves time. → The plan is cost-effective and time-saving."
+      },
+      {
+        "label": "Mieszanie przysłówka z frazą przyimkową",
+        "text": "Przysłówki w serii powinny zachować formę przysłówkową, a nie zamieniać się we frazę przyimkową w połowie wyliczenia: He spoke slowly, clearly, and with confidence. → He spoke slowly, clearly, and confidently."
+      }
+    ],
+    "usage": [
+      "Przy redagowaniu i korekcie własnych tekstów — świadome wyszukiwanie 'złamanej' równoległości w wyliczeniach i porównaniach",
+      "W testach i egzaminach na poziomie C1/C2 (np. Cambridge CPE) jako typowe zadanie 'znajdź i popraw błąd'",
+      "W tłumaczeniu z polskiego, gdzie brak rodzajników i innej gramatyki maskuje niezgodność form w angielskim wyliczeniu"
+    ],
+    "tags": [
+      "faulty parallelism",
+      "parallelism error",
+      "fixing parallel structure",
+      "mixed gerund infinitive"
+    ],
+    "examples": [
+      {
+        "en": "I enjoy hiking, swimming, and cooking.",
+        "pl": "Lubię wędrować, pływać i gotować."
+      },
+      {
+        "en": "The report was thorough, accurate, and convincing.",
+        "pl": "Raport był dokładny, precyzyjny i przekonujący."
+      },
+      {
+        "en": "The mistakes were noticed by the editor and corrected by the writer.",
+        "pl": "Błędy zostały zauważone przez redaktora i poprawione przez pisarza."
+      },
+      {
+        "en": "Employees must arrive on time, follow the dress code, and respect colleagues.",
+        "pl": "Pracownicy muszą przychodzić na czas, przestrzegać dress code'u i szanować współpracowników."
+      }
+    ]
+  }
+]
