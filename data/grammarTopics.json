@@ -1097,5 +1097,12 @@
     "title": "Dopełniacz grupowy",
     "desc": "Dopełniacz grupowy 's dla całej frazy (the man next door's car, someone else's problem) oraz łączony i rozdzielny dopełniacz przy dwóch posiadaczach — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "classical_plurals",
+    "icon": "🏛️",
+    "title": "Liczba mnoga wyrazów obcych (łacina/greka)",
+    "desc": "Klasyczna liczba mnoga zapożyczeń z łaciny i greki: criterion/criteria, cactus/cacti, analysis/analyses, datum/data, formula/formulae, appendix/appendices — wzorce odmiany, formy zanglicyzowane i współczesna reanaliza data/media jako rzeczowników niepoliczalnych, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

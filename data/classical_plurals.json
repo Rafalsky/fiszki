@@ -1,0 +1,285 @@
+[
+  {
+    "id": "greek_on_a",
+    "order": 1,
+    "nameEn": "Greek -on → -a plurals (criterion, phenomenon)",
+    "namePl": "Grecka liczba mnoga -on → -a (criterion, phenomenon)",
+    "rules": [
+      {
+        "label": "Wzorzec",
+        "text": "Rzeczowniki zapożyczone z greki, kończące się w liczbie pojedynczej na -on, tworzą liczbę mnogą przez zamianę końcówki na -a: criterion → criteria, phenomenon → phenomena, automaton → automata, polyhedron → polyhedra"
+      },
+      {
+        "label": "Zgodność z czasownikiem",
+        "text": "criterion/phenomenon (l. poj.) łączy się z czasownikiem w liczbie pojedynczej: This criterion is outdated. Criteria/phenomena (l. mn.) łączy się z czasownikiem w liczbie mnogiej: These criteria are outdated."
+      },
+      {
+        "label": "Częsty błąd",
+        "text": "Najczęstszy błąd nawet u zaawansowanych użytkowników to traktowanie 'criteria' i 'phenomena' jako liczby pojedynczej: błędnie 'this criteria', 'a strange phenomena' — poprawnie 'this criterion', 'a strange phenomenon'"
+      },
+      {
+        "label": "Brak regularnej alternatywy",
+        "text": "W przeciwieństwie do niektórych innych zapożyczeń klasycznych, criteria/phenomena/automata NIE mają w standardowym angielskim akceptowalnej regularnej formy na -s (nie 'criterions', 'phenomenons') — klasyczna liczba mnoga jest tu obowiązkowa"
+      }
+    ],
+    "usage": [
+      "criterion/criteria — kryterium/kryteria (oceny, selekcji)",
+      "phenomenon/phenomena — zjawisko/zjawiska (naukowe, społeczne)",
+      "automaton/automata — automat/automaty (rzadziej używane, technika/robotyka)",
+      "polyhedron/polyhedra — wielościan/wielościany (matematyka, rejestr techniczny)"
+    ],
+    "tags": [
+      "this criterion",
+      "these criteria",
+      "a rare phenomenon",
+      "several phenomena"
+    ],
+    "examples": [
+      {
+        "en": "Price is not the only criterion we should consider.",
+        "pl": "Cena nie jest jedynym kryterium, jakie powinniśmy wziąć pod uwagę."
+      },
+      {
+        "en": "The selection criteria were published on the website.",
+        "pl": "Kryteria selekcji zostały opublikowane na stronie internetowej."
+      },
+      {
+        "en": "Climate change is a global phenomenon.",
+        "pl": "Zmiana klimatu to zjawisko globalne."
+      },
+      {
+        "en": "Scientists have observed several unusual phenomena in this region.",
+        "pl": "Naukowcy zaobserwowali w tym regionie kilka niezwykłych zjawisk."
+      }
+    ]
+  },
+  {
+    "id": "latin_us_i",
+    "order": 2,
+    "nameEn": "Latin -us → -i plurals (cactus, nucleus, stimulus)",
+    "namePl": "Łacińska liczba mnoga -us → -i (cactus, nucleus, stimulus)",
+    "rules": [
+      {
+        "label": "Wzorzec",
+        "text": "Rzeczowniki łacińskie zakończone na -us tworzą klasyczną liczbę mnogą przez zamianę na -i: cactus → cacti, nucleus → nuclei, stimulus → stimuli, radius → radii, alumnus → alumni, syllabus → syllabi, fungus → fungi"
+      },
+      {
+        "label": "Formy zanglicyzowane",
+        "text": "Wiele z tych rzeczowników ma dziś też w pełni akceptowalną regularną formę na -es/-uses: cactuses, syllabuses, funguses — forma klasyczna (-i) dominuje w rejestrze naukowym/formalnym, forma regularna w języku codziennym"
+      },
+      {
+        "label": "Wyjątek: -us → -era",
+        "text": "Niektóre rzeczowniki łacińskie III deklinacji nie idą według wzorca -us/-i, tylko -us/-era: corpus → corpora, genus → genera — to inna deklinacja łacińska, formę trzeba znać osobno dla każdego słowa"
+      },
+      {
+        "label": "alumnus/alumnae — rodzaj",
+        "text": "alumnus (l. mn. alumni) odnosi się do absolwenta płci męskiej lub grupy mieszanej; alumna (l. mn. alumnae) to forma żeńska — rozróżnienie rodzaju zachowane z łaciny, rzadkie w angielskim"
+      }
+    ],
+    "usage": [
+      "cactus/cacti (cactuses) — kaktus/kaktusy",
+      "nucleus/nuclei — jądro/jądra (komórki, atomu)",
+      "stimulus/stimuli — bodziec/bodźce",
+      "radius/radii — promień/promienie (geometria)",
+      "syllabus/syllabi (syllabuses) — sylabus/sylabusy",
+      "corpus/corpora — korpus (tekstowy)/korpusy — nieregularny wzorzec -us/-era"
+    ],
+    "tags": [
+      "two cacti",
+      "brain nuclei",
+      "external stimuli",
+      "several radii",
+      "text corpora"
+    ],
+    "examples": [
+      {
+        "en": "The garden was full of cacti of different shapes and sizes.",
+        "pl": "Ogród był pełen kaktusów o różnych kształtach i rozmiarach."
+      },
+      {
+        "en": "Each cell in the tissue sample had two nuclei.",
+        "pl": "Każda komórka w próbce tkanki miała dwa jądra."
+      },
+      {
+        "en": "Researchers measured the participants' response to visual stimuli.",
+        "pl": "Badacze mierzyli reakcję uczestników na bodźce wzrokowe."
+      },
+      {
+        "en": "The study drew on several large text corpora.",
+        "pl": "Badanie opierało się na kilku dużych korpusach tekstowych."
+      }
+    ]
+  },
+  {
+    "id": "latin_is_es",
+    "order": 3,
+    "nameEn": "Latin/Greek -is → -es plurals (analysis, crisis, thesis)",
+    "namePl": "Liczba mnoga -is → -es (analysis, crisis, thesis)",
+    "rules": [
+      {
+        "label": "Wzorzec",
+        "text": "Rzeczowniki zakończone w liczbie pojedynczej na -is [ɪs] tworzą liczbę mnogą przez zamianę na -es [iːz]: analysis → analyses, crisis → crises, thesis → theses, hypothesis → hypotheses, basis → bases, axis → axes, oasis → oases, parenthesis → parentheses"
+      },
+      {
+        "label": "Wymowa jako sygnał liczby",
+        "text": "Pisownia różni się tylko ostatnią literą (is/es), ale wymowa zmienia się wyraźnie: analysis /əˈnæləsɪs/ (l. poj.) vs analyses /əˈnæləsiːz/ (l. mn.) — w mowie to właśnie wymowa końcówki odróżnia liczbę"
+      },
+      {
+        "label": "Brak regularnej alternatywy",
+        "text": "Te rzeczowniki NIE mają dopuszczalnej formy regularnej na -s (nie 'analysises', 'crisises') — klasyczna liczba mnoga -es jest tu obowiązkowa w każdym rejestrze"
+      },
+      {
+        "label": "Pułapka: basis/bases a base/bases",
+        "text": "'Bases' to zarówno liczba mnoga od 'basis' (podstawa), jak i od 'base' (baza, podstawa fizyczna) — te dwa słowa mają identyczną formę mnogą, znaczenie rozstrzyga kontekst zdania"
+      }
+    ],
+    "usage": [
+      "analysis/analyses — analiza/analizy",
+      "crisis/crises — kryzys/kryzysy",
+      "thesis/theses — teza, praca dyplomowa/tezy, prace dyplomowe",
+      "hypothesis/hypotheses — hipoteza/hipotezy",
+      "basis/bases — podstawa/podstawy (np. on a regular basis)",
+      "axis/axes — oś/osie",
+      "oasis/oases — oaza/oazy"
+    ],
+    "tags": [
+      "a detailed analysis",
+      "several analyses",
+      "economic crises",
+      "competing hypotheses",
+      "on a weekly basis"
+    ],
+    "examples": [
+      {
+        "en": "The report presents a detailed analysis of last year's sales figures.",
+        "pl": "Raport przedstawia szczegółową analizę wyników sprzedaży z zeszłego roku."
+      },
+      {
+        "en": "Historians have proposed several competing hypotheses about the collapse.",
+        "pl": "Historycy zaproponowali kilka konkurujących ze sobą hipotez dotyczących upadku."
+      },
+      {
+        "en": "The country has faced two major economic crises in the last decade.",
+        "pl": "Kraj doświadczył dwóch poważnych kryzysów gospodarczych w ostatniej dekadzie."
+      },
+      {
+        "en": "She is finishing her master's thesis this semester.",
+        "pl": "Kończy w tym semestrze swoją pracę magisterską."
+      }
+    ]
+  },
+  {
+    "id": "latin_um_a",
+    "order": 4,
+    "nameEn": "Latin -um → -a plurals and modern mass-noun reanalysis (datum, medium, bacterium)",
+    "namePl": "Łacińska liczba mnoga -um → -a i współczesna reanaliza (datum, medium, bacterium)",
+    "rules": [
+      {
+        "label": "Wzorzec",
+        "text": "Rzeczowniki łacińskie zakończone na -um tworzą klasyczną liczbę mnogą przez zamianę na -a: datum → data, medium → media, bacterium → bacteria, memorandum → memoranda, curriculum → curricula, symposium → symposia — część z nich ma też uznaną formę regularną (memorandums, curriculums, symposiums)"
+      },
+      {
+        "label": "Reanaliza 'data' jako rzeczownika niepoliczalnego",
+        "text": "We współczesnym angielskim 'data' jest coraz częściej używane jako rzeczownik niepoliczalny w liczbie pojedynczej: 'The data is conclusive.' — zwłaszcza w mowie potocznej i języku technologii. Rejestr formalny/naukowy nadal traktuje 'data' jako liczbę mnogą od 'datum': 'The data are conclusive.' Forma pojedyncza 'a datum' jest rzadka — zamiast niej mówi się 'a data point' lub 'a piece of data'"
+      },
+      {
+        "label": "Reanaliza 'media' jako rzeczownika zbiorowego",
+        "text": "'Media' (środki masowego przekazu) funkcjonuje dziś zwykle jako rzeczownik zbiorowy w liczbie pojedynczej: 'The media is covering the story.' — obok wciąż żywej dosłownej liczby mnogiej od 'medium' w kontekście technicznym: 'storage media', 'various media types'"
+      },
+      {
+        "label": "Wybór formy — rejestr",
+        "text": "W piśmie akademickim i formalnym bezpieczniej trzymać się klasycznej zgodności (data are, criteria are); w mowie potocznej, dziennikarstwie i tekstach o technologii powszechna jest zgodność jak z rzeczownikiem niepoliczalnym/zbiorowym (data is, media is) — to świadomy wybór stylistyczny, nie prosty błąd"
+      }
+    ],
+    "usage": [
+      "datum/data — dana/dane",
+      "medium/media — nośnik, środek przekazu/nośniki, media",
+      "bacterium/bacteria — bakteria/bakterie",
+      "memorandum/memoranda (memorandums) — notatka służbowa/notatki służbowe",
+      "curriculum/curricula (curriculums) — program nauczania/programy nauczania",
+      "symposium/symposia (symposiums) — sympozjum/sympozja"
+    ],
+    "tags": [
+      "the data is/are",
+      "the media is covering",
+      "harmful bacteria",
+      "school curricula",
+      "storage media"
+    ],
+    "examples": [
+      {
+        "en": "The data clearly shows a rise in remote work since the pandemic.",
+        "pl": "Dane wyraźnie pokazują wzrost pracy zdalnej od czasu pandemii."
+      },
+      {
+        "en": "In academic writing, it is safer to treat 'data' as plural: the data are still being analysed.",
+        "pl": "W tekstach akademickich bezpieczniej traktować 'data' jako liczbę mnogą: dane są wciąż analizowane."
+      },
+      {
+        "en": "The local media has been criticised for its coverage of the crisis.",
+        "pl": "Lokalne media były krytykowane za sposób relacjonowania kryzysu."
+      },
+      {
+        "en": "Some bacteria are resistant to common antibiotics.",
+        "pl": "Niektóre bakterie są odporne na popularne antybiotyki."
+      }
+    ]
+  },
+  {
+    "id": "latin_a_ae_ex_ix",
+    "order": 5,
+    "nameEn": "Latin -a → -ae and -ex/-ix → -ices plurals (formula, appendix, index)",
+    "namePl": "Liczba mnoga -a → -ae oraz -ex/-ix → -ices (formula, appendix, index)",
+    "rules": [
+      {
+        "label": "Wzorzec -a → -ae",
+        "text": "Rzeczowniki łacińskie zakończone na -a tworzą klasyczną liczbę mnogą przez dodanie -e: formula → formulae, larva → larvae, vertebra → vertebrae, alga → algae, nebula → nebulae — obok formy regularnej -s (formulas, nebulas), która przeważa w języku codziennym"
+      },
+      {
+        "label": "Wzorzec -ex/-ix → -ices",
+        "text": "Rzeczowniki zakończone na -ex/-ix tworzą klasyczną liczbę mnogą przez zamianę na -ices: appendix → appendices, index → indices, matrix → matrices, vertex → vertices — obok formy regularnej (appendixes, indexes, matrixes), zwykle rzadszej lub ograniczonej do konkretnego znaczenia"
+      },
+      {
+        "label": "Wybór formy zależy od dziedziny",
+        "text": "W matematyce/ekonomii/nauce dominuje forma klasyczna: indices (wskaźniki, matematyka), matrices, formulae. W kontekście ogólnym/codziennym częściej spotyka się formę regularną: indexes (np. spisy w książkach, indeksy w bazie danych), formulas, matrixes"
+      },
+      {
+        "label": "appendix — dwa różne znaczenia, różne formy",
+        "text": "'Appendix' jako narząd (wyrostek robaczkowy) w medycynie zwykle przybiera formę regularną: appendixes (np. removed appendixes). 'Appendix' jako załącznik w dokumencie/książce częściej przybiera formę klasyczną w formalnym piśmie: appendices, choć appendixes też jest akceptowalne"
+      }
+    ],
+    "usage": [
+      "formula/formulae (formulas) — wzór/wzory (matematyka, chemia)",
+      "larva/larvae — larwa/larwy (biologia)",
+      "vertebra/vertebrae — kręg/kręgi (anatomia)",
+      "appendix/appendices (appendixes) — załącznik/załączniki; wyrostek robaczkowy",
+      "index/indices (indexes) — wskaźnik/wskaźniki; indeks/indeksy",
+      "matrix/matrices — macierz/macierze"
+    ],
+    "tags": [
+      "chemical formulae",
+      "several vertebrae",
+      "three appendices",
+      "stock market indices",
+      "square matrices"
+    ],
+    "examples": [
+      {
+        "en": "Chemists use different formulae to describe these compounds.",
+        "pl": "Chemicy używają różnych wzorów, żeby opisać te związki."
+      },
+      {
+        "en": "The report includes three appendices with additional data.",
+        "pl": "Raport zawiera trzy załączniki z dodatkowymi danymi."
+      },
+      {
+        "en": "Stock market indices fell sharply on Monday.",
+        "pl": "Indeksy giełdowe gwałtownie spadły w poniedziałek."
+      },
+      {
+        "en": "The professor asked us to multiply the two matrices.",
+        "pl": "Profesor poprosił nas o pomnożenie tych dwóch macierzy."
+      }
+    ]
+  }
+]
