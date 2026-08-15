@@ -155,6 +155,7 @@ const THEORY_URLS = {
   supposed_meant_to: new URL("../data/supposed_meant_to.json", import.meta.url),
   echo_questions: new URL("../data/echo_questions.json", import.meta.url),
   heavy_np_shift: new URL("../data/heavy_np_shift.json", import.meta.url),
+  parallel_structure: new URL("../data/parallel_structure.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -305,6 +306,7 @@ const DRILLS_URLS = {
   supposed_meant_to: new URL("../data/supposed_meant_toDrills.json", import.meta.url),
   echo_questions: new URL("../data/echo_questionsDrills.json", import.meta.url),
   heavy_np_shift: new URL("../data/heavy_np_shiftDrills.json", import.meta.url),
+  parallel_structure: new URL("../data/parallel_structureDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

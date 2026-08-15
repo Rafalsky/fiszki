@@ -1027,5 +1027,12 @@
     "title": "Heavy NP shift",
     "desc": "Heavy NP shift i zasada end-weight: przesuwanie ciężkich, długich fraz rzeczownikowych na koniec zdania przy czasownikach dwudopełnieniowych i czasownikach frazowych — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 36
+  },
+  {
+    "id": "parallel_structure",
+    "icon": "⚖️",
+    "title": "Struktura równoległa (parallelism)",
+    "desc": "Zachowanie tej samej formy gramatycznej w wyliczeniach, po spójnikach korelacyjnych (not only...but also, either...or) i w porównaniach (as...as, than) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 32
   }
 ]
