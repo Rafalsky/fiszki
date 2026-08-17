@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "end_weight_postponement",
+    "prompt": "A book ___ (come out) that explains this brilliantly.",
+    "answer": "has come out",
+    "distractors": ["that has come out", "came out has", "has been come out"]
+  },
+  {
+    "id": 2,
+    "itemId": "end_weight_postponement",
+    "prompt": "A woman ___ (walk in) who I recognised immediately.",
+    "answer": "walked in",
+    "distractors": ["who walked in", "walked in who", "had walked in"]
+  },
+  {
+    "id": 3,
+    "itemId": "end_weight_postponement",
+    "prompt": "An email ___ (arrive) this morning that changed everything.",
+    "answer": "arrived",
+    "distractors": ["that arrived", "did arrive", "was arriving"]
+  },
+  {
+    "id": 4,
+    "itemId": "end_weight_postponement",
+    "prompt": "A car ___ (pull up) outside that none of us recognised.",
+    "answer": "pulled up",
+    "distractors": ["was pulled up", "pulled up that", "has pulled up"]
+  },
+  {
+    "id": 5,
+    "itemId": "end_weight_postponement",
+    "prompt": "A letter ___ (turn up) yesterday that had been missing for years.",
+    "answer": "turned up",
+    "distractors": ["was turned up", "turned up that", "has turned up"]
+  },
+  {
+    "id": 6,
+    "itemId": "end_weight_postponement",
+    "prompt": "Something ___ (happen) last night that nobody can explain.",
+    "answer": "happened",
+    "distractors": ["that happened", "did happened", "was happening"]
+  },
+  {
+    "id": 7,
+    "itemId": "end_weight_postponement",
+    "prompt": "A stranger ___ (appear) at the door who claimed to know my father.",
+    "answer": "appeared",
+    "distractors": ["who appeared", "appeared who", "has appear"]
+  },
+  {
+    "id": 8,
+    "itemId": "end_weight_postponement",
+    "prompt": "News ___ (come through) this afternoon that shocked everyone.",
+    "answer": "came through",
+    "distractors": ["was come through", "came through that", "has come through"]
+  },
+  {
+    "id": 9,
+    "itemId": "end_weight_postponement",
+    "prompt": "A parcel ___ (arrive) yesterday that wasn't addressed to me.",
+    "answer": "arrived",
+    "distractors": ["that arrived", "was arrived", "has arrive"]
+  },
+  {
+    "id": 10,
+    "itemId": "end_weight_postponement",
+    "prompt": "A song ___ (come on) on the radio that reminded her of home.",
+    "answer": "came on",
+    "distractors": ["was come on", "came on that", "has come on"]
+  },
+  {
+    "id": 11,
+    "itemId": "existential_there_postponement",
+    "prompt": "There's a man at the door ___ (want) to see you.",
+    "answer": "who wants",
+    "distractors": ["that want", "who want", "wants who"]
+  },
+  {
+    "id": 12,
+    "itemId": "existential_there_postponement",
+    "prompt": "There was a woman on the bus ___ (keep) staring at me.",
+    "answer": "who kept",
+    "distractors": ["that keeps", "who keep", "kept who"]
+  },
+  {
+    "id": 13,
+    "itemId": "existential_there_postponement",
+    "prompt": "There's a letter on your desk ___ (need) your signature.",
+    "answer": "that needs",
+    "distractors": ["which need", "that need", "needs that"]
+  },
+  {
+    "id": 14,
+    "itemId": "existential_there_postponement",
+    "prompt": "There are several people in the waiting room ___ (complain) about the delay.",
+    "answer": "who are complaining",
+    "distractors": ["who is complaining", "that complains", "complaining who"]
+  },
+  {
+    "id": 15,
+    "itemId": "existential_there_postponement",
+    "prompt": "There's someone on the phone ___ (ask) for you.",
+    "answer": "who's asking",
+    "distractors": ["who ask", "that are asking", "asking who"]
+  },
+  {
+    "id": 16,
+    "itemId": "existential_there_postponement",
+    "prompt": "There used to be a shop on this corner ___ (sell) fresh bread.",
+    "answer": "that sold",
+    "distractors": ["which sell", "that was selling", "sold that"]
+  },
+  {
+    "id": 17,
+    "itemId": "existential_there_postponement",
+    "prompt": "There's a dog in the garden ___ (belong) to our neighbours.",
+    "answer": "that belongs",
+    "distractors": ["which belong", "belonging that", "that belong"]
+  },
+  {
+    "id": 18,
+    "itemId": "existential_there_postponement",
+    "prompt": "There was a man at the party ___ (claim) to know you.",
+    "answer": "who claimed",
+    "distractors": ["that claim", "who claims", "claimed who"]
+  },
+  {
+    "id": 19,
+    "itemId": "existential_there_postponement",
+    "prompt": "There's a rumour going around the office ___ (say) the company is closing.",
+    "answer": "that says",
+    "distractors": ["which say", "saying that", "that said"]
+  },
+  {
+    "id": 20,
+    "itemId": "existential_there_postponement",
+    "prompt": "There are a few issues in the report ___ (need) clarifying.",
+    "answer": "that need",
+    "distractors": ["which needs", "that needs", "needing that"]
+  },
+  {
+    "id": 21,
+    "itemId": "verb_of_appearance_postponement",
+    "prompt": "A problem ___ (arise) which nobody had anticipated.",
+    "answer": "has arisen",
+    "distractors": ["has arose", "arose has", "has been arisen"]
+  },
+  {
+    "id": 22,
+    "itemId": "verb_of_appearance_postponement",
+    "prompt": "A fire ___ (break out) that destroyed half the building.",
+    "answer": "broke out",
+    "distractors": ["was broken out", "broke out that", "has broke out"]
+  },
+  {
+    "id": 23,
+    "itemId": "verb_of_appearance_postponement",
+    "prompt": "A rumour ___ (start) circulating that turned out to be false.",
+    "answer": "started",
+    "distractors": ["was started", "did start", "starting"]
+  },
+  {
+    "id": 24,
+    "itemId": "verb_of_appearance_postponement",
+    "prompt": "An opportunity ___ (come up) that was too good to refuse.",
+    "answer": "came up",
+    "distractors": ["was come up", "came up that", "has come up"]
+  },
+  {
+    "id": 25,
+    "itemId": "verb_of_appearance_postponement",
+    "prompt": "A crisis ___ (develop) that threatened the whole project.",
+    "answer": "developed",
+    "distractors": ["was developed", "did developed", "developing"]
+  },
+  {
+    "id": 26,
+    "itemId": "verb_of_appearance_postponement",
+    "prompt": "A disagreement ___ (occur) that neither of them could resolve.",
+    "answer": "occurred",
+    "distractors": ["was occurred", "did occurred", "occurring"]
+  },
+  {
+    "id": 27,
+    "itemId": "verb_of_appearance_postponement",
+    "prompt": "A new difficulty ___ (emerge) that we hadn't considered.",
+    "answer": "emerged",
+    "distractors": ["was emerged", "did emerged", "emerging"]
+  },
+  {
+    "id": 28,
+    "itemId": "verb_of_appearance_postponement",
+    "prompt": "A scandal ___ (break) that nearly ended his career.",
+    "answer": "broke",
+    "distractors": ["was broken", "broke out", "has broke"]
+  },
+  {
+    "id": 29,
+    "itemId": "verb_of_appearance_postponement",
+    "prompt": "An idea ___ (spring up) that changed the whole direction of the project.",
+    "answer": "sprang up",
+    "distractors": ["springed up", "was sprung up", "has sprang up"]
+  },
+  {
+    "id": 30,
+    "itemId": "verb_of_appearance_postponement",
+    "prompt": "A conflict ___ (arise) that split the committee in two.",
+    "answer": "arose",
+    "distractors": ["arised", "was arisen", "has arose"]
+  },
+  {
+    "id": 31,
+    "itemId": "narrative_register_postponement",
+    "prompt": "A knock ___ (come) at the door that made everyone jump.",
+    "answer": "came",
+    "distractors": ["was come", "did came", "coming"]
+  },
+  {
+    "id": 32,
+    "itemId": "narrative_register_postponement",
+    "prompt": "A silence ___ (fall) over the room that nobody dared break.",
+    "answer": "fell",
+    "distractors": ["was fallen", "did fell", "falling"]
+  },
+  {
+    "id": 33,
+    "itemId": "narrative_register_postponement",
+    "prompt": "A shadow ___ (pass) across the window that nobody else seemed to notice.",
+    "answer": "passed",
+    "distractors": ["was passed", "did passed", "passing"]
+  },
+  {
+    "id": 34,
+    "itemId": "narrative_register_postponement",
+    "prompt": "A whisper ___ (spread) through the crowd that no one could trace to its source.",
+    "answer": "spread",
+    "distractors": ["was spread", "did spread", "spreading"]
+  },
+  {
+    "id": 35,
+    "itemId": "narrative_register_postponement",
+    "prompt": "A chill ___ (run) down her spine that she couldn't explain.",
+    "answer": "ran",
+    "distractors": ["was run", "did ran", "running"]
+  },
+  {
+    "id": 36,
+    "itemId": "narrative_register_postponement",
+    "prompt": "A memory ___ (flash) through his mind that he'd tried hard to forget.",
+    "answer": "flashed",
+    "distractors": ["was flashed", "did flashed", "flashing"]
+  },
+  {
+    "id": 37,
+    "itemId": "narrative_register_postponement",
+    "prompt": "A doubt ___ (creep) into her mind that she couldn't shake off.",
+    "answer": "crept",
+    "distractors": ["creeped", "was crept", "has creep"]
+  },
+  {
+    "id": 38,
+    "itemId": "narrative_register_postponement",
+    "prompt": "A thought ___ (occur) to him that made him stop in his tracks.",
+    "answer": "occurred",
+    "distractors": ["was occurred", "did occurred", "occurring"]
+  },
+  {
+    "id": 39,
+    "itemId": "narrative_register_postponement",
+    "prompt": "A change ___ (come) over her that everyone noticed immediately.",
+    "answer": "came",
+    "distractors": ["was come", "did came", "coming"]
+  },
+  {
+    "id": 40,
+    "itemId": "narrative_register_postponement",
+    "prompt": "A rumour about the merger ___ (spread) quickly that nobody actually believed.",
+    "answer": "spread",
+    "distractors": ["was spread", "did spread", "spreading"]
+  }
+]

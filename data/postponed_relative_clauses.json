@@ -1,0 +1,190 @@
+[
+  {
+    "id": "end_weight_postponement",
+    "order": 1,
+    "nameEn": "Postponement after intransitive verbs — the end-weight principle",
+    "namePl": "Odsunięcie po czasownikach nieprzechodnich — zasada end-weight",
+    "rules": [
+      {
+        "label": "Mechanizm",
+        "text": "Zwykle zdanie względne stoi bezpośrednio po rzeczowniku, którego dotyczy (poprzedniku): A book that explains this brilliantly has just come out. Gdy jednak orzeczenie jest krótkie, a zdanie względne długie i 'ciężkie', angielski często odsuwa je na koniec zdania, rozdzielając poprzednik i zdanie względne: A book has just come out that explains this brilliantly."
+      },
+      {
+        "label": "Zasada end-weight",
+        "text": "Angielski woli, by dłuższe, informacyjnie 'cięższe' elementy zdania stały na końcu, a krótsze — bliżej początku. Krótki czasownik (has come out, walked in, arrived) zostaje tuż przy podmiocie, a rozbudowane zdanie względne trafia na sam koniec, gdzie łatwiej je przetworzyć."
+      },
+      {
+        "label": "Typowe czasowniki",
+        "text": "Odsunięcie jest najnaturalniejsze z krótkimi czasownikami nieprzechodnimi oznaczającymi pojawienie się, przyjście lub zaistnienie: come out, arrive, walk in, turn up, pull up, appear, happen. Z czasownikami przechodnimi, które mają własne rozbudowane dopełnienie, odsunięcie brzmi niezręcznie i jest znacznie rzadsze."
+      },
+      {
+        "label": "Bez odsunięcia",
+        "text": "Wersja z przylegającym zdaniem względnym (A book that explains this brilliantly has just come out) jest równie poprawna gramatycznie, ale z długim zdaniem względnym w środku brzmi cięższo i mniej naturalnie niż wersja odsunięta."
+      }
+    ],
+    "usage": [
+      "Odciążenie podmiotu — krótki czasownik zostaje blisko rzeczownika, długie zdanie względne trafia na koniec, gdzie łatwiej je odebrać",
+      "Naturalne w mowie potocznej i w narracji, gdzie nowa, ważna informacja zwykle pojawia się na końcu zdania",
+      "Częste z czasownikami 'pojawienia się' (arrive, turn up, walk in, come out, appear), rzadsze z czasownikami przechodnimi",
+      "Kontrast ze zdaniem względnym przylegającym bezpośrednio do poprzednika — obie wersje poprawne, ale różnią się naturalnością i rytmem zdania"
+    ],
+    "tags": ["has come out that", "walked in who", "arrived that", "end-weight"],
+    "examples": [
+      {
+        "en": "A book has just come out that explains this brilliantly.",
+        "pl": "Właśnie ukazała się książka, która świetnie to wyjaśnia."
+      },
+      {
+        "en": "A woman walked in who I recognised immediately.",
+        "pl": "Weszła kobieta, którą od razu rozpoznałem."
+      },
+      {
+        "en": "A car pulled up outside that none of us recognised.",
+        "pl": "Pod domem zatrzymał się samochód, którego żadne z nas nie rozpoznało."
+      },
+      {
+        "en": "A letter turned up yesterday that had been missing for years.",
+        "pl": "Wczoraj znalazł się list, który zaginął wiele lat temu."
+      }
+    ]
+  },
+  {
+    "id": "existential_there_postponement",
+    "order": 2,
+    "nameEn": "Postponement in existential there is/are sentences",
+    "namePl": "Odsunięcie w zdaniach egzystencjalnych there is / there are",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "There + be + rzeczownik + (fraza przyimkowa) + zdanie względne. Zdanie względne odnosi się do rzeczownika po 'be', ale zwykle jest od niego oddzielone dodatkową frazą miejsca lub czasu: There's a man at the door who wants to see you."
+      },
+      {
+        "label": "Bardzo naturalna konstrukcja",
+        "text": "To jedna z najczęstszych form odsunięcia w codziennej angielszczyźnie — o wiele bardziej naturalna niż wersja z rozbudowanym podmiotem na początku: A man who wants to see you is at the door brzmi sztywno i książkowo w porównaniu z There's a man at the door who wants to see you."
+      },
+      {
+        "label": "Liczba i czas",
+        "text": "Czasownik 'be' zgadza się z rzeczownikiem po 'there', nie z podmiotem zdania względnego: There are several people in the waiting room who are complaining. Konstrukcja działa we wszystkich czasach: There used to be a shop on this corner that sold fresh bread."
+      }
+    ],
+    "usage": [
+      "Wprowadzanie nowej osoby lub rzeczy do rozmowy, a następnie dodanie o niej informacji w zdaniu względnym",
+      "Bardzo częste w mowie potocznej — dużo bardziej naturalne niż postać z rozbudowanym podmiotem zdania",
+      "Zdanie względne niemal zawsze odsunięte przez frazę miejsca lub czasu (at the door, on the bus, in the report)",
+      "Możliwe pominięcie zaimka względnego, gdy pełni funkcję dopełnienia: There's a letter on your desk (that) you need to sign"
+    ],
+    "tags": ["there's a man who", "there was a woman who", "there are people who", "there used to be"],
+    "examples": [
+      {
+        "en": "There's a man at the door who wants to see you.",
+        "pl": "Przy drzwiach stoi mężczyzna, który chce się z tobą zobaczyć."
+      },
+      {
+        "en": "There was a woman on the bus who kept staring at me.",
+        "pl": "W autobusie była kobieta, która ciągle się na mnie gapiła."
+      },
+      {
+        "en": "There used to be a shop on this corner that sold fresh bread.",
+        "pl": "Na tym rogu był kiedyś sklep, w którym sprzedawano świeży chleb."
+      },
+      {
+        "en": "There are a few issues in the report that need clarifying.",
+        "pl": "W raporcie jest kilka kwestii, które trzeba wyjaśnić."
+      }
+    ]
+  },
+  {
+    "id": "verb_of_appearance_postponement",
+    "order": 3,
+    "nameEn": "Postponement after verbs of arising, occurring and happening",
+    "namePl": "Odsunięcie po czasownikach zaistnienia i pojawienia się",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Podmiot (zwykle rzeczownik abstrakcyjny: problem, rumour, crisis, opportunity) + krótki czasownik nieprzechodni oznaczający zaistnienie czegoś + odsunięte zdanie względne: A problem has arisen which nobody had anticipated."
+      },
+      {
+        "label": "Typowe czasowniki",
+        "text": "arise, occur, come up, break out, emerge, develop, spring up, start (circulating) — czasowniki opisujące pojawienie się problemu, wydarzenia lub sytuacji, po których niemal zawsze następuje odsunięte zdanie względne wyjaśniające, na czym ta rzecz polega."
+      },
+      {
+        "label": "Dlaczego odsunięcie",
+        "text": "Podmiot bez zdania względnego byłby niepełny znaczeniowo (A problem has arisen brzmi niepełnie bez dodatkowej informacji), dlatego zdanie względne niemal zawsze się pojawia — ale z powodu krótkiego czasownika naturalnie trafia na koniec, a nie między podmiot a orzeczenie."
+      }
+    ],
+    "usage": [
+      "Relacjonowanie nowych problemów, kryzysów i wydarzeń z dodatkowym wyjaśnieniem w odsuniętym zdaniu względnym",
+      "Styl narracyjny i sprawozdawczy — wiadomości, raporty, opowiadanie historii",
+      "Odsunięte zdanie względne dostarcza kluczowej informacji, dlatego rzadko bywa pomijane, w przeciwieństwie do zdań z tematu 1",
+      "Kontrast z konstrukcją z anticipatory it (temat 'ekstrapozycja') — tam odsuwane jest całe zdanie podrzędne pełniące funkcję podmiotu, tutaj tylko zdanie względne opisujące istniejący już rzeczownik-podmiot"
+    ],
+    "tags": ["a problem has arisen which", "a rumour started that", "an opportunity came up that", "a crisis developed that"],
+    "examples": [
+      {
+        "en": "A problem has arisen which nobody had anticipated.",
+        "pl": "Pojawił się problem, którego nikt nie przewidział."
+      },
+      {
+        "en": "A rumour started circulating that turned out to be completely false.",
+        "pl": "Zaczęła krążyć plotka, która okazała się całkowicie fałszywa."
+      },
+      {
+        "en": "An opportunity came up that was too good to refuse.",
+        "pl": "Pojawiła się okazja, która była zbyt dobra, żeby ją odrzucić."
+      },
+      {
+        "en": "A scandal broke that nearly ended his career.",
+        "pl": "Wybuchł skandal, który prawie zakończył jego karierę."
+      }
+    ]
+  },
+  {
+    "id": "narrative_register_postponement",
+    "order": 4,
+    "nameEn": "Postponement in narrative style and its limits",
+    "namePl": "Odsunięcie w stylu narracyjnym i jego ograniczenia",
+    "rules": [
+      {
+        "label": "Styl narracyjny",
+        "text": "Odsunięte zdania względne są bardzo częste w opowiadaniu historii i prozie, gdzie krótkie zdarzenie (a knock came, a silence fell, a shadow passed) jest natychmiast rozwinięte odsuniętym zdaniem względnym: A knock came at the door that made everyone jump."
+      },
+      {
+        "label": "Rejestr",
+        "text": "Odsunięcie jest naturalne w mowie i w stylu narracyjnym. W formalnym, precyzyjnym stylu pisanym (np. tekstach prawnych czy naukowych) częściej zostawia się zdanie względne bezpośrednio przy poprzedniku, żeby uniknąć nawet chwilowej niejednoznaczności."
+      },
+      {
+        "label": "Ryzyko niejednoznaczności",
+        "text": "Odsunięcia trzeba unikać, gdy między poprzednikiem a odsuniętym zdaniem względnym pojawia się inny rzeczownik, do którego zdanie względne mogłoby się mylnie odnosić: lepiej A rumour about the merger that nobody believed spread quickly niż zdanie, w którym 'that nobody believed' mogłoby zostać odczytane jako odnoszące się do 'the merger', a nie do 'a rumour'."
+      },
+      {
+        "label": "Kryterium wyboru",
+        "text": "Odsuwaj zdanie względne, gdy orzeczenie jest krótkie i nieprzechodnie, a bezpośrednie sąsiedztwo poprzednika i zdania względnego nie grozi dwuznacznością; zostaw je przy poprzedniku, gdy orzeczenie jest długie, przechodnie lub gdy odsunięcie mogłoby wprowadzić w błąd co do tego, czego dotyczy zdanie względne."
+      }
+    ],
+    "usage": [
+      "Budowanie napięcia i tempa w narracji — krótkie zdarzenie natychmiast rozwinięte odsuniętym zdaniem względnym",
+      "Naturalne w mowie potocznej i literaturze, rzadsze w formalnym, precyzyjnym stylu pisanym",
+      "Unikanie odsunięcia, gdy groziłoby ono dwuznacznością co do tego, do którego rzeczownika odnosi się zdanie względne",
+      "Świadomy wybór między wersją odsuniętą a przylegającą jako narzędzie stylistyczne, nie tylko gramatyczna konieczność"
+    ],
+    "tags": ["a knock came that", "a silence fell that", "a shadow passed that", "narrative style"],
+    "examples": [
+      {
+        "en": "A knock came at the door that made everyone jump.",
+        "pl": "Rozległo się pukanie do drzwi, które sprawiło, że wszyscy podskoczyli."
+      },
+      {
+        "en": "A silence fell over the room that nobody dared to break.",
+        "pl": "W pokoju zapadła cisza, której nikt nie odważył się przerwać."
+      },
+      {
+        "en": "A thought occurred to him that made him stop in his tracks.",
+        "pl": "Przyszła mu do głowy myśl, która sprawiła, że stanął jak wryty."
+      },
+      {
+        "en": "A change came over her that everyone noticed immediately.",
+        "pl": "Zaszła w niej zmiana, którą wszyscy od razu zauważyli."
+      }
+    ]
+  }
+]
