@@ -1,0 +1,94 @@
+[
+  {
+    "id": "imperative_and",
+    "order": 1,
+    "nameEn": "Imperative + and — implicit positive conditional",
+    "namePl": "Tryb rozkazujący + and — ukryty warunek pozytywny",
+    "rules": [
+      { "label": "budowa", "text": "Tryb rozkazujący + and + zdanie w czasie przyszłym (will) = If you + czasownik teraźniejszy, will...: Say that again and I'll walk out. = If you say that again, I'll walk out." },
+      { "label": "znaczenie", "text": "Pierwsza część (rozkaz) opisuje warunek, druga (po and) — jego skutek. Nie jest to zwykłe następstwo czynności, tylko relacja przyczynowo-skutkowa." },
+      { "label": "szyk stały", "text": "Kolejność jest zawsze taka sama: najpierw rozkaz-warunek, potem and, potem skutek. Nie da się jej odwrócić bez zmiany konstrukcji na zdanie warunkowe z if." }
+    ],
+    "usage": [
+      "Typowe w mowie potocznej jako żywsza, bardziej bezpośrednia alternatywa dla zdania warunkowego z if",
+      "Skutek po and jest zwykle wyrażony czasem przyszłym (will) albo trybem rozkazującym w drugiej części (Do this and you'll thank me later)",
+      "Częste w radach, obietnicach i ostrzeżeniach: Water the seeds regularly and they'll sprout within a week."
+    ],
+    "tags": ["imperative and", "conditional and", "Say that again and"],
+    "examples": [
+      { "en": "Say that again and I'll walk out.", "pl": "Powiedz to jeszcze raz, a wyjdę." },
+      { "en": "Water the seeds regularly and they'll sprout within a week.", "pl": "Podlewaj nasiona regularnie, a wykiełkują w ciągu tygodnia." },
+      { "en": "Give me a hand and I'll buy you dinner.", "pl": "Pomóż mi, a postawię ci kolację." },
+      { "en": "Apologise now and she'll probably forgive you.", "pl": "Przeproś teraz, a ona prawdopodobnie ci wybaczy." }
+    ]
+  },
+  {
+    "id": "imperative_or",
+    "order": 2,
+    "nameEn": "Imperative + or — implicit negative conditional",
+    "namePl": "Tryb rozkazujący + or — ukryty warunek negatywny",
+    "rules": [
+      { "label": "budowa", "text": "Tryb rozkazujący + or (else) + zdanie w czasie przyszłym = If you don't + czasownik, will...: Hurry up or you'll miss the train. = If you don't hurry up, you'll miss the train." },
+      { "label": "znaczenie", "text": "Druga część opisuje NIEPOŻĄDANĄ konsekwencję, która nastąpi, jeśli rozkaz z pierwszej części NIE zostanie wykonany — odwrotnie niż przy and." },
+      { "label": "or else", "text": "Wstawienie else po or (or else) wzmacnia ton ostrzeżenia lub groźby, ale nie zmienia znaczenia: Finish your homework, or else you're not going out." }
+    ],
+    "usage": [
+      "Typowe w ostrzeżeniach, groźbach i ultimatach: Don't touch that, or you'll regret it.",
+      "Skutek po or jest niemal zawsze negatywny/niepożądany z punktu widzenia odbiorcy",
+      "W odróżnieniu od zwykłego or (alternatywa/wybór), tutaj or wprowadza konsekwencję niewykonania polecenia, a nie wybór między dwiema opcjami"
+    ],
+    "tags": ["imperative or", "or else", "Hurry up or"],
+    "examples": [
+      { "en": "Hurry up, or you'll miss the train.", "pl": "Pospiesz się, bo spóźnisz się na pociąg." },
+      { "en": "Finish your homework, or else you're not going out.", "pl": "Skończ zadanie domowe, bo inaczej nigdzie nie wyjdziesz." },
+      { "en": "Don't touch that wire, or you'll get an electric shock.", "pl": "Nie dotykaj tego przewodu, bo poraży cię prąd." },
+      { "en": "Lower your voice, or the neighbours will complain.", "pl": "Ścisz głos, bo sąsiedzi się poskarżą." }
+    ]
+  },
+  {
+    "id": "bare_np_and",
+    "order": 3,
+    "nameEn": "Bare noun phrase + and — conditional without a verb",
+    "namePl": "Sama fraza rzeczownikowa + and — warunek bez czasownika",
+    "rules": [
+      { "label": "budowa", "text": "Rzeczownik/fraza rzeczownikowa (bez czasownika w trybie rozkazującym) + and + skutek = If there is/you have..., will...: One more complaint and you're fired. = If there's one more complaint, you're fired." },
+      { "label": "elipsa", "text": "Konstrukcja jest skróconą wersją zdania warunkowego — pomija podmiot i orzeczenie pierwszej części, zostawiając samą frazę opisującą warunek." },
+      { "label": "rejestr", "text": "Bardzo potoczna, dosadna konstrukcja — typowa dla mowy nieformalnej, nagłówków i sloganów, rzadka w piśmie formalnym." }
+    ],
+    "usage": [
+      "Podmiot zdania warunkowego jest tu zwykle domyślny z kontekstu (np. sytuacja, liczba, zdarzenie)",
+      "Skutek po and bywa zarówno pozytywny, jak i negatywny — o kierunku decyduje sens frazy przed and",
+      "Częste w emfatycznych ostrzeżeniach i podsumowaniach: A few more mistakes like that and you'll lose the client."
+    ],
+    "tags": ["bare noun phrase and", "One more complaint and", "elliptical conditional"],
+    "examples": [
+      { "en": "One more complaint and you're fired.", "pl": "Jeszcze jedna skarga i jesteś zwolniony." },
+      { "en": "A few more mistakes like that and you'll lose the client.", "pl": "Jeszcze kilka takich błędów i stracisz klienta." },
+      { "en": "Five more minutes and we'll be late.", "pl": "Jeszcze pięć minut i się spóźnimy." },
+      { "en": "One wrong move and the whole plan falls apart.", "pl": "Jeden zły ruch i cały plan się rozpada." }
+    ]
+  },
+  {
+    "id": "disambiguation",
+    "order": 4,
+    "nameEn": "Distinguishing the conditional reading from plain coordination",
+    "namePl": "Odróżnianie odczytu warunkowego od zwykłej koordynacji",
+    "rules": [
+      { "label": "test znaczeniowy", "text": "Jeśli drugie zdanie opisuje SKUTEK zależny od wykonania (and) lub niewykonania (or) pierwszej czynności, to jest to warunek. Jeśli po prostu opisuje kolejną czynność następującą w czasie, to zwykła koordynacja." },
+      { "label": "czas w drugiej części", "text": "Odczyt warunkowy niemal zawsze wymaga czasu przyszłego (will) albo trybu rozkazującego w drugiej części; sama koordynacja czynności zwykle używa Present Simple/Past Simple bez will." },
+      { "label": "kontrast", "text": "Come here and sit down. = zwykłe następstwo dwóch poleceń (usiądź po tym, jak tu podejdziesz). Come here and I'll give you a sweet. = warunek (jeśli tu podejdziesz, dostaniesz cukierka)." }
+    ],
+    "usage": [
+      "Sprawdź, czy da się przeformułować zdanie z if, nie zmieniając znaczenia — jeśli tak, to jest to konstrukcja warunkowa",
+      "W odczycie warunkowym druga część NIE jest kolejnym poleceniem do wykonania przez odbiorcę, tylko przewidywaniem konsekwencji",
+      "Intonacja i przecinek przed and/or często sygnalizują odczyt warunkowy w mowie i piśmie"
+    ],
+    "tags": ["coordination vs conditional", "Come here and sit down", "ambiguity"],
+    "examples": [
+      { "en": "Come here and sit down.", "pl": "Podejdź tutaj i usiądź." },
+      { "en": "Come here and I'll give you a sweet.", "pl": "Podejdź tutaj, a dostaniesz cukierka." },
+      { "en": "He opened the window and looked outside.", "pl": "Otworzył okno i wyjrzał na zewnątrz." },
+      { "en": "Open the window and you'll feel the cold air immediately.", "pl": "Otwórz okno, a od razu poczujesz zimne powietrze." }
+    ]
+  }
+]
