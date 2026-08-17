@@ -170,6 +170,7 @@ const THEORY_URLS = {
   exceptive_clauses: new URL("../data/exceptive_clauses.json", import.meta.url),
   conversion: new URL("../data/conversion.json", import.meta.url),
   negative_questions: new URL("../data/negative_questions.json", import.meta.url),
+  extraposition: new URL("../data/extraposition.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -335,6 +336,7 @@ const DRILLS_URLS = {
   exceptive_clauses: new URL("../data/exceptive_clausesDrills.json", import.meta.url),
   conversion: new URL("../data/conversionDrills.json", import.meta.url),
   negative_questions: new URL("../data/negative_questionsDrills.json", import.meta.url),
+  extraposition: new URL("../data/extrapositionDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

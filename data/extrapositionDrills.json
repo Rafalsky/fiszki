@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "it_adj_that",
+    "prompt": "It ___ that she hasn't slept in days.",
+    "answer": "is obvious",
+    "distractors": ["obvious is", "is obviously", "obvious"]
+  },
+  {
+    "id": 2,
+    "itemId": "it_adj_that",
+    "prompt": "It ___ that the meeting will finish early.",
+    "answer": "is unlikely",
+    "distractors": ["unlikely is", "is unlikely to", "likely isn't"]
+  },
+  {
+    "id": 3,
+    "itemId": "it_adj_that",
+    "prompt": "It ___ to everyone that the plan wouldn't work.",
+    "answer": "was clear",
+    "distractors": ["clear was", "was clearly", "clear is"]
+  },
+  {
+    "id": 4,
+    "itemId": "it_adj_that",
+    "prompt": "It ___ that he might be lying.",
+    "answer": "is possible",
+    "distractors": ["possible is", "is possibly", "possible"]
+  },
+  {
+    "id": 5,
+    "itemId": "it_adj_that",
+    "prompt": "It ___ that nobody had warned us.",
+    "answer": "was surprising",
+    "distractors": ["surprising was", "was surprisingly", "surprise was"]
+  },
+  {
+    "id": 6,
+    "itemId": "it_adj_that",
+    "prompt": "It ___ that she used to be a professional dancer.",
+    "answer": "is true",
+    "distractors": ["true is", "is truly", "true"]
+  },
+  {
+    "id": 7,
+    "itemId": "it_adj_that",
+    "prompt": "It ___ that he'll apologise.",
+    "answer": "is doubtful",
+    "distractors": ["doubtful is", "is doubtfully", "doubt is"]
+  },
+  {
+    "id": 8,
+    "itemId": "it_adj_that",
+    "prompt": "It ___ that the two of them ended up together.",
+    "answer": "is ironic",
+    "distractors": ["ironic is", "is ironically", "irony is"]
+  },
+  {
+    "id": 9,
+    "itemId": "it_adj_that",
+    "prompt": "It ___ that the bridge collapsed without warning.",
+    "answer": "is remarkable",
+    "distractors": ["remarkable is", "is remarkably", "remark is"]
+  },
+  {
+    "id": 10,
+    "itemId": "it_adj_that",
+    "prompt": "It ___ that the results were faked.",
+    "answer": "is evident",
+    "distractors": ["evident is", "is evidently", "evidence is"]
+  },
+  {
+    "id": 11,
+    "itemId": "it_adj_to_infinitive",
+    "prompt": "It ___ check the contract carefully before signing.",
+    "answer": "is essential to",
+    "distractors": ["is essential for", "essential is to", "is essential that"]
+  },
+  {
+    "id": 12,
+    "itemId": "it_adj_to_infinitive",
+    "prompt": "It ___ see a doctor about that cough.",
+    "answer": "would be wise to",
+    "distractors": ["would be wise for", "wise would be to", "would wise be to"]
+  },
+  {
+    "id": 13,
+    "itemId": "it_adj_to_infinitive",
+    "prompt": "It ___ argue with him when he's like this.",
+    "answer": "is pointless to",
+    "distractors": ["is pointless for", "pointless is to", "is pointless that"]
+  },
+  {
+    "id": 14,
+    "itemId": "it_adj_to_infinitive",
+    "prompt": "It ___ book tickets well in advance.",
+    "answer": "is advisable to",
+    "distractors": ["is advisable for", "advisable is to", "is advisable that"]
+  },
+  {
+    "id": 15,
+    "itemId": "it_adj_to_infinitive",
+    "prompt": "It ___ apologise, even though it's hard.",
+    "answer": "is necessary to",
+    "distractors": ["is necessary for", "necessary is to", "is necessary that"]
+  },
+  {
+    "id": 16,
+    "itemId": "it_adj_to_infinitive",
+    "prompt": "It ___ her to attend the ceremony in person.",
+    "answer": "would be wise for",
+    "distractors": ["would be wise to", "wise would be for", "would wise for"]
+  },
+  {
+    "id": 17,
+    "itemId": "it_adj_to_infinitive",
+    "prompt": "It ___ waste money on things you don't need.",
+    "answer": "is silly to",
+    "distractors": ["is silly for", "silly is to", "is silly that"]
+  },
+  {
+    "id": 18,
+    "itemId": "it_adj_to_infinitive",
+    "prompt": "It ___ keep a copy of every contract.",
+    "answer": "is sensible to",
+    "distractors": ["is sensible for", "sensible is to", "is sensible that"]
+  },
+  {
+    "id": 19,
+    "itemId": "it_adj_to_infinitive",
+    "prompt": "It ___ predict exactly how the market will react.",
+    "answer": "is impossible to",
+    "distractors": ["is impossible for", "impossible is to", "is impossible that"]
+  },
+  {
+    "id": 20,
+    "itemId": "it_adj_to_infinitive",
+    "prompt": "It ___ him to admit he was wrong.",
+    "answer": "is rare for",
+    "distractors": ["is rare to", "rare is for", "is rarely for"]
+  },
+  {
+    "id": 21,
+    "itemId": "it_verb_that",
+    "prompt": "It ___ that the flight has been delayed.",
+    "answer": "seems",
+    "distractors": ["seems to", "does seem", "is seeming"]
+  },
+  {
+    "id": 22,
+    "itemId": "it_verb_that",
+    "prompt": "It ___ that he'd been lying the whole time.",
+    "answer": "turned out",
+    "distractors": ["turned out to", "was turned out", "has turn out"]
+  },
+  {
+    "id": 23,
+    "itemId": "it_verb_that",
+    "prompt": "It suddenly ___ me that I'd met her before.",
+    "answer": "struck",
+    "distractors": ["was struck", "strikes", "had strike"]
+  },
+  {
+    "id": 24,
+    "itemId": "it_verb_that",
+    "prompt": "It ___ that because she's rich, she's happy.",
+    "answer": "doesn't follow",
+    "distractors": ["doesn't follows", "isn't follow", "doesn't following"]
+  },
+  {
+    "id": 25,
+    "itemId": "it_verb_that",
+    "prompt": "It ___ me that I'd left the oven on.",
+    "answer": "occurred to",
+    "distractors": ["occurred", "was occurred to", "occurs at"]
+  },
+  {
+    "id": 26,
+    "itemId": "it_verb_that",
+    "prompt": "It ___ that the documents had been forged.",
+    "answer": "transpired",
+    "distractors": ["was transpired", "transpires", "has transpire"]
+  },
+  {
+    "id": 27,
+    "itemId": "it_verb_that",
+    "prompt": "It ___ that nobody had actually read the report.",
+    "answer": "appears",
+    "distractors": ["appears to", "is appearing", "does appear to"]
+  },
+  {
+    "id": 28,
+    "itemId": "it_verb_that",
+    "prompt": "It ___ on her that she'd forgotten the tickets.",
+    "answer": "dawned",
+    "distractors": ["was dawned", "dawns", "had dawn"]
+  },
+  {
+    "id": 29,
+    "itemId": "it_verb_that",
+    "prompt": "It ___, since prices rose, that demand would fall.",
+    "answer": "stands to reason",
+    "distractors": ["stands for reason", "is standing to reason", "stood the reason"]
+  },
+  {
+    "id": 30,
+    "itemId": "it_verb_that",
+    "prompt": "It so ___ that both witnesses were away that week.",
+    "answer": "happened",
+    "distractors": ["happen", "was happened", "has happened"]
+  },
+  {
+    "id": 31,
+    "itemId": "it_noun_obligatory",
+    "prompt": "It ___ that you missed the party.",
+    "answer": "is a shame",
+    "distractors": ["is shame", "shame is", "is shaming"]
+  },
+  {
+    "id": 32,
+    "itemId": "it_noun_obligatory",
+    "prompt": "It ___ that he survived the crash without a scratch.",
+    "answer": "is a miracle",
+    "distractors": ["is miracle", "miracle is", "is miraculous"]
+  },
+  {
+    "id": 33,
+    "itemId": "it_noun_obligatory",
+    "prompt": "It's worth ___ the small print before you sign.",
+    "answer": "checking",
+    "distractors": ["to check", "check", "to checking"]
+  },
+  {
+    "id": 34,
+    "itemId": "it_noun_obligatory",
+    "prompt": "It's no ___ crying over spilt milk.",
+    "answer": "use",
+    "distractors": ["use to", "using", "uses"]
+  },
+  {
+    "id": 35,
+    "itemId": "it_noun_obligatory",
+    "prompt": "It doesn't matter ___ you like it or not.",
+    "answer": "whether",
+    "distractors": ["that", "what", "how"]
+  },
+  {
+    "id": 36,
+    "itemId": "it_noun_obligatory",
+    "prompt": "It's a ___ that so few people know about this place.",
+    "answer": "mystery",
+    "distractors": ["mystery to", "mysterious", "mystery that"]
+  },
+  {
+    "id": 37,
+    "itemId": "it_noun_obligatory",
+    "prompt": "It's a waste of time ___ with him.",
+    "answer": "arguing",
+    "distractors": ["to argue", "argue", "for arguing"]
+  },
+  {
+    "id": 38,
+    "itemId": "it_noun_obligatory",
+    "prompt": "It's ___ that she never even said thank you.",
+    "answer": "a wonder",
+    "distractors": ["wonder", "wondering", "a wondering"]
+  },
+  {
+    "id": 39,
+    "itemId": "it_noun_obligatory",
+    "prompt": "It's no good ___ about it now — what's done is done.",
+    "answer": "worrying",
+    "distractors": ["to worry", "worry", "for worrying"]
+  },
+  {
+    "id": 40,
+    "itemId": "it_noun_obligatory",
+    "prompt": "It's a ___ that nobody predicted the outbreak.",
+    "answer": "pity",
+    "distractors": ["pity to", "pitiful", "pity that"]
+  }
+]

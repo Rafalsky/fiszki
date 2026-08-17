@@ -1,0 +1,198 @@
+[
+  {
+    "id": "it_adj_that",
+    "order": 1,
+    "nameEn": "It + be + adjective + that-clause — extraposition of a that-clause subject",
+    "namePl": "It + be + przymiotnik + zdanie z that — ekstrapozycja podmiotu zdaniowego",
+    "rules": [
+      {
+        "label": "Mechanizm",
+        "text": "Zdanie podrzędne z 'that' pełniące funkcję logicznego podmiotu zostaje przesunięte na koniec zdania, a jego miejsce na początku zajmuje semantycznie puste 'it' — tzw. podmiot pozorny (dummy it). That he lied is obvious. → It is obvious that he lied."
+      },
+      {
+        "label": "Dlaczego 'it'",
+        "text": "Angielski unika długiego, 'ciężkiego' podmiotu na początku zdania — krótkie 'it' od razu sygnalizuje strukturę zdania, a najważniejsza informacja (ocena) pojawia się od razu po czasowniku, zamiast czekać na koniec długiego podmiotu."
+      },
+      {
+        "label": "Pomijanie 'that'",
+        "text": "Po wielu przymiotnikach 'that' można pominąć w mowie potocznej: It's obvious (that) he lied. — znaczenie się nie zmienia."
+      },
+      {
+        "label": "Typowe przymiotniki",
+        "text": "obvious, clear, likely, unlikely, possible, impossible, strange, odd, surprising, true, ironic, remarkable, evident, doubtful — wszystkie wyrażają ocenę prawdziwości lub prawdopodobieństwa treści zdania z 'that'."
+      }
+    ],
+    "usage": [
+      "Formułowanie ocen i opinii o faktach bez wskazywania osoby, która ocenia (It is unlikely that prices will fall.)",
+      "Styl formalny i pisemny — raporty, eseje, artykuły naukowe, wiadomości",
+      "Kontrast z rzadką, książkową formą z podmiotem-zdaniem na początku (That prices will fall is unlikely.) — poprawna gramatycznie, ale brzmi sztywno i archaicznie; w naturalnej angielszczyźnie niemal zawsze wybiera się formę z 'it'",
+      "Dodanie adresata oceny przez 'to somebody': It was clear to everyone that the plan wouldn't work."
+    ],
+    "tags": ["it is obvious that", "it is likely that", "it is surprising that", "it is clear that"],
+    "examples": [
+      {
+        "en": "It is obvious that she hasn't slept in days.",
+        "pl": "To oczywiste, że nie spała od kilku dni."
+      },
+      {
+        "en": "It's unlikely that the meeting will finish early.",
+        "pl": "Jest mało prawdopodobne, że spotkanie skończy się wcześnie."
+      },
+      {
+        "en": "It was clear to everyone that the plan wouldn't work.",
+        "pl": "Dla wszystkich było jasne, że plan się nie powiedzie."
+      },
+      {
+        "en": "That the earth orbits the sun is a fact few would dispute.",
+        "pl": "To, że Ziemia krąży wokół Słońca, to fakt, któremu niewielu by zaprzeczyło."
+      }
+    ]
+  },
+  {
+    "id": "it_adj_to_infinitive",
+    "order": 2,
+    "nameEn": "It + be + adjective + to-infinitive — extraposition without a gap",
+    "namePl": "It + be + przymiotnik + bezokolicznik — ekstrapozycja bez luki",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "It + be + przymiotnik + to-bezokolicznik (+ dopełnienie). It is important to arrive early. Bezokolicznik nie ma żadnej 'brakującej' pozycji (luki) — inaczej niż w konstrukcji tough movement."
+      },
+      {
+        "label": "Różnica względem tough movement",
+        "text": "W It's important to arrive early nic nie da się przenieść do pozycji podmiotu (arrive nie ma dopełnienia) — jedyna naturalna opcja to ekstrapozycja z 'it'. W It's easy to read this book można natomiast przenieść 'this book' do podmiotu (This book is easy to read) — to osobny mechanizm, opisany w temacie 'tough movement'."
+      },
+      {
+        "label": "Podmiot logiczny bezokolicznika",
+        "text": "Wykonawcę czynności można dodać przez 'for + rzeczownik/zaimek': It would be wise for her to apologise. — 'for her' wskazuje, kto ma coś zrobić."
+      },
+      {
+        "label": "Typowe przymiotniki",
+        "text": "important, necessary, essential, vital, wise, pointless, useless, advisable, sensible, common, normal, rare, better, silly — oceniają czynność wyrażoną bezokolicznikiem."
+      }
+    ],
+    "usage": [
+      "Wyrażanie ogólnych ocen dotyczących czynności, bez wskazanego konkretnego wykonawcy (It's necessary to book in advance.)",
+      "Dodanie konkretnego wykonawcy przez 'for + rzeczownik/zaimek' (It would be wise for you to see a doctor.)",
+      "Rzadka, sztywna forma bez 'it' (To arrive early is important.) ograniczona niemal wyłącznie do bardzo formalnego lub retorycznego stylu",
+      "Odróżnianie od konstrukcji z luką (tough movement), które dopuszczają dwie równoważne struktury zdaniowe"
+    ],
+    "tags": ["it is important to", "it is necessary to", "it would be wise for... to", "it's essential to"],
+    "examples": [
+      {
+        "en": "It is essential to check the contract carefully before signing.",
+        "pl": "Konieczne jest dokładne sprawdzenie umowy przed podpisaniem."
+      },
+      {
+        "en": "It would be wise for you to see a doctor about that cough.",
+        "pl": "Rozsądnie byłoby, żebyś poszedł do lekarza z tym kaszlem."
+      },
+      {
+        "en": "It's pointless to argue with him when he's like this.",
+        "pl": "Nie ma sensu się z nim kłócić, kiedy jest w takim nastroju."
+      },
+      {
+        "en": "To succeed in this field requires enormous patience.",
+        "pl": "Żeby odnieść sukces w tej dziedzinie, potrzeba ogromnej cierpliwości."
+      }
+    ]
+  },
+  {
+    "id": "it_verb_that",
+    "order": 3,
+    "nameEn": "It + verb + that-clause — extraposition with seem, happen, turn out and impersonal verbs",
+    "namePl": "It + czasownik + zdanie z that — ekstrapozycja z seem, happen, turn out i czasownikami bezosobowymi",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "It + seems/appears/happens/turns out/transpires/follows + that + zdanie. It turned out that she'd known all along. — całe zdanie z 'that' jest logicznym podmiotem, a 'it' go tylko zapowiada."
+      },
+      {
+        "label": "Kontrast z raising",
+        "text": "To inny mechanizm niż raising (He seems to know, temat 'raising verbs'). Tam prawdziwy podmiot (he) rzeczywiście 'przenosi się' z podrzędnego zdania do zdania głównego. Tutaj 'it' nie odnosi się do żadnej realnej osoby ani rzeczy — jest czysto gramatycznym wypełniaczem."
+      },
+      {
+        "label": "Czasowniki z dopełnieniem osobowym",
+        "text": "it occurs to sb / it strikes sb / it dawns on sb + that — nagłe uświadomienie sobie czegoś: It occurred to me that I'd forgotten my keys. Osoba, która coś sobie uświadamia, jest dopełnieniem, a nie podmiotem."
+      },
+      {
+        "label": "Czasowniki bezosobowe wnioskowania",
+        "text": "it matters / it follows / it stands to reason + that — podkreślają logiczne wynikanie lub znaczenie faktu (It doesn't follow that because she's rich, she's happy.)"
+      }
+    ],
+    "usage": [
+      "Relacjonowanie wrażeń i wniosków bez wskazywania źródła informacji (It seems that nobody noticed.)",
+      "Wyrażanie nagłego zrozumienia lub olśnienia przy pomocy occur to / strike / dawn on + osoba",
+      "Podkreślanie logicznego wynikania jednego faktu z drugiego (It stands to reason that prices will rise.)",
+      "Formalne raportowanie niespodziewanych odkryć (It transpired that the documents had been forged.)"
+    ],
+    "tags": ["it seems that", "it turned out that", "it occurred to me that", "it follows that"],
+    "examples": [
+      {
+        "en": "It seems that the flight has been delayed.",
+        "pl": "Wygląda na to, że lot został opóźniony."
+      },
+      {
+        "en": "It turned out that he'd been lying the whole time.",
+        "pl": "Okazało się, że kłamał przez cały czas."
+      },
+      {
+        "en": "It suddenly struck me that I'd met her before.",
+        "pl": "Nagle uświadomiłam sobie, że już ją kiedyś spotkałam."
+      },
+      {
+        "en": "It doesn't follow that because she's rich, she's happy.",
+        "pl": "Nie wynika z tego, że skoro jest bogata, to jest szczęśliwa."
+      }
+    ]
+  },
+  {
+    "id": "it_noun_obligatory",
+    "order": 4,
+    "nameEn": "It's a pity / no use + -ing — obligatory extraposition and evaluative nouns",
+    "namePl": "It's a pity / no use + -ing — ekstrapozycja obowiązkowa i rzeczowniki oceniające",
+    "rules": [
+      {
+        "label": "Rzeczowniki oceniające + that",
+        "text": "It's a pity/shame/miracle/wonder/mystery + that... Fronted forma (That he survived is a miracle.) jest tu praktycznie niespotykana — w naturalnym języku ekstrapozycja jest obowiązkowa, nie tylko preferowana."
+      },
+      {
+        "label": "Stałe wyrażenia z gerundem",
+        "text": "It's worth + -ing, it's no use/good + -ing, it's a waste of time + -ing — te wyrażenia przyjmują rzeczownik odsłowny (gerund), NIE 'to-infinitive': It's worth checking twice (nie: it's worth to check)."
+      },
+      {
+        "label": "Zdania zależne z whether",
+        "text": "Po niektórych czasownikach i wyrażeniach ('it doesn't matter', 'it makes no difference') podmiot zdaniowy może być pytaniem zależnym z 'whether': It doesn't matter whether you agree or not."
+      },
+      {
+        "label": "Obowiązkowy charakter 'it'",
+        "text": "'It' pozostaje niezmiennym, obowiązkowym elementem zdania niezależnie od czasu czy osoby — angielski nie toleruje zdań bez podmiotu (*Is a pity that... jest niegramatyczne)."
+      }
+    ],
+    "usage": [
+      "Wyrażanie żalu, zaskoczenia lub oceny sytuacji (It's a shame you couldn't come.)",
+      "Formułowanie rad i rekomendacji w formie bezosobowej z gerundem (It's worth double-checking the figures.)",
+      "Zdania zależne z whether po czasownikach/wyrażeniach oceniających ważność (It doesn't matter whether we win or lose.)",
+      "Rozpoznawanie sytuacji, w których ekstrapozycja jest jedyną gramatyczną opcją (obowiązkowa), w odróżnieniu od wcześniejszych tematów, gdzie bywa tylko preferowana"
+    ],
+    "tags": ["it's a pity that", "it's worth -ing", "it's no use -ing", "it doesn't matter whether"],
+    "examples": [
+      {
+        "en": "It's a shame that you missed the party.",
+        "pl": "Szkoda, że nie było cię na imprezie."
+      },
+      {
+        "en": "It's worth reading the small print before you sign.",
+        "pl": "Warto przeczytać drobny druk przed podpisaniem."
+      },
+      {
+        "en": "It's no use crying over spilt milk.",
+        "pl": "Nie ma sensu płakać nad rozlanym mlekiem."
+      },
+      {
+        "en": "It doesn't matter whether we win or lose, as long as we try.",
+        "pl": "Nie ma znaczenia, czy wygramy, czy przegramy, dopóki się staramy."
+      }
+    ]
+  }
+]
