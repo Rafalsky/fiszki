@@ -1118,5 +1118,12 @@
     "title": "Zdania wyjątku",
     "desc": "except (that), except when/if, only i save (that) — spójniki wprowadzające wyjątek do ogólnego stwierdzenia (nie przyimki jak except for), budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "conversion",
+    "icon": "♻️",
+    "title": "Konwersja słowotwórcza",
+    "desc": "Zmiana klasy gramatycznej słowa bez przedrostków ani przyrostków (email → to email, a read, to empty, a breakdown) — konwersja rzeczownik/czasownik/przymiotnik, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

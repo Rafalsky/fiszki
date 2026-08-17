@@ -1,0 +1,121 @@
+[
+  {
+    "id": "noun_to_verb",
+    "order": 1,
+    "nameEn": "Noun → Verb conversion",
+    "namePl": "Rzeczownik → czasownik",
+    "rules": [
+      { "label": "Bez zmian", "text": "Rzeczownik zaczyna pełnić funkcję czasownika bez żadnych przedrostków ani przyrostków — ta sama forma pisowni (email → to email, bottle → to bottle)." },
+      { "label": "Odmiana", "text": "Nowo powstały czasownik odmienia się regularnie jak każdy inny czasownik (I emailed her, she's texting, they've bottled it)." },
+      { "label": "Części ciała", "text": "Rzeczowniki oznaczające części ciała często stają się czasownikami czynności wykonywanej tą częścią ciała (to elbow, to shoulder, to finger, to eye)." },
+      { "label": "Nazwy własne i marki", "text": "Nazwy marek i produktów bywają konwertowane na czasowniki oznaczające czynność typową dla nich (to google, to xerox, to hoover)." }
+    ],
+    "usage": [
+      "Nowoczesny, nieformalny i technologiczny angielski (to friend someone, to google something)",
+      "Skrótowe, dynamiczne wyrażenia w nagłówkach prasowych i mowie potocznej",
+      "Czasowniki oznaczające umieszczenie czegoś w miejscu nazwanym rzeczownikiem (to bottle, to shelve, to pocket, to bag)",
+      "Czasowniki oznaczające użycie narzędzia lub przedmiotu nazwanego rzeczownikiem (to hammer, to knife, to elbow)"
+    ],
+    "tags": ["to email", "to google", "to elbow", "to bottle"],
+    "examples": [
+      { "en": "Can you email me the report today?", "pl": "Możesz przesłać mi dzisiaj raport mailem?" },
+      { "en": "He elbowed his way through the crowd.", "pl": "Przepchnął się łokciami przez tłum." },
+      { "en": "She googled the restaurant before booking a table.", "pl": "Wygooglowała restaurację, zanim zarezerwowała stolik." },
+      { "en": "They bottled the wine themselves.", "pl": "Sami rozlali wino do butelek." }
+    ]
+  },
+  {
+    "id": "verb_to_noun",
+    "order": 2,
+    "nameEn": "Verb → Noun conversion",
+    "namePl": "Czasownik → rzeczownik",
+    "rules": [
+      { "label": "Bez zmian", "text": "Czasownik używany jest jako rzeczownik bez zmiany formy — zwykle poprzedzony przedimkiem a/an (a read, a try, a walk)." },
+      { "label": "Pojedyncze zdarzenie", "text": "Rzeczownik odczasownikowy często oznacza jednorazowe wykonanie czynności (have a look, take a break, go for a run)." },
+      { "label": "Czasowniki lekkie", "text": "Łączy się z czasownikami 'lekkimi' have/take/give/go for zamiast osobnego czasownika (have a swim zamiast 'to swim' raz)." },
+      { "label": "Przymiotnik oceniający", "text": "Może przyjmować przymiotnik oceniający przed sobą (a good read, a close call, a near miss)." }
+    ],
+    "usage": [
+      "Opisywanie jednorazowej czynności jako rzeczy lub wydarzenia (Let's go for a walk.)",
+      "W utrwalonych wyrażeniach z have/take/give (have a try, take a look, give a call)",
+      "Nazywanie rezultatu lub obiektu czynności (a find, a catch, a cheat)",
+      "Nieformalne oceny i komentarze (It's a must-read. / That was a close call.)"
+    ],
+    "tags": ["a read", "a try", "have a look", "a close call"],
+    "examples": [
+      { "en": "This novel is a great read.", "pl": "Ta powieść to świetna lektura." },
+      { "en": "Let's have a quick look at the numbers.", "pl": "Rzućmy okiem na te liczby." },
+      { "en": "It was a close call — we almost missed the flight.", "pl": "Było blisko — prawie spóźniliśmy się na lot." },
+      { "en": "He gave the door a gentle push.", "pl": "Delikatnie pchnął drzwi." }
+    ]
+  },
+  {
+    "id": "adjective_to_verb",
+    "order": 3,
+    "nameEn": "Adjective → Verb conversion",
+    "namePl": "Przymiotnik → czasownik",
+    "rules": [
+      { "label": "Zmiana stanu", "text": "Przymiotnik staje się czasownikiem oznaczającym zmianę stanu — 'stać się X' (nieprzechodnio) lub 'sprawić, że coś stanie się X' (przechodnio) (empty → to empty, dry → to dry)." },
+      { "label": "Podwójna przechodniość", "text": "Wiele takich czasowników jest zarówno przechodnich, jak i nieprzechodnich bez zmiany formy (The pool emptied. / They emptied the pool.)." },
+      { "label": "Z partykułą", "text": "Często łączą się z partykułami up/down, które precyzują kierunek zmiany (calm down, warm up, tidy up, slow down)." }
+    ],
+    "usage": [
+      "Opisywanie procesu zmiany stanu fizycznego lub emocjonalnego",
+      "Czasowniki o podwójnej przechodniości — por. temat Czasowniki ergatywne, tu jednak źródłem jest przymiotnik, nie gotowy czasownik",
+      "Częste w instrukcjach i poradach (Empty the bottle before recycling it.)"
+    ],
+    "tags": ["to empty", "to calm down", "to dry", "to warm up"],
+    "examples": [
+      { "en": "Please empty your pockets before the security check.", "pl": "Proszę opróżnić kieszenie przed kontrolą bezpieczeństwa." },
+      { "en": "The tension in the room slowly calmed down.", "pl": "Napięcie w pokoju powoli opadło." },
+      { "en": "Hang the shirt outside to dry.", "pl": "Powieś koszulę na dworze, żeby wyschła." },
+      { "en": "We need to tidy up the office before the meeting.", "pl": "Musimy posprzątać biuro przed spotkaniem." }
+    ]
+  },
+  {
+    "id": "phrasal_verb_to_noun",
+    "order": 4,
+    "nameEn": "Phrasal verb → Noun conversion",
+    "namePl": "Czasownik złożony → rzeczownik",
+    "rules": [
+      { "label": "Zachowana kolejność", "text": "Rzeczownik najczęściej zachowuje kolejność czasownik + partykuła, zapisywany łącznie lub z łącznikiem (break down → a breakdown, take over → a takeover)." },
+      { "label": "Pisownia", "text": "Bywa zapisywany jako jedno słowo, z łącznikiem lub jako dwa osobne wyrazy — nie ma jednej reguły, warto sprawdzić w słowniku (comeback, drop-out, check-up)." },
+      { "label": "Odwrócona kolejność (rzadziej)", "text": "W kilku utrwalonych przypadkach kolejność jest odwrócona względem czasownika złożonego — partykuła stoi przed rdzeniem (output, income, outbreak)." }
+    ],
+    "usage": [
+      "Nazywanie zdarzeń i procesów biznesowych, medialnych i technicznych (a takeover, a breakthrough, a shutdown)",
+      "Styl dziennikarski i formalny zamiast opisowego zdania z czasownikiem",
+      "Rzeczownik zwykle poprzedzony przedimkiem a/an lub the"
+    ],
+    "tags": ["a breakdown", "a takeover", "a comeback", "a workout"],
+    "examples": [
+      { "en": "The company announced a hostile takeover.", "pl": "Firma ogłosiła wrogie przejęcie." },
+      { "en": "She's planning a comeback after two years away.", "pl": "Planuje powrót po dwóch latach przerwy." },
+      { "en": "The stress led to a complete breakdown.", "pl": "Stres doprowadził do całkowitego załamania." },
+      { "en": "I need a good workout after sitting all day.", "pl": "Potrzebuję dobrego treningu po całym dniu siedzenia." }
+    ]
+  },
+  {
+    "id": "same_form_pairs",
+    "order": 5,
+    "nameEn": "Same-spelling noun/verb pairs",
+    "namePl": "Ten sam wyraz jako rzeczownik i czasownik",
+    "rules": [
+      { "label": "Ta sama pisownia", "text": "Niektóre pary rzeczownik/czasownik mają identyczną pisownię, różni je tylko akcent w mowie: RECord (rzeczownik) / reCORD (czasownik), PROtest (rzeczownik) / proTEST (czasownik)." },
+      { "label": "Bez dodatkowego przyrostka", "text": "Nie dodawaj końcówki typu -ing/-ion do rdzenia, jeśli forma podstawowa już pełni funkcję rzeczownika (make progress, nie: make a progression; keep a record, nie: keep a recording w tym znaczeniu)." },
+      { "label": "Rozpoznanie z kontekstu", "text": "Funkcję (rzeczownik czy czasownik) rozpoznajesz po pozycji w zdaniu: po przedimku/przymiotniku dzierżawczym → rzeczownik; po podmiocie, 'to' lub czasowniku modalnym → czasownik." }
+    ],
+    "usage": [
+      "Formalny i biznesowy angielski (a permit / to permit, an increase / to increase)",
+      "Unikanie nadmiarowej derywacji tam, gdzie konwersja już wystarcza",
+      "Częsty błąd uczących się: dodawanie zbędnego przyrostka do słowa, które już zostało skonwertowane"
+    ],
+    "tags": ["record", "increase", "contrast", "permit"],
+    "examples": [
+      { "en": "Sales showed a steady increase last quarter.", "pl": "Sprzedaż wykazała stały wzrost w zeszłym kwartale." },
+      { "en": "You need a permit to build here.", "pl": "Potrzebujesz pozwolenia, żeby tu budować." },
+      { "en": "The two reports are in direct contrast.", "pl": "Te dwa raporty stoją w bezpośrednim kontraście." },
+      { "en": "Please keep an accurate record of all expenses.", "pl": "Proszę prowadzić dokładny rejestr wszystkich wydatków." }
+    ]
+  }
+]
