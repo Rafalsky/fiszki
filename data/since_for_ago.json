@@ -1,0 +1,219 @@
+[
+  {
+    "id": "since_for",
+    "order": 1,
+    "nameEn": "since vs. for — starting point vs. duration",
+    "namePl": "since a for — punkt startowy a długość trwania",
+    "rules": [
+      {
+        "label": "since + punkt w czasie",
+        "text": "since wskazuje konkretny moment, w którym coś się zaczęło (rok, godzinę, dzień, wydarzenie) — odpowiada na pytanie 'od kiedy?': since 2019, since Monday, since I moved here, since I was a child"
+      },
+      {
+        "label": "for + długość trwania",
+        "text": "for podaje, jak długo coś trwa — odpowiada na pytanie 'jak długo?': for three years, for a while, for ages, for as long as I can remember"
+      },
+      {
+        "label": "obowiązkowy czas Perfect",
+        "text": "oba wyrażenia z czynnością trwającą do teraz wymagają czasu Present Perfect (Simple lub Continuous) — nie Present Simple ani Past Simple: 'I have lived here since 2019', nie 'I live here since 2019'"
+      },
+      {
+        "label": "najczęstszy błąd",
+        "text": "użycie since przed okresem trwania (since three years ✗) zamiast for, lub for przed konkretnym momentem (for 2019 ✗) zamiast since — to jedna z najczęściej mylonych par w języku angielskim"
+      }
+    ],
+    "usage": [
+      "Podanie momentu rozpoczęcia czynności trwającej do teraz: She has worked here since 2015.",
+      "Podanie długości trwania czynności do teraz: She has worked here for eight years.",
+      "since może też wprowadzać całe zdanie podrzędne z czasownikiem w Past Simple: I haven't seen him since he left the company.",
+      "for używane jest też z czasem przeszłym dokonanym (Past Perfect) dla okresu zakończonego przed innym momentem w przeszłości: He had been waiting for two hours when she finally arrived.",
+      "w przeczeniach for/since często towarzyszy czasownikowi w formie przeczącej: I haven't spoken to her for months. / I haven't spoken to her since March."
+    ],
+    "tags": [
+      "since 2019",
+      "since I was born",
+      "for three years",
+      "for a long time"
+    ],
+    "examples": [
+      {
+        "en": "We have been friends since we were at university together.",
+        "pl": "Jesteśmy przyjaciółmi, odkąd razem studiowaliśmy."
+      },
+      {
+        "en": "The company has been losing money for the past two quarters.",
+        "pl": "Firma traci pieniądze od dwóch ostatnich kwartałów."
+      },
+      {
+        "en": "I haven't had a proper holiday since 2020.",
+        "pl": "Nie miałem porządnego urlopu od 2020 roku."
+      },
+      {
+        "en": "By the time the ambulance arrived, he had been unconscious for several minutes.",
+        "pl": "Zanim przyjechała karetka, był nieprzytomny od kilku minut."
+      }
+    ]
+  },
+  {
+    "id": "ago_before",
+    "order": 2,
+    "nameEn": "ago vs. before — counting back from now vs. an earlier point",
+    "namePl": "ago a before — liczenie wstecz od teraz a wcześniej niż inny moment",
+    "rules": [
+      {
+        "label": "ago = licząc wstecz od teraz",
+        "text": "ago stawiamy po okresie czasu i liczymy go od chwili mówienia — zawsze z Past Simple, nigdy z Present Perfect: I met her two years ago (✓), I have met her two years ago (✗)"
+      },
+      {
+        "label": "before = wcześniej niż inny punkt odniesienia (nie 'teraz')",
+        "text": "before liczy okres wstecz od innego momentu w przeszłości (nie od teraz) — zwykle z Past Perfect, bo mówimy o czymś wcześniejszym niż już przeszły punkt odniesienia: She had left two years before (przed innym wydarzeniem z przeszłości, nie przed teraźniejszością)"
+      },
+      {
+        "label": "before jako samodzielny przysłówek",
+        "text": "before bez podanego okresu czasu oznacza po prostu 'wcześniej, kiedyś w przeszłości' (I've been here before) — w tej funkcji nie ma odpowiednika z ago, które zawsze wymaga podanego okresu"
+      },
+      {
+        "label": "test zamiany",
+        "text": "jeśli zdanie odnosi się do 'teraz' → ago; jeśli odnosi się do innego momentu w przeszłości, o którym już mowa → before (lub earlier)"
+      }
+    ],
+    "usage": [
+      "Odległość czasowa od chwili obecnej: The museum was built a hundred years ago.",
+      "Odległość czasowa od wcześniej wspomnianego wydarzenia z przeszłości: He told me he had resigned three months before. (trzy miesiące przed rozmową, nie przed teraz)",
+      "before jako 'kiedyś, w przeszłości' bez podanego okresu: Have you been to Japan before?",
+      "częsty błąd: 'I saw him three days before' w znaczeniu 'trzy dni temu' — poprawnie powinno być 'three days ago', bo odnosimy się do teraz"
+    ],
+    "tags": [
+      "two years ago",
+      "a moment ago",
+      "three days before",
+      "never... before"
+    ],
+    "examples": [
+      {
+        "en": "I started this job almost five years ago.",
+        "pl": "Zacząłem tę pracę prawie pięć lat temu."
+      },
+      {
+        "en": "She said the letter had arrived two days before.",
+        "pl": "Powiedziała, że list przyszedł dwa dni wcześniej."
+      },
+      {
+        "en": "He had never flown before that trip to Canada.",
+        "pl": "Nigdy wcześniej nie leciał samolotem przed tą podróżą do Kanady."
+      },
+      {
+        "en": "The report was finished just a few minutes ago.",
+        "pl": "Raport został skończony zaledwie kilka minut temu."
+      }
+    ]
+  },
+  {
+    "id": "it_has_been_since",
+    "order": 3,
+    "nameEn": "It's / It has been + period + since",
+    "namePl": "It's / It has been + okres + since — ile czasu minęło od zdarzenia",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "It is / It has been + okres czasu + since + podmiot + czasownik w Past Simple (lub Present Perfect) — mierzy, ile czasu minęło od ostatniego wystąpienia czynności"
+      },
+      {
+        "label": "dwie równoważne wersje",
+        "text": "It's been three years since I graduated. = I graduated three years ago. = I haven't graduated since... (nie) — poprawnie tylko dwie pierwsze formy są równoważne, since w tej konstrukcji zawsze odnosi się do zdarzenia jednorazowego"
+      },
+      {
+        "label": "przeczenie 'since' + czasownik w Present Perfect przeczącym",
+        "text": "wariant negatywny: It's been three years since I last saw her — sugeruje ciągły brak kontaktu od tamtego momentu, blisko znaczeniowo do I haven't seen her for three years"
+      },
+      {
+        "label": "pytanie",
+        "text": "How long is it since...? / How long has it been since...? — standardowy sposób pytania o upływ czasu od zdarzenia: How long has it been since you last visited your grandparents?"
+      }
+    ],
+    "usage": [
+      "Podkreślenie upływu czasu od jednorazowego wydarzenia: It's been ten years since the accident.",
+      "Formalne lub emfatyczne podsumowanie: It has been over a decade since the company last posted a profit.",
+      "Pytanie o czas, jaki minął: How long is it since you last spoke to him?",
+      "W mowie potocznej często skracane do 'It's been...': It's been ages since we last met!"
+    ],
+    "tags": [
+      "It's been years since",
+      "How long has it been since",
+      "It was two years since",
+      "since I last saw"
+    ],
+    "examples": [
+      {
+        "en": "It's been almost five years since we last spoke.",
+        "pl": "Minęło prawie pięć lat, odkąd ostatnio rozmawialiśmy."
+      },
+      {
+        "en": "How long has it been since you moved to this city?",
+        "pl": "Ile czasu minęło, odkąd przeprowadziłeś się do tego miasta?"
+      },
+      {
+        "en": "It was only a month since the wedding when they announced the divorce.",
+        "pl": "Minął dopiero miesiąc od ślubu, gdy ogłosili rozwód."
+      },
+      {
+        "en": "It has been years since anyone dared to challenge his decisions.",
+        "pl": "Minęły lata, odkąd ktoś odważył się zakwestionować jego decyzje."
+      }
+    ]
+  },
+  {
+    "id": "in_for_within",
+    "order": 4,
+    "nameEn": "in vs. for vs. within — future time expressions",
+    "namePl": "in a for a within — wyrażenia czasu przyszłego",
+    "rules": [
+      {
+        "label": "in + okres = czas do zdarzenia",
+        "text": "in + okres czasu w kontekście przyszłości oznacza 'po upływie tego czasu' / 'za tyle czasu' — wskazuje moment, w którym coś się wydarzy, nie długość trwania: The results will be ready in two weeks."
+      },
+      {
+        "label": "for + okres = planowana długość trwania",
+        "text": "for + okres czasu podaje, jak długo coś będzie trwało — nie moment, w którym się zdarzy, tylko czas trwania samej czynności: I'm going away for two weeks."
+      },
+      {
+        "label": "within + okres = najpóźniej w tym czasie",
+        "text": "within + okres czasu oznacza 'nie później niż po upływie tego czasu' — kładzie nacisk na nieprzekraczalny limit, podobnie jak by, ale z podanym okresem, a nie konkretną datą: We'll respond within 48 hours."
+      },
+      {
+        "label": "częsta pomyłka in/within",
+        "text": "'in two days' zwykle oznacza dokładnie za dwa dni (konkretny punkt), podczas gdy 'within two days' oznacza w dowolnym momencie w ciągu najbliższych dwóch dni (przedział) — różnica bywa subtelna i zależy od kontekstu"
+      }
+    ],
+    "usage": [
+      "Moment w przyszłości, po upływie okresu: The train leaves in ten minutes.",
+      "Długość trwania planowanej czynności: She'll be staying with us for a month.",
+      "Nieprzekraczalny termin wyrażony okresem: Please submit the form within seven days of receiving it.",
+      "Kontrast w jednym kontekście: The package will arrive in three days (dokładnie trzeciego dnia) vs. The package should arrive within three days (najpóźniej trzeciego dnia, może wcześniej)."
+    ],
+    "tags": [
+      "in an hour",
+      "for a month",
+      "within 24 hours",
+      "ready in two days"
+    ],
+    "examples": [
+      {
+        "en": "I'll call you back in five minutes.",
+        "pl": "Oddzwonię do ciebie za pięć minut."
+      },
+      {
+        "en": "They're renting the flat for six months.",
+        "pl": "Wynajmują to mieszkanie na sześć miesięcy."
+      },
+      {
+        "en": "All applications must be submitted within 30 days of the announcement.",
+        "pl": "Wszystkie wnioski trzeba złożyć w ciągu 30 dni od ogłoszenia."
+      },
+      {
+        "en": "We should have an answer for you within the week.",
+        "pl": "Powinniśmy mieć dla ciebie odpowiedź w ciągu tygodnia."
+      }
+    ]
+  }
+]

@@ -179,6 +179,7 @@ const THEORY_URLS = {
   linking_verbs: new URL("../data/linking_verbs.json", import.meta.url),
   be_to_construction: new URL("../data/be_to_construction.json", import.meta.url),
   pseudo_coordination: new URL("../data/pseudo_coordination.json", import.meta.url),
+  since_for_ago: new URL("../data/since_for_ago.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -353,6 +354,7 @@ const DRILLS_URLS = {
   linking_verbs: new URL("../data/linking_verbsDrills.json", import.meta.url),
   be_to_construction: new URL("../data/be_to_constructionDrills.json", import.meta.url),
   pseudo_coordination: new URL("../data/pseudo_coordinationDrills.json", import.meta.url),
+  since_for_ago: new URL("../data/since_for_agoDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
