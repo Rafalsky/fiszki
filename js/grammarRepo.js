@@ -169,6 +169,7 @@ const THEORY_URLS = {
   infinitive_ellipsis: new URL("../data/infinitive_ellipsis.json", import.meta.url),
   exceptive_clauses: new URL("../data/exceptive_clauses.json", import.meta.url),
   conversion: new URL("../data/conversion.json", import.meta.url),
+  negative_questions: new URL("../data/negative_questions.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -333,6 +334,7 @@ const DRILLS_URLS = {
   infinitive_ellipsis: new URL("../data/infinitive_ellipsisDrills.json", import.meta.url),
   exceptive_clauses: new URL("../data/exceptive_clausesDrills.json", import.meta.url),
   conversion: new URL("../data/conversionDrills.json", import.meta.url),
+  negative_questions: new URL("../data/negative_questionsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

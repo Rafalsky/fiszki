@@ -1125,5 +1125,12 @@
     "title": "Konwersja słowotwórcza",
     "desc": "Zmiana klasy gramatycznej słowa bez przedrostków ani przyrostków (email → to email, a read, to empty, a breakdown) — konwersja rzeczownik/czasownik/przymiotnik, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "negative_questions",
+    "icon": "🤨",
+    "title": "Pytania przeczące",
+    "desc": "Sugestie (Why don't we...), zaproszenia (Won't you...) i sprawdzanie założeń (Didn't you know...?) — funkcje pytań przeczących, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "why_dont_suggestions",
+    "order": 1,
+    "nameEn": "Why don't you/we...? — suggestions",
+    "namePl": "Why don't you/we...? — sugestie",
+    "rules": [
+      { "label": "Budowa", "text": "Why don't you/we + bezokolicznik bez to — forma przecząca, ale funkcja jest twierdząca: to prawdziwa propozycja, nie pytanie retoryczne" },
+      { "label": "Why not + bezokolicznik", "text": "Why not + bezokolicznik bez to to bezosobowy wariant tej samej sugestii, bez wskazywania konkretnej osoby (Why not try a different approach?)" },
+      { "label": "Odpowiedź", "text": "Rozmówca odpowiada realnie — zgadza się, odrzuca lub proponuje coś innego, bo pytanie oczekuje reakcji, a nie jest czysto retoryczne" }
+    ],
+    "usage": [
+      "Proponowanie wspólnego działania (Why don't we grab a coffee?)",
+      "Doradzanie rozmówcy, co powinien zrobić (Why don't you call her and apologise?)",
+      "Bezosobowa sugestia bez adresata (Why not start with the easiest task?)",
+      "Łagodniejsza, mniej narzucająca forma niż tryb rozkazujący czy should"
+    ],
+    "tags": ["Why don't we", "Why don't you", "Why not try"],
+    "examples": [
+      { "en": "Why don't we order pizza tonight?", "pl": "Może zamówmy dziś pizzę?" },
+      { "en": "Why don't you take a break? You look exhausted.", "pl": "Może zrobisz sobie przerwę? Wyglądasz na wykończonego." },
+      { "en": "Why not ask him directly instead of guessing?", "pl": "Czemu po prostu go nie zapytać, zamiast zgadywać?" },
+      { "en": "Why don't I give you a lift to the station?", "pl": "Może cię podwiozę na stację?" }
+    ]
+  },
+  {
+    "id": "polite_invitations_offers",
+    "order": 2,
+    "nameEn": "Won't you...? / Wouldn't you like...? — invitations and offers",
+    "namePl": "Won't you...? / Wouldn't you like...? — zaproszenia i propozycje",
+    "rules": [
+      { "label": "Won't you", "text": "Won't you + bezokolicznik bez to — grzeczne, nieco staromodne zaproszenie, uprzejmiejsze niż zwykłe imperative lub Will you...?" },
+      { "label": "Wouldn't you like", "text": "Wouldn't you like + rzeczownik/bezokolicznik z to — uprzejma propozycja poczęstunku lub aktywności, bardziej naturalna we współczesnym języku niż Won't you" },
+      { "label": "Funkcja grzecznościowa", "text": "Forma przecząca łagodzi propozycję — sugeruje, że odmowa byłaby zaskakująca, więc brzmi to bardziej zachęcająco niż wersja twierdząca" }
+    ],
+    "usage": [
+      "Zapraszanie kogoś do zrobienia czegoś (Won't you join us for dinner?)",
+      "Proponowanie poczęstunku (Wouldn't you like a cup of tea?)",
+      "Formalne, uprzejme zaproszenie w listach i oficjalnych sytuacjach (Won't you take a seat?)",
+      "Podkreślenie, że gospodarz naprawdę chce, aby gość skorzystał z propozycji"
+    ],
+    "tags": ["Won't you join us", "Wouldn't you like some tea", "Won't you sit down"],
+    "examples": [
+      { "en": "Won't you come in for a moment?", "pl": "Może pan/pani wejdzie na chwilę?" },
+      { "en": "Wouldn't you like something to drink?", "pl": "Może miałbyś ochotę na coś do picia?" },
+      { "en": "Won't you sit down and make yourself comfortable?", "pl": "Może usiądzie pan i poczuje się jak u siebie?" },
+      { "en": "Wouldn't you like to see the garden before you go?", "pl": "Może chciałbyś zobaczyć ogród, zanim wyjdziesz?" }
+    ]
+  },
+  {
+    "id": "checking_assumptions",
+    "order": 3,
+    "nameEn": "Negative questions checking an assumption",
+    "namePl": "Pytania przeczące sprawdzające założenie",
+    "rules": [
+      { "label": "Prawdziwe pytanie, nie retoryczne", "text": "W przeciwieństwie do pytań retorycznych, tu mówiący naprawdę nie jest pewny odpowiedzi — forma przecząca pokazuje, że spodziewał się przeciwnej sytuacji" },
+      { "label": "Budowa", "text": "Operator przeczący (don't/didn't/haven't/isn't/aren't itd.) + podmiot + reszta zdania — dokładnie jak zwykłe pytanie Yes/No, ale z przeczeniem" },
+      { "label": "Odcień zaskoczenia", "text": "Sugeruje, że mówiący zakładał coś innego i jest zaskoczony, dowiadując się, że jego założenie mogło być błędne" }
+    ],
+    "usage": [
+      "Sprawdzanie, czy ktoś rzeczywiście wie o czymś, co mówiący uznawał za oczywiste (Didn't you get my email?)",
+      "Wyrażanie łagodnego zdziwienia brakiem oczekiwanego stanu rzeczy (Aren't you coming to the party?)",
+      "Dopytywanie, gdy coś nie zgadza się z wcześniejszymi ustaleniami (Haven't we met before?)",
+      "Kontrast z pytaniem twierdzącym: 'Do you have a car?' pyta neutralnie, 'Don't you have a car?' zakłada, że mówiący spodziewał się 'tak'"
+    ],
+    "tags": ["Didn't you get my email", "Aren't you coming", "Haven't we met before"],
+    "examples": [
+      { "en": "Didn't you get my message? I sent it yesterday.", "pl": "Nie dostałeś mojej wiadomości? Wysłałem ją wczoraj." },
+      { "en": "Aren't you supposed to be at work right now?", "pl": "Czy nie powinieneś teraz być w pracy?" },
+      { "en": "Haven't we met somewhere before?", "pl": "Czy my się gdzieś wcześniej nie spotkaliśmy?" },
+      { "en": "Isn't she meant to be presenting tomorrow?", "pl": "Czy to nie ona ma jutro prezentować?" }
+    ]
+  },
+  {
+    "id": "negative_questions_criticism",
+    "order": 4,
+    "nameEn": "Negative questions expressing mild criticism or urging",
+    "namePl": "Pytania przeczące wyrażające zachętę lub delikatny wyrzut",
+    "rules": [
+      { "label": "Can't/Couldn't you", "text": "Can't you / Couldn't you + bezokolicznik bez to — łagodna prośba lub ponaglenie o wyższym poziomie zniecierpliwienia niż zwykłe Can you...?" },
+      { "label": "Shouldn't you", "text": "Shouldn't you + bezokolicznik bez to — sugeruje, że mówiący uważa daną czynność za oczywisty obowiązek, który rozmówca zaniedbuje" },
+      { "label": "Odcień emocjonalny", "text": "W przeciwieństwie do formy twierdzącej (Can you be quiet?), forma przecząca dodaje nutę pretensji lub niecierpliwości, choć nadal oczekuje realnej reakcji" }
+    ],
+    "usage": [
+      "Ponaglanie kogoś do zrobienia czegoś natychmiast (Can't you hurry up? We're late!)",
+      "Delikatne przypomnienie o obowiązku (Shouldn't you be studying for the exam?)",
+      "Wyrażenie niecierpliwości bez otwartego oskarżania (Couldn't you have called first?)",
+      "Zachowuje charakter prawdziwego pytania — rozmówca zwykle odpowiada wyjaśnieniem lub przeprosinami"
+    ],
+    "tags": ["Can't you hurry up", "Shouldn't you be studying", "Couldn't you have called"],
+    "examples": [
+      { "en": "Can't you turn that music down? I'm trying to work.", "pl": "Nie mógłbyś ściszyć tej muzyki? Próbuję pracować." },
+      { "en": "Shouldn't you be finishing your report by now?", "pl": "Czy nie powinieneś już kończyć raportu?" },
+      { "en": "Couldn't you have told me sooner?", "pl": "Nie mogłeś powiedzieć mi wcześniej?" },
+      { "en": "Can't you just say sorry and move on?", "pl": "Nie możesz po prostu przeprosić i iść dalej?" }
+    ]
+  }
+]
