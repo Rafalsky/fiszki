@@ -182,6 +182,7 @@ const THEORY_URLS = {
   since_for_ago: new URL("../data/since_for_ago.json", import.meta.url),
   intensified_comparatives: new URL("../data/intensified_comparatives.json", import.meta.url),
   quotative_inversion: new URL("../data/quotative_inversion.json", import.meta.url),
+  cataphora: new URL("../data/cataphora.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -359,6 +360,7 @@ const DRILLS_URLS = {
   since_for_ago: new URL("../data/since_for_agoDrills.json", import.meta.url),
   intensified_comparatives: new URL("../data/intensified_comparativesDrills.json", import.meta.url),
   quotative_inversion: new URL("../data/quotative_inversionDrills.json", import.meta.url),
+  cataphora: new URL("../data/cataphoraDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

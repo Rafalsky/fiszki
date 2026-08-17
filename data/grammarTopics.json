@@ -1390,5 +1390,13 @@
     "desc": "Szyk „said Tom” po cytacie — kiedy podmiot rzeczownikowy pozwala na inwersję, dlaczego zaimki jej nie dopuszczają i jakie są ograniczenia — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40,
     "level": "c1"
+  },
+  {
+    "id": "cataphora",
+    "icon": "🔮",
+    "title": "Katafora",
+    "desc": "Zaimek lub 'this' wskazujące NAPRZÓD na antecedent, który dopiero pojawi się w zdaniu — zdania podrzędne na początku, zapowiadające 'this', styl narracyjny i ograniczenia szyku — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "c2"
   }
 ]
