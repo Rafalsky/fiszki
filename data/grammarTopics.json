@@ -4,1189 +4,1359 @@
     "icon": "⏰",
     "title": "Czasy",
     "desc": "12 czasów angielskich — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 120
+    "drillCount": 120,
+    "level": "a1"
   },
   {
     "id": "articles",
     "icon": "🔤",
     "title": "Przedimki",
     "desc": "a / an / the / brak przedimka — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a1"
   },
   {
     "id": "modals",
     "icon": "🔑",
     "title": "Czasowniki modalne",
     "desc": "can, could, must, have to, should, may, might i inne — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 50
+    "drillCount": 50,
+    "level": "a2"
   },
   {
     "id": "passive",
     "icon": "🔄",
     "title": "Strona bierna",
     "desc": "Passive voice w pięciu czasach — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 50
+    "drillCount": 50,
+    "level": "b1"
   },
   {
     "id": "plurals",
     "icon": "🔢",
     "title": "Liczba mnoga",
     "desc": "Liczba mnoga rzeczowników (regularna i nieregularna) oraz policzalne / niepoliczalne — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a1"
   },
   {
     "id": "possessives",
     "icon": "🏷️",
     "title": "Dzierżawczość",
     "desc": "Dopełniacz saksoński 's oraz zaimki i przymiotniki dzierżawcze — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a1"
   },
   {
     "id": "pronouns",
     "icon": "👤",
     "title": "Zaimki",
     "desc": "Zaimki osobowe, zwrotne i wskazujące — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a1"
   },
   {
     "id": "prepositions",
     "icon": "🧭",
     "title": "Przyimki",
     "desc": "Przyimki miejsca, czasu i ruchu (in/on/at, to/into/through) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a1"
   },
   {
     "id": "comparatives",
     "icon": "📏",
     "title": "Stopniowanie",
     "desc": "Stopień wyższy i najwyższy przymiotników i przysłówków — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "word_order",
     "icon": "🔀",
     "title": "Szyk zdania",
     "desc": "Szyk zdania w angielskim: SVO / SVOMPT, pozycja przysłówków częstotliwości i przysłówków środkowych — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a1"
   },
   {
     "id": "questions",
     "icon": "❓",
     "title": "Pytania",
     "desc": "Pytania ogólne, szczegółowe (wh-), question tags i pytania pośrednie — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a1"
   },
   {
     "id": "negation",
     "icon": "🚫",
     "title": "Przeczenia",
     "desc": "Przeczenia w różnych czasach oraz some/any/no/none — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a1"
   },
   {
     "id": "quantifiers",
     "icon": "🧮",
     "title": "Kwantyfikatory",
     "desc": "much/many, little/few, a lot of/plenty of, enough — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "gerunds_infinitives",
     "icon": "♾️",
     "title": "Gerund i bezokolicznik",
     "desc": "Gerund (-ing) vs bezokolicznik (to + czasownik) po czasownikach — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "conditionals",
     "icon": "🧩",
     "title": "Okresy warunkowe",
     "desc": "Okresy warunkowe 0-3 oraz mixed conditionals — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "reported_speech",
     "icon": "🗣️",
     "title": "Mowa zależna",
     "desc": "Mowa zależna: zdania oznajmujące, pytania i polecenia, przesunięcie czasów (backshift) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "relative_clauses",
     "icon": "🔗",
     "title": "Zdania względne",
     "desc": "Zdania względne z who/which/that/whose/where — kiedy którego zaimka użyć, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "phrasal_verbs",
     "icon": "⚙️",
     "title": "Czasowniki złożone",
     "desc": "Phrasal verbs: rozdzielne, nierozdzielne, nieprzechodnie i trójczłonowe — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "so_such_too_enough",
     "icon": "🎚️",
     "title": "So / such / too / enough",
     "desc": "So i such do wzmocnienia, too i enough przy nadmiarze i wystarczalności — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "used_to_would",
     "icon": "🕰️",
     "title": "Used to / would",
     "desc": "used to i would dla wyrażania dawnych przyzwyczajeń — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "wish_ifonly",
     "icon": "🕯️",
     "title": "Wish / if only",
     "desc": "wish i if only do wyrażania życzeń i żalu — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "causative",
     "icon": "🛠️",
     "title": "Have / get something done",
     "desc": "have/get something done — zlecanie czynności innej osobie, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "adjective_order",
     "icon": "📐",
     "title": "Kolejność przymiotników",
     "desc": "Kolejność przymiotników przed rzeczownikiem (opinia, rozmiar, wiek, kształt, kolor, pochodzenie, materiał) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "adverbs",
     "icon": "🏃",
     "title": "Przysłówki",
     "desc": "Tworzenie przysłówków i ich pozycja w zdaniu — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "future_forms",
     "icon": "🚀",
     "title": "Formy przyszłości",
     "desc": "will vs going to vs present continuous — kiedy której formy użyć, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "determiners",
     "icon": "👉",
     "title": "Determinatory",
     "desc": "this/that/these/those, all/every/each/both/either/neither — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "linking_words",
     "icon": "🪢",
     "title": "Spójniki i łączniki",
     "desc": "Spójniki i łączniki zdań: although, despite, however, because, since — kiedy którego używać, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "direct_indirect_objects",
     "icon": "🎁",
     "title": "Kolejność dopełnień",
     "desc": "Kolejność dopełnień: give somebody something vs give something to somebody — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "participle_clauses",
     "icon": "🧵",
     "title": "Imiesłowy",
     "desc": "Imiesłowy czasownikowe (Having done…, Being…, Written…) do skracania zdań — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "modals_perfect",
     "icon": "🔮",
     "title": "Przypuszczenia o przeszłości",
     "desc": "Czasowniki modalne + bezokolicznik dokonany (must/can't/could/may/might/should have done) — przypuszczenia, pewność, krytyka i żal dotyczące przeszłości, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "verb_patterns",
     "icon": "🎯",
     "title": "Wzorce czasownikowe",
     "desc": "Czasownik + przyimek + gerund oraz utrwalone zwroty jak look forward to i be used to — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "inversion",
     "icon": "🔃",
     "title": "Inwersja",
     "desc": "Inwersja szyku zdania dla emfazy (Never have I…, Should you…, Only after did…) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "cleft_sentences",
     "icon": "🔦",
     "title": "Zdania rozszczepione",
     "desc": "Zdania rozszczepione (It is... that / What I need is... / All you need is...) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "ellipsis_substitution",
     "icon": "✂️",
     "title": "Elipsa i substytucja",
     "desc": "So do I, neither do I, I think so — unikanie powtórzeń przez elipsę i substytucję, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "emphasis",
     "icon": "❗",
     "title": "Struktury emfatyczne",
     "desc": "Struktury emfatyczne: emfatyczne do/does/did, zaimki zwrotne, wzmacniacze so/such/really/absolutely i wyrażenia typu at all/on earth — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "subjunctive",
     "icon": "🙏",
     "title": "Tryb łączący",
     "desc": "Tryb łączący (subjunctive): po suggest/insist/demand, po it's important that..., if I were you oraz utrwalone wyrażenia — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "word_formation",
     "icon": "🧱",
     "title": "Słowotwórstwo",
     "desc": "Prefiksy i sufiksy słowotwórcze: przedrostki przeczące (un-, in-/im-/il-/ir-, dis-, non-), sufiksy rzeczownikowe i przymiotnikowe oraz re-/mis-/over-/under- — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "collocations_prepositions",
     "icon": "🧲",
     "title": "Przyimki zależne",
     "desc": "Czasowniki, przymiotniki i rzeczowniki ze stałym przyimkiem (depend on, interested in, reason for) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "discourse_markers",
     "icon": "💬",
     "title": "Markery dyskursu",
     "desc": "Markery dyskursu: well, actually, by the way, anyway, on the other hand — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "british_american",
     "icon": "🇬🇧",
     "title": "Brytyjski vs amerykański angielski",
     "desc": "Różnice gramatyczne między angielskim brytyjskim a amerykańskim: have got, czasy, rzeczowniki zbiorowe, shall/needn't — teoria, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "time_clauses",
     "icon": "⏳",
     "title": "Zdania czasowe",
     "desc": "Zdania czasowe z when/while/before/after/until/as soon as oraz zasada braku czasu przyszłego po spójnikach czasu — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "subject_verb_agreement",
     "icon": "🧷",
     "title": "Zgodność podmiotu z orzeczeniem",
     "desc": "Zgodność liczby między podmiotem a czasownikiem: rzeczowniki zbiorowe, kwantyfikatory, spójniki, wyrażenia ilościowe — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "imperatives",
     "icon": "📣",
     "title": "Tryb rozkazujący",
     "desc": "Polecenia, zakazy i propozycje z Let's — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a1"
   },
   {
     "id": "there_is_are",
     "icon": "📍",
     "title": "There is / there are",
     "desc": "Konstrukcja there is / there are do wyrażania istnienia czegoś — liczba pojedyncza i mnoga, przeczenia, pytania i czas przeszły — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a1"
   },
   {
     "id": "exclamatives",
     "icon": "❗",
     "title": "Wykrzyknienia",
     "desc": "What a…! i How…! — budowa zdań wykrzyknikowych, kiedy którego wzorca użyć, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 34
+    "drillCount": 34,
+    "level": "a2"
   },
   {
     "id": "would_rather_had_better",
     "icon": "⚖️",
     "title": "Would rather / had better",
     "desc": "would rather do wyrażania preferencji, had better do dawania rad z konsekwencjami — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "purpose_clauses",
     "icon": "🏹",
     "title": "Zdania celu",
     "desc": "Wyrażanie celu: to / in order to / so as to / so that / for — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "passive_reporting",
     "icon": "📰",
     "title": "Bierne struktury sprawozdawcze",
     "desc": "It is said that... / He is said to be... — bezosobowe i osobowe konstrukcje sprawozdawcze w stronie biernej, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "postponed_relative_clauses",
     "icon": "⏸️",
     "title": "Odsunięte zdania względne",
     "desc": "A man walked in who I'd never seen before — zdania względne odsunięte od poprzednika na koniec zdania przez zasadę end-weight, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "ing_ed_adjectives",
     "icon": "😲",
     "title": "Przymiotniki -ing i -ed",
     "desc": "Przymiotniki opisujące uczucia i ich źródło (bored/boring, interested/interesting) — kiedy używać formy -ed, a kiedy -ing, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "partitives",
     "icon": "📦",
     "title": "Partitywy",
     "desc": "a piece of, a bottle of, a pair of, a couple of — jednostki miary do liczenia rzeczowników niepoliczalnych i zbiorowych, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "correlative_conjunctions",
     "icon": "🤝",
     "title": "Spójniki korelatywne",
     "desc": "both...and, either...or, neither...nor, not only...but also — parami łączone spójniki i zgodność podmiotu z czasownikiem — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "indefinite_pronouns",
     "icon": "❔",
     "title": "Zaimki nieokreślone",
     "desc": "Somebody/anybody/everybody/nobody, something/anything/everything/nothing, somewhere/anywhere/everywhere/nowhere — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "modals_deduction",
     "icon": "🕵️",
     "title": "Dedukcja modalna",
     "desc": "Modalne wyrażające przypuszczenia o teraźniejszości: must/might/could/can't + bezokolicznik — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "double_comparatives",
     "icon": "📈",
     "title": "Podwójne porównania",
     "desc": "Struktura the + comparative..., the + comparative... (im więcej, tym lepiej) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "concessive_clauses",
     "icon": "🤷",
     "title": "Zdania ustępstwa",
     "desc": "Zdania ustępstwa z whatever/whoever/whenever/wherever/however oraz no matter what/who/where/when/how — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "stative_verbs",
     "icon": "❄️",
     "title": "Czasowniki stanowe",
     "desc": "Czasowniki, których zwykle nie używamy w czasach continuous (know, like, have, understand) oraz czasowniki o podwójnym znaczeniu (stanowym i czynnościowym) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "compound_nouns",
     "icon": "🏗️",
     "title": "Rzeczowniki złożone",
     "desc": "Rzeczowniki złożone (noun + noun): kiedy dwa rzeczowniki obok siebie, kiedy dopełniacz 's, a kiedy fraza z of — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "degree_adverbs",
     "icon": "🌡️",
     "title": "Przysłówki stopnia",
     "desc": "Very, quite, rather, fairly, absolutely — wzmacnianie i osłabianie przymiotników i przysłówków, przymiotniki stopniowalne i niestopniowalne — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "reciprocal_pronouns",
     "icon": "👥",
     "title": "Zaimki wzajemne",
     "desc": "Zaimki wzajemne each other i one another — kontrast z zaimkami zwrotnymi (themselves) oraz forma dzierżawcza each other's — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "numbers_dates",
     "icon": "🔟",
     "title": "Liczebniki i daty",
     "desc": "Liczebniki główne i porządkowe, zapis dat, ułamki, dziesiętne i procenty — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a1"
   },
   {
     "id": "noun_clauses",
     "icon": "🧠",
     "title": "Zdania rzeczownikowe",
     "desc": "Zdania rzeczownikowe (noun clauses): that-clauses i wh-clauses jako podmiot lub dopełnienie, whether/if w zdaniach rzeczownikowych oraz konstrukcje z anticipatory it (extraposition) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "litotes",
     "icon": "🌫️",
     "title": "Litota (niedopowiedzenie)",
     "desc": "Litota — niedopowiedzenie przez podwójne przeczenie (not un-/not without/no small) do wyrażania ostrożnych, stonowanych twierdzeń — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c2"
   },
   {
     "id": "as_if_as_though",
     "icon": "🎭",
     "title": "As if / as though",
     "desc": "as if i as though do wyrażania nierealnych porównań i pozorów, kontrast z like — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "nominalization",
     "icon": "🏛️",
     "title": "Nominalizacja",
     "desc": "Zamiana czasowników i przymiotników na rzeczowniki (decide→decision, stable→stability) oraz kompresja zdań podrzędnych do fraz rzeczownikowych w stylu formalnym i akademickim — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "reporting_verb_patterns",
     "icon": "🎙️",
     "title": "Wzorce czasowników sprawozdających",
     "desc": "Wzorce składniowe czasowników sprawozdających: deny/admit + gerund, suggest/recommend + that-clause, offer/refuse/promise + bezokolicznik, advise/warn/persuade + dopełnienie + bezokolicznik, accuse/blame + of + gerund — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "absolute_clauses",
     "icon": "🌦️",
     "title": "Konstrukcje absolutne",
     "desc": "Konstrukcje absolutne (Weather permitting, With prices rising..., Her voice full of excitement...) — imiesłowowe i bezczasownikowe zdania okolicznikowe z własnym podmiotem — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "modal_passive",
     "icon": "🛡️",
     "title": "Strona bierna z czasownikami modalnymi",
     "desc": "must be done, should have been finished — łączenie czasowników modalnych ze stroną bierną w teraźniejszości i przeszłości — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "complex_prepositions",
     "icon": "⛓️",
     "title": "Przyimki złożone",
     "desc": "Wielowyrazowe przyimki formalne: due to, with regard to, by means of, in addition to — pełnią funkcję jednego przyimka, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "ergative_verbs",
     "icon": "🔁",
     "title": "Czasowniki ergatywne",
     "desc": "Czasowniki ergatywne i strona środkowa (middle voice): break, open, sell, drive — ta sama forma w użyciu przechodnim i nieprzechodnim, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "apposition",
     "icon": "🔖",
     "title": "Apozycja",
     "desc": "Apozycja (rzeczownik w apozycji): dwie frazy rzeczownikowe odnoszące się do tego samego bytu — apozycja nierestrykcyjna i restrykcyjna, apozycja z „of”, szyk odwrócony i apozycja po zaimku, budowa, interpunkcja, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 36
+    "drillCount": 36,
+    "level": "c1"
   },
   {
     "id": "fronting",
     "icon": "🔝",
     "title": "Fronting (szyk przestawny)",
     "desc": "Przesuwanie dopełnień, orzeczników i fraz przysłówkowych na początek zdania dla kontrastu i spójności tekstu oraz fronting z as/though i so/such — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 36
+    "drillCount": 36,
+    "level": "c1"
   },
   {
     "id": "focusing_adverbs",
     "icon": "🔍",
     "title": "Przysłówki ogniskujące",
     "desc": "only, even, also, too, alone — jak pozycja przysłówka w zdaniu zmienia zakres znaczenia — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 36
+    "drillCount": 36,
+    "level": "b2"
   },
   {
     "id": "get_passive",
     "icon": "🎬",
     "title": "Bierna z „get”",
     "desc": "Get-passive (dynamiczna, nieformalna strona bierna): get hurt, get married, get promoted — kontrast z be-passive i causative get something done, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "viewpoint_adverbs",
     "icon": "🧐",
     "title": "Przysłówki stanowiska i komentarza",
     "desc": "Przysłówki zdaniowe wyrażające stanowisko mówiącego, ocenę i pewność co do informacji: frankly, personally, apparently, undoubtedly, arguably, admittedly — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "future_in_the_past",
     "icon": "🎞️",
     "title": "Przyszłość w przeszłości",
     "desc": "was/were going to, narracyjne would oraz was/were to + bezokolicznik — przyszłość widziana z perspektywy przeszłości, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "relative_clause_prepositions",
     "icon": "🎩",
     "title": "Przyimki w zdaniach względnych",
     "desc": "Formalne umieszczanie przyimka przed whom/which (the woman to whom I spoke) a nieformalne pozostawianie go na końcu (the woman who I spoke to) — kiedy używać której wersji, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "impersonal_pronouns",
     "icon": "🫥",
     "title": "Zaimki bezosobowe",
     "desc": "Bezosobowe odniesienie do ludzi w ogóle: formalne one, potoczne you, they i people — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "comparative_clauses",
     "icon": "🪞",
     "title": "Zdania porównawcze",
     "desc": "Porównania równości i różnicy: as...as, not as/so...as, the same as, similar to, different from, nowhere near as...as — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 48
+    "drillCount": 48,
+    "level": "b1"
   },
   {
     "id": "vague_language",
     "icon": "🫧",
     "title": "Język przybliżony i hedging",
     "desc": "kind of / sort of, or so, -ish, as it were — łagodzenie i uściślanie wypowiedzi przez celowe niedopowiedzenie — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "conditional_conjunctions",
     "icon": "☂️",
     "title": "Spójniki warunkowe",
     "desc": "unless, provided/providing that, in case, on condition that, otherwise — alternatywne spójniki warunku poza if — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "phrasal_verb_passive",
     "icon": "🪝",
     "title": "Bierna czasowników złożonych",
     "desc": "Strona bierna czasowników frazowych i przyimkowych (look after → be looked after, turn off → be turned off) — kiedy i jak pasywizować czasowniki wieloczłonowe, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "wh_infinitive",
     "icon": "🤔",
     "title": "Pytajnik + bezokolicznik",
     "desc": "Konstrukcja pytajnik (what/how/where/who/which/whether) + bezokolicznik — I don't know what to do, She wondered how to react — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "relative_clause_reference",
     "icon": "🪃",
     "title": "Odniesienie w zdaniach względnych",
     "desc": "which odnoszące się do całego zdania oraz kwantyfikator + of which/of whom (some of which, none of whom, the youngest of whom) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "characteristic_will_would",
     "icon": "😤",
     "title": "Will / would dla cech charakteru",
     "desc": "will i would opisujące typowe, przewidywalne zachowanie oraz uporczywe upieranie się (Boys will be boys, He would always turn up late, The car won't start) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 32
+    "drillCount": 32,
+    "level": "b2"
   },
   {
     "id": "modal_remoteness",
     "icon": "🙇",
     "title": "Dystans modalny i grzeczność",
     "desc": "Czas przeszły, would, could i tryb warunkowy jako narzędzia grzeczności i dystansu (I was wondering if..., Would you mind..., I'd rather you didn't...) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "delexicalized_verbs",
     "icon": "🧰",
     "title": "Czasowniki delekscjonalizowane (make/do/have/take/give)",
     "desc": "Kolokacje typu make a decision, do damage, have a look, take a break, give advice — jak wybrać właściwy czasownik „pusty” do rzeczownika, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "free_relative_clauses",
     "icon": "🧶",
     "title": "Zdania względne bez poprzednika",
     "desc": "Nominalne (wolne) zdania względne z what/whoever/whatever/whichever pełniące funkcję podmiotu lub dopełnienia — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 32
+    "drillCount": 32,
+    "level": "c1"
   },
   {
     "id": "perception_causative",
     "icon": "👁️",
     "title": "Czasowniki percepcji i przyczynowe",
     "desc": "see/hear/watch/notice + dopełnienie + bezokolicznik bez to lub -ing oraz make/let/help + dopełnienie + bezokolicznik — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 46
+    "drillCount": 46,
+    "level": "b1"
   },
   {
     "id": "adjective_position",
     "icon": "📌",
     "title": "Pozycja przymiotnika",
     "desc": "Przymiotniki wyłącznie atrybutywne (main, mere, utter) i wyłącznie predykatywne (afraid, asleep, alone) — kiedy przymiotnik może stać tylko przed rzeczownikiem, a kiedy tylko po czasowniku łączącym, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "imminent_future",
     "icon": "🔜",
     "title": "Bliska przyszłość",
     "desc": "be about to, on the point of / on the verge of, be to, be set to / be due to — dodatkowe sposoby wyrażania bliskiej i zaplanowanej przyszłości, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "anticipatory_object_it",
     "icon": "🪄",
     "title": "Zapowiadające dopełnienie it",
     "desc": "Zapowiadające (antycypacyjne) dopełnienie it: find it hard to, make it clear that, take it for granted that — jak „it” zastępuje długie dopełnienie przesunięte na koniec zdania — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "need_doing",
     "icon": "🧽",
     "title": "Bierne -ing (need doing)",
     "desc": "need/want/require/deserve + gerund (-ing) o znaczeniu biernym (The car needs washing = needs to be washed) oraz pokrewna konstrukcja worth + -ing — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "there_modals",
     "icon": "🌀",
     "title": "There z czasownikami modalnymi",
     "desc": "there must/could/should be, there seems/appears to be, there used to be, there is bound to be, formalne there exists/remains — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "need_dare",
     "icon": "🚧",
     "title": "Modalne need i dare",
     "desc": "need i dare jako czasowniki na pograniczu modalnych: użycie bez do-support (Need I say more?, You needn't worry, He daren't ask) kontra jako czasowniki leksykalne (Do you need to..., He doesn't dare to...) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 48
+    "drillCount": 48,
+    "level": "b1"
   },
   {
     "id": "ditransitive_passive",
     "icon": "🎁",
     "title": "Bierna czasowników ditransitive",
     "desc": "Strona bierna czasowników dwudopełnieniowych: osoba lub rzecz jako podmiot (I was given a book / A book was given to her), czasowniki bez biernej z osobą oraz dopełnienie zachowane — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "as_vs_like",
     "icon": "🆚",
     "title": "As czy like?",
     "desc": "Rozróżnienie as (rola, sposób, czas, przyczyna) i like (podobieństwo) oraz such as do podawania przykładów — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "result_clauses",
     "icon": "💥",
     "title": "Zdania skutkowe",
     "desc": "so...that / such...that / so much/many/little/few...that — wyrażanie skutku wynikającego ze stopnia cechy, sposobu lub ilości, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "formal_connectors",
     "icon": "📜",
     "title": "Formalne spójniki i łączniki",
     "desc": "albeit, whereby, notwithstanding, insofar as / inasmuch as, given/seeing that, in that — formalne spójniki i łączniki typowe dla stylu pisanego, akademickiego i prawniczego — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "progressive_comparatives",
     "icon": "🧊",
     "title": "Powtórzone porównania stopniowe",
     "desc": "Powtórzone przymiotniki i przysłówki w stopniu wyższym (colder and colder, more and more difficult) do wyrażania stopniowej zmiany — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 30
+    "drillCount": 30,
+    "level": "c1"
   },
   {
     "id": "verbless_clauses",
     "icon": "🪶",
     "title": "Zdania eliptyczne",
     "desc": "Pomijanie podmiotu i czasownika be po if/when/while/though/unless/once — zdania bezczasownikowe w stylu formalnym — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "infinitive_postmodifiers",
     "icon": "➡️",
     "title": "Bezokolicznik po rzeczowniku",
     "desc": "Bezokolicznik jako określenie rzeczownika: po stopniu najwyższym i the only/first/next, po zaimkach nieokreślonych (something to do) oraz po rzeczownikach abstrakcyjnych (the chance to, the decision to) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "dislocation",
     "icon": "👉",
     "title": "Dyslokacja (lewa i prawa)",
     "desc": "Wysunięcie tematu poza zdanie z zaimkiem wskazującym (left/right dislocation) — This guy, I really trust him. / He's brilliant, that guy. — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 36
+    "drillCount": 36,
+    "level": "c2"
   },
   {
     "id": "rhetorical_questions",
     "icon": "🗯️",
     "title": "Pytania retoryczne",
     "desc": "Pytania retoryczne w angielskim: przeczące pytania podkreślające twierdzenie, pytania z wh- sugerujące brak odpowiedzi, retoryczne question tags i utarte formuły. Teoria, ćwiczenia z lukami i testy.",
-    "drillCount": 32
+    "drillCount": 32,
+    "level": "b2"
   },
   {
     "id": "raising_verbs",
     "icon": "🎈",
     "title": "Czasowniki wznoszące (raising verbs)",
     "desc": "seem, appear, happen to, turn out to, tend to oraz przymiotniki likely/certain/bound + bezokolicznik — budowa, użycie i test dummy-subject odróżniający raising od control verbs. Teoria, ćwiczenia z lukami i testy.",
-    "drillCount": 32
+    "drillCount": 32,
+    "level": "c1"
   },
   {
     "id": "tough_movement",
     "icon": "💪",
     "title": "Tough movement",
     "desc": "Konstrukcja ‘tough’: easy/hard/difficult/impossible + bezokolicznik z luką dopełnieniową (This book is easy to read.) — budowa, przyimki na końcu zdania i kontrast z prawdziwym raising. Teoria, ćwiczenia z lukami i testy.",
-    "drillCount": 32
+    "drillCount": 32,
+    "level": "c1"
   },
   {
     "id": "split_infinitive",
     "icon": "🗡️",
     "title": "Rozdzielony bezokolicznik",
     "desc": "to + przysłówek + czasownik (to boldly go) — kiedy rozdzielenie bezokolicznika jest naturalne, skąd wziął się tradycyjny zakaz, jak unikać dwuznaczności i zachować umiar stylistyczny. Teoria, ćwiczenia z lukami i testy.",
-    "drillCount": 32
+    "drillCount": 32,
+    "level": "c1"
   },
   {
     "id": "floating_quantifiers",
     "icon": "🛟",
     "title": "Kwantyfikatory ruchome",
     "desc": "Kwantyfikatory ruchome all, both i each: przesuwanie poza grupę rzeczownikową, pozycja względem czasowników posiłkowych, modalnych i be — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 32
+    "drillCount": 32,
+    "level": "c1"
   },
   {
     "id": "nominal_adjectives",
     "icon": "🧓",
     "title": "Przymiotniki jako rzeczowniki",
     "desc": "the + przymiotnik (the poor, the elderly, the unemployed, the French, the impossible) — przymiotniki oznaczające grupy ludzi, narody i pojęcia abstrakcyjne, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "rhetorical_comparison",
     "icon": "⚔️",
     "title": "Retoryczne struktury porównawcze",
     "desc": "no more...than, not so much...as, let alone, nothing less than — porównania retoryczne do podkreślania kontrastu i emfazy — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "for_to_infinitive",
     "icon": "🫴",
     "title": "For + to-bezokolicznik",
     "desc": "for + rzeczownik/zaimek + to-bezokolicznik: jak wprowadzić własny podmiot bezokolicznika (wait for her to call, it's important for you to know) oraz kontrast for/of — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "comment_clauses",
     "icon": "💭",
     "title": "Zdania wtrącone (comment clauses)",
     "desc": "Krótkie zdania wtrącone (comment clauses) typu I think, you know, to be honest, which is a shame, as far as I know — komentowanie, osłabianie stanowczości i podkreślanie wiarygodności wypowiedzi. Teoria, ćwiczenia z lukami i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "perfect_infinitive_gerund",
     "icon": "⏮️",
     "title": "Bezokolicznik i gerund dokonany",
     "desc": "to have done / having done — jak zaznaczyć, że czynność wydarzyła się wcześniej niż czynność głównego czasownika, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "possessive_gerund",
     "icon": "👐",
     "title": "Dopełniacz przed gerundem",
     "desc": "my/your/John's + -ing (formalnie) vs me/you/the door + -ing (nieformalnie) oraz utrwalone zwroty jak there's no point in your... — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "gapping_stripping",
     "icon": "✂️",
     "title": "Gapping i stripping",
     "desc": "Pomijanie powtarzającego się czasownika i całych fragmentów zdania w zdaniach współrzędnych: gapping (Tom ordered fish, and Mary chicken), stripping (Tom drinks tea, and Ann too), pseudo-gapping i right node raising — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c2"
   },
   {
     "id": "object_complements",
     "icon": "🏷️",
     "title": "Dopełnienie orzecznikowe",
     "desc": "paint it red, elect her president, regard him as a hero — konstrukcje, w których dopełnienie łączy się z przymiotnikiem, rzeczownikiem lub frazą „as”, opisującymi jego stan lub rolę. Teoria, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "unreal_past",
     "icon": "🎲",
     "title": "Nierealna przeszłość",
     "desc": "It's (high) time, suppose/supposing, what if, imagine + Past Simple — hipotetyczne konstrukcje z przeszłością o znaczeniu teraźniejszym lub przyszłym, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "formal_reference",
     "icon": "📇",
     "title": "Odniesienia formalne",
     "desc": "the former / the latter, respectively, the aforementioned / the said, former i latter jako przymiotniki oraz the following / as follows — formalne odsyłanie do rzeczy wymienionych wcześniej lub zapowiadanych dalej w tekście, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "generic_reference",
     "icon": "🐯",
     "title": "Odniesienie rodzajowe",
     "desc": "The tiger / a tiger / tigers oraz brak przedimka z instytucjami (school, prison, hospital) — jak mówić ogólnie o całych klasach rzeczy, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "whether_or_clauses",
     "icon": "🔱",
     "title": "Whether… or",
     "desc": "Whether...or (not) — ustępstwo i alternatywa niezależna od wyboru (whether you like it or not, whether by accident or design) — budowa, użycie, kontrast z if, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "but_for_without",
     "icon": "➖",
     "title": "But for / Without",
     "desc": "But for, without oraz were it not for / had it not been for — formalne wyrażanie warunku przeczącego bez if, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "emphatic_own",
     "icon": "🏡",
     "title": "Own — emfaza posiadania",
     "desc": "my own, a house of my own, on my own, in her own right — jak podkreślić wyłączność posiadania i samodzielność, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "might_as_well",
     "icon": "🙃",
     "title": "Might as well / may as well",
     "desc": "might as well i may as well — sugestia w braku lepszej alternatywy, rezygnacja i krytyka bezcelowego działania w przeszłości — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "so_such_inversion",
     "icon": "⚡",
     "title": "Inwersja z So / Such",
     "desc": "So i such na początku zdania z inwersją (So great was her surprise…, Such was the impact…) — emfatyczne podkreślenie skutku, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 36
+    "drillCount": 36,
+    "level": "c1"
   },
   {
     "id": "reason_clauses",
     "icon": "💡",
     "title": "Zdania przyczynowe",
     "desc": "because, because of, as, since, for, seeing that — spójniki i wyrażenia przyczyny, różnice w formalności i budowie zdania, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "modals_perfect_continuous",
     "icon": "🌊",
     "title": "Modalne + Perfect Continuous",
     "desc": "Modalne wyrażające przypuszczenia o czynności trwającej w przeszłości: must/might/could/can't/should have been doing — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "compound_adjectives",
     "icon": "🖇️",
     "title": "Przymiotniki złożone",
     "desc": "Przymiotniki złożone (well-known, five-year-old, English-speaking) — budowa, łącznik, użycie przed rzeczownikiem i po be, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "elative",
     "icon": "🌟",
     "title": "Elativ",
     "desc": "most + przymiotnik/przysłówek bez „the” do wyrażania wysokiego stopnia cechy, nie porównania (a most interesting book, I thank you most sincerely) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "multiplicative_comparison",
     "icon": "✖️",
     "title": "Porównania wielokrotności",
     "desc": "twice as...as, three times as...as, half the size of — wyrażanie wielokrotności w porównaniach, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "indefinite_article_inversion",
     "icon": "↔️",
     "title": "Inwersja przymiotnika i przedimka",
     "desc": "too/so/as/how + przymiotnik + a/an + rzeczownik (too difficult a task, so good a film, as good a chance, how strange a coincidence) — kiedy przymiotnik wyprzedza przedimek nieokreślony, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "verb_object_ing",
     "icon": "🪤",
     "title": "Czasownik + dopełnienie + -ing",
     "desc": "catch/find/keep/leave/spend/waste/get/have + dopełnienie + -ing (caught him stealing, kept us waiting, spent hours looking, got everyone talking) — łapanie kogoś na czymś, podtrzymywanie czynności, spędzanie czasu, inicjowanie reakcji — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "headline_language",
     "icon": "🗞️",
     "title": "Styl nagłówkowy",
     "desc": "Gramatyka nagłówków prasowych: pomijanie przedimków i czasownika be, czas teraźniejszy dla przeszłości, bezokolicznik dla przyszłości, interpunkcja i słownictwo nagłówkowe — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "question_prepositions",
     "icon": "🎣",
     "title": "Przyimki w pytaniach",
     "desc": "Przyimek pozostawiony na końcu pytania (Who did you talk to?) a formalne przeniesienie go przed zaimek pytający (To whom did you talk?) — kiedy używać której wersji, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "shall_modality",
     "icon": "📜",
     "title": "Shall — oferty, formalna przyszłość i zobowiązania prawne",
     "desc": "Shall I/we w ofertach i propozycjach, formalna shall + I/we jako przyszłość w BrE, prawny i formalny obowiązek shall w umowach i regulaminach oraz archaiczne/retoryczne shall w obietnicach i cytatach — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "manner_clauses",
     "icon": "🚶",
     "title": "Zdania sposobu (manner clauses)",
     "desc": "The way (that) i how jako spójniki sposobu, formalne i nieformalne wyrażanie „w jaki sposób”, odróżnienie od as/like i zdań względnych. Teoria, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 32
+    "drillCount": 32,
+    "level": "b2"
   },
   {
     "id": "binomial_expressions",
     "icon": "🧂",
     "title": "Wyrażenia binominalne (stałe pary)",
     "desc": "Stałe pary słów łączone and/or w zamrożonej kolejności (bread and butter, sooner or later, wear and tear) — reguły kolejności, elipsa w binominałach, dublety prawnicze, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "measure_genitive",
     "icon": "⏱️",
     "title": "Dopełniacz miary i czasu",
     "desc": "Dopełniacz z rzeczownikami miary i czasu (two weeks' notice, a day's work) — liczba pojedyncza i mnoga, kontrast z przymiotnikiem złożonym oraz utrwalone wyrażenia idiomatyczne, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "place_clauses",
     "icon": "🗺️",
     "title": "Zdania okolicznikowe miejsca",
     "desc": "where, wherever, anywhere jako spójniki miejsca oraz rozróżnienie zdania okolicznikowego od zdania względnego z where — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "past_ability",
     "icon": "🏋️",
     "title": "Zdolność w przeszłości",
     "desc": "could vs was/were able to vs managed to — jak wyrażać ogólną zdolność i jednorazowe osiągnięcia w przeszłości, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "sentential_as",
     "icon": "🪡",
     "title": "Sentencjalne „as”",
     "desc": "As is often the case / He was, as everyone predicted... — „as” odnoszące się do całej myśli, a nie do pojedynczego rzeczownika — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c2"
   },
   {
     "id": "transferred_negation",
     "icon": "↪️",
     "title": "Przeniesione przeczenie",
     "desc": "Przeniesienie przeczenia z czasownika głównego (think, believe, suppose, want) do zdania podrzędnego oraz zgodność question tags — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "free_indirect_speech",
     "icon": "📖",
     "title": "Mowa pozornie zależna",
     "desc": "Free indirect speech — mechanika (backshift bez 'that', zachowany szyk pytań i wykrzyknień), kontrast z mową bezpośrednią i zależną, monolog wewnętrzny, sygnały narracyjne — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c2"
   },
   {
     "id": "historic_present",
     "icon": "🎪",
     "title": "Czas teraźniejszy historyczny",
     "desc": "Present Simple/Continuous zamiast czasu przeszłego w opowiadaniu historii, dowcipach, streszczeniach fabuły i relacji na żywo — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "tag_questions",
     "icon": "🔖",
     "title": "Question tags",
     "desc": "Pytania dodane (question tags): dobór operatora i zaimka, biegunowość dodatnia/ujemna, intonacja opadająca i wznosząca, ukryte przeczenia (never, nobody, hardly), przypadki specjalne (aren't I, let's, tryb rozkazujący, there is), tagi tej samej biegunowości (sarkazm) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "passive_infinitive_gerund",
     "icon": "🕳️",
     "title": "Bezokolicznik i gerund bierny",
     "desc": "being done / to be done / to have been done — bierne formy bezokolicznika i gerundu po czasownikach, przymiotnikach i przyimkach, kontrast z needs doing i causative have something done — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "supposed_meant_to",
     "icon": "📋",
     "title": "Supposed to / meant to",
     "desc": "be supposed to i be meant to — oczekiwania, zasady i reputacja w kontraście z should/have to/must — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "echo_questions",
     "icon": "🔊",
     "title": "Pytania echo",
     "desc": "Pytania echo: dopytywanie o niedosłyszany fragment, niedowierzanie, pytania tak/nie bez inwersji i echo tagi — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 35
+    "drillCount": 35,
+    "level": "b1"
   },
   {
     "id": "heavy_np_shift",
     "icon": "🐘",
     "title": "Heavy NP shift",
     "desc": "Heavy NP shift i zasada end-weight: przesuwanie ciężkich, długich fraz rzeczownikowych na koniec zdania przy czasownikach dwudopełnieniowych i czasownikach frazowych — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 36
+    "drillCount": 36,
+    "level": "c2"
   },
   {
     "id": "parallel_structure",
     "icon": "⚖️",
     "title": "Struktura równoległa (parallelism)",
     "desc": "Zachowanie tej samej formy gramatycznej w wyliczeniach, po spójnikach korelacyjnych (not only...but also, either...or) i w porównaniach (as...as, than) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 32
+    "drillCount": 32,
+    "level": "b2"
   },
   {
     "id": "contrastive_while_whereas",
     "icon": "🌗",
     "title": "While / whereas",
     "desc": "while i whereas jako spójniki kontrastu (nie czasu, nie ustępstwa) — zestawianie dwóch równoległych faktów, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "situational_ellipsis",
     "icon": "🗨️",
     "title": "Elipsa sytuacyjna",
     "desc": "Pomijanie podmiotu i/lub operatora na początku zdania w mowie potocznej (Seen John? / Sounds good / Hope you don't mind) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "invariable_nouns",
     "icon": "👓",
     "title": "Rzeczowniki o stałej liczbie",
     "desc": "Rzeczowniki zawsze w liczbie mnogiej (scissors, police, cattle) i pozornie mnogie, a gramatycznie pojedyncze (mathematics, news, measles) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "coordinating_conjunctions",
     "icon": "➕",
     "title": "Spójniki współrzędne",
     "desc": "Spójniki współrzędne and / but / or / so / yet / for / nor — łączenie zdań i orzeczeń, przecinek przed spójnikiem — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "a2"
   },
   {
     "id": "way_construction",
     "icon": "🛣️",
     "title": "Konstrukcja „way”",
     "desc": "push/fight/talk your way — czasownik sposobu + zaimek dzierżawczy + „way” + fraza kierunkowa do wyrażania mozolnego pokonywania przeszkody dosłownie i w przenośni — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 36
+    "drillCount": 36,
+    "level": "c1"
   },
   {
     "id": "formal_compound_adverbs",
     "icon": "📃",
     "title": "Przysłówki złożone (here-/there-/where-)",
     "desc": "Formalne przysłówki złożone hereby, herein, thereof, thereafter, wherein, whereupon i inne — budowa, użycie w dokumentach i tekstach prawnych, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c2"
   },
   {
     "id": "evaluative_binominal",
     "icon": "💎",
     "title": "Ewaluatywna konstrukcja „N of a N”",
     "desc": "Konstrukcja typu a jewel of a city, an idiot of a manager — rzeczownik oceniający wzmacniający opis drugiego rzeczownika, użycie z that/this i w wykrzyknieniach What a…!, kontrast z apozycją definicyjną, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 33
+    "drillCount": 33,
+    "level": "c2"
   },
   {
     "id": "quantity_phrases",
     "icon": "📊",
     "title": "Formalne wyrażenia ilości",
     "desc": "the majority of, a great deal of, a handful of, the bulk of, a wealth of, a plethora of, an array of, a myriad of, numerous/various/several/countless — formalne wyrażenia ilości i ich zgodność z czasownikiem, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "group_genitive",
     "icon": "🏘️",
     "title": "Dopełniacz grupowy",
     "desc": "Dopełniacz grupowy 's dla całej frazy (the man next door's car, someone else's problem) oraz łączony i rozdzielny dopełniacz przy dwóch posiadaczach — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "classical_plurals",
     "icon": "🏛️",
     "title": "Liczba mnoga wyrazów obcych (łacina/greka)",
     "desc": "Klasyczna liczba mnoga zapożyczeń z łaciny i greki: criterion/criteria, cactus/cacti, analysis/analyses, datum/data, formula/formulae, appendix/appendices — wzorce odmiany, formy zanglicyzowane i współczesna reanaliza data/media jako rzeczowników niepoliczalnych, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "infinitive_ellipsis",
     "icon": "🪓",
     "title": "Elipsa bezokolicznika",
     "desc": "Elipsa bezokolicznika (stranded to): I want to, but I can't — pomijanie powtórzonego bezokolicznika po want to / like to / need to / have to i innych, kiedy zostawić samo „to”, a kiedy pominąć je całkowicie.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "exceptive_clauses",
     "icon": "🔓",
     "title": "Zdania wyjątku",
     "desc": "except (that), except when/if, only i save (that) — spójniki wprowadzające wyjątek do ogólnego stwierdzenia (nie przyimki jak except for), budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "conversion",
     "icon": "♻️",
     "title": "Konwersja słowotwórcza",
     "desc": "Zmiana klasy gramatycznej słowa bez przedrostków ani przyrostków (email → to email, a read, to empty, a breakdown) — konwersja rzeczownik/czasownik/przymiotnik, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "negative_questions",
     "icon": "🤨",
     "title": "Pytania przeczące",
     "desc": "Sugestie (Why don't we...), zaproszenia (Won't you...) i sprawdzanie założeń (Didn't you know...?) — funkcje pytań przeczących, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "extraposition",
     "icon": "👻",
     "title": "Ekstrapozycja",
     "desc": "It is obvious that..., it's worth reading, it turned out that... — przesuwanie podmiotu zdaniowego na koniec zdania i puste 'it' na jego miejscu, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "result_infinitive",
     "icon": "🏁",
     "title": "Bezokolicznik skutku",
     "desc": "To + bezokolicznik wyrażający nieoczekiwany rezultat (only to, never to) — kontrast z bezokolicznikiem celu, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "lest_fear",
     "icon": "😨",
     "title": "Lest / for fear that",
     "desc": "lest oraz for fear (that) — formalne wyrażanie obawy i celu negatywnego, tryb łączący po lest — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "c1"
   },
   {
     "id": "reflexive_verbs",
     "icon": "🤳",
     "title": "Czasowniki zwrotne (idiomatyczne)",
     "desc": "Czasowniki wymagające zaimka zwrotnego (pride yourself on, avail yourself of, busy yourself with), czasowniki zmieniające znaczenie z zaimkiem zwrotnym i bez niego (behave / behave yourself) oraz pomijanie zaimka zwrotnego przy czynnościach codziennych — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   },
   {
     "id": "imperative_conditionals",
     "icon": "🚨",
     "title": "Tryb rozkazujący jako warunek",
     "desc": "Tryb rozkazujący + and/or jako ukryty warunek (Say that again and I'll walk out. / Hurry up or you'll miss the train.) oraz odróżnianie go od zwykłej koordynacji czynności — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "linking_verbs",
     "icon": "🌉",
     "title": "Czasowniki łączące",
     "desc": "seem, appear, look, feel, taste, smell, sound, become, get, grow, turn — dopełnienie przymiotnikowe po czasownikach łączących (linking verbs), pułapka good/well i look/feel/sound + like — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b1"
   },
   {
     "id": "be_to_construction",
     "icon": "🎖️",
     "title": "Be + to-bezokolicznik",
     "desc": "Formalne be + to-infinitive: instrukcje i rozkazy (are to wear), oficjalne ustalenia i zapowiedzi (is to visit, is to be built), warunek konieczny (if we are to succeed) i formalny zakaz (are not to touch). Teoria, ćwiczenia z lukami i testy.",
-    "drillCount": 40
+    "drillCount": 40,
+    "level": "b2"
   }
 ]
