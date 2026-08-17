@@ -1174,5 +1174,12 @@
     "title": "Tryb rozkazujący jako warunek",
     "desc": "Tryb rozkazujący + and/or jako ukryty warunek (Say that again and I'll walk out. / Hurry up or you'll miss the train.) oraz odróżnianie go od zwykłej koordynacji czynności — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "linking_verbs",
+    "icon": "🌉",
+    "title": "Czasowniki łączące",
+    "desc": "seem, appear, look, feel, taste, smell, sound, become, get, grow, turn — dopełnienie przymiotnikowe po czasownikach łączących (linking verbs), pułapka good/well i look/feel/sound + like — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
