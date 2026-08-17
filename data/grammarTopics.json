@@ -1160,5 +1160,12 @@
     "title": "Lest / for fear that",
     "desc": "lest oraz for fear (that) — formalne wyrażanie obawy i celu negatywnego, tryb łączący po lest — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "reflexive_verbs",
+    "icon": "🤳",
+    "title": "Czasowniki zwrotne (idiomatyczne)",
+    "desc": "Czasowniki wymagające zaimka zwrotnego (pride yourself on, avail yourself of, busy yourself with), czasowniki zmieniające znaczenie z zaimkiem zwrotnym i bez niego (behave / behave yourself) oraz pomijanie zaimka zwrotnego przy czynnościach codziennych — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
