@@ -1366,5 +1366,13 @@
     "desc": "try and, go and, nice and warm — kiedy „and” łączy dwa czasowniki lub przymiotniki jako jedną czynność albo wzmocnioną cechę, a nie dwie osobne — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40,
     "level": "c1"
+  },
+  {
+    "id": "since_for_ago",
+    "icon": "⏲️",
+    "title": "Since / for / ago",
+    "desc": "since / for / ago / it's been... / in / within — precyzyjne wyrażanie czasu: od kiedy, jak długo, ile temu i za ile — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "b1"
   }
 ]

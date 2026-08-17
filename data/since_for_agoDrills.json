@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "since_for",
+    "prompt": "I have known her ___ we were both at school.",
+    "answer": "since",
+    "distractors": ["for", "ago", "before"]
+  },
+  {
+    "id": 2,
+    "itemId": "since_for",
+    "prompt": "They have lived in this house ___ fifteen years.",
+    "answer": "for",
+    "distractors": ["since", "ago", "within"]
+  },
+  {
+    "id": 3,
+    "itemId": "since_for",
+    "prompt": "He has been unemployed ___ last September.",
+    "answer": "since",
+    "distractors": ["for", "ago", "in"]
+  },
+  {
+    "id": 4,
+    "itemId": "since_for",
+    "prompt": "We haven't spoken to each other ___ months.",
+    "answer": "for",
+    "distractors": ["since", "ago", "before"]
+  },
+  {
+    "id": 5,
+    "itemId": "since_for",
+    "prompt": "She has been the CEO ___ the company was founded.",
+    "answer": "since",
+    "distractors": ["for", "ago", "within"]
+  },
+  {
+    "id": 6,
+    "itemId": "since_for",
+    "prompt": "I haven't eaten anything ___ this morning.",
+    "answer": "since",
+    "distractors": ["for", "ago", "in"]
+  },
+  {
+    "id": 7,
+    "itemId": "since_for",
+    "prompt": "He had been waiting ___ over an hour when the taxi finally showed up.",
+    "answer": "for",
+    "distractors": ["since", "ago", "within"]
+  },
+  {
+    "id": 8,
+    "itemId": "since_for",
+    "prompt": "The bridge has been closed ___ ages — nobody knows when it will reopen.",
+    "answer": "for",
+    "distractors": ["since", "ago", "before"]
+  },
+  {
+    "id": 9,
+    "itemId": "since_for",
+    "prompt": "Prices have gone up sharply ___ the start of the year.",
+    "answer": "since",
+    "distractors": ["for", "ago", "within"]
+  },
+  {
+    "id": 10,
+    "itemId": "since_for",
+    "prompt": "I've been meaning to call you ___ a couple of weeks now.",
+    "answer": "for",
+    "distractors": ["since", "ago", "in"]
+  },
+  {
+    "id": 11,
+    "itemId": "ago_before",
+    "prompt": "The pyramid was built thousands of years ___.",
+    "answer": "ago",
+    "distractors": ["before", "since", "within"]
+  },
+  {
+    "id": 12,
+    "itemId": "ago_before",
+    "prompt": "He said the meeting had ended twenty minutes ___.",
+    "answer": "before",
+    "distractors": ["ago", "since", "for"]
+  },
+  {
+    "id": 13,
+    "itemId": "ago_before",
+    "prompt": "Have you ever tried sushi ___?",
+    "answer": "before",
+    "distractors": ["ago", "since", "for"]
+  },
+  {
+    "id": 14,
+    "itemId": "ago_before",
+    "prompt": "I bumped into an old friend just a few minutes ___.",
+    "answer": "ago",
+    "distractors": ["before", "since", "within"]
+  },
+  {
+    "id": 15,
+    "itemId": "ago_before",
+    "prompt": "She told the police that she had left the house an hour ___.",
+    "answer": "before",
+    "distractors": ["ago", "since", "for"]
+  },
+  {
+    "id": 16,
+    "itemId": "ago_before",
+    "prompt": "My grandparents got married almost sixty years ___.",
+    "answer": "ago",
+    "distractors": ["before", "since", "within"]
+  },
+  {
+    "id": 17,
+    "itemId": "ago_before",
+    "prompt": "He had never seen the ocean ___ that summer.",
+    "answer": "before",
+    "distractors": ["ago", "since", "for"]
+  },
+  {
+    "id": 18,
+    "itemId": "ago_before",
+    "prompt": "We moved into this flat about six months ___.",
+    "answer": "ago",
+    "distractors": ["before", "since", "within"]
+  },
+  {
+    "id": 19,
+    "itemId": "ago_before",
+    "prompt": "By the time I arrived, the film had already started ten minutes ___.",
+    "answer": "before",
+    "distractors": ["ago", "since", "for"]
+  },
+  {
+    "id": 20,
+    "itemId": "ago_before",
+    "prompt": "I've read that novel ___, but I can't remember the ending.",
+    "answer": "before",
+    "distractors": ["ago", "since", "for"]
+  },
+  {
+    "id": 21,
+    "itemId": "it_has_been_since",
+    "prompt": "It's been three years ___ we last had a proper holiday.",
+    "answer": "since",
+    "distractors": ["for", "ago", "before"]
+  },
+  {
+    "id": 22,
+    "itemId": "it_has_been_since",
+    "prompt": "How long ___ it been since you last saw your brother?",
+    "answer": "has",
+    "distractors": ["is", "was", "have"]
+  },
+  {
+    "id": 23,
+    "itemId": "it_has_been_since",
+    "prompt": "It's been ages ___ we last went to the cinema together.",
+    "answer": "since",
+    "distractors": ["for", "ago", "within"]
+  },
+  {
+    "id": 24,
+    "itemId": "it_has_been_since",
+    "prompt": "It ___ over a decade since the town hall was last renovated.",
+    "answer": "has been",
+    "distractors": ["is", "was been", "had"]
+  },
+  {
+    "id": 25,
+    "itemId": "it_has_been_since",
+    "prompt": "It was only a week ___ the launch when the product was recalled.",
+    "answer": "since",
+    "distractors": ["for", "ago", "within"]
+  },
+  {
+    "id": 26,
+    "itemId": "it_has_been_since",
+    "prompt": "It's been a long time ___ anyone mentioned that old rumour.",
+    "answer": "since",
+    "distractors": ["for", "ago", "before"]
+  },
+  {
+    "id": 27,
+    "itemId": "it_has_been_since",
+    "prompt": "How long is it ___ you started this job?",
+    "answer": "since",
+    "distractors": ["for", "ago", "from"]
+  },
+  {
+    "id": 28,
+    "itemId": "it_has_been_since",
+    "prompt": "It's been two months ___ we moved to this neighbourhood.",
+    "answer": "since",
+    "distractors": ["for", "ago", "within"]
+  },
+  {
+    "id": 29,
+    "itemId": "it_has_been_since",
+    "prompt": "It had been years ___ he last touched a piano before that concert.",
+    "answer": "since",
+    "distractors": ["for", "ago", "within"]
+  },
+  {
+    "id": 30,
+    "itemId": "it_has_been_since",
+    "prompt": "It's been exactly a year ___ the merger was announced.",
+    "answer": "since",
+    "distractors": ["for", "ago", "before"]
+  },
+  {
+    "id": 31,
+    "itemId": "in_for_within",
+    "prompt": "The results will be announced ___ two days.",
+    "answer": "in",
+    "distractors": ["for", "within", "since"]
+  },
+  {
+    "id": 32,
+    "itemId": "in_for_within",
+    "prompt": "She's going to be abroad ___ six weeks.",
+    "answer": "for",
+    "distractors": ["in", "within", "ago"]
+  },
+  {
+    "id": 33,
+    "itemId": "in_for_within",
+    "prompt": "Please reply to this email ___ 24 hours.",
+    "answer": "within",
+    "distractors": ["in", "for", "since"]
+  },
+  {
+    "id": 34,
+    "itemId": "in_for_within",
+    "prompt": "The plane takes off ___ twenty minutes.",
+    "answer": "in",
+    "distractors": ["for", "within", "ago"]
+  },
+  {
+    "id": 35,
+    "itemId": "in_for_within",
+    "prompt": "We've booked the cottage ___ a whole week.",
+    "answer": "for",
+    "distractors": ["in", "within", "since"]
+  },
+  {
+    "id": 36,
+    "itemId": "in_for_within",
+    "prompt": "All refunds are processed ___ ten working days.",
+    "answer": "within",
+    "distractors": ["in", "for", "ago"]
+  },
+  {
+    "id": 37,
+    "itemId": "in_for_within",
+    "prompt": "The doctor will see you ___ a few minutes.",
+    "answer": "in",
+    "distractors": ["for", "within", "since"]
+  },
+  {
+    "id": 38,
+    "itemId": "in_for_within",
+    "prompt": "The offer is only valid ___ the next 48 hours.",
+    "answer": "for",
+    "distractors": ["in", "within", "ago"]
+  },
+  {
+    "id": 39,
+    "itemId": "in_for_within",
+    "prompt": "The technician should arrive ___ the hour.",
+    "answer": "within",
+    "distractors": ["in", "for", "since"]
+  },
+  {
+    "id": 40,
+    "itemId": "in_for_within",
+    "prompt": "The next update is expected ___ a couple of months.",
+    "answer": "in",
+    "distractors": ["for", "within", "ago"]
+  }
+]
