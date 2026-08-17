@@ -1,0 +1,195 @@
+[
+  {
+    "id": "all_the_more",
+    "order": 1,
+    "nameEn": "all the more + adjective — intensified comparison due to a reason",
+    "namePl": "all the more + przymiotnik — wzmocnione porównanie z powodu przyczyny",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "all the + przymiotnik/przysłówek w stopniu wyższym (all the better, all the sweeter) lub all the more + długi przymiotnik/przysłówek (all the more difficult) + because/for/since + przyczyna — 'all' wzmacnia znaczenie stopnia wyższego."
+      },
+      {
+        "label": "Funkcja",
+        "text": "Podkreśla, że dana cecha jest jeszcze silniejsza z powodu podanej okoliczności, niż byłaby bez niej."
+      },
+      {
+        "label": "all the more reason",
+        "text": "Utrwalone wyrażenie 'all the more reason to do something' — jeszcze jeden, dodatkowy powód, by coś zrobić."
+      }
+    ],
+    "usage": [
+      "Wzmacnianie stopnia cechy przez wskazanie dodatkowej przyczyny",
+      "Częste po zdaniu opisującym sytuację bazową, jako jej uzupełnienie",
+      "'all the more reason' — mocny argument za jakimś działaniem"
+    ],
+    "tags": [
+      "all the more difficult",
+      "all the more because",
+      "all the more reason",
+      "all the sweeter"
+    ],
+    "examples": [
+      {
+        "en": "The journey was all the more difficult because of the storm.",
+        "pl": "Podróż była tym trudniejsza z powodu burzy."
+      },
+      {
+        "en": "I admire her all the more for her honesty.",
+        "pl": "Podziwiam ją tym bardziej za jej szczerość."
+      },
+      {
+        "en": "That's all the more reason to leave early.",
+        "pl": "To tym większy powód, żeby wyjechać wcześnie."
+      },
+      {
+        "en": "The victory was all the sweeter because it was unexpected.",
+        "pl": "Zwycięstwo było tym słodsze, że było niespodziewane."
+      }
+    ]
+  },
+  {
+    "id": "none_the_wiser",
+    "order": 2,
+    "nameEn": "none the wiser / none the worse — no change despite expectation",
+    "namePl": "none the wiser / none the worse — brak zmiany mimo oczekiwań",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "none the + przymiotnik w stopniu wyższym (+ for something) — 'none' neguje oczekiwaną zmianę stopnia cechy."
+      },
+      {
+        "label": "Znaczenie",
+        "text": "'none the wiser' = nadal nic nie wiedzieć/rozumieć mimo okazji, by się dowiedzieć; 'none the worse (for it/for wear)' = bez szkody, mimo trudnego doświadczenia."
+      },
+      {
+        "label": "Utrwalone kombinacje",
+        "text": "Najczęstsze utrwalone zwroty: none the wiser, none the worse for wear, none the worse for it, none the better."
+      }
+    ],
+    "usage": [
+      "Opisywanie sytuacji, w której coś się wydarzyło, ale nie przyniosło oczekiwanej zmiany",
+      "Często po zdaniu opisującym wyjaśnienie, wypadek lub trudne doświadczenie",
+      "'for it' / 'for wear' dodaje informację, co było źródłem potencjalnej zmiany"
+    ],
+    "tags": [
+      "none the wiser",
+      "none the worse for it",
+      "none the worse for wear"
+    ],
+    "examples": [
+      {
+        "en": "He explained the rules twice, but I was none the wiser.",
+        "pl": "Wytłumaczył zasady dwa razy, ale i tak nic nie zrozumiałem."
+      },
+      {
+        "en": "The car survived the accident none the worse for wear.",
+        "pl": "Samochód przetrwał wypadek bez najmniejszego uszczerbku."
+      },
+      {
+        "en": "She read the contract carefully but was none the wiser about its meaning.",
+        "pl": "Uważnie przeczytała umowę, ale wcale nie zrozumiała jej lepiej."
+      },
+      {
+        "en": "We got caught in the storm but arrived none the worse for it.",
+        "pl": "Złapała nas burza, ale dotarliśmy na miejsce bez żadnego uszczerbku."
+      }
+    ]
+  },
+  {
+    "id": "the_more_so",
+    "order": 3,
+    "nameEn": "all the more so as/because — reinforcing a point already made",
+    "namePl": "all the more so as/because — wzmocnienie już wyrażonej myśli",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "all the more so + as/because/since + dodatkowa przyczyna — 'so' zastępuje wcześniej wspomnianą cechę lub sytuację, by uniknąć powtórzenia."
+      },
+      {
+        "label": "Funkcja",
+        "text": "Dodaje kolejny argument wzmacniający stwierdzenie, które już padło w poprzednim zdaniu."
+      },
+      {
+        "label": "Samodzielne użycie",
+        "text": "'All the more so.' może wystąpić samodzielnie jako krótka reakcja potwierdzająca i wzmacniająca poprzednią wypowiedź."
+      }
+    ],
+    "usage": [
+      "Łączenie dwóch zdań, gdy drugie podaje dodatkowy powód dla stwierdzenia z pierwszego",
+      "Formalny, pisemny rejestr — częste w esejach i tekstach argumentacyjnych",
+      "Samodzielne 'All the more so.' jako zgadzająca się odpowiedź w rozmowie"
+    ],
+    "tags": [
+      "all the more so as",
+      "all the more so because",
+      "all the more so since"
+    ],
+    "examples": [
+      {
+        "en": "The plan is risky, all the more so as we have no backup.",
+        "pl": "Plan jest ryzykowny, tym bardziej że nie mamy planu awaryjnego."
+      },
+      {
+        "en": "It was a great performance, all the more so because she was ill.",
+        "pl": "To był świetny występ, tym bardziej że była chora."
+      },
+      {
+        "en": "We must act quickly, all the more so since the deadline is tomorrow.",
+        "pl": "Musimy działać szybko, tym bardziej że termin mija jutro."
+      },
+      {
+        "en": "Is it important? — All the more so, given the circumstances.",
+        "pl": "Czy to ważne? — Tym bardziej, biorąc pod uwagę okoliczności."
+      }
+    ]
+  },
+  {
+    "id": "none_too",
+    "order": 4,
+    "nameEn": "none too + adjective/adverb — understated negative",
+    "namePl": "none too + przymiotnik/przysłówek — stonowane przeczenie",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "none too + przymiotnik lub przysłówek — 'none' neguje 'too' w znaczeniu 'wcale nie / niezbyt'."
+      },
+      {
+        "label": "Znaczenie",
+        "text": "Ironiczny, oszczędny sposób powiedzenia, że coś wcale nie jest takie, jak sugeruje przymiotnik — zbliżone znaczeniowo do litoty."
+      },
+      {
+        "label": "none too soon",
+        "text": "Wyrażenie 'none too soon' ma osobne, utrwalone znaczenie: 'w samą porę, ledwo na czas' — nie 'niezbyt szybko'."
+      }
+    ],
+    "usage": [
+      "Delikatne, ironiczne wyrażenie niezadowolenia lub krytyki",
+      "Częste z przymiotnikami/przysłówkami opisującymi nastrój, uprzejmość czy stan (pleased, happy, polite, clean)",
+      "Kontrast z potocznym 'not too' — 'none too' jest mocniejsze i bardziej formalne"
+    ],
+    "tags": [
+      "none too pleased",
+      "none too happy",
+      "none too soon"
+    ],
+    "examples": [
+      {
+        "en": "The boss was none too pleased with the results.",
+        "pl": "Szef nie był zbytnio zadowolony z wyników."
+      },
+      {
+        "en": "The hotel room was none too clean.",
+        "pl": "Pokój hotelowy nie był zbyt czysty."
+      },
+      {
+        "en": "He answered none too politely.",
+        "pl": "Odpowiedział niezbyt uprzejmie."
+      },
+      {
+        "en": "They arrived none too soon — the train was about to leave.",
+        "pl": "Przyjechali w samą porę — pociąg miał już odjeżdżać."
+      }
+    ]
+  }
+]

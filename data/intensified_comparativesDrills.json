@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "all_the_more",
+    "prompt": "The journey was ___ (tym trudniejsza) because of the storm.",
+    "answer": "all the more difficult",
+    "distractors": ["much more difficult", "all more difficult", "the all more difficult"]
+  },
+  {
+    "id": 2,
+    "itemId": "all_the_more",
+    "prompt": "I admire her ___ (tym bardziej) for her honesty.",
+    "answer": "all the more",
+    "distractors": ["all more", "the all more", "much the more"]
+  },
+  {
+    "id": 3,
+    "itemId": "all_the_more",
+    "prompt": "That's ___ (tym większy powód) to leave early.",
+    "answer": "all the more reason",
+    "distractors": ["all more reason", "the all more reason", "all the much reason"]
+  },
+  {
+    "id": 4,
+    "itemId": "all_the_more",
+    "prompt": "His apology made me trust him ___ (jeszcze bardziej).",
+    "answer": "all the more",
+    "distractors": ["much the more", "all more", "the more all"]
+  },
+  {
+    "id": 5,
+    "itemId": "all_the_more",
+    "prompt": "The victory was ___ (tym słodsze) because it was unexpected.",
+    "answer": "all the sweeter",
+    "distractors": ["all more sweeter", "the all sweeter", "much the sweeter"]
+  },
+  {
+    "id": 6,
+    "itemId": "all_the_more",
+    "prompt": "Prices have gone up, which makes saving money ___ (tym bardziej) important.",
+    "answer": "all the more",
+    "distractors": ["much the more", "all more", "the all more"]
+  },
+  {
+    "id": 7,
+    "itemId": "all_the_more",
+    "prompt": "The room felt ___ (tym bardziej przytulny) with the fire lit.",
+    "answer": "all the cosier",
+    "distractors": ["all more cosier", "the all cosier", "much the cosier"]
+  },
+  {
+    "id": 8,
+    "itemId": "all_the_more",
+    "prompt": "Their kindness made the loss ___ (tym trudniejsza do zniesienia).",
+    "answer": "all the more painful",
+    "distractors": ["much more painful", "all more painful", "the all more painful"]
+  },
+  {
+    "id": 9,
+    "itemId": "all_the_more",
+    "prompt": "Since the deadline was moved up, we have ___ (tym więcej powodów) to hurry.",
+    "answer": "all the more reason",
+    "distractors": ["all more reasons", "the all more reason", "all the much reason"]
+  },
+  {
+    "id": 10,
+    "itemId": "all_the_more",
+    "prompt": "Knowing the risks made the decision ___ (tym trudniejsza).",
+    "answer": "all the harder",
+    "distractors": ["all more harder", "the all harder", "much the harder"]
+  },
+  {
+    "id": 11,
+    "itemId": "none_the_wiser",
+    "prompt": "He explained the rules twice, but I was ___ (nadal nic nie rozumiałem).",
+    "answer": "none the wiser",
+    "distractors": ["not the wiser", "none the wisest", "no the wiser"]
+  },
+  {
+    "id": 12,
+    "itemId": "none_the_wiser",
+    "prompt": "The car survived the accident ___ (bez najmniejszego uszczerbku).",
+    "answer": "none the worse for wear",
+    "distractors": ["none worse for wear", "not the worse for wear", "none the worst for wear"]
+  },
+  {
+    "id": 13,
+    "itemId": "none_the_wiser",
+    "prompt": "She read the contract carefully but was ___ (wcale nie mądrzejsza) about its meaning.",
+    "answer": "none the wiser",
+    "distractors": ["not the wiser", "none wiser", "none the wisest"]
+  },
+  {
+    "id": 14,
+    "itemId": "none_the_wiser",
+    "prompt": "We got caught in the storm but arrived ___ (bez żadnego uszczerbku).",
+    "answer": "none the worse for it",
+    "distractors": ["not the worse for it", "none worse for it", "none the worst for it"]
+  },
+  {
+    "id": 15,
+    "itemId": "none_the_wiser",
+    "prompt": "I asked him to clarify, but I'm still ___ (nic mądrzejszy).",
+    "answer": "none the wiser",
+    "distractors": ["none wiser", "not the wiser", "none the more wise"]
+  },
+  {
+    "id": 16,
+    "itemId": "none_the_wiser",
+    "prompt": "Despite the long lecture, the students were ___ (wcale nie mądrzejsi).",
+    "answer": "none the wiser",
+    "distractors": ["not the wiser", "none the wisest", "none wiser"]
+  },
+  {
+    "id": 17,
+    "itemId": "none_the_wiser",
+    "prompt": "He fell off his bike but got up ___ (bez szwanku).",
+    "answer": "none the worse for wear",
+    "distractors": ["not the worse for wear", "none worse for wear", "none the worst for wear"]
+  },
+  {
+    "id": 18,
+    "itemId": "none_the_wiser",
+    "prompt": "They fixed the engine, and now it runs ___ (wcale nie lepiej).",
+    "answer": "none the better",
+    "distractors": ["not the better", "none better", "none the best"]
+  },
+  {
+    "id": 19,
+    "itemId": "none_the_wiser",
+    "prompt": "After all his explanations, I am still ___ (nic mądrzejszy).",
+    "answer": "none the wiser",
+    "distractors": ["not the wiser", "none the wisest", "none wiser"]
+  },
+  {
+    "id": 20,
+    "itemId": "none_the_wiser",
+    "prompt": "The old bridge still stands, ___ (bez szwanku) after the flood.",
+    "answer": "none the worse for wear",
+    "distractors": ["not the worse for wear", "none worse for wear", "none the worst for wear"]
+  },
+  {
+    "id": 21,
+    "itemId": "the_more_so",
+    "prompt": "The plan is risky, ___ (tym bardziej, że) we have no backup.",
+    "answer": "all the more so as",
+    "distractors": ["all more so as", "the all more so as", "all the so more as"]
+  },
+  {
+    "id": 22,
+    "itemId": "the_more_so",
+    "prompt": "It was a great performance, ___ (tym bardziej, że) she was ill.",
+    "answer": "all the more so because",
+    "distractors": ["all more so because", "the all more so because", "all the so more because"]
+  },
+  {
+    "id": 23,
+    "itemId": "the_more_so",
+    "prompt": "We must act quickly, ___ (tym bardziej, że) the deadline is tomorrow.",
+    "answer": "all the more so since",
+    "distractors": ["all more so since", "the all more so since", "all the so more since"]
+  },
+  {
+    "id": 24,
+    "itemId": "the_more_so",
+    "prompt": "Is it important? — ___ (Tym bardziej), given the circumstances.",
+    "answer": "All the more so",
+    "distractors": ["All more so", "The all more so", "All the so more"]
+  },
+  {
+    "id": 25,
+    "itemId": "the_more_so",
+    "prompt": "The task is difficult, ___ (tym bardziej, że) we have so little time.",
+    "answer": "all the more so as",
+    "distractors": ["all more so as", "the all more so as", "all so the more as"]
+  },
+  {
+    "id": 26,
+    "itemId": "the_more_so",
+    "prompt": "His comment was hurtful, ___ (tym bardziej, że) it was said in public.",
+    "answer": "all the more so because",
+    "distractors": ["all more so because", "the all more so because", "all so more because"]
+  },
+  {
+    "id": 27,
+    "itemId": "the_more_so",
+    "prompt": "The award is well deserved, ___ (tym bardziej, że) she worked alone.",
+    "answer": "all the more so since",
+    "distractors": ["all more so since", "the all more so since", "all so more since"]
+  },
+  {
+    "id": 28,
+    "itemId": "the_more_so",
+    "prompt": "The news was shocking — ___ (tym bardziej), as no one expected it.",
+    "answer": "all the more so",
+    "distractors": ["all more so", "the all more so", "all so more"]
+  },
+  {
+    "id": 29,
+    "itemId": "the_more_so",
+    "prompt": "This victory matters, ___ (tym bardziej, że) we lost last year.",
+    "answer": "all the more so because",
+    "distractors": ["all more so because", "the all more so because", "all so more because"]
+  },
+  {
+    "id": 30,
+    "itemId": "the_more_so",
+    "prompt": "The warning was serious, ___ (tym bardziej, że) it came from an expert.",
+    "answer": "all the more so since",
+    "distractors": ["all more so since", "the all more so since", "all so more since"]
+  },
+  {
+    "id": 31,
+    "itemId": "none_too",
+    "prompt": "The boss was ___ (wcale nie zbyt zadowolony) with the results.",
+    "answer": "none too pleased",
+    "distractors": ["not too pleased", "none so pleased", "none too pleasing"]
+  },
+  {
+    "id": 32,
+    "itemId": "none_too",
+    "prompt": "The hotel room was ___ (nie za czysty).",
+    "answer": "none too clean",
+    "distractors": ["not too clean", "none so clean", "none too cleanly"]
+  },
+  {
+    "id": 33,
+    "itemId": "none_too",
+    "prompt": "He answered ___ (niezbyt uprzejmie).",
+    "answer": "none too politely",
+    "distractors": ["not too politely", "none so politely", "none too polite"]
+  },
+  {
+    "id": 34,
+    "itemId": "none_too",
+    "prompt": "They arrived ___ (w samą porę) — the train was about to leave.",
+    "answer": "none too soon",
+    "distractors": ["not too soon", "none so soon", "none too soonly"]
+  },
+  {
+    "id": 35,
+    "itemId": "none_too",
+    "prompt": "The weather was ___ (niezbyt przyjemna) for a picnic.",
+    "answer": "none too pleasant",
+    "distractors": ["not too pleasant", "none so pleasant", "none too pleasantly"]
+  },
+  {
+    "id": 36,
+    "itemId": "none_too",
+    "prompt": "The instructions were ___ (niezbyt jasne).",
+    "answer": "none too clear",
+    "distractors": ["not too clear", "none so clear", "none too clearly"]
+  },
+  {
+    "id": 37,
+    "itemId": "none_too",
+    "prompt": "The patient looked ___ (niezbyt zdrowo).",
+    "answer": "none too healthy",
+    "distractors": ["not too healthy", "none so healthy", "none too health"]
+  },
+  {
+    "id": 38,
+    "itemId": "none_too",
+    "prompt": "We finished the report ___ (w samą porę) before the meeting.",
+    "answer": "none too soon",
+    "distractors": ["not too soon", "none so soon", "none too sooner"]
+  },
+  {
+    "id": 39,
+    "itemId": "none_too",
+    "prompt": "The service in that restaurant was ___ (niezbyt szybka).",
+    "answer": "none too fast",
+    "distractors": ["not too fast", "none so fast", "none too faster"]
+  },
+  {
+    "id": 40,
+    "itemId": "none_too",
+    "prompt": "The manager sounded ___ (niezbyt szczery) about the promotion.",
+    "answer": "none too sincere",
+    "distractors": ["not too sincere", "none so sincere", "none too sincerely"]
+  }
+]
