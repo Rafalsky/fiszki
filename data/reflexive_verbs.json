@@ -1,0 +1,105 @@
+[
+  {
+    "id": "obligatory_reflexive",
+    "order": 1,
+    "nameEn": "Verbs with an obligatory reflexive pronoun",
+    "namePl": "Czasowniki wymagające zaimka zwrotnego",
+    "rules": [
+      { "label": "Budowa", "text": "czasownik + myself/yourself/himself/herself/itself/ourselves/yourselves/themselves + (przyimek) — zaimek zwrotny jest tu częścią stałego zwrotu, nie da się go pominąć ani zastąpić zwykłym dopełnieniem" },
+      { "label": "Charakter", "text": "Te czasowniki nie mają 'zwykłego' znaczenia bez zaimka zwrotnego — same, bez niego, brzmią niepełne albo niegramatyczne (nie: He prides on his work.)" },
+      { "label": "Stały przyimek", "text": "Wiele z nich łączy się dodatkowo ze stałym przyimkiem, tak jak czasowniki z tematu 'Przyimki zależne' — przyimek trzeba zapamiętać razem z całym zwrotem" }
+    ],
+    "usage": [
+      "pride yourself on — być z czegoś dumnym, szczycić się (She prides herself on her punctuality.)",
+      "avail yourself of — skorzystać z czegoś (formalnie) (Please avail yourself of the free consultation.)",
+      "busy yourself with — zajmować się czymś, żeby nie myśleć o innych sprawach (He busied himself with paperwork.)",
+      "absent yourself from — nie stawić się gdzieś, celowo być nieobecnym (formalnie) (She absented herself from the meeting.)",
+      "ingratiate yourself with — przypochlebiać się komuś (He tried to ingratiate himself with the new boss.)",
+      "perjure yourself — składać fałszywe zeznania pod przysięgą (prawn.) (He was accused of perjuring himself in court.)"
+    ],
+    "tags": ["pride yourself on", "avail yourself of", "busy yourself with", "absent yourself from", "ingratiate yourself with"],
+    "examples": [
+      { "en": "He prides himself on never being late.", "pl": "Szczyci się tym, że nigdy się nie spóźnia." },
+      { "en": "Guests are welcome to avail themselves of the hotel spa.", "pl": "Goście mogą skorzystać z hotelowego spa." },
+      { "en": "She busied herself with tidying the office.", "pl": "Zajęła się porządkowaniem biura." },
+      { "en": "He absented himself from the trial for two days.", "pl": "Był celowo nieobecny na rozprawie przez dwa dni." }
+    ]
+  },
+  {
+    "id": "meaning_shift_reflexive",
+    "order": 2,
+    "nameEn": "Verbs that change meaning with vs without a reflexive pronoun",
+    "namePl": "Czasowniki zmieniające znaczenie z zaimkiem zwrotnym i bez niego",
+    "rules": [
+      { "label": "Bez zaimka zwrotnego", "text": "Wiele z tych czasowników ma zupełnie inne, zwykle 'zewnętrzne' znaczenie, gdy dopełnieniem jest coś innego niż podmiot (behave the children = pilnować, żeby dzieci się dobrze zachowywały)" },
+      { "label": "Z zaimkiem zwrotnym", "text": "Dodanie zaimka zwrotnego zawęża znaczenie do kontrolowania SAMEGO SIEBIE, własnego zachowania lub emocji (behave yourself = zachowuj się grzecznie)" },
+      { "label": "Rozpoznanie po kontekście", "text": "Ten sam czasownik może więc znaczyć co innego w zależności od tego, czy dopełnieniem jest podmiot, czy ktoś/coś innego — trzeba sprawdzać dopełnienie, nie sam czasownik" }
+    ],
+    "usage": [
+      "behave / behave yourself — zachowywać się (ogólnie) vs zachowywać się grzecznie, jak należy (Behave yourself at the party!)",
+      "apply / apply yourself to — składać podanie, stosować coś vs przykładać się do czegoś, angażować się (He finally applied himself to his studies.)",
+      "compose / compose yourself — komponować, tworzyć vs opanować się, uspokoić się (Take a moment to compose yourself before the interview.)",
+      "find / find yourself — znajdować coś vs nieoczekiwanie znaleźć się w jakiejś sytuacji lub stanie (She found herself crying for no reason.)",
+      "help / help yourself (to) — pomagać komuś vs częstować się czymś samodzielnie (Help yourself to some more cake.)",
+      "acquit / acquit yourself (well) — uniewinnić kogoś (prawn.) vs poradzić sobie z zadaniem, wypaść dobrze (He acquitted himself well in the debate.)"
+    ],
+    "tags": ["behave yourself", "apply yourself to", "compose yourself", "find yourself", "help yourself"],
+    "examples": [
+      { "en": "The teacher told the boys to behave, but they still misbehaved.", "pl": "Nauczyciel kazał chłopcom się zachowywać, ale i tak się źle zachowywali." },
+      { "en": "If you behave yourself, we'll go to the park later.", "pl": "Jeśli będziesz grzeczny, pójdziemy potem do parku." },
+      { "en": "He never really applied himself at school.", "pl": "Nigdy się naprawdę nie przykładał w szkole." },
+      { "en": "After the shock, it took her a while to compose herself.", "pl": "Po szoku zajęło jej trochę czasu, żeby się opanować." },
+      { "en": "I found myself agreeing with everything he said.", "pl": "Nieoczekiwanie okazało się, że zgadzam się ze wszystkim, co mówił." }
+    ]
+  },
+  {
+    "id": "dropped_reflexive",
+    "order": 3,
+    "nameEn": "Everyday action verbs: dropping the reflexive pronoun",
+    "namePl": "Czynności codzienne: pomijanie zaimka zwrotnego",
+    "rules": [
+      { "label": "Domyślnie bez zaimka", "text": "Przy podstawowych czynnościach pielęgnacyjnych (wash, shave, dress, bathe, shower) angielski zwykle POMIJA zaimek zwrotny, bo jest oczywiste, że czynność dotyczy podmiotu: He washed and dressed quickly." },
+      { "label": "Z zaimkiem = nietypowo lub dla kontrastu", "text": "Zaimek zwrotny wraca, gdy chcemy podkreślić wysiłek, samodzielność albo skontrastować z kimś, kto normalnie tego nie robi sam: The toddler can dress himself now." },
+      { "label": "Różnica z polskim", "text": "Polskie 'się' (myć się, ubierać się) jest w tych czasownikach niemal zawsze obowiązkowe — w angielskim jest ono w wielu przypadkach zbędne i brzmi nienaturalnie" }
+    ],
+    "usage": [
+      "wash, shave, dress, bathe, shower — bez zaimka w normalnej, rutynowej czynności (He shaves every morning.)",
+      "Z zaimkiem, gdy podkreślamy nowo nabytą umiejętność małego dziecka: She can wash herself now.",
+      "Z zaimkiem, gdy kontrastujemy z pomocą innej osoby: He dressed himself, without his mother's help.",
+      "hide, move, stretch, relax, drown, wake, panic — również często bez zaimka w codziennym, nieformalnym użyciu (He hid behind the sofa. / She woke early.)"
+    ],
+    "tags": ["wash and dress", "shave every morning", "dress himself", "hide behind"],
+    "examples": [
+      { "en": "He got up, washed, and dressed in ten minutes.", "pl": "Wstał, umył się i ubrał w dziesięć minut." },
+      { "en": "The little boy can already dress himself.", "pl": "Mały chłopiec umie się już sam ubierać." },
+      { "en": "She shaves her legs twice a week.", "pl": "Goli nogi dwa razy w tygodniu." },
+      { "en": "He hid behind the curtain so nobody would see him.", "pl": "Schował się za zasłoną, żeby nikt go nie widział." }
+    ]
+  },
+  {
+    "id": "emotional_self_management",
+    "order": 4,
+    "nameEn": "Reflexive verbs of emotional and mental self-management",
+    "namePl": "Czasowniki zwrotne kontroli emocji i skupienia",
+    "rules": [
+      { "label": "Budowa", "text": "czasownik + zaimek zwrotny (+ przyimek) opisujący panowanie nad własnymi emocjami, myślami lub reakcją na sytuację" },
+      { "label": "Rejestr", "text": "Wiele z tych zwrotów jest neutralnych lub lekko formalnych i typowych dla opisu stanów wewnętrznych bohatera w narracji lub w poradach" },
+      { "label": "Kontrola nad kim/czym", "text": "Zaimek zwrotny wskazuje, że podmiot działa NA SAMYM SOBIE — kontroluje, przygotowuje lub ogranicza własne zachowanie, a nie cudze" }
+    ],
+    "usage": [
+      "contain yourself / control yourself — powstrzymać emocje, nie wybuchnąć (He could barely contain himself when he heard the news.)",
+      "prepare yourself for — przygotować się psychicznie na coś trudnego (Prepare yourself for some bad news.)",
+      "resign yourself to — pogodzić się z czymś nieuniknionym (She resigned herself to working overtime.)",
+      "concern yourself with — martwić się czymś, zajmować się czymś (Don't concern yourself with that — it's not your problem.)",
+      "exert yourself — wysilać się, forsować się (Don't exert yourself too much after the surgery.)",
+      "distance yourself from — zdystansować się od kogoś/czegoś (The senator tried to distance himself from the scandal.)"
+    ],
+    "tags": ["contain yourself", "prepare yourself for", "resign yourself to", "concern yourself with", "distance yourself from"],
+    "examples": [
+      { "en": "She could hardly contain herself with excitement.", "pl": "Ledwo mogła powstrzymać podekscytowanie." },
+      { "en": "Prepare yourself for a long wait at the airport.", "pl": "Przygotuj się na długie czekanie na lotnisku." },
+      { "en": "In the end, he resigned himself to the fact that he'd lost.", "pl": "W końcu pogodził się z faktem, że przegrał." },
+      { "en": "The company is trying to distance itself from the controversy.", "pl": "Firma próbuje zdystansować się od kontrowersji." }
+    ]
+  }
+]

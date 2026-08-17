@@ -1,0 +1,156 @@
+<!--
+  Template for a single grammar topic page. To add a new topic, copy this
+  whole directory to grammar/<topic-id>/, then in the copy replace every
+  __TOPIC_ID__, __ICON__, __TITLE__ and __DESC__ placeholder below with the
+  real values (same id/icon/title/desc used in data/grammarTopics.json).
+  Nothing else in this file needs to change - js/grammarTopic.js reads the
+  topic id from data-topic-id and does the rest.
+-->
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<title>Czasowniki zwrotne (idiomatyczne) — Gramatyka — Fiszki</title>
+<meta name="description" content="Czasowniki wymagające zaimka zwrotnego (pride yourself on, avail yourself of, busy yourself with), czasowniki zmieniające znaczenie z zaimkiem zwrotnym i bez niego (behave / behave yourself) oraz pomijanie zaimka zwrotnego przy czynnościach codziennych — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy." />
+<link rel="icon" href="data:," />
+<link rel="stylesheet" href="../../css/main.css" />
+</head>
+<body data-topic-id="reflexive_verbs">
+<header class="topbar">
+  <h1><a href="../../" class="topbar-home-link">📚 Fiszki</a></h1>
+  <nav class="topbar-nav">
+    <a href="../../" class="nav-btn">Słownictwo</a>
+    <a href="../" class="nav-btn is-active">Gramatyka</a>
+  </nav>
+</header>
+
+<main id="app">
+  <a href="../" class="btn btn-link">← Gramatyka</a>
+  <h2 id="topic-home-title">🤳 Czasowniki zwrotne (idiomatyczne)</h2>
+
+  <div id="view-topic-home" class="view is-active">
+    <nav class="subnav">
+      <button type="button" data-topic-tab="theory" class="subnav-btn is-active">Teoria</button>
+      <button type="button" data-topic-tab="drill" class="subnav-btn">Ćwiczenia</button>
+      <button type="button" data-topic-tab="quiz" class="subnav-btn">Testy</button>
+    </nav>
+
+    <div id="topic-view-theory" class="topic-view is-active">
+      <p class="hint">Wybierz element z listy, żeby zobaczyć zasady, kiedy się go używa, i przykłady.</p>
+      <div class="topic-items-list" id="topic-items-list"></div>
+    </div>
+
+    <div id="topic-view-drill" class="topic-view">
+      <div class="stats-grid" id="topic-stats-grid"></div>
+      <div class="session-actions">
+        <button type="button" id="btn-topic-start-review" class="btn btn-primary" disabled>
+          Powtórz zaległe (<span id="topic-due-count">0</span>)
+        </button>
+        <button type="button" id="btn-topic-start-new" class="btn btn-secondary">
+          Ćwicz nowe (<span id="topic-new-count">0</span>)
+        </button>
+      </div>
+      <p class="hint">Uzupełniasz lukę poprawną odpowiedzią — ta sama zasada oceny pisowni co przy słówkach (drobne literówki są tolerowane).</p>
+    </div>
+
+    <div id="topic-view-quiz" class="topic-view">
+      <p class="hint" id="topic-quiz-hint"></p>
+      <button type="button" id="btn-quiz-start" class="btn btn-primary btn-wide">Zacznij test</button>
+    </div>
+  </div>
+
+  <div id="view-item-detail" class="view">
+    <button type="button" id="btn-item-detail-back" class="btn btn-link">← Wróć</button>
+    <div id="topic-item-detail-content"></div>
+  </div>
+
+  <div id="view-grammar-drill" class="view">
+    <div class="study-header">
+      <button type="button" id="btn-exit-grammar-drill" class="btn btn-link">← Zakończ ćwiczenie</button>
+      <div class="progress-track">
+        <div class="progress-bar" id="grammar-drill-progress-bar"></div>
+      </div>
+      <span id="grammar-drill-progress-label">0 / 0</span>
+    </div>
+
+    <div class="card-wrap">
+      <article class="flashcard" id="grammar-flashcard" aria-live="polite">
+        <div class="flashcard-level" id="grammar-flashcard-level" title="Poziom zapamiętania"></div>
+
+        <div class="flashcard-face flashcard-front" id="grammar-front">
+          <p class="typing-label" id="grammar-item-label"></p>
+          <p class="grammar-prompt" id="grammar-prompt"></p>
+        </div>
+
+        <div class="flashcard-face flashcard-back is-hidden" id="grammar-result">
+          <p class="typing-verdict" id="grammar-verdict"></p>
+          <p class="grammar-answer" id="grammar-result-answer"></p>
+          <p class="typing-you-typed" id="grammar-you-typed"></p>
+        </div>
+      </article>
+
+      <div class="study-controls" id="grammar-controls-input">
+        <form id="grammar-typing-form" autocomplete="off">
+          <input
+            type="text"
+            id="grammar-typing-input"
+            class="typing-input"
+            placeholder="Wpisz brakujący element…"
+            autocapitalize="off"
+            autocorrect="off"
+            spellcheck="false"
+          />
+          <button type="submit" class="btn btn-primary btn-wide">Sprawdź</button>
+        </form>
+      </div>
+      <div class="study-controls is-hidden" id="grammar-controls-next">
+        <button type="button" id="btn-grammar-next" class="btn btn-primary btn-wide">Dalej</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="view-grammar-drill-summary" class="view">
+    <div class="summary-box">
+      <h2>Ćwiczenie ukończone 🎉</h2>
+      <p id="grammar-summary-text"></p>
+      <button type="button" id="btn-grammar-summary-done" class="btn btn-primary">Wróć do tematu</button>
+    </div>
+  </div>
+
+  <div id="view-quiz-session" class="view">
+    <div class="study-header">
+      <button type="button" id="btn-exit-quiz" class="btn btn-link">← Przerwij test</button>
+      <div class="progress-track">
+        <div class="progress-bar" id="quiz-progress-bar"></div>
+      </div>
+      <span id="quiz-progress-label">0 / 0</span>
+    </div>
+
+    <div class="card-wrap">
+      <article class="flashcard quiz-card" id="quiz-flashcard">
+        <p class="typing-label" id="quiz-item-label"></p>
+        <p class="grammar-prompt" id="quiz-prompt"></p>
+      </article>
+
+      <div class="quiz-choices" id="quiz-choices"></div>
+    </div>
+  </div>
+
+  <div id="view-quiz-results" class="view">
+    <div class="summary-box">
+      <h2>Test ukończony 🎯</h2>
+      <p id="quiz-score-text"></p>
+      <button type="button" id="btn-quiz-again" class="btn btn-primary">Zrób test ponownie</button>
+      <button type="button" id="btn-quiz-done" class="btn btn-secondary">Wróć do tematu</button>
+    </div>
+  </div>
+</main>
+
+<footer class="footer">
+  <p>Postęp zapisywany lokalnie w przeglądarce.</p>
+</footer>
+
+<script type="module" src="../../js/grammarTopic.js"></script>
+</body>
+</html>
