@@ -1,0 +1,77 @@
+[
+  {
+    "id": "noun_subject_inversion",
+    "order": 1,
+    "nameEn": "Inversion with full noun-phrase subjects",
+    "namePl": "Inwersja przy podmiocie wyrażonym pełną frazą rzeczownikową",
+    "rules": [
+      { "label": "Budowa", "text": "Po zacytowanej wypowiedzi, gdy podmiotem zdania wprowadzającego jest pełna fraza rzeczownikowa (nie zaimek), możliwa jest inwersja: czasownik + podmiot, zamiast podmiot + czasownik: \"I'm leaving,\" said Tom. / \"That's absurd,\" replied the manager." },
+      { "label": "Opcjonalność", "text": "Inwersja jest opcjonalna — szyk podstawowy (Tom said) jest równie poprawny i częstszy w mowie potocznej. Inwersja jest jednak bardzo typowa w prozie narracyjnej i dziennikarstwie, bo urozmaica pozycję zdania wprowadzającego w tekście." },
+      { "label": "Czas teraźniejszy", "text": "Ta sama inwersja działa też z czasownikiem wprowadzającym w czasie teraźniejszym, typowym dla relacji na żywo, podpisów pod zdjęciami i cytatów w artykułach: \"We won't back down,\" says the spokesperson." },
+      { "label": "Szeroki zakres czasowników", "text": "Inwersja działa z bardzo wieloma czasownikami mowy: said, replied, asked, exclaimed, announced, muttered, admitted, warned, declared, pleaded, scoffed — o ile są nieprzechodnie (nie mają własnego dopełnienia osobowego)." }
+    ],
+    "usage": [
+      "Po dowolnym typie zacytowanego zdania — oznajmującym, pytającym, wykrzyknikowym: \"How wonderful!\" exclaimed Maria.",
+      "W prozie i beletrystyce, żeby urozmaicić pozycję zdania wprowadzającego względem cytatu",
+      "W dziennikarstwie i relacjach na żywo, także z czasownikiem w czasie teraźniejszym: \"Prices will rise again,\" warns the analyst.",
+      "Z szerokim zakresem czasowników mowy, o ile nie mają dopełnienia osobowego (patrz ograniczenia w temacie 'Rozbudowane zdania wprowadzające')"
+    ],
+    "tags": ["said Tom", "replied the manager", "exclaimed Maria", "warned the analyst"],
+    "examples": [
+      { "en": "\"I'm leaving,\" said Tom, grabbing his coat.", "pl": "\"Wychodzę\" — powiedział Tom, chwytając płaszcz." },
+      { "en": "\"That's absurd,\" replied the manager, shaking his head.", "pl": "\"To absurd\" — odpowiedział kierownik, kręcąc głową." },
+      { "en": "\"We won't back down,\" announced the spokesperson at the press conference.", "pl": "\"Nie ustąpimy\" — oznajmił rzecznik na konferencji prasowej." },
+      { "en": "\"Justice will be done,\" declared the judge before adjourning the court.", "pl": "\"Sprawiedliwości stanie się zadość\" — oświadczył sędzia przed zamknięciem rozprawy." }
+    ]
+  },
+  {
+    "id": "pronoun_subject_no_inversion",
+    "order": 2,
+    "nameEn": "Pronoun subjects: standard order (no inversion)",
+    "namePl": "Zaimek jako podmiot: szyk podstawowy (bez inwersji)",
+    "rules": [
+      { "label": "Zasada", "text": "Gdy podmiotem zdania wprowadzającego jest zaimek osobowy (I, you, he, she, it, we, they), współczesny angielski zachowuje standardowy szyk podmiot + czasownik: \"I'm freezing,\" she said. NIE: \"said she\"." },
+      { "label": "Archaizm", "text": "Szyk \"said he/said she\" przetrwał w starszej literaturze, baśniach oraz w celowo archaizującym lub żartobliwym stylu (\"Off with her head!\" cried the Queen), ale we współczesnej prozie i mowie potocznej brzmi przestarzale lub afektowanie." },
+      { "label": "Kluczowe rozróżnienie", "text": "To właśnie wrażliwość na typ podmiotu (rzeczownik → możliwa inwersja, zaimek → bez inwersji) odróżnia inwersję cytacyjną od innych typów inwersji w angielskim (np. po przysłówkach negatywnych typu Never/Rarely), które działają niezależnie od typu podmiotu." },
+      { "label": "Dotyczy wszystkich osób", "text": "Zasada obejmuje wszystkie zaimki osobowe, nie tylko trzecią osobę liczby pojedynczej: \"I'll think about it,\" I said. / \"We should hurry,\" we insisted." }
+    ],
+    "usage": [
+      "Po cytacie, gdy mówiący odnosi się do siebie lub rozmówcy zaimkiem: \"We should hurry,\" he whispered.",
+      "We wszystkich odmianach współczesnej angielszczyzny (mowa, proza, dziennikarstwo) — to norma, nie wyjątek",
+      "Kontrastowo z podmiotem rzeczownikowym, gdzie inwersja jest naturalna i częsta",
+      "Świadome złamanie tej zasady (\"said she\") jako zabieg stylistyczny — pastisz, ironia, nawiązanie do starszej prozy"
+    ],
+    "tags": ["she said", "he whispered", "not said she", "they replied"],
+    "examples": [
+      { "en": "\"It's freezing,\" she said, pulling her coat tighter.", "pl": "\"Jest mi zimno\" — powiedziała, otulając się szczelniej płaszczem." },
+      { "en": "\"We should hurry,\" he whispered, glancing at his watch.", "pl": "\"Powinniśmy się pospieszyć\" — szepnął, zerkając na zegarek." },
+      { "en": "\"Absolutely not,\" we insisted, refusing to change our minds.", "pl": "\"Absolutnie nie\" — nalegaliśmy, odmawiając zmiany zdania." },
+      { "en": "\"Never again,\" she vowed, closing the door behind her.", "pl": "\"Nigdy więcej\" — przysięgła, zamykając za sobą drzwi." }
+    ]
+  },
+  {
+    "id": "expanded_reporting_clause",
+    "order": 3,
+    "nameEn": "Expanded reporting clauses and blocked inversion",
+    "namePl": "Rozbudowane zdania wprowadzające i ograniczenia inwersji",
+    "rules": [
+      { "label": "Przysłówki i imiesłowy", "text": "Przysłówek sposobu lub fraza imiesłowowa mogą stać po odwróconym podmiocie, nie przerywając szyku czasownik + podmiot: \"Never,\" said Tom flatly. / \"Stop it,\" cried the child, tears streaming down her face." },
+      { "label": "Zablokowana inwersja: czasowniki z dopełnieniem osobowym", "text": "Czasowniki mowy z obowiązkowym dopełnieniem osobowym (tell somebody, ask somebody) NIE inwersują — dopełnienie stoi zaraz po czasowniku, a podmiot przed nim zostaje na swoim miejscu: John told her that he would be late. (NIE: *told her John)" },
+      { "label": "Zablokowana inwersja: modalne i czasy złożone", "text": "Inwersja cytacyjna ogranicza się właściwie do prostego czasu przeszłego lub teraźniejszego czasownika mowy — z czasownikiem modalnym lub w czasie Perfect zostaje szyk podstawowy: \"I already told you,\" Tom had said twice before. (NIE: *had said Tom)" },
+      { "label": "Zdanie wprowadzające w środku cytatu", "text": "Odwrócone zdanie wprowadzające może też przerywać dłuższą wypowiedź w połowie, między dwiema jej częściami: \"I don't think,\" said Anna, \"that we have a choice.\"" }
+    ],
+    "usage": [
+      "Kontrast między nieprzechodnimi czasownikami mowy dopuszczającymi inwersję (say, reply, ask, exclaim, add) a przechodnimi wymagającymi dopełnienia osobowego (tell somebody, ask somebody)",
+      "Wzorzec przerywania dłuższej wypowiedzi zdaniem wprowadzającym w środku, typowy dla dialogów w prozie",
+      "Pozycja przysłówka lub frazy imiesłowowej po odwróconym podmiocie: \"roared the captain, pointing at the door\"",
+      "Brak inwersji przy czasownikach modalnych i w czasach złożonych zdania wprowadzającego"
+    ],
+    "tags": ["said Tom flatly", "John told her (not *told her John)", "added the manager", "interrupted Anna"],
+    "examples": [
+      { "en": "\"Never,\" said Tom flatly, without even looking up.", "pl": "\"Nigdy\" — powiedział Tom bez ogródek, nawet nie podnosząc wzroku." },
+      { "en": "\"I don't think,\" said Anna, \"that we have a choice.\"", "pl": "\"Nie sądzę\" — powiedziała Anna — \"żebyśmy mieli wybór.\"" },
+      { "en": "John told her that he would be late, as usual.", "pl": "John powiedział jej, że jak zwykle się spóźni." },
+      { "en": "\"Get out!\" roared the captain, pointing at the door.", "pl": "\"Wynocha!\" — ryknął kapitan, wskazując na drzwi." }
+    ]
+  }
+]

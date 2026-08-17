@@ -1382,5 +1382,13 @@
     "desc": "all the more, none the less, none too — jak „the” wzmacnia lub neguje przymiotnik w stopniu wyższym w reakcji na przyczynę — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40,
     "level": "c1"
+  },
+  {
+    "id": "quotative_inversion",
+    "icon": "🎤",
+    "title": "Inwersja cytacyjna",
+    "desc": "Szyk „said Tom” po cytacie — kiedy podmiot rzeczownikowy pozwala na inwersję, dlaczego zaimki jej nie dopuszczają i jakie są ograniczenia — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "c1"
   }
 ]
