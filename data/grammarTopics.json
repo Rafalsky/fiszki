@@ -1358,5 +1358,13 @@
     "desc": "Formalne be + to-infinitive: instrukcje i rozkazy (are to wear), oficjalne ustalenia i zapowiedzi (is to visit, is to be built), warunek konieczny (if we are to succeed) i formalny zakaz (are not to touch). Teoria, ćwiczenia z lukami i testy.",
     "drillCount": 40,
     "level": "b2"
+  },
+  {
+    "id": "pseudo_coordination",
+    "icon": "👣",
+    "title": "Pseudo-koordynacja z „and”",
+    "desc": "try and, go and, nice and warm — kiedy „and” łączy dwa czasowniki lub przymiotniki jako jedną czynność albo wzmocnioną cechę, a nie dwie osobne — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "c1"
   }
 ]

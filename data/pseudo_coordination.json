@@ -1,0 +1,74 @@
+[
+  {
+    "id": "go_come_try_and",
+    "order": 1,
+    "nameEn": "Pseudo-coordination with go / come / try + and",
+    "namePl": "Pseudo-koordynacja go / come / try + and",
+    "rules": [
+      { "label": "Definicja", "text": "pseudo-koordynacja to konstrukcja, w której 'and' formalnie łączy dwa czasowniki (jak w zwykłej koordynacji), ale całość funkcjonuje jak JEDEN czasownik złożony, a nie dwie osobne czynności: try and finish it = 'spróbuj to skończyć' (nie: 'spróbuj, A POTEM skończ')." },
+      { "label": "Test na pseudo-koordynację", "text": "prawdziwej koordynacji (he tried and succeeded) nie da się zastąpić bezokolicznikiem z 'to' bez zmiany sensu, a pseudo-koordynację (try and finish it) tak — jest ona semantycznie równoważna 'try to finish it'. To najprostszy test odróżniający oba zjawiska." },
+      { "label": "Ograniczenia gramatyczne", "text": "pseudo-koordynacja występuje tylko z go, come, try (rzadziej stay, wait) w formie podstawowej — NIE w czasie przeszłym ani z -s w 3. os. lp.: poprawnie Try and finish it. / He'll try and finish it., ale w Past Simple i po he/she/it wymagane jest 'to': He tried to finish it. (nie: *He tried and finished it. w znaczeniu zamiaru), She tries to help. (nie: *She tries and helps.)" }
+    ],
+    "usage": [
+      "Polecenia i propozycje w trybie rozkazującym: Go and see who's at the door. / Come and join us. / Try and get some sleep.",
+      "Po will/would/can/could + go/come/try: I'll go and check. / Could you come and help me?",
+      "Rejestr: nieformalny, typowy dla mowy potocznej brytyjskiej — w piśmie formalnym używa się bezokolicznika z to (go to check, try to finish)",
+      "Nie w przeczeniu z don't przy try: Don't try and stop me. jest naturalne, ale formalniej Don't try to stop me."
+    ],
+    "tags": ["try and", "go and see", "come and join", "pseudo-coordination", "wait and see"],
+    "examples": [
+      { "en": "Go and see who's at the door.", "pl": "Idź zobaczyć, kto jest przy drzwiach." },
+      { "en": "Why don't you come and stay with us next weekend?", "pl": "Czemu nie przyjedziesz i nie zostaniesz u nas w przyszły weekend?" },
+      { "en": "I'll try and finish the report by Friday.", "pl": "Spróbuję skończyć raport do piątku." },
+      { "en": "Come and see this — you won't believe it.", "pl": "Chodź to zobaczyć — nie uwierzysz." }
+    ]
+  },
+  {
+    "id": "wait_and_see",
+    "order": 2,
+    "nameEn": "Fixed pseudo-coordinate idioms: wait and see, be sure and…",
+    "namePl": "Utrwalone idiomy pseudo-koordynacyjne: wait and see, be sure and…",
+    "rules": [
+      { "label": "Zleksykalizowane pary", "text": "niektóre pary czasownikowe z pseudo-koordynacją stały się w pełni utrwalonymi idiomami, które traktuje się jako jedną jednostkę słownikową: wait and see (poczekać z ciekawością na rozwój wydarzeń), be sure and (nie zapomnieć), mind and (uważać, żeby)." },
+      { "label": "Be sure and vs be sure to", "text": "be sure and lock the door i be sure to lock the door znaczą to samo ('koniecznie zamknij drzwi'), ale be sure and jest bardziej potoczne i typowe dla poleceń wypowiadanych na głos, a be sure to jest neutralne stylistycznie i częstsze w piśmie." },
+      { "label": "Brak nominalizacji i strony biernej", "text": "pseudo-koordynowanej pary nie da się przekształcić w rzeczownik odczasownikowy ani w stronę bierną tak, jak zrobiłoby się to ze zwykłym bezokolicznikiem: *trying and finishing brzmi nienaturalnie w znaczeniu zamiaru (podczas gdy trying to finish jest w pełni poprawne) — to kolejny dowód, że and nie łączy tu dwóch równorzędnych czynności." }
+    ],
+    "usage": [
+      "Cierpliwe oczekiwanie na rezultat: We'll just have to wait and see. / Wait and see what happens.",
+      "Przypomnienie/nakaz w rozkazie: Be sure and call me when you land. / Mind and lock the gate behind you.",
+      "Stały zwrot 'wait and see' może występować jako rzeczownik złożony: a wait-and-see approach.",
+      "Rejestr: potoczny, mówiony — w formalnym piśmie zastępowany przez 'to': make sure to, wait to see"
+    ],
+    "tags": ["wait and see", "be sure and", "mind and", "wait-and-see approach"],
+    "examples": [
+      { "en": "Will the plan work? We'll just have to wait and see.", "pl": "Czy plan się powiedzie? Będziemy musieli poczekać i zobaczyć." },
+      { "en": "Be sure and lock the door when you leave.", "pl": "Koniecznie zamknij drzwi, gdy będziesz wychodzić." },
+      { "en": "Mind and don't wake the baby.", "pl": "Uważaj, żeby nie obudzić dziecka." },
+      { "en": "The government has adopted a wait-and-see approach to the crisis.", "pl": "Rząd przyjął strategię wyczekiwania wobec kryzysu." }
+    ]
+  },
+  {
+    "id": "adjective_and_adjective",
+    "order": 3,
+    "nameEn": "Pseudo-coordination with adjectives: nice and…, good and…",
+    "namePl": "Pseudo-koordynacja z przymiotnikami: nice and…, good and…",
+    "rules": [
+      { "label": "Funkcja wzmacniająca", "text": "w konstrukcji przymiotnik1 + and + przymiotnik2, pierwszy przymiotnik (najczęściej nice lub good) nie opisuje osobno swojej cechy, lecz działa jak przysłówek stopnia wzmacniający drugi przymiotnik: nice and warm = 'przyjemnie ciepło', nie 'miłe i ciepłe'." },
+      { "label": "Zamknięty zbiór wzmacniaczy", "text": "tylko kilka przymiotników pełni tę funkcję wzmacniającą: nice and, good and, right and (BrE) — i tylko w połączeniu z przymiotnikiem o pozytywnym lub neutralnym znaczeniu z punktu widzenia mówiącego w danej sytuacji (nice and quiet, good and ready, ale nie *nice and awful)." },
+      { "label": "Test wzmacniacza", "text": "prawdziwa koordynacja dwóch niezależnych cech (tall and handsome) jest odwracalna (handsome and tall) bez zmiany sensu; we wzmacniającej pseudo-koordynacji (nice and warm) odwrócenie (*warm and nice) niszczy wzmacniającą funkcję pierwszego słowa i brzmi jak zwykłe wyliczenie cech." }
+    ],
+    "usage": [
+      "Pozytywna ocena stopnia/intensywności: The soup is nice and hot. / The room is nice and quiet now.",
+      "Podkreślenie pełnej gotowości/zdecydowania: He was good and ready to leave. / I'm good and tired.",
+      "Nieformalne polecenia z 'good and': Get the paint good and thick before you start.",
+      "Rejestr: wyłącznie mówiony, potoczny — nieobecny w piśmie formalnym, gdzie użyto by po prostu przysłówka (nicely warm, really ready)"
+    ],
+    "tags": ["nice and warm", "good and ready", "nice and quiet", "intensifier"],
+    "examples": [
+      { "en": "Come in, the soup is nice and hot.", "pl": "Wejdź, zupa jest przyjemnie gorąca." },
+      { "en": "The house is nice and quiet now that the kids are asleep.", "pl": "W domu jest teraz przyjemnie cicho, gdy dzieci śpią." },
+      { "en": "Make sure the paint is good and dry before you touch it.", "pl": "Upewnij się, że farba jest porządnie sucha, zanim jej dotkniesz." },
+      { "en": "I was good and tired by the time we got home.", "pl": "Byłem porządnie zmęczony, zanim dotarliśmy do domu." }
+    ]
+  }
+]
