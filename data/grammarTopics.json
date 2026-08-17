@@ -1374,5 +1374,13 @@
     "desc": "since / for / ago / it's been... / in / within — precyzyjne wyrażanie czasu: od kiedy, jak długo, ile temu i za ile — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40,
     "level": "b1"
+  },
+  {
+    "id": "intensified_comparatives",
+    "icon": "🔺",
+    "title": "All the more / none the less",
+    "desc": "all the more, none the less, none too — jak „the” wzmacnia lub neguje przymiotnik w stopniu wyższym w reakcji na przyczynę — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "c1"
   }
 ]
