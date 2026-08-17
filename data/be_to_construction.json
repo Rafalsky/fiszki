@@ -1,0 +1,98 @@
+[
+  {
+    "id": "instructions_orders",
+    "order": 1,
+    "nameEn": "be + to-infinitive — formal instructions and orders",
+    "namePl": "be + to-bezokolicznik — formalne instrukcje i rozkazy",
+    "rules": [
+      { "label": "Budowa", "text": "podmiot + be (is/are/was/were) + to-infinitive — formalny, bezosobowy sposób wydawania poleceń lub przekazywania ustalonych zasad, typowy dla regulaminów, ogłoszeń i języka wojskowego/urzędowego (All staff are to wear identification badges at all times.)" },
+      { "label": "Rejestr", "text": "znacznie bardziej formalne i stanowcze niż must/have to — sugeruje polecenie wydane 'z góry' przez jakiś autorytet (instytucję, regulamin, dowódcę), a nie osobistą opinię mówiącego" },
+      { "label": "Przeszłość", "text": "forma was/were + to-infinitive w kontekście rozkazu oznacza polecenie, które obowiązywało w przeszłości (Soldiers were to report for duty at dawn.)" }
+    ],
+    "usage": [
+      "ogłoszenia i regulaminy: instrukcje dla personelu, pasażerów, uczestników (Passengers are to remain seated during take-off.)",
+      "rozkazy wojskowe i formalne polecenia (The unit is to advance at 0600 hours.)",
+      "ścisłe zasady instytucjonalne (Students are to submit their essays by Friday.)",
+      "kontrast z must — must brzmi bardziej osobiście i bezpośrednio, be to brzmi jak cytat z regulaminu"
+    ],
+    "tags": ["are to + bezokolicznik", "is to + bezokolicznik (rozkaz)", "were to report", "formalne polecenie"],
+    "examples": [
+      { "en": "All staff are to wear identification badges at all times.", "pl": "Wszyscy pracownicy mają obowiązek nosić identyfikatory przez cały czas." },
+      { "en": "Passengers are to remain seated until the seatbelt sign is switched off.", "pl": "Pasażerowie mają obowiązek pozostać na miejscach, dopóki nie zgaśnie sygnał zapięcia pasów." },
+      { "en": "The troops were to hold their position until reinforcements arrived.", "pl": "Oddziały miały utrzymać pozycję do przybycia posiłków." },
+      { "en": "Students are to submit their essays no later than Friday.", "pl": "Studenci mają obowiązek złożyć eseje najpóźniej w piątek." }
+    ]
+  },
+  {
+    "id": "official_arrangements",
+    "order": 2,
+    "nameEn": "be + to-infinitive — official arrangements, plans and announcements",
+    "namePl": "be + to-bezokolicznik — oficjalne ustalenia, plany i zapowiedzi",
+    "rules": [
+      { "label": "Budowa", "text": "be + to-infinitive w relacjonowaniu z góry ustalonych, oficjalnych wydarzeń — typowe dla wiadomości, komunikatów prasowych i formalnych zapowiedzi (The Prime Minister is to visit Berlin next week.)" },
+      { "label": "Strona bierna", "text": "be + to be + imiesłów bierny — gdy podmiot jest odbiorcą zaplanowanego działania (The old bridge is to be demolished next month. / New taxes are to be introduced in January.)" },
+      { "label": "Kontrast z going to / present continuous", "text": "be to brzmi bardziej formalnie, oficjalnie i bezosobowo niż going to czy present continuous — typowe dla nagłówków i relacji dziennikarskich, rzadkie w mowie potocznej" }
+    ],
+    "usage": [
+      "relacjonowanie oficjalnych planów instytucji, rządów, firm (The company is to cut 200 jobs by the end of the year.)",
+      "zapowiedzi wydarzeń z ustalonym terminem (The conference is to take place in Geneva in March.)",
+      "strona bierna be to be + imiesłów dla zaplanowanych działań, których podmiot doświadcza (Several buildings are to be renovated this year.)",
+      "charakterystyczne dla nagłówków prasowych i formalnych komunikatów, rzadziej w rozmowie"
+    ],
+    "tags": ["is to visit", "are to be introduced", "the company is to", "is to take place"],
+    "examples": [
+      { "en": "The Prime Minister is to visit Berlin next week.", "pl": "Premier ma odwiedzić Berlin w przyszłym tygodniu." },
+      { "en": "New taxes are to be introduced in January.", "pl": "W styczniu mają zostać wprowadzone nowe podatki." },
+      { "en": "The old bridge is to be demolished next month.", "pl": "Stary most ma zostać wyburzony w przyszłym miesiącu." },
+      { "en": "The company is to cut 200 jobs by the end of the year.", "pl": "Firma ma zamiar zredukować 200 stanowisk do końca roku." }
+    ]
+  },
+  {
+    "id": "if_necessity",
+    "order": 3,
+    "nameEn": "If + subject + be + to-infinitive — necessity for a goal to be achieved",
+    "namePl": "If + podmiot + be + to-bezokolicznik — warunek konieczny do osiągnięcia celu",
+    "rules": [
+      { "label": "Budowa", "text": "If + podmiot + is/are/was/were + to-infinitive + zdanie główne z must/need to/have to — wskazuje, co jest konieczne, żeby coś innego się wydarzyło (If we are to meet the deadline, we must start today.)" },
+      { "label": "Znaczenie", "text": "nie chodzi o zwykły warunek przyszły, lecz o warunek konieczny/wstępny dla realizacji celu wspomnianego w zdaniu z if — 'be to' podkreśla, że cel jest z góry ustalony lub pożądany" },
+      { "label": "Wersja hipotetyczna z were", "text": "if + podmiot + were + to-infinitive w zdaniu warunkowym typu drugiego wyraża czysto hipotetyczne, mało prawdopodobne założenie (If she were to resign, the whole project would collapse.) — patrz też temat 'conditionals'" }
+    ],
+    "usage": [
+      "wyrażanie warunku koniecznego do osiągnięcia celu (If the company is to survive, it must cut costs immediately.)",
+      "formalny, pisemny styl argumentacji i esejów (If we are to understand the crisis, we need to look at its root causes.)",
+      "odróżnienie od zwykłego 'if' + present simple, które nie podkreśla konieczności (If we start today, we'll meet the deadline.)",
+      "'were to' w zdaniu podrzędnym z if jako hipotetyczne, formalne założenie (If war were to break out, millions would be affected.)"
+    ],
+    "tags": ["if we are to", "if the company is to survive", "if she were to resign", "condition of necessity"],
+    "examples": [
+      { "en": "If we are to meet the deadline, we must start today.", "pl": "Jeśli mamy dotrzymać terminu, musimy zacząć dzisiaj." },
+      { "en": "If the company is to survive, it must cut costs immediately.", "pl": "Jeśli firma ma przetrwać, musi natychmiast ciąć koszty." },
+      { "en": "If we are to understand the crisis, we need to look at its root causes.", "pl": "Jeśli mamy zrozumieć kryzys, musimy przyjrzeć się jego głównym przyczynom." },
+      { "en": "If war were to break out, millions of people would be affected.", "pl": "Gdyby wybuchła wojna, dotknęłoby to miliony ludzi." }
+    ]
+  },
+  {
+    "id": "not_to_prohibition",
+    "order": 4,
+    "nameEn": "be + not + to-infinitive — formal prohibition",
+    "namePl": "be + not + to-bezokolicznik — formalny zakaz",
+    "rules": [
+      { "label": "Budowa", "text": "podmiot + be (is/are) + not + to-infinitive — stanowczy, formalny zakaz, typowy dla regulaminów i instrukcji bezpieczeństwa (Visitors are not to touch the exhibits.)" },
+      { "label": "Rejestr", "text": "brzmi bardziej surowo i oficjalnie niż mustn't — jak cytat z tabliczki z regulaminem lub rozkazu przełożonego" },
+      { "label": "Under no circumstances", "text": "wzmocnienie zakazu przez 'under no circumstances' na początku zdania, z inwersją: Under no circumstances are staff to discuss this with the press. — patrz też temat 'inversion'" }
+    ],
+    "usage": [
+      "oficjalne zakazy w instytucjach, muzeach, na terenie zakładów pracy (Employees are not to use personal phones during working hours.)",
+      "rozkazy wojskowe i bezpieczeństwa (Under no circumstances is anyone to enter the restricted zone.)",
+      "ostrzeżenia formalne skierowane do konkretnej grupy odbiorców (Passengers are not to open the emergency exit unless instructed.)",
+      "kontrast z nieformalnym don't/mustn't, które brzmi jak zwykła prośba lub rada, a nie oficjalny zakaz"
+    ],
+    "tags": ["are not to touch", "is not to be used", "under no circumstances is", "formal prohibition"],
+    "examples": [
+      { "en": "Visitors are not to touch the exhibits.", "pl": "Zwiedzającym nie wolno dotykać eksponatów." },
+      { "en": "Employees are not to use personal phones during working hours.", "pl": "Pracownikom nie wolno używać prywatnych telefonów w godzinach pracy." },
+      { "en": "Under no circumstances are staff to discuss this matter with the press.", "pl": "Pod żadnym pozorem personel nie może omawiać tej sprawy z prasą." },
+      { "en": "This door is not to be used as a fire exit.", "pl": "Tych drzwi nie wolno używać jako wyjścia ewakuacyjnego." }
+    ]
+  }
+]

@@ -1181,5 +1181,12 @@
     "title": "Czasowniki łączące",
     "desc": "seem, appear, look, feel, taste, smell, sound, become, get, grow, turn — dopełnienie przymiotnikowe po czasownikach łączących (linking verbs), pułapka good/well i look/feel/sound + like — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "be_to_construction",
+    "icon": "🎖️",
+    "title": "Be + to-bezokolicznik",
+    "desc": "Formalne be + to-infinitive: instrukcje i rozkazy (are to wear), oficjalne ustalenia i zapowiedzi (is to visit, is to be built), warunek konieczny (if we are to succeed) i formalny zakaz (are not to touch). Teoria, ćwiczenia z lukami i testy.",
+    "drillCount": 40
   }
 ]

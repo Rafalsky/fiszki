@@ -177,6 +177,7 @@ const THEORY_URLS = {
   reflexive_verbs: new URL("../data/reflexive_verbs.json", import.meta.url),
   imperative_conditionals: new URL("../data/imperative_conditionals.json", import.meta.url),
   linking_verbs: new URL("../data/linking_verbs.json", import.meta.url),
+  be_to_construction: new URL("../data/be_to_construction.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -349,6 +350,7 @@ const DRILLS_URLS = {
   reflexive_verbs: new URL("../data/reflexive_verbsDrills.json", import.meta.url),
   imperative_conditionals: new URL("../data/imperative_conditionalsDrills.json", import.meta.url),
   linking_verbs: new URL("../data/linking_verbsDrills.json", import.meta.url),
+  be_to_construction: new URL("../data/be_to_constructionDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
