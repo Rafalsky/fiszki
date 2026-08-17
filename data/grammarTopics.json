@@ -1153,5 +1153,12 @@
     "title": "Bezokolicznik skutku",
     "desc": "To + bezokolicznik wyrażający nieoczekiwany rezultat (only to, never to) — kontrast z bezokolicznikiem celu, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "lest_fear",
+    "icon": "😨",
+    "title": "Lest / for fear that",
+    "desc": "lest oraz for fear (that) — formalne wyrażanie obawy i celu negatywnego, tryb łączący po lest — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]

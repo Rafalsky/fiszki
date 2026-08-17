@@ -1,0 +1,182 @@
+[
+  {
+    "id": "lest_purpose",
+    "order": 1,
+    "nameEn": "lest — negative purpose ('so that ... not')",
+    "namePl": "lest — cel negatywny ('żeby nie')",
+    "rules": [
+      {
+        "label": "lest = 'in order that ... not'",
+        "text": "lest wprowadza formalne zdanie celu negatywnego — mówi, czego chcemy uniknąć, i samo w sobie jest już przeczące, więc NIE dodajemy do niego 'not': He whispered lest anyone hear. (nie: lest anyone not hear)."
+      },
+      {
+        "label": "czasownik po lest",
+        "text": "W formalnym/literackim stylu po lest stoi bezokolicznik bez 'to' w formie podstawowej (subjunctive), niezależnie od osoby: lest he lose his temper, lest she forget."
+      },
+      {
+        "label": "should + bezokolicznik",
+        "text": "Alternatywna, nieco mniej archaiczna forma: lest + should + bezokolicznik — szczególnie częsta w brytyjskim angielskim formalnym: She spoke quietly lest she should wake the baby."
+      }
+    ],
+    "usage": [
+      "Cel negatywny, forma podstawowa: He kept quiet lest he reveal the secret.",
+      "Cel negatywny, ze 'should': They left early lest they should miss the train.",
+      "Formalny styl pisany — instrukcje, ostrzeżenia, teksty prawnicze: Handle with care lest the contents be damaged.",
+      "Nigdy 'lest ... not' — samo lest już niesie przeczenie."
+    ],
+    "tags": ["lest anyone hear", "lest he lose", "lest she should wake", "negative purpose"],
+    "examples": [
+      {
+        "en": "She lowered her voice lest anyone overhear their conversation.",
+        "pl": "Ściszyła głos, żeby nikt nie usłyszał ich rozmowy."
+      },
+      {
+        "en": "He double-checked the locks lest a burglar should break in.",
+        "pl": "Sprawdził zamki dwa razy, żeby złodziej się nie włamał."
+      },
+      {
+        "en": "The sign warned visitors to stay back lest they fall into the pit.",
+        "pl": "Znak ostrzegał zwiedzających, żeby się nie zbliżali, aby nie wpadli do dołu."
+      },
+      {
+        "en": "Soldiers were told to keep their heads down lest they be seen.",
+        "pl": "Żołnierzom kazano się schylać, żeby nie zostać zauważonym."
+      }
+    ]
+  },
+  {
+    "id": "lest_after_fear_verbs",
+    "order": 2,
+    "nameEn": "lest after verbs and adjectives of fear",
+    "namePl": "lest po czasownikach i przymiotnikach obawy",
+    "rules": [
+      {
+        "label": "afraid / worried / anxious + lest",
+        "text": "lest często wprowadza obawianą treść po be afraid, be worried, be anxious, fear — zastępuje wtedy 'that ... might/would': He was afraid lest he should be late."
+      },
+      {
+        "label": "fear (czasownik) + lest",
+        "text": "Po czasowniku fear lest brzmi bardzo formalnie/literacko i podkreśla, że obawa dotyczy czegoś, czemu chcemy zapobiec: She feared lest her plan should fail."
+      },
+      {
+        "label": "kontrast z that",
+        "text": "Zwykłe, współczesne zdanie użyłoby 'that ... might/would' zamiast lest — lest jest wybieralnym, bardziej podniosłym wariantem tej samej treści: She was afraid that her plan might fail. ≈ She was afraid lest her plan should fail."
+      }
+    ],
+    "usage": [
+      "Po be afraid: I was afraid lest I should say something wrong.",
+      "Po be anxious: They were anxious lest the news should leak out.",
+      "Po fear: He feared lest his absence be noticed.",
+      "Styl formalny/literacki — w mowie codziennej naturalniejsze jest 'worried that ... might'."
+    ],
+    "tags": ["afraid lest", "anxious lest", "fear lest", "worried that ... might"],
+    "examples": [
+      {
+        "en": "She was afraid lest her secret should come out.",
+        "pl": "Bała się, że jej sekret może wyjść na jaw."
+      },
+      {
+        "en": "He fears lest the negotiations collapse at the last moment.",
+        "pl": "Obawia się, że negocjacje załamią się w ostatniej chwili."
+      },
+      {
+        "en": "The committee was anxious lest the delay should damage its reputation.",
+        "pl": "Komitet obawiał się, że opóźnienie może zaszkodzić jego reputacji."
+      },
+      {
+        "en": "I hesitated to speak lest I should offend someone.",
+        "pl": "Wahałem się, czy się odezwać, żeby kogoś nie urazić."
+      }
+    ]
+  },
+  {
+    "id": "for_fear_that",
+    "order": 3,
+    "nameEn": "for fear (that) — plain synonym of lest",
+    "namePl": "for fear (that) — prostszy odpowiednik lest",
+    "rules": [
+      {
+        "label": "for fear (that) = lest",
+        "text": "for fear (that) wyraża dokładnie to samo co lest — obawę przed czymś, czemu chcemy zapobiec — ale jest mniej archaiczne i częstsze we współczesnym angielskim pisanym."
+      },
+      {
+        "label": "czasownik po for fear that",
+        "text": "Po for fear that używamy zwykłego czasu (present/past) lub would/might — NIE formy podstawowej (subjunctive) jak po lest: He didn't tell her, for fear that she would worry."
+      },
+      {
+        "label": "for fear of + rzeczownik/gerund",
+        "text": "Bez 'that' for fear łączy się z rzeczownikiem lub gerundem (-ing) jak przyimek: He never went out at night, for fear of being robbed."
+      }
+    ],
+    "usage": [
+      "for fear that + would/might: She kept the window shut, for fear that a burglar would get in.",
+      "for fear of + gerund: He avoided the topic, for fear of upsetting her.",
+      "for fear of + rzeczownik: They stayed silent for fear of punishment.",
+      "Neutralniejszy rejestr niż lest, ale wciąż formalny/pisany."
+    ],
+    "tags": ["for fear that", "for fear of", "for fear of being", "would/might"],
+    "examples": [
+      {
+        "en": "He locked the door twice, for fear that someone might break in.",
+        "pl": "Zamknął drzwi dwa razy, w obawie, że ktoś może się włamać."
+      },
+      {
+        "en": "She never mentioned the accident, for fear of upsetting her parents.",
+        "pl": "Nigdy nie wspominała o wypadku, obawiając się zdenerwować rodziców."
+      },
+      {
+        "en": "They avoided the forest at night, for fear of getting lost.",
+        "pl": "Unikali lasu nocą, w obawie, że się zgubią."
+      },
+      {
+        "en": "He kept the news to himself, for fear that it would cause panic.",
+        "pl": "Zatrzymał wiadomość dla siebie, w obawie, że wywoła panikę."
+      }
+    ]
+  },
+  {
+    "id": "lest_register",
+    "order": 4,
+    "nameEn": "lest — register and common confusions",
+    "namePl": "lest — rejestr i typowe błędy",
+    "rules": [
+      {
+        "label": "wysoki rejestr",
+        "text": "lest brzmi archaicznie i podniośle — typowe dla tekstów prawniczych, religijnych, literackich i formalnych ostrzeżeń; w codziennej rozmowie zastępowane przez in case / so that ... don't / for fear that."
+      },
+      {
+        "label": "lest ≠ in case",
+        "text": "in case przygotowuje na ewentualność ('na wypadek, gdyby'), a lest wyraża obawę i cel unikania czegoś ('żeby nie') — I took an umbrella in case it rained (przygotowanie) vs He hid lest he be seen (unikanie)."
+      },
+      {
+        "label": "brak 'not' i brak 'to'",
+        "text": "Dwa najczęstsze błędy: dodawanie zbędnego 'not' po lest (lest he not come ✗) oraz dodawanie 'to' przed czasownikiem (lest to fail ✗) — poprawnie: lest he come, lest he fail."
+      }
+    ],
+    "usage": [
+      "Tekst prawniczy/ostrzeżenie: Keep out of reach of children lest they swallow the tablets.",
+      "in case (przygotowanie) vs lest (unikanie): Take a coat in case it's cold. / He whispered lest he wake the baby.",
+      "Błąd: lest he not forget ✗ → poprawnie: lest he forget.",
+      "Błąd: lest to be late ✗ → poprawnie: lest he be late."
+    ],
+    "tags": ["formal register", "lest vs in case", "no 'not' after lest", "no 'to' after lest"],
+    "examples": [
+      {
+        "en": "Handle the parcel carefully lest the contents break.",
+        "pl": "Obchodź się z paczką ostrożnie, żeby zawartość się nie stłukła."
+      },
+      {
+        "en": "He took a spare key in case he lost the original, and hid it lest a stranger find it.",
+        "pl": "Wziął zapasowy klucz na wypadek, gdyby zgubił oryginał, i schował go, żeby obcy go nie znalazł."
+      },
+      {
+        "en": "Speak softly lest you wake the whole house.",
+        "pl": "Mów cicho, żeby nie obudzić całego domu."
+      },
+      {
+        "en": "The old warning still reads: 'Beware lest ye stumble.'",
+        "pl": "Stare ostrzeżenie wciąż brzmi: „Uważaj, byś się nie potknął”."
+      }
+    ]
+  }
+]
