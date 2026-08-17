@@ -336,6 +336,13 @@
     "drillCount": 40
   },
   {
+    "id": "postponed_relative_clauses",
+    "icon": "⏸️",
+    "title": "Odsunięte zdania względne",
+    "desc": "A man walked in who I'd never seen before — zdania względne odsunięte od poprzednika na koniec zdania przez zasadę end-weight, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
+  },
+  {
     "id": "ing_ed_adjectives",
     "icon": "😲",
     "title": "Przymiotniki -ing i -ed",
