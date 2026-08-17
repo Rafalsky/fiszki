@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "itemId": "linking_verb_adjective",
+    "prompt": "This soup tastes ___ . (DELICIOUS)",
+    "answer": "delicious",
+    "distractors": ["deliciously", "delicate", "deliciousness"]
+  },
+  {
+    "id": 2,
+    "itemId": "linking_verb_adjective",
+    "prompt": "She seemed ___ before the interview. (NERVOUS)",
+    "answer": "nervous",
+    "distractors": ["nervously", "nervousness", "nerve"]
+  },
+  {
+    "id": 3,
+    "itemId": "linking_verb_adjective",
+    "prompt": "The plan proved ___ . (SUCCESSFUL)",
+    "answer": "successful",
+    "distractors": ["successfully", "success", "succeed"]
+  },
+  {
+    "id": 4,
+    "itemId": "linking_verb_adjective",
+    "prompt": "He looked ___ after the long flight. (TIRED)",
+    "answer": "tired",
+    "distractors": ["tiredly", "tiring", "tiredness"]
+  },
+  {
+    "id": 5,
+    "itemId": "linking_verb_adjective",
+    "prompt": "The milk has gone ___ . (SOUR)",
+    "answer": "sour",
+    "distractors": ["sourly", "souring", "sourness"]
+  },
+  {
+    "id": 6,
+    "itemId": "linking_verb_adjective",
+    "prompt": "Her voice sounded ___ on the phone. (STRANGE)",
+    "answer": "strange",
+    "distractors": ["strangely", "stranger", "strangeness"]
+  },
+  {
+    "id": 7,
+    "itemId": "linking_verb_adjective",
+    "prompt": "The instructions seem ___ to me. (CLEAR)",
+    "answer": "clear",
+    "distractors": ["clearly", "clarity", "cleared"]
+  },
+  {
+    "id": 8,
+    "itemId": "linking_verb_adjective",
+    "prompt": "This fabric feels ___ . (SOFT)",
+    "answer": "soft",
+    "distractors": ["softly", "softness", "softened"]
+  },
+  {
+    "id": 9,
+    "itemId": "linking_verb_adjective",
+    "prompt": "The negotiations remained ___ for weeks. (TENSE)",
+    "answer": "tense",
+    "distractors": ["tensely", "tension", "tensed"]
+  },
+  {
+    "id": 10,
+    "itemId": "linking_verb_adjective",
+    "prompt": "His explanation appeared ___ at first. (CONVINCING)",
+    "answer": "convincing",
+    "distractors": ["convincingly", "convince", "conviction"]
+  },
+  {
+    "id": 11,
+    "itemId": "good_well",
+    "prompt": "This cake tastes really ___ . (GOOD)",
+    "answer": "good",
+    "distractors": ["well", "goodly", "best"]
+  },
+  {
+    "id": 12,
+    "itemId": "good_well",
+    "prompt": "He plays the piano extremely ___ . (WELL)",
+    "answer": "well",
+    "distractors": ["good", "gooder", "goodness"]
+  },
+  {
+    "id": 13,
+    "itemId": "good_well",
+    "prompt": "You don't look ___ today — go home and rest. (WELL)",
+    "answer": "well",
+    "distractors": ["good", "goodly", "best"]
+  },
+  {
+    "id": 14,
+    "itemId": "good_well",
+    "prompt": "Everything smells ___ in this bakery. (GOOD)",
+    "answer": "good",
+    "distractors": ["well", "goodly", "greatly"]
+  },
+  {
+    "id": 15,
+    "itemId": "good_well",
+    "prompt": "She did ___ on her final exams. (WELL)",
+    "answer": "well",
+    "distractors": ["good", "gooder", "goodness"]
+  },
+  {
+    "id": 16,
+    "itemId": "good_well",
+    "prompt": "I feel ___ about my decision to quit. (GOOD)",
+    "answer": "good",
+    "distractors": ["well", "goodly", "best"]
+  },
+  {
+    "id": 17,
+    "itemId": "good_well",
+    "prompt": "He hasn't been feeling ___ since Monday. (WELL)",
+    "answer": "well",
+    "distractors": ["good", "goodly", "better"]
+  },
+  {
+    "id": 18,
+    "itemId": "good_well",
+    "prompt": "This restaurant's food always tastes ___ . (GOOD)",
+    "answer": "good",
+    "distractors": ["well", "goodly", "greatly"]
+  },
+  {
+    "id": 19,
+    "itemId": "good_well",
+    "prompt": "The team worked ___ together under pressure. (WELL)",
+    "answer": "well",
+    "distractors": ["good", "gooder", "goodness"]
+  },
+  {
+    "id": 20,
+    "itemId": "good_well",
+    "prompt": "Everything turned out ___ in the end. (WELL)",
+    "answer": "well",
+    "distractors": ["good", "goodly", "best"]
+  },
+  {
+    "id": 21,
+    "itemId": "look_feel_sound_like",
+    "prompt": "You look ___ your mother. (LIKE)",
+    "answer": "like",
+    "distractors": ["as", "alike", "same"]
+  },
+  {
+    "id": 22,
+    "itemId": "look_feel_sound_like",
+    "prompt": "It sounds ___ a fantastic idea. (LIKE)",
+    "answer": "like",
+    "distractors": ["as", "alike", "such"]
+  },
+  {
+    "id": 23,
+    "itemId": "look_feel_sound_like",
+    "prompt": "I feel ___ I've made a huge mistake. (LIKE)",
+    "answer": "like",
+    "distractors": ["as", "alike", "such"]
+  },
+  {
+    "id": 24,
+    "itemId": "look_feel_sound_like",
+    "prompt": "It looks ___ nobody is home. (LIKE)",
+    "answer": "like",
+    "distractors": ["as", "alike", "such"]
+  },
+  {
+    "id": 25,
+    "itemId": "look_feel_sound_like",
+    "prompt": "This place smells ___ freshly baked bread. (LIKE)",
+    "answer": "like",
+    "distractors": ["as", "alike", "such"]
+  },
+  {
+    "id": 26,
+    "itemId": "look_feel_sound_like",
+    "prompt": "She seems ___ a very reliable person. (LIKE)",
+    "answer": "like",
+    "distractors": ["as", "alike", "such"]
+  },
+  {
+    "id": 27,
+    "itemId": "look_feel_sound_like",
+    "prompt": "That noise sounds ___ a car engine failing. (LIKE)",
+    "answer": "like",
+    "distractors": ["as", "alike", "such"]
+  },
+  {
+    "id": 28,
+    "itemId": "look_feel_sound_like",
+    "prompt": "It feels ___ we've known each other for years. (LIKE)",
+    "answer": "like",
+    "distractors": ["as", "alike", "such"]
+  },
+  {
+    "id": 29,
+    "itemId": "look_feel_sound_like",
+    "prompt": "The sky looks ___ it might snow tonight. (LIKE)",
+    "answer": "like",
+    "distractors": ["as", "alike", "such"]
+  },
+  {
+    "id": 30,
+    "itemId": "look_feel_sound_like",
+    "prompt": "He looks ___ his older brother, doesn't he? (LIKE)",
+    "answer": "like",
+    "distractors": ["as", "alike", "such"]
+  },
+  {
+    "id": 31,
+    "itemId": "become_get_turn_grow",
+    "prompt": "It's ___ dark outside. (GET)",
+    "answer": "getting",
+    "distractors": ["becoming", "turning", "growing"]
+  },
+  {
+    "id": 32,
+    "itemId": "become_get_turn_grow",
+    "prompt": "She ___ increasingly nervous before the exam. (GROW)",
+    "answer": "grew",
+    "distractors": ["became", "turned", "got"]
+  },
+  {
+    "id": 33,
+    "itemId": "become_get_turn_grow",
+    "prompt": "The sky suddenly ___ grey before the storm. (TURN)",
+    "answer": "turned",
+    "distractors": ["became", "grew", "got"]
+  },
+  {
+    "id": 34,
+    "itemId": "become_get_turn_grow",
+    "prompt": "He ___ a professional footballer at the age of eighteen. (BECOME)",
+    "answer": "became",
+    "distractors": ["got", "turned", "grew"]
+  },
+  {
+    "id": 35,
+    "itemId": "become_get_turn_grow",
+    "prompt": "My grandmother is ___ quite forgetful these days. (GET)",
+    "answer": "getting",
+    "distractors": ["becoming", "turning", "growing"]
+  },
+  {
+    "id": 36,
+    "itemId": "become_get_turn_grow",
+    "prompt": "The leaves ___ bright orange every October. (TURN)",
+    "answer": "turn",
+    "distractors": ["become", "get", "grow"]
+  },
+  {
+    "id": 37,
+    "itemId": "become_get_turn_grow",
+    "prompt": "It's important not to ___ too dependent on caffeine. (GET)",
+    "answer": "get",
+    "distractors": ["become", "turn", "grow"]
+  },
+  {
+    "id": 38,
+    "itemId": "become_get_turn_grow",
+    "prompt": "As the years passed, their friendship ___ stronger. (GROW)",
+    "answer": "grew",
+    "distractors": ["became", "got", "turned"]
+  },
+  {
+    "id": 39,
+    "itemId": "become_get_turn_grow",
+    "prompt": "The negotiations ___ increasingly tense overnight. (BECOME)",
+    "answer": "became",
+    "distractors": ["got", "turned", "grew"]
+  },
+  {
+    "id": 40,
+    "itemId": "become_get_turn_grow",
+    "prompt": "Don't worry, it will all ___ clear eventually. (BECOME)",
+    "answer": "become",
+    "distractors": ["get", "turn", "grow"]
+  }
+]

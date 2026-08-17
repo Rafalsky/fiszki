@@ -176,6 +176,7 @@ const THEORY_URLS = {
   lest_fear: new URL("../data/lest_fear.json", import.meta.url),
   reflexive_verbs: new URL("../data/reflexive_verbs.json", import.meta.url),
   imperative_conditionals: new URL("../data/imperative_conditionals.json", import.meta.url),
+  linking_verbs: new URL("../data/linking_verbs.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -347,6 +348,7 @@ const DRILLS_URLS = {
   lest_fear: new URL("../data/lest_fearDrills.json", import.meta.url),
   reflexive_verbs: new URL("../data/reflexive_verbsDrills.json", import.meta.url),
   imperative_conditionals: new URL("../data/imperative_conditionalsDrills.json", import.meta.url),
+  linking_verbs: new URL("../data/linking_verbsDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

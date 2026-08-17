@@ -1,0 +1,142 @@
+[
+  {
+    "id": "linking_verb_adjective",
+    "order": 1,
+    "nameEn": "Linking verbs + adjective complement",
+    "namePl": "Czasowniki łączące + dopełnienie przymiotnikowe",
+    "rules": [
+      {
+        "label": "Zasada",
+        "text": "Po czasownikach łączących (linking verbs) opisujemy podmiot, więc używamy przymiotnika, a nie przysłówka — przysłówek opisywałby sposób wykonania czynności, a nie stan podmiotu."
+      },
+      {
+        "label": "Typowe czasowniki łączące",
+        "text": "be, seem, appear, become, get, grow, turn, remain, stay, prove, turn out, look, feel, taste, smell, sound — po nich stoi przymiotnik odnoszący się do podmiotu."
+      },
+      {
+        "label": "Te same czasowniki jako czynnościowe",
+        "text": "look, feel, taste, smell, sound bywają też czasownikami czynnościowymi — wtedy opisuje je przysłówek: He looked at her angrily (patrzył w zły sposób) vs He looked angry (wyglądał na złego)."
+      },
+      {
+        "label": "Formalne prove i turn out",
+        "text": "prove i turn out + przymiotnik znaczą 'okazać się jakiś' — nie mylić z prove something (udowodnić coś), które jest czasownikiem przechodnim."
+      }
+    ],
+    "usage": [
+      "Opis stanu, wrażenia lub zmiany stanu podmiotu bez wskazywania sposobu wykonania czynności",
+      "Rozróżnianie linking verb od czasownika czynnościowego po tym samym słowie (taste, smell, feel, look, sound)",
+      "Formalne prove i turn out jako synonimy 'okazać się' + przymiotnik"
+    ],
+    "tags": ["seem", "look", "feel", "taste", "smell", "sound", "become"],
+    "examples": [
+      { "en": "This soup tastes delicious.", "pl": "Ta zupa smakuje pysznie." },
+      { "en": "She seemed nervous before the interview.", "pl": "Wydawała się zdenerwowana przed rozmową kwalifikacyjną." },
+      { "en": "The plan proved successful.", "pl": "Plan okazał się skuteczny." },
+      { "en": "He looked tired after the long flight.", "pl": "Wyglądał na zmęczonego po długim locie." }
+    ]
+  },
+  {
+    "id": "good_well",
+    "order": 2,
+    "nameEn": "Good vs well after linking verbs",
+    "namePl": "Good vs well po czasownikach łączących",
+    "rules": [
+      {
+        "label": "Good to zawsze przymiotnik",
+        "text": "Good jest przymiotnikiem i po czasowniku łączącym opisuje podmiot: This cake tastes good. / Everything looks good."
+      },
+      {
+        "label": "Well jako przysłówek",
+        "text": "Well jest zwykle przysłówkiem opisującym sposób wykonania czynności przy czasownikach czynnościowych: She sings well. / He did well in the exam."
+      },
+      {
+        "label": "Well jako przymiotnik zdrowia",
+        "text": "Well może też być przymiotnikiem znaczącym 'zdrowy' — używamy go po czasownikach łączących, gdy mówimy konkretnie o samopoczuciu i zdrowiu: I don't feel well today. / He doesn't look well."
+      },
+      {
+        "label": "feel good vs feel well",
+        "text": "feel good to ogólne zadowolenie i dobry nastrój (I feel good about the decision), a feel well to brak choroby, zdrowie fizyczne — obu form używamy poprawnie, ale znaczą coś innego."
+      }
+    ],
+    "usage": [
+      "Opis jakości potraw, wyglądu, sytuacji — zawsze good, nie well",
+      "Opis sposobu wykonania czynności (śpiewać, grać, pracować) — well, nie good",
+      "Pytanie o zdrowie i odpowiedź na nie — feel/look well jako przymiotnik"
+    ],
+    "tags": ["good", "well", "feel well", "sings well"],
+    "examples": [
+      { "en": "This coffee smells really good.", "pl": "Ta kawa naprawdę dobrze pachnie." },
+      { "en": "He plays the guitar really well.", "pl": "Naprawdę dobrze gra na gitarze." },
+      { "en": "You don't look well — are you okay?", "pl": "Nie wyglądasz dobrze (zdrowo) — wszystko w porządku?" },
+      { "en": "Everything turned out well in the end.", "pl": "Ostatecznie wszystko dobrze się ułożyło." }
+    ]
+  },
+  {
+    "id": "look_feel_sound_like",
+    "order": 3,
+    "nameEn": "Look / feel / seem / sound + like",
+    "namePl": "Look / feel / seem / sound + like",
+    "rules": [
+      {
+        "label": "Przymiotnik vs like + rzeczownik",
+        "text": "Po look/feel/seem/sound stawiamy przymiotnik bezpośrednio (look happy), ale gdy porównujemy do rzeczownika lub osoby, potrzebujemy 'like': look like a doctor, sound like a good idea."
+      },
+      {
+        "label": "Like + zdanie",
+        "text": "'Like' może też wprowadzać całe zdanie w znaczeniu 'jakby, na to, że' — szczególnie w amerykańskim angielskim: It looks like it's going to rain. It sounds like you had a great time."
+      },
+      {
+        "label": "Bez like przed samym przymiotnikiem",
+        "text": "Nigdy nie łączymy 'like' bezpośrednio z samym przymiotnikiem — 'it looks like nice' jest błędne; poprawnie 'it looks nice' albo 'it looks like a nice place'."
+      }
+    ],
+    "usage": [
+      "Porównywanie wyglądu, brzmienia lub wrażenia do konkretnej rzeczy lub osoby",
+      "Nieformalne wprowadzanie wniosku lub przewidywania (it looks like..., it sounds like...)",
+      "Unikanie typowego błędu mieszania przymiotnika z 'like'"
+    ],
+    "tags": ["look like", "sound like", "feel like", "seem like"],
+    "examples": [
+      { "en": "You look like your older brother.", "pl": "Wyglądasz jak twój starszy brat." },
+      { "en": "It sounds like a fantastic idea.", "pl": "To brzmi jak fantastyczny pomysł." },
+      { "en": "I feel like I've made a huge mistake.", "pl": "Czuję, jakbym popełnił ogromny błąd." },
+      { "en": "It looks like nobody is home.", "pl": "Wygląda na to, że nikogo nie ma w domu." }
+    ]
+  },
+  {
+    "id": "become_get_turn_grow",
+    "order": 4,
+    "nameEn": "Become / get / turn / grow — verbs of change",
+    "namePl": "Become / get / turn / grow — czasowniki zmiany stanu",
+    "rules": [
+      {
+        "label": "Become — neutralne i uniwersalne",
+        "text": "Become to najbardziej uniwersalny i formalny czasownik zmiany stanu, łączy się z przymiotnikiem lub rzeczownikiem: become famous, become a teacher."
+      },
+      {
+        "label": "Get — potoczny odpowiednik, tylko z przymiotnikiem",
+        "text": "Get jest nieformalnym odpowiednikiem become, ale w znaczeniu 'stać się' łączy się wyłącznie z przymiotnikiem, nie rzeczownikiem: get angry, get dark (nie 'get a teacher' w tym znaczeniu)."
+      },
+      {
+        "label": "Grow — zmiana stopniowa",
+        "text": "Grow podkreśla powolną, stopniową zmianę, często z uczuciami i wiekiem: grow old, grow tired, grow fond of somebody."
+      },
+      {
+        "label": "Turn — zmiana nagła lub całkowita",
+        "text": "Turn sugeruje nagłą lub wyraźną zmianę, zwłaszcza kolorów, pogody i przekonań: turn red, turn cold, turn professional."
+      }
+    ],
+    "usage": [
+      "Opisywanie procesu zmiany stanu, nastroju, wyglądu lub statusu",
+      "Dobór odpowiedniego czasownika zależnie od tempa i charakteru zmiany",
+      "Rozróżnianie get + przymiotnik od get + rzeczownik (inne znaczenie: otrzymać)"
+    ],
+    "tags": ["become", "get", "grow", "turn", "change of state"],
+    "examples": [
+      { "en": "It's getting dark outside.", "pl": "Robi się ciemno na zewnątrz." },
+      { "en": "She grew increasingly anxious as the deadline approached.", "pl": "Stawała się coraz bardziej niespokojna w miarę zbliżania się terminu." },
+      { "en": "The weather suddenly turned cold.", "pl": "Pogoda nagle zrobiła się zimna." },
+      { "en": "He became the youngest CEO in the company's history.", "pl": "Został najmłodszym CEO w historii firmy." }
+    ]
+  }
+]
