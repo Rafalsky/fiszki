@@ -1,0 +1,99 @@
+[
+  {
+    "id": "fronted_clause_cataphora",
+    "order": 1,
+    "nameEn": "Cataphoric pronoun reference in fronted subordinate clauses (When he arrived, John was exhausted.)",
+    "namePl": "Kataforyczne odniesienie zaimka w zdaniu podrzędnym na początku (When he arrived, John was exhausted.)",
+    "rules": [
+      { "label": "Kierunek", "text": "zaimek (he, she, it, they...) pojawia się w zdaniu PRZED rzeczownikiem, do którego się odnosi (antecedentem) — to katafora, odwrotność zwykłej, dużo częstszej anafory (rzeczownik → zaimek)" },
+      { "label": "Warunek", "text": "katafora tego typu jest naturalna tylko wtedy, gdy zaimek znajduje się w zdaniu PODRZĘDNYM (czasowym, warunkowym, przyczynowym, ustępstwa) poprzedzającym zdanie GŁÓWNE, które zawiera pełny rzeczownik: When he arrived, John... / Before she spoke, Anna... / Although he was tired, Marek..." },
+      { "label": "Bez inwersji szyku", "text": "obie klauzule nie mogą zamienić się miejscami bez zmiany interpretacji — John was exhausted when he arrived. nadal działa (anafora w zdaniu głównym-podrzędnym), ale *He was exhausted when John arrived. sprawia, że 'he' i 'John' to już dwie różne osoby, bo zaimek jest teraz w zdaniu głównym, nie podrzędnym" }
+    ],
+    "usage": [
+      "When he finally arrived, John apologised to everyone. — 'he' = 'John', bo zaimek jest w zdaniu podrzędnym poprzedzającym",
+      "Although she was terrified, Anna walked onto the stage. — katafora ze zdaniem ustępstwa",
+      "Before it even started raining, Tom had packed up his stall. — katafora ze zdaniem czasowym",
+      "If he wins the appeal, the defendant will be released immediately. — katafora ze zdaniem warunkowym"
+    ],
+    "tags": ["When he...John", "Although she...Anna", "Before it...Tom", "If he...the defendant"],
+    "examples": [
+      { "en": "When he finally arrived, John apologised to everyone.", "pl": "Gdy w końcu przyjechał, John przeprosił wszystkich." },
+      { "en": "Although she was terrified, Anna walked onto the stage.", "pl": "Chociaż była przerażona, Anna weszła na scenę." },
+      { "en": "Before it even started raining, Tom had packed up his stall.", "pl": "Zanim jeszcze zaczęło padać, Tom zwinął swoje stoisko." },
+      { "en": "If he wins the appeal, the defendant will be released immediately.", "pl": "Jeśli wygra apelację, oskarżony zostanie natychmiast zwolniony." }
+    ]
+  },
+  {
+    "id": "cataphoric_this",
+    "order": 2,
+    "nameEn": "Forward-pointing 'this' / 'these' (Bear this in mind: the deadline is Friday.)",
+    "namePl": "Zapowiadające 'this' / 'these' (Bear this in mind: the deadline is Friday.)",
+    "rules": [
+      { "label": "Budowa", "text": "'this'/'these' zapowiada treść, która dopiero zostanie podana — zwykle po dwukropku, w kolejnym zdaniu lub w tej samej klauzuli zakończonej wyjaśnieniem" },
+      { "label": "Funkcja", "text": "sygnalizuje słuchaczowi/czytelnikowi, że nadchodzi ważna informacja, i skupia na niej uwagę — częste w mowie formalnej, instrukcjach, prezentacjach i pisaniu akademickim" },
+      { "label": "Kontrast z 'that'", "text": "'this' wskazuje NAPRZÓD (katafora) — 'that' niemal zawsze wskazuje WSTECZ (anafora), do czegoś już powiedzianego: Consider this: sales fell 20%. vs Sales fell 20%. That was unexpected." }
+    ],
+    "usage": [
+      "Bear this in mind: the deadline is Friday, not Monday. — zapowiedź ważnej informacji",
+      "Let me put it this way: we simply cannot afford it. — zapowiedź sformułowania/wyjaśnienia",
+      "The rule is this: never sign a contract you haven't read. — zapowiedź zasady",
+      "Consider these facts: unemployment is rising and wages are falling. — zapowiedź listy faktów"
+    ],
+    "tags": ["Bear this in mind", "put it this way", "The rule is this", "Consider these facts"],
+    "examples": [
+      { "en": "Bear this in mind: the deadline is Friday, not Monday.", "pl": "Miej to na uwadze: termin to piątek, nie poniedziałek." },
+      { "en": "Let me put it this way: we simply cannot afford it.", "pl": "Ujmę to tak: po prostu nas na to nie stać." },
+      { "en": "The rule is this: never sign a contract you haven't read.", "pl": "Zasada jest taka: nigdy nie podpisuj umowy, której nie przeczytałeś." },
+      { "en": "Consider these facts: unemployment is rising and wages are falling.", "pl": "Rozważ te fakty: bezrobocie rośnie, a płace spadają." }
+    ]
+  },
+  {
+    "id": "narrative_cataphora",
+    "order": 3,
+    "nameEn": "Narrative cataphora for suspense (He never looked back. James walked out of the office for the last time.)",
+    "namePl": "Narracyjna katafora budująca napięcie (He never looked back. James walked out of the office for the last time.)",
+    "rules": [
+      { "label": "Efekt stylistyczny", "text": "autor celowo otwiera opowiadanie, artykuł lub akapit zaimkiem, zanim ujawni, o kim mowa — czytelnik poznaje działanie/emocję postaci, zanim pozna jej tożsamość, co buduje ciekawość i tempo" },
+      { "label": "Zasięg", "text": "w odróżnieniu od katafory wewnątrzzdaniowej, ten typ często rozciąga się na kilka zdań, a nawet cały akapit, zanim pojawi się pełny rzeczownik (imię, tytuł, opis)" },
+      { "label": "Rejestr", "text": "typowe dla prozy literackiej, felietonów i leadów dziennikarskich — w tekście czysto informacyjnym (np. w raporcie biznesowym) taka zwłoka w podaniu tożsamości byłaby myląca, a nie tylko stylistyczna" }
+    ],
+    "usage": [
+      "He never looked back. James walked out of the office for the last time. — zaimek buduje napięcie przed ujawnieniem imienia",
+      "She had known for weeks. Still, when the letter came, Sarah's hands shook. — opóźnione ujawnienie tożsamości",
+      "It had been following him for miles. Only now did the hiker realise it was a wolf. — katafora z 'it' odsłaniająca zagrożenie stopniowo",
+      "They said it would never happen. On Tuesday, the two rival companies announced a merger. — zapowiedź niespodziewanej informacji"
+    ],
+    "tags": ["He never...James", "Sarah's hands shook", "the hiker realised", "the two rival companies"],
+    "examples": [
+      { "en": "He never looked back. James walked out of the office for the last time.", "pl": "Nigdy się nie obejrzał. James wyszedł z biura po raz ostatni." },
+      { "en": "She had known for weeks. Still, when the letter came, Sarah's hands shook.", "pl": "Wiedziała od tygodni. A jednak, gdy list nadszedł, ręce Sary zadrżały." },
+      { "en": "It had been following him for miles. Only now did the hiker realise it was a wolf.", "pl": "Śledziło go od wielu mil. Dopiero teraz turysta zrozumiał, że to wilk." },
+      { "en": "They said it would never happen. On Tuesday, the two rival companies announced a merger.", "pl": "Mówiono, że to się nigdy nie stanie. We wtorek dwie rywalizujące firmy ogłosiły fuzję." }
+    ]
+  },
+  {
+    "id": "anaphora_cataphora_contrast",
+    "order": 4,
+    "nameEn": "Anaphora vs cataphora: when backward reference is the only option",
+    "namePl": "Anafora a katafora: kiedy odniesienie wsteczne jest jedyną możliwością",
+    "rules": [
+      { "label": "Domyślny kierunek", "text": "anafora (zaimek odsyła WSTECZ do wcześniej wspomnianego rzeczownika) jest niemarkowanym, domyślnym wzorcem w angielszczyźnie — katafora to wyjątek dopuszczalny tylko w konkretnych konstrukcjach" },
+      { "label": "Zdania współrzędne blokują kataforę", "text": "w dwóch zdaniach połączonych 'and'/'but' (współrzędnie, nie podrzędnie) zaimek w pierwszym zdaniu NIE może odnosić się do rzeczownika w drugim: *He smiled, and John left. — 'he' i 'John' muszą tu być różnymi osobami; poprawnie: John smiled, and he left." },
+      { "label": "Zdanie główne blokuje kataforę", "text": "gdy zaimek znajduje się w zdaniu GŁÓWNYM, a rzeczownik dopiero w zdaniu podrzędnym, które po nim następuje, odniesienie wsteczne jest niemożliwe: He apologised when John arrived. oznacza, że 'he' to ktoś inny niż John — dla katafory zdanie podrzędne z zaimkiem musi poprzedzać zdanie główne z rzeczownikiem" },
+      { "label": "Praktyczna reguła", "text": "katafora działa tylko wtedy, gdy klauzula z zaimkiem jest PODRZĘDNA wobec klauzuli z pełnym rzeczownikiem i ją POPRZEDZA; w każdym innym układzie (współrzędność, zaimek w zdaniu głównym) obowiązuje zwykła anafora" }
+    ],
+    "usage": [
+      "When he arrived, John was tired. (katafora — poprawnie) vs He arrived, and John was tired. (anafora wymagana, 'he'≠John)",
+      "Because she was late, Emma missed the train. (katafora — poprawnie)",
+      "Emma was late, so she missed the train. (tylko anafora — 'she'=Emma, bo zdania są współrzędne)",
+      "He was late when Marek's train arrived. (tylko anafora — 'he'≠Marek, bo zaimek jest w zdaniu głównym)"
+    ],
+    "tags": ["When he...John (OK)", "He...and John (blocked)", "coordinate clauses", "pronoun in main clause"],
+    "examples": [
+      { "en": "When he arrived, John apologised at once — but he arrived late, and John was already angry.", "pl": "Gdy przyjechał, John od razu przeprosił — ale przyjechał późno, a John był już zły." },
+      { "en": "Because she was late, Emma missed the train.", "pl": "Ponieważ się spóźniła, Emma nie zdążyła na pociąg." },
+      { "en": "Emma was late, so she missed the train.", "pl": "Emma się spóźniła, więc nie zdążyła na pociąg." },
+      { "en": "He was already on stage when Marek's name was announced.", "pl": "Był już na scenie, gdy ogłoszono nazwisko Marka." }
+    ]
+  }
+]
