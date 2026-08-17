@@ -172,6 +172,7 @@ const THEORY_URLS = {
   negative_questions: new URL("../data/negative_questions.json", import.meta.url),
   extraposition: new URL("../data/extraposition.json", import.meta.url),
   postponed_relative_clauses: new URL("../data/postponed_relative_clauses.json", import.meta.url),
+  result_infinitive: new URL("../data/result_infinitive.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -339,6 +340,7 @@ const DRILLS_URLS = {
   negative_questions: new URL("../data/negative_questionsDrills.json", import.meta.url),
   extraposition: new URL("../data/extrapositionDrills.json", import.meta.url),
   postponed_relative_clauses: new URL("../data/postponed_relative_clausesDrills.json", import.meta.url),
+  result_infinitive: new URL("../data/result_infinitiveDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
