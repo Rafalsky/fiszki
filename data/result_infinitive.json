@@ -1,0 +1,102 @@
+[
+  {
+    "id": "basic_result",
+    "order": 1,
+    "nameEn": "to + infinitive — unplanned result",
+    "namePl": "to + bezokolicznik — niezamierzony rezultat",
+    "rules": [
+      { "label": "Nie cel, tylko skutek", "text": "Po czasownikach ruchu, zmiany stanu i odkrycia (arrive, wake up, return, grow up, live, look up, turn around) bezokolicznik z 'to' nie odpowiada na pytanie 'po co?', tylko opisuje to, co się okazało/wydarzyło się PÓŹNIEJ, jako skutek czynności głównej" },
+      { "label": "Kolejność chronologiczna", "text": "Czynność w bezokoliczniku zawsze następuje PO czynności głównej w czasie — to odróżnia go od bezokolicznika celu, który wyraża zamiar istniejący PRZED czynnością główną" },
+      { "label": "Brak zamiaru", "text": "Podmiot nie planował ani nie mógł przewidzieć rezultatu — stąd te zdania nigdy nie da się przeformułować z 'in order to' ani 'so as to', które implikują świadomy zamiar" }
+    ],
+    "usage": [
+      "Po czasownikach ruchu + odkrycie: He arrived home to find the door wide open.",
+      "Po czasownikach oznaczających etap życia: She grew up to become a respected surgeon.",
+      "Po 'wake up' / 'look up' + odkrycie: I woke up to discover it was already midday.",
+      "Zamiast 'and then' w bardziej literackim, zwięzłym stylu: He turned around to see her standing there. = He turned around and then saw her standing there."
+    ],
+    "tags": ["grow up to", "arrive to find", "wake up to", "live to see"],
+    "examples": [
+      { "en": "She grew up to become a world-famous violinist.", "pl": "Wyrosła na światowej sławy skrzypaczkę." },
+      { "en": "He arrived at the office to find it completely empty.", "pl": "Przyszedł do biura i zastał je zupełnie puste." },
+      { "en": "I woke up one morning to discover the snow had melted.", "pl": "Pewnego ranka obudziłem się i odkryłem, że śnieg stopniał." },
+      { "en": "He returned home to find that his flat had been burgled.", "pl": "Wrócił do domu i odkrył, że jego mieszkanie zostało okradzione." },
+      { "en": "The company was founded in a garage, only to grow into a global brand.", "pl": "Firma powstała w garażu, by potem urosnąć do rangi globalnej marki." }
+    ]
+  },
+  {
+    "id": "only_to",
+    "order": 2,
+    "nameEn": "only to — disappointing or ironic result",
+    "namePl": "only to — rozczarowujący lub ironiczny rezultat",
+    "rules": [
+      { "label": "Kontrast oczekiwań i rzeczywistości", "text": "'only to' podkreśla, że wysiłek, nadzieja lub oczekiwanie związane z czynnością główną zostały zaprzepaszczone przez rozczarowujący, ironiczny lub daremny rezultat" },
+      { "label": "Wzmocnienie 'to'", "text": "'only' nie zmienia struktury zdania — dodaje się je bezpośrednio przed 'to', wzmacniając kontrast: rushed... only to find..." },
+      { "label": "Częste po czasownikach wysiłku", "text": "Typowo po rush, hurry, struggle, work hard, wait, queue — czynnościach wymagających zaangażowania, które okazuje się bezowocne" }
+    ],
+    "usage": [
+      "Zmarnowany wysiłek: He rushed to the station, only to find the train had just left.",
+      "Zawiedzione nadzieje: They queued for three hours, only to be told the tickets were sold out.",
+      "Ironiczny zwrot akcji: She trained for years, only to injure herself the week before the Olympics.",
+      "Formalne pisanie i narracja — rzadziej w luźnej mowie potocznej, gdzie częściej 'but then'"
+    ],
+    "tags": ["only to find", "only to discover", "only to be told", "only to lose"],
+    "examples": [
+      { "en": "He rushed to the station, only to find the train had already left.", "pl": "Popędził na dworzec, tylko po to, żeby odkryć, że pociąg już odjechał." },
+      { "en": "They climbed for six hours, only to be forced back by the storm.", "pl": "Wspinali się sześć godzin, tylko po to, żeby sztorm zmusił ich do zawrócenia." },
+      { "en": "She applied for the job, only to be rejected at the final interview.", "pl": "Ubiegała się o tę pracę, tylko po to, żeby odpaść na ostatniej rozmowie." },
+      { "en": "We booked the flights early, only to have them cancelled a week later.", "pl": "Zarezerwowaliśmy loty wcześnie, tylko po to, żeby zostały odwołane tydzień później." },
+      { "en": "He spent months preparing, only to see the whole project scrapped.", "pl": "Spędził miesiące na przygotowaniach, tylko po to, żeby cały projekt został skreślony." }
+    ]
+  },
+  {
+    "id": "never_to",
+    "order": 3,
+    "nameEn": "never to — permanent, literary result",
+    "namePl": "never to — trwały, literacki rezultat",
+    "rules": [
+      { "label": "Skutek nieodwracalny", "text": "'never to' zamyka historię — czynność główna jest ostatnim razem, kiedy coś się wydarzyło, a stan po niej jest trwały i nieodwracalny" },
+      { "label": "Rejestr formalny/literacki", "text": "Typowe dla narracji, nekrologów, relacji historycznych i podniosłego stylu pisanego — rzadkie w codziennej rozmowie, gdzie zastępuje się je zwykłym zdaniem współrzędnym (…and never came back)" },
+      { "label": "Pozycja", "text": "Zawsze po przecinku, na końcu zdania, po opisie czynności głównej — nigdy na początku zdania" }
+    ],
+    "usage": [
+      "Ostateczne pożegnanie/odejście: He left the village that morning, never to return.",
+      "Utrata na zawsze: The manuscript was lost in the fire, never to be recovered.",
+      "Śmierć / zniknięcie w narracji: The old ship sailed out to sea, never to be seen again.",
+      "Podkreślenie nieodwracalności skutku w stylu formalnym zamiast zwykłego 'and never'"
+    ],
+    "tags": ["never to return", "never to be seen again", "never to recover", "never to forget"],
+    "examples": [
+      { "en": "He walked out of the house that night, never to return.", "pl": "Wyszedł z domu tamtej nocy, żeby już nigdy nie wrócić." },
+      { "en": "The letter was sealed and buried, never to be opened.", "pl": "List zapieczętowano i zakopano, by nigdy więcej nie zostać otwartym." },
+      { "en": "She said goodbye at the station, never to see him again.", "pl": "Pożegnała się na dworcu, by już nigdy więcej go nie zobaczyć." },
+      { "en": "The ship vanished into the fog, never to be found.", "pl": "Statek zniknął we mgle, by nigdy nie zostać odnalezionym." },
+      { "en": "He signed the contract, never to regret it for a single day.", "pl": "Podpisał kontrakt i ani przez jeden dzień tego nie żałował." }
+    ]
+  },
+  {
+    "id": "purpose_vs_result",
+    "order": 4,
+    "nameEn": "Result infinitive vs purpose infinitive",
+    "namePl": "Bezokolicznik skutku a bezokolicznik celu",
+    "rules": [
+      { "label": "Cel istnieje wcześniej, skutek pojawia się później", "text": "Bezokolicznik celu (I called to ask a question) opisuje zamiar, który podmiot MIAŁ, zanim wykonał czynność główną. Bezokolicznik skutku opisuje coś, czego podmiot NIE mógł przewidzieć — dowiaduje się o tym dopiero w trakcie lub po czynności głównej" },
+      { "label": "Test z 'in order to' / 'so as to'", "text": "Jeśli zdanie można przeformułować z 'in order to' lub 'so as to' bez zmiany sensu, to jest to cel. Jeśli taka przeróbka brzmi absurdalnie (np. *He grew up in order to become a doctor jako niezamierzony fakt), to jest to skutek" },
+      { "label": "Pozycja w zdaniu", "text": "Bezokolicznik celu można przesunąć na początek zdania dla emfazy (To pass the exam, she studied hard). Bezokolicznika skutku NIE da się przesunąć na początek — zawsze stoi po czynności głównej, bo opisuje coś, co nastąpiło w jej rezultacie" }
+    ],
+    "usage": [
+      "Cel (zamierzony, można przenieść na początek): She saved money to buy a car. → To buy a car, she saved money.",
+      "Skutek (niezamierzony, tylko na końcu): He opened the door to find a stranger standing there. (nie: *To find a stranger, he opened the door.)",
+      "Rozróżnienie po czasownikach neutralnych: 'I looked up to see the plane' — kontekst decyduje, czy to świadome spojrzenie w celu zobaczenia (cel), czy przypadkowe odkrycie (skutek)",
+      "'only to' i 'never to' są jednoznacznymi sygnałami skutku — nigdy nie wprowadzają celu"
+    ],
+    "tags": ["purpose vs result", "in order to test", "cannot be fronted", "unexpected outcome"],
+    "examples": [
+      { "en": "She hurried to the shop to buy some bread. (purpose — planned)", "pl": "Pospieszyła do sklepu, żeby kupić chleb. (cel — zaplanowany)" },
+      { "en": "She hurried to the shop, only to find it closed. (result — unplanned)", "pl": "Pospieszyła do sklepu, tylko po to, żeby zastać go zamkniętym. (skutek — niezaplanowany)" },
+      { "en": "He picked up the phone to call his mother. (purpose)", "pl": "Podniósł telefon, żeby zadzwonić do mamy. (cel)" },
+      { "en": "He picked up the phone to hear only silence. (result)", "pl": "Podniósł telefon i usłyszał jedynie ciszę. (skutek)" },
+      { "en": "To win the race, she trained every single day. (purpose, frontable)", "pl": "Żeby wygrać wyścig, trenowała każdego dnia. (cel, można przenieść na początek)" }
+    ]
+  }
+]

@@ -1146,5 +1146,12 @@
     "title": "Ekstrapozycja",
     "desc": "It is obvious that..., it's worth reading, it turned out that... — przesuwanie podmiotu zdaniowego na koniec zdania i puste 'it' na jego miejscu, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40
+  },
+  {
+    "id": "result_infinitive",
+    "icon": "🏁",
+    "title": "Bezokolicznik skutku",
+    "desc": "To + bezokolicznik wyrażający nieoczekiwany rezultat (only to, never to) — kontrast z bezokolicznikiem celu, budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40
   }
 ]
