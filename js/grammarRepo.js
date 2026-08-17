@@ -178,6 +178,7 @@ const THEORY_URLS = {
   imperative_conditionals: new URL("../data/imperative_conditionals.json", import.meta.url),
   linking_verbs: new URL("../data/linking_verbs.json", import.meta.url),
   be_to_construction: new URL("../data/be_to_construction.json", import.meta.url),
+  pseudo_coordination: new URL("../data/pseudo_coordination.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -351,6 +352,7 @@ const DRILLS_URLS = {
   imperative_conditionals: new URL("../data/imperative_conditionalsDrills.json", import.meta.url),
   linking_verbs: new URL("../data/linking_verbsDrills.json", import.meta.url),
   be_to_construction: new URL("../data/be_to_constructionDrills.json", import.meta.url),
+  pseudo_coordination: new URL("../data/pseudo_coordinationDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
