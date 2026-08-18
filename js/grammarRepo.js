@@ -189,6 +189,7 @@ const THEORY_URLS = {
   continuous_for_emphasis: new URL("../data/continuous_for_emphasis.json", import.meta.url),
   genitive_choice: new URL("../data/genitive_choice.json", import.meta.url),
   singular_they: new URL("../data/singular_they.json", import.meta.url),
+  say_tell_speak_talk: new URL("../data/say_tell_speak_talk.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -373,6 +374,7 @@ const DRILLS_URLS = {
   continuous_for_emphasis: new URL("../data/continuous_for_emphasisDrills.json", import.meta.url),
   genitive_choice: new URL("../data/genitive_choiceDrills.json", import.meta.url),
   singular_they: new URL("../data/singular_theyDrills.json", import.meta.url),
+  say_tell_speak_talk: new URL("../data/say_tell_speak_talkDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

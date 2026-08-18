@@ -1,0 +1,138 @@
+[
+  {
+    "id": "say_vs_tell",
+    "order": 1,
+    "nameEn": "say vs. tell — reporting what was said",
+    "namePl": "say a tell — relacjonowanie tego, co zostało powiedziane",
+    "rules": [
+      {
+        "label": "tell + osoba",
+        "text": "tell wymaga bezpośrednio po sobie dopełnienia osobowego (bez 'to'): tell somebody something / tell somebody that... — powiedzieć KOMUŚ coś"
+      },
+      {
+        "label": "say (+ to + osoba)",
+        "text": "say nigdy nie łączy się z osobą bezpośrednio po sobie — jeśli chcemy wskazać odbiorcę, dodajemy 'to': say something (to somebody) — samo 'say me' jest błędem"
+      },
+      {
+        "label": "say the same content, tell the same message",
+        "text": "obu czasowników można używać do relacjonowania tej samej wypowiedzi — różnica leży wyłącznie w tym, czy w zdaniu pojawia się bezpośrednie dopełnienie osobowe"
+      }
+    ],
+    "usage": [
+      "tell + osoba + that-clause: He told me that he was leaving. — 'me' od razu po 'told', bez 'to'",
+      "say + that-clause (bez osoby): He said that he was leaving. — bez dopełnienia osobowego",
+      "say + to + osoba: He said to me, 'I'm leaving.' — odbiorca wymaga 'to'",
+      "błąd typowy: He said me that... ✗ — powinno być: He told me that... ✓ lub He said to me that... ✓"
+    ],
+    "tags": ["told me that", "said that", "said to me", "said me ✗"],
+    "examples": [
+      { "en": "She told me the meeting had been cancelled.", "pl": "Powiedziała mi, że spotkanie zostało odwołane." },
+      { "en": "He said the meeting had been cancelled.", "pl": "Powiedział, że spotkanie zostało odwołane." },
+      { "en": "\"I'm not coming,\" she said to her boss.", "pl": "\"Nie przyjdę\" — powiedziała do swojego szefa." },
+      { "en": "Tell your brother I called.", "pl": "Powiedz swojemu bratu, że dzwoniłem." }
+    ]
+  },
+  {
+    "id": "tell_fixed_patterns",
+    "order": 2,
+    "nameEn": "tell — fixed phrases without a spoken message (the truth, a story, time, apart)",
+    "namePl": "tell — utrwalone zwroty bez cytowanej wypowiedzi (prawdę, historię, czas, różnicę)",
+    "rules": [
+      {
+        "label": "tell + rzeczownik (utrwalone frazy)",
+        "text": "tell łączy się z rzeczownikami takimi jak the truth, a lie, a story, a joke, the time, the difference — w tych zwrotach 'tell' nie oznacza relacjonowania cudzej wypowiedzi, lecz przekazywanie informacji lub umiejętność rozróżnienia"
+      },
+      {
+        "label": "tell = rozróżnić / rozpoznać",
+        "text": "tell (often can/could tell) może znaczyć 'rozpoznać, stwierdzić na pewno' — can tell (that)..., can't tell the difference, tell them apart"
+      },
+      {
+        "label": "say NIE zastępuje tell w tych zwrotach",
+        "text": "say a truth ✗, say a story ✗ — w utrwalonych frazach z rzeczownikiem po czasowniku obowiązkowo używamy tell, nie say"
+      }
+    ],
+    "usage": [
+      "tell the truth / a lie — mówić prawdę / kłamać: Always tell the truth.",
+      "tell a story / a joke — opowiadać historię / dowcip: Grandpa loves telling stories.",
+      "tell the time — odczytywać godzinę z zegara: Can your daughter tell the time yet?",
+      "can tell / tell apart — rozpoznać, odróżnić: I can't tell the twins apart."
+    ],
+    "tags": ["tell the truth", "tell a story", "tell the time", "tell them apart"],
+    "examples": [
+      { "en": "I could tell (that) something was wrong from her voice.", "pl": "Po jej głosie mogłem stwierdzić, że coś jest nie tak." },
+      { "en": "He's only five, but he can already tell the time.", "pl": "Ma tylko pięć lat, ale już potrafi odczytywać godzinę z zegara." },
+      { "en": "The two brothers look so alike I can never tell them apart.", "pl": "Bracia są tak podobni, że nigdy nie mogę ich rozróżnić." },
+      { "en": "She sat the children down and told them a bedtime story.", "pl": "Posadziła dzieci i opowiedziała im bajkę na dobranoc." }
+    ]
+  },
+  {
+    "id": "speak_vs_talk",
+    "order": 3,
+    "nameEn": "speak vs. talk — formality and direction of communication",
+    "namePl": "speak a talk — formalność i kierunek komunikacji",
+    "rules": [
+      {
+        "label": "speak — bardziej formalne, jednokierunkowe",
+        "text": "speak sugeruje bardziej formalną, poważną sytuację albo jednokierunkowe wypowiadanie się (przemówienie, wykład, rozmowa telefoniczna, umiejętność językowa): speak in public, speak a language, speak on the phone"
+      },
+      {
+        "label": "talk — nieformalne, dwukierunkowe",
+        "text": "talk sugeruje swobodną, dwukierunkową rozmowę lub pogawędkę między osobami: talk to a friend, have a talk, talk about the weekend"
+      },
+      {
+        "label": "speak + język",
+        "text": "przy nazwach języków standardowo używa się speak, nie talk: speak English/French — talk English jest niepoprawne"
+      }
+    ],
+    "usage": [
+      "Umiejętność językowa: She speaks three languages fluently.",
+      "Formalna sytuacja/przemówienie: The president will speak at the conference tomorrow.",
+      "Swobodna rozmowa: We talked for hours about our childhood.",
+      "Rozmowa telefoniczna (oba możliwe, speak bardziej formalne): Could I speak to Mr Adams, please?"
+    ],
+    "tags": ["speak English", "speak in public", "talk to a friend", "have a talk"],
+    "examples": [
+      { "en": "He speaks four languages, including Japanese.", "pl": "Mówi w czterech językach, w tym po japońsku." },
+      { "en": "Could I speak to the manager, please?", "pl": "Czy mógłbym porozmawiać z kierownikiem?" },
+      { "en": "We stayed up all night talking about our plans for the future.", "pl": "Nie spaliśmy całą noc, rozmawiając o naszych planach na przyszłość." },
+      { "en": "I need to talk to you about something important.", "pl": "Muszę z tobą porozmawiać o czymś ważnym." }
+    ]
+  },
+  {
+    "id": "speech_verb_prepositions",
+    "order": 4,
+    "nameEn": "prepositions and phrasal patterns with speech verbs",
+    "namePl": "przyimki i zwroty frazowe z czasownikami mówienia",
+    "rules": [
+      {
+        "label": "talk / speak to/with sb about sth",
+        "text": "talk i speak łączą się z osobą przez 'to' lub 'with' (with jest nieco bardziej formalne w AmE) i z tematem przez 'about': talk to her about the project"
+      },
+      {
+        "label": "talk sb into/out of doing sth",
+        "text": "talk + osoba + into/out of + gerund oznacza przekonanie kogoś, żeby coś zrobił / żeby czegoś zaniechał: She talked me into buying the ticket."
+      },
+      {
+        "label": "speak up / speak out",
+        "text": "speak up = mówić głośniej albo odważyć się zabrać głos; speak out = publicznie wyrazić sprzeciw lub krytykę wobec czegoś"
+      },
+      {
+        "label": "tell on sb (potoczne)",
+        "text": "tell on somebody (nieformalne, głównie u dzieci) = poskarżyć na kogoś, wydać kogoś: She told on her brother for breaking the vase."
+      }
+    ],
+    "usage": [
+      "talk/speak to/with sb about sth: I spoke to my tutor about the deadline.",
+      "talk sb into/out of doing sth: He talked her out of quitting her job.",
+      "speak up — mówić głośniej / zabrać głos: Could you speak up? I can't hear you.",
+      "speak out — publicznie się sprzeciwić: More employees are speaking out against unfair pay."
+    ],
+    "tags": ["talk to sb about", "talk sb into doing", "speak up", "speak out against"],
+    "examples": [
+      { "en": "I'll speak to the landlord about the broken heater.", "pl": "Porozmawiam z właścicielem o zepsutym grzejniku." },
+      { "en": "My colleagues talked me into joining the running club.", "pl": "Koledzy z pracy namówili mnie, żebym dołączył do klubu biegowego." },
+      { "en": "Please speak up — the people at the back can't hear you.", "pl": "Proszę mówić głośniej — osoby z tyłu pana/panią nie słyszą." },
+      { "en": "Several former employees have spoken out about the company's practices.", "pl": "Kilku byłych pracowników publicznie skrytykowało praktyki firmy." }
+    ]
+  }
+]
