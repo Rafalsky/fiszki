@@ -6,27 +6,33 @@
     "namePl": "Strona bierna — czas teraźniejszy prosty",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + am/is/are + III forma czasownika"
+        "label": "Budowa",
+        "text": "Podmiot + am/is/are + III forma czasownika (past participle). Przeczenie: am/is/are + not + III forma. Pytanie: Am/Is/Are + podmiot + III forma?"
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + am/is/are not + III forma"
+        "label": "Skąd się wzięła strona bierna: zanik końcówek",
+        "text": "Języki germańskie miały niegdyś własną, syntetyczną (jednowyrazową) stronę bierną — ślad po niej przetrwał tylko w gockim, gdzie 'jest kochany' brzmiało haitada, jedno słowo z końcówką biernika. Staroangielski tej końcówki już nie miał — od zarania używał konstrukcji opisowej (peryfrastycznej): beon/wesan ('być') + imiesłów bierny, dokładnie ten sam mechanizm co dziś. Strona bierna nie jest więc 'sztucznym' wynalazkiem gramatyków szkolnych — to jedyny sposób, jaki angielski w ogóle kiedykolwiek miał, by wyrazić tę samą myśl bez odmieniania czasownika przez stronę."
       },
       {
-        "label": "Pytanie",
-        "text": "Am/Is/Are + podmiot + III forma?"
+        "label": "Model myślowy: zmiana obiektywu kamery",
+        "text": "Zdanie czynne i bierne opisują dokładnie to samo zdarzenie — różni je tylko to, co stawiamy w centrum kadru. Aktywna kamera patrzy od wykonawcy: 'Farmers grow rice.' Bierna kamera odwraca obiektyw i patrzy od strony tego, co dzieje się z obiektem: 'Rice is grown (by farmers).' Gramatycznie to operacja na strukturze zdania: dopełnienie (Patient — ten, kto doznaje czynności) awansuje na miejsce podmiotu, a wykonawca (Agent) może zostać zepchnięty do fraz z 'by' albo usunięty ze zdania całkowicie."
+      },
+      {
+        "label": "Dlaczego czasem nie da się użyć strony biernej",
+        "text": "Strona bierna wymaga, by istniał realny Patient, który 'doznaje' czynności — coś, co się zmienia pod wpływem działania. Czasowniki opisujące relacje albo stany, a nie działania (resemble, have, lack, cost, suit, fit, contain, resemble) w naturalnym angielskim w ogóle nie tworzą strony biernej: mówimy 'This bag costs $50', ale nigdy 'It's cost by this bag'. Bez zmiany stanu nie ma czego 'odwracać'."
       }
     ],
     "usage": [
-      "Czynności rutynowe/ogólne prawdy, gdy wykonawca jest nieważny lub nieznany (English is spoken here.)",
-      "Opisy procesów i procedur (The coffee is grown in Brazil.)",
-      "Gdy skupiamy się na obiekcie działania, nie na wykonawcy"
+      "Czynności rutynowe i ogólne prawdy, gdy wykonawca jest oczywisty, nieważny lub nieznany (English is spoken here. / Rice is grown in Asia.)",
+      "Opisy procesów, procedur i łańcuchów produkcji, gdzie liczy się sam obiektywny proces, a nie kto go wykonuje (The coffee is picked, dried and roasted before it's exported.)",
+      "Styl naukowy, urzędowy i sprawozdawczy — usunięcie wykonawcy nadaje wypowiedzi ton bezosobowej, 'obiektywnej' procedury zamiast czyjejś osobistej decyzji (Applications are reviewed within 30 days.)",
+      "Gdy dodajemy 'by + wykonawca', informacja o wykonawcy trafia na koniec zdania jako ta ważniejsza, nowa — to echo ogólnej zasady szyku 'stare przed nowym' (given-before-new)."
     ],
     "tags": [
       "is made",
       "are grown",
-      "is spoken"
+      "is spoken",
+      "unpassivizable verbs"
     ],
     "examples": [
       {
@@ -38,12 +44,12 @@
         "pl": "Ten ser jest produkowany we Francji."
       },
       {
-        "en": "The doors are locked every night.",
-        "pl": "Drzwi są zamykane co noc."
+        "en": "The doors are locked every night by the night guard.",
+        "pl": "Drzwi są zamykane co noc przez nocnego strażnika."
       },
       {
-        "en": "Coffee is grown in many tropical countries.",
-        "pl": "Kawa jest uprawiana w wielu tropikalnych krajach."
+        "en": "This bag costs $50.",
+        "pl": "Ta torba kosztuje 50 dolarów. (nie: is cost — 'cost' opisuje relację, nie czynność)"
       }
     ]
   },
@@ -54,27 +60,32 @@
     "namePl": "Strona bierna — czas przeszły prosty",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + was/were + III forma czasownika"
+        "label": "Budowa",
+        "text": "Podmiot + was/were + III forma. Przeczenie: was/were + not + III forma. Pytanie: Was/Were + podmiot + III forma?"
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + was/were not + III forma"
+        "label": "Dlaczego kroniki historyczne 'kochają' stronę bierną",
+        "text": "Kroniki, podręczniki historii i wiadomości prasowe używają strony biernej znacznie częściej niż codzienna mowa — nie przez przypadek stylistyczny, tylko dlatego, że opisują ZDARZENIA (co się stało z miastem, budynkiem, traktatem), a nie CZYNY konkretnej, ważnej dla narracji osoby: 'The pyramids were built around 2560 BC.' Budowniczych nikt już nie pamięta z imienia — liczy się fakt, że piramidy istnieją."
       },
       {
-        "label": "Pytanie",
-        "text": "Was/Were + podmiot + III forma?"
+        "label": "Ciężar informacyjny i pozycja 'by'",
+        "text": "Gdy wykonawca JEST znany i ważny, dodajemy 'by' — ale niemal zawsze na końcu zdania, nawet jeśli fraza jest długa: 'This novel was written by George Orwell, under the pseudonym of an English schoolteacher.' To przejaw ogólnej zasady end-weight: angielski woli, by zdanie 'rosło' ku końcowi, a nie zaczynało się od ciężkiej, złożonej frazy."
+      },
+      {
+        "label": "Bierna narracja jako ucieczka od odpowiedzialności",
+        "text": "Klasyczny przykład politycznej retoryki: 'Mistakes were made.' Strona bierna pozwala opisać zdarzenie bez wskazania winnego — usunięcie wykonawcy nie jest tu przypadkowe, lecz celowe, i to właśnie ta funkcja (a nie sama gramatyka) bywa krytykowana jako 'mętny język urzędniczy'."
       }
     ],
     "usage": [
-      "Zakończone czynności w przeszłości, gdy wykonawca jest nieznany lub nieistotny",
-      "Fakty historyczne (The pyramids were built thousands of years ago.)",
-      "Gdy chcemy podkreślić wykonawcę, dodajemy 'by' (The book was written by Orwell.)"
+      "Zakończone czynności w przeszłości, gdy wykonawca jest nieznany, nieistotny lub oczywisty z kontekstu",
+      "Fakty i wydarzenia historyczne, gdzie w centrum uwagi jest to, co się zdarzyło, nie kto to zrobił (The Bastille was stormed in 1789.)",
+      "Świadome pominięcie wykonawcy w komunikatach — od uprzejmego dystansu ('Your application was rejected.') po polityczne rozmycie odpowiedzialności ('Errors were made in the report.')"
     ],
     "tags": [
       "was built",
       "were invited",
-      "was written by"
+      "was written by",
+      "mistakes were made"
     ],
     "examples": [
       {
@@ -82,16 +93,16 @@
         "pl": "Piramidy zostały zbudowane tysiące lat temu."
       },
       {
-        "en": "The letter was sent yesterday.",
-        "pl": "List został wysłany wczoraj."
+        "en": "This novel was written by George Orwell.",
+        "pl": "Ta powieść została napisana przez George'a Orwella."
+      },
+      {
+        "en": "Mistakes were made during the negotiations.",
+        "pl": "W trakcie negocjacji popełniono błędy. (bez wskazania, kto je popełnił)"
       },
       {
         "en": "We were invited to the wedding.",
         "pl": "Zostaliśmy zaproszeni na wesele."
-      },
-      {
-        "en": "This novel was written by George Orwell.",
-        "pl": "Ta powieść została napisana przez George'a Orwella."
       }
     ]
   },
@@ -102,25 +113,32 @@
     "namePl": "Strona bierna — czas teraźniejszy ciągły",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + am/is/are being + III forma czasownika"
+        "label": "Budowa",
+        "text": "Podmiot + am/is/are + being + III forma. Przeczenie: am/is/are + not + being + III forma. Pytanie: Am/Is/Are + podmiot + being + III forma?"
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + am/is/are not being + III forma"
+        "label": "Historia: forma młodsza, niż się wydaje",
+        "text": "Dzisiejsza forma 'is being built' to jedna z najmłodszych konstrukcji gramatycznych angielskiego — upowszechniła się dopiero na przełomie XVIII i XIX wieku. Wcześniej, przez stulecia, to samo znaczenie wyrażano zdaniem o formie CZYNNEJ, ale znaczeniu biernym: 'The house is building' znaczyło 'Dom jest budowany' (dziś powiemy: 'The house is being built'). Ta archaiczna konstrukcja (tzw. passival) brzmi dla współczesnego ucha jak błąd, ale to ona była normą — nowsza forma z 'being' była w epoce georgiańskiej piętnowana przez purystów językowych jako 'niezgrabny nowotwór'."
       },
       {
-        "label": "Pytanie",
-        "text": "Am/Is/Are + podmiot + being + III forma?"
+        "label": "Dlaczego dwa 'be' w jednej formie",
+        "text": "'is being built' składa się z DWÓCH warstw gramatycznych nałożonych na siebie: aspekt ciągły (be + -ing, tu jako 'being') i strona bierna (be + III forma). Skoro strona bierna sama w sobie już używa 'be', a aspekt ciągły też, w efekcie 'be' pojawia się dwukrotnie w innej roli za każdym razem — raz jako 'is', raz jako imiesłów 'being'. To dlatego forma wygląda na cięższą niż inne czasy: bo dosłownie dźwiga dwie gramatyczne konstrukcje naraz."
+      },
+      {
+        "label": "Granice tej formy",
+        "text": "Właśnie z powodu tego 'podwójnego obciążenia' angielski nie idzie z tym mechanizmem dalej: naturalna forma ciągła strony biernej istnieje praktycznie tylko w Present i Past Continuous ('was being built'). Present Perfect Continuous Passive ('has been being built') jest gramatycznie policzalne, ale w praktyce niemal nigdy nie używane — trzy pomocnicze 'be' z rzędu (has + been + being) są zbyt ciężkie fonetycznie i poznawczo, więc rodzimi użytkownicy wolą przeformułować zdanie w stronie czynnej albo użyć prostszego czasu."
       }
     ],
     "usage": [
-      "Czynność trwająca teraz, wykonywana na czymś/kimś (The car is being repaired.)",
-      "Podkreśla, że proces jest w toku, a nie zakończony"
+      "Czynność trwająca właśnie teraz, wykonywana na kimś/czymś, z naciskiem na to, że proces jest w toku, a nie zakończony (The bridge is being repaired this month.)",
+      "Kontrast z Present Simple Passive: 'The car is repaired' (stan/fakt ogólny) vs 'The car is being repaired' (dzieje się właśnie teraz)",
+      "W formalnych, statycznych opisach procedur ta forma pojawia się rzadko — tam dominuje Present Simple Passive; Continuous Passive jest typowy dla relacji 'na żywo' (Right now, new vaccines are being tested in three countries.)"
     ],
     "tags": [
       "is being built",
-      "are being tested"
+      "are being tested",
+      "passival",
+      "double be"
     ],
     "examples": [
       {
@@ -136,8 +154,8 @@
         "pl": "Twoje zamówienie jest właśnie przygotowywane."
       },
       {
-        "en": "The rooms are being cleaned at the moment.",
-        "pl": "Pokoje są właśnie sprzątane."
+        "en": "The negotiations are being watched closely by the press.",
+        "pl": "Negocjacje są bacznie obserwowane przez prasę."
       }
     ]
   },
@@ -148,25 +166,27 @@
     "namePl": "Strona bierna — czas teraźniejszy dokonany",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + have/has been + III forma czasownika"
+        "label": "Budowa",
+        "text": "Podmiot + have/has + been + III forma. Przeczenie: have/has + not + been + III forma. Pytanie: Have/Has + podmiot + been + III forma?"
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + have/has not been + III forma"
+        "label": "Dwie warstwy znaczenia nałożone na siebie",
+        "text": "Present Perfect już samo w sobie łączy przeszłość ze skutkiem widocznym teraz (most o tym w temacie 'Czasy'). Strona bierna dokłada do tego swoją własną logikę: przesuwa uwagę z wykonawcy na to, co się z obiektem STAŁO. W efekcie 'has been broken' odpowiada na dwa pytania naraz: 'co się wydarzyło w przeszłości?' oraz 'kogo/co to teraz dotyczy?' — a nie kto to zrobił, bo tego pytania forma bierna świadomie unika."
       },
       {
-        "label": "Pytanie",
-        "text": "Have/Has + podmiot + been + III forma?"
+        "label": "Dlaczego akurat ta forma dominuje w komunikatach 'na żywo'",
+        "text": "Present Perfect Passive to ulubiona forma nagłówków i komunikatów o świeżych wydarzeniach właśnie dlatego, że łączy dwie rzeczy, na których nagłówkom zależy najbardziej: nowość informacji (coś się właśnie stało) i brak konieczności podawania sprawcy, dopóki śledztwo trwa ('Three people have been arrested in connection with the fraud.')."
       }
     ],
     "usage": [
-      "Czynność zakończona, ale jej skutek jest widoczny teraz (The window has been broken.)",
-      "Doświadczenia bez podanego konkretnego czasu (This song has been played millions of times.)"
+      "Czynność zakończona, ale jej skutek jest widoczny/istotny teraz (The window has been broken — look at the glass on the floor.)",
+      "Doświadczenia i wydarzenia bez podanego konkretnego momentu w czasie (This song has been played millions of times.)",
+      "Świeże wiadomości, komunikaty prasowe i policyjne, gdzie fakt jest pewny, a sprawca — jeszcze nie (Two suspects have been detained for questioning.)"
     ],
     "tags": [
       "has been fixed",
-      "have been invited"
+      "have been invited",
+      "news headlines"
     ],
     "examples": [
       {
@@ -178,8 +198,8 @@
         "pl": "Ta piosenka została odtworzona miliony razy."
       },
       {
-        "en": "The problem has been fixed.",
-        "pl": "Problem został naprawiony."
+        "en": "Three people have been arrested in connection with the robbery.",
+        "pl": "Trzy osoby zostały zatrzymane w związku z napadem."
       },
       {
         "en": "We have been invited to speak at the conference.",
@@ -194,25 +214,27 @@
     "namePl": "Strona bierna — czas przyszły prosty (will)",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + will be + III forma czasownika"
+        "label": "Budowa",
+        "text": "Podmiot + will + be + III forma. Przeczenie: will + not + be + III forma. Pytanie: Will + podmiot + be + III forma?"
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + will not be + III forma"
+        "label": "Ta sama logika, spojrzenie w przyszłość",
+        "text": "Mechanizm jest identyczny jak w pozostałych czasach: 'will' zapowiada przyszłe zdarzenie, a 'be + III forma' odwraca perspektywę z wykonawcy na obiekt. 'The results will be announced tomorrow' nie mówi nic o tym, KTO ogłosi wyniki — bo z punktu widzenia odbiorcy komunikatu liczy się tylko to, że wyniki się pojawią."
       },
       {
-        "label": "Pytanie",
-        "text": "Will + podmiot + be + III forma?"
+        "label": "Dlaczego oficjalne zapowiedzi niemal zawsze są bierne",
+        "text": "Zapowiedzi urzędowe, regulaminowe i biznesowe ('Applications will be processed within five working days.', 'Visitors will not be admitted after 6pm.') konsekwentnie wybierają stronę bierną, bo instytucja mówi tu w imieniu procedury, nie konkretnej osoby — strona czynna ('We will process your application') brzmiałaby bardziej osobiście, a strona bierna utrzymuje formalny, bezosobowy dystans typowy dla języka regulaminów."
       }
     ],
     "usage": [
-      "Przewidywane przyszłe czynności, gdy wykonawca jest nieważny (The results will be announced tomorrow.)",
-      "Obietnice i plany dotyczące działań na czymś/kimś"
+      "Przewidywane przyszłe czynności, gdy wykonawca jest nieważny lub nieznany (The results will be announced tomorrow.)",
+      "Obietnice, plany i zapowiedzi dotyczące działań na czymś/kimś (Your package will be delivered by Friday.)",
+      "Formalne regulaminy, ogłoszenia i zasady, gdzie bezosobowy ton podkreśla, że to procedura, a nie czyjaś osobista decyzja (Latecomers will not be admitted until the interval.)"
     ],
     "tags": [
       "will be announced",
-      "will be delivered"
+      "will be delivered",
+      "official notices"
     ],
     "examples": [
       {
@@ -224,8 +246,8 @@
         "pl": "Twoja paczka zostanie dostarczona do piątku."
       },
       {
-        "en": "The new policy will be introduced next year.",
-        "pl": "Nowa polityka zostanie wprowadzona w przyszłym roku."
+        "en": "Latecomers will not be admitted until the interval.",
+        "pl": "Spóźnieni widzowie nie zostaną wpuszczeni przed przerwą."
       },
       {
         "en": "The building will be finished by the end of the year.",
