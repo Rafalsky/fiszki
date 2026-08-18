@@ -1446,5 +1446,13 @@
     "desc": "Rodzajowe i epicenne „they” w liczbie pojedynczej — zgodność czasownika, themself vs themselves, rejestr formalny — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40,
     "level": "c2"
+  },
+  {
+    "id": "say_tell_speak_talk",
+    "icon": "📢",
+    "title": "Say / tell / speak / talk",
+    "desc": "Czasowniki mówienia say, tell, speak i talk — różnice w wymaganym dopełnieniu, formalności i konstrukcji z przyimkami — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "b1"
   }
 ]
