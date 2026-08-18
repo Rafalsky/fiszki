@@ -1,0 +1,100 @@
+[
+  {
+    "id": "generic_singular_they",
+    "order": 1,
+    "nameEn": "Generic singular 'they' with indefinite antecedents (Everyone brought their own lunch.)",
+    "namePl": "Rodzajowe 'they' w liczbie pojedynczej z zaimkami nieokreślonymi (Everyone brought their own lunch.)",
+    "rules": [
+      { "label": "Budowa", "text": "they/their/them/themselves' odnosi się do pojedynczego, ale rodzajowo nieokreślonego antecedentu — anyone, everyone, everybody, no one, nobody, each, a person, whoever — mimo że czasownik przy samym 'they' pozostaje w formie mnogiej (they are, nie they is)." },
+      { "label": "Zasięg", "text": "obejmuje zarówno zaimki nieokreślone (somebody, anyone, nobody), frazy dystrybutywne z 'every/each/no' (every student, each employee, no one), jak i rzeczowniki rodzajowe typu 'a person', 'a customer', 'whoever'." },
+      { "label": "Historia normy", "text": "to użycie istnieje w angielskim od wieków (Chaucer, Shakespeare, Jane Austen) — nakaz zastępowania go rodzajowym 'he' był sztuczną normą gramatyczną z XVIII/XIX w., dziś odrzuconą przez większość współczesnych poradników stylu." }
+    ],
+    "usage": [
+      "Everyone should bring their own laptop to the workshop. — rodzajowe 'they' po 'everyone'",
+      "If a student forgets their password, they should contact IT. — dwukrotne odniesienie w tym samym zdaniu",
+      "No one in the room raised their hand. — po zaimku przeczącym",
+      "Whoever left their umbrella can collect it from reception. — po 'whoever'"
+    ],
+    "tags": ["Everyone...their", "If a student...they", "No one...their", "Whoever...their"],
+    "examples": [
+      { "en": "Everyone should bring their own laptop to the workshop.", "pl": "Każdy powinien przynieść własny laptop na warsztaty." },
+      { "en": "If a student forgets their password, they should contact IT.", "pl": "Jeśli student zapomni hasła, powinien skontaktować się z działem IT." },
+      { "en": "No one in the room raised their hand.", "pl": "Nikt w pokoju nie podniósł ręki." },
+      { "en": "Whoever left their umbrella can collect it from reception.", "pl": "Kto zostawił parasol, może odebrać go z recepcji." }
+    ]
+  },
+  {
+    "id": "epicene_specific_they",
+    "order": 2,
+    "nameEn": "Epicene singular 'they' for a specific person of unknown or non-binary gender (Someone called; they left a message.)",
+    "namePl": "Epicenne 'they' odnoszące się do konkretnej osoby o nieznanej lub niebinarnej płci (Someone called; they left a message.)",
+    "rules": [
+      { "label": "Budowa", "text": "'they' odnosi się do JEDNEJ, konkretnej, ale niezidentyfikowanej co do płci osoby (np. rozmówca telefoniczny, autor anonimowego listu) — w odróżnieniu od użycia rodzajowego, tu antecedent to realna, pojedyncza osoba, nie ogólna klasa ludzi." },
+      { "label": "Płeć niebinarna", "text": "'they' jest też standardowym zaimkiem osobowym dla osób, które identyfikują się jako niebinarne lub wybierają 'they' jako swój zaimek — używane tak samo jak 'he'/'she' dla konkretnej, znanej z imienia osoby: 'Alex said they would be late.'" },
+      { "label": "Ujawnienie płci", "text": "gdy płeć zostaje później ujawniona w tekście, kolejne odniesienia mogą przejść na 'he'/'she' — epicenne 'they' bywa więc tymczasowe, dopóki płeć jest nieznana, albo trwałe, gdy jest to preferowany zaimek danej osoby." }
+    ],
+    "usage": [
+      "Someone left a comment on my post — I wonder what they meant. — konkretna, ale anonimowa osoba",
+      "The author of this letter clearly cares about the issue, but they didn't sign it. — nieznana tożsamość autora",
+      "Alex texted me — they said they'd be here by six. — 'they' jako zaimek osobowy konkretnej osoby",
+      "A new colleague started today; I haven't met them yet. — jeszcze niepoznana konkretna osoba"
+    ],
+    "tags": ["Someone...they", "the author...they", "Alex...they", "colleague...them"],
+    "examples": [
+      { "en": "Someone left a comment on my post — I wonder what they meant.", "pl": "Ktoś zostawił komentarz pod moim postem — zastanawiam się, co miał na myśli." },
+      { "en": "The author of this letter clearly cares about the issue, but they didn't sign it.", "pl": "Autor tego listu wyraźnie przejmuje się tą sprawą, ale się nie podpisał." },
+      { "en": "Alex texted me — they said they'd be here by six.", "pl": "Alex do mnie napisał/a — powiedział/a, że będzie tu o szóstej." },
+      { "en": "A new colleague started today; I haven't met them yet.", "pl": "Dziś zaczął nowy współpracownik/nowa współpracowniczka; jeszcze go/jej nie poznałem." }
+    ]
+  },
+  {
+    "id": "singular_they_agreement",
+    "order": 3,
+    "nameEn": "Verb and reflexive agreement with singular 'they' (they are, not they is; themself vs themselves)",
+    "namePl": "Zgodność czasownika i formy zwrotnej z 'they' w liczbie pojedynczej (they are, nie they is; themself a themselves)",
+    "rules": [
+      { "label": "Czasownik", "text": "nawet gdy 'they' odnosi się do jednej osoby, czasownik ZAWSZE przyjmuje formę mnogą — they are, they were, they have, nigdy they is/was/has: 'My friend said they are coming.', nie 'they is coming.'" },
+      { "label": "Forma zwrotna 'themselves'", "text": "tradycyjna i wciąż najczęstsza forma zwrotna dla 'they', także w odniesieniu do jednej osoby: 'Everyone should look after themselves.'" },
+      { "label": "Forma zwrotna 'themself'", "text": "nowsza, coraz szerzej akceptowana forma jednostkowa, spotykana głównie wtedy, gdy 'they' odnosi się do jednej konkretnej, znanej osoby (zwłaszcza niebinarnej) — w rejestrze formalnym bezpieczniejsze wciąż jest 'themselves'." },
+      { "label": "Zaimek dzierżawczy 'their'", "text": "pozostaje niezmienny liczbowo — 'their book' może znaczyć zarówno 'ich książka' (wielu), jak i 'jego/jej książka' (jedna nieokreślona osoba) — rozstrzyga kontekst." }
+    ],
+    "usage": [
+      "Someone forgot their umbrella — they are going to get soaked. — czasownik w formie mnogiej mimo jednej osoby",
+      "Everyone needs to believe in themselves. — tradycyjna forma zwrotna",
+      "My colleague hurt themself moving furniture yesterday. — nowsza forma jednostkowa (opcjonalna)",
+      "If anyone calls, tell them I'll ring them back. — dopełnienie 'them' dla jednej osoby"
+    ],
+    "tags": ["they are, not they is", "believe in themselves", "hurt themself", "tell them"],
+    "examples": [
+      { "en": "Someone forgot their umbrella — they are going to get soaked.", "pl": "Ktoś zapomniał parasola — zmoknie." },
+      { "en": "Everyone needs to believe in themselves.", "pl": "Każdy musi uwierzyć w siebie." },
+      { "en": "My colleague hurt themself moving furniture yesterday.", "pl": "Mój współpracownik/moja współpracowniczka zranił/a się wczoraj, przenosząc meble." },
+      { "en": "If anyone calls, tell them I'll ring them back.", "pl": "Jeśli ktoś zadzwoni, powiedz mu, że oddzwonię." }
+    ]
+  },
+  {
+    "id": "singular_they_register",
+    "order": 4,
+    "nameEn": "Register and alternatives: singular 'they' vs 'he or she' / 's/he'",
+    "namePl": "Rejestr i alternatywy: 'they' w liczbie pojedynczej a 'he or she' / 's/he'",
+    "rules": [
+      { "label": "Rejestr neutralny", "text": "'they' jest dziś domyślnym, naturalnym wyborem w mowie i większości pisma — krótszy, płynniejszy i szerzej akceptowany niż konstrukcje jawnie podwójne typu 'he or she'." },
+      { "label": "Rejestr bardzo formalny", "text": "'he or she', 'he/she' lub rzadziej 's/he' bywają nadal spotykane w dokumentach prawnych, formularzach i starszych podręcznikach akademickich, choć coraz częściej ustępują 'they' nawet tam." },
+      { "label": "Uznanie przez poradniki stylu", "text": "główne współczesne poradniki (Chicago Manual of Style, APA, Associated Press) oraz słowniki (Merriam-Webster, Oxford) formalnie akceptują rodzajowe i epicenne 'they' — to nie jest już traktowane jako błąd gramatyczny." },
+      { "label": "Unikanie niezręczności", "text": "powtarzanie 'he or she... his or her' w dłuższym tekście brzmi ociężale — 'they/their' pozwala tego uniknąć, zachowując naturalność zdania." }
+    ],
+    "usage": [
+      "Each applicant must submit their form by Friday. — naturalne, neutralne pismo formalne",
+      "Each applicant must submit his or her form by Friday. — starszy, sztywniejszy wariant formalny",
+      "The company updated its style guide to recommend singular 'they' over 'he or she'. — decyzja redakcyjna",
+      "A good teacher listens to their students. — powszechne, neutralne użycie w piśmie akademickim"
+    ],
+    "tags": ["their form", "his or her form", "style guide", "listens to their"],
+    "examples": [
+      { "en": "Each applicant must submit their form by Friday.", "pl": "Każdy kandydat musi złożyć swój formularz do piątku." },
+      { "en": "Modern style guides now accept singular 'they' as fully correct.", "pl": "Współczesne poradniki stylu uznają dziś pojedyncze 'they' za w pełni poprawne." },
+      { "en": "Instead of writing 'his or her', many writers today simply write 'their'.", "pl": "Zamiast pisać 'his or her', wielu autorów dziś po prostu pisze 'their'." },
+      { "en": "A good teacher listens to their students.", "pl": "Dobry nauczyciel słucha swoich uczniów." }
+    ]
+  }
+]
