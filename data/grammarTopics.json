@@ -1438,5 +1438,13 @@
     "desc": "'s-genitive kontra of-genitive: hierarchia ożywoności, przypadki pośrednie, information structure i utrwalone wyjątki decydujące o wyborze formy dzierżawczej — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40,
     "level": "c1"
+  },
+  {
+    "id": "singular_they",
+    "icon": "👥",
+    "title": "Rodzajowe „they”",
+    "desc": "Rodzajowe i epicenne „they” w liczbie pojedynczej — zgodność czasownika, themself vs themselves, rejestr formalny — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "c2"
   }
 ]

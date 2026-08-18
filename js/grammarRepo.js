@@ -188,6 +188,7 @@ const THEORY_URLS = {
   phrasal_verb_particles: new URL("../data/phrasal_verb_particles.json", import.meta.url),
   continuous_for_emphasis: new URL("../data/continuous_for_emphasis.json", import.meta.url),
   genitive_choice: new URL("../data/genitive_choice.json", import.meta.url),
+  singular_they: new URL("../data/singular_they.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -371,6 +372,7 @@ const DRILLS_URLS = {
   phrasal_verb_particles: new URL("../data/phrasal_verb_particlesDrills.json", import.meta.url),
   continuous_for_emphasis: new URL("../data/continuous_for_emphasisDrills.json", import.meta.url),
   genitive_choice: new URL("../data/genitive_choiceDrills.json", import.meta.url),
+  singular_they: new URL("../data/singular_theyDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
