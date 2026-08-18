@@ -1,0 +1,103 @@
+[
+  {
+    "id": "adjective_concessive_inversion",
+    "order": 1,
+    "nameEn": "Adjective/adverb + as/though + inversion (Tired though she was, she kept working.)",
+    "namePl": "Przymiotnik/przysłówek + as/though (Tired though she was, she kept working.)",
+    "rules": [
+      { "label": "Budowa", "text": "przymiotnik lub przysłówek z orzeczenia przenosimy na sam początek zdania, zaraz po nim stawiamy as lub though, a dalej podmiot i czasownik zostają w NORMALNYM szyku (bez inwersji operatora): Tired though she was, she kept working. = Although she was tired, she kept working." },
+      { "label": "As czy though", "text": "obie spójki są tu poprawne i częste — though brzmi nieco bardziej naturalnie i jest typowe dla utartych zwrotów (Strange though it may seem…), as jest równie powszechne, zwłaszcza w stylu pisanym (Difficult as it was…) — wybór jest w dużej mierze kwestią stylu, nie zasady" },
+      { "label": "To nie jest inwersja operatora", "text": "w przeciwieństwie do Never have I seen… czy Should you need help… kolejność podmiot-czasownik NIE zmienia się — zmienia się tylko pozycja przymiotnika/przysłówka, który normalnie stałby po czasowniku łączącym lub w środku zdania" },
+      { "label": "Rejestr", "text": "struktura formalna i literacka — w mowie potocznej naturalniejsze jest zwykłe although/even though: Although she was tired, she kept working." }
+    ],
+    "usage": [
+      "Tired though she was, she kept working until midnight. — przymiotnik orzecznikowy po be",
+      "Strange though it may seem, the plan actually worked. — utarty zwrot z modal 'may'",
+      "Young as he was, he handled the crisis calmly. — as zamiast though, ten sam wzorzec",
+      "Hard as I tried, I couldn't persuade her. — przysłówek 'hard' zamiast przymiotnika",
+      "Much though I admire his work, I disagree with his conclusions. — 'much' wzmacniające przed though"
+    ],
+    "tags": ["Tired though she was", "Strange though it may seem", "Young as he was", "Hard as I tried"],
+    "examples": [
+      { "en": "Tired though she was, she kept working until midnight.", "pl": "Choć była zmęczona, pracowała do północy." },
+      { "en": "Strange though it may seem, the plan actually worked.", "pl": "Choć może się to wydawać dziwne, plan naprawdę zadziałał." },
+      { "en": "Young as he was, he handled the crisis calmly.", "pl": "Choć był młody, spokojnie poradził sobie z kryzysem." },
+      { "en": "Hard as I tried, I couldn't persuade her to stay.", "pl": "Choć bardzo się starałem, nie zdołałem przekonać jej, żeby została." }
+    ]
+  },
+  {
+    "id": "noun_concessive_inversion",
+    "order": 2,
+    "nameEn": "Noun + as/that + inversion (Coward as he was, he ran away.)",
+    "namePl": "Rzeczownik + as/that + inwersja (Coward as he was, he ran away.)",
+    "rules": [
+      { "label": "Budowa", "text": "rzeczownik BEZ przedimka (a/an/the) trafia na początek zdania, zaraz po nim as lub that, a potem podmiot + was/were: Coward as he was, he ran away. / Fool that he was, he believed every word." },
+      { "label": "As czy that", "text": "z rzeczownikami klasycznie stosuje się that (Fool that he was…) lub as (Coward as he was…) — oba są w pełni akceptowalne, though z rzeczownikiem brzmi archaicznie i rzadko się pojawia" },
+      { "label": "Brak przedimka", "text": "rzeczownik zachowuje się tu jak przymiotnik oceniający — dlatego traci przedimek: Coward as he was (NIE: A coward as he was) — to sygnał, że mówimy o cesze/typie osoby, nie o pojedynczym egzemplarzu" },
+      { "label": "Rejestr", "text": "bardzo formalny, dziś głównie literacki — spotykany w prozie i eseistyce, rzadki w codziennej mowie, gdzie naturalniejsze byłoby: Even though he was a coward, he ran away." }
+    ],
+    "usage": [
+      "Coward as he was, he ran away at the first sign of danger. — rzeczownik oceniający + as",
+      "Fool that he was, he believed every word she said. — rzeczownik + that, klasyczny wzorzec",
+      "Genius as she was, she still doubted her own theory. — kontrast między cechą a zachowaniem",
+      "Child as she still was, she understood more than the adults realised."
+    ],
+    "tags": ["Coward as he was", "Fool that he was", "Genius as she was", "Child as she still was"],
+    "examples": [
+      { "en": "Coward as he was, he ran away at the first sign of danger.", "pl": "Tchórz z niego, ale uciekł przy pierwszej oznace niebezpieczeństwa." },
+      { "en": "Fool that he was, he believed every word she said.", "pl": "Głupiec z niego, uwierzył w każde jej słowo." },
+      { "en": "Genius as she was, she still doubted her own theory.", "pl": "Choć była geniuszem, wciąż wątpiła we własną teorię." },
+      { "en": "Child as she still was, she understood more than the adults realised.", "pl": "Choć wciąż była dzieckiem, rozumiała więcej, niż dorośli zdawali sobie sprawę." }
+    ]
+  },
+  {
+    "id": "verb_modal_concessive_inversion",
+    "order": 3,
+    "nameEn": "Verb + as + modal (Try as he might, he couldn't open the jar.)",
+    "namePl": "Czasownik + as + might/would (Try as he might, he couldn't open the jar.)",
+    "rules": [
+      { "label": "Budowa", "text": "bezokolicznik bez 'to' trafia na sam początek zdania, potem as, potem podmiot + might lub would, a zdanie główne (zwykle przeczące) opisuje brak skutku: Try as he might, he couldn't open the jar." },
+      { "label": "Utrwalony wzorzec", "text": "'as' jest tu OBOWIĄZKOWE — though się nie stosuje w tej konstrukcji; najczęstszy czasownik to try, ale możliwe są też inne czasowniki wysiłku: Search as they did, they found no trace. / Struggle as she might, she couldn't free herself." },
+      { "label": "Might czy would", "text": "might podkreśla wysiłek w danej chwili (Try as he might right now), would sugeruje powtarzającą się próbę w przeszłości lub uporczywość (Try as he would, he never mastered it) — oba są poprawne, wybór zależy od kontekstu" },
+      { "label": "Funkcja", "text": "podkreśla, że mimo maksymalnego, uporczywego wysiłku, rezultat i tak jest negatywny — zdanie główne niemal zawsze zawiera przeczenie, couldn't lub failed to" }
+    ],
+    "usage": [
+      "Try as he might, he couldn't open the stubborn jar. — najczęstszy wzorzec, wysiłek fizyczny",
+      "Try as she would, she never managed to forget him. — 'would' dla powtarzanych prób w przeszłości",
+      "Search as they did, the rescuers found no survivors. — inny czasownik niż try",
+      "Struggle as I might, I can't seem to finish this report on time."
+    ],
+    "tags": ["Try as he might", "Try as she would", "Search as they did", "Struggle as I might"],
+    "examples": [
+      { "en": "Try as he might, he couldn't open the stubborn jar.", "pl": "Choć bardzo się starał, nie mógł otworzyć tego upartego słoika." },
+      { "en": "Try as she would, she never managed to forget him.", "pl": "Choćby się nie wiem jak starała, nigdy nie zdołała o nim zapomnieć." },
+      { "en": "Search as they did, the rescuers found no survivors.", "pl": "Mimo wszystkich poszukiwań, ratownicy nie znaleźli ocalałych." },
+      { "en": "Struggle as I might, I can't seem to finish this report on time.", "pl": "Choćbym się nie wiem jak męczył, nie potrafię skończyć tego raportu na czas." }
+    ]
+  },
+  {
+    "id": "much_as_concessive",
+    "order": 4,
+    "nameEn": "'Much as' + clause (Much as I love him, I can't marry him.)",
+    "namePl": "'Much as' + zdanie (Much as I love him, I can't marry him.)",
+    "rules": [
+      { "label": "Budowa", "text": "Much as + podmiot + czasownik (zwykle wyrażający upodobanie, szacunek lub pragnienie) na początku zdania, potem zdanie główne z kontrastującą informacją: Much as I love him, I can't marry him." },
+      { "label": "Typowe czasowniki", "text": "like, love, admire, respect, appreciate, enjoy, want, would like to — czasowniki opisujące pozytywne nastawienie, po którym mimo wszystko następuje decyzja lub fakt idący pod prąd tego nastawienia" },
+      { "label": "Znaczenie", "text": "'chociaż bardzo…' — silniejsze i bardziej emfatyczne ustępstwo niż zwykłe although: Much as I love him = choć naprawdę, bardzo go kocham (a jednak…)" },
+      { "label": "Rejestr", "text": "neutralny do formalnego, naturalny zarówno w mowie, jak i w piśmie — częstszy i bardziej przystępny niż pozostałe wzorce inwersji ustępstwa w tym temacie" }
+    ],
+    "usage": [
+      "Much as I love him, I can't marry him. — mocne ustępstwo emocjonalne",
+      "Much as I'd like to help, I simply don't have the time. — 'would like to' w konstrukcji",
+      "Much as we admire her ambition, we can't approve this budget. — kontekst formalny/biznesowy",
+      "Much as I enjoy travelling, I always miss home after a week."
+    ],
+    "tags": ["Much as I love him", "Much as I'd like to", "Much as we admire", "Much as I enjoy"],
+    "examples": [
+      { "en": "Much as I love him, I can't marry him.", "pl": "Choć bardzo go kocham, nie mogę za niego wyjść." },
+      { "en": "Much as I'd like to help, I simply don't have the time.", "pl": "Choć bardzo chciałbym pomóc, po prostu nie mam czasu." },
+      { "en": "Much as we admire her ambition, we can't approve this budget.", "pl": "Choć bardzo podziwiamy jej ambicję, nie możemy zatwierdzić tego budżetu." },
+      { "en": "Much as I enjoy travelling, I always miss home after a week.", "pl": "Choć bardzo lubię podróżować, po tygodniu zawsze tęsknię za domem." }
+    ]
+  }
+]

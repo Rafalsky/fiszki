@@ -191,6 +191,7 @@ const THEORY_URLS = {
   singular_they: new URL("../data/singular_they.json", import.meta.url),
   say_tell_speak_talk: new URL("../data/say_tell_speak_talk.json", import.meta.url),
   minor_word_formation: new URL("../data/minor_word_formation.json", import.meta.url),
+  concessive_inversion: new URL("../data/concessive_inversion.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -377,6 +378,7 @@ const DRILLS_URLS = {
   singular_they: new URL("../data/singular_theyDrills.json", import.meta.url),
   say_tell_speak_talk: new URL("../data/say_tell_speak_talkDrills.json", import.meta.url),
   minor_word_formation: new URL("../data/minor_word_formationDrills.json", import.meta.url),
+  concessive_inversion: new URL("../data/concessive_inversionDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

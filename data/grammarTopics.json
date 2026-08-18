@@ -1462,5 +1462,13 @@
     "desc": "Blending, clipping, back-formation, akronimy i skrótowce — jak angielski tworzy nowe słowa przez łączenie, skracanie i redukcję liter — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40,
     "level": "c1"
+  },
+  {
+    "id": "concessive_inversion",
+    "icon": "🧗",
+    "title": "Inwersja ustępstwa (as / though)",
+    "desc": "Inwersja ustępstwa: Tired though she was, Fool as he was, Try as he might, Much as I'd like to — przymiotnik, rzeczownik lub czasownik na początku zdania zamiast although — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "c2"
   }
 ]
