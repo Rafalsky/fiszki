@@ -1,0 +1,106 @@
+[
+  {
+    "id": "control_verbs",
+    "order": 1,
+    "nameEn": "want/need/would like/expect + object + to-infinitive — control verbs",
+    "namePl": "want/need/would like/expect + dopełnienie + to-bezokolicznik — czasowniki control",
+    "rules": [
+      { "label": "Budowa", "text": "czasownik + dopełnienie (zaimek w formie dopełnieniowej lub rzeczownik) + to + bezokolicznik: I want you to stay. / She expects him to apologise." },
+      { "label": "Semantyczna rola dopełnienia", "text": "dopełnienie jest prawdziwym, odrębnym argumentem czasownika nadrzędnego — to ono ma wykonać czynność, a podmiot na nią wpływa lub jej oczekuje; taki wzorzec nazywa się 'control': want kontroluje, KTO wykona czynność nazwaną bezokolicznikiem." },
+      { "label": "Typowe czasowniki", "text": "want, need, would like, would prefer, expect, help — po każdym z nich dopełnienie + to-bezokolicznik: I need you to sign this. / We'd prefer him to wait outside." },
+      { "label": "Brak 'that'", "text": "po tych czasownikach NIE stawiamy zdania z 'that' w tym znaczeniu — niepoprawne: *I want that you stay; poprawnie tylko I want you to stay." },
+      { "label": "Kontrast z bezokolicznikiem bez dopełnienia", "text": "gdy nie podajemy wykonawcy, dopełnienie się pomija: I want to stay (ja zostaję) vs I want you to stay (ty zostajesz) — różnica w podmiocie czynności." }
+    ],
+    "usage": [
+      "Wyrażanie życzeń i oczekiwań wobec działania innej osoby (want you to call, expect them to arrive on time)",
+      "Grzeczne prośby i preferencje z would like / would prefer (I'd like you to meet someone)",
+      "Rejestr neutralny, bardzo częsty zarówno w mowie, jak i w piśmie",
+      "Odróżnianie od czasowników z that-clause (hope, suggest), które NIE przyjmują tego wzorca"
+    ],
+    "tags": ["want you to stay", "expect him to apologise", "need you to sign", "would like you to come"],
+    "examples": [
+      { "en": "I want you to meet my parents this weekend.", "pl": "Chcę, żebyś poznał moich rodziców w ten weekend." },
+      { "en": "The teacher expects every student to hand in the essay on time.", "pl": "Nauczyciel oczekuje, że każdy uczeń odda wypracowanie na czas." },
+      { "en": "We'd prefer you not to smoke inside the building.", "pl": "Wolelibyśmy, żebyś nie palił w budynku." },
+      { "en": "I need someone to help me carry these boxes.", "pl": "Potrzebuję kogoś, kto pomoże mi znieść te pudełka." }
+    ]
+  },
+  {
+    "id": "directive_verbs",
+    "order": 2,
+    "nameEn": "tell/ask/order/warn/advise/persuade/allow + object + to-infinitive — directive verbs",
+    "namePl": "tell/ask/order/warn/advise/persuade/allow + dopełnienie + to-bezokolicznik — czasowniki nakazu i wpływu",
+    "rules": [
+      { "label": "Budowa", "text": "czasownik + dopełnienie + to + bezokolicznik: She told him to wait. / They warned us not to go there alone." },
+      { "label": "Grupa znaczeniowa", "text": "czasowniki relacjonujące polecenia, prośby, rady, ostrzeżenia i zgody: tell, ask, order, instruct, warn, advise, persuade, encourage, invite, allow, permit, forbid." },
+      { "label": "Przeczenie przed bezokolicznikiem", "text": "'not' stawiamy bezpośrednio przed 'to', nie przed czasownikiem nadrzędnym: He warned me not to be late (nie: *He didn't warn me to be late — to zupełnie inne znaczenie)." },
+      { "label": "Rejestr formalny: order/instruct/forbid", "text": "order, instruct i forbid brzmią oficjalnie lub wojskowo/prawnie: The officer ordered the soldiers to retreat. / Smoking is forbidden to be practised here (rzadziej, zwykle w stronie biernej: Smoking is forbidden)." },
+      { "label": "persuade vs convince", "text": "persuade regularnie łączy się z tym wzorcem (persuaded her to come), convince w brytyjskim angielskim częściej z that-clause (convinced her that it was safe), choć convince + to-infinitive też występuje, zwłaszcza w AmE." }
+    ],
+    "usage": [
+      "Relacjonowanie poleceń, próśb i rad skierowanych do konkretnej osoby (told him to leave, advised her to rest)",
+      "Ostrzeżenia z warn — zwykle z przeczeniem before to-infinitive (warned us not to touch it)",
+      "Zgody i zakazy: allow/permit/forbid + dopełnienie + to-infinitive (allowed us to leave early)",
+      "Rejestr od potocznego (tell, ask) po formalny/urzędowy (instruct, order, forbid)"
+    ],
+    "tags": ["told him to wait", "warned us not to go", "persuaded her to come", "allowed us to leave"],
+    "examples": [
+      { "en": "The doctor advised him to cut down on salt.", "pl": "Lekarz doradził mu, żeby ograniczył sól." },
+      { "en": "They warned the tourists not to swim beyond the flags.", "pl": "Ostrzegli turystów, żeby nie pływali poza chorągiewkami." },
+      { "en": "Eventually she persuaded her boss to let her work from home.", "pl": "W końcu przekonała szefa, żeby pozwolił jej pracować z domu." },
+      { "en": "The rules forbid visitors to bring food into the museum.", "pl": "Regulamin zabrania zwiedzającym wnoszenia jedzenia do muzeum." }
+    ]
+  },
+  {
+    "id": "ecm_verbs",
+    "order": 3,
+    "nameEn": "believe/consider/know/understand/presume + object + to-infinitive — raising-to-object (ECM) verbs",
+    "namePl": "believe/consider/know/understand/presume + dopełnienie + to-bezokolicznik — czasowniki 'raising-to-object' (ECM)",
+    "rules": [
+      { "label": "Budowa", "text": "czasownik + dopełnienie + to + bezokolicznik, niemal wyłącznie z 'to be' lub czasownikami stanowymi: I believe him to be innocent. / We consider the plan to be flawed." },
+      { "label": "Dopełnienie NIE jest argumentem czasownika nadrzędnego", "text": "w odróżnieniu od want/tell, tu 'him' w 'believe him to be innocent' nie jest tym, w co ktoś wierzy sam w sobie — jest podmiotem zdania podrzędnego 'he is innocent', przesuniętym na pozycję dopełnienia; ta konstrukcja nazywana jest ECM (Exceptional Case Marking) lub raising-to-object." },
+      { "label": "Test z podmiotami pozornymi", "text": "dowodem, że dopełnienie nie jest prawdziwym argumentem, jest to, że mogą tam stać zaimki puste: I believe it to be true. / They consider there to be a serious risk — 'it' i 'there' nie mają żadnej roli semantycznej wobec 'believe/consider', tylko wobec 'to be'." },
+      { "label": "Alternatywa z that-clause", "text": "większość tych czasowników ma równoważną, częstszą w mowie formę z that: believe/know/understand/presume/suppose + that + zdanie: I believe (that) he is innocent. ≈ I believe him to be innocent (bardziej formalne, typowe dla pisma)." },
+      { "label": "Ograniczenie do stanów, nie czynności", "text": "wzorzec dobrze działa z 'to be' i czasownikami stanowymi (to have, to know), słabo lub wcale z czynnościowymi bezokolicznikami: naturalne I believe her to be honest, dziwne *I believe her to run every day (lepiej: I believe (that) she runs every day)." }
+    ],
+    "usage": [
+      "Rejestr formalny, typowy dla pisma prawniczego, dziennikarskiego i akademickiego (consider the theory to be outdated)",
+      "Wyrażanie opinii, przekonań i domniemań w sposób bardziej zwięzły niż zdanie z that (know him to be reliable)",
+      "Rozpoznawanie, że dopełnienie po tych czasownikach nie odpowiada na pytanie 'w co/kogo wierzę', tylko jest podmiotem ukrytego zdania podrzędnego",
+      "Podstawa dla odpowiadającej konstrukcji biernej z podmiotem: He is believed to be innocent (temat rozwinięty w 'Bierne struktury sprawozdawcze')"
+    ],
+    "tags": ["believe him to be innocent", "consider it to be true", "know her to be honest", "presume there to be a risk"],
+    "examples": [
+      { "en": "Investigators believe the fire to have been started deliberately.", "pl": "Śledczy uważają, że pożar wzniecono celowo." },
+      { "en": "The board considers the current strategy to be unsustainable.", "pl": "Zarząd uważa obecną strategię za niemożliwą do utrzymania." },
+      { "en": "We know him to be a man of his word.", "pl": "Wiemy, że jest człowiekiem słownym." },
+      { "en": "Scientists presume there to be water beneath the surface.", "pl": "Naukowcy przypuszczają, że pod powierzchnią jest woda." }
+    ]
+  },
+  {
+    "id": "same_subject_omission",
+    "order": 4,
+    "nameEn": "Omitting the object when subjects match — object + to-infinitive vs bare to-infinitive",
+    "namePl": "Pominięcie dopełnienia przy tożsamym podmiocie — object + to-infinitive a sam to-bezokolicznik",
+    "rules": [
+      { "label": "Reguła tożsamości podmiotów", "text": "gdy wykonawcą czynności nazwanej bezokolicznikiem jest ta sama osoba co podmiot zdania głównego, dopełnienia się NIE dodaje: I want to leave (ja chcę i ja wyjdę), nie *I want me to leave." },
+      { "label": "Dopełnienie pojawia się tylko przy innym wykonawcy", "text": "dopełnienie wraca, gdy wykonawca jest inny niż podmiot: I want you to leave (ty masz wyjść) — kontrast z I want to leave (ja mam wyjść)." },
+      { "label": "Wyjątek: reflexive dla emfazy", "text": "w rzadkich, emfatycznych kontekstach może pojawić się zaimek zwrotny zamiast pominięcia: I only want myself to blame — ale to wyjątkowe użycie, standardowo dopełnienie po prostu znika." },
+      { "label": "Pozycja przeczenia przy braku dopełnienia", "text": "bez dopełnienia przeczenie zwykle poprzedza cały bezokolicznik lub czasownik nadrzędny, w zależności od zasięgu znaczeniowego: I want not to go (rzadkie, książkowe) vs znacznie częstsze I don't want to go — z przesuniętym przeczeniem (negative raising), które zmienia gdzie logicznie stoi 'not', ale nie zmienia ogólnego sensu." },
+      { "label": "Kontrast przy dopełnieniu: dwie pozycje 'not' o różnym znaczeniu", "text": "gdy dopełnienie jest obecne, 'not' przed bezokolicznikiem neguje samą czynność dopełnienia (I want you not to go — proszę, żebyś nie szedł), a 'not' przy czasowniku nadrzędnym neguje samo chcenie (I don't want you to go — nie chcę, żebyś szedł); w praktyce oba zdania są bliskoznaczne, ale nie identyczne w naciskach." }
+    ],
+    "usage": [
+      "Wybór między 'I want to go' a 'I want him to go' w zależności od tego, kto wykonuje czynność",
+      "Unikanie typowego błędu uczących się: dodawania zbędnego zaimka, gdy podmioty są tożsame (*I want me to go)",
+      "Świadome różnicowanie dwóch pozycji przeczenia przy dopełnieniu (warned us not to go vs didn't warn us to go)",
+      "Rozpoznawanie negative raising przy braku dopełnienia (don't want to go zamiast rzadszego want not to go)"
+    ],
+    "tags": ["want to go", "want him to go", "warned us not to go", "didn't want to go"],
+    "examples": [
+      { "en": "I really want to try that new restaurant.", "pl": "Naprawdę chcę wypróbować tę nową restaurację." },
+      { "en": "I really want you to try that new restaurant.", "pl": "Naprawdę chcę, żebyś wypróbował tę nową restaurację." },
+      { "en": "She asked not to be disturbed during the meeting.", "pl": "Poprosiła, żeby jej nie przeszkadzać podczas spotkania." },
+      { "en": "He didn't ask her to stay, but he didn't want her to leave either.", "pl": "Nie poprosił jej, żeby została, ale też nie chciał, żeby wyszła." }
+    ]
+  }
+]
