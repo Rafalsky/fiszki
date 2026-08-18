@@ -1,0 +1,98 @@
+[
+  {
+    "id": "sluicing_basic",
+    "order": 1,
+    "nameEn": "Basic sluicing — ellipsis of an embedded question",
+    "namePl": "Podstawowe sluicing — elipsa osadzonego pytania po nieokreślonym elemencie",
+    "rules": [
+      { "label": "Budowa", "text": "zdanie z nieokreślonym elementem (someone, something, some reason, somewhere...) + but/and/so + samo wh-word — bez reszty zdania podrzędnego: Someone called, but I don't know who." },
+      { "label": "Odzyskiwalność", "text": "pominięta treść musi dać się jednoznacznie odtworzyć ze zdania poprzedzającego — who = who called, tylko wtedy elipsa jest zrozumiała" },
+      { "label": "Kontrast z pełnym zdaniem", "text": "Someone called, but I don't know who. = Someone called, but I don't know who called. — to samo znaczenie, sluicing brzmi naturalniej i unika powtórzenia" }
+    ],
+    "usage": [
+      "Someone left a note on my desk, but I don't know who.",
+      "She's moving abroad, though nobody knows where.",
+      "I know he's hiding something, but I don't know what.",
+      "A: 'I heard someone got fired.' B: 'Really? Who?'"
+    ],
+    "tags": ["but I don't know who", "though nobody knows where", "I don't know what"],
+    "examples": [
+      { "en": "Someone left a note on my desk, but I don't know who.", "pl": "Ktoś zostawił kartkę na moim biurku, ale nie wiem, kto." },
+      { "en": "She's moving abroad, though nobody knows where.", "pl": "Ona wyjeżdża za granicę, choć nikt nie wie, dokąd." },
+      { "en": "I know he's hiding something, but I don't know what.", "pl": "Wiem, że coś ukrywa, ale nie wiem, co." },
+      { "en": "'I heard someone got fired.' 'Really? Who?'", "pl": "„Słyszałem, że kogoś zwolnili.” „Naprawdę? Kogo?”" }
+    ]
+  },
+  {
+    "id": "sluicing_matrix_verbs",
+    "order": 2,
+    "nameEn": "Verbs introducing a sluice: wonder, ask, guess, decide, remember, imagine",
+    "namePl": "Czasowniki wprowadzające sluicing: wonder, ask, guess, decide, remember, imagine",
+    "rules": [
+      { "label": "Budowa", "text": "wonder / ask / guess / decide / remember / forget / imagine + samo wh-word, bez podmiotu i odmienionego czasownika: I wonder why." },
+      { "label": "Whether jako sluice", "text": "whether też może zostać samotne, opcjonalnie z 'or not': The project might get cancelled — I wonder whether (or not)." },
+      { "label": "if nie sluicuje się", "text": "if wprowadza pytania zależne (I don't know if he called), ale samo 'if' bez reszty zdania brzmi nienaturalnie — w sluicing używamy whether: I wonder whether. (nie: I wonder if.)" }
+    ],
+    "usage": [
+      "He's clearly annoyed, but I wonder why.",
+      "Somebody ate the last slice of cake. Can you guess who?",
+      "She wants to leave the company, but she hasn't decided when.",
+      "The project might get cancelled — I wonder whether."
+    ],
+    "tags": ["I wonder why", "can you guess who", "hasn't decided when", "wonder whether"],
+    "examples": [
+      { "en": "He's clearly annoyed, but I wonder why.", "pl": "Wyraźnie jest zirytowany, ale zastanawiam się, dlaczego." },
+      { "en": "Somebody ate the last slice of cake. Can you guess who?", "pl": "Ktoś zjadł ostatni kawałek ciasta. Zgadniesz, kto?" },
+      { "en": "She wants to leave the company, but she hasn't decided when.", "pl": "Chce odejść z firmy, ale jeszcze nie zdecydowała, kiedy." },
+      { "en": "The project might get cancelled — I wonder whether.", "pl": "Projekt może zostać odwołany — zastanawiam się, czy." }
+    ]
+  },
+  {
+    "id": "sluicing_prepositions",
+    "order": 3,
+    "nameEn": "Prepositions in a sluice: stranding vs. pied-piping",
+    "namePl": "Przyimki w sluicing: pozostawienie na końcu (stranding) a przeniesienie z wh-word (pied-piping)",
+    "rules": [
+      { "label": "Stranding (nieformalnie)", "text": "przyimek 'znika' razem z resztą zdania, zostaje sam wh-word — who zamiast whom: She was arguing with someone, but I don't know who." },
+      { "label": "Pied-piping (formalnie)", "text": "przyimek zostaje przeniesiony przed wh-word razem z nim, wtedy wymagane jest whom (nie who): She was arguing with someone, but I don't know with whom." },
+      { "label": "Zasada wyboru", "text": "stranding pasuje do mowy i codziennego pisma, pied-piping do stylu formalnego, akademickiego i pisanego" }
+    ],
+    "usage": [
+      "He's worried about something, but he won't say what. (informal)",
+      "He's worried about something, but he won't say about what. (formal)",
+      "They're waiting for someone, but nobody knows who. (informal)",
+      "They're waiting for someone, but nobody knows for whom. (formal)"
+    ],
+    "tags": ["I don't know who / with whom", "won't say what / about what", "for whom"],
+    "examples": [
+      { "en": "She was arguing with someone, but I don't know who.", "pl": "Kłóciła się z kimś, ale nie wiem, z kim. (potocznie)" },
+      { "en": "She was arguing with someone, but I don't know with whom.", "pl": "Kłóciła się z kimś, ale nie wiem, z kim. (formalnie)" },
+      { "en": "He borrowed money from someone, but I don't know who.", "pl": "Pożyczył od kogoś pieniądze, ale nie wiem, od kogo. (potocznie)" },
+      { "en": "He borrowed money from someone, but I don't know from whom.", "pl": "Pożyczył od kogoś pieniądze, ale nie wiem, od kogo. (formalnie)" }
+    ]
+  },
+  {
+    "id": "sluicing_extra",
+    "order": 4,
+    "nameEn": "Extended sluices: extra remnants, 'else', and parenthetical sluicing",
+    "namePl": "Rozszerzone sluicing: dodatkowe elementy, 'else' i sluicing wtrącone",
+    "rules": [
+      { "label": "Wzmacniacze", "text": "exactly, precisely, on earth mogą dołączyć się do wh-word w sluicing: I know she's upset, but why exactly, I have no idea." },
+      { "label": "'else' jako korelat", "text": "who else, what else, where else, how else — sluicing z 'else' pyta o dodatkowy, nieujawniony element: I don't know who else was invited." },
+      { "label": "Sluicing wtrącone", "text": "antecedent — wh-word — reszta zdania, wh-word wtrącony jako dygresja pomiędzy myślnikami lub przecinkami: Someone, I forget who, left this note on my desk." }
+    ],
+    "usage": [
+      "I know she's upset, but why exactly, I have no idea.",
+      "Someone else must have seen it too, but I don't know who else.",
+      "There's another way to solve this, though I couldn't tell you how else.",
+      "Someone — I forget who — left this note on my desk."
+    ],
+    "tags": ["why exactly", "who else / what else", "someone, I forget who"],
+    "examples": [
+      { "en": "I know she's upset, but why exactly, I have no idea.", "pl": "Wiem, że jest zdenerwowana, ale dlaczego dokładnie — nie mam pojęcia." },
+      { "en": "Someone else must have seen it too, but I don't know who else.", "pl": "Ktoś jeszcze musiał to widzieć, ale nie wiem, kto jeszcze." },
+      { "en": "There's another way to solve this, though I couldn't tell you how else.", "pl": "Jest inny sposób na rozwiązanie tego, choć nie potrafiłbym powiedzieć, jaki inny." },
+      { "en": "Someone — I forget who — left this note on my desk.", "pl": "Ktoś — zapomniałem, kto — zostawił tę kartkę na moim biurku." }
+    ]
+  }
+]
