@@ -1,95 +1,239 @@
 [
   {
-    "id": "a_an",
+    "id": "article_system_overview",
     "order": 1,
-    "nameEn": "a / an — indefinite article",
-    "namePl": "Przedimek nieokreślony a / an",
+    "nameEn": "The article system: the mental-file model and why Polish gets by without it",
+    "namePl": "System przedimków: model kartoteki umysłowej i dlaczego polski się bez niego obywa",
     "rules": [
-      { "label": "a", "text": "Przed rzeczownikami policzalnymi w liczbie pojedynczej, które zaczynają się na spółgłoskę (dźwięk spółgłoskowy)" },
-      { "label": "an", "text": "Przed rzeczownikami policzalnymi w liczbie pojedynczej, które zaczynają się na samogłoskę (dźwięk samogłoskowy)" }
+      {
+        "label": "Model kartoteki umysłowej (mental file / common ground)",
+        "text": "Najprostszy sposób, żeby zrozumieć przedimki, to przestać myśleć o nich jako o 'ozdobniku' przed rzeczownikiem, a zacząć traktować je jak INSTRUKCJĘ dla słuchacza, co zrobić z kartoteką w jego głowie. Za każdym razem, gdy wypowiadasz rzeczownik, otwierasz w umyśle rozmówcy mentalną 'kartę' tego bytu. 'A/an' mówi: 'to nowa karta — załóż ją, jeszcze jej nie masz'. 'The' mówi: 'to karta, którą już masz (albo za chwilę bez trudu znajdziesz) — odszukaj ją, nie zakładaj nowej'. Brak przedimka (zero article) mówi coś zupełnie innego: 'nie zakładamy tu żadnej pojedynczej karty — mówimy o całej kategorii albo o substancji, nie o egzemplarzu'. Cała reszta reguł to w istocie rozwinięcia tej jednej decyzji."
+      },
+      {
+        "label": "Rodowód: 'a' z liczebnika 'jeden', 'the' z zaimka wskazującego",
+        "text": "Żaden z przedimków nie powstał jako osobna część mowy — oba wyewoluowały z pospolitych słów przez wyblaknięcie znaczenia (semantic bleaching). 'A/an' to spłowiały staroangielski liczebnik 'ān' ('jeden' — ten sam rdzeń co 'one' i niemieckie 'ein'): z czasem 'jeden [konkretny egzemplarz]' zaczęło znaczyć po prostu 'jakiś, pewien', a nieakcentowana wymowa skróciła 'ān' do 'a/an'. 'The' to z kolei spłowiały zaimek wskazujący — staroangielski system miał osobne formy rodzajowe i przypadkowe (se, sēo, þæt — dosłownie 'ten/ta/to'), które w średnioangielskim uległy wyrównaniu do jednej, niezmiennej formy 'the'. Dlatego 'the' wciąż 'pokazuje palcem' na coś konkretnego — to skamieniałe 'ten właśnie', tylko pozbawione siły wskazywania z bliska (do tego służy dziś osobne 'this/that')."
+      },
+      {
+        "label": "Dlaczego polski radzi sobie bez przedimków",
+        "text": "Polski (podobnie jak większość języków słowiańskich) nie skostniał w ten sam sposób i do dziś rozstrzyga określoność/nieokreśloność innymi środkami: szykiem zdania (Na stole leży książka. = 'jakaś książka', nieokreślona, bo na końcu zdania vs Książka leży na stole. = 'ta książka', określona, bo na początku), aspektem czasownika oraz — gdy naprawdę trzeba to podkreślić — leksykalnie, słowami 'jakiś/pewien' (nieokreśloność) albo 'ten/tamten' (określoność). Staroangielski radził sobie właściwie tak samo, bez systemu przedimków. Innymi słowy: gramatyczna informacja, którą polski przekazuje kontekstem, szykiem i intonacją, angielski z czasem 'zamroził' w postaci osobnych, obowiązkowych słówek przed każdym rzeczownikiem policzalnym. To nie dodatkowa fanaberia angielszczyzny, lecz po prostu inny sposób kodowania tej samej informacji, którą i tak zawsze przekazujemy, mówiąc o świecie."
+      },
+      {
+        "label": "Trzy piętra systemu: a/an, the, zero",
+        "text": "Zamiast uczyć się dziesiątek osobnych 'reguł', warto zapamiętać, że przy każdym rzeczowniku w zasadzie odpowiadasz na dwa pytania po kolei: (1) Czy mówię o pojedynczym, policzalnym egzemplarzu, czy o całej kategorii/substancji? Jeśli o kategorii/substancji — zero article. (2) Jeśli o pojedynczym egzemplarzu: czy słuchacz jest w stanie jednoznacznie zidentyfikować, o KTÓRY konkretnie egzemplarz chodzi (bo był już wspomniany, jest jedyny w swoim rodzaju, albo kontekst go jednoznacznie wskazuje)? Jeśli tak — 'the'. Jeśli nie (to jeden z wielu możliwych, dowolny) — 'a/an'. Cztery kolejne podtematy to właśnie rozpisanie tych dwóch pytań na konkretne, praktyczne sytuacje."
+      }
     ],
     "usage": [
-      "Gdy o czymś mówimy po raz pierwszy",
-      "Gdy chodzi o jeden z wielu, niesprecyzowany egzemplarz",
-      "Przy zawodach i rolach (I'm a teacher.)",
-      "W wyrażeniach ilościowych i częstotliwości (once a week, a lot of)"
+      "Przy każdym rzeczowniku policzalnym w liczbie pojedynczej angielski WYMAGA jakiegoś przedimka (a/an/the) lub innego determinatora (my, this, some…) — samo 'nagie' rzeczownik w liczbie pojedynczej (*I saw dog) jest w standardowej angielszczyźnie niegramatyczne, inaczej niż w polskim.",
+      "Zero article nie jest 'brakiem reguły', tylko trzecią, równoprawną opcją systemu — świadomym wyborem, że mówimy o całej klasie, substancji albo pojęciu, a nie o jednym egzemplarzu.",
+      "Ten sam rzeczownik może w kolejnych zdaniach nosić kolejno wszystkie trzy przedimki, bo za każdym razem odpowiada na inne pytanie: 'I'd like a coffee' (dowolna, nieokreślona filiżanka) → 'The coffee is getting cold' (ta konkretna, już wspomniana) → 'I love coffee' (cała kategoria, substancja).",
+      "Wybór przedimka nigdy nie jest kwestią 'jak zabrzmi ładniej' — to precyzyjny sygnał logiczny, dlatego native speaker natychmiast wyczuwa nawet drobną pomyłkę jako zmianę SENSU zdania, nie tylko błąd stylistyczny."
     ],
-    "tags": ["a book", "an hour", "a university", "an MP"],
+    "tags": ["file card model", "common ground", "an < one", "the < demonstrative", "zero ≠ brak reguł"],
     "examples": [
-      { "en": "I saw a dog in the park.", "pl": "Zobaczyłem psa w parku." },
-      { "en": "She is an engineer.", "pl": "Ona jest inżynierką." },
-      { "en": "It took an hour to get there.", "pl": "Dotarcie tam zajęło godzinę." },
-      { "en": "He works at a university.", "pl": "On pracuje na uniwersytecie." }
+      { "en": "I'd like a coffee, please. The coffee here is amazing — I could drink coffee all day.", "pl": "Poproszę kawę. Kawa tutaj jest wyśmienita — mogłabym pić kawę cały dzień." },
+      { "en": "A man was standing outside. The man looked lost.", "pl": "Na zewnątrz stał jakiś mężczyzna. Ten mężczyzna wyglądał na zagubionego." },
+      { "en": "Dogs need exercise, but the dog next door never leaves the yard.", "pl": "Psy potrzebują ruchu, ale ten pies sąsiadów nigdy nie opuszcza podwórka." },
+      { "en": "She bought a house last year; the house is on the edge of the village.", "pl": "Kupiła w zeszłym roku dom; ten dom leży na skraju wsi." }
+    ]
+  },
+  {
+    "id": "a_an",
+    "order": 2,
+    "nameEn": "a / an — the indefinite article: opening a new file",
+    "namePl": "a / an — przedimek nieokreślony: zakładanie nowej kartoteki",
+    "rules": [
+      {
+        "label": "'A' wybiera JEDEN z wielu, nieokreślony egzemplarz",
+        "text": "'A/an' zakłada nową kartę i mówi: 'jest to jeden z wielu możliwych egzemplarzy tej kategorii — nie zależy mi (albo słuchacz nie wie), który dokładnie'. Stąd naturalne polskie tłumaczenie to często 'jakiś, pewien' (I saw a dog = 'zobaczyłem jakiegoś psa'), choć w praktyce zwykle w ogóle się tego nie tłumaczy — po prostu sygnalizujemy nieokreśloność przez sam fakt wspomnienia rzeczownika w tej pozycji zdania, tak jak robi to polski szyk."
+      },
+      {
+        "label": "Dźwięk, nie litera — reguła fonetyczna, nie ortograficzna",
+        "text": "Wybór między 'a' a 'an' zależy wyłącznie od tego, jak brzmi PIERWSZA GŁOSKA następnego słowa, nie jak wygląda pierwsza LITERA. Stąd pułapki: 'an hour' (h nieme), 'an MBA' (litera M czytana jak 'em' — samogłoska), 'an SOS' ('es-o-es'), ale 'a university' (u czytane jak 'ju' — spółgłoskowe [j]), 'a European' ([j]), 'a one-off chance' ([w]), 'a UFO' ([j]). To dokładnie ta sama logika, która każe nam mówić 'an hour' po angielsku, ale 'a house' — bo różnicę robi wyłącznie dźwięk, nigdy pisownia."
+      },
+      {
+        "label": "Pierwsza wzmianka i funkcja klasyfikująca",
+        "text": "'A/an' otwiera nową kartę na dwa różne sposoby, które warto odróżniać: (1) wprowadzenie nowego bytu do rozmowy, o którym za chwilę powiemy więcej (I met a woman yesterday — she turned out to be...), oraz (2) klasyfikacja — przypisanie czegoś do kategorii, bez zamiaru dalszego rozwijania wątku (She's a doctor. / It's a shame.). W obu wypadkach karta jest 'nowa' w tym sensie, że nie odsyłamy do niczego znanego wcześniej — różni się tylko to, czy planujemy do niej jeszcze wracać."
+      },
+      {
+        "label": "'A' jako ślad dawnego znaczenia 'jeden' — użycie dystrybutywne",
+        "text": "W wyrażeniach typu 'twice a day', 'fifty pence a kilo', '60 miles an hour' 'a' wciąż niesie swoje pierwotne znaczenie liczebnikowe — funkcjonuje jak polskie 'na' w 'dwa razy NA dzień' (dosłownie: 'dwa razy [na] jeden dzień'). To nie osobna, przypadkowa reguła do wykucia, tylko żywy ślad etymologii: 'a' wciąż potrafi znaczyć 'jeden', gdy kontekst tego wymaga."
+      },
+      {
+        "label": "Rzeczownik niepoliczalny + 'a' = policzalny 'przypadek/rodzaj/porcja'",
+        "text": "Rzeczowniki niepoliczalne (abstrakcyjne lub materiałowe) mogą przyjąć 'a/an', gdy mówimy o KONKRETNYM PRZEJAWIE, rodzaju albo porcji tej rzeczy, a nie o samej substancji/pojęciu w ogóle: 'knowledge' (wiedza w ogóle, niepoliczalna) → 'a good knowledge of French' (konkretny, mierzalny poziom tej wiedzy); 'coffee' (kawa jako napój) → 'a coffee' (jedna porcja/filiżanka); 'a wine I'd recommend' (konkretny gatunek wina, nie płyn w ogóle)."
+      }
+    ],
+    "usage": [
+      "Gdy o czymś mówimy po raz pierwszy i planujemy rozwinąć wątek (A new employee started today. He seems very capable.)",
+      "Przy klasyfikowaniu, opisywaniu zawodu, roli, typu (I'm a teacher. / This is a disaster.)",
+      "W wyrażeniach ilościowych i częstotliwości noszących ślad dawnego 'jeden' (once a week, 70 km an hour, a dozen)",
+      "Gdy niepoliczalny rzeczownik oznacza tu konkretny przejaw, rodzaj lub porcję (a knowledge of, a coffee, a silence fell over the room)"
+    ],
+    "tags": ["a book", "an hour", "a university", "an MBA", "twice a day", "a knowledge of"],
+    "examples": [
+      { "en": "I saw a dog in the park — it looked exactly like yours.", "pl": "Zobaczyłem w parku jakiegoś psa — wyglądał dokładnie jak twój." },
+      { "en": "It took an hour to get there, even though it's usually a fifteen-minute drive.", "pl": "Dotarcie tam zajęło godzinę, chociaż zwykle to piętnaście minut jazdy." },
+      { "en": "He works at a university, but I couldn't tell you which one.", "pl": "On pracuje na jakimś uniwersytecie, ale nie potrafiłabym powiedzieć, na którym." },
+      { "en": "She has a remarkable knowledge of medieval history.", "pl": "Ma niezwykłą wiedzę na temat historii średniowiecza." },
+      { "en": "Could I get a coffee and a water, please?", "pl": "Czy mogę prosić kawę i wodę?" }
     ]
   },
   {
     "id": "the",
-    "order": 2,
-    "nameEn": "the — definite article",
-    "namePl": "Przedimek określony the",
+    "order": 3,
+    "nameEn": "the — the definite article: pointing at the card you already have",
+    "namePl": "the — przedimek określony: wskazywanie karty, którą już masz",
     "rules": [
-      { "label": "Liczba", "text": "the działa zarówno z rzeczownikami w liczbie pojedynczej, jak i mnogiej" },
-      { "label": "Policzalność", "text": "the łączy się zarówno z rzeczownikami policzalnymi, jak i niepoliczalnymi" }
+      {
+        "label": "Trzy drogi do 'identyfikowalności'",
+        "text": "'The' zawsze mówi to samo: 'słuchacz jest w stanie jednoznacznie wskazać, o KTÓRY egzemplarz chodzi'. Do tej identyfikowalności prowadzą trzy niezależne drogi, i warto je rozróżniać, bo mylenie ich to najczęstsze źródło błędów u zaawansowanych uczących się: (1) ANAFORYCZNA — był już wcześniej wspomniany w rozmowie (I bought a book and a pen — the book was expensive); (2) SYTUACYJNA — nie był wspomniany, ale jest jednoznaczny z fizycznego, społecznego lub kulturowego kontekstu (Can you close the door? — w tym pokoju są drzwi tylko jedne; the Queen, the internet — unikalne w danej kulturze/świecie); (3) KATAFORYCZNA — staje się jednoznaczny dopiero DZIĘKI temu, co po nim następuje, czyli przez zawężający dopełniacz, przyimek 'of' albo zdanie względne (the book ON THE TABLE, the man WHO CALLED YESTERDAY) — samo postmodyfikujące doprecyzowanie wystarcza, żeby 'the' było uprawnione, mimo że rzeczownik pojawia się pierwszy raz."
+      },
+      {
+        "label": "Jedyny w swoim rodzaju — nie liczba mnoga, nie policzalność decydują",
+        "text": "'The' łączy się równie naturalnie z liczbą pojedynczą i mnogą oraz z rzeczownikami policzalnymi i niepoliczalnymi (the door, the doors, the water in this lake) — bo o wyborze 'the' NIGDY nie decyduje forma gramatyczna rzeczownika, tylko właśnie identyfikowalność referenta. Dlatego rzeczy jedyne w swoim rodzaju w danym kontekście — the sun, the sky, the internet, the Pope — biorą 'the' nawet przy pierwszej wzmiance: skoro istnieje tylko jedno słońce, słuchacz od razu wie, o które chodzi, więc karta jest 'z góry' identyfikowalna, bez potrzeby wcześniejszego wspomnienia."
+      },
+      {
+        "label": "'The' ze stopniem najwyższym — ta sama logika, inna maska",
+        "text": "Stopień najwyższy (the best, the tallest, the most interesting) też wymaga 'the' z dokładnie tego samego powodu co reszta systemu: 'najlepszy w danej grupie' z definicji wskazuje na JEDEN, jednoznacznie zidentyfikowany element (nie może być dwóch 'najlepszych'), więc identyfikowalność jest tu wbudowana w samo znaczenie przymiotnika, a nie osobną, arbitralną regułą do zapamiętania obok pozostałych zastosowań 'the'."
+      },
+      {
+        "label": "Silna wymowa 'the' [ðiː] — kontrastywne podkreślenie",
+        "text": "W normalnej mowie 'the' wymawiane jest słabo, zredukowanie ([ðə] przed spółgłoską, [ði] przed samogłoską). Gdy jednak mówiący akcentuje 'the' mocną wymową [ðiː] przed rzeczownikiem, sygnalizuje coś dodatkowego: 'ten JEDYNY prawdziwy, najważniejszy, wzorcowy egzemplarz' (He's THE expert on this subject — nie jeden z ekspertów, lecz TEN najważniejszy). To rozszerzenie tej samej zasady unikalności o wymiar oceniający/emfatyczny, typowe dla rejestru mówionego i nieformalnego."
+      }
     ],
     "usage": [
-      "Gdy mówimy o czymś konkretnym, znanym rozmówcy",
-      "Gdy wspominamy coś po raz drugi (już wcześniej wymienione)",
-      "Z rzeczownikami unikalnymi (the sun, the internet, the president)",
-      "Ze stopniem najwyższym przymiotników (the best, the biggest)"
+      "Anaforycznie — gdy wspominamy coś po raz drugi, już wcześniej wprowadzone (I bought a book and a pen — the book was expensive.)",
+      "Sytuacyjnie — z rzeczownikami unikalnymi w danym kontekście lub kulturze (the sun, the internet, the government, close the door)",
+      "Kataforycznie — gdy identyfikowalność zapewnia następujący po rzeczowniku dopełniacz, 'of' albo zdanie względne (the man in the corner, the fact that she left)",
+      "Ze stopniem najwyższym przymiotników i przysłówków (the best, the biggest, the most quickly)",
+      "Z mocnym akcentem [ðiː] dla podkreślenia wyjątkowości, wzorcowości czegoś (the place to be, THE authority on the topic)"
     ],
-    "tags": ["the sun", "the best", "the UK", "the internet"],
+    "tags": ["the sun", "the best", "the man who called", "anaphoric", "cataphoric", "[ðiː] emphatic"],
     "examples": [
-      { "en": "Can you close the door, please?", "pl": "Czy możesz zamknąć drzwi?" },
-      { "en": "The Earth goes round the Sun.", "pl": "Ziemia krąży wokół Słońca." },
-      { "en": "She is the best student in the class.", "pl": "Ona jest najlepszą uczennicą w klasie." },
-      { "en": "I bought a book and a pen — the book was expensive.", "pl": "Kupiłem książkę i długopis — ta książka była droga." }
+      { "en": "Can you close the door, please? It's getting cold in here.", "pl": "Czy możesz zamknąć drzwi? Robi się tu zimno." },
+      { "en": "I bought a book and a pen — the book was expensive, but the pen was cheap.", "pl": "Kupiłem książkę i długopis — ta książka była droga, ale ten długopis był tani." },
+      { "en": "The man who called yesterday still hasn't texted back.", "pl": "Ten mężczyzna, który dzwonił wczoraj, wciąż nie napisał." },
+      { "en": "She is, without question, the most talented violinist of her generation.", "pl": "Jest, bez wątpienia, najbardziej utalentowaną skrzypaczką swojego pokolenia." },
+      { "en": "If you want real advice on tax law, he's THE person to ask.", "pl": "Jeśli chcesz naprawdę dobrej rady w sprawach podatkowych, to on jest TĄ osobą, którą trzeba zapytać." }
     ]
   },
   {
     "id": "zero_article",
-    "order": 3,
-    "nameEn": "Zero article (no article)",
-    "namePl": "Brak przedimka",
+    "order": 4,
+    "nameEn": "Zero article: no card at all — categories, substances, and roles",
+    "namePl": "Brak przedimka: żadna karta — kategorie, substancje i role",
     "rules": [
-      { "label": "Niepoliczalne", "text": "Brak przedimka, gdy mówimy ogólnie o rzeczownikach niepoliczalnych (np. water, music, information)" },
-      { "label": "Mnoga ogólna", "text": "Brak przedimka przed rzeczownikami policzalnymi w liczbie mnogiej, gdy mówimy o nich ogólnie (np. Dogs are loyal.)" },
-      { "label": "W ćwiczeniach", "text": "Jeśli zdanie nie wymaga przedimka, wpisz myślnik: -" }
+      {
+        "label": "Generyczność: mówimy o CAŁEJ kategorii, nie o egzemplarzu",
+        "text": "Zero article przy rzeczowniku niepoliczalnym lub policzalnym w liczbie mnogiej sygnalizuje, że nie zakładamy żadnej pojedynczej karty — mówimy o całej klasie bytów albo o substancji jako takiej, bez wskazywania na żaden konkretny egzemplarz (Dogs are loyal animals. = mówimy o gatunku, nie o konkretnych psach; I love music. = o całym zjawisku, nie o konkretnym utworze). To trzecia, w pełni logiczna odpowiedź na pytanie 'czy mówię o pojedynczym egzemplarzu', obok 'a/an' i 'the' — nie brak reguły, tylko inna, równie precyzyjna reguła."
+      },
+      {
+        "label": "Instytucje: rola/cel funkcji kontra fizyczny budynek",
+        "text": "Najbardziej pouczający przypadek zero article to rzeczowniki instytucjonalne: school, prison, hospital (BrE), church, university, bed, work. Bez przedimka opisują UDZIAŁ w typowej dla tej instytucji roli/czynności, nie fizyczne miejsce: 'go to prison' = zostać skazanym (rola: więzień), 'go to school' = uczyć się (rola: uczeń), 'in bed' = śpiąc/odpoczywając (stan, nie mebel). Z 'the' te same rzeczowniki opisują zwykły, fizyczny budynek lub przedmiot, odwiedzany z zewnątrz, niezależnie od typowej roli: 'go to THE prison' = odwiedzić kogoś tam jako gość (np. dziennikarz), 'go to THE school' = pójść tam np. na zebranie jako rodzic, 'sit on THE bed' = usiąść na meblu, nie 'być w łóżku' jako pacjent czy śpiący. To rozróżnienie — funkcja instytucji vs jej fizyczna powłoka — jest logiczne, nie arbitralne, i pozwala samodzielnie odgadnąć, czy dany kontekst wymaga 'the', bez uczenia się każdego przypadku osobno."
+      },
+      {
+        "label": "Posiłki, sporty, języki, środki transportu — czynność jako kategoria",
+        "text": "Have breakfast, play football, speak French, by car/on foot — we wszystkich tych przypadkach rzeczownik nie odnosi się do jednego konkretnego egzemplarza (tego posiłku, tej piłki, tego samochodu), tylko do CZYNNOŚCI albo KATEGORII jako takiej: 'have breakfast' to nazwa rytuału, nie opis zjedzenia konkretnej porcji jedzenia; 'by car' to sposób przemieszczania się jako kategoria środka transportu, nie wskazanie na konkretny pojazd. Gdy jednak chcemy mówić o KONKRETNYM egzemplarzu, przedimek natychmiast wraca: 'the breakfast we had at that hotel was amazing', 'the car outside is mine'."
+      },
+      {
+        "label": "Imiona własne — z natury już jednoznaczne, więc bez przedimka",
+        "text": "Większość imion, nazwisk, miast i krajów nie potrzebuje 'the', bo sama nazwa własna JEST już maksymalnie jednoznaczną etykietą — nie trzeba dodatkowo sygnalizować identyfikowalności przedimkiem, skoro identyfikowalność jest wbudowana w samą nazwę (Anna, London, Poland). To dokładnie odwrotna logika niż przy 'the sun' — tam jedyność wynika z FAKTU O ŚWIECIE (jest tylko jedno słońce), tu z KONWENCJI NAZEWNICZEJ (nazwy własne z definicji wskazują jeden, znany desygnat). Zobacz temat 'the z nazwami geograficznymi i wyjątki', gdzie wyjaśnione jest, dlaczego niektóre nazwy geograficzne jednak łamią tę zasadę."
+      }
     ],
     "usage": [
-      "Ogólne stwierdzenia o rzeczach, ludziach lub pojęciach (Books are expensive.)",
-      "Posiłki, gdy mówimy o nich ogólnie (have breakfast, at lunch)",
-      "Większość imion, nazwisk, miast i krajów (Poland, London, Anna)",
-      "Języki, przedmioty szkolne, sporty (speak English, play football)"
+      "Ogólne stwierdzenia o całych kategoriach rzeczy, ludzi lub pojęć (Books are expensive. / Water is essential to life.)",
+      "Instytucje w ich typowej, funkcjonalnej roli, nie jako budynek (go to school/prison/church/hospital[BrE]/work, at university, in bed)",
+      "Posiłki, sporty, języki, przedmioty szkolne, środki transportu jako kategorie czynności (have breakfast, play football, speak English, by car)",
+      "Większość imion, nazwisk, miast i krajów — jednoznacznych już dzięki samej nazwie własnej (Poland, London, Anna)"
     ],
-    "tags": ["water", "dogs", "breakfast", "London"],
+    "tags": ["water", "dogs", "go to prison vs the prison", "in bed vs on the bed", "London"],
     "examples": [
-      { "en": "Dogs are loyal animals.", "pl": "Psy są lojalnymi zwierzętami." },
-      { "en": "I love music.", "pl": "Uwielbiam muzykę." },
-      { "en": "We usually have breakfast at 7am.", "pl": "Zwykle jemy śniadanie o 7." },
-      { "en": "She lives in Poland.", "pl": "Ona mieszka w Polsce." }
+      { "en": "Dogs are loyal animals, though of course every dog is different.", "pl": "Psy są lojalnymi zwierzętami, choć oczywiście każdy pies jest inny." },
+      { "en": "He's been in prison for three years now.", "pl": "Siedzi w więzieniu już od trzech lat." },
+      { "en": "The journalist was allowed into the prison to interview two inmates.", "pl": "Dziennikarzowi pozwolono wejść do więzienia, by przeprowadzić wywiad z dwoma więźniami." },
+      { "en": "We usually have breakfast at 7am, but the breakfast at that hotel started at 6.", "pl": "Zwykle jemy śniadanie o 7, ale w tym hotelu śniadanie zaczynało się o 6." },
+      { "en": "She lives in Poland now, but she grew up in the Poland of the 1980s.", "pl": "Teraz mieszka w Polsce, ale dorastała w Polsce lat 80." }
     ]
   },
   {
     "id": "geo_exceptions",
-    "order": 4,
-    "nameEn": "the with geographical names & exceptions",
-    "namePl": "the z nazwami geograficznymi i wyjątki",
+    "order": 5,
+    "nameEn": "the with geographical names: the logic behind the exceptions",
+    "namePl": "the z nazwami geograficznymi: logika stojąca za wyjątkami",
     "rules": [
-      { "label": "Bez the", "text": "Kontynenty, większość krajów i miast, jeziora, pojedyncze góry (Europe, Poland, Paris, Lake Michigan, Mount Everest)" },
-      { "label": "Z the", "text": "Nazwy złożone z Kingdom/States/Republic, rzeki, morza, oceany, pustynie, łańcuchy górskie, grupy wysp (the UK, the Thames, the Sahara, the Alps, the Bahamas)" }
+      {
+        "label": "Nazwy polityczne z ukrytym rzeczownikiem pospolitym",
+        "text": "'The United States', 'the United Kingdom', 'the Philippines', 'the Netherlands' biorą 'the' nie dlatego, że to arbitralna lista do wykucia, lecz dlatego, że gramatycznie są to nazwy w LICZBIE MNOGIEJ (kraj postrzegany jako zbiór stanów/wysp/prowincji) albo eliptyczne skróty pełnej nazwy z ukrytym rzeczownikiem pospolitym: 'the United States [of America]' to naprawdę 'ten zjednoczony zbiór stanów', 'the Netherlands' dosłownie 'te niższe krainy' (nether + lands, liczba mnoga). 'The' pojawia się tu z tego samego powodu, co przy zwykłej liczbie mnogiej rzeczowników pospolitych identyfikowanej z kontekstu — nie jest to osobna reguła 'dla krajów', tylko konsekwencja gramatycznej liczby mnogiej ukrytej w samej nazwie."
+      },
+      {
+        "label": "Rzeki, morza, oceany — nazwa własna jako przymiotnik przy domyślnym rzeczowniku pospolitym",
+        "text": "'The Thames', 'the Pacific', 'the Sahara' historycznie wywodzą się z pełnych fraz 'the river Thames', 'the Pacific Ocean', 'the Sahara Desert', gdzie 'the' określało rzeczownik pospolity (river/ocean/desert) — unikalny w danym kontekście geograficznym — a nazwa własna (Thames/Pacific/Sahara) pełniła funkcję niemal przymiotnikową, doprecyzowującą, o KTÓRĄ rzekę/ocean/pustynię chodzi. Z czasem rzeczownik pospolity bywa pomijany w mowie potocznej, ale 'the' zostaje, bo to WŁAŚNIE ono, a nie nazwa własna, niosło całą identyfikowalność frazy."
+      },
+      {
+        "label": "Łańcuchy górskie i grupy wysp — z natury zbiorowe (liczba mnoga)",
+        "text": "'The Alps', 'the Bahamas', 'the Canaries' biorą 'the' z tego samego powodu co kraje w liczbie mnogiej: to nazwy ZBIORÓW gór/wysp, gramatycznie rzeczowniki w liczbie mnogiej (Alp-s, Bahama-s), więc identyfikowalność całego zbioru sygnalizowana jest tak samo jak przy każdej innej określonej liczbie mnogiej. Pojedyncza góra czy pojedyncza wyspa natomiast jest, jak zwykła nazwa własna, sama w sobie jednoznaczna — dlatego 'Mount Everest' i 'Sicily' nie potrzebują 'the': to pojedynczy, unikalny desygnat, a nie zbiór."
+      },
+      {
+        "label": "Kontynenty i większość krajów: nazwa już wystarczająco jednoznaczna",
+        "text": "Pojedyncze, niepodzielne (z gramatycznego punktu widzenia) nazwy krajów i kontynentów — Poland, France, Japan, Europe, Africa — zachowują się jak zwykłe imiona własne: same z siebie jednoznacznie wskazują desygnat, bez potrzeby dodatkowego sygnału 'the'. To nie wyjątek od reguły geograficznej, tylko domyślny, 'spokojny' przypadek — to WŁAŚNIE kraje w liczbie mnogiej, rzeki, łańcuchy gór i pustynie odchylają się od tej normy, bo niosą w sobie ukrytą liczbę mnogą albo ukryty rzeczownik pospolity."
+      }
     ],
     "usage": [
-      "Kraje w liczbie mnogiej lub z Republic/Kingdom/States → the",
-      "Rzeki, morza, oceany, kanały → the",
-      "Łańcuchy górskie i grupy wysp → the, ale pojedyncze góry i wyspy → bez the",
-      "Większość pozostałych krajów, miast i kontynentów → bez the"
+      "Nazwy polityczne w liczbie mnogiej lub eliptyczne z ukrytym rzeczownikiem pospolitym → the (the United States, the Netherlands, the Philippines)",
+      "Rzeki, morza, oceany, kanały, pustynie — nazwa własna przy domyślnym 'river/ocean/desert' → the (the Thames, the Atlantic, the Sahara)",
+      "Łańcuchy górskie i grupy wysp — z natury zbiorowe, liczba mnoga → the, ale pojedyncze góry i wyspy → bez the (the Alps vs Mont Blanc, the Canaries vs Tenerife)",
+      "Kontynenty i większość pojedynczych krajów, miast — nazwa już sama w sobie jednoznaczna → bez the (Europe, Japan, Paris)"
     ],
-    "tags": ["the USA", "the Thames", "the Alps", "Mount Everest"],
+    "tags": ["the USA", "the Thames", "the Alps", "Mount Everest", "hidden common noun"],
     "examples": [
-      { "en": "He was born in the United States.", "pl": "Urodził się w Stanach Zjednoczonych." },
-      { "en": "Every day, boats travel along the Thames.", "pl": "Każdego dnia po Tamizie pływają łodzie." },
-      { "en": "We spent our holiday hiking in the Alps.", "pl": "Spędziliśmy wakacje na wędrówkach po Alpach." },
-      { "en": "She has always dreamed of visiting Japan.", "pl": "Zawsze marzyła o odwiedzeniu Japonii." }
+      { "en": "He was born in the United States, though his family later moved to Canada.", "pl": "Urodził się w Stanach Zjednoczonych, choć jego rodzina przeprowadziła się później do Kanady." },
+      { "en": "Every day, boats travel along the Thames, right through the heart of London.", "pl": "Każdego dnia po Tamizie pływają łodzie, prosto przez serce Londynu." },
+      { "en": "We spent our holiday hiking in the Alps, but next year we're climbing Mont Blanc itself.", "pl": "Spędziliśmy wakacje na wędrówkach po Alpach, ale w przyszłym roku wchodzimy na sam Mont Blanc." },
+      { "en": "She has always dreamed of visiting Japan and, one day, crossing the Pacific by boat.", "pl": "Zawsze marzyła o odwiedzeniu Japonii i, pewnego dnia, przepłynięciu Pacyfiku łodzią." },
+      { "en": "The plane flew straight over the Sahara before landing in Morocco.", "pl": "Samolot przeleciał prosto nad Saharą, zanim wylądował w Maroku." }
+    ]
+  },
+  {
+    "id": "article_nuances_c2",
+    "order": 6,
+    "nameEn": "Advanced nuances: shifting articles with proper names and abstract nouns",
+    "namePl": "Niuanse C1/C2: zmienne przedimki przy nazwach własnych i rzeczownikach abstrakcyjnych",
+    "rules": [
+      {
+        "label": "'A' + nazwisko = ktoś nieznany, twierdzący, że nosi to imię",
+        "text": "Nazwiska własne są z natury jednoznaczne (patrz zero article), ale gdy poprzedzimy je 'a/an', celowo cofamy tę jednoznaczność: 'a Mr Johnson called for you' znaczy 'zadzwonił ktoś, kto PODAŁ SIĘ za pana Johnsona' — nowy, niezidentyfikowany byt, tyle że akurat nazywający się tak, a nie inaczej. To dokładnie ta sama logika co przy zwykłym 'a' — otwieramy nową kartę, tylko etykietujemy ją nazwiskiem zamiast rodzajem rzeczownika."
+      },
+      {
+        "label": "'The' + nazwisko + zdanie względne = konkretny, znany desygnat",
+        "text": "Z kolei 'the' przed nazwiskiem, zwykle wsparte zdaniem względnym lub kontekstem, przywraca jednoznaczność w INNY sposób niż zwykła nazwa własna: 'the Mr Johnson I told you about' albo 'Not THE Winston Churchill?' zakładają, że słuchacz zna już (lub właśnie się dowiaduje) o istnieniu więcej niż jednej osoby o tym nazwisku/imieniu, spośród których 'the' wybiera TĘ jedną, sławną lub wcześniej wspomnianą. To kataforyczne/anaforyczne 'the' nałożone na nazwę własną, która sama z siebie zwykle by go nie potrzebowała."
+      },
+      {
+        "label": "'A' + marka = egzemplarz danego typu, nie sama marka",
+        "text": "'A Rolex', 'a Picasso', 'a Kleenex' — przedimek nieokreślony przed nazwą marki lub artysty przesuwa znaczenie z 'marki jako takiej' na 'jeden egzemplarz produktu tej marki/dzieła tego artysty': 'she owns a Picasso' = posiada jeden konkretny obraz autorstwa Picassa, nie 'posiada Picassa' jako osobę czy markę. To ten sam mechanizm co przy niepoliczalnym rzeczowniku przybierającym 'a' w znaczeniu 'egzemplarz/rodzaj' (patrz 'a knowledge of' w temacie a/an) — nazwa własna zostaje tu potraktowana jak rzeczownik pospolity, oznaczający kategorię produktów."
+      },
+      {
+        "label": "Rzeczownik abstrakcyjny wzmocniony przymiotnikiem ocennym przyciąga 'a/an'",
+        "text": "Rzeczowniki niepoliczalne w rodzaju 'understanding', 'interest', 'feeling', gdy tylko dodamy do nich przymiotnik OCENNY/JAKOŚCIOWY, zwykle domagają się 'a/an', bo przestają opisywać samo pojęcie w ogóle, a zaczynają opisywać jeden, skonkretyzowany PRZEJAW tego pojęcia o określonej jakości: 'understanding' (rozumienie w ogóle) → 'a deep understanding of the issue' (konkretny, mierzalny poziom rozumienia); 'interest' → 'a genuine interest in art'. Bez przymiotnika oceniającego intensywność/rodzaj rzeczownik zwykle wraca do zera: 'She showed interest.' (ogólne zainteresowanie jako stan) vs 'She showed a genuine interest.' (skonkretyzowany, jakościowo określony przejaw tego stanu)."
+      },
+      {
+        "label": "Stałe zwroty przyimkowe: przedimek ginie tam, gdzie fraza skostniała w idiom",
+        "text": "Wyrażenia typu 'in bed', 'at school', 'by car', 'on foot', 'to sea' (zob. zero article) należy odróżniać od pozornie podobnych, ale w pełni 'żywych' fraz z przedimkiem: 'to go to sea' (zostać marynarzem — idiom, zero article) vs 'to go to THE sea' (pojechać nad morze na wakacje — zwykła, w pełni kompozycyjna fraza z konkretnym miejscem). Im bardziej fraza skostniała w idiom o przenośnym, zrytualizowanym znaczeniu, tym większa szansa, że straciła przedimek po drodze — to nie chaos, lecz naturalny skutek gramatykalizacji: częste, utarte zwroty z czasem 'zużywają' swoją gramatykę tak jak zużywają swoje dosłowne znaczenie."
+      }
+    ],
+    "usage": [
+      "'A' + nazwisko dla nieznanej, niezidentyfikowanej osoby noszącej to nazwisko (A Mrs Parker is waiting for you in reception.)",
+      "'The' + nazwisko (często z 'not' lub zdaniem względnym) dla wybrania sławnego lub wcześniej wspomnianego desygnata spośród kilku możliwych (Is that THE Meryl Streep?)",
+      "'A' + marka/nazwisko artysty dla pojedynczego egzemplarza produktu lub dzieła (a Ferrari, a Rembrandt hanging in the hallway)",
+      "Rzeczownik abstrakcyjny + przymiotnik oceniający przyciąga 'a/an', nawet jeśli sam rzeczownik jest zwykle niepoliczalny (a real sense of relief, an uncanny knack for languages)",
+      "Skostniałe idiomy przyimkowe tracą przedimek tam, gdzie zwykła, dosłowna fraza by go zachowała (go to sea vs go to the sea)"
+    ],
+    "tags": ["a Mr Johnson", "THE Meryl Streep", "a Picasso", "a genuine interest", "go to sea vs the sea"],
+    "examples": [
+      { "en": "A Mr Kowalski called this morning — he wouldn't say what it was about.", "pl": "Dzwonił dziś rano jakiś pan Kowalski — nie chciał powiedzieć, o co chodzi." },
+      { "en": "Wait — is that THE David Beckham, or just someone who looks like him?", "pl": "Czekaj — to TEN David Beckham, czy tylko ktoś, kto go przypomina?" },
+      { "en": "There's a genuine Rembrandt hanging above the fireplace, believe it or not.", "pl": "Nad kominkiem wisi prawdziwy Rembrandt, uwierz lub nie." },
+      { "en": "He showed a remarkable understanding of the problem for someone so young.", "pl": "Jak na kogoś tak młodego, wykazał się niezwykłym zrozumieniem problemu." },
+      { "en": "Her grandfather went to sea at sixteen and never lived in one place for long again.", "pl": "Jej dziadek został marynarzem w wieku szesnastu lat i już nigdy długo nie mieszkał w jednym miejscu." }
     ]
   }
 ]
