@@ -6,50 +6,31 @@
     "namePl": "Czas teraźniejszy prosty",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + czasownik (do 3. os. lp. + -s/-es)"
+        "label": "Budowa",
+        "text": "Podmiot + czasownik (w 3. os. lp. + -s/-es); przeczenia i pytania tworzone są przez posiłkowe do/does + not."
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + do/does not (don't/doesn't) + czasownik"
+        "label": "Geneza do-support",
+        "text": "W staro- i średnioangielskim przeczenia i pytania budowano bez żadnego 'do' — po prostu przestawiano czasownik (Knowest thou? = 'Wiesz?'). 'Puste', semantycznie niczego nie znaczące 'do' pojawiło się dopiero w XV–XVI wieku jako efekt zmian w szyku zdania i zaniku ruchu czasownika głównego przed podmiot. To jedna z niewielu cech gramatycznych, które odróżniają angielski od pozostałych języków germańskich — niemiecki czy niderlandzki do dziś pytają bez odpowiednika 'do'."
       },
       {
-        "label": "Pytanie",
-        "text": "Do/Does + podmiot + czasownik?"
+        "label": "Model myślowy: zerowy aspekt",
+        "text": "Present Simple to 'domyślny', nieoznaczony aspektowo czas — opisuje sytuację z zewnątrz, jako zamknięty fakt bez wewnętrznej struktury czasowej (bez początku, środka i końca widocznych z perspektywy mówiącego). To dlatego jest naturalnym domem dla czasowników stanowych (know, believe, own) — stan nie ma 'wnętrza', do którego można by wejrzeć, jak w czasie ciągłym."
       }
     ],
     "usage": [
-      "Czynności rutynowe i nawyki",
-      "Fakty i prawdy ogólne",
-      "Rozkłady jazdy i harmonogramy",
-      "Uczucia i stany, które nie są chwilowe"
+      "Rutyny i nawyki — czynności powtarzalne, których pojedyncze wystąpienie nie jest ważne, liczy się sam wzorzec (He jogs every morning.)",
+      "Fakty, prawa naukowe i prawdy ogólne — sytuacje bezczasowe, prawdziwe niezależnie od chwili mówienia (Light travels faster than sound.)",
+      "Rozkłady jazdy, harmonogramy, programy wydarzeń — traktowane gramatycznie jak obiektywne, ustalone 'fakty' zewnętrzne wobec woli mówiącego, dlatego mimo odniesienia do przyszłości używamy czasu teraźniejszego (The exhibition opens on Friday.)",
+      "Komentarz sportowy i relacje na żywo — seria następujących po sobie czynności przedstawiana jako ciąg niemal bezczasowych 'zdjęć' zdarzeń (He passes to Silva, Silva shoots — and scores!)",
+      "Czasowniki performatywne — samo wypowiedzenie zdania jest wykonaniem czynności, nie jej opisem (I now pronounce you husband and wife. / I promise I'll be there.)"
     ],
-    "tags": [
-      "always",
-      "usually",
-      "often",
-      "sometimes",
-      "never",
-      "every day",
-      "on Mondays"
-    ],
+    "tags": ["always", "usually", "often", "every day", "on Mondays", "timetable future"],
     "examples": [
-      {
-        "en": "She works in a bank.",
-        "pl": "Ona pracuje w banku."
-      },
-      {
-        "en": "The sun rises in the east.",
-        "pl": "Słońce wschodzi na wschodzie."
-      },
-      {
-        "en": "The train leaves at 6pm.",
-        "pl": "Pociąg odjeżdża o 18."
-      },
-      {
-        "en": "I don't like coffee.",
-        "pl": "Nie lubię kawy."
-      }
+      { "en": "The museum closes at six on weekdays.", "pl": "Muzeum zamyka się o szóstej w dni powszednie." },
+      { "en": "Metals expand when they're heated.", "pl": "Metale rozszerzają się, gdy są podgrzewane." },
+      { "en": "She doesn't trust people who never ask questions.", "pl": "Ona nie ufa ludziom, którzy nigdy nie zadają pytań." },
+      { "en": "Our flight leaves at 7:40, so we'd better hurry.", "pl": "Nasz lot odlatuje o 7:40, więc lepiej się pospieszmy." }
     ]
   },
   {
@@ -59,49 +40,35 @@
     "namePl": "Czas teraźniejszy ciągły",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + am/is/are + czasownik-ing"
+        "label": "Budowa",
+        "text": "Podmiot + am/is/are + czasownik z końcówką -ing."
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + am/is/are not + czasownik-ing"
+        "label": "Geneza: 'be on doing' → 'be doing'",
+        "text": "Forma ciągła wywodzi się z konstrukcji przyimkowej 'be on/an + rzeczownik odczasownikowy' — dosłownie 'być w trakcie robienia'. Ślady tego przetrwały w archaizmach typu 'a-hunting we will go'. Z czasem przedimek 'a-' zanikł fonetycznie, a rzeczownik odczasownikowy zrósł się z czasownikiem w jedną formę '-ing'. Kluczowe jest to, że ten aspekt od początku niósł metaforę przestrzenną: bycia WEWNĄTRZ czynności, a nie na zewnątrz niej."
       },
       {
-        "label": "Pytanie",
-        "text": "Am/Is/Are + podmiot + czasownik-ing?"
+        "label": "Model myślowy: kamera przybliżona",
+        "text": "Jeśli Present Simple to zdjęcie z lotu ptaka, Present Continuous to kamera wsunięta w sam środek zdarzenia — widzimy czynność w trakcie trwania, z niewidocznym początkiem i końcem 'poza kadrem'. Dlatego czasowniki stanowe (be, know, love, own) zwykle opierają się tej formie: stan nie ma wewnętrznej dynamiki, w którą kamera mogłaby się 'wsunąć'."
+      },
+      {
+        "label": "always + Continuous: irytacja",
+        "text": "Połączenie zwykle 'punktowego' always z formą ciągłą to celowe zderzenie logiki — przedstawia powtarzalną czynność tak, jakby przelewała się poza swoje granice i zalewała każdy moment, co brzmi jak skarga, a nie neutralny opis nawyku (He's always losing his keys.)"
       }
     ],
     "usage": [
-      "Czynność trwająca w chwili mówienia",
-      "Czynność tymczasowa, nie na stałe",
-      "Zaplanowane wydarzenia w najbliższej przyszłości",
-      "Sytuacje, które się zmieniają"
+      "Czynność trwająca w chwili mówienia (Don't disturb her — she's writing an email.)",
+      "Sytuacje tymczasowe, obowiązujące 'w tym okresie', nawet jeśli nie dzieją się dosłownie teraz (I'm reading a fascinating biography of Darwin this month.)",
+      "Trendy i zmiany w toku — proces, który ma widoczny kierunek, a nie stały stan (More people are working remotely than a decade ago.)",
+      "Ustalone plany na najbliższą przyszłość — czynność, która jest już 'w ruchu', bo została wcześniej zaaranżowana (We're having dinner with the Kowalskis on Saturday.)",
+      "always/constantly + Continuous dla irytujących, powtarzających się nawyków (You're constantly interrupting me!)"
     ],
-    "tags": [
-      "now",
-      "at the moment",
-      "right now",
-      "currently",
-      "this week",
-      "still"
-    ],
+    "tags": ["right now", "at the moment", "these days", "always + -ing", "arranged plans"],
     "examples": [
-      {
-        "en": "She is working right now.",
-        "pl": "Ona teraz pracuje."
-      },
-      {
-        "en": "I am reading a great book this week.",
-        "pl": "Czytam w tym tygodniu świetną książkę."
-      },
-      {
-        "en": "We are meeting them tomorrow.",
-        "pl": "Spotykamy się z nimi jutro."
-      },
-      {
-        "en": "The weather is getting colder.",
-        "pl": "Robi się coraz zimniej."
-      }
+      { "en": "I'm not saying you're wrong — I'm saying it's more complicated than that.", "pl": "Nie mówię, że się mylisz — mówię, że to bardziej skomplikowane." },
+      { "en": "The company is expanding rapidly into Asian markets.", "pl": "Firma szybko ekspanduje na rynki azjatyckie." },
+      { "en": "He's always borrowing money and never paying it back.", "pl": "On ciągle pożycza pieniądze i nigdy ich nie oddaje." },
+      { "en": "We're moving to Kraków next spring.", "pl": "Przeprowadzamy się do Krakowa następnej wiosny." }
     ]
   },
   {
@@ -111,52 +78,35 @@
     "namePl": "Czas teraźniejszy dokonany",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + have/has + III forma czasownika"
+        "label": "Budowa",
+        "text": "Podmiot + have/has + III forma czasownika (imiesłów bierny)."
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + have/has not + III forma"
+        "label": "Geneza: 'mieć coś zrobione' → jedno pojęcie",
+        "text": "Konstrukcja zaczynała się jako zdanie o posiadaniu: 'I have the letter written' znaczyło dosłownie 'mam ten list w stanie napisanym' — imiesłów 'written' był przymiotnikiem opisującym dopełnienie 'the letter', a 'have' zachowywało pełne znaczenie 'posiadać'. Z czasem, gdy konstrukcję zaczęto stosować też z czasownikami nieprzechodnimi (bez dopełnienia, np. 'have gone'), 'have' przestało oznaczać dosłowne posiadanie i stało się czystym operatorem gramatycznym — ale ślad tej metafory pozostał w znaczeniu."
       },
       {
-        "label": "Pytanie",
-        "text": "Have/Has + podmiot + III forma?"
+        "label": "Model myślowy: posiadanie rezultatu tu i teraz",
+        "text": "Present Perfect nie opowiada o samym zdarzeniu w przeszłości, tylko o tym, że mówiący 'ma w ręku', w chwili obecnej, jego efekt lub konsekwencję. Dlatego nie łączy się z konkretnym wskazaniem czasu przeszłego (yesterday, in 2010) — takie wskazanie 'wypycha' zdarzenie z chwili obecnej z powrotem na oś czasu i zamienia je w czysty fakt historyczny, czyli domenę Past Simple."
+      },
+      {
+        "label": "Otwarty vs zamknięty okres",
+        "text": "Ten sam czasownik przyjmuje inny czas w zależności od tego, czy ramy czasowe są jeszcze 'otwarte' w chwili mówienia: 'I've seen him twice this week' (tydzień jeszcze trwa) kontra 'I saw him twice last week' (tydzień się zakończył, okres jest zamknięty)."
       }
     ],
     "usage": [
-      "Doświadczenia życiowe bez podanego konkretnego czasu",
-      "Czynność rozpoczęta w przeszłości i trwająca do teraz",
-      "Niedawno zakończona czynność z widocznym skutkiem teraz",
-      "Zmiany"
+      "Doświadczenie życiowe, bez wskazywania kiedy dokładnie (I've climbed Kilimanjaro. — nieważne kiedy, ważne że to się wydarzyło w moim życiu)",
+      "just/already/yet — bliskość zdarzenia względem teraźniejszości i jej wpływ na obecną sytuację (She's just finished the report, so it's ready now.)",
+      "Zdarzenie w okresie, który jeszcze trwa (today, this year, so far) (I haven't had time to call him today.)",
+      "Widoczny rezultat w teraźniejszości bez podanego czasu zdarzenia (Someone's eaten all the biscuits! — patrzę na pusty talerz teraz)",
+      "Zmiany i rozwój sytuacji aż do chwili obecnej (Prices have gone up significantly over the last few years.)"
     ],
-    "tags": [
-      "already",
-      "yet",
-      "just",
-      "ever",
-      "never",
-      "since",
-      "for",
-      "so far",
-      "recently"
-    ],
+    "tags": ["ever/never", "just/already/yet", "since/for", "so far", "this week"],
     "examples": [
-      {
-        "en": "I have visited Paris twice.",
-        "pl": "Byłem w Paryżu dwa razy."
-      },
-      {
-        "en": "She has lived here since 2015.",
-        "pl": "Mieszka tu od 2015 roku."
-      },
-      {
-        "en": "We have just finished dinner.",
-        "pl": "Właśnie skończyliśmy kolację."
-      },
-      {
-        "en": "Have you ever tried sushi?",
-        "pl": "Czy kiedykolwiek próbowałeś sushi?"
-      }
+      { "en": "Have you ever regretted a decision so much it kept you up at night?", "pl": "Czy kiedykolwiek żałowałeś decyzji tak bardzo, że nie mogłeś przez to spać?" },
+      { "en": "I've read the report twice and I still don't understand the conclusion.", "pl": "Przeczytałem raport dwa razy i wciąż nie rozumiem wniosków." },
+      { "en": "The negotiations have collapsed, and nobody seems surprised.", "pl": "Negocjacje się załamały i nikt nie wydaje się zaskoczony." },
+      { "en": "She's lived in four countries, but she's never felt fully at home anywhere.", "pl": "Mieszkała w czterech krajach, ale nigdy nie czuła się nigdzie w pełni jak w domu." }
     ]
   },
   {
@@ -166,48 +116,31 @@
     "namePl": "Czas teraźniejszy dokonany ciągły",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + have/has been + czasownik-ing"
+        "label": "Budowa",
+        "text": "Podmiot + have/has been + czasownik z końcówką -ing."
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + have/has not been + czasownik-ing"
+        "label": "Dwie metafory naraz",
+        "text": "Ta forma to dosłowne złożenie obu metafor omówionych wcześniej: 'have' (posiadanie rezultatu, tu i teraz) + 'been -ing' (bycie wewnątrz czynności). Efekt: 'mam teraz w ręku stan bycia-w-trakcie-robienia czegoś' — stąd nacisk na trwający proces i jego świeże, namacalne ślady w teraźniejszości, a nie na policzalny wynik."
       },
       {
-        "label": "Pytanie",
-        "text": "Have/Has + podmiot + been + czasownik-ing?"
+        "label": "Kontrast z Present Perfect Simple",
+        "text": "'I've painted three rooms' (Simple) liczy osiągnięcie — ile, ile razy, jaki efekt końcowy. 'I've been painting all day' (Continuous) opisuje sam proces i jego intensywność/czas trwania, często niedokończony lub z widocznymi 'dowodami' (farba na rękach, zmęczenie) — nie interesuje nas policzalny rezultat, tylko sama aktywność."
       }
     ],
     "usage": [
-      "Czynność trwająca przez jakiś czas i wciąż aktualna",
-      "Podkreślenie długości trwania czynności",
-      "Czynność niedawno zakończona, której skutki widać teraz"
+      "Czynność trwająca nieprzerwanie od pewnego momentu w przeszłości aż do teraz, często wciąż w toku (I've been working on this essay since morning.)",
+      "Wyjaśnienie widocznego stanu obecnego świeżo zakończoną czynnością (Why are your hands so dirty? — I've been fixing the car.)",
+      "Podkreślenie czasu trwania i intensywności, nie liczby/rezultatu (We've been arguing about this for hours and got nowhere.)",
+      "Krytyka lub irytacja narastającym procesem (He's been complaining about the same thing all week.)",
+      "Pytania o czas trwania czynności do teraz (How long have you been learning Portuguese?)"
     ],
-    "tags": [
-      "since",
-      "for",
-      "all day",
-      "how long",
-      "lately",
-      "recently"
-    ],
+    "tags": ["since/for", "lately", "recently", "how long...?", "visible evidence"],
     "examples": [
-      {
-        "en": "I have been studying English for three years.",
-        "pl": "Uczę się angielskiego od trzech lat."
-      },
-      {
-        "en": "She has been working since 8am.",
-        "pl": "Pracuje od 8 rano."
-      },
-      {
-        "en": "It has been raining all day.",
-        "pl": "Cały dzień pada."
-      },
-      {
-        "en": "You look tired — have you been running?",
-        "pl": "Wyglądasz na zmęczonego — biegałeś?"
-      }
+      { "en": "I've been meaning to call you for weeks — I'm sorry it took this long.", "pl": "Od tygodni zamierzałem do ciebie zadzwonić — przepraszam, że to tyle trwało." },
+      { "en": "She's been rehearsing the same three bars for an hour; she wants them perfect.", "pl": "Ćwiczy te same trzy takty od godziny — chce, żeby były perfekcyjne." },
+      { "en": "Your eyes are red — have you been crying?", "pl": "Masz czerwone oczy — płakałeś?" },
+      { "en": "We've been waiting for this announcement for months, and it's finally happening.", "pl": "Czekaliśmy na to ogłoszenie od miesięcy i w końcu się dzieje." }
     ]
   },
   {
@@ -217,47 +150,30 @@
     "namePl": "Czas przeszły prosty",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + II forma czasownika (-ed lub forma nieregularna)"
+        "label": "Budowa",
+        "text": "Czasowniki regularne: podstawa + -ed. Czasowniki nieregularne: druga forma z listy (go → went)."
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + did not (didn't) + czasownik (forma podstawowa)"
+        "label": "Geneza: dwie warstwy historii w jednym czasie",
+        "text": "Regularna końcówka -ed (tzw. dental preterite) to innowacja unikalna dla języków germańskich — nie ma odpowiednika w innych gałęziach indoeuropejskich. Czasowniki nieregularne to za to żywe skamieliny znacznie starszego, prasłowiańsko-, a właściwie praindoeuropejskiego systemu ablautu (gradacji samogłoskowej: sing–sang–sung, jak w niemieckim singen–sang–gesungen). Najczęściej używane, najstarsze czasowniki (be, go, have, come, see) pozostały nieregularne właśnie dlatego, że częste użycie chroni formę przed 'wyrównaniem' do wzorca regularnego — rzadziej używane czasowniki z czasem się regularyzują (staroangielskie 'help–holp–holpen' stało się dziś zwyczajnie 'helped')."
       },
       {
-        "label": "Pytanie",
-        "text": "Did + podmiot + czasownik (forma podstawowa)?"
+        "label": "Model myślowy: zamknięty punkt odcięty od teraźniejszości",
+        "text": "W przeciwieństwie do Present Perfect, Past Simple lokalizuje zdarzenie w konkretnym punkcie na osi czasu i psychologicznie 'odcina' je od chwili obecnej — fakt jest zamknięty, choćby jego skutki trwały do dziś. To dlatego 'I lived in Berlin for five years' (Past Simple) sugeruje, że już tam nie mieszkam, podczas gdy 'I've lived in Berlin for five years' (Present Perfect) sugeruje, że nadal tam mieszkam."
       }
     ],
     "usage": [
-      "Zakończone czynności w konkretnym momencie przeszłości",
-      "Ciąg wydarzeń następujących po sobie w przeszłości",
-      "Nawyki lub stany w przeszłości, które już nie trwają"
+      "Zdarzenia zakończone w określonym momencie przeszłości (We signed the contract last Tuesday.)",
+      "Ciąg następujących po sobie wydarzeń w narracji — szkielet fabuły (She opened the door, stepped inside and froze.)",
+      "Nawyki i stany z przeszłości, które już nie obowiązują, bez podkreślania powtarzalności (I smoked for ten years before I quit.)",
+      "Grzecznościowe zapytania, w których forma przeszła tworzy dystans, a nie odnosi się do przeszłości (Did you want anything else? — pytanie 'tu i teraz', mimo formy przeszłej)"
     ],
-    "tags": [
-      "yesterday",
-      "last week/year",
-      "ago",
-      "in 2010",
-      "when"
-    ],
+    "tags": ["yesterday", "last week", "in 2015", "ago", "closed past"],
     "examples": [
-      {
-        "en": "I visited my grandma yesterday.",
-        "pl": "Odwiedziłem babcię wczoraj."
-      },
-      {
-        "en": "They didn't come to the party.",
-        "pl": "Nie przyszli na przyjęcie."
-      },
-      {
-        "en": "Did you see that movie?",
-        "pl": "Widziałeś ten film?"
-      },
-      {
-        "en": "She lived in Rome for five years.",
-        "pl": "Mieszkała w Rzymie przez pięć lat."
-      }
+      { "en": "He didn't say a word for the rest of the journey.", "pl": "Nie odezwał się ani słowem przez resztę podróży." },
+      { "en": "The company went bankrupt just two years after it was founded.", "pl": "Firma zbankrutowała zaledwie dwa lata po założeniu." },
+      { "en": "We used to argue about politics all the time; now we just avoid the topic.", "pl": "Kiedyś ciągle kłóciliśmy się o politykę; teraz po prostu unikamy tego tematu." },
+      { "en": "Who told you that?", "pl": "Kto ci to powiedział?" }
     ]
   },
   {
@@ -267,46 +183,31 @@
     "namePl": "Czas przeszły ciągły",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + was/were + czasownik-ing"
+        "label": "Budowa",
+        "text": "Podmiot + was/were + czasownik z końcówką -ing."
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + was/were not + czasownik-ing"
+        "label": "Model myślowy: tło i pierwszy plan",
+        "text": "To ta sama 'kamera wsunięta do środka' czynności co w Present Continuous, tylko przesunięta w przeszłość. W narracji Past Continuous maluje tło sceny — długotrwały, rozciągnięty w czasie kontekst — podczas gdy Past Simple wbija w to tło punktowe, nagłe wydarzenie na pierwszym planie: 'I was making dinner when the phone rang.' Gotowanie to proces bez wyraźnych granic widocznych w zdaniu; dzwonek telefonu to punktowe przerwanie."
       },
       {
-        "label": "Pytanie",
-        "text": "Was/Were + podmiot + czasownik-ing?"
+        "label": "Dystans i uprzejmość",
+        "text": "Podobnie jak Past Simple bywa używany grzecznościowo, Past Continuous robi to samo, ale łagodniej — sugeruje, że pytanie 'samo się nasunęło' w toku myślenia, a nie zostało zadane wprost i stanowczo (I was wondering if you could help me.). To ta sama logika 'oddalenia w czasie = oddalenia od bezpośredniości', która rządzi też czasownikami modalnymi w trybie przeszłym."
       }
     ],
     "usage": [
-      "Czynność trwająca w konkretnym momencie przeszłości",
-      "Tło dla innej, krótszej czynności (Past Simple)",
-      "Dwie czynności trwające jednocześnie w przeszłości"
+      "Czynność w toku, przerwana innym zdarzeniem (I was reading when the lights went out.)",
+      "Dwie równoległe, długotrwałe czynności w przeszłości (While she was cooking, he was setting the table.)",
+      "Budowanie tła/atmosfery w opowiadaniu, bez podawania konkretnego, punktowego zdarzenia (The wind was howling and the trees were bending under the storm.)",
+      "Grzeczne, niezobowiązujące sformułowanie prośby lub pytania (I was hoping you might have some time this week.)",
+      "Krytyka powtarzającego się zachowania w przeszłości z 'always' (He was always complaining about the noise.)"
     ],
-    "tags": [
-      "while",
-      "when",
-      "at that moment",
-      "at 5pm yesterday"
-    ],
+    "tags": ["while", "when", "at that moment", "background action"],
     "examples": [
-      {
-        "en": "I was sleeping when you called.",
-        "pl": "Spałem, kiedy zadzwoniłeś."
-      },
-      {
-        "en": "They were watching TV all evening.",
-        "pl": "Oglądali telewizję przez cały wieczór."
-      },
-      {
-        "en": "While she was cooking, he was cleaning.",
-        "pl": "Podczas gdy ona gotowała, on sprzątał."
-      },
-      {
-        "en": "What were you doing at 9pm?",
-        "pl": "Co robiłeś o 21?"
-      }
+      { "en": "I was just leaving when you called — good timing.", "pl": "Właśnie wychodziłem, kiedy zadzwoniłeś — dobre wyczucie czasu." },
+      { "en": "Nobody was paying attention, so the mistake went unnoticed for months.", "pl": "Nikt nie zwracał uwagi, więc błąd pozostał niezauważony przez miesiące." },
+      { "en": "What were you thinking when you signed that agreement?", "pl": "O czym myślałeś, kiedy podpisywałeś tę umowę?" },
+      { "en": "I was wondering whether you'd like to join us for dinner.", "pl": "Zastanawiałem się, czy nie miałbyś ochoty dołączyć do nas na kolację." }
     ]
   },
   {
@@ -316,46 +217,30 @@
     "namePl": "Czas zaprzeszły",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + had + III forma czasownika"
+        "label": "Budowa",
+        "text": "Podmiot + had + III forma czasownika."
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + had not (hadn't) + III forma"
+        "label": "Model myślowy: przeszłość przeszłości",
+        "text": "Past Simple ustawia jeden punkt odniesienia w przeszłości. Ale co, jeśli trzeba opisać coś, co wydarzyło się jeszcze wcześniej, przed tym punktem? Past Perfect tworzy drugą, głębszą warstwę czasu — działa dokładnie tak jak Present Perfect, tylko punktem odniesienia ('teraz') nie jest chwila mówienia, lecz inny moment w przeszłości. To rozwiązuje realny problem: bez tej formy angielski nie miałby jak jednoznacznie zasygnalizować kolejności dwóch zdarzeń przeszłych bez dodatkowych słów."
       },
       {
-        "label": "Pytanie",
-        "text": "Had + podmiot + III forma?"
+        "label": "Cofnięcie w czasie jako sygnał nierzeczywistości",
+        "text": "Ta sama forma pojawia się w zdaniach warunkowych typu trzeciego i po 'wish' dotyczącym przeszłości (If I had known..., I wish I had told her...) — nie dlatego, że mówimy dosłownie o wcześniejszej przeszłości, ale dlatego, że angielski systematycznie wykorzystuje 'cofnięcie' formy czasownika o jeden stopień w głąb przeszłości jako uniwersalny sygnał: 'to się nie wydarzyło, to jest kontrfaktyczne'. Ten sam mechanizm (odległość gramatyczna = odległość od rzeczywistości) rządzi też Past Simple w drugim trybie warunkowym."
       }
     ],
     "usage": [
-      "Czynność zakończona przed inną czynnością w przeszłości",
-      "Cofnięcie się w opowieści do wcześniejszego wydarzenia"
+      "Zdarzenie wcześniejsze niż inne zdarzenie przeszłe, gdy kolejność jest istotna (By the time I got there, everyone had already left.)",
+      "Wyjaśnienie przyczyny stanu z przeszłości (She was exhausted because she had been up all night. — tu połączone z Continuous)",
+      "Mowa zależna: cofnięcie Past Simple lub Present Perfect o jeden stopień wstecz (He said he had finished the report.)",
+      "Nierzeczywista przeszłość w trybie warunkowym III i po 'wish'/'if only' (If I had studied harder, I would have passed.)"
     ],
-    "tags": [
-      "before",
-      "after",
-      "already",
-      "by the time",
-      "never (before then)"
-    ],
+    "tags": ["by the time", "before", "after", "already (past)", "third conditional"],
     "examples": [
-      {
-        "en": "She had left before I arrived.",
-        "pl": "Wyszła, zanim przyjechałem."
-      },
-      {
-        "en": "I had never seen snow before that winter.",
-        "pl": "Nigdy wcześniej nie widziałem śniegu przed tamtą zimą."
-      },
-      {
-        "en": "They had finished the project by Monday.",
-        "pl": "Skończyli projekt do poniedziałku."
-      },
-      {
-        "en": "Had you met him before the meeting?",
-        "pl": "Czy spotkałeś go przed tym spotkaniem?"
-      }
+      { "en": "She realized, too late, that she had misjudged him completely.", "pl": "Zrozumiała, zbyt późno, że kompletnie go źle oceniła." },
+      { "en": "By the time the ambulance arrived, the situation had already changed.", "pl": "Zanim przyjechała karetka, sytuacja już się zmieniła." },
+      { "en": "I wish I had listened to my grandmother's advice.", "pl": "Żałuję, że nie posłuchałem rady babci." },
+      { "en": "He hadn't expected the news to affect him so deeply.", "pl": "Nie spodziewał się, że wiadomość tak go poruszy." }
     ]
   },
   {
@@ -365,91 +250,63 @@
     "namePl": "Czas zaprzeszły ciągły",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + had been + czasownik-ing"
+        "label": "Budowa",
+        "text": "Podmiot + had been + czasownik z końcówką -ing."
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + had not been + czasownik-ing"
-      },
-      {
-        "label": "Pytanie",
-        "text": "Had + podmiot + been + czasownik-ing?"
+        "label": "Trzecia warstwa metafory",
+        "text": "Dokładnie ta sama logika co w Present Perfect Continuous, tylko cały układ przesunięty o jeden stopień w przeszłość: 'posiadanie rezultatu' (had) dotyczy nie chwili obecnej, ale wcześniej ustalonego punktu w przeszłości, a 'been -ing' opisuje proces prowadzący do tego punktu. Odpowiada na pytanie: co działo się nieprzerwanie AŻ DO tego momentu w przeszłości, o którym mówimy?"
       }
     ],
     "usage": [
-      "Czynność trwająca przez jakiś czas przed innym wydarzeniem w przeszłości",
-      "Podkreślenie przyczyny lub czasu trwania wcześniejszej czynności"
+      "Czynność trwająca aż do (lub tuż przed) innego momentu w przeszłości, z naciskiem na czas trwania (I had been waiting for over an hour when the train finally arrived.)",
+      "Wyjaśnienie widocznego stanu rzeczy w przeszłości poprzez wcześniejszy trwający proces (The pitch was flooded — it had been raining for days.)",
+      "Kontrast z Past Perfect Simple: proces i jego intensywność, nie policzalny wynik (She had been writing the novel for years — not: she had written [x] novels)"
     ],
-    "tags": [
-      "for",
-      "since",
-      "before",
-      "by the time"
-    ],
+    "tags": ["for/since (past)", "before that", "how long had...?"],
     "examples": [
-      {
-        "en": "I had been waiting for an hour when she arrived.",
-        "pl": "Czekałem godzinę, kiedy ona przyjechała."
-      },
-      {
-        "en": "He was tired because he had been working all night.",
-        "pl": "Był zmęczony, bo pracował całą noc."
-      },
-      {
-        "en": "They had been dating for two years before they got married.",
-        "pl": "Byli razem dwa lata przed ślubem."
-      }
+      { "en": "His hands were shaking — he'd been chopping onions for the whole dinner party.", "pl": "Trzęsły mu się ręce — kroił cebulę przez całe przyjęcie." },
+      { "en": "They had been negotiating for months before the deal finally fell through.", "pl": "Negocjowali od miesięcy, zanim umowa ostatecznie upadła." },
+      { "en": "I was out of breath because I had been running to catch the bus.", "pl": "Byłem zdyszany, bo biegłem, żeby złapać autobus." },
+      { "en": "By the time she quit, she had been working there for fifteen years.", "pl": "Zanim odeszła, pracowała tam od piętnastu lat." }
     ]
   },
   {
     "id": "future_simple",
     "order": 9,
-    "nameEn": "Future Simple (will)",
-    "namePl": "Czas przyszły prosty (will)",
+    "nameEn": "Future Simple",
+    "namePl": "Czas przyszły prosty",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + will + czasownik (forma podstawowa)"
+        "label": "Budowa",
+        "text": "Podmiot + will + czasownik w formie podstawowej (bez 'to')."
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + will not (won't) + czasownik"
+        "label": "Geneza: angielski nie ma prawdziwego czasu przyszłego",
+        "text": "W odróżnieniu od łaciny (cantabo, 'będę śpiewał' jako jedno słowo z końcówką), germański, a więc i angielski, nigdy nie wykształcił syntetycznej formy przyszłej. Zamiast tego 'pożyczył' na ten cel czasowniki modalne. 'Will' pochodzi od staroangielskiego 'willan' — 'chcieć, pragnąć'. Z czasownika oznaczającego wolę stało się, w procesie zwanym gramatykalizacją, neutralnym znacznikiem przyszłości — ale resztka pierwotnego znaczenia przetrwała: 'will' wciąż potrafi wyrażać spontaniczną decyzję lub gotowość w chwili mówienia (I'll get it! — reakcja na dzwonek do drzwi, nie zaplanowany fakt)."
       },
       {
-        "label": "Pytanie",
-        "text": "Will + podmiot + czasownik?"
+        "label": "shall: druga, zapomniana forma",
+        "text": "'Shall' wywodzi się od 'sculan' — 'być winnym, być zobowiązanym' (spokrewnione z niemieckim 'sollen'). Klasyczna reguła szkolna (shall dla I/we, will dla reszty) to relikt czasów, gdy różnica modalna była żywa: 'shall' niosło odcień obowiązku/przeznaczenia, a 'will' — woli. Dziś w większości odmian angielskiego 'shall' niemal zanikło poza ofertami (Shall I help you?) i rejestrem formalno-prawnym (The tenant shall pay rent monthly.)."
+      },
+      {
+        "label": "will vs going to vs Present Continuous",
+        "text": "Trzy sposoby mówienia o przyszłości mają różne korzenie i różną 'moc dowodową'. 'Will' — decyzja/przewidywanie oparte na opinii, bez twardych dowodów, często podejmowane w momencie mówienia. 'Going to' wywodzi się z czasownika ruchu 'to go' + celownik ('going to do' = dosłownie 'w drodze do zrobienia') — stąd niesie sens planu już 'uruchomionego' lub przewidywania opartego na widocznych teraz przesłankach (Look at those clouds — it's going to rain.). Present Continuous sygnalizuje konkretną, wcześniej ustaloną aranżację (I'm meeting her at five — to już w kalendarzu, nie tylko w głowie)."
       }
     ],
     "usage": [
-      "Spontaniczne decyzje podejmowane w momencie mówienia",
-      "Przewidywania bez konkretnych dowodów",
-      "Obietnice, oferty, prośby"
+      "Przewidywania oparte na opinii, przypuszczeniu, bez konkretnych dowodów (I think it will be a close election.)",
+      "Spontaniczne decyzje podejmowane w chwili mówienia (The phone's ringing — I'll answer it.)",
+      "Obietnice, groźby, oferty (I'll always support you. / I won't tell anyone, I promise.)",
+      "Fakty i pewniki dotyczące przyszłości, traktowane jak nieuchronne (The sun will rise at 6:12 tomorrow.)",
+      "Zdania warunkowe pierwszego typu — konsekwencja w głównej części zdania (If it rains, we'll cancel the picnic.)"
     ],
-    "tags": [
-      "tomorrow",
-      "next week",
-      "in the future",
-      "I think",
-      "probably"
-    ],
+    "tags": ["will/won't", "predictions", "promises", "spontaneous decisions", "shall (offers)"],
     "examples": [
-      {
-        "en": "I will help you with that.",
-        "pl": "Pomogę ci z tym."
-      },
-      {
-        "en": "It will probably rain tomorrow.",
-        "pl": "Prawdopodobnie jutro będzie padać."
-      },
-      {
-        "en": "I promise I won't be late.",
-        "pl": "Obiecuję, że się nie spóźnię."
-      },
-      {
-        "en": "Will you marry me?",
-        "pl": "Czy wyjdziesz za mnie?"
-      }
+      { "en": "I doubt he'll change his mind, but it's worth a try.", "pl": "Wątpię, żeby zmienił zdanie, ale warto spróbować." },
+      { "en": "Don't worry, we'll figure something out.", "pl": "Nie martw się, coś wymyślimy." },
+      { "en": "Future generations will judge us by how we treated the planet.", "pl": "Przyszłe pokolenia osądzą nas po tym, jak traktowaliśmy planetę." },
+      { "en": "Shall we get started, or is everyone still waiting for coffee?", "pl": "Zaczynamy, czy wszyscy wciąż czekają na kawę?" }
     ]
   },
   {
@@ -459,39 +316,30 @@
     "namePl": "Czas przyszły ciągły",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + will be + czasownik-ing"
+        "label": "Budowa",
+        "text": "Podmiot + will be + czasownik z końcówką -ing."
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + will not be + czasownik-ing"
+        "label": "Model myślowy: kamera przesunięta w przyszłość",
+        "text": "Ta sama zasada 'wsunięcia się do środka' czynności co w Present/Past Continuous, tylko rzutowana na punkt w przyszłości — pokazuje czynność, która będzie w toku o określonej porze, a nie fakt jej zakończenia."
       },
       {
-        "label": "Pytanie",
-        "text": "Will + podmiot + be + czasownik-ing?"
+        "label": "Przyszłość 'mimochodem'",
+        "text": "Future Continuous ma też subtelną funkcję pragmatyczną: przedstawia przyszłe zdarzenie jako naturalny, incydentalny bieg spraw, a nie jako świadomą decyzję czy prośbę — dzięki temu brzmi mniej nachalnie niż 'will'. 'I'll be passing your office anyway' sugeruje 'i tak tamtędy będę przechodził', co łagodzi wydźwięk oferty/prośby, w przeciwieństwie do stanowczego 'I will pass your office'."
       }
     ],
     "usage": [
-      "Czynność, która będzie trwać w konkretnym momencie w przyszłości",
-      "Zaplanowane, oczekiwane wydarzenia"
+      "Czynność, która będzie trwać w określonym momencie przyszłości (This time tomorrow, we'll be sitting on a beach.)",
+      "Przewidywalny, rutynowy bieg wydarzeń, nie plan czy decyzja (He'll be arriving at the usual time, I expect.)",
+      "Grzeczne, niewymuszające pytanie o czyjeś plany (Will you be using the projector this afternoon?)",
+      "Zdarzenie równoległe do innego w przyszłości (While you're revising, I'll be preparing dinner.)"
     ],
-    "tags": [
-      "at this time tomorrow",
-      "this time next week"
-    ],
+    "tags": ["this time tomorrow", "at + future time", "incidental future", "polite questions"],
     "examples": [
-      {
-        "en": "This time tomorrow, I will be flying to Spain.",
-        "pl": "Jutro o tej porze będę leciał do Hiszpanii."
-      },
-      {
-        "en": "She will be waiting for us at the airport.",
-        "pl": "Ona będzie na nas czekać na lotnisku."
-      },
-      {
-        "en": "What will you be doing at 8pm?",
-        "pl": "Co będziesz robić o 20?"
-      }
+      { "en": "By this time next week, I'll be lying on a beach somewhere far from here.", "pl": "O tej porze za tydzień będę leżeć na plaży gdzieś daleko stąd." },
+      { "en": "She'll be expecting your call around noon.", "pl": "Będzie oczekiwać twojego telefonu koło południa." },
+      { "en": "Will you be needing the car tomorrow, or can I take it?", "pl": "Będziesz potrzebował jutro samochodu, czy mogę go wziąć?" },
+      { "en": "Don't call at eight — we'll still be having dinner.", "pl": "Nie dzwoń o ósmej — będziemy jeszcze jeść kolację." }
     ]
   },
   {
@@ -501,39 +349,26 @@
     "namePl": "Czas przyszły dokonany",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + will have + III forma czasownika"
+        "label": "Budowa",
+        "text": "Podmiot + will have + III forma czasownika."
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + will not have + III forma"
-      },
-      {
-        "label": "Pytanie",
-        "text": "Will + podmiot + have + III forma?"
+        "label": "Model myślowy: spojrzenie wstecz z przyszłego punktu",
+        "text": "Jeśli Present Perfect patrzy z 'teraz' na zdarzenie już zakończone, Future Perfect przenosi całą tę logikę w przyszłość: stawiamy się myślą w przyszłym punkcie odniesienia i patrzymy z niego WSTECZ na coś, co do tego momentu będzie już zakończone. To gramatyczna symulacja przyszłej retrospekcji."
       }
     ],
     "usage": [
-      "Czynność, która zakończy się przed konkretnym momentem w przyszłości"
+      "Czynność, która zakończy się przed określonym momentem w przyszłości (By 2030, this glacier will have melted completely.)",
+      "Podsumowanie osiągnięć/kamieni milowych patrząc z przyszłej perspektywy (In ten years, I will have paid off my mortgage.)",
+      "Terminy i deadline'y (We will have finished the renovation by the end of the month.)",
+      "Przypuszczenie o czymś, co prawdopodobnie już się wydarzyło do teraz (He'll have landed by now, I'd imagine.)"
     ],
-    "tags": [
-      "by",
-      "by the time",
-      "by next year"
-    ],
+    "tags": ["by + future time", "by the time", "milestones", "deadlines"],
     "examples": [
-      {
-        "en": "By next year, I will have finished my degree.",
-        "pl": "Do przyszłego roku skończę studia."
-      },
-      {
-        "en": "They will have left by the time we arrive.",
-        "pl": "Wyjadą, zanim dotrzemy."
-      },
-      {
-        "en": "Will you have finished the report by Friday?",
-        "pl": "Czy skończysz raport do piątku?"
-      }
+      { "en": "By the time you read this letter, I will have already left the country.", "pl": "Zanim przeczytasz ten list, będę już opuścił ten kraj." },
+      { "en": "Scientists predict that by 2050, sea levels will have risen by nearly a metre.", "pl": "Naukowcy przewidują, że do 2050 roku poziom mórz podniesie się o niemal metr." },
+      { "en": "She'll have graduated by the time we move, so it won't disrupt her studies.", "pl": "Skończy studia, zanim się przeprowadzimy, więc to nie zakłóci jej nauki." },
+      { "en": "He'll have forgotten all about it by tomorrow — he always does.", "pl": "Zapomni o tym wszystkim do jutra — zawsze tak robi." }
     ]
   },
   {
@@ -543,35 +378,25 @@
     "namePl": "Czas przyszły dokonany ciągły",
     "rules": [
       {
-        "label": "Twierdzenie",
-        "text": "Podmiot + will have been + czasownik-ing"
+        "label": "Budowa",
+        "text": "Podmiot + will have been + czasownik z końcówką -ing."
       },
       {
-        "label": "Przeczenie",
-        "text": "Podmiot + will not have been + czasownik-ing"
-      },
-      {
-        "label": "Pytanie",
-        "text": "Will + podmiot + have been + czasownik-ing?"
+        "label": "Ostatnie ogniwo systemu",
+        "text": "To zamknięcie całej dwunastoelementowej siatki: metafora 'posiadania rezultatu' (will have) połączona z metaforą 'bycia w środku procesu' (been -ing), obie rzutowane na przyszły punkt odniesienia. Odpowiada na pytanie: ile czasu, nieprzerwanie, upłynie od rozpoczęcia czynności do wskazanego momentu w przyszłości?"
       }
     ],
     "usage": [
-      "Podkreślenie czasu trwania czynności do konkretnego momentu w przyszłości"
+      "Podkreślenie długości trwania czynności, która osiągnie dany 'wiek' w przyszłości (By June, I will have been working here for ten years.)",
+      "Wyjaśnienie przewidywanego stanu w przyszłości poprzez wcześniej trwający proces (She'll be exhausted — she'll have been travelling for over twenty hours.)",
+      "Pytania o przewidywany czas trwania czynności do danego momentu (How long will you have been living here by the time you retire?)"
     ],
-    "tags": [
-      "for",
-      "by the time",
-      "next month"
-    ],
+    "tags": ["by + future time (duration)", "for + period", "how long will..."],
     "examples": [
-      {
-        "en": "By June, I will have been working here for ten years.",
-        "pl": "Do czerwca będę pracować tu już dziesięć lat."
-      },
-      {
-        "en": "She will have been studying for six hours by the time the exam starts.",
-        "pl": "Będzie się uczyć już sześć godzin, zanim zacznie się egzamin."
-      }
+      { "en": "By the time the project ends, we will have been working on it for three years.", "pl": "Zanim projekt się zakończy, będziemy nad nim pracować już trzy lata." },
+      { "en": "Next month, they'll have been married for twenty-five years.", "pl": "W przyszłym miesiącu będą małżeństwem od dwudziestu pięciu lat." },
+      { "en": "When she reaches the summit, she'll have been climbing for over twelve hours straight.", "pl": "Kiedy dotrze na szczyt, będzie się wspinać nieprzerwanie ponad dwanaście godzin." },
+      { "en": "By the end of this year, he'll have been running the company for a decade.", "pl": "Do końca tego roku będzie zarządzał firmą już od dekady." }
     ]
   }
 ]
