@@ -187,6 +187,7 @@ const THEORY_URLS = {
   comparative_modifiers: new URL("../data/comparative_modifiers.json", import.meta.url),
   phrasal_verb_particles: new URL("../data/phrasal_verb_particles.json", import.meta.url),
   continuous_for_emphasis: new URL("../data/continuous_for_emphasis.json", import.meta.url),
+  genitive_choice: new URL("../data/genitive_choice.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -369,6 +370,7 @@ const DRILLS_URLS = {
   comparative_modifiers: new URL("../data/comparative_modifiersDrills.json", import.meta.url),
   phrasal_verb_particles: new URL("../data/phrasal_verb_particlesDrills.json", import.meta.url),
   continuous_for_emphasis: new URL("../data/continuous_for_emphasisDrills.json", import.meta.url),
+  genitive_choice: new URL("../data/genitive_choiceDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

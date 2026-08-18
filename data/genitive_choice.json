@@ -1,0 +1,100 @@
+[
+  {
+    "id": "animacy_hierarchy",
+    "order": 1,
+    "nameEn": "The animacy hierarchy behind the choice",
+    "namePl": "Hierarchia ożywoności decydująca o wyborze",
+    "rules": [
+      { "label": "Zasada podstawowa", "text": "Im wyżej posiadacz znajduje się na 'skali ożywoności' (ludzie > zwierzęta > grupy/kraje > miejsca/czas > rzeczy nieożywione), tym bardziej naturalny jest dopełniacz 's; im niżej, tym bardziej naturalny dopełniacz z 'of'." },
+      { "label": "Góra skali — ludzie i zwierzęta", "text": "Osoby i nazwane zwierzęta niemal zawsze biorą 's: my sister's job, the dog's tail — forma z 'of' (the job of my sister) brzmi tu sztucznie i niepotrzebnie formalnie." },
+      { "label": "Dół skali — rzeczy nieożywione", "text": "Zwykłe przedmioty nieożywione i pojęcia abstrakcyjne zwykle biorą 'of': the leg of the table, the cause of the problem — forma 's (the table's leg) jest możliwa, ale rzadsza i często brzmi nienaturalnie lub poetycko." }
+    ],
+    "usage": [
+      "Traktuj hierarchię jako spektrum, nie sztywną regułę binarną — w środku skali oba warianty bywają akceptowalne, na krańcach wybór jest niemal wymuszony.",
+      "Test praktyczny: jeśli posiadacz mógłby odpowiedzieć na pytanie 'kto?', silnie preferuj 's; jeśli tylko na pytanie 'co?', silnie preferuj 'of'.",
+      "Hierarchia tłumaczy, dlaczego 'my father's car' brzmi naturalnie, a 'the car's father' nie ma nawet sensu — kierunek posiadania też ma znaczenie, nie tylko forma.",
+      "Znajomość tej skali pozwala przewidzieć naturalną formę nawet dla rzeczowników niespotykanych wcześniej w tym kontekście."
+    ],
+    "tags": ["animacy hierarchy", "my sister's job", "the leg of the table", "who vs what test"],
+    "examples": [
+      { "en": "My sister's job keeps her travelling all year.", "pl": "Praca mojej siostry sprawia, że podróżuje cały rok." },
+      { "en": "The leg of the table was slightly wobbly.", "pl": "Noga stołu lekko się chwiała." },
+      { "en": "The dog's tail wagged the moment she walked in.", "pl": "Ogon psa zaczął merdać, gdy tylko weszła." },
+      { "en": "The cause of the accident is still unknown.", "pl": "Przyczyna wypadku wciąż jest nieznana." }
+    ]
+  },
+  {
+    "id": "borderline_categories",
+    "order": 2,
+    "nameEn": "Borderline categories: organizations, places, vehicles, technology",
+    "namePl": "Przypadki pośrednie: organizacje, miejsca, pojazdy, technologia",
+    "rules": [
+      { "label": "Organizacje i kraje", "text": "Traktowane jak zbiorowości ludzi, więc zwykle biorą 's: the company's profits, France's economy, the government's decision." },
+      { "label": "Miejsca geograficzne i ciała niebieskie", "text": "Miasta, kraje i duże obiekty naturalne często biorą 's w znaczeniu przenośnym/instytucjonalnym: the world's population, the city's skyline, the earth's atmosphere, the sun's rays." },
+      { "label": "Pojazdy, statki i maszyny", "text": "Tradycyjnie bliżej dołu skali (the engine of the car), ale w mowie potocznej 's coraz częstsze zwłaszcza ze statkami i nazwanymi maszynami: the ship's captain, the car's engine." },
+      { "label": "Instytucje czasu i miary", "text": "Wyrażenia miary i czasu (today's newspaper, a week's holiday) zachowują się jak ożywione mimo że formalnie są nieożywione — to osobna, utrwalona kategoria opisana w temacie o dopełniaczu miary." }
+    ],
+    "usage": [
+      "Nazwy firm, rządów i drużyn: the team's victory, the council's budget, the airline's policy — traktuj je jak zbiorowość osób, nie jak przedmiot.",
+      "Miejsca w znaczeniu zbiorowości mieszkańców lub instytucji: London's traffic, the country's borders — ale konkretne obiekty fizyczne w tym miejscu wracają do 'of': the roof of the building in London.",
+      "Statki, pociągi i pojazdy nazwane własnym imieniem chętniej biorą 's (the Titanic's maiden voyage) niż pojazdy bez nazwy własnej.",
+      "Gdy wahasz się między kategoriami, sprawdź czy rzeczownik oznacza tu ludzi/instytucję (→ 's) czy fizyczny przedmiot (→ of)."
+    ],
+    "tags": ["the company's profits", "the world's population", "the ship's captain", "London's traffic"],
+    "examples": [
+      { "en": "The company's profits doubled last year.", "pl": "Zyski firmy podwoiły się w zeszłym roku." },
+      { "en": "The earth's atmosphere protects us from radiation.", "pl": "Atmosfera ziemi chroni nas przed promieniowaniem." },
+      { "en": "The ship's captain gave the order to leave port.", "pl": "Kapitan statku wydał rozkaz opuszczenia portu." },
+      { "en": "London's traffic gets worse every year.", "pl": "Ruch uliczny w Londynie z roku na rok jest gorszy." }
+    ]
+  },
+  {
+    "id": "end_focus_and_length",
+    "order": 3,
+    "nameEn": "Information structure: end-focus and phrase length",
+    "namePl": "Struktura informacyjna: end-focus i długość frazy",
+    "rules": [
+      { "label": "Zasada end-focus", "text": "Angielski zwykle umieszcza nową, ważną informację bliżej końca zdania. Wybór między 's a 'of' bywa podyktowany tym, który element chcemy wyeksponować na końcu frazy." },
+      { "label": "'s przenosi posiadacza na początek", "text": "Forma 's stawia posiadacza przed rzeczą posiadaną, więc rzecz posiadana ląduje na końcu i to ona jest wyeksponowana: the company's new CEO (nowy CEO jest w centrum uwagi)." },
+      { "label": "of przenosi posiadacza na koniec", "text": "Forma 'of' odwraca kolejność, więc to posiadacz ląduje na końcu i to on jest wyeksponowany: the new CEO of the company (firma jest w centrum uwagi, np. gdy mówimy o niej dalej)." },
+      { "label": "Długość frazy", "text": "Gdy posiadacz jest opisany długą, rozbudowaną frazą, 'of' jest zwykle wygodniejsze, bo unika piętrzenia słów przed 's (patrz temat: dopełniacz grupowy i kiedy go unikać)." }
+    ],
+    "usage": [
+      "Wybieraj formę tak, by najważniejsza informacja w zdaniu znalazła się na końcu frazy dopełniaczowej.",
+      "W tekście, który dalej mówi o firmie, naturalniejsze jest 'the new CEO of the company', bo 'the company' kończy frazę i łatwo podchwycić temat w kolejnym zdaniu.",
+      "W tekście, który dalej mówi o osobie, naturalniejsze jest 'the company's new CEO', bo to CEO kończy frazę i staje się tematem dalszej wypowiedzi.",
+      "Ta sama para rzeczowników może więc poprawnie wystąpić w obu formach — wybór zależy od kontekstu, nie od sztywnej reguły gramatycznej."
+    ],
+    "tags": ["end-focus", "the company's new CEO", "the new CEO of the company", "information structure"],
+    "examples": [
+      { "en": "The company's new CEO used to work for a rival firm.", "pl": "Nowy dyrektor generalny firmy pracował wcześniej dla konkurencji." },
+      { "en": "The new CEO of the company will be announced tomorrow, and the firm's shares are already rising.", "pl": "Nowy dyrektor generalny firmy zostanie ogłoszony jutro, a akcje spółki już rosną." },
+      { "en": "The title of the report she just finished surprised everyone.", "pl": "Tytuł raportu, który właśnie skończyła, zaskoczył wszystkich." },
+      { "en": "Her report's title surprised everyone at the meeting.", "pl": "Tytuł jej raportu zaskoczył wszystkich na spotkaniu." }
+    ]
+  },
+  {
+    "id": "fixed_idiomatic_choice",
+    "order": 4,
+    "nameEn": "Fixed idiomatic choices that override the general rule",
+    "namePl": "Utrwalone wyrażenia idiomatyczne łamiące ogólną regułę",
+    "rules": [
+      { "label": "Nieożywione, a jednak 's", "text": "Garść utartych zwrotów zachowuje 's mimo nieożywionego posiadacza, bo tak się historycznie utrwaliły: for heaven's sake, at arm's length, a stone's throw, in my mind's eye, out of harm's way." },
+      { "label": "Ożywione, a jednak of", "text": "Niektóre utarte frazy z osobami wolą 'of' mimo wysokiej pozycji na skali ożywoności, zwłaszcza w rejestrze formalnym lub prawniczym: the will of the people, the rights of the child, in the name of the King." },
+      { "label": "Nazwy własne obiektów kultury", "text": "Tytuły dzieł i nazwy instytucji bywają arbitralnie utrwalone w jednej formie: the Merchant of Venice (nie: Venice's Merchant), St Paul's Cathedral (nie: the Cathedral of St Paul)." }
+    ],
+    "usage": [
+      "Tych zwrotów nie da się wyprowadzić z hierarchii ożywoności — trzeba je zapamiętać jako całe frazy, tak jak idiomy.",
+      "W mowie i piśmie formalnym te utarte formy brzmią naturalnie właśnie dlatego, że odstępują od reguły — próba 'poprawienia' ich (np. the throw of a stone) brzmi sztucznie lub zmienia znaczenie na dosłowne.",
+      "Gdy nie masz pewności, czy fraza jest utrwalona idiomatycznie, sprawdź ją w słowniku kolokacji zamiast polegać wyłącznie na regule ożywoności.",
+      "Rozpoznawanie takich wyjątków jest oznaką biegłości na poziomie C2 — native speakerzy stosują je automatycznie, nie analizując reguły za każdym razem."
+    ],
+    "tags": ["for heaven's sake", "a stone's throw", "the will of the people", "St Paul's Cathedral"],
+    "examples": [
+      { "en": "For heaven's sake, just answer the phone!", "pl": "Na miłość boską, po prostu odbierz telefon!" },
+      { "en": "The new station is just a stone's throw from here.", "pl": "Nowa stacja jest stąd o rzut kamieniem." },
+      { "en": "The treaty claimed to reflect the will of the people.", "pl": "Traktat miał rzekomo odzwierciedlać wolę ludu." },
+      { "en": "We're meeting outside St Paul's Cathedral at noon.", "pl": "Spotykamy się przed katedrą św. Pawła w południe." }
+    ]
+  }
+]
