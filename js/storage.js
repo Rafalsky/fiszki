@@ -4,7 +4,7 @@ const SETTINGS_KEY = "fiszki.settings.v1";
 const DEFAULT_SETTINGS = {
   voiceURI: "",
   rate: 1,
-  autoplay: true,
+  autoplay: false,
   newPerSession: 20,
   practiceMode: "typing", // "typing" | "grading"
 };
