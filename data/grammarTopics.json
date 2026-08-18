@@ -1430,5 +1430,13 @@
     "desc": "always/constantly/forever + czas ciągły — wyrażanie irytacji lub zachwytu powtarzającym się zachowaniem, kontrast z neutralnym Present/Past Simple — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 36,
     "level": "b2"
+  },
+  {
+    "id": "genitive_choice",
+    "icon": "🪙",
+    "title": "Wybór dopełniacza: 's czy of?",
+    "desc": "'s-genitive kontra of-genitive: hierarchia ożywoności, przypadki pośrednie, information structure i utrwalone wyjątki decydujące o wyborze formy dzierżawczej — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "c1"
   }
 ]
