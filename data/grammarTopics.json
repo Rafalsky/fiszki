@@ -1414,5 +1414,13 @@
     "desc": "Zaimek lub 'this' wskazujące NAPRZÓD na antecedent, który dopiero pojawi się w zdaniu — zdania podrzędne na początku, zapowiadające 'this', styl narracyjny i ograniczenia szyku — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40,
     "level": "c2"
+  },
+  {
+    "id": "phrasal_verb_particles",
+    "icon": "⬆️",
+    "title": "Semantyka partykuł czasowników złożonych",
+    "desc": "Znaczenie partykuł up/down/out/off/on/away w czasownikach złożonych — dokonaność, redukcja, wyczerpanie, odkrycie, przerwanie i kontynuacja — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "c1"
   }
 ]

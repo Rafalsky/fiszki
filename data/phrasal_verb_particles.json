@@ -1,0 +1,162 @@
+[
+  {
+    "id": "up_completion",
+    "order": 1,
+    "nameEn": "Up — completion and intensity",
+    "namePl": "Up — dokonaność i intensywność",
+    "rules": [
+      {
+        "label": "Znaczenie dokonawcze",
+        "text": "„Up” po czasowniku często nie zmienia jego podstawowego znaczenia, lecz podkreśla, że czynność zostaje doprowadzona do końca lub wykonana w całości (eat up = zjeść wszystko do końca, finish up = dokończyć)."
+      },
+      {
+        "label": "Wyczerpanie zasobu",
+        "text": "Z czasownikami typu use, drink, burn „up” sygnalizuje zużycie czegoś w całości, aż nic nie zostanie (use up all the paper, burn up the fuel)."
+      },
+      {
+        "label": "Znaczenie zleksykalizowane",
+        "text": "Wiele czasowników z „up” ma znaczenie mocno przenośne, oderwane od dosłownego kierunku „w górę” (grow up = dorosnąć, show up = pojawić się, mess up = spartaczyć)."
+      }
+    ],
+    "usage": [
+      "Typowe czasowniki dokonawcze: finish up, eat up, drink up, use up, clean up, tidy up, fill up, wrap up",
+      "Intensyfikacja bez zmiany podstawowego sensu: beat up (dotkliwie pobić), dress up (wystroić się), speak up (mówić głośniej)",
+      "Znaczenia zleksykalizowane: grow up, show up, mess up, break up (rozstać się), give up (poddać się)"
+    ],
+    "tags": ["finish up", "use up", "clean up", "show up", "give up"],
+    "examples": [
+      { "en": "Please finish up your homework before dinner.", "pl": "Dokończ pracę domową przed kolacją." },
+      { "en": "We used up all the milk this morning.", "pl": "Zużyliśmy dziś rano całe mleko." },
+      { "en": "He didn't show up at the meeting.", "pl": "Nie pojawił się na spotkaniu." },
+      { "en": "Could you speak up? I can't hear you.", "pl": "Możesz mówić głośniej? Nie słyszę cię." }
+    ]
+  },
+  {
+    "id": "down_reduction",
+    "order": 2,
+    "nameEn": "Down — reduction, calming and breakdown",
+    "namePl": "Down — redukcja, uspokojenie i awaria",
+    "rules": [
+      {
+        "label": "Zmniejszenie intensywności",
+        "text": "„Down” często oznacza spadek intensywności, prędkości lub emocji (slow down, calm down, cool down, turn down the volume)."
+      },
+      {
+        "label": "Zatrzymanie działania",
+        "text": "Z czasownikami break, shut, close „down” oznacza całkowite zatrzymanie działania maszyny, systemu lub instytucji (the factory shut down)."
+      },
+      {
+        "label": "Odrzucenie propozycji",
+        "text": "„Turn down” w znaczeniu przenośnym oznacza odrzucenie propozycji, prośby lub kandydatury, a nie fizyczne obniżenie czegoś (turn down a job offer)."
+      }
+    ],
+    "usage": [
+      "Redukcja i uspokojenie: calm down, slow down, cool down, quieten down, wind down",
+      "Awaria i zatrzymanie systemu: break down, shut down, close down, crack down (on)",
+      "Odrzucenie i zapisywanie: turn down (odrzucić), write down (zapisać), track down (wytropić)"
+    ],
+    "tags": ["calm down", "break down", "turn down", "shut down", "slow down"],
+    "examples": [
+      { "en": "Try to calm down before you say something you'll regret.", "pl": "Spróbuj się uspokoić, zanim powiesz coś, czego pożałujesz." },
+      { "en": "My car broke down on the motorway.", "pl": "Mój samochód zepsuł się na autostradzie." },
+      { "en": "She turned down the promotion.", "pl": "Odrzuciła awans." },
+      { "en": "The factory is going to shut down next month.", "pl": "Fabryka zostanie zamknięta w przyszłym miesiącu." }
+    ]
+  },
+  {
+    "id": "out_exhaustion_revelation",
+    "order": 3,
+    "nameEn": "Out — exhaustion, discovery and outcome",
+    "namePl": "Out — wyczerpanie, odkrycie i rezultat",
+    "rules": [
+      {
+        "label": "Wyczerpanie zasobu",
+        "text": "„Out” z czasownikami run, sell, die oznacza, że coś kończy się lub znika całkowicie (run out of time, the tickets sold out)."
+      },
+      {
+        "label": "Odkrycie i ujawnienie",
+        "text": "Z czasownikami find, figure, work, sort „out” sygnalizuje dotarcie do rozwiązania lub ujawnienie ukrytej informacji (find out the truth, work out a problem)."
+      },
+      {
+        "label": "Wyróżnienie i rozprzestrzenienie",
+        "text": "„Out” bywa też związane z wyraźnością i wychodzeniem na zewnątrz — dosłownie lub w przenośni (stand out, spread out, speak out, break out)."
+      }
+    ],
+    "usage": [
+      "Wyczerpanie / zniknięcie: run out (of), sell out, die out, burn out, fade out",
+      "Odkrycie / rozwiązanie: find out, figure out, work out, sort out, point out",
+      "Wyróżnienie / rozprzestrzenienie: stand out, spread out, speak out, break out"
+    ],
+    "tags": ["find out", "run out", "work out", "sort out", "stand out"],
+    "examples": [
+      { "en": "We ran out of petrol on the way home.", "pl": "Zabrakło nam benzyny w drodze do domu." },
+      { "en": "It took her hours to figure out the problem.", "pl": "Zajęło jej godziny, żeby rozgryźć problem." },
+      { "en": "His talent really stands out from the rest of the class.", "pl": "Jego talent naprawdę wyróżnia się na tle reszty klasy." },
+      { "en": "The fire broke out shortly after midnight.", "pl": "Pożar wybuchł tuż po północy." }
+    ]
+  },
+  {
+    "id": "off_separation_cessation",
+    "order": 4,
+    "nameEn": "Off — separation, departure and cessation",
+    "namePl": "Off — oddzielenie, odjazd i przerwanie",
+    "rules": [
+      {
+        "label": "Fizyczne oddzielenie",
+        "text": "„Off” oznacza odłączenie jednej rzeczy od drugiej lub przerwanie kontaktu bądź połączenia (cut off, switch off, take off your coat)."
+      },
+      {
+        "label": "Rozpoczęcie podróży",
+        "text": "Z czasownikami set, go, take „off” oznacza wyruszenie w drogę lub start (set off on a journey, the plane took off)."
+      },
+      {
+        "label": "Nagłe przerwanie",
+        "text": "„Off” bywa też używane do zaznaczenia nagłego, czasem niegrzecznego przerwania czynności lub relacji (tell somebody off, call off a meeting, doze off)."
+      }
+    ],
+    "usage": [
+      "Oddzielenie / wyłączenie: cut off, switch off, turn off, take off (ubranie, samolot)",
+      "Wyruszenie: set off, take off (start podróży), go off (wybuchnąć / zepsuć się)",
+      "Przerwanie: call off, put off, tell off, doze off, show off (popisywać się)"
+    ],
+    "tags": ["cut off", "set off", "call off", "take off", "put off"],
+    "examples": [
+      { "en": "The storm cut off the electricity for hours.", "pl": "Burza odcięła prąd na wiele godzin." },
+      { "en": "We set off early to avoid the traffic.", "pl": "Wyruszyliśmy wcześnie, żeby uniknąć korków." },
+      { "en": "The meeting was called off at the last minute.", "pl": "Spotkanie odwołano w ostatniej chwili." },
+      { "en": "He kept dozing off during the lecture.", "pl": "Cały czas przysypiał podczas wykładu." }
+    ]
+  },
+  {
+    "id": "on_away_continuation",
+    "order": 5,
+    "nameEn": "On and away — continuation and persistence",
+    "namePl": "On i away — kontynuacja i wytrwałość",
+    "rules": [
+      {
+        "label": "Kontynuacja czynności",
+        "text": "„On” po czasowniku podkreśla, że czynność jest kontynuowana mimo przeszkód lub upływu czasu (carry on, go on, keep on doing something)."
+      },
+      {
+        "label": "Wytrwałe działanie",
+        "text": "„Away” pełni podobną funkcję, podkreślając wytrwałość lub intensywne, nieprzerwane wykonywanie czynności (work away, chat away, hammer away at something)."
+      },
+      {
+        "label": "Kontrast z „up”",
+        "text": "W przeciwieństwie do „up” (który sygnalizuje zakończenie czynności), „on” i „away” w tej funkcji podkreślają, że czynność NADAL trwa, bez sygnału jej końca."
+      }
+    ],
+    "usage": [
+      "Kontynuacja: carry on, go on, keep on, move on, press on, soldier on",
+      "Wytrwałe, ciągłe działanie: work away, chat away, plug away (at), hammer away (at)",
+      "Częste połączenie z gerundem: keep on complaining, carry on working"
+    ],
+    "tags": ["carry on", "go on", "keep on", "work away", "press on"],
+    "examples": [
+      { "en": "Despite the rain, they carried on playing.", "pl": "Mimo deszczu grali dalej." },
+      { "en": "She kept on asking the same question.", "pl": "Wciąż zadawała to samo pytanie." },
+      { "en": "He's been working away on his novel for months.", "pl": "Od miesięcy wytrwale pracuje nad swoją powieścią." },
+      { "en": "Let's not dwell on the past — let's move on.", "pl": "Nie roztrząsajmy przeszłości — idźmy dalej." }
+    ]
+  }
+]

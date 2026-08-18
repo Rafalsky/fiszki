@@ -185,6 +185,7 @@ const THEORY_URLS = {
   cataphora: new URL("../data/cataphora.json", import.meta.url),
   already_still_yet: new URL("../data/already_still_yet.json", import.meta.url),
   comparative_modifiers: new URL("../data/comparative_modifiers.json", import.meta.url),
+  phrasal_verb_particles: new URL("../data/phrasal_verb_particles.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -365,6 +366,7 @@ const DRILLS_URLS = {
   cataphora: new URL("../data/cataphoraDrills.json", import.meta.url),
   already_still_yet: new URL("../data/already_still_yetDrills.json", import.meta.url),
   comparative_modifiers: new URL("../data/comparative_modifiersDrills.json", import.meta.url),
+  phrasal_verb_particles: new URL("../data/phrasal_verb_particlesDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
