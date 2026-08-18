@@ -2,85 +2,140 @@
   {
     "id": "must_have",
     "order": 1,
-    "nameEn": "must have + past participle — certainty about the past",
-    "namePl": "must have done — pewność co do przeszłości",
+    "nameEn": "must have + past participle — the grammar of certain inference",
+    "namePl": "must have done — dedukcja, nie obowiązek: dwie warstwy czasu w jednym czasowniku",
     "rules": [
-      { "label": "must have + III forma", "text": "Wyraża silne przekonanie, że coś na pewno się wydarzyło, na podstawie dostępnych dowodów" },
-      { "label": "Budowa", "text": "podmiot + must have + imiesłów czasu przeszłego (past participle)" }
+      {
+        "label": "Dlaczego akurat 'have + III forma', a nie zwykła przeszłość?",
+        "text": "Czasowniki modalne (can, may, must, shall, will i ich pary could, might, should, would) to w historii angielskiego tzw. czasowniki preterite-present — staroangielskie czasowniki mocne, których forma CZASU PRZESZŁEGO (preteritum) z czasem została przemianowana na nową formę TERAŹNIEJSZĄ, bo ich pierwotna teraźniejszość wyszła z użycia. Stąd 'must' nie ma końcówki -s w 3. osobie, nie ma bezokolicznika ('to must' nie istnieje) ani imiesłowu — modalne są gramatycznie kalekie, zamrożone w jednej formie. Nie da się więc powiedzieć czegoś w stylu 'musted' czy 'having musted'. Angielszczyzna rozwiązuje ten problem sprytnie: skoro modalny nie może sam unieść informacji o czasie, przenosi ją na czasownik, którym rządzi — 'have + past participle'. 'Must' zostaje w teraźniejszości i wyraża TERAŹNIEJSZY osąd mówiącego, a 'have done' informuje, że zdarzenie ocenianie leży W PRZESZŁOŚCI. To dwie niezależne warstwy czasu skompresowane w jedną frazę czasownikową."
+      },
+      {
+        "label": "Model myślowy: warstwa 'teraz' i warstwa 'wtedy'",
+        "text": "Warstwa 1 ('teraz', zawsze nieoznaczona) to moment, w którym mówiący patrzy na dowody i wyciąga wniosek. Warstwa 2 ('wtedy', oznaczona przez 'have + V3') to samo zdarzenie, o którym wnioskujemy. 'Must' w tym użyciu nie ma nic wspólnego z obowiązkiem — to czysta pewność epistemiczna: 'biorąc pod uwagę dostępne dowody, żaden inny wniosek nie jest logicznie możliwy'. Deontyczne (nakazowe) 'must' i epistemiczne (wnioskujące) 'must have' wywodzą się z tego samego korzenia (st.ang. 'mōste' — było wolno/musiało być), ale w czasie przeszłym obowiązek sam się eliminuje: nie da się być retroaktywnie zobowiązanym do czegoś, co już się wydarzyło — dlatego przy 'have done' zostaje wyłącznie odczyt pewności."
+      },
+      {
+        "label": "Budowa",
+        "text": "podmiot + must have + imiesłów czasu przeszłego (past participle); dla czynności trwającej w danym momencie przeszłości: must have been + czasownik-ing (must have been raining)."
+      }
     ],
     "usage": [
-      "Gdy na podstawie faktów lub poszlak wnioskujemy, że coś się na pewno zdarzyło",
-      "W przeczeniu tego typu wniosku NIE używamy 'mustn't have' — używamy 'can't have' (zobacz kolejny temat)"
+      "Silne przekonanie oparte na dowodach lub logice — nie na obowiązku (He must have known.)",
+      "must have been + -ing dla wnioskowania o czynności, która trwała w danym momencie przeszłości (She must have been sleeping when we called.)",
+      "Wymowa/pisownia: w mowie 'must have' redukuje się do /'mʌstəv/, stąd częsty błąd rodzimych użytkowników 'must of' — to wyłącznie zapis fonetyczny, nie osobna konstrukcja gramatyczna",
+      "W przeczeniu tego typu wniosku NIE używamy 'mustn't have' — 'must not' jest już zajęte przez zakaz (deontyczne 'nie wolno'), więc epistemiczne przeczenie przejmuje inny czasownik: 'can't have' (zobacz kolejny temat)"
     ],
-    "tags": ["must have left", "must have forgotten", "must have known"],
+    "tags": ["must have left", "must have forgotten", "must have been doing", "epistemic vs deontic"],
     "examples": [
       { "en": "The lights are off — they must have gone out.", "pl": "Światła są zgaszone — musieli wyjść." },
-      { "en": "She must have forgotten about the meeting.", "pl": "Ona musiała zapomnieć o spotkaniu." },
-      { "en": "He must have finished the report already.", "pl": "On musiał już skończyć raport." },
-      { "en": "You must have been very tired after the trip.", "pl": "Musiałeś być bardzo zmęczony po podróży." }
+      { "en": "She must have forgotten about the meeting; she's normally so reliable.", "pl": "Ona musiała zapomnieć o spotkaniu — zwykle jest taka niezawodna." },
+      { "en": "You must have been joking — nobody actually believed that.", "pl": "Musiałeś żartować — nikt w to naprawdę nie uwierzył." },
+      { "en": "He must have been driving when he called; I could hear the engine.", "pl": "On musiał prowadzić, kiedy dzwonił — słyszałam silnik." },
+      { "en": "There's flour all over the counter — someone must have been baking.", "pl": "Na blacie jest pełno mąki — ktoś musiał piec." },
+      { "en": "Judging by the empty glasses, the party must have gone on until dawn.", "pl": "Sądząc po pustych szklankach, impreza musiała trwać do świtu." }
     ]
   },
   {
     "id": "cant_have",
     "order": 2,
-    "nameEn": "can't/couldn't have + past participle — impossibility about the past",
-    "namePl": "can't have done — niemożliwość w przeszłości",
+    "nameEn": "can't/couldn't have + past participle — impossibility, not a negated 'must'",
+    "namePl": "can't have done — dlaczego przeczenie pewności wcale nie przeczy 'must'",
     "rules": [
-      { "label": "can't have / couldn't have", "text": "Wyraża przekonanie, że coś na pewno się NIE wydarzyło — logiczny wniosek o niemożliwości" },
-      { "label": "Budowa", "text": "podmiot + can't/couldn't have + past participle" }
+      {
+        "label": "Suplecja biegunowa: dlaczego nie 'mustn't have'?",
+        "text": "Logika modalna zna dwa równoważne sposoby wyrazić 'to niemożliwe, że P': zaprzeczyć możliwości (¬◇P) albo stwierdzić konieczność przeciwieństwa (□¬P) — to dokładnie to samo zdanie ujęte z dwóch stron. Angielski wybrał pierwszą drogę i zbudował z niej osobną formę: skoro 'must not' ma już zajęte znaczenie ('zakazane', deontyczne), epistemiczny system 'pożycza' inny czasownik modalny — zaprzeczone 'can' (możliwość) — żeby wyrazić logiczną niemożliwość. Native speaker nigdy nie uczył się reguł logiki modalnej, ale intuicyjnie czuje, że 'can't have' = 'to niemożliwe, żeby P się wydarzyło'. To zjawisko nazywa się suplecją biegunową: dwa czasowniki modalne (must / can) dzielą między siebie twierdzącą i przeczącą stronę tego samego pola znaczeniowego, zamiast jeden z nich po prostu zaprzeczać."
+      },
+      {
+        "label": "Korzenie: od 'umieć' do 'być logicznie wykluczonym'",
+        "text": "'Can' wywodzi się ze staroangielskiego 'cunnan' — 'znać, umieć (coś zrobić)', a więc pierwotnie mówiło o zdolności umysłowej. Znaczenie stopniowo się rozszerzało: zdolność → ogólna możliwość → (po zaprzeczeniu) logiczne wykluczenie. 'Can't have done' to najdalszy punkt tej drogi: 'to nie mieści się w granicach tego, co możliwe'."
+      },
+      {
+        "label": "Budowa",
+        "text": "podmiot + can't/couldn't have + past participle. 'Couldn't have' bywa nieco bardziej stonowane lub typowe dla narracji w czasie przeszłym, ale znaczeniowo pokrywa się z 'can't have'."
+      }
     ],
     "usage": [
-      "Gdy uważamy, że coś jest niemożliwe na podstawie dostępnych informacji",
-      "To przeczenie odpowiadające twierdzącemu 'must have' — nie mówimy 'mustn't have' w tym znaczeniu"
+      "Gdy na podstawie dowodów wykluczamy jakąś możliwość — logiczne przeciwieństwo 'must have'",
+      "Typowy schemat: [fakt/dowód] — [podmiot] can't have [zdarzenie sprzeczne z dowodem]",
+      "Nie mówimy 'mustn't have' w tym znaczeniu — 'must not' pozostaje zarezerwowane dla zakazu"
     ],
-    "tags": ["can't have seen", "couldn't have known", "can't have left"],
+    "tags": ["can't have seen", "couldn't have known", "polarity suppletion", "impossibility"],
     "examples": [
-      { "en": "She can't have seen us — the room was empty.", "pl": "Ona nie mogła nas widzieć — pokój był pusty." },
-      { "en": "He couldn't have finished already, it's too soon.", "pl": "On nie mógł już skończyć, to zbyt szybko." },
-      { "en": "They can't have left without saying goodbye.", "pl": "Oni nie mogli wyjść bez pożegnania." },
-      { "en": "You can't have forgotten my birthday!", "pl": "Nie mogłeś zapomnieć o moich urodzinach!" }
+      { "en": "She can't have seen us — the curtains were drawn the whole time.", "pl": "Ona nie mogła nas widzieć — zasłony były zaciągnięte przez cały czas." },
+      { "en": "He couldn't have finished already; the deadline was only an hour ago.", "pl": "On nie mógł już skończyć — termin minął dopiero godzinę temu." },
+      { "en": "They can't have left without saying goodbye — that's not like them at all.", "pl": "Oni nie mogli wyjść bez pożegnania — to zupełnie do nich niepodobne." },
+      { "en": "You can't have forgotten my birthday — you texted about it yesterday!", "pl": "Nie mogłeś zapomnieć o moich urodzinach — pisałeś o tym wczoraj!" },
+      { "en": "It can't have been him on the CCTV — he was with me the entire evening.", "pl": "To nie mógł być on na nagraniu z monitoringu — był ze mną cały wieczór." },
+      { "en": "She can't have known the truth, or she wouldn't have signed the contract.", "pl": "Ona nie mogła znać prawdy, bo inaczej nie podpisałaby umowy." }
     ]
   },
   {
     "id": "could_may_might_have",
     "order": 3,
-    "nameEn": "could/may/might have + past participle — possibility about the past",
-    "namePl": "could/may/might have done — możliwość w przeszłości",
+    "nameEn": "could/may/might have + past participle — a gradient of confidence, not a list of synonyms",
+    "namePl": "could/may/might have done — kontinuum pewności i podwójne znaczenie 'could have'",
     "rules": [
-      { "label": "could/may/might have", "text": "Wyrażają przypuszczenie, że coś mogło się wydarzyć — nie mamy pewności" },
-      { "label": "Różnica", "text": "could have często sugeruje też niewykorzystaną możliwość (mogłeś to zrobić, ale nie zrobiłeś)" }
+      {
+        "label": "Nie synonimy, lecz punkty na skali pewności",
+        "text": "must have (niemal pewność) → should/ought to have (oczekiwane, ale niepotwierdzone) → may/might/could have (rzeczywista niepewność, 'to możliwe') → can't/couldn't have (niemal pewność negatywna). To jedna oś, nie zbiór zamiennych słówek — wybór modalnego mówi rozmówcy, jak bardzo mówiący jest przekonany."
+      },
+      {
+        "label": "Dlaczego 'might' brzmi bardziej niepewnie niż 'may'?",
+        "text": "'May' pochodzi od st.ang. 'magan' — 'mieć siłę/moc (by coś zrobić)'. 'Might' to jego historyczna forma przeszła (znów preterite-present, jak przy 'must'). W całym systemie modalnym angielskiego obowiązuje ta sama zasada: forma 'przeszła' (could, might, would, should) niesie w sobie psychologiczny dystans — od czasu, od pewności, od rzeczywistości. To dlatego 'might have' brzmi bardziej hipotetycznie niż 'may have', 'could' jest grzeczniejsze niż 'can', a 'would' tworzy tryb warunkowy zamiast zwykłej przyszłości. Odległość gramatyczna odzwierciedla odległość znaczeniową — jeden mechanizm, wiele zastosowań."
+      },
+      {
+        "label": "Podwójne znaczenie 'could have': dedukcja czy niewykorzystana szansa?",
+        "text": "'Could have done' ma dwa zupełnie różne odczyty, rozstrzygane wyłącznie przez kontekst. (1) Dedukcja — 'to było możliwe, że...' (np. She could have missed the bus = może spóźniła się na autobus). (2) Niewykorzystana możliwość/wyrzut — 'miałeś taką możliwość, ale z niej nie skorzystałeś' (You could have called me! = mogłeś zadzwonić, a nie zadzwoniłeś). Ten drugi odczyt to w istocie okrojony trzeci okres warunkowy z ukrytym zdaniem warunkowym: 'You could have called me [if you'd wanted to / if you'd had my number]' — konsekwencja bez wypowiedzianej przyczyny."
+      }
     ],
     "usage": [
-      "Gdy spekulujemy o możliwym przebiegu wydarzeń w przeszłości, bez pewności",
-      "could have + wyrzut o niewykorzystanej szansie (You could have called me!)"
+      "Spekulacja o możliwym przebiegu wydarzeń w przeszłości, bez pewności (may/might have)",
+      "could have + wyrzut o niewykorzystanej szansie (You could have told me earlier!)",
+      "may have brzmi nieco bardziej formalnie/pisemnie niż might have w codziennej rozmowie",
+      "forma bierna: could/may/might have been + III forma (The letter may have been lost in the post.)"
     ],
-    "tags": ["might have missed", "could have called", "may have forgotten"],
+    "tags": ["might have missed", "could have called", "unrealized possibility", "gradient of certainty"],
     "examples": [
-      { "en": "She might have missed the bus.", "pl": "Może spóźniła się na autobus." },
-      { "en": "He may have already left the office.", "pl": "On mógł już wyjść z biura." },
-      { "en": "You could have told me earlier!", "pl": "Mogłeś powiedzieć mi wcześniej!" },
-      { "en": "They could have taken a taxi instead of walking.", "pl": "Mogli wziąć taksówkę zamiast iść pieszo." }
+      { "en": "She might have missed the bus — that would explain why she's late.", "pl": "Może spóźniła się na autobus — to by tłumaczyło, czemu się spóźnia." },
+      { "en": "He may have already left the office by the time you called.", "pl": "On mógł już wyjść z biura, zanim zadzwoniłeś." },
+      { "en": "You could have told me earlier — I would have rearranged my whole day!", "pl": "Mogłeś powiedzieć mi wcześniej — przełożyłbym cały dzień!" },
+      { "en": "They could have taken a taxi instead of walking home in the storm.", "pl": "Mogli wziąć taksówkę zamiast wracać do domu piechotą w tę burzę." },
+      { "en": "The vase could have been broken by the cat, or it could just as easily have fallen on its own.", "pl": "Wazon mógł zostać stłuczony przez kota, ale równie dobrze mógł sam spaść." },
+      { "en": "I'm not certain, but she may have known about the surprise all along.", "pl": "Nie jestem pewien, ale ona chyba od początku wiedziała o niespodziance." }
     ]
   },
   {
     "id": "should_have",
     "order": 4,
-    "nameEn": "should have / shouldn't have + past participle — criticism and regret",
-    "namePl": "should have done — krytyka i żal",
+    "nameEn": "should have / shouldn't have + past participle — measuring the gap between the ideal past and the real one",
+    "namePl": "should have done — jak zamknięty czas zmienia radę w żal",
     "rules": [
-      { "label": "should have", "text": "Wyraża żal lub krytykę — coś, co było dobrym pomysłem, ale się nie wydarzyło" },
-      { "label": "shouldn't have", "text": "Wyraża krytykę czegoś, co się wydarzyło, a nie powinno" }
+      {
+        "label": "Idealny świat kontra świat rzeczywisty",
+        "text": "'Should' to preterite (forma przeszła) czasownika 'shall', a ten z kolei wywodzi się od st.ang. 'sceal' — 'być winnym, być zobowiązanym'. W swojej podstawowej funkcji 'should' opisuje IDEALNY, oczekiwany bieg spraw ('You should call her' — rada dotycząca otwartej, wciąż zmienialnej przyszłości). Gdy dołożymy 'have + III forma', przenosimy ten sam ideał w przeszłość — ale przeszłość jest zamknięta i nieodwracalna. Powstaje więc porównanie dwóch światów: tego, jaki 'powinien był' się wydarzyć, i tego, jaki naprawdę się wydarzył. To właśnie ta rozbieżność — i fakt, że nic już nie da się z nią zrobić — generuje emocjonalny ładunek: żal, gdy mówimy o sobie ('I should have studied harder'), wyrzut, gdy mówimy o kimś innym ('You shouldn't have shouted at him'), krytyczna ocena, gdy mówimy o sytuacji z zewnątrz. Zwykłe 'should' to rada o otwartej przyszłości; 'should have' to osąd zamkniętej przeszłości — ta sama forma, zupełnie inny ciężar, bo zmienia się tylko jedno: czy jeszcze można coś zrobić."
+      },
+      {
+        "label": "'You shouldn't have!' — gdy krytyka staje się grzecznością",
+        "text": "Ten sam schemat bywa używany nie dosłownie, lecz jako utrwalona formuła grzecznościowa: gdy ktoś wręcza nam prezent, mówimy 'Oh, you shouldn't have!' — pozornie 'nie powinieneś był tego robić', a naprawdę wyraz zaskoczenia i wdzięczności, rytualna skromność, a nie prawdziwy zarzut. To dowód, że raz utrwalona konstrukcja gramatyczna może z czasem oderwać się od swojego dosłownego znaczenia i zacząć żyć własnym, pragmatycznym życiem."
+      },
+      {
+        "label": "Budowa i rejestr",
+        "text": "podmiot + should have / shouldn't have + past participle. Formalniejszy odpowiednik: 'ought to have' (+ przeczenie: ought not to have). W rozmowie 'should have' często służy do łagodzenia bezpośredniej krytyki — brzmi mniej ostro niż stwierdzenie faktu wprost, bo formalnie mówi o oczekiwaniu, nie o oskarżeniu."
+      }
     ],
     "usage": [
-      "Gdy krytykujemy przeszłe decyzje — własne lub cudze",
-      "Gdy wyrażamy żal z powodu czegoś niezrobionego lub zrobionego niewłaściwie"
+      "Żal z powodu własnych decyzji lub zdarzeń, których nie da się już cofnąć",
+      "Krytyka cudzych decyzji — łagodniejsza niż bezpośredni zarzut, bo formalnie odnosi się do 'ideału', nie do winy wprost",
+      "'You shouldn't have!' jako utrwalona formuła grzecznościowa przy prezentach, nie dosłowna krytyka",
+      "ought to have jako formalniejszy synonim: You ought to have told me sooner."
     ],
-    "tags": ["should have studied", "shouldn't have said", "should have listened"],
+    "tags": ["should have studied", "shouldn't have said", "veiled criticism", "you shouldn't have!"],
     "examples": [
-      { "en": "You should have studied harder for the exam.", "pl": "Powinieneś był uczyć się pilniej do egzaminu." },
-      { "en": "I shouldn't have said that to her.", "pl": "Nie powinienem był tego jej mówić." },
-      { "en": "We should have left earlier to avoid traffic.", "pl": "Powinniśmy byli wyjechać wcześniej, żeby uniknąć korków." },
-      { "en": "He shouldn't have spent all his money.", "pl": "On nie powinien był wydać wszystkich pieniędzy." }
+      { "en": "You should have studied harder for the exam — you had weeks to prepare.", "pl": "Powinieneś był uczyć się pilniej do egzaminu — miałeś na to całe tygodnie." },
+      { "en": "I shouldn't have said that to her; it came out much harsher than I meant.", "pl": "Nie powinienem był tego jej mówić — zabrzmiało dużo ostrzej, niż zamierzałem." },
+      { "en": "We should have left earlier; now we're stuck in the worst of the traffic.", "pl": "Powinniśmy byli wyjechać wcześniej — teraz utknęliśmy w najgorszych korkach." },
+      { "en": "He shouldn't have spent all his savings on that car.", "pl": "On nie powinien był wydać wszystkich oszczędności na ten samochód." },
+      { "en": "Oh, you shouldn't have — this is far too generous!", "pl": "Ależ nie musiałeś — to naprawdę zbyt hojny prezent!" },
+      { "en": "The company ought to have warned customers before the price increase.", "pl": "Firma powinna była ostrzec klientów przed podwyżką cen." }
     ]
   }
 ]
