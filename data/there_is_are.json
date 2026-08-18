@@ -2,90 +2,196 @@
   {
     "id": "there_is",
     "order": 1,
-    "nameEn": "There is — singular / uncountable",
-    "namePl": "There is — liczba pojedyncza i rzeczowniki niepoliczalne",
+    "nameEn": "there is — the ghost subject that lets English announce existence",
+    "namePl": "there is — pusty podmiot, dzięki któremu angielski w ogóle może ogłosić czyjeś istnienie",
     "rules": [
-      { "label": "Budowa", "text": "there is + rzeczownik policzalny w liczbie pojedynczej lub rzeczownik niepoliczalny" },
-      { "label": "Skrót", "text": "there is skraca się do there's w mowie i nieformalnym piśmie" }
+      {
+        "label": "Skąd się wzięło to puste 'there'?",
+        "text": "Staroangielskie 'þǣr' było zwykłym przysłówkiem miejsca — znaczyło dokładnie tyle, co dzisiejsze 'tam'. Problem w tym, że angielski (w przeciwieństwie do polskiego) jest językiem, w którym KAŻDE zdanie oznajmujące potrzebuje jawnego podmiotu przed czasownikiem — nie da się powiedzieć samego 'is a cat on the roof', tak jak po polsku swobodnie mówimy 'jest kot na dachu' bez żadnego odpowiednika 'there'. Angielszczyzna rozwiązała ten problem, biorąc przysłówek 'þǣr' i powoli wyzuwając go ze znaczenia przestrzennego — zamieniła realne 'tam' w czysto gramatyczną zatyczkę, tzw. podmiot pozorny (expletive subject), którego jedynym zadaniem jest wypełnić obowiązkowe miejsce podmiotu. To ten sam mechanizm, co przy 'it' w 'it is raining' — 'it' też niczego nie oznacza, tylko ratuje składnię."
+      },
+      {
+        "label": "Kto naprawdę rządzi czasownikiem: 'there' czy rzeczownik po nim?",
+        "text": "Mimo że 'there' stoi na miejscu podmiotu, czasownik 'be' wcale się do niego nie dostosowuje — dostosowuje się do rzeczownika, który przychodzi PO nim (tzw. podmiot noniowy / notional subject). Dlatego mówimy 'there IS a cat' (bo 'a cat' jest w liczbie pojedynczej), a nie 'there ARE a cat'. To rzadka w angielskim sytuacja, w której zgodność gramatyczna 'przeskakuje' przez pozorny podmiot do prawdziwego nośnika znaczenia stojącego dalej w zdaniu — dowód, że 'there' jest podmiotem czysto formalnym, syntaktycznym parawanem, a nie realnym uczestnikiem zdania."
+      },
+      {
+        "label": "Dlaczego w ogóle mówimy 'There is a cat...', a nie po prostu 'A cat is on the roof'?",
+        "text": "Angielski (jak większość języków) trzyma się zasady end-focus: informacja NOWA dla słuchacza ląduje na końcu zdania, a informacja znana lub oczywista — na początku. Zdanie 'A cat is on the roof' brzmi nienaturalnie jako pierwsze zdanie rozmowy, bo zaczyna się od czegoś, o czym rozmówca jeszcze nic nie wie — to tak, jakby zacząć historię od 'On' zamiast przedstawić bohatera. Konstrukcja 'there is' przesuwa nieznaną, nową rzecz ('a cat') na koniec zdania, w pozycję najsilniejszego uwagi, a puste 'there' bierze na siebie rolę gramatycznego podmiotu z przodu. Innymi słowy: 'there is/are' to narzędzie do WPROWADZANIA nowych bytów do rozmowy, nie do opisywania już znanych."
+      },
+      {
+        "label": "Budowa",
+        "text": "there is / there's + rzeczownik policzalny w liczbie pojedynczej lub rzeczownik niepoliczalny + (okolicznik miejsca). Skrót there's dominuje w mowie i piśmie nieformalnym niemal bez wyjątku — pełna forma 'there is' w wypowiedzi ustnej brzmi sztywno, wręcz podkreślająco."
+      }
     ],
     "usage": [
-      "Informowanie o istnieniu jednej rzeczy lub osoby w danym miejscu",
-      "Mówienie o rzeczownikach niepoliczalnych (there is some water)",
-      "Wprowadzanie nowej informacji do rozmowy"
+      "Wprowadzanie do rozmowy czegoś, o czym rozmówca jeszcze nie wie — pierwsze zdanie opisu miejsca, sytuacji, problemu (There's a strange noise coming from the engine.)",
+      "Rzeczowniki niepoliczalne zawsze idą z 'is', niezależnie od tego, jak dużo tej substancji jest (There's plenty of time — nie 'there are')",
+      "Kontrast z konstrukcją 'X is + miejsce', która zakłada, że słuchacz JUŻ wie, o jakim X mowa: 'There's a key on the table' (nowa informacja) vs 'The key is on the table' (odpowiedź na 'gdzie jest ten klucz, o którym rozmawialiśmy?')",
+      "Formalne rejestry pisane wolą pełne 'there is', rozmowa i wiadomości tekstowe niemal zawsze 'there's', nawet przed rzeczownikiem w liczbie mnogiej w mowie potocznej (zobacz kolejny temat: there are)"
     ],
-    "tags": ["there is a", "there's", "there is some"],
+    "tags": ["there is a", "there's", "there is some", "expletive subject", "notional subject"],
     "examples": [
-      { "en": "There is a cat on the roof.", "pl": "Na dachu jest kot." },
-      { "en": "There's some milk in the fridge.", "pl": "W lodówce jest trochę mleka." },
-      { "en": "There is a problem with the printer.", "pl": "Jest problem z drukarką." },
-      { "en": "There's a nice restaurant near my house.", "pl": "Niedaleko mojego domu jest fajna restauracja." }
+      { "en": "There's a strange smell coming from the kitchen — can you check it?", "pl": "Z kuchni dochodzi dziwny zapach — możesz sprawdzić?" },
+      { "en": "There is a small chance the flight will be delayed because of the storm.", "pl": "Jest niewielka szansa, że lot się opóźni z powodu burzy." },
+      { "en": "There's still some coffee left in the pot if you want it.", "pl": "W dzbanku zostało jeszcze trochę kawy, jeśli chcesz." },
+      { "en": "There is a reason why she never talks about her childhood.", "pl": "Jest jakiś powód, dla którego ona nigdy nie mówi o swoim dzieciństwie." },
+      { "en": "There's a lot of truth in what he just said, even if it's uncomfortable.", "pl": "W tym, co przed chwilą powiedział, jest dużo prawdy, nawet jeśli to niewygodne." },
+      { "en": "There is no simple answer to a question like that.", "pl": "Nie ma prostej odpowiedzi na takie pytanie." }
     ]
   },
   {
     "id": "there_are",
     "order": 2,
-    "nameEn": "There are — plural",
-    "namePl": "There are — liczba mnoga",
+    "nameEn": "there are — plural agreement, and the slow collapse of the rule in speech",
+    "namePl": "there are — logika zgody liczby mnogiej i to, jak mowa potoczna powoli tę zgodę zaciera",
     "rules": [
-      { "label": "Budowa", "text": "there are + rzeczownik policzalny w liczbie mnogiej" },
-      { "label": "Liczebniki", "text": "po there are często pojawiają się liczebniki lub kwantyfikatory (many, several, a few)" }
+      {
+        "label": "Ta sama zasada co przy 'there is', tylko liczba mnoga",
+        "text": "Skoro to notional subject (rzeczownik po czasowniku) decyduje o formie 'be', to rzeczownik w liczbie mnogiej wymusza 'are': there are cats, there are three chairs, there are many reasons. Zasada jest identyczna jak przy 'there is' — zmienia się tylko liczba wyzwalającego rzeczownika, nie sam mechanizm."
+      },
+      {
+        "label": "'There's two people waiting' — błąd czy żywy język?",
+        "text": "W mowie potocznej, zwłaszcza brytyjskiej i amerykańskiej, bardzo często słyszy się 'there's' nawet przed rzeczownikiem w liczbie mnogiej: 'There's two people waiting outside.' To zjawisko lingwiści nazywają 'domyślną formą pojedynczą' (default singular) — w żywej mowie 'there's' zaczyna funkcjonować niemal jak niezmienna, skostniała formuła otwierająca zdanie, podobnie jak francuskie 'il y a' nie odmienia się przez liczbę. Jest to powszechne i notowane w korpusach języka mówionego, ale w piśmie formalnym, egzaminach (np. Cambridge, IELTS) i starannej mowie nadal obowiązuje pełna zgoda: there ARE two people. Świadomość tego rozdźwięku między normą a praktyką to typowa kompetencja na poziomie C1/C2 — nie chodzi o to, by imitować ten skrót, lecz by go rozpoznawać, gdy się go słyszy, i nie dać się zmylić w rozumieniu ze słuchu."
+      },
+      {
+        "label": "Kwantyfikatory zbiorowe: liczba gramatyczna kontra liczba pojęciowa",
+        "text": "Wyrażenia w rodzaju 'a number of', 'a couple of', 'plenty of', 'a lot of' + rzeczownik w liczbie mnogiej biorą 'there are', bo o zgodzie decyduje rzeczownik na końcu frazy (reasons, tourists), a nie pozornie pojedyncze 'a number' czy 'a couple' na początku: 'There are a number of reasons for this.' To ten sam mechanizm noniowej zgody, co przy 'there is' — patrzymy na to, co semantycznie policzalne, a nie na powierzchowną formę pierwszego słowa frazy."
+      },
+      {
+        "label": "Budowa",
+        "text": "there are + rzeczownik policzalny w liczbie mnogiej, często poprzedzony liczebnikiem lub kwantyfikatorem: there are two/many/several/a few/no + rzeczownik."
+      }
     ],
     "usage": [
-      "Informowanie o istnieniu więcej niż jednej rzeczy lub osoby",
-      "Podawanie liczby lub ilości czegoś w danym miejscu",
-      "Opisywanie tego, co znajduje się w pomieszczeniu, mieście itp."
+      "Informowanie o istnieniu więcej niż jednej rzeczy lub osoby, zwłaszcza przy pierwszym wprowadzeniu tematu do rozmowy",
+      "Podawanie dokładnej lub przybliżonej liczby czegoś: there are exactly five seats left / there are hardly any tickets left",
+      "W rejestrze formalnym i pisanym zawsze zachowuj pełną zgodę liczby — 'there's' przed liczbą mnogą jest cechą wyłącznie mowy potocznej, nie standardu pisanego",
+      "Kwantyfikatory zbiorowe (a number of, plenty of, a couple of) + rzeczownik w liczbie mnogiej biorą 'are', bo zgoda idzie za rzeczownikiem końcowym, nie za pierwszym słowem frazy"
     ],
-    "tags": ["there are two", "there are many", "there are some"],
+    "tags": ["there are two", "there are many", "there's two people", "default singular", "collective quantifiers"],
     "examples": [
-      { "en": "There are three chairs in the kitchen.", "pl": "W kuchni są trzy krzesła." },
-      { "en": "There are many people at the concert.", "pl": "Na koncercie jest wielu ludzi." },
-      { "en": "There are no eggs left.", "pl": "Nie zostały żadne jajka." },
-      { "en": "There are several reasons for this decision.", "pl": "Jest kilka powodów tej decyzji." }
+      { "en": "There are three empty seats at the back of the theatre.", "pl": "W tyle teatru są trzy wolne miejsca." },
+      { "en": "There are a number of reasons why the project was delayed.", "pl": "Jest kilka powodów, dla których projekt się opóźnił." },
+      { "en": "There's two of us going, so we'll need a bigger table.", "pl": "Idziemy we dwoje, więc będzie nam potrzebny większy stolik. (potoczne 'there's' przed liczbą mnogą)" },
+      { "en": "There are hardly any strawberries left at this time of year.", "pl": "O tej porze roku prawie już nie ma truskawek." },
+      { "en": "There are plenty of opportunities if you know where to look.", "pl": "Jest mnóstwo okazji, jeśli wiesz, gdzie szukać." },
+      { "en": "There are no easy shortcuts in learning a language properly.", "pl": "Nie ma żadnych łatwych skrótów w porządnej nauce języka." }
     ]
   },
   {
     "id": "there_was_were",
     "order": 3,
-    "nameEn": "There was / there were — past",
-    "namePl": "There was / there were — czas przeszły",
+    "nameEn": "there was / there were — the existential construction steps into narrative time",
+    "namePl": "there was / there were — jak konstrukcja egzystencjalna staje się otwarciem opowieści",
     "rules": [
-      { "label": "There was", "text": "there was + rzeczownik w liczbie pojedynczej lub niepoliczalny w czasie przeszłym" },
-      { "label": "There were", "text": "there were + rzeczownik w liczbie mnogiej w czasie przeszłym" }
+      {
+        "label": "Ta sama zgoda noniowa, tylko w przeszłości",
+        "text": "there was + rzeczownik pojedynczy/niepoliczalny, there were + rzeczownik mnogi — identyczna zasada zgody jak w czasie teraźniejszym, przeniesiona na 'be' w formie przeszłej. Mechanizm się nie zmienia: to rzeczownik po czasowniku decyduje o formie, nie samo 'there'."
+      },
+      {
+        "label": "'Once upon a time there was...' — dlaczego akurat ta konstrukcja otwiera historie?",
+        "text": "'There is/was' to naturalne narzędzie do wprowadzania nowych bytów na scenę (zobacz temat 'there is'), więc nic dziwnego, że stała się formułą otwierającą baśnie i anegdoty na całym świecie anglojęzycznym: 'Once upon a time there was a king who had three daughters.' Ta sama logika end-focus działa tu w pełnej krasie — słuchacz nie zna jeszcze żadnej postaci ani miejsca, więc opowieść musi zacząć się od pustego podmiotu 'there', który dopiero WPROWADZA bohatera na scenę. Later w narracji, gdy postać jest już znana, mówca przechodzi na zwykłe 'the king was...' — bo król przestał być nową informacją."
+      },
+      {
+        "label": "'If there were' — cień trybu łączącego czający się w tej konstrukcji",
+        "text": "W zdaniach nierealnych ('gdyby...') po 'if there' w liczbie pojedynczej wielu starannych użytkowników (zwłaszcza w piśmie formalnym i amerykańskim angielskim) używa 'were' zamiast 'was' nawet dla podmiotu pojedynczego: 'If there were a problem, we would know by now.' To relikt subjunctive — trybu łączącego, który w większości angielszczyzny dawno zanikł, ale przetrwał właśnie w takich nierealnych, hipotetycznych kontekstach. W mowie potocznej 'if there was' jest równie powszechne i akceptowane, ale rozpoznanie 'if there were' jako sygnału wyższego rejestru i świadomej hipotetyczności to kompetencja C1/C2."
+      },
+      {
+        "label": "Budowa",
+        "text": "there was + rzeczownik pojedynczy/niepoliczalny w czasie przeszłym; there were + rzeczownik mnogi w czasie przeszłym. Przeczenie: there wasn't / there weren't."
+      }
     ],
     "usage": [
-      "Opisywanie tego, co istniało lub znajdowało się gdzieś w przeszłości",
-      "Relacjonowanie wydarzeń, które miały miejsce (there was an accident)",
-      "Opowiadanie historii i opisywanie scenerii w czasie przeszłym"
+      "Otwieranie opowieści, anegdot i relacji — wprowadzanie miejsca, czasu i bohaterów nieznanych jeszcze słuchaczowi (Once upon a time there was..., There was once a small village...)",
+      "Relacjonowanie zdarzeń, które miały miejsce: There was an accident on the motorway this morning.",
+      "Opisywanie scenerii lub okoliczności w tle narracji, często w czasie Past Continuous obok: There was a storm brewing while they were setting up camp.",
+      "'If there were' (zamiast 'if there was') w zdaniach hipotetycznych — subtelny sygnał formalnego rejestru i świadomej nierealności"
     ],
-    "tags": ["there was a", "there were many", "there wasn't"],
+    "tags": ["there was a", "there were many", "once upon a time there was", "if there were"],
     "examples": [
-      { "en": "There was a storm last night.", "pl": "Zeszłej nocy była burza." },
-      { "en": "There were a lot of tourists in the city.", "pl": "W mieście było mnóstwo turystów." },
-      { "en": "There wasn't any food in the house.", "pl": "W domu nie było żadnego jedzenia." },
-      { "en": "There were three books on the table.", "pl": "Na stole były trzy książki." }
+      { "en": "Once upon a time, there was a fisherman who lived by the sea.", "pl": "Dawno, dawno temu żył sobie rybak, który mieszkał nad morzem." },
+      { "en": "There was a moment of complete silence before everyone started clapping.", "pl": "Był moment zupełnej ciszy, zanim wszyscy zaczęli klaskać." },
+      { "en": "There were dozens of applicants for just two positions.", "pl": "Na zaledwie dwa stanowiska było dziesiątki kandydatów." },
+      { "en": "If there were any doubt about his intentions, this letter removes it completely.", "pl": "Gdyby były jakiekolwiek wątpliwości co do jego zamiarów, ten list całkowicie je rozwiewa." },
+      { "en": "There wasn't a single cloud in the sky the whole weekend.", "pl": "Przez cały weekend na niebie nie było ani jednej chmurki." },
+      { "en": "There were three of us left by the time the meeting finally ended.", "pl": "Kiedy spotkanie się wreszcie skończyło, zostało nas troje." }
     ]
   },
   {
     "id": "there_questions_negation",
     "order": 4,
-    "nameEn": "Questions and negation with there",
-    "namePl": "Pytania i przeczenia z there",
+    "nameEn": "questions and negation with there — proof that the ghost subject behaves like a real one",
+    "namePl": "pytania i przeczenia z there — dowód na to, że pozorny podmiot zachowuje się jak prawdziwy",
     "rules": [
-      { "label": "Pytania", "text": "Is there...? / Are there...? — inwersja there i is/are" },
-      { "label": "Przeczenia", "text": "there isn't / there aren't / there is no / there are no" },
-      { "label": "Krótkie odpowiedzi", "text": "Yes, there is. / No, there isn't. / Yes, there are. / No, there aren't." }
+      {
+        "label": "Dlaczego inwersja w ogóle działa na 'there'?",
+        "text": "Angielskie pytania typu tak/nie tworzy się przez inwersję podmiotu i operatora (is/are/was/were/does...): 'She is ready' → 'Is she ready?'. Skoro 'there' zajmuje dokładnie miejsce podmiotu w zdaniu twierdzącym, ten sam mechanizm inwersji działa na nim identycznie: 'There is a bank near here' → 'Is there a bank near here?' To mocny dowód syntaktyczny na to, że 'there' — mimo że nic nie oznacza — jest w pełni prawdziwym podmiotem gramatycznym z punktu widzenia struktury zdania, a nie tylko przypadkowym słówkiem na początku."
+      },
+      {
+        "label": "'there is no' kontra 'there isn't a/any' — ta sama treść, inny ciężar stylistyczny",
+        "text": "Angielski oferuje dwie równoległe drogi przeczenia istnienia: zaprzeczyć czasownikowi (there isn't a solution / there aren't any tickets) albo zaprzeczyć rzeczownikowi za pomocą 'no' (there is no solution / there are no tickets). Semantycznie to to samo zdanie, ale 'there is no' brzmi bardziej stanowczo, kategorycznie, niemal urzędowo — to forma, którą znajdziesz w ogłoszeniach, przepisach i formalnych oświadczeniach ('There is no refund policy for this service'), podczas gdy 'there isn't any' brzmi na luźniejszą, rozmowną wersję tej samej informacji. Wybór formy to zatem decyzja stylistyczna, nie tylko gramatyczna."
+      },
+      {
+        "label": "'any' kontra 'some' w pytaniach i przeczeniach",
+        "text": "W zdaniach twierdzących z 'there is/are' zwykle pojawia się 'some' (there are some apples), ale w pytaniach i przeczeniach standardowo przechodzimy na 'any' (are there any apples? / there aren't any apples) — to ten sam wzorzec 'some/any', który rządzi całą resztą angielskiej gramatyki, nie osobna reguła specyficzna dla 'there'. Wyjątek: 'some' w pytaniu, gdy pytający już oczekuje odpowiedzi twierdzącej lub coś proponuje (Is there some milk I could use? — uprzejma prośba, nie neutralne pytanie o fakt)."
+      },
+      {
+        "label": "Budowa",
+        "text": "Pytania: Is/Are/Was/Were + there + rzeczownik...? Przeczenia: there isn't/aren't/wasn't/weren't + rzeczownik, lub there is/are/was/were + no + rzeczownik. Krótkie odpowiedzi: Yes, there is/are/was/were. / No, there isn't/aren't/wasn't/weren't."
+      }
     ],
     "usage": [
-      "Pytanie o istnienie lub dostępność czegoś",
-      "Zaprzeczanie istnieniu czegoś w danym miejscu",
-      "Udzielanie krótkich odpowiedzi na pytania z there is/are"
+      "Pytanie o istnienie, dostępność lub ilość czegoś w danym miejscu: Is there a pharmacy open this late?",
+      "Formalne, kategoryczne zaprzeczenie istnienia czegoś (regulaminy, ogłoszenia, oficjalne komunikaty): There is no admission fee for children under five.",
+      "Rozmowne, mniej stanowcze zaprzeczenie: There isn't really anything we can do about it now.",
+      "'any' zamiast 'some' w pytaniach i przeczeniach jako standardowy wzorzec, z wyjątkiem grzecznych próśb i propozycji"
     ],
-    "tags": ["is there", "are there", "there isn't", "there is no"],
+    "tags": ["is there", "are there", "there isn't", "there is no", "some vs any"],
     "examples": [
-      { "en": "Is there a bank near here?", "pl": "Czy jest tu w pobliżu bank?" },
-      { "en": "Are there any tickets left?", "pl": "Czy zostały jakieś bilety?" },
-      { "en": "There isn't a pool in this hotel.", "pl": "W tym hotelu nie ma basenu." },
-      { "en": "There are no clean towels.", "pl": "Nie ma czystych ręczników." }
+      { "en": "Is there a bank machine anywhere near the station?", "pl": "Czy jest gdzieś w pobliżu dworca bankomat?" },
+      { "en": "Were there any messages for me while I was out?", "pl": "Czy były dla mnie jakieś wiadomości, kiedy mnie nie było?" },
+      { "en": "There is no excuse for treating people like that.", "pl": "Nie ma żadnego usprawiedliwienia dla takiego traktowania ludzi." },
+      { "en": "There isn't really a right answer to that kind of question.", "pl": "Na takie pytanie tak naprawdę nie ma jednej słusznej odpowiedzi." },
+      { "en": "Aren't there supposed to be two more chairs in this room?", "pl": "Czy w tym pokoju nie powinny być jeszcze dwa krzesła?" },
+      { "en": "There were no witnesses at all, according to the police report.", "pl": "Według raportu policji nie było żadnych świadków." }
+    ]
+  },
+  {
+    "id": "there_their_theyre",
+    "order": 5,
+    "nameEn": "there / their / they're — one sound with three separate grammatical lives",
+    "namePl": "there / their / they're — jeden dźwięk, trzy zupełnie różne słowa o różnym rodowodzie",
+    "rules": [
+      {
+        "label": "Trzy słowa, jeden dźwięk — i różne korzenie historyczne",
+        "text": "'There' /ðeə/ pochodzi ze staroangielskiego rodzimego przysłówka 'þǣr' (dokładnie ten sam, co w temacie o 'there is'). 'They're' to po prostu ściągnięte 'they are'. Ale 'their' ma zupełnie inną, zaskakującą historię: rodzima staroangielszczyzna miała własne zaimki 3. osoby liczby mnogiej (hīe, heora, him), które jednak zbyt mocno przypominały fonetycznie zaimki liczby pojedynczej i łatwo się myliły w mowie. W okresie kontaktu z osadnikami z Danii (Denelaw, IX–XI w.) angielski pożyczył od staronordyckiego zaimek dzierżawczy 'þeirra' — i to on, po wiekach adaptacji, stał się dzisiejszym 'their'. Dlatego współczesne zaimki 'they / them / their' zaczynają się na 'th-' zapożyczone ze skandynawskiego, a nie z rodzimej staroangielszczyzny — rzadki przypadek, w którym język pożycza sobie całą serię zaimków osobowych, bo własne przestały się sprawdzać."
+      },
+      {
+        "label": "Existential 'there' bez akcentu kontra locative 'there' z akcentem",
+        "text": "Puste, egzystencjalne 'there' z konstrukcji 'there is/are' wymawia się zredukowane, bez akcentu, niemal jak schwa: /ðə/ — to sygnał dla słuchacza, że słowo to nic nie znaczy samo w sobie, tylko pełni funkcję gramatyczną. Prawdziwe, wskazujące na miejsce 'there' ('tam') zawsze niesie pełny, wyraźny akcent /ðeə/: 'Put it there.' (Połóż to TAM.) / 'There it is!' (O, TAM jest!). Ta różnica w akcencie to jedyny sposób, by w mowie odróżnić od siebie dwa zdania wyglądające niemal identycznie na piśmie — np. 'There's the book' (nieakcentowane 'there' = 'oto jest ta książka', wprowadzenie/wskazanie) brzmi inaczej niż emfatyczne 'THERE's the book!' (akcentowane, triumfalne 'O, WŁAŚNIE TAM jest ta książka!', po długim szukaniu)."
+      },
+      {
+        "label": "'There' jako partykuła dyskursywna, nie tylko przysłówek miejsca",
+        "text": "Poza funkcją egzystencjalną i lokatywną, 'there' utrwaliło się też jako samodzielna partykuła w utartych zwrotach, oderwana od jakiegokolwiek dosłownego miejsca: 'There, there' (kojące pocieszenie, jak polskie 'no już, już'), 'There, I knew it!' (triumfalne potwierdzenie własnej racji), 'There you go' (podanie czegoś komuś lub aprobata czyjegoś działania). To pokazuje, jak jedno stare słowo przestrzenne z czasem rozgałęzia się na kilka niezależnych funkcji pragmatycznych, dawno oderwanych od pierwotnego sensu 'w tamtym miejscu'."
+      },
+      {
+        "label": "Jak nie pomylić ich w piśmie",
+        "text": "Prosty test: jeśli można podstawić 'they are', pisz 'they're'. Jeśli słowo opisuje czyjąś własność ('ich ___'), pisz 'their'. We wszystkich pozostałych przypadkach — łącznie z pustym podmiotem w 'there is/are' — pisz 'there'. Mylenie tych trzech form to jeden z najczęstszych błędów ortograficznych nawet wśród rodzimych użytkowników angielskiego, właśnie dlatego, że w mowie brzmią identycznie."
+      }
+    ],
+    "usage": [
+      "Odróżnianie pustego 'there' (podmiot pozorny) od prawdziwego, wskazującego miejsce 'there' po akcencie zdaniowym w mowie",
+      "'their' wyłącznie jako zaimek dzierżawczy ('ich'): their car, their decision — nigdy w znaczeniu miejsca ani jako skrót 'they are'",
+      "'they're' wyłącznie jako ściągnięcie 'they are': they're leaving tomorrow — nigdy w znaczeniu miejsca ani dzierżawczym",
+      "Utarte zwroty z 'there' jako partykułą dyskursywną (there, there / there you go / there we go), niezwiązane z żadnym konkretnym miejscem"
+    ],
+    "tags": ["there vs their vs they're", "stressed vs unstressed there", "there, there", "Old Norse loanword"],
+    "examples": [
+      { "en": "Their flight was delayed, so they're not going to arrive there until midnight.", "pl": "Ich lot się opóźnił, więc nie dotrą tam przed północą." },
+      { "en": "There, there — it's going to be fine, I promise.", "pl": "No już, już — wszystko będzie dobrze, obiecuję." },
+      { "en": "I looked everywhere for my glasses, and there they were, right on my head.", "pl": "Szukałem okularów wszędzie, a one były właśnie TAM, na mojej głowie." },
+      { "en": "They're convinced their new neighbours moved in there just last week.", "pl": "Są przekonani, że ich nowi sąsiedzi wprowadzili się tam dopiero w zeszłym tygodniu." },
+      { "en": "There you go — I told you it would fit perfectly.", "pl": "No i proszę — mówiłem, że będzie pasować idealnie." },
+      { "en": "Put the boxes there, next to their suitcases, before they're back from the airport.", "pl": "Postaw pudła tam, obok ich walizek, zanim oni wrócą z lotniska." }
     ]
   }
 ]
