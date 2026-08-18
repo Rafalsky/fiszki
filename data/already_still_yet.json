@@ -1,0 +1,122 @@
+[
+  {
+    "id": "already_affirmative",
+    "order": 1,
+    "nameEn": "Already — completion sooner than expected",
+    "namePl": "Already — coś się już wydarzyło",
+    "rules": [
+      { "label": "Pozycja środkowa", "text": "already zwykle stoi w pozycji środkowej: po czasowniku posiłkowym/be, przed czasownikiem głównym — I have already finished. / She is already here." },
+      { "label": "Z Present Perfect", "text": "already najczęściej występuje z Present Perfect, podkreślając, że coś wydarzyło się wcześniej niż oczekiwano — We've already seen this film." },
+      { "label": "Pozycja końcowa dla emfazy", "text": "Umieszczenie already na końcu zdania wzmacnia zaskoczenie szybkością/wcześniejszością — He's finished already! (Tak szybko?!)" },
+      { "label": "Nie w neutralnych pytaniach", "text": "W neutralnym pytaniu o to, czy coś się wydarzyło, zwykle używamy yet, nie already — pytanie z already sugeruje wyraźne zdziwienie tempem." }
+    ],
+    "usage": [
+      "Informowanie, że czynność zaszła wcześniej niż się spodziewano lub wcześniej niż zwykle",
+      "Podstawowe środowisko dla already to zdania twierdzące (affirmative)",
+      "Przesunięcie already na koniec zdania podkreśla zaskoczenie tempem"
+    ],
+    "tags": ["already", "have already done", "już", "zaskoczenie tempem"],
+    "examples": [
+      { "en": "I've already had lunch.", "pl": "Już zjadłem lunch." },
+      { "en": "She has already left for the airport.", "pl": "Ona już wyjechała na lotnisko." },
+      { "en": "You're already here? I wasn't expecting you until noon.", "pl": "Już tu jesteś? Nie spodziewałem się ciebie przed południem." },
+      { "en": "They've already sold all the tickets.", "pl": "Już sprzedali wszystkie bilety." }
+    ]
+  },
+  {
+    "id": "yet_negatives_questions",
+    "order": 2,
+    "nameEn": "Yet — in negatives and questions",
+    "namePl": "Yet — w przeczeniach i pytaniach",
+    "rules": [
+      { "label": "Pozycja końcowa", "text": "yet zawsze stoi na końcu zdania lub frazy — I haven't finished yet. / Has she called yet?" },
+      { "label": "Przeczenia", "text": "not...yet = coś, co miało się wydarzyć, jeszcze się nie wydarzyło, ale się tego spodziewamy — I haven't decided yet." },
+      { "label": "Pytania neutralne", "text": "yet w pytaniu to neutralne dopytanie, czy oczekiwana czynność już nastąpiła, bez podtekstu zaskoczenia — Have you finished yet?" },
+      { "label": "Brak w zdaniach twierdzących", "text": "yet nie występuje w zwykłych zdaniach twierdzących — w tej funkcji używamy already." }
+    ],
+    "usage": [
+      "Pytanie o to, czy oczekiwana czynność już nastąpiła",
+      "Przeczenie: czynność jeszcze się nie odbyła, ale jest oczekiwana w przyszłości",
+      "Zawsze na końcu zdania"
+    ],
+    "tags": ["yet", "not yet", "jeszcze nie", "Have you...yet?"],
+    "examples": [
+      { "en": "I haven't read that book yet.", "pl": "Jeszcze nie przeczytałem tej książki." },
+      { "en": "Has the postman come yet?", "pl": "Czy listonosz już przyszedł?" },
+      { "en": "We haven't decided where to go yet.", "pl": "Jeszcze nie zdecydowaliśmy, dokąd jedziemy." },
+      { "en": "Don't eat that yet — it's still hot.", "pl": "Jeszcze tego nie jedz — jest wciąż gorące." }
+    ]
+  },
+  {
+    "id": "still_continuation",
+    "order": 3,
+    "nameEn": "Still — an action or state continuing",
+    "namePl": "Still — coś trwa nadal",
+    "rules": [
+      { "label": "Pozycja środkowa", "text": "still stoi w pozycji środkowej, tak jak przysłówki częstotliwości: po podmiocie, przed czasownikiem głównym, ale po be/czasowniku posiłkowym — She still lives in Paris. / He is still sleeping." },
+      { "label": "Znaczenie", "text": "still podkreśla, że sytuacja trwa bez zmian, dłużej niż się spodziewano lub niż mogłoby się wydawać naturalne." },
+      { "label": "W przeczeniach", "text": "still może poprzedzać przeczenie (still + don't/haven't itd.), podkreślając zniecierpliwienie lub zdziwienie, że coś nie nastąpiło mimo upływu czasu — I still haven't heard from her." },
+      { "label": "W pytaniach", "text": "still w pytaniu sprawdza, czy sytuacja się nie zmieniła — Are you still working there?" }
+    ],
+    "usage": [
+      "Podkreślanie ciągłości sytuacji, często wbrew oczekiwaniom, że powinna się już zmienić",
+      "Naturalne z czasami continuous oraz z czasownikami stanowymi (still love, still live)",
+      "still + przeczenie brzmi mocniej i bardziej emocjonalnie niż zwykłe not yet"
+    ],
+    "tags": ["still", "wciąż", "nadal", "still doing"],
+    "examples": [
+      { "en": "He still works for the same company.", "pl": "On wciąż pracuje w tej samej firmie." },
+      { "en": "Is it still raining outside?", "pl": "Czy nadal pada na zewnątrz?" },
+      { "en": "I still don't understand the instructions.", "pl": "Nadal nie rozumiem instrukcji." },
+      { "en": "She's still asleep — don't wake her up.", "pl": "Ona wciąż śpi — nie budź jej." }
+    ]
+  },
+  {
+    "id": "still_vs_yet_negative",
+    "order": 4,
+    "nameEn": "Still not vs not...yet — the difference",
+    "namePl": "Still not a not...yet — różnica",
+    "rules": [
+      { "label": "Kolejność w zdaniu", "text": "still stoi PRZED czasownikiem posiłkowym/przeczeniem: still haven't / still isn't. yet stoi na KOŃCU zdania: haven't...yet / isn't...yet." },
+      { "label": "Nacechowanie still", "text": "still + przeczenie brzmi bardziej emocjonalnie — zniecierpliwienie, zdziwienie, że coś tak długo się nie dzieje: I still haven't got a reply! (mnie to dziwi/irytuje)." },
+      { "label": "Neutralność yet", "text": "not...yet jest bardziej neutralne — po prostu stwierdza, że coś jeszcze nie nastąpiło, ale może nastąpić: I haven't got a reply yet." },
+      { "label": "Można połączyć", "text": "Można też połączyć oba: I still haven't got a reply yet — silny nacisk na przeciągającą się sytuację (rzadziej używane, bardziej potoczne)." }
+    ],
+    "usage": [
+      "Wybór między still a yet w przeczeniu zależy od nacechowania emocjonalnego wypowiedzi",
+      "still + przeczenie: zniecierpliwienie lub zaskoczenie przedłużającą się sytuacją",
+      "not...yet: neutralna informacja o czymś oczekiwanym w przyszłości"
+    ],
+    "tags": ["still haven't", "haven't...yet", "różnica still/yet", "zniecierpliwienie"],
+    "examples": [
+      { "en": "I still haven't finished my homework.", "pl": "Nadal nie skończyłem odrabiać lekcji (i to mnie stresuje)." },
+      { "en": "I haven't finished my homework yet.", "pl": "Jeszcze nie skończyłem odrabiać lekcji (neutralnie)." },
+      { "en": "They still haven't fixed the lift — it's been three weeks!", "pl": "Wciąż nie naprawili windy — minęły już trzy tygodnie!" },
+      { "en": "We haven't booked the hotel yet, but we will soon.", "pl": "Jeszcze nie zarezerwowaliśmy hotelu, ale wkrótce to zrobimy." }
+    ]
+  },
+  {
+    "id": "tense_usage_ame_bre",
+    "order": 5,
+    "nameEn": "Already/yet with Present Perfect vs Past Simple (BrE vs AmE)",
+    "namePl": "already/yet z Present Perfect a Past Simple (BrE vs AmE)",
+    "rules": [
+      { "label": "Standard BrE", "text": "W brytyjskim angielskim already, yet i still łączymy standardowo z Present Perfect, gdy mówimy o niedawnej przeszłości mającej związek z teraźniejszością: Have you finished yet? / I've already eaten." },
+      { "label": "Nieformalny AmE", "text": "W amerykańskim angielskim (zwłaszcza nieformalnie) already i yet często występują też z Past Simple: Did you finish yet? / I already ate." },
+      { "label": "still bez zmian", "text": "still zachowuje się tak samo w obu odmianach — zawsze odnosi się do sytuacji trwającej teraz, niezależnie od czasu gramatycznego czasownika głównego." },
+      { "label": "Bezpieczny wybór", "text": "W testach i materiałach szkolnych oraz w mowie formalnej bezpieczniejszy jest wariant brytyjski z Present Perfect." }
+    ],
+    "usage": [
+      "Rozróżnienie stylu formalnego/brytyjskiego (Present Perfect) i nieformalnego/amerykańskiego (Past Simple)",
+      "Obie wersje są powszechnie zrozumiałe — różnica ma charakter stylistyczny/regionalny, nie błędu",
+      "still nie zależy od tego rozróżnienia"
+    ],
+    "tags": ["Did you...yet?", "already ate", "BrE vs AmE", "Present Perfect vs Past Simple"],
+    "examples": [
+      { "en": "Have you already told her? (BrE)", "pl": "Czy już jej powiedziałeś? (BrE)" },
+      { "en": "Did you already tell her? (AmE, informal)", "pl": "Czy już jej powiedziałeś? (AmE, nieformalnie)" },
+      { "en": "Have you called the doctor yet? (BrE)", "pl": "Czy zadzwoniłeś już do lekarza? (BrE)" },
+      { "en": "Did you call the doctor yet? (AmE, informal)", "pl": "Czy zadzwoniłeś już do lekarza? (AmE, nieformalnie)" }
+    ]
+  }
+]
