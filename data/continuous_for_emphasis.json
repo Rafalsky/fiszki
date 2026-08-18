@@ -1,0 +1,175 @@
+[
+  {
+    "id": "present_continuous_always",
+    "order": 1,
+    "nameEn": "Present Continuous + always/constantly — irritation",
+    "namePl": "Czas teraźniejszy ciągły + always/constantly — irytacja",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Podmiot + am/is/are + always/constantly/forever/continually + czasownik-ing — czas ciągły użyty z przysłówkiem częstotliwości opisuje powtarzającą się czynność, która irytuje albo denerwuje mówiącego"
+      },
+      {
+        "label": "Akcent zdaniowy",
+        "text": "W mowie przysłówek (always, constantly...) jest silnie akcentowany — to właśnie akcent i kontekst, a nie sama forma gramatyczna, sygnalizują emocjonalne zabarwienie zamiast neutralnego faktu"
+      },
+      {
+        "label": "Kontrast z Present Simple",
+        "text": "Present Simple + always (He always forgets his keys.) opisuje neutralny nawyk bez oceny; Present Continuous + always (He's always forgetting his keys.) dodaje ton skargi, zdziwienia lub wyrzutu z powodu częstotliwości czegoś"
+      }
+    ],
+    "usage": [
+      "Krytykowanie powtarzającego się, irytującego zachowania innej osoby (She's constantly interrupting me when I'm talking.)",
+      "Wyrażanie zdziwienia lub żalu z powodu tego, jak często coś się zdarza (He's always losing his phone somewhere.)",
+      "Skarżenie się na powtarzające się usterki przedmiotów lub systemów (This printer is forever jamming.)",
+      "Typowe przysłówki wzmacniające: always, constantly, continually, forever — rzadziej 'all the time' na końcu zdania"
+    ],
+    "tags": [
+      "is always -ing",
+      "constantly forgetting",
+      "irritation"
+    ],
+    "examples": [
+      {
+        "en": "My brother is always leaving the fridge door open.",
+        "pl": "Mój brat wiecznie zostawia otwartą lodówkę."
+      },
+      {
+        "en": "You're constantly checking your phone during dinner!",
+        "pl": "Ty ciągle sprawdzasz telefon podczas kolacji!"
+      },
+      {
+        "en": "The neighbours are forever arguing late at night.",
+        "pl": "Sąsiedzi wiecznie się kłócą do późna w nocy."
+      },
+      {
+        "en": "She's continually changing her mind about the wedding plans.",
+        "pl": "Ona bez przerwy zmienia zdanie w sprawie planów ślubu."
+      }
+    ]
+  },
+  {
+    "id": "past_continuous_always",
+    "order": 2,
+    "nameEn": "Past Continuous + always/forever — past irritation",
+    "namePl": "Czas przeszły ciągły + always/forever — irytacja w przeszłości",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Podmiot + was/were + always/forever/constantly + czasownik-ing — przeszły odpowiednik konstrukcji emfatycznej, opisuje powtarzającą się czynność z przeszłości, która denerwowała mówiącego lub kogoś innego"
+      },
+      {
+        "label": "Kontrast z used to / characteristic would",
+        "text": "W przeciwieństwie do neutralnego 'used to' czy 'characteristic would' (He would spend hours in the garden.), konstrukcja 'was always -ing' niesie wyraźnie krytyczne, skarżące zabarwienie emocjonalne"
+      }
+    ],
+    "usage": [
+      "Retrospektywne skargi na czyjeś powtarzające się zachowanie (He was always losing his umbrella on the way home from school.)",
+      "Anegdoty o denerwujących nawykach kogoś z przeszłości, opowiadane z przymrużeniem oka lub żalem (My old flatmate was constantly borrowing my things without asking.)",
+      "Podkreślenie, że coś działo się 'za często, żeby to było przypadkowe' — sugestia celowości lub uporczywości"
+    ],
+    "tags": [
+      "was always -ing",
+      "forever complaining",
+      "past irritation"
+    ],
+    "examples": [
+      {
+        "en": "Our old car was always breaking down at the worst possible moment.",
+        "pl": "Nasz stary samochód wiecznie się psuł w najgorszym możliwym momencie."
+      },
+      {
+        "en": "He was constantly turning up late to rehearsals, which annoyed the whole band.",
+        "pl": "On ciągle spóźniał się na próby, co irytowało cały zespół."
+      },
+      {
+        "en": "As a teenager, I was forever borrowing money from my sister.",
+        "pl": "Jako nastolatek wiecznie pożyczałem pieniądze od siostry."
+      }
+    ]
+  },
+  {
+    "id": "positive_emphasis",
+    "order": 3,
+    "nameEn": "Continuous + always — positive surprise or admiration",
+    "namePl": "Continuous + always — pozytywne zaskoczenie lub podziw",
+    "rules": [
+      {
+        "label": "Nie tylko irytacja",
+        "text": "Ta sama konstrukcja (is/was + always/constantly + -ing) może wyrażać pozytywne zaskoczenie, podziw lub czułość, a nie tylko krytykę — ton zależy wyłącznie od kontekstu i intonacji, nie od gramatyki"
+      },
+      {
+        "label": "Typowe konteksty",
+        "text": "Częste w opisach hojnych, troskliwych lub zabawnych zachowań, które mówiący uważa za miłą cechę charakteru danej osoby"
+      }
+    ],
+    "usage": [
+      "Chwalenie czyjejś hojności lub troskliwości (Grandma's always baking something delicious for the neighbours.)",
+      "Wyrażanie ciepłego, rozbawionego zdziwienia (He's always coming up with the strangest jokes.)",
+      "Rozpoznanie tonu wymaga kontekstu — to samo zdanie może brzmieć krytycznie lub pochlebnie w zależności od sytuacji i intonacji"
+    ],
+    "tags": [
+      "always helping",
+      "admiration",
+      "warm surprise"
+    ],
+    "examples": [
+      {
+        "en": "She's always bringing little gifts for everyone — it's so like her.",
+        "pl": "Ona wiecznie przynosi wszystkim drobne prezenty — taka już jest."
+      },
+      {
+        "en": "My grandfather was always telling the funniest stories at family dinners.",
+        "pl": "Mój dziadek zawsze opowiadał najzabawniejsze historie przy rodzinnych obiadach."
+      },
+      {
+        "en": "You're always thinking of others before yourself.",
+        "pl": "Ty zawsze myślisz najpierw o innych, a potem o sobie."
+      }
+    ]
+  },
+  {
+    "id": "emphasis_vs_habit_contrast",
+    "order": 4,
+    "nameEn": "Emphatic continuous vs neutral simple habit",
+    "namePl": "Continuous emfatyczny a neutralny nawyk w Simple",
+    "rules": [
+      {
+        "label": "Simple = fakt, Continuous = emocja",
+        "text": "Present/Past Simple + always opisuje zwyczajny fakt bez oceny (He always locks the door.); Continuous + always dodaje subiektywną ocenę częstotliwości — 'to się zdarza częściej, niż bym chciał/a'"
+      },
+      {
+        "label": "Czasowniki statywne",
+        "text": "Konstrukcja ta zwykle wymaga czasownika czynnościowego; z czasownikami statywnymi (know, believe, own) brzmi nienaturalnie lub nie jest używana — statywność wyklucza użycie continuous nawet dla emfazy"
+      },
+      {
+        "label": "Rejestr",
+        "text": "Typowe głównie dla mowy potocznej i nieformalnego pisma (np. e-maile, blogi); w stylu formalnym stosuje się raczej opisowe konstrukcje jak 'has a habit of -ing' lub 'repeatedly does something'"
+      }
+    ],
+    "usage": [
+      "Rozróżnianie neutralnego opisu nawyku od emocjonalnej skargi lub zachwytu przy tym samym czasowniku",
+      "Unikanie błędu polegającego na użyciu tej konstrukcji z czasownikami statywnymi (np. niepoprawne: 'He's always knowing the answer.')",
+      "Rozpoznawanie w tekście, że 'always' + continuous sygnalizuje stosunek mówiącego do częstotliwości, a nie sam fakt"
+    ],
+    "tags": [
+      "simple vs continuous",
+      "stative verbs exception",
+      "register"
+    ],
+    "examples": [
+      {
+        "en": "He always drives to work. (neutralny fakt) vs. He's always driving too fast! (skarga)",
+        "pl": "On zawsze jeździ do pracy samochodem. (fakt) vs. On zawsze jeździ za szybko! (skarga)"
+      },
+      {
+        "en": "She always knows the right thing to say. (stan — nie 'is always knowing')",
+        "pl": "Ona zawsze wie, co powiedzieć. (stan — nie używamy tu continuous)"
+      },
+      {
+        "en": "In formal writing you might say 'he has a habit of arriving late' instead of 'he's always arriving late'.",
+        "pl": "W stylu formalnym powiemy raczej 'he has a habit of arriving late' zamiast 'he's always arriving late'."
+      }
+    ]
+  }
+]

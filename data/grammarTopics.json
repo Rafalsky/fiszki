@@ -1422,5 +1422,13 @@
     "desc": "Znaczenie partykuł up/down/out/off/on/away w czasownikach złożonych — dokonaność, redukcja, wyczerpanie, odkrycie, przerwanie i kontynuacja — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40,
     "level": "c1"
+  },
+  {
+    "id": "continuous_for_emphasis",
+    "icon": "😩",
+    "title": "Continuous dla emfazy",
+    "desc": "always/constantly/forever + czas ciągły — wyrażanie irytacji lub zachwytu powtarzającym się zachowaniem, kontrast z neutralnym Present/Past Simple — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 36,
+    "level": "b2"
   }
 ]
