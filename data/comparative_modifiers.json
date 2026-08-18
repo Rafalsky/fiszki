@@ -1,0 +1,127 @@
+[
+  {
+    "id": "large_degree",
+    "order": 1,
+    "nameEn": "much / a lot / far / rather + comparative — large-degree modifiers",
+    "namePl": "much / a lot / far / rather + stopień wyższy — modyfikatory dużej różnicy",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "much / a lot / far / rather stawiamy bezpośrednio przed przymiotnikiem lub przysłówkiem w stopniu wyższym: much better, a lot faster, far more expensive, rather colder."
+      },
+      {
+        "label": "rejestr",
+        "text": "'a lot' jest potoczne i mówione, 'far' bardziej formalne i typowe dla pisma, 'much' jest neutralne i najbardziej uniwersalne."
+      },
+      {
+        "label": "very nie działa z comparative", "text": "'very' modyfikuje zwykły przymiotnik (very good), ale nie stopień wyższy — nie mówimy 'very better', tylko 'much better'."
+      }
+    ],
+    "usage": [
+      "Podkreślanie dużej, wyraźnej różnicy między dwiema rzeczami lub sytuacjami",
+      "Częste przed 'more/less + przymiotnik' oraz przed formami z końcówką -er",
+      "'rather' bywa też ironiczne lub stonowane w stylu bardziej formalnym"
+    ],
+    "tags": ["much better", "a lot faster", "far more expensive", "rather colder"],
+    "examples": [
+      { "en": "This laptop is much faster than my old one.", "pl": "Ten laptop jest dużo szybszy niż mój stary." },
+      { "en": "She's a lot more confident than she used to be.", "pl": "Jest znacznie pewniejsza siebie niż kiedyś." },
+      { "en": "It's far colder today than yesterday.", "pl": "Dziś jest o wiele zimniej niż wczoraj." },
+      { "en": "The new policy is rather more complicated than the old one.", "pl": "Nowa polityka jest raczej bardziej skomplikowana niż poprzednia." }
+    ]
+  },
+  {
+    "id": "small_degree",
+    "order": 2,
+    "nameEn": "a little / a bit / slightly + comparative — small-degree modifiers",
+    "namePl": "a little / a bit / slightly + stopień wyższy — modyfikatory małej różnicy",
+    "rules": [
+      {
+        "label": "budowa",
+        "text": "a little / a bit / slightly / marginally stawiamy przed przymiotnikiem lub przysłówkiem w stopniu wyższym, by pokazać niewielką różnicę: a little heavier, a bit later, slightly harder, marginally higher."
+      },
+      {
+        "label": "rejestr",
+        "text": "'a bit' jest potoczne i mówione, 'a little' neutralne, 'slightly' i 'marginally' formalne i precyzyjne — częste w raportach i statystykach."
+      },
+      {
+        "label": "kolejność", "text": "Modyfikator zawsze stoi bezpośrednio przed formą comparative, nigdy po niej: nie 'heavier a little', tylko 'a little heavier'."
+      }
+    ],
+    "usage": [
+      "Opisywanie niewielkiej, umiarkowanej różnicy między dwiema rzeczami",
+      "'slightly' i 'marginally' typowe dla języka formalnego, naukowego i biznesowego",
+      "Łagodzenie porównania, gdy różnica nie jest znacząca"
+    ],
+    "tags": ["a little heavier", "slightly harder", "a bit later", "marginally higher"],
+    "examples": [
+      { "en": "This bag is a little heavier than that one.", "pl": "Ta torba jest trochę cięższa niż tamta." },
+      { "en": "The exam was slightly harder than expected.", "pl": "Egzamin był nieco trudniejszy, niż się spodziewano." },
+      { "en": "He arrived a bit later than planned.", "pl": "Przyjechał trochę później, niż planowano." },
+      { "en": "Sales were marginally higher than last quarter.", "pl": "Sprzedaż była nieznacznie wyższa niż w zeszłym kwartale." }
+    ]
+  },
+  {
+    "id": "no_any_comparative",
+    "order": 3,
+    "nameEn": "no / any + comparative — emphatic negation and questions",
+    "namePl": "no / any + stopień wyższy — emfatyczne przeczenie i pytania",
+    "rules": [
+      {
+        "label": "no + comparative",
+        "text": "'no' przed stopniem wyższym oznacza emfatyczne zaprzeczenie różnicy — 'wcale nie': It's no better than before = it isn't any better than before."
+      },
+      {
+        "label": "any + comparative",
+        "text": "'any' przed stopniem wyższym używamy w przeczeniach i pytaniach, pytając o jakąkolwiek poprawę: Is it any better today? / It isn't any faster."
+      },
+      {
+        "label": "no better than", "text": "Utrwalony zwrot 'no better than' porównuje coś niekorzystnie do czegoś gorszego: His behaviour is no better than a child's."
+      }
+    ],
+    "usage": [
+      "Podkreślenie, że mimo oczekiwań nic się nie zmieniło ani nie poprawiło",
+      "Pytania o to, czy nastąpiła jakakolwiek poprawa",
+      "'no' w zdaniu twierdzącym ma znaczenie przeczące (no better = not at all better)"
+    ],
+    "tags": ["no better than", "any better?", "not any faster", "no easier"],
+    "examples": [
+      { "en": "The new model is no faster than the old one.", "pl": "Nowy model wcale nie jest szybszy od starego." },
+      { "en": "Do you feel any better today?", "pl": "Czy czujesz się dziś choć trochę lepiej?" },
+      { "en": "I don't think this method is any easier.", "pl": "Nie sądzę, żeby ta metoda była choć trochę łatwiejsza." },
+      { "en": "His behaviour is no better than a child's.", "pl": "Jego zachowanie wcale nie jest lepsze niż dziecka." }
+    ]
+  },
+  {
+    "id": "superlative_modifiers",
+    "order": 4,
+    "nameEn": "by far / easily / much the + superlative",
+    "namePl": "by far / easily / much the + stopień najwyższy",
+    "rules": [
+      {
+        "label": "by far",
+        "text": "'by far' wzmacnia stopień najwyższy, podkreślając bezsporną różnicę, i może stać przed lub po nim: by far the best / the best by far."
+      },
+      {
+        "label": "easily",
+        "text": "'easily' przed stopniem najwyższym znaczy 'bez wątpienia, zdecydowanie': easily the most talented singer in the group."
+      },
+      {
+        "label": "much the",
+        "text": "'much' stoi tylko przed 'the' + stopień najwyższy, nigdy po nim: much the largest city, nie 'the largest city much'."
+      }
+    ],
+    "usage": [
+      "Silne podkreślenie, że coś jest bezdyskusyjnie skrajne w swojej kategorii",
+      "Typowe w opiniach, rankingach i porównaniach kilku elementów naraz",
+      "Nadają wypowiedzi ton stanowczy i pewny"
+    ],
+    "tags": ["by far the best", "easily the most talented", "much the largest"],
+    "examples": [
+      { "en": "This is by far the best restaurant in town.", "pl": "To zdecydowanie najlepsza restauracja w mieście." },
+      { "en": "She's easily the most talented singer in the group.", "pl": "Jest bez wątpienia najbardziej utalentowaną wokalistką w zespole." },
+      { "en": "It's much the largest city in the region.", "pl": "To zdecydowanie największe miasto w regionie." },
+      { "en": "Of all the candidates, he was by far the most experienced.", "pl": "Ze wszystkich kandydatów to on był zdecydowanie najbardziej doświadczony." }
+    ]
+  }
+]
