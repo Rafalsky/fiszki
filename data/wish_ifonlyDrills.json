@@ -1,282 +1,82 @@
 [
-  {
-    "id": 1,
-    "itemId": "wish_present",
-    "prompt": "I wish I ___ the answer, but I have no idea.",
-    "answer": "knew",
-    "distractors": ["know", "had known", "will know"]
-  },
-  {
-    "id": 2,
-    "itemId": "wish_present",
-    "prompt": "She wishes she ___ taller.",
-    "answer": "were",
-    "distractors": ["is", "was", "has been"]
-  },
-  {
-    "id": 3,
-    "itemId": "wish_present",
-    "prompt": "We wish we ___ closer to the sea.",
-    "answer": "lived",
-    "distractors": ["live", "had lived", "would live"]
-  },
-  {
-    "id": 4,
-    "itemId": "wish_present",
-    "prompt": "I wish I ___ more free time.",
-    "answer": "had",
-    "distractors": ["have", "had had", "would have"]
-  },
-  {
-    "id": 5,
-    "itemId": "wish_present",
-    "prompt": "He wishes he ___ how to drive.",
-    "answer": "knew",
-    "distractors": ["knows", "had known", "know"]
-  },
-  {
-    "id": 6,
-    "itemId": "wish_present",
-    "prompt": "They wish they ___ in a bigger house.",
-    "answer": "lived",
-    "distractors": ["live", "would live", "had lived"]
-  },
-  {
-    "id": 7,
-    "itemId": "wish_present",
-    "prompt": "I wish it ___ Friday already.",
-    "answer": "were",
-    "distractors": ["is", "was", "will be"]
-  },
-  {
-    "id": 8,
-    "itemId": "wish_present",
-    "prompt": "She wishes she ___ speak French.",
-    "answer": "could",
-    "distractors": ["can", "would", "had could"]
-  },
-  {
-    "id": 9,
-    "itemId": "wish_present",
-    "prompt": "We wish we ___ more money.",
-    "answer": "had",
-    "distractors": ["have", "would have", "had had"]
-  },
-  {
-    "id": 10,
-    "itemId": "wish_present",
-    "prompt": "I wish you ___ here right now.",
-    "answer": "were",
-    "distractors": ["are", "was", "will be"]
-  },
-  {
-    "id": 11,
-    "itemId": "wish_past",
-    "prompt": "I wish I ___ harder for the exam.",
-    "answer": "had studied",
-    "distractors": ["studied", "have studied", "would study"]
-  },
-  {
-    "id": 12,
-    "itemId": "wish_past",
-    "prompt": "She wishes she ___ that.",
-    "answer": "hadn't said",
-    "distractors": ["didn't say", "hasn't said", "wouldn't say"]
-  },
-  {
-    "id": 13,
-    "itemId": "wish_past",
-    "prompt": "We wish we ___ earlier.",
-    "answer": "had left",
-    "distractors": ["left", "have left", "would leave"]
-  },
-  {
-    "id": 14,
-    "itemId": "wish_past",
-    "prompt": "He wishes he ___ his job.",
-    "answer": "hadn't lost",
-    "distractors": ["didn't lose", "lost", "hasn't lost"]
-  },
-  {
-    "id": 15,
-    "itemId": "wish_past",
-    "prompt": "I wish I ___ you sooner.",
-    "answer": "had met",
-    "distractors": ["met", "have met", "would meet"]
-  },
-  {
-    "id": 16,
-    "itemId": "wish_past",
-    "prompt": "They wish they ___ more careful.",
-    "answer": "had been",
-    "distractors": ["were", "have been", "would be"]
-  },
-  {
-    "id": 17,
-    "itemId": "wish_past",
-    "prompt": "She wishes she ___ the truth back then.",
-    "answer": "had known",
-    "distractors": ["knew", "has known", "would know"]
-  },
-  {
-    "id": 18,
-    "itemId": "wish_past",
-    "prompt": "I wish I ___ so much money on that phone.",
-    "answer": "hadn't spent",
-    "distractors": ["didn't spend", "spent", "hasn't spent"]
-  },
-  {
-    "id": 19,
-    "itemId": "wish_past",
-    "prompt": "We wish we ___ the flight.",
-    "answer": "hadn't missed",
-    "distractors": ["didn't miss", "missed", "haven't missed"]
-  },
-  {
-    "id": 20,
-    "itemId": "wish_past",
-    "prompt": "He wishes he ___ that email before sending it.",
-    "answer": "had read",
-    "distractors": ["read", "has read", "would read"]
-  },
-  {
-    "id": 21,
-    "itemId": "wish_would",
-    "prompt": "I wish you ___ interrupting me.",
-    "answer": "would stop",
-    "distractors": ["stop", "stopped", "will stop"]
-  },
-  {
-    "id": 22,
-    "itemId": "wish_would",
-    "prompt": "I wish it ___ raining.",
-    "answer": "would stop",
-    "distractors": ["stops", "stopped", "will stop"]
-  },
-  {
-    "id": 23,
-    "itemId": "wish_would",
-    "prompt": "She wishes he ___ more often.",
-    "answer": "would call",
-    "distractors": ["calls", "called", "will call"]
-  },
-  {
-    "id": 24,
-    "itemId": "wish_would",
-    "prompt": "I wish they ___ quiet.",
-    "answer": "would be",
-    "distractors": ["are", "were", "will be"]
-  },
-  {
-    "id": 25,
-    "itemId": "wish_would",
-    "prompt": "We wish our neighbours ___ so much noise.",
-    "answer": "wouldn't make",
-    "distractors": ["don't make", "didn't make", "won't make"]
-  },
-  {
-    "id": 26,
-    "itemId": "wish_would",
-    "prompt": "I wish you ___ your room once in a while.",
-    "answer": "would clean",
-    "distractors": ["clean", "cleaned", "will clean"]
-  },
-  {
-    "id": 27,
-    "itemId": "wish_would",
-    "prompt": "She wishes her boss ___ shouting at people.",
-    "answer": "would stop",
-    "distractors": ["stops", "stopped", "will stop"]
-  },
-  {
-    "id": 28,
-    "itemId": "wish_would",
-    "prompt": "I wish my brother ___ so lazy.",
-    "answer": "wouldn't be",
-    "distractors": ["isn't", "weren't", "won't be"]
-  },
-  {
-    "id": 29,
-    "itemId": "wish_would",
-    "prompt": "We wish the bus ___ on time for once.",
-    "answer": "would arrive",
-    "distractors": ["arrives", "arrived", "will arrive"]
-  },
-  {
-    "id": 30,
-    "itemId": "wish_would",
-    "prompt": "I wish you ___ so loudly on the phone.",
-    "answer": "wouldn't talk",
-    "distractors": ["don't talk", "didn't talk", "won't talk"]
-  },
-  {
-    "id": 31,
-    "itemId": "if_only",
-    "prompt": "If only I ___ what to say!",
-    "answer": "knew",
-    "distractors": ["know", "had known", "would know"]
-  },
-  {
-    "id": 32,
-    "itemId": "if_only",
-    "prompt": "If only I ___ to my parents.",
-    "answer": "had listened",
-    "distractors": ["listened", "have listened", "would listen"]
-  },
-  {
-    "id": 33,
-    "itemId": "if_only",
-    "prompt": "If only he ___ my calls.",
-    "answer": "would answer",
-    "distractors": ["answers", "answered", "will answer"]
-  },
-  {
-    "id": 34,
-    "itemId": "if_only",
-    "prompt": "If only we ___ rich!",
-    "answer": "were",
-    "distractors": ["are", "had been", "will be"]
-  },
-  {
-    "id": 35,
-    "itemId": "if_only",
-    "prompt": "If only she ___ the truth earlier.",
-    "answer": "had told",
-    "distractors": ["told", "has told", "would tell"]
-  },
-  {
-    "id": 36,
-    "itemId": "if_only",
-    "prompt": "If only it ___ so cold today!",
-    "answer": "weren't",
-    "distractors": ["isn't", "wasn't", "won't be"]
-  },
-  {
-    "id": 37,
-    "itemId": "if_only",
-    "prompt": "If only I ___ more time to prepare.",
-    "answer": "had",
-    "distractors": ["have", "had had", "would have"]
-  },
-  {
-    "id": 38,
-    "itemId": "if_only",
-    "prompt": "If only they ___ stop arguing!",
-    "answer": "would",
-    "distractors": ["will", "did", "had"]
-  },
-  {
-    "id": 39,
-    "itemId": "if_only",
-    "prompt": "If only I ___ that mistake.",
-    "answer": "hadn't made",
-    "distractors": ["didn't make", "made", "haven't made"]
-  },
-  {
-    "id": 40,
-    "itemId": "if_only",
-    "prompt": "If only he ___ here to see this.",
-    "answer": "were",
-    "distractors": ["is", "was", "would be"]
-  }
+  { "id": 1, "itemId": "wish_overview", "prompt": "I wish I ___ your name — we met ages ago and I completely forgot.", "answer": "remembered", "distractors": ["remember", "had remembered", "will remember"] },
+  { "id": 2, "itemId": "wish_overview", "prompt": "She wishes she ___ that job offer last year.", "answer": "had accepted", "distractors": ["accepted", "accepts", "would accept"] },
+  { "id": 3, "itemId": "wish_overview", "prompt": "I wish my landlord ___ fixing the heating so slowly.", "answer": "would stop", "distractors": ["stops", "stopped", "will stop"] },
+  { "id": 4, "itemId": "wish_overview", "prompt": "We wish we ___ more careful with the budget right now.", "answer": "were", "distractors": ["are", "had been", "will be"] },
+  { "id": 5, "itemId": "wish_overview", "prompt": "He wishes he ___ that letter before it was too late.", "answer": "had sent", "distractors": ["sent", "sends", "would send"] },
+  { "id": 6, "itemId": "wish_overview", "prompt": "The past tense after 'wish' signals distance from ___, not an earlier point in time.", "answer": "reality", "distractors": ["yesterday", "the future", "the subject"] },
+  { "id": 7, "itemId": "wish_overview", "prompt": "I wish I ___ how this machine works — nobody explained it to me.", "answer": "knew", "distractors": ["know", "had known", "would know"] },
+  { "id": 8, "itemId": "wish_overview", "prompt": "They wish they ___ that risky investment two years ago.", "answer": "hadn't made", "distractors": ["didn't make", "don't make", "wouldn't make"] },
+  { "id": 9, "itemId": "wish_overview", "prompt": "'I wish I were' survives as a fossil of the English ___ mood.", "answer": "subjunctive", "distractors": ["indicative", "imperative", "conditional"] },
+
+  { "id": 10, "itemId": "wish_present", "prompt": "I wish I ___ the answer, but I have no idea.", "answer": "knew", "distractors": ["know", "had known", "will know"] },
+  { "id": 11, "itemId": "wish_present", "prompt": "She wishes she ___ taller.", "answer": "were", "distractors": ["is", "has been", "would be"] },
+  { "id": 12, "itemId": "wish_present", "prompt": "We wish we ___ closer to the sea.", "answer": "lived", "distractors": ["live", "had lived", "would live"] },
+  { "id": 13, "itemId": "wish_present", "prompt": "I wish I ___ more free time — this job is eating my whole week.", "answer": "had", "distractors": ["have", "had had", "would have"] },
+  { "id": 14, "itemId": "wish_present", "prompt": "He wishes he ___ how to drive.", "answer": "knew", "distractors": ["knows", "had known", "know"] },
+  { "id": 15, "itemId": "wish_present", "prompt": "I wish it ___ Friday already.", "answer": "were", "distractors": ["is", "has been", "will be"] },
+  { "id": 16, "itemId": "wish_present", "prompt": "She wishes she ___ speak French fluently.", "answer": "could", "distractors": ["can", "would", "had could"] },
+  { "id": 17, "itemId": "wish_present", "prompt": "We wish we ___ more money for this trip.", "answer": "had", "distractors": ["have", "would have", "had had"] },
+  { "id": 18, "itemId": "wish_present", "prompt": "I wish you ___ here right now — I could really use your advice.", "answer": "were", "distractors": ["are", "was", "will be"] },
+  { "id": 19, "itemId": "wish_present", "prompt": "He wishes he ___ afford a better flat.", "answer": "could", "distractors": ["can", "would", "will"] },
+
+  { "id": 20, "itemId": "wish_past", "prompt": "I wish I ___ harder for the exam.", "answer": "had studied", "distractors": ["studied", "have studied", "would study"] },
+  { "id": 21, "itemId": "wish_past", "prompt": "She wishes she ___ that in front of everyone.", "answer": "hadn't said", "distractors": ["didn't say", "hasn't said", "wouldn't say"] },
+  { "id": 22, "itemId": "wish_past", "prompt": "We wish we ___ earlier — we missed the whole first act.", "answer": "had left", "distractors": ["left", "have left", "would leave"] },
+  { "id": 23, "itemId": "wish_past", "prompt": "He wishes he ___ his job so impulsively.", "answer": "hadn't quit", "distractors": ["didn't quit", "quit", "hasn't quit"] },
+  { "id": 24, "itemId": "wish_past", "prompt": "I wish I ___ you sooner — we'd have saved so much time.", "answer": "had met", "distractors": ["met", "have met", "would meet"] },
+  { "id": 25, "itemId": "wish_past", "prompt": "They wish they ___ more careful with the contract.", "answer": "had been", "distractors": ["were", "have been", "would be"] },
+  { "id": 26, "itemId": "wish_past", "prompt": "She wishes she ___ the truth back then.", "answer": "had known", "distractors": ["knew", "has known", "would know"] },
+  { "id": 27, "itemId": "wish_past", "prompt": "I wish I ___ so much money on that phone.", "answer": "hadn't spent", "distractors": ["didn't spend", "spent", "hasn't spent"] },
+  { "id": 28, "itemId": "wish_past", "prompt": "We wish we ___ the flight — it was the last one that day.", "answer": "hadn't missed", "distractors": ["didn't miss", "missed", "haven't missed"] },
+  { "id": 29, "itemId": "wish_past", "prompt": "He wishes he ___ that email before sending it.", "answer": "had read", "distractors": ["read", "has read", "would read"] },
+
+  { "id": 30, "itemId": "wish_would", "prompt": "I wish you ___ interrupting me every time I start a sentence.", "answer": "would stop", "distractors": ["stop", "stopped", "will stop"] },
+  { "id": 31, "itemId": "wish_would", "prompt": "I wish it ___ raining — I'm sick of this grey sky.", "answer": "would stop", "distractors": ["stops", "stopped", "will stop"] },
+  { "id": 32, "itemId": "wish_would", "prompt": "She wishes he ___ more often instead of just texting.", "answer": "would call", "distractors": ["calls", "called", "will call"] },
+  { "id": 33, "itemId": "wish_would", "prompt": "I wish they ___ quiet during the meeting.", "answer": "would be", "distractors": ["are", "were", "will be"] },
+  { "id": 34, "itemId": "wish_would", "prompt": "We wish our neighbours ___ so much noise at night.", "answer": "wouldn't make", "distractors": ["don't make", "didn't make", "won't make"] },
+  { "id": 35, "itemId": "wish_would", "prompt": "I wish you ___ your room once in a while.", "answer": "would clean", "distractors": ["clean", "cleaned", "will clean"] },
+  { "id": 36, "itemId": "wish_would", "prompt": "She wishes her boss ___ shouting at people.", "answer": "would stop", "distractors": ["stops", "stopped", "will stop"] },
+  { "id": 37, "itemId": "wish_would", "prompt": "I wish I ___ stop biting my nails — not 'I wish I would', since that's up to me.", "answer": "could", "distractors": ["would", "can", "will"] },
+  { "id": 38, "itemId": "wish_would", "prompt": "We wish the bus ___ on time for once.", "answer": "would arrive", "distractors": ["arrives", "arrived", "will arrive"] },
+  { "id": 39, "itemId": "wish_would", "prompt": "I wish you ___ so loudly on the phone in open-plan offices.", "answer": "wouldn't talk", "distractors": ["don't talk", "didn't talk", "won't talk"] },
+
+  { "id": 40, "itemId": "wish_infinitive", "prompt": "I ___ to speak to the manager, please.", "answer": "wish", "distractors": ["wish I", "would wish", "am wishing"] },
+  { "id": 41, "itemId": "wish_infinitive", "prompt": "Guests wishing to check out early should inform reception the ___ before.", "answer": "night", "distractors": ["day", "week", "morning"] },
+  { "id": 42, "itemId": "wish_infinitive", "prompt": "If you wish ___ unsubscribe, click the link below.", "answer": "to", "distractors": ["to be", "for to", "that you"] },
+  { "id": 43, "itemId": "wish_infinitive", "prompt": "She wishes ___ remain anonymous.", "answer": "to", "distractors": ["that she", "for", "she to"] },
+  { "id": 44, "itemId": "wish_infinitive", "prompt": "'I wish to see him' expresses a real, current desire — unlike 'I wish I ___ see him', which expresses regret.", "answer": "could", "distractors": ["can", "will", "to"] },
+  { "id": 45, "itemId": "wish_infinitive", "prompt": "Applicants wishing ___ apply must submit the form by Friday.", "answer": "to", "distractors": ["for", "that they", "on"] },
+  { "id": 46, "itemId": "wish_infinitive", "prompt": "In everyday speech, 'I want to leave now' sounds more natural than the more formal 'I ___ to leave now'.", "answer": "wish", "distractors": ["wish I", "am wishing", "would wish"] },
+  { "id": 47, "itemId": "wish_infinitive", "prompt": "He wishes ___ be considered for the position.", "answer": "to", "distractors": ["for to", "that he", "he to"] },
+
+  { "id": 48, "itemId": "wish_direct_object", "prompt": "I wish you ___ with the interview tomorrow.", "answer": "luck", "distractors": ["for luck", "to luck", "with luck"] },
+  { "id": 49, "itemId": "wish_direct_object", "prompt": "We wish you a Merry Christmas and a Happy ___ Year.", "answer": "New", "distractors": ["Next", "Good", "Fine"] },
+  { "id": 50, "itemId": "wish_direct_object", "prompt": "They wished her a ___ recovery after the surgery.", "answer": "speedy", "distractors": ["fast that", "quickly", "hasty that"] },
+  { "id": 51, "itemId": "wish_direct_object", "prompt": "I just wanted to wish you all the ___ in your new job.", "answer": "best", "distractors": ["good", "luck of", "wishes" ] },
+  { "id": 52, "itemId": "wish_direct_object", "prompt": "'I wish you luck' is a ___ act — the words themselves perform the wishing.", "answer": "performative", "distractors": ["conditional", "hypothetical", "reported"] },
+  { "id": 53, "itemId": "wish_direct_object", "prompt": "We wish him a ___ journey home.", "answer": "safe", "distractors": ["safely", "safety", "safe that"] },
+  { "id": 54, "itemId": "wish_direct_object", "prompt": "I wish you every ___ for your retirement.", "answer": "success", "distractors": ["successful", "successes of", "successfully"] },
+
+  { "id": 55, "itemId": "if_only", "prompt": "If only I ___ what to say to her right now!", "answer": "knew", "distractors": ["know", "had known", "would know"] },
+  { "id": 56, "itemId": "if_only", "prompt": "If only I ___ to my parents back then.", "answer": "had listened", "distractors": ["listened", "have listened", "would listen"] },
+  { "id": 57, "itemId": "if_only", "prompt": "If only he ___ my calls instead of ignoring me.", "answer": "would answer", "distractors": ["answers", "answered", "will answer"] },
+  { "id": 58, "itemId": "if_only", "prompt": "If only we ___ rich — none of this would matter!", "answer": "were", "distractors": ["are", "had been", "will be"] },
+  { "id": 59, "itemId": "if_only", "prompt": "If only she ___ the truth earlier, this whole mess could have been avoided.", "answer": "had told", "distractors": ["told", "has told", "would tell"] },
+  { "id": 60, "itemId": "if_only", "prompt": "If only it ___ so cold today!", "answer": "weren't", "distractors": ["isn't", "wasn't", "won't be"] },
+  { "id": 61, "itemId": "if_only", "prompt": "If only I ___ more time to prepare for this presentation.", "answer": "had", "distractors": ["have", "had had", "would have"] },
+  { "id": 62, "itemId": "if_only", "prompt": "If only they ___ stop arguing over every little thing!", "answer": "would", "distractors": ["will", "did", "had"] },
+  { "id": 63, "itemId": "if_only", "prompt": "If only I ___ that mistake in front of the whole team.", "answer": "hadn't made", "distractors": ["didn't make", "made", "haven't made"] },
+  { "id": 64, "itemId": "if_only", "prompt": "'If only' typically leaves out the ___ clause, because it is implied and often too emotional to spell out.", "answer": "consequence", "distractors": ["condition", "subject", "question"] },
+
+  { "id": 65, "itemId": "wish_vs_hope", "prompt": "I ___ it doesn't rain tomorrow. (the outcome is still open)", "answer": "hope", "distractors": ["wish", "wish that", "am wishing"] },
+  { "id": 66, "itemId": "wish_vs_hope", "prompt": "I wish it ___ raining right now — it's ruining our picnic.", "answer": "weren't", "distractors": ["doesn't", "wasn't", "won't be"] },
+  { "id": 67, "itemId": "wish_vs_hope", "prompt": "I ___ she gets the job — the interview went really well.", "answer": "hope", "distractors": ["wish", "wish that", "am hoping that"] },
+  { "id": 68, "itemId": "wish_vs_hope", "prompt": "I wish I ___ for that job — the deadline's long gone now.", "answer": "had applied", "distractors": ["applied", "apply", "would apply"] },
+  { "id": 69, "itemId": "wish_vs_hope", "prompt": "'Hope' is used for outcomes that are still ___, unlike 'wish', which treats the fact as already settled.", "answer": "open", "distractors": ["closed", "past", "impossible"] },
+  { "id": 70, "itemId": "wish_vs_hope", "prompt": "We ___ the weather stays fine for the wedding next week. (real possibility)", "answer": "hope", "distractors": ["wish", "wish that", "are wishing"] },
+  { "id": 71, "itemId": "wish_vs_hope", "prompt": "I wish I ___ that a difficult topic before agreeing to give the talk.", "answer": "hadn't picked", "distractors": ["didn't pick", "haven't picked", "wouldn't pick"] },
+  { "id": 72, "itemId": "wish_vs_hope", "prompt": "'I wish it would stop raining tomorrow' expresses ___ about an ongoing state, not hope for a single future event.", "answer": "irritation", "distractors": ["curiosity", "certainty", "confusion"] },
+  { "id": 73, "itemId": "wish_vs_hope", "prompt": "I ___ you have a safe trip. (a real, open wish for the future — the everyday equivalent of a formal performative wish)", "answer": "hope", "distractors": ["wish", "wish that", "am wishing that"] }
 ]

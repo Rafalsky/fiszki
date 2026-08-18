@@ -1,86 +1,287 @@
 [
   {
-    "id": "wish_present",
+    "id": "wish_overview",
     "order": 1,
-    "nameEn": "wish + Past Simple — present wishes",
-    "namePl": "wish + Past Simple — życzenia dotyczące teraźniejszości",
+    "nameEn": "Wish and the grammar of unreality: where the pattern comes from and how it works",
+    "namePl": "Wish i gramatyka nierzeczywistości: skąd wzięła się ta konstrukcja i jak działa",
     "rules": [
-      { "label": "Budowa", "text": "wish + podmiot + Past Simple (I wish I knew the answer.)" },
-      { "label": "were zamiast was", "text": "W formalnym stylu po wish używamy were dla wszystkich osób (I wish I were taller.), choć was jest akceptowane potocznie" }
+      {
+        "label": "Rodowód: 'wish' jako spłowiałe 'pragnienie'",
+        "text": "'Wish' pochodzi ze staroangielskiego 'wȳscan', wywodzącego się z pragermańskiego rdzenia *wunskijan (por. niemieckie 'wünschen' i rzeczownik 'Wunsch' — życzenie). Ten sam pragermański rdzeń *wun- 'pragnąć, dążyć do czegoś' dał też staroangielskie słowo oznaczające 'radość, upodobanie' (wynn). U samego korzenia 'wish' nie ma więc nic gramatycznego — to zwykły czasownik pragnienia, bliski znaczeniowo 'chcieć'. To, co dziś sprawia uczącym się kłopot (dziwaczne czasy po 'wish'), nie jest cechą samego słowa, lecz efektem tego, z czym się ono zrosło w gramatyce: ze zdaniem podrzędnym kodującym nierzeczywistość."
+      },
+      {
+        "label": "Zaginiony tryb łączący i jego skamieniałe relikty",
+        "text": "Staroangielski miał w pełni odmieniany tryb łączący (subjunctive) — osobny zestaw końcówek czasownika używany właśnie do mówienia o rzeczach hipotetycznych, życzonych, niepewnych. Np. obok oznajmującego 'wæs' (był) istniała łącznikowa forma 'wǣre'. Przez średnioangielski niemal cała ta odmiana zanikła i połączyła się z formami oznajmującymi — angielski, w przeciwieństwie np. do niemieckiego czy francuskiego, praktycznie stracił osobną morfologię trybu łączącego. Formuła 'I wish I were' to jeden z ostatnich żywych skamieniałych reliktów tamtego systemu: 'were' użyte dla wszystkich osób (także I/he/she/it) to bezpośredni potomek dawnej końcówki łącznikowej, zakonserwowany właśnie w tej jednej niszy językowej."
+      },
+      {
+        "label": "Zamiast reliktowej morfologii — pożyczony 'kostium': cofnięcie czasu",
+        "text": "Skoro angielski stracił własną, wyspecjalizowaną formę trybu łączącego, musiał znaleźć inny sposób sygnalizowania 'to nieprawda / to nierealne'. Rozwiązaniem stało się przechwycenie istniejącego już mechanizmu — czasu przeszłego — i użycie go NIE do mówienia o czasie, lecz o DYSTANSIE od rzeczywistości. To jest sedno całej konstrukcji z 'wish': forma przeszła po 'wish' nie mówi 'to było', tylko 'to jest oddalone od faktów, tak jak przeszłość jest oddalona od teraźniejszości'. Dokładnie ten sam trik czasu jako metafory dystansu (a nie chronologii) napędza drugi i trzeci okres warunkowy oraz przesunięcie czasów w mowie zależnej — 'wish' to jedna odsłona jednego, uniwersalnego mechanizmu angielskiej gramatyki."
+      },
+      {
+        "label": "Trzy poziomy dystansu = trzy poziomy cofnięcia",
+        "text": "Ponieważ mechanizm jest ikoniczny (im dalej cofasz formę czasownika, tym większy dystans od faktów sygnalizujesz), 'wish' rozgałęzia się w trzy główne wzorce zależnie od tego, JAK BARDZO nierzeczywiste jest to, o czym mowa: (1) Past Simple/were — nierzeczywistość dotycząca TERAŹNIEJSZOŚCI (jeden krok wstecz od czasu teraźniejszego); (2) Past Perfect — nierzeczywistość dotycząca PRZESZŁOŚCI, czyli faktu już nieodwracalnie zamkniętego (dwa kroki wstecz — bo przeszłości nie da się cofnąć nawet hipotetycznie, więc język 'cofa się' o jeden poziom głębiej niż w wypadku teraźniejszości); (3) would — nie chodzi o czas, lecz o CUDZĄ WOLĘ, której nie możemy kontrolować (irytacja, chęć zmiany zachowania). Poniższe punkty rozwijają każdy z tych trzech wzorców osobno, a kolejne — rzadziej omawiane pułapki (wish + bezokolicznik, wish + dopełnienie, wish kontra hope)."
+      }
     ],
     "usage": [
-      "Wyrażanie żalu, że coś w teraźniejszości jest inne, niż byśmy chcieli",
-      "Odpowiednik polskiego 'żałuję, że nie...' / 'szkoda, że nie...' dla teraźniejszości"
+      "Fundament pod wszystkie pozostałe wzorce z 'wish' i 'if only' — bez tego modelu reguły niżej wyglądają na arbitralne wyjątki, a z nim stają się jednym, przewidywalnym systemem",
+      "Punkt odniesienia do porównań z innymi konstrukcjami nierzeczywistości: drugim/trzecim okresem warunkowym i trybem łączącym 'were' w 'if I were you'"
     ],
-    "tags": ["wish I knew", "wish I were", "wish she lived"],
+    "tags": ["wish etymology", "subjunctive", "unreality backshift", "distance not time"],
+    "examples": [
+      { "en": "German still has 'Wunsch' — the same root, now a noun for 'wish'.", "pl": "Niemiecki wciąż ma słowo 'Wunsch' — ten sam rdzeń, dziś jako rzeczownik 'życzenie'." },
+      { "en": "'I wish I were' is a fossil of a subjunctive that English otherwise lost centuries ago.", "pl": "'I wish I were' to skamieniałość trybu łączącego, który angielski w większości stracił wieki temu." },
+      { "en": "The past tense after 'wish' isn't about time — it's about distance from the truth.", "pl": "Czas przeszły po 'wish' nie mówi o czasie — mówi o dystansie od prawdy." }
+    ]
+  },
+  {
+    "id": "wish_present",
+    "order": 2,
+    "nameEn": "wish + Past Simple / were — one step away from present reality",
+    "namePl": "wish + Past Simple / were — jeden krok od teraźniejszej rzeczywistości",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "wish + podmiot + Past Simple (I wish I knew the answer.) — dla czasownika 'be' preferowana forma to 'were' dla wszystkich osób (I wish I were taller.), choć potoczne 'was' też się zdarza i nie jest uznawane za błąd."
+      },
+      {
+        "label": "Dlaczego akurat Past Simple, a nie Present",
+        "text": "Gdyby powiedzieć 'I wish I know the answer', czas teraźniejszy sugerowałby, że stan rzeczy wciąż jest otwarty — a przecież sedno 'wish' polega na tym, że stan jest ZAMKNIĘTY: nie znam i to jest fakt. Przesunięcie w Past Simple to gramatyczny sygnał 'to nieprawda TERAZ' — nie relacja czasowa, lecz deklaracja kontrfaktyczności. Innymi słowy: mówiąc 'I wish I knew', nie cofasz się myślą w przeszłość — zaznaczasz dystans między światem wymarzonym a światem faktycznym."
+      },
+      {
+        "label": "Were kontra was — który rejestr, kiedy",
+        "text": "'Were' to bezpośredni spadkobierca staroangielskiego trybu łączącego i wciąż uchodzi za formę 'poprawniejszą', preferowaną w piśmie i mowie starannej ('I wish she were here'). 'Was' jest powszechne w mowie potocznej i całkowicie akceptowalne, ale native speakerzy odruchowo słyszą w 'were' odrobinę większej staranności stylistycznej — dokładnie tak samo jak w formule 'if I were you'."
+      },
+      {
+        "label": "Czasowniki stanowe a 'could' zamiast 'would'",
+        "text": "Po 'wish' odnoszącym się do teraźniejszości, przy czasownikach oznaczających UMIEJĘTNOŚĆ lub MOŻLIWOŚĆ, zamiast Past Simple pojawia się 'could' (I wish I could speak French. — nie 'I wish I spoke French' w znaczeniu umiejętności, choć to drugie zdanie też jest gramatyczne, tylko znaczy co innego: 'żałuję, że nie mówię po francusku' jako fakt, a nie jako brak zdolności). 'Could' to zresztą sama w sobie forma przeszła 'can', więc mechanizm cofnięcia w czasie jako sygnału dystansu działa identycznie."
+      }
+    ],
+    "usage": [
+      "Wyrażanie żalu, że coś w teraźniejszości jest inne, niż byśmy chcieli — odpowiednik polskiego 'żałuję, że nie...' / 'szkoda, że nie...'",
+      "Marzenia o obecnym stanie rzeczy, który jest sprzeczny z faktami: cechach, umiejętnościach, okolicznościach",
+      "'wish + could' — żal z powodu braku umiejętności lub możliwości działania tu i teraz"
+    ],
+    "tags": ["wish I knew", "wish I were", "wish she lived", "wish I could"],
     "examples": [
       { "en": "I wish I knew the answer.", "pl": "Żałuję, że nie znam odpowiedzi." },
       { "en": "She wishes she were taller.", "pl": "Ona żałuje, że nie jest wyższa." },
       { "en": "We wish we lived closer to the sea.", "pl": "Żałujemy, że nie mieszkamy bliżej morza." },
-      { "en": "I wish I had more free time.", "pl": "Żałuję, że nie mam więcej wolnego czasu." }
+      { "en": "I wish I had more free time — this job is eating my whole week.", "pl": "Żałuję, że nie mam więcej wolnego czasu — ta praca zjada mi cały tydzień." },
+      { "en": "He wishes he could just disappear right now.", "pl": "On chciałby móc po prostu teraz zniknąć." }
     ]
   },
   {
     "id": "wish_past",
-    "order": 2,
-    "nameEn": "wish + Past Perfect — past regrets",
-    "namePl": "wish + Past Perfect — żal dotyczący przeszłości",
+    "order": 3,
+    "nameEn": "wish + Past Perfect — regret about a past that can no longer be touched",
+    "namePl": "wish + Past Perfect — żal dotyczący przeszłości, której nie da się już dotknąć",
     "rules": [
-      { "label": "Budowa", "text": "wish + podmiot + Past Perfect (I wish I had studied harder.)" },
-      { "label": "Znaczenie", "text": "Wyraża żal z powodu czegoś, co się wydarzyło (lub nie) w przeszłości i czego nie można już zmienić" }
+      {
+        "label": "Budowa",
+        "text": "wish + podmiot + Past Perfect (I wish I had studied harder.)"
+      },
+      {
+        "label": "Dlaczego 'jeszcze jedno' cofnięcie",
+        "text": "Skoro Past Simple po 'wish' oznacza już 'jeden krok dystansu' (nierzeczywistość teraźniejszości), to żal dotyczący PRZESZŁOŚCI potrzebuje dodatkowego kroku, bo mówimy o czymś dwa razy trudniejszym do odwrócenia: nie tylko sprzecznym z faktami, ale i zamkniętym w czasie, którego już nie można ponownie przeżyć. Past Perfect to gramatyczne 'cofnięcie od cofnięcia' — dokładnie ten sam mechanizm, który w trzecim okresie warunkowym każe napisać 'If I had known...' zamiast 'If I knew...'. 'Wish + Past Perfect' i trzeci okres warunkowy to bliźniacze konstrukcje: obie mówią o przeszłości, której nie da się już zmienić, tylko jedna to zdanie warunkowe z konsekwencją, a druga — czysty żal bez konsekwencji."
+      },
+      {
+        "label": "Nieodwracalność jako sedno znaczenia",
+        "text": "To właśnie nieodwracalność odróżnia ten wzorzec od 'wish + Past Simple': 'I wish I knew' zostawia furtkę (mogę się jeszcze nauczyć), a 'I wish I had known' mówi o momencie, który już minął i nic go nie zmieni — stąd silniejszy, bardziej bolesny odcień żalu, bliski polskiemu 'gdybym tylko wtedy wiedział...'."
+      }
     ],
     "usage": [
-      "Żałowanie decyzji lub zdarzeń z przeszłości",
-      "Odpowiednik polskiego 'żałuję, że (nie) zrobiłem...'"
+      "Żałowanie decyzji, działań lub zdarzeń z przeszłości, których nie można już cofnąć",
+      "Odpowiednik polskiego 'żałuję, że (nie) zrobiłem...' — z naciskiem na definitywność, zamknięty rozdział"
     ],
     "tags": ["wish I had studied", "wish I hadn't said", "wish they had come"],
     "examples": [
-      { "en": "I wish I had studied harder for the exam.", "pl": "Żałuję, że nie uczyłem się pilniej do egzaminu." },
-      { "en": "She wishes she hadn't said that.", "pl": "Ona żałuje, że tego nie powiedziała." },
-      { "en": "We wish we had left earlier.", "pl": "Żałujemy, że nie wyjechaliśmy wcześniej." },
-      { "en": "He wishes he hadn't lost his job.", "pl": "On żałuje, że nie stracił pracy." }
+      { "en": "I wish I had studied harder for the exam — now it's too late to fix that grade.", "pl": "Żałuję, że nie uczyłem się pilniej do egzaminu — teraz już za późno, żeby poprawić tę ocenę." },
+      { "en": "She wishes she hadn't said that in front of everyone.", "pl": "Ona żałuje, że nie powiedziała tego przy wszystkich." },
+      { "en": "We wish we had left earlier — we missed the whole first act.", "pl": "Żałujemy, że nie wyjechaliśmy wcześniej — przegapiliśmy cały pierwszy akt." },
+      { "en": "He wishes he hadn't quit his job so impulsively.", "pl": "On żałuje, że tak impulsywnie nie zrezygnował z pracy." }
     ]
   },
   {
     "id": "wish_would",
-    "order": 3,
-    "nameEn": "wish + would — irritation and desired change",
-    "namePl": "wish + would — irytacja i chęć zmiany",
+    "order": 4,
+    "nameEn": "wish + would — irritation, and why you can never wish yourself would",
+    "namePl": "wish + would — irytacja i dlaczego nie da się 'wish' samego siebie 'would'",
     "rules": [
-      { "label": "Budowa", "text": "wish + podmiot + would + bezokolicznik bez to (I wish you would listen to me.)" },
-      { "label": "Ograniczenie", "text": "Podmiot po wish musi różnić się od osoby mówiącej — nie używamy wish + would o sobie samym" }
+      {
+        "label": "Budowa",
+        "text": "wish + podmiot + would + bezokolicznik bez to (I wish you would listen to me.)"
+      },
+      {
+        "label": "'Would' to nie czas przeszły — to zamrożona 'wola'",
+        "text": "'Would' historycznie jest formą przeszłą 'will', a staroangielskie 'willan' znaczyło dosłownie 'chcieć, mieć wolę czegoś' (ten sam rdzeń co dzisiejsze 'will' w znaczeniu 'wola, testament'). W 'wish + would' to znaczenie wciąż przebija: zdanie 'I wish you would call more often' dosłownie mówi 'chcę, żebyś ZECHCIAŁ dzwonić częściej' — to podwójne pragnienie, pragnienie cudzej woli, a nie tylko cudzego czynu."
+      },
+      {
+        "label": "Dlaczego nie można powiedzieć 'I wish I would'",
+        "text": "To właśnie ten mechanizm tłumaczy klasyczne ograniczenie: podmiot zdania po 'wish' MUSI być inny niż osoba mówiąca. Skoro 'would' wyraża wolę drugiej strony, 'wish' własnej woli jest logicznym absurdem — mówiący już ma dostęp do własnej woli, nie musi sobie jej życzyć, może po prostu zdecydować. Kiedy uczący się chcą wyrazić żal z powodu braku kontroli nad WŁASNYM zachowaniem (np. nawyk, którego nie potrafią porzucić), poprawną drogą jest 'wish + could' (I wish I could stop biting my nails), bo tu chodzi o brak UMIEJĘTNOŚCI, a nie brak woli."
+      },
+      {
+        "label": "Dlaczego czynności, nie stany",
+        "text": "'Wish + would' niemal zawsze pojawia się z czasownikami dynamicznymi, opisującymi powtarzalne LUB dające się zmienić zachowanie (stop, call, clean, arrive), a nie ze stanowymi czasownikami opisującymi trwałe cechy (nie powiemy 'I wish you would know French' — tu wraca zwykłe 'wish + Past Simple': I wish you knew French). Logika jest spójna z resztą systemu: 'would' sygnalizuje wolę zmiany zachowania w przyszłości, a stan cechy nie jest czymś, co można 'zechcieć' zmienić z dnia na dzień."
+      },
+      {
+        "label": "Nieożywione podmioty — pogoda, autobus, świat",
+        "text": "'Wish + would' działa też z rzeczami nieożywionymi (I wish it would stop raining), bo angielski od dawna lubi personifikować przyrodę i okoliczności, jakby miały własną upartą wolę, która się nie poddaje. To ta sama figura myślowa, która każe nazywać kapryśny silnik 'he' albo mówić, że pogoda 'nie chce' się poprawić."
+      }
     ],
     "usage": [
-      "Irytacja czyimś zachowaniem lub powtarzającą się sytuacją, którą chcemy zmienić",
-      "Życzenie, żeby ktoś/coś zaczęło robić coś inaczej w przyszłości"
+      "Irytacja czyimś powtarzającym się zachowaniem lub sytuacją, którą chcemy zmienić w przyszłości",
+      "Życzenie, żeby ktoś/coś zaczęło (albo przestało) robić coś inaczej — z wyraźnym odcieniem zniecierpliwienia",
+      "NIE dla własnych działań mówiącego (zamiast tego: wish + could) i NIE dla trwałych cech/stanów (zamiast tego: wish + Past Simple)"
     ],
-    "tags": ["wish you would", "wish it would stop", "wish he would call"],
+    "tags": ["wish you would", "wish it would stop", "wish he would call", "wish I could vs wish I would"],
     "examples": [
-      { "en": "I wish you would stop interrupting me.", "pl": "Chciałbym, żebyś przestał mi przerywać." },
-      { "en": "I wish it would stop raining.", "pl": "Żałuję, że deszcz nie przestaje padać." },
-      { "en": "She wishes he would call more often.", "pl": "Ona chciałaby, żeby on dzwonił częściej." },
-      { "en": "I wish they would be quiet.", "pl": "Chciałbym, żeby byli cicho." }
+      { "en": "I wish you would stop interrupting me every time I start a sentence.", "pl": "Chciałbym, żebyś przestał mi przerywać za każdym razem, kiedy zaczynam zdanie." },
+      { "en": "I wish it would stop raining — I'm sick of this grey sky.", "pl": "Żałuję, że deszcz nie przestaje padać — mam dość tego szarego nieba." },
+      { "en": "She wishes he would call more often instead of just texting.", "pl": "Ona chciałaby, żeby on dzwonił częściej, zamiast tylko pisać wiadomości." },
+      { "en": "I wish I could stop procrastinating — not 'I wish I would', since that's simply up to me.", "pl": "Chciałbym umieć przestać zwlekać z rzeczami — nie 'wish I would', bo to zależy tylko ode mnie." }
+    ]
+  },
+  {
+    "id": "wish_infinitive",
+    "order": 5,
+    "nameEn": "wish + to-infinitive — the older, literal sense that has nothing to do with unreality",
+    "namePl": "wish + bezokolicznik z 'to' — starsze, dosłowne znaczenie niemające nic wspólnego z nierzeczywistością",
+    "rules": [
+      {
+        "label": "Budowa i znaczenie",
+        "text": "wish + to + bezokolicznik (I wish to speak to the manager.) to formalny, uroczysty odpowiednik 'want to' — czyste, aktualne pragnienie w teraźniejszości, BEZ ŻADNEGO cofnięcia czasu i bez kontrfaktycznego zabarwienia."
+      },
+      {
+        "label": "Dlaczego ten sam czasownik zachowuje się tak inaczej",
+        "text": "To relikt starszego, prostszego znaczenia 'wish' sprzed jego gramatykalizacji w konstrukcję z podrzędnym zdaniem nierzeczywistości. Historia semantyki 'wish' przebiegła dwoma torami równolegle: z jednej strony słowo skostniało w wyspecjalizowany wzorzec 'wish + zdanie w cofniętym czasie' (opisany w poprzednich punktach), z drugiej — zachowało swoje pierwotne, dosłowne znaczenie 'chcieć/pragnąć' w połączeniu z bezokolicznikiem, dokładnie tak jak 'want to' czy 'would like to'. To dwa zupełnie osobne wzorce składniowe tego samego czasownika, nie warianty jednej reguły — dlatego nie wolno ich mylić."
+      },
+      {
+        "label": "Rejestr i kontekst użycia",
+        "text": "'Wish + to' brzmi sztywno i formalnie — typowe dla ogłoszeń, pism urzędowych, uprzejmych próśb w oficjalnym kontekście ('Guests wishing to check out early should inform reception.'). W codziennej rozmowie w tym samym znaczeniu naturalniej brzmi 'want to' albo 'would like to'."
+      },
+      {
+        "label": "Pułapka: różnica znaczeniowa, nie tylko stylistyczna",
+        "text": "'I wish to see him' (chcę go zobaczyć — realna, aktualna chęć) to zupełnie inne zdanie niż 'I wish I could see him' (żałuję, że nie mogę go zobaczyć — nierzeczywistość, przeszkoda). Pomylenie tych dwóch wzorców to jeden z częstszych błędów uczących się, bo w polskim oba tłumaczą się podobnie ('chcę' / 'chciałbym'), a w angielskim rozjeżdżają się na dwie zupełnie różne struktury gramatyczne."
+      }
+    ],
+    "usage": [
+      "Formalne, uprzejme wyrażenie aktualnego pragnienia — bez cienia nierzeczywistości czy żalu",
+      "Pisma urzędowe, ogłoszenia, oficjalne prośby ('if you wish to unsubscribe...')",
+      "Kontrast z 'wish + zdanie', które ZAWSZE sygnalizuje kontrfaktyczność"
+    ],
+    "tags": ["wish to speak", "wish to see", "want to vs wish to", "formal register"],
+    "examples": [
+      { "en": "I wish to speak to the manager, please.", "pl": "Chciałbym porozmawiać z kierownikiem, proszę." },
+      { "en": "Guests wishing to check out early should inform reception the night before.", "pl": "Goście chcący wymeldować się wcześniej powinni poinformować recepcję dzień wcześniej." },
+      { "en": "If you wish to unsubscribe, click the link below.", "pl": "Jeśli chcesz zrezygnować z subskrypcji, kliknij poniższy link." },
+      { "en": "She wishes to remain anonymous.", "pl": "Ona pragnie pozostać anonimowa." }
+    ]
+  },
+  {
+    "id": "wish_direct_object",
+    "order": 6,
+    "nameEn": "wish + somebody + something — a performative act of good will, not a claim about reality",
+    "namePl": "wish + komuś + coś — performatywny akt dobrej woli, a nie stwierdzenie o rzeczywistości",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "wish + dopełnienie bliższe osobowe + dopełnienie dalsze rzeczownikowe, bez spójnika i bez zdania podrzędnego (I wish you luck. / We wish you a Merry Christmas.)"
+      },
+      {
+        "label": "Dlaczego tu nie ma cofnięcia czasu",
+        "text": "Ten wzorzec strukturalnie nie ma nic wspólnego z pozostałymi — nie ma tu żadnego podrzędnego zdania, więc nie ma czego 'cofać'. 'Wish' rządzi tu wprost rzeczownikiem (luck, success, a happy birthday), tak jak czasowniki dwudopełnieniowe typu 'give somebody something'. Sama wypowiedź JEST aktem życzenia — to tzw. czasownik performatywny: mówiąc 'I wish you luck', nie opisujesz świata, tylko w tym właśnie momencie dokonujesz aktu życzenia, dokładnie tak jak 'I promise' dokonuje obietnicy, a 'I apologize' dokonuje przeprosin."
+      },
+      {
+        "label": "Dlaczego brzmi to jak coś zupełnie innego niż 'wish I knew'",
+        "text": "To dobra ilustracja, jak bardzo znaczenie czasownika zależy od jego 'rusztowania' składniowego: ten sam czasownik 'wish' z dopełnieniem rzeczownikowym mówi o pozytywnej, realnej intencji skierowanej ku przyszłości ('życzę ci powodzenia' — mam nadzieję, że się spełni), a z podrzędnym zdaniem w cofniętym czasie mówi o czymś dokładnie odwrotnym — o kontrfaktycznym żalu. Nie ma tu sprzeczności, bo to po prostu dwie różne konstrukcje gramatyczne przypadkiem dzielące jeden czasownik."
+      },
+      {
+        "label": "Utrwalone formuły",
+        "text": "Ten wzorzec obrósł zestawem sztywnych, skonwencjonalizowanych zwrotów grzecznościowych: wish somebody luck / success / a happy birthday / a safe journey / all the best — używanych właśnie jako rytualne akty dobrej woli, rzadko tworzonych swobodnie od zera."
+      }
+    ],
+    "usage": [
+      "Życzenia, gratulacje i formuły grzecznościowe skierowane wprost do drugiej osoby",
+      "Odróżnienie od 'wish + zdanie': tu nie ma żadnego żalu ani kontrfaktyczności — to czysta, pozytywna intencja"
+    ],
+    "tags": ["wish you luck", "wish you a Merry Christmas", "performative verb", "wish somebody something"],
+    "examples": [
+      { "en": "I wish you luck with the interview tomorrow.", "pl": "Życzę ci powodzenia na jutrzejszej rozmowie kwalifikacyjnej." },
+      { "en": "We wish you a Merry Christmas and a Happy New Year.", "pl": "Życzymy wesołych świąt i szczęśliwego Nowego Roku." },
+      { "en": "They wished her a speedy recovery.", "pl": "Życzyli jej szybkiego powrotu do zdrowia." },
+      { "en": "I just wanted to wish you all the best in your new job.", "pl": "Chciałem po prostu życzyć ci wszystkiego najlepszego w nowej pracy." }
     ]
   },
   {
     "id": "if_only",
-    "order": 4,
-    "nameEn": "if only — stronger wishes and regrets",
-    "namePl": "if only — mocniejsze życzenia i żale",
+    "order": 7,
+    "nameEn": "if only — an amputated conditional, and why cutting off the consequence makes it stronger",
+    "namePl": "if only — amputowany warunek i dlaczego obcięcie konsekwencji wzmacnia wypowiedź",
     "rules": [
-      { "label": "Te same struktury co wish", "text": "if only + Past Simple (teraźniejszość), if only + Past Perfect (przeszłość), if only + would (irytacja/zmiana)" },
-      { "label": "Różnica", "text": "if only brzmi bardziej emocjonalnie i emfatycznie niż wish; często kończy zdanie wykrzyknikiem" }
+      {
+        "label": "Te same trzy wzorce co 'wish'",
+        "text": "if only + Past Simple/were (nierzeczywistość teraźniejszości), if only + Past Perfect (żal dotyczący przeszłości), if only + would (irytacja/chęć zmiany) — dokładnie ta sama trójdzielna logika cofnięcia czasu co przy 'wish', bo strukturalnie 'if only' to nic innego jak zdanie warunkowe zbudowane na tym samym mechanizmie dystansu."
+      },
+      {
+        "label": "Skąd ta forma: warunek z obciętym skutkiem",
+        "text": "'If only' to w istocie okrojony okres warunkowy. Pełne zdanie brzmiałoby: 'If only I knew what to say, [everything would be fine / I could help you]' — ale w praktyce druga część (konsekwencja) niemal zawsze zostaje pominięta, bo jest oczywista albo zbyt emocjonalna, żeby ją precyzyjnie wypowiedzieć. Zdanie kończy się na samym warunku, często wykrzyknikiem: 'If only I knew what to say!'. To zjawisko — celowe urwanie zdania, licząc na to, że słuchacz sam dośpiewa resztę — jest znanym środkiem retorycznym (aposiopesis) i właśnie dlatego 'if only' brzmi bardziej dramatycznie i emfatycznie niż zwykłe 'wish': nie tylko nazywa żal, ale teatralnie zawiesza głos w miejscu, gdzie 'powinna' być ulga."
+      },
+      {
+        "label": "'Only' jako wzmacniacz — zawężenie do jednego warunku",
+        "text": "Samo słowo 'only' («jedynie») podkreśla, że wystarczyłby TEN JEDEN element, żeby wszystko się zmieniło — 'gdyby tylko to jedno było inaczej'. To nadaje 'if only' charakter emocjonalnego wyolbrzymienia w porównaniu z neutralnym, bardziej opisowym 'wish' — 'if only' brzmi bliżej westchnienia czy okrzyku niż stwierdzenia faktu."
+      },
+      {
+        "label": "Rejestr: bardziej literacki i emocjonalny niż wish",
+        "text": "'If only' częściej pojawia się w mowie nacechowanej emocjonalnie, w literaturze, w dramatycznych momentach dialogu, podczas gdy zwykłe 'wish' jest bardziej neutralnym, codziennym sposobem wyrażania żalu. To rozróżnienie warto traktować pragmatycznie, nie ściśle formalnie — obie formy są gramatycznie poprawne w niemal każdym z powyższych wzorców, różni je głównie intensywność i teatralność."
+      }
     ],
     "usage": [
-      "Silniejsze, bardziej emocjonalne wyrażenie życzenia lub żalu niż wish",
-      "Częste w wypowiedziach z nutą frustracji lub tęsknoty"
+      "Silniejsze, bardziej emocjonalne wyrażenie życzenia lub żalu niż wish — z odcieniem westchnienia lub okrzyku",
+      "Zdania samodzielne, często zakończone wykrzyknikiem, bez wypowiedzianej konsekwencji",
+      "Literacki, dramatyczny rejestr — dialogi, monologi wewnętrzne, retoryka emocjonalna"
     ],
-    "tags": ["if only I knew", "if only I had listened", "if only she would"],
+    "tags": ["if only I knew", "if only I had listened", "if only she would", "amputated conditional"],
     "examples": [
-      { "en": "If only I knew what to say!", "pl": "Gdybym tylko wiedział, co powiedzieć!" },
-      { "en": "If only I had listened to my parents.", "pl": "Gdybym tylko posłuchał rodziców." },
-      { "en": "If only he would answer my calls.", "pl": "Gdyby tylko odbierał moje telefony." },
-      { "en": "If only we were rich!", "pl": "Gdybyśmy tylko byli bogaci!" }
+      { "en": "If only I knew what to say to her right now!", "pl": "Gdybym tylko wiedział, co jej teraz powiedzieć!" },
+      { "en": "If only I had listened to my parents back then.", "pl": "Gdybym tylko posłuchał wtedy rodziców." },
+      { "en": "If only he would answer my calls instead of ignoring me.", "pl": "Gdyby tylko odbierał moje telefony, zamiast mnie ignorować." },
+      { "en": "If only we were rich — none of this would matter.", "pl": "Gdybyśmy tylko byli bogaci — nic z tego nie miałoby znaczenia." }
+    ]
+  },
+  {
+    "id": "wish_vs_hope",
+    "order": 8,
+    "nameEn": "wish vs hope — the same Polish word, two opposite grammatical worlds",
+    "namePl": "wish kontra hope — to samo polskie słowo, dwa przeciwstawne światy gramatyczne",
+    "rules": [
+      {
+        "label": "Dlaczego ta para tak często myli uczących się",
+        "text": "Polski czasownik 'mieć nadzieję' i konstrukcje 'żałować/życzyć sobie' pokrywają semantycznie zarówno 'hope', jak i 'wish', przez co uczący się odruchowo sięgają po 'wish' tam, gdzie po angielsku trzeba 'hope' — i odwrotnie. Kluczem jest nie słownik, lecz to, CO dana konstrukcja zakłada o stanie świata."
+      },
+      {
+        "label": "Hope: możliwość wciąż otwarta",
+        "text": "'Hope' zakłada, że coś JEST JESZCZE możliwe — mówiący nie wie, czy dana rzecz się wydarzy, ale nie wyklucza tego. Dlatego po 'hope' używa się zwykłego czasu teraźniejszego lub przyszłego, BEZ cofnięcia (I hope it doesn't rain tomorrow. / I hope she passes the exam.) — nie ma tu żadnej nierzeczywistości do zasygnalizowania, bo sprawa jest wciąż otwarta."
+      },
+      {
+        "label": "Wish: sprawa zamknięta lub traktowana jako zamknięta",
+        "text": "'Wish' (w konstrukcji ze zdaniem, nie z bezokolicznikiem czy dopełnieniem) zakłada coś wręcz przeciwnego: że stan rzeczy jest już ROZSTRZYGNIĘTY i sprzeczny z tym, czego byśmy chcieli — stąd obowiązkowe cofnięcie czasu jako sygnał kontrfaktyczności. Powiedzenie 'I wish it doesn't rain tomorrow' jest błędem właśnie dlatego, że przyszłość jutrzejszej pogody nie jest jeszcze faktem zamkniętym — nie ma czego 'żałować' z wyprzedzeniem w ten sposób; poprawnie: 'I hope it doesn't rain tomorrow.'"
+      },
+      {
+        "label": "Wyjątek pozornej sprzeczności: wish o przyszłości",
+        "text": "Wish + would MOŻE dotyczyć przyszłości (I wish it would stop raining tomorrow), ale wtedy nie chodzi o nadzieję na zdarzenie, lecz o irytację obecnym, uporczywym stanem rzeczy, który — jak zakładamy — prawdopodobnie się nie zmieni. Różnica leży więc nie w samej osi czasu, lecz w NASTAWIENIU mówiącego: 'hope' to optymistyczna otwartość na wynik, 'wish' to rezygnacja albo żal wobec czegoś, co traktujemy jak z góry przesądzone."
+      }
+    ],
+    "usage": [
+      "Wybór między hope a wish przy realnych, wciąż otwartych możliwościach dotyczących przyszłości — zawsze hope, nigdy wish + zdanie w cofniętym czasie",
+      "Rozpoznawanie klasycznego błędu transferu z polskiego ('mam nadzieję, że nie będzie padać' → błędnie 'I wish it doesn't rain' zamiast 'I hope it doesn't rain')",
+      "Świadome użycie wish tam, gdzie chcemy podkreślić żal wobec czegoś traktowanego jako nieuchronne lub już rozstrzygnięte"
+    ],
+    "tags": ["hope vs wish", "open possibility", "closed fact", "common learner error"],
+    "examples": [
+      { "en": "I hope it doesn't rain tomorrow. (still an open question)", "pl": "Mam nadzieję, że jutro nie będzie padać. (sprawa wciąż otwarta)" },
+      { "en": "I wish it weren't raining right now. (it is raining — a closed, present fact)", "pl": "Żałuję, że teraz nie pada... czyli właśnie pada. (fakt zamknięty, teraźniejszy)" },
+      { "en": "I hope she gets the job. / Not: I wish she gets the job.", "pl": "Mam nadzieję, że dostanie tę pracę. / Nie: I wish she gets the job." },
+      { "en": "I wish I had applied for that job — the deadline's long gone.", "pl": "Żałuję, że nie złożyłem podania o tę pracę — termin dawno minął." }
     ]
   }
 ]
