@@ -194,6 +194,7 @@ const THEORY_URLS = {
   concessive_inversion: new URL("../data/concessive_inversion.json", import.meta.url),
   sluicing: new URL("../data/sluicing.json", import.meta.url),
   do_so_it_that: new URL("../data/do_so_it_that.json", import.meta.url),
+  verb_object_infinitive: new URL("../data/verb_object_infinitive.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -383,6 +384,7 @@ const DRILLS_URLS = {
   concessive_inversion: new URL("../data/concessive_inversionDrills.json", import.meta.url),
   sluicing: new URL("../data/sluicingDrills.json", import.meta.url),
   do_so_it_that: new URL("../data/do_so_it_thatDrills.json", import.meta.url),
+  verb_object_infinitive: new URL("../data/verb_object_infinitiveDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
