@@ -1470,5 +1470,13 @@
     "desc": "Inwersja ustępstwa: Tired though she was, Fool as he was, Try as he might, Much as I'd like to — przymiotnik, rzeczownik lub czasownik na początku zdania zamiast although — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40,
     "level": "c2"
+  },
+  {
+    "id": "sluicing",
+    "icon": "❔",
+    "title": "Sluicing (elipsa pytania osadzonego)",
+    "desc": "Sluicing — elipsa całego osadzonego pytania poza wh-word (Someone called, but I don't know who.): czasowniki wprowadzające (wonder, guess, decide), przyimki (stranding vs pied-piping), dodatkowe elementy (else, exactly) i sluicing wtrącone — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "c2"
   }
 ]
