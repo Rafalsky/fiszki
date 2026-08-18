@@ -1,0 +1,74 @@
+[
+  {
+    "id": "do_so",
+    "order": 1,
+    "nameEn": "do so — formal pro-verb substitution",
+    "namePl": "do so — formalna pro-forma czasownikowa",
+    "rules": [
+      { "label": "Budowa", "text": "do so zastępuje całą frazę czasownikową (czasownik + jego dopełnienie/okolicznik) z poprzedniego zdania: He was asked to sign the form, but he refused to do so." },
+      { "label": "Ścisły paralelizm", "text": "do so wymaga, żeby konstrukcja gramatyczna była identyczna jak w zdaniu wyjściowym (ten sam czas/forma bezokolicznika czy gerundu) — nie da się nim zastąpić fragmentu o innej strukturze." },
+      { "label": "Czasowniki dynamiczne", "text": "Antecedent musi być czasownikiem dynamicznym/czynnościowym (agentive) — z czasownikami stanowymi (know, resemble, own, belong) do so brzmi nienaturalnie lub jest niepoprawne: *She resembles her mother, and her sister does so, too. (błędne)" },
+      { "label": "Rejestr", "text": "do so jest wyraźnie formalne i pisemne — typowe dla umów, raportów, tekstów akademickich i prawniczych; w mowie potocznej naturalniejsze jest do it / do that." }
+    ],
+    "usage": [
+      "Unikanie powtórzenia całej frazy czasownikowej w formalnym, pisemnym stylu (umowy, sprawozdania, teksty akademickie)",
+      "Po czasownikach modalnych i w bezokoliczniku: refuse to do so, failed to do so, in order to do so",
+      "Gdy antecedent jest czynnością (dynamic verb), nie stanem"
+    ],
+    "tags": ["refused to do so", "failed to do so", "in order to do so", "by doing so"],
+    "examples": [
+      { "en": "The company was ordered to reduce emissions, and it did so within a year.", "pl": "Firmie nakazano zredukować emisje i zrobiła to w ciągu roku." },
+      { "en": "Employees may request a transfer; those who wish to do so should contact HR.", "pl": "Pracownicy mogą wnioskować o przeniesienie; ci, którzy chcą to zrobić, powinni skontaktować się z działem HR." },
+      { "en": "He promised to call her, and he did so at exactly nine o'clock.", "pl": "Obiecał do niej zadzwonić i zrobił to dokładnie o dziewiątej." },
+      { "en": "By doing so, the government hoped to restore public trust.", "pl": "Robiąc to, rząd miał nadzieję odbudować zaufanie publiczne." }
+    ]
+  },
+  {
+    "id": "do_it_do_that",
+    "order": 2,
+    "nameEn": "do it / do that — informal pro-verb substitution",
+    "namePl": "do it / do that — nieformalna pro-forma czasownikowa",
+    "rules": [
+      { "label": "do it", "text": "W mowie potocznej zastępuje frazę czasownikową w sposób znacznie luźniejszy niż do so — nie wymaga identycznej struktury gramatycznej: I asked him to leave, but he wouldn't do it." },
+      { "label": "do that", "text": "Wskazuje na czynność jak na coś skonkretyzowanego, często z odcieniem oceny lub emocji (zdziwienia, dezaprobaty): She slammed the door — why did she do that?" },
+      { "label": "Odniesienie luźniejsze niż do so", "text": "do it/do that mogą odnosić się do czynności ogólnie zasygnalizowanej w kontekście, niekoniecznie do dokładnie tej samej struktury składniowej co antecedent." },
+      { "label": "Modyfikacja niezależna", "text": "do it/do that (w przeciwieństwie do do so) można swobodnie modyfikować własnym okolicznikiem, nawet jeśli nie pasuje on do zdania wyjściowego: He fixed the sink badly — he always does it that way." }
+    ],
+    "usage": [
+      "Codzienna, nieformalna mowa i pisany język potoczny",
+      "do that często z odcieniem komentarza/reakcji na czyjeś zachowanie (Why do you always do that?)",
+      "Gdy nie zależy nam na ścisłym paralelizmie gramatycznym z poprzednim zdaniem"
+    ],
+    "tags": ["I can't do it", "Why did you do that?", "don't do that", "he always does it"],
+    "examples": [
+      { "en": "Could you close the window? — I'll do it in a second.", "pl": "Mógłbyś zamknąć okno? — Zrobię to za chwilę." },
+      { "en": "You shouldn't shout at her like that. — I know, I shouldn't do that.", "pl": "Nie powinieneś tak na nią krzyczeć. — Wiem, nie powinienem tego robić." },
+      { "en": "He keeps interrupting people. He's always done that.", "pl": "Ciągle przerywa ludziom. Zawsze tak robił." },
+      { "en": "She offered to help, and he let her do it.", "pl": "Zaproponowała pomoc, a on pozwolił jej to zrobić." }
+    ]
+  },
+  {
+    "id": "do_so_vs_ellipsis",
+    "order": 3,
+    "nameEn": "do so vs. bare auxiliary ellipsis",
+    "namePl": "do so a elipsa samego operatora",
+    "rules": [
+      { "label": "do so = pełna pro-forma", "text": "do so zastępuje CAŁĄ frazę czasownikową jednym wyrażeniem, zamiast ją powtarzać: He tried to fix it, and eventually he did so." },
+      { "label": "elipsa = brak czasownika", "text": "Przy zwykłej elipsie operator (be/have/modal/do) zostaje, a reszta frazy czasownikowej jest całkowicie pomijana, bez 'do so': He tried to fix it, and eventually he did. (bez 'so')" },
+      { "label": "Różnica funkcjonalna", "text": "do so podkreśla samą czynność jako całość i pozwala dodać dalsze informacje (do so quickly, do so without hesitation); goła elipsa jest krótsza i bardziej naturalna w mowie." },
+      { "label": "Nie mylić z do it/that", "text": "do so, do it i do that wszystkie zastępują frazę czasownikową, ale różnią się formalnością i ścisłością paralelizmu — do so jest najbardziej formalne i najściślejsze." }
+    ],
+    "usage": [
+      "Rozróżnianie, kiedy naturalne jest 'did so', a kiedy wystarczy sama elipsa operatora ('did')",
+      "W tekstach formalnych do so brzmi bardziej dopracowane niż goła elipsa, ale obie formy są poprawne",
+      "do so pozwala dodać przysłówek lub frazę okolicznikową po nim, czego goła elipsa nie umożliwia"
+    ],
+    "tags": ["did so quickly", "he did (ellipsis)", "did so willingly", "chose to do so"],
+    "examples": [
+      { "en": "She was asked to apologise, and she did so immediately.", "pl": "Poproszono ją o przeprosiny i zrobiła to od razu." },
+      { "en": "She was asked to apologise, and she did.", "pl": "Poproszono ją o przeprosiny i tak zrobiła." },
+      { "en": "The board approved the merger, and it did so unanimously.", "pl": "Zarząd zatwierdził fuzję i zrobił to jednogłośnie." },
+      { "en": "He wanted to resign, but he never actually did so.", "pl": "Chciał zrezygnować, ale nigdy tego nie zrobił." }
+    ]
+  }
+]

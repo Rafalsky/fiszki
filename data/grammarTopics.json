@@ -1472,6 +1472,14 @@
     "level": "c2"
   },
   {
+    "id": "do_so_it_that",
+    "icon": "🔂",
+    "title": "Do so / do it / do that",
+    "desc": "Zaimki czasownikowe (pro-formy) do so / do it / do that — zastępowanie całej frazy czasownikowej, żeby uniknąć powtórzenia — budowa, użycie, rejestr formalny, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 30,
+    "level": "c1"
+  },
+  {
     "id": "sluicing",
     "icon": "❔",
     "title": "Sluicing (elipsa pytania osadzonego)",
