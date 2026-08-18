@@ -1,0 +1,125 @@
+[
+  {
+    "id": "blending",
+    "order": 1,
+    "nameEn": "Blending (portmanteau words)",
+    "namePl": "Blending (słowa-walizki)",
+    "rules": [
+      { "label": "Budowa", "text": "Dwa słowa łączą się w jedno, przy czym zwykle bierzemy początek pierwszego słowa i koniec drugiego (breakfast + lunch → brunch, smoke + fog → smog)." },
+      { "label": "Nakładanie się dźwięków", "text": "Czasem oba słowa dzielą wspólny fragment, na którym się 'zazębiają' (motor + hotel → motel, gdzie -ot- łączy oba wyrazy)." },
+      { "label": "Różnica od compoundu", "text": "W przeciwieństwie do zwykłego złożenia (np. bedroom), blend TRACI część liter każdego składnika — nie da się już wydzielić obu pełnych wyrazów w zapisie." }
+    ],
+    "usage": [
+      "Nazywanie nowych, hybrydowych zjawisk i produktów (webinar = web + seminar, brunch = breakfast + lunch)",
+      "Nowoczesny slang technologiczny i marketingowy (vlog = video + blog, netiquette = net + etiquette)",
+      "Nazwy własne marek i zjawisk kulturowych (Brexit = Britain + exit, Spanglish = Spanish + English)",
+      "Rejestr: od potocznego (brunch, smog) po specjalistyczny/marketingowy (malware, infomercial)"
+    ],
+    "tags": ["brunch", "smog", "webinar", "Brexit"],
+    "examples": [
+      { "en": "We're meeting for brunch on Sunday.", "pl": "Spotykamy się na późne śniadanie w niedzielę." },
+      { "en": "The city was covered in thick smog all week.", "pl": "Miasto było przez cały tydzień spowite gęstym smogiem." },
+      { "en": "I signed up for a free webinar on digital marketing.", "pl": "Zapisałem się na darmowe webinarium o marketingu cyfrowym." },
+      { "en": "Downloading pirated software often means risking malware.", "pl": "Pobieranie pirackiego oprogramowania często oznacza ryzyko złośliwego oprogramowania." }
+    ]
+  },
+  {
+    "id": "clipping",
+    "order": 2,
+    "nameEn": "Clipping (shortening)",
+    "namePl": "Clipping (skracanie wyrazu)",
+    "rules": [
+      { "label": "Back-clipping (najczęstsze)", "text": "Odcinamy koniec dłuższego wyrazu, zachowując znaczenie i klasę gramatyczną (advertisement → ad, photograph → photo, gymnasium → gym)." },
+      { "label": "Fore-clipping", "text": "Rzadziej odcinamy początek wyrazu (telephone → phone, aeroplane → plane)." },
+      { "label": "Clipping środkowy", "text": "Sporadycznie zachowujemy tylko środkową część wyrazu (influenza → flu, refrigerator → fridge)." },
+      { "label": "Bez zmiany znaczenia", "text": "W odróżnieniu od blendingu clipping nie łączy dwóch różnych słów — po prostu skraca JEDEN wyraz, zachowując jego pierwotne znaczenie w mniej formalnym rejestrze." }
+    ],
+    "usage": [
+      "Mowa potoczna i nieformalna: gym, photo, fridge, exam, lab, ad zastępują dłuższe formy w codziennych rozmowach",
+      "Skrócona forma może z czasem stać się bardziej powszechna niż oryginał (fridge jest dziś częstsze niż refrigerator w mowie codziennej)",
+      "W stylu formalnym i pisanym często wraca się do pełnej formy (advertisement, examination, laboratory)",
+      "Niektóre clippingi zyskały już status neutralnych, w pełni standardowych słów (bus < omnibus, taxi < taximeter cab)"
+    ],
+    "tags": ["ad", "photo", "fridge", "flu"],
+    "examples": [
+      { "en": "I saw an ad for the new phone on TV.", "pl": "Widziałem reklamę nowego telefonu w telewizji." },
+      { "en": "Can you put the milk back in the fridge?", "pl": "Możesz odstawić mleko z powrotem do lodówki?" },
+      { "en": "She's been off work with the flu since Monday.", "pl": "Jest na zwolnieniu z powodu grypy od poniedziałku." },
+      { "en": "He goes to the gym every morning before work.", "pl": "Chodzi na siłownię każdego ranka przed pracą." }
+    ]
+  },
+  {
+    "id": "back_formation",
+    "order": 3,
+    "nameEn": "Back-formation",
+    "namePl": "Back-formation (derywacja wsteczna)",
+    "rules": [
+      { "label": "Kierunek odwrotny niż zwykle", "text": "Zamiast dodać przyrostek do rdzenia, tworzymy NOWY, krótszy wyraz przez USUNIĘCIE tego, co wygląda jak przyrostek — nawet jeśli historycznie nim nie było (editor → to edit, babysitter → to babysit)." },
+      { "label": "Zwykle rzeczownik → czasownik", "text": "Najczęstszy kierunek to rzeczownik zakończony na -er/-or/-ion → nowo utworzony czasownik oznaczający czynność, którą wykonuje ta osoba/rzecz (donation → to donate, television → to televise)." },
+      { "label": "Pozorna reguła", "text": "Mechanizm opiera się na fałszywej analogii do prawdziwych par typu 'teach → teacher' — mówiący 'odwraca' wzorzec, mimo że dłuższe słowo powstało wcześniej i nie jest naprawdę derywatem czasownika." }
+    ],
+    "usage": [
+      "Nazywanie czynności, dla której istniał już tylko rzeczownik wykonawcy (a babysitter istniał, zanim ktokolwiek mówił to babysit)",
+      "Formalny i naukowy angielski: liposuction → to liposuction, resurrection → to resurrect, definitely wcześniejsze",
+      "Częste w nowo powstałych zawodach i rolach społecznych, gdzie czasownik pojawia się później niż nazwa osoby",
+      "Odróżnij od konwersji: przy back-formation wyraz źródłowy TRACI końcówkę (editor → edit), przy konwersji forma zostaje identyczna (email → to email)"
+    ],
+    "tags": ["to edit", "to babysit", "to donate", "to televise"],
+    "examples": [
+      { "en": "She edits a fashion magazine in London.", "pl": "Redaguje magazyn modowy w Londynie." },
+      { "en": "Could you babysit for us on Friday night?", "pl": "Mógłbyś popilnować dzieci w piątek wieczorem?" },
+      { "en": "He donated a large sum to the hospital.", "pl": "Przekazał dużą sumę na rzecz szpitala." },
+      { "en": "The match will be televised live tonight.", "pl": "Mecz będzie transmitowany na żywo dziś wieczorem." }
+    ]
+  },
+  {
+    "id": "acronyms_initialisms",
+    "order": 4,
+    "nameEn": "Acronyms and initialisms",
+    "namePl": "Akronimy i skrótowce literowe",
+    "rules": [
+      { "label": "Akronim", "text": "Skrótowiec z pierwszych liter wyrażenia, który wymawia się jak zwykłe SŁOWO, nie literując go (NASA /ˈnæsə/, laser, scuba)." },
+      { "label": "Initialism (skrótowiec literowy)", "text": "Skrótowiec z pierwszych liter, który wymawia się LITERA PO LITERZE, nie jako jedno słowo (FBI /ˌefbiːˈaɪ/, BBC, ATM)." },
+      { "label": "Pisownia i przedimek", "text": "Akronimy zwykle piszemy bez kropek między literami; przedimek 'a/an' przed initialism zależy od WYMOWY pierwszej litery, nie od pisowni (an FBI agent, a BBC programme)." },
+      { "label": "Leksykalizacja", "text": "Niektóre akronimy tak się przyjęły, że piszemy je już małą literą jak zwykłe słowa i tracą świadomość, że to skrót (laser, radar, scuba)." }
+    ],
+    "usage": [
+      "Nazwy organizacji, instytucji i technologii w stylu formalnym i dziennikarskim (NATO, UNESCO, USB)",
+      "Odróżnienie wymowy: akronim wymawiamy jako słowo (NASA, UNESCO), initialism literujemy (CD, VIP, PhD)",
+      "Wybór a/an przed initialism zależy od dźwięku, nie litery: an MP (bo 'em'), a UN representative (bo 'you')",
+      "W mowie potocznej powszechne skróty tekstowe też bywają initialisms (ASAP, FYI, DIY) — czytane litera po literze lub jako całe wyrażenie"
+    ],
+    "tags": ["NASA", "FBI", "an MP", "ASAP"],
+    "examples": [
+      { "en": "NASA announced a new mission to Mars.", "pl": "NASA ogłosiła nową misję na Marsa." },
+      { "en": "The FBI is investigating the case.", "pl": "FBI prowadzi śledztwo w tej sprawie." },
+      { "en": "She's an MP for a constituency in the north.", "pl": "Jest posłanką z okręgu na północy kraju." },
+      { "en": "Please send the report ASAP.", "pl": "Proszę przesłać raport jak najszybciej." }
+    ]
+  },
+  {
+    "id": "process_recognition",
+    "order": 5,
+    "nameEn": "Telling the processes apart",
+    "namePl": "Rozróżnianie procesów słowotwórczych",
+    "rules": [
+      { "label": "Blending vs compounding", "text": "Compound (np. bedroom) zachowuje OBA słowa w pełni; blend (np. brunch) łączy tylko FRAGMENTY obu słów, więc pełnych form już nie widać." },
+      { "label": "Clipping vs back-formation", "text": "Clipping skraca słowo, ale NIE zmienia jego klasy gramatycznej ani znaczenia (photograph → photo, oba to rzeczowniki); back-formation zwykle TWORZY nowy czasownik z rzeczownika, usuwając pozorny przyrostek (editor → to edit)." },
+      { "label": "Acronym vs initialism", "text": "Test wymowy: jeśli skrótowiec brzmi jak jedno słowo — to akronim (NASA); jeśli literujemy go głoska po głosce — to initialism (BBC)." },
+      { "label": "Kontrast z pokrewnymi tematami", "text": "Te procesy różnią się od afiksacji (temat: Słowotwórstwo — dodawanie przedrostków/przyrostków) i konwersji (temat: Konwersja słowotwórcza — ta sama forma zmienia klasę gramatyczną bez utraty liter)." }
+    ],
+    "usage": [
+      "Analiza pochodzenia nowych słów w tekstach prasowych i technologicznych",
+      "Rozpoznawanie, czy krótsza forma to niezależny clipping (gym), czy zrośnięty blend dwóch wyrazów (brunch)",
+      "Świadome stosowanie a/an przed skrótowcami w mowie i piśmie formalnym",
+      "Przygotowanie do zadań słowotwórczych na egzaminach na poziomie C1/C2"
+    ],
+    "tags": ["blend vs compound", "clipping vs back-formation", "acronym vs initialism", "word-formation test"],
+    "examples": [
+      { "en": "'Motel' is a blend, but 'bedroom' is simply a compound of two full words.", "pl": "'Motel' to blend, a 'bedroom' to zwykłe złożenie dwóch pełnych słów." },
+      { "en": "'Photo' is a clipping of 'photograph'; 'to edit' is a back-formation from 'editor'.", "pl": "'Photo' to skrócenie 'photograph'; 'to edit' to derywacja wsteczna od 'editor'." },
+      { "en": "We say 'a NATO summit' because NATO is pronounced as a word, not spelled out.", "pl": "Mówimy 'a NATO summit', bo NATO wymawia się jak słowo, a nie literuje." },
+      { "en": "Unlike conversion, back-formation actually removes letters from the original word.", "pl": "W przeciwieństwie do konwersji, derywacja wsteczna faktycznie usuwa litery z oryginalnego słowa." }
+    ]
+  }
+]
