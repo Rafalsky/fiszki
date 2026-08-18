@@ -193,6 +193,7 @@ const THEORY_URLS = {
   minor_word_formation: new URL("../data/minor_word_formation.json", import.meta.url),
   concessive_inversion: new URL("../data/concessive_inversion.json", import.meta.url),
   sluicing: new URL("../data/sluicing.json", import.meta.url),
+  do_so_it_that: new URL("../data/do_so_it_that.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -381,6 +382,7 @@ const DRILLS_URLS = {
   minor_word_formation: new URL("../data/minor_word_formationDrills.json", import.meta.url),
   concessive_inversion: new URL("../data/concessive_inversionDrills.json", import.meta.url),
   sluicing: new URL("../data/sluicingDrills.json", import.meta.url),
+  do_so_it_that: new URL("../data/do_so_it_thatDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;
