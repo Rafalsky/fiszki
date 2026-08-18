@@ -41,5 +41,16 @@
   {"id": 37, "itemId": "there_questions_negation", "prompt": "There ___ anyone at the office when I arrived.", "answer": "wasn't", "distractors": ["weren't", "isn't", "aren't"]},
   {"id": 38, "itemId": "there_questions_negation", "prompt": "There ___ any seats available on the train.", "answer": "weren't", "distractors": ["wasn't", "isn't", "aren't"]},
   {"id": 39, "itemId": "there_questions_negation", "prompt": "___ there enough food for everyone?", "answer": "Is", "distractors": ["Are", "Was", "Were"]},
-  {"id": 40, "itemId": "there_questions_negation", "prompt": "There ___ a single cloud in the sky.", "answer": "isn't", "distractors": ["aren't", "wasn't", "weren't"]}
+  {"id": 40, "itemId": "there_questions_negation", "prompt": "There ___ a single cloud in the sky.", "answer": "isn't", "distractors": ["aren't", "wasn't", "weren't"]},
+
+  {"id": 41, "itemId": "there_their_theyre", "prompt": "___ leaving for the airport in ten minutes.", "answer": "They're", "distractors": ["There", "Their", "Theyre"]},
+  {"id": 42, "itemId": "there_their_theyre", "prompt": "Is that ___ car parked outside the house?", "answer": "their", "distractors": ["there", "they're", "them"]},
+  {"id": 43, "itemId": "there_their_theyre", "prompt": "Put the boxes over ___, next to the door.", "answer": "there", "distractors": ["their", "they're", "them"]},
+  {"id": 44, "itemId": "there_their_theyre", "prompt": "___, there — it's going to be fine, I promise.", "answer": "There", "distractors": ["Their", "They're", "Theyre"]},
+  {"id": 45, "itemId": "there_their_theyre", "prompt": "I can't believe ___ still arguing about the same thing.", "answer": "they're", "distractors": ["there", "their", "them"]},
+  {"id": 46, "itemId": "there_their_theyre", "prompt": "The keys are right ___, on top of the fridge.", "answer": "there", "distractors": ["their", "they're", "them"]},
+  {"id": 47, "itemId": "there_their_theyre", "prompt": "All the guests left ___ coats in the hallway.", "answer": "their", "distractors": ["there", "they're", "them"]},
+  {"id": 48, "itemId": "there_their_theyre", "prompt": "___ flight was delayed by almost three hours.", "answer": "Their", "distractors": ["There", "They're", "Theyre"]},
+  {"id": 49, "itemId": "there_their_theyre", "prompt": "___ you go — I told you it would fit perfectly.", "answer": "There", "distractors": ["Their", "They're", "Theyre"]},
+  {"id": 50, "itemId": "there_their_theyre", "prompt": "I looked everywhere, and ___ they were, right on my head.", "answer": "there", "distractors": ["their", "they're", "them"]}
 ]
