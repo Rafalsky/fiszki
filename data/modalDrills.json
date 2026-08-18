@@ -52,5 +52,15 @@
   {"id": 47, "itemId": "mustnt_dont_have_to", "prompt": "Drivers ___ (not / use) their phones while driving.", "answer": "mustn't use", "distractors": ["don't have to use", "shouldn't use", "can't use"]},
   {"id": 48, "itemId": "mustnt_dont_have_to", "prompt": "You ___ (not / pay) now — you can pay next month instead.", "answer": "don't have to pay", "distractors": ["mustn't pay", "shouldn't pay", "can't pay"]},
   {"id": 49, "itemId": "mustnt_dont_have_to", "prompt": "Staff ___ (not / share) confidential information with anyone.", "answer": "mustn't share", "distractors": ["don't have to share", "shouldn't share", "can't share"]},
-  {"id": 50, "itemId": "mustnt_dont_have_to", "prompt": "You ___ (not / finish) the whole book — just read the first chapter.", "answer": "don't have to finish", "distractors": ["mustn't finish", "shouldn't finish", "can't finish"]}
+  {"id": 50, "itemId": "mustnt_dont_have_to", "prompt": "You ___ (not / finish) the whole book — just read the first chapter.", "answer": "don't have to finish", "distractors": ["mustn't finish", "shouldn't finish", "can't finish"]},
+
+  {"id": 51, "itemId": "modal_system_overview", "prompt": "The doctor says that from next week I ___ (must) this medicine every day.", "answer": "will have to take", "distractors": ["will must take", "must take", "have must take"]},
+  {"id": 52, "itemId": "modal_system_overview", "prompt": "Because we arrived early, we ___ (not / must) queue for hours.", "answer": "didn't have to queue", "distractors": ["mustn't queue", "couldn't queue", "shouldn't queue"]},
+  {"id": 53, "itemId": "modal_system_overview", "prompt": "You might ___ (must) show your ID at the entrance, so bring it just in case.", "answer": "have to show", "distractors": ["must show", "musting show", "to must show"]},
+  {"id": 54, "itemId": "modal_system_overview", "prompt": "Judging by the empty plates, the food ___ (must) delicious.", "answer": "must have been", "distractors": ["must be", "can have been", "should have been"]},
+  {"id": 55, "itemId": "modal_system_overview", "prompt": "He ___ (can) be the manager — the manager retired years ago.", "answer": "can't", "distractors": ["mustn't", "shouldn't", "may not"]},
+  {"id": 56, "itemId": "modal_system_overview", "prompt": "All staff ___ (must) complete the course, according to the new company policy.", "answer": "must complete", "distractors": ["can complete", "might complete", "would complete"]},
+  {"id": 57, "itemId": "modal_system_overview", "prompt": "We ___ (need not) have booked a table — the restaurant was almost empty.", "answer": "needn't have booked", "distractors": ["mustn't have booked", "didn't have to book", "couldn't have booked"]},
+  {"id": 58, "itemId": "modal_system_overview", "prompt": "After years of training, she finally ___ (can) run a marathon.", "answer": "was able to run", "distractors": ["could run", "can run", "might run"]},
+  {"id": 59, "itemId": "modal_system_overview", "prompt": "I ___ (shall) never forget the kindness you showed us.", "answer": "shall", "distractors": ["will can", "should can", "must can"]}
 ]

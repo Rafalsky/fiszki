@@ -1,225 +1,237 @@
 [
   {
-    "id": "can_could",
+    "id": "modal_system_overview",
     "order": 1,
+    "nameEn": "The modal system: origins and the logic of a defective verb class",
+    "namePl": "System czasowników modalnych: pochodzenie i logika klasy czasowników defektywnych",
+    "rules": [
+      {
+        "label": "Rodowód: czasowniki „preteryto-teraźniejsze”",
+        "text": "Can, may, must, shall i will nie są zwykłymi czasownikami, którym przypadkiem brakuje kilku form — to skamieniała pozostałość osobnej klasy germańskiej zwanej preteryto-teraźniejszymi (preterite-present verbs). W ich pradawnej historii dzisiejsze znaczenie 'umieć', 'móc', 'być zobowiązanym' było pierwotnie znaczeniem CZASU PRZESZŁEGO dokonanego, odziedziczonym po starych czasownikach mocnych: forma brzmiąca jak czas przeszły ('poznałem/nabyłem [tę wiedzę]') z czasem zaczęła być odczuwana jako opisująca stan TERAŹNIEJSZY będący skutkiem tamtej dawnej czynności — skoro 'poznałem', to teraz 'WIEM/UMIEM'. Stąd formy dziś wyglądające na przeszłe (could, might, should) obok 'teraźniejszych' (can, may, shall) wcale nie tworzą normalnej pary czasów, tylko dwa piętra tej samej skamieliny."
+      },
+      {
+        "label": "Dlaczego 'can' nie ma 'to', '-s' ani '-ing'",
+        "text": "Ponieważ oryginalny paradygmat czasu teraźniejszego tych czasowników zanikł (przejęła go dawna forma czasu przeszłego), nigdy nie przeszły one średniowiecznej standaryzacji zwykłych czasowników: nie dorobiły się bezokolicznika ('to can' nie istnieje), końcówki trzeciej osoby (she can, nigdy *she cans) ani imiesłowu na -ing. Używamy jednej, niezmiennej formy dla wszystkich osób, po której następuje goły bezokolicznik bez 'to' — bo historycznie modal + czasownik to była po prostu jedna osoba odmieniona + drugi czasownik jako jej dopełnienie, dokładnie jak dziś w 'I want [to go]', tylko bez łącznika 'to'."
+      },
+      {
+        "label": "Dlaczego modalne pytają i przeczą bez 'do'",
+        "text": "Do-support (Do you...? / I don't...) to stosunkowo młoda, XVI-wieczna innowacja, która zastąpiła starszy szyk pytający ('Know you him?' zamiast dzisiejszego 'Do you know him?'). Czasowniki modalne — razem z 'be' i 'have' — nie zostały objęte tą zmianą i do dziś tworzą pytania przez inwersję (Can you...?), a przeczenia przez proste dodanie 'not' (cannot/can't). To nie wyjątek do wykucia na pamięć, lecz żywa skamielina angielskiego sprzed czterystu lat, zamrożona właśnie w tej garstce czasowników."
+      },
+      {
+        "label": "Model myślowy: kontinuum modalności",
+        "text": "Każdy modal da się umieścić na osi między dwoma biegunami: modalnością rdzenną / deontyczną (root — realny, fizyczny lub społeczny fakt: zdolność, pozwolenie, obowiązek — np. You must show your passport = zasada obowiązująca w świecie) a modalnością epistemiczną (mówiący ocenia PRAWDOPODOBIEŃSTWO zdania — np. He must be at home = wniosek wyciągnięty z poszlak). To samo słowo, ta sama forma — inna 'siła', o której mówi. Opanowanie modalnych polega głównie na wyczuciu, w którym miejscu tej osi znajduje się dane zdanie, a nie na zapamiętywaniu listy osobnych, niepowiązanych 'znaczeń'."
+      }
+    ],
+    "usage": [
+      "Historycznie niemal każdy modal przeszedł tę samą drogę: od znaczenia konkretnego, fizycznego (siła, wiedza, dług) przez znaczenie społeczne (pozwolenie, obowiązek) aż po czysto abstrakcyjne, epistemiczne (pewność, przypuszczenie) — to uniwersalny wzorzec gramatykalizacji, widoczny też w wielu innych językach.",
+      "Semi-modale (have to, need to, be able to, be going to) to nowsze konstrukcje, które z czasem 'załatały' luki pozostawione przez defektywność prawdziwych modalnych: skoro nie istnieje *will can ani *has musted, angielski musiał wynaleźć will be able to i has had to.",
+      "Dwa modalne nigdy nie stoją obok siebie (nie ma *will must, *should can) — właśnie dlatego, że oba 'chcą' być jedynym czasownikiem osobowym w zdaniu; gdy potrzebne jest złożenie dwóch znaczeń modalnych, jedno z nich musi przybrać postać semi-modalną (you will have to, you should be able to).",
+      "Rozróżnienie root vs epistemic tłumaczy pozorne 'wyjątki' w przeczeniach: 'must' w znaczeniu nakazu (root) neguje się przez 'mustn't' (zakaz), ale 'must' w znaczeniu wniosku (epistemic) nie ma naturalnej formy przeczącej — logika zakazu nie stosuje się do logiki wnioskowania, więc angielski w tej roli pożycza zupełnie inny czasownik: 'can't' (He can't be serious).",
+      "Will i shall, choć dziś kojarzone głównie z czasem przyszłym, należą do tej samej rodziny co pozostałe modalne (will < 'chcieć', shall < 'być winnym') — przyszłość w angielskim jest w gruncie rzeczy kategorią modalną (przewidywanie, wola, zobowiązanie), a nie osobnym, neutralnym czasem gramatycznym."
+    ],
+    "tags": ["preterite-present", "root vs epistemic", "bez 'to'", "bez do-support", "no double modals"],
+    "examples": [
+      { "en": "You must fasten your seatbelt before we take off.", "pl": "Musisz zapiąć pas, zanim wystartujemy." },
+      { "en": "She must have missed her flight — she's still not answering.", "pl": "Ona musiała spóźnić się na lot — wciąż nie odpowiada." },
+      { "en": "Passengers may now proceed to gate 14.", "pl": "Pasażerowie mogą teraz przejść do bramki 14." },
+      { "en": "That can't be the whole story — something's missing.", "pl": "To nie może być cała historia — czegoś brakuje." },
+      { "en": "From next year, employees will have to reapply for their badges.", "pl": "Od przyszłego roku pracownicy będą musieli ponownie wnioskować o identyfikatory." }
+    ]
+  },
+  {
+    "id": "can_could",
+    "order": 2,
     "nameEn": "can / could — ability and possibility",
     "namePl": "can / could — możliwość i umiejętność",
     "rules": [
       {
-        "label": "can",
-        "text": "Podmiot + can + czasownik (forma podstawowa), bez 'to'"
+        "label": "Rodowód: 'can' = 'poznałem, więc umiem'",
+        "text": "Can wywodzi się ze staroangielskiego cunnan — 'znać, umieć' (ten sam rdzeń co niemieckie kennen/können oraz angielskie 'ken' — wiedza, zasięg poznania — a nawet 'cunning', które pierwotnie znaczyło po prostu 'uczony, wiedzący' i dopiero później nabrało dzisiejszego, pejoratywnego sensu 'przebiegły'). Zdolność jest więc w angielskim pojmowana pierwotnie jako rodzaj WIEDZY: 'I can swim' to niemal dosłownie 'nabyłem wiedzę, jak pływać' — inna metafora niż w may/might, gdzie chodzi o czystą SIŁĘ (zobacz temat may / might)."
       },
       {
-        "label": "could",
-        "text": "Podmiot + could + czasownik — przeszłość od can, lub grzeczniejsza/mniej pewna forma"
+        "label": "Could jako przeszłość i jako 'oddalenie'",
+        "text": "Could to historyczna forma przeszła 'can' (z nieetymologicznym 'l' wstawionym w piśmie pod wpływem would/should — w wymowie nigdy się nie pojawiało). Dziś could pełni dwie różne funkcje: zwykłą przeszłość zdolności ogólnej (When I was young, I could run for hours) oraz formę teraźniejszą, ale grzeczniejszą i mniej stanowczą (Could you help me?). Ten drugi sens wynika z tej samej logiki co w zdaniach warunkowych: gramatyczne 'oddalenie w czasie' zostaje przeniesione na 'oddalenie od bezpośredniości/pewności' — im dalej od 'tu i teraz', tym mniej nachalnie brzmi prośba czy twierdzenie."
+      },
+      {
+        "label": "Pułapka: could ≠ jednorazowe osiągnięcie",
+        "text": "Could opisuje zdolność OGÓLNĄ w przeszłości (umiałem pływać), nie pojedyncze, konkretne osiągnięcie w danej sytuacji — do tego służy was/were able to lub managed to (I was able to escape, nie *I could escape, gdy mowa o jednym zdarzeniu). Wyjątkiem są zdania przeczące (I couldn't escape jest jak najbardziej naturalne) oraz czasowniki percepcji (I could see the mountains from the hotel) — bo tu 'móc' opisuje trwający stan percepcyjny, a nie jednorazowe wykonanie czynności."
+      },
+      {
+        "label": "Can w znaczeniu epistemicznym — tylko w przeczeniu i pytaniu",
+        "text": "W zdaniu twierdzącym 'can' niemal nigdy nie wyraża przypuszczenia (*'He can be at home' w znaczeniu 'być może jest w domu' brzmi nienaturalnie). Za to w przeczeniu 'can't/cannot' jest naturalnym, bardzo częstym wyrażeniem logicznej NIEMOŻLIWOŚCI (That can't be true) — mocniejszym niż 'might not'. Ta asymetria bierze się stąd, że twierdząca możliwość epistemiczna jest domeną 'may/might', podczas gdy 'can/can't' zarezerwowano dla ogólnej, strukturalnej (nie)możliwości."
       }
     ],
     "usage": [
-      "Umiejętności (I can swim.)",
-      "Możliwość w danej chwili (It can get very cold here.)",
-      "Prośby i pozwolenia (Can I open the window?)",
-      "could — umiejętność w przeszłości lub grzeczniejsza prośba (Could you help me?)"
+      "Umiejętności nabyte przez naukę lub doświadczenie (can swim, can speak Japanese) — chodzi o 'wiedzę', nie o surową siłę fizyczną.",
+      "Możliwość wynikająca z okoliczności lub praw natury (It can get very cold here in winter.) — coś, co się zdarza w pewnych warunkach, nie jednorazowa prognoza na jutro.",
+      "Formalne i nieformalne pozwolenie oraz prośby (Can I open the window? / Could you pass the salt?) — could brzmi uprzejmiej dzięki 'oddaleniu' opisanemu w rodowodzie.",
+      "Could + bezokolicznik dokonany (could have done) wyraża NIEZREALIZOWANĄ możliwość w przeszłości, często z żalem lub wyrzutem (You could have called me!) — w przeciwieństwie do should have, nie ocenia, czy coś było słuszne, tylko że było możliwe, a jednak się nie stało.",
+      "Can't/couldn't + bezokolicznik dokonany wyraża pewność, że coś było logicznie niemożliwe (She couldn't have known — nobody told her.)."
     ],
-    "tags": [
-      "can swim",
-      "could you...?",
-      "can't be true"
-    ],
+    "tags": ["can swim", "could you...?", "can't be true", "could have done"],
     "examples": [
-      {
-        "en": "She can speak three languages.",
-        "pl": "Ona potrafi mówić w trzech językach."
-      },
-      {
-        "en": "Could you pass the salt, please?",
-        "pl": "Czy mógłbyś podać sól?"
-      },
-      {
-        "en": "It can't be true.",
-        "pl": "To nie może być prawda."
-      },
-      {
-        "en": "When I was young, I could run for hours.",
-        "pl": "Kiedy byłem młody, mogłem biegać godzinami."
-      }
+      { "en": "By the age of six she could already read fluently.", "pl": "W wieku sześciu lat umiała już płynnie czytać." },
+      { "en": "Could you possibly lower your voice? I'm on a call.", "pl": "Czy mógłbyś ściszyć głos? Rozmawiam przez telefon." },
+      { "en": "The lake can freeze solid by mid-January.", "pl": "Jezioro potrafi zamarznąć na kość do połowy stycznia." },
+      { "en": "That can't be right — we checked the numbers twice.", "pl": "To nie może być prawidłowe — sprawdziliśmy liczby dwa razy." },
+      { "en": "You could have told me you'd be late!", "pl": "Mogłeś mi powiedzieć, że się spóźnisz!" },
+      { "en": "From the balcony, we could see the entire bay.", "pl": "Z balkonu widzieliśmy całą zatokę." }
     ]
   },
   {
     "id": "must_have_to",
-    "order": 2,
+    "order": 3,
     "nameEn": "must / have to — obligation and necessity",
     "namePl": "must / have to — konieczność",
     "rules": [
       {
-        "label": "must",
-        "text": "Podmiot + must + czasownik — silny obowiązek, często wynikający z przekonania mówiącego"
+        "label": "Rodowód: 'must' pierwotnie znaczyło 'wolno mi'",
+        "text": "Must pochodzi od staroangielskiego motan, które znaczyło coś bliższego 'mieć pozwolenie, móc' niż dzisiejszego stanowczego 'musieć' — niemal odwrotność obecnego sensu! Przez wieki znaczenie 'motan' przeszło proces zwany subiektyfikacją: z neutralnego 'mieć możliwość' przesunęło się w stronę silnej, wewnętrznej konieczności. Ślad dawnego znaczenia przetrwał w archaicznej formule 'so mote it be' — 'niech się tak stanie', przodku dzisiejszego 'so be it'."
       },
       {
-        "label": "have to",
-        "text": "Podmiot + have to/has to + czasownik — obowiązek wynikający z zewnętrznych zasad lub okoliczności"
+        "label": "Model siły: obowiązek jako fizyczny nacisk",
+        "text": "Modalność obowiązku opisuje się metaforą 'dynamiki sił': 'must' przedstawia mówiącego jako ŹRÓDŁO nacisku, który sam pcha podmiot do działania — stąd brzmi osobiście, jakby mówiący sam decydował, że coś jest konieczne (I must finish this today = sam to sobie narzucam). 'Have to' przedstawia nacisk jako pochodzący z ZEWNĄTRZ — od przepisu, przełożonego, okoliczności; mówiący jest jedynie przekaźnikiem cudzej siły (I have to finish this today = ktoś/coś innego mi to narzuca), stąd wrażenie, że 'have to' jest mniej osobiste."
+      },
+      {
+        "label": "Ta sama metafora siły w znaczeniu epistemicznym",
+        "text": "Ta sama 'siła' obowiązku przenosi się metaforycznie na wnioskowanie: skoro fakty 'zmuszają' mówiącego logicznie do jednego wniosku, powstaje He must be tired — dowody nie zostawiają wyboru co do konkluzji, dokładnie jak w znaczeniu deontycznym nacisk nie zostawia wyboru co do działania. To nie przypadek, że ten sam czasownik obsługuje oba znaczenia — angielski, jak wiele języków, systematycznie przenosi słownictwo przymusu fizycznego i społecznego na przymus czysto logiczny."
+      },
+      {
+        "label": "Have to jako 'zwykły' czasownik — konsekwencje gramatyczne",
+        "text": "W przeciwieństwie do prawdziwych modalnych, 'have to' zachowuje się gramatycznie jak zwykły czasownik leksykalny: odmienia się przez osoby (he HAS to), tworzy pytania i przeczenia przez do-support (Do you have to...? / doesn't have to), i występuje we wszystkich czasach (had to, will have to, has had to) — bo formalnie to nie modal, tylko 'have' + bezokolicznik 'to', który z czasem zleksykalizował się w jedno znaczenie obowiązku. Dlatego to właśnie 'have to', a nie 'must', wypełnia luki w przyszłości i przeszłości, gdzie prawdziwe 'must' nie ma własnych form."
       }
     ],
     "usage": [
-      "must — obowiązek narzucony przez mówiącego (You must wear a seatbelt.)",
-      "have to — obowiązek wynikający z zewnętrznych przepisów (I have to work on Saturdays.)",
-      "must — silne przypuszczenie (He must be tired after the trip.)",
-      "have to w pytaniach i przeczeniach zwykle z do/does (Do you have to leave now?)"
+      "must — obowiązek narzucony przez samego mówiącego, jego przekonania lub wewnętrzne poczucie ważności (I must call her back, I promised.)",
+      "have to — obowiązek wynikający z zewnętrznych reguł, praw, okoliczności lub cudzej władzy (Employees have to clock in by 9.)",
+      "must — silne przypuszczenie logiczne wynikające z dowodów, nie z faktycznego obowiązku (Look at the queue — the film must be excellent.)",
+      "have to w czasie przeszłym i przyszłym zastępuje brakujące formy 'must' (I had to leave early yesterday. / We'll have to reschedule.)",
+      "W amerykańskim angielskim have to jest częstsze i bardziej neutralne nawet tam, gdzie BrE użyłoby must; w mowie potocznej AmE dominuje jeszcze bardziej swobodne have got to / gotta."
     ],
-    "tags": [
-      "must wear",
-      "have to work",
-      "must be true"
-    ],
+    "tags": ["must call", "have to work", "must be true", "had to leave"],
     "examples": [
-      {
-        "en": "You must wear a seatbelt in the car.",
-        "pl": "Musisz zapinać pasy w samochodzie."
-      },
-      {
-        "en": "I have to work on Saturdays.",
-        "pl": "Muszę pracować w soboty."
-      },
-      {
-        "en": "He must be tired after such a long trip.",
-        "pl": "On musi być zmęczony po tak długiej podróży."
-      },
-      {
-        "en": "Do you have to leave so early?",
-        "pl": "Czy musisz wyjść tak wcześnie?"
-      }
-    ]
-  },
-  {
-    "id": "should_ought_to",
-    "order": 3,
-    "nameEn": "should / ought to — advice and recommendation",
-    "namePl": "should / ought to — powinność i rada",
-    "rules": [
-      {
-        "label": "should",
-        "text": "Podmiot + should + czasownik — rada, powinność, oczekiwanie"
-      },
-      {
-        "label": "ought to",
-        "text": "Podmiot + ought to + czasownik — synonim should, nieco bardziej formalny, rzadziej używany"
-      }
-    ],
-    "usage": [
-      "Rady i sugestie (You should see a doctor.)",
-      "Oczekiwania (The package should arrive tomorrow.)",
-      "Opinie o tym, co jest właściwe (Everyone should learn first aid.)",
-      "ought to jest rzadziej używane niż should, zwłaszcza w pytaniach i przeczeniach"
-    ],
-    "tags": [
-      "should see",
-      "ought to know",
-      "should arrive"
-    ],
-    "examples": [
-      {
-        "en": "You should see a doctor about that cough.",
-        "pl": "Powinieneś iść do lekarza z tym kaszlem."
-      },
-      {
-        "en": "We ought to leave now if we want to catch the train.",
-        "pl": "Powinniśmy już iść, jeśli chcemy zdążyć na pociąg."
-      },
-      {
-        "en": "The package should arrive tomorrow.",
-        "pl": "Paczka powinna dotrzeć jutro."
-      },
-      {
-        "en": "Everyone should learn basic first aid.",
-        "pl": "Każdy powinien znać podstawy pierwszej pomocy."
-      }
-    ]
-  },
-  {
-    "id": "may_might",
-    "order": 4,
-    "nameEn": "may / might — possibility and permission",
-    "namePl": "may / might — przypuszczenie i pozwolenie",
-    "rules": [
-      {
-        "label": "may",
-        "text": "Podmiot + may + czasownik — formalne pozwolenie lub przypuszczenie o średniej pewności"
-      },
-      {
-        "label": "might",
-        "text": "Podmiot + might + czasownik — przypuszczenie o mniejszej pewności niż may, mniej formalne"
-      }
-    ],
-    "usage": [
-      "Formalne pozwolenie (May I come in?)",
-      "Przypuszczenie, że coś jest możliwe (She may be at home.)",
-      "might — mniej pewne przypuszczenie (It might rain later.)",
-      "Oba mogą wyrażać niepewność co do teraźniejszości lub przyszłości"
-    ],
-    "tags": [
-      "may I...?",
-      "might rain",
-      "may be true"
-    ],
-    "examples": [
-      {
-        "en": "May I ask you a question?",
-        "pl": "Czy mogę zadać pytanie?"
-      },
-      {
-        "en": "She may be running late.",
-        "pl": "Może się spóźnia."
-      },
-      {
-        "en": "It might rain later, so take an umbrella.",
-        "pl": "Może później padać, więc weź parasol."
-      },
-      {
-        "en": "The results may change once we get more data.",
-        "pl": "Wyniki mogą się zmienić, gdy dostaniemy więcej danych."
-      }
+      { "en": "I must remember to water the plants before we leave.", "pl": "Muszę pamiętać, żeby podlać rośliny, zanim wyjedziemy." },
+      { "en": "All staff have to complete the safety training by Friday.", "pl": "Cały personel musi ukończyć szkolenie BHP do piątku." },
+      { "en": "Given how quiet he's been, something must be wrong.", "pl": "Sądząc po tym, jaki jest cichy, coś musi być nie tak." },
+      { "en": "We had to cancel the trip because of the storm.", "pl": "Musieliśmy odwołać wycieczkę z powodu burzy." },
+      { "en": "You don't have to answer that, but I must ask.", "pl": "Nie musisz na to odpowiadać, ale ja muszę zapytać." }
     ]
   },
   {
     "id": "mustnt_dont_have_to",
-    "order": 5,
+    "order": 4,
     "nameEn": "mustn't vs. don't have to — prohibition vs. lack of necessity",
     "namePl": "mustn't / don't have to — zakaz a brak konieczności",
     "rules": [
       {
-        "label": "mustn't",
-        "text": "Podmiot + must not (mustn't) + czasownik — zakaz, czegoś nie wolno robić"
+        "label": "Logika: co właściwie neguje 'not'?",
+        "text": "Kluczem nie jest zapamiętanie dwóch osobnych 'znaczeń', lecz zauważenie, CO dokładnie neguje 'not' w każdej konstrukcji. Mustn't = must + not: przeczenie pada na CZASOWNIK GŁÓWNY, więc zdanie mówi 'masz obowiązek NIE robić czegoś' = zakaz. Don't have to = do + not + have to: przeczenie pada na sam operator 'do', czyli na sam OBOWIĄZEK, więc zdanie mówi 'nie masz obowiązku [robić czegoś]' = obowiązek zostaje anulowany, a czynność pozostaje jak najbardziej dozwolona."
       },
       {
-        "label": "don't have to",
-        "text": "Podmiot + don't/doesn't have to + czasownik — nie ma obowiązku, ale wolno"
+        "label": "Dlaczego akurat tak — składnia zdradza znaczenie",
+        "text": "To rozróżnienie nie jest arbitralne — wynika wprost z gramatycznego statusu obu czasowników. 'Must' jest prawdziwym modalnym, więc 'not' dołącza się bezpośrednio do niego i semantycznie obejmuje to, co po nim następuje (samą czynność). 'Have to' jest czasownikiem zwykłym, wymagającym 'do' do zaprzeczenia, więc to właśnie operator 'do not' neguje sam FAKT posiadania obowiązku, zanim w ogóle dojdzie do czynności. Ta sama logika działa identycznie przy 'needn't', które zawsze znosi obowiązek (jak don't have to), nigdy nie tworzy zakazu (jak mustn't)."
+      },
+      {
+        "label": "Needn't have done — zbędny wysiłek",
+        "text": "Needn't have + bezokolicznik dokonany opisuje czynność, którą ktoś WYKONAŁ, choć — jak się później okazało — wcale nie musiał (We needn't have hurried — the shop was still open). To coś innego niż didn't have to, które mówi jedynie, że obowiązku nie było, bez informacji, czy czynność w ogóle miała miejsce."
+      },
+      {
+        "label": "Skala formalności i BrE/AmE",
+        "text": "Mustn't brzmi dość stanowczo i formalnie — typowe dla regulaminów, znaków, oficjalnych poleceń (Passengers mustn't lean out of the window). W mowie potocznej, zwłaszcza amerykańskiej, zakaz częściej wyraża się przez can't (You can't smoke here) lub 'not allowed to', zostawiając mustn't bardziej oficjalnemu rejestrowi."
       }
     ],
     "usage": [
-      "mustn't — coś jest zabronione (You mustn't smoke here.)",
-      "don't have to — coś jest opcjonalne, nie ma takiej konieczności (You don't have to come if you're busy.)",
-      "To jedna z najczęstszych pułapek dla Polaków — „nie musisz” to don't have to, NIE mustn't"
+      "mustn't — coś jest zakazane, niedopuszczalne (You mustn't touch the exhibits.)",
+      "don't have to / doesn't have to — obowiązek nie istnieje, czynność jest opcjonalna (You don't have to RSVP if you can't make it.)",
+      "needn't działa dokładnie jak don't have to (brak konieczności), nigdy jak mustn't (zakaz)",
+      "needn't have done — czynność zbędna, ale mimo to wykonana; kontrast z didn't have to (obowiązku po prostu nie było, o wykonaniu nic nie wiadomo)",
+      "To jedna z najczęstszych pułapek dla Polaków, bo polskie 'nie musisz' i 'nie wolno ci' brzmią pozornie podobnie, a angielski wybiera dla nich dwie zupełnie różne konstrukcje różniące się zakresem przeczenia."
     ],
-    "tags": [
-      "mustn't smoke",
-      "don't have to come"
-    ],
+    "tags": ["mustn't smoke", "don't have to come", "needn't have done"],
     "examples": [
+      { "en": "Visitors mustn't feed the animals — it's strictly forbidden.", "pl": "Zwiedzającym nie wolno karmić zwierząt — jest to surowo zabronione." },
+      { "en": "You don't have to come to the meeting if you're on leave.", "pl": "Nie musisz przychodzić na spotkanie, jeśli jesteś na urlopie." },
+      { "en": "We needn't have rushed — the train was delayed anyway.", "pl": "Nie musieliśmy się spieszyć — pociąg i tak miał opóźnienie." },
+      { "en": "Staff mustn't discuss client information outside the office.", "pl": "Personel nie może omawiać informacji o klientach poza biurem." },
+      { "en": "You don't have to whisper, nobody's asleep.", "pl": "Nie musisz szeptać, nikt nie śpi." }
+    ]
+  },
+  {
+    "id": "should_ought_to",
+    "order": 5,
+    "nameEn": "should / ought to — advice and recommendation",
+    "namePl": "should / ought to — powinność i rada",
+    "rules": [
       {
-        "en": "You mustn't smoke in this building.",
-        "pl": "Nie wolno ci palić w tym budynku."
+        "label": "Rodowód: should jako przeszłość 'shall', ought jako przeszłość 'owe'",
+        "text": "Should to historyczna forma przeszła (a właściwie trybu łączącego) czasownika 'shall' (< staroang. sceal — 'być winnym, mieć obowiązek'; ten sam rdzeń co niemieckie sollen). Ought to jest jeszcze bardziej dosłowne: to zastygła forma przeszła czasownika 'owe' (agan — 'posiadać, być winnym') — 'you ought to call her' znaczy więc etymologicznie coś w rodzaju 'jesteś jej to winien/winna' — metafora moralnego DŁUGU, nie sztywnego nakazu."
       },
       {
-        "en": "You don't have to come if you're busy.",
-        "pl": "Nie musisz przychodzić, jeśli jesteś zajęty."
+        "label": "Miejsce na kontinuum siły obowiązku",
+        "text": "Should i ought to zajmują środek skali między czystą sugestią a twardym nakazem: must (przymus wewnętrzny) > have to (przymus zewnętrzny) > should/ought to (to, co byłoby słuszne lub rozsądne, choć nie jest wymagane) > could (jedna z możliwych opcji). Dlatego should brzmi naturalnie jako rada przyjaciela czy opinia oparta na logice sytuacji, a nie jako polecenie: 'nie musisz tego zrobić, ale byłoby dobrze/rozsądnie/sprawiedliwie'."
       },
       {
-        "en": "Visitors mustn't feed the animals.",
-        "pl": "Zwiedzającym nie wolno karmić zwierząt."
+        "label": "Should have done: żal, krytyka, chybione oczekiwanie",
+        "text": "Should + bezokolicznik dokonany przenosi radę w przeszłość, gdzie zwykle wyraża, że rzeczywistość rozminęła się z tym, co było słuszne: krytykę (You should have told me earlier), żal (I should have studied harder) lub zawiedzione oczekiwanie (The parcel should have arrived by now). W każdym wypadku zdanie niesie ukrytą presupozycję: rzecz słuszna lub oczekiwana NIE wydarzyła się."
       },
       {
-        "en": "We don't have to wear uniforms at our school.",
-        "pl": "Nie musimy nosić mundurków w naszej szkole."
+        "label": "Ought to — coraz rzadsze, ale z ważnym niuansem",
+        "text": "We współczesnym angielskim ought to ustępuje miejsca should, zwłaszcza w pytaniach i przeczeniach (Ought we to leave? brzmi archaicznie; Should we leave? — naturalnie). Tam, gdzie się jeszcze pojawia, ought to bywa odczuwane jako nieco bardziej moralne i obiektywne, odwołujące się do ogólnie przyjętych zasad, podczas gdy should częściej wyraża osobistą opinię mówiącego."
       }
+    ],
+    "usage": [
+      "Rady i sugestie oparte na osobistej opinii (You should try the new café.)",
+      "Oczekiwania wynikające z logiki sytuacji, niekoniecznie pewność (The results should be ready by Monday.)",
+      "Powinności moralne i społeczne normy (We ought to help those less fortunate.)",
+      "Should have / ought to have + III forma — krytyka, żal lub zawiedzione oczekiwanie dotyczące przeszłości (You shouldn't have said that.)",
+      "Should po if w formalnych zdaniach warunkowych sugeruje niewielkie prawdopodobieństwo (Should you need anything, just call.) — inwersja bez if brzmi jeszcze bardziej formalnie."
+    ],
+    "tags": ["should see", "ought to know", "should have told", "should you need"],
+    "examples": [
+      { "en": "You should really back up your files before the update.", "pl": "Naprawdę powinieneś zrobić kopię zapasową plików przed aktualizacją." },
+      { "en": "We ought to thank her properly for all the help.", "pl": "Powinniśmy jej porządnie podziękować za całą pomoc." },
+      { "en": "You shouldn't have spent so much on the gift.", "pl": "Nie powinieneś był wydawać tyle na prezent." },
+      { "en": "The train should be arriving any minute now.", "pl": "Pociąg powinien przyjechać lada chwila." },
+      { "en": "Should you have any questions, feel free to contact us.", "pl": "Gdyby pojawiły się jakieś pytania, proszę się z nami skontaktować." }
+    ]
+  },
+  {
+    "id": "may_might",
+    "order": 6,
+    "nameEn": "may / might — possibility and permission",
+    "namePl": "may / might — przypuszczenie i pozwolenie",
+    "rules": [
+      {
+        "label": "Rodowód: 'may' to dosłownie 'mieć moc/siłę'",
+        "text": "May pochodzi od staroangielskiego magan — 'mieć siłę, być zdolnym' — tego samego rdzenia co rzeczownik 'might' (potęga, moc) oraz archaiczne wyrażenie 'with might and main' (z całej siły). Zanim 'may' zaczęło znaczyć 'pozwolenie' czy 'przypuszczenie', oznaczało po prostu fizyczną MOC sprawczą — 'I may do X' brzmiało niegdyś jak 'mam siłę/moc, by zrobić X'. Współczesne 'can' przejęło rolę zdolności, a 'may' wyspecjalizowało się w stronę społecznej mocy (pozwolenie) i mocy zdarzeń (możliwość, że coś się stanie)."
+      },
+      {
+        "label": "Permission jako 'udzielona moc'",
+        "text": "Formalne pozwolenie (May I leave early?) to bezpośrednia kontynuacja znaczenia 'mieć moc': ktoś obdarza cię 'mocą/prawem' do działania. Udzielanie lub odmawianie takiej 'mocy' to akt władzy, więc 'may' w tej funkcji brzmi grzecznie i oficjalnie (regulaminy: Guests may use the pool between 8am and 8pm) — w przeciwieństwie do neutralnego 'can', które w tej samej roli brzmi swobodniej i bardziej potocznie."
+      },
+      {
+        "label": "Might jako 'przeszłość' o zredukowanej sile",
+        "text": "Podobnie jak could wobec can, might jest historyczną formą przeszłą 'may', ale w praktyce służy głównie jako wersja MNIEJ PEWNA teraźniejszego lub przyszłego przypuszczenia: 'may' sugeruje przypuszczenie na poziomie mniej więcej 50%, 'might' — nieco niższe, bardziej spekulatywne (It may rain ~ dość możliwe; It might rain ~ kto wie, ale nie wykluczone). To ta sama zasada 'oddalenie gramatyczne = oddalenie od pewności', którą widzimy przy could."
+      },
+      {
+        "label": "Might have done: możliwość, która nigdy się nie potwierdziła",
+        "text": "Might + bezokolicznik dokonany opisuje możliwość dotyczącą przeszłości, nigdy niezweryfikowaną (She might have missed the bus — stąd się spóźniła, ale nie wiemy na pewno) — w przeciwieństwie do 'must have' (pewność) i 'can't have' (pewność przeciwna), 'might have' pozostaje w strefie czystej niepewności. W nieformalnym rejestrze bywa też wyrzutem za niewykorzystaną szansę (You might have warned me! — mogłeś był, a nie zrobiłeś tego — funkcjonalnie bliskie could have)."
+      }
+    ],
+    "usage": [
+      "Formalne pozwolenie, często w regulaminach i oficjalnych komunikatach (Visitors may park in the designated area.)",
+      "Przypuszczenie o średnim stopniu pewności — may nieco pewniejsze, might bardziej ostrożne i spekulatywne (She may be right. / She might be right, I suppose.)",
+      "May I…? jako bardzo formalna prośba o pozwolenie, grzeczniejsza niż Can I…?",
+      "Might as well pojawia się jako osobne, utrwalone wyrażenie sugestii 'skoro nie ma nic lepszego do zrobienia' — nie mylić ze zwykłym might.",
+      "W mowie potocznej may w pytaniach o pozwolenie ustępuje miejsca can — may pozostaje domeną języka formalnego i pisanego."
+    ],
+    "tags": ["may I...?", "might rain", "may be true", "might have missed"],
+    "examples": [
+      { "en": "Guests may check in from 2pm onwards.", "pl": "Goście mogą się zameldować od godziny 14." },
+      { "en": "He might not admit it, but he was clearly nervous.", "pl": "Może się do tego nie przyzna, ale wyraźnie się denerwował." },
+      { "en": "The negotiations may drag on for weeks.", "pl": "Negocjacje mogą się ciągnąć tygodniami." },
+      { "en": "She might have forgotten — she's been so busy lately.", "pl": "Mogła zapomnieć — ostatnio jest bardzo zajęta." },
+      { "en": "You might have mentioned the dress code!", "pl": "Mogłeś był wspomnieć o dress code'zie!" }
     ]
   }
 ]
