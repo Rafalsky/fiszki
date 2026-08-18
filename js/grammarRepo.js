@@ -184,6 +184,7 @@ const THEORY_URLS = {
   quotative_inversion: new URL("../data/quotative_inversion.json", import.meta.url),
   cataphora: new URL("../data/cataphora.json", import.meta.url),
   already_still_yet: new URL("../data/already_still_yet.json", import.meta.url),
+  comparative_modifiers: new URL("../data/comparative_modifiers.json", import.meta.url),
 };
 
 const DRILLS_URLS = {
@@ -363,6 +364,7 @@ const DRILLS_URLS = {
   quotative_inversion: new URL("../data/quotative_inversionDrills.json", import.meta.url),
   cataphora: new URL("../data/cataphoraDrills.json", import.meta.url),
   already_still_yet: new URL("../data/already_still_yetDrills.json", import.meta.url),
+  comparative_modifiers: new URL("../data/comparative_modifiersDrills.json", import.meta.url),
 };
 
 let cachedTopics = null;

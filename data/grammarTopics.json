@@ -1392,6 +1392,14 @@
     "level": "c1"
   },
   {
+    "id": "comparative_modifiers",
+    "icon": "📶",
+    "title": "Modyfikatory porównań",
+    "desc": "much/a lot/far, a bit/slightly, no/any oraz by far — jak wzmacniać, osłabiać i emfatycznie zaprzeczać stopniowi wyższemu i najwyższemu — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "b2"
+  },
+  {
     "id": "already_still_yet",
     "icon": "⌛",
     "title": "Already / still / yet",
