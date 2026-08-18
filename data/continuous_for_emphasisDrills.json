@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "itemId": "present_continuous_always",
+    "prompt": "My brother ___ (leave) the fridge door open — it drives me mad.",
+    "answer": "is always leaving",
+    "distractors": ["always leaves", "was always leaving", "leaves always"]
+  },
+  {
+    "id": 2,
+    "itemId": "present_continuous_always",
+    "prompt": "You ___ (check) your phone during dinner!",
+    "answer": "are constantly checking",
+    "distractors": ["constantly check", "were constantly checking", "check constantly"]
+  },
+  {
+    "id": 3,
+    "itemId": "present_continuous_always",
+    "prompt": "The neighbours ___ (argue) late at night — it's exhausting.",
+    "answer": "are forever arguing",
+    "distractors": ["forever argue", "were forever arguing", "argue forever"]
+  },
+  {
+    "id": 4,
+    "itemId": "present_continuous_always",
+    "prompt": "She ___ (change) her mind about the wedding plans.",
+    "answer": "is continually changing",
+    "distractors": ["continually changes", "was continually changing", "changes continually"]
+  },
+  {
+    "id": 5,
+    "itemId": "present_continuous_always",
+    "prompt": "This printer ___ (jam) at the worst possible moment.",
+    "answer": "is forever jamming",
+    "distractors": ["forever jams", "was forever jamming", "jams forever"]
+  },
+  {
+    "id": 6,
+    "itemId": "present_continuous_always",
+    "prompt": "He ___ (interrupt) me whenever I'm on an important call.",
+    "answer": "is always interrupting",
+    "distractors": ["always interrupts", "was always interrupting", "interrupts always"]
+  },
+  {
+    "id": 7,
+    "itemId": "present_continuous_always",
+    "prompt": "My colleagues ___ (complain) about the office temperature.",
+    "answer": "are constantly complaining",
+    "distractors": ["constantly complain", "were constantly complaining", "complain constantly"]
+  },
+  {
+    "id": 8,
+    "itemId": "present_continuous_always",
+    "prompt": "That dog next door ___ (bark) in the middle of the night!",
+    "answer": "is always barking",
+    "distractors": ["always barks", "was always barking", "barks always"]
+  },
+  {
+    "id": 9,
+    "itemId": "present_continuous_always",
+    "prompt": "I wish you ___ (leave) your shoes in the hallway.",
+    "answer": "weren't always leaving",
+    "distractors": ["don't always leave", "aren't always leaving", "didn't always leave"]
+  },
+  {
+    "id": 10,
+    "itemId": "past_continuous_always",
+    "prompt": "Our old car ___ (break down) at the worst possible moment.",
+    "answer": "was always breaking down",
+    "distractors": ["always broke down", "is always breaking down", "always was breaking down"]
+  },
+  {
+    "id": 11,
+    "itemId": "past_continuous_always",
+    "prompt": "He ___ (turn up) late to rehearsals, which annoyed the whole band.",
+    "answer": "was constantly turning up",
+    "distractors": ["constantly turned up", "is constantly turning up", "constantly was turning up"]
+  },
+  {
+    "id": 12,
+    "itemId": "past_continuous_always",
+    "prompt": "As a teenager, I ___ (borrow) money from my sister.",
+    "answer": "was forever borrowing",
+    "distractors": ["forever borrowed", "am forever borrowing", "forever was borrowing"]
+  },
+  {
+    "id": 13,
+    "itemId": "past_continuous_always",
+    "prompt": "My old flatmate ___ (take) my things without asking.",
+    "answer": "was constantly taking",
+    "distractors": ["constantly took", "is constantly taking", "constantly was taking"]
+  },
+  {
+    "id": 14,
+    "itemId": "past_continuous_always",
+    "prompt": "The kids ___ (lose) their umbrellas on the way home from school.",
+    "answer": "were always losing",
+    "distractors": ["always lost", "are always losing", "always were losing"]
+  },
+  {
+    "id": 15,
+    "itemId": "past_continuous_always",
+    "prompt": "That photocopier ___ (jam) right before an important deadline.",
+    "answer": "was forever jamming",
+    "distractors": ["forever jammed", "is forever jamming", "forever was jamming"]
+  },
+  {
+    "id": 16,
+    "itemId": "past_continuous_always",
+    "prompt": "She ___ (forget) her keys, so we had to keep a spare set outside.",
+    "answer": "was constantly forgetting",
+    "distractors": ["constantly forgot", "is constantly forgetting", "constantly was forgetting"]
+  },
+  {
+    "id": 17,
+    "itemId": "past_continuous_always",
+    "prompt": "My uncle ___ (tell) the same joke at every family gathering.",
+    "answer": "was always telling",
+    "distractors": ["always told", "is always telling", "always was telling"]
+  },
+  {
+    "id": 18,
+    "itemId": "positive_emphasis",
+    "prompt": "Grandma ___ (bake) something delicious for the neighbours.",
+    "answer": "is always baking",
+    "distractors": ["always bakes", "was always baking", "bakes always"]
+  },
+  {
+    "id": 19,
+    "itemId": "positive_emphasis",
+    "prompt": "He ___ (come up) with the strangest, funniest jokes.",
+    "answer": "is always coming up",
+    "distractors": ["always comes up", "was always coming up", "comes up always"]
+  },
+  {
+    "id": 20,
+    "itemId": "positive_emphasis",
+    "prompt": "You ___ (think) of others before yourself — it's a lovely quality.",
+    "answer": "are always thinking",
+    "distractors": ["always think", "were always thinking", "think always"]
+  },
+  {
+    "id": 21,
+    "itemId": "positive_emphasis",
+    "prompt": "My grandfather ___ (tell) the funniest stories at family dinners.",
+    "answer": "was always telling",
+    "distractors": ["always told", "is always telling", "always was telling"]
+  },
+  {
+    "id": 22,
+    "itemId": "positive_emphasis",
+    "prompt": "She ___ (bring) little gifts for everyone — it's so like her.",
+    "answer": "is always bringing",
+    "distractors": ["always brings", "was always bringing", "brings always"]
+  },
+  {
+    "id": 23,
+    "itemId": "positive_emphasis",
+    "prompt": "Our teacher ___ (stay) late to help students who were struggling.",
+    "answer": "was always staying",
+    "distractors": ["always stayed", "is always staying", "always was staying"]
+  },
+  {
+    "id": 24,
+    "itemId": "positive_emphasis",
+    "prompt": "He ___ (surprise) us with thoughtful little gestures.",
+    "answer": "is constantly surprising",
+    "distractors": ["constantly surprises", "was constantly surprising", "constantly was surprising"]
+  },
+  {
+    "id": 25,
+    "itemId": "emphasis_vs_habit_contrast",
+    "prompt": "He always drives to work, but lately he ___ (drive) far too fast!",
+    "answer": "is always driving",
+    "distractors": ["always drives", "was always driving", "drives always"]
+  },
+  {
+    "id": 26,
+    "itemId": "emphasis_vs_habit_contrast",
+    "prompt": "She always ___ (know) the right thing to say. (stan — nie continuous)",
+    "answer": "knows",
+    "distractors": ["is knowing", "was knowing", "knew always"]
+  },
+  {
+    "id": 27,
+    "itemId": "emphasis_vs_habit_contrast",
+    "prompt": "In formal writing, prefer 'he has a habit of arriving late' over 'he ___ (arrive) late'.",
+    "answer": "is always arriving",
+    "distractors": ["always arrives", "was always arriving", "arrives always"]
+  },
+  {
+    "id": 28,
+    "itemId": "emphasis_vs_habit_contrast",
+    "prompt": "They always ___ (recycle) their bottles. (neutralny fakt, bez emocji)",
+    "answer": "recycle",
+    "distractors": ["are always recycling", "were always recycling", "recycled always"]
+  },
+  {
+    "id": 29,
+    "itemId": "emphasis_vs_habit_contrast",
+    "prompt": "We ___ (own) two cars, not just one. (stan — nie continuous, nawet z always)",
+    "answer": "always own",
+    "distractors": ["are always owning", "were always owning", "own always"]
+  },
+  {
+    "id": 30,
+    "itemId": "emphasis_vs_habit_contrast",
+    "prompt": "Compare: 'He always locks the door.' (fact) vs. 'He ___ (lock) himself out!' (complaint)",
+    "answer": "is always locking",
+    "distractors": ["always locks", "was always locking", "locks always"]
+  },
+  {
+    "id": 31,
+    "itemId": "emphasis_vs_habit_contrast",
+    "prompt": "In a formal report, write 'employees repeatedly submit forms late' rather than 'employees ___ (submit) forms late'.",
+    "answer": "are always submitting",
+    "distractors": ["always submit", "were always submitting", "submit always"]
+  },
+  {
+    "id": 32,
+    "itemId": "emphasis_vs_habit_contrast",
+    "prompt": "She always ___ (believe) in second chances. (stan — nie continuous)",
+    "answer": "believes",
+    "distractors": ["is believing", "was believing", "believed always"]
+  },
+  {
+    "id": 33,
+    "itemId": "present_continuous_always",
+    "prompt": "My roommate ___ (play) loud music at midnight — it's unbearable.",
+    "answer": "is always playing",
+    "distractors": ["always plays", "was always playing", "plays always"]
+  },
+  {
+    "id": 34,
+    "itemId": "past_continuous_always",
+    "prompt": "The washing machine ___ (leak) water all over the floor that year.",
+    "answer": "was constantly leaking",
+    "distractors": ["constantly leaked", "is constantly leaking", "constantly was leaking"]
+  },
+  {
+    "id": 35,
+    "itemId": "positive_emphasis",
+    "prompt": "Our coach ___ (praise) us, even after a difficult loss.",
+    "answer": "was always praising",
+    "distractors": ["always praised", "is always praising", "always was praising"]
+  },
+  {
+    "id": 36,
+    "itemId": "emphasis_vs_habit_contrast",
+    "prompt": "He always ___ (understand) my point of view. (stan — nie continuous)",
+    "answer": "understands",
+    "distractors": ["is understanding", "was understanding", "understood always"]
+  }
+]
