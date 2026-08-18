@@ -1454,5 +1454,13 @@
     "desc": "Czasowniki mówienia say, tell, speak i talk — różnice w wymaganym dopełnieniu, formalności i konstrukcji z przyimkami — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
     "drillCount": 40,
     "level": "b1"
+  },
+  {
+    "id": "minor_word_formation",
+    "icon": "🧬",
+    "title": "Mniejsze procesy słowotwórcze",
+    "desc": "Blending, clipping, back-formation, akronimy i skrótowce — jak angielski tworzy nowe słowa przez łączenie, skracanie i redukcję liter — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "c1"
   }
 ]
