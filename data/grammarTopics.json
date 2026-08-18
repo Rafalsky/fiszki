@@ -1392,6 +1392,14 @@
     "level": "c1"
   },
   {
+    "id": "already_still_yet",
+    "icon": "⌛",
+    "title": "Already / still / yet",
+    "desc": "already, still i yet — kiedy czynność się zakończyła, trwa nadal, czy jeszcze nie nastąpiła, pozycja w zdaniu i różnice AmE/BrE — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 40,
+    "level": "a2"
+  },
+  {
     "id": "cataphora",
     "icon": "🔮",
     "title": "Katafora",
