@@ -41,5 +41,15 @@
   {"id": 37, "itemId": "as_as_adverbs", "prompt": "He performed ___ (bad) than in the previous match.", "answer": "worse", "distractors": ["badder", "more bad", "the worst"]},
   {"id": 38, "itemId": "as_as_adverbs", "prompt": "She arrived ___ (early) than everyone else.", "answer": "earlier", "distractors": ["more early", "earliest", "the earliest"]},
   {"id": 39, "itemId": "as_as_adverbs", "prompt": "My brother isn't as tall ___ me.", "answer": "as", "distractors": ["than", "so", "like"]},
-  {"id": 40, "itemId": "as_as_adverbs", "prompt": "Please speak ___ (slow) so everyone can understand.", "answer": "more slowly", "distractors": ["slowlier", "the most slowly", "slower more"]}
+  {"id": 40, "itemId": "as_as_adverbs", "prompt": "Please speak ___ (slow) so everyone can understand.", "answer": "more slowly", "distractors": ["slowlier", "the most slowly", "slower more"]},
+
+  {"id": 41, "itemId": "than_connective", "prompt": "He's far more experienced ___ she is.", "answer": "than", "distractors": ["then", "as", "that"]},
+  {"id": 42, "itemId": "than_connective", "prompt": "Nobody knows this city better ___ I do.", "answer": "than", "distractors": ["then", "as", "that"]},
+  {"id": 43, "itemId": "than_connective", "prompt": "The results were worse ___ anyone had expected.", "answer": "than", "distractors": ["then", "as", "that"]},
+  {"id": 44, "itemId": "than_connective", "prompt": "We signed the contract, and only ___ did the real negotiations begin.", "answer": "then", "distractors": ["than", "so", "as"]},
+  {"id": 45, "itemId": "than_connective", "prompt": "She earns more ___ he does, though she started later.", "answer": "than", "distractors": ["then", "as", "so"]},
+  {"id": 46, "itemId": "than_connective", "prompt": "She is younger ___ he is, though you'd never guess it.", "answer": "than", "distractors": ["then", "as", "that"]},
+  {"id": 47, "itemId": "than_connective", "prompt": "I trust him more ___ her — she's changed her story twice already.", "answer": "than", "distractors": ["then", "as", "so"]},
+  {"id": 48, "itemId": "than_connective", "prompt": "This laptop is faster ___ my old one, and much quieter too.", "answer": "than", "distractors": ["then", "as", "that"]},
+  {"id": 49, "itemId": "than_connective", "prompt": "We finished dinner, and ___ we went for a walk along the river.", "answer": "then", "distractors": ["than", "so", "as"]}
 ]
