@@ -1,92 +1,233 @@
 [
   {
-    "id": "mandative_verbs",
+    "id": "historical_foundation",
     "order": 1,
+    "nameEn": "The historical foundation — why English 'subjunctive' feels like scattered fossils, not one tense",
+    "namePl": "Fundament: dlaczego angielski tryb łączący sprawia wrażenie zbioru skamielin, a nie jednej spójnej formy",
+    "rules": [
+      {
+        "label": "Trzy tryby, nie dwa: indicative, subjunctive, imperative",
+        "text": "Klasyczna gramatyka indoeuropejska (a za nią łacina, greka i staroangielski) rozróżniała nie dwa, lecz trzy tryby (moods) czasownika: indicative — do stwierdzania faktów ('robię'), imperative — do rozkazów ('rób!'), oraz subjunctive — do wyrażania czegoś, co jest jedynie pomyślane, życzone, żądane, hipotetyczne lub niepewne, a nie stwierdzone jako fakt ('żeby zrobił', 'oby zrobił'). To nie kaprys łacinników — subjunctive (od łac. subiungere, 'podporządkowywać') to gramatyczny sygnał, że dane zdanie jest PODPORZĄDKOWANE cudzej woli, życzeniu lub warunkowi, a nie relacjonuje niezależnie zaobserwowaną rzeczywistość. Nowoczesna angielszczyzna zachowała ten trzeci tryb tylko we fragmentach — i właśnie dlatego dzisiejszy 'subjunctive' wygląda jak zbiór niepowiązanych ciekawostek, a nie jedna reguła: bo faktycznie NIE jest jedną regułą, lecz czterema oddzielnymi przeżywającymi fragmentami czterech różnych, niezależnie zanikających systemów."
+      },
+      {
+        "label": "Staroangielski miał pełny, żywy tryb łączący z własną odmianą",
+        "text": "Staroangielski (do ok. 1150 r.) posiadał w pełni produktywny subjunctive, odmieniany przez osoby i liczby zupełnie inaczej niż indicative — np. czasownik 'beon' ('być') miał w indicative teraźniejszym eom/eart/is/sind, ale w subjunctive teraźniejszym jedną wspólną formę sīe dla WSZYSTKICH osób i liczb. To nie była maniera stylistyczna, lecz obowiązkowa, systemowa kategoria gramatyczna — używana automatycznie w zdaniach warunkowych, po czasownikach życzenia i rozkazu, w zdaniach celowych, a nawet w niektórych zdaniach czasowych odnoszących się do przyszłości. Native speaker roku 900 nie musiał 'decydować', czy użyć trybu łączącego — wybierał go tak samo bezrefleksyjnie, jak dziś wybieramy liczbę mnogą rzeczownika."
+      },
+      {
+        "label": "Wielka erozja końcówek: dlaczego tryb łączący 'zniknął', a nie 'wymarł'",
+        "text": "Między XI a XIV wiekiem angielszczyzna przeszła najgłębszą przebudowę fonologiczną w swojej historii: nieakcentowane końcówki fleksyjne (-e, -en, -est, -eþ) stopniowo się redukowały i zanikały pod wpływem stałego akcentu na rdzeniu wyrazu — ten sam proces, który spłaszczył większość angielskiej koniugacji do niemal jednej formy na czasownik. Subjunctive nie 'przegrał' semantycznie z indicative — po prostu jego formy fonetycznie ZLAŁY SIĘ z formami indicative w większości czasowników (I love w indicative i I love w subjunctive brzmią dziś identycznie), więc różnica gramatyczna stała się niesłyszalna i przestała być odczuwalna jako osobna kategoria. Przetrwały wyłącznie te nieliczne miejsca, gdzie forma subjunctive PRZYPADKOWO pozostała fonetycznie odrębna od indicative: trzecia osoba liczby pojedynczej bez końcówki -s (he see zamiast he sees) oraz była forma were zamiast was. To jest sedno tego tematu: to, co dziś nazywamy 'trybem łączącym', to nie żywa kategoria gramatyczna, lecz ślady po dawnym systemie widoczne tylko tam, gdzie erozja fonetyczna akurat nie zdążyła zatrzeć różnicy."
+      },
+      {
+        "label": "Cztery niezależne linie przetrwania — mapa tego tematu",
+        "text": "(1) Mandative subjunctive (suggest that he go) — forma bez końcówki -s/-es, zachowana w zdaniach z czasownikami żądania/sugestii, wzmocniona przez wpływ łaciny prawniczej i kościelnej, dziś systemowa w AmE, na wpół zanikła w BrE. (2) Were-subjunctive (if I were) — jedyny czasownik w całej angielszczyźnie, który wciąż formalnie rozróżnia indicative was od subjunctive were, przetrwały wyłącznie w kontekstach hipotetycznych. (3) Formulaic subjunctive (God save the Queen) — skamieniałe, niemal niemożliwe do swobodnego tworzenia nowych przykładów wyrażenia optatywne (życzące), zamrożone językowo w momencie, zanim tryb łączący całkiem zanikł. (4) Peryfrastyczny 'should'-subjunctive (suggest that he should go) — brytyjska strategia OMINIĘCIA problemu zanikającego trybu przez zastąpienie go zupełnie inną, analityczną konstrukcją modalną. Każda z tych czterech ścieżek ma inną historię i inne rejestrowe/geograficzne rozmieszczenie we współczesnym języku — dlatego traktujemy je jako cztery osobne podtematy, a nie warianty jednej reguły."
+      }
+    ],
+    "usage": [
+      "Współczesny angielski 'tryb łączący' to nie jedna żywa kategoria gramatyczna, lecz cztery niezależne relikty dawnego, w pełni odmienianego systemu staroangielskiego",
+      "Formy subjunctive przetrwały tylko tam, gdzie erozja końcówek fleksyjnych przypadkiem NIE zlała ich fonetycznie z formami indicative (3. os. lp. bez -s, were zamiast was)",
+      "Rozumienie tej genezy tłumaczy, dlaczego reguły subjunctive 'nie pasują do siebie' w podręcznikach — bo faktycznie pochodzą z czterech różnych momentów i mechanizmów historycznych, nie z jednego wzoru",
+      "Termin subjunctive (łac. 'podporządkowany') oddaje istotę trybu: sygnalizuje, że treść zdania jest podporządkowana cudzej woli, życzeniu lub warunkowi hipotetycznemu, a nie stwierdzeniem faktu"
+    ],
+    "tags": ["indicative vs subjunctive", "erozja końcówek fleksyjnych", "sīe", "cztery ścieżki przetrwania"],
+    "examples": [
+      { "en": "I suggest that he see a doctor. (mandative — surviving zero-ending)", "pl": "Sugeruję, żeby poszedł do lekarza. (mandative — ocalała forma bez końcówki)" },
+      { "en": "If I were you, I wouldn't wait. (were-subjunctive — the last living was/were split)", "pl": "Na twoim miejscu bym nie czekał. (were-subjunctive — ostatni żywy podział was/were)" },
+      { "en": "So be it. Come what may. (formulaic — frozen optative relics)", "pl": "Niech tak będzie. Niech się dzieje, co chce. (formulaic — zamrożone relikty optatywne)" },
+      { "en": "I suggest that he should see a doctor. (BrE periphrastic escape route)", "pl": "Sugeruję, żeby powinien pójść do lekarza. (brytyjska analityczna droga obejścia)" }
+    ]
+  },
+  {
+    "id": "mandative_verbs",
+    "order": 2,
     "nameEn": "Mandative subjunctive after suggest, recommend, insist, demand",
     "namePl": "Tryb łączący po czasownikach typu suggest, recommend, insist, demand",
     "rules": [
-      { "label": "Budowa", "text": "that + podmiot + bezokolicznik bez to (base form) — forma czasownika nie zmienia się w 3. os. lp. ani w czasie przeszłym" },
-      { "label": "Czasowniki", "text": "suggest, recommend, insist, demand, propose, request, require, urge + (that)" },
-      { "label": "Przeczenie", "text": "przeczenie tworzy się przez not przed bezokolicznikiem: that he not be late" }
+      {
+        "label": "Budowa: gołą formą bezokolicznika, bez to i bez -s",
+        "text": "that + podmiot + forma bazowa czasownika (base form), identyczna z bezokolicznikiem bez to — i co kluczowe, ta forma NIE zmienia się ani w 3. osobie liczby pojedynczej, ani gdy czasownik główny (suggest, insist) stoi w czasie przeszłym: I suggest that he see a doctor. / I suggested that he see a doctor. — 'see', nie 'saw', nawet po czasowniku przeszłym, bo subjunctive nie ma własnej kategorii czasu ani osoby — jest formą 'bezczasową', wyrażającą samą treść żądania, niezależnie od tego, kiedy je wypowiedziano."
+      },
+      {
+        "label": "Dlaczego akurat ta forma przetrwała: 'niewidzialna' różnica w większości czasowników, 'widzialna' w trzeciej osobie",
+        "text": "W większości osób forma subjunctive (I go, you go, we go) brzmi dokładnie tak samo jak indicative, więc ta różnica jest dla ucha niesłyszalna. Jedynym miejscem, gdzie subjunctive wciąż wyraźnie kontrastuje z indicative, jest 3. osoba liczby pojedynczej: indicative wymaga końcówki -s (he goes), subjunctive jej nie ma (that he go). To właśnie ten kontrast — he goes vs. that he go — jest testem lakmusowym całej tej konstrukcji i tym, co odróżnia poprawne 'I insist that he go' od błędnego *'I insist that he goes'."
+      },
+      {
+        "label": "Nie jest to bezpośrednia kontynuacja staroangielskiego subjunctive — to reborrowing łacińsko-prawny",
+        "text": "Choć forma wygląda jak naturalna kontynuacja staroangielskiego trybu łączącego, historycy języka wskazują, że mandative subjunctive w tej dokładnej funkcji (po czasownikach żądania/sugestii w zdaniu podrzędnym z that) było w średniej angielszczyźnie już rzadkie i wypierane, po czym zostało WZMOCNIONE i ponownie ustabilizowane pod wpływem łaciny — konstrukcji typu 'peto ut veniat' ('proszę, żeby przyszedł') powszechnych w łacińskich tekstach prawnych, administracyjnych i kościelnych, które przez stulecia kształtowały formalny rejestr angielskiego pisanego. To dlatego ta konstrukcja jest do dziś silnie kojarzona z rejestrem formalnym, prawnym i urzędowym — 'the committee recommends that the proposal be adopted' brzmi jak żywcem wyjęte z protokołu, bo historycznie właśnie stamtąd się wywodzi."
+      },
+      {
+        "label": "Amerykańsko-brytyjski rozłam: dlaczego AmE zachowało formę, a BrE ją niemal porzucił",
+        "text": "Na przełomie XVIII i XIX wieku ta konstrukcja zaczęła w Wielkiej Brytanii wyraźnie ustępować miejsca peryfrastycznemu 'should' (I suggest that he should see a doctor) — Brytyjczycy zaczęli odczuwać gołą formę bazową jako archaiczną lub nadmiernie formalną. W koloniach północnoamerykańskich, odciętych od tej fali zmian językowych i będących w tamtym okresie pod silniejszym wpływem prawniczej i religijnej łaciny w edukacji, mandative subjunctive pozostał żywy i systemowy — do dziś jest w amerykańskim angielskim praktycznie obowiązkowy w rejestrze formalnym i coraz częściej naturalny nawet w mowie potocznej. Od połowy XX wieku, głównie za sprawą wpływu amerykańskich mediów, ta forma zaczęła 'wracać' także do Wielkiej Brytanii — young British speakers dziś częściej mówią 'I suggest that he be informed' niż ich dziadkowie."
+      },
+      {
+        "label": "Czasowniki wyzwalające i przeczenie",
+        "text": "suggest, recommend, propose, insist, demand, require, request, urge, ask, order, move (w sensie 'wnioskować formalnie') + (that). Przeczenie tworzy się przez not postawione bezpośrednio przed formą bazową, bez pomocniczego do: They insisted that he not be late. — nie *that he doesn't be late ani *that he not is late."
+      }
     ],
     "usage": [
       "Po suggest/recommend/propose, gdy sugerujemy jakieś działanie (I suggest that he see a doctor.)",
-      "Po insist/demand/require, gdy ktoś stanowczo się czegoś domaga (They insisted that she apologize.)",
-      "Spójnik that można pominąć w mowie potocznej, zwłaszcza w amerykańskim angielskim",
-      "Konstrukcja częstsza w AmE; w BrE bywa zastępowana przez should + bezokolicznik"
+      "Po insist/demand/require/urge, gdy ktoś stanowczo się czegoś domaga (They insisted that she apologize.)",
+      "Forma bazowa czasownika NIE zmienia się niezależnie od osoby (he/she/it) ani od czasu czasownika głównego — subjunctive jest formą bezczasową",
+      "Spójnik that można pominąć w mowie potocznej, zwłaszcza w amerykańskim angielskim: I suggest he see a doctor",
+      "Konstrukcja systemowa i częsta w AmE (nawet w mowie codziennej); w BrE bywa dziś odczuwana jako formalna i często zastępowana przez should + bezokolicznik"
     ],
-    "tags": ["suggest that", "insist that", "recommend that", "demand that"],
+    "tags": ["suggest that", "insist that", "recommend that", "demand that", "AmE vs BrE"],
     "examples": [
       { "en": "I suggest that he see a doctor.", "pl": "Sugeruję, żeby poszedł do lekarza." },
       { "en": "The doctor recommended that she rest for a week.", "pl": "Lekarz zalecił, żeby odpoczęła przez tydzień." },
       { "en": "They insisted that he not be late.", "pl": "Nalegali, żeby się nie spóźnił." },
-      { "en": "The manager demanded that the report be finished by Friday.", "pl": "Kierownik zażądał, żeby raport był skończony do piątku." }
+      { "en": "The committee moved that the proposal be adopted without further debate.", "pl": "Komisja wniosła, żeby przyjąć wniosek bez dalszej debaty." }
     ]
   },
   {
     "id": "mandative_adjectives",
-    "order": 2,
+    "order": 3,
     "nameEn": "Subjunctive after it's important/essential/vital that...",
     "namePl": "Tryb łączący po it's important / essential / necessary, że...",
     "rules": [
-      { "label": "Budowa", "text": "It is + przymiotnik + that + podmiot + bezokolicznik bez to" },
-      { "label": "Przymiotniki", "text": "important, essential, vital, necessary, crucial, imperative, advisable + that" },
-      { "label": "Strona bierna", "text": "konstrukcja działa też w stronie biernej: it's essential that the form be signed" }
+      {
+        "label": "Ten sam mechanizm, inny wyzwalacz",
+        "text": "It is + przymiotnik oceniający konieczność/wagę + that + podmiot + forma bazowa. Gramatycznie to dokładnie ta sama konstrukcja co po czasownikach żądania z poprzedniego podtematu — różni się tylko tym, CO wyzwala tryb łączący: zamiast czasownika wyrażającego czyjąś wolę (insist, suggest) mamy bezosobową konstrukcję oceniającą (it is important/essential/necessary), która semantycznie robi to samo — sygnalizuje, że treść zdania podrzędnego jest POSTULOWANA jako pożądana, a nie stwierdzana jako fakt."
+      },
+      {
+        "label": "Dlaczego 'be' jest tu szczególnie widoczne",
+        "text": "Ponieważ czasownik be ma w subjunctive formę 'be' dla wszystkich osób (w przeciwieństwie do am/is/are w indicative), to właśnie ta konstrukcja najwyraźniej ujawnia różnicę między indicative i subjunctive w codziennym angielskim: 'It's essential that she be informed' brzmi wyraźnie inaczej niż indicative 'She is informed', podczas gdy z czasownikami zwykłymi różnica bywa niesłyszalna poza 3. osobą liczby pojedynczej."
+      },
+      {
+        "label": "Przymiotniki wyzwalające i rejestr",
+        "text": "important, essential, vital, necessary, crucial, imperative, advisable, desirable, mandatory, preferable + that. Ta konstrukcja jest silnie kojarzona z pisanym rejestrem formalnym — regulaminami, instrukcjami obsługi, dokumentacją prawną i akademicką — dokładnie z tych samych historycznych powodów, co mandative subjunctive po czasownikach: to gałąź tej samej łacińsko-prawnej tradycji formalnej."
+      },
+      {
+        "label": "Strona bierna zachowuje ten sam wzorzec",
+        "text": "Konstrukcja działa identycznie w stronie biernej, bo 'be' jako czasownik posiłkowy strony biernej też przyjmuje formę bazową: it's essential that the form be signed by both parties (nie: is signed ani was signed) — forma bierna nie zmienia w niczym mechanizmu subjunctive, tylko dokłada participium."
+      }
     ],
     "usage": [
       "Gdy podkreślamy, że coś jest konieczne lub bardzo ważne (It's essential that everyone be on time.)",
-      "W formalnym, pisanym angielskim, np. w instrukcjach i regulaminach",
-      "W mowie potocznej często zastępowana przez should + bezokolicznik lub zwykły czas teraźniejszy"
+      "W formalnym, pisanym angielskim, np. w instrukcjach, regulaminach i dokumentach prawnych",
+      "Czasownik be przyjmuje formę bazową 'be' dla wszystkich osób, co czyni różnicę indicative/subjunctive szczególnie wyraźną",
+      "W mowie potocznej często zastępowana przez should + bezokolicznik lub zwykły czas teraźniejszy indicative"
     ],
-    "tags": ["it's essential that", "it's important that", "it's vital that"],
+    "tags": ["it's essential that", "it's important that", "it's vital that", "be dla wszystkich osób"],
     "examples": [
       { "en": "It is essential that every applicant fill in the form.", "pl": "Konieczne jest, żeby każdy kandydat wypełnił formularz." },
       { "en": "It's important that she be informed immediately.", "pl": "Ważne jest, żeby została natychmiast poinformowana." },
-      { "en": "It is necessary that the machine be checked daily.", "pl": "Konieczne jest, żeby maszyna była sprawdzana codziennie." },
+      { "en": "It is mandatory that the equipment be inspected before each use.", "pl": "Obowiązkowe jest, żeby sprzęt był sprawdzany przed każdym użyciem." },
       { "en": "It's crucial that he arrive on time.", "pl": "Kluczowe jest, żeby przyjechał na czas." }
     ]
   },
   {
-    "id": "were_subjunctive",
-    "order": 3,
-    "nameEn": "Were-subjunctive: if I were you, I wish I were",
-    "namePl": "Tryb łączący were: if I were you, I wish I were",
+    "id": "should_periphrasis",
+    "order": 4,
+    "nameEn": "The 'should'-periphrasis — Britain's escape route from a dying mood",
+    "namePl": "Peryfraza z should — brytyjska droga obejścia zanikającego trybu",
     "rules": [
-      { "label": "Budowa", "text": "forma were używana dla wszystkich osób (także I/he/she/it) zamiast was w zdaniach hipotetycznych" },
-      { "label": "Zastosowanie", "text": "po if (2. okres warunkowy), po wish/if only oraz w wyrażeniach typu as if / as though" },
-      { "label": "Was czy were", "text": "w mowie potocznej was jest akceptowalne (if I was you), ale were jest formą poprawną i formalną" }
+      {
+        "label": "Peryfraza jako strategia, nie błąd",
+        "text": "Zamiast formy bazowej po that (I suggest that he go), brytyjski angielski od XIX wieku systemowo rozwinął alternatywę: I suggest that he should go. To NIE jest 'słabsza' czy 'niepoprawna' wersja mandative subjunctive — to zupełnie inny mechanizm gramatyczny osiągający ten sam cel semantyczny (zasygnalizowanie, że treść jest postulowana/pożądana, nie stwierdzana). Zamiast wykorzystywać reliktową formę czasownikową, angielszczyzna brytyjska 'obeszła' problem zanikającego trybu, zaprzęgając do tej roli czasownik modalny should — dokładnie tak, jak w wielu innych miejscach systemu (np. peryfrastyczny future z will zamiast dawnej fleksji przyszłej), angielski woli DODAĆ osobne słowo funkcyjne niż polegać na wewnętrznej, zanikającej odmianie."
+      },
+      {
+        "label": "Dlaczego akurat should, a nie inny modalny",
+        "text": "Should to historycznie forma przeszła czasownika shall, który od staroangielskiego 'sculan' niósł znaczenie zobowiązania/powinności — semantycznie najbliższe temu, co wyraża żądanie czy sugestia (ktoś POWINIEN coś zrobić). To naturalny kandydat do przejęcia funkcji subjunctive w tym kontekście, bo modalność zobowiązania i modalność 'postulowanego działania' pokrywają się znaczeniowo niemal całkowicie — 'I suggest that he should see a doctor' i 'I suggest that he see a doctor' są w praktyce synonimiczne, różnią się tylko mechanizmem gramatycznym i rejestrem geograficznym."
+      },
+      {
+        "label": "Rozkład geograficzny i rejestrowy",
+        "text": "W Wielkiej Brytanii, Irlandii i Australii peryfraza z should jest wciąż powszechna w mowie potocznej, choć formalne pismo (prasa jakości, dokumenty prawne) coraz częściej sięga po gołą formę bazową pod wpływem globalnego, zamerykanizowanego angielskiego pisanego. W amerykańskim angielskim peryfraza z should w tej roli brzmi archaicznie lub wręcz nienaturalnie — Amerykanin usłyszy 'I suggest that he should see a doctor' jako nadmiernie ostrożne albo protekcjonalne (bo should samo w sobie już sugeruje 'radę', co brzmi jak podwójne dublowanie znaczenia z 'suggest')."
+      },
+      {
+        "label": "Subtelna różnica znaczeniowa, gdy oba warianty współistnieją",
+        "text": "Tam, gdzie oba warianty są dostępne (np. w BrE), niektórzy użytkownicy odczuwają subtelną różnicę: goła forma subjunctive (that he go) brzmi bardziej stanowczo i formalnie, jakby żądanie było już praktycznie decyzją, podczas gdy should nieco łagodzi wypowiedź, pozostawiając wrażenie sugestii otwartej do dyskusji. To rozróżnienie nie jest skodyfikowane w żadnej gramatyce normatywnej, ale odzwierciedla ogólną zasadę: forma krótsza i bardziej 'nagą' (bez dodatkowego słowa modalnego) często niesie większy ciężar illokucyjny niż forma peryfrastyczna, opakowana w dodatkowe słowo."
+      }
+    ],
+    "usage": [
+      "Brytyjska (i szerzej: brytyjsko-wpływowa) alternatywa dla mandative subjunctive: I suggest that he should see a doctor.",
+      "Naturalna i systemowa w BrE/IrE/AusE, archaiczna lub nadmiernie ostrożna w AmE",
+      "Should tu nie wyraża zwykłej rady, lecz pełni funkcję czysto gramatyczną — sygnalizuje tryb postulowany, nie dosłowną 'powinność'",
+      "Dostępna także po przymiotnikach oceniających konieczność: It's essential that he should be informed."
+    ],
+    "tags": ["should periphrasis", "BrE vs AmE", "peryfraza modalna", "sculan → should"],
+    "examples": [
+      { "en": "The board recommended that the budget should be revised.", "pl": "Zarząd zalecił, żeby budżet został zrewidowany." },
+      { "en": "It's important that we should act quickly.", "pl": "Ważne jest, żebyśmy działali szybko." },
+      { "en": "They demanded that the contract should be cancelled.", "pl": "Zażądali, żeby umowa została anulowana." },
+      { "en": "I propose that the meeting should be postponed until Monday.", "pl": "Proponuję, żeby spotkanie zostało przełożone na poniedziałek." }
+    ]
+  },
+  {
+    "id": "were_subjunctive",
+    "order": 5,
+    "nameEn": "Were-subjunctive: the last living was/were split",
+    "namePl": "Tryb łączący were: ostatni żywy podział was/were",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Forma were używana dla wszystkich osób (także I/he/she/it), zamiast was, w zdaniach wyrażających sytuacje hipotetyczne, nierzeczywiste lub sprzeczne z faktami: If I were you... / I wish she were here. / He behaves as if he were the boss."
+      },
+      {
+        "label": "Staroangielski rozróżniał wæs (indicative) od wǣre (subjunctive) w KAŻDEJ osobie",
+        "text": "To jedyny czasownik w całej dzisiejszej angielszczyźnie, który wciąż formalnie zachowuje rozróżnienie indicative/subjunctive dla czasu przeszłego — i nie jest to przypadek, lecz spuścizna wyjątkowo bogatej odmiany czasownika 'być' w staroangielskim. Indicative przeszły miał formy wæs (ja/on/ona/ono byłem/był) i wǣron (my/wy/oni byliśmy), podczas gdy subjunctive przeszły miał JEDNĄ wspólną formę wǣre dla wszystkich osób i liczb, zupełnie niezależną od indicative. Podczas gdy większość czasowników zgubiła ten kontrast w erozji końcówek średnioangielskich, czasownik 'być' — jako najczęściej używany i najbardziej nieregularny czasownik języka — okazał się na tyle odporny na wyrównywanie form (leveling), że jego stara subjunctive-forma wǣre przetrwała aż do dziś jako 'were', używana niezależnie od liczby i osoby."
+      },
+      {
+        "label": "Dlaczego to coś więcej niż formalność — to żywy ślad rozróżnienia modalnego",
+        "text": "'If I were you' i 'If I was you' nie różnią się tylko rejestrem — historycznie różnią się KATEGORIĄ GRAMATYCZNĄ: were sygnalizuje, że zdanie jest jawnie oznaczone jako nierzeczywiste/hipotetyczne (to właśnie robił subjunctive w całym systemie staroangielskim), podczas gdy was to zwykła forma indicative, użyta tu analogicznie (przez wyrównanie/leveling) do reszty czasowników, które dawno straciły osobną formę subjunctive. Innymi słowy: 'if I was you' to nie 'zepsute' if I were you — to naturalny efekt tej samej fali wyrównywania form, która zunifikowała odmianę większości innych czasowników w angielskim; were jest tu wyjątkiem, który ocalał, nie was intruzem, który się wdarł."
+      },
+      {
+        "label": "Konteksty użycia: warunki nierealne, życzenia, porównania hipotetyczne",
+        "text": "Po if w 2. okresie warunkowym (If I were rich, I would travel.), po wish/if only wyrażającym żal dotyczący teraźniejszości (I wish I were taller.), oraz po as if / as though sygnalizującym porównanie do sytuacji nieprawdziwej (She talks as if she were an expert. — a w rzeczywistości nią nie jest). We wszystkich trzech kontekstach wspólny mianownik jest ten sam, co w staroangielskim subjunctive: treść zdania jest jawnie oznaczona jako niezgodna z rzeczywistością."
+      },
+      {
+        "label": "Was czy were: żywa zmiana w toku, nie jednorazowy wybór stylistyczny",
+        "text": "W mowie potocznej was jest dziś powszechnie akceptowalne i statystycznie częstsze niż were w tych kontekstach (if I was you...) — to obserwowalny w czasie rzeczywistym przykład dalszego postępu wyrównywania form, tego samego procesu, który już wcześniej wymazał subjunctive z niemal całej reszty angielskiej koniugacji. Formalne were wciąż dominuje w piśmie starannym, mowie oficjalnej i wyrażeniach utrwalonych (if I were you jako całościowy idiom rady jest szczególnie odporne na zamianę na was nawet u osób, które swobodnie mówią 'if I was...' w innych zdaniach)."
+      }
     ],
     "usage": [
       "Rady i hipotezy: If I were you, I would... (Na twoim miejscu...)",
       "Życzenia dotyczące teraźniejszości: I wish I were taller.",
-      "Porównania nierzeczywiste: as if / as though + were",
-      "Zdania warunkowe nierealne dotyczące teraźniejszości"
+      "Porównania nierzeczywiste: as if / as though + were, gdy porównanie jest jawnie nieprawdziwe",
+      "W mowie potocznej was jest w pełni akceptowalne i coraz częstsze; were pozostaje normą w piśmie starannym i w utrwalonym zwrocie 'if I were you'"
     ],
-    "tags": ["if I were you", "I wish I were", "as if", "as though"],
+    "tags": ["if I were you", "I wish I were", "as if", "wæs vs wǣre", "leveling"],
     "examples": [
       { "en": "If I were you, I would apologize.", "pl": "Na twoim miejscu przeprosiłbym." },
       { "en": "I wish I were on holiday right now.", "pl": "Żałuję, że nie jestem teraz na wakacjach." },
-      { "en": "If she were here, she would know what to do.", "pl": "Gdyby ona tu była, wiedziałaby, co robić." },
-      { "en": "He acted as if he were the boss.", "pl": "Zachowywał się, jakby był szefem." }
+      { "en": "He acted as if he were the boss, though he had joined only a week earlier.", "pl": "Zachowywał się, jakby był szefem, choć dołączył zaledwie tydzień wcześniej." },
+      { "en": "If she weren't so stubborn, this argument would have ended an hour ago.", "pl": "Gdyby nie była taka uparta, ta kłótnia skończyłaby się godzinę temu." }
     ]
   },
   {
     "id": "fixed_expressions",
-    "order": 4,
-    "nameEn": "Fixed subjunctive expressions",
-    "namePl": "Utrwalone wyrażenia z trybem łączącym",
+    "order": 6,
+    "nameEn": "Formulaic subjunctive — frozen relics of the Old English optative",
+    "namePl": "Utrwalone wyrażenia z trybem łączącym — zamrożone relikty staroangielskiego optatywu",
     "rules": [
-      { "label": "Budowa", "text": "krótkie, skostniałe zwroty z bezokolicznikiem bez to, zachowane z dawnej angielszczyzny" },
-      { "label": "Charakter", "text": "traktowane jako całe wyrażenia idiomatyczne — nie tworzy się ich swobodnie według wzoru" },
-      { "label": "Rejestr", "text": "typowe dla języka formalnego, literackiego lub uroczystego" }
+      {
+        "label": "Życzenia i błogosławieństwa jako pierwotna, najstarsza funkcja subjunctive",
+        "text": "Zanim mandative subjunctive w ogóle nabrał swojej dzisiejszej funkcji po czasownikach żądania, tryb łączący od zawsze pełnił w indoeuropejskich językach funkcję OPTATYWNĄ — wyrażał życzenia, błogosławieństwa i przekleństwa ('oby tak było', 'niech się stanie'). W staroangielskim ta funkcja była w pełni produktywna: mówiący mógł swobodnie tworzyć nowe formuły życzące, korzystając z żywej jeszcze wtedy formy subjunctive."
+      },
+      {
+        "label": "Zamrożenie w momencie zaniku: dlaczego te zwroty są niemożliwe do swobodnego tworzenia dziś",
+        "text": "Kiedy subjunctive jako żywa, produktywna kategoria wygasł w większości kontekstów (do ok. XVI–XVII wieku), garstka najczęściej używanych formuł życzących została ZAPAMIĘTANA i przekazywana z pokolenia na pokolenie jako całe, niepodzielne wyrażenia idiomatyczne — dokładnie tak, jak fosylia zachowuje kształt organizmu, mimo że sam organizm dawno obumarł. To dlatego dziś nie możemy swobodnie 'utworzyć' nowego zdania na tym wzorze (nie powiemy np. *'rain stop' w znaczeniu 'oby deszcz przestał padać') — te zwroty przetrwały wyłącznie jako zamknięta, skończona lista, nie jako żywy, produktywny wzorzec gramatyczny."
+      },
+      {
+        "label": "God save the Queen/King — żywy pomnik dawnej składni optatywnej",
+        "text": "Ta formuła (znana od XVI wieku, dziś hymn państwowy Wielkiej Brytanii) to dosłownie 'Niech Bóg chroni Króla/Królową' w gołej formie subjunctive czasownika save — nie 'God saves' (indicative, stwierdzenie faktu), lecz 'God save' (subjunctive, wyrażenie życzenia). Podobnie 'Long live the King!' to 'Niech Król żyje długo' — long tu pełni funkcję okolicznika, a live jest formą subjunctive, nie rozkazującą."
+      },
+      {
+        "label": "Pozostałe skamieniałe formuły i ich dosłowna logika",
+        "text": "So be it (dosłownie: 'niech tak będzie' — akceptacja lub rezygnacja), Be that as it may (dosłownie: 'niech to będzie, jak może być' — ustępstwo formalne, 'tak czy inaczej'), Suffice it to say (dosłownie: 'niech to wystarczy powiedzieć' — z inwersją charakterystyczną dla starszej składni), if need be (dosłownie: 'jeśli potrzeba by była' — subjunctive po if, równoległy do were-subjunctive z poprzedniego podtematu), come what may (dosłownie: 'niech przyjdzie, co może przyjść' — akceptacja nieuchronności), far be it from me (dosłownie: 'niech to będzie dalekie ode mnie' — grzecznościowe zastrzeżenie przed krytyką)."
+      },
+      {
+        "label": "Rejestr: dlaczego te zwroty brzmią uroczyście lub archaicznie",
+        "text": "Ponieważ te formuły zamrożyły się w gramatyce sprzed kilkuset lat, niosą dziś ze sobą nieuchronny posmak podniosłości, formalności lub literackości — używa się ich w oficjalnych ogłoszeniach, przemówieniach, tekstach prawniczych czy jako świadomie archaizujące zwroty retoryczne, nigdy jako neutralny, codzienny sposób wyrażania zwykłego życzenia."
+      }
     ],
     "usage": [
       "Życzenia i formuły uroczyste: God save the Queen, Long live the King",
       "Zgoda lub rezygnacja: So be it.",
-      "Zastrzeżenia formalne: Be that as it may, Suffice it to say",
-      "Wyrażenia warunkowe formalne: if need be, come what may"
+      "Zastrzeżenia i ustępstwa formalne: Be that as it may, Suffice it to say, far be it from me",
+      "Wyrażenia warunkowe formalne: if need be, come what may",
+      "Zamknięta lista — nowych zwrotów na tym wzorze nie tworzy się swobodnie we współczesnym języku"
     ],
-    "tags": ["God save the Queen", "so be it", "be that as it may", "if need be"],
+    "tags": ["God save the Queen", "so be it", "be that as it may", "if need be", "optative"],
     "examples": [
       { "en": "God save the Queen!", "pl": "Boże, chroń Królową!" },
       { "en": "If that's what you want, so be it.", "pl": "Jeśli tego chcesz, niech tak będzie." },
