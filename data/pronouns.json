@@ -2,180 +2,192 @@
   {
     "id": "personal_subject",
     "order": 1,
-    "nameEn": "Personal pronouns — subject (I, you, he...)",
+    "nameEn": "Personal pronouns — subject case (I, you, he, she, it, we, they)",
     "namePl": "Zaimki osobowe w funkcji podmiotu",
     "rules": [
       {
-        "label": "Formy",
-        "text": "I, you, he, she, it, we, they — zastępują rzeczownik pełniący funkcję podmiotu zdania"
+        "label": "Ostatni bastion czterech przypadków",
+        "text": "Staroangielski miał pełny system czterech przypadków: mianownik, dopełniacz, celownik, biernik — dotyczyło to zarówno rzeczowników, jak i zaimków. Gdy pod koniec okresu staroangielskiego i w średnioangielskim (zwłaszcza po podboju normandzkim 1066, gdy funkcję języka administracji i prestiżu przejął francuski, a angielszczyzna zaczęła żyć głównie w mowie ludu) system końcówek fleksyjnych rzeczowników zaczął się rozpadać — najpierw zlewały się nieakcentowane samogłoski końcówek, a potem całe końcówki zanikały — zaimki osobowe jako jedyne przetrwały ten proces niemal nietknięte. Rzeczownik „stān” (kamień) miał w staroangielskim osiem różnych form w liczbie pojedynczej i mnogiej; dziś ma dwie (stone, stone's). Zaimek „he” wciąż ma trzy: he/him/his. Powód jest funkcjonalny: zaimki są używane tak często i w tak przewidywalnych pozycjach składniowych, że mówiący zapamiętują je jako całe, nieanalizowane słowa, zamiast wyprowadzać ich formę z reguły — a formy zapamiętane opierają się erozji fonetycznej znacznie dłużej niż formy tworzone produktywnie. Dlatego „I/me”, „he/him”, „she/her”, „we/us”, „they/them” to żywe skamieniałości dawnego systemu przypadków, podczas gdy rzeczowniki dawno go utraciły."
       },
       {
-        "label": "Wielka litera",
-        "text": "Zaimek I (ja) zawsze piszemy wielką literą, niezależnie od miejsca w zdaniu"
+        "label": "Thou, ty i zanik rozróżnienia grzecznościowego",
+        "text": "Do XVII wieku angielski miał pełne rozróżnienie liczby w drugiej osobie: „thou/thee” (ty) w liczbie pojedynczej i „ye/you” (wy) w liczbie mnogiej — dokładnie jak dzisiejsze polskie „ty” i „wy”. W średniowieczu, pod silnym wpływem dworskiej francuszczyzny (gdzie liczba mnoga „vous” służyła też jako grzecznościowa forma zwracania się do jednej osoby o wyższym statusie), Anglicy zaczęli używać „you” nawet zwracając się do jednej osoby, jeśli chcieli okazać szacunek lub dystans, rezerwując „thou” dla bliskich, dzieci, sług — lub, paradoksalnie, do obrażania kogoś, bo zwracanie się per „thou” do nieznajomego było w XVI wieku odczytywane jako poufałość lub pogarda. Kwakrzy w XVII wieku demonstracyjnie odmówili tego rozróżnienia z powodów religijnych i konsekwentnie mówili „thou” do każdego, co ówczesnym społeczeństwem odbierane było jako prowokacja. Ostatecznie „you” wygrało jako forma uniwersalna: „thou/thee” wyszło z użycia w standardowym języku do końca XVII wieku, przetrwało jedynie w dialektach północnoangielskich, w języku religijnym (Biblia Króla Jakuba) i w poezji archaizującej. Współczesny angielski, w przeciwieństwie do niemal wszystkich innych języków europejskich, nie ma już gramatycznego rozróżnienia T-V (tu/vous, du/Sie, ty/wy) — „you” obsługuje jednocześnie nieformalne „ty” i formalne „Pan/Pani/wy”."
       },
       {
-        "label": "Rodzaj",
-        "text": "he dla mężczyzn, she dla kobiet, it dla rzeczy/zwierząt/zjawisk, they także jako zaimek neutralny płciowo w liczbie pojedynczej"
+        "label": "Od rodzaju gramatycznego do rodzaju naturalnego",
+        "text": "Staroangielskie rzeczowniki miały rodzaj gramatyczny niezależny od realnej płci — podobnie jak dziś niemiecki czy polski. „Wīf” (kobieta, dzisiejsze „wife”) był rodzaju nijakiego, „wīfmann” (kobieta-człowiek, skąd „woman”) — męskiego, bo drugi człon „mann” był męski. Zaimek odsyłający do rzeczownika musiał zgadzać się z jego rodzajem gramatycznym, nie z płcią odniesienia — teoretycznie o kobiecie („wīf”) można więc było powiedzieć „hit” (ono). Już w późnym okresie staroangielskim pisarze zaczęli łamać tę zgodność, dobierając zaimek według płci naturalnej, a nie gramatycznej rzeczownika — zjawisko zwane „sense agreement” (zgodą znaczeniową), jeden z pierwszych udokumentowanych sygnałów, że system rodzaju gramatycznego zaczynał się rozpadać na długo przed całkowitym zanikiem końcówek fleksyjnych rzeczowników w średnioangielskim. Rezultatem tej wielowiekowej ewolucji jest dzisiejszy, wyjątkowo „logiczny” jak na język europejski system: he/she według realnej płci osoby, it dla rzeczy i zwierząt o nieustalonej lub nieistotnej płci, a they jako rodzajowo neutralny zaimek liczby pojedynczej, używany od czasów Chaucera (XIV w.) wobec osoby o nieznanej lub celowo niesprecyzowanej płci, dziś także jako świadomy wybór osób niebinarnych (pełną analizę tego zjawiska znajdziesz w temacie „Rodzajowe they”)."
+      },
+      {
+        "label": "It: zaimek pozorowanego podmiotu",
+        "text": "„It” pełni podwójną rolę. Po pierwsze, zastępuje rzeczowniki nieżywotne, zwierzęta o nieznanej płci i pojęcia abstrakcyjne — to jego rola referencyjna, odziedziczona wprost po staroangielskim zaimku nijakim „hit” (początkowe „h” zanikło w wymowie nieakcentowanej już w średniowieczu, choć w piśmie przetrwało do wczesnej nowożytności). Po drugie, pełni rolę czysto gramatyczną, nie odnosząc się do niczego konkretnego: „It's raining”, „It's five o'clock”, „It's 200 kilometres to the coast” — pogoda, czas i odległość domagają się w angielskim wyrażonego podmiotu, a że nie ma tu żadnego realnego sprawcy deszczu czy upływu czasu, język wstawia „puste” it, by wypełnić strukturalnie obowiązkową pozycję podmiotu (angielski, w przeciwieństwie do polskiego, nie akceptuje zdań bez wyrażonego podmiotu). Ten sam mechanizm pustego „it” stoi za konstrukcjami typu „It is obvious that...” czy „It turned out that...” — pełne wyjaśnienie tej strategii, zwanej ekstrapozycją, znajduje się w temacie „Ekstrapozycja”."
       }
     ],
     "usage": [
-      "Jako podmiot zdania, zawsze przed czasownikiem (She works in London.)",
-      "Zastępują wcześniej wspomniany rzeczownik, by uniknąć powtórzeń",
-      "it używamy też do pogody, czasu i odległości (It's raining. It's 5 o'clock.)",
-      "they jako zaimek neutralny płciowo, gdy płeć osoby jest nieznana lub nieistotna (Someone called. They left a message.)"
+      "Jako podmiot zdania, zawsze bezpośrednio przed czasownikiem lub operatorem (She rarely complains.)",
+      "Zastępują wcześniej wspomniany rzeczownik lub całą frazę, by uniknąć powtórzeń",
+      "'it' jako podmiot pozorowany (dummy subject) przy pogodzie, czasie, odległości i temperaturze",
+      "'they' jako rodzajowo neutralny zaimek liczby pojedynczej, gdy płeć jest nieznana, nieistotna lub celowo niesprecyzowana"
     ],
-    "tags": ["I am", "she works", "it's raining", "they said"],
+    "tags": ["I insist", "she never complains", "it's freezing", "they haven't decided"],
     "examples": [
       {
-        "en": "I live in a small flat in the city centre.",
-        "pl": "Mieszkam w małym mieszkaniu w centrum miasta."
+        "en": "I honestly don't know how she manages to stay so calm under pressure.",
+        "pl": "Naprawdę nie wiem, jak ona potrafi zachować taki spokój pod presją."
       },
       {
-        "en": "He plays the guitar every evening.",
-        "pl": "On gra na gitarze każdego wieczoru."
+        "en": "It's been pouring since dawn, and it shows no sign of stopping.",
+        "pl": "Leje od świtu i nic nie wskazuje na to, żeby miało przestać."
       },
       {
-        "en": "It's raining, so take an umbrella.",
-        "pl": "Pada deszcz, więc weź parasol."
+        "en": "Someone left a message, but they didn't say who they were.",
+        "pl": "Ktoś zostawił wiadomość, ale nie powiedział, kim jest."
       },
       {
-        "en": "Someone left their bag here. They must be nearby.",
-        "pl": "Ktoś zostawił tu swoją torbę. Musi być gdzieś w pobliżu."
+        "en": "We've argued about this for years, and we still don't agree.",
+        "pl": "Kłócimy się o to od lat i wciąż się nie zgadzamy."
       }
     ]
   },
   {
     "id": "personal_object",
     "order": 2,
-    "nameEn": "Personal pronouns — object (me, you, him...)",
+    "nameEn": "Personal pronouns — object case (me, you, him, her, it, us, them)",
     "namePl": "Zaimki osobowe w funkcji dopełnienia",
     "rules": [
       {
-        "label": "Formy",
-        "text": "me, you, him, her, it, us, them — zastępują rzeczownik pełniący funkcję dopełnienia"
+        "label": "Nie biernik, tylko celownik: ukryta historia 'him' i 'her'",
+        "text": "Gramatyka szkolna nazywa „me, him, her, us, them” po prostu formą dopełnieniową, ale staroangielski miał dla zaimków osobno biernik (dopełnienie bliższe, bez przyimka) i celownik (dopełnienie dalsze oraz dopełnienie po przyimku) — tak jak dziś polski. Formy różniły się: biernik męski to „hine”, celownik męski to „him”; biernik żeński to „hīe”, celownik żeński to „hire”. Kiedy pod koniec okresu staroangielskiego i w średnioangielskim oba przypadki zaczęły się zlewać w jeden uniwersalny przypadek skośny, w rodzaju męskim i żeńskim wygrała forma celownikowa, nie biernikowa — stąd dzisiejsze „him” (nie z „hine”) i „her” (nie z „hīe”). Mówiąc „I saw him”, używa się więc formy, która historycznie znaczyła „jemu”, nie „jego” — angielski zunifikował całą kategorię dopełnienia wokół dawnego celownika. Wyjątkiem jest „it”, które pochodzi z biernika/mianownika nijakiego „hit” (oba przypadki były identyczne już w staroangielskim dla rodzaju nijakiego), oraz „them”, zapożyczone w średniowieczu ze staronordyckiego „þeim” — rodzime „hem” przetrwało jedynie w potocznym skrócie 'em („I told 'em”, „give it 'em”)."
       },
       {
-        "label": "Pozycja",
-        "text": "Stoją po czasowniku lub po przyimku, nigdy jako podmiot zdania"
+        "label": "'It's me' kontra 'It is I': dwie gramatyki w jednym języku",
+        "text": "Zdanie „It's me” jest naturalną, powszechną formą we współczesnym angielskim mówionym i pisanym — mimo że po orzeczniku „be” logika łacińska nakazywałaby formę mianownikową: „It is I”. To rozróżnienie to spuścizna XVII i XVIII-wiecznych gramatyków, którzy — zafascynowani łaciną jako wzorem „logicznego” języka — narzucili angielszczyźnie regułę, że orzecznik przy czasowniku łączącym „be” musi stać w tym samym przypadku co podmiot. Problem w tym, że naturalna, odziedziczona zasada angielskiego działa inaczej: domyślną, „bezpieczną” formą zaimka w pozycji izolowanej od odmienionego czasownika (czyli wszędzie tam, gdzie nie stoi bezpośrednio przed nim jako jego podmiot) jest forma dopełnieniowa. Dlatego native speaker odpowie „Me?”, nie „I?”, gdy ktoś zapyta „Kto to zrobił?”, powie „Me too”, nie „I too”, i powie „It's me”, nie „It is I” — mimo stuleci nauczania w szkołach reguły łacińskiej. „It is I” przetrwało tylko w bardzo formalnym, pisanym rejestrze i bywa dziś odbierane jako sztywne."
       },
       {
-        "label": "Częsty błąd",
-        "text": "Po przyimkach (for, with, to, between) zawsze używamy formy dopełnieniowej, nie podmiotowej (between you and me, nie between you and I)"
+        "label": "Nadpoprawność: 'between you and I'",
+        "text": "Skoro pokolenia uczniów były karcone za mówienie „Me and John went to the shop” (poprawnie: „John and I went...”), wielu z nich wyciągnęło fałszywy wniosek, że forma „I” jest po prostu grzeczniejsza w każdym zestawieniu z inną osobą — i zaczęło jej nadużywać nawet tam, gdzie gramatyka jednoznacznie wymaga formy dopełnieniowej, czyli po przyimkach. Stąd notorycznie spotykane, lecz niepoprawne „between you and I”, „for you and I”, „to my wife and I” — zjawisko zwane hiperkorektą: mówiący, chcąc uniknąć jednego błędu, popełnia drugi, stosując regułę tam, gdzie się nie stosuje. Po każdym przyimku (between, with, for, to, except) zaimek musi stać w formie dopełnieniowej niezależnie od tego, czy występuje samodzielnie, czy w zestawieniu z inną frazą: „between you and me”, „for my wife and me”. Prosty test diagnostyczny: usuń drugi element zestawienia i sprawdź, czy zdanie wciąż brzmi naturalnie — nikt nie powie „between I”, więc „between you and I” jest równie błędne, tylko maskowane obecnością drugiej osoby."
+      },
+      {
+        "label": "Who i whom: ten sam los, wolniejsze tempo",
+        "text": "Zaimek pytający i względny „who/whom” przechodzi dokładnie tę samą historię co „he/him” czy „she/her” — „whom” to spadkobierca staroangielskiego celownika „hwām”, „who” mianownika „hwā” — ale proces zlewania się obu form w jedną w codziennej mowie wciąż trwa, kilka wieków po tym, jak analogiczny proces zakończył się dla zaimków osobowych. W mowie potocznej „who” praktycznie wyparło „whom” nawet w funkcji dopełnienia („Who did you see?” zamiast formalnego „Whom did you see?”), a „whom” przetrwało głównie w rejestrze pisanym, formalnym i bezpośrednio po przyimku, gdzie jego pominięcie wciąż razi nawet swobodnych użytkowników („To whom it may concern”, „the man to whom I spoke”). Pełną mapę tego, kiedy „whom” jest dziś obowiązkowe, kiedy fakultatywne, a kiedy już archaiczne, znajdziesz w tematach o pytaniach, zdaniach względnych i przyimkach w zdaniach względnych."
       }
     ],
     "usage": [
-      "Jako dopełnienie bliższe lub dalsze czasownika (She called him yesterday.)",
-      "Po przyimkach (Can you come with us?)",
-      "W krótkich odpowiedziach jednowyrazowych (Who's there? — Me.)",
-      "Po than/as w nieformalnych porównaniach (He's taller than me.)"
+      "Jako dopełnienie bliższe lub dalsze czasownika, zawsze po czasowniku (She called him twice.)",
+      "Zawsze po przyimku (for, with, between, except), nigdy w formie podmiotowej",
+      "Jako samodzielna, izolowana odpowiedź lub orzecznik po 'be' (Who's there? — Me. / It's her.)",
+      "Po 'than' i 'as' w porównaniach potocznych, choć rejestr formalny dopuszcza tu też formę podmiotową + czasownik (taller than her / taller than she is)"
     ],
-    "tags": ["call me", "with us", "than him", "between you and me"],
+    "tags": ["between you and me", "it's me", "call her", "taller than him"],
     "examples": [
       {
-        "en": "Can you help me with this box?",
-        "pl": "Możesz pomóc mi z tym pudełkiem?"
+        "en": "Just between you and me, I don't think the plan will work.",
+        "pl": "Tylko między nami, nie sądzę, żeby ten plan się udał."
       },
       {
-        "en": "We invited them to the party.",
-        "pl": "Zaprosiliśmy ich na przyjęcie."
+        "en": "Who's knocking? — It's probably just the postman, let him in.",
+        "pl": "Kto puka? — To pewnie tylko listonosz, wpuść go."
       },
       {
-        "en": "This letter is for her, not for him.",
-        "pl": "Ten list jest dla niej, nie dla niego."
+        "en": "She's far more experienced than him, even though he's older.",
+        "pl": "Ona jest o wiele bardziej doświadczona niż on, mimo że jest starszy."
       },
       {
-        "en": "Just between you and me, I don't trust him.",
-        "pl": "Tylko między nami, nie ufam mu."
+        "en": "They blamed us for the delay, which wasn't entirely fair.",
+        "pl": "Obwiniali nas o opóźnienie, co nie było do końca sprawiedliwe."
       }
     ]
   },
   {
-    "id": "reflexive",
+    "id": "reflexive_intensive",
     "order": 3,
-    "nameEn": "Reflexive pronouns (myself, yourself...)",
-    "namePl": "Zaimki zwrotne",
+    "nameEn": "Reflexive and intensive pronouns (myself, himself, themselves...)",
+    "namePl": "Zaimki zwrotne i emfatyczne",
     "rules": [
       {
-        "label": "Formy",
-        "text": "myself, yourself, himself, herself, itself, ourselves, yourselves, themselves"
+        "label": "'Self' jako niegdyś samodzielne słowo",
+        "text": "„Self” nie zaczynało jako końcówka gramatyczna doklejona do zaimka, tylko jako samodzielny przymiotnik/zaimek w staroangielskim („self, seolf”), oznaczający „ten sam, właśnie ten, we własnej osobie” — dokładnie jak dziś polskie „sam” w zdaniu „król sam to zrobił”. Mógł swobodnie modyfikować dowolny rzeczownik lub zaimek w zdaniu, zgadzając się z nim przypadkiem: „se cyning self” (król sam, dosłownie „ten król sam”). Dopiero stopniowo, w ciągu średniowiecza, „self” zaczęło się fonetycznie i składniowo zrastać wyłącznie z zaimkami osobowymi w jeden, przyjmowany dziś za całość wyraz — „himself”, „herself”, „myself” — tracąc po drodze zdolność do swobodnego łączenia się z każdym rzeczownikiem. Ślad dawnej niezależności „self” widać dziś w tym, że wciąż potrafi funkcjonować jako samodzielny rzeczownik („my true self”, „find yourself”, „sense of self”) — coś, czego zwykła końcówka gramatyczna nigdy by nie mogła."
       },
       {
-        "label": "Budowa",
-        "text": "Liczba pojedyncza + self (myself, herself), liczba mnoga + selves (ourselves, themselves)"
+        "label": "Dlaczego 'myself', ale 'himself'? Skamieniała niekonsekwencja",
+        "text": "Uważny obserwator zauważy asymetrię, której żadna reguła szkolna nie tłumaczy: w pierwszej i drugiej osobie „self” doklejane jest do zaimka DZIERŻAWCZEGO (my-self, our-selves, your-self/selves — dosłownie „moja jaźń”), a w trzeciej osobie do zaimka DOPEŁNIENIOWEGO (him-self, her-self, it-self, them-selves — nie *hisself, nie *theirselves standardowo). Wynika to z dwóch niezależnie rozwijających się konstrukcji średnioangielskich, które nigdy do końca się nie ujednoliciły. W pierwszej i drugiej osobie „self” było odczytywane jako rzeczownik poprzedzony zaimkiem dzierżawczym, bo w tych osobach zaimek dzierżawczy i dopełnieniowy wyraźnie się różniły (my vs me) i „self” naturalnie ciążyło ku interpretacji dzierżawczej. W trzeciej osobie z kolei „self” dołączało się do formy celownikowej zaimka używanej jako intensyfikator przy czasowniku, co utrwaliło wzorzec zaimek-dopełnieniowy + self. Oba wzorce skrzepły w osobnych gałęziach systemu, zanim język zdążył je ujednolicić w jedną regułę — stąd dzisiejsza, pozornie nielogiczna mieszanka. Dialekty nieformalne i wiele odmian angielskiego pozaeuropejskiego regularyzują ten system samodzielnie, tworząc „hisself” i „theirselves” na wzór „myself” — formy uznawane za niestandardowe, choć w istocie strukturalnie bardziej regularne niż formy wzorcowe."
       },
       {
-        "label": "Emfaza",
-        "text": "Mogą też podkreślać, że ktoś zrobił coś samodzielnie, bez niczyjej pomocy (I did it myself.)"
+        "label": "Zaimek zwrotny właściwy: podmiot = dopełnienie",
+        "text": "Podstawowa, obligatoryjna funkcja „-self” polega na sygnalizowaniu, że dopełnienie czasownika odnosi się do tej samej osoby lub rzeczy co jego podmiot: „He blamed himself” (obwinił siebie samego), nie „He blamed him” (obwinił jego, kogoś innego). W angielskim, w przeciwieństwie do wielu innych języków europejskich (francuski se, niemiecki sich, polski się), nie istnieje jeden uniwersalny, nieodmienny zaimek zwrotny — każda osoba i liczba ma własną, w pełni odmienioną formę zwrotną, zgodną z podmiotem w rodzaju i liczbie. To rozwiązanie jest historycznie młodsze niż zwykłe zaimki osobowe: dopóki „self” nie zrosło się w jeden wyraz z zaimkiem, staroangielski radził sobie w wielu kontekstach bez obowiązkowego znacznika zwrotności, posługując się samym zaimkiem osobowym. Ten starszy wzorzec przetrwał do dziś szczątkowo przy czasownikach czynności pielęgnacyjnych i zmiany pozycji ciała (wash, shave, dress, sit down, turn around), gdzie angielski wciąż dopuszcza pominięcie „-self”, bo zwrotność jest w nich domyślna: „He washed and shaved before breakfast” nie wymaga „himself”, choć dodanie go jest możliwe dla podkreślenia wysiłku lub samodzielności."
+      },
+      {
+        "label": "Emfaza (intensyfikacja): starszy krewny zaimka zwrotnego",
+        "text": "Obok funkcji zwrotnej, ta sama forma „-self” pełni funkcję intensyfikującą (emphatic/intensive) — i to właśnie ta funkcja jest historycznie starsza, bezpośredni spadkobierca swobodnego staroangielskiego przymiotnika „self”. W tej roli zaimek nie jest dopełnieniem czasownika, tylko dodatkiem apozycyjnym podkreślającym, że dana osoba działała samodzielnie, osobiście lub w kontraście do innych: „The president himself opened the ceremony” (sam prezydent, we własnej osobie). Kluczowy test odróżniający tę funkcję od zwrotnej: forma intensyfikująca jest składniowo opcjonalna i ruchoma — można ją usunąć bez utraty gramatyczności zdania („The president opened the ceremony”) i można ją przesunąć na koniec zdania („The president opened the ceremony himself”), podczas gdy prawdziwy zaimek zwrotny jest obowiązkowym dopełnieniem czasownika i nie da się go ani usunąć, ani swobodnie przesunąć („He blamed himself” nie może stać się ani „He blamed”, ani „He blamed the mistake himself” o tym samym znaczeniu)."
       }
     ],
     "usage": [
-      "Gdy podmiot i dopełnienie czynności to ta sama osoba (He cut himself while cooking.)",
-      "Z czasownikami zwrotnymi typowymi dla angielskiego (enjoy oneself, help yourself, introduce yourself)",
-      "Dla podkreślenia samodzielności działania, często na końcu zdania (I fixed it myself.)",
-      "W wyrażeniu by oneself = sam, bez towarzystwa (She lives by herself.)"
+      "Jako obowiązkowe dopełnienie, gdy podmiot i dopełnienie czynności to ta sama osoba (She cut herself while cooking.)",
+      "Pomijalne przy czasownikach pielęgnacyjnych i zmiany pozycji ciała, gdzie zwrotność jest domyślna (He shaved quickly. / He shaved himself quickly, for emphasis.)",
+      "Jako opcjonalny, ruchomy intensyfikator podkreślający samodzielność lub kontrast (I'll fix it myself. / I myself have never tried it.)",
+      "W wyrażeniu by + self = sam, bez towarzystwa lub pomocy (She prefers working by herself.)"
     ],
-    "tags": ["myself", "enjoy yourself", "by himself", "help yourself"],
+    "tags": ["blame himself", "by herself", "fixed it myself", "the manager herself"],
     "examples": [
       {
-        "en": "Be careful, don't cut yourself with that knife.",
-        "pl": "Uważaj, nie skaleczysz się tym nożem."
+        "en": "He caught himself staring and quickly looked away.",
+        "pl": "Złapał się na tym, że się gapi, i szybko odwrócił wzrok."
       },
       {
-        "en": "They enjoyed themselves at the concert.",
-        "pl": "Świetnie się bawili na koncercie."
+        "en": "I'd rather do it myself than wait for someone else to help.",
+        "pl": "Wolę zrobić to sam, niż czekać, aż ktoś inny pomoże."
       },
       {
-        "en": "I painted the whole room myself.",
-        "pl": "Sam pomalowałem cały pokój."
+        "en": "The chef himself came out to apologise for the mistake.",
+        "pl": "Sam szef kuchni wyszedł, żeby przeprosić za pomyłkę."
       },
       {
-        "en": "He prefers to travel by himself.",
-        "pl": "On woli podróżować sam."
+        "en": "They locked themselves out of the flat twice this month.",
+        "pl": "W tym miesiącu dwa razy zatrzasnęli się na zewnątrz mieszkania."
       }
     ]
   },
   {
-    "id": "demonstrative",
+    "id": "demonstrative_pronouns",
     "order": 4,
-    "nameEn": "Demonstrative pronouns (this, that, these, those)",
-    "namePl": "Zaimki wskazujące",
+    "nameEn": "Demonstrative pronouns standing alone (this/that/these/those without a noun)",
+    "namePl": "Zaimki wskazujące jako samodzielne słowa (bez rzeczownika)",
     "rules": [
       {
-        "label": "Odległość i liczba",
-        "text": "this/these wskazują na coś blisko (tu), that/those na coś dalej (tam); this/that to liczba pojedyncza, these/those to liczba mnoga"
+        "label": "Zaimek czy determinator? Prosty test składniowy",
+        "text": "„This/that/these/those” pełnią dwie różne funkcje składniowe pod tą samą postacią graficzną, a pomylenie ich prowadzi do nieporozumień przy analizie zdania. Jako DETERMINATOR stoją bezpośrednio przed rzeczownikiem i razem z nim tworzą jedną frazę: „this book”, „those problems” — pełną historię i logikę tej funkcji, wraz z jej pochodzeniem od staroangielskiego systemu zaimka wskazującego, znajdziesz w temacie „Determinatory”. Jako ZAIMEK stoją samodzielnie, zastępując całą frazę rzeczownikową, a nie tylko ją poprzedzając: „This is ridiculous”, „I'll take these”. Prosty test: spróbuj wstawić między nie a resztę zdania rzeczownik — jeśli zdanie wciąż ma sens bez niego, to „this/that” jest zaimkiem; jeśli rzeczownik jest niezbędny do dopełnienia sensu, to jest determinatorem. „I like this [car]” — bez „car” zdanie wciąż działa gramatycznie i semantycznie, więc „this” pełni tu funkcję zaimka, nawet jeśli rzeczownik odniesienia pojawił się wcześniej w kontekście."
       },
       {
-        "label": "Funkcja",
-        "text": "Mogą stać samodzielnie jako zaimek albo przed rzeczownikiem jako przymiotnik wskazujący (this book)"
+        "label": "Odnoszenie się do całych zdarzeń, nie tylko rzeczy",
+        "text": "Największa różnica między zaimkiem wskazującym a zwykłym zaimkiem osobowym (he, she, it) polega na tym, do czego mogą się odnosić. „It” musi mieć konkretny, pojedynczy rzeczownikowy poprzednik („I bought a car. It's red.” — it = the car). „This” i „that” natomiast potrafią odnosić się do całej wcześniej wypowiedzianej propozycji, sytuacji, a nawet całego toku rozumowania: „She got the promotion. That surprised everyone” — „that” nie zastępuje pojedynczego rzeczownika „promotion”, tylko cały fakt, że ona ją dostała. Ta zdolność do przywoływania całych zdarzeń jako jednej, spójnej „rzeczy myślowej” czyni „this/that” niezastąpionym narzędziem spójności tekstu w dłuższych wypowiedziach — pozwala jednym słowem skomentować, ocenić lub rozwinąć całą poprzednią myśl, zamiast ją powtarzać. „This” w tej funkcji częściej zapowiada myśl, która dopiero nadejdzie (funkcja kataforyczna: „Here's the problem: this project is behind schedule and nobody has noticed”), podczas gdy „that” niemal zawsze odsyła wstecz, do czegoś już powiedzianego (funkcja anaforyczna)."
       },
       {
-        "label": "Czas",
-        "text": "this/these odnoszą się zwykle do teraźniejszości i przyszłości, that/those także do przeszłości i rzeczy już wspomnianych"
+        "label": "Kategoria, nie egzemplarz: 'that' rodzajowe",
+        "text": "W formalnym i pisanym rejestrze „that/those” mogą oznaczać nie jeden konkretny przedmiot, lecz całą kategorię lub typ, w konstrukcji „that/those + of + fraza” lub „that/those + zdanie względne”, funkcjonując jako zgrabny substytut powtórzenia rzeczownika z przydawką: „The climate of the coast is milder than that of the interior” (that = the climate, unika powtórzenia), „Those who arrive late will not be admitted” (those = ludzie, którzy...). Ta konstrukcja jest typowa dla stylu akademickiego, prawniczego i formalnego pisma — w mowie potocznej naturalniejsze byłoby „the one(s) who/that” lub proste powtórzenie rzeczownika. Warto zauważyć ograniczenie: samodzielne „that/those” bez dalszego dopełnienia rzadko odnosi się wprost do konkretnych, znanych osób („That is my sister” identyfikuje, ale „*That left early” o znanej osobie brzmi nienaturalnie) — do osób angielski wybiera raczej zaimek osobowy, imię lub frazę „the one(s) who”."
       }
     ],
     "usage": [
-      "Wskazywanie przedmiotów blisko lub daleko od mówiącego (This is my phone. Those are her shoes.)",
-      "Przedstawianie się lub pytanie przez telefon (This is Anna speaking. Who's that?)",
-      "Odnoszenie się do całych zdań lub sytuacji wspomnianych wcześniej (That was a great idea.)",
-      "that/those przy rzeczach odległych w czasie lub kontekście (Those were the days.)"
+      "Samodzielnie, bez następującego rzeczownika, jako pełnoprawny podmiot lub dopełnienie zdania (This won't take long.)",
+      "Do odsyłania wstecz (anafora) lub w przód (katafora) do całych zdarzeń, faktów i sytuacji, nie tylko pojedynczych rzeczowników",
+      "W formalnym rejestrze jako substytut powtórzonego rzeczownika w konstrukcji 'that/those of...' lub 'those who...'",
+      "Zwykle nie odnoszą się samodzielnie do konkretnych, znanych osób — do tego służą zaimki osobowe, imiona lub 'the one(s) who'"
     ],
-    "tags": ["this book", "these days", "that was", "those shoes"],
+    "tags": ["this won't take long", "that surprised everyone", "those who arrive late", "that of the coast"],
     "examples": [
       {
-        "en": "This is my new laptop, isn't it nice?",
-        "pl": "To mój nowy laptop, ładny, prawda?"
+        "en": "He apologised twice, but that didn't really change anything.",
+        "pl": "Przeprosił dwa razy, ale to niczego naprawdę nie zmieniło."
       },
       {
-        "en": "These shoes are too small for me.",
-        "pl": "Te buty są dla mnie za małe."
+        "en": "This is exactly what I've been trying to explain all along.",
+        "pl": "To jest dokładnie to, co próbuję wytłumaczyć od samego początku."
       },
       {
-        "en": "That was the best film I've ever seen.",
-        "pl": "To był najlepszy film, jaki kiedykolwiek widziałem."
+        "en": "The population of the north has grown faster than that of the south.",
+        "pl": "Populacja północy rosła szybciej niż ta na południu."
       },
       {
-        "en": "Those days were much simpler.",
-        "pl": "Tamte dni były o wiele prostsze."
+        "en": "Those who complain the loudest rarely offer to help.",
+        "pl": "Ci, którzy najgłośniej narzekają, rzadko oferują pomoc."
       }
     ]
   }
