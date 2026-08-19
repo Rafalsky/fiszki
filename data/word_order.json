@@ -2,94 +2,218 @@
   {
     "id": "basic_order",
     "order": 1,
-    "nameEn": "Basic word order (SVO / SVOMPT)",
-    "namePl": "Podstawowy szyk zdania (SVO / SVOMPT)",
+    "nameEn": "Basic word order (SVO)",
+    "namePl": "Podstawowy szyk zdania: Podmiot – Czasownik – Dopełnienie",
     "rules": [
-      { "label": "S-V-O", "text": "W zdaniu twierdzącym podmiot (Subject) stoi przed czasownikiem (Verb), a dopełnienie (Object) po czasowniku: I read books." },
-      { "label": "SVOMPT", "text": "Pełny szyk to Podmiot – Czasownik – Dopełnienie – Sposób (Manner) – Miejsce (Place) – Czas (Time): She sang beautifully at the party last night." },
-      { "label": "Bez rozdzielania V-O", "text": "Przysłówek sposobu nie może rozdzielać czasownika od jego dopełnienia bliższego: nie mów I like very much chocolate, tylko I like chocolate very much." }
+      {
+        "label": "Budowa",
+        "text": "Zdanie oznajmujące ma niemal żelazną kolejność: Podmiot – Czasownik – Dopełnienie (Subject–Verb–Object). 'I read books' jest jedyną poprawną kolejnością tych trzech słów w zdaniu oznajmującym — 'Books I read' czy 'Read I books' nie istnieją jako neutralne zdania w mowie codziennej. Żaden inny wielki język germański (niemiecki, niderlandzki) nie ma tak sztywnego szyku w zdaniu głównym."
+      },
+      {
+        "label": "Geneza: śmierć przypadków",
+        "text": "Staroangielski, tak jak dzisiejszy polski czy niemiecki, miał rozbudowany system przypadków — końcówki fleksyjne rzeczownika same mówiły, kto jest podmiotem, a kto dopełnieniem, więc szyk mógł być względnie swobodny. Dwa procesy to zmieniły. Po pierwsze, wieki kontaktu z Wikingami w Danelaw: staroangielski i staronordyjski miały te same rdzenie słów, ale różne końcówki fleksyjne, więc w mowie mieszanych społeczności końcówki — jako element niezrozumiały dla drugiej strony — zaczęły zanikać, a rdzenie zostawały. Po drugie, systematyczna redukcja nieakcentowanych samogłosek w wygłosie (charakterystyczna dla języków germańskich z silnym akcentem na pierwszej sylabie rdzenia) sprawiła, że różne końcówki przypadków (-a, -e, -an, -um) z czasem zlały się w jedno, nieodróżnialne już '-e', a później zniknęły całkiem. Gdy w średnioangielskim końcówki przestały odróżniać podmiot od dopełnienia, jedynym sposobem na zasygnalizowanie 'kto komu co zrobił' została pozycja słowa w zdaniu — i tak szyk SVO z opcji stał się koniecznością."
+      },
+      {
+        "label": "Dlaczego 'po polsku' się nie da",
+        "text": "W polskim 'Kota widzi pies' i 'Pies widzi kota' znaczą to samo, bo końcówka -a w 'kota' zawsze oznacza dopełnienie, niezależnie od miejsca w zdaniu — możemy więc przestawiać wyrazy dla stylu czy emfazy. W angielskim rzeczowniki nie mają żadnej takiej końcówki (jedynym śladem dawnych przypadków są dziś formy zaimków: I/me, he/him, they/them). 'The dog bites the man' i 'The man bites the dog' to zdania o zupełnie różnym sensie — jedynym nośnikiem informacji 'kto gryzie, a kogo gryzą' jest tu kolejność słów. Angielski szyk zdania de facto PEŁNI dziś funkcję, którą kiedyś pełniły końcówki przypadków."
+      },
+      {
+        "label": "Zasada sąsiedztwa czasownik–dopełnienie",
+        "text": "Skoro to sąsiedztwo, a nie fleksja, sygnalizuje związek między czasownikiem a jego dopełnieniem, angielski pilnuje tego sąsiedztwa niemal obsesyjnie: przysłówek sposobu nie może się między nie wcisnąć. Mówimy 'I like chocolate very much', nigdy 'I like very much chocolate' — rozerwanie pary czasownik-dopełnienie zatarłoby jedyny dostępny w tym języku sygnał, że 'chocolate' jest tym, co jest lubiane, a nie osobnym elementem zdania."
+      }
     ],
     "usage": [
-      "Zdania oznajmujące zawsze zaczynają się od podmiotu",
-      "Dopełnienie stoi bezpośrednio po czasowniku, zanim pojawią się okoliczniki",
-      "Okoliczniki sposobu, miejsca i czasu, jeśli występują razem, idą w tej kolejności na końcu zdania",
-      "Angielski szyk jest sztywny — w przeciwieństwie do polskiego nie przestawia się elementów dla podkreślenia"
+      "Zdania oznajmujące: zawsze Podmiot – Czasownik – Dopełnienie, niezależnie od tego, który element chcemy podkreślić głosowo — po angielsku emfazę wyraża się intonacją lub konstrukcjami typu cleft sentence, nie przestawianiem szyku",
+      "Wyjątki są zawsze sygnałem czegoś: inwersja w pytaniach (Does she like it?), inwersja po przeczącym przysłówku na początku zdania (Never have I seen this) — to świadome, zasadowe odstępstwo, a nie dowolność stylistyczna jak w polskim",
+      "Zaimki osobowe (I/me, he/him, we/us, they/them) to żywy relikt dawnego systemu przypadków, który zniknął z rzeczowników — dlatego 'Me and him went' brzmi potocznie niepoprawnie: forma dopełnieniowa 'me' wciąż 'pamięta' swoją funkcję",
+      "Czasownik i jego dopełnienie bliższe stoją zawsze obok siebie — żaden przysłówek sposobu, częstotliwości czy czasu nie wchodzi między nie"
     ],
-    "tags": ["SVO", "SVOMPT", "speaks English fluently", "like chocolate very much"],
+    "tags": [
+      "SVO",
+      "szyk zdania",
+      "przypadki",
+      "Old English"
+    ],
     "examples": [
-      { "en": "She speaks English fluently.", "pl": "Ona mówi płynnie po angielsku." },
-      { "en": "He reads books every evening.", "pl": "On czyta książki co wieczór." },
-      { "en": "They watched a film at the cinema last night.", "pl": "Oglądali film w kinie wczoraj wieczorem." },
-      { "en": "I like chocolate very much.", "pl": "Bardzo lubię czekoladę." }
+      {
+        "en": "The waiter brought the wrong dish, and the manager apologised.",
+        "pl": "Kelner przyniósł złe danie, a kierownik przeprosił."
+      },
+      {
+        "en": "Careful readers notice small inconsistencies that editors miss.",
+        "pl": "Uważni czytelnicy zauważają drobne niespójności, które umykają redaktorom."
+      },
+      {
+        "en": "The storm damaged the roof before anyone could react.",
+        "pl": "Burza uszkodziła dach, zanim ktokolwiek zdążył zareagować."
+      },
+      {
+        "en": "Only the dog heard the intruder — everyone else was asleep.",
+        "pl": "Tylko pies usłyszał intruza — wszyscy inni spali."
+      }
     ]
   },
   {
     "id": "frequency_adverbs",
     "order": 2,
-    "nameEn": "Position of adverbs of frequency",
-    "namePl": "Pozycja przysłówków częstotliwości",
+    "nameEn": "Adverbs of frequency and the grammatical 'operator'",
+    "namePl": "Przysłówki częstotliwości i pojęcie 'operatora'",
     "rules": [
-      { "label": "Przed czasownikiem głównym", "text": "always, usually, often, sometimes, rarely, never stoją PRZED czasownikiem głównym: She always drinks coffee." },
-      { "label": "Po czasowniku to be", "text": "Gdy w zdaniu jest czasownik to be, przysłówek częstotliwości stoi PO nim: He is never late." },
-      { "label": "Między posiłkowym a głównym", "text": "W zdaniach z czasownikiem posiłkowym (have, will, can...) przysłówek stoi między posiłkowym a głównym: I will always remember this." }
+      {
+        "label": "Budowa",
+        "text": "Przysłówek częstotliwości (always, usually, often, sometimes, rarely, never) staje bezpośrednio PRZED czasownikiem głównym, ale PO czasowniku 'be', po pierwszym czasowniku posiłkowym i po modalnym: 'I always drink coffee.' / 'I am always tired.' / 'I have always loved this song.' / 'I can always try again.' To nie cztery różne reguły do zapamiętania, lecz jedna: przysłówek zajmuje miejsce tuż przed 'prawdziwym', znaczeniowym czasownikiem."
+      },
+      {
+        "label": "Czym jest 'operator'",
+        "text": "Angielski wyróżnia w zdaniu specjalną, wąską klasę czasowników — be, have (jako posiłkowe), czasowniki modalne i sztuczne 'do' — które gramatycy nazywają 'operatorami'. To one, a nie cały orzeczenie, przejmują na siebie wszystkie zadania gramatyczne zdania: przeczenie (isn't, don't, can't), inwersję w pytaniu (Is she...? Do you...?), skróconą odpowiedź bez powtarzania reszty zdania (Yes, I do. / So can I.) i emfazę (I DO like it). To ślad dawnego, ogólnogermańskiego szyku 'V2' (verb-second), w którym czasownik odmieniony miał w zdaniu głównym niemal zawsze zajmować drugą pozycję — niemiecki i niderlandzki zachowały tę zasadę dla WSZYSTKICH czasowników do dziś, angielski ją porzucił, ale zachował jej okrojony ślad właśnie w tej wąskiej klasie 'operatorów'."
+      },
+      {
+        "label": "Dlaczego akurat tu, a nie gdzie indziej",
+        "text": "Przysłówek częstotliwości semantycznie kwantyfikuje samą czynność wyrażoną czasownikiem głównym ('always DRINK', nie 'always HAVE') — więc dąży do maksymalnej bliskości z tym czasownikiem. Operator natomiast to element gramatycznej 'konstrukcji', a nie treści: to on niesie osobę, czas i tryb zdania, ale nie jest tym, co przysłówek opisuje. Przysłówek 'przesuwa się' więc tak blisko czasownika głównego, jak to możliwe — a że operator zawsze stoi przed nim, przysłówek ląduje dokładnie między nimi."
+      },
+      {
+        "label": "'Be' jako czasownik główny",
+        "text": "Gdy 'be' jest jedynym czasownikiem w zdaniu (a nie czasownikiem posiłkowym), i tak zachowuje się jak operator — bo historycznie zawsze nim był, na długo zanim wynaleziono 'do' dla pozostałych czasowników. Stąd 'She is always late', a nie *'She always is late' — 'be' po prostu 'jest' zarówno czasownikiem głównym, jak i swoim własnym operatorem naraz."
+      }
     ],
     "usage": [
-      "Opisywanie nawyków i rutyn, zwłaszcza w Present Simple",
-      "W pytaniach przysłówek stoi po podmiocie: Do you ever...?",
-      "Sometimes i usually mogą też stać na początku zdania dla emfazy"
+      "Neutralna, domyślna pozycja: po operatorze (be/aux/modal), przed czasownikiem głównym (He has never lied to me.)",
+      "usually, normally, sometimes, often mogą też otwierać zdanie, jeśli mówiący chce podkreślić je jako ramę całej wypowiedzi, a nie tylko pojedynczy szczegół (Usually, I take the bus, but today I walked.)",
+      "never, rarely, seldom na początku zdania wymuszają formalną inwersję operatora i podmiotu (Never have I been so embarrassed.) — sygnał emfatycznego, podniosłego rejestru, bliski konstrukcjom omawianym w temacie 'Inwersja'",
+      "Przysłówek stojący między operatorem a czasownikiem głównym nigdy nie rozbija tej pary przecinkiem ani pauzą — to jeden, zwarty blok gramatyczny"
     ],
-    "tags": ["always drinks", "is never late", "have never been", "always complain"],
+    "tags": [
+      "always",
+      "operator",
+      "NICE properties",
+      "V2"
+    ],
     "examples": [
-      { "en": "She always drinks coffee in the morning.", "pl": "Ona zawsze pije kawę rano." },
-      { "en": "He is never late for work.", "pl": "On nigdy nie spóźnia się do pracy." },
-      { "en": "I have never been to Japan.", "pl": "Nigdy nie byłem w Japonii." },
-      { "en": "Do you ever go running?", "pl": "Czy kiedykolwiek biegasz?" }
+      {
+        "en": "She has always insisted on paying for herself.",
+        "pl": "Ona zawsze upierała się, żeby płacić sama za siebie."
+      },
+      {
+        "en": "We rarely agree on anything, yet we never argue about it.",
+        "pl": "Rzadko się w czymkolwiek zgadzamy, a mimo to nigdy się o to nie kłócimy."
+      },
+      {
+        "en": "He can usually tell when something is wrong.",
+        "pl": "Zwykle potrafi wyczuć, kiedy coś jest nie tak."
+      },
+      {
+        "en": "Never have I regretted a decision so quickly.",
+        "pl": "Nigdy jeszcze nie pożałowałem decyzji tak szybko."
+      }
     ]
   },
   {
     "id": "manner_place_time",
     "order": 3,
-    "nameEn": "Order of manner, place and time",
-    "namePl": "Kolejność sposobu, miejsca i czasu",
+    "nameEn": "Manner, place and time (M-P-T)",
+    "namePl": "Sposób, miejsce i czas: koncentryczne kręgi zdania",
     "rules": [
-      { "label": "M-P-T", "text": "Gdy w zdaniu występują razem okoliczniki sposobu, miejsca i czasu, kolejność to: Sposób – Miejsce – Czas." },
-      { "label": "Miejsce przed czasem", "text": "Jeśli występują tylko miejsce i czas, miejsce zwykle idzie przed czasem: We met him at the station yesterday." },
-      { "label": "Czas na początku", "text": "Okolicznik czasu można też przenieść na początek zdania dla emfazy: Yesterday, we met him at the station." }
+      {
+        "label": "Budowa",
+        "text": "Gdy w zdaniu pojawiają się razem okoliczniki sposobu, miejsca i czasu, ich kolejność jest ustalona: Sposób – Miejsce – Czas. 'She sang beautifully at the party last night.' — nigdy 'last night at the party beautifully'. To jedna z niewielu reguł szyku, których naruszenie natychmiast brzmi jak błąd, nie stylistyczna wariacja."
+      },
+      {
+        "label": "Model koncentrycznych kręgów",
+        "text": "Kolejność M-P-T nie jest arbitralna — odzwierciedla rosnący 'promień' kontekstu wokół czasownika. Sposób opisuje samą czynność od środka: JAK dokładnie ona przebiegała (beautifully modyfikuje sam akt śpiewania). Miejsce to następny, szerszy krąg: przestrzenny kontener, w którym ta czynność się odbyła (at the party). Czas to krąg najszerszy: ramy czasowe obejmujące całe to wydarzenie wraz z miejscem i sposobem jego przebiegu (last night). Im dalej okolicznik stoi od czasownika, tym szerszy kontekst opisuje — składnia dosłownie odwzorowuje geometrię znaczenia."
+      },
+      {
+        "label": "Zasada end-weight i struktura informacji",
+        "text": "Angielski, podobnie jak większość języków, ma tendencję do umieszczania nowej, najważniejszej informacji bliżej końca zdania (tzw. zasada end-weight) — łatwiej przetwarzać zdanie, gdy 'znane' elementy poprzedzają 'nowe'. Okolicznik czasu bywa często tłem, kontekstem, a nie sednem wypowiedzi, więc naturalnie ląduje na samym końcu — tam, gdzie angielszczyzna najchętniej umieszcza to, co dopowiada resztę. Dlatego to właśnie czas, spośród trzech okoliczników, najłatwiej 'oderwać' od reszty zdania i przenieść gdzie indziej."
+      },
+      {
+        "label": "Dlaczego czas można wysunąć na początek, a sposobu nie",
+        "text": "'Last night, she sang beautifully at the party' brzmi zupełnie naturalnie — czas pełni tu funkcję ramy, sceny, na tle której rozgrywa się reszta zdania, więc łatwo przenosi się przed podmiot. Ale 'Beautifully, she sang at the party last night' w tym neutralnym sensie już nie brzmi naturalnie — sposób i miejsce są semantycznie zrośnięte z czasownikiem (opisują SAMO zdarzenie, nie jego zewnętrzne tło), więc opierają się przesunięciu równie mocno, co dopełnienie. Fronting działa tu proporcjonalnie do tego, jak luźno dany okolicznik jest związany z rdzeniem zdania."
+      }
     ],
     "usage": [
-      "Opisywanie gdzie i kiedy coś się wydarzyło",
-      "Unikanie błędu przestawienia kolejności pod wpływem polskiego szyku",
-      "W mowie potocznej okolicznik czasu często pojawia się na początku zdania"
+      "Trzy okoliczniki naraz: Sposób – Miejsce – Czas (He worked quietly in the library all afternoon.)",
+      "Gdy występuje tylko jeden lub dwa z nich, kolejność wciąż obowiązuje między obecnymi elementami (We met at the station yesterday. — Miejsce przed Czasem)",
+      "Okolicznik czasu swobodnie przenosi się na początek zdania jako rama kontekstowa, zwłaszcza w narracji i relacjach z wydarzeń (Last summer, we travelled around Portugal.)",
+      "Okoliczniki miejsca i sposobu pozostają bliżej czasownika — ich przeniesienie na początek zdania jest rzadkie i zarezerwowane dla świadomej emfazy lub stylu literackiego"
     ],
-    "tags": ["beautifully at the party last night", "in the garden all afternoon", "M-P-T"],
+    "tags": [
+      "manner place time",
+      "end-weight",
+      "fronting",
+      "MPT"
+    ],
     "examples": [
-      { "en": "She sang beautifully at the party last night.", "pl": "Ona pięknie śpiewała na przyjęciu wczoraj wieczorem." },
-      { "en": "We met him at the station yesterday.", "pl": "Spotkaliśmy go na stacji wczoraj." },
-      { "en": "He worked hard in the garden all afternoon.", "pl": "Ciężko pracował w ogrodzie całe popołudnie." },
-      { "en": "Yesterday, we met him at the station.", "pl": "Wczoraj spotkaliśmy go na stacji." }
+      {
+        "en": "They danced gracefully in the old ballroom until midnight.",
+        "pl": "Tańczyli z wdziękiem w starej sali balowej aż do północy."
+      },
+      {
+        "en": "Last winter, he worked tirelessly at the shelter every weekend.",
+        "pl": "Zeszłej zimy pracował niestrudzenie w schronisku w każdy weekend."
+      },
+      {
+        "en": "She whispered nervously in the hallway before the interview.",
+        "pl": "Szeptała nerwowo na korytarzu przed rozmową kwalifikacyjną."
+      },
+      {
+        "en": "We waited patiently outside the theatre for almost an hour.",
+        "pl": "Czekaliśmy cierpliwie pod teatrem prawie godzinę."
+      }
     ]
   },
   {
     "id": "mid_position_adverbs",
     "order": 4,
-    "nameEn": "Mid-position adverbs (already, just, still, also, only)",
-    "namePl": "Przysłówki w pozycji środkowej (already, just, still, also, only)",
+    "nameEn": "Sentence adverbs: certainty, degree and scope",
+    "namePl": "Przysłówki zdaniowe: pewność, stopień i zasięg całej myśli",
     "rules": [
-      { "label": "Przed czasownikiem głównym", "text": "already, just, still, also, only stoją przed czasownikiem głównym: I already know that." },
-      { "label": "Po to be i po pierwszym posiłkowym", "text": "Po to be oraz po pierwszym czasowniku posiłkowym: She is still sleeping. / We have just arrived." },
-      { "label": "Still w przeczeniach", "text": "Still w przeczeniach stoi przed 'not': I still don't understand." }
+      {
+        "label": "Budowa",
+        "text": "Przysłówki pewności (probably, certainly, definitely, obviously, apparently) oraz dodawania i stopnia (also, almost, nearly, just, even) zajmują tę samą pozycję środkową, co przysłówki częstotliwości: po operatorze, przed czasownikiem głównym. 'She has probably already left.' / 'He is obviously tired.' / 'I can almost see the finish line.'"
+      },
+      {
+        "label": "Inna funkcja, ta sama pozycja",
+        "text": "Przysłówki częstotliwości kwantyfikują POWTARZALNOŚĆ czynności w czasie (jak często?). Przysłówki tego typu kwantyfikują za to PEWNOŚĆ mówiącego co do prawdziwości całego zdania (probably, certainly) albo zasięg czy stopień jakiejś cechy (almost, even, also). To zupełnie inna funkcja semantyczna — jeden mówi 'jak często', drugi 'jak bardzo jestem tego pewny' — a mimo to oba typy przysłówka 'chcą' tego samego miejsca w zdaniu: możliwie blisko czasownika głównego, poza szkieletem operatora. W angielskim funkcja gramatyczna miejsca w zdaniu bywa więc szersza niż jedna konkretna kategoria znaczeniowa."
+      },
+      {
+        "label": "Zasięg całej myśli, nie tylko czasownika",
+        "text": "O ile 'always' modyfikuje wąsko sam czasownik (jak często robię X), o tyle 'probably' czy 'certainly' obejmuje swoim zasięgiem całą propozycję zdania — mówiący ocenia prawdopodobieństwo całej sytuacji, nie samej czynności. To rozróżnienie widać, gdy przysłówek przenosi się na sam początek zdania: 'Probably, she already knows.' jawnie sygnalizuje, że cały poniższy sąd jest tylko przypuszczeniem mówiącego, podczas gdy w pozycji środkowej ta sama informacja jest podana bardziej mimochodem, jako wtrącenie w tok zdania."
+      },
+      {
+        "label": "Already, still, just — pozycja jako nośnik znaczenia",
+        "text": "already, still i just potrafią stać zarówno w pozycji środkowej (I've already finished.), jak i na końcu zdania w mowie potocznej (I've finished already.) — a przesunięcie zmienia odcień znaczenia: końcowe 'already' brzmi na zaskoczenie lub niecierpliwość, środkowe jest neutralnym stwierdzeniem faktu. Ta subtelna gra pozycji i rejestru jest rozwinięta osobno w temacie 'Already / still / yet'."
+      }
     ],
     "usage": [
-      "Podkreślanie, że coś już się wydarzyło (already, just)",
-      "Podkreślanie kontynuacji stanu (still)",
-      "Dodawanie informacji (also) lub ograniczanie jej (only)"
+      "Pozycja środkowa (po operatorze, przed czasownikiem głównym) jest domyślna i neutralna stylistycznie (We have certainly considered that option.)",
+      "Pozycja początkowa (Certainly, this changes things.) rozszerza zasięg przysłówka na całe zdanie i brzmi bardziej retorycznie lub podkreślająco",
+      "'even' i 'also' szczególnie mocno zależą od pozycji — stoją bezpośrednio przed elementem, który dodają lub kontrastują, nie tylko przed czasownikiem (He even apologised to the waiter. vs Even he apologised.)",
+      "Przysłówki pewności nie łączą się naturalnie z trybem rozkazującym ani z pytaniami zależnymi w tej samej funkcji — ich domena to zdania oznajmujące wyrażające ocenę mówiącego"
     ],
-    "tags": ["already know", "have just arrived", "is still sleeping", "also speaks"],
+    "tags": [
+      "probably",
+      "certainly",
+      "also",
+      "even",
+      "sentence adverbs"
+    ],
     "examples": [
-      { "en": "I already know that.", "pl": "Już to wiem." },
-      { "en": "We have just arrived.", "pl": "Właśnie przyjechaliśmy." },
-      { "en": "She is still sleeping.", "pl": "Ona wciąż śpi." },
-      { "en": "He also speaks French.", "pl": "On też mówi po francusku." }
+      {
+        "en": "The train has probably already left the station.",
+        "pl": "Pociąg prawdopodobnie już odjechał ze stacji."
+      },
+      {
+        "en": "He obviously hadn't read the report before the meeting.",
+        "pl": "Najwyraźniej nie przeczytał raportu przed spotkaniem."
+      },
+      {
+        "en": "She even thanked the people who criticised her.",
+        "pl": "Podziękowała nawet ludziom, którzy ją krytykowali."
+      },
+      {
+        "en": "Certainly, no one expected the results to change so fast.",
+        "pl": "Z pewnością nikt nie spodziewał się, że wyniki zmienią się tak szybko."
+      }
     ]
   }
 ]
