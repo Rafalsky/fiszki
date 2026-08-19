@@ -1,45 +1,618 @@
 [
-  {"id": 1, "itemId": "gerund_after_verbs", "prompt": "I enjoy ___ (swim) in the sea.", "answer": "swimming", "distractors": ["to swim", "swim", "swam"]},
-  {"id": 2, "itemId": "gerund_after_verbs", "prompt": "She tries to avoid ___ (eat) junk food.", "answer": "eating", "distractors": ["to eat", "eat", "ate"]},
-  {"id": 3, "itemId": "gerund_after_verbs", "prompt": "Have you finished ___ (write) your essay?", "answer": "writing", "distractors": ["to write", "write", "wrote"]},
-  {"id": 4, "itemId": "gerund_after_verbs", "prompt": "Would you mind ___ (open) the window?", "answer": "opening", "distractors": ["to open", "open", "opened"]},
-  {"id": 5, "itemId": "gerund_after_verbs", "prompt": "He suggested ___ (go) to the cinema.", "answer": "going", "distractors": ["to go", "go", "went"]},
-  {"id": 6, "itemId": "gerund_after_verbs", "prompt": "We are considering ___ (move) to another city.", "answer": "moving", "distractors": ["to move", "move", "moved"]},
-  {"id": 7, "itemId": "gerund_after_verbs", "prompt": "He admitted ___ (break) the window.", "answer": "breaking", "distractors": ["to break", "break", "broke"]},
-  {"id": 8, "itemId": "gerund_after_verbs", "prompt": "She denied ___ (steal) the money.", "answer": "stealing", "distractors": ["to steal", "steal", "stole"]},
-  {"id": 9, "itemId": "gerund_after_verbs", "prompt": "They postponed ___ (start) the meeting.", "answer": "starting", "distractors": ["to start", "start", "started"]},
-  {"id": 10, "itemId": "gerund_after_verbs", "prompt": "He kept on ___ (ask) the same question.", "answer": "asking", "distractors": ["to ask", "ask", "asked"]},
-
-  {"id": 11, "itemId": "infinitive_after_verbs", "prompt": "I want ___ (travel) around the world.", "answer": "to travel", "distractors": ["travelling", "travel", "travelled"]},
-  {"id": 12, "itemId": "infinitive_after_verbs", "prompt": "She decided ___ (change) her career.", "answer": "to change", "distractors": ["changing", "change", "changed"]},
-  {"id": 13, "itemId": "infinitive_after_verbs", "prompt": "We plan ___ (visit) Italy next summer.", "answer": "to visit", "distractors": ["visiting", "visit", "visited"]},
-  {"id": 14, "itemId": "infinitive_after_verbs", "prompt": "He hopes ___ (pass) the exam.", "answer": "to pass", "distractors": ["passing", "pass", "passed"]},
-  {"id": 15, "itemId": "infinitive_after_verbs", "prompt": "They agreed ___ (help) us with the project.", "answer": "to help", "distractors": ["helping", "help", "helped"]},
-  {"id": 16, "itemId": "infinitive_after_verbs", "prompt": "I promise ___ (call) you tonight.", "answer": "to call", "distractors": ["calling", "call", "called"]},
-  {"id": 17, "itemId": "infinitive_after_verbs", "prompt": "He offered ___ (carry) my bags.", "answer": "to carry", "distractors": ["carrying", "carry", "carried"]},
-  {"id": 18, "itemId": "infinitive_after_verbs", "prompt": "She refused ___ (sign) the contract.", "answer": "to sign", "distractors": ["signing", "sign", "signed"]},
-  {"id": 19, "itemId": "infinitive_after_verbs", "prompt": "We managed ___ (finish) the project on time.", "answer": "to finish", "distractors": ["finishing", "finish", "finished"]},
-  {"id": 20, "itemId": "infinitive_after_verbs", "prompt": "They can't afford ___ (buy) a new car.", "answer": "to buy", "distractors": ["buying", "buy", "bought"]},
-
-  {"id": 21, "itemId": "verbs_both", "prompt": "I remember ___ (lock) the door — I definitely did it.", "answer": "locking", "distractors": ["to lock", "lock", "locked"]},
-  {"id": 22, "itemId": "verbs_both", "prompt": "Please remember ___ (lock) the door before you leave.", "answer": "to lock", "distractors": ["locking", "lock", "locked"]},
-  {"id": 23, "itemId": "verbs_both", "prompt": "I'll never forget ___ (see) that beautiful sunset.", "answer": "seeing", "distractors": ["to see", "see", "saw"]},
-  {"id": 24, "itemId": "verbs_both", "prompt": "Don't forget ___ (buy) some milk on your way home.", "answer": "to buy", "distractors": ["buying", "buy", "bought"]},
-  {"id": 25, "itemId": "verbs_both", "prompt": "She stopped ___ (smoke) five years ago.", "answer": "smoking", "distractors": ["to smoke", "smoke", "smoked"]},
-  {"id": 26, "itemId": "verbs_both", "prompt": "We stopped ___ (ask) for directions.", "answer": "to ask", "distractors": ["asking", "ask", "asked"]},
-  {"id": 27, "itemId": "verbs_both", "prompt": "Try ___ (turn) it off and on again — that might fix it.", "answer": "turning", "distractors": ["to turn", "turn", "turned"]},
-  {"id": 28, "itemId": "verbs_both", "prompt": "He tried hard ___ (pass) the exam, but he failed.", "answer": "to pass", "distractors": ["passing", "pass", "passed"]},
-  {"id": 29, "itemId": "verbs_both", "prompt": "It started ___ (rain) just as we left the house.", "answer": "raining", "distractors": ["to rain", "rain", "rained"]},
-  {"id": 30, "itemId": "verbs_both", "prompt": "They continued ___ (work) despite the noise.", "answer": "working", "distractors": ["to work", "work", "worked"]},
-
-  {"id": 31, "itemId": "gerund_other_uses", "prompt": "She is good at ___ (solve) problems.", "answer": "solving", "distractors": ["to solve", "solve", "solved"]},
-  {"id": 32, "itemId": "gerund_other_uses", "prompt": "He is interested in ___ (learn) Spanish.", "answer": "learning", "distractors": ["to learn", "learn", "learned"]},
-  {"id": 33, "itemId": "gerund_other_uses", "prompt": "His favourite activity is ___ (fish).", "answer": "fishing", "distractors": ["to fish", "fish", "fished"]},
-  {"id": 34, "itemId": "gerund_other_uses", "prompt": "I look forward to ___ (hear) from you soon.", "answer": "hearing", "distractors": ["to hear", "hear", "heard"]},
-  {"id": 35, "itemId": "gerund_other_uses", "prompt": "She is used to ___ (work) night shifts.", "answer": "working", "distractors": ["to work", "work", "worked"]},
-  {"id": 36, "itemId": "gerund_other_uses", "prompt": "Wash your hands before ___ (eat).", "answer": "eating", "distractors": ["to eat", "eat", "ate"]},
-  {"id": 37, "itemId": "gerund_other_uses", "prompt": "He left without ___ (say) goodbye.", "answer": "saying", "distractors": ["to say", "say", "said"]},
-  {"id": 38, "itemId": "gerund_other_uses", "prompt": "I object to ___ (be) treated like this.", "answer": "being", "distractors": ["to be", "be", "been"]},
-  {"id": 39, "itemId": "gerund_other_uses", "prompt": "Instead of ___ (complain), try to find a solution.", "answer": "complaining", "distractors": ["to complain", "complain", "complained"]},
-  {"id": 40, "itemId": "gerund_other_uses", "prompt": "You'll get used to ___ (drive) on the left.", "answer": "driving", "distractors": ["to drive", "drive", "drove"]}
+  {
+    "id": 1,
+    "itemId": "historical_foundation",
+    "prompt": "His endless ___ (complain) about the weather started to grate on everyone.",
+    "answer": "complaining",
+    "distractors": [
+      "to complain",
+      "complain",
+      "complained"
+    ]
+  },
+  {
+    "id": 2,
+    "itemId": "historical_foundation",
+    "prompt": "We went to the station early ___ (avoid) the rush-hour crowds.",
+    "answer": "to avoid",
+    "distractors": [
+      "avoiding",
+      "avoid",
+      "avoided"
+    ]
+  },
+  {
+    "id": 3,
+    "itemId": "historical_foundation",
+    "prompt": "I could hear the rain ___ (tap) softly against the windowpane.",
+    "answer": "tapping",
+    "distractors": [
+      "to tap",
+      "tap",
+      "tapped"
+    ]
+  },
+  {
+    "id": 4,
+    "itemId": "historical_foundation",
+    "prompt": "You needn't ___ (worry) — the modal 'needn't' takes a bare form, just like 'can' or 'must'.",
+    "answer": "worry",
+    "distractors": [
+      "to worry",
+      "worrying",
+      "worried"
+    ]
+  },
+  {
+    "id": 5,
+    "itemId": "historical_foundation",
+    "prompt": "The committee met ___ (discuss) the budget for next year.",
+    "answer": "to discuss",
+    "distractors": [
+      "discussing",
+      "discuss",
+      "discussed"
+    ]
+  },
+  {
+    "id": 6,
+    "itemId": "historical_foundation",
+    "prompt": "Her constant ___ (interrupt) made the meeting drag on forever.",
+    "answer": "interrupting",
+    "distractors": [
+      "to interrupt",
+      "interrupt",
+      "interrupted"
+    ]
+  },
+  {
+    "id": 7,
+    "itemId": "historical_foundation",
+    "prompt": "They travelled all night ___ (reach) the summit by dawn.",
+    "answer": "to reach",
+    "distractors": [
+      "reaching",
+      "reach",
+      "reached"
+    ]
+  },
+  {
+    "id": 8,
+    "itemId": "historical_foundation",
+    "prompt": "He can ___ (swim) faster than anyone else on the team.",
+    "answer": "swim",
+    "distractors": [
+      "to swim",
+      "swimming",
+      "swam"
+    ]
+  },
+  {
+    "id": 9,
+    "itemId": "conceptual_model",
+    "prompt": "She's finally agreed ___ (sell) the old family house.",
+    "answer": "to sell",
+    "distractors": [
+      "selling",
+      "sell",
+      "sold"
+    ]
+  },
+  {
+    "id": 10,
+    "itemId": "conceptual_model",
+    "prompt": "I really can't imagine ___ (live) anywhere but this city.",
+    "answer": "living",
+    "distractors": [
+      "to live",
+      "live",
+      "lived"
+    ]
+  },
+  {
+    "id": 11,
+    "itemId": "conceptual_model",
+    "prompt": "He's been threatening ___ (resign) for months now.",
+    "answer": "to resign",
+    "distractors": [
+      "resigning",
+      "resign",
+      "resigned"
+    ]
+  },
+  {
+    "id": 12,
+    "itemId": "conceptual_model",
+    "prompt": "Would you mind ___ (turn) the music down a bit?",
+    "answer": "turning",
+    "distractors": [
+      "to turn",
+      "turn",
+      "turned"
+    ]
+  },
+  {
+    "id": 13,
+    "itemId": "conceptual_model",
+    "prompt": "They finally managed ___ (fix) the leak in the roof.",
+    "answer": "to fix",
+    "distractors": [
+      "fixing",
+      "fix",
+      "fixed"
+    ]
+  },
+  {
+    "id": 14,
+    "itemId": "conceptual_model",
+    "prompt": "She kept ___ (glance) nervously at the door during the interview.",
+    "answer": "glancing",
+    "distractors": [
+      "to glance",
+      "glance",
+      "glanced"
+    ]
+  },
+  {
+    "id": 15,
+    "itemId": "conceptual_model",
+    "prompt": "We're planning ___ (move) to the coast once the kids finish school.",
+    "answer": "to move",
+    "distractors": [
+      "moving",
+      "move",
+      "moved"
+    ]
+  },
+  {
+    "id": 16,
+    "itemId": "conceptual_model",
+    "prompt": "He risked ___ (lose) everything by investing so late.",
+    "answer": "losing",
+    "distractors": [
+      "to lose",
+      "lose",
+      "lost"
+    ]
+  },
+  {
+    "id": 17,
+    "itemId": "verbs_meaning_shift",
+    "prompt": "I clearly remember ___ (post) the letter — I can still picture the mailbox.",
+    "answer": "posting",
+    "distractors": [
+      "to post",
+      "post",
+      "posted"
+    ]
+  },
+  {
+    "id": 18,
+    "itemId": "verbs_meaning_shift",
+    "prompt": "Please remember ___ (feed) the cat before you leave for work.",
+    "answer": "to feed",
+    "distractors": [
+      "feeding",
+      "feed",
+      "fed"
+    ]
+  },
+  {
+    "id": 19,
+    "itemId": "verbs_meaning_shift",
+    "prompt": "Halfway through the film, we stopped ___ (get) some popcorn.",
+    "answer": "to get",
+    "distractors": [
+      "getting",
+      "get",
+      "got"
+    ]
+  },
+  {
+    "id": 20,
+    "itemId": "verbs_meaning_shift",
+    "prompt": "After the diagnosis, he finally stopped ___ (drink) altogether.",
+    "answer": "drinking",
+    "distractors": [
+      "to drink",
+      "drink",
+      "drank"
+    ]
+  },
+  {
+    "id": 21,
+    "itemId": "verbs_meaning_shift",
+    "prompt": "If the app keeps freezing, try ___ (reinstall) it from scratch.",
+    "answer": "reinstalling",
+    "distractors": [
+      "to reinstall",
+      "reinstall",
+      "reinstalled"
+    ]
+  },
+  {
+    "id": 22,
+    "itemId": "verbs_meaning_shift",
+    "prompt": "He tried desperately ___ (open) the stuck window, but it wouldn't budge.",
+    "answer": "to open",
+    "distractors": [
+      "opening",
+      "open",
+      "opened"
+    ]
+  },
+  {
+    "id": 23,
+    "itemId": "verbs_meaning_shift",
+    "prompt": "We regret ___ (inform) passengers that the 9:15 service has been cancelled.",
+    "answer": "to inform",
+    "distractors": [
+      "informing",
+      "inform",
+      "informed"
+    ]
+  },
+  {
+    "id": 24,
+    "itemId": "verbs_meaning_shift",
+    "prompt": "After the pause, the professor went on ___ (explain) the second theorem.",
+    "answer": "to explain",
+    "distractors": [
+      "explaining",
+      "explain",
+      "explained"
+    ]
+  },
+  {
+    "id": 25,
+    "itemId": "gerund_beyond_verbs",
+    "prompt": "She's genuinely interested in ___ (learn) how the whole system works.",
+    "answer": "learning",
+    "distractors": [
+      "to learn",
+      "learn",
+      "learned"
+    ]
+  },
+  {
+    "id": 26,
+    "itemId": "gerund_beyond_verbs",
+    "prompt": "I'm looking forward to ___ (see) you all again at the reunion.",
+    "answer": "seeing",
+    "distractors": [
+      "to see",
+      "see",
+      "saw"
+    ]
+  },
+  {
+    "id": 27,
+    "itemId": "gerund_beyond_verbs",
+    "prompt": "He apologised for ___ (be) late to the ceremony.",
+    "answer": "being",
+    "distractors": [
+      "to be",
+      "be",
+      "been"
+    ]
+  },
+  {
+    "id": 28,
+    "itemId": "gerund_beyond_verbs",
+    "prompt": "Instead of ___ (complain), why don't you write to the manager directly?",
+    "answer": "complaining",
+    "distractors": [
+      "to complain",
+      "complain",
+      "complained"
+    ]
+  },
+  {
+    "id": 29,
+    "itemId": "gerund_beyond_verbs",
+    "prompt": "___ (Learn) a musical instrument as an adult takes real patience.",
+    "answer": "Learning",
+    "distractors": [
+      "To learn",
+      "Learn",
+      "Learned"
+    ]
+  },
+  {
+    "id": 30,
+    "itemId": "gerund_beyond_verbs",
+    "prompt": "Despite ___ (feel) nervous, she gave a confident presentation.",
+    "answer": "feeling",
+    "distractors": [
+      "to feel",
+      "feel",
+      "felt"
+    ]
+  },
+  {
+    "id": 31,
+    "itemId": "gerund_beyond_verbs",
+    "prompt": "We finally got round to ___ (paint) the fence last weekend.",
+    "answer": "painting",
+    "distractors": [
+      "to paint",
+      "paint",
+      "painted"
+    ]
+  },
+  {
+    "id": 32,
+    "itemId": "gerund_beyond_verbs",
+    "prompt": "In addition to ___ (manage) the team, she also handles all the invoicing.",
+    "answer": "managing",
+    "distractors": [
+      "to manage",
+      "manage",
+      "managed"
+    ]
+  },
+  {
+    "id": 33,
+    "itemId": "bare_infinitive",
+    "prompt": "The alarm made everyone ___ (rush) out of the building immediately.",
+    "answer": "rush",
+    "distractors": [
+      "to rush",
+      "rushing",
+      "rushed"
+    ]
+  },
+  {
+    "id": 34,
+    "itemId": "bare_infinitive",
+    "prompt": "Her parents finally let her ___ (travel) alone for the first time.",
+    "answer": "travel",
+    "distractors": [
+      "to travel",
+      "travelling",
+      "travelled"
+    ]
+  },
+  {
+    "id": 35,
+    "itemId": "bare_infinitive",
+    "prompt": "I saw the two boys ___ (climb) all the way over the fence and disappear.",
+    "answer": "climb",
+    "distractors": [
+      "to climb",
+      "climbing",
+      "climbed"
+    ]
+  },
+  {
+    "id": 36,
+    "itemId": "bare_infinitive",
+    "prompt": "From the kitchen, I could hear him ___ (mutter) to himself for several minutes.",
+    "answer": "muttering",
+    "distractors": [
+      "to mutter",
+      "mutter",
+      "muttered"
+    ]
+  },
+  {
+    "id": 37,
+    "itemId": "bare_infinitive",
+    "prompt": "Let the dog ___ (run) around the garden for a while before we go.",
+    "answer": "run",
+    "distractors": [
+      "to run",
+      "running",
+      "ran"
+    ]
+  },
+  {
+    "id": 38,
+    "itemId": "bare_infinitive",
+    "prompt": "The witness was made ___ (repeat) her statement in front of the jury.",
+    "answer": "to repeat",
+    "distractors": [
+      "repeat",
+      "repeating",
+      "repeated"
+    ]
+  },
+  {
+    "id": 39,
+    "itemId": "bare_infinitive",
+    "prompt": "You'd better ___ (leave) now if you want to catch the last train.",
+    "answer": "leave",
+    "distractors": [
+      "to leave",
+      "leaving",
+      "left"
+    ]
+  },
+  {
+    "id": 40,
+    "itemId": "bare_infinitive",
+    "prompt": "The new intern was allowed ___ (sit) in on the client meeting.",
+    "answer": "to sit",
+    "distractors": [
+      "sit",
+      "sitting",
+      "sat"
+    ]
+  },
+  {
+    "id": 41,
+    "itemId": "register_and_possessive",
+    "prompt": "The board strongly objected to the director's ___ (postpone) the announcement.",
+    "answer": "postponing",
+    "distractors": [
+      "to postpone",
+      "postpone",
+      "postponed"
+    ]
+  },
+  {
+    "id": 42,
+    "itemId": "register_and_possessive",
+    "prompt": "Nobody minded him ___ (arrive) a little late, given the traffic.",
+    "answer": "arriving",
+    "distractors": [
+      "to arrive",
+      "arrive",
+      "arrived"
+    ]
+  },
+  {
+    "id": 43,
+    "itemId": "register_and_possessive",
+    "prompt": "I love ___ (walk) along the beach at sunset — it's one of my favourite things.",
+    "answer": "walking",
+    "distractors": [
+      "to walk",
+      "walk",
+      "walked"
+    ]
+  },
+  {
+    "id": 44,
+    "itemId": "register_and_possessive",
+    "prompt": "Given the choice, she likes ___ (go) by train rather than by car.",
+    "answer": "to go",
+    "distractors": [
+      "going",
+      "go",
+      "went"
+    ]
+  },
+  {
+    "id": 45,
+    "itemId": "register_and_possessive",
+    "prompt": "I'd really love ___ (join) you for dinner on Friday, if that's still on.",
+    "answer": "to join",
+    "distractors": [
+      "joining",
+      "join",
+      "joined"
+    ]
+  },
+  {
+    "id": 46,
+    "itemId": "register_and_possessive",
+    "prompt": "There was some grumbling about the manager's ___ (change) the schedule again.",
+    "answer": "changing",
+    "distractors": [
+      "to change",
+      "change",
+      "changed"
+    ]
+  },
+  {
+    "id": 47,
+    "itemId": "register_and_possessive",
+    "prompt": "Do you mind my ___ (ask) why you left your last job?",
+    "answer": "asking",
+    "distractors": [
+      "to ask",
+      "ask",
+      "asked"
+    ]
+  },
+  {
+    "id": 48,
+    "itemId": "register_and_possessive",
+    "prompt": "He prefers ___ (cook) at home to eating out most weeknights.",
+    "answer": "cooking",
+    "distractors": [
+      "to cook",
+      "cook",
+      "cooked"
+    ]
+  },
+  {
+    "id": 49,
+    "itemId": "advanced_forms",
+    "prompt": "He admitted ___ (lie) to the police months earlier.",
+    "answer": "having lied",
+    "distractors": [
+      "to have lied",
+      "lying",
+      "to lie"
+    ]
+  },
+  {
+    "id": 50,
+    "itemId": "advanced_forms",
+    "prompt": "She seems ___ (leave) already — her coat isn't on the hook.",
+    "answer": "to have left",
+    "distractors": [
+      "having left",
+      "to leave",
+      "leaving"
+    ]
+  },
+  {
+    "id": 51,
+    "itemId": "advanced_forms",
+    "prompt": "He hates ___ (tell) what to do in front of the whole team.",
+    "answer": "being told",
+    "distractors": [
+      "to be told",
+      "telling",
+      "have told"
+    ]
+  },
+  {
+    "id": 52,
+    "itemId": "advanced_forms",
+    "prompt": "The gutters really need ___ (clear) before the autumn storms arrive.",
+    "answer": "clearing",
+    "distractors": [
+      "to clear",
+      "clear",
+      "cleared"
+    ]
+  },
+  {
+    "id": 53,
+    "itemId": "advanced_forms",
+    "prompt": "This proposal isn't even worth ___ (discuss) at the next meeting.",
+    "answer": "discussing",
+    "distractors": [
+      "to discuss",
+      "discuss",
+      "discussed"
+    ]
+  },
+  {
+    "id": 54,
+    "itemId": "advanced_forms",
+    "prompt": "There's no point in ___ (argue) about something we can't change.",
+    "answer": "arguing",
+    "distractors": [
+      "to argue",
+      "argue",
+      "argued"
+    ]
+  },
+  {
+    "id": 55,
+    "itemId": "advanced_forms",
+    "prompt": "He claims ___ (misinform) by his own lawyer before the trial.",
+    "answer": "to have been misinformed",
+    "distractors": [
+      "to have misinformed",
+      "being misinformed",
+      "to be misinformed"
+    ]
+  },
+  {
+    "id": 56,
+    "itemId": "advanced_forms",
+    "prompt": "___ (Reduce) energy consumption has become a priority for the whole factory.",
+    "answer": "Reducing",
+    "distractors": [
+      "To reduce",
+      "Reduce",
+      "Reduced"
+    ]
+  }
 ]

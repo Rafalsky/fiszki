@@ -1,93 +1,418 @@
 [
   {
-    "id": "gerund_after_verbs",
+    "id": "historical_foundation",
     "order": 1,
-    "nameEn": "Gerund after certain verbs",
-    "namePl": "Gerund (-ing) po niektórych czasownikach",
+    "nameEn": "The historical foundation — how two unrelated Old English endings collided into one '-ing', and how the infinitive lost its skin",
+    "namePl": "Fundament historyczny: jak dwie niezależne staroangielskie końcówki zlały się w jedno „-ing”, a bezokolicznik zgubił swoją powłokę",
     "rules": [
-      { "label": "Budowa", "text": "czasownik + rzeczownik odczasownikowy (verb + -ing), np. enjoy doing, avoid doing" },
-      { "label": "Częste czasowniki", "text": "enjoy, avoid, finish, mind, suggest, consider, admit, deny, imagine, postpone, keep (on), miss, risk" }
+      {
+        "label": "Dwie zupełnie różne końcówki, dziś jeden dźwięk",
+        "text": "Staroangielski miał dwie odrębne, niepowiązane końcówki, które dziś brzmią identycznie jako '-ing'. Pierwsza to '-ung'/'-ing' — końcówka RZECZOWNIKOWA, tworząca z czasownika pełnoprawny rzeczownik abstrakcyjny (np. 'leornung' = 'nauka, uczenie się', rzeczownik rodzaju żeńskiego, odmieniany przez przypadki i liczbę jak każdy inny rzeczownik). Druga to '-ende' — końcówka PRZYMIOTNIKOWA/imiesłowowa, opisująca czynność w toku (np. 'lufiende' = 'kochający', odmieniana jak przymiotnik, zgadzająca się rodzajem i przypadkiem z rzeczownikiem, który opisywała). To były dwa całkowicie osobne systemy gramatyczne: jeden tworzył rzeczowniki, drugi — formy czasownikowo-przymiotnikowe."
+      },
+      {
+        "label": "Fonetyczna kolizja w średnioangielskim",
+        "text": "Między XII a XIV wiekiem angielszczyzna przeszła gwałtowną erozję końcówek nieakcentowanych (skutek stałego akcentu na rdzeniu wyrazu). W dialektach południowych i środkowych Anglii końcówka '-ende' osłabła najpierw do '-inde'/'-ynde', a potem stopniowo zlała się fonetycznie z rzeczownikową końcówką '-ing(e)'. Ten południowy wariant, czysto przypadkiem, wygrał rywalizację dialektalną i stał się podstawą standardu — i tak dwie niezależne kategorie gramatyczne, rzeczownik odczasownikowy i imiesłów czynny, zaczęły wyglądać identycznie. To fonetyczny wypadek historyczny, nie logiczny plan projektowy języka — dlatego nowoczesny '-ing' ma dziś podwójną (a właściwie poczwórną: gerund, imiesłów w czasach ciągłych, przymiotnik odczasownikowy i rzeczownik odczasownikowy) osobowość gramatyczną."
+      },
+      {
+        "label": "Bezokolicznik: goły rdzeń kontra celownik z 'to'",
+        "text": "Staroangielski miał również dwie formy bezokolicznika. Pierwsza to bezokolicznik goły, zakończony na '-an' (np. 'drincan' = 'pić') — forma słownikowa, używana samodzielnie i po czasownikach posiłkowych. Druga to tzw. bezokolicznik fleksyjny (celownikowy), zakończony na '-enne'/'-anne', poprzedzony przyimkiem 'to': 'to drincenne' dosłownie znaczyło 'ku [aktowi] picia', 'w celu picia'. Był to więc PRAWDZIWY przyimek 'to' rządzący prawdziwym rzeczownikiem odczasownikowym w celowniku — strukturalnie identyczny mechanizm do dzisiejszego 'gerund po przyimku' (interested IN doing, look forward TO doing)."
+      },
+      {
+        "label": "Zanik końcówek i wielka reinterpretacja",
+        "text": "Średnioangielski, w ramach ogólnego zaniku systemu przypadków, zgubił końcówkę '-enne'/'-anne' całkowicie, zostawiając samo 'to' + goły rdzeń czasownika ('to drink'). Ponieważ zniknął fleksyjny sygnał celownika, przeciętny użytkownik języka przestał odczuwać 'to' jako przyimek rządzący rzeczownikiem — i zreinterpretował je jako nową, osobną cząstkę: znacznik bezokolicznika ('infinitive marker'), pozbawiony własnego znaczenia leksykalnego, zrośnięty z następującym po nim czasownikiem. To dlatego dzisiejszy native speaker nie czuje w 'to go' żadnego przyimka — choć historycznie to jest dokładnie to samo 'to', które dziś stoi przed rzeczownikami ('to the shop')."
+      },
+      {
+        "label": "Dlaczego bezokolicznik przetrwał 'goły' po czasownikach modalnych",
+        "text": "Czasowniki modalne (can, may, must, shall, will oraz dawniej dare/need) należały w staroangielskim do odrębnej klasy tzw. czasowników preterytalno-teraźniejszych (preterite-present verbs) — ich forma teraźniejsza wywodziła się historycznie z dawnego czasu przeszłego mocnego, co samo w sobie jest osobną, starszą historią (patrz temat 'Czasowniki modalne'). Kluczowe dla bezokolicznika jest to, że modalne od zawsze rządziły bezokolicznikiem GOŁYM, nigdy formą celownikową z 'to' — bo wyrażały zdolność, przymus czy pozwolenie bezpośrednio przyczepione do czynności, a nie cel, ku któremu się zmierza. Ta rekcja przetrwała nienaruszona przez całą przebudowę systemu fleksyjnego, więc 'can go', 'must go', 'will go' to żywe skamieliny sprzed ponad tysiąca lat, a nie 'wyjątki' do wykucia na pamięć."
+      }
     ],
     "usage": [
-      "Po czasownikach wyrażających upodobania, unikanie i zakończenie czynności (enjoy, avoid, finish)",
-      "Po czasownikach sugerowania i przyznawania się (suggest, admit, deny)",
-      "Gdy czynność jest traktowana jak rzeczownik lub pojęcie, a nie jednorazowe zdarzenie w przyszłości"
+      "Gerund (-ing) to spadkobierca rzeczownika odczasownikowego '-ing'/'-ung' — stąd jego rzeczownikowe zachowanie: może być podmiotem zdania, dopełnieniem przyimka, przyjmuje nawet dopełniaczowy modyfikator ('his coming', 'the constant barking').",
+      "Imiesłów -ing w czasach ciągłych (Continuous) to spadkobierca zupełnie innej, przymiotnikowej końcówki '-ende' — stąd jego czysto werbalne zachowanie: nie odmienia się jak rzeczownik, nie przyjmuje dopełniacza, funkcjonuje jako część orzeczenia.",
+      "To, że dziś obie formy wyglądają identycznie, to skutek przypadkowego zlania fonetycznego w średniowieczu, a nie logicznego planu — dlatego nie warto szukać 'jednej reguły na -ing': trzeba rozpoznawać funkcję danej formy w konkretnym zdaniu.",
+      "Bezokolicznik z 'to' wywodzi się z przyimkowej frazy celu (przyimek 'to' + rzeczownik odczasownikowy w celowniku) — to wyjaśnia, dlaczego semantycznie infinitive tak często niesie ideę celu, kierunku, czegoś dopiero nadchodzącego.",
+      "Bezokolicznik goły (bez 'to') po czasownikach modalnych to skamielina najstarszej, bezpośredniej rekcji tej klasy czasowników — nie ma w tym żadnej 'nieregularności', to najstarszy zachowany wzorzec składniowy w całym systemie."
     ],
-    "tags": ["enjoy swimming", "avoid eating", "finish reading", "suggest going"],
+    "tags": [
+      "Old English -ung",
+      "gerund noun origin",
+      "to + dative infinitive",
+      "bare infinitive after modals",
+      "-ende participle"
+    ],
     "examples": [
-      { "en": "I enjoy reading before bed.", "pl": "Lubię czytać przed snem." },
-      { "en": "She avoided answering the question.", "pl": "Ona unikała odpowiedzi na pytanie." },
-      { "en": "Have you finished writing the report?", "pl": "Czy skończyłeś pisać raport?" },
-      { "en": "He suggested going for a walk.", "pl": "Zaproponował, żebyśmy poszli na spacer." }
+      {
+        "en": "His constant complaining annoyed everyone in the office.",
+        "pl": "Jego ciągłe narzekanie irytowało wszystkich w biurze."
+      },
+      {
+        "en": "He went to the shop to buy some bread.",
+        "pl": "Poszedł do sklepu, żeby kupić chleb."
+      },
+      {
+        "en": "She was singing quietly when I walked in.",
+        "pl": "Cicho śpiewała, kiedy wszedłem."
+      },
+      {
+        "en": "You must finish this report today.",
+        "pl": "Musisz skończyć ten raport dzisiaj."
+      }
     ]
   },
   {
-    "id": "infinitive_after_verbs",
+    "id": "conceptual_model",
     "order": 2,
-    "nameEn": "Infinitive (to + verb) after certain verbs",
-    "namePl": "Bezokolicznik (to + czasownik) po niektórych czasownikach",
+    "nameEn": "The mental model: gerund as a glance backward at something real, infinitive as a reach forward toward something potential",
+    "namePl": "Model myślowy: gerund jako spojrzenie wstecz na coś realnego, bezokolicznik jako sięgnięcie naprzód po coś potencjalnego",
     "rules": [
-      { "label": "Budowa", "text": "czasownik + to + bezokolicznik, np. want to go, decide to leave" },
-      { "label": "Częste czasowniki", "text": "want, decide, plan, hope, agree, promise, offer, refuse, manage, afford, learn, seem, arrange, expect" }
+      {
+        "label": "Gerund pakuje czynność jako 'rzecz', fakt, doświadczenie",
+        "text": "Ponieważ gerund gramatycznie JEST rzeczownikiem (patrz etymologia wyżej), naturalnie 'pakuje' czynność w gotowy, domknięty pakiet — coś, co dzieje się, działo się, jest ogólnie prawdziwe albo jest oceniane jako fakt czy doświadczenie, a nie coś, ku czemu się dopiero zmierza. Dlatego gerund pojawia się po czasownikach, które patrzą na czynność jako na zaistniałą albo aktualnie trwającą realność: enjoy, avoid, finish, admit, deny, risk, suggest, postpone, mind, miss, keep (on), imagine, consider, practise, resent, appreciate, resist, delay, involve."
+      },
+      {
+        "label": "Infinitive wskazuje cel, zamiar, coś jeszcze niezrealizowanego",
+        "text": "Ponieważ bezokolicznik z 'to' historycznie znaczył 'ku/w celu', zachował do dziś kierunkowy, celowy, jeszcze-nie-zaistniały sens. Dlatego infinitive naturalnie towarzyszy czasownikom wyrażającym zamiar, decyzję, pragnienie, oczekiwanie: want, decide, plan, hope, agree, promise, offer, refuse, manage, afford, learn, expect, arrange, wish, intend, aim, tend, threaten, fail, pretend. Wszystkie one opisują cel, do którego się dąży, a nie fakt już zaistniały."
+      },
+      {
+        "label": "Heurystyka praktyczna zamiast wykuwania list na pamięć",
+        "text": "Zamiast zapamiętywać dwie osobne listy czasowników, warto stosować test parafrazy: spróbuj podstawić 'sam fakt robienia czegoś' dla odczytu gerundialnego, a 'cel/zamiar zrobienia czegoś' dla odczytu bezokolicznikowego, i sprawdź, który wariant brzmi naturalnie. 'I finished the act of writing' → 'I finished writing' (dokonanie realnej, trwającej czynności). 'I decided on the goal of leaving' → 'I decided to leave' (cel wyznaczony na przyszłość). Ta heurystyka nie zastępuje znajomości konkretnych czasowników, ale pozwala przewidzieć zachowanie nowo poznanego czasownika bez sprawdzania w słowniku."
+      },
+      {
+        "label": "To kontinuum, nie sztywna tabelka dwuwartościowa",
+        "text": "Model 'wstecz/w przód' to narzędzie generatywne, pomagające zrozumieć i zapamiętać, a nie bezwyjątkowy algorytm. Niektóre czasowniki leżą blisko granicy i historycznie osiadły po jednej stronie raczej przez konwencję użycia niż czystą logikę (np. 'enjoy' teoretycznie mogłoby zmierzać ku czemuś, ale jego rdzeń znaczeniowy — czerpanie przyjemności z czynności w toku lub ogólnie — mocno zakotwiczył go po stronie gerund)."
+      },
+      {
+        "label": "Model wyjaśnia też różnicę stylistyczną, nie tylko gramatyczną",
+        "text": "Gerund zwykle brzmi bardziej rzeczowo, ogólnie, jak stwierdzenie faktu; infinitive brzmi bardziej celowo, konkretnie, aspiracyjnie. Ta subtelna różnica stanie się kluczowa przy czasownikach zmieniających znaczenie (remember/forget, stop/try) oraz przy kontraście like/love/prefer + gerund vs. + infinitive, omówionym w dalszych częściach tego tematu."
+      }
     ],
     "usage": [
-      "Po czasownikach wyrażających zamiar, decyzję i plan na przyszłość (decide, plan, hope)",
-      "Po czasownikach obietnicy, odmowy i zgody (promise, refuse, agree)",
-      "Gdy mówimy o czynności, która ma dopiero nastąpić"
+      "Czasowniki 'patrzące wstecz/na fakt' + gerund: enjoy, avoid, finish, admit, deny, risk, suggest, postpone, mind, miss, imagine, consider, practise, resent, appreciate, resist, delay, involve, quit, discontinue.",
+      "Czasowniki 'sięgające naprzód/do celu' + infinitive: want, decide, plan, hope, agree, promise, offer, refuse, manage, afford, learn, expect, arrange, wish, intend, aim, tend, threaten, fail, pretend, long, aspire.",
+      "Test parafrazy 'fakt robienia' vs. 'cel zrobienia' pozwala przewidzieć zachowanie nieznanego czasownika, zamiast bezmyślnie zgadywać.",
+      "Model tłumaczy też, dlaczego czasowniki o znaczeniu 'unikania' (avoid, resist, escape) niemal zawsze łączą się z gerund — unikana czynność musi być pojęta jako realna możliwość, od której się odsuwamy, a nie jako cel, do którego dążymy.",
+      "Model tłumaczy, dlaczego czasowniki 'obietnicy' i 'zgody' (promise, agree, offer, refuse) niemal zawsze łączą się z infinitive — bo z natury dotyczą czynności, która ma dopiero nastąpić."
     ],
-    "tags": ["want to go", "decide to stay", "promise to help", "refuse to leave"],
+    "tags": [
+      "backward-looking gerund",
+      "forward-looking infinitive",
+      "semantic continuum",
+      "verb classes"
+    ],
     "examples": [
-      { "en": "I want to travel next year.", "pl": "Chcę podróżować w przyszłym roku." },
-      { "en": "She decided to change her job.", "pl": "Zdecydowała się zmienić pracę." },
-      { "en": "They promised to help us.", "pl": "Obiecali, że nam pomogą." },
-      { "en": "He refused to answer any questions.", "pl": "Odmówił odpowiedzi na jakiekolwiek pytania." }
+      {
+        "en": "I really enjoy cooking for large groups of friends.",
+        "pl": "Naprawdę lubię gotować dla dużych grup znajomych."
+      },
+      {
+        "en": "We've decided to sell the house next spring.",
+        "pl": "Zdecydowaliśmy się sprzedać dom przyszłej wiosny."
+      },
+      {
+        "en": "He kept avoiding the topic all evening.",
+        "pl": "Cały wieczór unikał tego tematu."
+      },
+      {
+        "en": "She promised to call as soon as she landed.",
+        "pl": "Obiecała zadzwonić, jak tylko wyląduje."
+      }
     ]
   },
   {
-    "id": "verbs_both",
+    "id": "verbs_meaning_shift",
     "order": 3,
-    "nameEn": "Verbs followed by both — with or without a change in meaning",
-    "namePl": "Czasowniki łączące się z oboma — bez zmiany i ze zmianą znaczenia",
+    "nameEn": "Verbs that change meaning with gerund vs. infinitive — remember, forget, stop, try, regret, go on, mean",
+    "namePl": "Czasowniki zmieniające znaczenie w zależności od gerund/bezokolicznika — remember, forget, stop, try, regret, go on, mean",
     "rules": [
-      { "label": "Bez zmiany znaczenia", "text": "like, love, hate, start, begin, continue, prefer — sens zdania pozostaje praktycznie taki sam z gerund i z bezokolicznikiem" },
-      { "label": "remember / forget", "text": "+ gerund = pamiętać / zapomnieć, że coś się zrobiło (czynność już wykonana); + infinitive = pamiętać / zapomnieć, żeby coś zrobić (obowiązek na przyszłość)" },
-      { "label": "stop / try", "text": "stop + gerund = przestać coś robić; stop + infinitive = zatrzymać się, żeby coś zrobić. try + gerund = wypróbować coś (eksperyment); try + infinitive = starać się, usiłować" }
+      {
+        "label": "remember / forget: pamięć o fakcie kontra pamięć o obowiązku",
+        "text": "'Remember + gerund' odnosi się do wspomnienia czynności już wykonanej — mówiący patrzy WSTECZ, na realny fakt, który zaszedł ('I remember locking the door' = pamiętam sam akt zamknięcia, mam w głowie ten obraz). 'Remember + infinitive' odnosi się do obowiązku, który dopiero czeka na wykonanie — mówiący patrzy NAPRZÓD, na cel, który trzeba zrealizować ('Remember to lock the door' = nie zapomnij tego zrobić, to jeszcze przed tobą). To dokładnie ten sam model wstecz/w przód z poprzedniej części, zastosowany do jednego czasownika."
+      },
+      {
+        "label": "stop: przerwanie czynności kontra zatrzymanie się w innym celu",
+        "text": "'Stop + gerund' oznacza przerwanie czynności, którą się wykonywało — gerund jest tu DOPEŁNIENIEM czasownika 'stop' ('He stopped smoking' = przestał wykonywać czynność palenia). 'Stop + infinitive' wcale nie jest dopełnieniem czasownika 'stop' w sensie gramatycznym — to bezokolicznik CELU, dokładnie ten sam, który omówiliśmy w kontekście historycznym ('He stopped to smoke' = zatrzymał się [w jakimś innym działaniu], żeby zapalić). Innymi słowy: to nie jest 'jeden czasownik o dwóch znaczeniach', lecz dwie całkiem różne struktury składniowe, które przypadkiem współdzielą ten sam czasownik 'stop'."
+      },
+      {
+        "label": "try: eksperyment kontra wysiłek",
+        "text": "'Try + gerund' oznacza wypróbowanie jakiejś metody jako eksperymentu, sprawdzenie, czy coś zadziała ('Try restarting the computer' = wypróbuj tę metodę, zobacz, czy pomoże — czynność jest łatwa do wykonania, chodzi o test). 'Try + infinitive' oznacza włożenie wysiłku w coś trudnego, niepewnego co do skutku ('He tried to open the jar' = usiłował, wkładał wysiłek, niekoniecznie mu się udało). Różnica leży w tym, czy nacisk pada na SPRAWDZANIE metody (gerund — czynność jako obiekt eksperymentu, a więc coś już 'w ręku', realnego), czy na DĄŻENIE do trudnego celu (infinitive — wysiłek skierowany ku czemuś niepewnemu)."
+      },
+      {
+        "label": "regret, go on, mean — trzy dalsze pary z tą samą logiką",
+        "text": "'Regret + gerund' = żałować czegoś, co się zrobiło ('I regret telling him the truth' = żałuję faktu, że powiedziałem). 'Regret + infinitive' = formalny zwrot używany, by z żalem oznajmić coś, co się ZARAZ powie ('We regret to inform you that...' — infinitive celu: żal jest tu skierowany ku aktowi poinformowania, który nastąpi za chwilę). 'Go on + gerund' = kontynuować tę samą czynność ('She went on talking' = mówiła dalej, nie przerywając). 'Go on + infinitive' = przejść do NOWEJ czynności ('She went on to talk about the budget' = zakończyła jeden wątek i przeszła do następnego — bezokolicznik znów oznacza nowy cel). 'Mean + gerund' = pociągać za sobą, implikować ('Working late means missing dinner' = to oznacza, wiąże się z...). 'Mean + infinitive' = zamierzać ('I meant to call you' = miałem zamiar, cel, którego nie zrealizowałem)."
+      },
+      {
+        "label": "Dlaczego to nie są 'wyjątki', tylko manifestacja jednej zasady",
+        "text": "Warto podkreślić uczącym się: to nie jest osobna, nieprzewidywalna lista do wykucia — to ten sam mechanizm wstecz/w przód, tylko widoczny na jednym czasowniku z dwiema możliwymi strukturami. Gdy się raz zrozumie logikę, każdą z tych par można odtworzyć samodzielnie, zamiast pamięciowo zgadywać."
+      }
     ],
     "usage": [
-      "like / love / hate / start / begin / continue + gerund lub infinitive — znaczenie się praktycznie nie zmienia",
-      "remember / forget — sprawdź, czy chodzi o wspomnienie z przeszłości, czy o obowiązek na przyszłość",
-      "stop — czy podmiot przestaje coś robić, czy zatrzymuje się w innym celu",
-      "try — czy chodzi o eksperyment, czy o włożony wysiłek"
+      "remember/forget + gerund → wspomnienie faktu z przeszłości (already done, backward).",
+      "remember/forget + infinitive → obowiązek na przyszłość (not yet done, forward).",
+      "stop + gerund → przerwanie czynności; stop + infinitive → zatrzymanie się w innym celu (bezokolicznik celu, nie dopełnienie 'stop').",
+      "try + gerund → eksperyment/metoda; try + infinitive → wysiłek wobec trudnego celu.",
+      "regret/go on/mean rządzą się dokładnie tą samą logiką backward/forward, mimo pozornie odrębnych znaczeń w słowniku."
     ],
-    "tags": ["stop smoking", "stop to rest", "remember locking", "remember to lock"],
+    "tags": [
+      "remember doing vs to do",
+      "stop doing vs to do",
+      "try doing vs to do",
+      "regret",
+      "go on"
+    ],
     "examples": [
-      { "en": "I love watching old films.", "pl": "Uwielbiam oglądać stare filmy." },
-      { "en": "She stopped smoking two years ago.", "pl": "Rzuciła palenie dwa lata temu." },
-      { "en": "We stopped to have lunch.", "pl": "Zatrzymaliśmy się, żeby zjeść lunch." },
-      { "en": "Please remember to lock the door.", "pl": "Pamiętaj, żeby zamknąć drzwi." }
+      {
+        "en": "I distinctly remember locking the front door before we left.",
+        "pl": "Doskonale pamiętam, że zamknąłem drzwi wejściowe, zanim wyszliśmy."
+      },
+      {
+        "en": "Don't forget to pick up the dry cleaning on your way home.",
+        "pl": "Nie zapomnij odebrać prania w drodze do domu."
+      },
+      {
+        "en": "On the way to the airport, we stopped to get some coffee.",
+        "pl": "W drodze na lotnisko zatrzymaliśmy się, żeby kupić kawę."
+      },
+      {
+        "en": "If the printer jams again, try turning it off and back on.",
+        "pl": "Jeśli drukarka znów się zatnie, spróbuj ją wyłączyć i włączyć ponownie."
+      }
     ]
   },
   {
-    "id": "gerund_other_uses",
+    "id": "gerund_beyond_verbs",
     "order": 4,
-    "nameEn": "Gerund after prepositions, as subject, and fixed expressions",
-    "namePl": "Gerund po przyimkach, jako podmiot i w wyrażeniach stałych",
+    "nameEn": "Gerund after prepositions, as subject and complement, and the 'to' that is secretly a preposition",
+    "namePl": "Gerund po przyimkach, jako podmiot i orzecznik oraz „to”, które jest w ukryciu przyimkiem",
     "rules": [
-      { "label": "Po przyimkach", "text": "po każdym przyimku (in, on, at, about, for, of, without, before, after, instead of) używamy gerund, nigdy bezokolicznika: interested in learning, good at cooking" },
-      { "label": "Jako podmiot zdania", "text": "gerund może pełnić funkcję podmiotu lub orzecznika zdania: Swimming is good for you. / His hobby is fishing." },
-      { "label": "look forward to / be used to", "text": "to jest tu przyimkiem, a nie cząstką bezokolicznika, więc po nim stoi gerund: I look forward to seeing you. / I'm used to getting up early." }
+      {
+        "label": "Po przyimku zawsze gerund — i to nie przypadek",
+        "text": "Każdy przyimek w angielskim rządzi rzeczownikiem albo zaimkiem (in the house, about it). Skoro gerund jest gramatycznie rzeczownikiem (patrz część historyczna), to logiczną konsekwencją jest, że jedyną formą czasownikową, jaka może stać bezpośrednio po przyimku, jest właśnie gerund: 'interested IN learning', 'good AT cooking', 'without saying a word'. Bezokolicznik z 'to' nigdy nie stoi bezpośrednio po innym przyimku — nie dlatego, że to arbitralna reguła, lecz dlatego, że 'to' w bezokoliczniku samo JEST reliktem przyimka, a angielski (jak większość języków) nie stawia dwóch przyimków bezpośrednio obok siebie rządzących tym samym elementem."
+      },
+      {
+        "label": "Diagnostyka: czy to 'to'-przyimek, czy 'to'-znacznik bezokolicznika?",
+        "text": "Istnieje prosty test rozróżniający obie funkcje 'to': jeśli można za nim wstawić rzeczownik lub zaimek ('it', 'this', 'the idea') i zdanie nadal ma sens, to 'to' pełni funkcję przyimka i wymaga gerund. 'I look forward to it' (działa!) → 'I look forward to seeing you' (gerund). 'I want to it' (nie działa) → 'to' jest tu czystym znacznikiem bezokolicznika, więc 'I want to see you'. Ten test rozwiązuje mylące utrwalone zwroty: look forward to, be/get used to, object to, in addition to, when it comes to, with a view to, be devoted to, be accustomed to."
+      },
+      {
+        "label": "Gerund jako podmiot i orzecznik zdania",
+        "text": "Ponieważ gerund jest rzeczownikiem, może pełnić dowolną funkcję rzeczownikową w zdaniu, nie tylko dopełnienia: podmiotu ('Swimming keeps you fit'), orzecznika ('His hobby is fishing'), a nawet dopełnienia bliższego innego rzeczownika w apozycji. W tej roli gerund brzmi bardziej ogólnie, jak nazwa czynności/pojęcia, w przeciwieństwie do bezokolicznika jako podmiotu, który w rejestrze formalnym bywa możliwy ('To err is human'), ale dziś silnie kojarzy się z podniosłym, aforystycznym stylem — we współczesnym, neutralnym angielskim naturalny podmiot to niemal zawsze gerund albo konstrukcja z podmiotem zapowiadającym 'it' ('It is human to err')."
+      },
+      {
+        "label": "Gerund po czasownikach frazowych z przyimkiem",
+        "text": "Czasowniki złożone kończące się przyimkiem (nie partykułą) — carry on, keep on, put off, give up, look forward to, get round to — zachowują się jak zwykłe połączenie 'czasownik + przyimek', więc rządzą gerund dokładnie z tego samego powodu co pojedyncze przyimki: 'give up smoking', 'put off leaving', 'get round to answering emails'."
+      },
+      {
+        "label": "Utrwalone wyrażenia przyimkowe wymagające gerund",
+        "text": "Poza przyimkami po czasownikach i przymiotnikach, gerund pojawia się też w stałych frazach przyimkowych funkcjonujących jako spójniki okolicznikowe: before, after, instead of, on top of, apart from, besides, in spite of, despite — wszystkie one w swej istocie są przyimkami (lub frazami przyimkowymi) i dlatego rządzą gerund, a nie bezokolicznikiem, mimo że po polsku często tłumaczy się je zdaniem podrzędnym z czasownikiem osobowym."
+      }
     ],
     "usage": [
-      "Zawsze po przyimku (miejsca, czasu, przy czasownikach frazowych z przyimkiem)",
-      "Gdy czynność jest podmiotem lub tematem zdania",
-      "W stałych wyrażeniach z 'to' jako przyimkiem: look forward to, be/get used to, object to"
+      "Zawsze po przyimku: interested in, good at, afraid of, worried about, keen on, tired of + gerund.",
+      "Test 'to + rzeczownik/it' rozstrzyga, czy 'to' jest przyimkiem (→ gerund) czy znacznikiem bezokolicznika (→ infinitive).",
+      "Gerund jako podmiot zdania brzmi neutralnie i naturalnie; bezokolicznik jako podmiot brzmi formalnie/aforystycznie (To err is human).",
+      "Spójniki-przyimki (before, after, instead of, despite, in spite of, besides) zawsze łączą się z gerund, nie z formą osobową czasownika ani bezokolicznikiem.",
+      "Czasowniki frazowe kończące się przyimkiem (give up, put off, carry on, look forward to) rządzą gerund z tego samego powodu co zwykłe przyimki."
     ],
-    "tags": ["good at singing", "look forward to seeing", "used to living", "before leaving"],
+    "tags": [
+      "preposition + gerund",
+      "to as preposition test",
+      "gerund as subject",
+      "phrasal verb + preposition"
+    ],
     "examples": [
-      { "en": "She is good at solving problems.", "pl": "Ona jest dobra w rozwiązywaniu problemów." },
-      { "en": "Smoking is bad for your health.", "pl": "Palenie jest złe dla zdrowia." },
-      { "en": "I look forward to hearing from you.", "pl": "Czekam z niecierpliwością na wiadomość od ciebie." },
-      { "en": "He is used to working late.", "pl": "On jest przyzwyczajony do pracy do późna." }
+      {
+        "en": "She's really good at persuading difficult clients.",
+        "pl": "Ona naprawdę potrafi przekonywać trudnych klientów."
+      },
+      {
+        "en": "I'm not used to getting up this early anymore.",
+        "pl": "Już nie jestem przyzwyczajony do wstawania tak wcześnie."
+      },
+      {
+        "en": "Despite feeling exhausted, she finished the marathon.",
+        "pl": "Mimo że czuła się wyczerpana, ukończyła maraton."
+      },
+      {
+        "en": "Eating well is just as important as exercising regularly.",
+        "pl": "Dobre odżywianie jest równie ważne jak regularne ćwiczenia."
+      }
+    ]
+  },
+  {
+    "id": "bare_infinitive",
+    "order": 5,
+    "nameEn": "The bare infinitive — after modals, causatives and perception verbs, and why passive brings 'to' back",
+    "namePl": "Bezokolicznik goły — po modalnych, czasownikach kauzatywnych i percepcji, oraz dlaczego strona bierna przywraca „to”",
+    "rules": [
+      {
+        "label": "Modalne: bezpośrednia rekcja bez pośrednika 'to'",
+        "text": "Jak ustalono w części historycznej, czasowniki modalne od zawsze łączyły się z bezokolicznikiem gołym, bo ich znaczenie (zdolność, przymus, pozwolenie, przypuszczenie) przykleja się bezpośrednio do czynności, a nie kieruje ku niej jak cel. 'She can speak three languages' — zdolność jest częścią samej czynności mówienia, nie czymś, do czego mówiąca dopiero zmierza."
+      },
+      {
+        "label": "Czasowniki kauzatywne make i let: bezpośrednie spowodowanie",
+        "text": "'Make' i 'let' w znaczeniu kauzatywnym ('zmusić kogoś do' i 'pozwolić komuś na') łączą się z bezokolicznikiem gołym: 'She made him apologize.', 'They let the children stay up late.' Historycznie i semantycznie to spadkobiercy tej samej logiki co modalne: 'make somebody do' opisuje bezpośrednie, bezpośrednio wywołane działanie, bez pośredniego 'kroku celu' — sprawca niejako 'dotyka' czynności wprost, więc język nie wstawia między nie żadnego znacznika kierunku."
+      },
+      {
+        "label": "Czasowniki percepcji: widzieć/słyszeć/czuć czynność jako całość albo w toku",
+        "text": "See, hear, feel, watch, notice + dopełnienie + bezokolicznik goły opisują postrzeżenie CAŁEJ czynności, od początku do końca, jako jednego zdarzenia: 'I saw him leave the building' = widziałem całe wyjście, od progu do ulicy. Te same czasowniki + dopełnienie + imiesłów -ing (nie gerund — to inna struktura, participle) opisują postrzeżenie czynności W TOKU, we fragmencie: 'I saw him leaving the building' = widziałem go w trakcie wychodzenia, niekoniecznie cały proces. To rozróżnienie (całość vs. fragment w toku) jest bezpośrednim echem różnicy aspektowej dokonany/niedokonany, mimo że gramatycznie forma jest tu bezokolicznikiem, a nie osobnym czasem."
+      },
+      {
+        "label": "help: jedyny czasownik na granicy dwóch epok",
+        "text": "'Help' to ciekawy przypadek przejściowy: współczesny angielski akceptuje zarówno bezokolicznik goły ('He helped me carry the boxes' — wariant bardziej amerykański i coraz częstszy również w Wielkiej Brytanii), jak i z 'to' ('He helped me to carry the boxes' — wariant bardziej tradycyjny/brytyjski). To żywy dowód, że granica między bezokolicznikiem gołym a znaczonym nie jest fosylizowana raz na zawsze — język wciąż neguje lub rozszerza rekcję poszczególnych czasowników, a 'help' jest obecnie w trakcie przesuwania się w stronę klasy kauzatywnej 'make/let'."
+      },
+      {
+        "label": "Dlaczego strona bierna przywraca 'to'",
+        "text": "Gdy zdanie z make/let/czasownikiem percepcji przechodzi w stronę bierną, bezokolicznik goły niemal zawsze odzyskuje 'to': 'They made him apologize' (aktywna, goły bezokolicznik) → 'He was made to apologize' (bierna, z 'to'). Wytłumaczenie leży w samej naturze rekcji bezokolicznika gołego: to była bezpośrednia, 'surowa' więź między czasownikiem głównym a jego dopełnieniem czynnościowym, możliwa tylko wtedy, gdy dopełnienie stoi tuż obok czasownika w aktywnej strukturze SVO. Strona bierna wyjmuje dawne dopełnienie i czyni je podmiotem, zrywając tę bezpośrednią więź — a skoro znika bezpośredniość, język przywraca neutralny, 'uniwersalny' znacznik bezokolicznika 'to', który normalnie łączy czasownik z celem czynności niezależnie od struktury zdania. 'Let' jest tu wyjątkiem osobliwym: w stronie biernej zastępuje się je zwykle przez 'be allowed to' ('He was allowed to leave'), bo samo 'let' rzadko występuje w formie biernej."
+      }
+    ],
+    "usage": [
+      "Modalne + bezokolicznik goły: can, could, must, shall, will, may, might, should + verb (bez 'to').",
+      "make/let + dopełnienie + bezokolicznik goły w stronie czynnej: 'They made her wait.', 'Let him speak.'",
+      "see/hear/feel/watch/notice + dopełnienie + bezokolicznik goły = cała czynność; + imiesłów -ing = czynność w toku, fragment.",
+      "help + dopełnienie + (to) bezokolicznik — obie formy poprawne, 'to' bardziej formalne/brytyjskie, bez 'to' bardziej swobodne/amerykańskie.",
+      "Strona bierna 'make'/czasowników percepcji przywraca 'to': be made to do, be seen to do, be heard to do."
+    ],
+    "tags": [
+      "bare infinitive after modals",
+      "make somebody do",
+      "see somebody do vs doing",
+      "be made to do"
+    ],
+    "examples": [
+      {
+        "en": "The teacher made the whole class rewrite the essay.",
+        "pl": "Nauczycielka kazała całej klasie przepisać wypracowanie."
+      },
+      {
+        "en": "I heard someone slam the door around midnight.",
+        "pl": "Słyszałem, jak ktoś trzasnął drzwiami około północy."
+      },
+      {
+        "en": "I heard him arguing with his neighbour for almost an hour.",
+        "pl": "Słyszałem, jak się kłócił z sąsiadem przez prawie godzinę."
+      },
+      {
+        "en": "The suspect was made to hand over his passport.",
+        "pl": "Podejrzanego zmuszono do oddania paszportu."
+      }
+    ]
+  },
+  {
+    "id": "register_and_possessive",
+    "order": 6,
+    "nameEn": "Register and nuance: the possessive-gerund controversy, and like/love/prefer + gerund vs. infinitive",
+    "namePl": "Rejestr i niuans: spór o dopełniacz przed gerund oraz like/love/prefer + gerund kontra bezokolicznik",
+    "rules": [
+      {
+        "label": "Skoro gerund jest rzeczownikiem, 'powinien' brać dopełniacz — spór Jespersena",
+        "text": "Klasyczna gramatyka normatywna (m.in. duński anglista Otto Jespersen na przełomie XIX/XX w.) argumentowała, że skoro gerund funkcjonuje jak rzeczownik, jego 'podmiot' logiczny powinien przyjmować formę dopełniacza, tak jak przy zwykłym rzeczowniku: 'I appreciate your help' → analogicznie 'I appreciate your helping me' (nie 'you helping me'). Ta forma bywa nazywana 'prawdziwym gerund' (gerund właściwym)."
+      },
+      {
+        "label": "Fused participle — konkurencyjna, dziś dominująca forma potoczna",
+        "text": "W praktyce od stuleci równolegle istniała (i dziś zdecydowanie przeważa w mowie i piśmie nieformalnym) forma z zaimkiem/rzeczownikiem w przypadku dopełnieniowym zamiast dopełniacza: 'I appreciate you helping me.' Jespersen nazwał tę konstrukcję 'fused participle' ('imiesłowem zrośniętym'), bo formalnie -ing zachowuje się tu bardziej jak imiesłów opisujący rzeczownik ('you, [in the act of] helping me') niż jak czysty rzeczownik. Nie jest to błąd — to od dawna w pełni ugruntowany, równoległy wariant składniowy angielszczyzny."
+      },
+      {
+        "label": "Kiedy używać której formy — rejestr, nie poprawność",
+        "text": "Współczesne gramatyki deskryptywne (Huddleston & Pullum i inni) zgodnie stwierdzają, że różnica między 'his coming' a 'him coming' to dziś kwestia REJESTRU, nie poprawności: dopełniacz ('his/her/their coming', 'the committee's deciding') brzmi formalnie, pisemnie, nieco sztywno i jest typowy dla stylu urzędowego, akademickiego czy prawniczego; forma dopełnieniowa/zwykła ('him coming', 'the committee deciding') brzmi naturalnie w mowie i większości pisma nieformalnego. Z rzeczownikami nieżywotnymi w liczbie mnogiej lub złożonymi frazami dopełniacz bywa wręcz niezręczny ('the people at the back of the room's talking' brzmi fatalnie), więc naturalny wybór pada tam niemal zawsze na formę bez dopełniacza."
+      },
+      {
+        "label": "like / love / hate / prefer: nawyk ogólny kontra konkretna okazja",
+        "text": "Klasyczna reguła szkolna ('like + gerund = ogólne upodobanie, like + infinitive = konkretna okazja') jest uproszczeniem, ale oddaje realną, żywą tendencję: 'I like swimming' opisuje trwałe, ogólne upodobanie do samej czynności jako takiej (patrzenie WSTECZ na powtarzające się doświadczenie — znów model gerund = fakt/doświadczenie). 'I like to swim before breakfast' silniej sugeruje świadomy wybór, zwyczaj traktowany jako celowa decyzja podejmowana przy konkretnej okazji (bliżej modelu infinitive = zamiar/wybór). Różnica jest subtelna i w wielu kontekstach obie formy są wymienne — ale w rejestrze starannym warto ją znać i świadomie stosować."
+      },
+      {
+        "label": "Amerykańsko-brytyjska tendencja przy like",
+        "text": "W amerykańskiej angielszczyźnie 'like to do' bywa nieco częstsze niż w brytyjskiej nawet przy ogólnych upodobaniach, natomiast 'love'/'hate'/'prefer' + gerund pozostają dominujące po obu stronach Atlantyku dla wyrażania ogólnego nastawienia emocjonalnego do czynności. Przy 'would like'/'would love'/'would prefer' obowiązuje wyłącznie bezokolicznik ('I'd love to come'), bo 'would' wprowadza sytuację hipotetyczną, skierowaną w przyszłość — a to domena infinitive, nie gerund."
+      }
+    ],
+    "usage": [
+      "Formalnie/pisemnie: dopełniacz przed gerund ('I don't mind his smoking in the garden.').",
+      "Nieformalnie/w mowie: zaimek/rzeczownik w formie zwykłej ('I don't mind him smoking in the garden.').",
+      "like/love/hate + gerund → ogólne, trwałe upodobanie do czynności jako takiej.",
+      "like + infinitive → świadomy wybór/zwyczaj przy konkretnych okazjach (subtelny niuans, nie sztywna reguła).",
+      "would like / would love / would prefer + zawsze infinitive, nigdy gerund — bo 'would' wprowadza sens hipotetyczny, przyszłościowy."
+    ],
+    "tags": [
+      "possessive + gerund",
+      "fused participle",
+      "like doing vs to do",
+      "register formal vs informal"
+    ],
+    "examples": [
+      {
+        "en": "I don't mind him borrowing the car occasionally.",
+        "pl": "Nie mam nic przeciwko temu, że czasem pożycza samochód."
+      },
+      {
+        "en": "The board objected to the chairman's postponing the vote.",
+        "pl": "Zarząd sprzeciwił się temu, że przewodniczący odroczył głosowanie."
+      },
+      {
+        "en": "I like reading in bed before I fall asleep.",
+        "pl": "Lubię czytać w łóżku, zanim zasnę."
+      },
+      {
+        "en": "I'd love to join you, but I already have plans.",
+        "pl": "Chętnie bym do was dołączył, ale już mam plany."
+      }
+    ]
+  },
+  {
+    "id": "advanced_forms",
+    "order": 7,
+    "nameEn": "C1/C2 edge cases: perfect and passive gerunds/infinitives, need/want with passive meaning, and formulaic patterns",
+    "namePl": "Niuanse C1/C2: gerund i bezokolicznik w formach dokonanych i biernych, need/want ze znaczeniem biernym oraz wyrażenia formuliczne",
+    "rules": [
+      {
+        "label": "Forma dokonana (perfect): przesunięcie w czasie względem czasownika nadrzędnego",
+        "text": "Zarówno gerund, jak i infinitive mają formy 'perfect' (having done / to have done), które sygnalizują, że opisywana czynność zaszła WCZEŚNIEJ niż czynność czasownika nadrzędnego: 'He admitted having lied' (najpierw skłamał, potem przyznał) kontra zwykłe 'He admitted lying' (relacja czasowa jest neutralna/domyślna z kontekstu — obie interpretacje możliwe, forma perfect usuwa wszelką dwuznaczność). Podobnie: 'She seems to have left already' (najpierw wyszła, teraz się to zauważa) kontra 'She seems to be leaving' (wychodzi właśnie teraz)."
+      },
+      {
+        "label": "Forma bierna: podkreślenie, że podmiot logiczny jest odbiorcą, nie wykonawcą",
+        "text": "Gerund bierny (being done) i infinitive bierny (to be done) działają analogicznie do zwykłej strony biernej: przesuwają uwagę na odbiorcę czynności. 'He hates being told what to do' (gerund bierny — nie znosi FAKTU, że ktoś mu każe). 'She was the last to be interviewed' (infinitive bierny — została przesłuchana jako ostatnia). Kombinacja perfect + passive jest też możliwa, choć rzadka i formalna: 'He claims to have been misinformed.'"
+      },
+      {
+        "label": "need/want/require + gerund o ukrytym znaczeniu biernym",
+        "text": "W brytyjskiej angielszczyźnie (i coraz częściej amerykańskiej) gerund po need/want/require może nieść znaczenie BIERNE, mimo aktywnej formy: 'The car needs washing' = 'The car needs to be washed' (samochód wymaga umycia PRZEZ kogoś, nie sam siebie myje). To pozorna anomalia wyjaśnia się historycznie: to bezpośrednia kontynuacja starszego wzorca 'need + gerund' traktującego czynność jako ogólny stan rzeczy wymagający zaistnienia, bez konieczności jawnego wskazania wykonawcy — funkcjonalnie bliższa bezosobowej konstrukcji niż aktywnemu 'ktoś coś robi'. Amerykański angielski częściej używa tu jawnej strony biernej 'needs to be washed', ale oba warianty są całkowicie poprawne."
+      },
+      {
+        "label": "Formuły it's no use / there's no point / worth + gerund",
+        "text": "Szereg utrwalonych konstrukcji bezosobowych wymaga gerund, bo w istocie kryje w sobie przyimek (nawet jeśli nie jest on widoczny na powierzchni): 'It's no use crying over spilt milk' (dawniej: 'of no use', z przyimkiem 'of'), 'There's no point in complaining' (przyimek 'in' obecny), 'This book is worth reading' (worth historycznie funkcjonowało jak przymiotnik rządzący dopełnieniem w dopełniaczu/przyimkowym, stąd dziś gerund, nigdy infinitive: 'worth to read' jest błędem typowym dla uczących się, którego nie popełnia native speaker)."
+      },
+      {
+        "label": "Gerund na początku zdania jako temat wypowiedzi — rejestr formalny/eseistyczny",
+        "text": "W stylu formalnym, eseistycznym czy naukowym gerund bywa świadomie stawiany na początku zdania, by uczynić samą czynność/pojęcie tematem rozważań, zamiast osoby ją wykonującej: 'Learning a new language in adulthood requires sustained daily practice.' Taka konstrukcja jest bliska nominalizacji (zob. osobny temat 'Nominalizacja') i typowa dla rejestru akademickiego, gdzie preferuje się depersonalizację i abstrakcyjne, rzeczownikowe ujęcie procesów zamiast osobowych zdań z podmiotem-człowiekiem."
+      }
+    ],
+    "usage": [
+      "gerund/infinitive perfect (having done / to have done) → czynność wcześniejsza względem czasownika nadrzędnego, usuwa niejednoznaczność czasową.",
+      "gerund/infinitive bierny (being done / to be done) → podmiot logiczny jest odbiorcą czynności, nie wykonawcą.",
+      "need/want/require + gerund o znaczeniu biernym: 'The lawn needs mowing.' = 'needs to be mowed.'",
+      "it's no use, there's no point (in), worth + zawsze gerund, nigdy infinitive — bo to relikty konstrukcji przyimkowych.",
+      "Gerund na początku zdania jako podmiot-temat to znak rozpoznawczy formalnego, eseistycznego/akademickiego rejestru."
+    ],
+    "tags": [
+      "perfect gerund",
+      "passive infinitive",
+      "needs washing",
+      "worth reading",
+      "it's no use"
+    ],
+    "examples": [
+      {
+        "en": "He apologized for having kept everyone waiting so long.",
+        "pl": "Przeprosił za to, że kazał wszystkim tak długo czekać."
+      },
+      {
+        "en": "This contract needs to be signed by both parties by Friday.",
+        "pl": "Ta umowa musi zostać podpisana przez obie strony do piątku."
+      },
+      {
+        "en": "Honestly, the carpet needs cleaning before the guests arrive.",
+        "pl": "Szczerze mówiąc, dywan wymaga wyczyszczenia, zanim przyjdą goście."
+      },
+      {
+        "en": "Reducing plastic waste has become a priority for most cities.",
+        "pl": "Ograniczanie odpadów plastikowych stało się priorytetem dla większości miast."
+      }
     ]
   }
 ]
