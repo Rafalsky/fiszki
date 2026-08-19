@@ -5,22 +5,36 @@
     "nameEn": "-ing participle clauses (Present participle)",
     "namePl": "Imiesłów czynny (-ing) w zdaniach okolicznikowych",
     "rules": [
-      { "label": "Forma", "text": "czasownik + -ing (Verb-ing) zastępuje zdanie podrzędne, gdy podmiot obu czynności jest ten sam" },
-      { "label": "Znaczenie czynne", "text": "-ing wyraża czynność wykonywaną przez podmiot (aktywne znaczenie)" },
-      { "label": "Pozycja", "text": "może stać na początku zdania (z przecinkiem) lub na końcu, albo bezpośrednio po rzeczowniku" }
+      {
+        "label": "Budowa",
+        "text": "Verb-ing na początku, w środku lub na końcu zdania zastępuje całe zdanie podrzędne, pod warunkiem że jego niewypowiedziany podmiot jest identyczny z podmiotem zdania głównego: 'Because she knew the risks, she invested anyway' kurczy się do 'Knowing the risks, she invested anyway'."
+      },
+      {
+        "label": "Rodowód: łacińska moda na zwięzłość",
+        "text": "Staroangielski miał już własny imiesłów czynny (-ende), ale jego rodzimą strategią łączenia zdań było raczej luźne zestawianie klauzul spójnikiem 'and' niż podporządkowywanie ich sobie przez imiesłów. Intensywne, systematyczne używanie oderwanego imiesłowu jako zwartego zamiennika całego zdania podrzędnego to w dużej mierze wzmocnienie płynące z tłumaczeń łacińskich tekstów — łacina miała gramatyczny przypadek ablatywny właśnie do takich konstrukcji (tzw. ablativus absolutus, np. 'his rebus gestis' - 'gdy te rzeczy zostały dokonane'). Średnio- i wczesnonowoangielscy skrybowie, tłumacząc teksty religijne, prawne i naukowe z łaciny, przenosili tę zwięzłą składnię do angielskiego jako znak stylu 'uczonego'. Stąd do dziś imiesłowowe zdania okolicznikowe kojarzą się z rejestrem pisanym, formalnym i literackim, a nie z językiem mówionym."
+      },
+      {
+        "label": "Model myślowy: spójnik bez etykietki",
+        "text": "Zdanie z 'because/when/as/after' jawnie nazywa relację logiczną między dwiema czynnościami. Imiesłów -ing tę etykietkę usuwa i zostawia gołą jednoczesność lub sąsiedztwo dwóch zdarzeń — to odbiorca musi dopowiedzieć sobie z kontekstu, czy chodzi o przyczynę, czas, sposób czy kolejny krok tej samej sekwencji. To właśnie ta niedopowiedziana logika czyni konstrukcję elegancką (nie trzeba wybierać właściwego spójnika) i jednocześnie ryzykowną (przy niejasnym kontekście czytelnik może dorobić inną relację, niż zamierzył autor)."
+      },
+      {
+        "label": "Aspekt bez znaczników czasu",
+        "text": "Imiesłów -ing, tak jak Present Continuous, przedstawia czynność 'od środka', bez własnego wskazania czasu gramatycznego — to zdanie główne decyduje, czy cała scena rozgrywa się w teraźniejszości, przeszłości czy przyszłości ('Knowing the risks, she invests/invested/will invest anyway'). Sam imiesłów mówi tylko: 'to działo się w tym samym momencie, co reszta'."
+      }
     ],
     "usage": [
-      "Zamiast zdań z 'because/as/since' (przyczyna): Feeling tired, she went to bed.",
-      "Zamiast zdań z 'when/while' (jednoczesność): Walking home, I saw an accident.",
-      "Do opisania dwóch czynności następujących szybko po sobie: Opening the door, he stepped inside.",
-      "Zamiast 'who/which' w zdaniach względnych opisujących czynność w toku: The man standing there is my uncle."
+      "Zamiast 'because/as/since' (przyczyna, którą i tak łatwo zgadnąć z kontekstu): Suspecting foul play, the detective reopened the case.",
+      "Zamiast 'when/while' (jednoczesność dwóch czynności tego samego podmiotu): Glancing at his watch, he quickened his pace.",
+      "Do przedstawienia dwóch czynności w szybkiej, naturalnej kolejności, tak blisko siebie, że 'having' brzmiałoby przesadnie formalnie: Opening the door, he stepped inside and switched on the light.",
+      "Przeczenie budujemy przez 'not' przed imiesłowem, nigdy po nim: Not wanting to alarm the passengers, the pilot spoke calmly over the intercom.",
+      "W rejestrze formalnym, dziennikarskim i literackim jako zwięzła alternatywa dla dwóch osobnych zdań połączonych 'and'."
     ],
-    "tags": ["Feeling tired,", "Walking home,", "standing there", "Opening the door,"],
+    "tags": ["Suspecting,", "Knowing,", "Glancing,", "Not wanting,", "Realising,"],
     "examples": [
-      { "en": "Feeling tired, she went to bed early.", "pl": "Czując się zmęczona, poszła wcześnie spać." },
-      { "en": "Walking home, I saw an accident.", "pl": "Idąc do domu, zobaczyłem wypadek." },
-      { "en": "The man standing by the window is my uncle.", "pl": "Mężczyzna stojący przy oknie to mój wujek." },
-      { "en": "Not knowing what to say, he stayed silent.", "pl": "Nie wiedząc, co powiedzieć, zamilkł." }
+      { "en": "Suspecting foul play, the detective reopened the case.", "pl": "Podejrzewając nieczystą grę, detektyw wznowił śledztwo." },
+      { "en": "Realising she'd left the stove on, she rushed back home.", "pl": "Uświadomiwszy sobie, że zostawiła włączony piekarnik, pobiegła z powrotem do domu." },
+      { "en": "Not wanting to alarm the passengers, the pilot spoke calmly over the intercom.", "pl": "Nie chcąc niepokoić pasażerów, pilot mówił spokojnie przez interkom." },
+      { "en": "Weighing the pros and cons, the board postponed its decision until the next quarter.", "pl": "Rozważając za i przeciw, zarząd odłożył decyzję do następnego kwartału." }
     ]
   },
   {
@@ -29,21 +43,36 @@
     "nameEn": "-ed / past participle clauses (Passive participle)",
     "namePl": "Imiesłów bierny (-ed / III forma) w zdaniach okolicznikowych",
     "rules": [
-      { "label": "Forma", "text": "czasownik w III formie / -ed (Verb-ed) zastępuje zdanie ze stroną bierną, gdy podmiot doznaje czynności" },
-      { "label": "Znaczenie bierne", "text": "-ed wyraża czynność wykonaną NA podmiocie (znaczenie pasywne), nie przez niego" },
-      { "label": "Czasowniki nieregularne", "text": "używamy III formy czasownika nieregularnego (written, broken, given) zamiast końcówki -ed" }
+      {
+        "label": "Budowa",
+        "text": "III forma czasownika (regularna -ed lub nieregularna: written, broken, given) na początku, w środku lub na końcu zdania zastępuje zdanie ze stroną bierną, gdy podmiot doznaje czynności, a nie jej dokonuje: 'Because it was written in 1990...' → 'Written in 1990...'."
+      },
+      {
+        "label": "Rodowód: skrócona strona bierna",
+        "text": "To najprostszy przypadek imiesłowu okolicznikowego — jest to po prostu strona bierna (be + III forma) pozbawiona operatora 'be' i podmiotu, wywodząca się z tej samej peryfrastycznej konstrukcji staroangielskiej, w której imiesłów bierny pierwotnie był zwykłym przymiotnikiem opisującym stan rzeczownika po doznanej czynności (por. historia strony biernej w osobnym temacie)."
+      },
+      {
+        "label": "Pułapka: nie każda III forma znaczy 'bierne'",
+        "text": "Czasowniki nieprzechodnie oznaczające ruch lub zmianę stanu (arrive, go, come, fall, grow, escape, retire) w ogóle nie mają strony biernej — nie ma przecież nikogo, kto by je 'wykonał na' podmiocie. A jednak ich III forma swobodnie pełni funkcję imiesłowu o znaczeniu CZYNNYM: 'Retired from teaching, she now paints.' (= ta, która przeszła na emeryturę), 'Fallen from the tree, the leaves piled up along the fence.' (= liście, które spadły). To relikt dawnego systemu, w którym angielski — podobnie jak dziś niemiecki czy francuski ('ist gegangen', 'est arrivé') — tworzył czas dokonany czasowników ruchu i zmiany stanu operatorem 'be', a nie 'have': staroangielskie i wczesnonowoangielskie 'he is come', 'the Lord is risen' (Biblia Króla Jakuba, Łk 24:34) znaczyły dokładnie to, co dziś 'he has come'. Ten system 'be-perfect' wygasał stopniowo między XVII a XIX wiekiem, aż 'have' przejęło rolę uniwersalnego operatora dokonaności — ale ślad pozostał właśnie w tych pozornie 'biernych', a w istocie czynnych imiesłowach czasowników nieprzechodnich."
+      },
+      {
+        "label": "Having been + III forma dla podkreślenia procesu",
+        "text": "Gdy prawdziwie bierna czynność jest ważna jako TRWAJĄCY PROCES lub jego zakończenie ma znaczenie chronologiczne względem zdania głównego, sięgamy po pełniejszą formę 'having been + III forma' zamiast gołej III formy: 'Having been warned twice already, the tenant knew eviction was next.' — sama III forma ('Warned twice already...') brzmiałaby bardziej jak statyczny opis stanu niż odniesienie do konkretnego, zakończonego zdarzenia."
+      }
     ],
     "usage": [
-      "Zamiast zdań względnych ze stroną bierną: The book, written in 1990, became a bestseller.",
-      "Na początku zdania jako zamiennik 'because it was/if it is': Left alone, the child started to cry.",
-      "Do opisania rzeczownika, który jest odbiorcą czynności: Covered in snow, the mountains looked beautiful."
+      "Zamiast zdania względnego w stronie biernej: The book, which was written in 1990, became a bestseller. → Written in 1990, the book became a bestseller.",
+      "Na początku zdania jako zwięzły zamiennik 'because it was/if it is': Left alone, the child started to cry.",
+      "Do opisania rzeczownika-odbiorcy czynności w środku lub na końcu zdania: The window, damaged beyond repair, was finally replaced.",
+      "Z czasownikami nieprzechodnimi ruchu/zmiany stanu w znaczeniu czynnym, głównie w rejestrze formalnym i literackim: Escaped from the zoo, the tiger was spotted near the highway the next morning.",
+      "Having been + III forma, gdy liczy się sam przebieg lub moment zakończenia procesu biernego: Having been told the same excuse before, the teacher no longer believed him."
     ],
-    "tags": ["written in 1990,", "Left alone,", "Covered in snow,", "given the chance"],
+    "tags": ["Written in,", "Left alone,", "Retired from,", "Escaped from,", "Convinced of,"],
     "examples": [
-      { "en": "Written in 1990, the book became a bestseller.", "pl": "Napisana w 1990 roku książka stała się bestsellerem." },
-      { "en": "Left alone, the child started to cry.", "pl": "Zostawione samo, dziecko zaczęło płakać." },
-      { "en": "Covered in snow, the mountains looked beautiful.", "pl": "Pokryte śniegiem góry wyglądały pięknie." },
-      { "en": "Given the chance, she would travel the world.", "pl": "Gdyby dostała szansę, podróżowałaby po świecie." }
+      { "en": "Translated into twelve languages, the novel became an international bestseller almost overnight.", "pl": "Przetłumaczona na dwanaście języków powieść niemal z dnia na dzień stała się międzynarodowym bestsellerem." },
+      { "en": "Retired from teaching, she now spends her days restoring old furniture.", "pl": "Będąc na emeryturze po latach nauczania, spędza teraz dni na odnawianiu starych mebli." },
+      { "en": "Convinced of his innocence, the jury acquitted him within the hour.", "pl": "Przekonana o jego niewinności ława przysięgłych uniewinniła go w ciągu godziny." },
+      { "en": "Escaped from the zoo overnight, the tiger was spotted near the highway the next morning.", "pl": "Tygrys, który uciekł w nocy z zoo, został zauważony następnego dnia rano w pobliżu autostrady." }
     ]
   },
   {
@@ -52,21 +81,36 @@
     "nameEn": "Perfect participle clauses (Having done)",
     "namePl": "Imiesłów uprzedni (Having + III forma)",
     "rules": [
-      { "label": "Forma", "text": "Having + past participle (III forma) — Having finished, Having written" },
-      { "label": "Kolejność czynności", "text": "podkreśla, że jedna czynność zakończyła się PRZED drugą (wcześniejsza akcja)" },
-      { "label": "Strona bierna", "text": "forma bierna to Having been + III forma: Having been warned, he was careful." }
+      {
+        "label": "Budowa",
+        "text": "Having + III forma czasownika (Having finished, Having written); strona bierna to Having been + III forma (Having been warned); przeczenie stawiamy przed 'having': Not having heard from her, I called again — nigdy po nim."
+      },
+      {
+        "label": "Ta sama metafora 'posiadania rezultatu', tylko bez czasu gramatycznego",
+        "text": "Present Perfect (have + III forma) wyraża, że mówiący 'ma w ręku' skutek zdarzenia w chwili obecnej — Perfect Participle importuje dokładnie tę samą metaforę do świata bezczasowych, nieskończonych form: 'having' sygnalizuje, że w chwili, gdy rozgrywa się czynność zdania głównego, podmiot już 'posiada' zakończony rezultat wcześniejszej czynności. Różnica w stosunku do zwykłego -ing polega więc nie na formie gramatycznej, lecz na tym, że -ing przedstawia dwie czynności jako współbieżne, a 'having done' jawnie oddziela je w czasie: najpierw jedno, potem — jako oddzielny krok — drugie."
+      },
+      {
+        "label": "Kiedy prosty -ing wystarcza, a kiedy trzeba 'having'",
+        "text": "Nie każda sekwencja wymaga formy dokonanej. Gdy dwie czynności następują po sobie natychmiast i niemal automatycznie ('Opening the door, he stepped inside'), sam -ing w pełni oddaje tę bliskość — dodanie 'having' brzmiałoby tam sztucznie oficjalnie. 'Having' pojawia się wtedy, gdy między czynnościami jest wyraźny odstęp czasowy, logiczna konieczność zakończenia pierwszej przed rozpoczęciem drugiej, albo gdy autor chce podkreślić samą PRZYCZYNOWOŚĆ wynikającą z zakończenia czynności: 'Having spent his last coin on the ticket, he had nothing left for food' — istotne jest tu nie tyle 'kiedy', co 'że wcześniej się to wydarzyło i dlatego teraz nie ma pieniędzy'."
+      },
+      {
+        "label": "Ekwiwalent formalny dla 'after'",
+        "text": "'Having eaten dinner, we watched a film' to skondensowana wersja 'After we had eaten dinner...' — imiesłów uprzedni przejmuje więc funkcję, którą w zdaniu podrzędnym pełniłby Past Perfect po spójniku 'after' lub 'when', tylko bez podawania osobno podmiotu i czasownika posiłkowego."
+      }
     ],
     "usage": [
-      "Gdy chcemy podkreślić, że coś wydarzyło się najpierw, a potem coś innego: Having finished his homework, he went out.",
-      "Zamiast 'After he had finished...': Having eaten dinner, we watched a film.",
-      "W formie biernej: Having been told the news, she called her friend."
+      "Gdy jedna czynność wyraźnie zakończyła się, zanim zaczęła się druga: Having double-checked the figures, the accountant signed off on the report.",
+      "Zamiast 'After + Past Perfect': Having eaten dinner, we watched a film together.",
+      "W formie biernej (having been + III forma): Having been warned about the traffic, we left an hour early.",
+      "Z przeczeniem przed 'having', by wyrazić brak wcześniejszego doświadczenia jako przyczynę: Not having received a reply, he assumed the offer had been withdrawn.",
+      "Z 'never' między 'having' a III formą, by podkreślić brak wcześniejszego doświadczenia w ogóle: Having never travelled abroad before, she found the customs process bewildering."
     ],
-    "tags": ["Having finished,", "Having eaten,", "Having been told,", "Having written,"],
+    "tags": ["Having finished,", "Having been,", "Not having,", "Having never,", "Having spent,"],
     "examples": [
-      { "en": "Having finished his homework, he went out to play.", "pl": "Skończywszy odrabiać lekcje, wyszedł się bawić." },
-      { "en": "Having eaten dinner, we watched a film together.", "pl": "Zjadłszy kolację, obejrzeliśmy razem film." },
-      { "en": "Having been warned about the traffic, we left early.", "pl": "Zostawszy ostrzeżeni o korkach, wyjechaliśmy wcześnie." },
-      { "en": "Having lost her keys, she couldn't get into the house.", "pl": "Zgubiwszy klucze, nie mogła dostać się do domu." }
+      { "en": "Having double-checked the figures twice, the accountant finally signed off on the report.", "pl": "Sprawdziwszy dwukrotnie liczby, księgowa w końcu zatwierdziła raport." },
+      { "en": "Not having received a reply after three weeks, he assumed the offer had been withdrawn.", "pl": "Nie otrzymawszy odpowiedzi po trzech tygodniach, założył, że oferta została wycofana." },
+      { "en": "Having quarrelled the night before, the two friends barely spoke at breakfast.", "pl": "Pokłóciwszy się poprzedniego wieczoru, dwoje przyjaciół ledwo się odzywało przy śniadaniu." },
+      { "en": "Having lived through two recessions already, she wasn't easily frightened by the news from the market.", "pl": "Przeżywszy już dwie recesje, nie tak łatwo dawała się przestraszyć wiadomościami z rynku." }
     ]
   },
   {
@@ -75,21 +119,78 @@
     "nameEn": "Reduced relative clauses with participles",
     "namePl": "Skracanie zdań względnych imiesłowami",
     "rules": [
-      { "label": "Aktywne who/which + czasownik", "text": "zdanie względne w stronie czynnej skracamy imiesłowem -ing: The girl who is singing → The girl singing" },
-      { "label": "Bierne who/which + is/was + III forma", "text": "zdanie względne w stronie biernej skracamy imiesłowem -ed/III forma: The car which was damaged → The car damaged" },
-      { "label": "Tylko zdania określające", "text": "redukcja działa dla zdań względnych bez przecinka (defining relative clauses), opisujących konkretny rzeczownik" }
+      {
+        "label": "Budowa",
+        "text": "Zdanie względne w stronie czynnej skracamy, usuwając 'who/which/that + be' i zostawiając goły imiesłów -ing: The girl who is singing → the girl singing. Zdanie w stronie biernej skracamy analogicznie do -ed/III formy: The car which was damaged → the car damaged."
+      },
+      {
+        "label": "To ta sama elipsa, co w imiesłowie okolicznikowym — tylko przy rzeczowniku, nie na początku zdania",
+        "text": "Mechanizm jest identyczny jak w przypadku zdań okolicznikowych z punktu 1 i 2: usuwamy zaimek względny i operator 'be', zostawiając goły imiesłów. Różnica jest wyłącznie pozycyjna — tu imiesłów przykleja się bezpośrednio do rzeczownika, który określa, zamiast otwierać całe zdanie. Historycznie ta redukcja postmodyfikująca (rzeczownik + imiesłów PO nim) jest zresztą starsza i bardziej rodzima niż imiesłowowe zdania okolicznikowe pod łacińskim wpływem — bezpośrednie zestawianie rzeczownika z opisującym go imiesłowem znane było już w poezji staroangielskiej."
+      },
+      {
+        "label": "Dlaczego pozycja przed rzeczownikiem znaczy co innego niż pozycja po nim",
+        "text": "Ten sam imiesłów przed rzeczownikiem i po nim niesie inne znaczenie. Przed rzeczownikiem ('a sleeping bag', 'the singing telegram') pełni funkcję zleksykalizowanego przymiotnika klasyfikującego — opisuje stały typ czy przeznaczenie, nie konkretne, toczące się teraz zdarzenie. Po rzeczowniku ('the baby sleeping in the crib', 'the woman talking to the manager') to właśnie skrócone zdanie względne — odnosi się do JEDNEGO konkretnego zdarzenia rozgrywającego się w danym momencie. Stąd 'a sleeping bag' to śpiwór (rzecz do spania), a 'the sleeping baby' to konkretnie to śpiące teraz dziecko."
+      },
+      {
+        "label": "Dlaczego nie da się skrócić czystych zdań stanowych",
+        "text": "Redukcja działa tylko wtedy, gdy czasownik w zdaniu względnym ma formę dynamiczną — imiesłów czynny lub bierny wyrażający zdarzenie. Zdania z czasownikami stanowymi w formie 'be + przymiotnik' ('the man who is tall') nie redukują się do imiesłowu ('*the man being tall' brzmi błędnie), bo 'being tall' sugerowałoby chwilowe, kontrolowane zachowanie, a nie trwałą cechę — a stan bycia wysokim takiej kontroli z natury nie ma (ten sam mechanizm, który blokuje stative verbs przed formami continuous). Zamiast tego zdanie stanowe redukuje się inaczej: usuwamy całe 'who is', zostawiając sam przymiotnik bezpośrednio przy rzeczowniku — 'the tall man'."
+      },
+      {
+        "label": "Ograniczenie do zdań określających",
+        "text": "Redukcja naturalnie dotyczy przede wszystkim zdań określających (bez przecinka), bo to one funkcjonują jak przymiotnik zawężający zakres rzeczownika. Zdanie nieokreślające da się zredukować składniowo, ale traci swój dygresyjny, komentujący charakter i zaczyna brzmieć jak ściślejszy, bardziej zwarty opis — dlatego w rejestrze formalnym i dziennikarskim redukcja jest ulubionym narzędziem kondensacji tekstu."
+      }
     ],
     "usage": [
-      "Opis osoby wykonującej czynność: The woman talking to the manager is my colleague.",
-      "Opis rzeczy lub osoby poddanej czynności: The window broken by the storm needs repair.",
-      "Skracanie długich opisów w tekście formalnym i dziennikarskim"
+      "Opis osoby lub rzeczy wykonującej czynność w danym momencie: The passengers waiting on the platform grew increasingly impatient.",
+      "Opis rzeczy lub osoby poddanej czynności: Documents signed before the deadline are still considered valid.",
+      "Po zaimkach nieokreślonych i kwantyfikatorach: Anyone caught smoking on the premises will be fined.",
+      "Skracanie długich, formalnych opisów w tekście dziennikarskim, akademickim i prawnym zamiast pełnego 'who/which': The theory proposed by Darwin reshaped an entire field of science.",
+      "Odróżnij od imiesłowu przed rzeczownikiem, który opisuje stały typ, a nie chwilowe zdarzenie: a working mother (kobieta, która pracuje zawodowo, stały status) vs a mother working late tonight (matka pracująca akurat dziś wieczorem)."
     ],
-    "tags": ["talking to", "broken by the storm", "waiting outside", "sold last year"],
+    "tags": ["waiting on,", "signed before,", "caught smoking,", "proposed by,", "damaged during,"],
     "examples": [
-      { "en": "The woman talking to the manager is my colleague.", "pl": "Kobieta rozmawiająca z kierownikiem to moja koleżanka." },
-      { "en": "The window broken by the storm needs repair.", "pl": "Okno rozbite przez burzę wymaga naprawy." },
-      { "en": "Passengers waiting outside were told to come in.", "pl": "Pasażerowie czekający na zewnątrz zostali poproszeni, żeby wejść." },
-      { "en": "The house sold last year has been renovated.", "pl": "Dom sprzedany w zeszłym roku został wyremontowany." }
+      { "en": "The passengers waiting on the platform grew increasingly impatient as the delay stretched past an hour.", "pl": "Pasażerowie czekający na peronie stawali się coraz bardziej niecierpliwi, gdy opóźnienie przekroczyło godzinę." },
+      { "en": "The theory proposed by Darwin reshaped an entire field of science within a single generation.", "pl": "Teoria zaproponowana przez Darwina zmieniła całą dziedzinę nauki w ciągu jednego pokolenia." },
+      { "en": "Anyone caught smoking on the premises will be asked to leave immediately.", "pl": "Każdy przyłapany na paleniu na terenie obiektu zostanie poproszony o natychmiastowe opuszczenie go." },
+      { "en": "Employees working night shifts receive an additional allowance under the new contract.", "pl": "Pracownicy pracujący na nocnych zmianach otrzymują dodatkowy dodatek na mocy nowej umowy." }
+    ]
+  },
+  {
+    "id": "dangling_participle",
+    "order": 5,
+    "nameEn": "Dangling participles and frozen absolute exceptions",
+    "namePl": "Imiesłów oderwany od podmiotu i skamieniałe wyjątki",
+    "rules": [
+      {
+        "label": "Zasada tożsamości podmiotu",
+        "text": "Niewypowiedziany podmiot imiesłowu okolicznikowego musi być identyczny z podmiotem zdania głównego. Gdy tak nie jest, imiesłów 'zwisa' (dangling participle) i przypina swoje działanie do gramatycznego podmiotu zdania głównego, niezależnie od tego, co autor miał na myśli: 'Walking down the street, a dog started barking at me' formalnie znaczy, że to PIES szedł ulicą — bo 'a dog' jest jedynym podmiotem, do którego imiesłów może się przyczepić."
+      },
+      {
+        "label": "Skąd wzięła się ta zasada: import z gramatyki łacińskiej",
+        "text": "Reguła zgodności podmiotu nie jest odwiecznym prawem angielskiej składni, lecz normą wprowadzoną świadomie przez gramatyków prescriptywistycznych XVIII i XIX wieku (w ślad za takimi autorami jak Lindley Murray), którzy modelowali angielską gramatykę na łacińskiej — a w łacińskim ablativus absolutus zgodność przypadka i osoby była ściśle skodyfikowana. Zanim ta norma się utrwaliła, angielscy pisarze (łącznie z autorami klasycznymi) nagminnie 'zawieszali' imiesłowy bez większych ceregieli. Dlatego 'błąd' dangling participle jest w istocie złamaniem stosunkowo późnej, importowanej konwencji stylistycznej, a nie naruszeniem naturalnej logiki języka — co tłumaczy, dlaczego wyjątki od niej są tak liczne i tak trwałe."
+      },
+      {
+        "label": "Skamieniałe wyjątki: imiesłów, który stał się spójnikiem",
+        "text": "Garść imiesłowowych wyrażeń używana jest od tak dawna i tak niezależnie od podmiotu zdania głównego, że z czasem 'oderwała się' od reguły zgodności i zgramatykalizowała się we własne, samodzielne łączniki zdaniowe zorientowane na mówiącego, a nie na podmiot zdania: generally speaking, strictly speaking, judging by/from, considering, given, provided/providing (that), assuming, granted, talking of, speaking of. Te formy nie opisują już czynności wykonywanej PRZEZ kogoś — opisują perspektywę, z jakiej mówiący formułuje całe zdanie, i dlatego są w pełni akceptowalne nawet w najbardziej starannym rejestrze, mimo że formalnie 'łamią' zasadę tego samego podmiotu."
+      },
+      {
+        "label": "Test na prawdziwy błąd: koncord głosu, nie tylko podmiotu",
+        "text": "Dangling participle to nie tylko kwestia zgadzania się osoby, ale i STRONY: imiesłów bierny musi opisywać coś, co DOZNAJE czynności, a czynny — coś, co ją WYKONUJE. 'Handling the vase with great care, it should easily last another century' jest błędne podwójnie: wazon nie 'trzyma' sam siebie, więc potrzebny jest imiesłów bierny — 'Handled with great care, the vase should easily last another century.'"
+      }
+    ],
+    "usage": [
+      "Skamieniałe łączniki zdaniowe niezależne od podmiotu głównego zdania: Generally speaking, most complaints turn out to be justified once you look into them.",
+      "Given/considering/assuming/provided jako formalne spójniki warunku lub przesłanki: Given that the flight is delayed, we might as well get some coffee.",
+      "Barring jako formalny odpowiednik 'except if': Barring any last-minute objections, the merger will go ahead next month.",
+      "Sprawdzanie strony (czynna/bierna) imiesłowu względem logicznego, a nie tylko gramatycznego podmiotu: Handled with great care, the antique vase should easily last another century.",
+      "Unikanie prawdziwie zwisających imiesłowów przez rozpisanie zdania podrzędnego ze spójnikiem, gdy podmioty obu czynności się różnią: zamiast 'Driving through the fog, the road was almost invisible' → 'As we were driving through the fog, the road was almost invisible.'"
+    ],
+    "tags": ["Considering,", "Given that,", "Generally speaking,", "Judging from,", "Barring,"],
+    "examples": [
+      { "en": "Generally speaking, most complaints turn out to be justified once you actually look into them.", "pl": "Ogólnie rzecz biorąc, większość skarg okazuje się uzasadniona, gdy się im bliżej przyjrzeć." },
+      { "en": "Judging from his tone, he wasn't at all happy about the delay.", "pl": "Sądząc po jego tonie, wcale nie był zadowolony z opóźnienia." },
+      { "en": "Barring any last-minute objections, the merger will go ahead next month.", "pl": "O ile nie pojawią się żadne sprzeciwy w ostatniej chwili, fuzja dojdzie do skutku w przyszłym miesiącu." },
+      { "en": "Handled with great care, the antique vase should easily last another century.", "pl": "Traktowany z wielką ostrożnością, zabytkowy wazon z łatwością przetrwa kolejne stulecie." }
     ]
   }
 ]
