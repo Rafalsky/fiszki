@@ -5,20 +5,52 @@
     "nameEn": "used to — past habits and states",
     "namePl": "used to — dawne przyzwyczajenia i stany",
     "rules": [
-      { "label": "Budowa", "text": "used to + bezokolicznik bez to (I used to play football.)" },
-      { "label": "Znaczenie", "text": "Powtarzające się w przeszłości czynności, które już nie mają miejsca, oraz dawne stany, cechy i sytuacje" }
+      {
+        "label": "Budowa",
+        "text": "used to + bezokolicznik bez to, identyczna forma dla wszystkich osób: I/you/he/she/we/they used to + czasownik. Nie ma odmiany przez osoby (nigdy 'he useds to'), bo 'used' jest tu zastygłą formą czasu przeszłego, a nie odmienianym czasownikiem głównym."
+      },
+      {
+        "label": "Geneza: czasownik 'use' w znaczeniu 'być przyzwyczajonym'",
+        "text": "Angielskie 'use' pochodzi od łacińskiego 'uti' (używać, posługiwać się) przez starofrancuskie 'user'. W średniowiecznej angielszczyźnie 'use' miało jednak drugie, dziś już martwe poza tą jedną konstrukcją znaczenie: 'mieć zwyczaj, być przyzwyczajonym do czegoś' — tak jak dziś mówimy 'to jest w jego naturze'. 'He used to do it' znaczyło dosłownie 'on miał zwyczaj to robić', a 'used' było zwykłym czasownikiem głównym w czasie przeszłym, dokładnie tak jak 'walked' czy 'wanted'. Do XVII wieku to znaczenie 'use' zanikło wszędzie indziej w języku — zostało zamrożone wyłącznie w tej jednej, skostniałej frazie."
+      },
+      {
+        "label": "Gramatykalizacja zatrzymana w pół drogi",
+        "text": "'Used to' jest podręcznikowym przykładem tzw. gramatykalizacji: procesu, w którym pełnoznaczny czasownik z czasem traci swoje leksykalne znaczenie i staje się gramatycznym wskaźnikiem (markerem aspektu, czasu, modalności) — tak jak łacińskie 'habere' (mieć) stało się końcówką czasu przyszłego we francuskim (-ai we 'parlerai'). 'Used to' przeszło część tej drogi: stało się semantycznym markerem 'przerwanego nawyku przeszłego', ale ugrzęzło w połowie — formalnie wciąż zachowuje się jak czasownik zwykły (do dziś toleruje zarówno 'did you use to' jak i, rzadziej, konstrukcje modalne, patrz kolejny temat), zamiast stać się w pełni modalnym operatorem jak 'must' czy 'can'. To dlatego 'used to' jest jedynym czasownikiem w angielskim, który ISTNIEJE WYŁĄCZNIE w czasie przeszłym — nie ma formy 'uses to' na wyrażenie nawyku teraźniejszego (na to służy zwykły Present Simple: 'I play football', nie '*I use to play football')."
+      },
+      {
+        "label": "Semantyka 'zamkniętej księgi'",
+        "text": "Skoro 'used to' nie ma odpowiednika w teraźniejszości, samo użycie tej formy JEST już komunikatem: 'to było prawdą kiedyś, ale nie jest już prawdą teraz'. To jedyny angielski wskaźnik habitualności przeszłej, który obejmuje RÓWNIEŻ stany, cechy i sytuacje, nie tylko powtarzalne czynności — 'There used to be a factory here' czy 'She used to be shy' mówią o czymś, co się skończyło, tak samo jak 'He used to smoke'. Ten kontrast przeszłość-kontra-teraźniejszość jest tak mocno wbudowany w znaczenie, że zdanie 'I used to live in Warsaw, and I still do' brzmi dla rodzimego użytkownika sprzecznie wewnętrznie, mimo że gramatycznie jest poprawne."
+      }
     ],
     "usage": [
-      "Dawne, powtarzające się czynności, które ustały (I used to smoke.)",
-      "Dawne stany, cechy, sytuacje (She used to be shy. / There used to be a shop here.)",
-      "Kontrast między przeszłością a teraźniejszością"
+      "Powtarzające się w przeszłości czynności, które definitywnie ustały: 'I used to smoke two packs a day' (a teraz nie palę).",
+      "Dawne, już nieaktualne stany, cechy, sytuacje i fakty o świecie: 'There used to be a shop on this corner' (a teraz go nie ma), 'She used to be terrified of dogs'.",
+      "Świadomy kontrast między dawnym a obecnym stanem rzeczy — często wzmocniony przez 'but now' / 'these days' / 'not anymore', nawet jeśli ten kontrast nie jest wypowiedziany wprost, jest domyślnie obecny w samym znaczeniu formy."
     ],
-    "tags": ["used to live", "used to smoke", "there used to be", "used to be shy"],
+    "tags": [
+      "used to smoke",
+      "there used to be",
+      "used to be shy",
+      "used to live",
+      "brak formy teraźniejszej"
+    ],
     "examples": [
-      { "en": "I used to play football every weekend.", "pl": "Kiedyś grałem w piłkę nożną w każdy weekend." },
-      { "en": "She used to live in Berlin.", "pl": "Ona kiedyś mieszkała w Berlinie." },
-      { "en": "There used to be a cinema on this street.", "pl": "Na tej ulicy kiedyś było kino." },
-      { "en": "He used to be much thinner.", "pl": "On kiedyś był dużo szczuplejszy." }
+      {
+        "en": "I used to play football every weekend, but I haven't touched a ball in years.",
+        "pl": "Kiedyś grałem w piłkę nożną w każdy weekend, ale nie dotknąłem piłki od lat."
+      },
+      {
+        "en": "There used to be an old cinema on this street when I was a kid.",
+        "pl": "Kiedy byłem dzieckiem, na tej ulicy było kiedyś stare kino."
+      },
+      {
+        "en": "He used to be the shyest boy in class — you'd never guess it now.",
+        "pl": "On był kiedyś najbardziej nieśmiałym chłopcem w klasie — teraz byś w to nie uwierzył."
+      },
+      {
+        "en": "We used to know each other quite well, back in university.",
+        "pl": "Kiedyś znaliśmy się dość dobrze, jeszcze na studiach."
+      }
     ]
   },
   {
@@ -27,19 +59,52 @@
     "nameEn": "used to — negatives and questions",
     "namePl": "used to — przeczenia i pytania",
     "rules": [
-      { "label": "Przeczenie", "text": "didn't use to + bezokolicznik (po didn't jest 'use to', bez -d)" },
-      { "label": "Pytanie", "text": "Did + podmiot + use to + bezokolicznik...?" }
+      {
+        "label": "Przeczenie standardowe",
+        "text": "didn't + use to (bez końcówki -d!): 'I didn't use to like coffee'. Skoro 'used to' wciąż formalnie funkcjonuje jak zwykły czasownik przeszły, tworzy przeczenie przez operator posiłkowy 'did', dokładnie tak jak 'I didn't walk'. A skoro 'did' już samo niesie znaczenie czasu przeszłego, drugi czasownik wraca do formy podstawowej — 'use', nie 'used'. To ten sam mechanizm co w 'He didn't want' (nie '*He didn't wanted')."
+      },
+      {
+        "label": "Najczęstszy błąd uczących się i jego logika",
+        "text": "'Did you used to...?' zamiast poprawnego 'Did you use to...?' to jeden z najczęstszych błędów nawet zaawansowanych uczących się — i nie bez powodu: ucho przyzwyczajone do formy twierdzącej 'I used to' automatycznie 'dokleja' -d również po 'did', tworząc podwójne znaczenie czasu przeszłego (raz w 'did', raz w 'used'), czego angielska gramatyka nigdzie indziej nie toleruje. Zasada jest identyczna jak przy każdym innym czasowniku: 'did' 'wysysa' całą przeszłość ze zdania, więc czasownik główny musi zostać w formie bazowej."
+      },
+      {
+        "label": "Forma modalna: usedn't to / used not to",
+        "text": "Istnieje też starsza, dziś rzadka i formalna/literacka forma przeczenia bez 'did': 'usedn't to' lub 'used not to' ('I usedn't to like him'), budowana dokładnie tak jak przeczenia prawdziwych czasowników modalnych ('mustn't', 'needn't') — bez pomocniczego 'do'. To żywy ślad wspomnianej wcześniej niedokończonej gramatykalizacji: w pewnym momencie historii 'used to' zdawało się zmierzać w stronę pełnoprawnego czasownika modalnego (razem z 'ought to', które przeszło tę drogę nieco dalej), ale ten kierunek rozwoju się zatrzymał i dziś forma z 'did' jest jedyną naturalną w mowie codziennej — 'usedn't to' brzmi już archaicznie, spotykana głównie w prozie brytyjskiej sprzed kilku dekad lub w bardzo starannym rejestrze pisanym."
+      },
+      {
+        "label": "Pytania i emfatyczne 'never'",
+        "text": "Pytanie: Did + podmiot + use to + bezokolicznik: 'Did you use to play an instrument?'. Zamiast zwykłego przeczenia, w mowie i piśmie bardzo często pojawia się emfatyczne 'never used to' zamiast 'didn't use to' — 'She never used to eat vegetables' brzmi mocniej i bardziej naturalnie niż 'She didn't use to eat vegetables', bo umieszcza przeczenie bliżej rdzenia znaczeniowego (nigdy, w żadnym momencie tamtej przeszłości)."
+      }
     ],
     "usage": [
-      "Standardowe przeczenie i pytania tworzy się z did/didn't + use to",
-      "Formalna wersja used not to / usedn't to jest rzadka, bardziej brytyjska"
+      "Standardowe przeczenie i pytania buduje się z did/didn't + use to (bez -d po did/didn't).",
+      "'usedn't to' / 'used not to' to formalny, dziś już archaizujący wariant przeczenia bez do-support — głównie w brytyjskim rejestrze pisanym.",
+      "'never used to' jako naturalna, emfatyczna alternatywa dla 'didn't use to' w mowie potocznej."
     ],
-    "tags": ["didn't use to", "did you use to", "never used to"],
+    "tags": [
+      "didn't use to",
+      "did you use to",
+      "never used to",
+      "usedn't to",
+      "used not to"
+    ],
     "examples": [
-      { "en": "I didn't use to like coffee.", "pl": "Kiedyś nie lubiłem kawy." },
-      { "en": "Did you use to play an instrument?", "pl": "Czy kiedyś grałeś na jakimś instrumencie?" },
-      { "en": "She never used to eat vegetables.", "pl": "Ona nigdy wcześniej nie jadała warzyw." },
-      { "en": "Didn't you use to work here?", "pl": "Czy nie pracowałeś tu kiedyś?" }
+      {
+        "en": "I didn't use to like coffee at all — now I can't function without it.",
+        "pl": "Kiedyś w ogóle nie lubiłem kawy — teraz nie funkcjonuję bez niej."
+      },
+      {
+        "en": "Did you use to play an instrument when you were younger?",
+        "pl": "Czy grałeś kiedyś na jakimś instrumencie, gdy byłeś młodszy?"
+      },
+      {
+        "en": "She never used to eat vegetables as a child; now she's practically vegan.",
+        "pl": "Jako dziecko nigdy nie jadała warzyw; teraz jest praktycznie weganką."
+      },
+      {
+        "en": "He usedn't to be so patient with people, if I remember rightly.",
+        "pl": "On kiedyś nie był tak cierpliwy wobec ludzi, jeśli dobrze pamiętam."
+      }
     ]
   },
   {
@@ -48,42 +113,115 @@
     "nameEn": "would — repeated past actions",
     "namePl": "would — powtarzające się czynności w przeszłości",
     "rules": [
-      { "label": "Budowa", "text": "would + bezokolicznik bez to (He would visit us every summer.)" },
-      { "label": "Ograniczenie", "text": "would NIE łączy się ze stanami/czasownikami statywnymi (be, like, know, own) — tylko z czynnościami" }
+      {
+        "label": "Budowa",
+        "text": "would + bezokolicznik bez to, ta sama forma dla każdej osoby: 'He would visit us every summer.' W mowie niemal zawsze skracane do 'd (he'd visit), co bywa mylące, bo to samo 'd skraca również 'had' — kontekst i czasownik po nim rozstrzygają, o które z nich chodzi."
+      },
+      {
+        "label": "Korzenie: czasownik woli, nie przyszłości",
+        "text": "'Will/would' wywodzi się z pragermańskiego rdzenia *willjan (chcieć, pragnąć) — tego samego, od którego pochodzi rzeczownik 'will' (wola) i który przetrwał w niemieckim 'wollen'. W staroangielskim 'willan' było pełnoprawnym czasownikiem woli ('chcieć coś zrobić'), a znaczenie przyszłości ('will' jako marker czasu przyszłego) wykształciło się dopiero wtórnie — z rozumowania 'to, czego chcę, zrobię' (podobny mechanizm zaszedł niezależnie w wielu językach, np. we francuskim czasie przyszłym z łacińskiego 'habere' + bezokolicznik). Habitualne 'would' w zdaniach o przeszłości jest bezpośrednim echem tego pierwotnego znaczenia woli: opisuje czynność jako powtarzający się, charakterystyczny, niemal 'chciany' wzorzec zachowania danej osoby, a nie suchy fakt statystyczny."
+      },
+      {
+        "label": "Dlaczego 'would' odrzuca stany",
+        "text": "Właśnie dlatego, że w tle wciąż tli się dawne znaczenie woli/decyzji, habitualne 'would' łączy się swobodnie tylko z czasownikami dynamicznymi, oznaczającymi świadome, powtarzalne działania (visit, spend, sit, tell, buy) — nigdy z czasownikami stanowymi (be, know, like, own, believe, live jako 'mieszkać na stałe'). Nie da się powiedzieć '*He would know the answer' w znaczeniu 'kiedyś zwykł znać odpowiedź' ani '*She would be shy' — stanu nie da się 'chcieć' czy powtarzać wolicjonalnie, on po prostu trwa. W tych kontekstach jedynym wyjściem pozostaje 'used to' albo Past Simple: 'She used to be shy', nie 'She would be shy'."
+      },
+      {
+        "label": "Kotwica narracyjna",
+        "text": "'Would' w tej funkcji nigdy nie otwiera opowieści samodzielnie — jest anaforyczne, czyli odsyła do ram czasowych ustalonych wcześniej w tekście, zwykle przez 'used to', Past Simple albo okolicznik czasu ('When I was a child…', 'Every summer…'). Stąd typowy schemat narracyjny: najpierw kotwica ('When I was young, we used to spend summers at my grandmother's house'), a dopiero potem seria czynności opowiadanych przez 'would' ('We would wake up early, would run to the lake, would spend hours just swimming'). Bez tej kotwicy zdanie z 'would' brzmiałoby dwuznacznie — jak tryb warunkowy, a nie wspomnienie."
+      },
+      {
+        "label": "Rejestr: wspomnieniowy i literacki",
+        "text": "Nawet gdy oba warianty są gramatycznie możliwe, 'would' niesie wyraźnie bardziej literacki, nostalgiczny odcień niż neutralne 'used to' — pojawia się typowo we wspomnieniach, powieściach, opowieściach o dzieciństwie czy zmarłych bliskich ('My grandfather would tell us stories by the fire every evening'), podczas gdy 'used to' jest stylistycznie neutralne i częstsze w zwykłej, codziennej rozmowie."
+      }
     ],
     "usage": [
-      "Powtarzające się czynności w przeszłości, często z nutą wspomnień",
-      "Częste w narracjach o dzieciństwie (When I was a child, we would spend summers at the lake.)"
+      "Powtarzające się, dynamiczne czynności w przeszłości, które już nie zachodzą — nigdy stany, cechy czy pojedyncze zdarzenia.",
+      "Typowe w narracjach wspomnieniowych, zwłaszcza o dzieciństwie: 'When I was a child, we would spend summers at the lake.'",
+      "Wymaga wcześniej ustalonych ram czasowych (przez used to, Past Simple lub okolicznik czasu) — samo 'would' nie wprowadza kontekstu przeszłości."
     ],
-    "tags": ["would visit", "would often", "when I was young"],
+    "tags": [
+      "would visit",
+      "would often",
+      "when I was young",
+      "'d = would",
+      "rejestr wspomnieniowy"
+    ],
     "examples": [
-      { "en": "Every summer, we would go camping in the mountains.", "pl": "Każdego lata jeździliśmy na kemping w góry." },
-      { "en": "My grandfather would tell us stories before bed.", "pl": "Mój dziadek opowiadał nam historie przed snem." },
-      { "en": "As a child, she would read for hours.", "pl": "Jako dziecko czytała godzinami." },
-      { "en": "He would always arrive late to class.", "pl": "On zawsze przychodził spóźniony na zajęcia." }
+      {
+        "en": "Every summer, my grandfather would take us fishing at dawn.",
+        "pl": "Każdego lata mój dziadek zabierał nas na ryby o świcie."
+      },
+      {
+        "en": "When we were kids, we'd spend hours building sandcastles that the tide always destroyed.",
+        "pl": "Gdy byliśmy dziećmi, spędzaliśmy godziny na budowaniu zamków z piasku, które zawsze niszczył przypływ."
+      },
+      {
+        "en": "She would always leave a light on for me, no matter how late I came home.",
+        "pl": "Ona zawsze zostawiała dla mnie zapalone światło, bez względu na to, jak późno wracałem do domu."
+      },
+      {
+        "en": "In those days, workers would often walk ten miles to the factory and back.",
+        "pl": "W tamtych czasach robotnicy często przechodzili dziesięć mil do fabryki i z powrotem."
+      }
     ]
   },
   {
     "id": "used_to_vs_would_vs_past_simple",
     "order": 4,
-    "nameEn": "used to vs would vs Past Simple",
-    "namePl": "used to vs would vs Past Simple — różnice",
+    "nameEn": "used to vs would vs Past Simple — and the 'be used to' trap",
+    "namePl": "used to vs would vs Past Simple — i pułapka 'be used to'",
     "rules": [
-      { "label": "used to", "text": "Czynności i stany w przeszłości, które się zmieniły — jedyna forma dopuszczalna ze stanami (used to be, used to have)" },
-      { "label": "would", "text": "Tylko powtarzające się czynności (nie stany), typowe dla wspomnień, wymaga wcześniej ustalonych ram czasowych" },
-      { "label": "Past Simple", "text": "Uniwersalna forma przeszła — pasuje zarówno do pojedynczych, jak i powtarzalnych czynności oraz stanów, bez podtekstu 'to się skończyło'" }
+      {
+        "label": "Trzy narzędzia, trzy różne zakresy",
+        "text": "Past Simple jest formą najbardziej neutralną i uniwersalną: opisuje pojedyncze zdarzenie ('I visited Rome in 2015') ALBO powtarzające się bez podkreślania kontrastu z teraźniejszością ('I visited my grandmother every Sunday' — samo stwierdzenie faktu z przeszłości, bez sugestii, że to się skończyło). 'used to' zawęża to pole do wyłącznie powtarzalnych czynności LUB stanów, z wbudowanym kontrastem 'kiedyś, a nie teraz'. 'would' zawęża jeszcze bardziej — tylko powtarzalne czynności dynamiczne, nigdy stany, i tylko w obrębie już ustalonych ram czasowych. Innymi słowy: used to ⊃ would (used to obejmuje wszystko, co obejmuje would, plus stany), a Past Simple obejmuje wszystko, co obejmują obie te formy, plus zdarzenia jednorazowe."
+      },
+      {
+        "label": "Test jednorazowości",
+        "text": "Jeśli czynność zdarzyła się dokładnie raz, ani 'used to', ani 'would' nie są możliwe — wymagana jest habitualność (powtarzalność) lub trwały stan. '*I used to visit Paris in 2019' jest błędne, bo 'in 2019' wskazuje jednorazowe zdarzenie — poprawnie: 'I visited Paris in 2019'. To najprostszy filtr, który natychmiast eliminuje 'used to'/'would' z jednorazowych faktów biograficznych."
+      },
+      {
+        "label": "Pułapka fałszywego przyjaciela: (be/get) used to",
+        "text": "Zupełnie inna konstrukcja, choć zbudowana z tych samych liter i tego samego historycznego rdzenia znaczeniowego ('being habituated to'): 'be/get used to' + rzeczownik LUB czasownik z -ing (nigdy bezokolicznik!) opisuje bycie przyzwyczajonym do czegoś (stan) albo proces przyzwyczajania się (get used to) — i działa w KAŻDYM czasie, nie tylko przeszłym: 'I am used to working late' (jestem teraz przyzwyczajony), 'I was used to it back then', 'I'll get used to it eventually'. Tu 'used' jest przymiotnikiem odczasownikowym (imiesłowem), a 'to' jest przyimkiem rządzącym rzeczownikiem/gerundem — zupełnie inna rola gramatyczna niż w 'used to + bezokolicznik', gdzie 'to' jest cząstką bezokolicznika. Klasyczna para pułapek: 'I used to smoke' (kiedyś paliłem, już nie palę) kontra 'I am used to smoking' (jestem przyzwyczajony do palenia, robię to teraz) — znaczenia niemal przeciwne, mimo niemal identycznego zapisu."
+      },
+      {
+        "label": "Naturalne łączenie w narracji",
+        "text": "W praktyce dojrzali użytkownicy języka rzadko trzymają się jednej formy przez cały tekst — typowy wzorzec to otworzyć wspomnienie przez 'used to' lub Past Simple (by ustalić ramy czasowe i ewentualnie wprowadzić stan), a potem przełączyć się na 'would' dla kolejnych, żywo opisywanych czynności: 'We used to live in a small village. Every morning, my mother would open the shutters and the smell of fresh bread would fill the kitchen.' Zwróć uwagę: 'live' (stan) wymaga 'used to', ale 'open' i 'fill' (czynności dynamiczne) swobodnie przechodzą na 'would'."
+      }
     ],
     "usage": [
-      "Gdy mówimy o stanie (być, mieć, lubić, wiedzieć) → tylko used to lub Past Simple, NIE would",
-      "Gdy chcemy podkreślić kontrast z teraźniejszością → used to",
-      "W dłuższej narracji o powtarzalnych czynnościach, po ustaleniu ram czasowych → would"
+      "used to: powtarzalne czynności i stany, z wbudowanym kontrastem 'kiedyś / nie teraz'.",
+      "would: wyłącznie powtarzalne czynności dynamiczne, nigdy stany, zawsze potrzebuje wcześniej ustalonych ram czasowych.",
+      "Past Simple: forma domyślna — jedyna możliwa dla zdarzeń jednorazowych, i zawsze bezpieczna alternatywa, gdy nie masz pewności, czy 'used to'/'would' pasuje.",
+      "(be/get) used to + rzeczownik/-ing: zupełnie inna konstrukcja o znaczeniu 'być/stawać się przyzwyczajonym', działa w każdym czasie — nie mylić z 'used to + bezokolicznik'."
     ],
-    "tags": ["used to have", "would play", "past simple general"],
+    "tags": [
+      "used to vs would",
+      "single event",
+      "be used to",
+      "get used to",
+      "narrative shift"
+    ],
     "examples": [
-      { "en": "I used to have long hair.", "pl": "Kiedyś miałem długie włosy." },
-      { "en": "When I was a kid, I used to live in Kraków, and we would often visit the park.", "pl": "Gdy byłem dzieckiem, mieszkałem w Krakowie i często odwiedzaliśmy park." },
-      { "en": "I visited Paris last year.", "pl": "Odwiedziłem Paryż w zeszłym roku." },
-      { "en": "She used to be afraid of dogs.", "pl": "Ona kiedyś bała się psów." }
+      {
+        "en": "I visited Kraków twice last year — I didn't use to visit it, and I don't 'would' visit it either, it's simply a fact.",
+        "pl": "W zeszłym roku odwiedziłem Kraków dwa razy — to jednorazowy fakt, więc ani 'used to', ani 'would' tu nie pasuje."
+      },
+      {
+        "en": "We used to spend every August at the coast; my father would drive us there in his old Fiat, singing the whole way.",
+        "pl": "Kiedyś spędzaliśmy cały sierpień nad morzem; mój ojciec zawoził nas tam swoim starym fiatem, śpiewając przez całą drogę."
+      },
+      {
+        "en": "I'm still not used to getting up this early, even after three months on the job.",
+        "pl": "Wciąż nie jestem przyzwyczajony do wstawania tak wcześnie, nawet po trzech miesiącach tej pracy."
+      },
+      {
+        "en": "It took her a while, but she eventually got used to living alone.",
+        "pl": "Zajęło jej to trochę czasu, ale w końcu przyzwyczaiła się do samotnego mieszkania."
+      },
+      {
+        "en": "He used to be terrified of public speaking; these days he'd happily give a talk to a thousand people.",
+        "pl": "On kiedyś panicznie bał się przemawiania publicznego; dziś z przyjemnością wygłosiłby przemówienie do tysiąca osób."
+      }
     ]
   }
 ]
