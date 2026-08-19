@@ -1,90 +1,307 @@
 [
   {
-    "id": "separable_transitive",
+    "id": "germanic_roots_typology",
     "order": 1,
-    "nameEn": "Separable transitive phrasal verbs",
-    "namePl": "Rozdzielne czasowniki złożone przechodnie",
+    "nameEn": "Germanic roots: from prefixed preverbs to postposed particles",
+    "namePl": "Germańskie korzenie: od przedrostków do partykuł za czasownikiem",
     "rules": [
-      { "label": "Rozdzielność", "text": "Dopełnienie rzeczownikowe może stać między czasownikiem a partykułą lub po niej (turn off the light / turn the light off)" },
-      { "label": "Zaimek", "text": "Gdy dopełnieniem jest zaimek (it, them, her...), MUSI stanąć między czasownikiem a partykułą (turn it off, NIE turn off it)" }
+      {
+        "label": "Staroangielskie przedrostki czasownikowe",
+        "text": "Angielski phrasal verb to nie wynalazek nowożytny, tylko skamielina znacznie starszego mechanizmu. W staroangielskim (do ok. XI w.) modyfikacja znaczenia czasownika odbywała się przez PRZEDROSTEK doczepiony bezpośrednio przed rdzeniem: ofstandan ('powstrzymać' — of+standan), forgietan ('zapomnieć' — for+gietan, dosł. 'nadmiernie/na próżno chwycić [pamięcią]'), ymbgan ('okrążyć' — ymb+gan). Ten sam mechanizm żyje dziś w niemieckim (aufstehen, ausgehen) i niderlandzkim (opstaan) jako czasowniki rozdzielnie złożone — 'ich stehe auf' rozdziela przedrostek dokładnie tak, jak angielskie 'I get up' funkcjonalnie odpowiada 'aufstehen'. Phrasal verb i niemiecki czasownik rozdzielny to więc dwie różne gramatyczne realizacje TEGO SAMEGO wspólnogermańskiego dziedzictwa, które w obu językach poszły w stronę rozdzielenia cząstki od rdzenia, tylko w różnym tempie historycznym."
+      },
+      {
+        "label": "Dlaczego przedrostek 'przeskoczył' na koniec",
+        "text": "Między XI a XIV wiekiem angielski przeszedł fundamentalną przebudowę: masowa erozja końcówek fleksyjnych (pod wpływem osłabionego akcentu na sylabach końcowych oraz intensywnego kontaktu językowego z staronordyckim w Danelaw i później z francuskim normańskim) zniszczyła system, w którym szyk zdania mógł być swobodny, bo relacje gramatyczne sygnalizowały końcówki. Angielski musiał usztywnić szyk SVO, żeby nadal jednoznacznie wskazywać, kto jest podmiotem, a kto dopełnieniem. W tym samym procesie przedrostki czasownikowe — słabo akcentowane, semantycznie 'ciężkie' cząstki przyklejone z przodu — zaczęły być odczuwane jako oddzielne słowa i przesunęły się za czasownik, tam gdzie akcent zdaniowy naturalnie pada na treściowo najważniejszy element wypowiedzi. 'Ofstandan' stało się najpierw 'stand off', potem znaczeniowo wyspecjalizowało się dalej. To nie jest chaotyczna ewolucja — to systemowa migracja spowodowana zmianą typu morfologicznego całego języka, z syntetycznego (bogata fleksja) w analityczny (sztywny szyk + słowa funkcyjne)."
+      },
+      {
+        "label": "Typologia satelitarna Talmy'ego: dlaczego angielski 'pakuje' ruch inaczej niż polski czy hiszpański",
+        "text": "Lingwista Leonard Talmy pokazał, że języki dzielą się na dwa typy pod względem tego, GDZIE kodują ścieżkę ruchu (path). Angielski (jak wszystkie języki germańskie) jest językiem satelitarnym (satellite-framed): ścieżka ruchu ląduje w cząstce-'satelicie' dołączonej do czasownika (in, out, up, down, across), a sam czasownik jest wolny do wyrażania SPOSOBU ruchu — stąd 'she danced INTO the room', 'the bottle floated OUT'. Hiszpański czy polski w klasycznym ujęciu Talmy'ego są bardziej verb-framed: ścieżka jest zakodowana w samym czasowniku (entrar, salir; wejść, wyjść), a sposób trzeba dopowiedzieć osobno ('entró bailando' — dosł. 'weszła tańcząc'). To wyjaśnia, dlaczego phrasal verbs nie są ozdobnikiem stylistycznym, tylko rdzeniem angielskiego sposobu opisywania przestrzeni i zmiany stanu — i dlaczego polskojęzyczny uczeń intuicyjnie szuka jednego czasownika ruchu tam, gdzie rodzimy użytkownik angielskiego automatycznie sięgnie po czasownik + partykułę kierunkową."
+      }
     ],
     "usage": [
-      "Typowe czasowniki: turn on/off, pick up, put on, take off, give up, put off, switch on/off, throw away, take up",
-      "Używane w codziennych czynnościach, instrukcjach i poleceniach",
-      "Znaczenie często dosłowne, ale bywa też przenośne (give up = zrezygnować, poddać się)"
+      "Ten sam wzorzec 'czasownik manery + partykuła ścieżki' widać w setkach czasowników ruchu: walk in, climb out, crawl under, drift away, rush past — angielski niemal nigdy nie leksykalizuje ścieżki w samym czasowniku ruchu, tam gdzie polski regularnie to robi (wejść, wyjść, wypełznąć).",
+      "Współczesne partykuły (up, down, in, out, on, off, away, back, over) to bezpośredni ciąg dalszy staroangielskich przedrostków przestrzennych — ich pierwotne, dosłowne znaczenie kierunkowe jest wciąż aktywne w czasownikach ruchu i to od niego (nie odwrotnie) wywodzą się późniejsze znaczenia metaforyczne i aspektowe.",
+      "Kontakt z staronordyckim w IX–XI w. (osadnictwo duńskie w Danelaw) prawdopodobnie przyspieszył ten proces: staronordycki miał analogiczny wzorzec postpozycyjnych partykuł, więc dwujęzyczni mieszkańcy północnej i wschodniej Anglii mieli dodatkowy bodziec do upraszczania systemu przedrostków w kierunku, który i tak był już w toku.",
+      "Warto zestawić to z niemieckim, gdzie proces zatrzymał się w połowie drogi: 'aufstehen' nadal jest jednym leksykalnym słowem (w słowniku pod 'a'), które w zdaniu głównym się rozdziela ('ich stehe auf'), podczas gdy angielski 'get up' od dawna funkcjonuje jako dwa w pełni niezależne słowa — to pokazuje, że oba języki są na tej samej trajektorii historycznej, tylko w różnych jej punktach."
     ],
-    "tags": ["turn off", "pick up", "give up", "put on"],
+    "tags": ["etymologia", "staroangielski", "typologia satelitarna", "Talmy"],
     "examples": [
-      { "en": "Please turn off the TV before you go to bed.", "pl": "Wyłącz telewizor przed pójściem spać." },
-      { "en": "Can you pick up some milk on your way home?", "pl": "Możesz kupić trochę mleka po drodze do domu?" },
-      { "en": "He finally gave up smoking last year.", "pl": "W końcu rzucił palenie w zeszłym roku." },
-      { "en": "She put on her coat and left.", "pl": "Założyła płaszcz i wyszła." }
+      { "en": "In Old English it was 'ofstandan'; today the same idea survives as 'stand off' — the particle simply moved to the other side of the verb.", "pl": "W staroangielskim było to 'ofstandan'; dziś ta sama idea przetrwała jako 'stand off' — partykuła po prostu przesunęła się na drugą stronę czasownika." },
+      { "en": "The bottle floated out of the cave.", "pl": "Butelka wypłynęła z jaskini. (dosł. 'popłynęła na zewnątrz' — sposób w czasowniku, ścieżka w partykule)" },
+      { "en": "She danced into the room, laughing.", "pl": "Wtańczyła do pokoju, śmiejąc się. (polski musi zmienić czasownik na 'wejść', angielski zostawia 'dance' i dodaje 'into')" },
+      { "en": "German still writes it as one word in the dictionary — 'aufstehen' — even though a real sentence splits it: 'Ich stehe um sieben auf.'", "pl": "Niemiecki wciąż zapisuje to jako jedno słowo w słowniku — 'aufstehen' — mimo że w realnym zdaniu ulega rozdzieleniu: 'Ich stehe um sieben auf.'" }
     ]
   },
   {
-    "id": "inseparable_transitive",
+    "id": "norman_lexical_stratification",
     "order": 2,
-    "nameEn": "Inseparable transitive phrasal verbs",
-    "namePl": "Nierozdzielne czasowniki złożone przechodnie",
+    "nameEn": "The Norman layer: why 'find out' and 'discover' are not stylistic twins",
+    "namePl": "Warstwa normandzka: dlaczego 'find out' i 'discover' to nie stylistyczni bliźniacy",
     "rules": [
-      { "label": "Stała kolejność", "text": "Dopełnienie zawsze stoi po całym czasowniku złożonym, nigdy między jego częściami (look after the baby, NIE look the baby after)" },
-      { "label": "Zaimek", "text": "Ta sama zasada dotyczy zaimków — również stoją po całej frazie (look after her, NIE look her after)" }
+      {
+        "label": "Podbój normandzki i podwójne słownictwo",
+        "text": "Po 1066 r. przez blisko trzysta lat językiem dworu, prawa, administracji i nauki w Anglii był francuski (a za nim łacina), podczas gdy angielski pozostał językiem chłopów, rzemieślników i domowego ogniska. Efektem jest do dziś żywa DUBLETOWA leksyka: niemal każdemu rodzimemu, germańskiemu czasownikowi złożonemu odpowiada łacińsko-francuski jednowyrazowy synonim, który wszedł do angielskiego jako słowo prestiżowe, 'wysokie' — find out / discover, put off / postpone, give up / abandon, look into / investigate, blow up / detonate, go on / continue, find out / ascertain, put up with / tolerate. To nie przypadek, że niemal zawsze wzorzec jest identyczny: phrasal verb = swojski, potoczny; łacińsko-francuski czasownik = formalny, techniczny, urzędowy."
+      },
+      {
+        "label": "To nie synonimia, tylko rejestr",
+        "text": "Kluczowy błąd uczącego się to traktowanie 'find out' i 'discover' jako wymiennych w każdym kontekście. W praktyce różnią się głównie REJESTREM (formalność, sytuacja komunikacyjna), a czasem też subtelnym odcieniem: 'discover' częściej sugeruje coś doniosłego, naukowego, jednorazowego ('scientists discovered a new species'), 'find out' jest neutralne i codzienne, pasuje do plotek, wiadomości, drobnych faktów ('I just found out she's moving'). Native speaker automatycznie przełącza się między tymi warstwami w zależności od sytuacji — raport akademicki, umowa prawna czy komunikat prasowy będą unikać phrasal verbs niemal całkowicie na rzecz łacińskich odpowiedników, podczas gdy rozmowa, e-mail do znajomego czy dialog w powieści są nimi wręcz nasycone."
+      },
+      {
+        "label": "Dlaczego to działa też w drugą stronę: nadużycie phrasal verbs w piśmie formalnym razi",
+        "text": "Skoro phrasal verbs kodują 'swojskość' i bezpośredniość, ich obecność w tekście formalnym (np. napisanie 'we need to look into this issue' w oficjalnym raporcie zamiast 'we need to investigate this issue') nie jest błędem gramatycznym, ale błędem REJESTRU — brzmi tak, jakby ktoś wypowiedział się zbyt swobodnie na poważnym spotkaniu. Odwrotnie: użycie 'ascertain' czy 'terminate' w rozmowie z przyjacielem zabrzmi sztywno, biurokratycznie, niemal komicznie. Świadomość tej warstwy historycznej to najszybsza droga do wyczucia stylu na poziomie C1/C2 — nie trzeba pamiętać setek osobnych 'zasad rejestru', wystarczy rozpoznać pochodzenie słowa: germańskie = swobodne, łacińsko-francuskie = formalne."
+      }
     ],
     "usage": [
-      "Typowe czasowniki: look after, look into, run into, come across, get over, deal with, look for, count on, believe in, care for",
-      "Często mają charakter bardziej formalny lub przenośny niż rozdzielne",
-      "Warto zapamiętywać je razem ze stałym przyimkiem jako całość"
+      "Formularze urzędowe, umowy, artykuły naukowe i komunikaty prasowe systematycznie preferują łacińsko-francuskie odpowiedniki: 'terminate the contract' zamiast 'end the contract' / 'call off the contract'; 'the meeting was postponed' zamiast 'the meeting was put off'.",
+      "Instrukcje obsługi, rozmowy, e-maile nieformalne i dialogi w fikcji preferują phrasal verbs — sprawiają wrażenie naturalności i bezpośredniości, a ich pominięcie na rzecz łacińskich synonimów brzmi sztucznie w kontekście codziennym.",
+      "Niektóre pary rozjechały się semantycznie na tyle, że przestały być nawet stylistycznymi bliźniakami: 'give up' (zrezygnować, poddać się) i 'abandon' (porzucić, zwłaszcza coś/kogoś fizycznie lub trwale) mają dziś częściowo różne zakresy użycia, mimo wspólnego etymologicznego rodowodu pary.",
+      "Warto zwracać uwagę na to, że sam angielski czasami leksykalizuje trzecią warstwę — czysto łacińską, wprowadzoną później przez naukę i Renesans (np. 'exterminate' obok starszego francuskiego 'destroy' i rodzimego 'wipe out') — trójwarstwowość synonimii jest jedną z najbardziej charakterystycznych cech słownictwa angielskiego."
     ],
-    "tags": ["look after", "run into", "get over", "look into"],
+    "tags": ["rejestr", "podbój normandzki", "synonimia", "styl formalny"],
     "examples": [
-      { "en": "Can you look after my dog while I'm away?", "pl": "Możesz zaopiekować się moim psem, kiedy mnie nie będzie?" },
-      { "en": "I ran into an old friend yesterday.", "pl": "Wczoraj wpadłem na starego znajomego." },
-      { "en": "It took her months to get over the illness.", "pl": "Zajęło jej miesiące, żeby dojść do siebie po chorobie." },
-      { "en": "The police are looking into the case.", "pl": "Policja bada tę sprawę." }
+      { "en": "The committee will investigate the allegations. (formal report)", "pl": "Komisja zbada zarzuty. (formalny raport)" },
+      { "en": "I need to look into why the printer isn't working. (everyday speech)", "pl": "Muszę sprawdzić, czemu drukarka nie działa. (codzienna mowa)" },
+      { "en": "The launch has been postponed until further notice. (press release)", "pl": "Start został odłożony do odwołania. (komunikat prasowy)" },
+      { "en": "Sorry, can we just put it off till next week? (casual conversation)", "pl": "Sorry, może po prostu przełożymy to na przyszły tydzień? (rozmowa nieformalna)" }
     ]
   },
   {
-    "id": "intransitive",
+    "id": "literal_to_idiomatic_continuum",
     "order": 3,
-    "nameEn": "Intransitive phrasal verbs",
-    "namePl": "Nieprzechodnie czasowniki złożone",
+    "nameEn": "The transparency continuum: from literal motion to pure idiom",
+    "namePl": "Continuum przezroczystości: od dosłownego ruchu do czystego idiomu",
     "rules": [
-      { "label": "Brak dopełnienia", "text": "Nie przyjmują żadnego dopełnienia — mają pełne znaczenie bez rzeczownika ani zaimka po sobie (The plane took off.)" },
-      { "label": "Kolejność", "text": "Partykuła stoi zawsze bezpośrednio po czasowniku, nic nie może ich rozdzielić" }
+      {
+        "label": "Cztery piętra znaczeniowe, nie dwie kategorie",
+        "text": "Podręczniki lubią dzielić phrasal verbs na 'dosłowne' i 'idiomatyczne', jakby to była twarda granica. W rzeczywistości mamy CONTINUUM: (1) dosłowne przestrzenne — 'sit down', 'go out' (partykuła znaczy dokładnie to, co geograficznie sugeruje); (2) aspektowe/completive — 'eat up', 'burn down', 'fill up' (partykuła nie wskazuje już kierunku w przestrzeni, tylko sygnalizuje, że czynność została DOPROWADZONA DO KOŃCA/GRANICY — to metaforyczne rozszerzenie fizycznego 'w górę' albo 'w dół' na skalę intensywności czy kompletności); (3) metaforyczne, ale wciąż motywowane — 'give up' (poddać się — 'oddać w górę', gest kapitulacji, biały sztandar), 'work out' (rozwiązać — 'wypracować [rozwiązanie] na zewnątrz', uczynić widocznym); (4) całkowicie zleksykalizowane/opaczne — 'give up' w znaczeniu 'zrezygnować z nałogu', 'look up to' (podziwiać), 'come across' (sprawiać wrażenie) — tu związek ze znaczeniem partykuły jest już tylko historyczną pamiątką, nie do odtworzenia z reguł."
+      },
+      {
+        "label": "Dlaczego to nie jest arbitralne — metafora pojęciowa jako silnik",
+        "text": "Przejście od (1) do (4) nie jest chaosem, tylko zwykłym mechanizmem metafory pojęciowej, tym samym, który rządzi całym słownictwem abstrakcyjnym każdego języka (por. Lakoff i Johnson). 'UP' fizycznie oznacza kierunek przeciwny grawitacji — ale ludzki umysł systematycznie mapuje 'więcej w górę' na 'więcej intensywności, więcej widoczności, więcej kompletności': stąd 'speed up' (więcej prędkości), 'show up' (stać się widocznym), 'eat up' (doprowadzić jedzenie do zera, czyli do 'pełni' czynności). Ta sama metafora działa w polskim ('podkręcić tempo', 'dobić targu do końca'), więc intuicja nie jest obca — trzeba tylko nauczyć się, KTÓRE angielskie czasowniki tę metaforę leksykalizują akurat partykułą 'up', bo to już kwestia konwencji, a nie logiki uniwersalnej."
+      },
+      {
+        "label": "Praktyczna konsekwencja: nie da się 'wyliczyć' znaczenia z reguły, ale da się je PRZEWIDZIEĆ z rodziny",
+        "text": "Uczeń, który zna wzorzec 'X up = doprowadzić X do końca/pełni' (eat up, drink up, use up, fill up, clean up, finish up, wrap up), poprawnie odgaduje znaczenie nowego czasownika 'zip up' czy 'button up' przy pierwszym kontakcie, bo rozpoznaje RODZINĘ semantyczną partykuły, a nie zgaduje losowo. To jest sedno efektywnej nauki phrasal verbs na poziomie C1/C2: nie zapamiętywanie setek pojedynczych par czasownik+partykuła jak izolowanych faktów, tylko budowanie wewnętrznej mapy znaczeń każdej partykuły (rozwinięte w kolejnym temacie), do której nowe czasowniki dopasowują się przez analogię."
+      }
     ],
     "usage": [
-      "Typowe czasowniki: wake up, show up, break down, come back, grow up, get up, sit down, stand up, go away, run away",
-      "Opisują zdarzenia, zmiany stanu i codzienne czynności bez obiektu",
-      "Niektóre mają odpowiedniki przechodnie o innym znaczeniu (get up vs. get somebody up)"
+      "Ten sam czasownik może żyć na kilku piętrach continuum jednocześnie, w zależności od kontekstu: 'break down' bywa dosłowne (samochód się fizycznie rozpada), aspektowe/wynikowe (negocjacje 'załamują się') i emocjonalne (człowiek 'załamuje się' psychicznie) — trzy piętra, jedna forma.",
+      "Poziom idiomatyczności koreluje z frekwencją w mowie potocznej: im bardziej opaczny czasownik, tym częściej pojawia się w swobodnej rozmowie, bo to właśnie codzienna, nieformalna komunikacja jest kuźnią metafor językowych.",
+      "Rozpoznanie, na którym piętrze jesteśmy, pomaga też w tłumaczeniu: dosłowne i aspektowe phrasal verbs zwykle dają się przełożyć opisowo (zjeść do końca, spalić doszczętnie), podczas gdy w pełni zleksykalizowane wymagają zupełnie innego czasownika w polskim (give up = poddać się, nie 'dać w górę').",
+      "Słowniki uczące (np. Oxford Phrasal Verbs Dictionary) porządkują hasła właśnie wzdłuż tego continuum — pierwsze znaczenie pod hasłem jest zwykle najbardziej dosłowne, kolejne coraz bardziej metaforyczne, co samo w sobie jest mapą historii semantycznej danego czasownika."
     ],
-    "tags": ["wake up", "show up", "break down", "grow up"],
+    "tags": ["metafora pojęciowa", "idiomatyczność", "aspekt", "semantyka"],
     "examples": [
-      { "en": "I usually wake up at 7am.", "pl": "Zwykle budzę się o 7 rano." },
-      { "en": "He didn't show up for the meeting.", "pl": "Nie pojawił się na spotkaniu." },
-      { "en": "My car broke down on the highway.", "pl": "Mój samochód zepsuł się na autostradzie." },
-      { "en": "She promised to come back soon.", "pl": "Obiecała, że wkrótce wróci." }
+      { "en": "Eat up your vegetables! (aspectual: bring the eating to completion)", "pl": "Zjedz warzywa do końca! (aspektowe: doprowadź jedzenie do kompletności)" },
+      { "en": "He finally gave up smoking after twenty years. (fully idiomatic: to stop, to surrender to the difficulty)", "pl": "W końcu rzucił palenie po dwudziestu latach. (w pełni idiomatyczne: przestać, poddać się trudności)" },
+      { "en": "The car broke down on the motorway. (literal mechanical failure) vs. Talks between the two sides broke down. (metaphorical: negotiations collapsed)", "pl": "Samochód się zepsuł na autostradzie. (dosłowna awaria mechaniczna) vs. Rozmowy między stronami załamały się. (metaforyczne: negocjacje upadły)" },
+      { "en": "Once you know 'eat up' and 'use up', guessing 'zip up' or 'button up' becomes almost automatic.", "pl": "Znając 'eat up' i 'use up', odgadnięcie znaczenia 'zip up' czy 'button up' staje się niemal automatyczne." }
+    ]
+  },
+  {
+    "id": "particle_semantics",
+    "order": 4,
+    "nameEn": "The inner logic of the eight core particles",
+    "namePl": "Wewnętrzna logika ośmiu kluczowych partykuł",
+    "rules": [
+      {
+        "label": "UP — kompletność, wzrost, pojawienie się na powierzchni",
+        "text": "Od pierwotnego 'ku górze, przeciw grawitacji' partykuła 'up' rozgałęzia się na trzy powiązane rodziny: (a) kompletność/finalizacja — eat up, drink up, use up, clean up, wrap up, finish up (doprowadzenie do zera/pełni, bo 'napełnienie po brzegi' też jest 'w górę'); (b) wzrost/intensyfikacja — speed up, warm up, brighten up, step up (więcej danej cechy); (c) pojawienie się/wynurzenie na widoczność — show up, turn up, come up, crop up (rzeczy 'wypływają' z niewidzialności ku powierzchni świadomości, dokładnie jak przedmiot wypływający w górę wody)."
+      },
+      {
+        "label": "OUT — ekstrakcja, wyczerpanie, odkrycie",
+        "text": "'Out' zaczyna od dosłownego 'na zewnątrz' (go out, take out) i rozwija trzy metaforyczne odgałęzienia: (a) wyczerpanie zasobu do zera — run out (of), wear out, burn out, tire out (zasób 'wychodzi' z pojemnika, aż nic nie zostaje); (b) przejście z niewidzialnego/niejasnego w jasne, poznane — find out, work out, figure out, sort out, point out (prawda 'wychodzi na zewnątrz', staje się dostępna); (c) eliminacja/zanikanie — die out, fade out, phase out, wipe out."
+      },
+      {
+        "label": "DOWN — redukcja, zapis, porażka",
+        "text": "'Down' od dosłownego 'w dół' rozwija: (a) redukcję intensywności — calm down, slow down, cool down, tone down (mniej danej cechy — przeciwieństwo rodziny 'up'-intensyfikującej); (b) fizyczne/symboliczne unieruchomienie lub zapis — write down, note down, put down (utrwalenie czegoś ulotnego, 'przygwożdżenie' go do papieru); (c) porażkę/załamanie systemu — break down, shut down, let somebody down (system czy relacja 'upada', traci funkcjonalność)."
+      },
+      {
+        "label": "OFF, AWAY, ON, BACK, OVER — pozostałe filary systemu",
+        "text": "OFF: separacja i przerwanie ciągłości — turn off (przerwanie obwodu), set off (oddzielenie się od punktu startu = wyruszenie), call off (odwołanie, 'zdjęcie' czegoś z planu). AWAY: oddalanie się i trwałość w oddaleniu — throw away (trwałe pozbycie), go away, work away (kontynuacja w oddaleniu od obserwatora, stąd poczucie 'ciągłości bez przeszkód'). ON: kontynuacja i przyleganie — carry on, go on (nieprzerwane trwanie), put on (przyleganie do ciała). BACK: powrót i rewers — give back, look back, hold back (odwrócenie wcześniejszego ruchu lub działania). OVER: pokonanie przeszkody, powtórzenie, transfer — get over (przejście NAD trudnością = jej pokonanie), think over, hand over (przekazanie z jednej strony na drugą, jak przerzucenie przedmiotu nad czymś)."
+      }
+    ],
+    "usage": [
+      "Rozpoznanie rodziny semantycznej partykuły pozwala budować hipotezy o nowych czasownikach: skoro 'up' regularnie oznacza kompletność, nowo napotkane 'lock up' (zamknąć na klucz — dokończyć zabezpieczanie) czy 'tie up' (związać do końca, dopiąć sprawę) od razu pasują do wzorca.",
+      "Ta sama partykuła może realizować różne rodziny w różnych czasownikach tego samego zdania kontekstowego — dlatego zawsze trzeba sprawdzać znaczenie w słowniku przy pierwszym kontakcie, ale WARTO od razu przypisać je do jednej z rodzin, żeby budować sieć skojarzeń, a nie listę izolowanych faktów.",
+      "Pary przeciwstawne partykuł (up/down jako intensyfikacja/redukcja, on/off jako kontynuacja/przerwanie) są wyjątkowo produktywne dydaktycznie — nauka 'speed up' i 'slow down' razem, jako para antonimiczna, utrwala się skuteczniej niż nauka pojedynczych haseł.",
+      "Native speakerzy nie 'obliczają' tych znaczeń świadomie — dla nich to zautomatyzowana sieć skojarzeń nabyta przez tysiące ekspozycji od dzieciństwa; uczący się języka obcego może przyspieszyć ten proces, świadomie ucząc się map semantycznych partykuł zamiast czekać na nieświadome wchłonięcie wzorca."
+    ],
+    "tags": ["semantyka partykuł", "up", "out", "down", "metafora"],
+    "examples": [
+      { "en": "Finish up your coffee, we're leaving. (up = completeness)", "pl": "Dokończ kawę, wychodzimy. (up = kompletność)" },
+      { "en": "We ran out of patience before we ran out of arguments. (out = depletion)", "pl": "Skończyła nam się cierpliwość, zanim skończyły się argumenty. (out = wyczerpanie)" },
+      { "en": "Please tone down the sarcasm in your email. (down = reduction of intensity)", "pl": "Złagodź sarkazm w tym mailu. (down = redukcja intensywności)" },
+      { "en": "It took her years to get over the betrayal. (over = overcoming an obstacle)", "pl": "Zajęło jej lata, żeby dojść do siebie po zdradzie. (over = pokonanie przeszkody)" }
+    ]
+  },
+  {
+    "id": "separable_transitive",
+    "order": 5,
+    "nameEn": "Separable transitive phrasal verbs and the resultative construction",
+    "namePl": "Rozdzielne czasowniki złożone przechodnie i konstrukcja rezultatywna",
+    "rules": [
+      {
+        "label": "Dopełnienie rzeczownikowe: dwie pozycje, ta sama gramatyka",
+        "text": "Kiedy dopełnieniem jest pełny rzeczownik, może stanąć zarówno między czasownikiem a partykułą, jak i po całej frazie: 'turn off the light' albo 'turn the light off' — obie wersje są w pełni poprawne i (poza drobnymi niuansami nacisku informacyjnego, zob. temat o pronominalizacji) znaczą to samo."
+      },
+      {
+        "label": "Dlaczego w ogóle da się to rozdzielić — analiza małej klauzuli",
+        "text": "Klucz do zrozumienia SKĄD bierze się ta rozdzielność leży w analizie składniowej: 'turn the light off' strukturalnie przypomina konstrukcję rezultatywną, znaną też z 'paint the wall red' czy 'wipe the table clean' — czasownik + obiekt + fraza opisująca REZULTAT, jaki obiekt osiąga w wyniku czynności. 'The light off' to miniaturowe zdanie ('mała klauzula', small clause) znaczące 'światło [jest/staje się] wyłączone', dokładnie jak 'the wall red' znaczy 'ściana [jest] czerwona'. Partykuła 'off' pełni więc funkcję orzecznika stanu końcowego, nie zwykłego przyimka — i to dlatego może swobodnie 'odkleić się' od czasownika i wędrować za obiekt: gramatycznie należy do frazy opisującej obiekt, a nie sztywno do czasownika."
+      },
+      {
+        "label": "Kiedy rozdzielenie jest preferowane, a kiedy unikane",
+        "text": "Przy krótkim, lekkim dopełnieniu obie kolejności brzmią naturalnie, ale gdy dopełnienie jest długie lub złożone (kilka słów, klauzula względna), native speaker niemal zawsze woli zostawić je NA KOŃCU zdania, po partykule — 'turn off all the lights in the upstairs bedrooms that nobody uses' brzmi dużo naturalniej niż wersja z długim dopełnieniem wciśniętym między czasownik a 'off'. To przejaw ogólnej zasady end-weight (patrz kolejny temat), która rządzi całą składnią angielską, nie tylko phrasal verbs."
+      }
+    ],
+    "usage": [
+      "Typowe czasowniki: turn on/off, pick up, put on, take off, give up, put off, switch on/off, throw away, take up, call off, fill in/out, cross out, work out, sort out.",
+      "Rozdzielność jest cechą składniową, nie semantyczną — nie da się jej 'wyczuć' ze znaczenia czasownika, trzeba ją zapamiętać razem z każdym nowym phrasal verbem (słowniki uczące zawsze to oznaczają, np. skrótem [T, sep.]).",
+      "Znaczenie bywa dosłowne (turn off the light) i przenośne (give up smoking) — rozdzielność strukturalna nie zależy od tego, na którym piętrze continuum idiomatyczności się znajdujemy.",
+      "W rejestrze pisanym, zwłaszcza formalnym, wersja z dopełnieniem między czasownikiem a partykułą bywa odbierana jako lekko bardziej oficjalna/precyzyjna niż wersja z partykułą tuż po czasowniku — to subtelna, ale realna różnica stylistyczna dostrzegana na poziomie C1/C2."
+    ],
+    "tags": ["mała klauzula", "rezultatyw", "turn off", "pick up"],
+    "examples": [
+      { "en": "Please turn off the TV before you go to bed. / Please turn the TV off before you go to bed.", "pl": "Wyłącz telewizor przed pójściem spać. (obie kolejności poprawne)" },
+      { "en": "Can you pick up some milk on your way home?", "pl": "Możesz kupić trochę mleka po drodze do domu?" },
+      { "en": "They called off the wedding just two weeks before the big day.", "pl": "Odwołali ślub zaledwie dwa tygodnie przed wielkim dniem." },
+      { "en": "She filled out every single form in that enormous stack of paperwork the bank had sent her.", "pl": "Wypełniła każdy formularz w tym ogromnym stosie papierów, który przysłał jej bank. (długie dopełnienie — partykuła zostaje przy czasowniku)" }
+    ]
+  },
+  {
+    "id": "pronoun_end_weight_principle",
+    "order": 6,
+    "nameEn": "Why pronouns force the split: the end-weight principle",
+    "namePl": "Dlaczego zaimek wymusza rozdzielenie: zasada 'ciężaru na końcu'",
+    "rules": [
+      {
+        "label": "Twarda zasada powierzchniowa",
+        "text": "Gdy dopełnieniem jest zaimek (it, them, her, him, us, me, you), MUSI on stanąć między czasownikiem a partykułą — 'turn it off', nigdy '*turn off it'. To jedna z najbardziej bezwyjątkowych reguł szyku w całej angielskiej gramatyce: nie ma tu wariantywności, w przeciwieństwie do pełnych rzeczowników."
+      },
+      {
+        "label": "Skąd się bierze ta 'twardość' — informacja dana vs nowa i ciężar składniowy",
+        "text": "To nie arbitralny kaprys, tylko konsekwencja ogólnej zasady end-weight (ciężaru na końcu), która w angielskim porządkuje niemal każdą konstrukcję z opcjonalną kolejnością: elementy KRÓTKIE, LEKKIE i ZNANE Z KONTEKSTU (given information) dążą do środka/początku zdania, elementy DŁUGIE, 'CIĘŻKIE' i NOWE (new information) dążą na koniec, bo to właśnie koniec zdania niesie naturalnie największy nacisk intonacyjny i uwagę słuchacza. Zaimek osobowy jest z definicji informacją już znaną (odsyła do czegoś wcześniej wspomnianego) i fonetycznie 'lekką' (jedna nieakcentowana sylaba) — umieszczenie go na końcu, tam gdzie oczekujemy najważniejszej, najcięższej informacji zdania, tworzyłoby dysonans informacyjny. Partykuła (off, up, away) niosąca właściwą treść czynności naturalnie 'zasługuje' na końcową, akcentowaną pozycję bardziej niż nic-nie-wnoszący zaimek."
+      },
+      {
+        "label": "Ten sam mechanizm w innych konstrukcjach angielskich",
+        "text": "Zasada end-weight nie jest wynalazkiem specjalnie dla phrasal verbs — rządzi też np. kolejnością dopełnień w czasownikach ditransitive ('give her the book' vs 'give the book to the very confused new intern who had just started that morning', gdzie ciężkie dopełnienie ucieka na koniec z 'to'), czy extrapozycją podmiotu ('It's obvious that he lied' zamiast ciężkiego 'that he lied is obvious' na początku). Zrozumienie end-weight jako jednej, uniwersalnej zasady — a nie dziesiątek osobnych 'wyjątków' do wykucia — jest jednym z najbardziej opłacalnych skrótów myślowych na poziomie C1/C2."
+      }
+    ],
+    "usage": [
+      "Zasada dotyczy WSZYSTKICH zaimków osobowych w funkcji dopełnienia, niezależnie od formalności czy rejestru: it, them, her, him, us, me, you — bez wyjątku.",
+      "Nie dotyczy zaimków wskazujących w funkcji pełnego określnika rzeczownikowego bezpośrednio ('turn off this light' zachowuje się jak pełny NP, oba szyki możliwe), bo 'this light' to wciąż pełna fraza rzeczownikowa, a nie 'goły' zaimek osobowy.",
+      "Błąd '*turn off it' jest jednym z najbardziej rozpoznawalnych sygnałów obcego pochodzenia mówiącego dla native speakerów — warto go świadomie wyeliminować jako odruch, bo w mowie potocznej pojawia się automatycznie, zanim zdąży się pomyśleć o regule.",
+      "W czasownikach nierozdzielnych (look after her, deal with it) problem w ogóle nie występuje, bo tam partykuła/przyimek zawsze stoi bezpośrednio przy czasowniku, a całe dopełnienie — również zaimkowe — idzie na sam koniec (zob. kolejny temat)."
+    ],
+    "tags": ["end-weight", "zaimek", "informacja dana i nowa", "szyk zdania"],
+    "examples": [
+      { "en": "It's freezing in here — could you close the window and turn it off, please? (turn it off, NOT turn off it)", "pl": "Marznę tu — mógłbyś zamknąć okno i to wyłączyć? (turn it off, NIE turn off it)" },
+      { "en": "I've read your report twice; I'll send it back with comments tomorrow.", "pl": "Przeczytałem twój raport dwa razy; odeślę go z komentarzami jutro." },
+      { "en": "Take off your shoes. → Take them off. (never: take off them)", "pl": "Zdejmij buty. → Zdejmij je. (nigdy: take off them)" },
+      { "en": "Compare: 'give her the book' (light object stays close) vs. 'give the book to the woman who had been waiting outside since early morning' (heavy object drifts to the end).", "pl": "Porównaj: 'give her the book' (lekki obiekt zostaje blisko) vs. 'give the book to the woman who had been waiting outside since early morning' (ciężki obiekt ucieka na koniec)." }
+    ]
+  },
+  {
+    "id": "prepositional_vs_phrasal_distinction",
+    "order": 7,
+    "nameEn": "Prepositional verbs vs. inseparable phrasal verbs: three syntactic tests",
+    "namePl": "Czasowniki z przyimkiem a nierozdzielne phrasal verbs: trzy testy składniowe",
+    "rules": [
+      {
+        "label": "Podstawowa reguła powierzchniowa",
+        "text": "Dopełnienie zawsze stoi po całej frazie 'czasownik + partykuła', nigdy między jej częściami — 'look after the baby', nigdy '*look the baby after'; ta sama zasada dotyczy zaimków: 'look after her', nigdy '*look her after'. Powierzchniowo wygląda to identycznie jak zwykły czasownik z przyimkiem ('rely on', 'listen to'), i to nieprzypadkowo — bo częściowo nim właśnie jest."
+      },
+      {
+        "label": "Test 1 — przesuwalność przyimka w pytaniu formalnym",
+        "text": "Prawdziwy przyimek (jak w 'rely on somebody') można — przynajmniej w bardzo formalnym rejestrze — przesunąć na początek pytania lub zdania względnego razem z jego dopełnieniem: 'On whom can we rely?', 'the person on whom I rely'. Prawdziwa partykuła czasownika złożonego (jak 'up' w 'look up' = sprawdzić w słowniku) NIGDY tego nie toleruje: '*Up what did you look the word?' jest niegramatyczne w każdym rejestrze. Ten test ujawnia, że np. 'look after' (opiekować się) zachowuje się w praktyce jak phrasal verb (nie da się ładnie powiedzieć 'After whom are you looking?' w znaczeniu 'opiekować się'), podczas gdy 'look at' bywa bliżej zwykłego czasownika z przyimkiem."
+      },
+      {
+        "label": "Test 2 — wstawianie przysłówka",
+        "text": "Między czasownik a prawdziwy przyimek MOŻNA wstawić przysłówek sposobu: 'look carefully after the wound' (choć rzadkie, gramatyczne). Między czasownik a partykułę phrasal verba wstawienie przysłówka jest niemożliwe: '*turn carefully off the light'. Im bardziej dana kombinacja opiera się wstawieniu przysłówka, tym bardziej jest zleksykalizowaną jednostką (phrasal verb), a nie luźnym połączeniem czasownik+przyimek."
+      },
+      {
+        "label": "Test 3 — akcent zdaniowy jako sygnał fonetyczny",
+        "text": "Phrasal verbs (nawet nierozdzielne) systematycznie przyjmują akcent na PARTYKULE: 'look AFter the dog', 'look INto it', 'run INto trouble'. Zwykłe czasowniki z przyimkiem akcentują CZASOWNIK, a przyimek jest nieakcentowany: 'LOOK at the picture', 'LIsten to me'. Ten wzorzec akcentowy nie jest kosmetyczny — to fonetyczny odcisk faktu, że w phrasal verb partykuła niesie tyle samo znaczeniowego 'ciężaru' co sam czasownik (razem tworzą nową jednostkę leksykalną), podczas gdy w zwykłym połączeniu czasownik+przyimek to czasownik jest semantycznym centrum, a przyimek tylko wprowadza jego dopełnienie."
+      }
+    ],
+    "usage": [
+      "Typowe nierozdzielne phrasal verbs: look after, look into, run into, come across, get over, deal with, look for, count on, believe in, care for, go through, stand for.",
+      "Wiele z nich ma charakter bardziej metaforyczny lub formalny niż odpowiadające im rozdzielne — warto zapamiętywać je razem ze stałym przyimkiem jako nierozerwalną całość leksykalną, a nie czasownik + osobno dobierany przyimek.",
+      "W praktyce native speaker nie stosuje świadomie tych trzech testów w rozmowie — to narzędzie ANALITYCZNE, przydatne uczącemu się do zrozumienia, dlaczego intuicja mówi 'to jedna jednostka', a nie do aktywnego stosowania w mowie.",
+      "Granica bywa płynna: niektóre kombinacje (np. 'look at') zachowują się częściowo jak zwykłe czasowniki z przyimkiem w jednych kontekstach, a częściowo jak phrasal verb w innych — to normalne dla żywego, wciąż ewoluującego systemu językowego, nie błąd klasyfikacji."
+    ],
+    "tags": ["testy składniowe", "akcent zdaniowy", "look after", "przyimek vs partykuła"],
+    "examples": [
+      { "en": "Can you look after my dog while I'm away? (never: look my dog after)", "pl": "Możesz zaopiekować się moim psem, kiedy mnie nie będzie? (nigdy: look my dog after)" },
+      { "en": "The police are looking INto the case. (stress on the particle — a genuine phrasal verb)", "pl": "Policja bada tę sprawę. (akcent na partykule — prawdziwy phrasal verb)" },
+      { "en": "*Into what are the police looking? — impossible; compare the fully grammatical 'On whom does the decision depend?' with a true preposition.", "pl": "*Into what are the police looking? — niegramatyczne; porównaj w pełni poprawne 'On whom does the decision depend?' z prawdziwym przyimkiem." },
+      { "en": "It took her months to get over the illness.", "pl": "Zajęło jej miesiące, żeby dojść do siebie po chorobie." }
     ]
   },
   {
     "id": "three_word",
-    "order": 4,
-    "nameEn": "Three-word (phrasal-prepositional) verbs",
-    "namePl": "Czasowniki trójczłonowe",
+    "order": 8,
+    "nameEn": "Phrasal-prepositional (three-word) verbs",
+    "namePl": "Czasowniki trójczłonowe (phrasal-prepositional)",
     "rules": [
-      { "label": "Budowa", "text": "Czasownik + partykuła przysłówkowa + przyimek, np. look forward to, get along with, put up with" },
-      { "label": "Nierozdzielność", "text": "Zawsze nierozdzielne — dopełnienie występuje dopiero po całej trójczłonowej frazie" }
+      {
+        "label": "Budowa: partykuła + przyimek na jednym czasowniku",
+        "text": "Czasownik trójczłonowy łączy w sobie oba mechanizmy naraz: partykułę aspektową/kierunkową (jak w zwykłym phrasal verb) ORAZ prawdziwy przyimek wprowadzający dopełnienie — 'look forward to', 'get along with', 'put up with', 'look down on', 'run out of', 'come up with'. Strukturalnie to phrasal verb (czasownik+partykuła), do którego doklejono jeszcze jeden, zewnętrzny przyimek."
+      },
+      {
+        "label": "Dlaczego są zawsze nierozdzielne, nawet z zaimkiem",
+        "text": "Ponieważ ostatni element to prawdziwy przyimek, a przyimki z definicji wymagają swojego dopełnienia bezpośrednio po sobie ('with it', nie '*it with' na poziomie samego przyimka), cała trójczłonowa fraza jest zablokowana przed rozdzieleniem w jakimkolwiek miejscu: dopełnienie — nawet zaimkowe — zawsze ląduje na samym końcu, po WSZYSTKICH trzech elementach: 'I can't put up with it', nigdy '*put it up with' ani '*put up it with'. To logiczna konsekwencja nałożenia się dwóch reguł (partykuła przykleja się do czasownika, przyimek wymaga dopełnienia zaraz po sobie), a nie osobna, arbitralna zasada do zapamiętania."
+      },
+      {
+        "label": "Znaczenie zwykle mocno zleksykalizowane",
+        "text": "Czasowniki trójczłonowe niemal zawsze leżą na dalekim, idiomatycznym końcu continuum przezroczystości (temat wcześniejszy) — 'put up with' (tolerować) nie da się wywnioskować z 'put' + 'up' + 'with' w żaden kompozycyjny sposób, podobnie 'look down on' (gardzić, patrzeć z góry — tu akurat metafora przestrzenna 'z góry na dół' jest wciąż przejrzysta) czy 'come up with' (wpaść na pomysł — 'wyjść na powierzchnię z czymś', echo rodziny 'up' = ujawnienie, pojawienie się)."
+      }
     ],
     "usage": [
-      "Typowe czasowniki: look forward to, get along with, put up with, run out of, come up with, look up to, cut down on, keep up with, catch up with, go along with",
-      "Trzeba zapamiętywać je jako całą stałą frazę razem z przyimkiem",
-      "Bardzo częste w mowie potocznej — nadają wypowiedzi naturalności"
+      "Typowe czasowniki: look forward to, get along with, put up with, run out of, come up with, look up to, cut down on, keep up with, catch up with, go along with, do away with, walk out on.",
+      "Trzeba zapamiętywać je jako całą stałą frazę razem z przyimkiem — próba 'złożenia' ich z osobno znanych znaczeń poszczególnych elementów zwykle prowadzi na manowce.",
+      "Bardzo częste w mowie potocznej i nadają wypowiedzi naturalności — ich formalne odpowiedniki łacińsko-francuskie istnieją niemal zawsze (put up with = tolerate, look forward to = anticipate, come up with = devise/propose), zgodnie z zasadą stratyfikacji rejestru z wcześniejszego tematu.",
+      "Akcent zdaniowy pada zwykle na partykułę środkową, nie na końcowy przyimek: 'look FORward to it', 'put UP with it' — to kolejny fonetyczny sygnał, że środkowy element jest integralną częścią czasownika, a końcowy przyimek jedynie wprowadza dopełnienie."
     ],
-    "tags": ["look forward to", "put up with", "run out of", "come up with"],
+    "tags": ["trójczłonowe", "look forward to", "put up with", "nierozdzielność"],
     "examples": [
-      { "en": "I'm looking forward to the weekend.", "pl": "Nie mogę się doczekać weekendu." },
-      { "en": "She gets along with her colleagues very well.", "pl": "Bardzo dobrze dogaduje się ze współpracownikami." },
-      { "en": "I can't put up with this noise any longer.", "pl": "Nie mogę już dłużej znosić tego hałasu." },
-      { "en": "We ran out of milk this morning.", "pl": "Skończyło nam się dziś rano mleko." }
+      { "en": "I'm really looking forward to the weekend.", "pl": "Naprawdę nie mogę się doczekać weekendu." },
+      { "en": "I can't put up with this noise any longer. → I can't put up with it any longer. (never: put it up with)", "pl": "Nie mogę już dłużej znosić tego hałasu. → Nie mogę już dłużej tego znosić. (nigdy: put it up with)" },
+      { "en": "She's always looked down on people who didn't go to university.", "pl": "Zawsze patrzyła z góry na ludzi, którzy nie poszli na studia." },
+      { "en": "We ran out of milk this morning, so we came up with a coffee-without-milk compromise.", "pl": "Skończyło nam się dziś rano mleko, więc wpadliśmy na kompromis w postaci kawy bez mleka." }
+    ]
+  },
+  {
+    "id": "passive_and_nominalization",
+    "order": 9,
+    "nameEn": "The passive voice and nominalized phrasal verbs",
+    "namePl": "Strona bierna i rzeczowniki odczasownikowe od phrasal verbs",
+    "rules": [
+      {
+        "label": "Strona bierna: partykuła zostaje przyklejona do imiesłowu",
+        "text": "Rozdzielne i nierozdzielne phrasal verbs tworzą stronę bierną dokładnie jak zwykłe czasowniki przechodnie — dawne dopełnienie staje się podmiotem, a partykuła zostaje 'przyklejona' bezpośrednio za imiesłowem biernym, nigdy się od niego nie oddzielając: 'They called off the meeting' → 'The meeting was called off' (nigdy '*was called the meeting off' ani '*the meeting was off called'). Nierozdzielne zachowują się identycznie: 'Everybody looked after him' → 'He was well looked after' — mimo że w formie aktywnej dopełnienie stało daleko za partykułą, w stronie biernej partykuła zawsze wraca bezpośrednio przy czasowniku, bo to ona razem z nim tworzy jednostkę, której się nadaje nowy podmiot."
+      },
+      {
+        "label": "Nominalizacja: phrasal verb jako fabryka nowych rzeczowników",
+        "text": "Angielski systematycznie przekształca czasowniki złożone w rzeczowniki złożone — jeden z najbardziej produktywnych mechanizmów słowotwórczych współczesnego języka: breakdown, comeback, takeover, dropout, walkout, workout, checkup, setback, outbreak, income, output, upkeep, feedback. Warto zauważyć DWA różne wzorce szykowe, które są żywym śladem historii opisanej w pierwszym temacie tego rozdziału: (a) wzorzec 'czasownik+partykuła' zachowuje kolejność współczesną postpozycyjną — breakdown, comeback, takeover, dropout (partykuła PO rdzeniu, tak jak w czasowniku); (b) starszy, mniejszościowy wzorzec 'partykuła+czasownik' zachowuje szyk PRZEDROSTKOWY ze staroangielskiego — outbreak, income, upkeep, output, uprising, downfall (partykuła PRZED rdzeniem, fosylizowana pozostałość dawnego systemu prefiksalnego, który w czasownikach już dawno zanikł, ale w tych rzeczownikach przetrwał jako relikt)."
+      },
+      {
+        "label": "Akcent i pisownia jako sygnał zleksykalizowania",
+        "text": "Kiedy phrasal verb przechodzi w rzeczownik, dwa zjawiska sygnalizują zakończenie procesu leksykalizacji: pisownia zwykle zlewa się w jedno słowo (a breakdown, nie 'a break-down' czy 'a break down'), a akcent przesuwa się z partykuły (czasownikowe 'break DOWN') na pierwszą sylabę (rzeczownikowe 'BREAKdown') — dokładnie ten sam wzorzec akcentowy, który odróżnia rzeczownik 'a PREsent' od czasownika 'to preSENT'. To pokazuje, że nominalizacja phrasal verbs nie jest osobnym zjawiskiem, tylko szczególnym przypadkiem ogólnej angielskiej tendencji: rzeczowniki akcentują początek, czasowniki — koniec."
+      }
+    ],
+    "usage": [
+      "Strona bierna phrasal verbs jest szczególnie częsta z czasownikami opisującymi wydarzenia planowane i ich losy: the trip was called off, the concert was put off, the project was carried out.",
+      "Nominalizowane phrasal verbs bywają nieformalne/potoczne (a comeback, a workout) obok bardziej neutralnych, wręcz technicznych (output, income, feedback) — sama nominalizacja nie gwarantuje rejestru formalnego, w przeciwieństwie do łacińskich synonimów z tematu o warstwie normandzkiej.",
+      "Niektóre nominalizacje zawężają znaczenie w porównaniu z czasownikiem źródłowym: 'to break down' ma szerokie znaczenie (awaria, załamanie, analiza na czynniki — 'break down the costs'), podczas gdy rzeczownik 'a breakdown' najczęściej oznacza konkretnie awarię lub załamanie nerwowe.",
+      "Rozpoznanie wzorca 'partykuła+czasownik' (outbreak, income, upkeep) jako reliktu staroangielskiego przedrostka spina całą narrację tego rozdziału klamrą — to namacalny dowód na to, że historia językowa, opisana na początku, wciąż jest aktywnie widoczna w słowniku współczesnego angielskiego."
+    ],
+    "tags": ["strona bierna", "nominalizacja", "breakdown", "akcent wyrazowy"],
+    "examples": [
+      { "en": "The meeting was called off at the last minute.", "pl": "Spotkanie zostało odwołane w ostatniej chwili." },
+      { "en": "He was very well looked after in hospital.", "pl": "Bardzo dobrze się nim opiekowano w szpitalu." },
+      { "en": "After the breakdown of the talks, both sides staged a walkout.", "pl": "Po załamaniu się rozmów obie strony urządziły demonstracyjne wyjście." },
+      { "en": "The report analyses both the output of the factory and the upkeep costs of its machinery.", "pl": "Raport analizuje zarówno produkcję fabryki, jak i koszty utrzymania jej maszyn." }
     ]
   }
 ]
