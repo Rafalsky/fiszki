@@ -1,90 +1,261 @@
 [
   {
-    "id": "statements",
+    "id": "deixis_foundation",
     "order": 1,
-    "nameEn": "Reported statements",
-    "namePl": "Zdania oznajmujące w mowie zależnej",
+    "nameEn": "The deictic foundation — why reported speech is one rule, not three",
+    "namePl": "Fundament: mowa zależna jako przesunięcie środka deiktycznego",
     "rules": [
-      { "label": "Budowa", "text": "Podmiot + said (that) / told + osoba + (that) + zdanie z przesuniętym czasem (backshift)" },
-      { "label": "Backshift", "text": "present simple → past simple, present continuous → past continuous, present perfect → past perfect, past simple → past perfect, will → would, can → could" },
-      { "label": "Say vs tell", "text": "say (that) — bez dopełnienia osobowego; tell somebody (that) — zawsze z osobą, do której mówimy" }
+      {
+        "label": "Cytowanie kontra relacjonowanie",
+        "text": "Mowa bezpośrednia (\"I am tired,\" she said) to dosłowny cytat — teleportujemy słuchacza z powrotem do oryginalnej sceny mówienia, zachowując każde słowo dokładnie tak, jak padło, łącznie z jego 'ja', 'teraz' i 'tutaj'. Mowa zależna robi coś zupełnie innego: bierze treść tamtej wypowiedzi i przenosi ją do WŁASNEGO punktu widzenia relacjonującego — jego własnego 'ja', 'teraz' i 'tutaj'. To nie jest kosmetyczna zmiana interpunkcji (cudzysłów znika, pojawia się 'that') — to pełne przeliczenie współrzędnych wypowiedzi na nowy układ odniesienia."
+      },
+      {
+        "label": "Origo: niewidzialny punkt zerowy każdego zdania",
+        "text": "Językoznawca Karl Bühler nazwał w 1934 roku ten punkt odniesienia 'Origo' (łac. 'punkt początkowy') — niewidzialne centrum, wokół którego krąży znaczenie słów takich jak I, you, here, there, now, then, this, that, today. Żadne z tych słów nie ma stałego znaczenia samo w sobie — 'here' znaczy co innego w ustach każdej osoby, w każdym miejscu i o każdej porze; zyskuje sens dopiero w relacji do Origo, czyli do tego, KTO mówi, GDZIE i KIEDY. Kiedy cytujemy dosłownie, zachowujemy oryginalne Origo nienaruszone (stąd 'she said, \"I am tired\"' — to wciąż JEJ 'ja'). Kiedy relacjonujemy pośrednio, porzucamy tamto Origo i każdy element do niego zakotwiczony trzeba przeliczyć na nowo, względem Origo aktu relacjonowania."
+      },
+      {
+        "label": "Od parataksy do podrzędności: skąd wzięło się 'that'",
+        "text": "We wczesnej angielszczyźnie relacja cudzej wypowiedzi wyglądała zupełnie inaczej niż dziś — staroangielskie kroniki relacjonowały mowę konstrukcją typu 'he cwæð þæt...' ('on rzekł to...'), gdzie 'þæt' było jeszcze pełnoprawnym zaimkiem wskazującym ('to, tamto'), dosłownie wskazującym na następującą po nim treść jako na odrębny, wskazany palcem fakt. Przez wieki ten zaimek stopniowo 'wyblakł' semantycznie i skostniał w czysto gramatyczny spójnik podrzędny 'that', którego jedyną funkcją stało się wprowadzanie całego zdania jako podrzędnego dopełnienia czasownika mówienia. To dokładnie ta sama droga rozwoju, którą przeszła łacińska liczebnik/zaimek 'quod' ('to, co'), stając się francuskim spójnikiem 'que' czy włoskim 'che' — zaimki wskazujące gramatykalizujące się w spójniki podrzędne to wzorzec pojawiający się niezależnie w wielu rodzinach językowych, nie angielski wynalazek, lecz uniwersalna droga, jaką gramatyka lubi podążać."
+      },
+      {
+        "label": "Backshift to nie osobna reguła — to ten sam mechanizm zastosowany do czasu",
+        "text": "Kluczowa teza, na której opiera się cały ten temat: 'przesunięcie czasów' (backshift) nie jest arbitralną regułką do wykucia na pamięć, lecz bezpośrednią KONSEKWENCJĄ przesunięcia Origo zastosowaną do osi czasu. Angielskie czasy gramatyczne są z natury deiktyczne — czas present simple znaczy dosłownie 'prawdziwe względem TERAZ mówiącego'. Kiedy relacjonujemy wypowiedź później, dawne 'teraz' (moment oryginalnego mówienia) stało się dla nowego Origo punktem w PRZESZŁOŚCI. Czasownik, który był zakotwiczony w tamtym 'teraz', trzeba więc przekotwiczyć do 'wtedy' — stąd present → past. To dokładnie ta sama logika, która w dalszej części tego tematu wyjaśni przesunięcia zaimków, 'tutaj/tam' i 'dziś/tamtego dnia' — nie trzy osobne reguły do zapamiętania, lecz JEDNA zasada (przesuń Origo) zastosowana kolejno do czasu, osoby i miejsca."
+      }
+    ],
+    "usage": [
+      "Mowa bezpośrednia zachowuje oryginalne Origo wypowiedzi (cudzysłów = 'teleportacja' do tamtej sceny)",
+      "Mowa zależna przelicza każdy element deiktyczny (czas, osobę, miejsce) na Origo relacjonującego",
+      "Spójnik 'that' pochodzi od dawnego zaimka wskazującego — można go dziś swobodnie pomijać w mowie potocznej (He said (that) he was tired.)",
+      "Cała reszta tego tematu to rozwinięcie jednej zasady: backshift, zmiana zaimków i zmiana wyrażeń czasu/miejsca to trzy odsłony tego samego zjawiska przesunięcia Origo"
+    ],
+    "tags": ["Origo", "deixis", "þæt → that", "backshift jako konsekwencja"],
+    "examples": [
+      { "en": "\"I'll fix it myself,\" he said. → He said he would fix it himself.", "pl": "„Sam to naprawię” powiedział. → Powiedział, że sam to naprawi." },
+      { "en": "\"I'm not going anywhere,\" she insisted. → She insisted she wasn't going anywhere.", "pl": "„Nigdzie się nie wybieram” upierała się. → Upierała się, że nigdzie się nie wybiera." }
+    ]
+  },
+  {
+    "id": "statements",
+    "order": 2,
+    "nameEn": "Reported statements — backshift as re-anchoring the clock",
+    "namePl": "Zdania oznajmujące — backshift jako przestawienie zegara o jeden krok",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Podmiot + said (that) / told + osoba + (that) + zdanie z przesuniętym czasem. 'That' jest w pełni opcjonalne w mowie potocznej (He said he was tired. = He said that he was tired.) — nawet w piśmie formalnym jego pominięcie jest akceptowalne, choć obecność 'that' bywa preferowana w rejestrze oficjalnym, bo wyraźniej sygnalizuje granicę między czasownikiem głównym a zdaniem podrzędnym."
+      },
+      {
+        "label": "Pełna tabela backshiftu jako logiczny łańcuch, nie lista do wykucia",
+        "text": "present simple → past simple, present continuous → past continuous, present perfect → past perfect, past simple → past perfect, past continuous → past perfect continuous, will → would. Zamiast zapamiętywać sześć osobnych par, wystarczy jedna reguła z poprzedniego tematu: każdy czas 'cofa się' dokładnie o jeden krok od swojego pierwotnego zakotwiczenia w 'teraz' oryginalnej wypowiedzi. Past simple, które już opisywało coś zakończonego względem TAMTEGO 'teraz', musi cofnąć się jeszcze dalej — do past perfect — bo z perspektywy NOWEGO 'teraz' relacjonujący opisuje coś, co było zakończone jeszcze przed tamtym punktem w przeszłości, czyli podwójnie w tyle."
+      },
+      {
+        "label": "Modalne, które są przeszłością od zawsze: could, would, might, should",
+        "text": "Backshift modalnych (can→could, may→might, will→would, shall→should) wydaje się zaskakująco 'gładki' i regularny — i nie jest to przypadek. Te pary istniały jako present/past już w staroangielskim, na długo zanim mowa zależna w ogóle stała się osobną kategorią gramatyczną: cunnan/cūðe dało can/could, magan/mihte dało may/might, sculan/sceolde dało shall/should, willan/wolde dało will/would. Backshift nie WYMYŚLA więc nowej formy przeszłej dla tych czasowników — po prostu sięga po formę przeszłą, którą dany czasownik modalny miał od stuleci, z zupełnie innych powodów niż relacjonowanie cudzych słów. To dlatego ten fragment backshiftu 'działa' tak intuicyjnie: język nie musiał niczego dodatkowo tworzyć, wystarczyło przekierować istniejący już mechanizm gramatyczny do nowego zadania."
+      },
+      {
+        "label": "Say vs tell: dlaczego jeden wymaga adresata, a drugi nie",
+        "text": "'Say (that)' nigdy nie wymaga dopełnienia osobowego (He said he was tired — nie: He said me), a 'tell somebody (that)' zawsze go wymaga (He told me he was tired — nigdy: He told that...). To rozróżnienie ma korzenie etymologiczne, rozwinięte szerzej w osobnym podtemacie tego działu ('Czasowniki relacjonujące') — w skrócie: 'tell' od zawsze niosło w sobie ideę przekazania czegoś KOMUŚ, podczas gdy 'say' zawsze mogło istnieć jako czysty akt wypowiedzenia słów, bez żadnego wyznaczonego odbiorcy."
+      }
     ],
     "usage": [
       "Relacjonowanie tego, co ktoś powiedział, bez cytowania dosłownie (He said, \"I am tired.\" → He said he was tired.)",
-      "Backshift stosuje się zwykle, gdy czasownik wprowadzający (said) jest w czasie przeszłym",
-      "Backshift można pominąć, gdy relacjonowana informacja wciąż jest aktualna/prawdziwa"
+      "Backshift stosuje się domyślnie, gdy czasownik wprowadzający (said, told) jest w czasie przeszłym — bo to on wyznacza, że oryginalne 'teraz' stało się już przeszłością",
+      "Modalne cofają się do swoich historycznie istniejących form przeszłych (can→could, will→would, may→might, shall→should)",
+      "'That' można swobodnie pominąć w każdym rejestrze poza najbardziej oficjalnym pismem"
     ],
-    "tags": ["say/tell", "backshift", "that-clause"],
+    "tags": ["say/tell", "backshift", "that-clause", "preterite-present"],
     "examples": [
-      { "en": "\"I am tired,\" she said. → She said she was tired.", "pl": "„Jestem zmęczona” powiedziała. → Powiedziała, że jest zmęczona." },
+      { "en": "\"I am tired,\" she said. → She said (that) she was tired.", "pl": "„Jestem zmęczona” powiedziała. → Powiedziała, że jest zmęczona." },
       { "en": "\"We have finished the project,\" they said. → They said they had finished the project.", "pl": "„Skończyliśmy projekt” powiedzieli. → Powiedzieli, że skończyli projekt." },
-      { "en": "\"I will call you tomorrow,\" he told me. → He told me he would call me the next day.", "pl": "„Zadzwonię do ciebie jutro” powiedział mi. → Powiedział mi, że zadzwoni do mnie następnego dnia." }
+      { "en": "\"I will call you tomorrow,\" he told me. → He told me he would call me the next day.", "pl": "„Zadzwonię do ciebie jutro” powiedział mi. → Powiedział mi, że zadzwoni do mnie następnego dnia." },
+      { "en": "\"I can't find my keys,\" she admitted. → She admitted she couldn't find her keys.", "pl": "„Nie mogę znaleźć kluczy” przyznała. → Przyznała, że nie może znaleźć kluczy." }
+    ]
+  },
+  {
+    "id": "backshift_exceptions",
+    "order": 3,
+    "nameEn": "When the clock doesn't move — backshift suspended",
+    "namePl": "Kiedy zegar się nie przesuwa — wyjątki od backshiftu",
+    "rules": [
+      {
+        "label": "Prawdy ogólne: żadne Origo ich nie dotyczy",
+        "text": "Zdania wyrażające niezmienne fakty o świecie (Water boils at 100°C. / The Earth orbits the Sun.) pozostają w present simple nawet po backshifcie czasownika wprowadzającego, bo ich prawdziwość w ogóle nie jest zakotwiczona w żadnym konkretnym 'teraz' — są prawdziwe niezależnie od tego, kiedy ktokolwiek o nich mówi. Skoro nie mają swojego Origo do przesunięcia, backshift nie ma czego dotknąć: 'She said (that) water boils at 100°C' brzmi naturalnie, bo fakt nie 'zestarzał się' razem z czasownikiem 'said'."
+      },
+      {
+        "label": "Wciąż aktualne teraz: wybór mówiącego, nie przymus gramatyki",
+        "text": "Kiedy relacjonowana treść jest wciąż prawdziwa w chwili relacjonowania, backshift staje się OPCJONALNY, a nie obowiązkowy — to subtelny, ale realny wybór stylistyczny. 'She said she lives in Berlin' i 'She said she lived in Berlin' są oba poprawne, ale niosą inny sygnał: pierwsze podkreśla, że fakt wciąż obowiązuje TERAZ (relacjonujący aktywnie ręczy za jego aktualność), drugie po prostu neutralnie referuje dawną wypowiedź, nie deklarując nic o stanie obecnym. Ta swoboda wyboru to jeden z najczęściej pomijanych w podręcznikach niuansów mowy zależnej na poziomie C1."
+      },
+      {
+        "label": "Relacjonowanie 'na gorąco': gdy Origo w ogóle się nie przesunęło",
+        "text": "Gdy czasownik wprowadzający stoi w present simple (He says he's coming. / She tells me she's busy.), backshift w ogóle nie zachodzi — logicznie, bo skoro relacja dzieje się niemal w tym samym momencie co oryginalna wypowiedź (odczytujemy SMS na głos, przekazujemy świeżą wiadomość), Origo relacjonującego i Origo oryginalnego mówiącego praktycznie się pokrywają. Nie ma żadnego dystansu czasowego do zniwelowania, więc nie ma czego przesuwać — to nie wyjątek od reguły Origo, lecz jej najczystsze potwierdzenie: tam, gdzie Origo się nie zmienia, forma też się nie zmienia."
+      },
+      {
+        "label": "Must: skamielina, która zdradza własną historię",
+        "text": "'Must' ma w mowie zależnej dwie zupełnie różne ścieżki, i obie tłumaczy jego historia. 'Must' pochodzi od staroangielskiego 'mōste' — formy PRZESZŁEJ czasownika 'mōtan' ('mieć pozwolenie, być zobowiązanym'). Z czasem forma teraźniejsza 'mōt' wyszła z użycia, a jej dawna forma przeszła 'mōste' została reanalizowana jako NOWA forma teraźniejsza — dokładnie ten sam mechanizm, który dał angielskiemu całą klasę tzw. czasowników preteryto-prezentnych (can, may, shall, must, ought). Skoro 'must' zużyło już swój przeszły slot na stanie się formą teraźniejszą, nie ma własnej formy przeszłej — dlatego przy OBOWIĄZKU zewnętrznym backshift musi pożyczyć zupełnie inny czasownik: 'had to' (He said he must leave → He said he had to leave). Ale gdy 'must' wyraża DEDUKCJĘ, logiczny wniosek relacjonującego wyciągnięty właśnie teraz ('He must be at home' = wnioskuję to w tej chwili), forma zostaje bez zmian nawet po backshifcie (She said he must be at home), bo sam akt wnioskowania jest zawsze świeży, zakotwiczony w 'teraz' osoby wnioskującej — nie w przeszłości relacjonowanej wypowiedzi."
+      }
+    ],
+    "usage": [
+      "Prawdy ogólne i niezmienne fakty naukowe pozostają w present simple (The teacher said (that) the sun rises in the east.)",
+      "Fakty wciąż aktualne w chwili relacjonowania: backshift opcjonalny, wybór podkreśla aktualność (She said she works / worked as a nurse.)",
+      "Czasownik wprowadzający w present simple → bez backshiftu, bo Origo się nie przesunęło (He says he's already eaten.)",
+      "Must (obowiązek zewnętrzny) → had to; must (dedukcja, wniosek) → zostaje must",
+      "Needn't (brak konieczności) → didn't need to; needn't have done (niepotrzebna czynność już wykonana) to zupełnie inna, nie-backshiftowana konstrukcja o innym znaczeniu"
+    ],
+    "tags": ["prawdy ogólne", "must → had to", "preteryto-prezentne", "backshift opcjonalny"],
+    "examples": [
+      { "en": "The guide said (that) the museum closes at six every day.", "pl": "Przewodnik powiedział, że muzeum zamyka się codziennie o szóstej." },
+      { "en": "He says he's stuck in traffic and will be a bit late.", "pl": "Mówi, że utknął w korku i trochę się spóźni." },
+      { "en": "She said she must be losing her mind — nothing else explained it.", "pl": "Powiedziała, że musi tracić zmysły — nic innego tego nie tłumaczyło." },
+      { "en": "He told me he had to hand in the report by Friday.", "pl": "Powiedział mi, że musi oddać raport do piątku." }
     ]
   },
   {
     "id": "questions",
-    "order": 2,
-    "nameEn": "Reported questions",
-    "namePl": "Pytania w mowie zależnej",
+    "order": 4,
+    "nameEn": "Reported questions — losing the inversion that has nowhere left to live",
+    "namePl": "Pytania w mowie zależnej — dlaczego znika inwersja",
     "rules": [
-      { "label": "Szyk zdania", "text": "Pytanie zmienia się w zdanie twierdzące — bez inwersji podmiot-orzeczenie i bez znaku zapytania" },
-      { "label": "Pytania szczegółowe", "text": "asked + (osoba) + słowo pytające (what/where/when/why/how) + podmiot + orzeczenie (przesunięte w czasie)" },
-      { "label": "Pytania ogólne", "text": "asked + (osoba) + if/whether + podmiot + orzeczenie (przesunięte w czasie), bez do/does/did" }
+      {
+        "label": "Budowa",
+        "text": "Pytanie zmienia się w twierdzenie osadzone jako podrzędne dopełnienie: asked + (osoba) + słowo pytające / if / whether + podmiot + orzeczenie, bez znaku zapytania i bez inwersji podmiot–orzeczenie."
+      },
+      {
+        "label": "Dlaczego znika inwersja i operator 'do'",
+        "text": "Inwersja podmiot–orzeczenie (Are you...? / Does she...?) jest we współczesnym angielskim zjawiskiem zarezerwowanym wyłącznie dla zdań GŁÓWNYCH, niezależnych — reliktem dawnego, znacznie bardziej ruchomego szyku zdania (szerzej w temacie 'Pytania', gdzie omówiona jest cała geneza operatora 'do'). Gdy pytanie przestaje być samodzielnym zdaniem i staje się PODRZĘDNYM dopełnieniem czasownika 'ask' (tak jak każde inne zdanie 'that'), zaczyna obowiązywać zwykły szyk zdania podrzędnego — a ten nigdy w angielskim nie dopuszczał inwersji. Skoro znika inwersja, znika też jej jedyny powód istnienia dla operatora 'do' w tym miejscu (wstawianego wyłącznie po to, by było co inwertować) — dlatego 'What did you buy?' staje się 'He asked what I had bought', a nie '...what did I buy' czy '...what I did buy'."
+      },
+      {
+        "label": "If / whether: skamielina starego zaimka 'który z dwóch'",
+        "text": "'Whether' pochodzi od staroangielskiego 'hwæþer', formy porównawczej zaimka pytającego 'hwā' ('kto') o znaczeniu dosłownym 'który z dwóch (możliwych)'. Ten sam prasłowiański/pragermański wzorzec dwuwartościowego pytania przetrwał do dziś niemal wyłącznie w tej jednej konstrukcji — stąd naturalne powinowactwo 'whether' z wyraźną alternatywą (whether... or...) i z rejestrem nieco bardziej formalnym niż neutralne 'if'. 'Whether' jest też jedyną z tych dwóch opcji dopuszczalną bezpośrednio przed bezokolicznikiem (I wondered whether to call her — nigdy: if to call her) oraz zaraz przed 'or not' (I don't know whether or not she's coming), bo te pozycje wymagają czystego, samodzielnego wyboru między alternatywami bez żadnego dodatkowego podmiotu i orzeczenia."
+      },
+      {
+        "label": "Pytania szczegółowe: słowo pytające podwójnej roli",
+        "text": "W pytaniach z wh- (what, where, when, why, how) samo słowo pytające przejmuje funkcję spójnika podrzędnego — nie potrzeba dodatkowego 'that' ani 'if', bo what/where/why już wprowadza i jednocześnie nazywa treść podrzędnego zdania (He asked what I had bought — 'what' jest tu zarówno spójnikiem, jak i dopełnieniem czasownika 'bought')."
+      }
     ],
     "usage": [
-      "Relacjonowanie pytań zadanych przez kogoś innego",
-      "Pytania z wh- word (What did you buy? → He asked what I had bought.)",
-      "Pytania tak/nie łączy się spójnikiem if lub whether (Are you coming? → She asked if I was coming.)"
+      "Relacjonowanie pytań zadanych przez kogoś innego, zawsze bez znaku zapytania i bez inwersji",
+      "Pytania z wh- word: asked + (osoba) + what/where/why + podmiot + orzeczenie (What did you buy? → He asked what I had bought.)",
+      "Pytania ogólne (tak/nie): if lub whether + podmiot + orzeczenie, bez do/does/did (Are you coming? → She asked if I was coming.)",
+      "Whether preferowane przed bezokolicznikiem i przed 'or not' (I wondered whether to accept the offer.)",
+      "Backshift i przesunięcia czasu/miejsca/zaimków obowiązują tak samo jak w zdaniach oznajmujących"
     ],
-    "tags": ["asked", "if / whether", "no question mark"],
+    "tags": ["asked", "if / whether", "hwæþer", "brak inwersji"],
     "examples": [
       { "en": "\"Where do you live?\" he asked. → He asked where I lived.", "pl": "„Gdzie mieszkasz?” zapytał. → Zapytał, gdzie mieszkam." },
       { "en": "\"Are you coming to the party?\" she asked. → She asked if I was coming to the party.", "pl": "„Czy przyjdziesz na imprezę?” zapytała. → Zapytała, czy przyjdę na imprezę." },
+      { "en": "\"Should I call now or wait?\" I wondered. → I wondered whether to call now or wait.", "pl": "„Zadzwonić teraz czy poczekać?” zastanawiałem się. → Zastanawiałem się, czy zadzwonić teraz, czy poczekać." },
       { "en": "\"What time does the train leave?\" I asked. → I asked what time the train left.", "pl": "„O której godzinie odjeżdża pociąg?” zapytałem. → Zapytałem, o której godzinie odjeżdża pociąg." }
     ]
   },
   {
     "id": "commands",
-    "order": 3,
-    "nameEn": "Reported commands and requests",
-    "namePl": "Polecenia i prośby w mowie zależnej",
+    "order": 5,
+    "nameEn": "Reported commands and requests — the infinitive of an act not yet real",
+    "namePl": "Polecenia i prośby — bezokolicznik czynu, który jeszcze się nie wydarzył",
     "rules": [
-      { "label": "Budowa", "text": "told/asked + osoba + (not) + to + bezokolicznik — bez czasownika modalnego i bez zmiany czasu" },
-      { "label": "Polecenie vs prośba", "text": "tell somebody to do something dla poleceń/rozkazów; ask somebody to do something dla próśb" },
-      { "label": "Przeczenie", "text": "not stawia się bezpośrednio przed to + bezokolicznik (told me not to touch it)" }
+      {
+        "label": "Budowa",
+        "text": "told/asked + osoba + (not) + to + bezokolicznik — bez czasownika modalnego, bez backshiftu, bo bezokolicznik w angielskim nigdy nie odmienia się przez czas."
+      },
+      {
+        "label": "Dlaczego polecenia dostają bezokolicznik, a nie backshift",
+        "text": "Zdanie oznajmujące relacjonuje TWIERDZENIE — coś, co ktoś przedstawił jako prawdziwe w danym momencie, więc ma sens pytać 'kiedy to było prawdą' i odpowiednio przesuwać czas. Polecenie czy prośba to zupełnie inny akt mowy: nie stwierdzenie faktu, lecz próba SPRAWIENIA, by coś się stało w przyszłości ('Close the door!' nie opisuje świata, lecz chce go zmienić). Taka treść nie jest jeszcze ani prawdziwa, ani fałszywa — jest tylko zamierzona, niezrealizowana. Bezokolicznik idealnie pasuje do takiego znaczenia, bo z natury jest formą bezczasową i nieokreśloną co do realizacji — nie twierdzi, że coś się stało czy dzieje, tylko nazywa czynność samą w sobie, w oderwaniu od czasu. Dlatego 'He told me to close the door' nie ma i nie potrzebuje żadnego backshiftu: nie ma tu żadnego 'kiedy to było prawdą' do przesunięcia, bo bezokolicznik nigdy nie twierdził, że drzwi już zamknięto."
+      },
+      {
+        "label": "Polecenie vs prośba: dwa czasowniki, ta sama składnia, inny ton",
+        "text": "'Tell somebody to do something' sugeruje polecenie z pozycji autorytetu (rodzic, przełożony, ktoś w sytuacji nadrzędnej), a 'ask somebody to do something' sugeruje uprzejmą prośbę — składniowo identyczne, ale różnica leży wyłącznie w czasowniku relacjonującym, nie w strukturze zdania podrzędnego. Bogatszy repertuar czasowników relacjonujących polecenia i prośby (order, advise, warn, persuade, beg, urge) wraz z ich subtelnymi różnicami znaczeniowymi i konstrukcyjnymi rozwinięty jest osobno w temacie 'Wzorce czasowników sprawozdających'."
+      },
+      {
+        "label": "Przeczenie: 'not' tuż przed 'to'",
+        "text": "Przeczenie polecenia stawia się bezpośrednio przed 'to + bezokolicznik' (told me not to touch it), nigdy po nim — bo neguje się tu całą, jeszcze niezrealizowaną czynność jako jedną całość, a nie jakiś jej pojedynczy element."
+      }
     ],
     "usage": [
       "Relacjonowanie rozkazów w trybie rozkazującym (\"Close the door!\" → He told me to close the door.)",
       "Relacjonowanie próśb (\"Could you help me?\" → She asked me to help her.)",
-      "Zakazy i polecenia negatywne (\"Don't touch it!\" → He told me not to touch it.)"
+      "Zakazy i polecenia negatywne — 'not' tuż przed 'to' (\"Don't touch it!\" → He told me not to touch it.)",
+      "Bez backshiftu, bo bezokolicznik nie niesie żadnego znaczenia czasowego do przesunięcia"
     ],
-    "tags": ["tell sb to", "ask sb to", "not to"],
+    "tags": ["tell sb to", "ask sb to", "not to", "bezokolicznik nieurealniony"],
     "examples": [
       { "en": "\"Close the door,\" he said. → He told me to close the door.", "pl": "„Zamknij drzwi” powiedział. → Powiedział mi, żebym zamknął drzwi." },
       { "en": "\"Please help me,\" she said. → She asked me to help her.", "pl": "„Proszę, pomóż mi” powiedziała. → Poprosiła mnie, żebym jej pomógł." },
-      { "en": "\"Don't touch it!\" he said. → He told me not to touch it.", "pl": "„Nie dotykaj tego!” powiedział. → Powiedział mi, żebym tego nie dotykał." }
+      { "en": "\"Don't touch it!\" he said. → He told me not to touch it.", "pl": "„Nie dotykaj tego!” powiedział. → Powiedział mi, żebym tego nie dotykał." },
+      { "en": "\"Could you keep this a secret?\" she asked. → She asked me to keep it a secret.", "pl": "„Czy mógłbyś zachować to w tajemnicy?” zapytała. → Poprosiła mnie, żebym zachował to w tajemnicy." }
     ]
   },
   {
     "id": "time_place",
-    "order": 4,
-    "nameEn": "Time and place expressions",
-    "namePl": "Zmiana wyrażeń czasu, miejsca i zaimków",
+    "order": 6,
+    "nameEn": "Time, place and person shift — the same Origo rule, two more domains",
+    "namePl": "Zmiana czasu, miejsca i osoby — ta sama zasada Origo w dwóch kolejnych wymiarach",
     "rules": [
-      { "label": "Czas", "text": "now → then, today → that day, tomorrow → the next day / the following day, yesterday → the day before, next week → the following week, ago → before" },
-      { "label": "Miejsce", "text": "here → there, this → that, these → those" },
-      { "label": "Zaimki", "text": "Zaimki osobowe i dzierżawcze zmieniają się zgodnie z perspektywą osoby relacjonującej (I → he/she, my → his/her)" }
+      {
+        "label": "To nie osobna reguła — to backshift zastosowany do przestrzeni i osoby",
+        "text": "'This/these' oznacza bliskość względem Origo mówiącego w chwili wypowiedzi, 'here' oznacza miejsce Origo, 'now' oznacza czas Origo. Kiedy relacjonujący przenosi wypowiedź do WŁASNEGO Origo — innego miejsca, innego czasu, innej osoby mówiącej — wszystkie te elementy trzeba przeliczyć na nowo, dokładnie tym samym mechanizmem, który w poprzednich tematach tłumaczył backshift czasów. To nie trzy różne zjawiska do osobnego wykucia, lecz jeden mechanizm zastosowany trzykrotnie: do czasu (backshift), do miejsca (here→there, this→that) i do osoby (zaimki)."
+      },
+      {
+        "label": "Czas: dzisiejsze 'teraz' staje się 'wtedy'",
+        "text": "now → then, today → that day, tomorrow → the next day / the following day, yesterday → the day before, next week → the following week, last month → the previous month, ago → before. Każde z tych przesunięć odpowiada dokładnie na pytanie: 'jak ten punkt w czasie wygląda z perspektywy NOWEGO Origo, a nie starego?' — 'tomorrow' powiedziane wczoraj nie może zostać 'tomorrow' w relacji wypowiedzianej dziś, bo 'jutro' w ustach nowego mówiącego wskazywałoby na zupełnie inny dzień niż ten, o który chodziło pierwotnie."
+      },
+      {
+        "label": "Miejsce i wskazywanie: here→there, this→that",
+        "text": "Te same zasady rządzą przestrzenią: 'here' zakłada, że mówiący fizycznie znajduje się w danym miejscu w chwili mówienia — jeśli relacjonujący jest teraz gdzie indziej, musi powiedzieć 'there'. 'This/these' oznacza bliskość psychologiczną lub fizyczną do Origo w momencie wypowiedzi ('I like this city' — miasto, w którym akurat jestem) — z perspektywy innego miejsca i czasu staje się odległym 'that/those' ('He said he liked that city')."
+      },
+      {
+        "label": "Kiedy Origo się NIE przesuwa: przesunięcia znikają",
+        "text": "Skoro to wszystko konsekwencja przesunięcia Origo, tam, gdzie Origo się nie zmienia, zmiana też zanika — dokładnie jak przy backshifcie czasów. Jeśli relacjonuję czyjeś słowa tego samego dnia, w tym samym miejscu, gdzie padły ('At breakfast he said he'd call me today' relacjonowane jeszcze tego samego dnia), 'today' może zostać 'today', bo odniesienie wciąż wskazuje dokładnie ten sam dzień z perspektywy obu Origo. Podręczniki często pomijają tę elastyczność, prezentując tabelkę przesunięć jako sztywną, obowiązkową listę — w rzeczywistości to zawsze pytanie o realną odległość między starym a nowym Origo, nie mechaniczna podmiana słówek."
+      }
     ],
     "usage": [
-      "Zmiana wyrażeń czasu, gdy relacja następuje w innym momencie niż wypowiedź (\"I'll see you tomorrow\" → He said he would see me the next day.)",
-      "Zmiana wyrażeń miejsca, gdy relacja pada w innym miejscu niż wypowiedź",
-      "Zmiany zaimków zawsze zależą od kontekstu — nie ma jednej sztywnej reguły, patrzy się kto mówi do kogo"
+      "Zmiana wyrażeń czasu, gdy relacja pada w innym momencie niż oryginalna wypowiedź (\"I'll see you tomorrow\" → He said he would see me the next day.)",
+      "Zmiana wyrażeń miejsca, gdy relacja pada w innym miejscu niż wypowiedź (here → there, this → that)",
+      "Zaimki osobowe i dzierżawcze zmieniają się zgodnie z perspektywą relacjonującego (I → he/she, my → his/her)",
+      "Gdy dystans czasowy lub przestrzenny między oryginałem a relacją jest zerowy lub minimalny, przesunięcie można pominąć (tego samego dnia: today może zostać today)"
     ],
-    "tags": ["now → then", "tomorrow → the next day", "here → there"],
+    "tags": ["now → then", "tomorrow → the next day", "here → there", "Origo się nie przesuwa"],
     "examples": [
       { "en": "\"I saw her yesterday,\" he said. → He said he had seen her the day before.", "pl": "„Widziałem ją wczoraj” powiedział. → Powiedział, że widział ją dzień wcześniej." },
       { "en": "\"I'll finish this tomorrow,\" she said. → She said she would finish that the next day.", "pl": "„Skończę to jutro” powiedziała. → Powiedziała, że skończy to następnego dnia." },
-      { "en": "\"I like this city,\" he said. → He said he liked that city.", "pl": "„Podoba mi się to miasto” powiedział. → Powiedział, że podoba mu się tamto miasto." }
+      { "en": "\"I like this city,\" he said. → He said he liked that city.", "pl": "„Podoba mi się to miasto” powiedział. → Powiedział, że podoba mu się tamto miasto." },
+      { "en": "At nine he said he'd be free later today — and it's still today, so: he said he'd be free later today.", "pl": "O dziewiątej powiedział, że będzie wolny później dzisiaj — i wciąż jest dzisiaj, więc: powiedział, że będzie wolny później dzisiaj." }
+    ]
+  },
+  {
+    "id": "reporting_verbs",
+    "order": 7,
+    "nameEn": "Say, tell and ask — verb choice rooted in etymology, not arbitrary syntax",
+    "namePl": "Say, tell i ask — wybór czasownika zakorzeniony w etymologii, nie w przypadkowej składni",
+    "rules": [
+      {
+        "label": "Say: czysty akt wypowiedzenia słów",
+        "text": "'Say' pochodzi od staroangielskiego 'secgan', z prawspólnogermańskiego rdzenia *sagjan — 'wypowiedzieć, oznajmić', spokrewnionego z łacińskim 'inseque' ('powiedz'). Od zawsze oznaczało czysty akt wypowiedzenia słów, bez wbudowanego wymogu, by ktokolwiek konkretny miał je usłyszeć — stąd 'say' nigdy nie wymaga bezpośredniego dopełnienia osobowego: można 'say something' w próżnię, do siebie, do nikogo w szczególności (He said nothing. / She said (that) she was tired.). Jeśli chcemy wskazać adresata przy 'say', potrzebny jest przyimek 'to' (He said to me that he was tired) — bo osoba nie jest częścią rdzennego znaczenia czasownika, lecz dodatkiem doczepionym z zewnątrz."
+      },
+      {
+        "label": "Tell: liczenie, które stało się mówieniem",
+        "text": "'Tell' pochodzi od staroangielskiego 'tellan' — 'liczyć, rachować, wymieniać po kolei', tego samego rdzenia co rzeczownik 'tale' (dziś: opowieść, ale pierwotnie 'wyliczenie') i 'tally' (nacięcie liczące). Ślad tego pierwotnego, numerycznego znaczenia przetrwał w bankowym 'teller' — osobie, która LICZY pieniądze przy okienku, oraz w wyrażeniu 'all told' ('licząc wszystko razem'). Znaczenie 'liczyć elementy jeden po drugim' naturalnie rozszerzyło się na 'wyliczać fakty komuś, przekazywać mu policzony, uporządkowany zestaw informacji' — czyli 'opowiadać' i 'informować'. Ponieważ 'wyliczanie' z definicji zakłada kogoś, KOMU się coś wylicza, 'tell' od zawsze niosło w swojej strukturze miejsce na adresata — dlatego gramatyka wymaga go dziś obowiązkowo (told me, nigdy samo told bez dopełnienia osobowego w tym znaczeniu)."
+      },
+      {
+        "label": "Ask: pytanie i prośba w jednym czasowniku",
+        "text": "'Ask' wywodzi się od staroangielskiego 'ascian/āscian' i od początku łączyło dwie funkcje, które w mowie zależnej dziedziczą dwie różne struktury składniowe: pytanie o informację (ask + if/whether/wh-word — She asked if I was coming) oraz prośbę o działanie (ask somebody to do something — She asked me to help her). To rozdwojenie znaczeniowe nie jest przypadkiem współczesnym — oba sensy, 'dopytywać się' i 'prosić', współistniały w tym czasowniku od wieków, co tłumaczy, dlaczego jeden czasownik obsługuje dwie z trzech głównych kategorii mowy zależnej omówionych w tym dziale."
+      },
+      {
+        "label": "Dlaczego to rozróżnienie wciąż ma znaczenie w praktyce",
+        "text": "Znajomość tej różnicy chroni przed najczęstszym błędem uczących się: 'He told that he was tired' jest niegramatyczne właśnie dlatego, że złamano wbudowany w 'tell' wymóg adresata — brakujące ogniwo w łańcuchu 'liczenia komuś'. I odwrotnie, 'He said me that he was tired' brzmi błędnie, bo 'say' nigdy nie rozwinęło w swojej strukturze miejsca na bezpośrednie dopełnienie osobowe bez przyimka. Dwa czasowniki o pozornie tym samym znaczeniu ('mówić') różnią się składniowo dokładnie tak, jak różniła się ich historia."
+      }
+    ],
+    "usage": [
+      "Say (that) — nigdy z bezpośrednim dopełnieniem osobowym; adresat wymaga 'to' (He said to her that...)",
+      "Tell somebody (that) — zawsze z dopełnieniem osobowym, bez przyimka (He told her that...)",
+      "Ask + if/whether/wh-word dla pytań; ask somebody to do something dla próśb",
+      "Etymologia tłumaczy składnię: 'tell' = liczyć komuś (stąd wymóg adresata), 'say' = wypowiedzieć słowa (bez tego wymogu)"
+    ],
+    "tags": ["say vs tell", "tellan → tale, tally, teller", "secgan", "ask: pytanie i prośba"],
+    "examples": [
+      { "en": "She said (that) the flight had been delayed by two hours.", "pl": "Powiedziała, że lot został opóźniony o dwie godziny." },
+      { "en": "He told the whole office that the deadline had moved.", "pl": "Powiedział całemu biuru, że termin się przesunął." },
+      { "en": "The bank teller counted the notes twice before handing them over.", "pl": "Kasjer bankowy policzył banknoty dwa razy, zanim je wydał." },
+      { "en": "She asked whether the offer was still on the table, or if it had expired.", "pl": "Zapytała, czy oferta wciąż jest aktualna, czy już wygasła." }
     ]
   }
 ]
