@@ -1,98 +1,380 @@
 [
   {
-    "id": "who_which_that",
+    "id": "overview_origins",
     "order": 1,
-    "nameEn": "who / which / that — subject relative pronouns",
-    "namePl": "who / which / that — zaimki względne w roli podmiotu",
+    "nameEn": "The relative system: from Old English demonstratives to a unified wh-/that network",
+    "namePl": "System zdań względnych: od staroangielskich zaimków wskazujących do jednolitej sieci wh-/that",
     "rules": [
-      { "label": "who", "text": "Odnosi się do ludzi (podmiot lub dopełnienie zdania względnego)" },
-      { "label": "which", "text": "Odnosi się do rzeczy, zwierząt i pojęć (podmiot lub dopełnienie)" },
-      { "label": "that", "text": "Może zastąpić who lub which, zwłaszcza w zdaniach definiujących (restrictive) — częste w mowie potocznej" }
+      {
+        "label": "Podwójne źródło: þe i þæt",
+        "text": "Staroangielski nie miał osobnych „zaimków względnych” w dzisiejszym sensie. Zdania względne budowano głównie za pomocą niezmiennej partykuły „þe”, doczepianej do dowolnego rzeczownika niezależnie od rodzaju, liczby czy przypadku — funkcjonalnie bliskiej dzisiejszemu uniwersalnemu „that”, tylko że „þe” było spójnikiem-znacznikiem podrzędności, a nie prawdziwym zaimkiem. Obok niej istniał zaimek wskazujący „se / seo / þæt” (przodek dzisiejszego „the” i „that”), który czasem pełnił podobną funkcję. Z tej drugiej linii, przez uproszczenie systemu przypadków i rodzajów w średnioangielskim, wyewoluowało dzisiejsze „that” jako spójnik względny — i to wyjaśnia, dlaczego „that” nigdy nie odmienia się jak „who/whom” i brzmi tak neutralnie, niemal bezosobowo: od zawsze było znacznikiem gramatycznym, nie żywym zaimkiem wskazującym na konkretną osobę."
+      },
+      {
+        "label": "Druga linia: zaimki pytające stają się zaimkami względnymi",
+        "text": "„Who, which, whom, whose” to pierwotnie WYŁĄCZNIE zaimki pytające — dokładnie jak dziś w „Who is it? Which one?”. Ich kariera jako łączników zdań względnych zaczęła się dopiero w późnym średnioangielskim i wczesnym nowoangielskim (XIV–XVI w.), pod silnym wpływem łaciny i francuskiego, gdzie zaimki pytające od dawna pełniły też funkcję względną — pisarze prawniczy i naukowi zaczęli stawiać „which” tam, gdzie wcześniej stało „that”, naśladując precyzję łacińskich tekstów. „Who” jako zaimek względny dla osób utrwalił się później niż „which” dla rzeczy — stąd archaiczne „which” bywa jeszcze widoczne w odniesieniu do osób, np. w Modlitwie Pańskiej z Book of Common Prayer: „Our Father, which art in heaven”, zanim tę rolę ostatecznie przejęło „who”."
+      },
+      {
+        "label": "Dlaczego mamy aż trzy systemy naraz",
+        "text": "Efekt uboczny tej podwójnej historii: współczesny angielski dziedziczy trzy nakładające się systemy zaimków względnych działające równolegle — (1) neutralne „that” z linii staroangielskiej partykuły, (2) odmienne przez przypadek „who / whom / whose” z linii zaimków pytających, oraz (3) przysłówki względne „where / when / why”, będące zrośniętymi kompresjami „przyimek + which” (in which → where). Żaden inny duży język germański nie ma aż tak rozbudowanej trójtorowości — niemiecki czy niderlandzki poszły w większości drogą numer 2, z odmiennymi zaimkami wskazującymi jak „der / die / das”. Pozorny „chaos” wyboru who/which/that w angielskim to w istocie zapis historii, nie przypadek."
+      },
+      {
+        "label": "Model myślowy: zaimek względny jako zszywka dwóch zdań",
+        "text": "Zamiast traktować who/which/that jako osobne słówka do wykucia, warto zobaczyć zdanie względne jako zszycie dwóch niezależnych zdań w jedno, gdzie zaimek pełni podwójną funkcję: (a) podrzędnie łączy zdanie z rzeczownikiem, do którego się odnosi (antecedent), i (b) zajmuje jego miejsce WEWNĄTRZ zdania podrzędnego, pełniąc tam realną rolę składniową — podmiotu, dopełnienia, dzierżawcy albo okolicznika. „The man who called you...” to zrośnięcie „The man called you” i „He is my brother”, gdzie „who” jest jednocześnie łącznikiem i zaimkiem osobowym „he” przeniesionym na początek. Ta dwufunkcyjność odróżnia zaimki względne od zwykłych spójników: „that” w „I think that he is right” jest wyłącznie łącznikiem, bez żadnej roli składniowej w zdaniu podrzędnym — to inny, homonimiczny wyraz niż „that” względne."
+      }
     ],
     "usage": [
-      "who dla osób: The man who called you is my brother.",
-      "which dla rzeczy: The car which I bought is red.",
-      "that zamiast who/which w zdaniach definiujących, zwłaszcza po all/only/superlative",
-      "that nie używa się po przecinku (w zdaniach nieograniczających)"
+      "Trzy nakładające się systemy tłumaczą, dlaczego angielski ma pozornie „za dużo” opcji: that (uniwersalne), who/whom/whose (osobowe, odmienne), where/when/why (zrośnięte z przyimkiem).",
+      "Rozpoznanie funkcji zaimka wewnątrz zdania podrzędnego (podmiot? dopełnienie? dzierżawca?) to klucz do poprawnego wyboru formy — nie da się tego zgadnąć bez analizy struktury.",
+      "Historyczna warstwa nie jest ciekawostką na marginesie — bezpośrednio tłumaczy współczesne ograniczenia, np. dlaczego „that” nie może stać po przecinku (temat: zdania ograniczające i nieograniczające).",
+      "Zaimek pytający i zaimek względny to dziś dwie odrębne funkcje tego samego słowa — kontekst (pytanie vs. zdanie podrzędne) jednoznacznie je rozróżnia."
     ],
-    "tags": ["who called", "which I bought", "the book that", "the man that"],
+    "tags": [
+      "who called",
+      "the book that",
+      "which I bought",
+      "relative pronoun origin"
+    ],
     "examples": [
-      { "en": "The man who called you is my brother.", "pl": "Mężczyzna, który do ciebie zadzwonił, to mój brat." },
-      { "en": "The car which I bought is red.", "pl": "Samochód, który kupiłem, jest czerwony." },
-      { "en": "She is the only person that understands me.", "pl": "Ona jest jedyną osobą, która mnie rozumie." },
-      { "en": "This is the book that changed my life.", "pl": "To jest książka, która zmieniła moje życie." }
+      {
+        "en": "The scientist who discovered the pattern later won a Nobel Prize.",
+        "pl": "Naukowiec, który odkrył ten wzorzec, później zdobył Nagrodę Nobla."
+      },
+      {
+        "en": "This is the very letter that changed the course of the negotiations.",
+        "pl": "To jest właśnie ten list, który zmienił bieg negocjacji."
+      },
+      {
+        "en": "Our Father, which art in heaven, hallowed be thy name.",
+        "pl": "Ojcze nasz, któryś jest w niebie, święć się imię Twoje."
+      },
+      {
+        "en": "I finally met the man whose name I had heard for years.",
+        "pl": "W końcu poznałem mężczyznę, o którym nazwisku słyszałem od lat."
+      }
     ]
   },
   {
-    "id": "whose",
+    "id": "subject_object_case",
     "order": 2,
-    "nameEn": "whose — possessive relative pronoun",
-    "namePl": "whose — zaimek względny dzierżawczy",
+    "nameEn": "who vs. whom vs. which — the fading case system of relative pronouns",
+    "namePl": "who a whom a which — zanikający system przypadków zaimków względnych",
     "rules": [
-      { "label": "Funkcja", "text": "whose zastępuje formę dzierżawczą (his/her/their/its) i łączy dwa zdania pokazując przynależność" },
-      { "label": "Odniesienie", "text": "Może dotyczyć zarówno osób, jak i rzeczy/zwierząt" },
-      { "label": "Szyk", "text": "Po whose zawsze stoi rzeczownik (whose + noun), nigdy sam czasownik" }
+      {
+        "label": "Cztery przypadki skurczone do jednego rozróżnienia",
+        "text": "Staroangielski zaimek pytający „hwā” miał pełną odmianę: hwā (mianownik → who), hwæs (dopełniacz → whose), hwām (celownik → whom), hwone (biernik). Średnioangielski zlał celownik i biernik w jedną formę „whom”, zostawiając nam dziś tylko DWA przypadki zamiast czterech: who (podmiot) i whom (wszystko inne — dopełnienie czasownika lub przyimka). „Which” nigdy nie miało własnej odmiany przypadkowej, bo kategoria „rzeczy” historycznie nie potrzebowała aż tak precyzyjnego rozróżnienia jak kategoria „osób” — dlatego od początku pełni obie funkcje jedną, niezmienną formą."
+      },
+      {
+        "label": "Powolna śmierć „whom” w mowie",
+        "text": "Od XVII–XVIII wieku „whom” systematycznie ustępuje: dziś w mowie potocznej „who” wypiera „whom” nawet w funkcji dopełnienia („Who did you see?” zamiast „Whom did you see?”), bo angielski jako całość porzucił system przypadków rzeczownikowych już w średniowieczu, a „whom” jest jedną z ostatnich wysp tamtego starego systemu. Język dąży do wewnętrznej spójności — dokładnie tak, jak „you” z czasem przejęło role zarówno „thou” (podmiot), jak i „thee” (dopełnienie), tak dziś „who” przejmuje całą robotę kosztem „whom”."
+      },
+      {
+        "label": "Gdzie „whom” wciąż trzyma się mocno",
+        "text": "„Whom” przetrwa najdłużej dokładnie tam, gdzie gramatyka najsilniej „widzi” je jako dopełnienie — bezpośrednio po przyimku, gdy przyimek wędruje razem z zaimkiem na początek zdania (pied-piping): „the person to whom I spoke” brzmi naturalnie nawet dziś, podczas gdy „the person to who I spoke” razi większość rodzimych użytkowników. To dlatego rejestr formalny i pisany (listy urzędowe, teksty prawnicze, literatura) chroni „whom” znacznie dłużej niż mowa spontaniczna."
+      },
+      {
+        "label": "Echo tego samego rozróżnienia przy which/that",
+        "text": "Mimo że rzeczy nie mają swojego „whom”, funkcja podmiotu kontra dopełnienia nadal ma znaczenie praktyczne przy decyzji, czy zaimek względny można pominąć: zaimek w roli PODMIOTU nigdy nie może zniknąć ze zdania (patrz temat o zdaniach stykowych), a to bezpośrednia spuścizna tego samego, starego rozróżnienia przypadkowego, które kiedyś było w pełni widoczne morfologicznie, a dziś przejawia się już tylko jako reguła składniowa."
+      }
     ],
     "usage": [
-      "Gdy łączymy dwa zdania mówiące o czyjejś własności lub cesze",
-      "This is the girl whose bag was stolen. (= Her bag was stolen.)",
-      "The company whose profits fell is closing down.",
-      "Nie mylić z who's (skrót od who is / who has)"
+      "who dla podmiotu zdania podrzędnego: The woman who runs this company started it at twenty-two.",
+      "whom (formalnie) lub who (potocznie) dla dopełnienia: The candidate whom/who we interviewed yesterday impressed everyone.",
+      "whom obowiązkowe bezpośrednio po przyimku w rejestrze formalnym: the client for whom I am preparing this report.",
+      "which pełni obie funkcje (podmiotu i dopełnienia) bez zmiany formy: the proposal which was rejected / the proposal which we rejected."
     ],
-    "tags": ["whose bag", "whose profits", "whose car", "the man whose"],
+    "tags": [
+      "who runs",
+      "whom did you meet",
+      "to whom it may concern",
+      "which was rejected"
+    ],
     "examples": [
-      { "en": "This is the girl whose bag was stolen.", "pl": "To jest dziewczyna, której torebkę skradziono." },
-      { "en": "I know a man whose son is a doctor.", "pl": "Znam mężczyznę, którego syn jest lekarzem." },
-      { "en": "The company whose profits fell is closing down.", "pl": "Firma, której zyski spadły, zamyka się." },
-      { "en": "That's the dog whose owner lives next door.", "pl": "To pies, którego właściciel mieszka obok." }
+      {
+        "en": "The witness who testified first gave the most detailed account.",
+        "pl": "Świadek, który zeznawał pierwszy, przedstawił najbardziej szczegółową relację."
+      },
+      {
+        "en": "The lawyer whom the family hired specialised in maritime disputes.",
+        "pl": "Prawnik, którego wynajęła rodzina, specjalizował się w sporach morskich."
+      },
+      {
+        "en": "To Whom It May Concern: this letter confirms his employment from 2019 to 2023.",
+        "pl": "Do zainteresowanych: ten list potwierdza jego zatrudnienie od 2019 do 2023 roku."
+      },
+      {
+        "en": "The committee, whom nobody had consulted, rejected the proposal outright.",
+        "pl": "Komisja, której nikt nie zapytał o zdanie, odrzuciła propozycję bez wahania."
+      }
     ]
   },
   {
-    "id": "where_when",
+    "id": "that_vs_which",
     "order": 3,
-    "nameEn": "where / when — relative adverbs",
-    "namePl": "where / when — przysłówki względne",
+    "nameEn": "that vs. which — a prescriptive rule grammar never quite obeyed",
+    "namePl": "that a which — reguła normatywna, której język nigdy do końca nie przestrzegał",
     "rules": [
-      { "label": "where", "text": "Odnosi się do miejsca, zastępuje in/at which" },
-      { "label": "when", "text": "Odnosi się do czasu, zastępuje in/on/at which" },
-      { "label": "why", "text": "Odnosi się do przyczyny, zwykle po the reason" }
+      {
+        "label": "Skąd wzięła się „reguła”",
+        "text": "Rozróżnienie „that dla zdań ograniczających, which dla nieograniczających” nie jest starą zasadą, która organicznie wyrosła z języka — to świadoma, stosunkowo późna interwencja normatywna. Spopularyzował ją brytyjski redaktor Henry Watson Fowler w „A Dictionary of Modern English Usage” (1926), proponując ją jako sposób na uporządkowanie dwóch form, które w praktyce od wieków robiły to samo — nie jako opis faktycznego uzusu Szekspira, Biblii Króla Jakuba czy Jane Austen, u których „which” swobodnie pełni funkcję ograniczającą bez żadnego ograniczenia stylistycznego."
+      },
+      {
+        "label": "Dlaczego Amerykanie trzymają się jej bardziej niż Brytyjczycy",
+        "text": "Reguła Fowlera trafiła do amerykańskich podręczników stylu — najsłynniej do „The Elements of Style” Strunka i White’a (1959) — i tam skostniała w obowiązkową normę redakcyjną, zwłaszcza w piśmie prawniczym i akademickim. Stąd dziś formalny amerykański angielski rygorystyczniej stosuje podział that/which niż brytyjski, gdzie „which” ograniczające wciąż jest w pełni akceptowane nawet w starannym piśmie — różnica transatlantycka wynika więc z historii edytorskiej, nie z odmiennej gramatyki."
+      },
+      {
+        "label": "Realna korzyść, mimo sztucznego pochodzenia",
+        "text": "Nawet jeśli rozróżnienie nie jest „naturalnym prawem” języka, daje realną korzyść jednoznaczności: „The bikes that were damaged were sent back” (odesłano TYLKO uszkodzone rowery) kontra „The bikes, which were damaged, were sent back” (WSZYSTKIE rowery były uszkodzone i wszystkie odesłano). Różnica semantyczna jest prawdziwa i użyteczna — problem historyczny polega tylko na tym, że „which” bez przecinka bywało kiedyś dwuznaczne, właśnie dlatego, że dawniej służyło obu funkcjom naraz, zanim Fowler zaproponował rozdział pracy między dwie formy."
+      },
+      {
+        "label": "Twarde ograniczenie „which”, niezależne od stylu redakcyjnego",
+        "text": "Bez względu na rejestr, „which” musi się pojawić — nigdy „that” — po przyimku w formalnym pied-piping („the topic on which we agreed”, nigdy *„the topic on that”) oraz w każdym zdaniu nieograniczającym („Mount Everest, which is the highest peak on Earth, ...”, nigdy *„Mount Everest, that is...”). Wynika to z natury „that” opisanej w pierwszym temacie: jako spadkobierca partykuły podrzędności, a nie pełnoprawnego zaimka wskazującego, „that” nie ma zdolności occurring bezpośrednio po przyimku ani po przecinku wprowadzającym osobną, dodaną predykację."
+      }
     ],
     "usage": [
-      "This is the house where I grew up. (= in which I grew up)",
-      "I remember the day when we first met. (= on which we first met)",
-      "Tell me the reason why you were late.",
-      "where/when zastępują przyimek + which, co brzmi bardziej naturalnie"
+      "W amerykańskim piśmie formalnym: that dla zdań ograniczających, which (z przecinkiem) tylko dla nieograniczających.",
+      "W brytyjskim angielskim which ograniczające jest w pełni naturalne: the report which I submitted yesterday = the report that I submitted yesterday.",
+      "which jest obowiązkowe po przyimku: the reasons for which we declined the offer (nigdy *for that).",
+      "Semantyczna różnica which/that z przecinkiem vs. bez może realnie zmienić znaczenie zdania — sam wybór formy nie wystarczy, decyduje interpunkcja/pauza."
     ],
-    "tags": ["the house where", "the day when", "the reason why", "the city where"],
+    "tags": [
+      "that were damaged",
+      "which is the highest",
+      "on which we agreed",
+      "restrictive vs non-restrictive"
+    ],
     "examples": [
-      { "en": "This is the house where I grew up.", "pl": "To jest dom, w którym dorastałem." },
-      { "en": "I remember the day when we first met.", "pl": "Pamiętam dzień, kiedy się poznaliśmy." },
-      { "en": "Tell me the reason why you were late.", "pl": "Powiedz mi, dlaczego się spóźniłeś." },
-      { "en": "That's the restaurant where we had dinner.", "pl": "To ta restauracja, w której jedliśmy kolację." }
+      {
+        "en": "The documents that require a signature are on the top of the pile.",
+        "pl": "Dokumenty, które wymagają podpisu, są na wierzchu stosu."
+      },
+      {
+        "en": "The contract, which had been drafted in a hurry, contained several errors.",
+        "pl": "Umowa, sporządzona w pośpiechu, zawierała kilka błędów."
+      },
+      {
+        "en": "This is precisely the flaw on which the whole argument collapses.",
+        "pl": "To dokładnie ta wada, na której cała argumentacja się załamuje."
+      },
+      {
+        "en": "The novel, which took her a decade to finish, became an instant classic.",
+        "pl": "Powieść, której napisanie zajęło jej dekadę, natychmiast stała się klasykiem."
+      }
     ]
   },
   {
-    "id": "defining_non_defining",
+    "id": "whose_possession",
     "order": 4,
-    "nameEn": "defining vs non-defining relative clauses",
-    "namePl": "zdania ograniczające vs nieograniczające",
+    "nameEn": "whose — the possessive that crossed from people to things",
+    "namePl": "whose — dzierżawczy zaimek, który przeszedł od osób do rzeczy",
     "rules": [
-      { "label": "Ograniczające", "text": "Podają niezbędną informację, identyfikują osobę/rzecz — bez przecinków, można użyć that" },
-      { "label": "Nieograniczające", "text": "Podają dodatkową informację, zdanie ma sens bez niej — oddzielone przecinkami, NIE można użyć that" },
-      { "label": "Pominięcie", "text": "W zdaniach ograniczających zaimek w roli dopełnienia można pominąć (the man I met)" }
+      {
+        "label": "Pochodzenie: dopełniacz zaimka pytającego o osoby",
+        "text": "„Whose” jest bezpośrednim potomkiem staroangielskiego dopełniacza „hwæs” (od „hwā”, „kto”) — czyli od początku było formą dzierżawczą zaimka pytającego o OSOBY, dokładnie równoległą do „his” jako dopełniacza od „he”. Tak jak „who” rozszerzyło swoje zastosowanie z pytań na zdania względne (temat pierwszy), „whose” poszło dokładnie tą samą drogą, zachowując przy tym swoją pierwotną, ściśle osobową „specjalizację” znacznie dłużej niż „who”."
+      },
+      {
+        "label": "Kontrowersja: whose odnoszące się do rzeczy",
+        "text": "Przez stulecia XVIII-wieczni gramatycy prescriptywistyczni, wzorujący angielskie reguły na łacinie, protestowali przeciw „whose” odnoszącemu się do rzeczy nieożywionych („the house whose roof collapsed”), argumentując, że etymologicznie „whose” należy wyłącznie do osób. Problem w tym, że angielski nie ma naturalnej alternatywy: jedyna forma uznawana wtedy za „poprawną” to bardzo sztywne „of which”, umieszczone po rzeczowniku — „the house the roof of which collapsed” albo „the house of which the roof collapsed” — konstrukcja, której w praktyce niemal nikt tak nie wypowiada, bo brzmi nienaturalnie ciężko i przeładowuje zdanie."
+      },
+      {
+        "label": "Rozwiązanie, które ostatecznie wygrało",
+        "text": "Już od czasów Szekspira i Miltona pisarze świadomie łamali tę „regułę” właśnie dlatego, że „of which” jest niewygodne składniowo. Dziś „whose” w odniesieniu do rzeczy jest w pełni zaakceptowane nawet w rejestrze formalnym — „a company whose profits fell”, „an idea whose time has come” (to drugie to utrwalony idiom nawiązujący do myśli Victora Hugo: „Nic nie jest tak potężne jak idea, której czas nadszedł”). To klasyczny przykład, jak żywy uzus wygrywa ze sztuczną regułą, gdy reguła nie oferuje wygodnej alternatywy."
+      },
+      {
+        "label": "Pozycja składniowa: whose + rzeczownik jako jedna fraza",
+        "text": "Po „whose” zawsze stoi rzeczownik, nigdy sam czasownik, bo „whose” działa jak determinant dzierżawczy (na wzór „his / her / their”) przeniesiony na początek zdania podrzędnego razem z CAŁĄ frazą rzeczownikową, którą określa. „I know a man whose son is a doctor” to zrośnięcie „I know a man” i „His son is a doctor”, gdzie na front wędruje nie samo „his”, lecz cała fraza „his son” — stąd „whose son”, a nie osobno stojące „whose” przed czasownikiem."
+      }
     ],
     "usage": [
-      "Defining: The woman who lives next door is a doctor. (identyfikuje którą kobietę)",
-      "Non-defining: My sister, who lives in London, is a doctor. (dodatkowa informacja o siostrze)",
-      "W non-defining zawsze przecinki, nigdy that",
-      "Pominięcie zaimka tylko gdy pełni funkcję dopełnienia: The book (which) I read was great."
+      "whose dla osób jest bezdyskusyjne w każdym rejestrze: the author whose novel won the prize.",
+      "whose dla rzeczy jest dziś standardem, nie błędem: a policy whose consequences nobody predicted.",
+      "of which pozostaje żywe głównie w bardzo formalnym, pisanym rejestrze i bywa odczuwane jako archaiczne lub sztywne w mowie.",
+      "Nie mylić whose (zaimek dzierżawczy) z who's (ściągnięte who is / who has) — to homofony różniące się wyłącznie zapisem."
     ],
-    "tags": ["who lives, is", "which I read", "comma clause", "essential info"],
+    "tags": [
+      "whose son",
+      "whose profits fell",
+      "the house whose roof",
+      "of which the roof"
+    ],
     "examples": [
-      { "en": "The woman who lives next door is a doctor.", "pl": "Kobieta, która mieszka obok, jest lekarką." },
-      { "en": "My sister, who lives in London, is a doctor.", "pl": "Moja siostra, która mieszka w Londynie, jest lekarką." },
-      { "en": "The book I read last week was great.", "pl": "Książka, którą przeczytałem w zeszłym tygodniu, była świetna." },
-      { "en": "Mount Everest, which is the highest mountain, attracts climbers.", "pl": "Mount Everest, który jest najwyższą górą, przyciąga wspinaczy." }
+      {
+        "en": "The architect whose designs shaped this skyline retired last year.",
+        "pl": "Architekt, którego projekty ukształtowały tę panoramę miasta, przeszedł na emeryturę w zeszłym roku."
+      },
+      {
+        "en": "It was an idea whose time had finally come.",
+        "pl": "To była idea, której czas w końcu nadszedł."
+      },
+      {
+        "en": "The village, whose population had halved in a decade, fought to keep its school open.",
+        "pl": "Wieś, której liczba mieszkańców zmniejszyła się o połowę w ciągu dekady, walczyła o utrzymanie szkoły."
+      },
+      {
+        "en": "We interviewed a scientist whose earlier research had been largely ignored.",
+        "pl": "Rozmawialiśmy z naukowcem, którego wcześniejsze badania były w dużej mierze ignorowane."
+      }
+    ]
+  },
+  {
+    "id": "where_when_why",
+    "order": 5,
+    "nameEn": "where / when / why — relative adverbs as fossilized preposition + which",
+    "namePl": "where / when / why — przysłówki względne jako skamieniałe „przyimek + which”",
+    "rules": [
+      {
+        "label": "Mechanizm kompresji",
+        "text": "„Where” w funkcji względnej to historycznie ściśnięta forma „in/at which”, „when” to skrót „in/on/at which” odniesiony do czasu, a „why” to skrót „for which” odniesiony do przyczyny — nie są to trzy osobne, przypadkowe słówka do wykucia, lecz skróty oszczędzające konieczności trzymania osobno przyimka i „which”. „This is the house where I grew up” znaczy dosłownie „This is the house in which I grew up”, tylko krócej i płynniej — dwie formy są w pełni wymienne, różni je jedynie rejestr."
+      },
+      {
+        "label": "Dlaczego akurat te trzy role dostały własne słowa",
+        "text": "Miejsce, czas i przyczyna to trzy semantyczne role na tyle częste i podstawowe w codziennej komunikacji, że język „zainwestował” w dla nich osobne, zleksykalizowane skróty — analogicznie do tego, jak „here / there” są skrótami „in this place / in that place”. Nie ma równoległego jednosłowowego skrótu dla „sposobu” (manner): „the way that/how he spoke” pozostaje bardziej opisowe, choć potocznie „how” bywa używane w tej roli, mimo że normatywnie unika się „the way how” jako pleonazmu."
+      },
+      {
+        "label": "Rozciąganie na znaczenia abstrakcyjne",
+        "text": "„Where” i „when” łatwo rozciągają się na abstrakcyjne „miejsca” i „momenty” — a situation where..., a stage when..., a case where... — to nie błąd ani niedbalstwo, lecz przejaw naturalnej metafory pojęciowej działającej w całym angielskim: abstrakcyjne stany i sytuacje konceptualizujemy jako „przestrzenie”, w których się „znajdujemy” (we are IN a difficult situation, AT a turning point). Skoro stany są metaforycznymi miejscami, „where” swobodnie łączy się też z rzeczownikami niematerialnymi jak situation, case, stage, point."
+      },
+      {
+        "label": "Rejestr i redundancja „why”",
+        "text": "W piśmie bardzo formalnym (prawniczym, akademickim) where/when bywają zastępowane pełną formą „in which / at which” dla większej precyzji i wagi stylistycznej. „Why” po rzeczowniku „the reason” bywa natomiast całkowicie pomijane w naturalnej mowie — „the reason I was late” bez żadnego łącznika — co pokazuje, że jako spójnik „why” jest w tej pozycji na wpół zbędne semantycznie, skoro samo słowo „reason” już niesie znaczenie przyczyny."
+      }
+    ],
+    "usage": [
+      "where zastępuje in/at which: the town where she was born = the town in which she was born.",
+      "when zastępuje in/on/at which: the year when the war ended = the year in which the war ended.",
+      "why po the reason bywa opuszczane bez zmiany znaczenia: the reason (why) he resigned remains unclear.",
+      "where/when łączą się swobodnie z rzeczownikami abstrakcyjnymi: a moment when everything changed, a point where negotiations broke down."
+    ],
+    "tags": [
+      "the house where",
+      "the year when",
+      "the reason why",
+      "a situation where"
+    ],
+    "examples": [
+      {
+        "en": "This is the exact spot where the treaty was signed.",
+        "pl": "To dokładnie to miejsce, gdzie podpisano traktat."
+      },
+      {
+        "en": "I still remember the winter when the river froze solid.",
+        "pl": "Wciąż pamiętam zimę, kiedy rzeka zamarzła na kość."
+      },
+      {
+        "en": "Nobody could explain the reason the funding had been cut.",
+        "pl": "Nikt nie potrafił wyjaśnić powodu, dla którego cięto finansowanie."
+      },
+      {
+        "en": "We reached a point where further compromise seemed impossible.",
+        "pl": "Doszliśmy do punktu, w którym dalszy kompromis wydawał się niemożliwy."
+      }
+    ]
+  },
+  {
+    "id": "defining_vs_nondefining",
+    "order": 6,
+    "nameEn": "Defining vs. non-defining clauses — restricting meaning versus adding it",
+    "namePl": "Zdania ograniczające a nieograniczające — zawężanie znaczenia kontra jego dodawanie",
+    "rules": [
+      {
+        "label": "Istota różnicy: tożsamość kontra dodatek",
+        "text": "Zdanie ograniczające (defining/restrictive) jest częścią tożsamości rzeczownika, do którego się odnosi — bez niego nie wiadomo, o kogo lub co chodzi: „The woman who lives next door is a doctor” — usuń zdanie względne, a „The woman is a doctor” staje się nieokreślone, „która kobieta?”. Zdanie nieograniczające (non-defining) dodaje NOWĄ, osobną informację o czymś już w pełni zidentyfikowanym — usunięcie go nie rozmywa tożsamości rzeczownika: „My sister, who lives in London, is a doctor” — „my sister” jest już jednoznaczna (zwykle mam jedną siostrę), więc zdanie względne jest tu dodatkiem, niemal osobnym zdaniem wtrąconym w nawiasie."
+      },
+      {
+        "label": "Przecinek jako zapis intonacji, nie arbitralna reguła",
+        "text": "W mowie zdania nieograniczające wypowiada się z wyraźną pauzą i osobną intonacją, jak wtrącenie — dokładnie tak, jakbyśmy dodawali osobne zdanie w nawiasie. Przecinek w piśmie jest fonetycznym zapisem tej pauzy, a nie samowolną zasadą interpunkcyjną narzuconą z zewnątrz. Czytając na głos „My sister, who lives in London, is a doctor”, naturalnie robimy przerwę przed „who” i po „London” — a zdanie ograniczające, „The woman who lives next door is a doctor”, wymawiamy jednym ciągiem, bez żadnej pauzy przed „who”."
+      },
+      {
+        "label": "Dlaczego „that” jest zablokowane po przecinku",
+        "text": "Skoro — jak ustalono w pierwszym temacie — „that” wywodzi się z uniwersalnej partykuły podrzędności, a nie z pełnoprawnego zaimka wskazującego na konkretny, już znany byt, brakuje mu „siły referencyjnej” potrzebnej do wprowadzenia dodatkowej, osobnej predykacji o czymś już zidentyfikowanym. „That” zlepia się z rzeczownikiem, definiując go — i właśnie dlatego nie potrafi wystąpić jako osobna, dodana uwaga oddzielona pauzą: semantycznie nie ma się do czego „przykleić” po przecinku, skoro jego jedyną funkcją jest zawężanie znaczenia, a nie jego rozszerzanie."
+      },
+      {
+        "label": "Konsekwencje semantyczne przy liczbie mnogiej",
+        "text": "Różnica bywa krytyczna przy rzeczownikach w liczbie mnogiej i przy kwantyfikatorach: „Students who arrived late missed the introduction” (przegapili wprowadzenie TYLKO spóźnieni studenci) kontra „Students, who arrived late, missed the introduction” (przegapili je WSZYSCY studenci, i wszyscy się spóźnili). Ta sama sekwencja słów wyraża radykalnie inne twierdzenie o świecie wyłącznie za sprawą przecinka i wyboru zaimka — dlatego w piśmie prawniczym i naukowym ta różnica bywa traktowana z całą powagą, nie jako kwestia stylu."
+      }
+    ],
+    "usage": [
+      "Zdanie ograniczające: bez przecinków, that dozwolone, zaimek-dopełnienie można pominąć.",
+      "Zdanie nieograniczające: zawsze w przecinkach (lub między myślnikami), nigdy that, zaimek nigdy nie znika.",
+      "Test praktyczny: jeśli po usunięciu zdania względnego zdanie główne traci jednoznaczność — zdanie jest ograniczające.",
+      "Nazwy własne i rzeczowniki jednostkowe (Mount Everest, my mother, London) niemal zawsze przyciągają zdanie nieograniczające, bo już są w pełni zidentyfikowane."
+    ],
+    "tags": [
+      "students who arrived late",
+      "my sister, who lives",
+      "restrictive clause",
+      "non-restrictive clause"
+    ],
+    "examples": [
+      {
+        "en": "The employees who signed the petition were called into a meeting.",
+        "pl": "Pracownicy, którzy podpisali petycję, zostali wezwani na spotkanie."
+      },
+      {
+        "en": "The employees, who signed the petition unanimously, were called into a meeting.",
+        "pl": "Pracownicy, którzy jednogłośnie podpisali petycję, zostali wezwani na spotkanie."
+      },
+      {
+        "en": "Paris, which I visited last spring, felt completely different in winter.",
+        "pl": "Paryż, który odwiedziłem zeszłej wiosny, zimą wydawał się zupełnie inny."
+      },
+      {
+        "en": "Any employee who breaches this policy will face immediate dismissal.",
+        "pl": "Każdy pracownik, który naruszy tę politykę, zostanie natychmiast zwolniony."
+      }
+    ]
+  },
+  {
+    "id": "contact_clauses_omission",
+    "order": 7,
+    "nameEn": "Zero relative pronouns — the vanishing pronoun of everyday speech",
+    "namePl": "Zerowy zaimek względny — znikający zaimek codziennej mowy",
+    "rules": [
+      {
+        "label": "Co wolno pominąć i dlaczego akurat to",
+        "text": "Zaimek względny można pominąć tylko wtedy, gdy pełni funkcję DOPEŁNIENIA w zdaniu podrzędnym: „The book (that/which) I read was great” — „I read [it]”, dopełnienie. Nigdy gdy pełni funkcję PODMIOTU: w „The man who called you is my brother” zaimek „who” jest podmiotem czasownika „called” i nie da się go pominąć — *„The man called you is my brother” byłoby niegramatyczne, bo zdanie zlałoby się w jeden, niezrozumiały ciąg czasowników. To bezpośrednia konsekwencja funkcji zaimka jako zszywki: gdy jest podmiotem, jego obecność to jedyny sygnał, że zaczyna się nowe, podrzędne zdanie."
+      },
+      {
+        "label": "Nazwa i pochodzenie terminu „contact clause”",
+        "text": "Takie konstrukcje nazywa się „contact clauses” (zdania stykowe) — termin ukuty przez duńskiego lingwistę Otto Jespersena na początku XX wieku, opisujący sytuację, w której rzeczownik i określające go zdanie „stykają się” bezpośrednio, bez żadnego łącznika pomiędzy nimi. Zjawisko jest bardzo stare w mowie angielskiej, widoczne już w średnioangielskim, lecz przez wieki normatywni gramatycy traktowali je jako „niedbałe” — mimo że jest w pełni systematyczne, rządzone jasną regułą (dopełnienie tak, podmiot nie), a nie chaotyczne czy dowolne."
+      },
+      {
+        "label": "Rejestr: pominięcie jako forma domyślna w mowie",
+        "text": "Pominięcie zaimka jest domyślne i naturalne w mowie potocznej oraz piśmie nieformalnym — jego brak (czyli pełne „that/which/who”) w tej samej pozycji brzmi bardziej formalnie, „napisane”, niemal urzędowo. To sytuacja symetryczna do losu „whom”: tam forma pełna jest formalna, tu forma pełna również jest formalna — w obu przypadkach kierunek historycznej zmiany jest ten sam: język dąży do usuwania nadmiarowego materiału gramatycznego tam, gdzie kontekst i tak wystarcza do zrozumienia zdania."
+      },
+      {
+        "label": "Ograniczenie przy przyimku: stranding kontra pied-piping",
+        "text": "Pominięcie jest możliwe nawet wtedy, gdy zaimek byłby formalnie dopełnieniem przyimka — pod warunkiem że przyimek zostaje „osierocony” na końcu zdania (stranding): „the person (who/that) I spoke to” — można pominąć, bo „to” zostaje na końcu. Ale gdy przyimek jest „pociągnięty” razem z zaimkiem na początek zdania (pied-piping, rejestr formalny), pominięcie staje się niemożliwe: *„the person to I spoke” jest niegramatyczne — musi paść pełne „the person to whom I spoke”. Im bardziej formalna, „przyimek-na-początku” konstrukcja, tym mniej można z niej wyrzucić: formalność i redukcja to siły działające w przeciwnych kierunkach."
+      }
+    ],
+    "usage": [
+      "Zaimek-dopełnienie można pominąć w mowie i piśmie nieformalnym: The film (that) we watched last night was terrifying.",
+      "Zaimek-podmiot NIGDY nie może zniknąć: The man who called you is my brother (nie: *The man called you is my brother).",
+      "Pominięcie z osieroconym przyimkiem jest naturalne: the job (that) I applied for; niemożliwe przy pied-piping: the job for which I applied (nigdy *the job for I applied).",
+      "W rejestrze formalnym (pismach urzędowych, tekstach akademickich) pełny zaimek jest normą nawet tam, gdzie mowa dopuszczałaby pominięcie."
+    ],
+    "tags": [
+      "the book I read",
+      "the film we watched",
+      "the job I applied for",
+      "zero relative pronoun"
+    ],
+    "examples": [
+      {
+        "en": "The apartment (that) we rented last summer had no air conditioning.",
+        "pl": "Mieszkanie, które wynajęliśmy zeszłego lata, nie miało klimatyzacji."
+      },
+      {
+        "en": "The colleague I mentioned earlier just walked in.",
+        "pl": "Kolega, o którym wspominałem wcześniej, właśnie wszedł."
+      },
+      {
+        "en": "This is the argument for which we have been searching for months.",
+        "pl": "To jest argument, którego szukaliśmy od miesięcy."
+      },
+      {
+        "en": "The client I've been dealing with never answers emails.",
+        "pl": "Klient, z którym mam do czynienia, nigdy nie odpowiada na e-maile."
+      }
     ]
   }
 ]
