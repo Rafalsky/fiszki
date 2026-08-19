@@ -1,97 +1,250 @@
 [
   {
-    "id": "time_prepositions",
+    "id": "preposition_system_overview",
     "order": 1,
-    "nameEn": "in / on / at — prepositions of time",
-    "namePl": "Przyimki czasu in / on / at",
+    "nameEn": "The preposition system: from Old English case endings to spatial cognition",
+    "namePl": "System przyimków: od końcówek przypadków w staroangielskim do kognitywnego modelu przestrzeni",
     "rules": [
-      { "label": "in", "text": "Dłuższe okresy — miesiące, lata, pory roku, części dnia (in July, in 2020, in summer, in the morning)" },
-      { "label": "on", "text": "Dni tygodnia i konkretne daty (on Monday, on 5 May, on my birthday)" },
-      { "label": "at", "text": "Konkretne godziny oraz stałe wyrażenia (at 6 o'clock, at night, at the weekend, at Christmas)" }
+      {
+        "label": "Skąd przyimki wzięły władzę: upadek systemu przypadków",
+        "text": "Staroangielski miał bogaty system przypadków rzeczownika (mianownik, dopełniacz, celownik, biernik) z końcówkami fleksyjnymi, podobnie jak dzisiejszy polski. Przyimki istniały już wtedy, ale pełniły rolę pomocniczą — dopowiadały szczegóły relacji, którą i tak w dużej mierze niosła sama końcówka przypadka. Między XI a XIV wiekiem, pod wpływem zaniku akcentu na końcówkach (a częściowo kontaktu ze staronordyjskim i normańskim francuskim), angielski niemal całkowicie utracił fleksję przypadkową rzeczownika. Skoro rzeczownik przestał sam 'mówić', jaką pełni rolę w zdaniu, całą tę pracę — kto komu co, gdzie, kiedy, jak — musiały przejąć inne środki: ustalony szyk zdania (temat 'Szyk zdania') oraz PRZYIMKI. Dlatego współczesny angielski ma tak rozbudowany, drobiazgowy system przyimkowy — to nie ozdobnik, lecz spadkobierca funkcji, którą kiedyś pełniła fleksja. Polski, który przypadki zachował, w wielu miejscach nie potrzebuje przyimka tam, gdzie angielski musi go użyć: 'boję się PSA' — sam dopełniacz niesie relację, natomiast 'afraid OF the dog' wymaga przyimka, bo angielski przymiotnik nie ma już jak inaczej 'przykleić się' do rzeczownika."
+      },
+      {
+        "label": "Dlaczego przyimków nie da się tłumaczyć 1:1 — to nie słownik, to geometria",
+        "text": "Największa pułapka dla Polaka: traktowanie in/on/at jak haseł słownikowych z jednym stałym odpowiednikiem ('w', 'na', 'przy'). Właściwy model myślowy to nie tłumaczenie słowo-w-słowo, lecz WYOBRAŻENIE GEOMETRYCZNE relacji przestrzennej między dwoma obiektami — tzw. schemat obrazowy (image schema), pojęcie z lingwistyki kognitywnej (Langacker, Lakoff). Każdy z podstawowych przyimków koduje inny, uproszczony 'kształt' relacji: AT sprowadza obiekt do PUNKTU na mapie, bez wymiarów i bez wnętrza; IN traktuje obiekt jak POJEMNIK — wnętrze, które 'zamyka' w sobie coś innego; ON traktuje obiekt jak POWIERZCHNIĘ, na której coś spoczywa dzięki kontaktowi i (zwykle) grawitacji. Te trzy schematy — punkt, pojemnik, powierzchnia — to nie trzy osobne słówka do wykucia, lecz trzy różne sposoby patrzenia na tę samą scenę, a wybór zależy od tego, jak mówiący JĄ SOBIE WYOBRAŻA, nie jak ona obiektywnie wygląda."
+      },
+      {
+        "label": "Ten sam obiekt, inny przyimek: konceptualizacja, nie fizyka",
+        "text": "Dowodem, że przyimki kodują sposób POSTRZEGANIA sytuacji, a nie jej obiektywną geometrię, jest fakt, że to samo miejsce potrafi przyjmować różne przyimki zależnie od tego, jak mówiący je sobie wyobraża. 'In the car' (wewnątrz, jako zamknięta przestrzeń, do której się wsiada) — ale 'on the bus/train/plane' (jako platforma, po której się chodzi i stoi, mimo że fizycznie to równie zamknięte pudełko jak samochód), bo autobus czy pociąg konceptualizowane są jako coś, po czym się PORUSZAMY, jak na pokładzie statku ('on board'), a nie jako pudełko, w które się 'wchodzi'. 'At the corner' (punkt) — ale 'on the corner' (powierzchnia skrzyżowania, na której coś stoi) — obie formy istnieją dla tego samego miejsca, bo mówiący może je konceptualizować na dwa sposoby. Dlatego pytanie 'jak jest naprawdę: w środku czy na powierzchni?' bywa złym pytaniem — trzeba pytać 'jak mówiący sobie wyobraża tę scenę?'."
+      },
+      {
+        "label": "Zoom mapy: at → on → in jako rosnąca skala szczegółowości",
+        "text": "Przy adresach i lokalizacjach at/on/in tworzą skalę 'przybliżania kamery', od najbardziej ogólnego po najbardziej szczegółowy poziom: 'at' traktuje miejsce jako punkt na mapie w skali makro (at the airport, at 221B Baker Street — punkt jako adres lub funkcja), 'on' pojawia się przy nazwach ulic jako liniach, wzdłuż których biegną numery domów (on Baker Street), a 'in' — przy obszarze miasta czy kraju, w którym coś się mieści (in London, in a building). Dokładnie ta sama logika kolejnego przybliżenia obowiązuje w czasie: at 6 o'clock (punkt-chwila) → on Monday (dzień jako 'odcinek linii' w tygodniu) → in July (miesiąc jako obszerny 'pojemnik' czasu). Kolejne dwa podtematy rozwijają tę logikę osobno dla czasu i dla przestrzeni."
+      }
     ],
     "usage": [
-      "Krótki, konkretny moment w czasie → at",
-      "Dzień lub data → on",
-      "Dłuższy okres (miesiąc, rok, pora roku) → in",
-      "Wyjątki utarte trzeba zapamiętać osobno (at night, at the weekend, at Christmas)"
+      "Nie ucz się in/on/at jako trzech osobnych słówek do zapamiętania — to trzy warianty jednego pytania: czy traktuję ten obiekt jak PUNKT (at), POJEMNIK (in) czy POWIERZCHNIĘ (on)?",
+      "Ten sam fizyczny obiekt może przyjąć różne przyimki, jeśli mówiący inaczej go sobie wyobraża (on the bus vs in the car) — to nie chaos, tylko konsekwencja różnej konceptualizacji.",
+      "Angielski przyimek często wykonuje pracę, którą w polskim wykonuje końcówka przypadka — dlatego nie szukaj odpowiednika 1:1, tylko funkcji gramatycznej, jaką pełni w zdaniu.",
+      "Skala at → on → in to powtarzający się wzorzec 'przybliżania kamery', widoczny zarówno w czasie, jak i w przestrzeni — raz zrozumiany, tłumaczy dziesiątki pozornie osobnych reguł naraz."
     ],
-    "tags": ["in July", "on Monday", "at 6pm", "at night"],
+    "tags": ["image schema", "punkt vs pojemnik vs powierzchnia", "upadek przypadków", "on the bus vs in the car", "zoom mapy"],
     "examples": [
-      { "en": "I was born in 1998.", "pl": "Urodziłem się w 1998 roku." },
-      { "en": "We meet on Fridays.", "pl": "Spotykamy się w piątki." },
-      { "en": "The train leaves at 9 o'clock.", "pl": "Pociąg odjeżdża o 9." },
-      { "en": "She always visits her parents at Christmas.", "pl": "Ona zawsze odwiedza rodziców na Boże Narodzenie." }
+      { "en": "She's at the station, waiting on platform 3, sitting in the café.", "pl": "Jest na dworcu, czeka na peronie 3, siedzi w kawiarni." },
+      { "en": "He's in the car, but she's already on the bus.", "pl": "On jest w samochodzie, ale ona jest już w autobusie." },
+      { "en": "I'll meet you at the corner of Baker Street.", "pl": "Spotkamy się na rogu Baker Street." },
+      { "en": "We live on the third floor of a building in central Warsaw.", "pl": "Mieszkamy na trzecim piętrze budynku w centrum Warszawy." }
+    ]
+  },
+  {
+    "id": "time_prepositions",
+    "order": 2,
+    "nameEn": "in / on / at for time: the same zoom logic applied to the calendar and the clock",
+    "namePl": "in / on / at w czasie: ta sama logika przybliżania kamery zastosowana do kalendarza i zegara",
+    "rules": [
+      {
+        "label": "AT: czas jako punkt bez trwania",
+        "text": "'At' przy czasie traktuje moment jako punkt matematyczny na osi czasu — bez żadnego wewnętrznego trwania, nawet jeśli w rzeczywistości fizycznej jest to proces rozciągnięty w czasie. Stąd 'at 6 o'clock' (zegarowy punkt), ale też 'at night' (noc jako jeden zwarty 'punkt' w rytmie doby, przeciwstawiony dniowi jako całości), 'at Christmas/Easter' (całe święto skondensowane w jeden punkt na kalendarzu religijnym, a nie ciąg kilku dni) oraz 'at the weekend' (BrE — weekend jako jeden zwarty odcinek tygodnia, punktowo wydzielony z reszty dni roboczych)."
+      },
+      {
+        "label": "ON: dzień jako powierzchnia, na której leżą wydarzenia",
+        "text": "'On' traktuje dzień lub konkretną datę jak powierzchnię, na której 'leżą' wydarzenia danego dnia — stąd 'on Monday', 'on 5 May', 'on my birthday', ale też 'on Christmas Day' (uwaga na kontrast: 'at Christmas' to cały okres świąteczny jako punkt, natomiast 'on Christmas Day' to konkretny dzień 25 grudnia jako powierzchnia z wydarzeniami). Ten sam mechanizm obejmuje połączenie dnia z porą dnia: 'on Monday morning', 'on a rainy afternoon' — gdy pora dnia jest dookreślona przymiotnikiem lub przypisana do konkretnego dnia, całość zachowuje się jak 'dzień' (powierzchnia), a nie jak sama abstrakcyjna pora doby (która wzięłaby 'in': in the morning)."
+      },
+      {
+        "label": "IN: dłuższe okresy jako pojemniki, które mieszczą wydarzenia",
+        "text": "'In' traktuje dłuższe odcinki czasu — miesiące, lata, dekady, pory roku, stulecia, a także pory dnia w oderwaniu od konkretnego dnia (in the morning/afternoon/evening) — jako pojemniki: wydarzenie 'mieści się' gdzieś WEWNĄTRZ tego odcinka, niekoniecznie zajmując go w całości. 'In 2020' nie znaczy 'przez cały rok 2020', tylko 'w pewnym momencie zawartym wewnątrz roku 2020' — dokładnie tak, jak 'in the box' nie znaczy, że coś wypełnia całe pudełko, tylko że jest gdzieś w jego wnętrzu."
+      },
+      {
+        "label": "Wyjątek pozorny: 'in the morning', ale 'at night' — dlaczego noc łamie wzorzec",
+        "text": "Morning, afternoon, evening biorą 'in' (jako pojemniki, odcinki o wymiernym czasie trwania, wewnątrz których coś się dzieje), ale 'night' bierze 'at' — i to nie jest arbitralny wyjątek do wykucia, lecz ślad odmiennej, dawnej konceptualizacji: noc od wieków traktowana była jako jeden nieprzerwany, jednolity blok czasu snu, bez wewnętrznej struktury dnia roboczego podzielonego na fazy aktywności. Gdy jednak mówimy o nocy jako wydarzeniu z wewnętrznym trwaniem (np. o tym, co się w jej TRAKCIE działo), 'in' wraca: 'I woke up twice in the night' podkreśla, że coś działo się WEWNĄTRZ nocy jako odcinka czasu, a nie punktowo 'w porze nocnej' w ogóle."
+      },
+      {
+        "label": "'In time' vs 'on time' — przyimek zmienia całe znaczenie wyrażenia",
+        "text": "Klasyczna pułapka na poziomie C1: 'on time' = punktualnie, dokładnie o wyznaczonej godzinie (wydarzenie jako punkt 'leżący' dokładnie tam, gdzie powinien leżeć na rozkładzie — powierzchni planu); 'in time' = zdążyć, zmieścić się PRZED upływem jakiegoś terminu, z pewnym zapasem (pojemnik czasu, w którym coś się jeszcze mieści). 'The train arrived on time' (punktualnie według rozkładu) kontra 'We arrived just in time to catch the train' (zdążyliśmy, z niewielkim zapasem, zanim pociąg odjechał) — różnica nie jest kosmetyczna, tylko wynika wprost ze schematów on/in ustalonych w części poprzedniej."
+      }
+    ],
+    "usage": [
+      "Punktowe momenty: godziny, pora nocna, święta traktowane całościowo, weekend w BrE → at",
+      "Dni tygodnia, konkretne daty, dni świąteczne jako konkretna data, pory dnia dookreślone przymiotnikiem lub przypisane do dnia → on",
+      "Miesiące, lata, pory roku, dekady, stulecia, pory dnia w oderwaniu od konkretnego dnia → in",
+      "'on time' = punktualnie według planu; 'in time' = zdążyć z zapasem przed upływem terminu — dwa różne pojęcia, nie warianty stylistyczne"
+    ],
+    "tags": ["at night vs in the night", "at Christmas vs on Christmas Day", "on time vs in time", "pojemnik vs powierzchnia vs punkt"],
+    "examples": [
+      { "en": "I was born in 1998, on a freezing morning in January.", "pl": "Urodziłem się w 1998 roku, mroźnym styczniowym porankiem." },
+      { "en": "The shops are closed at Christmas, but they reopen on the 27th.", "pl": "Sklepy są zamknięte w święta, ale otwierają się ponownie 27-go." },
+      { "en": "I couldn't sleep and woke up twice in the night.", "pl": "Nie mogłam spać i budziłam się dwa razy w nocy." },
+      { "en": "The flight left on time, but we only got to the gate just in time.", "pl": "Lot odleciał punktualnie, ale my dotarliśmy do bramki dosłownie w ostatniej chwili." }
     ]
   },
   {
     "id": "place_prepositions",
-    "order": 2,
-    "nameEn": "in / on / at — prepositions of place",
-    "namePl": "Przyimki miejsca in / on / at",
+    "order": 3,
+    "nameEn": "in / on / at for place: containers, surfaces, and the vehicles that break the rule",
+    "namePl": "in / on / at w przestrzeni: pojemniki, powierzchnie i pojazdy, które łamią regułę",
     "rules": [
-      { "label": "in", "text": "Wnętrze przestrzeni zamkniętej lub obszaru — pokój, pudełko, miasto, kraj (in the room, in London)" },
-      { "label": "on", "text": "Powierzchnia, na której coś leży lub się znajduje (on the table, on the wall)" },
-      { "label": "at", "text": "Konkretny punkt lub miejsce spotkania — adres, przystanek, wejście (at the door, at the bus stop)" }
+      {
+        "label": "IN jako pojemnik: nie tylko trzy wymiary",
+        "text": "'In' obejmuje nie tylko oczywiste przestrzenie zamknięte (in the room, in the box), ale każdą sytuację, w której coś jest postrzegane jako otoczone granicami — również dwuwymiarowo: 'in the picture' (obraz jako ramka zamykająca w sobie treść), 'in the mirror' (odbicie 'zamknięte' w ramach lustra), 'in a queue' (bycie członkiem linii, zanurzonym wewnątrz niej, a nie punktem na jej końcu), 'in the audience/crowd' (zanurzenie w obrębie granic wyznaczonych przez grupę). Wspólny mianownik: coś JEST OTOCZONE z więcej niż jednej strony, niezależnie od tego, czy fizycznie chodzi o pomieszczenie, czy o abstrakcyjną granicę wyznaczoną przez ramę lub grupę."
+      },
+      {
+        "label": "ON jako powierzchnia — rozciągnięta na linie, krawędzie i ekrany",
+        "text": "'On' obejmuje nie tylko klasyczne poziome powierzchnie (on the table, on the floor), ale każdą relację kontaktu z linią lub granicą traktowaną jak cienka powierzchnia: 'on the wall/ceiling' (pionowa powierzchnia), 'on the border/coast/river bank' (granica lub brzeg jako wąska 'linia-powierzchnia', wzdłuż której coś leży), 'on the left/right' (strona pola widzenia jako płaszczyzna), a we współczesnym użyciu — 'on a page/map/screen/website' (dwuwymiarowa powierzchnia, na której coś jest wyświetlone lub wydrukowane)."
+      },
+      {
+        "label": "AT jako punkt funkcjonalny — miejsce definiowane przez czynność, nie geometrię",
+        "text": "'At' często nie opisuje kształtu miejsca, lecz FUNKCJĘ, jaką ono pełni w danej chwili: 'at the table' (siedzenie przy stole w roli biesiadnika — funkcja, w przeciwieństwie do 'on the table', czyli powierzchni, na której coś leży), 'at the door/desk' (punkt interakcji, np. rozmowy czy pracy), 'at a party/concert/wedding' (wydarzenie jako punkt uczestnictwa, nie geograficzna kropka). Ta sama logika obejmuje strukturalne krańce obiektu, traktowane jak punkty wzdłuż niego: 'at the top/bottom/end/back/front' (of the page, of the queue, of the street)."
+      },
+      {
+        "label": "Pojazdy: mały zamknięty pojemnik kontra otwarta platforma, na której się stoi",
+        "text": "'In the car/taxi' — mały pojazd, do którego wsiada się jak do pudełka, zamykając się w jego wnętrzu. 'On the bus/train/plane/ship' oraz 'on a bike/horse' — pojazd konceptualizowany jako platforma, po której można się poruszać, wstać, przejść (jak na pokładzie statku — stąd też ogólne 'on board'), a przy rowerze i koniu — jako coś, na czym się dosłownie SIEDZI OKRAKIEM, z widocznym kontaktem z górną powierzchnią. Historycznie to właśnie statek, na którego pokładzie się STOI, dał wzorzec 'on', który potem rozszerzył się na wszystkie środki transportu publicznego, mimo że pociąg czy samolot są równie zamknięte jak samochód."
+      },
+      {
+        "label": "C1/C2: media i powierzchnie informacji — in kontra on z tekstem i ekranem",
+        "text": "Treść wewnątrz publikacji traktowana jest jako coś ZAWARTEGO między okładkami czy kartkami ('I read about it in the newspaper/in a book/in a letter' — pojemnik na treść), natomiast konkretne miejsce WYŚWIETLENIA na płaskiej powierzchni bierze 'on' ('her photo is on the front page/on the cover', 'I saw it on the screen/on the news/on TV/on the radio' — informacja jako coś, co 'płynie po' kanale/ekranie, a nie jest w nim zamknięte). Stąd naturalny kontrast: 'It was in the article' (treść, wewnątrz tekstu) obok 'It was on page 5' (lokalizacja na konkretnej, płaskiej stronie)."
+      }
     ],
     "usage": [
-      "Coś jest na powierzchni → on",
-      "Coś jest wewnątrz zamkniętej przestrzeni lub obszaru → in",
-      "Chodzi o konkretny punkt, adres lub miejsce spotkania → at"
+      "Wnętrze przestrzeni zamkniętej, ale też ramka, lustro, kolejka, tłum, grupa jako granice otaczające coś z więcej niż jednej strony → in",
+      "Powierzchnia pozioma lub pionowa, granica/brzeg jako cienka linia-powierzchnia, ekrany i strony jako nośniki wyświetlanej treści → on",
+      "Funkcja pełniona w danym miejscu (posiłek przy stole, rozmowa przy drzwiach, uczestnictwo w wydarzeniu) oraz strukturalne krańce obiektu → at",
+      "Mały, zamknięty pojazd, do którego się wsiada → in; publiczny środek transportu, statek, rower, koń — pojazd jako platforma, na której się jest → on",
+      "Treść publikacji jako coś zawartego wewnątrz (in the book) kontra konkretne miejsce na powierzchni strony/ekranu (on page 5, on the screen)"
     ],
-    "tags": ["in the box", "on the table", "at the door", "in London"],
+    "tags": ["in the picture", "on the border", "at the table vs on the table", "in the car vs on the bus", "in the paper vs on page 5"],
     "examples": [
-      { "en": "The keys are in the drawer.", "pl": "Klucze są w szufladzie." },
-      { "en": "There's a picture on the wall.", "pl": "Na ścianie wisi obraz." },
-      { "en": "I'll meet you at the entrance.", "pl": "Spotkamy się przy wejściu." },
-      { "en": "She lives in Warsaw.", "pl": "Ona mieszka w Warszawie." }
+      { "en": "There's a small dog in the picture, sitting quietly at the front door.", "pl": "Na zdjęciu jest mały pies, siedzący spokojnie przy wejściowych drzwiach." },
+      { "en": "The village lies on the border, right on the river bank.", "pl": "Wioska leży na granicy, dokładnie na brzegu rzeki." },
+      { "en": "We sat at the table for hours, long after the plates on it had been cleared.", "pl": "Siedzieliśmy przy stole godzinami, długo po tym, jak talerze na nim zostały sprzątnięte." },
+      { "en": "She fell asleep in the car on the way to the airport, then slept on the plane too.", "pl": "Zasnęła w samochodzie w drodze na lotnisko, a potem spała też w samolocie." },
+      { "en": "I read about the storm in the newspaper before I saw the photos on the front page.", "pl": "Przeczytałam o burzy w gazecie, zanim zobaczyłam zdjęcia na pierwszej stronie." }
     ]
   },
   {
     "id": "movement_prepositions",
-    "order": 3,
-    "nameEn": "Prepositions of movement",
-    "namePl": "Przyimki ruchu",
+    "order": 4,
+    "nameEn": "Prepositions of movement: vectors, fused compounds, and metaphorical journeys",
+    "namePl": "Przyimki ruchu: wektory, stopione złożenia i metaforyczne podróże",
     "rules": [
-      { "label": "to", "text": "Kierunek do celu podróży (go to work, drive to the coast)" },
-      { "label": "into / onto", "text": "Ruch do wnętrza (into) lub na powierzchnię (onto) czegoś (walk into the room, jump onto the table)" },
-      { "label": "from", "text": "Punkt początkowy ruchu (fly from Paris)" },
-      { "label": "through / across / along / over", "text": "Trasa i sposób przemieszczania się — przez środek (through), w poprzek (across), wzdłuż (along), ponad (over)" }
+      {
+        "label": "Ruch jako wektor: początek, trasa, cel",
+        "text": "Przyimki ruchu opisują trzy niezależne elementy geometrycznego wektora, i warto je rozróżniać jako osobne pytania: skąd? (from — punkt startowy), dokąd? (to/into/onto — punkt docelowy, z rozróżnieniem czy chodzi o wnętrze czy powierzchnię celu) oraz jak?/którędy? (through/across/along/over/past — kształt i sposób pokonania trasy między punktami). Zdanie 'She drove from Kraków, through the mountains, to the coast' zawiera wszystkie trzy elementy naraz — i każdy z nich odpowiada na inne pytanie, więc nie da się ich używać zamiennie."
+      },
+      {
+        "label": "Rodowód into/onto: dwa słowa, które się zrosły",
+        "text": "Historycznie 'into' i 'onto' to zrośnięte pary dwóch osobnych przyimków — statycznego (in/on) i kierunkowego (to) — zapisywane w staro- i średnioangielskim jako 'in to', 'on to'. Połączenie w jedno słowo służyło rozróżnieniu ruchu DO wnętrza/na powierzchnię (dynamiczne into/onto) od samego położenia W/NA (statyczne in/on): 'walk into the room' (ruch, zmiana miejsca) różni się od 'be in the room' (stan, brak ruchu). We współczesnej mowie potocznej, zwłaszcza w AmE, 'into' bywa redukowane z powrotem do zwykłego 'in', gdy kierunek jest oczywisty z czasownika ruchu ('go in the house'), ale w stylu starannym i pisemnym into/onto pozostają precyzyjniejszym, preferowanym wyborem dla ruchu skierowanego."
+      },
+      {
+        "label": "Trasa: through, across, along, over, past — pięć różnych geometrii przemieszczania",
+        "text": "'Through' opisuje ruch przez WNĘTRZE trójwymiarowej przestrzeni, jak przez tunel czy las (penetracja pojemnika: walk through the forest). 'Across' opisuje ruch W POPRZEK dwuwymiarowej, płaskiej powierzchni lub granicy liniowej, od jednej krawędzi do drugiej (swim across the lake, walk across the road). 'Along' opisuje ruch WZDŁUŻ linii, równolegle do niej, a nie przez nią (walk along the river, along the corridor). 'Over' opisuje ruch PONAD, z przekroczeniem przeszkody w pionie lub po łuku (climb over the wall, fly over the mountains). 'Past' opisuje MIJANIE punktu odniesienia bez zatrzymywania się przy nim (walk past the shop). Te pięć przyimków to pięć różnych, niewymiennych odpowiedzi na pytanie 'jakim torem?', nie synonimy 'przez'."
+      },
+      {
+        "label": "Metaforyczne podróże: ruch fizyczny jako model zmiany stanu",
+        "text": "'Fall into debt/trouble/a coma' (wpadnięcie do 'pojemnika' złego stanu), 'come across an old photo' (natrafienie na coś w trakcie 'przemierzania' — przypadkowe odkrycie), 'get over an illness/a breakup' (dosłowne przekroczenie przeszkody = pokonanie trudności), 'go through a difficult time' (przejście przez wnętrze trudnego okresu), 'drift apart' (metaforyczne oddalanie się od siebie) — to nie osobne idiomy do wykucia na pamięć, tylko konsekwentne rozszerzenie tych samych schematów przestrzennych z reguł 1–3 na domenę abstrakcyjną. To fundament teorii metafory pojęciowej (Lakoff i Johnson): rozumiemy zmianę stanu jako ruch w przestrzeni, bo to najbardziej podstawowe, cielesne doświadczenie, jakie mamy — a angielskie przyimki ruchu konsekwentnie 'eksportują' tę samą geometrię do opisu emocji, zdrowia i relacji."
+      },
+      {
+        "label": "Away from, towards, back to — kierunek bez gwarancji dotarcia",
+        "text": "'Away from' opisuje oddalanie się od punktu odniesienia, bez wskazania celu. 'Towards' opisuje ruch W KIERUNKU celu, BEZ gwarancji, że się do niego dotrze — w przeciwieństwie do 'to', które implikuje osiągnięcie celu: 'I walked towards the house' (szedłem w tamtym kierunku, niekoniecznie dotarłem) kontra 'I walked to the house' (dotarłem do domu). Ta różnica, subtelna, ale konsekwentna, bywa źródłem błędów na poziomie C1, gdy uczący się używają 'to' tam, gdzie kontekst (np. przerwany ruch, obserwacja z boku) wymaga niedokończonego, jedynie kierunkowego 'towards'. 'Back to' domyka tę grupę, opisując powrót do wcześniej znanego punktu."
+      }
     ],
     "usage": [
-      "Cel podróży → to",
-      "Wejście do środka lub na powierzchnię → into / onto",
-      "Punkt startowy → from",
-      "Opis trasy ruchu → through, across, along, over"
+      "Cel podróży z gwarancją dotarcia → to; kierunek bez gwarancji dotarcia → towards; punkt startowy → from",
+      "Wejście do wnętrza → into; ruch na powierzchnię → onto (w mowie potocznej często redukowane do in/on, gdy kierunek jest oczywisty)",
+      "Opis trasy: wnętrze (through), poprzek powierzchni (across), równolegle do linii (along), ponad przeszkodą (over), mijanie bez zatrzymania (past)",
+      "Te same przyimki ruchu w połączeniu z rzeczownikami abstrakcyjnymi (stanami, uczuciami, okresami) opisują zmianę stanu, a nie zmianę miejsca — fall into, get over, go through, come across"
     ],
-    "tags": ["go to work", "into the room", "across the street", "through the tunnel"],
+    "tags": ["into = in + to", "through vs across vs along vs over vs past", "to vs towards", "fall into debt", "get over an illness"],
     "examples": [
-      { "en": "We drove to the coast.", "pl": "Pojechaliśmy nad wybrzeże." },
-      { "en": "He walked into the kitchen.", "pl": "Wszedł do kuchni." },
-      { "en": "She swam across the lake.", "pl": "Przepłynęła jezioro." },
-      { "en": "They walked through the forest.", "pl": "Przeszli przez las." }
+      { "en": "We drove from Kraków, through the mountains, to the coast.", "pl": "Pojechaliśmy z Krakowa, przez góry, nad wybrzeże." },
+      { "en": "He walked towards the station, but stopped halfway when his phone rang.", "pl": "Szedł w kierunku dworca, ale zatrzymał się w połowie drogi, gdy zadzwonił telefon." },
+      { "en": "She swam across the lake and then walked along the shore back to the cottage.", "pl": "Przepłynęła jezioro, a potem szła wzdłuż brzegu z powrotem do domku." },
+      { "en": "It took him months to get over the breakup, but he finally came across someone new.", "pl": "Zajęło mu miesiące, żeby otrząsnąć się po rozstaniu, ale w końcu poznał kogoś nowego." },
+      { "en": "The company fell into debt during the crisis and only climbed out of it last year.", "pl": "Firma wpadła w długi podczas kryzysu i dopiero w zeszłym roku z nich wyszła." }
     ]
   },
   {
     "id": "other_prepositions",
-    "order": 4,
-    "nameEn": "Other common prepositions",
-    "namePl": "Inne częste przyimki",
+    "order": 5,
+    "nameEn": "between/among, during/for/while, by/until: the logic of shared boundaries and duration",
+    "namePl": "between/among, during/for/while, by/until: logika wspólnych granic i czasu trwania",
     "rules": [
-      { "label": "between / among", "text": "between dla dwóch osób/rzeczy, among dla grupy (więcej niż dwóch)" },
-      { "label": "during / for / while", "text": "during + rzeczownik/wydarzenie (during the film), for + długość trwania (for two hours), while + zdanie (while I was reading)" },
-      { "label": "by / until", "text": "by — najpóźniej do danego momentu (deadline), until — nieprzerwanie aż do danego momentu" }
+      {
+        "label": "Between: dwa oddzielne, policzalne punkty w relacji parami",
+        "text": "'Between' pochodzi ze staroangielskiego 'betweonum' — dosłownie 'przy dwóch' (be + tweonum, spokrewnione z 'two/twain'). Zakłada dyskretne, wyraźnie odróżnialne od siebie elementy — nawet gdy jest ich więcej niż dwa, o ile mówimy o relacjach PAROWYCH między konkretnymi, wymienionymi z osobna uczestnikami: 'negotiations between the five countries' — każdy kraj to odrębny, zidentyfikowany uczestnik relacji, mimo że jest ich pięć, a nie dwa."
+      },
+      {
+        "label": "Among: niezróżnicowana grupa, zanurzenie w masie",
+        "text": "'Among' pochodzi ze staroangielskiego 'onmang' — 'w tłumie, w mieszaninie' (mang = mieszanina, ten sam rdzeń co 'mingle'). Traktuje grupę jako jednolitą, niepoliczalną w danym momencie masę, bez wyróżniania pojedynczych elementów — stąd 'hidden among the trees' (zanurzony w niezróżnicowanej masie drzew, nie 'między konkretnym drzewem A i B') czy 'popular among students' (w całej, nieokreślonej grupie studentów jako zbiorowości, a nie w relacji do pojedynczych, wymienionych osób)."
+      },
+      {
+        "label": "During vs for vs while: nazwa wydarzenia, długość czy równoczesność",
+        "text": "Te trzy wyrażenia odpowiadają na trzy różne pytania i wymagają trzech różnych konstrukcji składniowych, więc nie są synonimami do losowego wyboru. 'During' + rzeczownik nazywający wydarzenie lub okres (during the film, during the war) odpowiada na pytanie 'KIEDY, w trakcie czego?'. 'For' + liczba i jednostka czasu (for two hours, for a while) odpowiada na pytanie 'JAK DŁUGO?'. 'While' + całe zdanie z podmiotem i czasownikiem (while I was reading) odpowiada na pytanie 'RÓWNOCZEŚNIE Z JAKĄ CZYNNOŚCIĄ?'. Próba użycia 'during' przed czasownikiem odmienionym (*during I was reading) jest błędem strukturalnym, nie tylko stylistycznym — 'during' wymaga rzeczownika, nie zdania."
+      },
+      {
+        "label": "By vs until: różnica między terminem a trwałością stanu",
+        "text": "'By' wyznacza NAJPÓŹNIEJSZY moment, w którym jednorazowe zdarzenie musi nastąpić — akcent pada na punkt w czasie, po którym stan MUSI się zmienić ('Finish the report by Friday' — w jakimś momencie do piątku włącznie zdarzenie 'skończenia' musi zajść, ale może zajść wcześniej). 'Until/till' wyznacza moment, DO którego trwa nieprzerwanie jakiś stan lub czynność ciągła — akcent pada na czas trwania, nie na punktowe zdarzenie ('I'll be here until Friday' — stan 'bycia tutaj' trwa nieprzerwanie aż do piątku, bez przerw). To dokładnie ten sam schemat punkt/trwanie, który rządzi parą at/in w części o czasie, tylko przeniesiony na parę spójników czasowych."
+      },
+      {
+        "label": "C2: 'by the time' i pułapka negacji z until",
+        "text": "'By the time' + zdanie łączy punktową logikę 'by' z całym zdarzeniem stanowiącym punkt odniesienia w czasie: 'By the time we arrived, the film had already started' wymaga Past Perfect w zdaniu głównym, bo 'przybycie' jest punktem odniesienia, względem którego coś innego wydarzyło się WCZEŚNIEJ. Osobną pułapką jest 'not... until', częsta konstrukcja, w której przeczenie + until podkreśla, że coś NIE zaszło AŻ DO danego momentu — czyli semantycznie mówi o punktowym zdarzeniu opóźnionym w czasie, mimo że formalnie zawiera 'until': 'She didn't arrive until midnight' znaczy 'dotarła dopiero o północy, nie wcześniej', a nie 'nie dotarła nieprzerwanie aż do północy'."
+      }
     ],
     "usage": [
-      "Dwa elementy → between, grupa → among",
-      "Podajesz liczbę/czas trwania → for; nazywasz wydarzenie, w trakcie którego coś się dzieje → during; dwie czynności równocześnie → while",
-      "Termin ostateczny (najpóźniej do) → by; ciągłość aż do momentu → until"
+      "Dwa lub więcej wyraźnie odróżnialnych, wymienionych z osobna elementów w relacji parami → between; niezróżnicowana, zbiorowa grupa → among",
+      "Nazwa wydarzenia/okresu (rzeczownik) → during; liczba i jednostka czasu trwania → for; całe zdanie opisujące równoczesną czynność → while",
+      "Nieprzekraczalny termin jednorazowego zdarzenia (może nastąpić wcześniej) → by; nieprzerwane trwanie stanu aż do granicznego momentu → until",
+      "'Not... until' opisuje punktowe zdarzenie, które nastąpiło później niż oczekiwano — nie ciągłość stanu, mimo obecności 'until'"
     ],
-    "tags": ["between two", "among the crowd", "during the meeting", "by Friday"],
+    "tags": ["between two vs among a group", "during vs for vs while", "by vs until", "by the time + Past Perfect", "not... until"],
     "examples": [
-      { "en": "The shop is between the bank and the café.", "pl": "Sklep jest między bankiem a kawiarnią." },
-      { "en": "She was popular among her classmates.", "pl": "Była lubiana wśród kolegów z klasy." },
-      { "en": "I waited for two hours.", "pl": "Czekałem dwie godziny." },
-      { "en": "Please finish the report by Friday.", "pl": "Proszę skończyć raport najpóźniej do piątku." }
+      { "en": "The rivalry between the two brothers was well known among their friends.", "pl": "Rywalizacja między dwoma braćmi była dobrze znana wśród ich znajomych." },
+      { "en": "During the meeting she stayed silent for almost an hour, while everyone else argued.", "pl": "Podczas spotkania milczała prawie godzinę, podczas gdy wszyscy inni się kłócili." },
+      { "en": "Please send the contract by Friday; I'll be waiting for it until then.", "pl": "Proszę przesłać umowę najpóźniej do piątku; będę na nią czekać do tego czasu." },
+      { "en": "By the time the ambulance arrived, the situation had already calmed down.", "pl": "Zanim przyjechała karetka, sytuacja już się uspokoiła." },
+      { "en": "He didn't call until midnight, so we'd already gone to bed.", "pl": "Zadzwonił dopiero o północy, więc już poszliśmy spać." }
+    ]
+  },
+  {
+    "id": "prepositions_abstract_states",
+    "order": 6,
+    "nameEn": "Beyond space: prepositions as containers, surfaces and points for abstract states",
+    "namePl": "Poza przestrzenią: przyimki jako pojemniki, powierzchnie i punkty dla stanów abstrakcyjnych",
+    "rules": [
+      {
+        "label": "Stany to pojemniki: in + rzeczownik abstrakcyjny",
+        "text": "Konceptualna metafora 'STANY TO POJEMNIKI' rozszerza schemat 'in' z tematu 2 i 3 na emocje i sytuacje życiowe: 'in love', 'in trouble', 'in debt', 'in danger', 'in a hurry', 'in doubt', 'in tears', 'in shock'. Wejście w stan to 'wejście do pojemnika' (fall in love, get into trouble), trwanie w stanie to 'bycie wewnątrz pojemnika' (be in debt), a wyjście ze stanu to 'wyjście z pojemnika' (get out of debt, out of danger). To dokładnie ten sam mechanizm, co przy 'in the box' — stan 'zamyka' osobę tak, jak fizyczny pojemnik zamyka przedmiot, tylko przeniesiony z przestrzeni fizycznej na psychologiczną."
+      },
+      {
+        "label": "Stany to powierzchnie: on + rzeczownik abstrakcyjny — niestabilna równowaga",
+        "text": "'On fire', 'on edge', 'on the verge of', 'on strike', 'on duty', 'on a diet' — 'on' dla stanów sugeruje coś bardziej niestabilnego i tymczasowego niż 'in': jak stanie NA czymś, skąd łatwo spaść, zamiast bycia bezpiecznie zamkniętym wewnątrz. 'On the verge of tears' dosłownie znaczy 'na krawędzi łez' — punkt chwiejnej równowagi, z którego łatwo 'zsunąć się' w jedną lub drugą stronę — i różni się jakościowo od 'in tears' (już WEWNĄTRZ płaczu, stan w pełni osiągnięty, a nie dopiero graniczny)."
+      },
+      {
+        "label": "Stany to punkty: at + rzeczownik abstrakcyjny — konfrontacja lub poziom graniczny",
+        "text": "'At risk', 'at war', 'at peace', 'at a loss', 'at odds with', 'at stake' — 'at' dla stanów sygnalizuje punkt na skali (poziom ryzyka, natężenie konfliktu) albo moment konfrontacji z jakąś siłą czy wartością, podobnie jak 'at 6 o'clock' oznacza punkt na osi zegara. 'Lives are at stake' traktuje stawkę jako punkt, na którym coś się waży, a nie jako obszar czy powierzchnię — stąd 'at', nie 'in' czy 'on'."
+      },
+      {
+        "label": "Under jako nowa figura: presja z góry",
+        "text": "'Under pressure', 'under control', 'under discussion', 'under construction', 'under threat' — 'under' nie pojawiał się przy podstawowych relacjach czasu i miejsca omawianych wcześniej, ale w domenie abstrakcyjnej jest bardzo produktywny: dosłownie 'pod czymś', metaforycznie 'poddany działaniu siły z góry, w trakcie procesu, pod czyimś nadzorem lub wpływem'. To ten sam obraz fizycznego ciężaru przygniatającego z góry, przeniesiony na sytuacje psychologiczne, administracyjne czy proceduralne — konsekwentne rozszerzenie tej samej logiki obrazowej, którą zilustrowano wcześniej dla in/on/at."
+      },
+      {
+        "label": "Dlaczego ten sam stan zmienia przyimek w zależności od fazy",
+        "text": "'Fall into a depression' (wejście = ruch DO pojemnika) → 'be in a depression' (trwanie = WEWNĄTRZ pojemnika) → 'come out of a depression' (wyjście = Z pojemnika) — trzy różne czasowniki ruchu lub stanu, odpowiadające trzem fazom (wejście / trwanie / wyjście), konsekwentnie połączone z tym samym rdzeniowym przyimkiem 'in' w trzech jego formach (into / in / out of). To pokazuje, że system nie jest zbiorem przypadkowych idiomów, tylko systematycznym rozszerzeniem geometrii przestrzennej — ustalonej w pierwszym podtemacie tej lekcji — na całą domenę emocji i sytuacji życiowych."
+      }
+    ],
+    "usage": [
+      "Emocje i sytuacje traktowane jako coś, w co się wchodzi/z czego się wychodzi (miłość, kłopoty, długi, zagrożenie, łzy) → in / into / out of",
+      "Stany niestabilne, tymczasowe, aktywne, z ryzykiem 'spadnięcia' z równowagi (ogień, napięcie, strajk, dyżur, dieta) → on",
+      "Punkt na skali natężenia lub moment konfrontacji z jakąś siłą (ryzyko, wojna, pokój, bezradność, stawka) → at",
+      "Bycie poddanym działaniu siły, procesowi lub nadzorowi z góry (presja, kontrola, dyskusja, budowa, zagrożenie) → under",
+      "Ten sam stan zmienia przyimek wraz z fazą: wejście (into) → trwanie (in) → wyjście (out of) — spójny, nie przypadkowy wzorzec"
+    ],
+    "tags": ["in love / in debt / in trouble", "on fire / on the verge of", "at risk / at stake", "under pressure / under control", "fall into → be in → come out of"],
+    "examples": [
+      { "en": "The whole team is under pressure, and two people are already on the verge of quitting.", "pl": "Cały zespół jest pod presją, a dwie osoby są już na skraju rezygnacji." },
+      { "en": "Thousands of jobs are at risk if the factory closes.", "pl": "Tysiące miejsc pracy są zagrożone, jeśli fabryka zostanie zamknięta." },
+      { "en": "She fell into depression after the accident, but she's slowly coming out of it now.", "pl": "Popadła w depresję po wypadku, ale teraz powoli z niej wychodzi." },
+      { "en": "The building has been under construction for two years and is still not finished.", "pl": "Budynek jest w budowie od dwóch lat i wciąż nie jest ukończony." },
+      { "en": "He's deeply in debt, and the whole family is at odds over what to do about it.", "pl": "Jest głęboko zadłużony, a cała rodzina kłóci się o to, co z tym zrobić." }
     ]
   }
 ]
