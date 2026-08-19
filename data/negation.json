@@ -1,98 +1,215 @@
 [
   {
-    "id": "verb_negation",
+    "id": "do_support_negation",
     "order": 1,
-    "nameEn": "Negating verbs",
-    "namePl": "Przeczenia czasowników (not / n't)",
+    "nameEn": "Sentential negation and the rise of 'do'",
+    "namePl": "Przeczenie zdania i geneza operatora 'do'",
     "rules": [
-      { "label": "do/does/did + not", "text": "W Present Simple i Past Simple przeczenie tworzymy operatorem don't/doesn't/didn't + czasownik w formie podstawowej" },
-      { "label": "be/have/modal + not", "text": "Gdy zdanie zawiera czasownik być (be), posiłkowy have/has/had jako operator lub czasownik modalny (can, will, must...), przeczenie dodajemy bezpośrednio do niego: isn't, haven't, can't, won't" },
-      { "label": "Skróty", "text": "W mowie i piśmie nieformalnym używamy skróconych form: don't, doesn't, didn't, isn't, aren't, wasn't, weren't, can't, won't, shouldn't" }
+      {
+        "label": "Punkt wyjścia: sama cząstka 'ne'",
+        "text": "Staroangielski budował przeczenie jedną małą, nieakcentowaną cząstką „ne” postawioną bezpośrednio przed czasownikiem: „ic ne secge” — dosłownie „ja nie mówię”. Nie było żadnego dodatkowego „not” ani operatora „do” — pojedyncza cząstka w pełni wystarczała, bo staroangielski czasownik nie potrzebował żadnego dodatkowego „nośnika” gramatycznego: cała informacja mieściła się w samym czasowniku i jego fleksji."
+      },
+      {
+        "label": "Erozja i wzmocnienie: cykl Jespersena",
+        "text": "Nieakcentowane „ne” z czasem fonetycznie się zużywało — w szybkiej mowie zlewało się z sąsiednimi słowami i traciło wyrazistość. Języki reagują na takie ścieranie się negatorów w bardzo przewidywalny sposób, opisany w 1917 roku przez duńskiego językoznawcę Ottona Jespersena i dziś nazywany cyklem Jespersena: słabnący negator zostaje wzmocniony nowym słowem, które z czasem samo przejmuje funkcję głównego przeczenia, słabnie i wymaga kolejnego wzmocnienia. Angielskie „ne” wzmocniono rzeczownikiem „nāwiht”/„nōht” (dosłownie „ani odrobina, żadna rzecz” — od „nā” + „wiht”, „istota, rzecz”; to samo „wiht” przetrwało w wyrażeniu „not a whit” — „ani krzty”). Powstała para „ne … noht”, dokładny odpowiednik francuskiego „ne … pas” (dosłownie: ani [jeden] krok), które przechodzi ten sam cykl w tym samym czasie w sąsiednim języku."
+      },
+      {
+        "label": "Zanik 'ne' i osamotnione 'not'",
+        "text": "W średnioangielskim „noht” ściągnęło się do „not”, a osłabione „ne” stopniowo w ogóle zniknęło z wymowy (do ok. XV wieku) — zostawiając „not” jako jedyny negator, ale w pozycji PO czasowniku głównym: „I say not”, „I know not”. To wciąż naturalna, w pełni gramatyczna angielszczyzna wczesnonowożytna — tak mówi Szekspir i tak brzmi Biblia króla Jakuba („Fear not”, „Judge not, that ye be not judged”)."
+      },
+      {
+        "label": "Dlaczego samo 'not' nie wystarczało: rola operatora",
+        "text": "Problem w tym, że angielski czasownik główny — w przeciwieństwie do „be”, „have” czy czasowników modalnych — nigdy nie pełnił funkcji tzw. operatora: elementu zdania, do którego przyczepia się przeczenie, który przesuwa się na początek zdania w pytaniu, który zastępuje całą resztę orzeczenia w konstrukcjach eliptycznych („I do too”) i w question tags. Dopóki istniało „ne” bezpośrednio przy czasowniku, to ono pełniło rolę tego zaczepu. Gdy zniknęło, zwykłe czasowniki leksykalne (like, know, go...) zostały bez żadnego gramatycznego uchwytu dla not/pytania/elipsy — a same nie potrafiły go utworzyć, bo w międzyczasie utraciły też praktycznie całą końcówkową fleksję osobową, która mogłaby to sygnalizować."
+      },
+      {
+        "label": "Rozwiązanie: 'do' jako pusty semantycznie operator",
+        "text": "Od XIV wieku, a systematycznie w XVI–XVII wieku, angielszczyzna „wynajęła” czasownik posiłkowy „do” (semantycznie pusty, niewnoszący żadnego znaczenia „robienia”) właśnie do tej roli: to on stał się nowym uchwytem, do którego przyczepia się „not”, który przesuwa się w pytaniach, który zastępuje orzeczenie w konstrukcjach eliptycznych. Do ok. 1700 roku forma „I do not know” wypiera archaiczne „I know not” jako standard w zdaniach z czasownikiem leksykalnym — dziś „know not” brzmi wyłącznie poetycko lub biblijnie, przetrwało jedynie w skostniałych zwrotach („fear not”, „care not”, „matter not”, „like it or not”). Be, have (jako posiłkowy) i czasowniki modalne nigdy nie potrzebowały „do”, bo — inaczej niż zwykłe czasowniki — od zawsze zachowywały status pełnoprawnego operatora, ciągnący się nieprzerwanie od staroangielskiego."
+      }
     ],
     "usage": [
-      "Present Simple/Past Simple: don't/doesn't/didn't + czasownik",
-      "Zdania z be, have (posiłkowym), modalnymi: not bezpośrednio po operatorze",
-      "Skrócone formy dominują w mowie potocznej i pisowni nieformalnej",
-      "Pełna forma (do not, does not) podkreśla przeczenie w mowie formalnej"
+      "Czasownik leksykalny w Present/Past Simple: don't/doesn't/didn't + forma podstawowa — 'do' jest tu czystym operatorem gramatycznym, bez własnego znaczenia",
+      "be, have (jako posiłkowy), czasowniki modalne: przeczenie dołącza się bezpośrednio do nich (isn't, haven't, can't) — to żywy ślad staroangielskiego statusu operatora",
+      "Forma 'verb + not' bez 'do' (I know not, he cares not) jest dziś archaizmem literacko-biblijnym, nie błędem — ale i nie współczesnym standardem",
+      "n't to kolejny etap tego samego procesu ścierania: 'not' fonetycznie zlewa się z operatorem w jedną nieakcentowaną sylabę — historia wciąż się toczy"
     ],
-    "tags": ["don't", "doesn't", "didn't", "isn't", "can't", "won't"],
+    "tags": ["do-support", "n't", "cykl Jespersena", "Old English ne"],
     "examples": [
-      { "en": "I don't like coffee.", "pl": "Nie lubię kawy." },
-      { "en": "She doesn't work here.", "pl": "Ona tutaj nie pracuje." },
-      { "en": "They didn't arrive yesterday.", "pl": "Oni nie przyjechali wczoraj." },
-      { "en": "He can't swim.", "pl": "On nie umie pływać." }
+      { "en": "She simply does not trust anyone who avoids eye contact.", "pl": "Ona po prostu nie ufa nikomu, kto unika kontaktu wzrokowego." },
+      { "en": "He cares not for public opinion — a line straight out of an old ballad.", "pl": "Nie dba o opinię publiczną — zdanie brzmiące jak z dawnej ballady." },
+      { "en": "We hadn't expected the negotiations to collapse so quickly.", "pl": "Nie spodziewaliśmy się, że negocjacje załamią się tak szybko." },
+      { "en": "\"Fear not,\" the old inscription above the gate still reads.", "pl": "„Nie lękaj się” — wciąż tak głosi stary napis nad bramą." }
     ]
   },
   {
-    "id": "some_any_no",
+    "id": "non_assertive_system",
     "order": 2,
-    "nameEn": "some / any / no",
-    "namePl": "some / any / no",
+    "nameEn": "some / any / no — the non-assertive system",
+    "namePl": "System some / any / no — terytoria asertywne i nieasertywne",
     "rules": [
-      { "label": "some", "text": "Używamy w zdaniach twierdzących (some apples) oraz w pytaniach będących propozycją lub prośbą (Would you like some tea?)" },
-      { "label": "any", "text": "Używamy w przeczeniach (I don't have any money) i w zwykłych pytaniach (Do you have any siblings?)" },
-      { "label": "no", "text": "no + rzeczownik zastępuje not any i pozwala tworzyć przeczenie bez dodatkowego not: There is no milk. (= There isn't any milk.)" }
+      {
+        "label": "Dwa 'terytoria' zdania: asertywne i nieasertywne",
+        "text": "Zdanie twierdzące coś zakłada — mówiąc „I have some money”, mówiący ZAKŁADA (asserts), że taka ilość pieniędzy realnie istnieje. Pytanie i przeczenie robią coś przeciwnego: pytają o istnienie tej ilości albo je wprost zaprzeczają. Gramatyka angielska odzwierciedla tę różnicę osobnym zestawem słów: „some” należy do terytorium asertywnego (zdania twierdzące), „any” do terytorium nieasertywnego (przeczenia, pytania i, jak zobaczymy, kilka innych kontekstów o tej samej logice)."
+      },
+      {
+        "label": "Skąd ta różnica: etymologia 'some' i 'any'",
+        "text": "„Some” pochodzi od staroangielskiego „sum” — słowa oznaczającego już wtedy konkretną, choć nieokreśloną co do wielkości, porcję czegoś. „Any” wywodzi się z „ænig”, dosłownie „jakiś-jeden” (ān „jeden” + przyrostek -ig), a więc etymologicznie oznacza „którykolwiek jeden z całego, otwartego zbioru” — nie zakłada, że dany element w ogóle istnieje, tylko dopuszcza dowolny z możliwych. Ta różnica znaczeniowa sprzed tysiąca lat idealnie pokrywa się z dzisiejszym podziałem: „some” niesie założenie istnienia, „any” go nie niesie — i właśnie dlatego to „any”, a nie „some”, pasuje do pytań i przeczeń, gdzie istnienie jest kwestionowane lub zaprzeczane."
+      },
+      {
+        "label": "Nieasertywne terytorium jest szersze niż samo przeczenie",
+        "text": "Skoro logiczną cechą „any” jest brak założenia istnienia, pojawia się ono wszędzie tam, gdzie zdanie nie zakłada z góry pozytywnej odpowiedzi — nie tylko w pytaniach i przeczeniach, ale też w zdaniach warunkowych („If you have any doubts, ask me”), po „whether”, po wyrażeniach o ładunku negatywnym (hardly, barely, without: „without any hesitation”), oraz po porównaniach stopnia najwyższego z ukrytym zaprzeczeniem („better than any other solution” = żadne inne rozwiązanie nie jest lepsze)."
+      },
+      {
+        "label": "'Any' wolnego wyboru — pozytywne zdanie, ta sama logika",
+        "text": "Na poziomie C1/C2 warto zauważyć osobne, pozornie sprzeczne użycie: „any” w zdaniu twierdzącym, np. „Any fool can see that” („Każdy głupiec to widzi”). To tzw. free-choice any — nie neguje niczego, ale zachowuje rdzeń znaczeniowy „którykolwiek, bez znaczenia który” z etymologii „ænig”: nie wskazuje jednego konkretnego głupca, tylko mówi, że wszyscy, bez wyjątku, kwalifikują się. To wciąż ta sama nieokreśloność, tylko w roli podkreślenia powszechności, a nie zaprzeczenia."
+      },
+      {
+        "label": "'No' jako zaprzeczenie wbudowane w rzeczownik: 'ne' + 'one'",
+        "text": "„No” (jako określnik: „no money”) pochodzi wprost z „nān” — staroangielskiego stopienia „ne” (przeczenie) i „ān” („jeden”), czyli dosłownie „ani jeden”. To ta sama cząstka „ne”, która w czasownikach zniknęła (patrz: geneza do-support) — tu jednak przetrwała, bo zrosła się na stałe z rzeczownikiem/określnikiem, zamiast wisieć osobno przy czasowniku, więc nie była podatna na te same siły fonetycznej erozji. Stąd dwie równoważne, ale rejestrowo różne drogi zaprzeczenia: analityczna „not any” (rozłożona, neutralna, domyślna w mowie) i syntetyczna „no” (zrośnięta w jedno słowo, mocniejsza retorycznie, częsta na początku zdania i w stylu pisanym/formalnym: „No man is an island”)."
+      }
     ],
     "usage": [
-      "some - w zdaniach twierdzących oraz w ofertach/prośbach",
-      "any - w przeczeniach i pytaniach neutralnych",
-      "no + rzeczownik = przeczenie bez not (podwójne przeczenie jest błędem)",
-      "some/any łączą się zarówno z rzeczownikami policzalnymi (w l.mn.), jak i niepoliczalnymi"
+      "some — zdania twierdzące oraz pytania-oferty/prośby (Would you like some tea?), bo mimo formy pytającej zakładają pozytywną odpowiedź",
+      "any — pytania neutralne, przeczenia, warunki, 'whether', po hardly/without, po porównaniach z ukrytym przeczeniem",
+      "no + rzeczownik = 'not any', ale nigdy nie łączymy no z not w tym samym czasowniku (patrz temat o negative concord)",
+      "free-choice any w zdaniu twierdzącym = 'obojętnie który, wszyscy' — inna funkcja tej samej nieokreśloności"
     ],
-    "tags": ["some apples", "any money", "no milk", "Would you like some...?"],
+    "tags": ["some/any", "non-assertive", "free-choice any", "no = ne+one"],
     "examples": [
-      { "en": "I'd like some water, please.", "pl": "Poproszę trochę wody." },
-      { "en": "I don't have any money.", "pl": "Nie mam żadnych pieniędzy." },
-      { "en": "There is no milk in the fridge.", "pl": "W lodówce nie ma mleka." },
-      { "en": "Do you have any questions?", "pl": "Czy masz jakieś pytania?" }
+      { "en": "If you notice any irregularities in the accounts, report them immediately.", "pl": "Jeśli zauważysz jakiekolwiek nieprawidłowości w księgach, natychmiast je zgłoś." },
+      { "en": "Any experienced climber will tell you the descent is the dangerous part.", "pl": "Każdy doświadczony wspinacz powie ci, że zejście jest tą niebezpieczną częścią." },
+      { "en": "There was no trace of regret in her voice.", "pl": "W jej głosie nie było ani śladu żalu." },
+      { "en": "He finished the marathon without any real training.", "pl": "Ukończył maraton bez żadnego prawdziwego treningu." }
     ]
   },
   {
-    "id": "none_neither_nor",
+    "id": "neither_nor_none",
     "order": 3,
-    "nameEn": "none / neither / nor",
-    "namePl": "none / neither / nor",
+    "nameEn": "neither / nor / none — dual vs. plural negation",
+    "namePl": "neither / nor / none — negacja dwóch a negacja grupy",
     "rules": [
-      { "label": "none", "text": "none of + rzeczownik/zaimek oznacza „żaden z” — używane samodzielnie, bez rzeczownika po nim (None of them came.)" },
-      { "label": "neither", "text": "neither (of) odnosi się do dwóch osób/rzeczy i oznacza „ani jeden, ani drugi”: Neither of them is right." },
-      { "label": "neither... nor...", "text": "Struktura łącząca dwa elementy w przeczeniu: Neither Tom nor Ann came. — czasownik zgadza się z bliższym podmiotem" }
+      {
+        "label": "'Either/neither' — skamieniały ślad podwójnej liczby",
+        "text": "„Either” pochodzi od staroangielskiego „ǣghwæðer” — złożenia „ā” („zawsze”) + „ge-” (przedrostek zbiorowości) + „hwæðer” („który z dwóch”, dokładny kuzyn dzisiejszego „whether” i łacińskiego „uter”). Element „-ther/-ðer” to skamieniały refleks prastarego indoeuropejskiego przyrostka liczby podwójnej (dual) — gramatycznej kategorii obok liczby pojedynczej i mnogiej, używanej specjalnie do par. Angielski, jak większość języków germańskich, całkowicie stracił gramatyczną liczbę podwójną między okresem staro- a średnioangielskim — ale w słowach either/neither/whether/other ten „dwoisty” rdzeń znaczeniowy przetrwał leksykalnie, mimo że kategoria gramatyczna, z której się wywodzi, dawno wymarła."
+      },
+      {
+        "label": "Dlatego 'neither' tylko dla dwóch, 'none' dla trzech i więcej",
+        "text": "Właśnie dlatego, że „-ther” niesie w sobie znaczenie „z dwóch”, „neither” („ani jeden [z dwóch]”) jest gramatycznie zarezerwowane wyłącznie dla par: „Neither answer is correct” (z dwóch możliwych). Gdy elementów jest trzech lub więcej, angielski sięga po „none” — od tego samego „nān” („ani jeden”), które poznaliśmy przy „no”, ale bez ograniczenia liczbowego, bo nie zawiera przyrostka dualnego. Rozróżnienie neither/none to więc żywy, wciąż systematyczny refleks kategorii gramatycznej, której w angielskim formalnie już nie ma."
+      },
+      {
+        "label": "'Nor' — kolejny produkt tego samego wzmacniania 'ne'",
+        "text": "„Nor” to stopione „ne” + „or” — dokładnie ten sam mechanizm wzmacniania osłabionego przeczenia nowym słowem, który stworzył „not” z „ne”+„noht” oraz „no”/„none” z „ne”+„ān”. Struktura korelatywna „neither… nor…” w pewnym sensie powiela przeczenie na poziomie leksykalnym (neither już zawiera „ne”, nor też) — ale to nie jest błąd podwójnego przeczenia: to jedna, zrośnięta konstrukcja spajająca dwa negowane elementy w całość, ustandaryzowana już w średnioangielskim."
+      },
+      {
+        "label": "Zgodność liczby: reguła szkolna kontra żywy uzus",
+        "text": "Gramatyka normatywna każe traktować „neither”, „none” oraz „neither X nor Y” jako liczbę pojedynczą (Neither Tom nor Ann IS available — logika: to wybór między dwoma pojedynczymi opcjami). W praktyce jednak od czasów staroangielskich żywa jest tzw. zgodność przez sąsiedztwo (proximity concord): czasownik dostraja się do najbliższego rzeczownika, zwłaszcza gdy to on jest w liczbie mnogiej („Neither the teacher nor the students WERE ready”). To wcale nie współczesne rozluźnienie zasad — to starszy, naturalny wzorzec angielszczyzny; sztywna reguła liczby pojedynczej to import z logiki łacińskiej, narzucony przez purystów gramatyki w XVIII wieku (m.in. Robert Lowth), którzy woleli spójność matematyczną od naturalnego rytmu języka mówionego."
+      },
+      {
+        "label": "'Neither'/'nor' jako odpowiedź zgadzająca się z przeczeniem",
+        "text": "Tak jak „so” odwraca szyk przy potwierdzaniu zdania twierdzącego („I'm tired.” „So am I.”), tak „neither” robi to samo przy zdaniu przeczącym, wymuszając inwersję operatora: „I can't swim.” „Neither can I.” To bezpośrednia kontynuacja mechanizmu operatora z tematu do-support — przeczenie samo w sobie nie wymaga tu drugiego „not”, bo „neither” już jest przeczeniem."
+      }
     ],
     "usage": [
-      "none of - żaden z (grupy więcej niż dwóch)",
-      "neither (of) - żaden z dwóch",
-      "neither... nor... - ani..., ani... (łączy dwa elementy)",
-      "Po none/neither czasownik zwykle występuje w liczbie pojedynczej (forma formalna)"
+      "neither (of) — dwa elementy: 'żaden z dwóch'; none (of) — trzy i więcej: 'żaden z grupy'",
+      "neither X nor Y — łączy dwa negowane elementy w jedną frazę podmiotową lub orzeczeniową",
+      "Formalnie czasownik po neither/none w liczbie pojedynczej; w mowie i piśmie nieformalnym częsta zgodność z najbliższym/mnogim elementem",
+      "neither + inwersja operatora jako negatywna odpowiedź zgadzająca (Neither do I / Neither have I / Neither can I)"
     ],
-    "tags": ["none of them", "neither of us", "neither... nor...", "Me neither."],
+    "tags": ["neither", "none", "nor", "proximity concord", "dual number"],
     "examples": [
-      { "en": "None of the students passed the test.", "pl": "Żaden ze studentów nie zdał testu." },
-      { "en": "Neither of them is coming to the party.", "pl": "Żadne z nich nie przyjdzie na przyjęcie." },
-      { "en": "Neither Tom nor Ann likes spicy food.", "pl": "Ani Tom, ani Ann nie lubią pikantnego jedzenia." },
-      { "en": "\"I don't like Mondays.\" \"Me neither.\"", "pl": "„Nie lubię poniedziałków.” „Ja też nie.”" }
+      { "en": "Neither candidate seemed fully prepared for the debate.", "pl": "Żaden z dwóch kandydatów nie wydawał się w pełni przygotowany do debaty." },
+      { "en": "None of the witnesses could agree on what actually happened.", "pl": "Żaden ze świadków nie potrafił zgodzić się co do tego, co właściwie się wydarzyło." },
+      { "en": "\"I've never been to Iceland.\" \"Neither have I.\"", "pl": "„Nigdy nie byłem na Islandii.” „Ja też nie.”" },
+      { "en": "Neither the manager nor her assistants were informed about the change.", "pl": "Ani kierowniczka, ani jej asystenci nie zostali poinformowani o zmianie." }
     ]
   },
   {
-    "id": "negative_prefixes_double_neg",
+    "id": "negative_concord_history",
     "order": 4,
-    "nameEn": "Negative prefixes & avoiding double negatives",
-    "namePl": "Przedrostki przeczące i unikanie podwójnego przeczenia",
+    "nameEn": "One negative per clause: negative concord and its history",
+    "namePl": "Jedno przeczenie na zdanie: negative concord i jego historia",
     "rules": [
-      { "label": "Przedrostki przeczące", "text": "un-, in-/im-, dis-, non- tworzą przeczenie przymiotnika lub rzeczownika bez użycia not: unhappy, impossible, disagree, non-smoker" },
-      { "label": "Zakaz podwójnego przeczenia", "text": "W angielskim standardowym jedno zdanie ma tylko jedno przeczenie — nie łączymy not z no/nobody/nothing/never w tym samym czasowniku: I don't have anything (nie: I don't have nothing)" },
-      { "label": "not... any vs no", "text": "not + any i no + rzeczownik są równoważne, ale nigdy nie łączymy ich razem: I don't have any money. = I have no money." }
+      {
+        "label": "Wielokrotne przeczenie jako norma — nie błąd",
+        "text": "We współczesnym standardzie „I don't know nothing” brzmi jak sprzeczność logiczna (dwa minusy dają plus). Ale przez większość historii języka angielskiego wiele przeczeń w jednym zdaniu nie znosiło się nawzajem — wzmacniało jedno, wspólne przeczenie. To zjawisko nazywa się negative concord (zgodność przecząca) i było w pełni systematyczną, poprawną cechą staro- i średnioangielskiego, a nie potocznym niedbalstwem."
+      },
+      {
+        "label": "Chaucer jako dowód: elegancja, nie błąd",
+        "text": "Geoffrey Chaucer opisuje w Prologu do Opowieści kanterberyjskich idealnego rycerza zdaniem: „He nevere yet no vileynye ne sayde” — dosłownie „on nigdy jeszcze żadnej niegodziwości nie powiedział”, ze stosem trzech przeczeń (nevere, no, ne) spiętych w jedną myśl. W XIV-wiecznej angielszczyźnie to nie usterka stylistyczna, tylko wzorcowa, literacka poprawność — im więcej przeczeń, tym mocniejszy, bardziej stanowczy wydźwięk."
+      },
+      {
+        "label": "Skąd zakaz: matematyka zamiast gramatyki",
+        "text": "Zakaz podwójnego przeczenia w standardowym angielskim to w dużej mierze świadoma, odgórna decyzja gramatyków-purystów XVIII wieku (najsłynniej: biskup Robert Lowth w „A Short Introduction to English Grammar”, 1762), którzy przenieśli do opisu języka zasadę czysto matematyczną — mnożenie dwóch liczb ujemnych daje liczbę dodatnią — i uznali, że skoro logika tak nakazuje, to i gramatyka powinna. To nie jest naturalny rozwój wewnętrzny języka, tylko import z algebry, podparty prestiżem łaciny. Równolegle sama reorganizacja zdania wokół jednego operatora (patrz do-support) sprzyjała skupieniu przeczenia w jednym miejscu, więc grunt pod taki zakaz był już częściowo przygotowany strukturalnie."
+      },
+      {
+        "label": "Negative concord żyje dalej — tylko poza standardem",
+        "text": "Zakaz obowiązuje w standardowej, prestiżowej odmianie angielskiego — ale negative concord nigdy nie zniknęło z języka jako takiego: jest w pełni systematyczną, regularną cechą wielu dialektów (afroamerykański angielski, cockney, wiele wiejskich dialektów Anglii, szkocki angielski). „I don't know nothing” w tych systemach to nie pomyłka logiczna, tylko jedno, spójne przeczenie rozciągnięte na całe zdanie, rządzące się swoimi regularnymi zasadami — dokładnie tak samo systematycznymi jak reguły standardu, tylko innymi."
+      },
+      {
+        "label": "Jak standard radzi sobie bez podwajania: przełącz na 'any'",
+        "text": "Skoro standardowy angielski dopuszcza tylko jedno przeczenie na zdanie, każdy kolejny nieokreślony element w jego zasięgu musi przełączyć się z formy przeczącej (no/nobody/nothing/nowhere/never) na formę nieasertywną (any/anybody/anything/anywhere/ever) — dokładnie ten mechanizm terytorialny, który poznaliśmy przy some/any/no. „I don't know anything” (standard) i „I don't know nothing” (dialekt z negative concord) wyrażają dokładnie to samo znaczenie dwoma różnymi, wewnętrznie logicznymi systemami gramatycznymi — żaden z nich nie jest „bardziej logiczny” niż drugi."
+      },
+      {
+        "label": "Prawdziwe podwójne przeczenie w standardzie: inna funkcja",
+        "text": "Standardowy angielski ma swoje własne, w pełni poprawne podwójne przeczenie — ale działa ono zupełnie inaczej niż negative concord: dwa niezależne przeczenia na różnych piętrach składni (np. 'not' + przedrostek przeczący) rzeczywiście się znoszą, dając osłabione, złagodzone znaczenie pozytywne: „She is not unattractive” nie znaczy „jest bardzo atrakcyjna”, tylko „jest raczej atrakcyjna, w jakimś stopniu” — to litota. Warto od razu odróżnić: negative concord to jedno przeczenie powielone dla wzmocnienia, litota to dwa niezależne przeczenia, które się matematycznie znoszą i łagodzą wydźwięk."
+      }
     ],
     "usage": [
-      "Przedrostki un-/in-/im-/dis-/non- zamiast not + przymiotnik",
-      "Jedno przeczenie na zdanie — nie dubluj not z no/never/nobody",
-      "any/anybody/anything/anywhere używamy po not, no/nobody/nothing/nowhere używamy bez not",
-      "Podwójne przeczenie w standardowym angielskim brzmi błędnie, choć bywa spotykane w dialektach"
+      "Standard: tylko jedno przeczenie na klauzulę — każdy kolejny nieokreślony element przechodzi na formę any-/ever-",
+      "Dialekty z negative concord (AAVE, cockney i inne) systematycznie powielają przeczenie — to odrębny, regularny system, nie błąd",
+      "Nie myl negative concord (jedno przeczenie rozciągnięte) z prawdziwym podwójnym przeczeniem typu 'not un-' (dwa niezależne przeczenia, znoszą się, łagodzą znaczenie)",
+      "W piśmie formalnym i na egzaminach obowiązuje wyłącznie standardowy, pojedynczy wzorzec przeczenia"
     ],
-    "tags": ["unhappy", "impossible", "disagree", "I don't have anything"],
+    "tags": ["negative concord", "double negative", "Chaucer", "Robert Lowth"],
     "examples": [
-      { "en": "It's impossible to finish it today.", "pl": "Niemożliwe jest skończyć to dzisiaj." },
-      { "en": "She was unhappy about the decision.", "pl": "Była nieszczęśliwa z powodu tej decyzji." },
-      { "en": "I don't know anything about it.", "pl": "Nic o tym nie wiem." },
-      { "en": "There isn't anybody in the office.", "pl": "Nikogo nie ma w biurze." }
+      { "en": "I couldn't find my keys anywhere this morning.", "pl": "Nie mogłem dziś rano nigdzie znaleźć kluczy." },
+      { "en": "\"He never said nothing to nobody,\" the witness insisted — in perfectly systematic dialect grammar.", "pl": "„On nigdy nikomu nic nie powiedział” — upierał się świadek, w pełni systematycznej gramatyce dialektalnej." },
+      { "en": "Nobody in the audience raised any objections.", "pl": "Nikt na widowni nie zgłosił żadnych zastrzeżeń." },
+      { "en": "The report offers no evidence that anything went wrong.", "pl": "Raport nie dostarcza żadnego dowodu, że cokolwiek poszło źle." }
+    ]
+  },
+  {
+    "id": "negative_prefixes_asymmetry",
+    "order": 5,
+    "nameEn": "Negative prefixes vs. 'not': the scale asymmetry",
+    "namePl": "Przedrostki przeczące a 'not': asymetria na skali znaczeniowej",
+    "rules": [
+      {
+        "label": "Dwa źródła tego samego przeczenia: un- i in-",
+        "text": "Przedrostek 'un-' to rdzennie germańskie dziedzictwo — kontynuacja praindoeuropejskiego przeczenia *n̥- (tej samej cząstki, z której przez germańskie prawo Grimma powstało też 'ne', 'no', 'not'). Przedrostek 'in-/im-/il-/ir-' to pożyczka z łaciny, ale zaskakująco: łacińskie 'in-' pochodzi z dokładnie tego samego praindoeuropejskiego rdzenia *n̥-, tylko inną, niegermańską ścieżką fonetyczną. Un- i in- to więc etymologiczni kuzyni, którzy do angielszczyzny weszli dwiema różnymi drogami setki lat od siebie — i dlatego dziś współistnieją w jednym języku."
+      },
+      {
+        "label": "Warstwa germańska vs warstwa francusko-łacińska",
+        "text": "To rozdwojenie jest bezpośrednim skutkiem podboju normańskiego z 1066 roku, który dołożył do rdzennie anglosaskiego słownictwa ogromną warstwę zapożyczeń francusko-łacińskich. Rdzenne, staroangielskie/germańskie przymiotniki biorą 'un-' (unhappy, unkind, unfair), a przymiotniki zapożyczone z francuskiego/łaciny biorą 'in-' i jego warianty asymilacyjne (impossible przed p/b/m, illegal przed l, irregular przed r — asymilacja spółgłoskowa to reguła fonetyki łacińskiej, przeniesiona razem ze słowem). Ten sam podział widać w dziesiątkach par synonimicznych w angielszczyźnie (kingly/royal, freedom/liberty) — to jeden z najbardziej charakterystycznych śladów podboju normańskiego w dzisiejszym słowniku."
+      },
+      {
+        "label": "'dis-' i 'non-' — inne funkcje, inne pochodzenie",
+        "text": "'dis-' (łac. 'dis-', „w rozdzieleniu, na boki”) neguje głównie czasowniki i rzeczowniki procesu, często z odcieniem odwrócenia czynności, a nie prostego zaprzeczenia stanu: disappear to nie „nie pojawiać się”, tylko „przestać się pojawiać, zniknąć”. 'non-' pochodzi z łacińskiego 'non', które samo jest starym stopieniem 'ne' + 'oinom' („nie [jedno]”) — a więc tą samą konstrukcją „ne+jeden”, którą już spotkaliśmy w angielskim 'no'/'none', tylko zapożyczoną osobno jako gotowe słowo z łaciny, zamiast odziedziczoną. 'non-' jest dziś najproduktywniejszym i najbardziej neutralnym z czterech przedrostków — często nie tworzy prawdziwego przeciwieństwa, tylko stwierdza brak cechy (non-smoker to nie 'przeciwieństwo palacza' w sensie wartościującym, tylko 'osoba bez tej cechy')."
+      },
+      {
+        "label": "Sedno sprawy: 'not X' neguje szerzej niż 'unX'",
+        "text": "Tu leży najważniejsza pułapka na poziomie C1/C2: angielskie przymiotniki zwykle leżą na skali (od bardzo negatywnego przez neutralne po bardzo pozytywne), a 'not' i przedrostek przeczący negują tę skalę zupełnie inaczej. 'Not happy' zaprzecza tylko samemu krańcowi pozytywnemu i zostawia otwartą całą resztę skali — może znaczyć obojętny, lekko smutny, wściekły, cokolwiek poniżej „happy”. 'Unhappy' natomiast wskazuje konkretny punkt na skali — biegun negatywny, czyli mniej więcej „smutny” — to dużo mocniejsze, bardziej precyzyjne twierdzenie niż samo 'not happy'."
+      },
+      {
+        "label": "Dlaczego 'not unhappy' nie równa się 'happy'",
+        "text": "Właśnie z tej asymetrii wynika, że podwójne przeczenie 'not un-' nie wraca prostą matematyczną drogą do punktu wyjścia. 'Not unhappy' zaprzecza precyzyjnemu, negatywnemu punktowi 'unhappy' — co zostawia resztę skali otwartą, ale sugeruje (przez implikaturę konwersacyjną: 'gdybym była szczęśliwa, powiedziałabym to wprost') coś w okolicach środka skali — 'znośnie, w miarę zadowolona', nie pełne 'happy'. To dlatego takie konstrukcje czytamy jako stonowane, ostrożne, często ironiczne niedopowiedzenie (litota), a nie jako logiczne wymazanie przeczenia."
+      },
+      {
+        "label": "Dlaczego nie każdy przymiotnik ma swoją formę na 'un-'",
+        "text": "Najstarsze, najczęstsze, rdzennie anglosaskie pary przymiotników (tall/short, good/bad, big/small, hot/cold) angielski od dawna wyraża osobnymi, niespokrewnionymi słowami (tzw. antonimia supletywna), a nie przedrostkiem — 'untall' czy 'ungood' nie istnieją, bo miejsce już dawno zajęły 'short' i 'bad'. Produktywna negacja przedrostkowa działa najsilniej na przymiotnikach młodszych, rzadszych lub zapożyczonych (possible/impossible, happy/unhappy, correct/incorrect) — kolejny ślad tego, że przedrostkowe przeczenie to strategia w dużej mierze donaklejana do słownictwa łacińsko-francuskiego i jego rdzennych odpowiedników, a nie uniwersalne prawo obejmujące każdy przymiotnik."
+      }
+    ],
+    "usage": [
+      "un- — warstwa rdzennie germańska/anglosaska (unhappy, unfair, unkind)",
+      "in-/im-/il-/ir- — warstwa łacińsko-francuska, z asymilacją spółgłoski (impossible, illegal, irregular, inaccurate)",
+      "'not + przymiotnik' neguje szeroko (cała skala poniżej), 'un-/in- + przymiotnik' wskazuje konkretny, mocniejszy biegun negatywny",
+      "'not un-X' nie jest równe 'X' — to złagodzone, stonowane stwierdzenie gdzieś pośrodku skali, nie powrót do pełnego pozytywu"
+    ],
+    "tags": ["un- vs in-", "warstwa normańska", "skala przymiotnika", "not un-"],
+    "examples": [
+      { "en": "The report was inaccurate rather than dishonest — a subtle but important distinction.", "pl": "Raport był niedokładny, a nie nieuczciwy — subtelna, lecz istotna różnica." },
+      { "en": "His reaction was not unexpected, given how the negotiations had gone.", "pl": "Jego reakcja nie była zaskakująca, biorąc pod uwagę przebieg negocjacji." },
+      { "en": "The committee found the proposal not unreasonable, merely underfunded.", "pl": "Komisja uznała propozycję za niepozbawioną sensu, jedynie niedofinansowaną." },
+      { "en": "She seemed vaguely dissatisfied, though not openly unhappy.", "pl": "Wyglądała na nieokreślenie niezadowoloną, choć nie na jawnie nieszczęśliwą." }
     ]
   }
 ]
