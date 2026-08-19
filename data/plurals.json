@@ -2,95 +2,280 @@
   {
     "id": "regular_plurals",
     "order": 1,
-    "nameEn": "Regular plurals",
-    "namePl": "Liczba mnoga regularna",
+    "nameEn": "Regular plurals and their phonology",
+    "namePl": "Liczba mnoga regularna i jej fonologia",
     "rules": [
-      { "label": "-s", "text": "Większość rzeczowników tworzy liczbę mnogą przez dodanie -s (cat → cats, book → books, table → tables)" },
-      { "label": "-es", "text": "Po zakończeniu na -s, -ss, -sh, -ch, -x, -z dodajemy -es (bus → buses, box → boxes, watch → watches, brush → brushes)" },
-      { "label": "spółgłoska + y → -ies", "text": "Gdy rzeczownik kończy się na spółgłoskę + y, zamieniamy y na ies (city → cities, baby → babies, country → countries)" },
-      { "label": "-f / -fe → -ves", "text": "Wiele rzeczowników kończących się na -f lub -fe zmienia końcówkę na -ves (leaf → leaves, knife → knives, wife → wives), ale są wyjątki (roof → roofs)" }
+      {
+        "label": "Skąd wzięło się -s",
+        "text": "Angielski jest językiem germańskim, a w staroangielskim rzeczowniki męskie należące do tzw. deklinacji mocnej (strong a-stem) tworzyły mianownik i biernik liczby mnogiej końcówką -as: stān (kamień) → stānas, dæg (dzień) → dagas. Po normańskim podboju (1066) i utracie większości końcówek fleksyjnych w średnioangielskim -as ścieśniło się do -es, a potem do dzisiejszego -s. To, że właśnie ta jedna z kilku staroangielskich klas deklinacyjnych 'wygrała' i stała się wzorcem domyślnym, nie jest przypadkiem estetycznym — to była po prostu najliczniejsza i najbardziej produktywna klasa rzeczowników, więc analogicznie 'wchłonęła' rzeczowniki z innych, zanikających wzorców (żeński, nijaki, mniejsze deklinacje spółgłoskowe)."
+      },
+      {
+        "label": "Trzy wymowy jednej litery: /s/, /z/, /ɪz/",
+        "text": "Pisany zawsze jako -s (lub -es), morfem liczby mnogiej wymawia się na trzy różne sposoby, a wybór nie jest losowy — rządzi nim ta sama zasada asymilacji dźwięczności, która obowiązuje w całej fonologii angielskiej: po spółgłoskach bezdźwięcznych (/p, t, k, f, θ/) wymawiamy /s/ (cats, books), po dźwięcznych (i po samogłoskach) /z/ (dogs, cars, boys), a po głoskach syczących/świszczących (/s, z, ʃ, ʒ, tʃ, dʒ/ — czyli tam, gdzie mamy już literę s/x/sh/ch/z) wstawiamy dodatkową samogłoskę /ɪ/, dając sylabę /ɪz/ (buses, boxes, watches) — bo bez niej dwie syczące głoski zderzyłyby się w niewymawialnej sekwencji."
+      },
+      {
+        "label": "-es po sybilantach to zapis fonetyki, nie osobna reguła",
+        "text": "Pisownia -es po -s, -ss, -sh, -ch, -x, -z (bus → buses, box → boxes, watch → watches, brush → brushes) nie jest arbitralną listą do wykucia — to ortograficzny zapis tej samej wstawianej samogłoski /ɪ/ opisanej wyżej. Innymi słowy: ortografia podąża tu za wymową, nie odwrotnie."
+      },
+      {
+        "label": "Spółgłoska + y → -ies: zmiana zapisu, nie dźwięku rdzenia",
+        "text": "W city → cities, baby → babies litera y po spółgłosce reprezentuje głoskę /i/. Kiedy dodajemy końcówkę liczby mnogiej, angielska ortografia nie lubi 'y' bezpośrednio przed kolejną literą (dawna konwencja skrybów, że 'y' na końcu wyrazu, ale 'i' w środku) — stąd zamiana na i + es. Gdy przed y stoi samogłoska (boy, day, key), głoska /i̯/ funkcjonuje tam jako część dyftongu, a nie samodzielna samogłoska, więc nie ma czego zamieniać: dodajemy zwykłe -s (boys, days, keys)."
+      },
+      {
+        "label": "-f/-fe → -ves: ślad staroangielskiej dźwięczności międzysamogłoskowej",
+        "text": "W staroangielskim głoska /f/ była dźwięczna (wymawiana jako [v]), gdy stała między samogłoskami, a bezdźwięczna na końcu wyrazu lub przy innej spółgłosce — to zjawisko fonetyczne zwane ubezdźwięcznieniem końcowym / udźwięcznieniem śródwyrazowym. Kiedy więc do 'leaf' [liːf] dodano dawną końcówkę -as, /f/ znalazło się między samogłoskami i naturalnie ubezdźwięczniło się na [v]: leaf → leaves, wife → wives, knife → knives, half → halves. Wyjątki takie jak roof → roofs (obok rzadszego rooves) pokazują język w trakcie wyrównywania przez analogię: nowsze zapożyczenia i słowa, które nie przeszły przez pełny cykl fonetyki staroangielskiej (np. gulf, belief, cliff — chief), domyślnie idą już według dziś dominującego, 'zwykłego' wzorca -s."
+      }
     ],
     "usage": [
-      "Domyślna, najczęstsza metoda tworzenia liczby mnogiej dla rzeczowników policzalnych",
-      "Samogłoska + y nie zmienia się — dodajemy tylko s (boy → boys, day → days, key → keys)",
-      "Rzeczowniki na -o czasem dodają -es (potato → potatoes, tomato → tomatoes), a czasem tylko -s (photo → photos, piano → pianos)"
+      "Domyślny, w pełni produktywny wzorzec — każdy nowy rzeczownik pospolity w angielskim (w tym neologizmy i zapożyczenia bez ustalonej formy) automatycznie dostaje regularne -s/-es (selfie → selfies, app → apps, blog → blogs)",
+      "Rzeczowniki na -o różnią się źródłem pochodzenia: rodzime i dawno zadomowione słowa dodają -es (potato → potatoes, tomato → tomatoes, hero → heroes — bo w wymowie staroangielskiej/wczesnośredniowiecznej też wymagały wstawionej samogłoski), a nowsze zapożyczenia (zwłaszcza z włoskiego, przez muzykę) i skróty biorą tylko -s (photo → photos, piano → pianos, kilo → kilos, logo → logos)",
+      "Rzeczowniki zakończone na -o poprzedzone samogłoską zawsze dodają tylko -s (radio → radios, zoo → zoos) — nie ma tu miejsca na dwuznaczność w wymowie",
+      "W wymowie liczby mnogiej rzeczowników na -th bezdźwięczne [θ] bywa udźwięczniane do [ð] przed -s: bath [bɑːθ] → baths [bɑːðz] w BrE (choć w AmE często zostaje [θs]) — to ten sam mechanizm śródsamogłoskowej dźwięczności, co przy -f/-ves, tylko nieodzwierciedlony w pisowni"
     ],
-    "tags": ["cats", "boxes", "cities", "knives"],
+    "tags": ["cats /s/", "dogs /z/", "boxes /ɪz/", "knives", "potatoes"],
     "examples": [
-      { "en": "I have three cats and two dogs.", "pl": "Mam trzy koty i dwa psy." },
-      { "en": "She bought two boxes of chocolates.", "pl": "Kupiła dwa pudełka czekoladek." },
-      { "en": "We visited five cities last summer.", "pl": "Odwiedziliśmy pięć miast zeszłego lata." },
-      { "en": "He sharpened all the knives in the kitchen.", "pl": "Naostrzył wszystkie noże w kuchni." }
+      { "en": "The shelves in the shop were full of loaves of fresh bread.", "pl": "Półki w sklepie były pełne bochenków świeżego chleba." },
+      { "en": "Watches, brushes and boxes are all displayed by the counter.", "pl": "Zegarki, szczotki i pudełka są wystawione przy ladzie." },
+      { "en": "She's been posting a lot of selfies and blogs about her travels lately.", "pl": "Ostatnio publikuje dużo selfie i blogów o swoich podróżach." },
+      { "en": "We roasted potatoes and tomatoes with fresh herbs.", "pl": "Upiekliśmy ziemniaki i pomidory ze świeżymi ziołami." }
     ]
   },
   {
-    "id": "irregular_plurals",
+    "id": "umlaut_plurals",
     "order": 2,
-    "nameEn": "Irregular plurals",
-    "namePl": "Liczba mnoga nieregularna",
+    "nameEn": "Vowel-mutation plurals: fossils of i-umlaut (man/men, foot/feet, mouse/mice)",
+    "namePl": "Liczba mnoga przez zmianę samogłoski — skamieliny i-umlautu (man/men, foot/feet, mouse/mice)",
     "rules": [
-      { "label": "Zmiana samogłoski", "text": "Niektóre rzeczowniki zmieniają samogłoskę wewnątrz wyrazu: man → men, woman → women, foot → feet, tooth → teeth, mouse → mice" },
-      { "label": "Końcówka -ren / -en", "text": "Nieliczne rzeczowniki tworzą liczbę mnogą przez dodanie -ren lub -en: child → children, ox → oxen" },
-      { "label": "Forma identyczna", "text": "Niektóre rzeczowniki mają tę samą formę w liczbie pojedynczej i mnogiej: sheep, fish, deer, series, species" },
-      { "label": "Do zapamiętania", "text": "Formy nieregularne nie podlegają żadnej regule — trzeba je po prostu zapamiętać" }
+      {
+        "label": "To nie są 'wyjątki bez powodu' — to zamrożony proces fonetyczny",
+        "text": "man → men, foot → feet, tooth → teeth, goose → geese, mouse → mice, louse → lice, woman → women wyglądają na chaotyczny zbiór form do wykucia na pamięć, ale w rzeczywistości wszystkie pochodzą z jednego, w pełni regularnego zjawiska fonetycznego sprzed ponad tysiąca lat: i-umlautu (i-mutacji), znanego też z niemieckiego (Fuß → Füße, Maus → Mäuse) czy szwedzkiego. To najstarsza i najbardziej 'skamieniała' warstwa angielskiej morfologii liczby mnogiej."
+      },
+      {
+        "label": "Mechanizm: samogłoska rdzenia 'ucieka' w stronę przedniej głoski w końcówce",
+        "text": "W prageramańskim liczbę mnogą tych rzeczowników (tzw. i-stems oraz spokrewnione klasy) tworzono przez dodanie końcówki zawierającej -i- lub -j- (np. *fōt-iz → 'stopy'). Przez zjawisko asymilacji na odległość mówiący nieświadomie 'przyciągali' samogłoskę rdzenia do przodu i w górę jamy ustnej, upodabniając ją do przedniej, wysokiej samogłoski -i- z końcówki: *fōt- (tylna, zaokrąglona) stała się *fēt- (przednia). Dopiero PO tym, jak zaszła ta zmiana w wymowie rdzenia, sama końcówka -i osłabła i zanikła fonetycznie w późnym staroangielskim — zostawiając zmienioną samogłoskę jako JEDYNY widoczny ślad liczby mnogiej. Innymi słowy: dzisiejsze feet nie ma końcówki, bo cała 'praca' gramatyczna została już wykonana wcześniej, na samogłosce rdzenia, a nośnik tej pracy (końcówka) po prostu zniknął."
+      },
+      {
+        "label": "Dlaczego proces jest dziś 'martwy' (nieproduktywny)",
+        "text": "I-umlaut przestał działać jako żywy proces fonologiczny na długo przed powstaniem współczesnego angielskiego — działał tylko na rzeczownikach, które w momencie jego trwania (ok. VI–VII w.) należały do konkretnej staroangielskiej klasy deklinacyjnej z końcówką zawierającą -i-. Dlatego nowe rzeczowniki (nawet fonetycznie bardzo podobne, jak 'boot' czy 'root') nigdy nie dostają takiej liczby mnogiej — 'boot' nie stanie się nigdy '*beet', bo boot w ogóle nie istniało (lub nie należało do tej klasy) w czasach, gdy proces był aktywny. To zamknięta, skończona lista — nowych członków przybyć już nie może."
+      },
+      {
+        "label": "woman/women: podwójna pułapka — pisownia i wymowa",
+        "text": "Forma women jest wyjątkowo zdradliwa: pisownia zachowuje 'wo-' jak w liczbie pojedynczej, ale wymowa liczby mnogiej brzmi ['wɪmɪn], nie ['wʊmən] — to efekt XIV-wiecznej zmiany dźwiękowej: samogłoska w drugiej sylabie (kiedyś jak w men) 'zaraziła' fonetycznie pierwszą sylabę, dając [ɪ], podczas gdy zapis stał się archaiczny i nie nadążył za wymową."
+      },
+      {
+        "label": "Grupa nie jest jednorodna — dwie różne przyczyny historyczne",
+        "text": "man/men, foot/feet, tooth/teeth, goose/geese, mouse/mice, louse/lice to spadkobiercy różnych staroangielskich klas rzeczowników spółgłoskowych (tzw. 'root nouns' / konsonantycznych), które i tak nie miały żadnej jawnej końcówki liczby mnogiej — jedynym wyznacznikiem liczby był właśnie i-umlaut. To dlatego ta drobna, ale bardzo częstotliwa (i-)grupa przetrwała nietknięta przez tysiąc lat nacisku analogii do regularnego -s: te słowa należą do rdzennego, najstarszego i najczęściej używanego słownictwa (części ciała, podstawowe istoty żywe), a wysoka częstotliwość użycia chroni nieregularne formy przed wyrównaniem — to ogólna prawidłowość znana z badań nad zmianą językową (im częstsze słowo, tym trwalsza jego nieregularność)."
+      }
     ],
     "usage": [
-      "Najczęściej spotykane w codziennej mowie mimo że są wyjątkami od reguł regularnych",
-      "person → people jest jedną z najczęstszych nieregularnych form w języku angielskim",
-      "Rzeczowniki o identycznej formie liczby pojedynczej i mnogiej wymagają liczebnika lub kontekstu, żeby wiedzieć o ile chodzi"
+      "Części ciała występujące parami/w liczbie mnogiej w naturalnym użyciu: foot → feet, tooth → teeth",
+      "Rzeczowniki osobowe rdzenne germańskie: man → men, woman → women (a także złożenia: policeman → policemen, chairwoman → chairwomen — pluralizuje się tu wewnętrzny człon -man/-woman, nie cały wyraz jak jedność)",
+      "Zwierzęta: mouse → mice, louse → lice — ale UWAGA: 'mouse' w znaczeniu komputerowym ma dziś regularną liczbę mnogą mouses obok mice w niektórych rejestrach technicznych, co pokazuje, że nowe, techniczne znaczenie 'odrywa się' od starego wzorca",
+      "goose → geese dotyczy tylko ptaka; 'goose' jako czasownik (szturchnąć) tworzy regularne formy"
     ],
-    "tags": ["men", "children", "feet", "sheep"],
+    "tags": ["men", "feet", "teeth", "mice", "geese", "women [ˈwɪmɪn]"],
     "examples": [
-      { "en": "Two men were waiting outside the office.", "pl": "Dwóch mężczyzn czekało przed biurem." },
-      { "en": "The children were playing in the garden.", "pl": "Dzieci bawiły się w ogrodzie." },
-      { "en": "My feet hurt after the long walk.", "pl": "Bolą mnie stopy po długim spacerze." },
-      { "en": "There were fifty sheep in the field.", "pl": "Na polu było pięćdziesiąt owiec." }
+      { "en": "The dentist said all her teeth and gums looked healthy.", "pl": "Dentysta powiedział, że wszystkie jej zęby i dziąsła wyglądają zdrowo." },
+      { "en": "Two mice had been living behind the fridge for weeks.", "pl": "Dwie myszy mieszkały za lodówką od tygodni." },
+      { "en": "A flock of geese flew low over the frozen lake.", "pl": "Klucz gęsi przeleciał nisko nad zamarzniętym jeziorem." },
+      { "en": "Several policemen and policewomen were guarding the entrance.", "pl": "Kilku policjantów i policjantek pilnowało wejścia." }
     ]
   },
   {
-    "id": "uncountable_nouns",
+    "id": "weak_en_plurals",
     "order": 3,
-    "nameEn": "Uncountable nouns",
-    "namePl": "Rzeczowniki niepoliczalne",
+    "nameEn": "The -en relics: children, oxen, brethren",
+    "namePl": "Relikty końcówki -en: children, oxen, brethren",
     "rules": [
-      { "label": "Brak liczby mnogiej", "text": "Rzeczowniki niepoliczalne nie mają formy mnogiej — nie dodajemy do nich -s (information, advice, furniture, news)" },
-      { "label": "Czasownik w liczbie pojedynczej", "text": "Rzeczownik niepoliczalny zawsze łączy się z czasownikiem w liczbie pojedynczej: The news is good. / This furniture is old." },
-      { "label": "Bez a/an", "text": "Rzeczowników niepoliczalnych nie poprzedzamy przedimkiem a/an — zamiast tego używamy some, much, a lot of albo jednostki miary (a piece of advice, a bit of information)" }
+      {
+        "label": "Druga, zanikająca deklinacja staroangielska",
+        "text": "Obok 'mocnej' deklinacji na -as (dziś: -s) staroangielski miał też dużą klasę rzeczowników tzw. 'słabych' (n-stems), które liczbę mnogą tworzyły końcówką -an: staroangielskie ēage (oko) → ēagan, nama (imię) → naman. W średnioangielskim -an ścieśniło się fonetycznie do -en. Ta klasa była w staroangielskim całkiem liczna, ale przegrała rywalizację z bardziej produktywną klasą na -s — większość jej członków (eye, name, shoe, cow i dziesiątki innych) z czasem 'przeszła' na regularne -s pod naporem analogii. Dziś zostały po niej tylko nieliczne, twardo trzymające się skamieliny."
+      },
+      {
+        "label": "ox → oxen: ostatni żywy, 'czysty' relikt",
+        "text": "Oxen to jedyny rzeczownik we współczesnym standardowym angielskim, który zachował 'czystą', niezmienioną końcówkę -en bez żadnych dodatkowych komplikacji. Przetrwał prawdopodobnie dlatego, że wół jako zwierzę pociągowe był przez wieki rzeczownikiem bardzo częstym w mowie codziennej rolników — a wysoka częstotliwość użycia, jak w przypadku man/men, konserwuje nieregularność zamiast pozwolić jej wyrównać się do 'oxes'."
+      },
+      {
+        "label": "children: podwójne oznaczenie liczby mnogiej ('pluralis podwójny')",
+        "text": "To najciekawszy przypadek w całym systemie: staroangielskie cild (dziecko) w niektórych dialektach miało liczbę mnogą cildru — z zupełnie inną, trzecią końcówką (r-stem, spokrewnioną z niemieckim Kind → Kinder, które do dziś zachowało tę formę bez zmian!). W średnioangielskim forma cildru/childre przestała być rozpoznawana jako 'już mnoga' (końcówka -re/-er brzmiała niewyraźnie i nieproduktywnie), więc użytkownicy języka dodali DO NIEJ jeszcze raz żywą wówczas końcówkę liczby mnogiej -en, tworząc childeren → children: dosłownie 'dzieci-y-dzieci', podwójnie oznaczoną liczbę mnogą. To zjawisko (dodanie nowej końcówki mnogiej do formy, która sama była już historycznie liczbą mnogą, ale przestała być tak postrzegana) nazywa się w językoznawstwie reduplikacją liczby mnogiej i jest rzadkie, ale nie unikalne dla angielskiego."
+      },
+      {
+        "label": "brethren: rozszczepienie znaczeniowe według rejestru",
+        "text": "Brethren to historycznie regularna forma -en od brother (podobnie jak kiedyś istniały eyen 'oczy', shoon 'buty', kine 'krowy' — dziś całkowicie wyparte przez eyes, shoes, cows). Gdy w języku ogólnym brothers wyparło brethren jako zwykłą liczbę mnogą, brethren nie zniknęło całkiem — przetrwało, bo religijne i bractwa/stowarzyszeniowe teksty (Biblia w tłumaczeniu King James, mowy zakonne, języki masonerii/gildii) zamroziły je w ustalonych formułach ('dearly beloved brethren'). Dziś brethren oznacza wyłącznie 'braci' w sensie duchowym/symbolicznym (współwyznawców, członków wspólnoty), nigdy braci biologicznych — to przykład jak jedna historyczna forma może przetrwać wyłącznie w wąskiej niszy semantyczno-rejestrowej, podczas gdy jej 'zwykłe' znaczenie przejmuje forma regularna."
+      }
     ],
     "usage": [
-      "Substancje i materiały (water, sugar, rice, bread)",
-      "Pojęcia abstrakcyjne (love, happiness, knowledge)",
-      "Zbiorcze rzeczowniki, które po polsku bywają policzalne (furniture — meble, luggage — bagaże, advice — rady)"
+      "oxen — wyłącznie liczba mnoga zwierzęcia 'wół' (a team of oxen); nigdy 'oxes'",
+      "children — jedyna poprawna liczba mnoga od 'child'; formy 'childs' czy 'childes' nie istnieją w żadnym rejestrze",
+      "brethren — rejestr podniosły/religijny/ceremonialny: zwracanie się do współwyznawców, członków bractwa, zakonu (nie w zwykłej rozmowie o rodzeństwie)",
+      "Ślady dawnej klasy -en widać też w przymiotnikach pochodnych typu 'wooden', 'golden' (dosłownie: 'zrobiony z drewna/złota') — ta sama historyczna końcówka -en, inna funkcja gramatyczna niż w liczbie mnogiej"
     ],
-    "tags": ["information", "furniture", "advice", "news"],
+    "tags": ["oxen", "children", "brethren", "childre + en"],
     "examples": [
-      { "en": "Can you give me some information about the trains?", "pl": "Czy możesz podać mi trochę informacji o pociągach?" },
-      { "en": "This furniture is very old.", "pl": "Te meble są bardzo stare." },
-      { "en": "She gave me some good advice.", "pl": "Dała mi dobrą radę." },
-      { "en": "The news was surprising.", "pl": "Wiadomości były zaskakujące." }
+      { "en": "The farmer used a team of oxen to plough the heavy clay soil.", "pl": "Rolnik użył zaprzęgu wołów, żeby zaorać ciężką gliniastą glebę." },
+      { "en": "All the children in the class were given new books.", "pl": "Wszystkie dzieci w klasie dostały nowe książki." },
+      { "en": "The abbot addressed the assembled brethren before evening prayer.", "pl": "Opat zwrócił się do zgromadzonych braci przed wieczorną modlitwą." },
+      { "en": "Historically, 'eyen' and 'shoon' were the plurals of eye and shoe — long before 'eyes' and 'shoes' took over.", "pl": "Historycznie 'eyen' i 'shoon' były liczbą mnogą od eye i shoe — na długo zanim przejęły ją 'eyes' i 'shoes'." }
     ]
   },
   {
-    "id": "countable_vs_uncountable",
+    "id": "zero_plurals",
     "order": 4,
-    "nameEn": "Countable vs uncountable",
-    "namePl": "Policzalne a niepoliczalne",
+    "nameEn": "Zero plurals: sheep, deer, aircraft and the logic of the undifferentiated herd",
+    "namePl": "Liczba mnoga zerowa: sheep, deer, aircraft i logika niepoliczonego stada",
     "rules": [
-      { "label": "Ten sam wyraz, inne znaczenie", "text": "Niektóre słowa są niepoliczalne w jednym znaczeniu, a policzalne w innym: paper (papier) vs a paper (gazeta/artykuł), hair (włosy jako całość) vs a hair (pojedynczy włos)" },
-      { "label": "many / much", "text": "Z rzeczownikami policzalnymi w liczbie mnogiej używamy many, a z niepoliczalnymi much (How many books? / How much water?)" },
-      { "label": "a few / a little", "text": "Z policzalnymi używamy a few, a z niepoliczalnymi a little (a few friends / a little time)" }
+      {
+        "label": "Trzecia staroangielska deklinacja: rzeczowniki nijakie bez żadnej końcówki mnogiej",
+        "text": "Obok deklinacji męskiej (na -as, dziś -s) i słabej (na -an, dziś -en) staroangielski miał też rzeczowniki nijakie krótkosylabowe (neuter a-stems), których mianownik i biernik liczby mnogiej były IDENTYCZNE z liczbą pojedynczą — bez żadnej dodanej litery: scēap (owca) → scēap, dēor (zwierzę/jeleń) → dēor. Sheep i deer nie są więc 'wyjątkami bez formy mnogiej' — są regularnymi kontynuacjami wzorca, który sam w sobie nigdy nie miał odrębnej końcówki liczby mnogiej. To trzecia, obok -s i -en, żywa niegdyś klasa fleksyjna — po prostu jej 'regułą' było dodawanie zera."
+      },
+      {
+        "label": "Dlaczego akurat zwierzęta łowne/hodowlane najczęściej mają zero-plural",
+        "text": "Nie jest przypadkiem, że lista zero-plurali w dużej mierze pokrywa się ze zwierzętami będącymi tradycyjnym obiektem polowania lub hodowli stadnej: sheep, deer, moose, salmon, trout, grouse (ale UWAGA: nie wszystkie zwierzęta — cow/cows, pig/pigs są regularne). Poza czysto historycznym pochodzeniem fleksyjnym działa tu też wtórna logika pojęciowa: w kontekście łowieckim czy pasterskim liczy się STAN (ilość mięsa/sztuk w stadzie jako zasób), a nie indywidualna tożsamość pojedynczego zwierzęcia — językowo 'upodabnia się' to bardziej do niepoliczalnej masy (jak 'much game', 'a lot of livestock') niż do zbioru odrębnych jednostek. Ta konceptualizacja wzmacniała i utrwalała historyczną formę zerową nawet tam, gdzie inne rzeczowniki z tej samej starej klasy dawno przeszły na regularne -s."
+      },
+      {
+        "label": "fish: rozdwojenie na 'gatunek/stado' vs 'osobniki różnych gatunków'",
+        "text": "Fish jako liczba mnoga zerowa (I caught three fish) opisuje wiele sztuk TEGO SAMEGO gatunku, traktowanych jako połów/zasób. Forma regularna fishes pojawia się tylko wtedy, gdy mówimy o różnych GATUNKACH ryb rozpatrywanych jako odrębne kategorie biologiczne (the fishes of the Amazon = różne gatunki ryb Amazonki, temat naukowy/encyklopedyczny) — to rzadkie, wyspecjalizowane użycie kontrastujące 'stado' z 'katalogiem gatunków'."
+      },
+      {
+        "label": "Nowa, produktywna gałąź: rzeczowniki na -craft",
+        "text": "Aircraft, spacecraft, hovercraft nie mają żadnych staroangielskich korzeni w tej funkcji (craft w znaczeniu 'statek/pojazd' to stosunkowo nowe, XX-wieczne rozszerzenie znaczenia słowa 'rzemiosło/umiejętność'), a mimo to przyjęły liczbę mnogą zerową (two aircraft, several spacecraft) — przez analogię do już istniejącego wzorca 'craft' = 'statek' (l.poj. i l.mn. identyczne od średniowiecza, gdy 'craft' oznaczało 'statek' jako 'wytwór rzemiosła'). To dowód, że zero-plural, mimo iż wywodzi się z martwej dziś klasy fleksyjnej, wciąż potrafi być produktywnie 'eksportowany' na nowe słowa przez analogię formalną, a nie tylko dziedziczony wprost."
+      },
+      {
+        "label": "species, series: zero-plural bez żadnych staroangielskich korzeni",
+        "text": "Species i series są zapożyczeniami łacińskimi (nie mają nic wspólnego z germańską klasą nijaką) — ich niezmienność w liczbie mnogiej wynika z zupełnie innej przyczyny: w łacinie oba słowa kończyły się na -ēs już w mianowniku liczby pojedynczej piątej deklinacji, więc angielski po prostu 'nie miał gdzie' dodać kolejnego -s bez tworzenia niewymawialnego zbitku — i tak forma pozostała formalnie identyczna w obu liczbach (a species, several species)."
+      }
     ],
     "usage": [
-      "Rozróżnienie decyduje o wyborze przedimka, liczebnika i kwantyfikatora (many/much, a few/a little)",
-      "Kontekst zdania pokazuje, czy dane słowo jest w danym momencie policzalne czy niepoliczalne",
-      "Błędne przypisanie policzalności to jeden z najczęstszych błędów Polaków uczących się angielskiego (np. informations, advices — formy niepoprawne)"
+      "sheep, deer, moose, salmon, trout — zwierzęta łowne/hodowlane, liczba i czasownik rozpoznawane wyłącznie z kontekstu: One sheep was missing. / All the sheep were counted.",
+      "aircraft, spacecraft, hovercraft — nowoczesna, produktywna gałąź zero-plural przez analogię do 'craft' = statek",
+      "fish (stado/połów tego samego gatunku) vs fishes (różne gatunki, rejestr naukowy) — rzadki przykład kontrastu znaczeniowego niesionego wyłącznie przez wybór formy liczby mnogiej",
+      "species, series, means, headquarters — zero-plural z zupełnie innej (łacińskiej/romańskiej) przyczyny historycznej niż sheep/deer, mimo identycznego efektu powierzchniowego"
     ],
-    "tags": ["a paper", "much water", "a few friends", "a little time"],
+    "tags": ["one sheep, two sheep", "aircraft", "fish vs fishes", "a species, several species"],
     "examples": [
-      { "en": "I found a hair in my soup.", "pl": "Znalazłem włos w mojej zupie." },
-      { "en": "How much water do we have left?", "pl": "Ile wody nam zostało?" },
-      { "en": "She has a few close friends.", "pl": "Ma kilku bliskich przyjaciół." },
-      { "en": "We have very little time before the train leaves.", "pl": "Mamy bardzo mało czasu, zanim odjedzie pociąg." }
+      { "en": "The farmer counted two hundred sheep before dusk.", "pl": "Rolnik policzył dwieście owiec przed zmrokiem." },
+      { "en": "Three military aircraft were spotted crossing the border.", "pl": "Zauważono trzy samoloty wojskowe przekraczające granicę." },
+      { "en": "The lake is full of trout, but we didn't catch a single fish today.", "pl": "Jezioro jest pełne pstrągów, ale dzisiaj nie złapaliśmy ani jednej ryby." },
+      { "en": "This encyclopedia describes over three hundred fishes native to the Amazon basin.", "pl": "Ta encyklopedia opisuje ponad trzysta gatunków ryb występujących w dorzeczu Amazonki." }
+    ]
+  },
+  {
+    "id": "mass_count_conceptual",
+    "order": 5,
+    "nameEn": "The mass/count distinction as a way of conceptualising reality, not physics",
+    "namePl": "Podział na policzalne i niepoliczalne jako sposób konceptualizacji rzeczywistości, nie fizyka",
+    "rules": [
+      {
+        "label": "Kluczowy błąd w myśleniu o tym temacie: to nie fizyka decyduje, tylko gramatyka",
+        "text": "Intuicja podpowiada, że 'policzalność' powinna wynikać z tego, czy dana rzecz fizycznie składa się z odrębnych sztuk. To fałszywy trop. Furniture (meble) fizycznie SKŁADA SIĘ z odrębnych, policzalnych przedmiotów (krzesło, stół, szafa) — a mimo to w angielskim jest niepoliczalne (nie ma liczby mnogiej, nie łączy się z 'a'). Innymi słowy: countable/uncountable to etykieta GRAMATYCZNA nadana danej koncepcji przez dany język, a nie odbicie obiektywnej struktury świata. Ten sam fragment rzeczywistości różne języki 'pakują' inaczej: polski indywidualizuje 'meble' (rzeczownik pluralny, ale jednak z liczbą — mebel/meble), angielski traktuje 'furniture' jako jednolitą, nieindywidualizowaną kategorię pojęciową, podobną raczej do 'wyposażenia' czy 'substancji' niż do zbioru przedmiotów."
+      },
+      {
+        "label": "Model myślowy: 'granica' kontra 'ciągłość'",
+        "text": "Najlepszy sposób myślenia o tej różnicy to wyobrazić sobie każdy rzeczownik jako mający (lub nie) WYRAŹNĄ, WEWNĘTRZNĄ GRANICĘ w umyśle mówiącego. Rzeczownik policzalny (a chair, a book) to pojęcie z jasną granicą: da się jednoznacznie wskazać, gdzie jeden egzemplarz się kończy, a zaczyna kolejny — stąd sensowne jest pytanie 'ile?' (how many). Rzeczownik niepoliczalny (water, furniture, advice, information) to pojęcie BEZ takiej wewnętrznej granicy — jest traktowane jak jednorodna, ciągła 'masa' czy 'substancja pojęciowa', którą można tylko mierzyć objętościowo/ilościowo (how much), a nie liczyć sztukami. Woda pozostaje 'wodą', niezależnie od tego, czy podzielimy ją na krople, szklanki czy oceany — stąd 'water' nigdy nie ma naturalnej liczby mnogiej."
+      },
+      {
+        "label": "Dlaczego akurat te kategorie są niepoliczalne w angielskim: trzy powtarzające się wzorce",
+        "text": "1) Substancje i materiały bez naturalnych granic (water, sand, rice, bread, butter — nawet jeśli fizycznie 'ziarnko po ziarnku' dałoby się je policzyć, umysł nie kategoryzuje ich jako zbioru odrębnych sztuk, tylko jako materię); 2) pojęcia abstrakcyjne (love, happiness, knowledge, advice — z definicji nie mają fizycznych granic, więc nie mogą mieć liczby mnogiej w sensie dosłownym); 3) rzeczowniki 'zbiorcze-jednostkowe', które nazywają CAŁĄ KATEGORIĘ funkcjonalną, a nie pojedynczy przedmiot (furniture = 'to, co służy umeblowaniu', niezależnie od liczby mebli; luggage/baggage = 'to, co się pakuje w podróż'; equipment = 'to, czym się coś robi'). Ta trzecia kategoria jest źródłem największej liczby błędów Polaków, bo polskie odpowiedniki (mebel, bagaż, sprzęt) są policzalne."
+      },
+      {
+        "label": "Konsekwencja gramatyczna: brak 'a/an', liczba pojedyncza czasownika, inne kwantyfikatory",
+        "text": "Ponieważ 'a/an' historycznie wywodzi się z liczebnika 'one' (staroangielskie ān), z definicji nie może poprzedzać rzeczownika, który nie ma pojedynczych, policzalnych egzemplarzy — dlatego 'an information', 'a furniture' są gramatycznie sprzeczne wewnętrznie, a nie tylko 'niepoprawne z reguły'. Z tego samego powodu niepoliczalne zawsze wymuszają czasownik w liczbie pojedynczej (The news IS good, nie 'are') oraz inny zestaw kwantyfikatorów: much/little/a bit of/a great deal of zamiast many/few/a number of."
+      },
+      {
+        "label": "Jednostki miary jako 'sztuczne granice' nakładane na masę",
+        "text": "Żeby policzyć rzeczownik niepoliczalny, angielski (podobnie jak polski zresztą) musi 'pożyczyć' sztuczną, umowną jednostkę miary, która sama w sobie JEST policzalna: a piece of information, a bit of advice, an item of furniture, a loaf of bread, a grain of rice. To dokładnie ten sam mechanizm poznawczy, co polskie 'sztuka mebla' czy 'kawałek rady' — dowód, że obie strony językowe czują tę samą podstawową różnicę pojęciową (masa vs. jednostka), tylko inaczej rozstawiają granicę między nimi dla konkretnych słów."
+      }
+    ],
+    "usage": [
+      "information, advice, furniture, luggage, equipment, news, progress, research, homework — klasyczna lista 'fałszywych przyjaciół' niepoliczalności (w polskim ich odpowiedniki są policzalne)",
+      "Zawsze czasownik w liczbie pojedynczej: The furniture IS new. / The news WAS shocking.",
+      "Kwantyfikacja przez jednostkę miary: two pieces of advice, three items of luggage, a great deal of information",
+      "much/little (niepoliczalne) kontra many/few (policzalne) — to nie jest osobna reguła do zapamiętania, tylko bezpośrednia konsekwencja podziału na 'masę' i 'granice' opisanego wyżej"
+    ],
+    "tags": ["furniture is", "a piece of advice", "much information", "an item of luggage"],
+    "examples": [
+      { "en": "We need some new furniture for the living room — maybe a sofa and two chairs.", "pl": "Potrzebujemy nowych mebli do salonu — może kanapy i dwóch krzeseł." },
+      { "en": "Could you give me one piece of advice before the interview?", "pl": "Czy mógłbyś dać mi jedną radę przed rozmową kwalifikacyjną?" },
+      { "en": "All of my luggage was searched at the airport.", "pl": "Cały mój bagaż został przeszukany na lotnisku." },
+      { "en": "There has been a lot of progress on the project this month.", "pl": "W tym miesiącu było dużo postępów w projekcie." }
+    ]
+  },
+  {
+    "id": "count_uncount_shift",
+    "order": 6,
+    "nameEn": "Coercion: turning a substance into an instance (a coffee, hairs, papers)",
+    "namePl": "Przesunięcie znaczeniowe: zamiana substancji w egzemplarz (a coffee, hairs, papers)",
+    "rules": [
+      {
+        "label": "Ta sama koncepcja może być 'zapakowana' na dwa sposoby na raz",
+        "text": "Skoro (jak pokazano w poprzednim temacie) policzalność to kwestia konceptualizacji, a nie fizyki, to naturalnie wynika z tego, że TO SAMO słowo można 'przepakować' z substancji na jednostkę (lub odwrotnie), jeśli tylko zmienimy sposób patrzenia na dany fragment rzeczywistości. Ta operacja nazywana jest w językoznawstwie kognitywnym 'przymusowym przesunięciem' (coercion) — słowo formalnie 'zmusza się' do przyjęcia innej roli gramatycznej niż jego domyślna."
+      },
+      {
+        "label": "Kierunek 1 — substancja staje się 'rodzajem' lub 'porcją' (uncountable → countable)",
+        "text": "'Coffee' jako niepoliczalna substancja to napój w ogóle (I love coffee). Ale 'a coffee' / 'two coffees' oznacza JEDNOSTKOWĄ PORCJĘ tej substancji (zamówienie w kawiarni: Two coffees, please = dwie filiżanki/kubki kawy) albo, w kontekście gastronomicznym, ODMIANĘ (This café serves three different coffees = trzy rodzaje kawy w menu). Ten sam mechanizm działa dla niemal każdego napoju i dania: a beer, two waters, a cheese (rodzaj sera), a wine (kieliszek lub odmiana wina) — umysł automatycznie 'wycina' z ciągłej substancji jedną, umowną, wystandaryzowaną porcję lub kategorię i traktuje ją jak przedmiot policzalny."
+      },
+      {
+        "label": "Kierunek 2 — pojedynczy przedmiot staje się 'materiałem' (countable → uncountable)",
+        "text": "Odwrotny kierunek również istnieje, choć rzadziej: 'chicken' jako zwierzę jest policzalne (a chicken pecking in the yard), ale jako mięso na talerzu staje się niepoliczalną substancją (I had chicken for dinner, nie 'a chicken'), bo w tym kontekście nie liczymy sztuk zwierzęcia, tylko myślimy o mięsie jak o materiale/substancji spożywczej — dokładnie tak jak przy 'beef', 'lamb', 'pork' (notabene te trzy to francuskie zapożyczenia z czasów normańskich, oddzielone od rodzimych nazw żywych zwierząt cow/sheep/pig — inny, ale pokrewny przykład tego, jak angielski systematycznie rozróżnia 'żywe zwierzę' od 'mięsa na stole')."
+      },
+      {
+        "label": "'Hair', 'paper', 'iron', 'glass', 'light' — cała rodzina par znaczeniowych",
+        "text": "hair (niepoliczalne: włosy na głowie jako całość) / a hair (policzalne: pojedynczy włos, np. znaleziony w zupie); paper (substancja: papier jako materiał) / a paper (policzalne: gazeta, artykuł naukowy, egzamin pisemny — konkretny, ograniczony 'kawałek' tekstu na papierze); iron (metal) / an iron (żelazko — konkretny przedmiot zrobiony z tego metalu, oraz kij golfowy); glass (szkło jako materiał) / a glass (szklanka — przedmiot z tego materiału); light (światło jako zjawisko fizyczne) / a light (lampa, światełko — konkretne źródło). We wszystkich tych parach forma niepoliczalna nazywa 'materię/zjawisko w ogóle', a forma policzalna — konkretny, wyodrębniony obiekt lub egzemplarz powstały z tej materii albo będący jej jednostką."
+      },
+      {
+        "label": "Praktyczna wskazówka: pytaj nie 'czym to JEST', tylko 'JAK o tym myślę w tym zdaniu'",
+        "text": "Nie ma sensu pytać w oderwaniu od kontekstu: 'czy paper jest policzalne?' — trzeba zapytać: czy w TEJ konkretnej wypowiedzi myślę o papierze jako o materiale (I need some paper to wrap this) czy jako o konkretnym, wyodrębnionym dokumencie/egzemplarzu (I wrote a paper on climate change / I bought a paper at the newsstand)? To pytanie o perspektywę mówiącego w danej chwili, nie o stałą, wrodzoną cechę słowa."
+      }
+    ],
+    "usage": [
+      "Zamawianie w kawiarni/restauracji: Two coffees and a tea, please. / Could we have three waters?",
+      "chicken/beef/lamb/pork (mięso, niepoliczalne) vs a chicken/a lamb (żywe zwierzę, policzalne) — konsekwentna francusko-normańska dwutorowość nazw mięsa i zwierząt",
+      "a hair (jeden włos, np. w jedzeniu) vs hair (włosy na głowie ogółem) — different scope, ta sama etykieta",
+      "a paper (artykuł/gazeta/egzamin) vs paper (materiał) — kontekst rozstrzyga jednoznacznie"
+    ],
+    "tags": ["two coffees", "a hair in my soup", "I had chicken", "I wrote a paper"],
+    "examples": [
+      { "en": "Could we have two coffees and a glass of water, please?", "pl": "Czy możemy prosić o dwie kawy i szklankę wody?" },
+      { "en": "I found a hair in my soup and lost my appetite completely.", "pl": "Znalazłem włos w mojej zupie i zupełnie straciłem apetyt." },
+      { "en": "We had lamb for Sunday lunch, roasted with rosemary and garlic.", "pl": "Na niedzielny obiad mieliśmy jagnięcinę, pieczoną z rozmarynem i czosnkiem." },
+      { "en": "She's writing a paper on the economic effects of remote work.", "pl": "Pisze artykuł naukowy o ekonomicznych skutkach pracy zdalnej." }
+    ]
+  },
+  {
+    "id": "compound_plurals",
+    "order": 7,
+    "nameEn": "Pluralising compounds: which part carries the plural, and why",
+    "namePl": "Liczba mnoga w wyrazach złożonych: który człon ją niesie i dlaczego",
+    "rules": [
+      {
+        "label": "Ogólna zasada: pluralizuje się semantyczne jądro (head), nie ostatnie słowo",
+        "text": "Domyślnie w angielskim liczbę mnogą oznacza się na końcu wyrazu, bo tam zwykle znajduje się rzeczownik-jądro (head noun) całej frazy: 'bookshelf' → jądrem jest 'shelf' (rodzaj rzeczy), więc 'bookshelves'. Ale w wielu wyrażeniach dwuczłonowych — zwłaszcza tych zbudowanych na wzorzec [rzeczownik] + [przyimek/przymiotnik dookreślający] — jądro semantyczne wcale nie stoi na końcu, tylko na początku, i to WŁAŚNIE ono przyjmuje końcówkę liczby mnogiej: mother-in-law → mothers-in-law (bo 'mother' jest rzeczą, o której mowa — 'in-law' tylko ją dookreśla, kim jest); passer-by → passers-by (osoba, która 'passes by' — jądro to 'passer', 'by' to tylko przysłówek kierunku); court martial → courts martial (sąd, który jest 'martial' = wojskowy — szyk przymiotnik-po-rzeczowniku odziedziczony wprost z francuskiego, gdzie przymiotniki zwykle stoją po rzeczowniku, np. cour martiale)."
+      },
+      {
+        "label": "Skąd ten 'odwrócony' szyk: wpływ francuskiego po podboju normańskim",
+        "text": "Wyrażenia typu court martial, attorney general, notary public, poet laureate to bezpośrednie zapożyczenia struktury francuskiej (przymiotnik po rzeczowniku), wprowadzone do angielskiego prawa, administracji i tytulatury po 1066 roku, kiedy językiem sądów, dworu i biurokracji przez kilka stuleci był anglo-normański francuski. Angielski zwykle stawia przymiotnik PRZED rzeczownikiem (a martial court byłoby 'naturalnym' szykiem rodzimym) — ale te terminy prawnicze/oficjalne zamroziły francuski szyk jako część swojej formalnej, 'importowanej' tożsamości, a wraz z szykiem zamroziła się też logika pluralizacji: liczbę mnogą i tak niesie rzeczownik, niezależnie od tego, gdzie stoi w zdaniu."
+      },
+      {
+        "label": "Kiedy 'zwykłe' -s na końcu jest jednak poprawne",
+        "text": "Nie każdy compound zachowuje się jak court martial. Gdy złożenie jest już na tyle 'stopione' semantycznie, że mówiący przestali analizować jego wewnętrzną strukturę (nie myślimy już świadomie 'grown' + 'up' jako dwa osobne elementy), liczba mnoga wraca do zwykłego wzorca końcowego: grown-ups, check-ins, break-ins, close-ups, run-ups — bo w tych przypadkach żaden z dwóch członów pojedynczo nie jest już postrzegany jako 'jądro rzeczownikowe' silniejsze od całości. Podobnie zamknięte złożenia pisane łącznie (housewife → housewives, spoonful → spoonfuls/spoonsful) idą zwykle na końcu, choć spoonful akurat dopuszcza obie formy — ślad niepewności między starą logiką (spoon-jądro) a nową (spoonful jako jedno słowo)."
+      },
+      {
+        "label": "Rejestr rozstrzyga wątpliwości",
+        "text": "Tam, gdzie współistnieją obie możliwe formy (attorneys general / attorney generals; spoonfuls / spoonsful), forma z pluralizowanym pierwszym członem jest zwykle uznawana za bardziej staranną/formalną (prawniczą, encyklopedyczną), a forma z -s na końcu — za potoczniejszą i coraz częstszą wskutek naturalnego nacisku analogii do dominującego wzorca 'liczba mnoga na końcu wyrazu'. To żywy proces zmiany językowej w toku, nie zamknięta reguła."
+      }
+    ],
+    "usage": [
+      "Rodzinne/społeczne złożenia z -in-law: mother-in-law → mothers-in-law, brother-in-law → brothers-in-law",
+      "Osoby-czynności z przyimkiem: passer-by → passers-by, runner-up → runners-up, looker-on → lookers-on",
+      "Terminy prawnicze/oficjalne dziedziczone z francuskiego: court martial → courts martial, attorney general → attorneys general, notary public → notaries public",
+      "Złożenia w pełni 'stopione' idą na końcu: grown-up → grown-ups, check-in → check-ins, close-up → close-ups"
+    ],
+    "tags": ["mothers-in-law", "passers-by", "courts martial", "grown-ups"],
+    "examples": [
+      { "en": "Both of my brothers-in-law came to the wedding.", "pl": "Obaj moi szwagrowie przyjechali na wesele." },
+      { "en": "Several passers-by stopped to help after the accident.", "pl": "Kilku przechodniów zatrzymało się, żeby pomóc po wypadku." },
+      { "en": "The two soldiers were tried before separate courts martial.", "pl": "Obaj żołnierze byli sądzeni przed osobnymi sądami wojskowymi." },
+      { "en": "The grown-ups talked in the kitchen while the kids watched a film.", "pl": "Dorośli rozmawiali w kuchni, podczas gdy dzieci oglądały film." }
     ]
   }
 ]
