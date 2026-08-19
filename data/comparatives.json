@@ -5,23 +5,31 @@
     "nameEn": "Comparative & superlative of short adjectives",
     "namePl": "Stopień wyższy i najwyższy krótkich przymiotników",
     "rules": [
-      { "label": "-er / -est", "text": "Przymiotniki jednosylabowe: dodajemy -er (comparative) i -est (superlative) — tall → taller → the tallest" },
-      { "label": "Spółgłoska + y", "text": "Przymiotniki dwusylabowe zakończone na spółgłoskę + y: y → i + -er/-est — happy → happier → the happiest" },
-      { "label": "Podwojenie spółgłoski", "text": "Krótka samogłoska + jedna spółgłoska na końcu: podwajamy spółgłoskę — big → bigger → the biggest" },
-      { "label": "Nieme e", "text": "Przymiotnik kończy się na -e: dodajemy tylko -r/-st — nice → nicer → the nicest" }
+      {
+        "label": "Budowa",
+        "text": "Przymiotniki jednosylabowe: -er / -est (tall → taller → the tallest). Dwusylabowe zakończone na spółgłoskę + y: y → i + -er/-est (happy → happier → the happiest). Krótka samogłoska + jedna spółgłoska na końcu: podwajamy spółgłoskę (big → bigger → the biggest). Przymiotnik kończący się na nieme -e: dodajemy tylko -r/-st (nice → nicer → the nicest)."
+      },
+      {
+        "label": "Geneza: skamielina wspólnoindoeuropejskiego znacznika",
+        "text": "Końcówka -er nie jest angielskim wynalazkiem, tylko jedynym ocalałym w dzisiejszej angielszczyźnie odłamkiem znacznie starszego mechanizmu. Praindoeuropejski miał przyrostek *-yos-/*-is- do tworzenia stopnia wyższego, który w językach germańskich rozwinął się w *-izô (comparative) i *-istaz (superlative) — te same prasłowa dały początek staroangielskiemu -ra i -ost, z których przez regularną redukcję nieakcentowanych końcówek w średnioangielskim powstały dzisiejsze -er i -est. Ten sam prapraindoeuropejski rdzeń, inną drogą, dał też łacińskie -ior (superior, maior) i grecki przyrostek -ion. Kiedy więc mówisz 'bigger', używasz żywej, choć mocno przetworzonej fonetycznie, wersji przyrostka sprzed kilku tysięcy lat."
+      },
+      {
+        "label": "Dlaczego akurat krótkie słowa — fonologia, nie kaprys",
+        "text": "Angielski, jak wszystkie języki germańskie, kładzie silny akcent na pierwszą sylabę rdzenia wyrazu. Dołożenie jednej dodatkowej sylaby (-er, -est) do krótkiego, jedno- lub dwusylabowego słowa nie zaburza tego rytmu: TALL-er, HAP-pi-er. Ale przy słowie trzy- czy czterosylabowym przyrostek tworzyłby ciężki, nienaturalny stos sylab z akcentem oderwanym od końca słowa (be-ĄU-ti-ful-er nie istnieje właśnie dlatego) — stąd naturalna granica długości, po przekroczeniu której język 'wybiera' inną strategię, opisaną w kolejnym temacie."
+      }
     ],
     "usage": [
       "Comparative + than porównuje dwie rzeczy (She is taller than her brother.)",
       "Superlative z the wskazuje jedną rzecz jako najbardziej ekstremalną w grupie (He is the tallest boy in the class.)",
-      "Dotyczy przymiotników 1-sylabowych oraz 2-sylabowych zakończonych na -y, -er, -ow, -le",
+      "Dotyczy przymiotników 1-sylabowych oraz 2-sylabowych zakończonych na -y, -er, -ow, -le (np. clever, narrow, simple) — to właśnie te końcówki brzmią dla ucha rodzimego użytkownika 'lekko', więc tolerują dodatkową sylabę",
       "W ćwiczeniach wpisuj samą formę (np. taller, the tallest) bez dodatkowych słów"
     ],
-    "tags": ["taller", "the biggest", "happier", "the nicest"],
+    "tags": ["taller", "the biggest", "happier", "the nicest", "Proto-Indo-European"],
     "examples": [
       { "en": "This bag is bigger than that one.", "pl": "Ta torba jest większa niż tamta." },
       { "en": "She is the happiest person I know.", "pl": "Ona jest najszczęśliwszą osobą, jaką znam." },
-      { "en": "Today is hotter than yesterday.", "pl": "Dziś jest goręcej niż wczoraj." },
-      { "en": "This is the nicest hotel in town.", "pl": "To najładniejszy hotel w mieście." }
+      { "en": "Today is hotter than yesterday, and it's only nine in the morning.", "pl": "Dziś jest goręcej niż wczoraj, a jest dopiero dziewiąta rano." },
+      { "en": "This is the nicest hotel we've stayed in on this trip.", "pl": "To najładniejszy hotel, w którym się zatrzymaliśmy w tej podróży." }
     ]
   },
   {
@@ -30,20 +38,35 @@
     "nameEn": "Comparative & superlative of long adjectives",
     "namePl": "Stopień wyższy i najwyższy długich przymiotników",
     "rules": [
-      { "label": "more / most", "text": "Przymiotniki 2+ sylab (poza kończącymi się na -y): more + przymiotnik (comparative), the most + przymiotnik (superlative) — expensive → more expensive → the most expensive" },
-      { "label": "less / least", "text": "Formę malejącą tworzymy przez less / the least — interesting → less interesting → the least interesting" }
+      {
+        "label": "Budowa",
+        "text": "Przymiotniki 2+ sylab (poza kończącymi się na -y): more + przymiotnik (comparative), the most + przymiotnik (superlative) — expensive → more expensive → the most expensive. Formę malejącą tworzymy przez less / the least — interesting → less interesting → the least interesting."
+      },
+      {
+        "label": "Geneza: staroangielski nie znał peryfrazy",
+        "text": "To zaskakujące, ale staroangielski w ogóle nie miał opcji 'more + przymiotnik' — KAŻDY przymiotnik, niezależnie od długości, stopniował się przyrostkiem, tak jak dziś 'tall'. Peryfrastyczne 'more/most' zaczęło się upowszechniać dopiero w średnioangielskim, w wieku bezpośrednio po podboju normandzkim (1066), gdy do angielskiego napłynęły tysiące wielosylabowych zapożyczeń z francuskiego i łaciny — beautiful, difficult, important, expensive, generous. Te słowa przyszły 'bez fabrycznie wbudowanej' rodzimej fleksji i, jak wyjaśnia poprzedni temat, fonetycznie źle znosiły dołożenie -er/-est. Mówiący sięgnęli więc po istniejące już słowo 'more' (od staroangielskiego 'māra', comparative od 'much/many') i użyli go jako osobnej, wolnostojącej cząstki porównawczej — strategia, która przypadkiem (a może nie do końca przypadkiem, biorąc pod uwagę, że te właśnie słowa przyszły z francuskiego 'plus + przymiotnik') zgadzała się z analitycznym wzorcem porównań w starofrancuskim."
+      },
+      {
+        "label": "Granica płynna aż do XVIII wieku",
+        "text": "Podział na 'krótkie -er' i 'długie more' nie był przez wieki tak sztywny, jak dziś się go naucza. U Szekspira i innych autorów wczesnonowoangielskich znajdziemy zarówno 'more fair' obok 'fairer', jak i podwójne formy typu 'more better' czy 'the most unkindest cut of all' (Juliusz Cezar) — w tamtym czasie wzmacnianie stopnia wyższego obiema metodami naraz nie było błędem, tylko dopuszczalnym środkiem emfazy. Dopiero XVIII-wieczni gramatycy normatywni (m.in. Robert Lowth), inspirowani logiką matematyczną, uznali podwójne znakowanie za 'nadmiarowe' i skodyfikowali dzisiejszą zasadę rozłączności: albo przyrostek, albo 'more', nigdy oba naraz. Ślad dawnej swobody przetrwał do dziś w utrwalonych zwrotach i mowie potocznej niektórych dialektów — temat rozwinięty osobno w 'Podwójne stopniowanie'."
+      },
+      {
+        "label": "less / least jako lustrzane odbicie",
+        "text": "less i least to jedyna 'malejąca' strona tej samej peryfrastycznej monety — nie mają one żadnego przyrostkowego odpowiednika (nie istnieje 'expensiver w dół'), bo w angielskim nigdy nie rozwinął się osobny sufiks zmniejszający, jedynie zwiększający."
+      }
     ],
     "usage": [
       "Stosowane do przymiotników wielosylabowych, np. beautiful, difficult, expensive, interesting",
-      "more/the most dotyczy też niektórych przymiotników 2-sylabowych, które nie kończą się na -y, -er, -ow, -le (np. modern, famous)",
-      "less/the least jest przeciwieństwem more/the most — pokazuje mniejsze natężenie cechy"
+      "more/the most dotyczy też niektórych przymiotników 2-sylabowych, które nie kończą się na -y, -er, -ow, -le (np. modern, famous, careful)",
+      "less/the least jest przeciwieństwem more/the most — pokazuje mniejsze natężenie cechy, nie brak przeciwieństwa (less interesting ≠ boring, tylko 'w mniejszym stopniu interesujący')",
+      "W formalnym, pisanym rejestrze 'more/most' bywa też używane z krótkimi przymiotnikami dla emfazy retorycznej (This is more true now than ever.) — świadome odstępstwo od reguły, nie błąd"
     ],
-    "tags": ["more expensive", "the most beautiful", "less interesting", "the least difficult"],
+    "tags": ["more expensive", "the most beautiful", "less interesting", "the least difficult", "Norman Conquest"],
     "examples": [
-      { "en": "This phone is more expensive than mine.", "pl": "Ten telefon jest droższy niż mój." },
-      { "en": "It was the most beautiful sunset I've ever seen.", "pl": "To był najpiękniejszy zachód słońca, jaki widziałem." },
-      { "en": "This book is less interesting than the last one.", "pl": "Ta książka jest mniej interesująca niż poprzednia." },
-      { "en": "That was the least difficult exam this year.", "pl": "To był najmniej trudny egzamin w tym roku." }
+      { "en": "This phone is more expensive than mine, but it's also far more reliable.", "pl": "Ten telefon jest droższy niż mój, ale też o wiele bardziej niezawodny." },
+      { "en": "It was the most beautiful sunset I've ever seen, and I've seen plenty.", "pl": "To był najpiękniejszy zachód słońca, jaki widziałem, a widziałem ich sporo." },
+      { "en": "This book is less interesting than the last one, though the ending redeems it.", "pl": "Ta książka jest mniej interesująca niż poprzednia, choć zakończenie ją ratuje." },
+      { "en": "That was, without question, the least difficult exam this year.", "pl": "To był bez wątpienia najmniej trudny egzamin w tym roku." }
     ]
   },
   {
@@ -52,23 +75,35 @@
     "nameEn": "Irregular comparatives & superlatives",
     "namePl": "Nieregularne formy stopnia wyższego i najwyższego",
     "rules": [
-      { "label": "good", "text": "good → better → the best" },
-      { "label": "bad", "text": "bad → worse → the worst" },
-      { "label": "far", "text": "far → further/farther → the furthest/farthest" },
-      { "label": "little", "text": "little → less → the least" },
-      { "label": "many/much", "text": "many/much → more → the most" }
+      {
+        "label": "Zjawisko supletywizmu: dlaczego 'good' nie daje 'gooder'",
+        "text": "Formy takie jak good–better–best nie są 'wyjątkami od reguły' w sensie zepsutej reguły — to przykłady supletywizmu (suppletion): sytuacji, gdy różne formy tego samego paradygmatu gramatycznego pochodzą historycznie z zupełnie różnych, niespokrewnionych rdzeni, które z czasem 'zrosły się' w jedną funkcjonalną całość. Dzieje się tak niemal wyłącznie z najczęściej używanymi, najbardziej podstawowymi słowami języka — a to nie przypadek: rzadkie słowo musi być 'obliczalne' z reguły, bo mówiący nie ma dość okazji, by zapamiętać jego formę osobno, ale słowo używane tysiące razy dziennie (good, bad, go, be) jest zapamiętywane jako całość niezależnie od reguł, więc archaiczne czy wręcz obce formy mogą w nim przetrwać nietknięte całe tysiąclecia. Dokładnie ten sam mechanizm stoi za nieregularnymi czasownikami (be–was–been) omówionymi w temacie 'Czasy'."
+      },
+      {
+        "label": "good/better/best i bad/worse/worst — dwa oddzielne rdzenie",
+        "text": "'Better' i 'best' nie mają nic wspólnego etymologicznie z 'good' — pochodzą od odrębnego praGermańskiego rdzenia *bat- (mniej więcej 'korzyść, poprawa'), spokrewnionego z gockim 'batiza'. 'Worse' i 'worst' z kolei wywodzą się z zupełnie innego rdzenia *wers- ('zamęt, pomieszanie'), niepowiązanego z 'bad' (którego pochodzenie jest zresztą samo w sobie niejasne — to jedno z niewielu podstawowych angielskich słów bez pewnej etymologii). Trzy różne rodziny wyrazów zostały więc przez historię 'sklejone' w jeden paradygmat, bo pełniły uzupełniające się funkcje znaczeniowe."
+      },
+      {
+        "label": "far → further/farther — dwie ścieżki z jednego punktu wyjścia",
+        "text": "Historycznie 'jedynym' prawowitym stopniem wyższym od 'far' jest 'further', wywodzące się od staroangielskiego 'furþra' — spokrewnionego nie z 'far', lecz z 'forth' (naprzód). 'Farther' to XIX-wieczna innowacja ludowo-etymologiczna: mówiący, czując intuicyjny związek znaczeniowy między 'far' i 'further', przekształcili to drugie przez analogię, wstawiając w nie -a-, by wizualnie i fonetycznie 'przypominało' o 'far'. Dziś część użytkowników (głównie w Ameryce Północnej) utrzymuje rozróżnienie: farther dla dosłownej odległości fizycznej, further dla znaczeń przenośnych i abstrakcyjnych (further information, further notice) — ale to rozróżnienie jest stosunkowo świeże i niekonsekwentnie przestrzegane."
+      },
+      {
+        "label": "old/elder i late/latter — gdy jeden wyraz rozszczepia się na dwa",
+        "text": "Staroangielskie 'eald' (old) tworzyło regularny stopień wyższy przez i-umlaut: przyrostek -ira wywoływał w rdzeniu przesunięcie samogłoski, dając 'ieldra' → 'elder'. Z czasem, gdy system i-umlautu przestał być produktywny, mówiący zaczęli też tworzyć nową, w pełni regularną formę 'older' na wzór innych przymiotników — i obie formy przetrwały równolegle, dzieląc się semantycznie: 'elder/eldest' skurczyło się do wąskiego znaczenia starszeństwa w rodzinie i hierarchii (my elder brother, the elders of the village), a 'older/oldest' przejęło wszystkie pozostałe, dosłowne konteksty wieku. Dokładnie ten sam mechanizm — jeden historyczny rdzeń, dwie współczesne formy o rozbieżnych znaczeniach — rozdzielił 'late' na 'later/latest' (kolejność w czasie: the latest news) oraz 'latter/last' (finalność lub uprzednia wzmianka: the latter option, the last chapter)."
+      }
     ],
     "usage": [
-      "Te przymiotniki i przysłówki nie tworzą stopnia wyższego/najwyższego regularnie — formy trzeba zapamiętać",
-      "far ma dwie równoległe formy: further/farther (odległość fizyczna) oraz further też w znaczeniu 'dodatkowy'",
-      "little (niepoliczalne, ilość) różni się od small (rozmiar), które stopniuje się regularnie: small → smaller → the smallest"
+      "Te przymiotniki i przysłówki nie tworzą stopnia wyższego/najwyższego regularnie — formy trzeba zapamiętać jako całe, oddzielne słowa, nie 'wyprowadzać' z reguły",
+      "elder/eldest ograniczone są niemal wyłącznie do relacji rodzinnych i stoją zawsze przed rzeczownikiem (my elder sister), nie po 'be' w prostym porównaniu — tam obowiązuje older (She is older than me, nie She is elder than me)",
+      "latter kontrastuje z former (the former option... the latter one) i nie ma dziś funkcji porównawczej w sensie 'bardziej opóźniony' — to osobne znaczenie 'ten drugi z dwóch wymienionych'",
+      "little (niepoliczalne, ilość) różni się od small (rozmiar), które stopniuje się regularnie: small → smaller → the smallest; 'lesser' — fosylna forma little — przetrwała tylko w utartych zwrotach (the lesser evil, a lesser-known fact)"
     ],
-    "tags": ["better", "the worst", "further", "the least"],
+    "tags": ["better", "the worst", "further", "the least", "suppletion", "i-umlaut"],
     "examples": [
-      { "en": "My English is better than it was last year.", "pl": "Mój angielski jest lepszy niż w zeszłym roku." },
-      { "en": "This is the worst movie I've ever seen.", "pl": "To najgorszy film, jaki widziałem." },
-      { "en": "We need to walk a bit further.", "pl": "Musimy przejść jeszcze kawałek dalej." },
-      { "en": "He has the least experience of all the candidates.", "pl": "On ma najmniej doświadczenia ze wszystkich kandydatów." }
+      { "en": "My English is better than it was last year, though far from perfect.", "pl": "Mój angielski jest lepszy niż w zeszłym roku, choć wciąż daleki od doskonałości." },
+      { "en": "This is by far the worst decision the board has made in a decade.", "pl": "To zdecydowanie najgorsza decyzja, jaką zarząd podjął od dekady." },
+      { "en": "We need to walk a bit further before we reach the trailhead.", "pl": "Musimy przejść jeszcze kawałek dalej, zanim dotrzemy do początku szlaku." },
+      { "en": "As the elder of the two brothers, he inherited the family business.", "pl": "Jako starszy z dwóch braci, odziedziczył rodzinny biznes." }
     ]
   },
   {
@@ -77,22 +112,72 @@
     "nameEn": "as...as & comparison of adverbs",
     "namePl": "Konstrukcja as...as oraz stopniowanie przysłówków",
     "rules": [
-      { "label": "as...as", "text": "Wyraża równość: as + przymiotnik/przysłówek + as — She is as tall as her sister." },
-      { "label": "not as...as", "text": "Wyraża brak równości (mniejsze natężenie): not as + przymiotnik + as — This film isn't as good as the book." },
-      { "label": "Przysłówki -ly", "text": "Przysłówki utworzone od przymiotników przez -ly stopniujemy przez more/most — carefully → more carefully → the most carefully" },
-      { "label": "Krótkie przysłówki", "text": "Krótkie przysłówki (fast, hard, early, late) stopniują się jak krótkie przymiotniki: fast → faster → the fastest" }
+      {
+        "label": "Budowa",
+        "text": "Równość: as + przymiotnik/przysłówek + as (She is as tall as her sister.). Brak równości: not as + przymiotnik + as (This film isn't as good as the book.). Przysłówki na -ly stopniujemy przez more/most (carefully → more carefully → the most carefully). Krótkie przysłówki (fast, hard, early, late) stopniują się jak krótkie przymiotniki: fast → faster → the fastest."
+      },
+      {
+        "label": "Geneza: 'as...as' to zdublowane 'tak samo'",
+        "text": "'As' pochodzi od staroangielskiego 'eall swā' (dosłownie 'całkiem tak', 'zupełnie tak samo'), skróconego przez średnioangielskie 'als' do dzisiejszego 'as'. Konstrukcja 'as tall as' to więc, w duchu, dosłownie 'tak wysoki, jak [to] tak' — powtórzenie tego samego elementu porównawczego po obu stronach przymiotnika nie jest przypadkowe: pierwsze 'as' zapowiada stopień, a drugie wprowadza punkt odniesienia, do którego ten stopień się odnosi, dokładnie tak samo jak polskie 'tak... jak'."
+      },
+      {
+        "label": "not as...as kontra not so...as — ślad starszego rejestru",
+        "text": "Starsza, dziś bardziej formalna i literacka wersja przeczenia to 'not so...as' (This isn't so simple as it looks.) — 'so' było historycznie pierwotnym elementem tej konstrukcji (widać to w samej etymologii 'as' jako 'eall swā', gdzie 'swā' to właśnie przodek 'so'), a 'as' w pozycji pierwszej upowszechniło się później przez analogię do zdań twierdzących. Dziś 'not as...as' zdominowało mowę codzienną, ale 'not so...as' wciąż pojawia się w rejestrze pisanym i podniosłym jako świadomy wybór stylistyczny."
+      },
+      {
+        "label": "Przysłówki -ly jako 'długie' formy — ta sama logika co przymiotniki",
+        "text": "Sufiks -ly pochodzi od staroangielskiego rzeczownika 'lic' ('ciało, postać, kształt'), który jako drugi człon złożenia dawał znaczenie 'w kształcie/na wzór czegoś' — 'friendly' to więc pierwotnie 'w kształcie/na sposób przyjaciela'. Ponieważ przysłówek na -ly ZAWSZE dokłada tę sylabę do już istniejącego przymiotnika (careful → carefully), z fonologicznego punktu widzenia zachowuje się jak przymiotnik 'wydłużony o jedną sylabę' — a taki wydłużony twór, zgodnie z regułą wagi sylabicznej z poprzednich tematów, naturalnie unika kolejnego przyrostka -er i sięga po 'more/most', nawet jeśli bazowy przymiotnik był krótki (quickly → more quickly, nie *quicklier)."
+      }
     ],
     "usage": [
       "as...as porównuje dwie rzeczy jako równe sobie pod danym względem",
       "twice/three times as...as wyraża wielokrotność (This car is twice as expensive as that one.)",
-      "well i badly są nieregularne jako przysłówki: well → better → best, badly → worse → worst"
+      "well i badly są nieregularne jako przysłówki, dokładnie równolegle do good/bad jako przymiotników: well → better → best, badly → worse → worst — ten sam supletywizm, ta sama para rdzeni",
+      "'no more...than' i 'no less...than' wprowadzają emfatyczne, retoryczne zaprzeczenie porównania, nie tylko jego brak (She is no more a scientist than I am an astronaut. — obie strony są jednakowo fałszywe)"
     ],
-    "tags": ["as tall as", "not as good as", "more carefully", "faster"],
+    "tags": ["as tall as", "not as good as", "more carefully", "faster", "eall swa"],
     "examples": [
-      { "en": "She runs as fast as her brother.", "pl": "Ona biega tak szybko jak jej brat." },
-      { "en": "This test wasn't as easy as the last one.", "pl": "Ten test nie był tak łatwy jak poprzedni." },
-      { "en": "He explained it more carefully than before.", "pl": "Wyjaśnił to bardziej starannie niż wcześniej." },
-      { "en": "She sings better than anyone else in the choir.", "pl": "Ona śpiewa lepiej niż ktokolwiek inny w chórze." }
+      { "en": "She runs as fast as her brother, even though she started training much later.", "pl": "Ona biega tak szybko jak jej brat, mimo że zaczęła trenować dużo później." },
+      { "en": "This test wasn't as easy as the last one, or maybe I was just more tired.", "pl": "Ten test nie był tak łatwy jak poprzedni, a może po prostu byłem bardziej zmęczony." },
+      { "en": "He explained it more carefully this time, and everyone finally understood.", "pl": "Wyjaśnił to tym razem bardziej starannie i wszyscy w końcu zrozumieli." },
+      { "en": "He is no more qualified for this job than my cat is.", "pl": "On nadaje się do tej pracy tak samo mało, jak mój kot." }
+    ]
+  },
+  {
+    "id": "than_connective",
+    "order": 5,
+    "nameEn": "Than: the connective of comparison",
+    "namePl": "Than: spójnik porównania, jego bliźniak 'then' i pułapka przypadka zaimka",
+    "rules": [
+      {
+        "label": "Funkcja: łącznik dwóch stron porównania",
+        "text": "'Than' wprowadza drugi, odnoszący się element porównania po formie stopnia wyższego (taller than..., more expensive than..., better than...) — bez niego stopień wyższy wisiałby w próżni, bo porównanie z natury wymaga dwóch stron, a 'than' jest jedynym słowem w angielskim, którego zadaniem jest wyłącznie je ze sobą spinać."
+      },
+      {
+        "label": "Geneza: than i then to historycznie ten sam wyraz",
+        "text": "To jedna z bardziej zaskakujących ciekawostek angielskiej gramatyki: 'than' i 'then' nie są dwoma spokrewnionymi, ale odrębnymi słowami — to dosłownie JEDNO staroangielskie słowo, 'þonne'/'þanne', które służyło zarówno do sekwencjonowania w czasie ('a potem, wtedy'), jak i do wprowadzania porównania. Ortograficzne rozróżnienie na 'than' (porównanie) i 'then' (czas) ustabilizowało się dopiero w XVII–XVIII wieku — we wcześniejszych tekstach, łącznie z pierwszym wydaniem Biblii króla Jakuba, oba znaczenia zapisywano jako 'then' bez rozróżnienia. To dlatego mylenie 'than' z 'then' jest dziś tak uporczywym błędem nawet wśród rodzimych użytkowników: to nie ignorancja, tylko językowy odruch sięgający korzeni sprzed rozdzielenia się tych form."
+      },
+      {
+        "label": "Dlaczego akurat 'potem' stało się 'niż' — logika pojęciowa",
+        "text": "Związek między sekwencją czasową a porównaniem nie jest przypadkowy. Porównanie z natury wymaga mentalnego uszeregowania dwóch elementów na skali ('X jest większe — A POTEM/NASTĘPNIE mamy Y, które jest mniejsze') — 'then' w znaczeniu 'a dalej, w kolejności' naturalnie ześlizgnęło się w znaczenie 'w relacji do (czegoś kolejnego na skali)'. Ta sama metafora — czas jako oś, po której 'przesuwamy się', by uszeregować wielkości — leży też u podstaw wyrażeń typu 'bigger, and then even bigger'."
+      },
+      {
+        "label": "Spójnik czy przyimek? Odwieczny spór o 'than I' kontra 'than me'",
+        "text": "Historycznie 'than' było czystym spójnikiem wprowadzającym eliptyczne zdanie podrzędne: 'She is taller than I [am]' — z domyślnie 'zjedzonym' czasownikiem, stąd forma podmiotowa 'I'. Ale od wczesnej nowożytnej angielszczyzny 'than' bywa też traktowane jak przyimek, analogicznie do 'like' czy 'except', rządzący formą dopełnieniową: 'taller than me'. To NIE współczesne zepsucie języka — obie konstrukcje są poświadczone od stuleci (nawet u autorów z kanonu, jak Shakespeare czy później Jane Austen) i obie są dziś akceptowane w mowie potocznej; rejestr formalny i pisany wciąż preferuje pełną formę z czasownikiem lub zaimek podmiotowy."
+      }
+    ],
+    "usage": [
+      "Po formie stopnia wyższego: taller than, more interesting than, better than (This laptop is faster than my old one.)",
+      "W rejestrze formalnym/pisanym: pełne zdanie podrzędne lub zaimek podmiotowy (She earns more than I do. / She is younger than he.)",
+      "W mowie potocznej: skrócona forma z zaimkiem dopełnieniowym, dziś w pełni naturalna (She earns more than him.)",
+      "Uwaga na dwuznaczność eliptyczną: 'I like her more than he' (= than he likes her) różni się znaczeniowo od 'I like her more than him' (= than I like him) — w razie niejasności lepiej dopowiedzieć czasownik"
+    ],
+    "tags": ["than vs then", "comparative connective", "than I / than me", "ellipsis"],
+    "examples": [
+      { "en": "He's far more experienced than she is, but she got the promotion anyway.", "pl": "On jest o wiele bardziej doświadczony niż ona, ale to ona dostała awans." },
+      { "en": "Nobody knows this city better than I do.", "pl": "Nikt nie zna tego miasta lepiej niż ja." },
+      { "en": "I trust him more than her — she's changed her story twice already.", "pl": "Ufam mu bardziej niż jej — ona już dwa razy zmieniła swoją wersję." },
+      { "en": "The results were worse than anyone had expected.", "pl": "Wyniki były gorsze, niż ktokolwiek się spodziewał." }
     ]
   }
 ]
