@@ -2,97 +2,219 @@
   {
     "id": "affirmative",
     "order": 1,
-    "nameEn": "Affirmative imperative",
-    "namePl": "Tryb rozkazujący twierdzący",
+    "nameEn": "The affirmative imperative and its Germanic skeleton",
+    "namePl": "Tryb rozkazujący twierdzący i jego germański szkielet",
     "rules": [
-      { "label": "Budowa", "text": "Bezokolicznik bez to na początku zdania, bez podmiotu (Close the door. Sit down. Listen carefully.)" },
-      { "label": "Podmiot domyślny", "text": "Podmiotem jest zawsze you (ty/wy), ale nigdy go nie wymawiamy ani nie zapisujemy" },
-      { "label": "Emfaza z do", "text": "Do + bezokolicznik wzmacnia polecenie lub brzmi bardziej uprzejmie (Do sit down. Do be careful.)" }
+      {
+        "label": "Dlaczego forma jest identyczna z bezokolicznikiem bez to — to nie zbieg okoliczności",
+        "text": "W praindoeuropejskim tryb rozkazujący miał własne, odrębne końcówki (np. liczba pojedyncza 2. osoby kończyła się często na zero-morfem lub krótkie -i, w odróżnieniu od trybu oznajmującego). W prageramańskim ten wzorzec spłaszczył się już do gołego rdzenia czasownika bez żadnej końcówki osobowej: *nim! ('bierz!'). Staroangielski odziedziczył to jako np. nim (od niman, 'brać'), luf-a (od lufian, 'kochać') — z zerową lub bardzo cienką końcówką, radykalnie prostszą niż rozbudowana fleksja osoby/liczby/czasu w trybie oznajmującym. Kiedy w średnioangielskim system fleksyjny czasownika w ogóle się zawalił (zniknęły niemal wszystkie końcówki osobowe), formy 'gołego rdzenia' w trybie rozkazującym i formy bezokolicznika (który też stracił swoją dawną końcówkę -an) stały się fonetycznie nie do odróżnienia. Nie jest więc tak, że 'rozkaz pożyczył formę bezokolicznika' — to dwie historycznie odrębne kategorie, które przypadkiem zbiegły się do tej samej, najbardziej wyzutej z morfologii postaci, bo obie od początku były 'najlżejszymi' formami czasownika."
+      },
+      {
+        "label": "Podmiot domyślny: dlaczego 'you' nigdy nie pada, choć jest realnym argumentem zdania",
+        "text": "Rozkaz z definicji ma tylko jednego możliwego adresata w danej sytuacji mowy — osobę, do której mówimy w danej chwili. Ponieważ referent zaimka 'you' jest w 100% przewidywalny z samego aktu mówienia (nie trzeba go nazywać, żeby wiedzieć, o kogo chodzi), językoznawcy nazywają to podmiotem 'odzyskiwalnym z kontekstu pragmatycznego' (recoverable subject). To dokładnie ten sam mechanizm, który w językach z bogatą fleksją (np. hiszpańskim, włoskim, także historycznie w staroangielskim) pozwala pomijać zaimek podmiotu w ogóle, bo końcówka czasownika już go koduje — z tą różnicą, że w angielskim nie ma tu żadnej końcówki: to sama STRUKTURA ZDANIA (brak podmiotu + bezokolicznikowa forma czasownika na początku) pełni funkcję znacznika trybu rozkazującego. Dowodem, że 'you' naprawdę tam jest w warstwie składniowej, choć niewymówione, są tzw. reflexywy zwrotne kontrolowane przez ten fantomowy podmiot: 'Behave yourself!' (nie 'himself' ani 'myself') oraz question tag 'Close the door, will you?' — oba wymagają niewidzialnego 'you' jako podmiotu, żeby zgodność w ogóle miała sens."
+      },
+      {
+        "label": "Emfatyczne 'do' — najmłodsza warstwa w tej rodzinie form",
+        "text": "'Do sit down' czy 'Do be careful' to wcale nie najstarsza, tylko najMŁODSZA innowacja w tym temacie — produkt tego samego XVI–XVII-wiecznego procesu gramatykalizacji peryfrastycznego 'do' (do-support), który dał angielskim pytaniom i przeczeniom formę 'Do you...?' / 'I do not...'. W trybie rozkazującym zdania afirmatywne nie POTRZEBOWAŁY 'do' składniowo (bo nie ma tu żadnej inwersji z podmiotem do zasygnalizowania ani 'not' do podparcia), więc 'do' przetrwało tu wyłącznie w swojej wcześniejszej, emfatycznej funkcji retorycznej — dodaje naciskowi, przekonywaniu lub uprzejmemu nalega­niu ('Do come in!' brzmi bardziej zapraszająco/naglące niż suche 'Come in.'), a nie zmienia struktury gramatycznej zdania, jak to robi w pytaniach i przeczeniach."
+      }
     ],
     "usage": [
-      "Polecenia i rozkazy (Open your books.)",
-      "Instrukcje i przepisy krok po kroku (Mix the eggs and sugar. Turn left at the corner.)",
-      "Rady i ostrzeżenia (Be careful! Take an umbrella.)",
-      "Zaproszenia i uprzejme propozycje, zwykle z please (Please, take a seat. Have some cake.)"
+      "Polecenia i rozkazy neutralne stylistycznie (Open your books. Close the door.)",
+      "Instrukcje i przepisy krok po kroku, gdzie brak podmiotu podkreśla bezosobowość procedury, a nie kierowanie do konkretnej osoby (Mix the eggs and sugar. Turn left at the corner.)",
+      "Rady i ostrzeżenia, często z domyślną troską o adresata (Be careful! Take an umbrella.)",
+      "Emfatyczne 'do' — silniejsze zaproszenie, nalegająca uprzejmość lub kontrast z oczekiwaniem rozmówcy (Do sit down, you must be exhausted. Do try the soup — I made it myself.)"
     ],
-    "tags": ["close the door", "sit down", "do be careful", "please take a seat"],
+    "tags": ["close the door", "sit down", "do be careful", "do come in"],
     "examples": [
-      { "en": "Close the window, please.", "pl": "Zamknij okno, proszę." },
-      { "en": "Turn left at the next corner.", "pl": "Skręć w lewo na następnym rogu." },
-      { "en": "Be careful on the stairs.", "pl": "Uważaj na schodach." },
-      { "en": "Do come in, the door is open.", "pl": "Wejdź śmiało, drzwi są otwarte." }
+      { "en": "Close the window, please, it's getting cold in here.", "pl": "Zamknij okno, proszę, robi się tu zimno." },
+      { "en": "Turn left at the next corner and the office is on your right.", "pl": "Skręć w lewo na następnym rogu, a biuro będzie po prawej." },
+      { "en": "Mind the gap between the train and the platform.", "pl": "Uważaj na przerwę między pociągiem a peronem." },
+      { "en": "Do come in, the door was never locked.", "pl": "Wejdź śmiało, drzwi nigdy nie były zamknięte." }
     ]
   },
   {
     "id": "negative",
     "order": 2,
-    "nameEn": "Negative imperative",
-    "namePl": "Tryb rozkazujący przeczący",
+    "nameEn": "The negative imperative and the puzzle of Do not vs the vanished Not",
+    "namePl": "Tryb rozkazujący przeczący i zagadka Do not wobec zniknięcia samego Not",
     "rules": [
-      { "label": "Budowa", "text": "Don't + bezokolicznik bez to (Don't touch that. Don't be late.)" },
-      { "label": "Forma pełna", "text": "W stylu formalnym lub dla emfazy używa się Do not zamiast Don't (Do not enter.)" },
-      { "label": "never", "text": "Never + bezokolicznik dla mocniejszego, trwałego zakazu (Never talk to strangers.)" }
+      {
+        "label": "Przed 'do-support': jak wyglądał zakaz w staro- i wczesnym średnioangielskim",
+        "text": "W staroangielskim przeczenie tworzono partykułą ne postawioną PRZED czasownikiem, bez żadnego pomocniczego 'do': ne cum! ('nie przychodź!'). Jeszcze w wczesnonowożytnym angielskim (XVI w., np. u Shakespeare'a) spotyka się archaiczne 'Touch not the cat', 'Fear not' — bezpośredni zakaz z samym 'not' po czasowniku, bez żadnego wspomagacza. To relikt systemu sprzed gramatykalizacji do-support, żywy dziś już tylko w stylu podniosłym, biblijnym lub celowo archaizującym ('Suffer not the little children')."
+      },
+      {
+        "label": "Skąd wzięło się obowiązkowe 'do' w Don't — ten sam proces, co w pytaniach",
+        "text": "Między XV a XVII wiekiem angielski przeszedł gruntowną przebudowę systemu czasownikowego: 'do' z pełnoznaczącego czasownika ('robić') przekształciło się w czysto gramatyczny, pozbawiony własnego znaczenia element pomocniczy, którego JEDYNYM zadaniem stało się 'niesienie' negacji, pytania lub emfazy, gdy zdanie nie miało już innego czasownika posiłkowego (be, have, modal). Zanim ten proces się dokonał, przeczenie w trybie rozkazującym wyglądało jak w cytacie wyżej — bezpośrednio 'Verb + not'. Po ustabilizowaniu się do-support (ok. 1700 r.) 'Verb + not' w zdaniach głównych stało się niegramatyczne, a jedynym akceptowanym wzorcem zostało 'Do not/Don't + bezokolicznik'."
+      },
+      {
+        "label": "Don't vs Do not: nie synonimy stylistyczne bez różnicy, tylko rejestr i emfaza",
+        "text": "Ściągnięcie do 'don't' to standardowy, neutralny wybór w mowie i większości pisma. Pełna forma 'Do not' nie jest 'tym samym, tylko bardziej formalnym' — niesie dodatkowy ładunek illokucyjny: albo podkreśla powagę/oficjalność zakazu (znaki, regulaminy, instrukcje bezpieczeństwa: Do not enter. Do not feed the animals.), albo w mowie, gdy wymówione z naciskiem na 'not', wyraża zdecydowany, emocjonalny sprzeciw ('Do NOT touch my things!') — kontrakcja fonologicznie 'wchłania' przeczenie w jeden akcentowo słabszy sylab, więc rozbicie na dwa osobne, w pełni akcentowalne słowa jest naturalnym narzędziem wzmocnienia."
+      },
+      {
+        "label": "Never jako zakaz kategoryczny, nie zwykłe zaprzeczenie chwilowe",
+        "text": "'Don't' neguje pojedynczą, konkretną sytuację ('nie rób tego teraz/w tym przypadku'), natomiast 'never' przenosi zakaz w wymiar ponadczasowy, jako zasadę obowiązującą zawsze i wszędzie (Never lie to your parents. Never swim alone.) — semantycznie to nie jest 'don't' wzmocnione przysłówkiem częstotliwości, tylko osobna kategoria aktu mowy: reguła/przykazanie, a nie doraźne polecenie. Dlatego 'never' w rozkazie brzmi bardziej jak zasada wychowawcza lub przestroga życiowa niż jak zwykłe polecenie sytuacyjne."
+      }
     ],
     "usage": [
-      "Zakazy i ostrzeżenia (Don't touch the stove.)",
-      "Napisy i instrukcje formalne (Do not feed the animals.)",
-      "Rady, czego nie robić (Don't worry, it will be fine.)",
-      "Stanowcze, ogólne zakazy z never (Never lie to your parents.)"
+      "Zakazy i ostrzeżenia sytuacyjne, styl neutralny: Don't touch the stove, it's hot.",
+      "Napisy, instrukcje formalne, regulaminy — pełna forma dla powagi/oficjalności: Do not feed the animals. Do not remove this label.",
+      "Emocjonalny, akcentowany sprzeciw w mowie: Do NOT talk to me like that.",
+      "Zasady ogólne i ponadczasowe przestrogi z never: Never leave a candle unattended. Never talk to strangers online."
     ],
-    "tags": ["don't touch", "do not enter", "don't worry", "never talk to strangers"],
+    "tags": ["don't touch", "do not enter", "do NOT", "never talk to strangers"],
     "examples": [
-      { "en": "Don't touch that, it's hot.", "pl": "Nie dotykaj tego, jest gorące." },
-      { "en": "Do not enter without permission.", "pl": "Nie wchodź bez pozwolenia." },
-      { "en": "Don't worry, everything will be fine.", "pl": "Nie martw się, wszystko będzie dobrze." },
-      { "en": "Never leave the door unlocked.", "pl": "Nigdy nie zostawiaj drzwi niezamkniętych." }
+      { "en": "Don't touch that, it's still hot from the oven.", "pl": "Nie dotykaj tego, wciąż jest gorące z piekarnika." },
+      { "en": "Do not enter without a security badge.", "pl": "Nie wchodź bez identyfikatora zabezpieczającego." },
+      { "en": "Do NOT leave your bags unattended at the airport.", "pl": "Pod żadnym pozorem nie zostawiaj bagażu bez opieki na lotnisku." },
+      { "en": "Never lend money you can't afford to lose.", "pl": "Nigdy nie pożyczaj pieniędzy, których strata by cię zrujnowała." }
     ]
   },
   {
     "id": "lets",
     "order": 3,
-    "nameEn": "Let's — suggestions",
-    "namePl": "Let's — propozycje",
+    "nameEn": "Let's — from a full causative clause to a frozen discourse particle",
+    "namePl": "Let's — od pełnego zdania przyczynowego do zamrożonej partykuły dyskursywnej",
     "rules": [
-      { "label": "Budowa", "text": "Let's (let us) + bezokolicznik bez to dla propozycji obejmującej mówiącego (Let's go. Let's eat.)" },
-      { "label": "Przeczenie", "text": "Let's not + bezokolicznik (Let's not argue about this.)" },
-      { "label": "shall we?", "text": "Zdania z Let's tworzą question tag shall we? (Let's go, shall we?)" }
+      {
+        "label": "'Let' to czasownik kauzatywny, nie magiczne słówko od propozycji",
+        "text": "'Let' pierwotnie (i nadal, poza tą jedną utartą funkcją) jest zwykłym czasownikiem kauzatywnym oznaczającym 'pozwolić/sprawić, żeby ktoś coś zrobił': 'Let him go' dosłownie znaczy 'spraw, żeby on poszedł / pozwól mu odejść'. 'Let's go' to historycznie dokładnie taka sama struktura: Let (czasownik) + us (dopełnienie w bierniku — obiekt, na który działa przyzwolenie) + go (bezokolicznik bez to, jak w każdej konstrukcji kauzatywnej: let/make/have + object + bare infinitive). Różnica jest wyłącznie semantyczna: kiedy obiektem kauzacji jest 'us' (my, w tym mówiący), zdanie automatycznie przestaje być poleceniem skierowanym do kogoś innego, a staje się propozycją WSPÓLNEGO działania — bo mówiący sam siebie 'namawia' razem z odbiorcą."
+      },
+      {
+        "label": "Dlaczego 'let's', a nie 'let us' w codziennej mowie — fonologiczna reanaliza",
+        "text": "'Let us' ściągnęło się fonetycznie do 'let's' na tyle wcześnie i na tyle silnie, że przeciętny użytkownik języka dziś w ogóle nie 'słyszy' w 'let's' ukrytego zaimka 'us' — dla intuicji native speakera 'let's' to jedna, niepodzielna cząstka gramatyczna sygnalizująca 'propozycja', a nie 'czasownik + dopełnienie'. Językoznawcy nazywają ten proces reanalizą (reanalysis): forma powierzchniowo pozostaje niemal ta sama, ale jej wewnętrzna struktura gramatyczna w umysłach mówiących ulega przemodelowaniu. Dowodem tej reanalizy jest to, że w bardzo nieformalnej mowie potocznej (zwłaszcza amerykańskiej) zdarza się usłyszeć hiperpoprawną, historycznie 'niemożliwą' formę 'let's us go' — mówiący dodają 'us' PONOWNIE, bo 'let's' przestało być dla nich rozpoznawalne jako 'let' + 'us'."
+      },
+      {
+        "label": "Let's not — gdzie w zdaniu ląduje przeczenie i dlaczego",
+        "text": "Skoro 'let's' zachowało się (w pełnej, nieściągniętej analizie) jako czasownik kauzatywny z dopełnieniem, przeczenie 'not' stoi tam, gdzie normalnie stałoby przy bezokoliczniku po czasowniku kauzatywnym — bezpośrednio przed bezokolicznikiem, a nie przy samym 'let' (nie mówimy '*don't let's go', choć w bardzo nieformalnym BrE taka forma sporadycznie się pojawia): 'Let's not argue about this' = 'let us [not argue]', czyli negujemy CZYNNOŚĆ, do której namawiamy, a nie sam akt namawiania."
+      },
+      {
+        "label": "shall we? — question tag, który zdradza czasownikowe pochodzenie 'let's'",
+        "text": "To, że zdania z 'let's' domyślnie tworzą question tag 'shall we?' (a nie np. '*do we?' czy '*don't we?'), jest kolejnym śladem historii tej konstrukcji: 'shall' w staroangielskim i średnioangielskim wyrażało zobowiązanie/przyszłą wspólną intencję (sceal — 'być winnym, mieć obowiązek'), a 'we' odnosi się do tej samej grupy, którą oznacza 'us' w 'let's'. Question tag pyta więc dosłownie 'i zrobimy to razem, prawda?' — spójny semantycznie z ideą wspólnego działania, którą 'let's' od początku niesie, w odróżnieniu od zwykłego rozkazu do drugiej osoby, gdzie tagiem jest 'will you?'."
+      }
     ],
     "usage": [
-      "Propozycje wspólnego działania, gdzie mówiący też bierze udział (Let's take a break.)",
-      "Sugestie w rozmowie, łagodniejsze niż rozkaz (Let's see what happens.)",
-      "Odrzucenie pomysłu wspólnie (Let's not waste any more time.)",
-      "Zaproszenie do zgody z shall we? na końcu"
+      "Propozycje wspólnego działania, gdzie mówiący sam bierze udział: Let's take a break for ten minutes.",
+      "Łagodniejsza, mniej dyrektywna alternatywa dla rozkazu, gdy mówiący 'włącza siebie' do sugerowanej czynności: Let's see what happens.",
+      "Odrzucenie/zniechęcenie do wspólnego działania: Let's not waste any more time on this.",
+      "Naturalny question tag shall we?, potwierdzający wspólnotowy charakter propozycji: Let's grab a coffee, shall we?"
     ],
-    "tags": ["let's go", "let's not argue", "let's see", "shall we?"],
+    "tags": ["let's go", "let's not", "shall we?", "let us"],
     "examples": [
-      { "en": "Let's take a break for ten minutes.", "pl": "Zróbmy dziesięciominutową przerwę." },
-      { "en": "Let's not tell anyone about this yet.", "pl": "Nie mówmy nikomu o tym jeszcze." },
-      { "en": "Let's watch a film tonight, shall we?", "pl": "Obejrzyjmy dziś film, dobrze?" },
-      { "en": "Let's see what the weather is like tomorrow.", "pl": "Zobaczmy, jaka będzie jutro pogoda." }
+      { "en": "Let's take a ten-minute break before we continue.", "pl": "Zróbmy dziesięciominutową przerwę, zanim będziemy kontynuować." },
+      { "en": "Let's not mention this to anyone just yet.", "pl": "Nie mówmy jeszcze o tym nikomu." },
+      { "en": "Let's watch that new film tonight, shall we?", "pl": "Obejrzyjmy dziś ten nowy film, dobrze?" },
+      { "en": "Let's see how the negotiations go before we decide anything.", "pl": "Zobaczmy, jak pójdą negocjacje, zanim cokolwiek zdecydujemy." }
+    ]
+  },
+  {
+    "id": "third_person_jussive",
+    "order": 4,
+    "nameEn": "Let him/her/them — the jussive fringe of the imperative system",
+    "namePl": "Let him/her/them — juzywna peryferia systemu rozkazującego",
+    "rules": [
+      {
+        "label": "Angielski nie ma prawdziwego trybu rozkazującego 3. osoby — i nigdy nie miał go w pełni",
+        "text": "Wiele języków fleksyjnych (np. łacina, hiszpański) posiada odrębne, morfologicznie oznaczone formy trybu rozkazującego dla 3. osoby (tzw. jussive/rozkaz zapośredniczony), np. łacińskie legant ('niech czytają'). Staroangielski miał ślad takiej kategorii w trybie łączącym (subjunctive) używanym jussywnie, ale forma ta praktycznie zanikła wraz z ogólną erozją końcówek trybu łączącego w średnioangielskim. Współczesny angielski wypełnia tę lukę analitycznie — peryfrastycznie, czyli za pomocą osobnego czasownika pomocniczego zamiast końcówki fleksyjnej — dokładnie tym samym kauzatywnym 'let', które napędza 'let's': 'Let him wait outside' dosłownie 'niech (ktoś) sprawi, że on poczeka' — struktura identyczna z 'let's go', tylko z innym zaimkiem w pozycji dopełnienia (him/her/them zamiast us)."
+      },
+      {
+        "label": "Różnica znaczeniowa: 'let' jussywne = pozwolenie LUB rozkaz przekazany dalej, zależnie od kontekstu",
+        "text": "'Let them eat cake' czy 'Let him speak first' może znaczyć zarówno 'pozwól mu' (przyzwolenie, ustąpienie), jak i 'niech on to zrobi, tak zarządzam' (rozkaz wydany pośrednio, skierowany formalnie do obecnego rozmówcy, ale semantycznie dotyczący osoby trzeciej, nieobecnej lub niebędącej bezpośrednim adresatem). Ujednoznacznia to wyłącznie kontekst sytuacyjny i intonacja — sama struktura gramatyczna jest identyczna dla obu odczytań, co jest bezpośrednią konsekwencją tego, że angielski 'pożyczył' tu jedną, uniwersalną konstrukcję kauzatywną do wyrażenia całej gamy znaczeń, które inne języki rozdzielają osobnymi formami czasownikowymi."
+      },
+      {
+        "label": "Relikty prawdziwego trybu łączącego jussywnego: formuły zamrożone w rejestrze podniosłym",
+        "text": "Poza peryfrastycznym 'let', w wąskiej grupie utartych formuł przetrwał ŻYWY relikt staroangielskiego trybu łączącego bez 'let' i bez końcówki 3. osoby liczby pojedynczej -s: 'Long live the King!' (nie 'lives'), 'God save the Queen', 'Heaven forbid', 'So be it', 'Suffice it to say'. To skamieniałe formy jussive subjunctive — najstarsza, bezpośrednio odziedziczona (nie peryfrastyczna) warstwa systemu, zamrożona wyłącznie w formułach ceremonialnych, religijnych i sentencjonalnych, których nikt już nie tworzy productywnie na nowych czasownikach ('*Long thrive the company' brzmiałoby dziwacznie, mimo gramatycznej analogii)."
+      }
+    ],
+    "usage": [
+      "Przekazanie polecenia/przyzwolenia dotyczącego osoby trzeciej za pośrednictwem obecnego rozmówcy: Let him finish his sentence. Let her decide for herself.",
+      "Formalne zarządzenia i decyzje grupowe: Let the record show that the motion was approved.",
+      "Relikty jussive subjunctive w utartych formułach ceremonialnych/religijnych: Long live the Queen. God bless you. Heaven forbid.",
+      "Odcień znaczeniowy 'niech się dzieje, jak chce' — rezygnacja/akceptacja losu: Let it be. Let bygones be bygones."
+    ],
+    "tags": ["let him wait", "let them decide", "long live the king", "let it be"],
+    "examples": [
+      { "en": "Let her speak first — she was here before us.", "pl": "Niech ona mówi pierwsza — była tu przed nami." },
+      { "en": "Let the record show that both parties agreed to the terms.", "pl": "Niech protokół pokazuje, że obie strony zgodziły się na warunki." },
+      { "en": "Long live the Republic!", "pl": "Niech żyje Republika!" },
+      { "en": "If he wants to make that mistake, let him — he'll learn eventually.", "pl": "Jeśli chce popełnić ten błąd, niech go popełni — w końcu się nauczy." }
     ]
   },
   {
     "id": "subject_softeners",
-    "order": 4,
-    "nameEn": "Naming the subject & softening imperatives",
-    "namePl": "Wskazanie adresata i łagodzenie poleceń",
+    "order": 5,
+    "nameEn": "Naming the addressee and softening the directive: a face-management toolkit",
+    "namePl": "Wskazanie adresata i łagodzenie polecenia — narzędziownik zarządzania twarzą rozmówcy",
     "rules": [
-      { "label": "Wskazanie adresata", "text": "Rzeczownik lub imię można dodać na początku lub na końcu, oddzielone przecinkiem, żeby wskazać, do kogo kierujemy polecenie (Anna, close the door. Wait here, everyone.)" },
-      { "label": "you dla emfazy", "text": "You przed bezokolicznikiem dodaje się dla podkreślenia lub złości, wskazując wyraźnie na adresata (You be quiet!)" },
-      { "label": "Łagodzenie", "text": "Please, could you..., would you mind... zamieniają rozkaz w uprzejmą prośbę" }
+      {
+        "label": "Dlaczego 'goły' rozkaz bywa niegrzeczny — teoria grzeczności i 'twarzy'",
+        "text": "W pragmatyce językowej (teoria grzeczności Brown & Levinson) każdy rozkaz jest z definicji tzw. aktem zagrażającym twarzy (face-threatening act) — narzuca odbiorcy działanie wbrew jego autonomii decyzyjnej ('negative face': prawo do niebycia kontrolowanym). Im mniej znamy odbiorcę lub im mniejsze mamy nad nim uprawnienia społeczne, tym silniej odczuwalny jest ten 'zamach' na jego autonomię przy gołym rozkazie ('Close the window' od nieznajomego w pociągu zabrzmi opryskliwie). Cała gama środków opisanych w tym temacie to skonwencjonalizowane, gramatyczne narzędzia łagodzenia (mitigation) tego zagrożenia — nie 'ozdobniki', tylko funkcjonalne strategie społeczne wbudowane w gramatykę."
+      },
+      {
+        "label": "Wołacz (wskazanie adresata): funkcja selekcji, nie tylko grzeczności",
+        "text": "Dodanie imienia lub rzeczownika na początku lub końcu zdania, oddzielone przecinkiem (Anna, close the door. / Wait here, everyone.), pełni przede wszystkim funkcję SELEKCJI adresata w sytuacji, gdy 'you' domyślne z gramatyki rozkazu byłoby niejednoznaczne (grupa osób, więcej niż jeden możliwy odbiorca) — dopiero wtórnie, przez konwencję, wołacz na początku zdania bywa odczytywany też jako łagodzący, bo poprzedza rozkaz chwilą 'przygotowania' uwagi rozmówcy, zamiast uderzać czasownikiem od razu."
+      },
+      {
+        "label": "'You' przed rozkazem: odwrócenie zwykłej funkcji łagodzącej wołacza",
+        "text": "O ile wołacz z imieniem zwykle łagodzi, o tyle jawne dopisanie zaimka 'you' przed bezokolicznikiem (You be quiet! You listen to me!) działa dokładnie odwrotnie — WZMACNIA dyrektywność i sygnalizuje irytację lub złość. Dzieje się tak, bo w zwykłym rozkazie 'you' jest domyślnie ukryte i niepodkreślone; jego jawne, akcentowane wypowiedzenie łamie tę domyślność i brzmi jak wskazanie palcem na konkretną osobę, obarczenie jej wprost odpowiedzialnością — efekt prozodyczny (akcent na 'you') jest tu kluczowy, nie sama obecność zaimka."
+      },
+      {
+        "label": "Modalne pytania grzecznościowe: rozkaz przebrany za pytanie o możliwość",
+        "text": "'Could you close the window?', 'Would you mind opening the door?' formalnie SĄ pytaniami (o zdolność, gotowość, ewentualny sprzeciw), ale funkcjonalnie (illokucyjnie) są to prośby/polecenia — to klasyczny przykład tzw. pośredniego aktu mowy (indirect speech act): mówiący nie żąda wprost, tylko pyta o WARUNKI WSTĘPNE spełnienia żądania (czy jesteś w stanie, czy się zgadzasz), zostawiając formalnie odbiorcy pozór wyboru, nawet jeśli społecznie odmowa bywa trudna. Im dłuższa i bardziej okrężna forma pytania (Would you mind possibly... zamiast Could you...), tym silniejszy sygnał deference'u/dystansu grzecznościowego wobec odbiorcy."
+      },
+      {
+        "label": "Please: pozycja w zdaniu zmienia siłę illokucyjną",
+        "text": "'Please' na początku zdania (Please wait here) brzmi bardziej jak formalna, urzędowa prośba/instrukcja, natomiast na końcu (Wait here, please) brzmi swobodniej i cieplej, jakby dodane jako refleksja/uprzejmy dodatek po fakcie, a nie zaplanowany element formuły — subtelna różnica prozodyczno-pragmatyczna, którą rodzimi użytkownicy wyczuwają intuicyjnie, choć rzadko potrafią ją zwerbalizować."
+      }
     ],
     "usage": [
-      "Zwracanie się do konkretnej osoby w grupie (Boys, stop shouting.)",
-      "Podkreślenie i emocje (You listen to me!)",
-      "Grzeczna prośba zamiast surowego rozkazu (Could you close the window, please?)",
-      "Please na początku lub końcu zdania łagodzi ton (Please wait. / Wait, please.)"
+      "Zwracanie się do konkretnej osoby w grupie przez wołacz: Boys, stop shouting. / Everyone, please take a seat.",
+      "Podkreślenie/emocje przez jawne 'you': You be quiet! You listen to me for once!",
+      "Pośrednie akty mowy — pytanie zamiast rozkazu: Could you close the window, please? Would you mind lowering your voice?",
+      "Please na początku (formalniej) vs na końcu (swobodniej): Please fasten your seatbelt. / Pass the salt, please."
     ],
-    "tags": ["anna, close the door", "you be quiet", "could you close", "wait, please"],
+    "tags": ["anna, close the door", "you be quiet", "would you mind", "please wait"],
     "examples": [
-      { "en": "Boys, stop shouting in the hallway.", "pl": "Chłopcy, przestańcie krzyczeć na korytarzu." },
-      { "en": "You be quiet and listen!", "pl": "Ty się uciszysz i będziesz słuchać!" },
-      { "en": "Could you close the window, please?", "pl": "Czy mógłbyś zamknąć okno, proszę?" },
-      { "en": "Wait here for a moment, please.", "pl": "Poczekaj tu chwilę, proszę." }
+      { "en": "Everyone, please make your way to the nearest exit.", "pl": "Wszyscy, proszę kierować się do najbliższego wyjścia." },
+      { "en": "You listen to me for once — this is important!", "pl": "Ty mnie posłuchaj chociaż raz — to jest ważne!" },
+      { "en": "Would you mind keeping your voice down? People are trying to work.", "pl": "Czy mógłbyś mówić ciszej? Ludzie próbują pracować." },
+      { "en": "Take a seat, please, the doctor will see you shortly.", "pl": "Proszę usiąść, lekarz przyjmie pana wkrótce." }
+    ]
+  },
+  {
+    "id": "imperative_discourse_functions",
+    "order": 6,
+    "nameEn": "Beyond commands: the imperative as a discourse and rhetorical device",
+    "namePl": "Poza rozkazem: tryb rozkazujący jako narzędzie dyskursywne i retoryczne",
+    "rules": [
+      {
+        "label": "Imperative + and / imperative + or: warunek ukryty w rozkazie",
+        "text": "'Work hard, and you'll succeed' oraz 'Hurry up, or you'll miss the train' to strukturalnie zdania rozkazujące, ale funkcjonalnie działają jak okresy warunkowe: pierwsza część nie jest realnym poleceniem wykonania czynności, tylko skrótowym postawieniem WARUNKU, a druga część podaje jego konsekwencję. 'and' wprowadza konsekwencję pozytywną (spełnij warunek → nastąpi dobry skutek), 'or' konsekwencję negatywną (nie spełnisz warunku → nastąpi zły skutek, dosłownie 'albo stanie się coś innego'). To starsza, bardziej pierwotna strategia wyrażania warunkowości niż rozbudowane zdania z 'if', pokazująca, że angielski (jak wiele języków) potrafi kodować logikę warunkową przez samą juxtapozycję dwóch niezależnych zdań, bez żadnego spójnika warunkowego — 'and/or' pełnią tu funkcję czysto łączącą, a warunkowość wynika z SEKWENCYJNOŚCI i przyczynowej interpretacji dwóch rozkazów/stwierdzeń postawionych obok siebie."
+      },
+      {
+        "label": "Imperative jako uprzejme zaproszenie, nie polecenie — kontekst neutralizuje dyrektywność",
+        "text": "'Help yourself. Take a seat. Enjoy your meal.' formalnie mają identyczną budowę gramatyczną jak zakaz 'Don't touch that', ale w kontekście gościnności i uprzejmości SPOŁECZNIE nie są odbierane jako narzucanie woli, tylko jako gest przyzwolenia/zaproszenia skierowany DLA KORZYŚCI odbiorcy, a nie mówiącego. To pokazuje, że siła illokucyjna trybu rozkazującego (rozkaz vs zaproszenie vs rada vs życzenie) nigdy nie jest zakodowana wyłącznie w samej gramatyce zdania — współdecyduje o niej relacja korzyści (kto zyskuje na wykonaniu czynności: mówiący czy odbiorca) oraz konwencja społeczna sytuacji."
+      },
+      {
+        "label": "Rozkaz jako figura retoryczna w tekstach perswazyjnych i nagłówkach",
+        "text": "Reklama, hasła polityczne i nagłówki prasowe systematycznie nadużywają trybu rozkazującego w funkcji czysto retorycznej, nie dosłownie dyrektywnej: 'Think different.' 'Just do it.' 'Imagine a better future.' Odbiorca nie jest tu realnie 'rozkazywany' w sensie prawnym czy społecznym — rozkaz służy jako chwyt retoryczny budujący bezpośredniość i intymność przekazu (zwraca się 'wprost do ciebie', pomijając grzecznościowe formy pośrednie), oraz jako narzędzie tworzenia zwięzłych, zapadających w pamięć fraz — sama zerowa morfologia trybu rozkazującego (brak podmiotu, brak końcówek) czyni go najkrótszą możliwą formą zdania w języku angielskim, co idealnie pasuje do sloganu."
+      },
+      {
+        "label": "Rozkaz jako część utartych formuł dyskursywnych metatekstowych",
+        "text": "'Say', 'Look', 'Listen', 'Mind you', 'Suppose', 'Consider this' na początku wypowiedzi to sformalizowane, w pełni zgramatykalizowane wykorzystanie imperatywu do ZARZĄDZANIA UWAGĄ rozmówcy lub wprowadzenia nowego wątku, a nie do żądania fizycznej czynności — 'Look, I think you're wrong about this' nie prosi nikogo o patrzenie, tylko sygnalizuje, że zaraz nastąpi ważne lub kontrowersyjne stwierdzenie. Te formuły są tak skonwencjonalizowane, że funkcjonują niemal jak spójniki dyskursywne (discourse markers), całkowicie oderwane od swojego dosłownego, czasownikowego znaczenia."
+      }
+    ],
+    "usage": [
+      "Warunek ukryty w strukturze rozkazu: Practice every day, and you'll notice real progress. / Don't back up now, or you'll lose everything.",
+      "Zaproszenie/gościnność, gdzie rozkaz działa na korzyść odbiorcy: Make yourself at home. Help yourself to more coffee.",
+      "Retoryka reklamowa i sloganowa: Think big. Never settle. Just breathe.",
+      "Metatekstowe markery uwagi na początku wypowiedzi: Look, this isn't as simple as it sounds. / Mind you, he did warn us."
+    ],
+    "tags": ["work hard, and you'll", "hurry up, or you'll", "make yourself at home", "just do it"],
+    "examples": [
+      { "en": "Save a little every month, and you'll be surprised how quickly it adds up.", "pl": "Odkładaj co miesiąc trochę pieniędzy, a zdziwisz się, jak szybko to się uzbiera." },
+      { "en": "Leave now, or you'll be stuck in rush-hour traffic for an hour.", "pl": "Wyjdź teraz, bo utkniesz na godzinę w korku." },
+      { "en": "Make yourself comfortable, dinner will be ready soon.", "pl": "Rozgość się, kolacja będzie gotowa za chwilę." },
+      { "en": "Look, I'm not saying you're wrong, I'm just asking for evidence.", "pl": "Słuchaj, nie mówię, że się mylisz, tylko proszę o dowody." }
     ]
   }
 ]
