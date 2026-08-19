@@ -2,97 +2,195 @@
   {
     "id": "saxon_genitive",
     "order": 1,
-    "nameEn": "Saxon genitive ('s / s')",
-    "namePl": "Dopełniacz saksoński 's",
+    "nameEn": "the Saxon genitive 's — a case ending that outlived its own case system",
+    "namePl": "dopełniacz saksoński 's — końcówka przypadka, która przetrwała upadek całego systemu przypadków",
     "rules": [
-      { "label": "Liczba pojedyncza", "text": "Do rzeczownika w liczbie pojedynczej dodajemy 's, niezależnie od tego, czy kończy się na s (the boss's office)" },
-      { "label": "Liczba mnoga regularna", "text": "Do rzeczownika w liczbie mnogiej zakończonego na -s dodajemy tylko apostrof (the students' books)" },
-      { "label": "Liczba mnoga nieregularna", "text": "Do rzeczownika w liczbie mnogiej niezakończonego na -s dodajemy 's, jak w liczbie pojedynczej (the children's toys)" }
+      {
+        "label": "Skąd się wzięło to '-s'? (dopełniacz w staroangielskim)",
+        "text": "Staroangielski (do ok. XI w.) miał pełny system czterech przypadków rzeczownika (mianownik, biernik, dopełniacz, celownik) i kilka wzorców odmiany zależnych od rodzaju i typu tematu. Rzeczowniki rodzaju męskiego i nijakiego z tzw. odmiany mocnej (np. 'cyning' — król, 'stān' — kamień) tworzyły dopełniacz liczby pojedynczej końcówką '-es': cyning → cyninges, stān → stānes. Ta jedna, konkretna końcówka z jednej konkretnej klasy odmiany okazała się najbardziej 'przeżywalna' ze wszystkich staroangielskich końcówek przypadków — gdy po podboju normandzkim (1066) i późniejszej masowej redukcji nieakcentowanych samogłosek w wygłosie niemal cały system przypadków rzeczownika się zawalił, akurat '-es' przetrwało, ścieśniając się fonetycznie do dzisiejszego '-'s'. Dzisiejszy dopełniacz saksoński to więc jedyny żywy okruch całego wymarłego systemu przypadków staroangielskiego rzeczownika — reszta (biernik, celownik) po prostu zniknęła bez śladu."
+      },
+      {
+        "label": "Apostrof, którego przez wieki nie było",
+        "text": "W staro- i średnioangielskim pisano po prostu 'kynges', 'stanes' — całkowicie bez apostrofu, bo taki znak jeszcze nie istniał w angielskiej ortografii. Apostrof w funkcji dopełniacza pojawił się dopiero w XVI–XVII wieku, przejęty przez drukarzy i gramatyków z francuskiej konwencji zaznaczania opuszczonej samogłoski (l'ami zamiast le ami). XVII-wieczni gramatycy uzasadniali ten nowy znak wpływową, lecz błędną teorią ludową, tzw. 'his-genitive': wierzyli, że 'the king's crown' to ściągnięcie starszego 'the king his crown' ('króla jego korona'), a apostrof zaznacza wypadnięcie liter 'hi-' ze słowa 'his'. Teoria jest historycznie fałszywa — końcówka '-s' istniała w dopełniaczu na długo przed jakąkolwiek konstrukcją z 'his', a poza tym nie działałaby przy rzeczownikach żeńskich (nikt nie pisał 'the queen his crown') — a mimo to była na tyle rozpowszechniona, że to właśnie ona utrwaliła apostrof jako standardowy zapis dopełniacza w druku."
+      },
+      {
+        "label": "Dlaczego liczba mnoga bierze SAM apostrof, bez dodatkowego -s?",
+        "text": "Skoro regularna liczba mnoga rzeczownika już kończy się na '-s' (cats, students), doklejenie kolejnego '-s' dla dopełniacza dałoby niewygodne 'catss', 'studentss'. Angielska ortografia rozwiązała to bez żadnej zmiany w wymowie: zapisz istniejące '-s' tylko raz, a apostrof postaw PO nim, sygnalizując w piśmie, że ta sama forma pełni teraz podwójną funkcję (liczba mnoga + dopełniacz). To czysto wzrokowa, pisemna konwencja — 'the students' books' i hipotetyczne 'the students's books' brzmią identycznie na głos; różnica istnieje wyłącznie na papierze. Rzeczowniki o nieregularnej liczbie mnogiej, które NIE kończą się na '-s' (children, men, people, women), zachowują się więc jak zwykłe rzeczowniki w liczbie pojedynczej i biorą pełne '-'s': children's, men's, people's — bo nie ma tam żadnego istniejącego '-s', pod które apostrof mógłby się 'podczepić'."
+      },
+      {
+        "label": "Imiona własne zakończone na -s: James's czy James'?",
+        "text": "Gdy rzeczownik w liczbie pojedynczej już kończy się na '-s' (James, Charles, the boss), obie formy — 'James's' i 'James'' — są dziś akceptowane, a wybór to kwestia stylu, nie sztywnej reguły. Chicago Manual of Style zaleca zawsze pełne 'James's', bo tak zazwyczaj się to wymawia (/ˈdʒeɪmzɪz/, z dodatkową sylabą), podczas gdy AP Stylebook i tradycja przy klasycznych czy biblijnych imionach (Jesus', Moses', Achilles') zachowują sam apostrof, odzwierciedlając starszą wymowę bez dodatkowej sylaby. Ten rozdźwięk to żywy ślad wielowiekowej niepewności co do zapisu końcówki, która fonetycznie bywa dodatkową sylabą, a bywa i nie."
+      },
+      {
+        "label": "'S' przyklejone do całej frazy, nie tylko do rzeczownika",
+        "text": "Warto już tutaj odnotować zjawisko, które w pełni omawia osobny temat o dopełniaczu grupowym: gdy posiadacz to dłuższa fraza rzeczownikowa, apostrof z '-s' ląduje na samym jej KOŃCU, niezależnie od tego, jaka część mowy tam trafia ('the King of Spain's daughter', nie 'the King's of Spain daughter'). To dowód, że współczesne '-s' przestało być klasyczną końcówką fleksyjną doczepioną do jednego rzeczownika (jak w staroangielskim) i stało się tzw. klityką frazową — elementem przyklejającym się do granicy całej frazy składniowej, a nie do konkretnego słowa. Ta zmiana charakteru — z końcówki gramatycznej na 'wolny' wykładnik przyklejany na końcu frazy — to jedna z najciekawszych, najbardziej systemowych przemian w historii angielskiej gramatyki."
+      }
     ],
     "usage": [
-      "Głównie z osobami, zwierzętami i grupami ludzi (my sister's car, the dog's tail)",
-      "Z wyrazami określającymi czas (yesterday's news, a week's holiday)",
-      "Gdy posiadacz stoi bezpośrednio przed rzeczy posiadanej, bez przedimka przed rzeczownikiem posiadanym",
-      "Przy dwóch właścicielach jednej rzeczy 's dodajemy tylko do ostatniego imienia (Tom and Anna's flat)"
+      "Dopełniacz saksoński preferujemy przy posiadaczach 'ożywionych' — ludziach, zwierzętach, grupach osób, krajach — bo to właśnie tam angielski historycznie zachował żywą fleksję dopełniacza (pełne omówienie hierarchii ożywoności i wyboru 's kontra of w osobnym temacie 'Wybór dopełniacza')",
+      "Apostrof to wyłącznie konwencja PISANA — w mowie 'the students' books' i błędne 'the students's books' brzmią identycznie, więc o poprawności decyduje wyłącznie ortografia, nie wymowa",
+      "Przy dwóch posiadaczach jednej wspólnej rzeczy apostrof dodajemy tylko do ostatniego imienia (Tom and Anna's flat — jedno wspólne mieszkanie); przy dwóch oddzielnych rzeczach każde imię dostaje własny apostrof (Tom's and Anna's flats — dwa osobne mieszkania)",
+      "Nazwy zakończone na -s w liczbie pojedynczej: wybierz jedną konwencję (James's albo James') i trzymaj się jej konsekwentnie w obrębie jednego tekstu"
     ],
-    "tags": ["Anna's book", "the boss's office", "students' books", "children's toys"],
+    "tags": ["Anna's book", "the boss's office", "students' books", "children's toys", "James's/James'", "his-genitive"],
     "examples": [
       { "en": "This is my sister's car.", "pl": "To samochód mojej siostry." },
       { "en": "The boss's office is on the top floor.", "pl": "Biuro szefa jest na najwyższym piętrze." },
-      { "en": "The students' books were left on the desk.", "pl": "Książki uczniów zostały na biurku." },
-      { "en": "The children's toys are all over the floor.", "pl": "Zabawki dzieci są rozrzucone po całej podłodze." }
+      { "en": "The students' essays were graded over the weekend.", "pl": "Wypracowania uczniów zostały ocenione w weekend." },
+      { "en": "The children's toys are all over the floor.", "pl": "Zabawki dzieci są rozrzucone po całej podłodze." },
+      { "en": "Tom and Anna's flat has a wonderful view of the river.", "pl": "Mieszkanie Toma i Anny ma wspaniały widok na rzekę." },
+      { "en": "Some style guides write Jesus' words, others Jesus's words — both are considered correct.", "pl": "Niektóre style piszą Jesus' words, inne Jesus's words — obie formy uznaje się za poprawne." }
     ]
   },
   {
     "id": "possessive_adjectives",
     "order": 2,
-    "nameEn": "Possessive adjectives (my, your, his...)",
-    "namePl": "Przymiotniki dzierżawcze",
+    "nameEn": "possessive determiners (my, your, his...) — relics of a lost Old English pronoun paradigm",
+    "namePl": "przymiotniki/determinatory dzierżawcze (my, your, his...) — okruchy staroangielskiego systemu zaimków",
     "rules": [
-      { "label": "Pozycja", "text": "Przymiotnik dzierżawczy stoi zawsze przed rzeczownikiem, którego dotyczy (my car, her phone)" },
-      { "label": "Odmiana", "text": "my, your, his, her, its, our, their — nie odmieniają się przez liczbę ani rodzaj rzeczownika, który po nich następuje" },
-      { "label": "its vs it's", "text": "its (bez apostrofu) to przymiotnik dzierżawczy; it's to skrót od it is / it has" }
+      {
+        "label": "Skąd się wzięły te formy?",
+        "text": "Staroangielski miał pełny zestaw zaimków osobowych z osobnymi formami dopełniacza, pełniącymi funkcję dzisiejszych przymiotników dzierżawczych: mīn (mój), þīn (twój), his (jego), hire (jej), ūre (nasz), ēower (wasz), hira (ich). Widać od razu rodowód dzisiejszych form: mīn → my/mine, þīn → thy/thine (przetrwałe dziś tylko archaicznie, religijnie i dialektalnie), his → his (bez zmian od tysiąca lat!), hire → her, ūre → our. 'Their' ma inną, bardziej zawiłą historię — zobacz temat o zaimkach there/their/they're."
+      },
+      {
+        "label": "Dlaczego 'my' obok 'mine', a nie tylko jedna forma?",
+        "text": "W średnioangielskim obowiązywała zasada analogiczna do dzisiejszego a/an: pełna forma 'mine'/'thine' stała przed samogłoską lub h (mine eyes, mine host — 'moje oczy', 'mój gospodarz'), a skrócona 'my'/'thy' przed spółgłoską (my book). To dokładnie ten sam mechanizm unikania niewygodnej zbitki dwóch samogłosek, który dziś reguluje wybór między 'a' i 'an'. Z czasem 'my/thy' przed spółgłoską zwyciężyło całkowicie i rozszerzyło się także na pozycję przed samogłoską (dziś mówimy 'my eyes', nie 'mine eyes' poza cytatami biblijnymi i archaizującymi), a 'mine/thine' przetrwało wyłącznie jako forma SAMODZIELNA — dzisiejszy zaimek dzierżawczy 'mine' (this book is mine). Podział, który kiedyś zależał od fonetyki sąsiedniego słowa, dziś zależy wyłącznie od funkcji składniowej: przed rzeczownikiem = my, samodzielnie = mine (zobacz kolejny temat)."
+      },
+      {
+        "label": "Zagadka 'its' — zaimek, którego przez wieki po prostu nie było",
+        "text": "To jedna z najbardziej zaskakujących historii w całej angielskiej gramatyce: forma dzierżawcza 'its' NIE ISTNIAŁA jeszcze w czasach Szekspira ani w pierwszym wydaniu Biblii Króla Jakuba (1611)! W staroangielskim rzeczownik nijaki 'hit' (dzisiejsze 'it') miał dopełniacz 'his' — identyczny jak przy rodzaju męskim, bo oba rodzaje dzieliły tę samą końcówkę. Przez stulecia mówiono więc i pisano 'his' także o przedmiotach nieożywionych — Biblia Króla Jakuba zawiera zdanie 'if the salt have lost his savour' ('jeśli sól utraciła swój smak'), gdzie 'his' odnosi się do soli, nie do żadnej osoby! Gdy pod koniec XVI wieku zanikało poczucie, że dawny rodzaj gramatyczny rzeczowników nieożywionych ma jeszcze cokolwiek wspólnego ze słowem 'his', kojarzonym już wyłącznie z istotami płci męskiej, język odczuł lukę i potrzebował nowej, jednoznacznie bezosobowej formy. Odpowiedzią było 'its' — formacja w pełni analogiczna do dopełniacza saksońskiego (it + 's), poświadczona po raz pierwszy dopiero pod koniec XVI wieku i wciąż rzadka u Szekspira (używa jej zaledwie kilkanaście razy w całej twórczości, głównie w późniejszych sztukach). Dopiero w połowie–końcu XVII wieku 'its' ostatecznie wypiera stare 'his' w tej roli. Współczesny angielski ma więc jeden z najmłodszych zaimków w całym swoim systemie gramatycznym."
+      },
+      {
+        "label": "'swój' po polsku, ale nie w angielskim — pułapka dla Polaków",
+        "text": "Polski ma uniwersalny zaimek zwrotno-dzierżawczy 'swój', który automatycznie odnosi się do podmiotu zdania niezależnie od osoby (on umył SWOJE ręce = ona umyła SWOJE ręce = ja umyłem SWOJE ręce). Angielski nie ma takiego uniwersalnego zaimka — musi za każdym razem dopasować konkretny przymiotnik dzierżawczy do osoby i liczby podmiotu (he washed HIS hands, she washed HER hands, I washed MY hands), i to dopasowanie jest obowiązkowe, nawet jeśli z kontekstu jasno wynika, że mowa o czyichś własnych rękach. Efekt uboczny: angielskie 'he washed his hands' bez kontekstu jest gramatycznie NIEJEDNOZNACZNE — może znaczyć 'umył swoje ręce' ALBO (rzadziej, ale możliwie, np. jeśli podmiot jest np. pielęgniarką) 'umył czyjeś inne ręce' — polskie 'swoje' od razu eliminowałoby drugą możliwość. To jeden z częstszych błędów interferencyjnych u Polaków uczących się angielskiego: próba 'przetłumaczenia' logiki 'swój' i zagubienie się przy wyborze his/her/their."
+      }
     ],
     "usage": [
-      "Zawsze przed rzeczownikiem, nigdy samodzielnie (this is my book, nie this book is my)",
-      "Zgadzają się z posiadaczem, nie z rzeczą posiadaną (his sister, her brother)",
-      "Z częściami ciała i rzeczami osobistymi zamiast przedimka (she washed her hands)",
-      "its dla zwierząt i przedmiotów, gdy płeć jest nieznana lub nieistotna (the cat licked its paw)"
+      "Zawsze przed rzeczownikiem, nigdy samodzielnie — funkcjonują jako determinatory (podobnie jak the/a/this), więc wykluczają jednoczesne użycie przedimka: 'my car', nigdy 'the my car'",
+      "Zgadzają się z OSOBĄ POSIADACZA, nie z rodzajem czy liczbą rzeczownika posiadanego (his sister — mimo że 'sister' jest rodzaju żeńskiego, dopasowujemy się do posiadacza rodzaju męskiego)",
+      "Z częściami ciała, ubraniem i rzeczami osobistymi angielski wymaga przymiotnika dzierżawczego tam, gdzie polski często pomija zaimek w ogóle (she raised her hand — 'podniosła rękę'; pominięcie 'her' po angielsku jest niegramatyczne)",
+      "its dla zwierząt bez znanej/istotnej płci i wszystkich przedmiotów oraz pojęć nieożywionych — nigdy z apostrofem (its paw), bo its to determinator, nie ściągnięcie 'it is'"
     ],
-    "tags": ["my car", "her phone", "its paw", "their house"],
+    "tags": ["my car", "her phone", "its paw", "their house", "mine eyes (archaic)", "his savour (KJV)"],
     "examples": [
       { "en": "Is this your umbrella?", "pl": "Czy to twój parasol?" },
       { "en": "He forgot his keys at home.", "pl": "Zapomniał kluczy w domu." },
-      { "en": "The cat licked its paw.", "pl": "Kot polizał swoją łapę." },
+      { "en": "The cat licked its paw before curling up to sleep.", "pl": "Kot polizał swoją łapę, zanim zwinął się do snu." },
+      { "en": "The King James Bible still calls salt 'his savour' — proof that 'its' simply didn't exist yet.", "pl": "Biblia Króla Jakuba wciąż nazywa smak soli 'his savour' — dowód, że 'its' po prostu jeszcze nie istniało." },
+      { "en": "She raised her hand without saying a word.", "pl": "Podniosła rękę, nie mówiąc ani słowa." },
       { "en": "They sold their old house last year.", "pl": "Sprzedali swój stary dom w zeszłym roku." }
     ]
   },
   {
     "id": "possessive_pronouns",
     "order": 3,
-    "nameEn": "Possessive pronouns (mine, yours, his...)",
-    "namePl": "Zaimki dzierżawcze",
+    "nameEn": "absolute possessive pronouns (mine, yours, his...) — when the determiner grows its own noun phrase",
+    "namePl": "zaimki dzierżawcze absolutne (mine, yours, his...) — gdy determinator usamodzielnia się",
     "rules": [
-      { "label": "Samodzielność", "text": "Zaimek dzierżawczy zastępuje CAŁĄ frazę przymiotnik dzierżawczy + rzeczownik i stoi samodzielnie, bez rzeczownika po sobie" },
-      { "label": "Forma", "text": "mine, yours, his, hers, its (rzadko), ours, theirs — his i its są takie same jak przymiotniki dzierżawcze" },
-      { "label": "Częsty błąd", "text": "Po zaimku dzierżawczym nigdy nie stawiamy rzeczownika (this is mine, nie this is mine book)" }
+      {
+        "label": "Dlaczego w ogóle potrzebna jest osobna forma?",
+        "text": "Przymiotnik dzierżawczy (my, your, our...) jest determinatorem — z definicji MUSI stać przed rzeczownikiem, bo jego jedynym zadaniem gramatycznym jest 'otwierać' frazę rzeczownikową, podobnie jak 'the' czy 'a'. Gdy chcemy jednak odnieść się do posiadanej rzeczy BEZ powtarzania jej nazwy, bo już padła w rozmowie, potrzebna jest forma, która sama, bez żadnego rzeczownika za sobą, może pełnić rolę pełnoprawnej frazy rzeczownikowej — podmiotu, dopełnienia, orzecznika. Do tego służą zaimki dzierżawcze absolutne: This is my pen. Where is yours? — 'yours' zastępuje tu całą frazę 'your pen', nie tylko słowo 'your'."
+      },
+      {
+        "label": "Skąd wzięło się dodatkowe -s w yours, ours, theirs?",
+        "text": "Historycznie te formy powstały przez doklejenie tej samej końcówki dopełniacza '-s', którą znamy już z rzeczowników (Saxon genitive) i z 'its', do istniejących form dzierżawczych: your → yours, our → ours, their → theirs. 'Mine' i 'thine' nie potrzebowały tego zabiegu, bo istniały już jako pełne formy dopełniacza zaimków 'I' i 'thou' na długo przed rozdziałem funkcji na 'przy rzeczowniku' i 'samodzielnie' (zobacz poprzedni temat). Formy 'his' i 'its' z kolei nie dostają dodatkowego '-s' wcale — już kończą się na spółgłoskę s-podobną i już są w pełni ukształtowaną formą dzierżawczą, więc dublowanie końcówki (hiss, itss) byłoby zbędne i niewymawialne. Dlatego 'his' i 'its' pełnią jednocześnie rolę przymiotnika I zaimka dzierżawczego, bez żadnej różnicy formy: this is his car / this car is his."
+      },
+      {
+        "label": "Ten sam wzorzec w innych językach germańskich",
+        "text": "Rozdział na formę 'przy rzeczowniku' i formę 'samodzielną' to nie angielska osobliwość, lecz ogólnogermański wzorzec: niemiecki rozróżnia 'mein Buch' (przed rzeczownikiem) od 'meiner'/'meins' (samodzielnie, z końcówką przypadka), niderlandzki 'mijn boek' od 'de mijne'. Angielski uprościł tę różnicę do jednej, niezmiennej końcówki '-s' zamiast pełnej deklinacji przymiotnikowej, ale sama logika podziału funkcji 'przy rzeczowniku / zamiast rzeczownika' jest wspólnym dziedzictwem języków germańskich, a nie wynalazkiem specyficznie angielskim."
+      },
+      {
+        "label": "Nigdy z apostrofem — częsty błąd przez fałszywą analogię",
+        "text": "Skoro dopełniacz rzeczownika (Anna's) i 'it's' (skrót 'it is') piszemy z apostrofem, uczący się często przez analogię dopisują apostrof też do 'your's', 'their's', 'her's' — to zawsze błąd. Zaimki dzierżawcze absolutne (mine, yours, his, hers, ours, theirs) nigdy nie biorą apostrofu, bo nie są ani dopełniaczem rzeczownika, ani ściągnięciem dwóch słów — są odrębną, w pełni ukształtowaną klasą zaimków, gramatycznie równoważną z 'this' czy 'that', a nie skróconą wersją niczego."
+      }
     ],
     "usage": [
       "Gdy unikamy powtarzania rzeczownika, o którym już była mowa (This is my pen. Where is yours?)",
-      "Na końcu zdania lub jako podmiot/dopełnienie samodzielnie (The red car is mine.)",
-      "Po przyimku of do wyrażania jednego z wielu (a friend of mine, a book of hers)",
-      "Nigdy z apostrofem — mine, yours, theirs itd. piszemy bez 's"
+      "Jako samodzielny podmiot, dopełnienie lub orzecznik zdania (The red car is mine. / Mine broke down last week.)",
+      "Po przyimku 'of' w konstrukcji dopełniacza podwójnego, sygnalizującej 'jeden z wielu' (a friend of mine = jeden z moich przyjaciół, nie jedyny) — pełne omówienie w kolejnym temacie",
+      "Nigdy z apostrofem — mine, yours, his, hers, ours, theirs to odrębna klasa zaimków, nie skrót ani dopełniacz"
     ],
-    "tags": ["mine", "yours", "a friend of mine", "theirs"],
+    "tags": ["mine", "yours", "a friend of mine", "theirs", "German 'meiner'"],
     "examples": [
       { "en": "This bag isn't mine, it's yours.", "pl": "Ta torba nie jest moja, jest twoja." },
       { "en": "Our house is bigger than theirs.", "pl": "Nasz dom jest większy niż ich." },
       { "en": "Is that jacket hers?", "pl": "Czy ta kurtka jest jej?" },
-      { "en": "He's an old friend of mine.", "pl": "To mój stary przyjaciel." }
+      { "en": "He's an old friend of mine.", "pl": "To mój stary przyjaciel." },
+      { "en": "Mine broke down last week, so I've been borrowing my brother's.", "pl": "Moje zepsuło się w zeszłym tygodniu, więc pożyczam od brata." }
     ]
   },
   {
-    "id": "of_possession",
+    "id": "whose_genitive",
     "order": 4,
-    "nameEn": "Whose & double genitive",
-    "namePl": "whose i dopełniacz podwójny",
+    "nameEn": "whose — the interrogative and relative genitive",
+    "namePl": "whose — pytajny i względny dopełniacz zaimka who",
     "rules": [
-      { "label": "whose", "text": "Pytanie o właściciela: whose + rzeczownik (Whose car is this?) lub samodzielnie (Whose is this car?)" },
-      { "label": "of + zaimek dzierżawczy", "text": "Dopełniacz podwójny: a/an/this/that + rzeczownik + of + zaimek dzierżawczy (a colleague of mine)" },
-      { "label": "whose vs who's", "text": "whose to zaimek pytający/względny o przynależności; who's to skrót od who is / who has" }
+      {
+        "label": "Etymologia: whose to dokładnie dopełniacz 'who'",
+        "text": "'Whose' to nic innego jak historyczny dopełniacz zaimka pytającego 'who' — w staroangielskim 'hwā' (kto) tworzyło dopełniacz 'hwæs', dokładnie tym samym wzorcem '-s/-es', który znamy z rzeczowników (Saxon genitive) i z 'his'. Późniejsza pisownia 'wh-' zamiast rodzimego staroangielskiego 'hw-' to czysto graficzna zmiana wprowadzona przez średnioangielskich skrybów (przestawienie kolejności liter bez zmiany wymowy głoski), która objęła całą rodzinę słów pytających: hwā → who, hwæt → what, hwær → where, hwæs → whose. Fonetycznie 'whose' i 'who's' (skrót 'who is'/'who has') są dziś homofonami — brzmią identycznie — mimo zupełnie różnego pochodzenia i funkcji, co czyni je klasyczną parą mylonych form, analogiczną do its/it's."
+      },
+      {
+        "label": "Jak who/which/whose 'nauczyły się' być zaimkami względnymi",
+        "text": "Rodzimy, odziedziczony po staroangielskim system zdań względnych w ogóle nie używał zaimków pytających — posługiwał się niezmienną partykułą 'þe' (odpowiednik dzisiejszego uniwersalnego 'that'). Użycie zaimków pytających (who, which, whose) jako spójników zdań względnych to INNOWACJA średnioangielska, rozwinięta pod wyraźnym wpływem francuskiego po podboju normandzkim (1066) — francuski od dawna posługiwał się tymi samymi formami (qui, que, dont) zarówno w pytaniach, jak i w zdaniach względnych, i to właśnie ten dwufunkcyjny wzorzec francuski posłużył za model dla piśmiennej, prestiżowej odmiany średniowiecznej angielszczyzny. Stąd wywodzi się dzisiejszy rejestrowy kontrast: proste 'that' (rdzennie angielskie, neutralne) kontra 'who/which/whose' (funkcjonalnie 'znormanizowane', formalniejsze, bardziej pisemne) — wybór między nimi to po części wybór między dwiema historycznymi warstwami języka."
+      },
+      {
+        "label": "whose bez następującego rzeczownika",
+        "text": "W funkcji pytającej 'whose' może stać samodzielnie na końcu pytania, gdy rzeczownik posiadany już padł lub jest oczywisty z kontekstu: 'Whose is this?' (dosłownie 'Czyje to jest?', bez powtarzania rzeczownika) — struktura funkcjonalnie zbliżona do zaimków dzierżawczych absolutnych z poprzedniego tematu, choć formalnie 'whose' pozostaje tym samym słowem w obu użyciach (przed rzeczownikiem i bez niego), w przeciwieństwie do pary my/mine."
+      },
+      {
+        "label": "whose z rzeczownikiem nieożywionym — relikt czy żywa opcja?",
+        "text": "Purystyczna tradycja XVIII-wiecznych gramatyków głosiła, że 'whose' powinno odnosić się wyłącznie do osób, a przy rzeczach należy użyć okrężnej formy 'the roof of which' zamiast 'whose roof'. W praktyce jednak 'whose' odnoszące się do rzeczy nieożywionych było powszechne przez całą historię pisanej angielszczyzny (już u Szekspira i Miltona) po prostu dlatego, że okrężna forma 'of which' brzmi ciężko i nienaturalnie: 'a company whose profits doubled' brzmi dziś zdecydowanie naturalniej niż 'a company the profits of which doubled'. Współczesne gramatyki opisowe w pełni akceptują 'whose' dla rzeczy — to kolejny przykład reguły podręcznikowej, która nigdy nie odzwierciedlała rzeczywistego uzusu."
+      }
     ],
     "usage": [
-      "whose pytamy o czyjąś własność, gdy nie znamy właściciela (Whose keys are these?)",
-      "whose jako zaimek względny łączy zdania, wskazując przynależność (the man whose car was stolen)",
-      "Dopełniacz podwójny, gdy przed rzeczownikiem jest już inny określnik jak a, this, that (a friend of my mother's)",
-      "Dopełniacz podwójny podkreśla, że chodzi o jednego z wielu, a nie o wszystkich naraz"
+      "Pytanie o właściciela, gdy nie znamy odpowiedzi: whose + rzeczownik na początku pytania (Whose car is this?) lub samodzielnie na końcu (Whose is this car?)",
+      "Jako zaimek względny łączący dwa zdania przez wskazanie przynależności — zastępuje przymiotnik dzierżawczy wewnątrz zdania podrzędnego (I know the woman. HER son won. → I know the woman WHOSE son won.)",
+      "whose vs who's — zawsze homofony w mowie, rozróżniane wyłącznie pisownią: whose to dopełniacz ('czyj'), who's to skrót ('kto jest' / 'kto ma')",
+      "whose z rzeczownikiem nieożywionym jest w pełni naturalne we współczesnym angielskim pisanym i mówionym, mimo przestarzałych zaleceń niektórych podręczników"
     ],
-    "tags": ["Whose is this?", "whose car", "a friend of my mother's", "who's vs whose"],
+    "tags": ["Whose is this?", "whose car", "who's vs whose", "hwæs", "French-influenced relative pronouns"],
     "examples": [
       { "en": "Whose phone is ringing?", "pl": "Czyj telefon dzwoni?" },
       { "en": "That's the woman whose son won the competition.", "pl": "To ta kobieta, której syn wygrał konkurs." },
-      { "en": "He's a colleague of mine.", "pl": "To mój kolega z pracy." },
-      { "en": "I met an old friend of my mother's yesterday.", "pl": "Wczoraj spotkałem starą przyjaciółkę mojej mamy." }
+      { "en": "A company whose profits doubled in a single year deserves a closer look.", "pl": "Firma, której zyski podwoiły się w ciągu jednego roku, zasługuje na bliższą uwagę." },
+      { "en": "Whose is this — did somebody leave it on the train?", "pl": "Czyje to jest — czy ktoś zostawił to w pociągu?" }
+    ]
+  },
+  {
+    "id": "double_genitive",
+    "order": 5,
+    "nameEn": "the double genitive (a friend of mine) — two possessive markers for one meaning",
+    "namePl": "dopełniacz podwójny (a friend of mine) — dwa wykładniki dzierżawczości naraz",
+    "rules": [
+      {
+        "label": "Dlaczego angielski w ogóle potrzebuje takiej 'podwójnej' konstrukcji?",
+        "text": "Angielska fraza rzeczownikowa ma miejsce tylko na JEDEN determinator na samym początku — nie da się powiedzieć 'a my mother's friend' ani 'the her book', bo przedimek (a/the) i przymiotnik dzierżawczy (my/her) rywalizują o to samo miejsce składniowe. Problem pojawia się, gdy chcemy jednocześnie: (1) użyć nieokreślonego przedimka 'a', bo mówimy o JEDNYM z wielu, nie o jedynym znanym elemencie, ORAZ (2) wskazać posiadacza za pomocą dopełniacza. Rozwiązaniem jest 'wypchnięcie' posiadacza poza główną frazę, do postpozycyjnego dopełnienia przyimkowego z 'of', przy jednoczesnym zachowaniu końcówki dopełniacza '-s' na samym posiadaczu: 'a friend of my mother's' — 'of' przejmuje rolę łącznika składniowego (bo 'a' zajęło jedyne dostępne miejsce determinatora z przodu), a '-s' na końcu przypomina, że wciąż mówimy o relacji posiadania, nie o zwykłym partytywnym 'of'."
+      },
+      {
+        "label": "Dlaczego to nie jest zbędna redundancja",
+        "text": "Podwójne markowanie (i 'of', i '-s') mogłoby wyglądać na niepotrzebne powtórzenie tej samej informacji, ale w rzeczywistości niesie odrębne znaczenie, którego nie da żadna z form osobno: 'a friend of my mother's' implikuje, że matka ma WIELU przyjaciół, a mowa o JEDNYM z nich — znaczenie partytywne, 'jeden z zbioru', dokładnie tak samo jak zwykłe 'a friend of hers' (nie 'her friend', co sugerowałoby unikalną, jedyną osobę). Dla porównania: 'my mother's friend' (bez 'a') brzmi, jakby chodziło o jedną konkretną, już znaną osobę. Wybór konstrukcji koduje więc subtelną różnicę: określoność/unikalność kontra jeden-z-wielu — różnicę, którą polski musi wyrazić opisowo ('jeden z przyjaciół mojej matki' vs 'przyjaciel mojej matki'), a angielski koduje wprost w strukturze zdania."
+      },
+      {
+        "label": "Ograniczenie do posiadaczy 'ożywionych' — i dlaczego",
+        "text": "Dopełniacz podwójny działa naturalnie niemal wyłącznie z posiadaczami ożywionymi (ludźmi) lub zaimkami dzierżawczymi absolutnymi (a friend of mine/yours/his/hers/ours/theirs) — 'a leg of the table's' brzmi rażąco nienaturalnie, bo — dokładnie jak w temacie o wyborze dopełniacza — sam dopełniacz '-s' przy rzeczach nieożywionych jest już rzadki, więc jego podwojona, jeszcze bardziej nacechowana wersja jest tam praktycznie nieobecna. To kolejny dowód, że różne konstrukcje dopełniaczowe angielszczyzny (Saxon genitive, double genitive, group genitive) rządzą się jedną, spójną logiką hierarchii ożywoności, a nie są zbiorem niezależnych, przypadkowych reguł."
+      },
+      {
+        "label": "Historyczne korzenie: partytywne 'of' spotyka żywą fleksję dopełniacza",
+        "text": "Konstrukcja partytywna z 'of' ('jeden z wielu') istniała w angielszczyźnie od dawna, niezależnie od dopełniacza (np. 'one of the students'). Dopełniacz podwójny to w istocie skrzyżowanie tego starego wzorca partytywnego ze wciąż żywą końcówką dopełniacza '-'s' przy posiadaczach osobowych — konstrukcja skrystalizowała się w dzisiejszej postaci w okresie wczesnonowożytnym (Early Modern English, XVI–XVII w.), dokładnie wtedy, gdy sam apostrof jako znak dopełniacza dopiero się ustandaryzowywał (patrz temat o dopełniaczu saksońskim)."
+      }
+    ],
+    "usage": [
+      "Gdy przed rzeczownikiem posiadanym stoi już inny determinator (a/an, this/that, some/every) niż sam dopełniacz: a colleague of mine, that book of yours, this idea of Tom's",
+      "Do wyrażenia znaczenia partytywnego 'jeden z wielu', w kontraście z prostym dopełniaczem sugerującym unikalność (a friend of my mother's = jeden z jej przyjaciół; my mother's friend = TEN znany, konkretny przyjaciel)",
+      "Niemal wyłącznie z posiadaczami osobowymi lub zaimkami dzierżawczymi absolutnymi — rzadkie i nienaturalne przy rzeczach nieożywionych",
+      "Częste w wypowiedziach nacechowanych emocjonalnie, gdzie 'that + rzeczownik + of + zaimek dzierżawczy' dodaje zabarwienia irytacji lub czułości: 'that dog of yours is always barking!' — 'ten twój pies' z nutą utyskiwania"
+    ],
+    "tags": ["a friend of mine", "double genitive", "that idea of yours", "partitive vs definite"],
+    "examples": [
+      { "en": "He's a colleague of mine from my previous job.", "pl": "To mój kolega z poprzedniej pracy." },
+      { "en": "I met an old friend of my mother's yesterday.", "pl": "Wczoraj spotkałem starą przyjaciółkę mojej mamy." },
+      { "en": "That habit of hers — humming while she works — drives me a little crazy.", "pl": "Ten jej nawyk — nucenie podczas pracy — trochę mnie wykańcza." },
+      { "en": "That dog of yours has dug up the flowerbed again.", "pl": "Ten twój pies znowu rozkopał rabatkę." }
     ]
   }
 ]
