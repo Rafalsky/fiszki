@@ -259,9 +259,9 @@
     "id": "cleft_sentences",
     "icon": "🔦",
     "title": "Zdania rozszczepione",
-    "desc": "Zdania rozszczepione (It is... that / What I need is... / All you need is...) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40,
-    "level": "b2"
+    "desc": "Zdania rozszczepione od korzeni: termin 'cleft' Jespersena i wzmocnienie przez francuskie c'est...que, prezupozycja i domyślna wyłączność (exhaustivity), kontrast it-cleft i wh-cleft, minimalizujący all-cleft, odwrócony pseudo-cleft, granice fokusu i rejestr akademicki — ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 49,
+    "level": "c1"
   },
   {
     "id": "ellipsis_substitution",

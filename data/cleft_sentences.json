@@ -2,97 +2,206 @@
   {
     "id": "it_cleft",
     "order": 1,
-    "nameEn": "It-cleft sentences",
-    "namePl": "Zdania rozszczepione z It (it-cleft)",
+    "nameEn": "It-cleft sentences — splitting a sentence to isolate focus",
+    "namePl": "It-cleft: rozszczepienie zdania i ukryta prezupozycja",
     "rules": [
-      { "label": "Budowa", "text": "It + is/was + wyróżniony element + that (rzeczy, czas, miejsce) lub who (osoby) + reszta zdania" },
-      { "label": "Rola wyróżnionego elementu", "text": "Wyróżnionym elementem może być podmiot, dopełnienie lub okolicznik oryginalnego zdania" },
-      { "label": "Przeczenie", "text": "It wasn't ... until ... that — podkreśla, że coś stało się później niż oczekiwano" }
+      {
+        "label": "Skąd wzięła się nazwa 'cleft' i na czym polega sam mechanizm rozszczepienia",
+        "text": "Termin 'cleft sentence' (dosłownie: zdanie rozszczepione, 'rozłupane') ukuł duński anglista Otto Jespersen w swojej monumentalnej 'A Modern English Grammar' (tom VII, 1937), opisując zjawisko, w którym jedno proste zdanie zostaje mechanicznie 'rozłupane' na dwie części spojone razem: pustą ramę 'It + be' oraz doczepioną do niej klauzulę przypominającą zdanie względne. Weźmy zwykłe zdanie Tom broke the vase. — nie ma tu żadnego wyróżnionego elementu, wszystkie trzy części (Tom, broke, the vase) niosą porównywalny ciężar informacyjny. Rozszczepienie wyjmuje jeden z tych elementów (tu: Tom) i osadza go w osobnej, wyeksponowanej pozycji: It was Tom who broke the vase. Reszta zdania (who broke the vase) nie znika — zostaje przekształcona w klauzulę relatywną, gramatycznie podrzędną wobec wyjętego elementu. Innymi słowy: to nie jest 'ozdobnik' składniowy, lecz precyzyjne narzędzie chirurgiczne, które odcina jeden fragment zdania od reszty, żeby móc go osobno podświetlić."
+      },
+      {
+        "label": "Dlaczego angielski w ogóle potrzebuje takiego narzędzia: pisane słowo nie ma akcentu zdaniowego",
+        "text": "W mowie wyróżnienie 'to WŁAŚNIE Tom, a nie ktoś inny' można osiągnąć samą intonacją — silniejszym akcentem na słowie Tom w zdaniu Tom broke the vase, bez zmiany ani jednego wyrazu. Pismo nie dysponuje jednak akcentem zdaniowym (nie licząc pogrubień czy kursywy, których angielska proza standardowo unika w zdaniach oznajmujących) — potrzebuje więc czysto SKŁADNIOWEGO sposobu na zasygnalizowanie tego samego rozróżnienia między informacją 'daną' (presupozycją: ktoś rozbił wazon — to już wiadomo) a informacją 'nową' (asercją: tą osobą był Tom). Cleft sentence to właśnie taki składniowy odpowiednik akcentu zdaniowego — struktura gramatyczna, która robi w piśmie to, co w mowie robi intonacja, i dlatego jest nieproporcjonalnie częstsza w tekście pisanym (zwłaszcza argumentacyjnym) niż w spontanicznej rozmowie, gdzie prościej jest po prostu podnieść głos."
+      },
+      {
+        "label": "Rodowód historyczny: rodzime konstrukcje staroangielskie wzmocnione kontaktem z francuskim 'c'est...que'",
+        "text": "Zalążki biklauzalnych konstrukcji ogniskujących z 'þæt' (ówczesny odpowiednik 'that') pojawiają się już w staroangielskim, więc mechanizm nie jest zapożyczeniem znikąd — angielski od zawsze miał jakieś środki do wyodrębniania fokusu przez podział zdania. Jednak w pełni zgramatykalizowany, produktywny wzorzec 'It is X that/who...' krystalizuje się dopiero w średnio- i wczesnonowoangielskim, w okresie intensywnego, wielowiekowego kontaktu z anglonormandzkim francuskim po 1066 roku — tym samym kontaktem, który spłaszczył angielską fleksję i wniósł ogromną warstwę słownictwa prawniczego i dworskiego. Francuski ma niemal identyczną, bardzo produktywną konstrukcję rozszczepioną: c'est Tom qui a cassé le vase ('to Tom rozbił wazon', dosłownie 'to-jest Tom który rozbił wazon'). Większość anglistów historycznych traktuje to jako przypadek wzajemnego wzmocnienia (reinforcement) — angielski nie zapożyczył struktury od zera, ale częstotliwość i produktywność rodzimego wzorca prawdopodobnie wzrosły pod wpływem masowej ekspozycji na strukturalnie bliźniaczą konstrukcję francuską używaną przez dwuwiekowe elity dworskie."
+      },
+      {
+        "label": "Prezupozycja, która przetrwa nawet zaprzeczenie i pytanie — sedno mechanizmu",
+        "text": "Klauzula 'ogonowa' (who broke the vase) nie jest tylko stylistycznym dodatkiem — koduje treść, którą gramatyka angielska traktuje jako z góry przyjętą, znaną, niepodlegającą dyskusji: to jest tzw. prezupozycja (presupposition). Kluczowa cecha prezupozycji, odróżniająca ją od zwykłego twierdzenia, to jej odporność na zaprzeczenie i pytanie — 'przetrwa', nawet gdy resztę zdania zanegujemy lub zapytamy. It wasn't Tom who broke the vase. wciąż zakłada, że KTOŚ rozbił wazon — neguje tylko tożsamość tej osoby, nie sam fakt rozbicia. Was it Tom who broke the vase? wciąż zakłada to samo. Dla porównania, zwykłe zdanie Tom didn't break the vase. nie niesie już żadnej takiej gwarancji — może w ogóle nikt go nie rozbił. To właśnie ta trwała prezupozycja jest technicznym sercem każdego it-cleft, a nie sama obecność 'it' czy 'that'."
+      },
+      {
+        "label": "Domyślna wyłączność (exhaustivity): 'to Tom, i tylko Tom'",
+        "text": "Poza samą prezupozycją istnienia, it-cleft niesie drugi, subtelniejszy ładunek znaczeniowy: domniemanie wyłączności (exhaustive identification). It was Tom who broke the vase. sugeruje nie tylko 'Tom rozbił wazon', ale 'to był Tom, i wyłącznie Tom — nikt inny się do tego nie przyczynił'. To domniemanie jest na tyle silne, że jawnie zaprzeczana wersja (It wasn't Tom who broke the vase, not his sister.) brzmi naturalnie właśnie dlatego, że kontrastuje dwóch kandydatów do tej samej, jedynej roli. Ten komponent wyłączności to główny powód, dla którego it-cleft jest tak chętnie używany w kontekstach korygujących i kontrastowych ('nie X, tylko Y') — znacznie chętniej niż w neutralnym opisie faktu."
+      },
+      {
+        "label": "who kontra that: dwie warstwy historyczne tego samego złącznika",
+        "text": "'That' jako spójnik wprowadzający klauzulę względną w cleft to ten sam, semantycznie wyblakły, uniwersalny relatywizator, który wywodzi się ze staroangielskiego zaimka wskazującego þæt (mechanizm opisany szerzej w temacie o mowie zależnej i zdaniach rzeczownikowych) — działa z osobami i rzeczami jednakowo: It was Tom that broke the vase. jest równie poprawne jak It was the vase that Tom broke. 'Who' to młodsza, bardziej wyspecjalizowana alternatywa, ograniczona wyłącznie do osób, powstała przez analogię do zwykłych zdań względnych opisujących ludzi (the man who called). W praktyce oba są w pełni wymienne przy podmiotach osobowych, ale 'who' brzmi nieco bardziej naturalnie i neutralnie stylistycznie we współczesnym angielskim, podczas gdy 'that' bywa odbierane jako lekko potoczniejsze lub — paradoksalnie — jako rejestr bardziej formalno-prawniczy w utrwalonych zwrotach."
+      }
     ],
     "usage": [
-      "Podkreślenie, KTO wykonał czynność, zwłaszcza w kontraście z inną osobą (It was Tom who broke the vase, not his sister.)",
-      "Podkreślenie CO jest najważniejsze (It is money that matters most to him.)",
-      "Podkreślenie okolicznika czasu lub miejsca (It was yesterday that she called me.)",
-      "Sprostowanie błędnej informacji lub odpowiedź precyzująca na pytanie"
+      "Kontrastowe wyróżnienie SPRAWCY czynności, zwłaszcza wobec innego, odrzuconego kandydata (It was Tom who broke the vase, not his sister.)",
+      "Sprostowanie błędnego przekonania rozmówcy — korekta 'nie X, lecz Y' (It wasn't the manager who approved this, it was the board.)",
+      "Wyróżnienie okolicznika czasu, miejsca lub przyczyny jako informacji kluczowej (It was only after the deadline that they replied.)",
+      "Konstrukcja 'It wasn't until... that...' do podkreślenia NIEOCZEKIWANEGO opóźnienia w narracji",
+      "Formalne, argumentacyjne pisanie: wyodrębnienie jednego czynnika spośród wielu możliwych jako decydującego (It is precisely this ambiguity that causes most disputes.)"
     ],
-    "tags": ["It was Tom who", "It is money that", "It was yesterday that", "It wasn't until"],
+    "tags": ["It was Tom who", "It wasn't until", "It is precisely this that", "cleft presupposition", "c'est...que"],
     "examples": [
-      { "en": "It was Tom who broke the vase.", "pl": "To Tom stłukł wazon." },
-      { "en": "It is money that matters most to him.", "pl": "To pieniądze liczą się dla niego najbardziej." },
-      { "en": "It was yesterday that she called me.", "pl": "To wczoraj do mnie zadzwoniła." },
-      { "en": "It wasn't until midnight that he arrived.", "pl": "Dopiero o północy przyjechał." }
+      { "en": "It was Tom who broke the vase, not his sister.", "pl": "To Tom stłukł wazon, nie jego siostra." },
+      { "en": "It wasn't the design that failed — it was the testing process.", "pl": "Zawiódł nie projekt — zawiódł proces testowania." },
+      { "en": "It was only after the third attempt that the engine finally started.", "pl": "Dopiero za trzecim razem silnik w końcu odpalił." },
+      { "en": "It is precisely this loophole that lawyers keep exploiting.", "pl": "To właśnie tę lukę prawną prawnicy ciągle wykorzystują." },
+      { "en": "Was it you who left the door unlocked last night?", "pl": "To ty zostawiłeś wczoraj wieczorem drzwi otwarte?" }
     ]
   },
   {
     "id": "wh_cleft",
     "order": 2,
-    "nameEn": "Wh-cleft sentences (what-clauses)",
-    "namePl": "Zdania rozszczepione z What (wh-cleft)",
+    "nameEn": "Wh-cleft (pseudo-cleft) sentences — the free relative clause as subject",
+    "namePl": "Wh-cleft (pseudo-cleft): wolne zdanie względne jako podmiot",
     "rules": [
-      { "label": "Budowa", "text": "What + podmiot + czasownik + is/was + wyróżniony element" },
-      { "label": "Funkcja What", "text": "What zastępuje 'the thing that' i wprowadza zdanie pełniące funkcję podmiotu całej konstrukcji" },
-      { "label": "Czasownik po is/was", "text": "Gdy wyróżniamy czynność, po is/was stawiamy bezokolicznik z to lub formę -ing (What you should do is apologise.)" }
+      {
+        "label": "Inny mechanizm gramatyczny niż it-cleft, mimo pozornego podobieństwa efektu",
+        "text": "Wh-cleft bywa nazywany 'pseudo-cleft' właśnie dlatego, że mimo identycznej funkcji dyskursywnej (wyróżnienie jednego elementu), jego budowa jest strukturalnie zupełnie inna od it-cleft — nie ma tu żadnego pustego 'it' ani klauzuli względnej doczepionej do wyjętego elementu. Zamiast tego CAŁA fraza What I need funkcjonuje jako gramatyczny PODMIOT zdania, a czasownik is/was pełni rolę zwykłego łącznika (copula) między tym podmiotem a orzecznikiem — dokładnie tak samo, jak w zdaniu My problem is money. What I need is a holiday. ma więc dosłownie tę samą architekturę gramatyczną, co zwyczajne zdanie z 'be': [podmiot] + is + [orzecznik], tylko że podmiotem jest całe zdanie podrzędne, nie pojedynczy rzeczownik."
+      },
+      {
+        "label": "Co to jest 'wolna klauzula względna' i skąd wzięło się 'what'",
+        "text": "What I need to funkcjonalnie tzw. wolna (bezantecedentowa) klauzula względna — zdanie względne, które nie opisuje żadnego wcześniej wymienionego rzeczownika, lecz samo w sobie oznacza 'the thing that I need' ('to, czego potrzebuję'). Możliwe to jest dzięki podwójnej naturze staroangielskiego hwæt, które od początku pełniło funkcję zarówno zaimka pytającego, jak i uogólnionego zaimka względnego bez wyraźnego antecedentu — ta sama dwoistość przetrwała do dziś i wyjaśnia, czemu what w zdaniach typu I don't know what you mean. (pytanie pośrednie) i What you need is rest. (wolna klauzula względna) wygląda identycznie, choć pełni dwie różne role składniowe. Ten sam mechanizm wolnych klauzul względnych (z whoever, whatever, whichever) jest osobnym, szerszym tematem gramatycznym — wh-cleft to jego wyspecjalizowane, najbardziej produktywne zastosowanie w funkcji podmiotu zdania rozszczepionego."
+      },
+      {
+        "label": "Inna funkcja dyskursywna niż it-cleft: temat najpierw, nowość na końcu",
+        "text": "O ile it-cleft ma silny wydźwięk kontrastowo-korygujący ('to X, a nie Y'), wh-cleft służy zwykle do czegoś innego: wprowadzenia znanego już problemu, potrzeby czy reakcji jako PUNKTU WYJŚCIA wypowiedzi, po czym dopiero domyka się ją nową informacją na końcu — układ 'dane najpierw, nowe na końcu' (given-before-new), zgodny z ogólną angielską zasadą end-focus. What I need is a holiday. brzmi naturalnie jako odpowiedź na milczące pytanie 'czego ci trzeba?' — temat (potrzeba) jest już na stole, nowością jest tylko jej treść (wakacje). Z tego powodu wh-cleft jest ulubioną konstrukcją otwierającą wypowiedzi, zwłaszcza w mowie nieformalnej i prezentacjach: What I'm trying to say is... / What worries me most is... — sygnalizuje słuchaczowi 'zaraz podam sedno', zanim jeszcze to sedno padnie."
+      },
+      {
+        "label": "Bezokolicznik czy gerund po is/was, gdy wyróżniamy czynność",
+        "text": "Kiedy fokusem zdania jest cała czynność, a nie rzeczownik, po is/was można postawić albo bezokolicznik z 'to', albo formę -ing — obie są gramatyczne, ale niosą lekko inny odcień: What you should do is apologise. (bezokolicznik bez 'to' po 'do' — typowa elipsa w tej pozycji) traktuje czynność jako pojedynczy, konkretny krok do wykonania, podczas gdy wariant z -ing (What helped most was talking to someone.) traktuje ją bardziej jako proces czy metodę. W praktyce forma bezokolicznikowa dominuje po 'do', a forma -ing pojawia się częściej, gdy czasownikiem głównym wh-clauses jest coś innego niż 'do' (What surprised me was seeing him there.)."
+      },
+      {
+        "label": "Odwrócony pseudo-cleft: kiedy fokus wędruje na sam początek",
+        "text": "Kolejność można całkowicie odwrócić, stawiając wyróżniony element na początku, a wolną klauzulę względną na końcu: A holiday is what I need. zamiast What I need is a holiday. Ta odwrócona wersja (reversed / inverted pseudo-cleft) zmienia rozkład informacji: zamiast 'temat najpierw, nowość na końcu', mamy teraz krótki, często już znany z kontekstu fokus na starcie, a cięższą, bardziej rozbudowaną klauzulę 'ogonową' na końcu — użyteczne zwłaszcza jako bezpośrednia, zwięzła odpowiedź na pytanie (What do you need? — A holiday is what I need. brzmi naturalniej niż powtarzanie schematu pytania) albo gdy sam fokus jest krótkim, jednosylabowym słowem, któremu nie warto poświęcać całego zdania na starcie."
+      },
+      {
+        "label": "Ograniczenie: wh-cleft słabo współpracuje z jawnym przeczeniem podmiotu",
+        "text": "O ile it-cleft świetnie znosi przeczenie kluczowego elementu (It wasn't Tom who...), o tyle zanegowanie samej klauzuli 'what'-owej brzmi nienaturalnie i rzadko się pojawia (?What I don't need is criticism. jest wprawdzie gramatyczne, ale znacznie rzadsze i bardziej wymuszone niż jego twierdząca wersja) — wynika to z faktu, że wolna klauzula względna z natury opisuje coś, co ISTNIEJE i jest identyfikowalne ('to, czego potrzebuję'), a zaprzeczenie całej tej egzystencjalnej ramy koliduje z jej podstawową funkcją nazwania czegoś konkretnego. W praktyce negację w wh-cleft częściej przenosi się do części orzecznikowej: What I need isn't sympathy, it's a solution."
+      }
     ],
     "usage": [
-      "Podkreślenie potrzeby lub braku (What I need is a holiday.)",
-      "Podkreślenie reakcji lub zaskoczenia (What surprised me was his reaction.)",
-      "Podkreślenie zalecanej czynności (What you should do is apologise.)",
-      "Podsumowanie głównej myśli wypowiedzi (What matters is that you tried.)"
+      "Otwarcie wypowiedzi znanym już tematem (potrzebą, problemem, reakcją) przed podaniem nowej, kluczowej treści (What I need is a holiday.)",
+      "Sygnalizowanie słuchaczowi nadchodzącego sedna wypowiedzi w mowie nieformalnej i prezentacjach (What I'm trying to say is...)",
+      "Podkreślenie zalecanej lub koniecznej czynności z bezokolicznikiem po is/was (What you should do is apologise.)",
+      "Zwięzła, bezpośrednia odpowiedź na pytanie przez odwrócony pseudo-cleft (A holiday is what I need.)",
+      "Podsumowanie głównej myśli lub wniosku na końcu akapitu argumentacyjnego (What this shows is that the plan failed.)"
     ],
-    "tags": ["What I need is", "What surprised me was", "What you should do is", "What matters is"],
+    "tags": ["What I need is", "What you should do is", "A holiday is what I need", "free relative clause", "given-before-new"],
     "examples": [
-      { "en": "What I need is a holiday.", "pl": "To, czego potrzebuję, to wakacje." },
-      { "en": "What surprised me was his reaction.", "pl": "To, co mnie zaskoczyło, to jego reakcja." },
-      { "en": "What you should do is apologise.", "pl": "To, co powinieneś zrobić, to przeprosić." },
-      { "en": "What matters is that you tried.", "pl": "Liczy się to, że próbowałeś." }
+      { "en": "What I need is a holiday, not more meetings.", "pl": "Potrzebuję wakacji, a nie kolejnych spotkań." },
+      { "en": "What surprised me most was how calmly he took the news.", "pl": "Najbardziej zaskoczyło mnie, jak spokojnie przyjął tę wiadomość." },
+      { "en": "What you should do is apologise before it's too late.", "pl": "Powinieneś przeprosić, zanim będzie za późno." },
+      { "en": "A cup of strong coffee is exactly what I need right now.", "pl": "Filiżanka mocnej kawy to dokładnie to, czego teraz potrzebuję." },
+      { "en": "What this experiment demonstrates is that the theory doesn't hold.", "pl": "Ten eksperyment pokazuje, że teoria się nie broni." }
     ]
   },
   {
     "id": "all_cleft",
     "order": 3,
-    "nameEn": "All-cleft sentences",
-    "namePl": "Zdania rozszczepione z All",
+    "nameEn": "All-cleft sentences — the minimizing variant of the pseudo-cleft",
+    "namePl": "All-cleft: minimalizująca odmiana pseudo-cleft",
     "rules": [
-      { "label": "Budowa", "text": "All + (that) + podmiot + czasownik + is/was + wyróżniony element" },
-      { "label": "Znaczenie", "text": "All podkreśla, że chodzi WYŁĄCZNIE o jedną rzecz lub czynność — nic więcej" },
-      { "label": "that opcjonalne", "text": "Spójnik that po All często się pomija w mowie potocznej (All you need is love. = All that you need is love.)" }
+      {
+        "label": "All jako podmiot wolnej klauzuli względnej — wariant wh-cleft, nie osobna konstrukcja",
+        "text": "Strukturalnie all-cleft to dokładnie ten sam mechanizm co wh-cleft z poprzedniego tematu — wolna klauzula względna w roli podmiotu, łącznik is/was, orzecznik z fokusem — tylko że głowę tej klauzuli stanowi kwantyfikator all zamiast zaimka what: All you need is love. ma tę samą architekturę gramatyczną co What you need is love., różni je wyłącznie znaczenie samego kwantyfikatora otwierającego zdanie. To dlatego all-cleft dziedziczy wszystkie właściwości składniowe wh-cleft (możliwość odwrócenia kolejności, bezokolicznik/-ing po is/was), ale dokłada do nich własną, odrębną warstwę znaczeniową."
+      },
+      {
+        "label": "Semantyka: nie 'coś', lecz 'wyłącznie to i nic więcej' — mechanizm minimalizacji",
+        "text": "Podczas gdy what w wh-cleft jest znaczeniowo neutralne (po prostu nazywa 'tę rzecz, o którą chodzi'), all wnosi twardą presupozycję wyłączności ilościowej: 'to jest CAŁA lista, nic ponadto się nie liczy'. All you need is love. nie znaczy tylko 'potrzebujesz miłości' — znaczy 'miłość to JEDYNA rzecz, której potrzebujesz, wszystko inne jest zbędne'. Ten komponent semantyczny czyni all-cleft naturalnym narzędziem retorycznej MINIMALIZACJI — umniejszania wagi, trudności czy zakresu czegoś, co mogłoby wydawać się większe: All you have to do is press the button. sugeruje 'to naprawdę nic trudnego', nawet jeśli obiektywnie zadanie ma więcej kroków. Ten sam mechanizm downplayingu przez celowe niedopowiedzenie łączy all-cleft pokrewieństwem funkcjonalnym z litotą (zob. osobny temat), choć środki gramatyczne są inne."
+      },
+      {
+        "label": "Opcjonalne 'that': dlaczego można je swobodnie pominąć",
+        "text": "All (that) you need is love. — spójnik 'that' po all jest w pełni opcjonalny w większości kontekstów, ponieważ zaimek względny pełni tu funkcję dopełnienia klauzuli podrzędnej (you need [it]), nie jej podmiotu — a angielski od dawna pozwala pomijać relatywizator w pozycji dopełnieniowej klauzul restrykcyjnych (dokładnie ten sam mechanizm, co w the book (that) I read). W mowie potocznej pominięcie 'that' jest wręcz preferowane jako bardziej naturalne i płynne; w rejestrze pisanym, zwłaszcza formalnym, pełna forma z 'that' bywa zachowywana dla jednoznaczności i staranności stylu."
+      },
+      {
+        "label": "Kulturowe zakotwiczenie: dlaczego ten wzorzec brzmi znajomo nawet poza gramatyką",
+        "text": "All you need is love. to nie przypadkowy przykład podręcznikowy — to tytuł piosenki The Beatles z 1967 roku, jeden z najbardziej rozpoznawalnych angielskich zwrotów w kulturze popularnej, i właśnie ta powszechna znajomość sprawiła, że wzorzec All + (that) + podmiot + czasownik + is + [rzeczownik abstrakcyjny] stał się w pewnym stopniu SKONWENCJONALIZOWANYM szablonem retorycznym, chętnie parodiowanym i przekształcanym (All you need is coffee. / All you need is Wi-Fi.) — dowód na to, że konstrukcje gramatyczne czasem zyskują dodatkową siłę i rozpoznawalność właśnie dzięki utrwaleniu w jednym, kulturowo dominującym użyciu."
+      }
     ],
     "usage": [
-      "Minimalizowanie potrzeb lub wymagań (All you need is love.)",
-      "Upraszczanie trudnego zadania (All you have to do is press the button.)",
-      "Ograniczanie zakresu czynności, którą się wykonało (All I did was ask a question.)",
-      "Podkreślanie jedynego pragnienia (All I want is some peace and quiet.)"
+      "Minimalizowanie wysiłku lub liczby wymaganych kroków — sprawienie, że zadanie brzmi na proste (All you have to do is press the button.)",
+      "Podkreślenie jednego, jedynego pragnienia lub potrzeby z wykluczeniem wszystkiego innego (All I want is some peace and quiet.)",
+      "Ograniczenie zakresu własnego działania w obronie lub tłumaczeniu się (All I did was ask a simple question.)",
+      "Retoryczne obniżenie rangi problemu lub żądania w perswazji i marketingu (All it takes is one phone call.)"
     ],
-    "tags": ["All you need is", "All I want is", "All you have to do is", "All I did was"],
+    "tags": ["All you need is", "All you have to do is", "All I did was", "minimizing cleft", "exhaustive quantifier"],
     "examples": [
-      { "en": "All you need is love.", "pl": "Wszystko, czego potrzebujesz, to miłość." },
-      { "en": "All you have to do is press the button.", "pl": "Wszystko, co musisz zrobić, to nacisnąć przycisk." },
-      { "en": "All I did was ask a question.", "pl": "Wszystko, co zrobiłem, to zadałem pytanie." },
-      { "en": "All I want is some peace and quiet.", "pl": "Wszystko, czego chcę, to trochę spokoju." }
+      { "en": "All you need is a good night's sleep and you'll feel better.", "pl": "Wystarczy ci dobra noc snu, a poczujesz się lepiej." },
+      { "en": "All you have to do is sign here and the deal is done.", "pl": "Wystarczy, że tu podpiszesz, i sprawa załatwiona." },
+      { "en": "All I did was suggest an alternative — I never told him what to choose.", "pl": "Zaproponowałem tylko alternatywę — nigdy nie mówiłem mu, co wybrać." },
+      { "en": "All it takes is one careless mistake to lose a client's trust.", "pl": "Wystarczy jeden nieostrożny błąd, żeby stracić zaufanie klienta." }
     ]
   },
   {
     "id": "other_cleft",
     "order": 4,
-    "nameEn": "Other cleft structures (reason/place/time clefts)",
-    "namePl": "Inne struktury rozszczepione (the reason why, the place where, the one who)",
+    "nameEn": "Lexical-head clefts — the reason why, the place where, the one who",
+    "namePl": "Klauzule specyfikacyjne z rzeczownikiem: the reason why, the place where, the one who",
     "rules": [
-      { "label": "the reason why", "text": "The reason why + zdanie + is/was + wyróżniony powód" },
-      { "label": "the place/time", "text": "The place/time where/when + zdanie + is/was + wyróżniony element" },
-      { "label": "the thing/one that", "text": "The thing/one that + zdanie + is/was + wyróżniony element — ogólniejszy odpowiednik konstrukcji z What" }
+      {
+        "label": "Nie są to 'prawdziwe' clefty w ścisłym sensie, lecz ich funkcjonalny odpowiednik",
+        "text": "Konstrukcje typu The reason why she left was the noise. gramatycy generatywni często wyłączają z wąskiej kategorii 'cleft' — nie mają ani pustego 'it' (jak it-cleft), ani wolnej klauzuli względnej bez antecedentu (jak wh-cleft); mają zwyczajny, konkretny rzeczownik-głowę (reason, place, time, one) połączony ze zwykłą, w pełni tradycyjną klauzulą względną. Formalnie bliżej im więc do zdań specyfikacyjnych z jawnym antecedentem niż do clefts sensu stricto. Funkcjonalnie jednak robią dokładnie to samo, co it-cleft i wh-cleft: wyodrębniają jeden składnik zdania (tu: przyczynę, miejsce, czas lub osobę) i stawiają go w pozycji podmiotu-tematu, domykając zdanie nowym orzecznikiem — dlatego w praktyce dydaktycznej trzyma się je razem z resztą rodziny cleft."
+      },
+      {
+        "label": "The reason why: podwójne kodowanie tej samej treści i spór normatywny wokół niej",
+        "text": "The reason why zawiera pewną nadmiarowość — 'reason' i 'why' oba niosą znaczenie przyczyny, więc formalnie rzecz biorąc dublują informację (podobnie jak w krytykowanej przez purystów frazie 'the reason is because', która dokłada trzecią warstwę tego samego znaczenia). Mimo tej redundancji the reason why jest głęboko utrwalone i całkowicie standardowe we współczesnym angielskim — 'why' funkcjonuje tu jako przysłówek względny wyspecjalizowany właśnie do klauzul opisujących rzeczownik reason, na tej samej zasadzie co where przy miejscach i when przy czasie. Alternatywna, nieco bardziej 'oszczędna' wersja the reason (that) ... zastępuje 'why' neutralnym 'that' (lub jego pominięciem) i bywa preferowana w rejestrze bardziej formalnym lub redakcyjnie wyczyszczonym, choć obie formy są w pełni poprawne i powszechne."
+      },
+      {
+        "label": "The place where / the time when: ten sam wzorzec przysłówka względnego dopasowanego do znaczenia głowy",
+        "text": "Where i when w tych konstrukcjach to zwykłe przysłówki względne, których wybór determinuje wyłącznie semantyka rzeczownika-głowy — miejsce przyzywa where, czas przyzywa when, dokładnie tak samo, jak w zwyczajnych zdaniach względnych (the house where I grew up, the day when it happened) opisanych w osobnym temacie o zdaniach względnych. Jedyna różnica między zwykłym zdaniem względnym a jego użyciem jako 'cleft' leży nie w budowie klauzuli, lecz w POZYCJI i FUNKCJI całej frazy: gdy fraza 'rzeczownik + zdanie względne' zajmuje pozycję podmiotu całego zdania i jest domykana orzecznikiem z is/was, automatycznie zaczyna pełnić tę samą rolę ogniskującą, co it-cleft czy wh-cleft."
+      },
+      {
+        "label": "The one who/that: najbardziej uniwersalna, semantycznie 'pusta' głowa tej rodziny",
+        "text": "One to rzeczownik maksymalnie wyblakły znaczeniowo — nie niesie żadnej specyficznej treści poza 'osoba' lub 'rzecz', przez co the one who/that jest najbliższym odpowiednikiem what z wh-cleft w tej rodzinie konstrukcji, tylko ograniczonym leksykalnie do jednego, policzalnego bytu zamiast do dowolnej 'rzeczy'. Dzięki tej semantycznej pustce the one who jest wyjątkowo elastyczne: The one who helped us most was our neighbour. działa równie dobrze jak The one that caused the delay was the supplier. — 'who' dla osób, 'that' dla rzeczy lub neutralnie dla obu, na tej samej zasadzie różnicowania rejestru, co przy it-cleft."
+      }
     ],
     "usage": [
-      "Podkreślenie przyczyny czegoś (The reason why she left was the noise.)",
-      "Podkreślenie miejsca (The place where we met was a small café.)",
-      "Podkreślenie czasu (The time when I feel happiest is early morning.)",
-      "Ogólne podkreślenie osoby (The one who helped us most was our neighbour.)"
+      "Wyodrębnienie przyczyny jako kluczowej informacji, zwłaszcza w wyjaśnieniach i analizach (The reason why she left was the noise, not the salary.)",
+      "Wskazanie konkretnego miejsca jako centralnego punktu narracji (The place where we first met was a small café.)",
+      "Podkreślenie momentu w czasie o szczególnym znaczeniu (The time when I feel most productive is early morning.)",
+      "Wyróżnienie jednej, konkretnej osoby spośród możliwych kandydatów (The one who deserves the credit is our whole team, not just me.)"
     ],
-    "tags": ["The reason why", "The place where", "The time when", "The one who"],
+    "tags": ["The reason why", "The place where", "The time when", "The one who", "lexical-head cleft"],
     "examples": [
-      { "en": "The reason why she left was the noise.", "pl": "Powodem, dla którego wyszła, był hałas." },
-      { "en": "The place where we met was a small café.", "pl": "Miejscem, w którym się poznaliśmy, była mała kawiarnia." },
-      { "en": "The time when I feel happiest is early morning.", "pl": "Czas, w którym czuję się najszczęśliwszy, to wczesny poranek." },
-      { "en": "The one who helped us most was our neighbour.", "pl": "Osobą, która pomogła nam najbardziej, była nasza sąsiadka." }
+      { "en": "The reason why the project failed was a lack of communication, not a lack of resources.", "pl": "Projekt zawiódł z powodu braku komunikacji, nie z braku środków." },
+      { "en": "The place where I feel most at peace is my grandmother's garden.", "pl": "Miejscem, w którym czuję się najspokojniej, jest ogród mojej babci." },
+      { "en": "The time when tensions were highest was right before the final vote.", "pl": "Napięcie było największe tuż przed ostatecznym głosowaniem." },
+      { "en": "The one who really deserves an apology is the customer, not the staff.", "pl": "To klient zasługuje na przeprosiny, nie personel." }
+    ]
+  },
+  {
+    "id": "cleft_focus_negation",
+    "order": 5,
+    "nameEn": "Focus domain, negation and register — what cleft sentences can and cannot do",
+    "namePl": "Zakres fokusu, przeczenie i rejestr — granice tego, co da się rozszczepić",
+    "rules": [
+      {
+        "label": "Domena fokusu: co można wyjąć do rozszczepienia, a czego nie",
+        "text": "Nie każdy składnik zdania równie łatwo poddaje się rozszczepieniu. Podmiot, dopełnienie, okoliczniki czasu/miejsca/przyczyny — wszystkie te elementy swobodnie stają się fokusem it-cleft (It was Tom who..., It was the vase that..., It was yesterday that...). Sam czasownik główny (orzeczenie) jest jednak w tej roli niewygodny — nie da się naturalnie powiedzieć *It was broke that Tom did the vase; angielski musi wtedy sięgnąć po wh-cleft z pomocniczym 'do', przekształcając czynność w rzeczownikową frazę: What Tom did was break the vase. Ta asymetria nie jest przypadkowa: it-cleft wymaga, by wyjęty element dał się osadzić jako orzecznik po is/was w naturalny, rzeczownikowy sposób, a goły czasownik odmieniony tego wymogu nie spełnia — stąd systematyczna 'ucieczka' do wh-cleft za każdym razem, gdy fokusem ma być cała czynność."
+      },
+      {
+        "label": "Zaprzeczenie fokusu a zaprzeczenie prezupozycji: dwa zupełnie różne poziomy negacji",
+        "text": "It wasn't Tom who broke the vase. neguje wyłącznie TOŻSAMOŚĆ sprawcy — prezupozycja 'ktoś rozbił wazon' pozostaje w mocy (zob. temat wprowadzający o mechanizmie prezupozycji). Istnieje jednak drugi, rzadszy poziom negacji, w którym mówiący odrzuca SAMĄ prezupozycję, a nie tylko tożsamość fokusu — konstrukcja korygująca It's not that X, it's that Y. (dosłownie: 'nie chodzi o to, że X, tylko o to, że Y') służy właśnie do tego: nie wybiera między kandydatami w ramach uznanego faktu, lecz kwestionuje samo ramowanie sytuacji. It's not that I don't trust you — it's that I've been burned before. nie neguje tożsamości żadnego 'kandydata' w sensie it-cleft, lecz zastępuje całą przyczynową ramę jedną interpretacją drugą."
+      },
+      {
+        "label": "Cleft z czasownikiem modalnym i aspektem dokonanym — nakładanie się dwóch systemów",
+        "text": "Rama it-cleft (It + be + fokus + that/who...) doskonale łączy się z modalnością epistemiczną, tworząc zdania w rodzaju It must have been Tom who broke the vase. — tu 'must have been' wyraża stopień pewności mówiącego co do TOŻSAMOŚCI sprawcy (temat rozwinięty w dziale o modalnych wyrażających przypuszczenia o przeszłości), podczas gdy sama rama cleft nadal odpowiada za rozszczepienie i wyróżnienie. Te dwa systemy — modalność epistemiczna i struktura informacyjna — działają na różnych piętrach zdania i swobodnie się nakładają, co pozwala na precyzyjne wypowiedzi łączące niepewność co do faktu z jednoczesnym wyróżnieniem, którego elementu ta niepewność dotyczy."
+      },
+      {
+        "label": "Rejestr: od potocznej korekty do szkieletu formalnej argumentacji",
+        "text": "W mowie codziennej it-cleft służy niemal wyłącznie do bezpośredniej korekty i kontrastu w żywej rozmowie (It wasn't me who ate the last cookie!). W piśmie formalnym, akademickim i analitycznym cała rodzina konstrukcji rozszczepionych pełni jednak znacznie ambitniejszą rolę: staje się narzędziem SPOISTOŚCI tekstu (cohesion) i sygnalizowania struktury argumentu — zdania w rodzaju What this suggests is that... / It is precisely this ambiguity that accounts for the disagreement. / What remains unclear is whether... systematycznie otwierają lub domykają akapity, jasno wskazując czytelnikowi, który fragment analizy jest właśnie wprowadzany jako kluczowy wniosek. Ta funkcja porządkująco-sygnalizacyjna, praktycznie nieobecna w mowie potocznej, tłumaczy, dlaczego teksty naukowe i eseje analityczne roją się od konstrukcji rozszczepionych znacznie gęściej niż swobodna rozmowa."
+      }
+    ],
+    "usage": [
+      "Rozszczepienie czynności (nie samego rzeczownika) przez przejście na wh-cleft z 'do' (What Tom did was break the vase, not sell it.)",
+      "Odrzucenie całej ramy interpretacyjnej sytuacji, nie tylko jednego kandydata (It's not that the plan is bad, it's that the timing is wrong.)",
+      "Łączenie epistemicznej modalności z fokusem — wyrażenie stopnia pewności co do wyróżnionego elementu (It could have been the storm that caused the outage.)",
+      "Strukturyzowanie akapitu argumentacyjnego przez sygnalizowanie nadchodzącego wniosku (What remains unclear is whether the results can be replicated.)"
+    ],
+    "tags": ["What X did was", "It's not that...it's that", "It must have been", "focus domain", "cohesion in academic writing"],
+    "examples": [
+      { "en": "What the report actually did was expose a much bigger problem.", "pl": "Raport w rzeczywistości ujawnił dużo poważniejszy problem." },
+      { "en": "It's not that I disagree with the plan — it's that nobody consulted me.", "pl": "Nie chodzi o to, że nie zgadzam się z planem — chodzi o to, że nikt mnie nie zapytał." },
+      { "en": "It could well have been a software glitch that triggered the shutdown.", "pl": "Całkiem możliwe, że to usterka oprogramowania wywołała wyłączenie systemu." },
+      { "en": "What remains unclear is whether the committee will reconsider its decision.", "pl": "Wciąż nie wiadomo, czy komitet ponownie rozważy swoją decyzję." }
     ]
   }
 ]
