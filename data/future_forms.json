@@ -2,94 +2,212 @@
   {
     "id": "will",
     "order": 1,
-    "nameEn": "will — decisions, predictions, promises",
-    "namePl": "will — decyzje, przewidywania, obietnice",
+    "nameEn": "will — volition, prediction and the fossil of a wish",
+    "namePl": "will — wola, przewidywanie i skamielina dawnego czasownika 'chcieć'",
     "rules": [
-      { "label": "Budowa", "text": "will + bezokolicznik bez to (I will help, She won't come)" },
-      { "label": "Skróty", "text": "'ll w twierdzeniach (I'll call you), won't w przeczeniach (He won't be late)" }
+      {
+        "label": "Budowa",
+        "text": "will + bezokolicznik bez 'to' (I will help, She won't come), zawsze taka sama forma niezależnie od osoby i liczby. W mowie potocznej twierdzenia niemal zawsze kurczą się do 'll (I'll, she'll, it'll), a przeczenie do won't — te skróty nie są niedbałością, lecz naturalnym, w pełni akceptowalnym rejestrem nawet w piśmie nieformalnym."
+      },
+      {
+        "label": "Geneza: 'willan', czyli 'chcieć'",
+        "text": "'Will' nie zaczynało kariery jako znacznik czasu przyszłego. W staroangielskim 'willan' było pełnoprawnym, samodzielnym czasownikiem znaczącym 'chcieć, pragnąć, być skłonnym do czegoś' — odmieniało się przez osoby (ic wille, þu wilt, he wile) i mogło stać w zdaniu zupełnie samo, tak jak dziś czasownik 'want'. Angielski, jak wiele języków świata, nie miał w swojej najstarszej warstwie żadnej odrębnej, fleksyjnej formy czasu przyszłego — czasownik odmieniał się tylko na dwa czasy, teraźniejszy i przeszły. Przyszłość trzeba więc było wyrażać opisowo, a naturalnym kandydatem do tej roli stał się właśnie czasownik oznaczający wolę: to, czego ktoś 'chce', z natury rzeczy jeszcze się nie wydarzyło, więc semantyczny most między 'chceniem' a 'przyszłością' był krótki i logiczny. Ten sam mechanizm — czasownik woli lub zamiaru 'wyblakły' do znacznika czasu przyszłego — zaszedł niezależnie od siebie w wielu językach świata (np. w grece nowożytnej θα z 'thelo na', czyli 'chcę, żeby'), co pokazuje, że to nie przypadek angielski, lecz uniwersalna droga rozwoju gramatyki, jaką językoznawcy nazywają gramatykalizacją."
+      },
+      {
+        "label": "Dlaczego wola tłumaczy obietnice i groźby",
+        "text": "Choć 'will' semantycznie 'wyblakło' i dziś w zdaniach typu 'The sun will rise at 6am' nie ma już żadnego realnego elementu woli słońca, ślad dawnego znaczenia nie zniknął bez śladu — ujawnia się właśnie tam, gdzie w grze jest czyjaś świadoma wola. Obietnica ('I'll call you tomorrow, I promise') to nic innego jak publiczne zadeklarowanie własnej woli zrobienia czegoś. Groźba ('You'll regret this') to zapowiedź, że mówiący dopilnuje, by coś się stało. Oferta i gotowość do pomocy ('I'll carry that for you') to czysta wola działania. Nawet przeczenie 'won't' potrafi wyrazić upór — nie tylko brak przyszłego zdarzenia, ale czyjąś aktywną odmowę: 'He won't listen to reason' znaczy 'on nie CHCE słuchać', a nie tylko 'nie będzie słuchał'. Angielski posuwa tę logikę jeszcze dalej i personifikuje nią przedmioty nieożywione: 'The car won't start' dosłownie przypisuje samochodowi uparte, złośliwe 'niechcenie' — ślad czasownika 'chcieć' przetrwał więc głęboko w samej strukturze znaczeniowej 'will', mimo że na pierwszy rzut oka forma ta wygląda dziś na czysto gramatyczny wskaźnik czasu."
+      },
+      {
+        "label": "Spontaniczna decyzja: myśl i słowo w tym samym momencie",
+        "text": "Kiedy dzwoni telefon i ktoś mówi 'I'll get it!', decyzja o podniesieniu słuchawki nie istniała ani chwilę wcześniej niż samo zdanie — akt mówienia JEST aktem podjęcia decyzji, wypowiedziana wola i decyzja zlewają się w jedno zdarzenie. To dokładnie odwrotna sytuacja niż przy 'going to', gdzie decyzja poprzedza wypowiedź o niej (patrz temat 'going to'). Dlatego 'will' jest jedyną naturalną formą dla reakcji w czasie rzeczywistym: propozycji podjętych w danej chwili ('I'll have the soup, please'), nagłych ofert pomocy czy spontanicznych ustępstw w rozmowie ('OK, I'll try it, if you insist'). Skoro forma ta wciąż niesie skamieniały ślad znaczenia 'chcę', naturalnie pasuje do sytuacji, w której to właśnie akt chcenia — a nie wcześniejszy plan — rodzi zdanie."
+      },
+      {
+        "label": "Przewidywanie: opinia zamiast dowodu",
+        "text": "Gdy 'will' opisuje niepewną przyszłość ('I think it will rain tomorrow', 'She'll probably be late'), słowo 'chcieć' zniknęło już całkowicie z jego znaczenia — pozostał tylko czysty, subiektywny sąd mówiącego, oparty na jego wiedzy, doświadczeniu czy przeczuciu, a nie na namacalnym dowodzie widocznym w danej chwili (dla przewidywań opartych na dowodzie służy 'going to' — zobacz ten temat). To rozróżnienie zbudowało się historycznie na tej samej osi: tak jak wola dotyczy tego, co jeszcze nie istnieje, tak opinia dotyczy tego, czego jeszcze nie można zweryfikować — obie kategorie semantyczne żyją w tej samej, niepewnej strefie przyszłości, więc ten sam wehikuł gramatyczny mógł z czasem obsłużyć obie."
+      },
+      {
+        "label": "Zapomniany bliźniak: 'shall'",
+        "text": "Obok 'willan' istniał w staroangielskim drugi czasownik obsługujący przyszłość: 'sculan' ('być winnym, być zobowiązanym') — dzisiejsze 'shall', spokrewnione z rzeczownikiem 'debt' po drugiej stronie znaczeniowej mapy. Osiemnastowieczni gramatycy (najsłynniej John Wallis w 1653 r.) skodyfikowali sztuczną regułę: 'shall' dla zwykłej przyszłości przy I/we, 'will' dla zwykłej przyszłości przy you/he/she/it/they — a odwrócenie tego wzorca (I will, you shall) miało sygnalizować silną wolę lub obowiązek. Ta reguła nigdy nie odzwierciedlała realnej mowy większości Anglików, a we współczesnym angielskim (zwłaszcza amerykańskim) niemal zanikła: 'will' przejęło rolę uniwersalnego znacznika przyszłości dla wszystkich osób, a 'shall' przetrwało głównie w ofertach i sugestiach (Shall I open the window?, Shall we dance?) oraz w rejestrze formalnym i prawnym — szerzej w osobnym temacie 'Shall — oferty, formalna przyszłość i zobowiązania prawne'."
+      }
     ],
     "usage": [
-      "Spontaniczna decyzja podjęta w momencie mówienia (I'll answer the phone.)",
-      "Przewidywanie bez konkretnego dowodu, oparte na opinii (I think it will rain tomorrow.)",
-      "Obietnice, groźby i oferty (I'll help you with that.)",
-      "Fakty i pewne zdarzenia w przyszłości (The sun will rise at 6am.)"
+      "Spontaniczna decyzja podjęta dokładnie w momencie mówienia, bez wcześniejszego planu (I'll answer the phone.)",
+      "Przewidywanie oparte na osobistej opinii, wiedzy ogólnej lub przeczuciu, bez widocznego dowodu w danej chwili (I think it will rain tomorrow.)",
+      "Obietnice, groźby i deklaracje woli, w tym formalne zobowiązania (I'll help you with that. / You'll regret saying that.)",
+      "Oferty pomocy i zgoda wyrażona na miejscu, w reakcji na coś powiedzianego przed chwilą (I'll carry that bag for you.)",
+      "Fakty i prawa natury traktowane jako pewne, niezmienne przewidywania (The sun will rise at 6am. / Water will boil at 100°C at sea level.)",
+      "'won't' jako wyraz uporu lub odmowy — czyjejś lub czegoś nieożywionego, gdy zawodzi (He won't apologise. / My laptop won't turn on.)"
     ],
-    "tags": ["I'll help", "won't come", "will rain", "will rise"],
+    "tags": ["I'll help", "won't come", "will rain", "will rise", "willan", "spontaniczna decyzja"],
     "examples": [
-      { "en": "I'll answer the phone.", "pl": "Odbiorę telefon." },
-      { "en": "I think it will rain tomorrow.", "pl": "Myślę, że jutro będzie padać." },
-      { "en": "Don't worry, I'll help you with that.", "pl": "Nie martw się, pomogę ci z tym." },
-      { "en": "The sun will rise at 6am.", "pl": "Słońce wzejdzie o 6." }
+      { "en": "I'll answer the phone — you're clearly busy.", "pl": "Odbiorę telefon — widzę, że jesteś zajęty." },
+      { "en": "I think it will rain tomorrow, but I'm not sure.", "pl": "Myślę, że jutro będzie padać, ale nie jestem pewien." },
+      { "en": "Don't worry about the boxes, I'll help you carry them.", "pl": "Nie martw się o pudła, pomogę ci je znieść." },
+      { "en": "The printer won't cooperate no matter what I try.", "pl": "Drukarka w ogóle nie chce współpracować, cokolwiek robię." }
     ]
   },
   {
     "id": "going_to",
     "order": 2,
-    "nameEn": "going to — plans and evidence",
-    "namePl": "going to — plany i przewidywania z dowodem",
+    "nameEn": "be going to — a journey turned into a grammatical marker",
+    "namePl": "be going to — jak dosłowna podróż stała się znacznikiem przyszłości",
     "rules": [
-      { "label": "Budowa", "text": "am/is/are + going to + bezokolicznik (I'm going to travel, She isn't going to stay)" },
-      { "label": "Odmiana", "text": "going to odmienia się przez osoby razem z czasownikiem be (I am, you are, he is)" }
+      {
+        "label": "Budowa",
+        "text": "am/is/are + going to + bezokolicznik (I'm going to travel, She isn't going to stay). 'Going to' odmienia się razem z czasownikiem 'be' przez osoby, tak jak w czasie present continuous — bo strukturalnie właśnie z niego się wywodzi (patrz niżej). W szybkiej, nieformalnej mowie 'going to' redukuje się fonetycznie do 'gonna' [gənə] — to nie błąd ani slang bez reguł, lecz przewidywalny, systematyczny skrót, typowy dla form gramatycznych, które przeszły daleko posunięty proces starcia dźwiękowego (podobnie jak 'want to' → 'wanna', 'have to' → 'hafta')."
+      },
+      {
+        "label": "Geneza: od dosłownego ruchu do zamiaru",
+        "text": "'Be going to' to podręcznikowy, wielokrotnie opisywany w literaturze językoznawczej przykład gramatykalizacji — procesu, w którym swobodne, konkretne wyrażenie z czasem 'kostnieje' w sztywną konstrukcję gramatyczną o znaczeniu abstrakcyjnym. U progu angielszczyzny wczesnonowożytnej (XVI w.) zdanie w rodzaju 'I am going to London to visit my aunt' znaczyło dokładnie to, co mówi: ktoś jest fizycznie w drodze (present continuous czasownika 'go'), a bezokolicznik 'to visit' wyraża CEL tej podróży. Z czasem jednak mówiący zaczęli używać tej samej konstrukcji nawet bez żadnego fizycznego ruchu — sam fakt, że ktoś 'jest w drodze do' zrobienia czegoś, stał się metaforą dla każdego zamiaru, który już zaczął się urzeczywistniać w czyjejś głowie czy planach, niezależnie od tego, czy ktokolwiek fizycznie gdziekolwiek szedł."
+      },
+      {
+        "label": "Dowód na skamienienie: 'I'm going to go'",
+        "text": "Najlepszym dowodem na to, że 'going to' przestało być dosłownym ruchem, jest zdanie w rodzaju 'I'm going to go to the party' — gdyby 'going' wciąż znaczyło tylko 'idący', zdanie to byłoby absurdalnym powtórzeniem ('idę, żeby iść'). A jednak brzmi ono zupełnie naturalnie, bo mówiący intuicyjnie czuje, że 'going to' to już odrębna, samodzielna jednostka gramatyczna oznaczająca zamiar, całkowicie oderwana od znaczenia czasownika 'go', który przypadkiem stoi zaraz obok niej. To właśnie ta 'ślepota' rodzimych użytkowników na literalne znaczenie 'going' jest klasycznym testem na to, że dana konstrukcja przeszła pełną gramatykalizację."
+      },
+      {
+        "label": "Model mentalny: podróż, która już się zaczęła",
+        "text": "Najprościej wyobrazić sobie 'going to' jako ślad kognitywnego schematu ŹRÓDŁO–DROGA–CEL, głęboko zakorzenionego w ludzkim myśleniu o czasie i celowym działaniu (angielski nie jest tu wyjątkiem — metafora 'przyszłość jako podróż, do której już wyruszyliśmy' pojawia się w wielu językach). Używając 'going to', mówiący sygnalizuje: 'jestem już w drodze do tego celu — decyzja czy proces, który do niego prowadzi, ruszyły, zanim jeszcze o tym powiedziałem'. To odróżnia 'going to' od 'will': 'will' rodzi się w momencie mówienia, 'going to' opisuje coś, co jest już 'w toku' — decyzja podjęta wcześniej albo proces widoczny teraz."
+      },
+      {
+        "label": "Dlaczego dowód teraźniejszy prowadzi do 'going to'",
+        "text": "Ten sam mechanizm 'już w drodze' tłumaczy drugie, pozornie niezwiązane użycie 'going to' — przewidywania oparte na widocznym dowodzie ('Look at those clouds — it's going to rain.'). Ciemne chmury na niebie nie są arbitralnym sygnałem: to fizycznie widoczny POCZĄTEK procesu, który zmierza ku deszczowi — proces już wystartował, tak jak w metaforze podróży już rozpoczętej. 'Will' w tym samym zdaniu ('I think it will rain') byłoby możliwe, ale zmieniłoby sens na czystą opinię bez odniesienia do niczego konkretnego, co dzieje się właśnie teraz na niebie."
+      }
     ],
     "usage": [
-      "Wcześniej podjęty plan lub zamiar (We're going to visit Rome next year.)",
-      "Przewidywanie oparte na obecnym dowodzie (Look at those clouds — it's going to rain.)",
-      "Coś, co już zostało zdecydowane przed momentem mówienia",
-      "W mowie potocznej często skracane do gonna (I'm gonna call her.)"
+      "Wcześniej podjęty plan lub zamiar, o którym mówiący już zdecydował, zanim otworzył usta (We're going to visit Rome next year — we decided last month.)",
+      "Przewidywanie oparte na widocznym, namacalnym dowodzie w obecnej chwili (Look at those clouds — it's going to rain. / She's going to fall, she's leaning too far.)",
+      "Coś ustalone jako zamiar, ale bez formalnych, zewnętrznych ustaleń z drugą osobą — to odróżnia 'going to' od present continuous (patrz porównanie w kolejnym temacie)",
+      "W mowie potocznej niemal zawsze skracane do 'gonna' (I'm gonna call her tonight.) — rejestr nieformalny, rzadki w piśmie oficjalnym",
+      "Naturalnie łączy się nawet z czasownikiem 'go' bez poczucia powtórzenia (We're going to go home early.)"
     ],
-    "tags": ["going to travel", "isn't going to", "it's going to rain", "gonna call"],
+    "tags": ["going to travel", "isn't going to", "it's going to rain", "gonna", "grammatykalizacja"],
     "examples": [
-      { "en": "We're going to visit Rome next year.", "pl": "Wybieramy się do Rzymu w przyszłym roku." },
-      { "en": "Look at those clouds — it's going to rain.", "pl": "Spójrz na te chmury — będzie padać." },
-      { "en": "She isn't going to change her mind.", "pl": "Ona nie zmieni zdania." },
-      { "en": "He's going to gonna call her tonight.", "pl": "On zadzwoni do niej dziś wieczorem." }
+      { "en": "We're going to visit Rome next year — we've already booked the flights.", "pl": "Wybieramy się do Rzymu w przyszłym roku — mamy już zarezerwowane loty." },
+      { "en": "Look at those clouds — it's definitely going to rain within the hour.", "pl": "Spójrz na te chmury — na pewno będzie padać w ciągu godziny." },
+      { "en": "She isn't going to change her mind, no matter what you say.", "pl": "Ona nie zmieni zdania, cokolwiek jej powiesz." },
+      { "en": "Careful, that ladder is going to slip if you lean any further.", "pl": "Uważaj, ta drabina zaraz się poślizgnie, jeśli pochylisz się jeszcze bardziej." }
     ]
   },
   {
     "id": "present_continuous_future",
     "order": 3,
-    "nameEn": "present continuous for future arrangements",
-    "namePl": "czas present continuous dla przyszłych ustaleń",
+    "nameEn": "present continuous for the future — a plan that already exists now",
+    "namePl": "present continuous w przyszłości — ustalenie, które istnieje już teraz",
     "rules": [
-      { "label": "Budowa", "text": "am/is/are + czasownik z -ing (I'm meeting, They aren't leaving)" },
-      { "label": "Kontekst", "text": "prawie zawsze towarzyszy określenie czasu (tomorrow, next week, at 5pm)" }
+      {
+        "label": "Budowa",
+        "text": "am/is/are + czasownik z końcówką -ing (I'm meeting, They aren't leaving), niemal zawsze z jasnym określeniem czasu (tomorrow, next week, at 5pm, on Friday) — bez niego zdanie zostałoby odczytane jako opis czynności trwającej TERAZ, a nie planu na przyszłość."
+      },
+      {
+        "label": "Aspekt ciągły przeniesiony na plan, nie na zdarzenie",
+        "text": "Kluczowe pytanie brzmi: skoro samo zdarzenie (spotkanie, lot, kolacja) jeszcze się nie odbyło, co właściwie 'trwa' w tym present continuous? Odpowiedź leży w naturze aspektu ciągłego w angielskim (szerzej omówionego w temacie 'Czasy'): continuous nie mówi 'to się dzieje w tej sekundzie', lecz 'to jest w toku, w trakcie realizacji, jako stan rzeczy'. Gdy chodzi o przyszłość, tym, co jest 'w toku' TERAZ, nie jest samo zdarzenie, lecz ORGANIZACYJNE ISTNIENIE planu — fakt, że coś zostało uzgodnione, zapisane w kalendarzu, wprawione w ruch. 'I'm meeting Anna at 5pm' znaczy dosłownie: 'proces organizowania tego spotkania jest już zakończony i trwa jako ustalony fakt w moim świecie już teraz', mimo że samo spotkanie nastąpi dopiero za kilka godzin."
+      },
+      {
+        "label": "Dlaczego potrzeba drugiej strony i konkretnego momentu",
+        "text": "Ta interpretacja tłumaczy, dlaczego present continuous dla przyszłości niemal zawsze wymaga dwóch składników: konkretnego czasu ORAZ zwykle jakiejś formy uzgodnienia z kimś innym, miejscem lub instytucją (spotkanie z drugą osobą, zarezerwowany lot, zaplanowana impreza). Bez tego elementu 'ustalenia na zewnątrz' zdanie traci sens planu i wraca do czystego opisu czynności bieżącej. Dlatego mówimy 'I'm meeting Anna at 5pm' (istnieje ustalenie z drugą osobą, dokładny czas), ale nie powiemy w tym samym znaczeniu 'I'm being happy tomorrow' — 'bycie szczęśliwym' nie jest czymś, co można wcześniej 'zorganizować' i wprawić w ruch jako fakt społeczny."
+      },
+      {
+        "label": "Kontrast z 'going to': zamiar kontra ustalenie",
+        "text": "'Going to' i present continuous często można pomylić, bo oba opisują wcześniej podjęte plany, ale różnią się stopniem konkretności. 'I'm going to buy a new laptop' to zamiar — decyzja zapadła, ale żadne konkretne ustalenia jeszcze nie nastąpiły (nie wiadomo kiedy, gdzie, z kim). 'I'm picking up my new laptop tomorrow at 3pm' to już fakt zorganizowany w świecie zewnętrznym — konkretny czas, konkretne miejsce, być może umówione z kimś. Ta różnica to nie kwestia arbitralnej reguły, lecz naturalna konsekwencja znaczenia obu form: 'going to' opisuje stan umysłu (zamiar), a continuous opisuje stan rzeczy w świecie (ustalenie)."
+      },
+      {
+        "label": "Dlaczego czasowniki stanowe się opierają",
+        "text": "Czasowniki stanowe (know, like, want, belong — szerzej w temacie 'Czasowniki stanowe') opisują trwałe właściwości lub relacje, a nie kontrolowane, celowo zorganizowane działania — nie sposób 'zaplanować' czyjegoś stanu wiedzy czy uczucia tak, jak planuje się spotkanie, dlatego naturalnie nie pojawiają się w tej konstrukcji w swoim podstawowym, stanowym znaczeniu."
+      }
     ],
     "usage": [
-      "Konkretne, ustalone plany z inną osobą lub miejscem (I'm meeting Anna at 5pm.)",
-      "Umówione spotkania i wydarzenia zaplanowane w kalendarzu (We're flying to Paris on Friday.)",
-      "Różnica od going to: present continuous podkreśla, że coś jest już zorganizowane, a nie tylko zamierzone",
-      "Rzadko używane z czasownikami statycznymi (know, like, want)"
+      "Konkretne, ustalone plany z inną osobą, miejscem lub instytucją, zwykle z dokładnym czasem (I'm meeting Anna at 5pm tomorrow.)",
+      "Umówione spotkania i wydarzenia zaplanowane wcześniej, potwierdzone w kalendarzu lub rezerwacji (We're flying to Paris on Friday — the tickets are booked.)",
+      "Różnica względem 'going to': present continuous podkreśla, że plan jest już zorganizowany na zewnątrz, a nie tylko zamierzony w głowie mówiącego",
+      "Rzadko używane z czasownikami stanowymi w ich znaczeniu stanowym (know, like, want, belong)",
+      "Bez wyraźnego określenia czasu zdanie w tej formie odczytuje się domyślnie jako opis czynności trwającej w tej chwili, nie jako plan"
     ],
-    "tags": ["I'm meeting", "we're flying", "aren't leaving", "at 5pm"],
+    "tags": ["I'm meeting", "we're flying", "aren't leaving", "at 5pm", "ustalenie"],
     "examples": [
-      { "en": "I'm meeting Anna at 5pm tomorrow.", "pl": "Spotykam się jutro z Anną o 17." },
-      { "en": "We're flying to Paris on Friday.", "pl": "Lecimy do Paryża w piątek." },
-      { "en": "They aren't leaving until next week.", "pl": "Oni nie wyjeżdżają aż do przyszłego tygodnia." },
-      { "en": "Is she coming to the party tonight?", "pl": "Czy ona przyjdzie dziś wieczorem na imprezę?" }
+      { "en": "I'm meeting Anna at 5pm tomorrow to go over the contract.", "pl": "Spotykam się jutro z Anną o 17, żeby omówić umowę." },
+      { "en": "We're flying to Paris on Friday morning, straight after work.", "pl": "Lecimy do Paryża w piątek rano, zaraz po pracy." },
+      { "en": "They aren't leaving until next week, so there's no rush.", "pl": "Oni nie wyjeżdżają aż do przyszłego tygodnia, więc nie ma pośpiechu." },
+      { "en": "Is she coming to the party tonight, or did something come up?", "pl": "Przyjdzie dziś na imprezę, czy coś jej wypadło?" }
+    ]
+  },
+  {
+    "id": "present_simple_future",
+    "order": 4,
+    "nameEn": "present simple for the future — the timetable as a fact independent of anyone's will",
+    "namePl": "present simple w przyszłości — rozkład jazdy jako fakt niezależny od niczyjej woli",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "Zwykła forma present simple (The train leaves at 8:15. / The film starts at 7. / Term ends on 20 June.), bez żadnego elementu przyszłości w samej formie czasownika — jedynym sygnałem, że mowa o przyszłości, jest kontekst i podane wprost określenie czasu."
+      },
+      {
+        "label": "Present simple nie jest czasem 'teraz' — jest czasem faktów ogólnych",
+        "text": "Kluczowa poprawka intuicji, którą wielu uczących się nosi z nauki podstaw: present simple wcale nie jest przede wszystkim 'czasem teraźniejszym' w sensie 'dzieje się w tej chwili' — od tego jest present continuous. Present simple to czas STAŁYCH, OGÓLNYCH PRAWD i ZWYCZAJÓW: opisuje coś, co jest prawdziwe niezależnie od konkretnego momentu mówienia (I work in marketing. / Water boils at 100°C. / The shop opens at nine.). Rozkład jazdy pociągu czy program kina należą dokładnie do tej kategorii: 'pociąg odjeżdża o 8:15' nie jest osobistą decyzją nikogo obecnego w rozmowie — to ustalony, zewnętrzny, instytucjonalny FAKT o świecie, działający tak samo jak każda inna ogólna prawda, niezależnie od tego, czy ktokolwiek nim akurat jedzie."
+      },
+      {
+        "label": "Dlaczego to nie kwestia osobistej woli ani decyzji",
+        "text": "To właśnie ten brak osobistego udziału odróżnia present simple od pozostałych trzech form przyszłości. 'Will' niosłoby tu opinię mówiącego ('I think the train will leave at 8'), 'going to' sugerowałoby czyjś zamiar ('I'm going to leave at 8' — decyzja osoby), a present continuous opisywałoby czyjeś prywatne ustalenie ('I'm leaving at 8' — mój, indywidualny plan). Tymczasem 'The train leaves at 8:15' nie mówi nic o niczyjej woli — stwierdza fakt istniejący w rozkładzie, obowiązujący każdego pasażera jednakowo, tak jak fakt, że sklep otwiera się o dziewiątej, obowiązuje każdego klienta niezależnie od tego, czy akurat idzie na zakupy."
+      },
+      {
+        "label": "Ograniczenie do harmonogramów i ustaleń instytucjonalnych",
+        "text": "Właśnie dlatego present simple w funkcji przyszłości ogranicza się niemal wyłącznie do rozkładów jazdy, programów, kalendarzy akademickich, godzin otwarcia i innych zewnętrznie ustalonych, oficjalnych ram czasowych — a nie do osobistych planów. 'I fly to Rome on Tuesday' brzmi naturalnie, bo lot ma sztywny, zewnętrznie ustalony rozkład (godzina odlotu nie zależy od mówiącego), ale 'I cook dinner tomorrow' w tym samym znaczeniu already brzmi dziwnie — gotowanie kolacji nie jest zewnętrznym harmonogramem, lecz osobistym planem, dla którego właściwą formą byłoby 'going to' albo present continuous."
+      },
+      {
+        "label": "Przypadek brzegowy: zdania czasu i warunku",
+        "text": "Istnieje drugi, zupełnie odrębny powód, dla którego present simple zastępuje formy przyszłości — tym razem nie chodzi o rozkłady, lecz o twardą regułę składniową: po spójnikach czasu i warunku (when, before, after, until, as soon as, if, unless) angielski nigdy nie używa 'will' do wyrażania przyszłości, nawet jeśli cała reszta zdania mówi o przyszłości ('I'll call you when I arrive', nie 'when I will arrive'). To osobny mechanizm gramatyczny, wyjaśniony dogłębnie w temacie 'Zdania czasowe' — tutaj warto jedynie zapamiętać, że widok present simple w zdaniu o przyszłym sensie nie zawsze oznacza rozkład jazdy; czasem to sygnał zdania podrzędnego czasu lub warunku."
+      }
+    ],
+    "usage": [
+      "Rozkłady jazdy, loty, programy kin i teatrów — ustalone, zewnętrzne harmonogramy niezależne od woli mówiącego (The train leaves at 8:15. / The film starts at 7pm.)",
+      "Kalendarze instytucjonalne: godziny otwarcia, terminy semestrów, oficjalne daty wydarzeń (The conference begins on 3 March. / The shop closes at six on Sundays.)",
+      "Nigdy dla osobistych planów czy zamiarów — do tego służy 'going to' lub present continuous (nie: I cook dinner tomorrow, tylko: I'm cooking / going to cook dinner tomorrow)",
+      "Po spójnikach czasu i warunku (when, before, as soon as, if, unless) zamiast 'will', nawet gdy sens zdania jest wyraźnie przyszły — pełne wyjaśnienie w temacie 'Zdania czasowe'",
+      "Często we frazie pytającej o rozkład: What time does the train leave? / When does the film start?"
+    ],
+    "tags": ["train leaves", "film starts", "rozkład jazdy", "fakt instytucjonalny", "present simple future"],
+    "examples": [
+      { "en": "The last train to Manchester leaves at 11:40, so we should hurry.", "pl": "Ostatni pociąg do Manchesteru odjeżdża o 11:40, więc powinniśmy się pospieszyć." },
+      { "en": "Our flight departs at dawn, so we need to be at the airport by four.", "pl": "Nasz lot odlatuje o świcie, więc musimy być na lotnisku przed czwartą." },
+      { "en": "The new semester starts on the second of September this year.", "pl": "Nowy semestr zaczyna się w tym roku drugiego września." },
+      { "en": "I'll text you as soon as the meeting finishes.", "pl": "Napiszę do ciebie, jak tylko spotkanie się skończy." }
     ]
   },
   {
     "id": "future_forms_comparison",
-    "order": 4,
-    "nameEn": "choosing the right future form",
-    "namePl": "wybór właściwej formy przyszłości",
+    "order": 5,
+    "nameEn": "choosing a future form — English has no future tense, only future forms",
+    "namePl": "wybór formy przyszłości — dlaczego angielski nie ma czasu przyszłego, tylko jego namiastki",
     "rules": [
-      { "label": "will", "text": "spontaniczna decyzja, przewidywanie bez dowodu, obietnica, fakt" },
-      { "label": "going to", "text": "wcześniejszy plan/zamiar, przewidywanie na podstawie dowodu w teraźniejszości" },
-      { "label": "present continuous", "text": "konkretne, ustalone spotkanie lub wydarzenie z określonym czasem i miejscem" }
+      {
+        "label": "Kluczowa teza: brakująca gramatyczna forma",
+        "text": "W przeciwieństwie do czasu przeszłego (walk → walked, jedna fleksyjna końcówka na cały czasownik) angielski nie posiada i nigdy nie posiadał żadnej odrębnej końcówki czy formy czasownika oznaczającej wyłącznie przyszłość — to cecha wspólna całej rodziny języków germańskich (niemiecki 'werden', niderlandzki 'zullen' to również peryfrastyczne, opisowe konstrukcje, nie fleksja). Wszystko, co w angielskim nazywamy 'czasem przyszłym', to w rzeczywistości formy TERAŹNIEJSZE — czasownik modalny w formie present ('will'), czasownik 'be' w formie present + imiesłów ('going to'), aspekt ciągły w formie present ('am/is/are + -ing') albo zwykła forma present simple — którym mówiący pożycza ich podstawowe, teraźniejsze znaczenie modalne lub aspektowe i rzutuje je na czas jeszcze nienastały. Dlatego każda z czterech form 'przyszłości' niesie ze sobą inny odcień znaczeniowy, odziedziczony po jej pierwotnej, teraźniejszej funkcji — nie są to cztery synonimy do wyboru na chybił trafił, lecz cztery różne SOCZEWKI, przez które można patrzeć na to samo przyszłe zdarzenie."
+      },
+      {
+        "label": "Model decyzyjny: trzy pytania",
+        "text": "Wybór właściwej formy sprowadza się w praktyce do trzech pytań zadanych w tej kolejności. Po pierwsze: czy to fakt zewnętrzny, niezależny od niczyjej woli (rozkład, harmonogram), czy coś zależne od decyzji jakiejś osoby? Jeśli to fakt zewnętrzny → present simple. Po drugie, jeśli to zależy od decyzji: czy decyzja zapadła W TEJ CHWILI, w trakcie mówienia, czy wcześniej? Jeśli w tej chwili → will. Po trzecie, jeśli decyzja zapadła wcześniej: czy istnieją już konkretne, zewnętrzne ustalenia (czas, miejsce, druga strona) — czy to wciąż tylko zamiar w czyjejś głowie? Konkretne ustalenia → present continuous; sam zamiar, choćby stanowczy → going to. Ten sam schemat tłumaczy też przewidywania: opinia bez dowodu → will; dowód widoczny teraz → going to."
+      },
+      {
+        "label": "Ta sama sytuacja, cztery różne zdania",
+        "text": "Najlepiej widać różnicę na jednym wydarzeniu opisanym czterema sposobami. Wyobraźmy sobie czyjąś podróż do Berlina. 'I think I'll go to Berlin sometime' — czysta, niesprecyzowana opinia lub luźny pomysł, zrodzony właśnie teraz w rozmowie. 'I'm going to go to Berlin next year' — decyzja już podjęta, zamiar stanowczy, ale bez żadnych konkretnych ustaleń. 'I'm going to Berlin next Tuesday' — konkretny plan: bilet kupiony, może ktoś czeka na lotnisku, data i godzina ustalone. 'My flight to Berlin leaves at 6am on Tuesday' — czysty, bezosobowy fakt o rozkładzie lotu, prawdziwy niezależnie od tego, czy mówiący w ogóle wsiądzie na pokład. Cztery zdania, jedno wydarzenie, cztery zupełnie różne 'kamery', przez które angielski pozwala na nie spojrzeć."
+      },
+      {
+        "label": "Rejestr i pewność jako dodatkowa oś",
+        "text": "Poza logiką decyzji i dowodu, wybór formy niesie też subtelne sygnały stylistyczne. 'Going to' bywa nieco bardziej potoczne (zwłaszcza jako 'gonna'), podczas gdy 'will' brzmi neutralnie w każdym rejestrze i dominuje w piśmie formalnym oraz w przewidywaniach dotyczących odległej, niepewnej przyszłości. Present continuous brzmi najbardziej konkretnie i pewnie — sugeruje, że coś jest praktycznie już 'w ruchu' i nieodwołalne, dlatego często wybiera się je celowo, by zabrzmieć bardziej zdecydowanie niż przy użyciu 'going to' dla tego samego planu."
+      }
     ],
     "usage": [
-      "Spontaniczna reakcja w momencie mówienia → will (I'll get it!)",
-      "Plan zdecydowany wcześniej, bez konkretnych ustaleń → going to (I'm going to start a diet.)",
-      "Plan już potwierdzony, z konkretnym terminem → present continuous (I'm starting my new job on Monday.)",
-      "Przewidywanie z widocznym dowodem teraz → going to, bez dowodu → will"
+      "Spontaniczna reakcja w momencie mówienia, bez wcześniejszego planu → will (The phone is ringing — I'll get it!)",
+      "Przewidywanie z widocznym dowodem teraz → going to; przewidywanie jako czysta opinia bez dowodu → will (Look at those clouds, it's going to rain. / I think it'll rain later, but who knows.)",
+      "Decyzja podjęta wcześniej, ale bez konkretnych ustaleń → going to (I'm going to start a diet next month.)",
+      "Decyzja podjęta wcześniej I potwierdzona konkretnym ustaleniem z drugą stroną → present continuous (I'm starting my new job on Monday.)",
+      "Fakt zewnętrzny, niezależny od niczyjej woli, np. rozkład jazdy → present simple (My train leaves at 6am, so I'm starting my new job on Monday and I'll try not to be late.)"
     ],
-    "tags": ["I'll get it", "going to start", "starting on Monday", "it's going to fall"],
+    "tags": ["will vs going to", "future forms", "model decyzyjny", "cztery soczewki przyszłości"],
     "examples": [
-      { "en": "The phone is ringing — I'll get it!", "pl": "Telefon dzwoni — odbiorę!" },
-      { "en": "I'm going to start a diet next month.", "pl": "Zacznę dietę w przyszłym miesiącu." },
-      { "en": "I'm starting my new job on Monday.", "pl": "Zaczynam nową pracę w poniedziałek." },
-      { "en": "Careful, that vase is going to fall!", "pl": "Uważaj, ten wazon zaraz spadnie!" }
+      { "en": "The phone is ringing — I'll get it! Don't get up.", "pl": "Telefon dzwoni — odbiorę! Nie wstawaj." },
+      { "en": "We've already decided: we're going to repaint the kitchen this weekend.", "pl": "Już zdecydowaliśmy: przemalujemy kuchnię w ten weekend." },
+      { "en": "I'm having dinner with the Hendersons on Saturday — it's been in the diary for weeks.", "pl": "Jem kolację z Hendersonami w sobotę — jest to zapisane w kalendarzu od tygodni." },
+      { "en": "The museum opens at ten, so we'll meet outside at half past nine.", "pl": "Muzeum otwiera się o dziesiątej, więc spotkamy się na zewnątrz o wpół do dziesiątej." }
     ]
   }
 ]
