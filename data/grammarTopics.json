@@ -227,9 +227,9 @@
     "id": "participle_clauses",
     "icon": "🧵",
     "title": "Imiesłowy",
-    "desc": "Imiesłowy czasownikowe (Having done…, Being…, Written…) do skracania zdań — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40,
-    "level": "b1"
+    "desc": "Imiesłowy czasownikowe od korzeni: łacińska moda na zwięzłość za ablativus absolutus, relikt dawnego 'be-perfect' w retired/fallen/escaped, redukcja zdań względnych a leksykalizacja imiesłowu przed rzeczownikiem, zasada zgodności podmiotu i jej skamieniałe wyjątki (generally speaking, given, barring) — ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 50,
+    "level": "b2"
   },
   {
     "id": "modals_perfect",
