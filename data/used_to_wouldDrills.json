@@ -1,45 +1,442 @@
 [
-  {"id": 1, "itemId": "used_to_affirmative", "prompt": "I ___ play football every weekend when I was young.", "answer": "used to", "distractors": ["use to", "would", "am used to"]},
-  {"id": 2, "itemId": "used_to_affirmative", "prompt": "She ___ live in Berlin before moving to London.", "answer": "used to", "distractors": ["use to", "uses to", "is used to"]},
-  {"id": 3, "itemId": "used_to_affirmative", "prompt": "There ___ be a cinema on this street.", "answer": "used to", "distractors": ["use to", "would", "was used to"]},
-  {"id": 4, "itemId": "used_to_affirmative", "prompt": "He ___ be much thinner.", "answer": "used to", "distractors": ["use to", "would", "is used to"]},
-  {"id": 5, "itemId": "used_to_affirmative", "prompt": "We ___ go to the beach every summer as kids.", "answer": "used to", "distractors": ["use to", "uses to", "would to"]},
-  {"id": 6, "itemId": "used_to_affirmative", "prompt": "My grandmother ___ bake bread every Sunday.", "answer": "used to", "distractors": ["use to", "would to", "is used to"]},
-  {"id": 7, "itemId": "used_to_affirmative", "prompt": "They ___ own a small farm in the countryside.", "answer": "used to", "distractors": ["use to", "would", "uses to"]},
-  {"id": 8, "itemId": "used_to_affirmative", "prompt": "I ___ believe in ghosts when I was a child.", "answer": "used to", "distractors": ["use to", "would", "am used to"]},
-  {"id": 9, "itemId": "used_to_affirmative", "prompt": "This building ___ be a school.", "answer": "used to", "distractors": ["use to", "would", "is used to"]},
-  {"id": 10, "itemId": "used_to_affirmative", "prompt": "He ___ have a beard, but he shaved it off.", "answer": "used to", "distractors": ["use to", "would", "uses to"]},
-
-  {"id": 11, "itemId": "used_to_negative_questions", "prompt": "I ___ like coffee, but now I love it.", "answer": "didn't use to", "distractors": ["don't use to", "didn't used to", "wouldn't"]},
-  {"id": 12, "itemId": "used_to_negative_questions", "prompt": "Did you ___ play an instrument when you were a child?", "answer": "use to", "distractors": ["used to", "would", "using to"]},
-  {"id": 13, "itemId": "used_to_negative_questions", "prompt": "She ___ eat meat before she became vegetarian.", "answer": "didn't use to", "distractors": ["doesn't use to", "didn't used to", "wouldn't to"]},
-  {"id": 14, "itemId": "used_to_negative_questions", "prompt": "Did they ___ live in this house?", "answer": "use to", "distractors": ["used to", "would", "uses to"]},
-  {"id": 15, "itemId": "used_to_negative_questions", "prompt": "We ___ have a car, so we always walked.", "answer": "didn't use to", "distractors": ["don't use to", "didn't used to", "weren't used to"]},
-  {"id": 16, "itemId": "used_to_negative_questions", "prompt": "___ you use to visit your grandparents every summer?", "answer": "Did", "distractors": ["Do", "Would", "Were"]},
-  {"id": 17, "itemId": "used_to_negative_questions", "prompt": "He ___ smoke, but he quit years ago.", "answer": "didn't use to", "distractors": ["doesn't use to", "didn't used to", "wouldn't"]},
-  {"id": 18, "itemId": "used_to_negative_questions", "prompt": "Didn't you ___ work here a few years ago?", "answer": "use to", "distractors": ["used to", "would", "using to"]},
-  {"id": 19, "itemId": "used_to_negative_questions", "prompt": "They ___ travel abroad much before the pandemic.", "answer": "didn't use to", "distractors": ["don't use to", "didn't used to", "weren't used to"]},
-  {"id": 20, "itemId": "used_to_negative_questions", "prompt": "Did she ___ be so shy?", "answer": "use to", "distractors": ["used to", "would", "using to"]},
-
-  {"id": 21, "itemId": "would_habits", "prompt": "Every summer, we ___ go camping in the mountains.", "answer": "would", "distractors": ["used to", "use to", "were"]},
-  {"id": 22, "itemId": "would_habits", "prompt": "My grandfather ___ tell us stories before bed.", "answer": "would", "distractors": ["used", "use to", "was"]},
-  {"id": 23, "itemId": "would_habits", "prompt": "As a child, she ___ read for hours every day.", "answer": "would", "distractors": ["was", "used", "use to"]},
-  {"id": 24, "itemId": "would_habits", "prompt": "He ___ always arrive late to class.", "answer": "would", "distractors": ["used", "use to", "did"]},
-  {"id": 25, "itemId": "would_habits", "prompt": "When I was young, my mother ___ sing to me every night.", "answer": "would", "distractors": ["used", "use to", "was"]},
-  {"id": 26, "itemId": "would_habits", "prompt": "On Sundays, we ___ walk to the market together.", "answer": "would", "distractors": ["used", "use to", "were"]},
-  {"id": 27, "itemId": "would_habits", "prompt": "My friends and I ___ play in the park after school.", "answer": "would", "distractors": ["used", "use to", "was"]},
-  {"id": 28, "itemId": "would_habits", "prompt": "She ___ often visit her aunt during the holidays.", "answer": "would", "distractors": ["used", "use to", "was"]},
-  {"id": 29, "itemId": "would_habits", "prompt": "Every winter, they ___ build a snowman in the garden.", "answer": "would", "distractors": ["used", "use to", "were"]},
-  {"id": 30, "itemId": "would_habits", "prompt": "He ___ write letters to his brother every month.", "answer": "would", "distractors": ["used", "use to", "was"]},
-
-  {"id": 31, "itemId": "used_to_vs_would_vs_past_simple", "prompt": "I ___ long hair when I was a teenager.", "answer": "used to have", "distractors": ["would have", "would", "have used to"]},
-  {"id": 32, "itemId": "used_to_vs_would_vs_past_simple", "prompt": "She ___ afraid of dogs, but not anymore.", "answer": "used to be", "distractors": ["would be", "would", "was used to"]},
-  {"id": 33, "itemId": "used_to_vs_would_vs_past_simple", "prompt": "When we were children, we ___ visit our grandparents every Sunday.", "answer": "would", "distractors": ["used to being", "used", "were used to"]},
-  {"id": 34, "itemId": "used_to_vs_would_vs_past_simple", "prompt": "I ___ Paris last year.", "answer": "visited", "distractors": ["used to visit", "would visit", "was visiting"]},
-  {"id": 35, "itemId": "used_to_vs_would_vs_past_simple", "prompt": "My father ___ a taxi driver before he retired.", "answer": "used to be", "distractors": ["would be", "would", "was used to"]},
-  {"id": 36, "itemId": "used_to_vs_would_vs_past_simple", "prompt": "Every day after school, he ___ football with his friends.", "answer": "would play", "distractors": ["used to playing", "was play", "use to play"]},
-  {"id": 37, "itemId": "used_to_vs_would_vs_past_simple", "prompt": "They ___ this house in 2015.", "answer": "bought", "distractors": ["used to buy", "would buy", "were buying"]},
-  {"id": 38, "itemId": "used_to_vs_would_vs_past_simple", "prompt": "We ___ own a dog when I was little.", "answer": "used to", "distractors": ["would", "use to", "were used to"]},
-  {"id": 39, "itemId": "used_to_vs_would_vs_past_simple", "prompt": "___ you like broccoli as a child?", "answer": "Did", "distractors": ["Would", "Used", "Were"]},
-  {"id": 40, "itemId": "used_to_vs_would_vs_past_simple", "prompt": "He ___ his wallet on the bus yesterday.", "answer": "lost", "distractors": ["used to lose", "would lose", "was losing"]}
+  {
+    "id": 1,
+    "itemId": "used_to_affirmative",
+    "prompt": "There ___ a small bakery right where the bank is now.",
+    "answer": "used to be",
+    "distractors": [
+      "use to be",
+      "was used to",
+      "would be"
+    ]
+  },
+  {
+    "id": 2,
+    "itemId": "used_to_affirmative",
+    "prompt": "My grandfather ___ own a small farm before the war.",
+    "answer": "used to",
+    "distractors": [
+      "uses to",
+      "was used to",
+      "use to"
+    ]
+  },
+  {
+    "id": 3,
+    "itemId": "used_to_affirmative",
+    "prompt": "She ___ so much taller than me — now I've overtaken her.",
+    "answer": "used to be",
+    "distractors": [
+      "use to be",
+      "would be",
+      "is used to being"
+    ]
+  },
+  {
+    "id": 4,
+    "itemId": "used_to_affirmative",
+    "prompt": "This whole area ___ nothing but fields; now it's all housing estates.",
+    "answer": "used to be",
+    "distractors": [
+      "would be",
+      "was used to be",
+      "used to being"
+    ]
+  },
+  {
+    "id": 5,
+    "itemId": "used_to_affirmative",
+    "prompt": "I ___ believe in ghosts when I was little.",
+    "answer": "used to",
+    "distractors": [
+      "would",
+      "use to",
+      "was used to"
+    ]
+  },
+  {
+    "id": 6,
+    "itemId": "used_to_affirmative",
+    "prompt": "We ___ know each other's phone numbers by heart — nobody does anymore.",
+    "answer": "used to",
+    "distractors": [
+      "would",
+      "use to",
+      "were used to"
+    ]
+  },
+  {
+    "id": 7,
+    "itemId": "used_to_affirmative",
+    "prompt": "He ___ have a terrible temper, but therapy really changed him.",
+    "answer": "used to",
+    "distractors": [
+      "would",
+      "uses to",
+      "is used to"
+    ]
+  },
+  {
+    "id": 8,
+    "itemId": "used_to_affirmative",
+    "prompt": "Choose the correct verb form: 'She ___ own a bookshop downtown.'",
+    "answer": "used to",
+    "distractors": [
+      "use to",
+      "would",
+      "uses to"
+    ]
+  },
+  {
+    "id": 9,
+    "itemId": "used_to_affirmative",
+    "prompt": "This song ___ mean nothing to me; now it brings back every memory of that summer.",
+    "answer": "used to",
+    "distractors": [
+      "would",
+      "use to",
+      "is used to"
+    ]
+  },
+  {
+    "id": 10,
+    "itemId": "used_to_affirmative",
+    "prompt": "___ a lovely little cinema on this corner, but it closed down in the nineties.",
+    "answer": "There used to be",
+    "distractors": [
+      "There would be",
+      "There uses to be",
+      "There was used to be"
+    ]
+  },
+  {
+    "id": 11,
+    "itemId": "used_to_negative_questions",
+    "prompt": "I ___ like spicy food, but now I put chilli on everything.",
+    "answer": "didn't use to",
+    "distractors": [
+      "didn't used to",
+      "wasn't used to",
+      "don't use to"
+    ]
+  },
+  {
+    "id": 12,
+    "itemId": "used_to_negative_questions",
+    "prompt": "___ you use to live near the station?",
+    "answer": "Did",
+    "distractors": [
+      "Do",
+      "Have",
+      "Were"
+    ]
+  },
+  {
+    "id": 13,
+    "itemId": "used_to_negative_questions",
+    "prompt": "___ she work here before moving to the other branch?",
+    "answer": "Did she use to",
+    "distractors": [
+      "Did she used to",
+      "Was she used to",
+      "Has she used to"
+    ]
+  },
+  {
+    "id": 14,
+    "itemId": "used_to_negative_questions",
+    "prompt": "He ___ eat meat as a teenager; now he's the first to order a steak.",
+    "answer": "never used to",
+    "distractors": [
+      "never uses to",
+      "didn't used to",
+      "wasn't used to"
+    ]
+  },
+  {
+    "id": 15,
+    "itemId": "used_to_negative_questions",
+    "prompt": "Formal/archaic negation without 'do': 'I ___ trust politicians.'",
+    "answer": "usedn't to",
+    "distractors": [
+      "didn't use to",
+      "not used to",
+      "wouldn't use to"
+    ]
+  },
+  {
+    "id": 16,
+    "itemId": "used_to_negative_questions",
+    "prompt": "'Did you use to' and '___' mean exactly the same thing, one just older-sounding.",
+    "answer": "Used you to",
+    "distractors": [
+      "Did you used to",
+      "Have you used to",
+      "Do you use to"
+    ]
+  },
+  {
+    "id": 17,
+    "itemId": "used_to_negative_questions",
+    "prompt": "Did you ___ smoke when you were at university?",
+    "answer": "use to",
+    "distractors": [
+      "used to",
+      "using to",
+      "uses to"
+    ]
+  },
+  {
+    "id": 18,
+    "itemId": "used_to_negative_questions",
+    "prompt": "We ___ have a car, so we walked everywhere.",
+    "answer": "didn't use to",
+    "distractors": [
+      "didn't used to",
+      "haven't used to",
+      "don't used to"
+    ]
+  },
+  {
+    "id": 19,
+    "itemId": "used_to_negative_questions",
+    "prompt": "I ___ mind the cold at all until I moved to Norway.",
+    "answer": "didn't use to",
+    "distractors": [
+      "didn't used to",
+      "wasn't used to",
+      "don't use to"
+    ]
+  },
+  {
+    "id": 20,
+    "itemId": "used_to_negative_questions",
+    "prompt": "___ your parents use to punish you when you misbehaved?",
+    "answer": "How did",
+    "distractors": [
+      "How used",
+      "How would did",
+      "How were"
+    ]
+  },
+  {
+    "id": 21,
+    "itemId": "would_habits",
+    "prompt": "Every Sunday, my aunt ___ bake bread for the whole street.",
+    "answer": "would",
+    "distractors": [
+      "used",
+      "was used to",
+      "will"
+    ]
+  },
+  {
+    "id": 22,
+    "itemId": "would_habits",
+    "prompt": "As a teenager she ___ incredibly shy — a state, so 'would' simply doesn't work here.",
+    "answer": "used to be",
+    "distractors": [
+      "would be",
+      "would being",
+      "use to be"
+    ]
+  },
+  {
+    "id": 23,
+    "itemId": "would_habits",
+    "prompt": "When I was a student, I ___ study in the library until midnight.",
+    "answer": "would",
+    "distractors": [
+      "used",
+      "would used to",
+      "was used to"
+    ]
+  },
+  {
+    "id": 24,
+    "itemId": "would_habits",
+    "prompt": "She ___ so shy that she wouldn't even answer the phone.",
+    "answer": "used to be",
+    "distractors": [
+      "would be",
+      "would used to be",
+      "was use to be"
+    ]
+  },
+  {
+    "id": 25,
+    "itemId": "would_habits",
+    "prompt": "In summer, the old fisherman ___ sit on the pier for hours, saying nothing.",
+    "answer": "would",
+    "distractors": [
+      "used",
+      "would used",
+      "is used to"
+    ]
+  },
+  {
+    "id": 26,
+    "itemId": "would_habits",
+    "prompt": "He ___ three cars, though you'd never guess it from how modestly he lives now.",
+    "answer": "used to own",
+    "distractors": [
+      "would own",
+      "would owned",
+      "uses to own"
+    ]
+  },
+  {
+    "id": 27,
+    "itemId": "would_habits",
+    "prompt": "'She'd tell us stories every night' — here 'She'd' stands for 'She ___'.",
+    "answer": "would",
+    "distractors": [
+      "had",
+      "did",
+      "should"
+    ]
+  },
+  {
+    "id": 28,
+    "itemId": "would_habits",
+    "prompt": "Complete the narrative: 'When I was a child, we lived by the sea. Every morning my father ___ take me for a swim before school.'",
+    "answer": "would",
+    "distractors": [
+      "used",
+      "uses to",
+      "was used to"
+    ]
+  },
+  {
+    "id": 29,
+    "itemId": "would_habits",
+    "prompt": "As a boy, my uncle ___ often disappear for days at a time without any explanation.",
+    "answer": "would",
+    "distractors": [
+      "used",
+      "uses to",
+      "was used to"
+    ]
+  },
+  {
+    "id": 30,
+    "itemId": "would_habits",
+    "prompt": "You can say 'he would visit', but never 'he would know', because 'know' is a ___ verb.",
+    "answer": "stative",
+    "distractors": [
+      "dynamic",
+      "modal",
+      "phrasal"
+    ]
+  },
+  {
+    "id": 31,
+    "itemId": "used_to_vs_would_vs_past_simple",
+    "prompt": "I ___ Rome for the first time in 2018 — it was a single trip.",
+    "answer": "visited",
+    "distractors": [
+      "used to visit",
+      "would visit",
+      "was visiting"
+    ]
+  },
+  {
+    "id": 32,
+    "itemId": "used_to_vs_would_vs_past_simple",
+    "prompt": "Which verb form is IMPOSSIBLE here: 'She ___ own a red bicycle when she was ten.'",
+    "answer": "would own",
+    "distractors": [
+      "used to own",
+      "owned",
+      "had owned"
+    ]
+  },
+  {
+    "id": 33,
+    "itemId": "used_to_vs_would_vs_past_simple",
+    "prompt": "After six months abroad, I finally ___ the local food.",
+    "answer": "got used to",
+    "distractors": [
+      "used to",
+      "would get used to",
+      "was used to get"
+    ]
+  },
+  {
+    "id": 34,
+    "itemId": "used_to_vs_would_vs_past_simple",
+    "prompt": "I am used to ___ nights now, after years on this shift.",
+    "answer": "working",
+    "distractors": [
+      "work",
+      "worked",
+      "have worked"
+    ]
+  },
+  {
+    "id": 35,
+    "itemId": "used_to_vs_would_vs_past_simple",
+    "prompt": "We used to live in a tiny flat; every evening my mother would open the window and the smell of the neighbours' cooking ___ fill the room.",
+    "answer": "would",
+    "distractors": [
+      "used to",
+      "use to",
+      "was used to"
+    ]
+  },
+  {
+    "id": 36,
+    "itemId": "used_to_vs_would_vs_past_simple",
+    "prompt": "In 'I am used to working nights', the verb after 'to' takes the ___ form.",
+    "answer": "gerund (-ing)",
+    "distractors": [
+      "bare infinitive",
+      "to-infinitive",
+      "past participle"
+    ]
+  },
+  {
+    "id": 37,
+    "itemId": "used_to_vs_would_vs_past_simple",
+    "prompt": "I ___ Paris in 2019 — a single, one-off trip, so 'used to' is impossible here.",
+    "answer": "visited",
+    "distractors": [
+      "used to visit",
+      "would visit",
+      "was visiting"
+    ]
+  },
+  {
+    "id": 38,
+    "itemId": "used_to_vs_would_vs_past_simple",
+    "prompt": "It took the new intern weeks to ___ the early shifts.",
+    "answer": "get used to",
+    "distractors": [
+      "use to",
+      "would get used",
+      "used to get"
+    ]
+  },
+  {
+    "id": 39,
+    "itemId": "used_to_vs_would_vs_past_simple",
+    "prompt": "When unsure whether 'used to' or 'would' fits a stative verb, the safest default is simply the ___ tense.",
+    "answer": "Past Simple",
+    "distractors": [
+      "Present Perfect",
+      "Past Continuous",
+      "Future Simple"
+    ]
+  },
+  {
+    "id": 40,
+    "itemId": "used_to_vs_would_vs_past_simple",
+    "prompt": "He'll never ___ the noise of this city, no matter how long he lives here.",
+    "answer": "get used to",
+    "distractors": [
+      "use to",
+      "used to",
+      "be use to"
+    ]
+  }
 ]
