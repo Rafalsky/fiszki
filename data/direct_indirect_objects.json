@@ -1,94 +1,192 @@
 [
   {
-    "id": "ditransitive_two_objects",
+    "id": "dative_case_origins",
     "order": 1,
-    "nameEn": "Verb + indirect object + direct object",
-    "namePl": "Czasownik + dopełnienie pośrednie + dopełnienie bliższe",
+    "nameEn": "where two objects come from — the lost Old English dative case and the two repairs that replaced it",
+    "namePl": "skąd biorą się dwa dopełnienia — zanik staroangielskiego celownika i dwie strategie, które go zastąpiły",
     "rules": [
-      { "label": "Kolejność", "text": "Po czasownikach typu give, show, tell, send, buy, lend można postawić najpierw osobę (dopełnienie pośrednie), a zaraz po niej rzecz (dopełnienie bliższe) — bez przyimka" },
-      { "label": "Bez to/for", "text": "W tym szyku nie używa się to ani for między czasownikiem a osobą: give me the book, nie give to me the book" }
+      {
+        "label": "Staroangielski celownik: 'komu' było zakodowane w końcówce, nie w pozycji w zdaniu",
+        "text": "Staroangielski (do ok. XI w.) miał pełny system czterech przypadków rzeczownika — mianownik, biernik, dopełniacz i celownik — a odbiorca czynności (dzisiejsze 'dopełnienie pośrednie') był oznaczany właśnie celownikiem, osobną końcówką fleksyjną: 'Ic sealde þǣm cyninge þone hring' — dosłownie 'Ja dałem [temu] królowi [ten] pierścień', gdzie 'cyninge' to celownik od 'cyning' (król). Kluczowe jest to, że skoro rola gramatyczna 'komu?' była już jednoznacznie zaznaczona samą końcówką rzeczownika, KOLEJNOŚĆ słów w zdaniu mogła być względnie swobodna — staroangielski dopuszczał zarówno 'dałem królowi pierścień', jak i szyki z przestawionymi elementami, bo i tak nie było wątpliwości, kto jest odbiorcą, a co przedmiotem. To fundamentalnie różni się od dzisiejszego angielskiego, w którym samo miejsce słowa w zdaniu NIESIE informację gramatyczną."
+      },
+      {
+        "label": "Dlaczego 'give me' i 'give him', a nie 'give I' i 'give he' — relikt zaimkowego celownika",
+        "text": "Staroangielskie zaimki osobowe miały odrębne formy celownika (mē, þē, him, hire, ūs, ēow, him) i biernika (mec, þec, hine, hīe, ūsic, ēowic, hīe) — podobnie jak dziś jeszcze niemiecki rozróżnia celownik od biernika (mir/mich, ihm/ihn). Już pod koniec okresu staroangielskiego formy celownika i biernika zaimków zaczęły się ze sobą zlewać, a to właśnie stara forma celownika najczęściej zwyciężała w tym połączeniu — stąd dzisiejsze 'me', 'him', 'her', 'us', 'them' pełnią jednocześnie rolę dawnego celownika (komu?) i biernika (kogo? co?), czego ślad widać właśnie w zdaniach z dwoma dopełnieniami: 'give me the book' — 'me' to historycznie ta sama forma, która niegdyś samodzielnie, bez żadnego szyku, sygnalizowała 'odbiorcy'. Angielski, w przeciwieństwie do niemieckiego, dawno przestał rozróżniać biernik i celownik osobno w rzeczownikach, ale w zaimkach zachował po nich jeden wspólny, 'stopiony' relikt."
+      },
+      {
+        "label": "Upadek końcówek: dlaczego składnia musiała przejąć robotę przypadka",
+        "text": "Między XI a XIV wiekiem angielski przeszedł jedną z najgłębszych przemian w swojej historii: masową redukcję nieakcentowanych samogłosek w końcówkach wyrazów (schwa-collapse), która zatarła różnice między dawnymi końcówkami celownika, biernika i dopełniacza — proces przyspieszony chaosem językowym po podboju normandzkim (1066), gdy pisaną normą administracyjną i prawną stał się francuski, a angielski przez ok. 200 lat funkcjonował głównie jako język mówiony, pozbawiony konserwującej siły ustandaryzowanego zapisu. Efekt: rzeczowniki w średnioangielskim praktycznie utraciły odrębne oznaczenie celownika. Problem: zdanie z dwoma dopełnieniami ('dałem [komu] [co]') wciąż musiało jakoś rozróżniać odbiorcę od przedmiotu — skoro końcówka już tego nie robiła, funkcję tę musiała przejąć SAMA SKŁADNIA, czyli pozycja słów i przyimki."
+      },
+      {
+        "label": "Dwie niezależne 'łaty' na tę samą dziurę: szyk słów i jawny przyimek",
+        "text": "Angielski rozwiązał tę utraconą funkcję na DWA równoległe, konkurencyjne sposoby, które przetrwały do dziś jako dwa alternatywne wzorce zdania: (1) skostniały SZYK SŁÓW — odbiorca zawsze bezpośrednio po czasowniku, przedmiot zaraz po nim, bez żadnego przyimka (give me the book) — to skamieniała pamiątka po starej kolejności celownik-przed-biernikiem, tyle że dziś to WYŁĄCZNIE pozycja, a nie żadna końcówka, niesie informację 'kto jest odbiorcą'; oraz (2) jawny PRZYIMEK doczepiony do odbiorcy, przejmujący dokładnie tę robotę, którą kiedyś wykonywała końcówka celownika (give the book to me) — mechanizm dokładnie analogiczny do tego, jak przyimek 'of' przejął w dużej mierze funkcję zanikającego dopełniacza rzeczownika. Kolejne dwa tematy rozwijają każdą z tych dwóch strategii osobno."
+      }
     ],
     "usage": [
-      "Gdy oba dopełnienia są krótkie, zwykle w formie zaimka lub prostego rzeczownika",
-      "Typowe czasowniki: give, show, tell, send, buy, lend, offer, teach, bring, pass",
-      "Naturalny, potoczny szyk zdania w mówionym i pisanym angielskim",
-      "Osoba (odbiorca) zawsze pojawia się przed rzeczą w tym wzorze"
+      "Rozpoznaj, że 'give me the book' i 'give the book to me' to nie dwa przypadkowe warianty tego samego zdania, tylko dwie różne historyczne strategie zastępujące dawną końcówkę celownika",
+      "Szyk bez przyimka (give me...) to najstarsza, odziedziczona wprost z pozycji celownik-przed-biernikiem kolejność słów",
+      "Szyk z przyimkiem (give... to me) to nowsza 'łata', w której to/for przejęło funkcję zanikłej końcówki fleksyjnej",
+      "Zaimki osobowe (me, him, her, us, them) to jedyne miejsce w dzisiejszej gramatyce, gdzie wciąż widać żywy ślad staroangielskiego celownika"
     ],
-    "tags": ["give me the book", "show him the photo", "tell us the truth"],
+    "tags": ["Old English dative case", "cyninge (celownik)", "me/him jako relikt celownika", "utrata końcówek fleksyjnych"],
     "examples": [
       { "en": "She gave me the book.", "pl": "Dała mi tę książkę." },
-      { "en": "Can you show him the photo?", "pl": "Możesz mu pokazać to zdjęcie?" },
-      { "en": "I'll send you the details tomorrow.", "pl": "Wyślę ci szczegóły jutro." },
-      { "en": "He bought his sister a present.", "pl": "Kupił swojej siostrze prezent." }
+      { "en": "She gave the book to me.", "pl": "Dała tę książkę mnie." },
+      { "en": "In German, 'mir' (dative) and 'mich' (accusative) are still kept apart — English merged them into one 'me' centuries ago.", "pl": "W niemieckim 'mir' (celownik) i 'mich' (biernik) wciąż są rozróżniane — angielski scalił je w jedno 'me' wieki temu." },
+      { "en": "He handed her the keys before leaving.", "pl": "Podał jej klucze przed wyjściem." },
+      { "en": "Could you pass the salt to him, please?", "pl": "Mógłbyś podać mu sól, proszę?" }
     ]
   },
   {
-    "id": "direct_object_plus_to_for",
+    "id": "word_order_double_object",
     "order": 2,
-    "nameEn": "Verb + direct object + to/for + person",
-    "namePl": "Czasownik + dopełnienie bliższe + to/for + osoba",
+    "nameEn": "the double object construction — word order as the modern substitute for a vanished case ending",
+    "namePl": "szyk podwójny (double object construction) — kolejność słów jako współczesny zamiennik zanikłej końcówki",
     "rules": [
-      { "label": "to", "text": "Z czasownikami give, show, tell, send, bring, offer, teach — gdy osoba jest na końcu, poprzedza ją to" },
-      { "label": "for", "text": "Z czasownikami buy, make, cook, find, get, order — gdy osoba jest na końcu, poprzedza ją for" }
+      {
+        "label": "Odbiorca zawsze pierwszy, przedmiot zawsze drugi — dlaczego akurat w tej kolejności?",
+        "text": "Współczesny szyk podwójny (give me the book) zamroził jedną konkretną kolejność ze staroangielskiej swobody: odbiorca (dawny celownik) bezpośrednio po czasowniku, przedmiot (dawny biernik) zaraz po nim. Nie jest to przypadkowe — odpowiada uniwersalnej zasadzie porządku informacji w zdaniu, którą językoznawcy nazywają 'od znanego do nowego' (given-before-new): odbiorca to zwykle osoba już obecna w rozmowie (zaimek, imię, ktoś, o kim już mowa), a przedmiot to często ta część zdania, która niesie nową, istotną informację i naturalnie ciąży ku końcowi zdania, gdzie pada największy akcent zdaniowy. Ta sama zasada w bardziej rozbudowanej formie rządzi tym, kiedy ciężka fraza rzeczownikowa 'ucieka' na sam koniec zdania — pełne omówienie w osobnym temacie o end-weight i heavy NP shift."
+      },
+      {
+        "label": "Brak przyimka to nie 'pominięcie' — to esencja tego wzorca",
+        "text": "Warto zauważyć, że w szyku podwójnym nie da się wstawić 'to' ani 'for' między czasownik a odbiorcę ('give to me the book' jest błędem) — nie dlatego, że przyimek został gdzieś 'zapomniany', lecz dlatego, że sama ISTOTA tej konstrukcji polega na tym, iż pozycja słowa, a nie żaden przyimek, niesie całą informację gramatyczną, dokładnie tak jak niegdyś robiła to sama końcówka celownika. Dodanie przyimka byłoby więc nie błędem interpunkcyjnym, lecz zmianą całej konstrukcji na tę opisaną w kolejnym temacie."
+      },
+      {
+        "label": "Rdzennie germańskie czasowniki jednosylabowe — trzon tego wzorca",
+        "text": "Szyk podwójny działa najswobodniej z czasownikami, które są rdzennie angielskie, odziedziczone wprost z germańskiego trzonu języka i najczęściej jednosylabowe: give, tell, show, send, buy, bring, teach, offer, lend, sell, pass, throw, hand, write, read, sing, bake, cook, get, find, make, pay, promise. To nie przypadek stylistyczny, lecz ślad tego, że sam wzorzec DOC (double object construction) jest odziedziczoną częścią rdzennej gramatyki angielskiego — temat rozwijany dalej przy okazji czasowników, które w ten szyk NIE wchodzą."
+      },
+      {
+        "label": "Ukryty warunek: odbiorca musi być w stanie faktycznie 'posiadać' przedmiot",
+        "text": "Szyk podwójny wymaga, by odbiorca był realnym, potencjalnym POSIADACZEM przedmiotu, a nie tylko miejscem docelowym jego ruchu — dlatego 'I sent her the package' jest naturalne (ona może posiadać paczkę), ale 'I sent the border the package' brzmi rażąco źle (granica nie może niczego 'posiadać', jest tylko punktem na trasie). To rozróżnienie — 'kogoś, kto może coś posiadać' kontra 'coś, dokąd coś tylko fizycznie dociera' — wraca w kolejnych dwóch tematach jako klucz do zrozumienia, dlaczego niektóre czasowniki w ogóle nie mają wariantu z 'to'."
+      }
     ],
     "usage": [
-      "Gdy chcemy podkreślić odbiorcę (rzecz na końcu z akcentem informacyjnym)",
-      "Gdy dopełnienie bliższe jest długie lub rozbudowane",
-      "Konieczne, gdy dopełnienie pośrednie jest zaimkiem po dłuższym dopełnieniu bliższym",
-      "Wybór to vs for zależy od czasownika, nie można ich mylić"
+      "Gdy oba dopełnienia są krótkie — typowo zaimek lub prosty rzeczownik — i odbiorca jest realnym, potencjalnym posiadaczem rzeczy",
+      "Typowe czasowniki: give, show, tell, send, buy, lend, offer, teach, bring, pass, hand, promise, pay",
+      "Naturalny, lekki, potoczny szyk — dominujący w mówionym angielskim, gdy nie ma potrzeby podkreślania odbiorcy",
+      "Osoba (odbiorca, dawny celownik) zawsze przed rzeczą (przedmiot, dawny biernik) — nigdy odwrotnie"
     ],
-    "tags": ["give the book to me", "buy a present for her", "explain it to us"],
+    "tags": ["give me the book", "given-before-new", "caused possession", "germańskie czasowniki jednosylabowe"],
+    "examples": [
+      { "en": "Can you show him the photo?", "pl": "Możesz mu pokazać to zdjęcie?" },
+      { "en": "I'll send you the details tomorrow.", "pl": "Wyślę ci szczegóły jutro." },
+      { "en": "He bought his sister a present.", "pl": "Kupił swojej siostrze prezent." },
+      { "en": "The airline sent every passenger a refund.", "pl": "Linia lotnicza wysłała każdemu pasażerowi zwrot pieniędzy." },
+      { "en": "We couldn't send the border guard anything — it isn't a person who can own it.", "pl": "Nie moglibyśmy 'wysłać granicznikowi' niczego w tym szyku — to nie ktoś, kto może to posiadać." }
+    ]
+  },
+  {
+    "id": "to_for_prepositional_dative",
+    "order": 3,
+    "nameEn": "to and for — two etymologically distinct repairs for the same lost case ending",
+    "namePl": "to i for — dwie odrębne etymologicznie łaty na tę samą zanikłą końcówkę",
+    "rules": [
+      {
+        "label": "'to' — dawny przyimek kierunku, zaprzęgnięty do oznaczania odbiorcy",
+        "text": "Staroangielskie 'tō' od zawsze oznaczało ruch KU celowi, kierunek, cel podróży ('gān tō þǣre byrig' — iść do miasta). Gdy zanikła końcówka celownika, właśnie ten przyimek kierunkowy został 'zaprzęgnięty' do nowej roboty: oznaczania odbiorcy jako punktu docelowego przekazywanej rzeczy — mechanizm identyczny do tego, jak francuskie 'à' (z łacińskiego 'ad', również 'ku, w stronę') do dziś pełni rolę dopełnienia dalszego. Dlatego konstrukcja z 'to' semantycznie opisuje nie tyle statyczne 'posiadanie', co RUCH przedmiotu wzdłuż ścieżki do celu — to właśnie dlatego 'I sent the letter to the wrong address' jest w pełni poprawne (adres to punkt na trasie), choć 'I sent the wrong address the letter' (szyk podwójny z poprzedniego tematu) już nie, bo adres nie może niczego posiadać."
+      },
+      {
+        "label": "'for' — inny rdzeń historyczny: nie kierunek, lecz 'w czyimś imieniu, dla kogoś'",
+        "text": "'For' pochodzi z zupełnie innej gałęzi znaczeniowej niż 'to' — staroangielskie 'for' oznaczało 'przed, z powodu, dla, w zamian za, w czyimś imieniu' — sens PRZYCZYNOWY i KORZYŚCIOWY (benefaktywny), a nie kierunkowy. Dlatego czasowniki łączące się z 'for' (buy, make, cook, find, get, build, choose, order, pour, reserve, fetch, save) opisują czynność TWORZENIA lub ZDOBYWANIA czegoś, co samo w sobie wcale nie musi mieć żadnego odbiorcy — można upiec ciasto, nie mając komu go dać. Dodanie 'for kogoś' nie jest więc integralną 'ścieżką ruchu' rzeczy (jak przy 'to'), lecz osobnym, dobudowanym elementem: 'zrobiłem to w czyimś interesie / na czyjąś korzyść', czyli dokładnie sens, jaki 'for' niosło już tysiąc lat temu."
+      },
+      {
+        "label": "Dlaczego wyboru 'to' albo 'for' nie da się przewidzieć bez znajomości czasownika",
+        "text": "Ponieważ 'to' i 'for' wywodzą się z dwóch odrębnych, niepowiązanych znaczeniowo rdzeni, wybór między nimi nie podlega żadnej ogólnej regule fonetycznej czy składniowej — trzeba go zapamiętać razem z każdym czasownikiem z osobna, tak jak w wielu językach zapamiętuje się rekcję czasownika. Praktyczny klucz semantyczny: jeśli czasownik opisuje PRZEKAZANIE czegoś, co już istnieje, komuś konkretnemu (transfer) → 'to' (give, show, tell, send, bring, offer, teach, hand, pass, lend, sell, pay, owe, write); jeśli opisuje STWORZENIE lub ZDOBYCIE czegoś, co dopiero potem może (ale nie musi) trafić do kogoś (tworzenie/zdobywanie na czyjąś korzyść) → 'for' (buy, make, cook, bake, find, get, build, choose, order, pour, reserve, fetch, design, arrange)."
+      },
+      {
+        "label": "Gdy przedmiot jest długi lub ciężki — dlaczego szyk z przyimkiem staje się wręcz konieczny",
+        "text": "Konstrukcja z jawnym 'to/for' jest też jedynym naturalnym wyborem, gdy dopełnienie bliższe (rzecz) jest rozbudowaną, 'ciężką' frazą — angielski unika stawiania długiej frazy tuż przed krótkim odbiorcą i woli przesunąć ją na koniec zdania, gdzie pada naturalny akcent informacyjny ('He explained to the new interns, in painstaking detail, exactly how the machine worked' brzmi dużo naturalniej niż upychanie tej samej treści w szyku podwójnym). To ten sam mechanizm end-weight, który w pełni rozwija osobny temat o heavy NP shift — tutaj wystarczy zapamiętać, że przyimkowy wariant jest 'bezpieczniejszy' składniowo, bo nie ma górnego limitu długości frazy, którą można umieścić po 'to/for'."
+      }
+    ],
+    "usage": [
+      "'to' — z czasownikami transferu istniejącej rzeczy: give, show, tell, send, bring, offer, teach, hand, pass, lend, sell, pay, owe, write, read, describe, explain",
+      "'for' — z czasownikami tworzenia/zdobywania na czyjąś korzyść: buy, make, cook, bake, find, get, build, choose, order, pour, reserve, fetch, design, arrange, save",
+      "Konieczne, gdy dopełnienie bliższe jest długie, rozbudowane lub ma zostać podkreślone informacyjnie na końcu zdania",
+      "Konieczne, gdy dopełnienie bliższe jest zaimkiem (it, them) — 'give it to me', nigdy 'give me it' w standardowym uzusie"
+    ],
+    "tags": ["give the book to me", "buy a present for her", "OE tō vs for", "caused motion vs benefactive"],
     "examples": [
       { "en": "She gave the book to me.", "pl": "Dała tę książkę mnie." },
       { "en": "He bought a present for his sister.", "pl": "Kupił prezent dla swojej siostry." },
       { "en": "Can you explain the rules to the new students?", "pl": "Możesz wyjaśnić zasady nowym uczniom?" },
-      { "en": "I made a sandwich for my brother.", "pl": "Zrobiłem kanapkę dla mojego brata." }
+      { "en": "I made a sandwich for my brother.", "pl": "Zrobiłem kanapkę dla mojego brata." },
+      { "en": "Give it to me, please — not 'give me it'.", "pl": "Daj mi to, proszę — nie 'give me it'." }
     ]
   },
   {
-    "id": "pronoun_object_order",
-    "order": 3,
-    "nameEn": "Order with pronoun objects",
-    "namePl": "Kolejność, gdy dopełnienie bliższe jest zaimkiem",
-    "rules": [
-      { "label": "Zaimek jako dopełnienie bliższe", "text": "Gdy dopełnienie bliższe (rzecz) jest zaimkiem (it, them), zwykle NIE stawia się go bezpośrednio po osobie — używa się szyku z to/for: give it to me, nie give me it" },
-      { "label": "Naturalność", "text": "Szyk give me it brzmi nienaturalnie w standardowym angielskim; poprawny i naturalny jest give it to me" }
-    ],
-    "usage": [
-      "Kiedy dopełnienie bliższe to zaimek osobowy (it, them, this, that)",
-      "Ratunkowa zasada: 'rzecz-zaimek zawsze na końcu z to/for'",
-      "Dotyczy tych samych czasowników co wzorzec z to/for (give, show, send, buy...)",
-      "Pomaga uniknąć błędu typowego dla uczących się polskiego pochodzenia"
-    ],
-    "tags": ["give it to me", "show them to us", "pass it to him"],
-    "examples": [
-      { "en": "Give it to me, please.", "pl": "Daj mi to, proszę." },
-      { "en": "I already showed them to you.", "pl": "Już wam je pokazałem." },
-      { "en": "Can you pass it to him?", "pl": "Możesz mu to podać?" },
-      { "en": "She sent it to us yesterday.", "pl": "Wysłała nam to wczoraj." }
-    ]
-  },
-  {
-    "id": "verbs_without_alternation",
+    "id": "latinate_verbs_resist_doc",
     "order": 4,
-    "nameEn": "Verbs that only take one pattern",
-    "namePl": "Czasowniki dopuszczające tylko jeden wzorzec",
+    "nameEn": "why explain, describe and suggest never take the double object — the Germanic/Latinate split",
+    "namePl": "dlaczego explain, describe i suggest nigdy nie wchodzą w szyk podwójny — podział na czasowniki germańskie i łacińsko-romańskie",
     "rules": [
-      { "label": "Tylko z to", "text": "Niektóre czasowniki, np. explain, describe, suggest, say, announce, admit, wymagają zawsze to + osoba i NIE dopuszczają szyku bez przyimka (explain me the plan jest błędem)" },
-      { "label": "Tylko dwa dopełnienia bez przyimka", "text": "Kilka czasowników, np. cost, take (czas), wish, envy, występuje tylko w formie osoba + rzecz, bez wariantu z to/for" }
+      {
+        "label": "Podbój normandzki i podwójne, potrójne słownictwo angielskiego",
+        "text": "Po podboju normandzkim (1066) do angielskiego wlało się przez kilka stuleci ogromne słownictwo z francuskiego normandzkiego, a później — zwłaszcza w okresie renesansu — bezpośrednio z łaciny (tzw. 'inkhorn terms'). Efektem jest dziś słynna angielska 'podwójna warstwa' słownictwa: rdzennie germańskie 'kingly' obok francusko-łacińskiego 'royal' i 'regal', germańskie 'ask' obok łacińskiego 'inquire' i 'interrogate'. Ta sama warstwowość dotyczy czasowników łączących się z dwoma dopełnieniami: explain, describe, suggest, announce, admit, demonstrate, contribute, introduce, recommend, mention, confess, communicate, illustrate, prove — wszystkie wywodzą się z francuskiego lub łaciny, w przeciwieństwie do rdzennie germańskich give, tell, show z poprzednich tematów."
+      },
+      {
+        "label": "Dlaczego te 'nowsze' czasowniki nigdy nie weszły do szyku podwójnego",
+        "text": "Szyk podwójny (give me the book) to wzorzec ODZIEDZICZONY wprost z gramatyki staroangielskiej — istniał w języku na długo przed napływem łacińsko-francuskiego słownictwa. Gdy setki nowych czasowników wlewały się do angielskiego w średnio- i wczesnonowoangielskim, gramatyka NIE rozszerzyła tego starego, rdzennego wzorca automatycznie na każdy nowy czasownik o podobnym znaczeniu — DOC pozostał w dużej mierze 'zamkniętym klubem' dla czasowników już od dawna obecnych lub w pełni językowo 'oswojonych', podczas gdy nowsze, książkowe zapożyczenia domyślnie przyjmowały bezpieczniejszy, przejrzysty wzorzec z jawnym przyimkiem. Dlatego 'explain me the situation' jest jednym z najczęstszych błędów uczących się — intuicyjnie kopiuje się wzorzec 'tell me', nie wiedząc, że 'explain' historycznie nigdy nie należał do tej samej gramatycznej rodziny co 'tell'."
+      },
+      {
+        "label": "Granica nie jest ostra — kilka łacińsko-francuskich czasowników jednak 'weszło do klubu'",
+        "text": "Podział nie jest sztywnym prawem etymologicznym, lecz silną tendencją z wyjątkami po obu stronach: offer, promise, pay, serve i cost również pochodzą z francuskiego/łaciny, a mimo to swobodnie wchodzą w szyk podwójny (offer her a job, promise him a raise). Różnica leży w GŁĘBOKOŚCI i CZASIE przyswojenia — te czasowniki weszły do potocznej, mówionej angielszczyzny bardzo wcześnie, jeszcze w średniowieczu, i zdążyły się w pełni 'zgermanizować' składniowo, zanim ich obce pochodzenie w ogóle przestało być odczuwalne. Czasowniki takie jak 'explain' czy 'demonstrate' weszły do języka później i pozostały składniowo 'obco brzmiące' — wciąż wieloskladowe, książkowe, kojarzone z rejestrem formalnym, przez co nigdy nie 'wtopiły się' w rdzenny wzorzec DOC."
+      },
+      {
+        "label": "Praktyczny test dla uczącego się: 'brzmienie' czasownika jako wskazówka",
+        "text": "Skoro sztywnej reguły nie ma, dobrym intuicyjnym testem jest 'brzmienie' czasownika: krótkie, jednosylabowe, swojsko brzmiące czasowniki (give, tell, show, send, buy) zwykle wchodzą w szyk podwójny; dłuższe, wieloskładowe, książkowo/oficjalnie brzmiące czasowniki, zwłaszcza kończące się na typowo łacińskie sufiksy (-ain, -ibe, -ounce, -est, -ute, -uce), niemal zawsze wymagają jawnego 'to' i odrzucają szyk podwójny: explain, describe, announce, suggest, contribute, introduce. To nie jest fonetyczne prawo bez wyjątków, lecz statystycznie bardzo silna wskazówka, potwierdzona przez większość czasowników w obu grupach."
+      }
     ],
     "usage": [
-      "explain, describe, suggest, say, announce, admit, mention → zawsze + to + osoba",
-      "cost, wish, envy → zawsze osoba + rzecz, bez to/for",
-      "Warto zapamiętać te wyjątki osobno, bo nie podlegają ogólnej regule wymienności",
-      "Błąd explain me to jest jednym z najczęstszych błędów uczących się"
+      "Nigdy nie stawiaj explain, describe, suggest, announce, admit, demonstrate, contribute, introduce, recommend, mention, confess, communicate wprost przed odbiorcą bez 'to' — zawsze: explain STH to somebody, nigdy explain somebody STH",
+      "Sprawdź 'brzmienie' czasownika: krótkie, germańskie → szyk podwójny możliwy; długie, książkowe, łacińsko-francuskie → wymagany jawny 'to'",
+      "offer, promise, pay, serve, cost są wyjątkami — mimo łacińsko-francuskiego pochodzenia weszły do szyku podwójnego bardzo wcześnie i w pełni się 'zgermanizowały'",
+      "'Explain me the situation' to jeden z najczęstszych błędów interferencyjnych — poprawnie: 'explain the situation to me'"
     ],
-    "tags": ["explain it to me", "It cost me $20", "I wish you luck"],
+    "tags": ["explain it to me, not explain me it", "Norman Conquest vocabulary layers", "Germanic vs Latinate verbs", "inkhorn terms"],
     "examples": [
       { "en": "Can you explain the situation to me?", "pl": "Możesz mi wyjaśnić sytuację?" },
-      { "en": "She described the man to the police.", "pl": "Opisała mężczyznę policji." },
-      { "en": "The trip cost us a fortune.", "pl": "Ta podróż kosztowała nas fortunę." },
-      { "en": "I wish you all the best.", "pl": "Życzę ci wszystkiego najlepszego." }
+      { "en": "She described the man to the police in great detail.", "pl": "Opisała mężczyznę policji w wielkim szczególe." },
+      { "en": "The committee announced the results to the press this morning.", "pl": "Komisja ogłosiła wyniki prasie dziś rano." },
+      { "en": "I'd like to suggest a few changes to the design.", "pl": "Chciałbym zaproponować kilka zmian w projekcie." },
+      { "en": "He recommended a good dentist to us.", "pl": "Polecił nam dobrego dentystę." }
+    ]
+  },
+  {
+    "id": "possession_only_verbs",
+    "order": 5,
+    "nameEn": "cost, envy, wish, spare — verbs of pure possession with no path to mark at all",
+    "namePl": "cost, envy, wish, spare — czasowniki czystego posiadania, które nie mają żadnej 'ścieżki' do oznaczenia przyimkiem",
+    "rules": [
+      {
+        "label": "DOC ma naprawdę dwa różne znaczenia w środku, nie jedno",
+        "text": "Szyk podwójny wygląda formalnie identycznie w każdym zdaniu, ale kryje w sobie dwa różne typy sensu. W większości czasowników z poprzednich tematów (give, send, buy) da się go sparafrazować przyimkiem: coś PRZEMIESZCZA SIĘ jakąś ścieżką do celu, który następnie to posiada ('send her the package' ≈ 'send the package TO her' — paczka wędruje do niej). Ale przy garstce czasowników — cost, take (w znaczeniu czasu), envy, wish, forgive, spare, save, bet, charge, deny, refuse, allow — nie da się utworzyć ŻADNEJ wersji z przyimkiem, bo znaczenie tych czasowników nie zawiera żadnej ścieżki ruchu w ogóle: opisują wyłącznie ABSTRAKCYJNĄ ZMIANĘ POSIADANIA, bez żadnego 'skądś dokądś'."
+      },
+      {
+        "label": "'It cost me $20' — dokąd niby miałyby powędrować te pieniądze?",
+        "text": "'It cost me $20' nie znaczy, że 20 dolarów 'powędrowało do mnie' — wręcz przeciwnie, opisuje sytuację, w której W WYNIKU zdarzenia zacząłem 'posiadać' obowiązek utraty 20 dolarów (czyli w istocie mam ich mniej). Nie ma tu żadnego fizycznego ani metaforycznego kierunku, więc zdanie '*It cost $20 to me' jest niegramatyczne — nie dlatego, że ktoś 'zapomniał' przyimka, lecz dlatego, że w znaczeniu tego czasownika po prostu nie ma niczego, co przyimek kierunkowy 'to' mógłby opisywać. To samo dotyczy 'take' w znaczeniu czasu: 'The trip took us three hours' — czas nie 'wędruje' do nikogo, po prostu zostaje 'nałożony' na uczestników zdarzenia."
+      },
+      {
+        "label": "envy, forgive, spare, save — metafory posiadania stanu lub jego braku",
+        "text": "'Envy' i 'forgive' każą traktować UCZUCIE lub STAN jako coś, co można metaforycznie 'posiadać' względem kogoś: 'I envy you your talent' — dosłownie 'zazdroszczę ci twojego talentu', gdzie 'you' 'posiada' moją zazdrość skierowaną na niego, nie jest punktem docelowym żadnego ruchu. 'Spare' i 'save' idą o krok dalej i opisują NEGATYWNĄ zmianę posiadania — 'spare me the details' znaczy 'spraw, bym NIE musiał posiadać (znosić) szczegółów', a 'this will save us a lot of trouble' — 'sprawi, że NIE będziemy musieli posiadać kłopotu'. W obu wypadkach nie ma żadnej ścieżki fizycznej ani metaforycznej — jest tylko czysta, bezpośrednia zmiana stanu posiadania (lub jego uniknięcie), stąd zupełny brak formy z 'to/for'."
+      },
+      {
+        "label": "Praktyczny test: 'dokąd?' bez sensownej odpowiedzi = tylko szyk podwójny",
+        "text": "Dobry test diagnostyczny: spróbuj zadać pytanie 'komu/dokąd to idzie?' o dany czasownik. Przy 'send' pytanie ma sens i odpowiedź (to her) daje w pełni gramatyczne zdanie. Przy 'cost', 'envy', 'wish', 'spare' pytanie po prostu nie ma sensu — nic nigdzie nie 'idzie', jest tylko czysta, natychmiastowa zmiana stanu posiadania między dwoma uczestnikami zdarzenia. Jeśli odpowiedź na 'dokąd?' brzmi nonsensownie, czasownik prawdopodobnie należy do tej zamkniętej grupy czasowników 'tylko-DOC', dla których żaden wariant z przyimkiem po prostu nie istnieje w standardowym angielskim."
+      }
+    ],
+    "usage": [
+      "cost, take (czas), wish, envy, forgive, spare, save, bet, charge, deny, refuse, allow → wyłącznie osoba + rzecz, bez żadnego wariantu z to/for",
+      "Nie próbuj tworzyć form typu '*it cost $20 to me' czy '*I envy your talent to you' — te czasowniki nie mają wariantu przyimkowego w ogóle, nie tylko rzadko go używają",
+      "'wish' w formule życzeń (I wish you luck) to zastygła, niemal performatywna formuła błogosławieństwa — nie da się jej przeformułować przyimkiem",
+      "Test 'dokąd/komu to idzie?' pomaga rozpoznać tę grupę: jeśli pytanie nie ma sensu, czasownik nie ma formy z przyimkiem"
+    ],
+    "tags": ["It cost me $20", "I wish you luck", "envy/forgive jako metafora posiadania", "brak ścieżki ruchu"],
+    "examples": [
+      { "en": "The trip cost us a small fortune.", "pl": "Ta podróż kosztowała nas małą fortunę." },
+      { "en": "I wish you all the best in your new job.", "pl": "Życzę ci wszystkiego najlepszego w nowej pracy." },
+      { "en": "I've always envied him his calm under pressure.", "pl": "Zawsze zazdrościłem mu spokoju pod presją." },
+      { "en": "Please spare me the excuses this time.", "pl": "Proszę, oszczędź mi tym razem wymówek." },
+      { "en": "This shortcut will save us twenty minutes.", "pl": "Ten skrót zaoszczędzi nam dwadzieścia minut." }
     ]
   }
 ]
