@@ -1,45 +1,442 @@
 [
-  {"id": 1, "itemId": "basic_order", "prompt": "She ___ .", "answer": "speaks English fluently", "distractors": ["speaks fluently English", "English speaks fluently", "fluently English speaks"]},
-  {"id": 2, "itemId": "basic_order", "prompt": "He ___ .", "answer": "reads books every evening", "distractors": ["reads every evening books", "books reads every evening", "every evening reads books"]},
-  {"id": 3, "itemId": "basic_order", "prompt": "They ___ .", "answer": "watched a film last night", "distractors": ["watched last night a film", "a film watched last night", "last night watched a film"]},
-  {"id": 4, "itemId": "basic_order", "prompt": "We ___ .", "answer": "visited our grandmother yesterday", "distractors": ["visited yesterday our grandmother", "our grandmother visited yesterday", "yesterday visited our grandmother"]},
-  {"id": 5, "itemId": "basic_order", "prompt": "I ___ .", "answer": "like chocolate very much", "distractors": ["like very much chocolate", "very much like chocolate", "chocolate like very much"]},
-  {"id": 6, "itemId": "basic_order", "prompt": "She ___ .", "answer": "finished the report on time", "distractors": ["finished on time the report", "the report finished on time", "on time finished the report"]},
-  {"id": 7, "itemId": "basic_order", "prompt": "He ___ .", "answer": "plays football on Saturdays", "distractors": ["plays on Saturdays football", "football plays on Saturdays", "on Saturdays plays football"]},
-  {"id": 8, "itemId": "basic_order", "prompt": "They ___ .", "answer": "bought a new car last month", "distractors": ["bought last month a new car", "a new car bought last month", "last month bought a new car"]},
-  {"id": 9, "itemId": "basic_order", "prompt": "She ___ .", "answer": "finished her homework before dinner", "distractors": ["finished before dinner her homework", "her homework finished before dinner", "before dinner finished her homework"]},
-  {"id": 10, "itemId": "basic_order", "prompt": "She ___ .", "answer": "explained the problem clearly", "distractors": ["explained clearly the problem", "the problem explained clearly", "clearly the problem explained"]},
-
-  {"id": 11, "itemId": "frequency_adverbs", "prompt": "She ___ coffee in the morning.", "answer": "always drinks", "distractors": ["drinks always", "is always drinks", "drinks is always"]},
-  {"id": 12, "itemId": "frequency_adverbs", "prompt": "He ___ his keys.", "answer": "often loses", "distractors": ["loses often", "is often loses", "loses is often"]},
-  {"id": 13, "itemId": "frequency_adverbs", "prompt": "They ___ vegetables.", "answer": "never eat", "distractors": ["eat never", "are never eat", "eat are never"]},
-  {"id": 14, "itemId": "frequency_adverbs", "prompt": "He ___ late for work.", "answer": "is never", "distractors": ["never is", "is not never", "never be is"]},
-  {"id": 15, "itemId": "frequency_adverbs", "prompt": "We ___ tired after school.", "answer": "are usually", "distractors": ["usually are", "are being usually", "usually be are"]},
-  {"id": 16, "itemId": "frequency_adverbs", "prompt": "I ___ remember this day.", "answer": "will always", "distractors": ["always will", "will be always", "always will be"]},
-  {"id": 17, "itemId": "frequency_adverbs", "prompt": "You ___ about everything!", "answer": "always complain", "distractors": ["complain always", "are always complain", "complain are always"]},
-  {"id": 18, "itemId": "frequency_adverbs", "prompt": "She ___ mistakes.", "answer": "rarely makes", "distractors": ["makes rarely", "is rarely makes", "makes is rarely"]},
-  {"id": 19, "itemId": "frequency_adverbs", "prompt": "It ___ in the desert.", "answer": "hardly ever rains", "distractors": ["rains hardly ever", "is hardly ever rains", "hardly rains ever"]},
-  {"id": 20, "itemId": "frequency_adverbs", "prompt": "We ___ to the cinema.", "answer": "sometimes go", "distractors": ["go sometimes", "are sometimes go", "go are sometimes"]},
-
-  {"id": 21, "itemId": "manner_place_time", "prompt": "She sang ___ .", "answer": "beautifully at the party last night", "distractors": ["at the party beautifully last night", "last night beautifully at the party", "at the party last night beautifully"]},
-  {"id": 22, "itemId": "manner_place_time", "prompt": "We met him ___ .", "answer": "warmly at the station yesterday", "distractors": ["at the station warmly yesterday", "yesterday warmly at the station", "at the station yesterday warmly"]},
-  {"id": 23, "itemId": "manner_place_time", "prompt": "He worked ___ .", "answer": "hard in the garden all afternoon", "distractors": ["in the garden hard all afternoon", "all afternoon hard in the garden", "in the garden all afternoon hard"]},
-  {"id": 24, "itemId": "manner_place_time", "prompt": "They played ___ .", "answer": "happily in the park this morning", "distractors": ["in the park happily this morning", "this morning happily in the park", "in the park this morning happily"]},
-  {"id": 25, "itemId": "manner_place_time", "prompt": "I saw her ___ .", "answer": "briefly at the supermarket this afternoon", "distractors": ["at the supermarket briefly this afternoon", "this afternoon briefly at the supermarket", "at the supermarket this afternoon briefly"]},
-  {"id": 26, "itemId": "manner_place_time", "prompt": "She spoke ___ .", "answer": "quietly on the phone for an hour", "distractors": ["on the phone quietly for an hour", "for an hour quietly on the phone", "on the phone for an hour quietly"]},
-  {"id": 27, "itemId": "manner_place_time", "prompt": "He drove ___ .", "answer": "carefully through the city yesterday", "distractors": ["through the city carefully yesterday", "yesterday carefully through the city", "through the city yesterday carefully"]},
-  {"id": 28, "itemId": "manner_place_time", "prompt": "We waited ___ .", "answer": "patiently at the bus stop for ages", "distractors": ["at the bus stop patiently for ages", "for ages patiently at the bus stop", "at the bus stop for ages patiently"]},
-  {"id": 29, "itemId": "manner_place_time", "prompt": "She danced ___ .", "answer": "gracefully on the stage last weekend", "distractors": ["on the stage gracefully last weekend", "last weekend gracefully on the stage", "on the stage last weekend gracefully"]},
-  {"id": 30, "itemId": "manner_place_time", "prompt": "They arrived ___ .", "answer": "early at the airport this morning", "distractors": ["at the airport early this morning", "this morning early at the airport", "at the airport this morning early"]},
-
-  {"id": 31, "itemId": "mid_position_adverbs", "prompt": "I ___ that.", "answer": "already know", "distractors": ["know already", "am already know", "already am knowing"]},
-  {"id": 32, "itemId": "mid_position_adverbs", "prompt": "We ___ .", "answer": "have just arrived", "distractors": ["just have arrived", "have arrived just", "just arrived have"]},
-  {"id": 33, "itemId": "mid_position_adverbs", "prompt": "She ___ sleeping.", "answer": "is still", "distractors": ["still is", "is not still", "still be is"]},
-  {"id": 34, "itemId": "mid_position_adverbs", "prompt": "He ___ French.", "answer": "also speaks", "distractors": ["speaks also", "is also speaks", "also is speaks"]},
-  {"id": 35, "itemId": "mid_position_adverbs", "prompt": "I ___ understand.", "answer": "still don't", "distractors": ["don't still", "still not do", "do still not"]},
-  {"id": 36, "itemId": "mid_position_adverbs", "prompt": "They ___ the project.", "answer": "have already finished", "distractors": ["already have finished", "have finished already", "finished have already"]},
-  {"id": 37, "itemId": "mid_position_adverbs", "prompt": "I ___ meat on weekends.", "answer": "only eat", "distractors": ["eat only", "am only eat", "only am eating"]},
-  {"id": 38, "itemId": "mid_position_adverbs", "prompt": "We ___ two tickets left.", "answer": "only have", "distractors": ["have only", "are only have", "only are having"]},
-  {"id": 39, "itemId": "mid_position_adverbs", "prompt": "She ___ arrived when it started raining.", "answer": "had just", "distractors": ["just had", "had arrived just", "just had arrived"]},
-  {"id": 40, "itemId": "mid_position_adverbs", "prompt": "She ___ a doctor.", "answer": "is also", "distractors": ["also is", "is not also", "also be is"]}
+  {
+    "id": 1,
+    "itemId": "basic_order",
+    "prompt": "The committee ___ .",
+    "answer": "rejected the proposal immediately",
+    "distractors": [
+      "rejected immediately the proposal",
+      "the proposal rejected immediately",
+      "immediately rejected the proposal"
+    ]
+  },
+  {
+    "id": 2,
+    "itemId": "basic_order",
+    "prompt": "My neighbour ___ every single morning without fail.",
+    "answer": "waters his garden",
+    "distractors": [
+      "waters every his garden",
+      "his garden waters",
+      "waters garden his"
+    ]
+  },
+  {
+    "id": 3,
+    "itemId": "basic_order",
+    "prompt": "___ , not the other way round.",
+    "answer": "The dog bites the man",
+    "distractors": [
+      "The man the dog bites",
+      "Bites the dog the man",
+      "The dog the man bites"
+    ]
+  },
+  {
+    "id": 4,
+    "itemId": "basic_order",
+    "prompt": "She ___ the report.",
+    "answer": "read carefully",
+    "distractors": [
+      "carefully read",
+      "read the carefully",
+      "carefully the read"
+    ]
+  },
+  {
+    "id": 5,
+    "itemId": "basic_order",
+    "prompt": "I ___ chocolate, but I try to avoid it.",
+    "answer": "like very much",
+    "distractors": [
+      "like very much chocolate",
+      "very much like",
+      "much very like"
+    ]
+  },
+  {
+    "id": 6,
+    "itemId": "basic_order",
+    "prompt": "Only the security guard ___ the alarm at first.",
+    "answer": "heard",
+    "distractors": [
+      "hearded",
+      "did heard",
+      "was heard"
+    ]
+  },
+  {
+    "id": 7,
+    "itemId": "basic_order",
+    "prompt": "___ nervous before every exam, even the easy ones.",
+    "answer": "She gets",
+    "distractors": [
+      "Gets she",
+      "She does gets",
+      "Nervous she gets"
+    ]
+  },
+  {
+    "id": 8,
+    "itemId": "basic_order",
+    "prompt": "The storm ___ before the crew could secure the deck.",
+    "answer": "hit the coast",
+    "distractors": [
+      "hit coast the",
+      "the coast hit",
+      "coast the hit"
+    ]
+  },
+  {
+    "id": 9,
+    "itemId": "basic_order",
+    "prompt": "___ this exact mistake twice already.",
+    "answer": "He has made",
+    "distractors": [
+      "He made has",
+      "Made he has",
+      "Has made he"
+    ]
+  },
+  {
+    "id": 10,
+    "itemId": "basic_order",
+    "prompt": "Careful readers ___ that other people overlook.",
+    "answer": "notice small details",
+    "distractors": [
+      "notice details small",
+      "small details notice",
+      "details notice small"
+    ]
+  },
+  {
+    "id": 11,
+    "itemId": "frequency_adverbs",
+    "prompt": "She ___ (always / arrive) late to meetings.",
+    "answer": "always arrives",
+    "distractors": [
+      "arrives always",
+      "is always arrive",
+      "always is arriving"
+    ]
+  },
+  {
+    "id": 12,
+    "itemId": "frequency_adverbs",
+    "prompt": "He ___ (never / be) rude to a customer, not even once.",
+    "answer": "has never been",
+    "distractors": [
+      "never has been",
+      "has been never",
+      "is never been"
+    ]
+  },
+  {
+    "id": 13,
+    "itemId": "frequency_adverbs",
+    "prompt": "We ___ (usually / eat) dinner together on Sundays.",
+    "answer": "usually eat",
+    "distractors": [
+      "eat usually",
+      "usually are eating",
+      "are usually eat"
+    ]
+  },
+  {
+    "id": 14,
+    "itemId": "frequency_adverbs",
+    "prompt": "I ___ (always / be) tired on Monday mornings.",
+    "answer": "am always",
+    "distractors": [
+      "always am",
+      "always be",
+      "am tired always"
+    ]
+  },
+  {
+    "id": 15,
+    "itemId": "frequency_adverbs",
+    "prompt": "___ have I been so embarrassed in public.",
+    "answer": "Never",
+    "distractors": [
+      "Ever",
+      "Not",
+      "No"
+    ]
+  },
+  {
+    "id": 16,
+    "itemId": "frequency_adverbs",
+    "prompt": "You ___ (can / always / try) again tomorrow.",
+    "answer": "can always try",
+    "distractors": [
+      "always can try",
+      "can try always",
+      "try always can"
+    ]
+  },
+  {
+    "id": 17,
+    "itemId": "frequency_adverbs",
+    "prompt": "___ , I take the bus, but today I decided to walk.",
+    "answer": "Usually",
+    "distractors": [
+      "Usual",
+      "Usually being",
+      "As usually"
+    ]
+  },
+  {
+    "id": 18,
+    "itemId": "frequency_adverbs",
+    "prompt": "She ___ (rarely / admit) she is wrong about anything.",
+    "answer": "rarely admits",
+    "distractors": [
+      "admits rarely",
+      "is rarely admit",
+      "rarely is admit"
+    ]
+  },
+  {
+    "id": 19,
+    "itemId": "frequency_adverbs",
+    "prompt": "They ___ (have / often / argue) about money since the wedding.",
+    "answer": "have often argued",
+    "distractors": [
+      "often have argued",
+      "have argued often",
+      "argued often have"
+    ]
+  },
+  {
+    "id": 20,
+    "itemId": "frequency_adverbs",
+    "prompt": "He ___ (can / never / remember) where he left his keys.",
+    "answer": "can never remember",
+    "distractors": [
+      "never can remember",
+      "can remember never",
+      "remember can never"
+    ]
+  },
+  {
+    "id": 21,
+    "itemId": "manner_place_time",
+    "prompt": "They danced ___ .",
+    "answer": "gracefully in the ballroom until midnight",
+    "distractors": [
+      "until midnight gracefully in the ballroom",
+      "in the ballroom until midnight gracefully",
+      "gracefully until midnight in the ballroom"
+    ]
+  },
+  {
+    "id": 22,
+    "itemId": "manner_place_time",
+    "prompt": "___ , we travelled around Portugal.",
+    "answer": "Last summer",
+    "distractors": [
+      "In last summer",
+      "At last summer",
+      "On last summer"
+    ]
+  },
+  {
+    "id": 23,
+    "itemId": "manner_place_time",
+    "prompt": "He worked ___ every weekend.",
+    "answer": "quietly in the library",
+    "distractors": [
+      "in the library quietly",
+      "quietly every weekend in the library",
+      "in the quietly library"
+    ]
+  },
+  {
+    "id": 24,
+    "itemId": "manner_place_time",
+    "prompt": "She whispered ___ before the interview.",
+    "answer": "nervously in the hallway",
+    "distractors": [
+      "in the hallway nervously",
+      "before the interview nervously in the hallway",
+      "nervously before the hallway"
+    ]
+  },
+  {
+    "id": 25,
+    "itemId": "manner_place_time",
+    "prompt": "We waited ___ for almost an hour.",
+    "answer": "patiently outside the theatre",
+    "distractors": [
+      "outside the theatre patiently",
+      "for almost an hour patiently outside the theatre",
+      "patiently for outside the theatre"
+    ]
+  },
+  {
+    "id": 26,
+    "itemId": "manner_place_time",
+    "prompt": "The children played ___ .",
+    "answer": "happily in the garden all afternoon",
+    "distractors": [
+      "all afternoon happily in the garden",
+      "in the garden all afternoon happily",
+      "happily all afternoon in the garden"
+    ]
+  },
+  {
+    "id": 27,
+    "itemId": "manner_place_time",
+    "prompt": "___ , she sang beautifully at the party.",
+    "answer": "Last night",
+    "distractors": [
+      "Beautifully",
+      "At the party",
+      "In last night"
+    ]
+  },
+  {
+    "id": 28,
+    "itemId": "manner_place_time",
+    "prompt": "He spoke ___ .",
+    "answer": "calmly at the press conference this morning",
+    "distractors": [
+      "this morning calmly at the press conference",
+      "at the press conference calmly this morning",
+      "calmly this morning at the press conference"
+    ]
+  },
+  {
+    "id": 29,
+    "itemId": "manner_place_time",
+    "prompt": "___ , he apologised in front of everyone.",
+    "answer": "The following week",
+    "distractors": [
+      "In front of everyone",
+      "Apologised",
+      "On following week"
+    ]
+  },
+  {
+    "id": 30,
+    "itemId": "manner_place_time",
+    "prompt": "The team trained ___ .",
+    "answer": "intensively at the stadium every morning",
+    "distractors": [
+      "every morning intensively at the stadium",
+      "at the stadium every morning intensively",
+      "intensively every morning at the stadium"
+    ]
+  },
+  {
+    "id": 31,
+    "itemId": "mid_position_adverbs",
+    "prompt": "The train ___ (probably / already / leave) the station.",
+    "answer": "has probably already left",
+    "distractors": [
+      "probably has already left",
+      "has already probably left",
+      "already has probably left"
+    ]
+  },
+  {
+    "id": 32,
+    "itemId": "mid_position_adverbs",
+    "prompt": "He ___ (obviously / not / read) the report before the meeting.",
+    "answer": "obviously hadn't read",
+    "distractors": [
+      "hadn't obviously read",
+      "not obviously had read",
+      "hadn't read obviously"
+    ]
+  },
+  {
+    "id": 33,
+    "itemId": "mid_position_adverbs",
+    "prompt": "She ___ (even / thank) the people who criticised her.",
+    "answer": "even thanked",
+    "distractors": [
+      "thanked even",
+      "did even thank",
+      "even did thank"
+    ]
+  },
+  {
+    "id": 34,
+    "itemId": "mid_position_adverbs",
+    "prompt": "___ , no one expected the results to change so fast.",
+    "answer": "Certainly",
+    "distractors": [
+      "Certain",
+      "With certainly",
+      "By certainly"
+    ]
+  },
+  {
+    "id": 35,
+    "itemId": "mid_position_adverbs",
+    "prompt": "I ___ (can / almost / see) the finish line from here.",
+    "answer": "can almost see",
+    "distractors": [
+      "almost can see",
+      "can see almost",
+      "see can almost"
+    ]
+  },
+  {
+    "id": 36,
+    "itemId": "mid_position_adverbs",
+    "prompt": "We ___ (have / just / finish) the presentation.",
+    "answer": "have just finished",
+    "distractors": [
+      "just have finished",
+      "have finished just",
+      "finished just have"
+    ]
+  },
+  {
+    "id": 37,
+    "itemId": "mid_position_adverbs",
+    "prompt": "He ___ (definitely / be) the best candidate for the job.",
+    "answer": "is definitely",
+    "distractors": [
+      "definitely is",
+      "is being definitely",
+      "does definitely"
+    ]
+  },
+  {
+    "id": 38,
+    "itemId": "mid_position_adverbs",
+    "prompt": "___ he apologised — nobody expected that from him.",
+    "answer": "Even",
+    "distractors": [
+      "Also",
+      "Just",
+      "Still"
+    ]
+  },
+  {
+    "id": 39,
+    "itemId": "mid_position_adverbs",
+    "prompt": "They ___ (apparently / lose) the original documents.",
+    "answer": "have apparently lost",
+    "distractors": [
+      "apparently have lost",
+      "have lost apparently",
+      "lost apparently have"
+    ]
+  },
+  {
+    "id": 40,
+    "itemId": "mid_position_adverbs",
+    "prompt": "I've finished the report ___ — you don't need to remind me.",
+    "answer": "already",
+    "distractors": [
+      "yet",
+      "still",
+      "just"
+    ]
+  }
 ]
