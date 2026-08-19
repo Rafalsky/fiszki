@@ -1,100 +1,193 @@
 [
   {
-    "id": "much_many",
+    "id": "count_mass_foundation",
     "order": 1,
+    "nameEn": "The count/mass foundation",
+    "namePl": "Fundament: rzeczowniki policzalne i niepoliczalne",
+    "rules": [
+      {
+        "label": "Skąd bierze się cały problem",
+        "text": "Zanim można wybrać między 'much' a 'many', trzeba odpowiedzieć na pytanie, którego polski w ogóle nie zadaje w ten sposób: czy rzeczownik, o który pytamy, da się POLICZYĆ na jednostki, czy tylko ZMIERZYĆ jako masę? 'Chair' ma wyraźne granice — jest jedno krzesło, są dwa krzesła. 'Water' takich granic nie ma — nalej wody do szklanki, wylej połowę, każda część nadal jest 'water'. Ta różnica, którą lingwiści nazywają rozróżnieniem count/mass (policzalne/niepoliczalne albo count/uncount), jest osią, wokół której obraca się cały system kwantyfikatorów w angielskim: 'much/little' idą wyłącznie z masą, 'many/few' wyłącznie z jednostkami, a 'a lot of/enough' są na tyle uniwersalne, że działają z obiema kategoriami."
+      },
+      {
+        "label": "Germańskie korzenie: 'micel' i 'manig'",
+        "text": "To rozróżnienie nie jest wynalazkiem współczesnych podręczników — sięga bezpośrednio do staroangielskiego. 'Much' pochodzi od 'mycel' (też zapisywane 'micel'), przymiotnika oznaczającego 'wielki, duży rozmiarem', spokrewnionego ze staronordyckim 'mikill' i greckim 'megas' (stąd 'mega-'). 'Mycel' opisywało WIELKOŚĆ czegoś jednorodnego — dużą górę, dużą rzekę, dużo wody. 'Many' pochodzi od zupełnie innego rdzenia, staroangielskiego 'manig' (spokrewnionego z niemieckim 'manch' i staronordyckim 'margr'), które od początku odnosiło się do LICZBY odrębnych jednostek — wielu ludzi, wielu dni. Innymi słowy: w samym rdzeniu słowotwórczym angielski od tysiąca lat koduje dwa różne pytania — 'jak duże?' kontra 'ile sztuk?' — i to rozróżnienie przetrwało nietknięte aż do dzisiejszej reguły much/many."
+      },
+      {
+        "label": "Dlaczego polski nie ma tego problemu w ten sam sposób",
+        "text": "Polski też rozróżnia 'dużo wody' od 'wielu ludzi', ale nie wymusza tego rozróżnienia w każdym miejscu gramatyki z taką konsekwencją — polskie 'dużo' obsłuży zarówno wodę, jak i ludzi ('dużo wody', 'dużo ludzi'), a subtelniejsze pary jak mało/trochę są semantyczne, nie morfologiczne (nie zmieniają się w zależności od policzalności rzeczownika). Angielski natomiast zbudował na tej różnicy osobny system morfologiczny: nie tylko dobór 'much/many' czy 'little/few', ale też zgodność z 'is/are' (money IS a problem, coins ARE scarce), obecność liczby mnogiej (waters tylko w znaczeniu specjalnym, np. 'territorial waters') i wybór przedimka. Dlatego błędy typu 'much people' czy 'many information' są dla native speakera nie stylistyczną niezręcznością, lecz sygnałem błędnej klasyfikacji rzeczownika — jakby ktoś w polskim powiedział 'wiele wody'."
+      },
+      {
+        "label": "Rzeczowniki 'oszukujące' klasyfikację",
+        "text": "Najtrudniejsze dla uczącego się są rzeczowniki, które w polskim czują się policzalnie, a w angielskim gramatycznie są masą: 'information', 'advice', 'furniture', 'news', 'luggage/baggage', 'research', 'progress', 'homework'. Nie mają liczby mnogiej (*informations, *advices są błędami), nie biorą 'a/an' w liczbie pojedynczej bez jednostki miary, i przyjmują wyłącznie 'much/little', nigdy 'many/few' ('much information', nie 'many informations'; żeby policzyć, trzeba dodać jednostkę: 'a piece of information', 'two pieces of advice' — temat pokrewny partitywom). Klucz semantyczny: angielski traktuje je jako pojęcia zbiorowe bez wewnętrznych granic, podobnie jak 'water' — 'furniture' to nie zliczalna kolekcja krzeseł i stołów, tylko jednorodna kategoria mebli w ogóle, tak jak woda jest jednorodną substancją niezależnie od tego, ile jej nalejesz."
+      }
+    ],
+    "usage": [
+      "Test praktyczny: czy da się postawić liczebnik wprost przed rzeczownikiem bez jednostki miary? 'Three chairs' — tak, więc policzalny. 'Three waters' — nie w standardowym znaczeniu (chyba że jako skrót od 'three bottles of water' w kawiarni), więc niepoliczalny.",
+      "Rzeczowniki dwuznaczne zmieniają kategorię wraz ze znaczeniem: 'a paper' (gazeta, artykuł naukowy — policzalny) kontra 'paper' (papier jako materiał — niepoliczalny); 'a hair' (pojedynczy włos) kontra 'hair' (włosy jako całość na głowie).",
+      "Niepoliczalne rzeczowniki abstrakcyjne (advice, information, progress, knowledge) to najczęstsza pułapka dla Polaków, bo w polskim intuicyjnie wydają się policzalne przez analogię do 'rada', 'wiadomość'.",
+      "Rozróżnienie count/mass rządzi też przedimkiem: 'a' pojawia się tylko przy rzeczownikach policzalnych w liczbie pojedynczej — stąd 'much advice', ale nigdy 'a much advice'."
+    ],
+    "tags": ["count noun", "mass noun", "uncountable", "mycel", "manig"],
+    "examples": [
+      { "en": "We need more information before we can decide.", "pl": "Potrzebujemy więcej informacji, zanim będziemy mogli zdecydować." },
+      { "en": "How much furniture can actually fit in this room?", "pl": "Ile mebli tak naprawdę zmieści się w tym pokoju?" },
+      { "en": "She gave me some really useful advice, not just one piece — a whole list of tips.", "pl": "Dała mi naprawdę przydatną radę — nie tylko jedną, całą listę wskazówek." },
+      { "en": "Progress has been slow, but there's been progress nonetheless.", "pl": "Postęp jest powolny, ale mimo wszystko jakiś postęp jest." }
+    ]
+  },
+  {
+    "id": "much_many",
+    "order": 2,
     "nameEn": "much / many",
     "namePl": "much / many",
     "rules": [
-      { "label": "many", "text": "Z rzeczownikami policzalnymi w liczbie mnogiej (many books, many people)" },
-      { "label": "much", "text": "Z rzeczownikami niepoliczalnymi (much water, much time)" },
-      { "label": "Pytania i przeczenia", "text": "much/many najczęściej pojawiają się w pytaniach (How much...? How many...?) i przeczeniach; w zdaniach twierdzących formalnych też są poprawne" }
+      {
+        "label": "Podział podstawowy",
+        "text": "'Many' łączy się z rzeczownikami policzalnymi w liczbie mnogiej (many books, many people, many mistakes). 'Much' łączy się z rzeczownikami niepoliczalnymi (much water, much time, much effort). To bezpośrednia kontynuacja rozróżnienia opisanego w poprzednim temacie: 'many' pyta 'ile sztuk', 'much' pyta 'jak dużo masy/substancji/stopnia'."
+      },
+      {
+        "label": "Dlaczego 'much' i 'many' brzmią sztywno w twierdzeniach",
+        "text": "To jeden z najbardziej mylących faktów tego tematu dla uczących się: 'much' i 'many' są całkowicie poprawne gramatycznie w zdaniu twierdzącym ('I have much time'), ale w spontanicznej, potocznej mowie brzmią nienaturalnie formalnie — native speaker powie raczej 'I have a lot of time'. To nie jest przypadek historyczny, tylko żywe zjawisko zwane w lingwistyce polaryzacją (polarity sensitivity): 'much/many' w standardowej angielszczyźnie mówionej są dziś naturalne przede wszystkim w kontekstach PYTAJĄCYCH i PRZECZĄCYCH ('How much...?', 'I don't have much...'), a w kontekście twierdzącym cofnęły się do rejestru formalnego, publicystycznego i pisanego ('Much progress has been made this year'). W mowie ich miejsce w zdaniach twierdzących przejęło 'a lot of'."
+      },
+      {
+        "label": "Historia tej polaryzacji",
+        "text": "W średnioangielskim 'much' (wtedy jeszcze 'muche/moche') i 'many' funkcjonowały swobodnie we wszystkich typach zdań, dokładnie jak dziś działa polskie 'dużo'. Przesunięcie w stronę pytań i przeczeń to zjawisko nowożytne, napędzane m.in. rosnącą popularnością wyrażeń z 'lot' (dosłownie 'działka, przydzielona porcja' — zobacz następny temat) jako naturalniejszego, mniej książkowego odpowiednika w mowie codziennej od XVII–XVIII wieku. Rezultat: dziś 'much/many' nie zniknęły ze zdań twierdzących, ale ich obecność tam automatycznie podnosi rejestr wypowiedzi — usłyszysz je w wiadomościach telewizyjnych, raportach, esejach, rzadziej przy stole."
+      },
+      {
+        "label": "'So much', 'too much', 'as much', 'very much' — enklawy, które przetrwały",
+        "text": "Ograniczenie do pytań/przeczeń dotyczy 'much/many' w ich najprostszej, samodzielnej roli kwantyfikatora przed rzeczownikiem. Gdy 'much' jest wzmocnione przez 'so', 'too', 'as' albo użyte jako przysłówek ('I like it very much', 'Thank you so much'), reguła polaryzacji przestaje obowiązywać i te formy są całkowicie naturalne w każdym typie zdania — to dlatego 'I have too much work' brzmi swobodnie, mimo że samo 'I have much work' już nie."
+      }
     ],
     "usage": [
       "Pytania o ilość: How much money do you have? How many friends do you have?",
-      "Przeczenia: I don't have much time. There aren't many seats left.",
-      "W stylu formalnym również w zdaniach twierdzących (much progress has been made)",
-      "W mowie potocznej w zdaniach twierdzących częściej używa się a lot of zamiast much/many"
+      "Przeczenia — najbardziej neutralny, niemarkowany kontekst dla obu słów: I don't have much time. There aren't many seats left.",
+      "Zdania twierdzące formalne/pisane, gdzie 'much/many' brzmią stosownie do rejestru: Much progress has been made. Many scientists agree on this point.",
+      "Zdania twierdzące potoczne — tu 'much/many' są zastępowane przez 'a lot of', ale nie są błędem, tylko brzmią książkowo: 'I have much time' jest poprawne, lecz nienaturalne w luźnej rozmowie.",
+      "Wzmocnione przez so/too/as/very — naturalne w każdym rejestrze: so much noise, too many people, as much as you like, thank you very much."
     ],
-    "tags": ["how much", "how many", "not much", "not many"],
+    "tags": ["how much", "how many", "not much", "not many", "polarity"],
     "examples": [
-      { "en": "How much sugar do you need?", "pl": "Ile cukru potrzebujesz?" },
-      { "en": "How many students are in your class?", "pl": "Ilu uczniów jest w twojej klasie?" },
-      { "en": "I don't have much money left.", "pl": "Nie mam już wiele pieniędzy." },
-      { "en": "There aren't many cafes open on Sunday.", "pl": "Niewiele kawiarni jest otwartych w niedzielę." }
+      { "en": "How much sugar do you actually need for this recipe?", "pl": "Ile tak naprawdę cukru potrzebujesz do tego przepisu?" },
+      { "en": "I don't have much patience left for excuses.", "pl": "Nie mam już wiele cierpliwości do wymówek." },
+      { "en": "Much has changed since we last spoke — much more than I expected.", "pl": "Wiele się zmieniło, odkąd ostatnio rozmawialiśmy — więcej, niż się spodziewałem." },
+      { "en": "Not many people know that this building used to be a factory.", "pl": "Niewiele osób wie, że ten budynek był kiedyś fabryką." }
     ]
   },
   {
     "id": "little_few",
-    "order": 2,
+    "order": 3,
     "nameEn": "little / a little / few / a few",
     "namePl": "little / a little oraz few / a few",
     "rules": [
-      { "label": "a little", "text": "Z rzeczownikami niepoliczalnymi — 'trochę' (pozytywny wydźwięk, wystarczająca ilość)" },
-      { "label": "little", "text": "Z rzeczownikami niepoliczalnymi — 'mało' (negatywny wydźwięk, prawie brak)" },
-      { "label": "a few", "text": "Z rzeczownikami policzalnymi w liczbie mnogiej — 'kilka' (pozytywny wydźwięk, wystarczająca liczba)" },
-      { "label": "few", "text": "Z rzeczownikami policzalnymi w liczbie mnogiej — 'mało, niewiele' (negatywny wydźwięk, prawie brak)" }
+      {
+        "label": "Cztery formy, jedna oś",
+        "text": "'A little' i 'little' idą z niepoliczalnymi (a little water / little water), 'a few' i 'few' idą z policzalnymi w liczbie mnogiej (a few friends / few friends) — to ta sama oś count/mass co przy much/many. Ale tu dochodzi druga, niezależna oś: obecność przedimka 'a' zmienia nie ilość, tylko NASTAWIENIE mówiącego wobec tej ilości."
+      },
+      {
+        "label": "Skąd bierze się ta różnica nastawienia: rola przedimka 'a'",
+        "text": "'A' historycznie pochodzi od liczebnika 'one' (staroangielskie 'ān') — czysto ilościowo 'a little' to dosłownie 'jedna [porcja] mała', czyli 'jest TU coś, choć niewiele'. Bez 'a', samo 'little' nie wskazuje żadnej konkretnej, obecnej porcji — jest czystym stwierdzeniem niedostatku, bliższym znaczeniowo 'prawie nic'. Ta sama logika działa przy 'a few' kontra 'few': 'a few' przywołuje obraz konkretnej, policzalnej, choć małej grupki ('jest kilka sztuk — oto one'), podczas gdy nagie 'few' po prostu neguje wystarczającą liczbę ('prawie żadnych'). To wyjaśnia, dlaczego mówi się, że 'a little/a few' mają wydźwięk POZYTYWNY (coś jest, i wystarczy wspomnieć), a 'little/few' — NEGATYWNY (niedostatek, prawie nic), mimo że obiektywna ilość może być identyczna w obu przypadkach."
+      },
+      {
+        "label": "To zjawisko semantycznej markedności (semantic prosody)",
+        "text": "W lingwistyce nazywa się to zjawisko 'polarity' albo 'semantic prosody' danego wyrażenia — to samo 'ile' potrafi zabrzmieć jak sukces albo jak porażka w zależności od jednego małego przedimka. Test: 'She has a little money, so we can go to the cinema' (dobra wiadomość — starczy) kontra 'She has little money, so we can't afford much' (zła wiadomość — brak). To ten sam mechanizm markedności, który w polskim rozróżnia leksykalnie 'trochę' (pozytywne, jest) od 'mało' (negatywne, prawie nic) — z tą różnicą, że w angielskim to nie dwa różne słowa, tylko jeden rdzeń plus/minus przedimek."
+      },
+      {
+        "label": "'Quite a few' — pułapka pozornej skromności",
+        "text": "Wyrażenie 'quite a few' jest klasyczną pułapką dla uczących się, bo brzmi jak wzmocnienie skromnej ilości ('dość niewiele'), a w rzeczywistości oznacza SPORO, całkiem sporą liczbę — 'I've read quite a few books on this topic' znaczy 'przeczytałem naprawdę wiele książek', nie 'kilka'. Wynika to z tego, że 'quite' przed 'a few' nie modyfikuje 'few' (mało), tylko całą frazę 'a few' jako jednostkę znaczącą 'pewna liczba' — 'quite' ją intensyfikuje w górę, tak jak intensyfikuje przymiotniki ('quite good' = naprawdę dobry). Analogicznie 'not a few' to klasyczna litota — podwójne przeczenie oznaczające 'wcale niemało, sporo' (temat pokrewny: litota)."
+      }
     ],
     "usage": [
-      "a little / a few, gdy chcemy podkreślić, że coś jest, choć niedużo (I have a little time - wystarczy)",
-      "little / few, gdy podkreślamy niedostatek czegoś (I have little time - prawie wcale)",
-      "a little water, a little money, a little information (niepoliczalne)",
-      "a few friends, a few days, a few questions (policzalne)"
+      "a little / a few — gdy chcemy podkreślić, że coś jest, choć niedużo, z pozytywnym lub neutralnym wydźwiękiem: I have a little time before my train — we can grab a coffee.",
+      "little / few — gdy podkreślamy niedostatek, coś bliskiego zeru, często z odcieniem rozczarowania lub ostrzeżenia: I have little time — I really need to go.",
+      "few w rejestrze formalnym bywa wzmacniane przez 'very': very few people know the full story.",
+      "quite a few = 'sporo, całkiem dużo' — nie mylić z 'a few' w znaczeniu dosłownej skromnej ilości.",
+      "'the few' jako rzeczownik zbiorowy odnoszący się do wąskiej, elitarnej grupy (temat pokrewny: przymiotniki jako rzeczowniki): 'the chosen few'."
     ],
-    "tags": ["a little", "little", "a few", "few"],
+    "tags": ["a little", "little", "a few", "few", "semantic prosody", "quite a few"],
     "examples": [
-      { "en": "We have a little time before the train leaves.", "pl": "Mamy trochę czasu, zanim odjedzie pociąg." },
-      { "en": "He has little experience for this job.", "pl": "On ma niewielkie doświadczenie do tej pracy." },
-      { "en": "I have a few questions for you.", "pl": "Mam do ciebie kilka pytań." },
-      { "en": "Few people came to the meeting.", "pl": "Niewielu ludzi przyszło na spotkanie." }
+      { "en": "We still have a little time before the train leaves — let's grab a coffee.", "pl": "Mamy jeszcze trochę czasu, zanim odjedzie pociąg — chodźmy na kawę." },
+      { "en": "He has little experience for a role this senior, and it shows.", "pl": "Ma niewielkie doświadczenie jak na tak wysokie stanowisko, i to widać." },
+      { "en": "I've got a few questions before we sign anything.", "pl": "Mam kilka pytań, zanim cokolwiek podpiszemy." },
+      { "en": "Few people came to the meeting, so it was cancelled.", "pl": "Niewielu ludzi przyszło na spotkanie, więc je odwołano." },
+      { "en": "We've actually sold quite a few tickets already — more than we expected.", "pl": "Sprzedaliśmy już całkiem sporo biletów — więcej, niż się spodziewaliśmy." }
     ]
   },
   {
     "id": "a_lot_lots_plenty",
-    "order": 3,
+    "order": 4,
     "nameEn": "a lot of / lots of / plenty of",
     "namePl": "a lot of / lots of / plenty of",
     "rules": [
-      { "label": "a lot of / lots of", "text": "Używane zarówno z rzeczownikami policzalnymi, jak i niepoliczalnymi — 'dużo, wiele'; naturalne w zdaniach twierdzących" },
-      { "label": "plenty of", "text": "'aż nadto, więcej niż potrzeba' — też z policzalnymi i niepoliczalnymi, podkreśla nadmiar" },
-      { "label": "Styl", "text": "a lot of / lots of są nieformalne i bardzo częste w mowie; lots of jest jeszcze bardziej potoczne niż a lot of" }
+      {
+        "label": "Uniwersalność jako cecha definiująca",
+        "text": "'A lot of', 'lots of' i 'plenty of' działają identycznie z policzalnymi i niepoliczalnymi (a lot of books / a lot of water) — to ich główna przewaga funkcjonalna nad much/many i little/few, które wymagają znajomości kategorii rzeczownika. Właśnie dlatego stały się domyślnym wyborem w mowie potocznej: mówiący nie musi się zatrzymywać, żeby ocenić, czy 'homework' jest policzalne, zanim wybierze 'much' czy 'many' — 'a lot of homework' działa zawsze."
+      },
+      {
+        "label": "Etymologia 'lot': od losowania do ilości",
+        "text": "'Lot' pochodzi od staroangielskiego 'hlot', oznaczającego dosłownie los, przedmiot używany do losowania (patyczek, kamyk) i, w rozszerzeniu, PORCJĘ przypadającą komuś w wyniku losowania — stąd angielskie 'lottery' i wyrażenie 'to cast lots' (rzucać losy), a także 'lot' w znaczeniu 'działka gruntu' (przydzielona komuś porcja ziemi) czy 'a bad lot' ('kiepski los/dola'). 'A lot of X' historycznie znaczyło więc dosłownie 'przydzielona porcja X' — i z tego konkretnego, wymiernego znaczenia XVIII–XIX-wieczna angielszczyzna wyabstrahowała ogólny kwantyfikator 'sporo, wiele', tak jak polskie 'kupa' (kupa pieniędzy) przeszła od stosu fizycznego do znaczenia czysto ilościowego."
+      },
+      {
+        "label": "'Plenty' — normandzki import z rodziny 'pełny'",
+        "text": "'Plenty' trafiło do angielskiego przez starofrancuskie 'plenté', wywodzące się z łacińskiego 'plenitas' (pełnia), które z kolei pochodzi od 'plenus' ('pełny') — tego samego łacińskiego rdzenia, co dzisiejsze angielskie 'complete', 'plenary' (posiedzenie plenarne, czyli 'pełne'), 'plenitude' i 'replenish' ('uzupełnić do pełna'). Historycznie 'plenty' było rzeczownikiem samodzielnym ('we live in plenty' — 'żyjemy w dostatku'), a dopiero później zostało przeanalizowane jako kwantyfikator z 'of' ('plenty of food'), na wzór 'a lot of'. Ten rodowód tłumaczy, dlaczego 'plenty' zachowało znaczenie nie tylko 'dużo', ale 'dużo, i to WYSTARCZAJĄCO, z zapasem' — ślad pierwotnego znaczenia 'pełni, dostatku', a nie neutralnej ilości."
+      },
+      {
+        "label": "Skala nieformalności: od 'much' do 'loads of'",
+        "text": "Kwantyfikatory ilości układają się na wyraźnej skali rejestru, którą warto traktować jako jeden model, nie osobne wyrażenia do wykucia: 'much/many' (formalne/pisane w twierdzeniach) → 'a lot of' (neutralne, uniwersalne, najbezpieczniejszy wybór w mowie i piśmie) → 'plenty of' (neutralne do lekko formalnego, z niuansem wystarczalności) → 'lots of' (potoczne) → 'loads of', 'heaps of', 'tons of' (bardzo potoczne, obrazowe, brytyjskie). 'Lots of' i te ostatnie przyjmują liczbę czasownika zgodną z rzeczownikiem po 'of' (lots of people ARE coming), tak jak 'a lot of' i 'plenty of'."
+      }
     ],
     "usage": [
-      "Zdania twierdzące zamiast formalnego much/many: We have a lot of friends.",
-      "lots of w mowie potocznej: There's lots of food left.",
-      "plenty of, gdy chcemy podkreślić, że czegoś jest pod dostatkiem: We have plenty of time.",
-      "Wszystkie trzy odmieniają się przez czasownik zgodnie z rzeczownikiem, którego dotyczą (a lot of people are... / a lot of money is...)"
+      "Zdania twierdzące zamiast formalnego much/many — domyślny, neutralny wybór w mowie: We have a lot of friends in this city.",
+      "lots of w mowie potocznej, nieformalnej: There's lots of food left, help yourself.",
+      "plenty of, gdy chcemy podkreślić nie tylko ilość, ale wystarczalność 'z zapasem': Don't rush, we have plenty of time.",
+      "Zgodność czasownika z rzeczownikiem po 'of', nie z samym kwantyfikatorem: A lot of the equipment IS outdated. / A lot of the students ARE unhappy.",
+      "plenty jako samodzielny zaimek bez 'of' + rzeczownik: 'Do we need more chairs?' — 'No, we've got plenty.'"
     ],
-    "tags": ["a lot of", "lots of", "plenty of"],
+    "tags": ["a lot of", "lots of", "plenty of", "hlot", "plenitas", "register"],
     "examples": [
-      { "en": "She has a lot of experience in marketing.", "pl": "Ona ma dużo doświadczenia w marketingu." },
-      { "en": "There's lots of space in the new office.", "pl": "W nowym biurze jest mnóstwo miejsca." },
-      { "en": "Don't worry, we have plenty of time.", "pl": "Nie martw się, mamy mnóstwo czasu." },
-      { "en": "A lot of tourists visit this city in summer.", "pl": "Wielu turystów odwiedza to miasto latem." }
+      { "en": "She has a lot of experience in crisis management.", "pl": "Ona ma duże doświadczenie w zarządzaniu kryzysowym." },
+      { "en": "There's lots of space in the new office — we could fit two more desks.", "pl": "W nowym biurze jest mnóstwo miejsca — zmieściłyby się jeszcze dwa biurka." },
+      { "en": "Don't worry about the deadline, we have plenty of time.", "pl": "Nie martw się o termin, mamy mnóstwo czasu." },
+      { "en": "A lot of the damage was caused by the storm, not by neglect.", "pl": "Duża część szkód została spowodowana przez burzę, nie przez zaniedbanie." }
     ]
   },
   {
     "id": "enough_too_much_many",
-    "order": 4,
+    "order": 5,
     "nameEn": "enough / too much / too many",
     "namePl": "enough oraz too much / too many",
     "rules": [
-      { "label": "enough + rzeczownik", "text": "enough stoi PRZED rzeczownikiem: enough money, enough chairs" },
-      { "label": "przymiotnik/przysłówek + enough", "text": "enough stoi PO przymiotniku lub przysłówku: warm enough, fast enough" },
-      { "label": "too much", "text": "Z rzeczownikami niepoliczalnymi — 'za dużo': too much noise" },
-      { "label": "too many", "text": "Z rzeczownikami policzalnymi w liczbie mnogiej — 'za dużo': too many mistakes" }
+      {
+        "label": "Miejsce 'enough' — fosyl szyku staroangielskiego",
+        "text": "'Enough' ma nietypową dla współczesnego angielskiego pozycję: przed rzeczownikiem (enough money), ale PO przymiotniku lub przysłówku (warm enough, nie *enough warm). To nie kaprys, tylko relikt: 'enough' pochodzi od staroangielskiego 'genōg/genōh' (spokrewnionego z niemieckim 'genug' i niderlandzkim 'genoeg'), przymiotnika, który w staroangielskim — języku o znacznie swobodniejszym szyku zdania niż dzisiejszy angielski — mógł swobodnie występować po opisywanym słowie. Z czasem angielski ustandaryzował szyk przymiotnik-przed-rzeczownikiem niemal wszędzie, ale 'enough' jako jeden z nielicznych przypadków zachował starą pozycję POSTPOZYCYJNĄ (po słowie, które określa), gdy określa przymiotnik lub przysłówek — twardy, skamieniały fragment dawnej gramatyki, którego reguły nie da się wyprowadzić z logiki współczesnego angielskiego, tylko z jego historii."
+      },
+      {
+        "label": "'Too' — ta sama etymologia, co przyimek 'to'",
+        "text": "'Too' i przyimek 'to' mają dokładnie ten sam korzeń staroangielski ('tō') — pierwotnie to było jedno słowo, a rozdzielenie na dwie pisownie nastąpiło dopiero w średnioangielskim, żeby graficznie odróżnić znaczenie przysłówkowe ('also; excessively') od przyimkowego kierunkowego. Ten wspólny rodowód tłumaczy logikę znaczeniową: przyimek 'to' opisuje ruch W STRONĘ punktu docelowego, a 'too' w znaczeniu nadmiaru opisuje ruch, który ten punkt PRZEKROCZYŁ — 'too much' to dosłownie 'więcej, niż [dokądś, do granicy] prowadzi', czyli 'poza właściwą miarę'. Ten sam obraz przestrzenny (przekroczenie granicy) stoi za wszystkimi użyciami 'too' oznaczającymi nadmiar, niezależnie od tego, czy chodzi o ilość (too much/many), czy stopień (too tired, too expensive)."
+      },
+      {
+        "label": "Ten sam podział count/mass, zamknięty w jednym wyrażeniu",
+        "text": "'Too much' i 'too many' dziedziczą dokładnie ten sam podział, co 'much/many' z wcześniejszego tematu: 'too much' idzie z niepoliczalnymi (too much noise, too much salt), 'too many' z policzalnymi w liczbie mnogiej (too many mistakes, too many cooks). W przeciwieństwie do zwykłego 'much/many', 'too much/too many' NIE podlega ograniczeniu do pytań/przeczeń — są całkowicie naturalne w zdaniach twierdzących w każdym rejestrze ('There's too much traffic today'), bo 'too' samo w sobie niesie już wyraźny, jednoznaczny ładunek negatywnej oceny (nadmiar to zawsze problem), więc nie potrzebuje kontekstu pytającego czy przeczącego, żeby brzmieć naturalnie."
+      },
+      {
+        "label": "Trzy różne 'enough': ilość, stopień, samodzielność",
+        "text": "'Enough' pełni trzy odrębne funkcje składniowe, które warto rozróżniać: (1) determinator przed rzeczownikiem — 'enough chairs'; (2) przysłówek po przymiotniku/przysłówku — 'fast enough', 'warm enough'; (3) samodzielny zaimek, bez żadnego rzeczownika czy przymiotnika obok — 'I've had enough!' (mam dość, koniec cierpliwości) — to użycie ma silne nacechowanie emocjonalne, zwykle irytacji lub wyczerpania cierpliwości, zupełnie inne od neutralnego 'wystarczająco' w pozostałych dwóch funkcjach. Dodatkowo 'enough' może łączyć się z bezokolicznikiem ('old enough to vote') albo z 'for' + rzeczownikiem ('big enough for the whole family'), rozszerzając strukturę o wskazanie CELU lub ODBIORCY wystarczalności."
+      }
     ],
     "usage": [
-      "enough oznacza wystarczającą ilość/stopień: We don't have enough chairs.",
-      "too much/too many oznaczają nadmiar, coś negatywnego: There's too much traffic today.",
-      "enough może też stać samodzielnie: I've had enough!",
-      "too + przymiotnik (bez rzeczownika): This coffee is too hot."
+      "enough oznacza wystarczającą ilość/stopień, neutralnie: We don't have enough chairs for everyone.",
+      "too much/too many oznaczają nadmiar, prawie zawsze z negatywnym wydźwiękiem: There's too much traffic today, we'll be late.",
+      "enough jako samodzielny wykrzyknik zniecierpliwienia: Enough! I don't want to hear another word about it.",
+      "too + przymiotnik/przysłówek + (for kogoś) + (to + bezokolicznik): This coffee is too hot to drink right now.",
+      "przymiotnik/przysłówek + enough + (for kogoś) + (to + bezokolicznik): Is she old enough to drive?"
     ],
-    "tags": ["enough", "too much", "too many"],
+    "tags": ["enough", "too much", "too many", "genōg", "postpositive", "too = to"],
     "examples": [
-      { "en": "We don't have enough time to finish this.", "pl": "Nie mamy wystarczająco dużo czasu, żeby to skończyć." },
-      { "en": "Is this jacket warm enough for winter?", "pl": "Czy ta kurtka jest wystarczająco ciepła na zimę?" },
-      { "en": "There's too much sugar in this cake.", "pl": "W tym cieście jest za dużo cukru." },
-      { "en": "I made too many mistakes in the test.", "pl": "Zrobiłem za dużo błędów w teście." }
+      { "en": "We don't have enough time to finish this properly.", "pl": "Nie mamy wystarczająco czasu, żeby zrobić to porządnie." },
+      { "en": "Is this jacket warm enough for a Scottish winter?", "pl": "Czy ta kurtka jest wystarczająco ciepła na szkocką zimę?" },
+      { "en": "There's far too much sugar in this recipe — I'm halving it.", "pl": "W tym przepisie jest zdecydowanie za dużo cukru — zmniejszę go o połowę." },
+      { "en": "I made too many careless mistakes in the test, and it cost me.", "pl": "Zrobiłem za dużo niedbałych błędów w teście i to mnie kosztowało." },
+      { "en": "That's enough — I'm not listening to another excuse.", "pl": "Wystarczy — nie wysłucham kolejnej wymówki." }
     ]
   }
 ]

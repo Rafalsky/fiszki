@@ -1,45 +1,296 @@
 [
-  {"id": 1, "itemId": "much_many", "prompt": "How ___ apples do you want?", "answer": "many", "distractors": ["much", "a little", "a few"]},
-  {"id": 2, "itemId": "much_many", "prompt": "How ___ money do you need?", "answer": "much", "distractors": ["many", "a little", "a few"]},
-  {"id": 3, "itemId": "much_many", "prompt": "I don't have ___ friends here.", "answer": "many", "distractors": ["much", "a little", "a few"]},
-  {"id": 4, "itemId": "much_many", "prompt": "There isn't ___ time left.", "answer": "much", "distractors": ["many", "a little", "a few"]},
-  {"id": 5, "itemId": "much_many", "prompt": "He doesn't eat ___ vegetables.", "answer": "many", "distractors": ["much", "a little", "a few"]},
-  {"id": 6, "itemId": "much_many", "prompt": "She doesn't drink ___ coffee.", "answer": "much", "distractors": ["many", "a little", "a few"]},
-  {"id": 7, "itemId": "much_many", "prompt": "How ___ languages does she speak?", "answer": "many", "distractors": ["much", "a little", "a few"]},
-  {"id": 8, "itemId": "much_many", "prompt": "How ___ information do you have?", "answer": "much", "distractors": ["many", "a little", "a few"]},
-  {"id": 9, "itemId": "much_many", "prompt": "There aren't ___ chairs in this room.", "answer": "many", "distractors": ["much", "a little", "a few"]},
-  {"id": 10, "itemId": "much_many", "prompt": "We don't have ___ petrol left.", "answer": "much", "distractors": ["many", "a little", "a few"]},
-
-  {"id": 11, "itemId": "little_few", "prompt": "I have ___ money, so I can't buy this.", "answer": "little", "distractors": ["a little", "few", "a few"]},
-  {"id": 12, "itemId": "little_few", "prompt": "Don't worry, we have ___ time - we won't be late.", "answer": "a little", "distractors": ["little", "few", "a few"]},
-  {"id": 13, "itemId": "little_few", "prompt": "Only ___ people showed up to the concert.", "answer": "few", "distractors": ["little", "a little", "a few"]},
-  {"id": 14, "itemId": "little_few", "prompt": "I have ___ friends who can help me move.", "answer": "a few", "distractors": ["little", "a little", "few"]},
-  {"id": 15, "itemId": "little_few", "prompt": "She speaks ___ English, but enough to get by.", "answer": "a little", "distractors": ["little", "few", "a few"]},
-  {"id": 16, "itemId": "little_few", "prompt": "He has ___ interest in sports; he never watches games.", "answer": "little", "distractors": ["a little", "few", "a few"]},
-  {"id": 17, "itemId": "little_few", "prompt": "We need ___ more minutes to finish.", "answer": "a few", "distractors": ["little", "a little", "few"]},
-  {"id": 18, "itemId": "little_few", "prompt": "Very ___ students passed the difficult exam.", "answer": "few", "distractors": ["little", "a little", "a few"]},
-  {"id": 19, "itemId": "little_few", "prompt": "Could I have ___ sugar in my tea, please?", "answer": "a little", "distractors": ["little", "few", "a few"]},
-  {"id": 20, "itemId": "little_few", "prompt": "There are ___ tickets left, so buy yours now.", "answer": "a few", "distractors": ["little", "a little", "few"]},
-
-  {"id": 21, "itemId": "a_lot_lots_plenty", "prompt": "She has ___ experience in this field.", "answer": "a lot of", "distractors": ["lots of", "plenty of", "many"]},
-  {"id": 22, "itemId": "a_lot_lots_plenty", "prompt": "There's ___ food at the party - help yourself!", "answer": "plenty of", "distractors": ["a lot of", "lots of", "many"]},
-  {"id": 23, "itemId": "a_lot_lots_plenty", "prompt": "He owns ___ books about history.", "answer": "a lot of", "distractors": ["lots of", "plenty of", "many"]},
-  {"id": 24, "itemId": "a_lot_lots_plenty", "prompt": "Don't rush, we have ___ time.", "answer": "plenty of", "distractors": ["a lot of", "lots of", "many"]},
-  {"id": 25, "itemId": "a_lot_lots_plenty", "prompt": "There's ___ traffic on the roads today.", "answer": "a lot of", "distractors": ["lots of", "plenty of", "many"]},
-  {"id": 26, "itemId": "a_lot_lots_plenty", "prompt": "We still have ___ work to do.", "answer": "lots of", "distractors": ["a lot of", "plenty of", "many"]},
-  {"id": 27, "itemId": "a_lot_lots_plenty", "prompt": "I have ___ questions about the project.", "answer": "a lot of", "distractors": ["lots of", "plenty of", "many"]},
-  {"id": 28, "itemId": "a_lot_lots_plenty", "prompt": "There are ___ opportunities for young people here.", "answer": "plenty of", "distractors": ["a lot of", "lots of", "many"]},
-  {"id": 29, "itemId": "a_lot_lots_plenty", "prompt": "She earns ___ money every month.", "answer": "lots of", "distractors": ["a lot of", "plenty of", "many"]},
-  {"id": 30, "itemId": "a_lot_lots_plenty", "prompt": "There were ___ people at the festival.", "answer": "a lot of", "distractors": ["lots of", "plenty of", "many"]},
-
-  {"id": 31, "itemId": "enough_too_much_many", "prompt": "We don't have ___ chairs for everyone.", "answer": "enough", "distractors": ["too much", "too many", "a lot of"]},
-  {"id": 32, "itemId": "enough_too_much_many", "prompt": "There's ___ noise in this office; I can't concentrate.", "answer": "too much", "distractors": ["enough", "too many", "a lot of"]},
-  {"id": 33, "itemId": "enough_too_much_many", "prompt": "I made ___ mistakes in my essay.", "answer": "too many", "distractors": ["enough", "too much", "a lot of"]},
-  {"id": 34, "itemId": "enough_too_much_many", "prompt": "Is the water warm ___ for a swim?", "answer": "enough", "distractors": ["too much", "too many", "a lot of"]},
-  {"id": 35, "itemId": "enough_too_much_many", "prompt": "This box isn't big ___ for all these books.", "answer": "enough", "distractors": ["too much", "too many", "a lot of"]},
-  {"id": 36, "itemId": "enough_too_much_many", "prompt": "He drinks ___ coffee every day.", "answer": "too much", "distractors": ["enough", "too many", "a lot of"]},
-  {"id": 37, "itemId": "enough_too_much_many", "prompt": "There were ___ people at the party - it was too crowded.", "answer": "too many", "distractors": ["enough", "too much", "a lot of"]},
-  {"id": 38, "itemId": "enough_too_much_many", "prompt": "Do we have ___ money to buy the tickets?", "answer": "enough", "distractors": ["too much", "too many", "a lot of"]},
-  {"id": 39, "itemId": "enough_too_much_many", "prompt": "She spends ___ time on her phone.", "answer": "too much", "distractors": ["enough", "too many", "a lot of"]},
-  {"id": 40, "itemId": "enough_too_much_many", "prompt": "There are ___ cars on this street; it's dangerous.", "answer": "too many", "distractors": ["enough", "too much", "a lot of"]}
+  {
+    "id": 1,
+    "itemId": "count_mass_foundation",
+    "prompt": "Could you give me some ___ before I make a decision? (not 'advices')",
+    "answer": "advice",
+    "distractors": ["advices", "an advice", "advise"]
+  },
+  {
+    "id": 2,
+    "itemId": "count_mass_foundation",
+    "prompt": "We still need more ___ before we can furnish the whole flat.",
+    "answer": "furniture",
+    "distractors": ["furnitures", "a furniture", "furniture's"]
+  },
+  {
+    "id": 3,
+    "itemId": "count_mass_foundation",
+    "prompt": "Choose the correct verb: 'Good news ___ hard to come by these days.'",
+    "answer": "is",
+    "distractors": ["are", "were", "have been"]
+  },
+  {
+    "id": 4,
+    "itemId": "count_mass_foundation",
+    "prompt": "I only had time to read one ___ of information before the meeting started.",
+    "answer": "piece",
+    "distractors": ["information", "part", "unit"]
+  },
+  {
+    "id": 5,
+    "itemId": "count_mass_foundation",
+    "prompt": "'Can I get you a ___?' asks the waiter, meaning a bottled water, not water in general.",
+    "answer": "water",
+    "distractors": ["waters", "much water", "many waters"]
+  },
+  {
+    "id": 6,
+    "itemId": "count_mass_foundation",
+    "prompt": "Choose the mass (uncountable) noun: research, mistake, chair, question.",
+    "answer": "research",
+    "distractors": ["mistake", "chair", "question"]
+  },
+  {
+    "id": 7,
+    "itemId": "count_mass_foundation",
+    "prompt": "'She's had a lot of ___ writing her thesis.' (uncountable, no plural form)",
+    "answer": "trouble",
+    "distractors": ["troubles", "a trouble", "many troubles"]
+  },
+  {
+    "id": 8,
+    "itemId": "count_mass_foundation",
+    "prompt": "Which sentence is grammatically correct?",
+    "answer": "How much luggage do you have?",
+    "distractors": ["How many luggages do you have?", "How much luggages do you have?", "How many luggage do you have?"]
+  },
+  {
+    "id": 9,
+    "itemId": "count_mass_foundation",
+    "prompt": "'Paper' meaning 'a newspaper' behaves as a ___ noun, unlike 'paper' the material.",
+    "answer": "countable",
+    "distractors": ["uncountable", "collective", "mass"]
+  },
+  {
+    "id": 10,
+    "itemId": "much_many",
+    "prompt": "How ___ time do we have left before the flight?",
+    "answer": "much",
+    "distractors": ["many", "a little", "a few"]
+  },
+  {
+    "id": 11,
+    "itemId": "much_many",
+    "prompt": "How ___ languages does she actually speak fluently?",
+    "answer": "many",
+    "distractors": ["much", "a little", "a lot"]
+  },
+  {
+    "id": 12,
+    "itemId": "much_many",
+    "prompt": "I don't have ___ patience left for these excuses.",
+    "answer": "much",
+    "distractors": ["many", "a lot", "few"]
+  },
+  {
+    "id": 13,
+    "itemId": "much_many",
+    "prompt": "Choose the version that sounds natural in a casual conversation about money.",
+    "answer": "I've got a lot of savings.",
+    "distractors": ["I've got much savings.", "I've got many savings.", "I've got quite much savings."]
+  },
+  {
+    "id": 14,
+    "itemId": "much_many",
+    "prompt": "Fill in the formal, written-style report sentence: '___ progress has been made this quarter.'",
+    "answer": "Much",
+    "distractors": ["A lot", "Lots", "Plenty"]
+  },
+  {
+    "id": 15,
+    "itemId": "much_many",
+    "prompt": "Not ___ scientists dispute this theory anymore.",
+    "answer": "many",
+    "distractors": ["much", "a lot", "little"]
+  },
+  {
+    "id": 16,
+    "itemId": "much_many",
+    "prompt": "Thank you so ___ for helping me move the sofa.",
+    "answer": "much",
+    "distractors": ["many", "a lot of", "lots"]
+  },
+  {
+    "id": 17,
+    "itemId": "much_many",
+    "prompt": "'As ___ as I'd love to help, I simply don't have the time this week.'",
+    "answer": "much",
+    "distractors": ["many", "a lot", "far"]
+  },
+  {
+    "id": 18,
+    "itemId": "little_few",
+    "prompt": "Good news — we have ___ money left, enough for a small celebration.",
+    "answer": "a little",
+    "distractors": ["little", "a few", "few"]
+  },
+  {
+    "id": 19,
+    "itemId": "little_few",
+    "prompt": "Bad news — we have ___ money left, barely enough for groceries.",
+    "answer": "little",
+    "distractors": ["a little", "a few", "few"]
+  },
+  {
+    "id": 20,
+    "itemId": "little_few",
+    "prompt": "Luckily, ___ friends showed up to help us move, so we finished in an hour.",
+    "answer": "a few",
+    "distractors": ["few", "a little", "little"]
+  },
+  {
+    "id": 21,
+    "itemId": "little_few",
+    "prompt": "Unfortunately, ___ people volunteered, so the project was cancelled.",
+    "answer": "few",
+    "distractors": ["a few", "a little", "little"]
+  },
+  {
+    "id": 22,
+    "itemId": "little_few",
+    "prompt": "'I've actually read ___ books on this exact topic' means the speaker has read quite a lot, not just a couple.",
+    "answer": "quite a few",
+    "distractors": ["few", "a few", "very few"]
+  },
+  {
+    "id": 23,
+    "itemId": "little_few",
+    "prompt": "Choose the sentence with a negative, disappointed tone.",
+    "answer": "Very few people bothered to reply to my email.",
+    "distractors": ["A few people bothered to reply to my email.", "Quite a few people bothered to reply to my email.", "A little bothered to reply."]
+  },
+  {
+    "id": 24,
+    "itemId": "little_few",
+    "prompt": "We have ___ time before the meeting, so let's use it wisely rather than rush.",
+    "answer": "a little",
+    "distractors": ["little", "a few", "few"]
+  },
+  {
+    "id": 25,
+    "itemId": "little_few",
+    "prompt": "'Not a ___ readers complained about the ending' is a formal way of saying that many readers complained.",
+    "answer": "few",
+    "distractors": ["little", "a few", "much"]
+  },
+  {
+    "id": 26,
+    "itemId": "a_lot_lots_plenty",
+    "prompt": "We have ___ of time before the train, so there's no need to rush.",
+    "answer": "plenty",
+    "distractors": ["much", "many", "few"]
+  },
+  {
+    "id": 27,
+    "itemId": "a_lot_lots_plenty",
+    "prompt": "'Do we have enough chairs?' — 'Yes, we've got ___.' (standalone, no noun after)",
+    "answer": "plenty",
+    "distractors": ["much", "a lot of", "many of"]
+  },
+  {
+    "id": 28,
+    "itemId": "a_lot_lots_plenty",
+    "prompt": "There's ___ of traffic on this road every single morning.",
+    "answer": "a lot",
+    "distractors": ["much", "many", "a little"]
+  },
+  {
+    "id": 29,
+    "itemId": "a_lot_lots_plenty",
+    "prompt": "Choose the correct verb agreement: 'A lot of the furniture ___ damaged in the move.'",
+    "answer": "was",
+    "distractors": ["were", "have been", "are"]
+  },
+  {
+    "id": 30,
+    "itemId": "a_lot_lots_plenty",
+    "prompt": "Choose the correct verb agreement: 'A lot of the guests ___ already left by midnight.'",
+    "answer": "had",
+    "distractors": ["has", "was", "is"]
+  },
+  {
+    "id": 31,
+    "itemId": "a_lot_lots_plenty",
+    "prompt": "Which is the most informal option? 'There's ___ of food left.'",
+    "answer": "loads",
+    "distractors": ["a lot", "plenty", "much"]
+  },
+  {
+    "id": 32,
+    "itemId": "a_lot_lots_plenty",
+    "prompt": "The word 'plenty' historically came into English from Old French, ultimately from the Latin word meaning ___.",
+    "answer": "full",
+    "distractors": ["many", "money", "field"]
+  },
+  {
+    "id": 33,
+    "itemId": "a_lot_lots_plenty",
+    "prompt": "'Lots' agrees with the noun that follows 'of': 'Lots of homework ___ due tomorrow.'",
+    "answer": "is",
+    "distractors": ["are", "were", "have"]
+  },
+  {
+    "id": 34,
+    "itemId": "enough_too_much_many",
+    "prompt": "Is this box big ___ to fit all these books?",
+    "answer": "enough",
+    "distractors": ["too", "very", "so"]
+  },
+  {
+    "id": 35,
+    "itemId": "enough_too_much_many",
+    "prompt": "We simply don't have ___ chairs for everyone at the party.",
+    "answer": "enough",
+    "distractors": ["too", "too much", "too many"]
+  },
+  {
+    "id": 36,
+    "itemId": "enough_too_much_many",
+    "prompt": "There's ___ salt in this soup — I can barely eat it.",
+    "answer": "too much",
+    "distractors": ["too many", "enough", "much too"]
+  },
+  {
+    "id": 37,
+    "itemId": "enough_too_much_many",
+    "prompt": "I made ___ mistakes on that exam to pass.",
+    "answer": "too many",
+    "distractors": ["too much", "enough", "so much"]
+  },
+  {
+    "id": 38,
+    "itemId": "enough_too_much_many",
+    "prompt": "Choose the correct word order: 'Is she old ___ to watch this film?'",
+    "answer": "enough",
+    "distractors": ["too", "so", "very"]
+  },
+  {
+    "id": 39,
+    "itemId": "enough_too_much_many",
+    "prompt": "'___!' she snapped, slamming the door. 'I don't want to hear another word about it.'",
+    "answer": "Enough",
+    "distractors": ["Too much", "Very much", "So much"]
+  },
+  {
+    "id": 40,
+    "itemId": "enough_too_much_many",
+    "prompt": "This soup is ___ spicy for the kids to eat.",
+    "answer": "too",
+    "distractors": ["enough", "so much", "very much"]
+  },
+  {
+    "id": 41,
+    "itemId": "enough_too_much_many",
+    "prompt": "Choose the sentence with correct word order.",
+    "answer": "This bag isn't strong enough to carry all the shopping.",
+    "distractors": ["This bag isn't enough strong to carry all the shopping.", "This bag isn't strong too to carry all the shopping.", "This bag isn't too strong to carry all the shopping and it broke."]
+  },
+  {
+    "id": 42,
+    "itemId": "enough_too_much_many",
+    "prompt": "There are ___ cooks in this kitchen already — we don't need another one.",
+    "answer": "too many",
+    "distractors": ["too much", "enough", "plenty"]
+  }
 ]
