@@ -251,9 +251,9 @@
     "id": "inversion",
     "icon": "🔃",
     "title": "Inwersja",
-    "desc": "Inwersja szyku zdania dla emfazy (Never have I…, Should you…, Only after did…) — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40,
-    "level": "b2"
+    "desc": "Inwersja od korzeni: staroangielski szyk V2 i jego residualne przetrwanie, rozróżnienie subject-auxiliary inversion od inwersji pełnej, negacja i 'only' jako operatory restrykcyjne, if-less conditionals jako starsza strategia niż 'if', end-focus w inwersji lokatywnej — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 46,
+    "level": "c1"
   },
   {
     "id": "cleft_sentences",
