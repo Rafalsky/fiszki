@@ -1,96 +1,210 @@
 [
   {
-    "id": "negative_adverbials",
+    "id": "historical_foundation",
     "order": 1,
-    "nameEn": "Inversion after negative adverbials",
-    "namePl": "Inwersja po przysłówkach negatywnych i ograniczających",
+    "nameEn": "The historical foundation — English as a fossilized V2 language",
+    "namePl": "Fundament: dlaczego angielski wciąż bywa językiem 'V2' — tylko w wybranych miejscach",
     "rules": [
-      { "label": "Budowa", "text": "Gdy zdanie zaczyna się od przysłówka negatywnego lub ograniczającego (Never, Rarely, Seldom, Little, Not only, Hardly, No sooner), stosujemy inwersję: operator (posiłkowy/modalny) + podmiot + czasownik główny" },
-      { "label": "Brak operatora", "text": "Jeśli zdanie w formie twierdzącej nie ma czasownika posiłkowego, wstawiamy do/does/did" },
-      { "label": "Rejestr", "text": "Konstrukcja typowa dla stylu formalnego i literackiego, rzadko używana w mowie potocznej" }
+      {
+        "label": "Verb-Second (V2): germański szyk zdania, który angielski niemal całkiem porzucił",
+        "text": "Staroangielski, tak jak dzisiejszy niemiecki, niderlandzki czy języki skandynawskie, był językiem typu Verb-Second (V2): niezależnie od tego, jaki element stoi na początku zdania głównego, czasownik odmieniony (finite verb) MUSI zająć dokładnie drugie miejsce, a podmiot — jeśli coś innego zostało wysunięte na początek — ląduje dopiero na trzecim. Współczesny niemiecki wciąż to robi bezwyjątkowo: 'Gestern ging ich nach Hause' (dosłownie: 'Wczoraj poszedłem ja do domu') — czasownik 'ging' zawsze na drugim miejscu, podmiot 'ich' przesunięty za niego. Angielski między XI a XIV wiekiem tę zasadę niemal całkowicie porzucił jako regułę ogólną — i to zdanie po angielsku nie zabrzmi 'Yesterday went I home', tylko 'Yesterday I went home', z podmiotem twardo na drugim miejscu, przed czasownikiem, niezależnie od tego, co stoi na początku."
+      },
+      {
+        "label": "Dlaczego V2 zniknęło: szyk zdania jako zastępstwo za utraconą fleksję",
+        "text": "W staroangielskim rola gramatyczna rzeczownika (kto jest podmiotem, kto dopełnieniem) była sygnalizowana głównie przez końcówki przypadków, nie przez pozycję w zdaniu — dzięki temu szyk mógł być względnie swobodny, a V2 nie groziło żadną dwuznacznością. Kiedy w średnioangielskim końcówki fleksyjne uległy masowej erozji fonetycznej (ten sam proces, który starł większość odmiany czasownika i doprowadził do zaniku trybu łączącego jako żywej kategorii), angielski stracił swój dawny sposób sygnalizowania 'kto komu co robi'. Musiał go czymś zastąpić — i zastąpił sztywnym szykiem SVO (podmiot-orzeczenie-dopełnienie): to WŁAŚNIE pozycja słowa w zdaniu, a nie jego końcówka, zaczęła teraz nieść informację o roli gramatycznej. Sztywne SVO i zanik ogólnego V2 to więc dwie strony tej samej monety — angielski 'zamienił' bogatą fleksję na przewidywalny szyk zdania."
+      },
+      {
+        "label": "Residualne V2: garstka środowisk, w których stara zasada wciąż żyje",
+        "text": "Angielski nie porzucił V2 do zera — zachował je jako 'skamielinę', uruchamianą wyłącznie w ściśle określonych, wyzwalanych kontekstach, gdzie coś INNEGO niż podmiot zostaje wysunięte na sam początek zdania: pytania (What did he say? — 'did' na drugim miejscu, podmiot na trzecim), przeczenia i wyrażenia ograniczające wysunięte na początek (Never have I seen...), formalne zdania warunkowe bez if (Had I known...), oraz przysłówki miejsca/kierunku w opisach narracyjnych (Here comes the bus). To nie są cztery przypadkowe, niepowiązane 'ciekawostki gramatyczne' do wykucia na pamięć — to cztery różne, częściowo niezależne kanały, którymi przetrwał ten sam, znacznie starszy mechanizm składniowy."
+      },
+      {
+        "label": "Dwa różne mechanizmy pod jedną nazwą 'inwersja': subject-auxiliary a inwersja pełna",
+        "text": "Kluczowy podział, bez którego reguły inwersji zlewają się w bezładną listę: (1) Subject-Auxiliary Inversion (SAI) — przestawieniu ulega WYŁĄCZNIE operator (czasownik posiłkowy lub modalny), a czasownik główny zostaje na swoim miejscu, za podmiotem; jeśli zdanie w formie twierdzącej nie ma żadnego operatora, angielski wstawia 'sztuczne' do/does/did dokładnie tak samo, jak przy tworzeniu pytań (Rarely does she complain. ~ Does she complain?). Ten typ obejmuje inwersję po negacjach, po 'only', oraz w formalnych warunkach. (2) Inwersja pełna (full / locative inversion) — przed podmiot wędruje CAŁY czasownik (nie tylko operator), do-support nigdy się nie pojawia, a konstrukcja jest ograniczona niemal wyłącznie do czasowników ruchu, istnienia i pojawiania się (Here comes the bus. — nie *Here does come the bus.). To odrębny, starszy mechanizm o innej funkcji dyskursywnej (przedstawianie nowej informacji), nie wariant tego samego zjawiska."
+      },
+      {
+        "label": "Dlaczego ten podział ma znaczenie dydaktyczne",
+        "text": "Bez tego rozróżnienia uczeń zapamiętuje cztery osobne 'listy wyjątków' i regularnie myli je ze sobą (próbując np. wstawić do-support do inwersji pełnej, albo odwrotnie — inwertować cały czasownik po 'never'). Ze zrozumieniem, że SAI to reaktywacja mechanizmu pytającego (ten sam 'operator do przodu'), a inwersja pełna to zupełnie inny, prezentacyjny mechanizm rodem z narracji, każda z czterech reguł przestaje być arbitralna — staje się logiczną konsekwencją tego, DO KTÓREJ z dwóch rodzin dany wzorzec należy."
+      }
     ],
     "usage": [
-      "Never / Rarely / Seldom + inwersja — podkreślenie, że coś nigdy się nie zdarza lub zdarza się bardzo rzadko",
-      "Not only... but also + inwersja w pierwszej części zdania",
-      "Hardly... when / No sooner... than — dwie czynności następujące szybko po sobie",
-      "Little did + podmiot + czasownik — ktoś nie wiedział lub nie spodziewał się czegoś"
+      "Angielski był niegdyś w pełni językiem V2 (jak dzisiejszy niemiecki) i porzucił tę zasadę ogólnie, zastępując ją sztywnym szykiem SVO, gdy zanikła fleksja przypadków",
+      "Dzisiejsza 'inwersja' to nie jedna reguła, lecz zbiór reliktów tej dawnej zasady, przetrwałych wyłącznie w ściśle wyzwalanych kontekstach",
+      "Subject-Auxiliary Inversion (operator + podmiot + czasownik główny, z do-support w razie potrzeby) obejmuje negacje, 'only' i formalne warunki",
+      "Inwersja pełna (cały czasownik + podmiot, bez do-support) to odrębny, starszy mechanizm ograniczony do czasowników ruchu/istnienia w narracji"
     ],
-    "tags": ["Never have I", "Rarely does", "Not only did", "No sooner had"],
+    "tags": ["V2 word order", "residual V2", "subject-auxiliary inversion", "full inversion", "germańska składnia"],
+    "examples": [
+      { "en": "Never have I seen such chaos in this office.", "pl": "Nigdy nie widziałem takiego chaosu w tym biurze." },
+      { "en": "Down the hill rolled an old wooden barrel.", "pl": "Ze wzgórza stoczyła się stara drewniana beczka." },
+      { "en": "Had she called earlier, we could have helped.", "pl": "Gdyby zadzwoniła wcześniej, moglibyśmy pomóc." },
+      { "en": "What exactly did he mean by that?", "pl": "Co dokładnie miał przez to na myśli?" }
+    ]
+  },
+  {
+    "id": "negative_adverbials",
+    "order": 2,
+    "nameEn": "Inversion after negative and restrictive adverbials",
+    "namePl": "Inwersja po przysłówkach negatywnych i ograniczających",
+    "rules": [
+      {
+        "label": "Mechanizm: fronting negatora reaktywuje starą zasadę V2, dokładnie jak w pytaniach",
+        "text": "Gdy przysłówek o wydźwięku negatywnym lub ograniczającym (Never, Rarely, Seldom, Little, Hardly, Scarcely, Not only, No sooner) zostaje wysunięty na sam początek zdania, angielski traktuje to dokładnie tak, jak wysunięcie słowa pytającego przy tworzeniu pytania: operator musi 'przeskoczyć' przed podmiot. To nie przypadek składniowy — to ten sam residualny mechanizm V2 opisany w temacie wprowadzającym, uruchamiany za każdym razem, gdy coś innego niż podmiot obejmuje pierwsze miejsce w zdaniu. Jeśli zdanie w formie twierdzącej nie miałoby żadnego operatora, angielski wstawia znaczeniowo puste do/does/did wyłącznie po to, by mieć co przestawić — Rarely does she arrive late. jest strukturalnie identyczne z pytaniem Does she arrive late?, tylko z innym elementem na początku."
+      },
+      {
+        "label": "Dlaczego akurat negacja/ograniczenie 'płaci' za inwersję, a zwykły przysłówek nie",
+        "text": "Zwykłe przysłówki czasu czy sposobu (Yesterday, Quickly, Often) można swobodnie wysunąć na początek zdania bez żadnej inwersji: Yesterday I left. Różnica leży w semantyce: never, rarely, hardly, little to tzw. operatory o mocy skopowej (scope-bearing) — nie tylko opisują okoliczność, lecz aktywnie ZAPRZECZAJĄ lub silnie OGRANICZAJĄ całą resztę zdania, obejmując swoim zasięgiem semantycznym cały predykat. Wysunięcie takiego elementu na początek to zawsze świadomy, retoryczny akt — stawiamy na start zdania to, co najbardziej zaskakujące lub kontrastowe ('nigdy', 'rzadko', 'ledwo'), a angielski rezerwuje 'opłatę' w postaci inwersji właśnie dla tych elementów, które niosą tak silny, skopowy ładunek znaczeniowy. Zwykły przysłówek okolicznościowy tego ładunku nie ma, więc nie płaci tej składniowej ceny."
+      },
+      {
+        "label": "Hardly...when vs No sooner...than — różne pochodzenie, ten sam efekt",
+        "text": "Obie konstrukcje opisują dwie czynności następujące błyskawicznie po sobie, ale mają różny rodowód składniowy. 'No sooner...than' wywodzi się wprost z konstrukcji porównawczej (sooner than = 'szybciej niż') zgramatykalizowanej w idiom sekwencji czasowej — stąd 'than', spójnik typowo porównawczy, a nie czasowy. 'Hardly/Scarcely...when' łączy przysłówek stopnia bliski negacji ('ledwie', 'z trudem') ze zwykłym spójnikiem czasowym 'when'. Efekt znaczeniowy jest niemal identyczny (No sooner had we left than it started to rain. = Hardly had we left when it started to rain.), ale mieszanie spójników jest błędem typowym dla uczących się (*No sooner had we left when... jest niepoprawne właśnie dlatego, że 'than' jest tu reliktem porównania, nie zamiennym spójnikiem czasowym)."
+      },
+      {
+        "label": "'Little' jako fałszywy przyjaciel: nie 'mało', lecz niemal całkowita negacja",
+        "text": "W tej konstrukcji little nie oznacza ilości ('mało'), lecz pełni funkcję niemal-negatora — semantyczne wyblaknięcie z kwantyfikatora do wyrażenia 'wcale nie', 'zupełnie nie spodziewał się'. Little did she know that the decision would change her life. nie znaczy 'wiedziała trochę' — znaczy 'nie miała bladego pojęcia'. To ten sam mechanizm semantyczny, co w hardly any (= 'prawie żadne'), tylko doprowadzony do skrajności: little przed czasownikiem wiedzy/spodziewania się (know, expect, realise, suspect) działa jako pełnoprawny negator skopowy, uprawniony do wywołania inwersji na tych samych zasadach co never czy rarely."
+      },
+      {
+        "label": "Rejestr: literacka emfaza, czasem z nutą ironii",
+        "text": "Konstrukcja należy do rejestru formalnego i literackiego — w mowie codziennej brzmi podniośle lub żartobliwie-ironicznie, gdy ktoś świadomie 'poddaje' zwykłe zdanie w bardziej książkową formę dla komicznego lub dramatycznego efektu (Not only did I lose my keys, but I also locked myself out. brzmi jak celowo przesadzona skarga). W rejestrze neutralnym te same treści częściej wyrażamy bez inwersji (I never saw such chaos. zamiast Never have I seen such chaos.) — inwersja jest wyborem stylistycznym podkreślającym wagę stwierdzenia, nie obowiązkową regułą gramatyczną poza kontekstem formalnym."
+      }
+    ],
+    "usage": [
+      "Never / Rarely / Seldom + inwersja — retoryczne podkreślenie, że coś nigdy się nie zdarza lub zdarza się wyjątkowo rzadko",
+      "Not only... but also + inwersja w pierwszej części zdania — dodanie zaskakującego, dodatkowego faktu",
+      "Hardly... when / No sooner... than — dwie czynności następujące błyskawicznie po sobie, z różnym pochodzeniem spójnika",
+      "Little did + podmiot + czasownik — ktoś nie miał bladego pojęcia o czymś, co się okazało prawdą",
+      "Under no circumstances / On no account — absolutny zakaz w rejestrze formalnym i instrukcjach bezpieczeństwa"
+    ],
+    "tags": ["Never have I", "Rarely does", "Not only did", "No sooner had", "scope-bearing negation"],
     "examples": [
       { "en": "Never have I seen such a beautiful sunset.", "pl": "Nigdy nie widziałem tak pięknego zachodu słońca." },
-      { "en": "Rarely does she arrive late for work.", "pl": "Rzadko się zdarza, że ona spóźnia się do pracy." },
       { "en": "Not only did he forget my birthday, but he also lost my gift.", "pl": "Nie tylko zapomniał o moich urodzinach, ale też zgubił mój prezent." },
-      { "en": "No sooner had we left than it started to rain.", "pl": "Ledwo wyszliśmy, gdy zaczęło padać." }
+      { "en": "No sooner had we left than it started to rain.", "pl": "Ledwo wyszliśmy, gdy zaczęło padać." },
+      { "en": "Little did she know that the decision would change her life forever.", "pl": "Nie miała pojęcia, że ta decyzja zmieni jej życie na zawsze." },
+      { "en": "Under no circumstances should this door be left unlocked.", "pl": "Pod żadnym pozorem te drzwi nie mogą zostać niezamknięte." }
     ]
   },
   {
     "id": "conditional_inversion",
-    "order": 2,
-    "nameEn": "Inversion in formal conditionals (without if)",
-    "namePl": "Inwersja w formalnych zdaniach warunkowych (bez if)",
+    "order": 3,
+    "nameEn": "Inversion in formal conditionals without 'if'",
+    "namePl": "Inwersja w formalnych zdaniach warunkowych bez if",
     "rules": [
-      { "label": "Should", "text": "Should + podmiot + bezokolicznik zamiast If + podmiot + should (warunek mało prawdopodobny, pierwszego typu)" },
-      { "label": "Were", "text": "Were + podmiot (+ to + bezokolicznik) zamiast If + podmiot + were (warunek drugiego typu)" },
-      { "label": "Had", "text": "Had + podmiot + III forma zamiast If + podmiot + had + III forma (warunek trzeciego typu)" }
+      {
+        "label": "Starsza strategia niż 'if': warunek oznaczony samą inwersją, bez spójnika",
+        "text": "To zjawisko nie ma nic wspólnego z mechanizmem negacji z poprzedniego podtematu — ma zupełnie inny rodowód historyczny. W staroangielskim i pokrewnych językach germańskich zdanie warunkowe dało się oznaczyć WYŁĄCZNIE inwersją czasownika przed podmiotem, bez żadnego spójnika w rodzaju 'if' — dokładnie tak, jak dziś wciąż robi to niemiecki: 'Wäre ich reich, würde ich reisen' ('Byłbym bogaty, podróżowałbym' — bez 'wenn'). Sam spójnik 'if' (od staroangielskiego gif) jest w rzeczywistości MŁODSZYM, bardziej jawnym konkurentem, który z czasem przejął rolę domyślnego znacznika warunku. Inwersja bez if to więc nie 'skrót' ani 'ozdobnik' — to ta starsza, pierwotna strategia, zachowana dziś jako relikt w rejestrze formalnym i literackim, bo rejestry formalne z reguły konserwują opcje gramatyczne dawno porzucone przez mowę codzienną."
+      },
+      {
+        "label": "Should / Were / Had: trzy różne 'wejścia' do trzech typów warunku",
+        "text": "Te trzy operatory nie są przypadkowym zestawem do wykucia — każdy z nich to dokładnie ten sam czasownik posiłkowy/modalny, który i tak stałby zaraz po podmiocie w zdaniu z if, tylko przesunięty na sam początek: Should you need help (= If you should need help — mało prawdopodobna możliwość w przyszłości, z odcieniem niepewności typowym dla should w tej funkcji), Were I you (= If I were you — ostatnia żywa forma trybu łączącego, zob. temat 'Tryb łączący'), Had I known (= If I had known — czas past perfect znaczący cofnięcie do przeszłości nierzeczywistej). Inwersja niczego nie dodaje semantycznie — po prostu przenosi już istniejący operator na start zdania, dzięki czemu 'if' można całkowicie pominąć bez utraty jednoznaczności, bo to WŁAŚNIE pozycja operatora przed podmiotem sygnalizuje 'to jest warunek', a nie samo słowo 'if'."
+      },
+      {
+        "label": "Dlaczego nie da się tak zinwertować każdego czasownika posiłkowego",
+        "text": "Współczesny angielski ogranicza inwersję bezspójnikową do dokładnie tych trzech operatorów, bo to one historycznie niosły najsilniejszy ładunek 'nierzeczywistości' (irrealis): should w znaczeniu mało prawdopodobnej możliwości, were jako jedyna żywa forma subjunctive, had jako znacznik cofniętej w czasie kontrfaktyczności. Zwykłe operatory jak do, is czy will nie mają takiego ugruntowanego związku z hipotetycznością, więc nie da się ich tak wysunąć w tej samej funkcji (*Do you need help. nie znaczy 'if you need help' — to zwyczajne pytanie). Konstrukcja jest więc leksykalnie zamrożona wokół tych trzech form, nie produktywną regułą ogólną."
+      },
+      {
+        "label": "Przeczenie: pełne not, nigdy ściągnięte n't",
+        "text": "W tej formalnej konstrukcji przeczenie tworzy się wyłącznie pełnym not postawionym po podmiocie, nigdy ściągniętą formą: Had I not known about the risk, I would have signed. — nie *Hadn't I known... (to brzmiałoby jak pytanie, nie zdanie warunkowe). Ściągnięcie n't koliduje tu z formalnym rejestrem całej konstrukcji i wprowadzałoby dwuznaczność z pytaniem retorycznym."
+      },
+      {
+        "label": "Rejestr: umowy, korespondencja formalna, proza literacka",
+        "text": "Ta forma warunku pojawia się niemal wyłącznie w piśmie starannym: klauzulach umów (Should either party breach this agreement...), formalnej korespondencji urzędowej i biznesowej, instrukcjach bezpieczeństwa oraz w prozie literackiej dążącej do podniosłego, archaizującego tonu. W mowie potocznej niemal zawsze wraca zwykłe if (If you need help, call us. zamiast Should you need help, call us.) — dokładnie tak, jak w innych reliktach starszych warstw gramatyki angielskiej, formalność pisma konserwuje to, co codzienna mowa dawno zastąpiła prostszą, nowszą alternatywą."
+      }
     ],
     "usage": [
-      "Styl formalny, pisemny — umowy, listy formalne, instrukcje, literatura",
-      "Should you need any help, please contact us. = If you should need...",
-      "Were I in your position, I would accept the offer. = If I were...",
-      "Had I known about the meeting, I would have attended. = If I had known..."
+      "Should + podmiot + bezokolicznik zamiast If + podmiot + should — warunek mało prawdopodobny w przyszłości",
+      "Were + podmiot (+ to + bezokolicznik) zamiast If + podmiot + were — warunek nierzeczywisty dotyczący teraźniejszości",
+      "Had + podmiot + III forma zamiast If + podmiot + had + III forma — warunek nierzeczywisty dotyczący przeszłości",
+      "Przeczenie zawsze pełnym not, nigdy ściągniętym n't (Had I not known..., nie Hadn't I known...)",
+      "Rejestr formalny, pisemny: umowy, korespondencja urzędowa, proza literacka"
     ],
-    "tags": ["Should you need", "Were I you", "Had I known"],
+    "tags": ["Should you need", "Were I you", "Had I known", "if-less conditionals", "irrealis"],
     "examples": [
       { "en": "Should you have any questions, feel free to ask.", "pl": "Gdyby miał Pan/Pani jakieś pytania, proszę śmiało pytać." },
-      { "en": "Were I you, I wouldn't sign that contract.", "pl": "Na twoim miejscu nie podpisałbym tej umowy." },
+      { "en": "Were I in your position, I would accept the offer.", "pl": "Na twoim miejscu przyjąłbym tę ofertę." },
       { "en": "Had I known you were coming, I would have baked a cake.", "pl": "Gdybym wiedział, że przyjedziesz, upiekłbym ciasto." },
+      { "en": "Had she not intervened, the whole negotiation would have collapsed.", "pl": "Gdyby nie interweniowała, całe negocjacje by się załamały." },
       { "en": "Should the fire alarm sound, please leave the building immediately.", "pl": "Gdyby zabrzmiał alarm pożarowy, proszę natychmiast opuścić budynek." }
     ]
   },
   {
     "id": "only_inversion",
-    "order": 3,
+    "order": 4,
     "nameEn": "Inversion after 'only' expressions",
     "namePl": "Inwersja po wyrażeniach z only",
     "rules": [
-      { "label": "Budowa", "text": "Only after / Only when / Only by / Only then / Only in this way + inwersja występuje w zdaniu głównym, które następuje po wyrażeniu z only" },
-      { "label": "Uwaga", "text": "Inwersja pojawia się w zdaniu głównym, nie w zdaniu podrzędnym zaczynającym się od only after/when" }
+      {
+        "label": "'Only' jako operator restrykcyjny — ta sama rodzina co negacja",
+        "text": "'Only' nie znaczy dosłownie 'nie', ale funkcjonuje logicznie bardzo podobnie do negatora: 'only after X' w istocie zaprzecza, że coś się wydarzyło PRZED X — Only after the meeting did I understand the problem. niesie ukryte, ale wyraźne przeczenie: 'przed spotkaniem NIE rozumiałem'. Językoznawcy zaliczają only do tej samej klasy tzw. operatorów restrykcyjnych/wykluczających co never czy hardly, i to właśnie dlatego dołącza do tej samej grupy wyzwalającej Subject-Auxiliary Inversion po wysunięciu na początek zdania — mechanizm jest identyczny jak w poprzednim podtemacie, tylko 'ukryta negacja' jest tu bardziej subtelna niż w never czy rarely."
+      },
+      {
+        "label": "Gdzie dokładnie stoi inwersja: w zdaniu głównym, nie w podrzędnym",
+        "text": "Cała fraza 'Only after/when/by + zdanie podrzędne lub fraza przyimkowa' zachowuje się gramatycznie jak JEDEN, zwarty przysłówek wysunięty na początek całego zdania — dokładnie tak, jak samo 'Never'. To dlatego inwersja pojawia się w zdaniu GŁÓWNYM, a nie wewnątrz podrzędnego: Only after she had finished the report did she go home. — zdanie podrzędne 'after she had finished the report' zachowuje swój zwykły, nieodwrócony szyk (she had finished, nie had she finished), bo to nie ono jest bezpośrednio wysunięte przed zasadą V2 — to cała fraza z 'only' na czele pełni funkcję jednego fronted-adverbial dla zdania głównego."
+      },
+      {
+        "label": "Kluczowa pułapka: 'only' przy podmiocie NIE wywołuje inwersji",
+        "text": "Gdy only modyfikuje sam podmiot zdania, a nie żaden wysunięty przysłówek, podmiot wcale się nie przemieszcza — nadal stoi na swoim zwykłym miejscu przed czasownikiem, więc nie ma czego 'odwracać': Only she knew the truth. (nie: *Only did she know the truth.) Ten kontrast — Only she knew the truth. (bez inwersji, only opisuje podmiot) vs Only when she spoke did I recognise her voice. (z inwersją, only + fronted adverbial) — to jedno z najczęstszych źródeł błędów uczących się, bo powierzchniowo oba zdania 'wyglądają podobnie', a mechanizm składniowy jest zupełnie inny."
+      },
+      {
+        "label": "'Only by/through + gerund' i naturalne powinowactwo z can/could",
+        "text": "Wzorzec Only by + rzeczownik odczasownikowy + can/could + podmiot + czasownik (Only by working together can we solve this.) najczęściej łączy się z modalnym can/could nie przez przypadek — treść tej konstrukcji niemal zawsze dotyczy ŚRODKA lub ZDOLNOŚCI osiągnięcia czegoś ('tylko w ten sposób jest to możliwe'), a can/could to właśnie modalny nośnik możliwości/zdolności, więc semantyka zdania i wybór operatora naturalnie się pokrywają."
+      }
     ],
     "usage": [
-      "Only after finishing the project did she take a break. — dopiero po...",
-      "Only when the results came back did we understand the problem. — dopiero gdy...",
-      "Only by working together can we solve this. — tylko poprzez...",
-      "Only then did I realise my mistake. — dopiero wtedy..."
+      "Only after / Only when + inwersja w zdaniu głównym — dopiero po/gdy coś się stało, zaszło coś innego",
+      "Only by / Only through + gerund + can/could — jedyny możliwy środek do osiągnięcia celu",
+      "Only then / Only later + inwersja — podkreślenie momentu, w którym coś dotarło do świadomości",
+      "Only + podmiot (bez wysuniętego przysłówka) NIE wywołuje inwersji — podmiot nie zmienił pozycji"
     ],
-    "tags": ["Only after did", "Only when did", "Only by can", "Only then did"],
+    "tags": ["Only after did", "Only when did", "Only by can", "restrictive focus", "hidden negation"],
     "examples": [
       { "en": "Only after the meeting did I understand the real problem.", "pl": "Dopiero po spotkaniu zrozumiałem prawdziwy problem." },
-      { "en": "Only when she called did I remember the appointment.", "pl": "Dopiero gdy zadzwoniła, przypomniałem sobie o spotkaniu." },
       { "en": "Only by practising every day can you improve your English.", "pl": "Tylko ćwicząc codziennie, możesz poprawić swój angielski." },
-      { "en": "Only then did he realise how serious the situation was.", "pl": "Dopiero wtedy zdał sobie sprawę, jak poważna była sytuacja." }
+      { "en": "Only then did he realise how serious the situation was.", "pl": "Dopiero wtedy zdał sobie sprawę, jak poważna była sytuacja." },
+      { "en": "Only she knew the truth about what had really happened.", "pl": "Tylko ona znała prawdę o tym, co naprawdę się stało." },
+      { "en": "Only when the results came back did we understand the scale of the problem.", "pl": "Dopiero gdy wyniki wróciły, zrozumieliśmy skalę problemu." }
     ]
   },
   {
     "id": "place_adverbials",
-    "order": 4,
-    "nameEn": "Inversion after place/direction adverbials",
-    "namePl": "Inwersja po przysłówkach miejsca i kierunku",
+    "order": 5,
+    "nameEn": "Full inversion after place and direction adverbials",
+    "namePl": "Inwersja pełna po przysłówkach miejsca i kierunku",
     "rules": [
-      { "label": "Budowa", "text": "Przysłówek miejsca lub kierunku (Here, There, Down, Up, In, Away, Overhead) + czasownik + podmiot rzeczownikowy — typowe w narracji i opisie" },
-      { "label": "Zaimki", "text": "Gdy podmiotem jest zaimek (he, she, it, they), inwersji zwykle NIE stosujemy: Here he comes. (nie: Here comes he.)" }
+      {
+        "label": "To NIE subject-auxiliary inversion — to zupełnie inny mechanizm",
+        "text": "W przeciwieństwie do trzech poprzednich podtematów, tutaj przed podmiot wędruje CAŁY czasownik, a nie sam operator, i do-support nigdy się nie pojawia: Here comes the bus. — nie *Here does come the bus. Ta konstrukcja, zwana inwersją pełną (full inversion) lub lokatywną (locative inversion), to kategorialnie inny, starszy mechanizm niż SAI, powiązany nie z negacją czy warunkiem, lecz z funkcją PREZENTACYJNĄ — wprowadzaniem nowej informacji do dyskursu."
+      },
+      {
+        "label": "Funkcja: przedstawianie nowej informacji, nie emfaza przez zaprzeczenie",
+        "text": "Inwersja pełna służy do wprowadzenia do rozmowy czegoś nowego i istotnego, umieszczając znaną już informację (dokąd, gdzie — Here, There, Down, In) na początku, a nową, 'cięższą' informację (rzeczownikowy podmiot) na końcu — zgodnie z ogólną angielską zasadą end-focus/end-weight, według której nowa lub złożona informacja zwykle trafia na koniec zdania. To dokładnie ta sama zasada, która stoi za istniejącym there is/are — konstrukcja egzystencjalna there is/are to w istocie w pełni zgramatykalizowany, zamrożony przypadek tej samej inwersji lokatywnej, w którym there pełni już rolę czysto strukturalnego wypełniacza, nie dosłownego wskazania miejsca."
+      },
+      {
+        "label": "Dlaczego zaimki blokują inwersję: Here he comes., nie Here comes he.",
+        "text": "Zaimki osobowe (he, she, it, they) z definicji odsyłają do czegoś już wcześniej wprowadzonego do rozmowy — są informacją 'daną', nie nową. Skoro cały sens inwersji pełnej polega na przesunięciu NOWEJ informacji na koniec zdania (pozycję end-focus), to podmiot-zaimek zaprzeczałby samemu celowi tej konstrukcji, gdyby tam trafił — dlatego angielski po prostu blokuje inwersję, gdy podmiotem jest zaimek osobowy, i wraca do zwykłego szyku SVO: Here he comes. (nie: *Here comes he.), ale Here comes the bus. (rzeczownik, nowa/istotna informacja, inwersja w pełni naturalna)."
+      },
+      {
+        "label": "Ograniczenie do czasowników nieprzechodnich ruchu, istnienia i pojawiania się",
+        "text": "Inwersja pełna praktycznie ogranicza się do tzw. czasowników unaccusative — nieprzechodnich czasowników ruchu, istnienia lub pojawiania się (come, go, run, stand, sit, lie, fly, walk in, rush out, appear, exist), których jedyny argument semantycznie zachowuje się bardziej jak 'obiekt awansowany na podmiot' niż jak sprawca świadomej czynności. To dlatego naturalnie pasują do funkcji prezentacyjnej — opisują kogoś/coś WCHODZĄCEGO w pole widzenia sceny, a nie wykonującego zamierzone działanie. Czasowniki przechodnie praktycznie nigdy nie inwertują w ten sposób."
+      },
+      {
+        "label": "Rejestr: żywa narracja i opis, nie formalne pismo urzędowe",
+        "text": "W przeciwieństwie do formalnego, 'prawniczego' rejestru trzech poprzednich typów inwersji, ta konstrukcja żyje przede wszystkim w żywej narracji literackiej, opowiadaniu historii i relacji na żywo (komentarz sportowy: And here comes Smith around the final bend!) — nadaje opisowi dynamiki i dramatyzmu, przenosząc uwagę czytelnika/słuchacza na moment pojawienia się czegoś na scenie, zamiast na suchy fakt, że to się wydarzyło."
+      }
     ],
     "usage": [
-      "Here comes the bus! — opisujemy coś, co się właśnie pojawia",
-      "There goes my last chance. — coś znika lub przepada",
-      "Down came the rain. — opis dynamicznego wydarzenia w narracji",
-      "Away ran the thief. — styl literacki, opowiadanie historii"
+      "Przysłówek miejsca/kierunku (Here, There, Down, Up, In, Away, Overhead) + cały czasownik + podmiot rzeczownikowy — bez do-support",
+      "Funkcja prezentacyjna: wprowadzenie nowej, istotnej informacji na koniec zdania (end-focus)",
+      "Zaimki osobowe jako podmiot blokują inwersję: Here he comes. (nie: Here comes he.)",
+      "Ograniczone niemal wyłącznie do czasowników nieprzechodnich ruchu, istnienia i pojawiania się",
+      "Rejestr narracyjny i opisowy — literatura, opowiadanie historii, relacje na żywo"
     ],
-    "tags": ["Here comes", "There goes", "Down came", "Away ran"],
+    "tags": ["Here comes", "There goes", "Down came", "locative inversion", "end-focus", "unaccusative verbs"],
     "examples": [
       { "en": "Here comes the bus — hurry up!", "pl": "Tu jedzie autobus — pospiesz się!" },
-      { "en": "There goes my chance of winning.", "pl": "Tak przepada moja szansa na wygraną." },
       { "en": "Down came the rain, soaking everyone in the park.", "pl": "Lunął deszcz, przemaczając wszystkich w parku." },
-      { "en": "Away ran the thief, disappearing into the crowd.", "pl": "Złodziej uciekł, znikając w tłumie." }
+      { "en": "On the hill stood a beautiful old castle.", "pl": "Na wzgórzu stał piękny stary zamek." },
+      { "en": "In walked the manager, looking furious.", "pl": "Do środka wszedł kierownik, wyglądając na wściekłego." },
+      { "en": "Here he comes now — say nothing about the surprise.", "pl": "O, właśnie idzie — nie mów nic o niespodziance." }
     ]
   }
 ]
