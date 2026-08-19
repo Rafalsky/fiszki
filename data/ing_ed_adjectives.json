@@ -1,91 +1,269 @@
 [
   {
-    "id": "ed_adjectives",
+    "id": "origin_participle_adjectives",
     "order": 1,
-    "nameEn": "-ed adjectives — feelings",
-    "namePl": "Przymiotniki -ed — uczucia",
+    "nameEn": "Where -ed and -ing adjectives come from: two participles, one causative verb",
+    "namePl": "Skąd wzięły się przymiotniki -ed i -ing: dwa imiesłowy, jeden czasownik przyczynowy",
     "rules": [
-      { "label": "-ed", "text": "Opisuje, jak ktoś się czuje — osobę (lub zwierzę), która doświadcza danego uczucia (bored, interested, excited, tired)" },
-      { "label": "Budowa", "text": "Podstawa czasownikowa + -ed (bore→bored, interest→interested), z tymi samymi zasadami pisowni co Past Simple (excite→excited, tire→tired)" }
+      {
+        "label": "Rodowód: dwa imiesłowy staroangielskie, dziś zlane fonetycznie",
+        "text": "Staroangielski miał dwa odrębne imiesłowy, każdy o innej funkcji gramatycznej: imiesłów czynny na -ende (np. drincende — 'pijący', ten, kto wykonuje czynność) oraz imiesłów bierny/dokonany budowany przedrostkiem ge- i końcówką -od/-en (np. gedrucen — 'ugnieciony', ten, na kim czynność została dokonana). Oba od zawsze mogły pełnić funkcję przymiotnika — to zjawisko konwersji imiesłowu w przymiotnik jest wspólne wszystkim językom germańskim i nie jest żadną 'sztuczką' współczesnej gramatyki, tylko prostą konsekwencją tego, że imiesłów z natury opisuje rzeczownik uczestniczący w czynności. W średnioangielskim -ende stopniowo zlało się fonetycznie z zupełnie innym, rzeczownikowym sufiksem -ing (dawnym gerundium, tworzącym rzeczowniki odczasownikowe typu 'a building'), tworząc jedną, wspólną końcówkę -ing, która dziś obsługuje aż trzy różne funkcje naraz: rzeczownik odczasownikowy (Swimming is fun), część czasu Continuous (I am swimming) i przymiotnik odczasownikowy (an exciting film). Ten historyczny zbieg fonetyczny — a nie żadna logika współczesnej gramatyki — jest źródłem całej dzisiejszej pozornej 'dziwności' końcówki -ing."
+      },
+      {
+        "label": "Podwójne życie końcówki -ed",
+        "text": "Podobny zbieg dotyczy -ed: ta sama końcówka buduje regularny czas przeszły (I finished), imiesłów bierny/dokonany używany w Present Perfect i stronie biernej (I have finished / it was finished) ORAZ czysty przymiotnik (I'm finished — w znaczeniu 'skończyłem', stan). Skoro więc obie końcówki i tak są przeciążone kilkoma funkcjami naraz, pytanie 'kiedy -ed, kiedy -ing' nie jest pytaniem o pisownię, tylko o to, JAKĄ ROLĘ w zdarzeniu opisywanym przez czasownik pełni rzeczownik, do którego przyczepiamy przymiotnik."
+      },
+      {
+        "label": "Klucz do całej reguły: czasowniki emocji są z natury przyczynowe (kauzatywne)",
+        "text": "Niemal wszystkie angielskie czasowniki emocji, od których tworzy się parę -ed/-ing (bore, interest, excite, confuse, annoy, amaze, surprise, embarrass, frighten, satisfy, disappoint, exhaust), są historycznie czasownikami PRZYCZYNOWYMI — opisują nie stan czyjegoś umysłu, lecz akcję: 'to bore' pierwotnie znaczyło 'wywiercić dziurę', a znaczenie 'nudzić' rozwinęło się w XVIII-wiecznym slangu z metafory 'drążenia, wiercenia komuś w głowie' aż do znudzenia; 'to interest' pochodzi z łacińskiego 'interesse' — 'mieć znaczenie dla kogoś, dotyczyć kogoś'; 'to excite' z łacińskiego 'excitare' — 'pobudzać, wzniecać'. Wspólny mianownik: każdy z tych czasowników w swojej podstawowej, przechodniej formie znaczy 'X SPRAWIA, że Y czuje Z' (The film bores me. = Film sprawia, że się nudzę.). Skoro czasownik jest z natury przyczynowy i ma dwóch uczestników — sprawcę/źródło (Stimulus) i osobę doświadczającą uczucia (Experiencer) — to gramatyka robi z tym dokładnie to, co zawsze robi z imiesłowami czasowników przechodnich: imiesłów bierny/dokonany (-ed) opisuje tego, NA KIM dokonano czynności, czyli doświadczającego (bored = ten, komu 'zanudzono' umysł), a imiesłów czynny (-ing) opisuje TEGO, KTO WYKONUJE czynność, czyli źródło/przyczynę (boring = to, co 'nudzi')."
+      },
+      {
+        "label": "Dlaczego to nie jest arbitralna reguła do wykucia",
+        "text": "Ten sam mechanizm działa identycznie poza światem emocji: 'a broken vase' to wazon, NA KTÓRYM dokonano czynności łamania (bierny odbiorca), a 'a breaking wave' to fala, KTÓRA WYKONUJE czynność łamania się (czynny sprawca). Para bored/boring nie rządzi się żadną specjalną, odrębną zasadą — to zwyczajna, uniwersalna logika imiesłowu czynnego i biernego, zastosowana akurat do czasowników opisujących emocje. Cała 'trudność' tego tematu bierze się wyłącznie stąd, że w polskim czasowniki emocji (nudzić się, interesować się, denerwować się) są najczęściej ZWROTNE i stanowe z perspektywy osoby czującej, a angielski patrzy na to od strony przyczyny — i to przesunięcie perspektywy trzeba mentalnie 'przestawić'."
+      }
     ],
     "usage": [
-      "Po czasownikach łączących be/feel/seem/look (I feel bored. She seems interested.)",
-      "Gdy mówimy o własnych emocjach i reakcjach na coś (I was surprised by the news.)",
-      "Zawsze odnosi się do osoby odczuwającej uczucie, nigdy do rzeczy czy sytuacji, która je wywołuje"
+      "Fundament pod całą resztę tematu — bez zrozumienia kauzatywnej natury czasowników emocji (X sprawia, że Y czuje) reguła 'ed = uczucie, ing = źródło' wygląda na arbitralną i łatwo się ją myli pod presją czasu",
+      "Punkt odniesienia przy analizie nowych, nieznanych czasowników emocji — zawsze można zapytać: 'czy w formie podstawowej ten czasownik znaczy \"sprawiać, że ktoś czuje X\"?'"
     ],
-    "tags": ["bored", "interested", "excited", "tired"],
+    "tags": ["participle origin", "causative verbs", "experiencer vs stimulus", "-ing three functions"],
     "examples": [
-      { "en": "I'm really bored — there's nothing to do.", "pl": "Naprawdę się nudzę — nie ma nic do roboty." },
-      { "en": "She was excited about her new job.", "pl": "Była podekscytowana swoją nową pracą." },
-      { "en": "We felt tired after the long journey.", "pl": "Czuliśmy się zmęczeni po długiej podróży." },
-      { "en": "He seemed confused by the instructions.", "pl": "Wydawał się zdezorientowany instrukcjami." }
+      { "en": "The film bores me. → I'm bored. / The film is boring.", "pl": "Film mnie nudzi. → Jestem znudzony. / Film jest nudny." },
+      { "en": "A broken vase (acted upon) vs. a breaking wave (doing the action) — the same logic as bored vs. boring.", "pl": "Stłuczony wazon (poddany czynności) kontra rozbijająca się fala (wykonująca czynność) — ta sama logika, co bored kontra boring." },
+      { "en": "'To bore' once meant literally 'to drill' — boredom is a drilled-into-the-skull metaphor.", "pl": "'To bore' pierwotnie znaczyło dosłownie 'wiercić' — nuda to metafora 'wiercenia w głowie'." }
     ]
   },
   {
-    "id": "ing_adjectives",
+    "id": "ed_experiencer",
     "order": 2,
-    "nameEn": "-ing adjectives — source of a feeling",
-    "namePl": "Przymiotniki -ing — źródło uczucia",
+    "nameEn": "-ed adjectives: the one who undergoes the feeling",
+    "namePl": "Przymiotniki -ed: ten, kto DOŚWIADCZA uczucia",
     "rules": [
-      { "label": "-ing", "text": "Opisuje osobę, rzecz lub sytuację, która WYWOŁUJE dane uczucie (boring, interesting, exciting, tiring)" },
-      { "label": "Budowa", "text": "Podstawa czasownikowa + -ing, z tymi samymi zasadami pisowni co Present Continuous (bore→boring, tire→tiring)" }
+      {
+        "label": "Znaczenie i budowa",
+        "text": "-ed opisuje osobę (rzadziej zwierzę), w której umyśle dana emocja się dzieje — kogoś, komu coś ZOSTAŁO wywołane z zewnątrz (bored, interested, excited, confused, tired, annoyed, amazed, surprised, embarrassed, frightened). Forma to podstawa czasownikowa + -ed, z tymi samymi zasadami pisowni co Past Simple (bore→bored, tire→tired, panic→panicked)."
+      },
+      {
+        "label": "Nieregularne imiesłowy bierne w tej samej roli",
+        "text": "Reguła nie ogranicza się do czasowników regularnych — każdy imiesłów bierny czasownika emocji, nawet nieregularny, może pełnić tę samą funkcję: shaken (wstrząśnięty — I was deeply shaken by the accident), moved (poruszony — She was moved to tears), taken (oczarowany, potocznie — I was quite taken with the idea), torn (rozdarty emocjonalnie — He was torn between two options). Mechanizm jest identyczny jak przy -ed: to wciąż imiesłów bierny/dokonany w funkcji przymiotnikowej, tylko akurat nieregularny morfologicznie."
+      },
+      {
+        "label": "Skąd bierze się źródło uczucia gramatycznie",
+        "text": "Skoro -ed to strona bierna zamrożona w przymiotnik, logicznie dopuszcza dopełnienie wprowadzające AGENSA/PRZYCZYNĘ — dokładnie tak jak zwykła strona bierna (by + sprawca): I was surprised BY the news. / She was frightened BY the noise. To pokazuje, że -ed adjective nie jest 'zwykłym' przymiotnikiem czystym, lecz zachowuje ślad swojego czasownikowego pochodzenia."
+      }
     ],
     "usage": [
-      "Gdy opisujemy film, książkę, osobę czy wydarzenie jako źródło emocji (a boring film, an interesting book)",
-      "Po czasownikach łączących be/seem/look, gdy podmiotem jest rzecz lub sytuacja, a nie osoba odczuwająca uczucie",
+      "Opisywanie własnych i cudzych reakcji emocjonalnych na coś (I was surprised by the news.)",
+      "Po czasownikach łączących be/feel/seem/look/get (I feel bored. She seems interested. He got annoyed.)",
+      "Zawsze odnosi się do osoby (lub istoty) odczuwającej uczucie, nigdy do rzeczy czy sytuacji, która je wywołuje"
+    ],
+    "tags": ["bored", "interested", "excited", "shaken", "moved", "torn"],
+    "examples": [
+      { "en": "I'm really bored — there's nothing to do.", "pl": "Naprawdę się nudzę — nie ma nic do roboty." },
+      { "en": "She was deeply moved by the letter her grandmother had written.", "pl": "Poruszył ją głęboko list, który napisała jej babcia." },
+      { "en": "He seemed torn between loyalty to his friend and telling the truth.", "pl": "Wydawał się rozdarty między lojalnością wobec przyjaciela a powiedzeniem prawdy." },
+      { "en": "We felt tired after the long journey.", "pl": "Czuliśmy się zmęczeni po długiej podróży." }
+    ]
+  },
+  {
+    "id": "ing_stimulus",
+    "order": 3,
+    "nameEn": "-ing adjectives: the source that causes the feeling",
+    "namePl": "Przymiotniki -ing: źródło, które WYWOŁUJE uczucie",
+    "rules": [
+      {
+        "label": "Znaczenie i budowa",
+        "text": "-ing opisuje osobę, rzecz, sytuację lub zdarzenie, które AKTYWNIE wywołuje dane uczucie u kogoś innego (boring, interesting, exciting, confusing, tiring, annoying, amazing, surprising, embarrassing, frightening). Forma to podstawa czasownikowa + -ing, z tymi samymi zasadami pisowni co Present Continuous (bore→boring, tire→tiring, panic→panicking)."
+      },
+      {
+        "label": "Podmiot nie musi być osobą",
+        "text": "Ponieważ -ing opisuje PRZYCZYNĘ, a nie doświadczającego, podmiotem zdania z przymiotnikiem -ing bywa nieomal wszystko: film, książka, pogoda, wiadomość, cała sytuacja, a nawet druga osoba, jeśli mówimy o jej wpływie na innych ('He's a fascinating person to talk to' — on jest źródłem fascynacji u słuchacza, nie kimś, kto sam czuje fascynację)."
+      },
+      {
+        "label": "Nieregularne imiesłowy czynne? — nie istnieją",
+        "text": "W przeciwieństwie do strony biernej, imiesłów czynny w angielskim NIE ma form nieregularnych — zawsze buduje się go tak samo, dodając -ing do podstawy czasownikowej, niezależnie od tego, czy dany czasownik ma nieregularny imiesłów bierny czy nie. Dlatego strona 'źródła uczucia' pary jest zawsze przewidywalna morfologicznie, nawet gdy strona 'doświadczającego' bywa nieregularna (shake→shaking, ale też shaken jako przymiotnik biernikowy)."
+      }
+    ],
+    "usage": [
+      "Opisywanie filmów, książek, osób, wydarzeń i sytuacji jako źródeł emocji (a boring film, a fascinating conversation)",
+      "Po czasownikach łączących be/seem/look/sound, gdy podmiotem jest rzecz lub sytuacja, a nie osoba odczuwająca uczucie",
       "Przed rzeczownikiem jako zwykły przymiotnik (an amazing view, a frightening experience)"
     ],
-    "tags": ["boring", "interesting", "exciting", "tiring"],
+    "tags": ["boring", "interesting", "exciting", "fascinating person"],
     "examples": [
       { "en": "This film is really boring.", "pl": "Ten film jest naprawdę nudny." },
-      { "en": "That's an interesting idea.", "pl": "To ciekawy pomysł." },
+      { "en": "He's a fascinating person to talk to — he's travelled everywhere.", "pl": "To fascynująca osoba w rozmowie — był wszędzie." },
       { "en": "The match was so exciting!", "pl": "Ten mecz był tak ekscytujący!" },
       { "en": "It was a tiring day at work.", "pl": "To był męczący dzień w pracy." }
     ]
   },
   {
-    "id": "common_pairs",
-    "order": 3,
-    "nameEn": "Common pairs & typical mistakes",
-    "namePl": "Najczęstsze pary i typowe błędy",
+    "id": "grammatical_tests",
+    "order": 4,
+    "nameEn": "Telling adjective from verb: the 'very' test, gradability, and the missing object",
+    "namePl": "Jak odróżnić przymiotnik od czasownika: test 'very', stopniowalność i brakujące dopełnienie",
     "rules": [
-      { "label": "Typowy błąd", "text": "\"I'm boring\" znaczy \"Jestem nudziarzem/nudną osobą\", a nie \"Nudzi mi się\" — do tego służy \"I'm bored\"" },
-      { "label": "Test", "text": "Zadaj sobie pytanie: czy podmiot ODCZUWA uczucie (→ -ed), czy je WYWOŁUJE (→ -ing)?" }
+      {
+        "label": "Test 'very' — najprostszy filtr",
+        "text": "Prawdziwy imiesłów w funkcji czasownika (część Continuous lub strony biernej) nigdy nie przyjmuje wzmacniacza 'very' — natomiast przymiotnik odczasownikowy tak. 'I am very boring the students' jest niegramatyczne, bo tu 'boring' to czasownik. 'The lecture is very boring' jest poprawne, bo tu 'boring' to w pełni ukonstytuowany przymiotnik. Ten sam test działa dla -ed: 'I am very tired' (przymiotnik) kontra 'The car was very stolen' (niegramatyczne — 'stolen' tu jest czystą stroną bierną czasownika, nie przymiotnikiem, bo kraść to czynność jednorazowa bez stopnia natężenia)."
+      },
+      {
+        "label": "Stopniowalność i porównania",
+        "text": "Skoro te słowa zachowują się jak przymiotniki, stopniują się jak przymiotniki wielosylabowe: more boring, the most boring; more tired, the most tired (nie 'borer' ani 'tireder', choć krótkie, dawno zleksykalizowane formy jak 'tired' czasem dopuszczają w mowie potocznej 'tireder' — ale to wyjątek potwierdzający regułę, nie standard). Mogą też łączyć się spójnikiem z 'prawdziwymi', niepochodnymi przymiotnikami w jednym szeregu (a long and boring meeting; a small, frightened animal) — czego żaden czysto czasownikowy imiesłów by nie zniósł."
+      },
+      {
+        "label": "Brakujące dopełnienie jako test składniowy",
+        "text": "Czasownik przechodni w formie -ing (część Continuous) wymaga dopełnienia, bo opisuje trwającą CZYNNOŚĆ skierowaną na kogoś: 'The lecturer is boring the students' (czasownik — ktoś jest przedmiotem nudzenia, akcja w toku). Sam przymiotnik -ing nie potrzebuje żadnego dopełnienia, bo opisuje trwałą CECHĘ: 'The lecture is boring' (przymiotnik — kompletne zdanie, żadnego obiektu czynności). To samo zdanie bez kontekstu bywa więc dwuznaczne strukturalnie, a rozstrzyga o tym właśnie obecność lub brak dopełnienia."
+      }
     ],
     "usage": [
-      "Sprawdź parę: interested (czuję) vs interesting (wywołuje zainteresowanie)",
-      "Sprawdź parę: bored (czuję) vs boring (wywołuje nudę)",
-      "Sprawdź parę: annoyed (czuję) vs annoying (wywołuje irytację)"
+      "Szybka weryfikacja, czy dane -ing/-ed w zdaniu jest przymiotnikiem, czy formą czasownikową, przy niejednoznacznych, złożonych zdaniach",
+      "Poprawne budowanie zdań wielokrotnie złożonych z kilkoma przymiotnikami naraz (a long, tiring and ultimately disappointing meeting)"
     ],
-    "tags": ["bored/boring", "interested/interesting", "excited/exciting", "annoyed/annoying"],
+    "tags": ["very test", "gradability", "more boring", "transitive vs adjectival -ing"],
     "examples": [
-      { "en": "I was so embarrassed when I forgot her name.", "pl": "Było mi bardzo wstyd, gdy zapomniałem jej imienia." },
-      { "en": "His comment was quite embarrassing for everyone.", "pl": "Jego komentarz był dość żenujący dla wszystkich." },
-      { "en": "Don't say 'I am boring' if you mean you feel bored!", "pl": "Nie mów 'I am boring', jeśli masz na myśli, że się nudzisz!" },
-      { "en": "The news was surprising, so we were all surprised.", "pl": "Wiadomość była zaskakująca, więc wszyscy byliśmy zaskoczeni." }
+      { "en": "The lecture is very boring. (adjective, passes the 'very' test)", "pl": "Wykład jest bardzo nudny. (przymiotnik, przechodzi test 'very')" },
+      { "en": "The lecturer is boring the students to sleep. (verb — needs an object)", "pl": "Wykładowca zanudza studentów na śmierć. (czasownik — potrzebuje dopełnienia)" },
+      { "en": "It was the most disappointing performance of the whole tour.", "pl": "To był najbardziej rozczarowujący występ całej trasy." },
+      { "en": "A long, exhausting and ultimately pointless meeting.", "pl": "Długie, wyczerpujące i ostatecznie bezcelowe spotkanie." }
     ]
   },
   {
-    "id": "position_usage",
-    "order": 4,
-    "nameEn": "Position & intensifiers",
-    "namePl": "Pozycja w zdaniu i wzmacnianie",
+    "id": "dependent_prepositions",
+    "order": 5,
+    "nameEn": "Fixed prepositions after -ed adjectives — and why they aren't random",
+    "namePl": "Stałe przyimki po przymiotnikach -ed — i dlaczego nie są przypadkowe",
     "rules": [
-      { "label": "Przed rzeczownikiem", "text": "Oba typy mogą stać przed rzeczownikiem jak zwykłe przymiotniki (a boring meeting, a bored student)" },
-      { "label": "Po czasowniku", "text": "Oba typy mogą stać po czasownikach łączących be/feel/seem/look/sound (The meeting was boring. He looked bored.)" },
-      { "label": "Wzmacnianie", "text": "Można je wzmacniać przysłówkami: really, quite, very, extremely, absolutely (really exciting, absolutely fascinating)" }
+      {
+        "label": "Dlaczego -ed adjectives w ogóle mają przyimek",
+        "text": "Skoro -ed adjective to zamrożona strona bierna, a strona bierna wprowadza sprawcę przez 'by', naturalnym domyślnym przyimkiem po tych przymiotnikach jest właśnie BY (surprised BY, frightened BY, amazed BY, shocked BY) — to bezpośredni ślad pochodzenia czasownikowego. Z czasem jednak część z tych przymiotników 'zleksykalizowała się' na tyle, że wykształciła własne, specyficzne przyimki niezwiązane już z 'by', bo przestały być odczuwane jako czysta strona bierna, a zaczęły funkcjonować jak zwykłe przymiotniki ze stałym rządem (interested IN, tired OF, worried ABOUT) — dokładnie tak, jak dzieje się z każdym innym przymiotnikiem w angielskim (good AT, afraid OF, proud OF)."
+      },
+      {
+        "label": "Rodzina 'by' — najbliżej źródłowej strony biernej",
+        "text": "surprised/amazed/astonished/shocked/frightened/terrified/annoyed/impressed/embarrassed + BY — gdy chcemy wskazać KONKRETNĄ przyczynę zdarzeniową, bezpośrednio odpowiedzialną za reakcję (I was shocked by his rudeness.)."
+      },
+      {
+        "label": "Rodzina 'about' — przedmiot myśli, niekoniecznie zdarzenie",
+        "text": "worried/excited/annoyed/embarrassed/concerned + ABOUT — gdy mówimy raczej o TEMACIE, przedmiocie uczucia jako całości, niż o pojedynczym zdarzeniu-przyczynie (I'm worried about the exam. — martwi mnie egzamin jako temat, nie jedno konkretne zdarzenie)."
+      },
+      {
+        "label": "Rodzina 'with/of' — stan trwały, cecha, źródło jako 'zawartość'",
+        "text": "satisfied/pleased/impressed/bored + WITH (stan zadowolenia z czegoś jako całości: satisfied with the results); tired/afraid/proud/ashamed + OF (tired of doing sth — zmęczenie powtarzalnością, frustracja rutyną, różne od 'tired FROM' — fizyczne wyczerpanie spowodowane konkretnym wysiłkiem: tired from the long hike)."
+      },
+      {
+        "label": "Wieloznaczność jako pułapka: 'concerned'",
+        "text": "'Concerned about/for' (zmartwiony czymś — I'm concerned about her health.) to zupełnie inne znaczenie niż 'concerned with' (dotyczący czegoś, zajmujący się czymś — This chapter is concerned with medieval history.) — ta sama forma -ed, dwa różne przyimki, dwa rozbieżne znaczenia. To dobra ilustracja tego, że przyimek po przymiotniku -ed trzeba traktować jako część leksykalnej całości do zapamiętania, a nie jako coś przewidywalnego z samej reguły -ed/-ing."
+      }
     ],
     "usage": [
-      "Opisując coś przed rzeczownikiem: an exciting match, a bored expression",
-      "Po czasownikach zmysłów i stanu: sound interesting, look tired, feel confused",
-      "Ze wzmacniaczami dla mocniejszego efektu: absolutely amazing, really annoying"
+      "Precyzyjne wskazywanie przyczyny lub przedmiotu emocji zgodnie z naturalnym rządem danego przymiotnika",
+      "Odróżnianie bliskich znaczeniowo par przyimkowych: tired of (frustracja rutyną) vs tired from (fizyczne zmęczenie), concerned about (zmartwiony) vs concerned with (dotyczący)"
     ],
-    "tags": ["really exciting", "quite tired", "absolutely amazing", "a bored expression"],
+    "tags": ["interested in", "worried about", "tired of vs from", "concerned about vs with"],
     "examples": [
-      { "en": "It was an absolutely amazing concert.", "pl": "To był absolutnie niesamowity koncert." },
-      { "en": "She had a bored expression on her face.", "pl": "Miała znudzony wyraz twarzy." },
-      { "en": "This book sounds really interesting.", "pl": "Ta książka brzmi naprawdę interesująco." },
-      { "en": "I'm quite tired after the exam.", "pl": "Jestem dość zmęczony po egzaminie." }
+      { "en": "I was shocked by how rude he was to the waiter.", "pl": "Byłem zszokowany tym, jak niegrzeczny był dla kelnera." },
+      { "en": "She's worried about the exam results.", "pl": "Martwi się wynikami egzaminu." },
+      { "en": "I'm tired of hearing the same excuses every single time.", "pl": "Mam dość słuchania tych samych wymówek za każdym razem." },
+      { "en": "This report is concerned with climate policy, not economics.", "pl": "Ten raport dotyczy polityki klimatycznej, nie ekonomii." }
+    ]
+  },
+  {
+    "id": "being_progressive",
+    "order": 6,
+    "nameEn": "'He's being annoying' — a temporary act versus a permanent trait",
+    "namePl": "'He's being annoying' — chwilowe zachowanie kontra trwała cecha",
+    "rules": [
+      {
+        "label": "Zwykły 'be' opisuje cechę, 'be being' opisuje zachowanie",
+        "text": "'He's boring' to stwierdzenie o TRWAŁEJ CESZE — on jest, generalnie rzecz biorąc, osobą nudną. 'He's being boring (today)' to zupełnie co innego: mówi o TYMCZASOWYM, obserwowalnym w tej chwili ZACHOWANIU, które może, ale nie musi odzwierciedlać jego stałego charakteru — być może zwykle jest interesujący, ale akurat teraz, z jakiegoś powodu, zachowuje się nudno. Continuous od 'be' + przymiotnik -ing to jeden z niewielu wypadków, gdy Continuous nakłada się na czasownik stanowy ('be'), i robi to właśnie po to, żeby zasygnalizować kontrolowane, świadome, chwilowe ZACHOWANIE, a nie trwały stan."
+      },
+      {
+        "label": "Warunek: musi istnieć element kontroli/sprawczości",
+        "text": "Ta konstrukcja działa naturalnie tylko z przymiotnikami -ing, które opisują coś, co dana osoba w jakimś stopniu WYBIERA lub kontroluje swoim zachowaniem: being difficult, being annoying, being stupid, being unreasonable, being childish — bo tylko wtedy ma sens odróżnienie 'jest taki z natury' od 'zachowuje się tak akurat teraz'. Z przymiotnikami -ing, które nie opisują kontrolowanego zachowania, tylko obiektywną, niezależną od woli właściwość (being tiring, being fascinating), konstrukcja brzmi dziwacznie lub wymaga naciąganej interpretacji, bo trudno 'zachowywać się fascynująco' na zawołanie w oderwaniu od tego, kim się jest."
+      },
+      {
+        "label": "Dlaczego prawie nigdy nie mówimy 'he's being bored'",
+        "text": "Z przymiotnikami -ed (stroną doświadczającego) ta konstrukcja jest rzadka i brzmi nienaturalnie w zwykłym znaczeniu emocji, bo uczucie (nuda, zdenerwowanie, zaskoczenie) to zazwyczaj coś, co się PRZYTRAFIA komuś, a nie coś, co ktoś świadomie 'odgrywa' — sam fakt bycia znudzonym nie jest kontrolowanym zachowaniem w taki sam sposób, jak bycie upierdliwym. 'He's being bored' pojawia się niemal wyłącznie w bardzo specyficznym kontekście aktorskim czy performatywnym (ktoś dosłownie GRA znudzenie na scenie), co dodatkowo potwierdza regułę: 'be + being' wymaga sprawczości, a stan doświadczającego z natury jej nie ma."
+      }
+    ],
+    "usage": [
+      "Podkreślanie, że dane zachowanie jest tymczasowe, sytuacyjne i nietypowe dla danej osoby, a nie jej stałą cechą",
+      "Łagodna krytyka czyjegoś aktualnego zachowania bez wydawania trwałego wyroku o charakterze (You're being unfair. — 'zachowujesz się' nie fair, nie 'jesteś' nie fair z natury)"
+    ],
+    "tags": ["being annoying", "temporary behaviour", "stative be with continuous", "you're being unfair"],
+    "examples": [
+      { "en": "Stop it, you're being really annoying today.", "pl": "Przestań, jesteś dziś naprawdę irytujący (w swoim zachowaniu)." },
+      { "en": "He's not usually like this — he's just being difficult because he's stressed.", "pl": "Zwykle taki nie jest — po prostu robi trudności, bo jest zestresowany." },
+      { "en": "Don't take it personally, she's being childish, not cruel.", "pl": "Nie bierz tego do siebie, ona się zachowuje dziecinnie, a nie okrutnie." },
+      { "en": "You're being unfair — I never said that.", "pl": "Jesteś teraz niesprawiedliwy — nigdy tego nie powiedziałem." }
+    ]
+  },
+  {
+    "id": "common_pairs",
+    "order": 7,
+    "nameEn": "Extended pairs, asymmetric cases, and the classic learner mistake",
+    "namePl": "Rozszerzone pary, przypadki asymetryczne i klasyczny błąd uczących się",
+    "rules": [
+      {
+        "label": "Dlaczego 'I'm boring' to poważny błąd znaczeniowy, nie stylistyczny",
+        "text": "'I'm boring' nie znaczy 'nudzi mi się' — znaczy 'JESTEM osobą nudną, sam jestem źródłem nudy dla innych'. Błąd bierze się stąd, że mówiący nieświadomie przypisuje sobie rolę PRZYCZYNY (Stimulus) zamiast roli DOŚWIADCZAJĄCEGO (Experiencer) — dokładnie odwrotnie, niż zamierzał. To nie kwestia rejestru czy niuansu, tylko odwrócenie znaczenia o 180 stopni: 'I'm bored' (nudzi mi się) kontra 'I'm boring' (jestem nudziarzem) to zdania o dwóch różnych ludziach patrzących na tę samą sytuację z przeciwnych stron."
+      },
+      {
+        "label": "Asymetria: 'concerning' jako przyimek, nie przymiotnik emocji",
+        "text": "Podczas gdy 'concerned' pozostało w pełni żywym przymiotnikiem doświadczającego (zmartwiony), jego partner 'concerning' w dużej mierze WYSZEDŁ z pary emocjonalnej i zgramatykalizował się w formalny przyimek o znaczeniu 'dotyczący, w sprawie' (a letter concerning your application — list w sprawie twojego podania), niezależny od jakiejkolwiek emocji. Współczesne 'concerning' w znaczeniu 'niepokojący' (These are concerning trends.) to osobne, nowsze odrodzenie pierwotnego wzorca -ing, równoległe do tej przyimkowej ścieżki, a nie jej kontynuacja."
+      },
+      {
+        "label": "Asymetria: 'threatened' w podwójnym znaczeniu",
+        "text": "'Threatened' zachowuje się jak typowy -ed adjective, gdy opisuje osobę czującą się zagrożoną (He felt threatened by her success. — doświadczający), ale ma też odrębne, wyspecjalizowane znaczenie biologiczne 'zagrożony wyginięciem' (a threatened species), gdzie funkcjonuje jako stały termin, a nie chwilowa emocja. 'Threatening' natomiast niemal zawsze pozostaje w klasycznej roli źródła (threatening behaviour, threatening weather) — para pozostaje strukturalnie symetryczna, ale 'threatened' obrosła dodatkowym, wyspecjalizowanym znaczeniem, którego 'threatening' nie dzieli."
+      },
+      {
+        "label": "Rozszerzona lista par do opanowania na poziomie C1/C2",
+        "text": "Poza podstawowym zestawem (bored/boring, interested/interesting, excited/exciting) warto swobodnie operować całą rodziną: fascinated/fascinating, satisfied/satisfying, disappointed/disappointing, exhausted/exhausting, overwhelmed/overwhelming, irritated/irritating, puzzled/puzzling, disturbed/disturbing, depressed/depressing, relaxed/relaxing, convinced/convincing, touched/touching. Każda z nich podlega dokładnie tej samej logice przyczynowej wyłożonej na początku tematu — nowe pary nie wymagają nowej reguły, tylko zastosowania tej samej."
+      }
+    ],
+    "usage": [
+      "Unikanie klasycznego błędu 'I'm boring' zamiast 'I'm bored' poprzez świadome rozpoznawanie własnej roli (przyczyna czy doświadczający)",
+      "Rozpoznawanie przymiotników, które wyewoluowały poza podstawowe znaczenie emocjonalne (concerning jako przyimek, threatened jako termin biologiczny)",
+      "Swobodne rozszerzanie pary bored/boring na dowolny nowy czasownik emocji bez uczenia się go na pamięć jako wyjątku"
+    ],
+    "tags": ["I'm boring mistake", "concerning as preposition", "threatened species", "extended pairs"],
+    "examples": [
+      { "en": "Don't say 'I am boring' if you mean you feel bored!", "pl": "Nie mów 'I am boring', jeśli masz na myśli, że się nudzisz!" },
+      { "en": "A letter concerning your recent application is enclosed.", "pl": "Załączono list w sprawie twojego niedawnego podania." },
+      { "en": "Coral reefs are a threatened ecosystem, damaged by rising sea temperatures.", "pl": "Rafy koralowe to zagrożony ekosystem, niszczony przez rosnące temperatury mórz." },
+      { "en": "I was genuinely touched by how much effort they put into the surprise.", "pl": "Byłem naprawdę poruszony tym, ile wysiłku włożyli w niespodziankę." }
+    ]
+  },
+  {
+    "id": "semantic_drift_register",
+    "order": 8,
+    "nameEn": "From precise emotion to empty intensifier: semantic bleaching in casual speech",
+    "namePl": "Od precyzyjnej emocji do pustego wzmacniacza: blaknięcie znaczeniowe w mowie potocznej",
+    "rules": [
+      {
+        "label": "Mechanizm blaknięcia znaczeniowego (semantic bleaching)",
+        "text": "Silne przymiotniki -ing typu amazing, awesome, incredible, fascinating, stunning mają w mowie potocznej tendencję do stopniowej utraty swojego pierwotnego, precyzyjnego znaczenia ('wywołujący zdumienie') na rzecz roli ogólnego, hiperbolicznego wzmacniacza pozytywności, niewiele różniącego się znaczeniowo od zwykłego 'very good'. To zjawisko nazywa się blaknięciem semantycznym (semantic bleaching) i nie jest niczym nowym w historii angielskiego — dokładnie tę samą drogę przeszły wcześniej słowa 'terribly' i 'awfully', które etymologicznie znaczyły 'w sposób budzący grozę', a dziś w zwrotach typu 'terribly nice' czy 'awfully kind' funkcjonują jako zwykłe wzmacniacze, całkowicie pozbawione swojego pierwotnego negatywnego ładunku."
+      },
+      {
+        "label": "Dlaczego akurat -ing, a nie -ed, jest podatne na to zjawisko",
+        "text": "To formy -ing najczęściej ulegają temu procesowi, bo pełnią funkcję OCENY zewnętrznego bodźca ('to było niesamowite') — a ocena z natury łatwo się hiperbolizuje w emocjonalnej, spontanicznej mowie. Formy -ed opisujące własny stan doświadczającego (I was amazed) rzadziej ulegają tak silnemu wypłukaniu znaczenia, bo mówienie o WŁASNYM stanie wewnętrznym jest z natury bardziej powściągliwe niż ocenianie czegoś na zewnątrz."
+      },
+      {
+        "label": "Rejestr: gdzie znaczenie wciąż jest 'pełne', a gdzie już wyblakłe",
+        "text": "W rejestrze formalnym, pisanym i akademickim (recenzje, opisy naukowe, literatura) te przymiotniki wciąż niosą swoje pełne, precyzyjne znaczenie i warto ich używać oszczędnie, dobierając słowo adekwatne do faktycznej siły emocji. W rejestrze potocznym, zwłaszcza mówionym, ich hiperboliczne, wyblakłe użycie jest w pełni naturalne i oczekiwane ('This pizza is literally amazing.') — świadome przełączanie się między tymi dwoma rejestrami to typowa umiejętność na poziomie C1/C2, odróżniająca użytkownika zaawansowanego od takiego, który zna tylko 'słownikowe' znaczenie słowa."
+      }
+    ],
+    "usage": [
+      "Świadomy dobór mocy przymiotnika -ing do rejestru wypowiedzi: precyzyjne znaczenie w piśmie formalnym, hiperbola w luźnej rozmowie",
+      "Rozpoznawanie, kiedy 'amazing' czy 'awesome' w wypowiedzi rozmówcy to realna ocena, a kiedy zwykły, niemal pusty wzmacniacz aprobaty",
+      "Budowanie świadomości procesu językowego, który wciąż trwa — te same wzmacniacze za pokolenie mogą wyblaknąć jeszcze bardziej, tak jak stało się to wcześniej z 'terribly' i 'awfully'"
+    ],
+    "tags": ["semantic bleaching", "amazing as intensifier", "terribly nice", "register: formal vs casual"],
+    "examples": [
+      { "en": "This pizza is literally amazing. (casual hyperbole, close to 'very good')", "pl": "Ta pizza jest dosłownie niesamowita. (potoczna hiperbola, blisko 'bardzo dobra')" },
+      { "en": "The results were amazing, exceeding every prediction the team had made. (precise, formal sense)", "pl": "Wyniki były zdumiewające, przewyższając każdą prognozę zespołu. (precyzyjne, formalne znaczenie)" },
+      { "en": "She was awfully kind to us, even though we were complete strangers.", "pl": "Była dla nas nadzwyczaj miła, mimo że byliśmy zupełnie obcymi ludźmi." },
+      { "en": "It's a stunning building — genuinely one of the most striking I've seen.", "pl": "To zachwycający budynek — naprawdę jeden z najbardziej uderzających, jakie widziałem." }
     ]
   }
 ]
