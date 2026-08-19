@@ -1,95 +1,245 @@
 [
   {
-    "id": "verb_preposition",
+    "id": "prepositions_as_case_ghosts",
     "order": 1,
-    "nameEn": "Verb + preposition collocations",
-    "namePl": "Czasowniki ze stałym przyimkiem",
+    "nameEn": "Why a preposition is required at all: the ghost of a lost case system",
+    "namePl": "Dlaczego przyimek jest w ogóle wymagany: duch zaginionego systemu przypadków",
     "rules": [
-      { "label": "Zasada", "text": "Wiele czasowników zawsze łączy się z tym samym przyimkiem, niezależnie od kontekstu — trzeba zapamiętać parę czasownik+przyimek jako całość" },
-      { "label": "Częste połączenia", "text": "depend on, believe in, apologize for, insist on, worry about, look after, apply for, wait for, listen to, care about" }
+      {
+        "label": "Rodowód: od końcówek przypadków do przyimków",
+        "text": "Staroangielski (Old English) miał system przypadków gramatycznych podobny do dzisiejszego polskiego czy niemieckiego — mianownik, biernik, dopełniacz, celownik, plus szczątkowy narzędnik — a czasowniki i przymiotniki 'rządziły' konkretnym przypadkiem swojego dopełnienia wyłącznie za pomocą końcówki, bez żadnego osobnego słowa. Czasownik helpan ('pomóc') rządził celownikiem: him helpan znaczyło 'pomóc mu' — samą końcówką celownika na zaimku, bez żadnego przyimka. Podobnie brūcan ('korzystać, używać') rządził dopełniaczem. Gdy te końcówki zanikły w średnioangielskim, informacja gramatyczna, którą niosły, musiała przenieść się gdzie indziej — przeniosła się na przyimki. To dosłownie dlatego współczesny angielski wciąż potrzebuje pary 'czasownik + przyimek': przyimek wykonuje dziś robotę, którą kiedyś wykonywała końcówka."
+      },
+      {
+        "label": "Dlaczego końcówki w ogóle zanikły",
+        "text": "Języki germańskie mają stały akcent na pierwszej sylabie rdzenia, więc nieakcentowane końcówki na końcu wyrazu (tam, gdzie mieszkały końcówki przypadków) stopniowo się rozmywały fonetycznie już w późnym staroangielskim. Proces przyspieszył przez kontakt z osadnikami staronordyckimi w Danelaw (IX–XI w.) — ich język był pokrewny, ale miał inne końcówki, więc mówiący upraszczali lub porzucali końcówki, żeby się porozumieć ponad różnicami dialektalnymi. Ostateczny cios zadał podbój normański 1066 roku: przez kolejne ~300 lat językiem prestiżu, administracji i literatury był francuski, a angielski, spychany głównie do mowy potocznej bez standaryzacji pisma, przechodził gwałtowną, niekontrolowaną upraszczającą ewolucję. Do wczesnego średnioangielskiego większość końcówek przypadków skurczyła się do jednego, nieodróżnialnego już -e albo zniknęła całkiem."
+      },
+      {
+        "label": "Termin 'przyimek rządzi' to skamielina łacińskiej gramatyki",
+        "text": "Samo słowo 'rządzić' (ang. govern, z łac. regere — 'kierować, rządzić') w tradycyjnej gramatyce opisywało pierwotnie to, JAKIM przypadkiem 'rządzi' dany czasownik. Gdy angielski stracił przypadki, gramatycy po prostu przenieśli ten sam termin na nową rzeczywistość — dziś czasownik 'rządzi' konkretnym przyimkiem zamiast konkretną końcówką. To nie metafora wymyślona na potrzeby tego materiału, tylko dosłownie kilkusetletnia terminologia gramatyczna, która przetrwała całkowitą zmianę systemu, który miała opisywać."
+      },
+      {
+        "label": "Dryf analityczny: szyk zdania i przyimki zamiast końcówek",
+        "text": "W miarę zanikania przypadków angielski przesunął się z języka 'syntetycznego' (relacje gramatyczne wyrażane końcówkami, więc szyk zdania jest względnie swobodny — jak w dzisiejszym polskim) w stronę języka 'analitycznego' (relacje wyrażane sztywnym szykiem zdania i słowami funkcyjnymi, takimi jak przyimki). Ustalony szyk SVO przejął rolę odróżniania podmiotu od dopełnienia; przyimki przejęły rolę subtelniejszych relacji, które kiedyś wyrażał celownik, dopełniacz czy narzędnik. Przyimki zależne po czasownikach, przymiotnikach i rzeczownikach to jeden z widocznych do dziś reliktów tej zmiany — garstka 'gniazd' relacyjnych, które nawet po przejęciu większości roboty przez sam szyk zdania wciąż wymagają jawnego oznaczenia."
+      }
     ],
     "usage": [
-      "depend on — zależeć od czegoś/kogoś",
-      "apologize for — przepraszać za coś",
-      "look after — opiekować się kimś/czymś",
-      "apply for — ubiegać się o coś (np. pracę)"
+      "Każdy język musi jakoś oznaczyć, KTO robi CO, KOMU i DLA KOGO — polski robi to głównie końcówkami, angielski (po utracie większości końcówek) robi to częściowo szykiem zdania, częściowo właśnie przyimkami zależnymi.",
+      "'Przyimek zależny/rządzony' (depend ON, interested IN) różni się od zwykłego, czysto przestrzennego przyimka (książka ON stole) właśnie tym, że nie opisuje dosłownego położenia — wypełnia gniazdo gramatyczne, które kiedyś wypełniała końcówka przypadka.",
+      "Dlatego 'właściwy' przyimek często wydaje się uczącemu się arbitralny: ze współczesnego punktu widzenia trzeba go zapamiętać, ale historycznie został wybrany przez dawnych mówiących na podstawie WŁASNEGO, przestrzennego znaczenia tego przyimka (zobacz kolejne tematy, jak odtworzyć tę logikę zamiast wkuwać na pamięć).",
+      "Ponieważ dziś większość pracy semantycznej wykonuje w angielskim szyk zdania, przyimki zależne to jedno z niewielu miejsc, gdzie angielski wciąż wymaga tego rodzaju jawnego oznaczenia, którego polska intuicja automatycznie nie podpowie."
     ],
-    "tags": ["depend on", "apologize for", "look after", "apply for"],
+    "tags": ["OE case system", "dative → to", "genitive → of", "analytic drift", "government"],
     "examples": [
-      { "en": "It depends on the weather.", "pl": "To zależy od pogody." },
-      { "en": "She apologized for being late.", "pl": "Przeprosiła za spóźnienie." },
-      { "en": "Can you look after my dog this weekend?", "pl": "Czy możesz zaopiekować się moim psem w ten weekend?" },
-      { "en": "He applied for a new job last week.", "pl": "W zeszłym tygodniu ubiegał się o nową pracę." }
+      { "en": "Everything now depends on the results of tomorrow's vote.", "pl": "Teraz wszystko zależy od wyników jutrzejszego głosowania." },
+      { "en": "The committee consists of twelve elected members, most of them lawyers.", "pl": "Komitet składa się z dwunastu wybieranych członków, w większości prawników." },
+      { "en": "She never listens to advice, however well-meant it is.", "pl": "Ona nigdy nie słucha rad, nawet tych szczerych." },
+      { "en": "His whole career was built on a single lucky break, or so he claims.", "pl": "Cała jego kariera została zbudowana na jednym szczęśliwym trafie — a przynajmniej tak twierdzi." }
     ]
   },
   {
-    "id": "adjective_preposition",
+    "id": "verb_preposition_schemas",
     "order": 2,
-    "nameEn": "Adjective + preposition collocations",
-    "namePl": "Przymiotniki ze stałym przyimkiem",
+    "nameEn": "Verb + preposition: recovering the spatial logic instead of memorizing",
+    "namePl": "Czasownik + przyimek: odzyskiwanie logiki przestrzennej zamiast wkuwania",
     "rules": [
-      { "label": "Zasada", "text": "Przymiotniki po 'be' często wymagają konkretnego przyimka przed rzeczownikiem lub gerundem" },
-      { "label": "Częste połączenia", "text": "interested in, good/bad at, afraid of, tired of, famous for, proud of, worried about, angry with somebody" }
+      {
+        "label": "ON = oparcie i podstawa (support / foundation schema)",
+        "text": "Podstawowe, przestrzenne znaczenie 'on' to kontakt z powierzchnią i oparcie na niej (filiżanka ON stole). Angielski regularnie przenosi ten sam obraz 'opierania się na fundamencie' na abstrakcyjne poleganie na czymś: depend ON, rely ON, count ON, insist ON, base something ON, focus ON. W każdym z tych przypadków coś abstrakcyjnego (decyzja, argument, plan) jest wyobrażane jako dosłownie 'spoczywające na' lub 'podparte przez' coś innego. Gdy raz to zobaczysz, 'depend on' przestaje być losową parą do wkucia, a staje się przewidywalną metaforą: poleganie = oparcie, oparcie = 'on'."
+      },
+      {
+        "label": "IN = pojemnik (containment schema)",
+        "text": "'In' to fundamentalnie zamknięcie — bycie wewnątrz ograniczonej przestrzeni. Angielski rozszerza to na stany umysłowe i emocjonalne traktowane jak pojemniki, w które można 'wejść': believe IN, interested IN, involved IN, succeed IN, specialize IN, engage IN. 'Believe in' coś oznacza być, metaforycznie, zanurzonym WEWNĄTRZ tego przekonania; 'specialize in' danej dziedzinie oznacza działać z wnętrza jej ograniczonego terytorium. Ta logika pojemnika tłumaczy też, dlaczego 'in' naturalnie łączy się z całymi dziedzinami/domenami/czynnościami (in physics, in politics, in business), a nie z pojedynczymi, punktowymi działaniami — od tego jest 'at'."
+      },
+      {
+        "label": "OF = źródło i pochodzenie (source schema), dziedzictwo staroangielskiego 'of' = 'z dala od'",
+        "text": "Przyimek 'of' pochodzi ze staroangielskiego 'of', historycznie akcentowanego wariantu tego samego słowa, z którego powstało nieakcentowane 'off' — jego pierwotne znaczenie to oddzielenie, pochodzenie, 'z dala od'. Ten sens źródła przetrwał, na wpół ukryty, w użyciach zależnych: afraid OF (strach spowodowany przez coś/pochodzący od czegoś), consist OF (złożony z pewnych elementów), capable OF (zdolność czerpana z wnętrza), proud OF (duma wywodząca się z osiągnięcia), die OF, smell OF. Nawet dzierżawcze 'of' (noga OF stołu) to osobny, ale pokrewny rozwój: gdy dopełniacz erodował, 'of' przejął oznaczanie relacji część-całość/pochodzenia, które kiedyś samodzielnie oznaczała końcówka dopełniacza."
+      },
+      {
+        "label": "AT = precyzyjny punkt (pinpoint schema)",
+        "text": "'At' wskazuje jeden dokładny, bezwymiarowy punkt (at the corner, at 5 o'clock), nie obszar (in) ani powierzchnię (on). Angielski przenosi to na umiejscawianie umiejętności, reakcji czy celu w jednym precyzyjnym punkcie: good/bad AT, surprised AT, laugh AT, aim AT, arrive AT (a conclusion). 'Good at chess' przedstawia kompetencję jako trafienie w precyzyjny punkt na jakiejś skali umiejętności, a nie zajmowanie szerokiego terytorium (od tego byłoby 'in') — dlatego właśnie 'at' łączy się z wąskimi, konkretnymi umiejętnościami lub chwilami, podczas gdy 'in' łączy się z całymi, szerokimi dziedzinami."
+      },
+      {
+        "label": "Zapożyczenia łacińsko-francuskie: angielski nie kopiuje, tylko dopasowuje do własnej logiki",
+        "text": "Czasownik 'depend' wszedł do angielskiego z francuskiego 'dépendre' (< łac. dependere, de- + pendere, 'zwisać, wisieć u czegoś'), a francuskie 'dépendre de' używa przyimka 'de' (~ of/from). Anglicy jednak NIE skopiowali tego przyimka — wybrali własne 'on', bo lepiej pasowało do rodzimego schematu oparcia/podstawy. To pokazuje, że nawet zapożyczone czasowniki zostały ostatecznie 'wchłonięte' przez rodzimy, przestrzenny system obrazowy angielskiego, a nie mechanicznie przeniesione z języka źródłowego. Podobnie 'consist of' — francuskie 'consister en' dosłownie znaczy 'w', ale angielski wybrał 'of' w znaczeniu źródła składników, nie pojemnika, bo lepiej odzwierciedla ideę 'z czego coś się składa'."
+      }
     ],
     "usage": [
-      "interested in — zainteresowany czymś",
-      "good/bad at — dobry/słaby w czymś",
-      "famous for — znany z czegoś",
-      "afraid of — bać się czegoś"
+      "Zanim spróbujesz zapamiętać parę na pamięć, zapytaj: jaki jest podstawowy, fizyczny sens tego przyimka (oparcie = on, pojemnik = in, źródło = of, punkt = at) i jak dana czynność/emocja mogłaby być tak metaforycznie 'umiejscowiona'?",
+      "Ten sam czasownik może dopuszczać więcej niż jeden przyimek, ale wtedy każdy z nich wnosi inny odcień znaczenia — nigdy nie są to czyste synonimy (zobacz temat o wieloznacznych przyimkach czasownikowych).",
+      "Loanwordy łacińsko-francuskie (depend, consist, insist, differ) weszły do angielskiego już z pewną strukturą składniową, ale angielski regularnie dopasowywał je do WŁASNEJ, rodzimej logiki przestrzennej, a nie kopiował ślepo przyimek języka źródłowego.",
+      "Rozpoznanie schematu obrazowego nie zwalnia z konieczności utrwalenia konkretnych par w praktyce — ale zamienia bezmyślne wkuwanie w rozumienie, które generalizuje się na nowe, wcześniej niewidziane czasowniki."
     ],
-    "tags": ["interested in", "good at", "famous for", "afraid of"],
+    "tags": ["depend on", "believe in", "afraid of", "good at", "image schema"],
     "examples": [
-      { "en": "She is interested in modern art.", "pl": "Ona interesuje się sztuką współczesną." },
-      { "en": "He is very good at chess.", "pl": "On jest bardzo dobry w szachy." },
-      { "en": "This town is famous for its castle.", "pl": "To miasto jest znane ze swojego zamku." },
-      { "en": "I'm afraid of spiders.", "pl": "Boję się pająków." }
+      { "en": "The final decision will depend entirely on how the negotiations go this week.", "pl": "Ostateczna decyzja będzie zależeć wyłącznie od tego, jak potoczą się w tym tygodniu negocjacje." },
+      { "en": "He has always believed in giving people a second chance, even when they don't deserve it.", "pl": "Zawsze wierzył w dawanie ludziom drugiej szansy, nawet gdy na nią nie zasługiwali." },
+      { "en": "She's remarkably good at reading people within minutes of meeting them.", "pl": "Jest niezwykle dobra w błyskawicznym rozczytywaniu ludzi." },
+      { "en": "The committee insisted on reviewing every single invoice before approving the budget.", "pl": "Komisja upierała się przy sprawdzeniu każdej pojedynczej faktury, zanim zatwierdziła budżet." },
+      { "en": "The dish consists mainly of rice, lentils, and whatever vegetables happen to be in season.", "pl": "Danie składa się głównie z ryżu, soczewicy i tego, jakie akurat warzywa są sezonowe." }
     ]
   },
   {
-    "id": "noun_preposition",
+    "id": "adjective_preposition_schemas",
     "order": 3,
-    "nameEn": "Noun + preposition collocations",
-    "namePl": "Rzeczowniki ze stałym przyimkiem",
+    "nameEn": "Adjective + preposition: the same schemas, a different word class",
+    "namePl": "Przymiotnik + przyimek: te same schematy, inna część mowy",
     "rules": [
-      { "label": "Zasada", "text": "Rzeczowniki abstrakcyjne często łączą się ze stałym przyimkiem przed kolejnym rzeczownikiem" },
-      { "label": "Częste połączenia", "text": "interest in, reason for, solution to, need for, access to, relationship with, increase/decrease in, difference between" }
+      {
+        "label": "Przymiotniki emocji dziedziczą schemat po czasownikach-rodzicach",
+        "text": "Wiele przymiotników z przyimkiem to po prostu formy imiesłowowe/pochodne czasowników już wyjaśnionych wcześniej — 'interested' (od 'interest', czasownik) zachowuje IN, bo samo zainteresowanie jest traktowane jak pojemnik, w który wchodzimy; 'worried'/'concerned' ABOUT zachowuje tę samą logikę tematu-otoczenia, która rządzi rodzicielskim czasownikiem 'worry about', 'be concerned about'. Ucząc się przymiotnika i czasownika jako JEDNEGO wspólnego wzorca rządzenia, zamiast dwóch osobnych list, redukujesz pracę pamięciową o połowę."
+      },
+      {
+        "label": "AT dla umiejscowionej reakcji/umiejętności — surprised at, good at, bad at",
+        "text": "Powrót do punktowego schematu 'at' z poprzedniego tematu: surprised AT (reakcja przypięta do jednego, precyzyjnego momentu-wyzwalacza), good/bad AT (umiejętność przypięta do jednego, wąskiego punktu na skali kompetencji), amazed AT, shocked AT. Kontrast z 'surprised BY', który przedstawia bodziec jako aktywnego SPRAWCĘ reakcji (schemat sprawcy, patrz niżej), a nie tylko punkt reakcji — obie formy są poprawne, ale 'at' uwypukla samą, chwilową REAKCJĘ, a 'by' uwypukla PRZYCZYNĘ."
+      },
+      {
+        "label": "BY = sprawca (agent schema), zapożyczone wprost ze strony biernej",
+        "text": "Wiele przymiotników emocjonalnych może brać 'by' właśnie dlatego, że powstały jako imiesłowy bierne albo zachowują się dokładnie jak one: bored BY, impressed BY, shocked BY, surprised BY, moved BY dokładnie odzwierciedlają zwykłą frazę sprawcy w stronie biernej (the film was directed BY her → I was bored BY the film). 'By' nie jest tu tak naprawdę osobną regułą 'przyimka zależnego' do wykucia — to zwyczajny znacznik sprawcy strony biernej, wykonujący dokładnie tę samą pracę co w każdym innym zdaniu w stronie biernej."
+      },
+      {
+        "label": "TO = cel/kierunek — skamielina celownika (married to, similar to, kind to)",
+        "text": "Podobnie jak przy czasownikach 'listen to' i 'belong to', pewne przymiotniki skamieniały wraz ze staroangielską rolą celownika ('cel/odbiorca') wprost przy 'to': married TO, similar TO, kind/cruel/rude TO, loyal TO, addicted TO, accustomed/used TO. W każdym przypadku opisywana relacja jest kierunkowa — jeden byt jest zorientowany na, związany z, albo mierzony względem drugiego — co jest dokładnie tą samą rolą semantyczną, którą przed zanikiem końcówek kodował celownik."
+      },
+      {
+        "label": "OF dla źródła cechy — aware, capable, proud, tired, fond, ashamed",
+        "text": "Kontynuacja schematu źródła 'of': aware OF (wiedza czerpana z), capable OF (zdolność czerpana z wnętrza), proud OF, ashamed OF, fond OF, tired OF, jealous OF — każda z tych cech jest przedstawiona jako wywodząca się WŁAŚNIE Z obiektu przyimka, dokładnie ta sama logika, którą poznaliśmy już przy 'afraid of' i 'consist of'."
+      }
     ],
     "usage": [
-      "reason for — powód czegoś",
-      "solution to — rozwiązanie problemu",
-      "access to — dostęp do czegoś",
-      "increase/decrease in — wzrost/spadek czegoś"
+      "Ucząc się przymiotnika emocjonalnego, zawsze sprawdź, czy istnieje 'rodzicielski' czasownik (interest → interested, worry → worried, bore → bored) — przyimek niemal zawsze dziedziczy się razem z nim.",
+      "AT skupia się na reakcji/umiejętności w jednym punkcie, BY wskazuje sprawcę (jak w stronie biernej), TO wskazuje kierunek/relację, OF wskazuje źródło cechy.",
+      "Wiele przymiotników emocjonalnych dopuszcza więcej niż jeden przyimek naraz (bored WITH/OF/BY), ale z różnicą rejestru i niuansu — zobacz temat o pułapkach i rejestrze.",
+      "Nie każdy przymiotnik da się przewidzieć ze schematu — część par to po prostu utrwalone konwencje wymagające osobnego zapamiętania, ale schemat drastycznie ogranicza liczbę 'czystych' wyjątków."
     ],
-    "tags": ["reason for", "solution to", "access to", "increase in"],
+    "tags": ["interested in", "surprised at/by", "married to", "aware of", "agent schema"],
     "examples": [
-      { "en": "What's the reason for the delay?", "pl": "Jaki jest powód opóźnienia?" },
-      { "en": "We finally found a solution to the problem.", "pl": "W końcu znaleźliśmy rozwiązanie problemu." },
-      { "en": "Every student has access to the library.", "pl": "Każdy uczeń ma dostęp do biblioteki." },
-      { "en": "There has been an increase in prices.", "pl": "Nastąpił wzrost cen." }
+      { "en": "I was genuinely surprised at how calmly she reacted to the news.", "pl": "Byłam naprawdę zaskoczona tym, jak spokojnie zareagowała na tę wiadomość." },
+      { "en": "The audience seemed thoroughly bored by the second half of the lecture.", "pl": "Publiczność wyraźnie znudziła się drugą połową wykładu." },
+      { "en": "He's been married to his childhood sweetheart for over thirty years.", "pl": "Jest żonaty ze swoją miłością z dzieciństwa od ponad trzydziestu lat." },
+      { "en": "She's fully aware of the risks, but she's decided to take the job anyway.", "pl": "Jest w pełni świadoma ryzyka, ale i tak zdecydowała się przyjąć tę pracę." },
+      { "en": "I'm not particularly proud of how I handled that argument.", "pl": "Nie jestem szczególnie dumny z tego, jak poradziłem sobie z tą kłótnią." }
     ]
   },
   {
-    "id": "tricky_pairs",
+    "id": "noun_preposition_parallel",
     "order": 4,
-    "nameEn": "Tricky and confusable preposition pairs",
-    "namePl": "Mylące pary czasownik/przymiotnik + przyimek",
+    "nameEn": "Noun + preposition: the family resemblance to verbs and adjectives",
+    "namePl": "Rzeczownik + przyimek: rodzinne podobieństwo do czasowników i przymiotników",
     "rules": [
-      { "label": "different from", "text": "be different from — najbezpieczniejszy, uniwersalny wybór (różnić się od); 'different to' i 'different than' też się zdarzają, ale from jest standardem" },
-      { "label": "married to", "text": "be married to somebody — być poślubionym komuś; nie 'married with' (to inna konstrukcja)" },
-      { "label": "listen to vs hear", "text": "listen to wymaga przyimka to, natomiast hear nie wymaga żadnego przyimka" }
+      {
+        "label": "Rzeczownik odczasownikowy dziedziczy przyimek po czasowniku-rodzicu",
+        "text": "Rzeczowniki utworzone od czasownika rządzącego przyimkiem niemal zawsze zachowują ten sam przyimek: need FOR (od need for), interest IN (od be interested in / take interest in), relationship WITH/BETWEEN, access TO (ostatecznie ten sam kierunkowy/celowy przyimek 'to' co w 'go to'). Nominalizacja bywa jednak nieprzewidywalna: solution TO nawiązuje do celu, do którego zmierza rozwiązanie, mimo że sam czasownik 'solve' jest bezprzyimkowy, w pełni tranzytywny ('solve a problem', nie *solve to a problem) — rzeczownik przyciągnął własny przyimek, którego rdzeń czasownikowy w ogóle nie potrzebuje."
+      },
+      {
+        "label": "BETWEEN dla relacji dwustronnych, AMONG dla grup",
+        "text": "Rzeczowniki opisujące relację wzajemną, dwustronną domyślnie łączą się z 'between': difference BETWEEN, relationship BETWEEN, distinction BETWEEN, connection BETWEEN. To w ogóle nie jest osobny wyjątek 'dla przyimków zależnych' — to zwyczajna, ogólna zasada, że 'between' oznacza dokładnie dwóch (lub niewielką, wyraźnie wyodrębnioną liczbę) uczestników, podczas gdy 'among' oznacza niezróżnicowaną grupę trzech lub więcej (among friends, among the crowd). Ta sama logika ogół-szczegół, która rządzi 'between vs among' wszędzie w angielskim, rządzi nią i tutaj."
+      },
+      {
+        "label": "OF dla źródła/przyczyny w rzeczownikach abstrakcyjnych — cause of, fear of, lack of",
+        "text": "Ten sam schemat źródła tłumaczy cause OF, fear OF, lack OF, sign OF, proof OF, result OF — każdy z nich nazywa byt abstrakcyjny, którego pochodzenie sięga do obiektu 'of', kontynuując dokładnie tę logikę, którą poznaliśmy już przy 'afraid of' i 'consist of'."
+      },
+      {
+        "label": "IN dla rzeczowników opisujących dziedzinę/pole (interest in, rise in, degree in)",
+        "text": "Kontynuacja schematu pojemnika: interest IN, rise/increase/fall/decrease IN, degree IN, expertise IN, participation IN — wszystkie opisują abstrakcyjne terytorium lub dziedzinę, w którą coś 'wchodzi', albo ruch, który dzieje się 'wewnątrz' pewnej skali, dokładnie tę logikę pojemnika, którą poznaliśmy już przy czasownikach 'believe in' czy 'specialize in'."
+      }
     ],
     "usage": [
-      "be different from — różnić się od (najbezpieczniejszy wybór)",
-      "be married to — być poślubionym komuś",
-      "listen to music/somebody — słuchać czegoś/kogoś",
-      "good with somebody vs good at something — dobry w obchodzeniu się z kimś vs dobry w czymś"
+      "Zamiast uczyć się rzeczownika osobno, sprawdź, czy istnieje spokrewniony czasownik lub przymiotnik — najczęściej przyimek jest wspólny dla całej rodziny wyrazów.",
+      "'Between' vs 'among' to nie osobna reguła 'dla rzeczowników z przyimkiem', tylko ogólna zasada liczby uczestników relacji, zastosowana tutaj.",
+      "Nominalizacja (zamiana czasownika na rzeczownik) czasem WPROWADZA przyimek tam, gdzie czasownik go nie miał (solve something → a solution TO something) — rzeczownik i czasownik nie zawsze idą w parze jeden do jednego.",
+      "Rzeczowniki odprzymiotnikowe (np. awareness od aware) niemal zawsze zachowują ten sam przyimek co przymiotnik-rodzic (aware OF → awareness OF)."
     ],
-    "tags": ["different from", "married to", "listen to", "good with"],
+    "tags": ["reason for", "access to", "difference between", "cause of", "nominalization"],
     "examples": [
-      { "en": "This city is very different from what I expected.", "pl": "To miasto bardzo różni się od tego, czego się spodziewałem." },
-      { "en": "She has been married to him for ten years.", "pl": "Jest z nim w związku małżeńskim od dziesięciu lat." },
-      { "en": "I like listening to podcasts on my way to work.", "pl": "Lubię słuchać podcastów w drodze do pracy." },
-      { "en": "He's really good with children.", "pl": "On naprawdę dobrze radzi sobie z dziećmi." }
+      { "en": "There's a growing awareness of the risks associated with excessive screen time.", "pl": "Rośnie świadomość ryzyka związanego z nadmiernym korzystaniem z ekranów." },
+      { "en": "What's the real difference between confidence and arrogance?", "pl": "Jaka jest tak naprawdę różnica między pewnością siebie a arogancją?" },
+      { "en": "There is still no obvious solution to the housing shortage in this city.", "pl": "Wciąż nie ma oczywistego rozwiązania problemu braku mieszkań w tym mieście." },
+      { "en": "Her sudden interest in medieval history surprised everyone who knew her.", "pl": "Jej nagłe zainteresowanie historią średniowieczną zaskoczyło wszystkich, którzy ją znali." },
+      { "en": "There has been a sharp rise in the cost of living over the past two years.", "pl": "W ciągu ostatnich dwóch lat nastąpił gwałtowny wzrost kosztów życia." }
+    ]
+  },
+  {
+    "id": "polysemous_verb_prepositions",
+    "order": 5,
+    "nameEn": "One verb, several prepositions: how the choice itself carries meaning",
+    "namePl": "Jeden czasownik, kilka przyimków: jak sam wybór niesie znaczenie",
+    "rules": [
+      {
+        "label": "AGREE WITH / ON / TO / ABOUT — cztery różne relacje pod jedną etykietą",
+        "text": "'Agree WITH someone' przedstawia porozumienie jako stanięcie obok danej osoby (schemat towarzyszenia 'with' — kończysz po tej samej stronie co ona); 'agree ON something' przedstawia wspólną podstawę, na której obie strony wspólnie osiadają (schemat oparcia/podstawy 'on', jak w 'depend on', 'based on'); 'agree TO a proposal/request' przedstawia formalną akceptację jako ruch w stronę czyichś warunków (schemat kierunkowy 'to', ta sama logika co 'married to'); 'agree ABOUT a general topic' po prostu nazywa otaczający temat rozmowy (schemat tematu 'about', patrz kolejna zasada). Zamiana tych przyimków nie brzmi tylko 'bardziej lub mniej naturalnie' — realnie zmienia, KTO z KIM się zgodził, w jakiej SPRAWIE."
+      },
+      {
+        "label": "ABOUT = wokół tematu, OF = punktowe źródło wiedzy — talk about vs hear of",
+        "text": "'About' pochodzi ze staroangielskiego 'onbūtan' ('na zewnątrz czegoś, dookoła, otaczająco') — przedstawia swój obiekt jako szeroki temat, wokół którego krąży rozmowa: talk ABOUT, worry ABOUT, complain ABOUT, argue ABOUT, care ABOUT (w znaczeniu tematu), read ABOUT. 'Of' natomiast oznacza węższe, punktowe źródło informacji: 'I've heard OF him' znaczy jedynie 'wiem, że on istnieje' (goły fakt, jeden punkt informacji), podczas gdy 'I've heard ABOUT him' znaczy 'znam jakąś historię/szczegóły na jego temat'. To dokładnie ten sam kontrast 'punkt kontra otaczający obszar', który dla przestrzeni odróżnia 'at' od 'in', zastosowany tu do wiedzy zamiast do miejsca."
+      },
+      {
+        "label": "HEAR OF / ABOUT / FROM — trzy różne relacje do informacji",
+        "text": "W prostej kontynuacji poprzedniej zasady, 'hear FROM someone' dodaje trzecią, zupełnie inną relację: oznacza otrzymanie bezpośredniej wiadomości (listu, telefonu, e-maila) OD tej osoby jako jej dosłownego źródła/pochodzenia — zwyczajny schemat źródła 'from' (staroangielskie 'fram', 'z dala od, pochodzące z'), a nie temat, o którym się mówi. Zatem: 'I've heard of Kafka' (wiem, że istniał), 'I've heard about your promotion' (znam tę historię), 'I haven't heard from her in months' (nie odzywała się do mnie) — trzy odrębne relacje do informacji, które w wielu innych językach zlałyby się w jeden, nierozróżniony czasownik."
+      },
+      {
+        "label": "ARGUE WITH / ABOUT / FOR / AGAINST — przeciwnik, temat i stanowisko",
+        "text": "'Argue WITH someone' nazywa przeciwnika (ten sam wzorzec 'with' co w 'agree with', tylko w wersji konfrontacyjnej zamiast kooperacyjnej); 'argue ABOUT something' nazywa temat (zobacz wyżej); 'argue FOR/AGAINST something' nazywa STANOWISKO — 'for' pochodzi ze staroangielskiego 'for' (już wtedy znaczącego 'przed, w imieniu, z powodu'), rozszerzonego metaforycznie na 'po stronie, za czymś'; 'against' pochodzi ze staroangielskiego 'ongēan' ('naprzeciw, zwrócony ku, w odpowiedzi'), z natury konfrontacyjny, twarzą-w-twarz obraz przestrzenny rozszerzony metaforycznie na sprzeciw wobec idei. Fizyczny obraz stania PRZED kimś (for/po jego stronie) kontra STANIA NAPRZECIW niego (against) wciąż wykonuje realną pracę semantyczną wieki później."
+      },
+      {
+        "label": "THINK OF / ABOUT — pomysł chwilowy kontra rozciągnięte rozważanie",
+        "text": "Dokładnie ten sam kontrast of/about z zasady drugiej, zastosowany tym razem do myślenia zamiast do mówienia: 'think OF' nazywa jedną, punktową myśl lub opinię, która przychodzi do głowy ('What do you think OF this plan?' = jaki jest twój natychmiastowy werdykt; 'I've just thought OF a solution' = właśnie przyszedł mi do głowy jeden pomysł), podczas gdy 'think ABOUT' nazywa rozciągnięte, trwające w czasie rozważanie ('I've been thinking ABOUT this for weeks'). Gdy raz przyswoisz kontrast of = punkt / about = otaczający obszar z poprzednich zasad, ten wzorzec automatycznie uogólnia się na niemal każdy czasownik myślenia i komunikacji."
+      }
+    ],
+    "usage": [
+      "Zanim zapytasz 'jaki przyimek jest tu poprawny', zapytaj raczej 'o jaką dokładnie relację mi chodzi' — WITH (towarzysz/przeciwnik), ON (wspólna podstawa), TO (kierunek/cel, formalna zgoda), ABOUT (temat), OF (punktowe źródło), FROM (bezpośrednie źródło kontaktu).",
+      "To dokładnie ten sam zestaw schematów, który poznałeś przy czasownikach i przymiotnikach — różnica jest tylko taka, że tutaj JEDEN czasownik świadomie przełącza się między kilkoma z nich, zależnie od intencji mówiącego.",
+      "Błędny wybór przyimka w tej grupie czasowników zwykle nie brzmi tylko 'nienaturalnie' — realnie zmienia sens zdania, np. kto się z kim zgodził, a w jakiej sprawie.",
+      "Ta wieloznaczność to świetny sprawdzian, czy naprawdę rozumiesz schematy obrazowe, a nie tylko wykuty na pamięć jeden przyimek do jednego czasownika."
+    ],
+    "tags": ["agree with/on/to", "hear of/about/from", "argue for/against", "think of/about"],
+    "examples": [
+      { "en": "We finally agreed on a date for the wedding, even though we still disagree about the guest list.", "pl": "W końcu uzgodniliśmy datę ślubu, choć wciąż nie zgadzamy się co do listy gości." },
+      { "en": "I've heard of the restaurant, but I've never actually heard anyone rave about the food.", "pl": "Słyszałem o tej restauracji, ale nigdy nie słyszałem, żeby ktoś zachwycał się tym jedzeniem." },
+      { "en": "Have you heard from your brother since he moved abroad?", "pl": "Miałaś jakiś kontakt z bratem, odkąd wyjechał za granicę?" },
+      { "en": "Half the panel argued for the merger, while the other half argued fiercely against it.", "pl": "Połowa panelu opowiadała się za fuzją, druga połowa zaciekle się jej sprzeciwiała." },
+      { "en": "What do you think of the new proposal? I haven't really had time to think about it properly yet.", "pl": "Co sądzisz o nowej propozycji? Nie miałem jeszcze czasu, żeby porządnie się nad nią zastanowić." }
+    ]
+  },
+  {
+    "id": "tricky_pairs_and_register",
+    "order": 6,
+    "nameEn": "Notorious traps: register, dialect, and the exceptions that prove the system",
+    "namePl": "Osławione pułapki: rejestr, dialekt i wyjątki potwierdzające regułę",
+    "rules": [
+      {
+        "label": "DIFFERENT FROM / TO / THAN — trzy formy, trzy różne przyczyny",
+        "text": "'Different from' to historycznie oryginalna, prescriptywnie 'najbezpieczniejsza' forma, zbudowana przez zwykłą analogię do czasownika-rodzica: 'differ FROM' (łac. differre, dis- 'osobno' + ferre 'nieść' — dosłownie 'nieść z dala od siebie'). 'Different to' to późniejsza brytyjska innowacja, która rozprzestrzeniła się przez analogię do całej rodziny przymiotników porównawczych, które niezależnie osiadły na 'to' (similar TO, identical TO, opposite TO, comparable TO) — presja wzorca tej większej rodziny pociągnęła 'different' w stronę 'to', mimo że jego własny czasownik-rodzic używa 'from'. 'Different than', głównie amerykańskie, rozwiązuje prawdziwy problem SKŁADNIOWY, którego dwie pozostałe formy nie rozwiązują: angielskie przyimki chcą po sobie rzeczownika, nie całego zdania, więc 'different from what I expected' musi wstawić sztuczne 'what', żeby zamienić zdanie w frazę rzeczownikową — 'different than I expected' całkowicie omija ten problem, bo 'than' (podobnie jak 'as') jest spójnikiem podrzędnym, który może wprowadzać zdanie osobowe wprost, dokładnie tak jak robi to już po stopniu wyższym ('bigger than I thought')."
+      },
+      {
+        "label": "MARRIED TO, nie MARRIED WITH — częsty błąd interferencyjny",
+        "text": "Wiele języków (w tym polski: 'ożeniony/zamężna Z kimś', francuski 'marié AVEC') koduje małżeństwo przyimkiem towarzyszenia ('z/with'), więc uczący się regularnie przenoszą tę logikę do angielskiego jako *married with*. Ale angielskie 'married to' skamienia staroangielski schemat celownikowy 'cel', poznany już przy 'listen to' i 'belong to' — małżeństwo jest przedstawiane jako kierunkowa więź SKIEROWANA DO konkretnej osoby, a nie zwykłe towarzystwo obok niej. To podręcznikowy przykład błędu interferencyjnego: pomyłka nie jest losowa, wynika z całkiem logicznego schematu — tyle że niewłaściwego dla angielskiego."
+      },
+      {
+        "label": "BORED OF / WITH / BY — trzy przyimki, trzy rejestry, jedna emocja",
+        "text": "'Bored WITH' to tradycyjna forma standardowa, idąca za zwykłym wzorcem przyczyny-towarzyszącej 'with', wspólnym z 'satisfied with', 'pleased with', 'disappointed with' (obiekt traktowany jako towarzysząca przyczyna uczucia). 'Bored BY' uwypukla obiekt jako aktywnego SPRAWCĘ, idąc za wzorcem sprawcy strony biernej już wyjaśnionym przy przymiotnikach ('impressed by', 'shocked by') — najnaturalniejsze, gdy nudząca rzecz wyraźnie coś ci robi (wykład, film). 'Bored OF' to stosunkowo świeża, wciąż nieco potoczna innowacja — rozprzestrzeniła się przez analogię do semantycznie podobnych 'tired of' i 'fed up of/with', które niezależnie używają schematu źródła 'of' ('zmęczenie pochodzące od X'). Staranne pisanie i formalny rejestr wciąż na ogół preferują 'with' lub 'by'; 'of' pozostaje powszechne w mowie potocznej, zwłaszcza wśród młodszych i brytyjskich mówiących, ale bywa oznaczane jako niestandardowe w starannym użyciu."
+      },
+      {
+        "label": "DISCUSS bez przyimka — łacińska tranzytywność, która ominęła system",
+        "text": "'Discuss' to jeden z niewielkiego zbioru łacińskich czasowników (także: consider, mention, approach, address [a topic], enter [a competition], resemble, lack), które weszły do angielskiego wprost jako w pełni tranzytywne czasowniki z zapożyczeń prawniczo-naukowych łaciny — 'discuss' z łac. discutere (dis- 'osobno' + quatere 'wstrząsać' — dosłownie 'roztrząsać, dokładnie zbadać') — i po prostu nigdy nie przeszły wielowiekowego, rodzimego procesu, w którym starsze, germańskie czasowniki stopniowo wypracowywały sobie stały przyimek. Właśnie dlatego *discuss about something* to bardzo częsty błąd wśród mówiących językami, które TU potrzebują przyimka (polskie 'dyskutować O czymś', francuskie 'discuter DE quelque chose') — czasownik WYGLĄDA, jakby powinien zachowywać się jak 'talk about' czy 'argue about', ale historycznie wszedł do języka zupełnie inną drogą i zachował łacińską bezpośrednią tranzytywność."
+      },
+      {
+        "label": "WRITE (TO) — różnica AmE/BrE w samym systemie rządzenia przyimkiem",
+        "text": "Brytyjski angielski nadal na ogół wymaga 'write TO someone' (I'll write to you next week), zachowując ten sam celownikowo-kierunkowy wzorzec 'to' co 'listen to' i 'married to'. Amerykański angielski coraz częściej przekształcił 'write' w czasownik bezpośrednio tranzytywny, bez przyimka, na wzór innych czasowników komunikacji jak 'call', 'text', 'email' — 'I'll write you next week' brzmi w amerykańskim angielskim całkowicie naturalnie, a w brytyjskim nieco staroświecko lub nadmiernie formalnie. To nie przypadkowa dziwność dialektalna — pokazuje ten sam historyczny proces (zanikanie przyimków znaczących celownik na rzecz bezpośredniej tranzytywności) wciąż po cichu w ruchu, wieki po tym, jak zaczął ogałacać staroangielski system końcówek przypadków."
+      }
+    ],
+    "usage": [
+      "Rejestr i dialekt mają realny wpływ na wybór przyimka zależnego — 'poprawność' bywa kwestią konwencji formalnej, nie logiki: w mowie potocznej 'bored of' czy 'different to' są całkowicie zrozumiałe i powszechne.",
+      "Błędy interferencyjne (married with, discuss about) nie są 'głupimi pomyłkami' — wynikają z przeniesienia logicznego, ale niepasującego do angielskiego, schematu z języka ojczystego.",
+      "AmE i BrE potrafią różnić się nie tylko słownictwem, ale samym SYSTEMEM rządzenia przyimkiem przy identycznym czasowniku (write to vs write bez przyimka) — to żywy dowód, że system przyimków zależnych wciąż ewoluuje, a nie jest zamkniętym zbiorem reguł sprzed wieków.",
+      "Jeśli czasownik wszedł do angielskiego jako gotowy, w pełni tranzytywny łacinizm (discuss, consider, resemble, lack, enter, address), zwykle NIE bierze przyimka — sprawdź etymologię, zanim dodasz 'about' czy 'with' z przyzwyczajenia."
+    ],
+    "tags": ["different from/to/than", "married to", "bored of/with/by", "discuss (no preposition)", "AmE vs BrE"],
+    "examples": [
+      { "en": "The results were strikingly different from our expectations.", "pl": "Wyniki były uderzająco inne, niż się spodziewaliśmy." },
+      { "en": "Honestly, this year's harvest was different than I'd expected — much better.", "pl": "Szczerze mówiąc, tegoroczne zbiory były inne, niż się spodziewałem — dużo lepsze." },
+      { "en": "My uncle has been married to the same woman since 1978.", "pl": "Mój wujek jest żonaty z tą samą kobietą od 1978 roku." },
+      { "en": "By the end of the meeting, half the room looked completely bored by the endless spreadsheets.", "pl": "Pod koniec spotkania połowa sali wyglądała na kompletnie znudzoną niekończącymi się arkuszami." },
+      { "en": "We really need to discuss the budget before Friday's deadline.", "pl": "Naprawdę musimy omówić budżet przed piątkowym terminem." }
     ]
   }
 ]
