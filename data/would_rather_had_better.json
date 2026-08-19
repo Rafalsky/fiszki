@@ -1,94 +1,214 @@
 [
   {
-    "id": "would_rather_self",
+    "id": "would_rather_overview",
     "order": 1,
-    "nameEn": "would rather — own preference",
-    "namePl": "would rather — własna preferencja",
+    "nameEn": "Would rather: preference as a race, not a scale",
+    "namePl": "Would rather: preferencja jako wyścig, a nie skala",
     "rules": [
-      { "label": "Budowa", "text": "would rather + bezokolicznik bez to (I'd rather stay home tonight.)" },
-      { "label": "Przeczenie", "text": "would rather not + bezokolicznik (I'd rather not go.)" },
-      { "label": "Skrót", "text": "W mowie potocznej would rather skraca się do 'd rather (I'd rather, She'd rather)" }
+      {
+        "label": "Rodowód: 'rather' nie zawsze znaczyło 'raczej'",
+        "text": "'Rather' jest historycznie stopniem wyższym przysłówka staroangielskiego 'hraþe' (też zapisywanego 'raþe'), który znaczył 'szybko, prędko, chętnie' — spokrewnionego z niemieckim 'rasch' ('szybki, rączy'). Regularny stopień wyższy brzmiał 'hraþor' — dosłownie 'szybciej, prędzej, ochoczej'. Ślad tego pierwotnego znaczenia przetrwał do dziś w archaicznym przymiotniku 'rathe' ('wczesny') — Milton pisał o 'the rathe primrose', czyli 'wcześnie kwitnącym pierwiosnku' — oraz w wciąż istniejącym, choć rzadkim, stopniu najwyższym 'rathest'. 'Rather' jako osobne słowo to więc zamrożony, wyizolowany stopień wyższy przysłówka, który sam w sobie wyszedł już z użycia."
+      },
+      {
+        "label": "Od 'szybciej' do 'preferencji': jak przesunęło się znaczenie",
+        "text": "Skoro 'rather' pierwotnie znaczyło 'prędzej, ochoczej', konstrukcja '(I) would X rather (than Y)' dosłownie mówiła: 'chciałbym prędzej zrobić X niż Y' — czyli w wyścigu dwóch możliwych działań, X zwyciężyłoby jako pierwsze. Preferencja w angielskim nie jest więc pierwotnie pojmowana jako punkt na skali 'lepsze — gorsze' (jak sugerowałoby polskie 'wolę'), lecz jako ZWYCIĘZCA WYŚCIGU chętności: to, co zrobiłbym najszybciej, najchętniej, bez wahania. Ten obraz — dwie opcje na starcie, jedna z nich rusza pierwsza — tłumaczy, dlaczego naturalnym dopełnieniem jest 'than' (jak przy każdym prawdziwym porównaniu stopnia wyższego: faster than, sooner than, rather than), a nie np. 'over' czy 'instead of', które nie niosą tego wyścigowego obrazu."
+      },
+      {
+        "label": "Dlaczego bezokolicznik bez 'to'",
+        "text": "'Would rather' zachowuje się składniowo jak czasownik modalny (would, could, should) właśnie dlatego, że wyrósł z tej samej rodziny konstrukcji peryfrastycznych z 'would' + goły bezokolicznik. 'Rather' jest tu przysłówkiem modyfikującym samo 'would' ('chciałbym prędzej zrobić...'), a nie osobnym czasownikiem rządzącym bezokolicznikiem z 'to' — stąd 'I would rather stay', nigdy 'I would rather to stay'."
+      },
+      {
+        "label": "Mapa rodziny: cztery wzorce z jednego obrazu wyścigu",
+        "text": "Poniższe punkty rozwijają cztery główne odgałęzienia tej samej metafory: (1) preferencja własna w danej chwili; (2) porównanie dwóch opcji przez 'than'; (3) preferencja dotycząca cudzego zachowania, gdzie pojawia się zaskakujący czas przeszły; (4) archaiczna rodzina bliźniaczych konstrukcji ('had rather', 'had as soon'), z której — z przyczyn czysto historycznego przypadku — przetrwał do dziś tylko jeden potomek pod inną postacią: 'had better', opisany w dalszej części tego tematu."
+      }
     ],
     "usage": [
-      "Wyrażanie osobistej preferencji w danej chwili lub ogólnie",
-      "Grzeczna odmowa: I'd rather not, jeśli ktoś nas o coś prosi",
+      "Fundament pod całą rodzinę 'would rather' — wyjaśnia zarówno brak 'to' przed bezokolicznikiem, jak i obowiązkowe 'than' przy porównaniu",
+      "Punkt wyjścia do zrozumienia, dlaczego ta sama rodzina wyrażeń rozgałęzia się później w 'had better' o zupełnie innym znaczeniu mimo pokrewnej budowy"
+    ],
+    "tags": ["rather etymology", "hraþor", "preference as race", "rathe primrose"],
+    "examples": [
+      { "en": "Milton's 'the rathe primrose' preserves the old sense of 'rathe' — 'early, quick to bloom'.", "pl": "'The rathe primrose' u Miltona zachowuje stare znaczenie 'rathe' — 'wczesny, szybko kwitnący'." },
+      { "en": "'Rather' is a fossilised comparative — the base word 'rathe' itself has all but vanished.", "pl": "'Rather' to skamieniały stopień wyższy — samo słowo bazowe 'rathe' niemal całkiem zanikło." },
+      { "en": "Saying 'I'd rather leave' literally meant 'I would leave sooner/more readily' — a race between two options.", "pl": "'I'd rather leave' znaczyło dosłownie 'wyjechałbym prędzej/chętniej' — wyścig dwóch opcji." }
+    ]
+  },
+  {
+    "id": "would_rather_self",
+    "order": 2,
+    "nameEn": "would rather — a present preference of your own",
+    "namePl": "would rather — własna preferencja w danej chwili",
+    "rules": [
+      { "label": "Budowa", "text": "would rather + bezokolicznik bez to (I'd rather stay home tonight.) — 'would' zwykle ściąga się do 'd, dokładnie jak w 'I'd like' czy warunkach: I'd, you'd, she'd, we'd, they'd rather." },
+      { "label": "Przeczenie", "text": "would rather not + bezokolicznik (I'd rather not go.) — przeczenie stoi PRZY 'rather', nie przy głównym czasowniku (nie: 'I wouldn't rather go'), bo logicznie zaprzeczamy samej preferencji ('prędzej NIE zrobiłbym'), a nie istnieniu czasownika 'would'." },
+      { "label": "Rejestr grzecznej odmowy", "text": "'I'd rather not' funkcjonuje jako samodzielna, uprzejma odpowiedź odmowna — łagodniejsza niż 'no' czy 'I don't want to', bo formalnie wciąż mówi o preferencji, a nie o twardym zakazie czy niechęci. To jeden z niewielu wzorców angielskich, gdzie sama struktura gramatyczna pełni funkcję łagodzącą (hedging), niezależnie od tonu głosu." },
+      { "label": "'Would rather' a stopień porównania bez wypowiedzianego 'than'", "text": "Nawet gdy nie pada 'than + druga opcja', wyścigowy sens porównania wciąż jest obecny domyślnie: 'I'd rather stay home' zakłada niewypowiedzianą alternatywę ('...niż wyjść'), tak jak 'I prefer tea' domyślnie zakłada 'nad kawą'. Kontekst rozmowy zwykle dostarcza tej brakującej opcji." }
+    ],
+    "usage": [
+      "Wyrażanie osobistej preferencji w danej chwili lub ogólnie, z domyślną, niewypowiedzianą alternatywą",
+      "Grzeczna, złagodzona odmowa: I'd rather not, gdy ktoś nas o coś prosi",
       "Pytanie o preferencję: Would you rather...?",
       "Krótka odpowiedź na propozycję: I'd rather not, thanks."
     ],
-    "tags": ["I'd rather", "would rather not", "Would you rather...?"],
+    "tags": ["I'd rather", "would rather not", "Would you rather...?", "polite refusal"],
     "examples": [
-      { "en": "I'd rather stay home tonight.", "pl": "Wolałbym zostać dziś w domu." },
+      { "en": "I'd rather stay home tonight — I'm exhausted.", "pl": "Wolałbym dziś zostać w domu — jestem wykończony." },
       { "en": "Would you rather have tea or coffee?", "pl": "Wolałbyś herbatę czy kawę?" },
-      { "en": "She'd rather not talk about it.", "pl": "Ona wolałaby o tym nie rozmawiać." },
-      { "en": "We'd rather wait here.", "pl": "Wolelibyśmy tu poczekać." }
+      { "en": "'Can you tell me what happened?' 'I'd rather not, if that's OK.'", "pl": "'Możesz mi powiedzieć, co się stało?' 'Wolałbym nie, jeśli to w porządku.'" },
+      { "en": "We'd rather wait here than wander around looking for the entrance.", "pl": "Wolelibyśmy tu poczekać niż błądzić w poszukiwaniu wejścia." }
     ]
   },
   {
     "id": "would_rather_than",
-    "order": 2,
-    "nameEn": "would rather ... than",
-    "namePl": "would rather ... than — porównanie preferencji",
+    "order": 3,
+    "nameEn": "would rather ... than — the race made explicit",
+    "namePl": "would rather ... than — wyścig nazwany wprost",
     "rules": [
-      { "label": "Budowa", "text": "would rather + bezokolicznik bez to + than + bezokolicznik bez to, żeby porównać dwie opcje" },
-      { "label": "Po than", "text": "Po than może stać też rzeczownik lub zaimek zamiast czasownika (I'd rather have this one than that one.)" }
+      { "label": "Budowa", "text": "would rather + bezokolicznik bez to + than + bezokolicznik bez to, żeby porównać dwie opcje (I'd rather walk than take the bus.)" },
+      { "label": "Po 'than' może stać elipsa", "text": "Po 'than' zwykle pomijamy powtórzony czasownik, jeśli obie opcje go dzielą, zostawiając samo dopełnienie: 'I'd rather have this one than that one' (nie musimy powtarzać 'have'). Jeśli czasowniki są różne, powtarzamy pełny bezokolicznik bez to: 'I'd rather cook than eat out.'" },
+      { "label": "Symetria gramatyczna po obu stronach 'than'", "text": "Ponieważ 'than' w tej konstrukcji zachowuje się jak spójnik porównawczy (dokładnie jak w 'faster than', 'better than'), obie porównywane części muszą mieć tę samą formę gramatyczną — to przejaw ogólniejszej zasady struktury równoległej (parallelism) w angielskim: bezokolicznik po jednej stronie 'than' domaga się bezokolicznika po drugiej, nigdy gerundu ani rzeczownika w niezgodnej formie." },
+      { "label": "'Than' nie 'then' — pułapka homofoniczna", "text": "'Than' (porównawcze) i 'then' (czasowe, 'wtedy/potem') brzmią niemal identycznie w szybkiej mowie, co prowadzi do częstych błędów ortograficznych nawet u rodzimych użytkowników — ale funkcjonalnie to zupełnie inne słowa: 'than' zawsze sygnalizuje porównanie dwóch elementów, nigdy sekwencję czasową." }
     ],
     "usage": [
-      "Porównywanie dwóch możliwych czynności lub rzeczy",
-      "Podkreślenie, że jedna opcja jest zdecydowanie preferowana nad drugą",
+      "Porównywanie dwóch możliwych czynności lub rzeczy jako wyraźnego wyboru między alternatywami",
+      "Podkreślenie, że jedna opcja zdecydowanie wygrywa 'wyścig' z drugą",
       "Częste w odpowiedziach na propozycje z alternatywą (Shall we drive or walk?)"
     ],
-    "tags": ["would rather ... than", "I'd rather walk than drive"],
+    "tags": ["would rather ... than", "I'd rather walk than drive", "than vs then", "parallelism"],
     "examples": [
-      { "en": "I'd rather walk than take the bus.", "pl": "Wolałbym iść pieszo niż jechać autobusem." },
-      { "en": "He'd rather cook at home than eat out.", "pl": "On wolałby gotować w domu niż jeść na mieście." },
-      { "en": "They'd rather save money than spend it on holidays.", "pl": "Oni wolą oszczędzać pieniądze niż wydawać je na wakacje." },
-      { "en": "I'd rather have coffee than tea.", "pl": "Wolałbym kawę niż herbatę." }
+      { "en": "I'd rather walk than take the bus — it's only ten minutes.", "pl": "Wolałbym iść pieszo niż jechać autobusem — to tylko dziesięć minut." },
+      { "en": "He'd rather cook at home than eat out every night.", "pl": "On wolałby gotować w domu niż codziennie jeść na mieście." },
+      { "en": "They'd rather save the money than spend it on a holiday they'll forget.", "pl": "Oni wolą oszczędzić te pieniądze niż wydać je na wakacje, o których zapomną." },
+      { "en": "I'd rather have coffee than tea, if there's a choice.", "pl": "Wolałbym kawę niż herbatę, jeśli jest wybór." }
     ]
   },
   {
     "id": "would_rather_other",
-    "order": 3,
-    "nameEn": "would rather + subject + past simple",
-    "namePl": "would rather — preferencja dotycząca innej osoby",
+    "order": 4,
+    "nameEn": "would rather + subject + past tense — wanting something FROM someone else",
+    "namePl": "would rather + podmiot + czas przeszły — chęć skierowana na kogoś innego",
     "rules": [
-      { "label": "Budowa", "text": "would rather + podmiot + czasownik w czasie przeszłym, mimo że chodzi o teraźniejszość lub przyszłość (I'd rather you stayed.)" },
-      { "label": "Żal o przeszłości", "text": "would rather + podmiot + past perfect, gdy chodzi o żal dotyczący przeszłości (I'd rather you hadn't said that.)" },
-      { "label": "Przeczenie", "text": "would rather + podmiot + didn't + bezokolicznik (I'd rather you didn't smoke here.)" }
+      { "label": "Budowa: teraźniejszość/przyszłość", "text": "would rather + podmiot + Past Simple, mimo że mówimy o teraźniejszości lub przyszłości (I'd rather you stayed a bit longer. — nie 'I'd rather you stay')." },
+      { "label": "Dlaczego akurat czas przeszły — ten sam mechanizm dystansu co przy 'wish'", "text": "Gdy preferencja dotyczy zachowania INNEJ osoby, mówiący nie ma nad nim kontroli — może je tylko wskazać jako pożądane, nie zagwarantować. Angielski sygnalizuje ten brak bezpośredniej sprawczości dokładnie tym samym trikiem, co przy 'wish': cofnięciem czasownika o jeden stopień wstecz, żeby zaznaczyć DYSTANS — nie chronologiczny, lecz dystans między tym, co mówiący chce, a tym, co faktycznie się dzieje lub stanie. 'I'd rather you stayed' dosłownie sygnalizuje: 'to, o czym mówię, nie jest jeszcze (i może nigdy nie być) faktem — jest tylko moim życzeniem wobec twojej woli'. To ta sama rodzina zjawisk, co drugi okres warunkowy i 'wish + Past Simple': czas przeszły jako gramatyczna metafora nierzeczywistości, a nie jako informacja o momencie w czasie." },
+      { "label": "Żal o przeszłości: dodatkowy krok cofnięcia", "text": "Gdy preferencja dotyczy czegoś, co już się wydarzyło (lub nie) i czego nie da się cofnąć, wzorzec pogłębia się o kolejny stopień: would rather + podmiot + Past Perfect (I'd rather you hadn't said that in front of everyone.). Dokładnie jak przy 'wish', podwójne cofnięcie koduje podwójną nieodwracalność: nie tylko sprzeczność z tym, czego chcemy, ale i zamknięcie w przeszłości, której nie można ponownie przeżyć." },
+      { "label": "Przeczenie", "text": "would rather + podmiot + didn't + bezokolicznik (I'd rather you didn't smoke here.) — dla przeszłości: hadn't + imiesłów bierny (I'd rather you hadn't told him)." },
+      { "label": "Dlaczego nie 'I'd rather you would'", "text": "Choć intuicyjnie mogłoby się wydawać, że skoro chodzi o cudzą wolę, powinno pojawić się 'would' (jak w 'wish + would'), 'would rather' nigdy nie łączy się w ten sposób z podmiotem innym niż mówiący — historycznie ukształtowany wzorzec zarezerwował miejsce po zaimku wyłącznie dla Past Simple/Perfect, nie dla drugiego 'would'. To jedna z tych arbitralnych, lecz utrwalonych różnic między pokrewnymi konstrukcjami ('wish' i 'would rather'), które trzeba zapamiętać osobno, mimo wspólnego rdzenia znaczeniowego 'preferencja/życzenie'." }
     ],
     "usage": [
-      "Mówimy, czego chcielibyśmy od innej osoby, zamiast tego, co robi teraz lub planuje",
-      "Grzeczna prośba o zmianę czyjegoś zachowania",
-      "Wyrażenie żalu dotyczącego czyjegoś działania w przeszłości"
+      "Mówimy, czego chcielibyśmy od innej osoby, zamiast tego, co robi teraz lub planuje robić",
+      "Grzeczna, ale wyraźna prośba o zmianę czyjegoś zachowania",
+      "Wyrażenie żalu lub dezaprobaty dotyczącej czyjegoś działania w przeszłości (Past Perfect)"
     ],
-    "tags": ["I'd rather you stayed", "I'd rather you hadn't said that"],
+    "tags": ["I'd rather you stayed", "I'd rather you hadn't said that", "distance not time", "would rather vs wish"],
     "examples": [
-      { "en": "I'd rather you stayed a bit longer.", "pl": "Wolałbym, żebyś został trochę dłużej." },
-      { "en": "I'd rather you didn't smoke here.", "pl": "Wolałbym, żebyś tu nie palił." },
-      { "en": "She'd rather he called before visiting.", "pl": "Ona wolałaby, żeby zadzwonił przed odwiedzinami." },
-      { "en": "I'd rather you hadn't told him.", "pl": "Wolałbym, żebyś mu tego nie powiedział." }
+      { "en": "I'd rather you stayed a bit longer — the party's only just started.", "pl": "Wolałbym, żebyś został trochę dłużej — impreza dopiero się zaczęła." },
+      { "en": "I'd rather you didn't smoke here; there are children around.", "pl": "Wolałbym, żebyś tu nie palił; są tu dzieci." },
+      { "en": "She'd rather he called before visiting, not just showed up.", "pl": "Ona wolałaby, żeby zadzwonił przed odwiedzinami, a nie po prostu się zjawiał." },
+      { "en": "I'd rather you hadn't told him — now he won't stop asking questions.", "pl": "Wolałbym, żebyś mu tego nie powiedział — teraz nie przestanie zadawać pytań." }
+    ]
+  },
+  {
+    "id": "had_better_origin",
+    "order": 5,
+    "nameEn": "Had better: a fossil of a subject that used to be a dative, not a nominative",
+    "namePl": "Had better: skamielina po podmiocie, który kiedyś był celownikiem, nie mianownikiem",
+    "rules": [
+      {
+        "label": "Zagadka na start: dlaczego 'had', skoro chodzi o teraźniejszość?",
+        "text": "'You'd better hurry' odnosi się wyraźnie do TERAŹNIEJSZOŚCI i PRZYSZŁOŚCI, nie do przeszłości — a mimo to zawiera formę 'had'. To niezgodne z każdą inną funkcją 'had' w angielskim i sprawia, że uczący się (słusznie) czują się zdezorientowani. Odpowiedzi nie da się znaleźć we współczesnej gramatyce — trzeba cofnąć się do średnioangielskiego, gdzie 'had' w tym zwrocie wcale nie było czasownikiem posiłkowym czasu przeszłego w dzisiejszym sensie."
+      },
+      {
+        "label": "Punkt wyjścia: bezosobowa konstrukcja z celownikiem doświadczającego",
+        "text": "Średnioangielski (i wcześniej staroangielski) miał produktywny typ zdania bezosobowego, w którym 'osoba, której coś dotyczy' stała w przypadku CELOWNIKA, nie mianownika, a orzeczenie było w trybie łączącym (subjunctive): dosłowny szkielet brzmiał '[Celownik: komu] + were + [przymiotnik w stopniu wyższym: lepiej/milej] + [bezokolicznik]' — czyli coś w rodzaju 'mnie/tobie byłoby lepiej/milej [zrobić X]'. Takie konstrukcje bezosobowe znała też staroangielszczyzna przy czasownikach typu 'me lician' ('podobać mi się', źródło dzisiejszego 'like', które również przeszło analogiczną wędrówkę od bezosobowego do osobowego szyku)."
+      },
+      {
+        "label": "Bliźniacza rodzina: 'were better' i 'were lever/liever'",
+        "text": "Ta konstrukcja miała dwa równoległe warianty semantyczne, różniące się tylko przymiotnikiem w stopniu wyższym: z 'betre' (lepiej — porównanie korzyści) oraz z 'levere'/'liefer' (milej, chętniej — od staroangielskiego 'lēof', 'drogi, miły'; ten sam rdzeń co dzisiejsze niemieckie 'lieb'). Obie wersje współistniały przez wieki średnioangielskiego jako swobodne warianty: 'me were levere' i 'me were betre' znaczyły w praktyce to samo — 'wolałbym raczej'."
+      },
+      {
+        "label": "Reanaliza podmiotu: od celownika 'mnie' do mianownika 'ja'",
+        "text": "W miarę jak angielski tracił system przypadków (proces, który dotknął całą gramatykę rzeczowników i zaimków między późnym staroangielskim a średnioangielskim), zaimek celownikowy na początku zdania ('me', 'him', 'her') zaczął być odruchowo reinterpretowany jako zwykły MIANOWNIKOWY podmiot zdania — bo szyk zdania (na początku, przed czasownikiem) sugerował właśnie rolę podmiotu, niezależnie od tego, jaki przypadek historycznie tam stał. To dokładnie ten sam typ reanalizy składniowej, który w tym samym okresie przekształcił 'me liketh' ('podoba mi się') w dzisiejsze 'I like' z zupełnie odwróconymi rolami gramatycznymi (dawny podmiot 'to, co się podoba' stał się dopełnieniem, a dawny celownik doświadczającego — podmiotem)."
+      },
+      {
+        "label": "Reanaliza czasownika: od trybu łączącego 'were' do 'had'",
+        "text": "Równolegle z reanalizą podmiotu, dawna forma łącznikowa 'were' w tej konkretnej konstrukcji zaczęła w wielu dialektach ustępować miejsca formie 'had' — najpełniej udokumentowanym wyjaśnieniem jest wpływ analogii do bliskoznacznych, współistniejących konstrukcji z 'had rather'/'had as lief', gdzie 'had' od początku pełniło rolę osobnego czasownika modalnego znaczenia ('mieć wolę/skłonność do czegoś', pokrewne 'have a mind to'). Skoro 'had rather' i '(it) were better' znaczyły niemal to samo i występowały w tym samym kontekście grzecznej sugestii, mówiący zaczęli je ze sobą krzyżować, aż formy z 'had' całkowicie wyparły starsze formy z 'were' w tej niszy. Efektem końcowym była nowa, hybrydowa konstrukcja: mianownikowy podmiot (już nie celownik) + 'had' (już nie tryb łączący 'were') + 'better' + bezokolicznik bez to — czyli dokładnie dzisiejsze 'I had better go'."
+      },
+      {
+        "label": "Dowód na to, że 'had' jest skamieliną, a nie zwykłym czasem przeszłym",
+        "text": "Gdyby 'had' w 'had better' było normalnym czasownikiem posiłkowym w zwykłej funkcji, oczekiwalibyśmy odmiany przez czasy: *'He has better hurry' (teraźniejszość), *'He will have better hurry' (przyszłość), *'He is having better hurry' — żadna z tych form nie istnieje i nigdy nie istniała. 'Had' jest tu zamrożone raz na zawsze w jednej, niezmiennej postaci, niezależnie od osoby i czasu odniesienia (dokładnie jak modalne 'must' czy 'ought'), co jest klasycznym testem na to, że dana forma przestała być 'żywym' czasownikiem odmiennym, a stała się skamieniałym elementem utrwalonego idiomu gramatycznego — tak zwanym semi-modalem."
+      }
+    ],
+    "usage": [
+      "Wyjaśnia, dlaczego forma 'had' w 'had better' nie odmienia się przez osoby ani czasy — to nie zwykły czasownik 'have' w czasie przeszłym, lecz skamieniały relikt średnioangielskiej konstrukcji bezosobowej",
+      "Punkt odniesienia do zrozumienia, dlaczego 'had better' zachowuje się jak czasownik modalny (bezokolicznik bez to, brak -s w trzeciej osobie), a nie jak zwykły czasownik leksykalny"
+    ],
+    "tags": ["had better etymology", "impersonal construction", "dative experiencer", "subjunctive were to had", "semi-modal"],
+    "examples": [
+      { "en": "Middle English 'me were betre' meant 'it would be better for me' — with 'me' as a dative, not a subject.", "pl": "Średnioangielskie 'me were betre' znaczyło 'byłoby dla mnie lepiej' — z 'me' w celowniku, nie jako podmiot." },
+      { "en": "'Had' in 'had better' never conjugates: not 'he has better go', only ever 'he had better go'.", "pl": "'Had' w 'had better' nigdy się nie odmienia: nie 'he has better go', zawsze tylko 'he had better go'." },
+      { "en": "'I like it' and 'I had better go' both fossilise the same medieval trick: an old dative subject reanalysed as a nominative one.", "pl": "'I like it' i 'I had better go' konserwują ten sam średniowieczny mechanizm: dawny celownikowy podmiot przeanalizowany jako mianownikowy." }
     ]
   },
   {
     "id": "had_better",
-    "order": 4,
-    "nameEn": "had better",
-    "namePl": "had better — rada z konsekwencją",
+    "order": 6,
+    "nameEn": "had better — urgent advice with a named consequence",
+    "namePl": "had better — pilna rada z nazwaną konsekwencją",
     "rules": [
-      { "label": "Budowa", "text": "had better ('d better) + bezokolicznik bez to — rada połączona z ostrzeżeniem o konsekwencjach (You'd better hurry.)" },
-      { "label": "Przeczenie", "text": "had better not + bezokolicznik (You'd better not be late.)" },
-      { "label": "Różnica od should", "text": "had better sugeruje pilniejszą radę i konkretną, bliską konsekwencję niż should — mimo formy 'had' odnosi się do teraźniejszości i przyszłości" }
+      { "label": "Budowa", "text": "had better ('d better) + bezokolicznik bez to — rada połączona z ostrzeżeniem o konsekwencjach (You'd better hurry.). Mimo formy 'had', zdanie zawsze odnosi się do teraźniejszości lub przyszłości — nigdy do przeszłości (zob. poprzedni punkt o pochodzeniu tej formy)." },
+      { "label": "Przeczenie: 'not' po 'better', nie po 'had'", "text": "had better not + bezokolicznik (You'd better not be late.) — przeczenie stoi PRZY 'better', a nie tworzy się przez zwykłą inwersję z 'had' ('hadn't better'), choć ta druga forma sporadycznie pojawia się w mowie potocznej BrE i bywa uznawana za dopuszczalną wersję nieformalną. Wzorcowa, zalecana forma to zawsze 'had better not'." },
+      { "label": "Różnica od 'should': konkretność i pilność konsekwencji", "text": "'Should' wyraża ogólną, łagodną radę bez wyraźnie nazwanej kary za jej zlekceważenie ('You should exercise more' — dobra rada na przyszłość, bez presji chwili). 'Had better' zawsze niesie ze sobą DOMYŚLNĄ lub WYPOWIEDZIANĄ konkretną, bliską w czasie konsekwencję, jeśli rada nie zostanie posłuchana ('You'd better hurry [or you'll miss the train]') — stąd wyczuwalny w 'had better' ton ostrzeżenia, a czasem nawet lekkiej groźby, którego 'should' nie ma." },
+      { "label": "Różnica od 'must'/'have to': źródło presji", "text": "'Must' i 'have to' sygnalizują obowiązek płynący z zewnętrznej reguły, prawa lub silnej woli mówiącego, niezależnie od konkretnych okoliczności chwili. 'Had better' natomiast wynika zawsze z OCENY SYTUACJI przez mówiącego w danym momencie — to rada praktyczna, wyprowadzona z tego, co właśnie się dzieje ('the sky's getting dark, we'd better head back'), a nie z ustalonej z góry zasady. Dlatego 'had better' nie nadaje się do opisu stałych, ogólnych obowiązków (nie powiemy 'Drivers had better stop at red lights' jako opisu prawa — tu trzeba 'must'), tylko do doraźnej reakcji na konkretną sytuację." },
+      { "label": "Nieformalna redukcja w mowie amerykańskiej", "text": "W szybkiej, potocznej amerykańskiej angielszczyźnie samo 'had'/''d' bywa całkowicie pomijane w mowie (choć nie w piśmie standardowym): 'You better hurry up!' zamiast 'You'd better hurry up!' — kolejny dowód na to, że 'had' w tej konstrukcji jest gramatycznie 'martwym ciężarem', reliktem bez własnej funkcji znaczeniowej, więc w luźnej mowie łatwo go pominąć bez utraty sensu." },
+      { "label": "Pytania: rzadkie i stylistycznie sztywne", "text": "Formalna inwersja pytająca ('Had you better call first?') brzmi dziś archaicznie i w praktyce prawie się nie zdarza — zamiast niej mówi się 'Do you think you'd better call first?' albo zwyczajnie 'Should you call first?'. To kolejny sygnał, że 'had better' jest strukturą wyspecjalizowaną głównie do zdań twierdzących i rozkazująco-doradczych, nie do swobodnego zadawania pytań." }
     ],
     "usage": [
-      "Pilna rada z ostrzeżeniem, co się stanie, jeśli ktoś jej nie posłucha",
-      "Sytuacje, w których czas nagli (You'd better leave now or you'll miss the train.)",
-      "Ostrzeżenia i groźby w mowie potocznej (You'd better not touch that.)"
+      "Pilna rada z wyraźnym lub domyślnym ostrzeżeniem, co się stanie, jeśli ktoś jej nie posłucha",
+      "Sytuacje, w których czas nagli i reakcja jest potrzebna szybko (You'd better leave now or you'll miss the train.)",
+      "Ostrzeżenia i (czasem żartobliwe) groźby w mowie potocznej (You'd better not touch that.)",
+      "NIE do opisu stałych, ogólnych zasad czy przepisów — tam należy must/have to"
     ],
-    "tags": ["You'd better hurry", "had better not"],
+    "tags": ["You'd better hurry", "had better not", "had better vs should", "had better vs must"],
     "examples": [
       { "en": "You'd better hurry or you'll miss the train.", "pl": "Lepiej się pospiesz, bo spóźnisz się na pociąg." },
-      { "en": "We'd better leave now.", "pl": "Lepiej już chodźmy." },
-      { "en": "You'd better not be late again.", "pl": "Lepiej się już więcej nie spóźnij." },
-      { "en": "He'd better apologize to her.", "pl": "Lepiej niech ją przeprosi." }
+      { "en": "Look at those clouds — we'd better head back before it starts pouring.", "pl": "Spójrz na te chmury — lepiej zawróćmy, zanim zacznie lać." },
+      { "en": "You'd better not be late again; the boss already gave you a warning.", "pl": "Lepiej się już więcej nie spóźnij; szef już cię ostrzegał." },
+      { "en": "You better call her back — she's rung you three times already.", "pl": "Lepiej do niej oddzwoń — dzwoniła już trzy razy." }
+    ]
+  },
+  {
+    "id": "would_rather_had_better_archaic_family",
+    "order": 7,
+    "nameEn": "The extended family: had rather, had as soon, had as lief — why only 'had better' survived",
+    "namePl": "Rozszerzona rodzina: had rather, had as soon, had as lief — dlaczego przetrwało tylko 'had better'",
+    "rules": [
+      {
+        "label": "'Had rather' — dziś archaizm, kiedyś pełnoprawny wariant",
+        "text": "'I had rather die than surrender' brzmi dziś podniośle, literacko lub staroświecko, ale przez stulecia była to zupełnie zwyczajna, konkurencyjna wobec 'would rather' forma o tym samym znaczeniu — z tym samym 'had' co w 'had better', pochodzącym z tej samej rodziny bezosobowych konstrukcji z 'were levere' opisanej w poprzednich punktach. Współcześnie 'had rather' przetrwało głównie w stylizowanej, formalnej lub żartobliwie archaizującej angielszczyźnie (cytaty, przysięgi, retoryka) — w codziennej mowie niemal całkowicie wyparte przez 'would rather'."
+      },
+      {
+        "label": "'Had as soon' i 'had as lief/lieve' — wymarłe boczne gałęzie",
+        "text": "Ta sama rodzina obejmowała też 'I had as soon die as surrender' (dosłownie: 'równie prędko bym umarł, jak się poddał' — inny obraz tego samego wyścigu preferencji co przy 'rather') oraz 'I had as lief go as stay' ('lief' od tego samego korzenia 'lēof', 'drogi/miły', co średnioangielskie 'levere'). Obie te formy są dziś praktycznie martwe — spotykane niemal wyłącznie w tekstach szekspirowskich czy XIX-wiecznej prozie — świadectwo tego, że w danym momencie historycznym istniała cała paleta niemal wymiennych konstrukcji preferencji, z których przetrwały do dziś tylko dwie, i to w rozbieżnych rolach znaczeniowych."
+      },
+      {
+        "label": "Dlaczego akurat 'better' wygrało specjalizację znaczenia obowiązku/rady",
+        "text": "To nie przypadek, że spośród całej rodziny 'had + przymiotnik w stopniu wyższym + bezokolicznik' to właśnie wariant z 'better' wyspecjalizował się w znaczeniu rady/ostrzeżenia, a 'rather' — w czystej preferencji. 'Better' od początku niosło ocenę KORZYŚCI, słuszności działania ('lepiej będzie, jeśli...'), podczas gdy 'rather'/'lief'/'soon' niosły ocenę CHĘCI, upodobania ('chętniej, prędzej'). Te dwa pierwotnie bliskie, ale nietożsame odcienie znaczeniowe z czasem się rozeszły: 'better' przyciągnęło do siebie konotację doradczą i moralno-praktyczną, a 'rather' pozostało czystym wyrazem gustu — dlatego dziś, mimo wspólnych korzeni, 'had better' i 'would rather' brzmią jak dwie zupełnie odrębne struktury, choć strukturalnie i historycznie są rodzeństwem."
+      },
+      {
+        "label": "Dlaczego 'had' przetrwało w 'better', a nie w 'rather'",
+        "text": "Warto zauważyć asymetrię końcową: dzisiejsze standardowe 'would rather' porzuciło formę 'had' na rzecz 'would', podczas gdy 'had better' zatrzymało właśnie 'had' i nigdy nie rozwinęło powszechnego wariantu z 'would better'. Historycy języka wiążą to z częstotliwością i kontekstem użycia: 'had rather' funkcjonowało głównie w rejestrze formalnym/literackim, gdzie łatwiej je było zastąpić bardziej przezroczystym, regularnym 'would' (czasownikiem modalnym o jasnej, wciąż produktywnej funkcji warunkowo-życzeniowej), natomiast 'had better' zadomowiło się głębiej w codziennej mowie potocznej jako gotowa, sztywna formułka ostrzegawcza — a wyrażenia formułkowe, używane bezrefleksyjnie jako całość, opierają się regularyzacji znacznie silniej niż wyrażenia swobodnie produktywne."
+      }
+    ],
+    "usage": [
+      "Rozpoznawanie archaicznego 'had rather' w tekstach literackich, cytatach i stylizowanej mowie formalnej jako synonimu dzisiejszego 'would rather'",
+      "Świadomość, że 'had better' i 'would rather' są historycznie rodzeństwem z tej samej średnioangielskiej konstrukcji bezosobowej, mimo że dziś pełnią zupełnie różne funkcje znaczeniowe",
+      "Kontekst kulturowy: cytaty typu 'I had rather be a doorkeeper' (Psalm 84 w tłumaczeniu King James Version) czy szekspirowskie 'had as lief' jako świadectwo dawnej żywotności tej rodziny konstrukcji"
+    ],
+    "tags": ["had rather archaic", "had as soon", "had as lief", "semantic split", "formulaic expressions"],
+    "examples": [
+      { "en": "\"I had rather be a doorkeeper in the house of my God...\" — a famous archaic 'had rather', still quoted from the King James Bible.", "pl": "\"Wolałbym być odźwiernym w domu mego Boga...\" — słynne archaiczne 'had rather', wciąż cytowane z Biblii króla Jakuba." },
+      { "en": "Shakespeare's characters often say 'I had as lief' where we would now say 'I would just as soon'.", "pl": "Postaci u Szekspira często mówią 'I had as lief', tam gdzie dziś powiedzielibyśmy 'I would just as soon'." },
+      { "en": "'Had better' and 'would rather' are grammatical siblings that grew apart in meaning over the centuries.", "pl": "'Had better' i 'would rather' to gramatyczne rodzeństwo, które przez wieki rozeszło się znaczeniowo." }
     ]
   }
 ]
