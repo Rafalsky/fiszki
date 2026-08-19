@@ -2,97 +2,188 @@
   {
     "id": "yes_no_questions",
     "order": 1,
-    "nameEn": "Yes/No questions",
-    "namePl": "Pytania ogólne (tak/nie)",
+    "nameEn": "Yes/No questions and the grammaticalization of 'do'",
+    "namePl": "Pytania ogólne i narodziny operatora 'do'",
     "rules": [
-      { "label": "do/does/did", "text": "W Present Simple i Past Simple pytania ogólne tworzymy przez inwersję: Do/Does/Did + podmiot + czasownik w formie podstawowej" },
-      { "label": "be/have/modal", "text": "Gdy zdanie zawiera czasownik być (be), posiłkowy have/has/had jako operator lub czasownik modalny (can, will, must...), inwersja następuje bezpośrednio z tym czasownikiem, bez do/does/did" },
-      { "label": "Krótkie odpowiedzi", "text": "Zamiast pełnego zdania odpowiadamy krótko, powtarzając operator: Yes, I do. / No, she doesn't. / Yes, they are." }
+      {
+        "label": "Zasada dzisiejsza",
+        "text": "Jeśli zdanie ma już swój 'operator' — be, posiłkowe have, albo czasownik modalny (can, will, must...) — to właśnie on wędruje na początek zdania: 'She IS ready' → 'IS she ready?'. Jeśli jedynym czasownikiem jest zwykły czasownik leksykalny w Present/Past Simple (like, work, arrive...), angielski nie ma czym 'przestawić' na początek — więc pożycza pusty semantycznie operator do/does/did, który przejmuje na siebie czas i pytajność, a czasownik główny zostaje z tyłu w formie podstawowej: 'She likes coffee' → 'DOES she like coffee?'."
+      },
+      {
+        "label": "Geneza: jak pytano, zanim istniało 'do'",
+        "text": "W staroangielskim, tak jak dziś w niemieckim czy niderlandzkim, pytanie tworzono przez zwykłą inwersję SAMEGO czasownika głównego z podmiotem — bez żadnego pomocnika: 'Lufast þū mē?' dosłownie 'Kochasz ty mnie?', identycznie jak dzisiejsze niemieckie 'Liebst du mich?'. Angielski przez wieki robił to samo — ślady tego przetrwały w archaicznej, biblijnej i szekspirowskiej angielszczyźnie: 'Know you not the cause?', 'Say you so?', 'Think you I am mad?', 'What say you?'. To nie był błąd ani poetycka licencja — to była zwyczajna, produktywna reguła gramatyczna, żywa jeszcze w XVI wieku."
+      },
+      {
+        "label": "Dlaczego ta stara reguła umarła",
+        "text": "Gdy w średnioangielskim szyk zdania stał się sztywnym SVO (bo końcówki przypadków zanikły — patrz temat 'Szyk zdania'), przestawianie CAŁEGO czasownika głównego wraz z jego dopełnieniami stało się coraz bardziej niewygodne: w zdaniu 'You take the letter to the postman quickly' inwersja samego 'take' zostawiała resztę zdania w dziwnym zawieszeniu. Jednocześnie, niezależnie, w południowo-zachodnich dialektach średnioangielskiego zaczął się szerzyć peryfrastyczny 'do' — początkowo w zdaniach twierdzących, często dla rytmu w poezji ('He did go' zamiast 'He went'), całkowicie pusty znaczeniowo. Language change nie planuje — te dwa niezależne procesy spotkały się i 'do' okazał się idealnym kandydatem na nowy, przenośny 'uchwyt' na czas i pytajność, którym można manipulować bez ruszania czasownika głównego."
+      },
+      {
+        "label": "Jak to zmierzono: Ellegård i krzywa 'do'",
+        "text": "Szwedzki językoznawca Alvar Ellegård w klasycznym studium z 1953 roku policzył użycia 'do' w tysiącach angielskich tekstów od XV do XVIII wieku i pokazał sigmoidalną (S-kształtną) krzywą przyjmowania się tej formy: powoli w XV wieku, gwałtownie między 1500 a 1700, aż do niemal całkowitej dominacji w pytaniach i przeczeniach z czasownikami leksykalnymi do początku XVIII wieku — podczas gdy be, have (jako operator) i modalne NIGDY przez 'do' nie przeszły, bo od zawsze same potrafiły się przestawiać. To jeden z pierwszych przykładów, gdy zmianę językową udało się prześledzić ilościowo, krok po kroku, zamiast opisowo."
+      }
     ],
     "usage": [
-      "Pytania, na które odpowiada się „tak” lub „nie”",
-      "Present Simple/Past Simple: Do/Does/Did + podmiot + czasownik",
-      "Zdania z be, have (posiłkowym), modalnymi: inwersja bez do",
-      "Krótkie odpowiedzi zamiast pełnych zdań w mowie potocznej"
+      "Present/Past Simple z czasownikiem leksykalnym: Do/Does/Did + podmiot + czasownik w formie podstawowej (bez -s, bez -ed)",
+      "be, have (jako operator, nie 'posiadać'), modalne: inwersja bezpośrednia, do/does/did się NIE pojawia",
+      "Krótkie odpowiedzi zawsze powtarzają operator zdania, nigdy pełny czasownik: 'Do you smoke?' — 'No, I don't' (nie: 'No, I not smoke')",
+      "Emphatic 'do' (I DO like it!) to żywa relikwia epoki, gdy 'do' było zwykłym operatorem także w zdaniach twierdzących — dziś przetrwało wyłącznie jako nośnik silnego akcentu kontrastowego",
+      "Have got (BrE) zachowuje się jak be/modalne: 'Have you got a pen?', nie 'Do you have got'"
     ],
-    "tags": ["Do you...?", "Does she...?", "Are you...?", "Can you...?"],
+    "tags": ["do/does/did", "operator", "inwersja", "do-support"],
     "examples": [
-      { "en": "Do you like coffee?", "pl": "Czy lubisz kawę?" },
-      { "en": "Does she work here?", "pl": "Czy ona tutaj pracuje?" },
-      { "en": "Are you ready?", "pl": "Czy jesteś gotowy?" },
-      { "en": "Have you finished your homework?", "pl": "Czy skończyłeś odrabiać pracę domową?" }
+      { "en": "Does the printer actually work, or has it been broken all week?", "pl": "Czy ta drukarka w ogóle działa, czy jest zepsuta od tygodnia?" },
+      { "en": "I do apologize for the confusion — the schedule changed twice.", "pl": "Naprawdę przepraszam za zamieszanie — grafik zmieniał się dwa razy." },
+      { "en": "Has anyone actually read the contract before signing it?", "pl": "Czy ktoś w ogóle przeczytał umowę przed podpisaniem?" },
+      { "en": "Should we wait, or shall I just start without her?", "pl": "Czy powinniśmy poczekać, czy mam po prostu zacząć bez niej?" }
     ]
   },
   {
     "id": "wh_questions",
     "order": 2,
-    "nameEn": "Wh- questions",
-    "namePl": "Pytania szczegółowe (wh-)",
+    "nameEn": "Wh-words: from Old English *hw-* to modern fronting",
+    "namePl": "Słowa pytające wh- — od staroangielskiego hw- do dzisiejszego przesunięcia",
     "rules": [
-      { "label": "Szyk pytania", "text": "Słowo pytające (What/Where/When/Why/Who/How...) na początku, potem operator (do/does/did/be/modal) + podmiot + czasownik" },
-      { "label": "Pytanie o podmiot", "text": "Gdy pytamy o podmiot zdania (Who/What jako podmiot), NIE używamy do/does/did — zachowujemy szyk zdania oznajmującego: Who called you? (nie: Who did call you?)" },
-      { "label": "how + przymiotnik/przysłówek", "text": "Kombinacje z how (how much/many/often/long/far) służą do pytań o ilość, częstotliwość, czas trwania i odległość" }
+      {
+        "label": "Szyk pytania szczegółowego",
+        "text": "Słowo pytające zawsze wędruje na sam początek zdania (to zjawisko lingwiści nazywają wh-fronting — 'przesunięciem wh'), a PO nim dopiero następuje ten sam mechanizm operatora co w pytaniach ogólnych: What TIME does the film start? — najpierw fronting 'what time', potem inwersja operatora 'does' z podmiotem."
+      },
+      {
+        "label": "Geneza: praindoeuropejski rdzeń *kʷ-",
+        "text": "Wszystkie angielskie słowa pytające — what, who, where, when, why, which, how — wywodzą się ze staroangielskiego paradygmatu zaimka pytającego zaczynającego się na hw-: hwæt, hwā, hwær, hwænne, hwȳ, hwelc. To z kolei kontynuacja praindoeuropejskiego rdzenia pytającego *kʷo-/*kʷi-, DOKŁADNIE tego samego, z którego po stronie italskiej wyrosły łacińskie quid, quis, quo (stąd francuskie qui, que, quand), a po stronie słowiańskiej — polskie 'kto', 'co', 'kiedy' (< prasłowiańskie *kъto, *čьto). Angielskie 'what' i polskie 'co' to więc, zdumiewająco, dalecy kuzyni wywodzący się z tego samego prasłowa sprzed tysięcy lat — nie przypadek, tylko wspólne pochodzenie."
+      },
+      {
+        "label": "Dlaczego pisownia 'wh', a wymowa czasem 'w'",
+        "text": "W staroangielskim /hw/ wymawiano jak wyraźne 'h' + 'w' (podobnie jak dziś w niektórych akcentach szkockich czy irlandzkich, gdzie 'which' i 'witch' wciąż brzmią różnie). W większości dzisiejszych akcentów (RP, General American) doszło do tzw. wine-whine merger — zlania się /hw/ i /w/ w jedno /w/, więc 'which' i 'witch', 'whale' i 'Wales' brzmią dziś identycznie, mimo że pisownia wciąż zdradza starą wymowę. 'How' jest pozornym wyjątkiem: pochodzi od staroangielskiego hū, formy tego samego rdzenia bez -w-, więc nigdy nie miało 'wh' do stracenia — dołączyło do rodziny funkcjonalnie, nie fonetycznie."
+      },
+      {
+        "label": "which vs what — 'jakiego kształtu' kontra 'co w ogóle'",
+        "text": "'Which' pochodzi od staroangielskiego hwelc, złożenia hwā ('kto') + gelīc ('podobny, o takiej postaci' — ten sam rdzeń co w '-ly' i 'like'). Dosłowne znaczenie to więc 'jakiego rodzaju/postaci spośród znanych'. Stąd do dziś 'which' zakłada ograniczony, znany zbiór opcji ('Which coffee do you want — black or white?'), a 'what' pyta w pełni otwarcie, bez założenia o zbiorze ('What do you want?')."
+      }
     ],
     "usage": [
-      "What - co, jaki; Where - gdzie; When - kiedy; Why - dlaczego; Who - kto; How - jak",
-      "Pytania o podmiot zachowują szyk zdania twierdzącego",
-      "how + przymiotnik/przysłówek tworzy rozbudowane pytania szczegółowe",
-      "Which używamy, gdy wybór jest ograniczony do znanych opcji"
+      "what — co/jaki (otwarty zbiór), which — który (zbiór ograniczony/znany), who — kto, where — gdzie, when — kiedy, why — dlaczego, how — jak",
+      "how + przymiotnik/przysłówek: how much/many (ilość), how often (częstotliwość), how long (czas trwania), how far (odległość)",
+      "Po zfrontowanym słowie pytającym nadal działa mechanizm operatora z tematu Pytania ogólne — z jednym wyjątkiem, patrz temat: Pytania o podmiot",
+      "W nieformalnej mowie przyimek zostaje na końcu (Where are you from?), w rejestrze formalnym może wędrować razem z 'whom' (From whom did you hear this?) — patrz temat Przyimki w pytaniach"
     ],
-    "tags": ["What...?", "Where...?", "Who called?", "How often...?"],
+    "tags": ["wh-fronting", "what/which/who", "*kʷo-", "wine-whine merger"],
     "examples": [
-      { "en": "What time does the film start?", "pl": "O której zaczyna się film?" },
-      { "en": "Where do you live?", "pl": "Gdzie mieszkasz?" },
-      { "en": "Who broke the window?", "pl": "Kto rozbił okno?" },
-      { "en": "How often do you go to the gym?", "pl": "Jak często chodzisz na siłownię?" }
+      { "en": "Which of these two options actually solves the problem, not just hides it?", "pl": "Która z tych dwóch opcji faktycznie rozwiązuje problem, a nie tylko go maskuje?" },
+      { "en": "How long had the leak been going on before anyone noticed?", "pl": "Jak długo trwał ten wyciek, zanim ktoś to zauważył?" },
+      { "en": "Why on earth would she agree to that without reading it first?", "pl": "Dlaczego, u licha, zgodziłaby się na to bez wcześniejszego przeczytania?" },
+      { "en": "What exactly did the inspector say was wrong with the wiring?", "pl": "Co dokładnie powiedział inspektor, że jest nie tak z instalacją?" }
+    ]
+  },
+  {
+    "id": "subject_object_questions",
+    "order": 3,
+    "nameEn": "Asking about the subject vs. the object",
+    "namePl": "Pytanie o podmiot a pytanie o dopełnienie",
+    "rules": [
+      {
+        "label": "Zasada",
+        "text": "Gdy słowo pytające SAMO jest podmiotem zdania (pytamy 'kto to zrobił', a nie 'kogo/co'), nie pojawia się do/does/did, a szyk zostaje dokładnie taki jak w zdaniu twierdzącym: 'Someone called you' → 'WHO called you?' (nie: 'Who DID call you?'). Gdy pytamy o dopełnienie, mechanizm operatora działa normalnie: 'You called someone' → 'Who DID you call?'."
+      },
+      {
+        "label": "Dlaczego akurat tak — nie ma czego przestawiać",
+        "text": "Do-support istnieje po to, by dać operatorowi coś do przesunięcia na początek zdania. Ale gdy pytające 'who/what' JEST podmiotem, ono już z definicji stoi na samym początku — dokładnie tam, gdzie musiałby wylądować operator po inwersji. Nie ma więc żadnego ruchu do wykonania, a zatem nie ma powodu, by wprowadzać pusty 'do' — zdanie zostaje strukturalnie identyczne z twierdzeniem, tylko z 'who' zamiast osoby."
+      },
+      {
+        "label": "Geneza: zgubiony przypadek",
+        "text": "W staroangielskim rozróżnienie podmiot/dopełnienie było oznaczone końcówką: hwā (mianownik, 'kto' jako podmiot) kontra hwone/hwæm (biernik/celownik, 'kogo/komu' jako dopełnienie) — nie trzeba było zgadywać z szyku, mówiła o tym sama forma słowa, tak jak dziś w polskim 'kto' vs 'kogo'. Współczesny angielski stracił to rozróżnienie niemal całkowicie (zostało tylko 'who' dla obu ról), więc CAŁY ciężar odróżnienia 'kto zrobił' od 'komu zrobiono' spadł na samą składnię — na obecność albo brak do-support. To dokładnie ten sam mechanizm kompensacyjny, który wymusił sztywny szyk SVO w zdaniach oznajmujących."
+      },
+      {
+        "label": "'whom' — relikt, który powoli umiera",
+        "text": "Forma dopełnieniowa 'whom' (staroangielskie hwām) wciąż istnieje w rejestrze formalnym i pisanym ('Whom did you call?'), ale w mowie potocznej niemal wyginęła na rzecz uniwersalnego 'who'. Co ciekawe, bywa dziś nadużywana hiperpoprawnie — ludzie wstawiają 'whom' tam, gdzie gramatycznie powinno być 'who' (jako podmiot), sądząc, że brzmi to 'bardziej poprawnie/elegancko' — klasyczny przykład hiperkorekty społeczno-językowej, gdy świadomość zanikającej reguły prowadzi do jej błędnego nadstosowania."
+      }
+    ],
+    "usage": [
+      "Pytanie o podmiot: Who/What + czasownik (szyk zdania twierdzącego, BEZ do/does/did)",
+      "Pytanie o dopełnienie: Who/What + operator (do/does/did/be/have/modal) + podmiot + czasownik",
+      "Test praktyczny: jeśli po 'Who' od razu następuje czasownik odmieniony (called, broke, wants) — pytasz o podmiot; jeśli następuje podmiot (you, she, they) — pytasz o dopełnienie",
+      "Angielski, w odróżnieniu od polskiego czy rosyjskiego, dopuszcza w pytaniu tylko JEDNO zfrontowane słowo pytające naraz: 'Who gave what to whom?' — tylko 'who' wędruje na początek, 'what' i 'whom' zostają in situ (por. polskie 'Kto komu co dał?', gdzie mogą frontować wszystkie)"
+      ],
+    "tags": ["pytanie o podmiot", "who vs whom", "przypadek", "in situ"],
+    "examples": [
+      { "en": "Who actually left the door unlocked overnight?", "pl": "Kto właściwie zostawił drzwi otwarte na noc?" },
+      { "en": "Who did the committee end up choosing for the position?", "pl": "Kogo ostatecznie wybrała komisja na to stanowisko?" },
+      { "en": "What made her change her mind so suddenly?", "pl": "Co sprawiło, że tak nagle zmieniła zdanie?" },
+      { "en": "What did the article actually claim, beyond the headline?", "pl": "Co artykuł właściwie twierdził, poza samym nagłówkiem?" }
     ]
   },
   {
     "id": "question_tags",
-    "order": 3,
-    "nameEn": "Question tags",
-    "namePl": "Question tags (pytania rozłączne)",
+    "order": 4,
+    "nameEn": "Question tags: recycling the operator",
+    "namePl": "Question tags — powtórne wykorzystanie operatora",
     "rules": [
-      { "label": "Zasada przeciwieństwa", "text": "Twierdzenie → tag przeczący, przeczenie → tag twierdzący (You are tired, aren't you? / You aren't tired, are you?)" },
-      { "label": "Ten sam operator", "text": "Tag powtarza operator ze zdania głównego (be, have, modal) albo do/does/did, jeśli zdanie było w czasie prostym bez operatora" },
-      { "label": "Zaimek w tagu", "text": "Podmiot w tagu jest zawsze zaimkiem osobowym, zgodnym z podmiotem zdania głównego" }
+      {
+        "label": "Zasada przeciwieństwa",
+        "text": "Twierdzenie dostaje tag przeczący, przeczenie — tag twierdzący: 'You're tired, aren't you?' / 'You aren't tired, are you?'. Tag powtarza DOKŁADNIE ten sam operator, co zdanie główne (be, have-aux, modalny), a jeśli w zdaniu głównym nie było operatora — jak w zwykłym Present/Past Simple — tag pożycza do/does/did, tak samo jak w każdym innym pytaniu."
+      },
+      {
+        "label": "Dlaczego to nie jest 'prawdziwe' pytanie",
+        "text": "Tag pytający funkcjonalnie nie prosi o informację, tylko o POTWIERDZENIE czegoś, co mówiący już uważa za prawdziwe — to zminiaturyzowane, sprężone echo-pytanie doklejone na końcu, którego jedynym zadaniem jest zaproszenie rozmówcy do potakania. Intonacja decyduje o sile tego zaproszenia: opadająca intonacja na tagu ('..., isn't it↓') brzmi jak niemal pewne stwierdzenie szukające zwykłego 'mhm', a wznosząca ('..., isn't it↑') brzmi jak realna niepewność i prawdziwe pytanie."
+      },
+      {
+        "label": "Tag tej samej polaryzacji — zaskoczenie, nie potwierdzenie",
+        "text": "Rzadszy wzorzec: twierdzenie + tag TEŻ twierdzący ('So you're leaving, are you?') nie prosi o potwierdzenie znanego faktu, tylko wyraża zaskoczenie, ironię albo (czasem) niedowierzanie/oskarżenie — to pokazuje, że tag questions to nie mechaniczna formułka, tylko żywe narzędzie pragmatyczne, którego znaczenie zmienia się z kontekstem i intonacją, mimo identycznej struktury gramatycznej."
+      },
+      {
+        "label": "Dlaczego angielski to robi inaczej niż większość języków",
+        "text": "Francuski ma jeden niezmienny tag 'n'est-ce pas?', niemiecki 'nicht wahr?'/'oder?', polski 'prawda?'/'nie?' — stała formułka, niezależna od reszty zdania. Angielski, zamiast jednej gotowej frazy, za każdym razem od nowa BUDUJE tag z materiału samego zdania (operator + zaimek kopiujący podmiot) — to konsekwencja tego, że angielska gramatyka w ogóle jest 'operator-centryczna': operator niesie czas, przeczenie, inwersję I służy jako budulec do tagów, bo to on jest gramatycznym 'szkieletem' zdania."
+      }
     ],
     "usage": [
-      "Doprecyzowanie lub potwierdzenie informacji w rozmowie",
-      "I am → wyjątkowy tag: aren't I?",
-      "Zdania z Let's → tag: shall we?",
-      "Zdania rozkazujące → tag: will you? / won't you?"
+      "I am → nieregularny tag: aren't I? (nie: amn't I, choć ta forma historycznie istniała i przetrwała dialektalnie np. w Szkocji i Irlandii)",
+      "Let's... → tag: shall we?",
+      "Zdania rozkazujące → tag: will you?/won't you?/can't you? (uprzejmość zależna od wyboru)",
+      "Podmiot w tagu jest zawsze zaimkiem osobowym zgodnym z podmiotem zdania głównego, nawet gdy podmiot to cała fraza rzeczownikowa: 'Nobody called, did they?' (they jako liczba pojedyncza rodzajowo neutralna)",
+      "Opadająca intonacja = prośba o potwierdzenie (retoryczne); wznosząca = prawdziwa niepewność"
     ],
-    "tags": ["..., isn't it?", "..., don't you?", "..., aren't I?", "..., won't you?"],
+    "tags": ["tag question", "polarity", "intonacja", "operator"],
     "examples": [
-      { "en": "You like pizza, don't you?", "pl": "Lubisz pizzę, prawda?" },
-      { "en": "She isn't coming, is she?", "pl": "Ona nie przyjdzie, prawda?" },
-      { "en": "Let's go for a walk, shall we?", "pl": "Chodźmy na spacer, dobrze?" },
-      { "en": "Close the door, will you?", "pl": "Zamknij drzwi, dobrze?" }
+      { "en": "You've already sent the invoice, haven't you?", "pl": "Wysłałeś już fakturę, prawda?" },
+      { "en": "This won't take long, will it?", "pl": "To nie potrwa długo, prawda?" },
+      { "en": "So you knew about this the whole time, did you?", "pl": "Czyli wiedziałeś o tym przez cały ten czas, tak?" },
+      { "en": "Nobody actually checked the figures, did they?", "pl": "Nikt tak naprawdę nie sprawdził tych liczb, prawda?" }
     ]
   },
   {
     "id": "indirect_questions",
-    "order": 4,
-    "nameEn": "Indirect / embedded questions",
-    "namePl": "Pytania pośrednie",
+    "order": 5,
+    "nameEn": "Indirect and embedded questions",
+    "namePl": "Pytania pośrednie (zdania osadzone)",
     "rules": [
-      { "label": "Szyk zdania twierdzącego", "text": "Po wyrażeniu wprowadzającym (Could you tell me..., I wonder..., Do you know...) następuje szyk zdania oznajmującego, bez inwersji" },
-      { "label": "Brak do/does/did", "text": "W pytaniach pośrednich nie używamy operatora do/does/did dla czasów prostych — czasownik odmienia się normalnie po podmiocie" },
-      { "label": "if / whether", "text": "Pytania ogólne (tak/nie) w formie pośredniej wprowadzamy spójnikiem if lub whether" }
+      {
+        "label": "Zasada",
+        "text": "Po wyrażeniu wprowadzającym (Could you tell me..., I wonder..., Do you know...) pytanie 'chowa się' w środku zdania i wraca do zwykłego szyku oznajmującego — podmiot przed czasownikiem, bez inwersji, bez do/does/did: 'Where IS the station?' → 'Could you tell me where the station IS?'."
+      },
+      {
+        "label": "Dlaczego inwersja znika — pytanie 'osadzone' a pytanie 'aktu'",
+        "text": "Inwersja i do-support to sygnały ROOTOWE — znaczą 'to zdanie SAMO jest aktem zapytania'. Kiedy pytanie zostaje osadzone jako podrzędna część większego zdania ('I wonder [where he is]'), to nie ono wykonuje akt pytania — robi to całe zdanie nadrzędne (samo 'I wonder...' jest zwykłym twierdzeniem o stanie niewiedzy mówiącego, nie pytaniem). Skoro osadzona część nie 'pyta' sama z siebie, gramatycznie zachowuje się jak zwykłe zdanie rzeczownikowe (noun clause) — pełni funkcję dopełnienia czasownika 'wonder', dokładnie tak jak zwykłe zdanie oznajmujące pełniłoby funkcję dopełnienia w 'I know [that he is late]'."
+      },
+      {
+        "label": "if / whether — dawna forma 'który z dwóch'",
+        "text": "'Whether' pochodzi od staroangielskiego hwæðer, formy zawierającej ten sam przyrostek porównawczy *-ter, który widać w łacińskim uter ('który z dwóch') i greckim póteros — czyli etymologicznie 'które z dwóch [jest prawdą]?'. Stąd echo tego dualnego sensu wciąż słychać w 'whether or not' i w formalnym 'whether... or...'. 'If' w tej funkcji to młodsza, potoczniejsza alternatywa, ograniczona wyłącznie do pytań pośrednich (nigdy w znaczeniu 'czy' w warunkach — tam 'if' znaczy 'jeśli')."
+      },
+      {
+        "label": "Funkcja pragmatyczna: uprzejmość przez zagnieżdżenie",
+        "text": "'Could you tell me where the station is?' formalnie NIE pyta wprost o lokalizację dworca — pyta o ZDOLNOŚĆ/GOTOWOŚĆ rozmówcy do powiedzenia tego, a informacja o dworcu jest 'ukryta' jako dopełnienie tego pytania. To zagnieżdżenie stwarza dystans i pole do odmowy bez utraty twarzy przez żadną ze stron — klasyczny mechanizm grzeczności językowej (indirect speech act): im głębiej pytanie jest 'schowane', tym grzeczniej/formalniej brzmi."
+      }
     ],
     "usage": [
-      "Grzeczniejsza, bardziej formalna forma pytania",
-      "Wyrażenia wprowadzające: Could you tell me..., Do you know..., I wonder..., I'd like to know...",
-      "Bez znaku zapytania na końcu, jeśli całe zdanie jest twierdzeniem (I wonder where he is.)",
-      "if i whether zastępują do/does/did w pytaniach ogólnych"
+      "Wyrażenia wprowadzające: Could/Can you tell me..., Do you know..., I wonder..., I'd like to know..., I have no idea...",
+      "Znak zapytania zostaje TYLKO gdy całe zdanie samo jest pytaniem ('Do you know where he is?'); znika, gdy całe zdanie jest twierdzeniem ('I wonder where he is.')",
+      "Pytania ogólne (tak/nie) w formie pośredniej wprowadza if lub whether zamiast do/does/did",
+      "Whether (nie if) jest obowiązkowe bezpośrednio przed 'or not' oraz po przyimku: 'the question of whether...'"
     ],
-    "tags": ["Could you tell me...", "Do you know if...", "I wonder...", "I'd like to know..."],
+    "tags": ["osadzenie", "if/whether", "grzeczność", "noun clause"],
     "examples": [
-      { "en": "Could you tell me where the station is?", "pl": "Czy mógłby mi pan powiedzieć, gdzie jest dworzec?" },
-      { "en": "Do you know what time it is?", "pl": "Czy wiesz, która jest godzina?" },
-      { "en": "I wonder if she is coming.", "pl": "Zastanawiam się, czy ona przyjdzie." },
-      { "en": "I'd like to know why he left.", "pl": "Chciałbym wiedzieć, dlaczego wyszedł." }
+      { "en": "I have no idea whether the meeting was cancelled or just moved.", "pl": "Nie mam pojęcia, czy spotkanie zostało odwołane, czy tylko przeniesione." },
+      { "en": "Could you explain why the numbers don't match the report?", "pl": "Czy mógłbyś wyjaśnić, dlaczego te liczby nie zgadzają się z raportem?" },
+      { "en": "Nobody asked whether the tenants had been informed in advance.", "pl": "Nikt nie zapytał, czy lokatorzy zostali wcześniej poinformowani." },
+      { "en": "I wonder what possessed him to sign it without reading it.", "pl": "Zastanawiam się, co go opętało, że to podpisał bez czytania." }
     ]
   }
 ]
