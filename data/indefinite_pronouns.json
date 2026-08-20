@@ -1,98 +1,353 @@
 [
   {
-    "id": "some_compounds",
+    "id": "indefinite_compound_overview",
     "order": 1,
-    "nameEn": "Some- compounds (somebody, something, somewhere)",
-    "namePl": "Złożenia z some- (somebody, something, somewhere)",
+    "nameEn": "The system behind some-/any-/no-/every-: one root, four logical operators",
+    "namePl": "System some-/any-/no-/every-: jeden rdzeń, cztery operatory logiczne",
     "rules": [
-      { "label": "somebody / someone", "text": "Formy równoznaczne — 'ktoś'. Łączą się z czasownikiem w liczbie pojedynczej: Somebody is calling you." },
-      { "label": "something", "text": "'coś': There's something in the box." },
-      { "label": "somewhere", "text": "'gdzieś': I left my keys somewhere in the kitchen." },
-      { "label": "Odniesienie zwrotne", "text": "Po somebody/someone w dalszej części zdania często używa się 'they/their/them' (singular they): Somebody left their bag here." }
+      {
+        "label": "Budowa: determinator + rzeczownik-widmo",
+        "text": "Somebody, anything, nowhere, everyone — każde z tych słów to skamieniałe połączenie dwóch niegdyś osobnych wyrazów: determinatora (some/any/no/every), który ustala LOGIKĘ ilościową zdania, oraz ogólnego rzeczownika-widma (-body/-one/-thing/-where), który ustala tylko DZIEDZINĘ: osobę, rzecz albo miejsce. To nie są cztery przypadkowe listy słówek do wykucia, tylko jedna tabliczka mnożenia: 4 determinatory × 3 dziedziny (+ where) = cały system. Kto rozumie logikę czterech determinatorów, dostaje 15 słówek w cenie czterech."
+      },
+      {
+        "label": "Od wolnej frazy do jednego wyrazu",
+        "text": "W staroangielskim determinatory te (sum, ænig, nān, æghwelc) działały samodzielnie jako zaimki, bez żadnego 'body' czy 'thing' u boku — 'sum mann cwæð' znaczyło po prostu 'pewien człowiek/ktoś powiedział', ale samo 'sum' też mogło stać osobno w znaczeniu 'ktoś'. Dopiero w średniowiecznej i wczesnonowożytnej angielszczyźnie (XIV–XVII w.), gdy zanikały końcówki rodzaju i przypadka, które kiedyś jednoznacznie pokazywały, czy 'sum' odnosi się do osoby czy rzeczy, język zaczął doklejać rzeczownik-podpórkę: 'some body' (dosłownie 'jakieś ciało/osoba'), 'any thing', 'no thing'. Z czasem te swobodne frazy dwuwyrazowe stopiły się ortograficznie w jeden wyraz — proces, który u Chaucera i Szekspira widać jeszcze w toku (zapisy 'every body' jako dwa słowa są normą do XVIII w.)."
+      },
+      {
+        "label": "Trzy z czterech determinatorów kryją w sobie liczbę 'jeden'",
+        "text": "To nie przypadek, że te słowa tak łatwo się ze sobą mylą — mają wspólny rdzeń pojęciowy. 'Any' pochodzi ze staroangielskiego 'ænig' = 'ān' (jeden) + przyrostek '-ig' ('mający cechę czegoś'), więc dosłownie znaczy 'jedynkowaty', 'choćby jeden'. 'No' pochodzi z 'nān' = 'ne' (przeczenie, ten sam rdzeń co polskie 'nie') + 'ān' (jeden), czyli dosłownie 'ani jeden'. Nawet 'some' sięga praindoeuropejskiego rdzenia *sem- 'jeden, razem' (ten sam rdzeń co 'same' i greckie 'homos'). Innymi słowy: cały system zaimków nieokreślonych to różne sposoby mówienia o pojedynczej, niewyspecyfikowanej jednostce — raz jako 'taka jedna istnieje' (some), raz jako 'choćby jedna, obojętnie która' (any), raz jako 'ani jednej' (no). 'Every' jest tu wyjątkiem: nie neguje ani nie zakłada jedynki, tylko każe przejść PO KOLEI przez każdą jednostkę zbioru — stąd jego zupełnie inna logika (patrz niżej)."
+      },
+      {
+        "label": "Model myślowy: kwadrat logiczny zaimków nieokreślonych",
+        "text": "Najprościej wyobrazić sobie te cztery determinatory jak klasyczny arystotelesowski kwadrat logiczny przełożony na żywy język: some = 'istnieje (przynajmniej jedno)', no = 'nie istnieje ani jedno' (zaprzeczenie 'some'), every = 'każde bez wyjątku', a 'not every' = 'nie każde' (zaprzeczenie 'every', czyli 'przynajmniej jedno jest wyjątkiem', a nie to samo co 'żadne'). 'Any' stoi w tym kwadracie na uboczu: to zmienna, która przyjmuje sens 'choćby jedno' wewnątrz pytań, przeczeń i warunków, ale w zdaniach twierdzących zamienia się w zupełnie inny operator — 'każde, obojętnie które' (tzw. free choice any, patrz temat any-). Ta dwoistość 'any' tłumaczy więcej nieporozumień uczniów niż jakakolwiek inna pojedyncza reguła gramatyczna angielskiego."
+      },
+      {
+        "label": "Dlaczego zawsze liczba pojedyncza czasownika",
+        "text": "Everybody knows, somebody is calling, nobody agrees — nigdy 'know', 'are calling', 'agree'. Rzeczownik-widmo w tych złożeniach (body/one/thing) jest gramatycznie liczbą pojedynczą i to on decyduje o formie czasownika, niezależnie od tego, że sens bywa zbiorowy (everybody = wszyscy ludzie). To ten sam mechanizm, który każe mówić 'the committee has decided' — angielska zgoda podmiotu z orzeczeniem częściej patrzy na gramatyczną formę słowa niż na realną liczebność desygnatu. Z tego samego powodu odnosząc się do takiego podmiotu zaimkiem w dalszej części zdania, standardowa współczesna angielszczyzna sięga po 'they/their/them' (singular they) — nie dlatego, że to nowa moda, lecz dlatego, że taki zaimek musi być neutralny co do płci, skoro 'everybody' nie precyzuje, o kim mowa. Co ciekawe, taki 'singular they' po zaimkach nieokreślonych notowany jest już u Chaucera i Szekspira ('every one to rest themselves betake') — gramatycy z XVIII wieku próbowali go wyprzeć sztucznie narzuconym 'he' jako uniwersalnym zaimkiem, a współczesna angielszczyzna po prostu wróciła do znacznie starszego, naturalnego rozwiązania."
+      }
     ],
     "usage": [
-      "Używane w zdaniach twierdzących, tak jak some (I saw somebody at the door.)",
-      "W pytaniach będących propozycją lub prośbą (Would you like something to drink? Could I sit somewhere quiet?)",
-      "someone brzmi nieco bardziej formalnie niż somebody, ale w praktyce są wymienne"
+      "Cztery rodziny (some-/any-/no-/every-) różnią się WYŁĄCZNIE logiką determinatora — sufiks (-body/-one/-thing/-where) w każdej rodzinie działa identycznie, więc naukę można zorganizować wertykalnie (per determinator), a nie zapamiętywać 16 osobnych słówek.",
+      "-body i -one są w praktyce wymienne znaczeniowo (somebody = someone), ale -one bywa odrobinę bardziej neutralne/pisemne, a -body odrobinę bardziej potoczne/mówione — to relikt tego, że 'body' pierwotnie oznaczało fizyczny 'tułów', a 'one' to zgramatykalizowany liczebnik.",
+      "'No one' zapisuje się jako dwa słowa (czasem z łącznikiem 'no-one' w brytyjskim), nigdy jako 'noone' — taka pisownia wizualnie kolidowałaby z 'noon' (południe).",
+      "Formy z '-where' nie mają rejestrowego rozróżnienia jak -body/-one — jest tylko jedna forma na rodzinę (somewhere, anywhere, nowhere, everywhere)."
     ],
-    "tags": ["somebody", "someone", "something", "somewhere"],
+    "tags": [
+      "some",
+      "any",
+      "no",
+      "every",
+      "kwadrat logiczny",
+      "singular they",
+      "etymologia"
+    ],
     "examples": [
-      { "en": "Somebody left the door open.", "pl": "Ktoś zostawił otwarte drzwi." },
-      { "en": "I need something to write with.", "pl": "Potrzebuję czymś napisać." },
-      { "en": "Let's go somewhere warm this winter.", "pl": "Pojedźmy gdzieś, gdzie jest ciepło, tej zimy." },
-      { "en": "Someone is knocking at the door.", "pl": "Ktoś puka do drzwi." }
+      {
+        "en": "Somebody called while you were out.",
+        "pl": "Ktoś dzwonił, kiedy cię nie było."
+      },
+      {
+        "en": "Did anybody call while I was out?",
+        "pl": "Czy ktoś dzwonił, kiedy mnie nie było?"
+      },
+      {
+        "en": "Nobody called — the phone was silent all day.",
+        "pl": "Nikt nie dzwonił — telefon milczał cały dzień."
+      },
+      {
+        "en": "Everybody called at some point today, it seems.",
+        "pl": "Wygląda na to, że dziś w pewnym momencie zadzwonił każdy."
+      },
+      {
+        "en": "Not everybody called — Marek's still waiting to hear back.",
+        "pl": "Nie każdy zadzwonił — Marek wciąż czeka na odpowiedź."
+      }
+    ]
+  },
+  {
+    "id": "some_compounds",
+    "order": 2,
+    "nameEn": "Some- compounds: presupposing that a real referent exists",
+    "namePl": "Złożenia z some-: zakładanie, że desygnat naprawdę istnieje",
+    "rules": [
+      {
+        "label": "Rodowód: 'sum' — ten sam rdzeń co 'same'",
+        "text": "'Some' wywodzi się ze staroangielskiego 'sum', a to z prageramańskiego *sumaz i praindoeuropejskiego rdzenia *sem- 'jeden, razem, ten sam' — tego samego, z którego wzięło się angielskie 'same' i greckie 'homos' (stąd np. 'homogeniczny'). W staroangielskim 'sum' jako samodzielny zaimek znaczyło 'pewien, jakiś konkretny' — 'sum mann' to 'pewien człowiek', czyli ktoś, kto naprawdę istnieje, tylko mówiący nie precyzuje, kto to. Ten sens PRZETRWAŁ do dziś: 'some-' nigdy nie neguje istnienia ani nie zostawia go otwartym pytaniem — zakłada je z góry."
+      },
+      {
+        "label": "Presupozycja istnienia, nie tylko 'twierdzenie'",
+        "text": "Podręczniki uczą, że 'some- jest w zdaniach twierdzących', ale to skutek, nie przyczyna. Prawdziwa reguła: some- pojawia się tam, gdzie mówiący ZAKŁADA, że odpowiedni desygnat istnieje, niezależnie od formy gramatycznej zdania. Dlatego działa też w pytaniach będących w istocie propozycją albo prośbą, a nie prawdziwym pytaniem o istnienie: 'Could I ask you something?' nie pyta, czy w ogóle istnieje jakieś pytanie — mówiący doskonale wie, że istnieje, tylko grzecznie prosi o pozwolenie je zadać."
+      },
+      {
+        "label": "somebody / someone",
+        "text": "'Ktoś' — łączy się z czasownikiem w liczbie pojedynczej: Somebody is calling you. 'Someone' bywa nieco bardziej formalne/pisemne niż 'somebody', które ma lekko potoczny, mówiony odcień odziedziczony po dosłownym znaczeniu 'jakieś ciało'."
+      },
+      {
+        "label": "something",
+        "text": "'Coś' — There's something in the box. W idiomach 'something' przesuwa się w stronę przysłówka stopnia: 'something of a celebrity' to 'coś na kształt/poniekąd celebryta', a 'quite something' to potoczne wzmocnienie ('to było naprawdę coś')."
+      },
+      {
+        "label": "somewhere",
+        "text": "'Gdzieś' — I left my keys somewhere in the kitchen. Podobnie jak inne formy z some-, zakłada, że takie miejsce istnieje, tylko mówiący go nie precyzuje."
+      },
+      {
+        "label": "Dopełniacz na złożeniu",
+        "text": "Somebody's / someone's — w przeciwieństwie do zwykłych zaimków osobowych (które nie mają końcówki dzierżawczej -'s, tylko osobne formy: my, his), zaimki nieokreślone zachowują się jak pełne rzeczowniki i biorą regularny dopełniacz saksoński: 'Somebody's coat is still here' — kolejny ślad tego, że historycznie 'somebody' było luźną frazą rzeczownikową (some + body), a nie prawdziwym zaimkiem."
+      },
+      {
+        "label": "Odniesienie zwrotne: singular they",
+        "text": "Po somebody/someone w dalszej części zdania standardowa współczesna angielszczyzna używa 'they/their/them': Somebody left their bag here. To nie unik gramatyczny, tylko powrót do znacznie starszego wzorca (patrz przegląd rodziny)."
+      }
+    ],
+    "usage": [
+      "W zdaniach twierdzących, tak jak 'some' (I saw somebody at the door.)",
+      "W pytaniach będących ofertą lub prośbą, gdzie mówiący z góry zakłada twierdzącą odpowiedź (Would you like something to drink? Could I sit somewhere quiet?) — 'any-' w tym samym miejscu brzmiałoby jak prawdziwe, neutralne pytanie o istnienie, a nie uprzejma propozycja.",
+      "Hedging / zmiękczanie wypowiedzi w mowie potocznej: 'He's a lawyer or something' — 'or something/or someone' dodane na końcu sygnalizuje niepewność mówiącego co do szczegółu, nie co do samego faktu istnienia.",
+      "someone brzmi nieco bardziej formalnie/pisemnie niż somebody; w praktyce mówionej są wymienne."
+    ],
+    "tags": [
+      "somebody",
+      "someone",
+      "something",
+      "somewhere",
+      "presupozycja",
+      "hedging"
+    ],
+    "examples": [
+      {
+        "en": "Somebody left the door wide open again.",
+        "pl": "Ktoś znowu zostawił drzwi szeroko otwarte."
+      },
+      {
+        "en": "I need something to write with — do you have a pen?",
+        "pl": "Potrzebuję czymś napisać — masz może długopis?"
+      },
+      {
+        "en": "Let's go somewhere warm this winter; I'm tired of the cold.",
+        "pl": "Pojedźmy gdzieś, gdzie jest ciepło, tej zimy; mam dość zimna."
+      },
+      {
+        "en": "Could I ask you something before you go?",
+        "pl": "Czy mogę cię o coś zapytać, zanim wyjdziesz?"
+      },
+      {
+        "en": "He's something of a legend around here, apparently.",
+        "pl": "Podobno jest tu poniekąd legendą."
+      },
+      {
+        "en": "Somebody's umbrella is still hanging by the door.",
+        "pl": "Czyjś parasol wciąż wisi przy drzwiach."
+      }
     ]
   },
   {
     "id": "any_compounds",
-    "order": 2,
-    "nameEn": "Any- compounds (anybody, anything, anywhere)",
-    "namePl": "Złożenia z any- (anybody, anything, anywhere)",
+    "order": 3,
+    "nameEn": "Any- compounds: the minimal-unit word and its two faces",
+    "namePl": "Złożenia z any-: słowo o minimalnej jednostce i jego dwie twarze",
     "rules": [
-      { "label": "anybody / anyone", "text": "W pytaniach i przeczeniach — 'ktokolwiek / nikt': Is anybody home? I didn't see anybody." },
-      { "label": "anything", "text": "W pytaniach i przeczeniach — 'cokolwiek / nic': Did you buy anything? I don't want anything." },
-      { "label": "anywhere", "text": "W pytaniach i przeczeniach — 'gdziekolwiek / nigdzie': Have you been anywhere nice? I can't find it anywhere." },
-      { "label": "Znaczenie 'obojętnie kto/co'", "text": "W zdaniach twierdzących any- oznacza dowolność wyboru: Anybody can learn a language. (dowolna osoba, nieważne kto)" }
+      {
+        "label": "Rodowód: 'jedynkowaty'",
+        "text": "'Any' pochodzi ze staroangielskiego 'ænig' = 'ān' (jeden — ten sam rdzeń co dzisiejsze 'one' i przedimek 'an') + przyrostek przymiotnikowy '-ig' ('mający cechę, obdarzony czymś'). Dosłowne znaczenie to więc coś w rodzaju 'jedynkowaty', 'choćby jeden'. Ta etymologia to klucz do całej gramatyki 'any': słowo od zawsze mówiło o NAJMNIEJSZEJ MOŻLIWEJ ILOŚCI — jednej jednostce — a nie o istnieniu w ogóle (to rola 'some') ani o jego braku (to rola 'no')."
+      },
+      {
+        "label": "Model myślowy: czuły detektor minimalnej ilości",
+        "text": "Wyobraź sobie 'any' jako bardzo czuły wykrywacz metalu, który 'włącza się' (czyli brzmi naturalnie gramatycznie) tylko w otoczeniach, gdzie ktoś SPRAWDZA obecność choćby jednej jednostki: w pytaniach (czy istnieje choć jedna?), w przeczeniach (nie ma nawet jednej), w zdaniach warunkowych (gdyby istniała choć jedna...), w porównaniach (więcej niż choćby jedna inna) oraz po słowach o znaczeniu 'ledwie/prawie wcale' (hardly, barely, without). Poza tymi kontekstami — w zwykłym zdaniu twierdzącym — detektor 'any' nie ma czego szukać w sensie ilościowym i przełącza się w zupełnie inny tryb (patrz niżej: free choice)."
+      },
+      {
+        "label": "anybody / anyone, anything, anywhere — użycie 'czułego detektora'",
+        "text": "W pytaniach i przeczeniach: 'ktokolwiek/nikt', 'cokolwiek/nic', 'gdziekolwiek/nigdzie'. Is anybody home? I didn't see anybody. Did you buy anything? I don't want anything. Have you been anywhere nice? I can't find it anywhere. We're barely making any progress. If anyone asks, tell them I left early."
+      },
+      {
+        "label": "Free choice any: druga twarz w zdaniach twierdzących",
+        "text": "W zdaniu twierdzącym 'any-' nie mówi już o minimalnej ilości, tylko o UNIWERSALNEJ dowolności wyboru: 'obojętnie który, wszystkie się kwalifikują'. 'Anybody can learn a language' nie znaczy 'choćby jedna osoba potrafi' — znaczy 'każda dowolnie wybrana osoba potrafi, nieważne która'. Ten sens (tzw. free choice any) pojawia się typowo z czasownikiem modalnym 'can', w trybie rozkazującym i w stwierdzeniach ogólnych, często z akcentem intonacyjnym na 'any': 'Any fool can see that.' To formalnie zupełnie inny mechanizm niż 'any' z pytań/przeczeń (tzw. polarity any), choć wygląda identycznie — dlatego warto świadomie rozróżniać kontekst, a nie tylko wyuczoną 'listę reguł'."
+      },
+      {
+        "label": "some- czy any- w ofercie?",
+        "text": "'Can I get you something?' brzmi ciepło i zakłada odpowiedź twierdzącą — to propozycja. 'Is there anything I can get you?' brzmi bardziej neutralnie, czasem wręcz jak prawdziwe, otwarte pytanie o potrzebę (a nie gotowa oferta) — bo 'any' sprawdza, czy w ogóle istnieje choćby jedna potrzeba, zamiast z góry ją zakładać."
+      },
+      {
+        "label": "Wzmocnienia i bliskie przeczenia",
+        "text": "'At all' wzmacnia 'any-' w przeczeniu: 'I don't have anything at all.' Słowa o znaczeniu bliskim przeczeniu (hardly, barely, scarcely, seldom) też 'włączają' any-, bo z semantycznego punktu widzenia niemal negują istnienie: 'Hardly anybody showed up.'"
+      }
     ],
     "usage": [
-      "Standardowo pojawiają się w pytaniach i przeczeniach, analogicznie do any (some_any_no)",
-      "W zdaniu twierdzącym any- podkreśla, że wybór jest dowolny, a nie że czegoś nie ma",
-      "anyone i anybody są wymienne; anyone bywa nieco bardziej formalne"
+      "Standardowo w pytaniach i przeczeniach — sprawdzanie/negowanie choćby jednej jednostki (polarity any).",
+      "W zdaniach warunkowych i po porównaniach — 'if anyone calls...', 'better than anyone I know'.",
+      "W zdaniach twierdzących z czasownikiem 'can', w trybie rozkazującym i w uogólnieniach — dowolność wyboru, nie ilość (free choice any): 'Take any seat you like.'",
+      "anyone i anybody są wymienne; anyone bywa nieco bardziej formalne/pisemne, podobnie jak przy some-."
     ],
-    "tags": ["anybody", "anyone", "anything", "anywhere"],
+    "tags": [
+      "anybody",
+      "anyone",
+      "anything",
+      "anywhere",
+      "negative polarity item",
+      "free choice any"
+    ],
     "examples": [
-      { "en": "Is anybody there?", "pl": "Czy jest tam ktoś?" },
-      { "en": "I haven't eaten anything today.", "pl": "Nic dzisiaj nie jadłem." },
-      { "en": "You can sit anywhere you like.", "pl": "Możesz usiąść gdziekolwiek chcesz." },
-      { "en": "Did anyone call while I was out?", "pl": "Czy ktoś dzwonił, gdy mnie nie było?" }
+      {
+        "en": "Is anybody there? I thought I heard footsteps.",
+        "pl": "Czy jest tam ktoś? Wydawało mi się, że słyszę kroki."
+      },
+      {
+        "en": "I haven't eaten anything since breakfast.",
+        "pl": "Nic nie jadłem od śniadania."
+      },
+      {
+        "en": "You can sit anywhere you like — we're not fussy about seating.",
+        "pl": "Możesz usiąść gdziekolwiek chcesz — nie przywiązujemy wagi do miejsc."
+      },
+      {
+        "en": "Any child could tell you that's a bad idea.",
+        "pl": "Każde dziecko powiedziałoby ci, że to zły pomysł."
+      },
+      {
+        "en": "If anyone objects, now's the time to say so.",
+        "pl": "Jeśli ktokolwiek się sprzeciwia, teraz jest na to czas."
+      },
+      {
+        "en": "She speaks more languages than anyone else on the team.",
+        "pl": "Mówi w większej liczbie języków niż ktokolwiek inny w zespole."
+      }
     ]
   },
   {
     "id": "no_compounds",
-    "order": 3,
-    "nameEn": "No- compounds (nobody, nothing, nowhere)",
-    "namePl": "Złożenia z no- (nobody, nothing, nowhere)",
+    "order": 4,
+    "nameEn": "No- compounds: negation fossilized inside a single word",
+    "namePl": "Złożenia z no-: przeczenie skamieniałe wewnątrz jednego słowa",
     "rules": [
-      { "label": "nobody / no one", "text": "'nikt': Nobody knows the answer." },
-      { "label": "nothing", "text": "'nic': There's nothing in the fridge." },
-      { "label": "nowhere", "text": "'nigdzie': We have nowhere to go." },
-      { "label": "Zakaz podwójnego przeczenia", "text": "Zdanie z nobody/nothing/nowhere jest już przeczeniem — nie dodajemy don't/isn't itd.: I know nobody here. (NIE: I don't know nobody)" }
+      {
+        "label": "Rodowód: 'ani jeden'",
+        "text": "'No' pochodzi ze staroangielskiego 'nān' = 'ne' (partykuła przecząca, ten sam prastary rdzeń co polskie 'nie' i łacińskie 'ne-') + 'ān' (jeden). Dosłownie: 'ani jeden'. To fundamentalnie różni 'no-' od 'any-' w przeczeniu: 'not any' to dwa osobne słowa (przeczenie + minimalna jednostka), a 'no' to JEDNO słowo, w którym przeczenie jest już wtopione na stałe. Stąd 'nobody', 'nothing', 'nowhere' są kompletnymi, samodzielnymi negatorami — nie potrzebują żadnego dodatkowego 'not' w zdaniu, bo już je zawierają."
+      },
+      {
+        "label": "Paralela z a / an",
+        "text": "Warto skojarzyć 'no' z mechanizmem znanym już z przedimków: forma 'nān' rozbiła się historycznie na wariant redukowany 'no' (używany przed rzeczownikiem, jak determinator: no books, no idea) oraz wariant pełny 'none' (używany samodzielnie, bez rzeczownika po sobie: I have none) — to dokładnie ten sam wzorzec dystrybucyjny co 'a' (przed spółgłoską) i 'an' (przed samogłoską, forma pełniejsza historycznie). Ucząc się 'no/none', warto więc oprzeć się na intuicji już wyrobionej przy przedimkach, zamiast traktować to jako osobną, niepowiązaną regułę."
+      },
+      {
+        "label": "nobody / no one, nothing, nowhere",
+        "text": "'Nobody' i 'no one' są równoznaczne ('nikt'); zapis 'no one' to zawsze dwa słowa (czasem z łącznikiem w brytyjskim 'no-one'), nigdy 'noone' — taki zapis kolidowałby wizualnie z 'noon' (południe). 'Nothing' — 'nic'. 'Nowhere' — 'nigdzie', z idiomami: 'nowhere near' (daleko nie, w ogóle nie: We're nowhere near finished), 'out of nowhere' (znienacka, jak spod ziemi), 'get nowhere' (nie robić żadnych postępów: We're getting nowhere with this negotiation)."
+      },
+      {
+        "label": "Reguła jednego negatora — i dlaczego dziś obowiązuje",
+        "text": "Ponieważ 'no-' już samo w sobie jest kompletnym przeczeniem, standardowa współczesna angielszczyzna zabrania dodawania drugiego negatora w tym samym zdaniu (*I don't have nothing). To nie jest prawo natury języka — to skutek świadomej, XVIII-wiecznej interwencji gramatyków normatywnych (najsłynniej Roberta Lowtha, 1762), którzy przenieśli na angielski logikę matematyczną/łacińską 'dwa przeczenia dają twierdzenie'. W staroangielskim i średnioangielskim wielokrotne przeczenie było czymś zupełnie innym: WZMACNIAŁO negację, zamiast ją znosić (tzw. negative concord) — u Chaucera można przeczytać zdania w rodzaju 'he nevere yet no vileynye ne sayde' z potrójnym przeczeniem, gramatycznie poprawnym jak najbardziej. Ten sam mechanizm wzmacniającej wielokrotnej negacji jest dziś standardem m.in. w języku polskim ('nikt nic nie widział' — trzy przeczenia, jedna negacja logiczna) i żyje nadal w wielu dialektach angielskiego (np. AAVE, niektóre dialekty brytyjskie) — to nie 'zła gramatyka', tylko odmienny, systematyczny wariant, wyparty z odmiany standardowej decyzją, nie ewolucją naturalną."
+      },
+      {
+        "label": "no- kontra not any- w praktyce",
+        "text": "'I saw nobody' i 'I didn't see anybody' znaczą to samo, ale różnią się rejestrem i pozycją składniową. 'No-' brzmi bardziej zwarcie, formalnie/pisemnie i — kluczowe — jako jedyne z tej pary może stanąć na początku zdania w pozycji podmiotu dla efektu retorycznego: 'Nothing could stop her' brzmi naturalnie i literacko, podczas gdy *'Not anything could stop her' jest rażąco nienaturalne. 'Not any-' jest z kolei typowe dla swobodnej mowy potocznej."
+      }
     ],
     "usage": [
-      "Czasownik po nobody/no one/nothing występuje w liczbie pojedynczej, mimo ogólnego znaczenia",
-      "nobody i no one są wymienne; no one zawsze piszemy dwoma słowami",
-      "Aby powiedzieć to samo w formie z any-, trzeba dodać not: Nobody called. = Not anybody called."
+      "no- jako samodzielny, kompletny negator zdania — nie łączyć z drugim 'not' w tym samym zdaniu.",
+      "no / none jak a / an: 'no' + rzeczownik (no money), 'none' samodzielnie, bez rzeczownika po sobie (I have none left).",
+      "'no-' na początku zdania (pozycja podmiotu) daje efekt formalny/retoryczny, niedostępny dla 'not any-'.",
+      "idiomy z nowhere: nowhere near, out of nowhere, get nowhere — warte zapamiętania jako całe frazy, nie dosłownie."
     ],
-    "tags": ["nobody", "no one", "nothing", "nowhere"],
+    "tags": [
+      "nobody",
+      "no one",
+      "nothing",
+      "nowhere",
+      "negative concord",
+      "double negative",
+      "Robert Lowth"
+    ],
     "examples": [
-      { "en": "Nobody answered the phone.", "pl": "Nikt nie odebrał telefonu." },
-      { "en": "There's nothing we can do about it.", "pl": "Nic nie możemy na to poradzić." },
-      { "en": "I have nowhere else to turn.", "pl": "Nie mam się już do kogo/gdzie zwrócić." },
-      { "en": "No one believed his story.", "pl": "Nikt nie uwierzył w jego historię." }
+      {
+        "en": "Nobody warned us the road would be closed.",
+        "pl": "Nikt nas nie uprzedził, że droga będzie zamknięta."
+      },
+      {
+        "en": "There's nothing left in the fridge except pickles.",
+        "pl": "W lodówce nie zostało nic oprócz ogórków."
+      },
+      {
+        "en": "I've looked everywhere and I can't find my glasses anywhere — sorry, nowhere.",
+        "pl": "Szukałem wszędzie i nigdzie nie mogę znaleźć okularów."
+      },
+      {
+        "en": "We're nowhere near ready for the audit.",
+        "pl": "Jesteśmy daleko od gotowości do audytu."
+      },
+      {
+        "en": "The offer came out of nowhere — nobody expected it.",
+        "pl": "Oferta pojawiła się znienacka — nikt się jej nie spodziewał."
+      },
+      {
+        "en": "Nothing you say now is going to change my mind.",
+        "pl": "Nic, co teraz powiesz, nie zmieni mojego zdania."
+      }
     ]
   },
   {
     "id": "every_compounds",
-    "order": 4,
-    "nameEn": "Every- compounds (everybody, everything, everywhere)",
-    "namePl": "Złożenia z every- (everybody, everything, everywhere)",
+    "order": 5,
+    "nameEn": "Every- compounds: distributive scanning, one item at a time",
+    "namePl": "Złożenia z every-: dystrybutywne skanowanie, jednostka po jednostce",
     "rules": [
-      { "label": "everybody / everyone", "text": "'każdy / wszyscy' + czasownik w liczbie pojedynczej: Everybody knows that." },
-      { "label": "everything", "text": "'wszystko': Everything is ready for the party." },
-      { "label": "everywhere", "text": "'wszędzie': I looked everywhere for my glasses." },
-      { "label": "Odniesienie zwrotne", "text": "Podobnie jak przy somebody, w dalszej części zdania używa się 'they/their' (singular they): Everyone should bring their own lunch." }
+      {
+        "label": "Rodowód: 'zawsze każdy z osobna', podwójne wzmocnienie",
+        "text": "'Every' wywodzi się ze średnioangielskiego 'everich', a to ze staroangielskiego 'æfre ælc' — dosłownie 'ever' (zawsze, zawsze-obecny; ten sam pradawny rdzeń, który dał też 'age' i archaiczne 'aye' w znaczeniu 'zawsze/tak') plus 'ælc' (każdy, dosłownie 'a' [zawsze/wciąż] + 'gelīc' [podobny] — czyli 'wciąż taki sam', 'każdy po kolei taki sam'). 'Every' to więc historycznie PODWÓJNE wzmocnienie tej samej idei dystrybutywności — 'zawsze' plus 'każdy' zlepione w jedno słowo dla dodatkowego nacisku na WYCZERPUJĄCOŚĆ: żadnego wyjątku, żadnej pominiętej jednostki."
+      },
+      {
+        "label": "Model myślowy: skaner kontra worek",
+        "text": "Wyobraź sobie różnicę między 'every/each' a 'all' jak między skanerem czytającym kod kreskowy jednego produktu na raz a workiem, do którego wrzucono cały towar naraz i waży się go łącznie. 'Every'/'each' każe umysłowi przejść PO KOLEI przez poszczególne elementy zbioru, sprawdzając każdy z osobna ('Everybody knows' = przeszedłem myślą przez każdą osobę i każda potwierdza). 'All' traktuje zbiór jako jedną, niepodzielną masę ('All people know' = grupa jako całość). To dlatego 'every-' zawsze rządzi czasownikiem w liczbie pojedynczej: w każdej chwili tego skanowania mówimy formalnie o JEDNEJ jednostce na raz, mimo że semantycznie mowa o wielu."
+      },
+      {
+        "label": "everybody / everyone, everything, everywhere",
+        "text": "'Everybody'/'everyone' — 'każdy, wszyscy' (z czasownikiem w l. poj.): Everybody knows that. 'Everything' — 'wszystko'. 'Everywhere' — 'wszędzie'. Podobnie jak w pozostałych rodzinach, -one bywa nieco bardziej formalne/pisemne niż -body."
+      },
+      {
+        "label": "'Not every' to nie to samo, co 'no'",
+        "text": "Zaprzeczenie 'every' nie działa tak jak zaprzeczenie 'some' czy 'any' — bo 'every' samo w sobie nie jest determinatorem przeczącym. 'Not everybody agreed' znaczy 'część się zgodziła, część nie' (częściowe zaprzeczenie uniwersalności — logicznie: 'istnieje przynajmniej jeden wyjątek'), zupełnie inaczej niż 'Nobody agreed' (całkowite zaprzeczenie — 'nikt, ani jeden'). To klasyczna dwuznaczność zakresu przeczenia ('nie wszyscy' vs 'wszyscy nie') i typowa pułapka na poziomie C1/C2: mylenie 'not every' z 'no' odwraca sens zdania o 180 stopni."
+      },
+      {
+        "label": "Kolokacje i pułapka fałszywego przyjaciela: 'every other'",
+        "text": "'Every single one' wzmacnia wyczerpującość ('dosłownie każdy, bez wyjątku'). 'Everyone else' — 'wszyscy pozostali'. Uwaga na 'every other', który dla polskiego ucha brzmi jak 'każdy inny', a w rzeczywistości znaczy 'co drugi' (naprzemiennie): 'every other day' to 'co drugi dzień', nie 'każdy inny dzień' — klasyczny fałszywy przyjaciel składniowy, wart zapamiętania jako gotowa fraza, a nie tłumaczenia słowo w słowo."
+      }
     ],
     "usage": [
-      "Mimo znaczenia zbiorowego ('wszyscy'), czasownik zawsze w liczbie pojedynczej",
-      "everybody i everyone są wymienne stylistycznie",
-      "everything/everywhere odnoszą się odpowiednio do rzeczy i miejsc, nie do osób"
+      "every- zawsze z czasownikiem w liczbie pojedynczej, mimo znaczenia zbiorowego (semantyka mnoga, forma pojedyncza).",
+      "'not every-' = częściowe zaprzeczenie ('nie wszyscy/nie wszystko'), nie mylić z 'no-' = całkowite zaprzeczenie ('nikt/nic').",
+      "'every other + rzeczownik' = naprzemienność ('co drugi'), nie dosłowne 'każdy inny'.",
+      "-one bywa nieco bardziej formalne/pisemne niż -body, tak jak w pozostałych rodzinach złożeń."
     ],
-    "tags": ["everybody", "everyone", "everything", "everywhere"],
+    "tags": [
+      "everybody",
+      "everyone",
+      "everything",
+      "everywhere",
+      "distributive",
+      "every other",
+      "not every vs no"
+    ],
     "examples": [
-      { "en": "Everybody enjoyed the concert.", "pl": "Wszystkim podobał się koncert." },
-      { "en": "Everything went according to plan.", "pl": "Wszystko poszło zgodnie z planem." },
-      { "en": "We looked everywhere but couldn't find it.", "pl": "Szukaliśmy wszędzie, ale nie mogliśmy tego znaleźć." },
-      { "en": "Everyone needs their own login.", "pl": "Każdy potrzebuje własnego loginu." }
+      {
+        "en": "Everybody knows the deadline was moved up.",
+        "pl": "Każdy wie, że termin został przesunięty na wcześniej."
+      },
+      {
+        "en": "Not everybody agreed with the new schedule.",
+        "pl": "Nie każdy zgodził się na nowy harmonogram."
+      },
+      {
+        "en": "I've checked everywhere in the house and it's simply not here.",
+        "pl": "Sprawdziłem wszędzie w domu i tego po prostu tu nie ma."
+      },
+      {
+        "en": "She calls her mother every other day, without fail.",
+        "pl": "Dzwoni do mamy co drugi dzień, bez wyjątku."
+      },
+      {
+        "en": "Everything about the plan changed overnight.",
+        "pl": "Wszystko w tym planie zmieniło się z dnia na dzień."
+      },
+      {
+        "en": "Every single person in the room turned to look at her.",
+        "pl": "Dosłownie każda osoba w pokoju odwróciła się, żeby na nią spojrzeć."
+      }
     ]
   }
 ]

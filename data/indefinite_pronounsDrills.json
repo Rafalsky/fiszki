@@ -1,45 +1,464 @@
 [
-  {"id": 1, "itemId": "some_compounds", "prompt": "___ is calling you from the kitchen.", "answer": "Somebody", "distractors": ["Anybody", "Nobody", "Everybody"]},
-  {"id": 2, "itemId": "some_compounds", "prompt": "There's ___ in the box for you.", "answer": "something", "distractors": ["anything", "nothing", "everything"]},
-  {"id": 3, "itemId": "some_compounds", "prompt": "I left my keys ___ in the kitchen.", "answer": "somewhere", "distractors": ["anywhere", "nowhere", "everywhere"]},
-  {"id": 4, "itemId": "some_compounds", "prompt": "Would you like ___ to drink?", "answer": "something", "distractors": ["anything", "nothing", "everything"]},
-  {"id": 5, "itemId": "some_compounds", "prompt": "___ left their umbrella in the hallway.", "answer": "Someone", "distractors": ["Anyone", "No one", "Everyone"]},
-  {"id": 6, "itemId": "some_compounds", "prompt": "Could I sit ___ quiet to work?", "answer": "somewhere", "distractors": ["anywhere", "nowhere", "everywhere"]},
-  {"id": 7, "itemId": "some_compounds", "prompt": "___ is waiting for you outside.", "answer": "Somebody", "distractors": ["Anybody", "Nobody", "Everybody"]},
-  {"id": 8, "itemId": "some_compounds", "prompt": "Can I get you ___ to eat?", "answer": "something", "distractors": ["anything", "nothing", "everything"]},
-  {"id": 9, "itemId": "some_compounds", "prompt": "Let's go ___ warm this winter.", "answer": "somewhere", "distractors": ["anywhere", "nowhere", "everywhere"]},
-  {"id": 10, "itemId": "some_compounds", "prompt": "___ told me you were moving abroad.", "answer": "Someone", "distractors": ["Anyone", "No one", "Everyone"]},
-
-  {"id": 11, "itemId": "any_compounds", "prompt": "Is ___ home right now?", "answer": "anybody", "distractors": ["somebody", "nobody", "everybody"]},
-  {"id": 12, "itemId": "any_compounds", "prompt": "I didn't see ___ at the meeting.", "answer": "anybody", "distractors": ["somebody", "nobody", "everybody"]},
-  {"id": 13, "itemId": "any_compounds", "prompt": "Did you buy ___ at the shop?", "answer": "anything", "distractors": ["something", "nothing", "everything"]},
-  {"id": 14, "itemId": "any_compounds", "prompt": "I don't want ___ right now, thanks.", "answer": "anything", "distractors": ["something", "nothing", "everything"]},
-  {"id": 15, "itemId": "any_compounds", "prompt": "Have you been ___ nice on holiday?", "answer": "anywhere", "distractors": ["somewhere", "nowhere", "everywhere"]},
-  {"id": 16, "itemId": "any_compounds", "prompt": "I can't find my glasses ___.", "answer": "anywhere", "distractors": ["somewhere", "nowhere", "everywhere"]},
-  {"id": 17, "itemId": "any_compounds", "prompt": "You can sit ___ you like — it's up to you.", "answer": "anywhere", "distractors": ["somewhere", "nowhere", "everywhere"]},
-  {"id": 18, "itemId": "any_compounds", "prompt": "___ can learn a new language with enough practice.", "answer": "Anybody", "distractors": ["Somebody", "Nobody", "Everybody"]},
-  {"id": 19, "itemId": "any_compounds", "prompt": "Did ___ call while I was out?", "answer": "anyone", "distractors": ["someone", "no one", "everyone"]},
-  {"id": 20, "itemId": "any_compounds", "prompt": "Ask ___ — they all know the way.", "answer": "anyone", "distractors": ["someone", "no one", "everyone"]},
-
-  {"id": 21, "itemId": "no_compounds", "prompt": "___ knows the answer to that question.", "answer": "Nobody", "distractors": ["Somebody", "Anybody", "Everybody"]},
-  {"id": 22, "itemId": "no_compounds", "prompt": "There's ___ in the fridge — we need to shop.", "answer": "nothing", "distractors": ["something", "anything", "everything"]},
-  {"id": 23, "itemId": "no_compounds", "prompt": "We have ___ else to turn for help.", "answer": "nowhere", "distractors": ["somewhere", "anywhere", "everywhere"]},
-  {"id": 24, "itemId": "no_compounds", "prompt": "I know ___ here — I just moved to town.", "answer": "nobody", "distractors": ["somebody", "anybody", "everybody"]},
-  {"id": 25, "itemId": "no_compounds", "prompt": "___ answered the phone when I called.", "answer": "No one", "distractors": ["Someone", "Anyone", "Everyone"]},
-  {"id": 26, "itemId": "no_compounds", "prompt": "There was ___ we could do about the delay.", "answer": "nothing", "distractors": ["something", "anything", "everything"]},
-  {"id": 27, "itemId": "no_compounds", "prompt": "I searched the whole house, but the cat was ___ to be found.", "answer": "nowhere", "distractors": ["somewhere", "anywhere", "everywhere"]},
-  {"id": 28, "itemId": "no_compounds", "prompt": "___ believed his story about the accident.", "answer": "Nobody", "distractors": ["Somebody", "Anybody", "Everybody"]},
-  {"id": 29, "itemId": "no_compounds", "prompt": "There's ___ wrong with the plan — let's go ahead.", "answer": "nothing", "distractors": ["something", "anything", "everything"]},
-  {"id": 30, "itemId": "no_compounds", "prompt": "___ wanted to volunteer for the extra shift.", "answer": "No one", "distractors": ["Someone", "Anyone", "Everyone"]},
-
-  {"id": 31, "itemId": "every_compounds", "prompt": "___ enjoyed the concert last night.", "answer": "Everybody", "distractors": ["Somebody", "Anybody", "Nobody"]},
-  {"id": 32, "itemId": "every_compounds", "prompt": "___ went according to plan.", "answer": "Everything", "distractors": ["Something", "Anything", "Nothing"]},
-  {"id": 33, "itemId": "every_compounds", "prompt": "We looked ___ but couldn't find the ring.", "answer": "everywhere", "distractors": ["somewhere", "anywhere", "nowhere"]},
-  {"id": 34, "itemId": "every_compounds", "prompt": "___ needs their own login to access the system.", "answer": "Everyone", "distractors": ["Someone", "Anyone", "No one"]},
-  {"id": 35, "itemId": "every_compounds", "prompt": "___ in the office knows about the new policy.", "answer": "Everybody", "distractors": ["Somebody", "Anybody", "Nobody"]},
-  {"id": 36, "itemId": "every_compounds", "prompt": "___ was ready by the time the guests arrived.", "answer": "Everything", "distractors": ["Something", "Anything", "Nothing"]},
-  {"id": 37, "itemId": "every_compounds", "prompt": "This shop sells souvenirs — you can see them ___ in this city.", "answer": "everywhere", "distractors": ["somewhere", "anywhere", "nowhere"]},
-  {"id": 38, "itemId": "every_compounds", "prompt": "___ should bring their own lunch tomorrow.", "answer": "Everyone", "distractors": ["Someone", "Anyone", "No one"]},
-  {"id": 39, "itemId": "every_compounds", "prompt": "___ agreed that the trip was a success.", "answer": "Everybody", "distractors": ["Somebody", "Anybody", "Nobody"]},
-  {"id": 40, "itemId": "every_compounds", "prompt": "I've checked ___ twice, and the numbers still don't match.", "answer": "everything", "distractors": ["something", "anything", "nothing"]}
+  {
+    "id": 1,
+    "itemId": "indefinite_compound_overview",
+    "prompt": "Can I get you ___ to eat before the meeting starts?",
+    "answer": "something",
+    "distractors": [
+      "anything",
+      "nothing",
+      "everything"
+    ]
+  },
+  {
+    "id": 2,
+    "itemId": "indefinite_compound_overview",
+    "prompt": "Is there ___ I should know before I sign this contract?",
+    "answer": "anything",
+    "distractors": [
+      "something",
+      "nothing",
+      "everything"
+    ]
+  },
+  {
+    "id": 3,
+    "itemId": "indefinite_compound_overview",
+    "prompt": "I searched the whole flat and there was ___ under the bed except dust.",
+    "answer": "nothing",
+    "distractors": [
+      "something",
+      "anything",
+      "everything"
+    ]
+  },
+  {
+    "id": 4,
+    "itemId": "indefinite_compound_overview",
+    "prompt": "___ in this room already knows each other, so introductions won't take long.",
+    "answer": "Everybody",
+    "distractors": [
+      "Somebody",
+      "Anybody",
+      "Nobody"
+    ]
+  },
+  {
+    "id": 5,
+    "itemId": "indefinite_compound_overview",
+    "prompt": "If ___ objects to the plan, we'll postpone the vote.",
+    "answer": "anybody",
+    "distractors": [
+      "somebody",
+      "everybody",
+      "nobody"
+    ]
+  },
+  {
+    "id": 6,
+    "itemId": "indefinite_compound_overview",
+    "prompt": "___ left a note on my desk, but there's no signature on it.",
+    "answer": "Somebody",
+    "distractors": [
+      "Anybody",
+      "Nobody",
+      "Everybody"
+    ]
+  },
+  {
+    "id": 7,
+    "itemId": "indefinite_compound_overview",
+    "prompt": "___ warned us about the storm, so we were caught completely off guard.",
+    "answer": "Nobody",
+    "distractors": [
+      "Somebody",
+      "Anybody",
+      "Everybody"
+    ]
+  },
+  {
+    "id": 8,
+    "itemId": "indefinite_compound_overview",
+    "prompt": "You can ask me ___ — I don't mind, honestly, nothing is off-limits.",
+    "answer": "anything",
+    "distractors": [
+      "something",
+      "nothing",
+      "everything"
+    ]
+  },
+  {
+    "id": 9,
+    "itemId": "some_compounds",
+    "prompt": "Would you like ___ to drink before the film starts?",
+    "answer": "something",
+    "distractors": [
+      "anything",
+      "nothing",
+      "everything"
+    ]
+  },
+  {
+    "id": 10,
+    "itemId": "some_compounds",
+    "prompt": "___'s bike has been chained to that railing for a week — any idea whose?",
+    "answer": "Somebody's",
+    "distractors": [
+      "Anybody's",
+      "Nobody's",
+      "Everybody's"
+    ]
+  },
+  {
+    "id": 11,
+    "itemId": "some_compounds",
+    "prompt": "He's ___ of a perfectionist, so double-check your work before you show him.",
+    "answer": "something",
+    "distractors": [
+      "anything",
+      "nothing",
+      "everything"
+    ]
+  },
+  {
+    "id": 12,
+    "itemId": "some_compounds",
+    "prompt": "The finale was quite ___ — the whole audience was on its feet.",
+    "answer": "something",
+    "distractors": [
+      "anything",
+      "nothing",
+      "everything"
+    ]
+  },
+  {
+    "id": 13,
+    "itemId": "some_compounds",
+    "prompt": "___ keeps rearranging the files on this shared drive, and I suspect it isn't an accident.",
+    "answer": "Someone",
+    "distractors": [
+      "Anyone",
+      "No one",
+      "Everyone"
+    ]
+  },
+  {
+    "id": 14,
+    "itemId": "some_compounds",
+    "prompt": "Let's meet ___ central so it's easy for everyone to get to.",
+    "answer": "somewhere",
+    "distractors": [
+      "anywhere",
+      "nowhere",
+      "everywhere"
+    ]
+  },
+  {
+    "id": 15,
+    "itemId": "some_compounds",
+    "prompt": "There must be ___ here who speaks French — could you check with reception?",
+    "answer": "someone",
+    "distractors": [
+      "anyone",
+      "no one",
+      "everyone"
+    ]
+  },
+  {
+    "id": 16,
+    "itemId": "some_compounds",
+    "prompt": "I could swear I've met him ___ before — maybe at that conference in Kraków?",
+    "answer": "somewhere",
+    "distractors": [
+      "anywhere",
+      "nowhere",
+      "everywhere"
+    ]
+  },
+  {
+    "id": 17,
+    "itemId": "any_compounds",
+    "prompt": "Is ___ sitting in this seat, or can I take it?",
+    "answer": "anybody",
+    "distractors": [
+      "somebody",
+      "nobody",
+      "everybody"
+    ]
+  },
+  {
+    "id": 18,
+    "itemId": "any_compounds",
+    "prompt": "I haven't spoken to ___ about this yet — you're the first to know.",
+    "answer": "anyone",
+    "distractors": [
+      "someone",
+      "no one",
+      "everyone"
+    ]
+  },
+  {
+    "id": 19,
+    "itemId": "any_compounds",
+    "prompt": "___ can join the club — there are no requirements at all.",
+    "answer": "Anybody",
+    "distractors": [
+      "Somebody",
+      "Nobody",
+      "Everybody"
+    ]
+  },
+  {
+    "id": 20,
+    "itemId": "any_compounds",
+    "prompt": "If ___ tries to reach me, tell them I'll call back after five.",
+    "answer": "anyone",
+    "distractors": [
+      "someone",
+      "no one",
+      "everyone"
+    ]
+  },
+  {
+    "id": 21,
+    "itemId": "any_compounds",
+    "prompt": "I can't find my passport ___ — I've checked every drawer twice.",
+    "answer": "anywhere",
+    "distractors": [
+      "somewhere",
+      "nowhere",
+      "everywhere"
+    ]
+  },
+  {
+    "id": 22,
+    "itemId": "any_compounds",
+    "prompt": "She's more experienced than ___ else on the team, hands down.",
+    "answer": "anyone",
+    "distractors": [
+      "someone",
+      "no one",
+      "everyone"
+    ]
+  },
+  {
+    "id": 23,
+    "itemId": "any_compounds",
+    "prompt": "Hardly ___ showed up to the early screening — the room was almost empty.",
+    "answer": "anybody",
+    "distractors": [
+      "somebody",
+      "nobody",
+      "everybody"
+    ]
+  },
+  {
+    "id": 24,
+    "itemId": "any_compounds",
+    "prompt": "I don't want ___ at all to know about this until it's official.",
+    "answer": "anyone",
+    "distractors": [
+      "someone",
+      "no one",
+      "everyone"
+    ]
+  },
+  {
+    "id": 25,
+    "itemId": "any_compounds",
+    "prompt": "Ask me ___ you like about the trip — I'm happy to talk about it for hours.",
+    "answer": "anything",
+    "distractors": [
+      "something",
+      "nothing",
+      "everything"
+    ]
+  },
+  {
+    "id": 26,
+    "itemId": "no_compounds",
+    "prompt": "___ warned us the ferry would be delayed, so we just waited it out.",
+    "answer": "Nobody",
+    "distractors": [
+      "Somebody",
+      "Anybody",
+      "Everybody"
+    ]
+  },
+  {
+    "id": 27,
+    "itemId": "no_compounds",
+    "prompt": "There's ___ we can do about the weather, so let's just reschedule.",
+    "answer": "nothing",
+    "distractors": [
+      "something",
+      "anything",
+      "everything"
+    ]
+  },
+  {
+    "id": 28,
+    "itemId": "no_compounds",
+    "prompt": "The keys are ___ to be found — we've checked every room twice.",
+    "answer": "nowhere",
+    "distractors": [
+      "somewhere",
+      "anywhere",
+      "everywhere"
+    ]
+  },
+  {
+    "id": 29,
+    "itemId": "no_compounds",
+    "prompt": "We're ___ near ready to launch — there are still weeks of testing left.",
+    "answer": "nowhere",
+    "distractors": [
+      "somewhere",
+      "anywhere",
+      "everywhere"
+    ]
+  },
+  {
+    "id": 30,
+    "itemId": "no_compounds",
+    "prompt": "The announcement came out of ___ — nobody in the office saw it coming.",
+    "answer": "nowhere",
+    "distractors": [
+      "somewhere",
+      "anywhere",
+      "everywhere"
+    ]
+  },
+  {
+    "id": 31,
+    "itemId": "no_compounds",
+    "prompt": "After three hours of arguing, we were getting ___ — time for a different approach.",
+    "answer": "nowhere",
+    "distractors": [
+      "somewhere",
+      "anywhere",
+      "everywhere"
+    ]
+  },
+  {
+    "id": 32,
+    "itemId": "no_compounds",
+    "prompt": "___ in this building has a key to the archive except the director.",
+    "answer": "No one",
+    "distractors": [
+      "Someone",
+      "Anyone",
+      "Everyone"
+    ]
+  },
+  {
+    "id": 33,
+    "itemId": "no_compounds",
+    "prompt": "I have ___ against him personally — I just disagree with his decision.",
+    "answer": "nothing",
+    "distractors": [
+      "something",
+      "anything",
+      "everything"
+    ]
+  },
+  {
+    "id": 34,
+    "itemId": "no_compounds",
+    "prompt": "___ you say now is going to change my mind — I've already decided.",
+    "answer": "Nothing",
+    "distractors": [
+      "Something",
+      "Anything",
+      "Everything"
+    ]
+  },
+  {
+    "id": 35,
+    "itemId": "every_compounds",
+    "prompt": "___ knows the Wi-Fi password is taped under the router.",
+    "answer": "Everybody",
+    "distractors": [
+      "Somebody",
+      "Anybody",
+      "Nobody"
+    ]
+  },
+  {
+    "id": 36,
+    "itemId": "every_compounds",
+    "prompt": "___ agreed with the merger — several board members raised serious concerns.",
+    "answer": "Not everybody",
+    "distractors": [
+      "Nobody",
+      "Somebody",
+      "Anybody"
+    ]
+  },
+  {
+    "id": 37,
+    "itemId": "every_compounds",
+    "prompt": "She calls her mother ___ day, without fail, no matter how busy she is.",
+    "answer": "every other",
+    "distractors": [
+      "some other",
+      "any other",
+      "no other"
+    ]
+  },
+  {
+    "id": 38,
+    "itemId": "every_compounds",
+    "prompt": "I've checked ___ in the office and the missing report is nowhere to be seen.",
+    "answer": "everywhere",
+    "distractors": [
+      "somewhere",
+      "anywhere",
+      "nowhere"
+    ]
+  },
+  {
+    "id": 39,
+    "itemId": "every_compounds",
+    "prompt": "This song is playing ___ these days — you simply can't escape it.",
+    "answer": "everywhere",
+    "distractors": [
+      "somewhere",
+      "anywhere",
+      "nowhere"
+    ]
+  },
+  {
+    "id": 40,
+    "itemId": "every_compounds",
+    "prompt": "___ else in the family has already left for the airport — we're the last ones.",
+    "answer": "Everyone",
+    "distractors": [
+      "Someone",
+      "Anyone",
+      "No one"
+    ]
+  },
+  {
+    "id": 41,
+    "itemId": "every_compounds",
+    "prompt": "Not ___ in the survey rated the service highly — a few complained loudly.",
+    "answer": "everybody",
+    "distractors": [
+      "somebody",
+      "anybody",
+      "nobody"
+    ]
+  },
+  {
+    "id": 42,
+    "itemId": "every_compounds",
+    "prompt": "___ about the new policy has changed since the first draft.",
+    "answer": "Everything",
+    "distractors": [
+      "Something",
+      "Anything",
+      "Nothing"
+    ]
+  }
 ]
