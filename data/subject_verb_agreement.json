@@ -1,99 +1,395 @@
 [
   {
-    "id": "basic_rule",
+    "id": "roots_agreement",
     "order": 1,
-    "nameEn": "Basic rule — singular / plural subject",
-    "namePl": "Zasada podstawowa — podmiot w liczbie pojedynczej i mnogiej",
+    "nameEn": "The roots — why agreement exists and why English has almost none left",
+    "namePl": "Korzenie: skąd w ogóle bierze się zgodność i dlaczego angielskiemu prawie nic z niej nie zostało",
     "rules": [
-      { "label": "Liczba pojedyncza", "text": "Podmiot w liczbie pojedynczej wymaga czasownika w formie liczby pojedynczej (he/she/it, np. She works, The dog barks)" },
-      { "label": "Liczba mnoga", "text": "Podmiot w liczbie mnogiej wymaga czasownika w formie liczby mnogiej (np. They work, The dogs bark)" },
-      { "label": "to be", "text": "Czasownik be zmienia formę najbardziej wyraźnie: I am, he/she/it is, we/you/they are" }
+      {
+        "label": "Zgodność to skamieniały zaimek przyklejony do czasownika",
+        "text": "Zacznijmy od pytania, którego podręczniki nie zadają: PO CO w ogóle czasownik miałby powtarzać liczbę podmiotu? Przecież podmiot już stoi obok i sam mówi, czy jest jeden, czy wielu. Odpowiedź jest historyczna. W języku praindoeuropejskim — wspólnym przodku angielskiego, łaciny, greki i polskiego — końcówki osobowe czasownika powstały prawdopodobnie ze SKLEJENIA czasownika z zaimkiem osobowym. Coś w rodzaju „niosę-ja”, „niesie-on” zrosło się w jedno słowo, a zaimek zredukował się do końcówki. Dlatego łacińskie 'amo' czy polskie 'kocham' nie potrzebują zaimka: on tam siedzi, tylko wtopiony w czasownik. Zgodność (agreement, concord) nie jest więc żadną „regułą stylistyczną” ani wymysłem gramatyków — to ślad po zaimku, który kiedyś był osobnym słowem. Angielskie 'he works' zawiera dwa razy tę samą informację: raz w 'he', drugi raz w '-s'. To redundancja, echo. I właśnie dlatego można ją stracić bez szkody dla komunikacji — co angielski w dużej mierze zrobił."
+      },
+      {
+        "label": "Staroangielski miał pełny paradygmat — pięć różnych form jednego czasownika",
+        "text": "W staroangielskim (ok. 450–1150) czasownik był odmienny niemal jak polski. Czasownik 'lufian' (kochać) w czasie teraźniejszym: ic lufie (ja kocham), þū lufast (ty kochasz), hē/hēo/hit lufaþ (on/ona/ono kocha), wē/gē/hīe lufiaþ (my/wy/oni kochają). Cztery różne końcówki: -e, -ast, -aþ, -iaþ. W czasie przeszłym podobnie: ic lufode, þū lufodest, hē lufode, wē lufodon. Zauważ dwie rzeczy. Po pierwsze, liczba mnoga miała JEDNĄ formę dla wszystkich trzech osób (-aþ) — to samo uproszczenie, które dziś widzimy w 'we/you/they work'. Po drugie, rozróżnienie liczby pojedynczej od mnogiej było wyraźne i słyszalne. Angielski był wtedy językiem o pełnej zgodności, gdzie szyk zdania mógł być swobodny, bo końcówki same mówiły, kto jest podmiotem."
+      },
+      {
+        "label": "Erozja: samogłoski nieakcentowane zamieniają się w szwa i giną",
+        "text": "Rozpad tego systemu nie był decyzją ani modą — to była zwykła fonetyka. Akcent w germańskim padał na pierwszą sylabę rdzenia, więc końcówki znajdowały się zawsze w pozycji nieakcentowanej. Nieakcentowane samogłoski w takich pozycjach ulegają redukcji: -e, -a, -o, -u zlały się w jedno mętne /ə/ (szwa, zapisywane ⟨e⟩), a potem to szwa całkiem zniknęło. Dodatkowo końcowe -n odpadło. W ten sposób lufode i lufodon stały się tym samym 'loved'. Proces przyspieszył kontakt ze staronordyckim w Danelaw: Anglicy i Duńczycy rozumieli nawzajem rdzenie słów, ale ich końcówki fleksyjne się różniły — więc w kontaktach handlowych końcówki po prostu porzucano jako niepewny balast. To klasyczny mechanizm upraszczania w językach kontaktu. Efektem ubocznym była konieczność usztywnienia szyku zdania (patrz temat: Szyk zdania) i rozwoju przyimków (patrz: Przyimki) — skoro końcówki przestały mówić, kto jest podmiotem, musiała to robić POZYCJA."
+      },
+      {
+        "label": "Dlaczego mówimy 'he works', a nie 'he worketh' — północna końcówka -s podbija Anglię",
+        "text": "Jedyna ocalała końcówka teraźniejszości, 3. osoba liczby pojedynczej -s, nie pochodzi z języka Londynu, lecz z dalekiej Northumbrii. Południowe i środkowe dialekty miały -eþ (he loveth, he hath, he doth). Ale w północnych glosach do Ewangelii z Lindisfarne (ok. 950 r.) skryba zapisuje już formy z -s — prawdopodobnie pod wpływem kontaktu ze staronordyckim, gdzie występowała spółgłoska -r/-s w podobnej funkcji. Przez cały późny okres średnioangielski forma z -s wędrowała na południe wzdłuż szlaków migracji. W czasach Szekspira oba warianty żyją obok siebie w jednym tekście: 'It blesseth him that gives and him that takes' — 'blesseth' i 'gives' w jednej linijce. Około 1600 r. -s wygrywa w mowie potocznej, a -eth zostaje przy formach uroczystych i biblijnych, gdzie brzmi dziś archaicznie i podniośle. To ważna lekcja: dzisiejsze 'poprawne' -s było kiedyś dialektalną nowinką z prowincji."
+      },
+      {
+        "label": "Zniknięcie 'thou' zabrało ostatnią końcówkę drugiej osoby",
+        "text": "Druga końcówka, -est ('thou lovest', 'thou hast'), nie umarła fonetycznie — zniknęła razem ze swoim zaimkiem. Kiedy angielski, wzorem francuskiego rozróżnienia tu/vous, zaczął używać liczby mnogiej 'ye/you' jako formy grzecznościowej wobec pojedynczej osoby (T-V distinction, patrz temat: Zaimki), a potem uogólnił 'you' na wszystkie sytuacje, 'thou' wypadło z użycia do XVII w. — a wraz z nim jedyny kontekst dla -est. Po tej stracie w angielskim czasowniku leksykalnym została DOKŁADNIE JEDNA końcówka zgodności: -s w 3. osobie liczby pojedynczej czasu teraźniejszego. Nic więcej. To zdumiewająco mało jak na język indoeuropejski."
+      },
+      {
+        "label": "Dwie wyspy oporu: 'be' i czasowniki modalne",
+        "text": "Dwie grupy czasowników wyłamują się z tego obrazu i obie są skamielinami. Pierwsza to 'be': am / is / are / was / were — jedyny czasownik w angielskim, który do dziś rozróżnia osobę I w liczbie pojedynczej i który rozróżnia liczbę także w czasie przeszłym (was/were). Przetrwał, bo jest supletywny: jego formy pochodzą z TRZECH różnych praindoeuropejskich rdzeni (*es- dało is/am, *bhū- dało be/been, *wes- dało was/were). Formy nieregularne i bardzo częste są odporne na wyrównywanie analogiczne — dziecko słyszy 'is' i 'are' tysiące razy dziennie, więc nie zdąży ich zastąpić regularnym wzorcem. Druga grupa to czasowniki modalne: mówimy 'he can', a nie *'he cans', bo modalne to preterite-presents — dawne czasowniki, których forma CZASU PRZESZŁEGO zaczęła znaczyć teraźniejszość. A czas przeszły nigdy nie miał końcówki -s w trzeciej osobie. 'He can' jest więc gramatycznie tym samym typem formy co 'he loved' (patrz temat: Czasowniki modalne)."
+      },
+      {
+        "label": "Model myślowy: gdy sygnał gramatyczny słabnie, do głosu dochodzi znaczenie",
+        "text": "To jest klucz do CAŁEGO tego tematu, w tym do wszystkich rzekomych „wyjątków”. Angielski ma dziś zgodność szczątkową — jeden dźwięk /s/ w jednym czasie plus paradygmat 'be'. W języku z bogatą fleksją (polski, łacina) forma gramatyczna jest tak wyrazista, że narzuca się umysłowi bezwzględnie. W angielskim ten sygnał jest tak słaby, że nie potrafi zablokować konkurencyjnych sił: ZNACZENIA (czy myślę o jednej rzeczy, czy o wielu?) i BLISKOŚCI (który rzeczownik akurat stoi przy czasowniku?). Dlatego angielska zgodność to nie jedna reguła, ale ARENA, na której walczą trzy zasady. Nauczysz się tego tematu naprawdę dopiero wtedy, gdy przestaniesz szukać listy wyjątków, a zaczniesz pytać: która z trzech sił wygrała tutaj i dlaczego. Te trzy siły rozpiszemy w części trzeciej."
+      }
     ],
     "usage": [
-      "Zawsze sprawdzaj prawdziwy podmiot zdania, nie najbliższe słowo przed czasownikiem",
-      "Wyrażenia dodane po podmiocie (as well as, together with, along with) nie zmieniają liczby czasownika",
-      "Gerund i bezokoliczniki jako podmiot traktujemy jako liczbę pojedynczą (Swimming is fun.)",
-      "Tytuły, nazwy państw i kwoty pieniędzy jako całość → liczba pojedyncza (Ten dollars is a lot.)"
+      "Zgodność w angielskim to szczątek — jedna końcówka -s plus czasownik 'be'; wszystko inne odpadło fonetycznie w średniowieczu",
+      "'He worketh' i 'he works' to nie stylizacja, lecz dwa historyczne dialekty: południowe -eth i północne -s, które wygrało około 1600 roku",
+      "Modalne nie biorą -s, bo to dawne formy czasu przeszłego (preterite-presents): he can, she must, it might",
+      "'Be' zachowało bogatą odmianę, bo jest supletywne i skrajnie częste — a takie formy opierają się wyrównywaniu",
+      "Ponieważ sygnał gramatyczny jest słaby, o zgodności współdecydują znaczenie i bliskość — stąd rzekome 'wyjątki'"
     ],
-    "tags": ["she works", "they work", "swimming is", "ten dollars is"],
+    "tags": ["he works", "he worketh", "am / is / are", "he can", "-s z Northumbrii"],
     "examples": [
-      { "en": "My sister lives in Warsaw.", "pl": "Moja siostra mieszka w Warszawie." },
-      { "en": "My parents live in Warsaw.", "pl": "Moi rodzice mieszkają w Warszawie." },
-      { "en": "The manager, together with her team, is preparing the report.", "pl": "Kierowniczka wraz ze swoim zespołem przygotowuje raport." },
-      { "en": "Ten years is a long time.", "pl": "Dziesięć lat to długi czas." }
+      { "en": "He works from home, but they work in the office.", "pl": "On pracuje z domu, a oni pracują w biurze." },
+      { "en": "She was there, but the others were not.", "pl": "Ona tam była, ale pozostali nie." },
+      { "en": "He can swim and she must leave — modals never take -s.", "pl": "On umie pływać, a ona musi wyjść — modalne nigdy nie biorą -s." },
+      { "en": "It blesseth him that gives and him that takes.", "pl": "Błogosławi tego, kto daje, i tego, kto bierze. (Szekspir — stare -eth i nowe -s w jednym wersie)" },
+      { "en": "Money makes the world go round.", "pl": "Pieniądze rządzą światem. (jedna niepoliczalna masa → czasownik pojedynczy)" }
     ]
   },
   {
-    "id": "collective_indefinite",
+    "id": "subject_identification",
     "order": 2,
-    "nameEn": "Collective nouns & indefinite pronouns",
-    "namePl": "Rzeczowniki zbiorowe i zaimki nieokreślone",
+    "nameEn": "Finding the real subject — the head noun, not the nearest noun",
+    "namePl": "Gdzie naprawdę jest podmiot — rzeczownik nadrzędny, a nie najbliższy",
     "rules": [
-      { "label": "Zbiorowe (BrE elastycznie)", "text": "Rzeczowniki zbiorowe (team, family, government, staff) łączą się z liczbą pojedynczą, gdy grupa działa jako jedność, a w angielskim brytyjskim czasem z mnogą, gdy podkreślamy jej członków" },
-      { "label": "Zaimki nieokreślone", "text": "everyone, everybody, someone, somebody, no one, nobody, each, either, neither, everything, something, nothing są zawsze traktowane jako liczba pojedyncza" },
-      { "label": "police, people", "text": "Niektóre rzeczowniki są gramatycznie zawsze w liczbie mnogiej: the police are, people are" }
+      {
+        "label": "Podmiotem jest CAŁA fraza, ale rządzi jej rzeczownik nadrzędny",
+        "text": "Podmiot zdania to zwykle nie jedno słowo, lecz fraza rzeczownikowa, która może mieć doczepione długie ogony: przyimki, zdania względne, imiesłowy. O zgodności decyduje wyłącznie RZECZOWNIK NADRZĘDNY (head) tej frazy — ten, wokół którego zbudowana jest reszta. W 'The box of chocolates' nadrzędne jest 'box' (pudełko czekoladek — mówimy o pudełku), więc: 'The box of chocolates is on the table'. W 'A series of accidents' nadrzędna jest 'series', więc 'was'. Praktyczny test: usuń wszystko, co da się usunąć, zachowując sensowne zdanie. 'The box (of chocolates) is on the table' — działa. Gdybyś usunął 'box', zostałoby '*Of chocolates is on the table' — bez sensu. To, co zostaje, jest podmiotem."
+      },
+      {
+        "label": "Test składniowy: podmiot to to, co wraca w question tagu i przeskakuje w pytaniu",
+        "text": "Jeśli intuicja zawodzi, użyj mechanicznego testu, który działa zawsze. Po pierwsze, zamień zdanie w pytanie: to, przez co przeskakuje operator, jest podmiotem ('The list of names is ready' → 'IS the list of names ready?' — a nie *'Are the list of names'). Po drugie, dodaj question tag: zaimek w tagu ujawnia liczbę podmiotu ('The list of names is ready, ISN'T IT?' — 'it', a nie 'aren't they'). Te dwa testy są niezawodne, bo w obu wypadkach mechanizm gramatyczny sam wskazuje podmiot, zamiast pytać cię o intuicję (patrz tematy: Pytania oraz Question tags)."
+      },
+      {
+        "label": "Zjawisko przyciągania (attraction) — i dlaczego nasz mózg tak łatwo się myli",
+        "text": "Błąd typu *'The key to the cabinets ARE missing' jest tak powszechny, że doczekał się nazwy: attraction albo proximity concord. Badania psycholingwistyczne nad produkcją mowy (klasyczny eksperyment Bock i Miller z 1991 r.) pokazały, że mówiący częściej popełniają ten błąd, gdy rzeczownik w międzyfrazie jest w liczbie mnogiej, niż odwrotnie. Wyjaśnienie: cecha [liczba mnoga] jest w umyśle „nacechowana”, czyli aktywnie zaznaczona, podczas gdy liczba pojedyncza to stan domyślny, brak znacznika. Aktywna cecha promieniuje na sąsiedztwo i podczepia się pod czasownik. Dlatego nie chodzi tu o niewiedzę, tylko o realne ograniczenie pamięci roboczej — im dłuższa fraza między podmiotem a czasownikiem, tym silniejszy efekt. Świadomość tego mechanizmu to najlepsza obrona: przy długim podmiocie zawsze wróć wzrokiem do jego początku."
+      },
+      {
+        "label": "Fałszywi koordynatorzy: as well as, together with, along with, in addition to, accompanied by",
+        "text": "'The manager, together with her team, IS preparing the report' — czasownik pojedynczy, choć logicznie osób jest kilka. Dlaczego? Bo 'together with' to PRZYIMEK, a nie spójnik. Tylko spójnik 'and' potrafi utworzyć wspólny podmiot mnogi; wyrażenia towarzyszące jedynie dołączają okolicznik do zdania, w którym podmiot pozostaje jednoosobowy. Widać to po dwóch cechach: takie wyrażenia wydziela się przecinkami (znak, że są wtrąceniem, a nie częścią podmiotu) i można je przesunąć w inne miejsce zdania — 'Together with her team, the manager is preparing the report'. Z 'and' tak nie można: nie da się powiedzieć *'And her team, the manager are preparing'. Uwaga na typową pułapkę: 'as well as' bywa czasownikiem-koordynatorem tylko w mowie potocznej; w piśmie trzymaj czasownik pojedynczy albo — jeśli brzmi to sztucznie — po prostu zamień wyrażenie na 'and'."
+      },
+      {
+        "label": "Podmiot niepoliczalny: bezokolicznik, gerund i całe zdanie to zawsze liczba pojedyncza",
+        "text": "Kiedy podmiotem nie jest rzeczownik policzalny, lecz czynność albo cała propozycja, czasownik przybiera formę domyślną, czyli pojedynczą: 'Swimming is fun', 'To err is human', 'That he lied surprises no one', 'What he did was wrong'. Logika jest prosta i wynika z części pierwszej: liczba mnoga wymaga POLICZALNEGO ZBIORU. Czynność ani sąd nie są zbiorem obiektów, więc nie ma czego liczyć — a przy braku liczby mnogiej pozostaje forma nienacechowana. Uwaga: gdy zestawisz dwa gerundy spójnikiem 'and', tworzą one dwie osobne czynności i wracamy do liczby mnogiej: 'Swimming and running are my hobbies'."
+      },
+      {
+        "label": "Puste 'it' jest zawsze pojedyncze, bo nic nie oznacza",
+        "text": "W konstrukcjach z ekstrapozycją prawdziwy podmiot zdaniowy przenosimy na koniec, a jego miejsce zajmuje puste 'it': 'It is obvious that the numbers are wrong' (patrz temat: Ekstrapozycja). To 'it' nie ma żadnego odniesienia w świecie — jest wyłącznie zapchajdziurą składniową, więc z definicji nie może być mnogie: nawet gdy przesunięta treść dotyczy wielu rzeczy, mówimy 'It is the delays that worry me', nigdy *'They are the delays that worry me' w tym znaczeniu. Ta sama logika obejmuje 'it' pogodowe i czasowe: 'It is raining', 'It's three o'clock'."
+      }
     ],
     "usage": [
-      "The team is / are — obie formy poprawne, zależnie od tego, czy grupa to jednostka czy zbiór osób",
-      "Everyone has to bring their own lunch. — zaimek zwrotny w liczbie pojedynczej mimo they/their",
-      "Each of the students has a laptop. — each + of + liczba mnoga wciąż wymaga czasownika w liczbie pojedynczej",
-      "The police are investigating the case. — police zawsze z czasownikiem w liczbie mnogiej"
+      "Zgodność ustala rzeczownik nadrzędny podmiotu, nie ostatni rzeczownik przed czasownikiem",
+      "Sprawdź podmiot testem pytania i question tagu — mechanizm gramatyczny sam go wskaże",
+      "together with / as well as / along with / in addition to nie tworzą podmiotu mnogiego; tworzy go tylko 'and'",
+      "Gerund, bezokolicznik i zdanie podrzędne jako podmiot → zawsze czasownik w liczbie pojedynczej",
+      "Im dłuższa wstawka między podmiotem a czasownikiem, tym większe ryzyko przyciągania (attraction) — wróć wzrokiem do początku"
     ],
-    "tags": ["everyone has", "each student is", "the team is", "the police are"],
+    "tags": ["the box of chocolates is", "together with is", "swimming is", "attraction"],
     "examples": [
-      { "en": "Everybody is welcome at the party.", "pl": "Każdy jest mile widziany na przyjęciu." },
-      { "en": "The committee has made its decision.", "pl": "Komitet podjął swoją decyzję." },
-      { "en": "Each of the answers is correct.", "pl": "Każda z odpowiedzi jest poprawna." },
-      { "en": "The police have arrested three suspects.", "pl": "Policja aresztowała trzech podejrzanych." }
+      { "en": "The key to all the cabinets is missing.", "pl": "Zgubił się klucz do wszystkich szafek. (nadrzędne 'key' → is)" },
+      { "en": "A series of unfortunate events has ruined the trip.", "pl": "Seria niefortunnych zdarzeń zepsuła wyjazd." },
+      { "en": "The prime minister, along with three ministers, was questioned.", "pl": "Premier wraz z trzema ministrami był przesłuchiwany." },
+      { "en": "Working long hours without a break destroys your focus.", "pl": "Praca wiele godzin bez przerwy niszczy koncentrację." },
+      { "en": "It is the constant interruptions that make the job unbearable.", "pl": "To ciągłe przerywanie sprawia, że ta praca jest nie do zniesienia." }
     ]
   },
   {
-    "id": "conjunctions",
+    "id": "three_principles",
     "order": 3,
-    "nameEn": "Subjects joined by and / or / nor",
-    "namePl": "Podmioty połączone spójnikami and / or / nor",
+    "nameEn": "Three competing principles: grammatical, notional and proximity concord",
+    "namePl": "Trzy konkurujące zasady: zgodność gramatyczna, znaczeniowa i bliskości",
     "rules": [
-      { "label": "and", "text": "Dwa podmioty połączone and zwykle tworzą liczbę mnogą (Tom and Jerry are friends.), chyba że razem tworzą jedną ideę/rzecz (bread and butter is)" },
-      { "label": "or / nor", "text": "Przy or, nor, either...or, neither...nor czasownik zgadza się z podmiotem bliższym mu (Neither the teacher nor the students are ready.)" },
-      { "label": "not only...but also", "text": "Podobnie jak przy or — czasownik zgadza się z ostatnim, bliższym podmiotem" }
+      {
+        "label": "Trzy siły zamiast jednej reguły",
+        "text": "Gramatycy opisowi (przede wszystkim Quirk i współautorzy w 'A Comprehensive Grammar of the English Language') zauważyli, że wszystkie sporne przypadki zgodności da się wyjaśnić starciem trzech zasad. (1) ZGODNOŚĆ GRAMATYCZNA (grammatical concord): czasownik idzie za formalną liczbą rzeczownika — 'the team is', bo 'team' nie ma -s. (2) ZGODNOŚĆ ZNACZENIOWA (notional concord): czasownik idzie za tym, ile rzeczy MYŚLIMY — 'the team are', bo drużyna to jedenaście osób. (3) ZASADA BLISKOŚCI (principle of proximity albo attraction): czasownik idzie za rzeczownikiem, który akurat stoi najbliżej — 'neither of the answers ARE right'. W polszczyźnie zasada pierwsza zwykle wygrywa bezapelacyjnie. W angielskim — jak pokazała część pierwsza — sygnał gramatyczny jest tak słaby, że dwie pozostałe siły stale się przebijają. To nie chaos, tylko przewidywalna konkurencja, w której rejestr (mowa czy pismo) i odmiana (brytyjska czy amerykańska) rozstrzygają, która siła dostaje pierwszeństwo."
+      },
+      {
+        "label": "Rzeczowniki zbiorowe: brytyjskie 'the team are' to nie błąd, tylko zwycięstwo znaczenia",
+        "text": "Rzeczowniki zbiorowe (team, family, government, staff, committee, band, jury, class, audience, crew, company) są w formie pojedyncze, a w znaczeniu wielokrotne — czyli stanowią idealne pole bitwy dwóch pierwszych zasad. Angielszczyzna brytyjska pozwala obu wygrywać zależnie od tego, co mówiący ma w głowie: 'The committee HAS reached a decision' (ciało działa jak jeden byt) kontra 'The committee ARE divided over the issue' (członkowie są rozbici na frakcje). Angielszczyzna amerykańska wybrała niemal wyłącznie zgodność gramatyczną i mówi 'the committee is' nawet tam, gdzie chodzi o poszczególne osoby. Ta różnica ma korzenie w XIX-wiecznym amerykańskim normatywizmie (nurt Webstera i późniejszych podręczników), który systematycznie promował rozwiązania „logiczne i regularne”; brytyjski uzus takiego wyrównania nie przeszedł. Jedyny wyjątek po stronie amerykańskiej to nazwy zespołów sportowych i muzycznych rozumiane jako grupy zawodników: 'The Yankees are', ale tu decyduje mnoga forma nazwy, nie zbiorowość."
+      },
+      {
+        "label": "Test orzeczenia — to predykat zdradza, jak myślisz o grupie",
+        "text": "Nie musisz zgadywać: samo orzeczenie podpowiada, którą zgodność wybrać. Jeśli czasownik lub dopełnienie opisuje coś, co może zrobić WYŁĄCZNIE jednostka zbiorowa (decydować jednogłośnie, zostać rozwiązanym, mieć budżet), narzuca się liczba pojedyncza: 'The government has raised taxes'. Jeśli natomiast opisuje coś, co robią wyłącznie POSZCZEGÓLNI LUDZIE (kłócić się, nosić mundury, mieć różne poglądy, rozejść się do domów), narzuca się mnoga: 'The staff were arguing among themselves', 'The family were all wearing their coats'. Zwrotność ('among themselves'), liczba mnoga w dopełnieniu ('their coats') i czasowniki wzajemności to sygnały nie do pomylenia. Zasada nadrzędna brzmi: KONSEKWENCJA W OBRĘBIE ZDANIA. Nie wolno mieszać — *'The team is playing their best' zgrzyta; napisz 'The team is playing its best' albo 'The team are playing their best'."
+      },
+      {
+        "label": "Rzeczowniki zbiorowe bez -s, ale zawsze mnogie: police, cattle, clergy, people, vermin, folk",
+        "text": "Osobna, mała grupa rzeczowników nie ma końcówki liczby mnogiej, a mimo to bezwzględnie wymaga czasownika mnogiego: 'The police are investigating', 'The cattle were grazing', 'The clergy have objected'. To nie kaprys, lecz historia. 'Cattle' i 'vermin' weszły z normandzkiego francuskiego jako rzeczowniki zbiorowe oznaczające MASĘ pojedynczych sztuk (cattle to etymologicznie ten sam wyraz co 'chattel' — ruchomy dobytek), a angielski od początku traktował je jako zbiór jednostek. 'Police' to skrót od 'police force' — czyli od ciała złożonego z ludzi — i utrwaliło się jako mnogie na zawsze; nie istnieje forma *'a police' w znaczeniu policjanta, trzeba powiedzieć 'a police officer'. 'People' zaś jest podwójne: jako 'ludzie' zawsze mnogie ('people are'), ale jako 'lud, naród' policzalne i regularne ('the peoples of Europe are', 'a people is')."
+      },
+      {
+        "label": "'A number of' kontra 'the number of' — jak rzeczownik zamienia się w kwantyfikator",
+        "text": "To najczęściej mylona para w całym temacie, a jej wyjaśnienie jest wyjątkowo eleganckie. 'The number of complaints HAS risen' — tu 'number' to prawdziwy rzeczownik, oznaczający konkretną liczbę, wartość na wykresie; skarg jest wiele, ale liczba jest jedna. 'A number of complaints HAVE been ignored' — tu 'number' przestało cokolwiek znaczyć: to zgramatykalizowany kwantyfikator, dokładny synonim 'several/many'. Semantycznym rdzeniem frazy nie jest już 'number', lecz 'complaints' — i to ono rządzi czasownikiem. Sygnałem tej przemiany jest przedimek: określone 'the' wskazuje na konkretny byt (liczbę), nieokreślone 'a' otwiera drogę do wyblaknięcia znaczenia. Ten sam mechanizm gramatykalizacji stoi za 'a lot of', 'a couple of', 'a load of', 'a bunch of' (patrz temat: Partitywy). Praktyczny test: jeśli da się podmienić całość na 'many' bez zmiany sensu — czasownik idzie za rzeczownikiem po 'of'."
+      },
+      {
+        "label": "Kiedy wolno świadomie użyć zasady bliskości",
+        "text": "Zasada bliskości ma najgorszą prasę: w większości przypadków to po prostu błąd przyciągania. Ale w dwóch miejscach angielszczyzna uznaje ją za NORMĘ, a nie usterkę — przy podmiotach połączonych 'or/nor' (część czwarta) i w konstrukcji egzystencjalnej z 'there' przed wyliczeniem (część szósta). Warto rozumieć różnicę: bliskość jest legalna tam, gdzie zgodność gramatyczna nie ma jednoznacznego rozstrzygnięcia, bo nie istnieje jeden podmiot mnogi — a nielegalna tam, gdzie podmiot jest jasny, a jedynie oddalony od czasownika przez wtrącenie."
+      }
     ],
     "usage": [
-      "Jack and Jill are climbing the hill. — and zwykle daje liczbę mnogą",
-      "Either the manager or the employees are wrong. — czasownik zgadza się z bliższym podmiotem (employees)",
-      "Neither he nor I am to blame. — z I zawsze am, nawet jeśli to nietypowo brzmi",
-      "Rice and beans is a common dish. — połączenie traktowane jako jedna potrawa → liczba pojedyncza"
+      "Trzy zasady: gramatyczna (forma), znaczeniowa (ile rzeczy myślę) i bliskości (co stoi obok czasownika)",
+      "BrE dopuszcza 'the team are' przy myśleniu o członkach; AmE trzyma się 'the team is' niemal zawsze",
+      "Orzeczenie zdradza wybór: 'decided unanimously' → pojedyncza, 'were arguing among themselves' → mnoga",
+      "Nie mieszaj w jednym zdaniu: 'the team is playing its best' albo 'the team are playing their best'",
+      "the police / the cattle / the clergy / people zawsze z czasownikiem mnogim, mimo braku końcówki -s",
+      "'a number of' = many → czasownik mnogi; 'the number of' = wartość → czasownik pojedynczy"
     ],
-    "tags": ["tom and jerry are", "neither...nor is/are", "either...or"],
+    "tags": ["the team is / are", "the police are", "a number of have", "the number of has"],
     "examples": [
-      { "en": "My brother and my sister are both doctors.", "pl": "Mój brat i moja siostra są lekarzami." },
-      { "en": "Neither the students nor the teacher was ready.", "pl": "Ani uczniowie, ani nauczyciel nie byli gotowi." },
-      { "en": "Either you or he is going to apologize.", "pl": "Albo ty, albo on przeprosisz." },
-      { "en": "Fish and chips is my favourite meal.", "pl": "Ryba z frytkami to moje ulubione danie." }
+      { "en": "The jury has returned a unanimous verdict.", "pl": "Ława przysięgłych wydała jednomyślny werdykt. (jedno ciało → is)" },
+      { "en": "The jury are still arguing among themselves.", "pl": "Przysięgli wciąż się między sobą spierają. (poszczególne osoby, BrE → are)" },
+      { "en": "The police have not released the suspect's name.", "pl": "Policja nie ujawniła nazwiska podejrzanego." },
+      { "en": "A number of passengers were left stranded overnight.", "pl": "Wielu pasażerów zostało na noc bez możliwości wyjazdu." },
+      { "en": "The number of passengers using the line has doubled.", "pl": "Liczba pasażerów korzystających z tej linii podwoiła się." },
+      { "en": "Our staff are trained to handle complaints themselves.", "pl": "Nasi pracownicy są przeszkoleni, by samodzielnie obsługiwać reklamacje." }
     ]
   },
   {
-    "id": "there_quantities",
+    "id": "coordination",
     "order": 4,
-    "nameEn": "there is/are & quantity expressions",
-    "namePl": "there is/are oraz wyrażenia ilościowe",
+    "nameEn": "Coordinated subjects: and, or, nor and the one-referent trap",
+    "namePl": "Podmioty połączone spójnikiem: and, or, nor i pułapka jednego desygnatu",
     "rules": [
-      { "label": "there is/are", "text": "Czasownik po there zgadza się z rzeczownikiem, który następuje po nim: there is a book, there are books" },
-      { "label": "Kwantyfikatory niepoliczalne", "text": "much, a little, a bit of + rzeczownik niepoliczalny → liczba pojedyncza (Much of the work is done.)" },
-      { "label": "Kwantyfikatory policzalne", "text": "many, a few, a number of, several + rzeczownik policzalny w liczbie mnogiej → liczba mnoga (A number of people are waiting.)" },
-      { "label": "the number of", "text": "the number of + rzeczownik mnogi → liczba pojedyncza (The number of visitors was high.), w przeciwieństwie do a number of" }
+      {
+        "label": "'And' tworzy zbiór — dlatego domyślnie czasownik mnogi",
+        "text": "'And' jest jedynym spójnikiem, który naprawdę sumuje podmioty w jeden zbiór o liczebności większej niż jeden: 'Tom and Jerry are friends'. Nie jest to arbitralna reguła, tylko prosta arytmetyka odniesienia — jeżeli fraza wskazuje na dwa byty, to znaczy, że bytów jest dwa. Zauważ, że działa to niezależnie od liczby samych członów: 'The dog and the cats were fed' (jeden pies + kilka kotów = zbiór wieloelementowy). Ta zasada jest tak silna, że obowiązuje nawet przy podmiotach abstrakcyjnych i zdaniowych: 'What he said and what he did were two different things'."
+      },
+      {
+        "label": "Wyjątek pozorny: dwa rzeczowniki, jeden desygnat",
+        "text": "'Fish and chips IS my favourite meal', 'Bread and butter WAS all we had', 'Law and order HAS become the main issue', 'Gin and tonic IS a summer drink'. To nie kaprys idiomatyczny, tylko konsekwencja tej samej arytmetyki: te wyrażenia oznaczają JEDNĄ rzecz, jedno danie, jedno pojęcie. Angielski koduje to bardzo systematycznie i najlepiej widać to na przykładzie osób, gdzie dostajesz gotowy test PRZEDIMKA. Porównaj: 'My friend and colleague IS coming' — jedna osoba, która jest zarazem moim przyjacielem i współpracownikiem, bo przedimek dzierżawczy pojawia się tylko raz. Kontra: 'My friend and MY colleague ARE coming' — dwie różne osoby, bo każdą wprowadza własny determinator. Reguła jest więc mechaniczna: powtórzony determinator = dwa desygnaty = czasownik mnogi; pojedynczy determinator + jedno pojęcie = czasownik pojedynczy."
+      },
+      {
+        "label": "Kwantyfikatory dystrybutywne unieważniają 'and'",
+        "text": "'Every man and every woman in this room HAS a story to tell'. Mimo 'and' czasownik jest pojedynczy, bo 'every' i 'each' to kwantyfikatory dystrybutywne: rozdzielają zbiór na pojedyncze egzemplarze i każą patrzeć na nie po kolei, po jednym naraz (patrz temat: Determinatory). Zbiór wciąż jest wieloelementowy, ale gramatyka podąża za sposobem, w jaki na niego patrzymy — to piękny przykład zwycięstwa zgodności znaczeniowej w kierunku ODWROTNYM niż zwykle: tu znaczenie ściąga liczbę w dół, nie w górę. Ta sama siła działa w 'Each of the students has a laptop' i w archaicznie brzmiącym, ale poprawnym 'Many a soldier has died here'."
+      },
+      {
+        "label": "'Or' i 'nor' rozdzielają, więc czasownik nie ma powodu być mnogi",
+        "text": "Kluczowa obserwacja: 'or' i 'nor' nie sumują, lecz stawiają alternatywę. W zdaniu 'The manager or the assistant will call you' twierdzę, że zadzwoni JEDNA osoba — nie wiem tylko która. Skoro nigdy nie chodzi o dwie osoby jednocześnie, liczba mnoga byłaby semantycznie niepoprawna. Gdy oba człony są pojedyncze, sprawa jest prosta: czasownik pojedynczy. Gdy człony różnią się liczbą albo osobą, angielski stosuje ZASADĘ BLISKOŚCI (closest-conjunct agreement): czasownik zgadza się z tym członem, który stoi najbliżej. 'Neither the teacher nor the STUDENTS ARE ready' — ale 'Neither the students nor the TEACHER IS ready'. Ta zasada nie jest anglosaskim wymysłem: identycznie zachowywała się łacina i greka, a we współczesnych językach świata zgodność z najbliższym członem to jedno z najczęstszych rozwiązań w ogóle."
+      },
+      {
+        "label": "Kłopotliwe 'Neither he nor I am' i strategia unikania",
+        "text": "Zasada bliskości działa też dla OSOBY, nie tylko liczby — i wtedy potrafi wyprodukować zdania poprawne, lecz koszmarnie brzmiące: 'Neither he nor I AM to blame' (bo najbliżej stoi 'I', a 'I' bierze 'am'). Native speakerzy w tym miejscu zwykle nie łamią reguły, tylko UCIEKAJĄ od konstrukcji, i tak samo powinieneś robić ty na egzaminie ustnym: 'Neither of us is to blame' albo 'He isn't to blame and neither am I' (o inwersji w 'neither am I' patrz temat: Elipsa i substytucja). To ważna umiejętność na poziomie C1/C2 — świadomość, że rozwiązaniem problemu gramatycznego bywa przeformułowanie zdania, a nie mozolne wykuwanie formy, której i tak nikt nie używa."
+      },
+      {
+        "label": "'Not only… but also' oraz 'either… or': ta sama logika bliskości",
+        "text": "Spójniki korelatywne z jednym członem twierdzącym zachowują się jak 'or': 'Not only the players but also the coach WAS suspended' / 'Not only the coach but also the players WERE suspended'. Odwrotnie jest z 'both… and', bo 'both' jawnie sumuje dwa byty: zawsze czasownik mnogi ('Both the coach and the players were suspended'). Warto to zapamiętać jako parę przeciwieństw: 'both…and' = dodawanie = mnoga bez wyjątku; 'either…or', 'neither…nor', 'not only…but also' = wybór = bliskość rozstrzyga (patrz temat: Spójniki korelatywne)."
+      }
     ],
     "usage": [
-      "There is milk in the fridge. — milk niepoliczalny → is",
-      "There are two apples on the table. — apples policzalny mnogi → are",
-      "A number of students have complained. — a number of + mnoga → czasownik mnogi",
-      "The number of unemployed people has risen. — the number of + mnoga → czasownik pojedynczy"
+      "'and' zwykle daje czasownik mnogi, bo tworzy zbiór dwóch lub więcej bytów",
+      "Powtórzony determinator = dwie osoby/rzeczy ('my friend and my colleague are'); jeden determinator = jeden byt ('my friend and colleague is')",
+      "Dania i utarte pojęcia jako całość → liczba pojedyncza: fish and chips is, law and order has",
+      "'every' i 'each' rozdzielają zbiór i wymuszają czasownik pojedynczy nawet po 'and'",
+      "Przy or / nor / either…or / neither…nor / not only…but also czasownik zgadza się z bliższym członem",
+      "'both… and' zawsze wymaga czasownika mnogiego",
+      "Gdy 'Neither he nor I am' brzmi koszmarnie — przeformułuj: 'Neither of us is…'"
     ],
-    "tags": ["there is milk", "there are apples", "a number of are", "the number of is"],
+    "tags": ["fish and chips is", "my friend and colleague is", "neither…nor is/are", "every… and every… has"],
     "examples": [
-      { "en": "There is a lot of traffic today.", "pl": "Dziś jest duży ruch uliczny." },
-      { "en": "There are several reasons for this.", "pl": "Jest kilka powodów tego." },
-      { "en": "A number of employees are working from home.", "pl": "Wielu pracowników pracuje z domu." },
-      { "en": "The number of complaints has decreased.", "pl": "Liczba skarg zmalała." }
+      { "en": "My best friend and business partner has just resigned.", "pl": "Mój najlepszy przyjaciel i zarazem wspólnik właśnie zrezygnował. (jedna osoba)" },
+      { "en": "My best friend and my business partner have just resigned.", "pl": "Mój najlepszy przyjaciel i mój wspólnik właśnie zrezygnowali. (dwie osoby)" },
+      { "en": "Neither the drivers nor the conductor was aware of the delay.", "pl": "Ani kierowcy, ani konduktor nie wiedzieli o opóźnieniu." },
+      { "en": "Neither the conductor nor the drivers were aware of the delay.", "pl": "Ani konduktor, ani kierowcy nie wiedzieli o opóźnieniu." },
+      { "en": "Every argument and every counterargument has already been heard.", "pl": "Każdy argument i każdy kontrargument już wybrzmiał." },
+      { "en": "Bangers and mash was the only thing on the menu.", "pl": "Kiełbaski z puree były jedyną rzeczą w menu. (jedno danie)" }
+    ]
+  },
+  {
+    "id": "quantifiers_measures",
+    "order": 5,
+    "nameEn": "Quantifiers, fractions and measure phrases — when the of-phrase takes over",
+    "namePl": "Kwantyfikatory, ułamki i miary — kiedy rządzi fraza z 'of'",
+    "rules": [
+      {
+        "label": "Miara to jedna wielkość, nie zbiór — dlatego 'Ten dollars is'",
+        "text": "'Ten dollars IS a lot of money', 'Twenty miles IS too far to walk', 'Three years IS a long time to wait', 'Two hundred grams of flour IS enough'. Forma rzeczownika jest jawnie mnoga, a czasownik uparcie pojedynczy — dlaczego? Bo nie mówimy o dziesięciu osobnych banknotach ani o dwudziestu osobnych milach, tylko o JEDNEJ WIELKOŚCI wyrażonej w jednostkach. Umysł traktuje taką frazę jak niepodzielną porcję, coś w rodzaju rzeczownika niepoliczalnego. Test jest natychmiastowy: gdy naprawdę chodzi o oddzielne egzemplarze, wraca liczba mnoga — 'Ten dollar bills WERE lying on the table' (dziesięć banknotów, każdy z osobna). Ta sama logika obejmuje działania arytmetyczne ('Two and two is four') oraz odległości, wagi, czasy i sumy w rachunkach."
+      },
+      {
+        "label": "Kwantyfikator + of: o zgodności decyduje rzeczownik po 'of'",
+        "text": "Przy kwantyfikatorach ilościowych — some, most, all, half, plenty, a lot, the rest, the remainder, percentages i ułamki — czasownik idzie za rzeczownikiem PO 'of', a nie za samym kwantyfikatorem: 'Most of the cake WAS eaten' kontra 'Most of the guests HAVE left'; 'Half of the money IS missing' kontra 'Half of the pages ARE torn'; '40% of the population LIVES abroad' kontra '40% of the students LIVE abroad'. Mechanizm jest ten sam co przy 'a number of': te słowa są zgramatykalizowanymi określnikami ilości, a nie pełnoznacznymi rzeczownikami, więc semantycznym rdzeniem frazy jest to, CO SIĘ MIERZY. Samo 'of' jest tutaj skamieliną dawnego dopełniacza cząstkowego, który angielski utracił jako końcówkę i odbudował przyimkiem (patrz temat: Partitywy)."
+      },
+      {
+        "label": "Kwantyfikatory selektywne wybierają jedną sztukę: each of, one of, either of, neither of, every one of",
+        "text": "Przeciwieństwem kwantyfikatorów ilościowych są selektywne, które z całego zbioru wyławiają POJEDYNCZY egzemplarz — i dlatego, mimo mnogiego rzeczownika po 'of', biorą czasownik pojedynczy: 'Each of the answers IS correct', 'One of my friends WORKS there', 'Neither of the options SEEMS acceptable'. Warto zestawić dwie frazy różniące się jednym słowem: 'Some of the players were injured' (ilość → mnoga) kontra 'One of the players was injured' (selekcja → pojedyncza). W mowie potocznej, zwłaszcza brytyjskiej, 'neither of them ARE' i 'none of them ARE' są dziś całkowicie zwyczajne — to zwycięstwo zasady bliskości i zgodności znaczeniowej — ale w piśmie formalnym trzymaj czasownik pojedynczy."
+      },
+      {
+        "label": "'None' — najstarszy nieporozumienie normatywne w tym temacie",
+        "text": "Przez dwa stulecia podręczniki powtarzały: 'none' pochodzi od 'not one', więc MUSI łączyć się z czasownikiem pojedynczym. Etymologia się zgadza — staroangielskie 'nān' to złożenie 'ne' + 'ān' (nie + jeden) — ale wniosek jest fałszywy, i to jest wzorcowy przykład błędu etymologicznego w gramatyce. Pochodzenie słowa nie decyduje o jego dzisiejszej składni. Co więcej, fakty są odwrotne: już w staroangielskim 'nān' łączyło się z czasownikiem mnogim, a mnoga zgodność jest nieprzerwanie poświadczona od IX wieku, u Alfreda, Chaucera, w Biblii Króla Jakuba i u Szekspira. Współczesna norma (OED, Fowler, Merriam-Webster) brzmi: obie formy są poprawne, a wybór jest ZNACZENIOWY. 'None of the students have passed' — ogólne stwierdzenie o grupie. 'None of the students HAS passed' — z naciskiem na „ani jeden, nikt z osobna”, ton bardziej formalny i emfatyczny. Przy rzeczowniku niepoliczalnym zawsze pojedynczy: 'None of the water was drinkable'."
+      },
+      {
+        "label": "'More than one' — jedyne miejsce, gdzie bliskość bije znaczenie na głowę",
+        "text": "'More than one student HAS complained' — czasownik pojedynczy, choć znaczenie jest jawnie mnogie (skarżyło się przynajmniej dwoje). To najciekawszy paradoks w całym temacie i doskonała ilustracja, że angielski nie jest maszyną logiczną. Zgodność ustala tu POWIERZCHNIOWA forma najbliższego elementu: 'one student', czyli fraza pojedyncza. Symetrycznie działa 'many a': 'Many a good man HAS fallen here' — archaiczna, retoryczna skamielina o znaczeniu mnogim i formie pojedynczej. Odwrotnie zachowuje się natomiast 'more than two': 'More than two students HAVE complained' — bo najbliższa fraza jest już mnoga. Zapamiętaj to jako parę: 'more than one is', ale 'more than two are'."
+      },
+      {
+        "label": "'One in five' i konstrukcje proporcji",
+        "text": "'One in five children LIVES in poverty' czy 'LIVE in poverty'? Formalnie nadrzędne jest 'one', więc pismo oficjalne i raporty statystyczne preferują liczbę pojedynczą. W mowie i publicystyce znaczenie („dużo dzieci”) bardzo często wygrywa i słyszy się 'live'. Obie formy są dziś notowane w słownikach użycia jako akceptowalne; różnica jest czysto rejestrowa. Podobnie zachowuje się 'a total of' ('A total of 300 people were evacuated' — tu mnoga jest wręcz standardem, bo 'a total of' zgramatykalizowało się w zwykły kwantyfikator) oraz 'the majority of' ('The majority of voters were against' — mnoga, chyba że mowa o samej większości jako bloku: 'The majority was slim')."
+      }
+    ],
+    "usage": [
+      "Miary, kwoty, odległości i okresy jako jedna wielkość → czasownik pojedynczy: 'Ten years is a long time'",
+      "some / most / all / half / the rest / procenty i ułamki + of → czasownik zgadza się z rzeczownikiem po 'of'",
+      "each of / one of / either of / neither of / every one of → zawsze czasownik pojedynczy w piśmie",
+      "'None' może być pojedyncze lub mnogie od tysiąca lat; pojedyncze brzmi formalnie i emfatycznie ('ani jeden')",
+      "'More than one student is' (bliskość), ale 'more than two students are'",
+      "'The majority of / a total of' + rzeczownik mnogi → czasownik mnogi"
+    ],
+    "tags": ["ten dollars is", "most of the guests have", "none of them has/have", "more than one is"],
+    "examples": [
+      { "en": "Fifteen minutes is all I need.", "pl": "Piętnaście minut to wszystko, czego potrzebuję." },
+      { "en": "Half of the report was written on the train.", "pl": "Połowa raportu powstała w pociągu." },
+      { "en": "Half of the reports were written on the train.", "pl": "Połowa raportów powstała w pociągu." },
+      { "en": "None of the evidence was admissible in court.", "pl": "Żaden z dowodów nie był dopuszczalny w sądzie." },
+      { "en": "None of my colleagues have complained so far.", "pl": "Żaden z moich współpracowników dotąd się nie skarżył." },
+      { "en": "More than one witness has changed their story.", "pl": "Więcej niż jeden świadek zmienił zeznania." },
+      { "en": "Two thirds of the electorate did not vote.", "pl": "Dwie trzecie elektoratu nie głosowało." }
+    ]
+  },
+  {
+    "id": "existential_there",
+    "order": 6,
+    "nameEn": "Existential 'there' — the one place where proximity is the norm",
+    "namePl": "Egzystencjalne 'there' — jedyne miejsce, gdzie bliskość jest normą",
+    "rules": [
+      {
+        "label": "'There' zajmuje miejsce podmiotu, ale nim nie jest",
+        "text": "W zdaniu 'There are three reasons for this' słowo 'there' nie wskazuje żadnego miejsca — jest pustym wypełniaczem pozycji podmiotu (dummy subject). Prawdziwy, ZNACZENIOWY podmiot ('three reasons') stoi po czasowniku. Skąd ta dziwna konstrukcja? Ze staroangielskiego szyku V2, w którym czasownik stał na drugiej pozycji, a przed nim mogła stanąć okoliczność miejsca: 'Þǣr wæs sum man' — dosłownie „Tam był pewien człowiek”. Kiedy szyk zesztywniał do SVO, wysunięte 'þǣr' straciło znaczenie lokatywne i zostało zreinterpretowane jako podmiot gramatyczny, mimo że nic nie znaczy. Dowód, że jest podmiotem SKŁADNIOWYM: to ono przeskakuje w pytaniach ('Are there any questions?') i wraca w question tagu ('There's a problem, isn't there?') — dokładnie tak, jak nakazuje test z części drugiej (patrz temat: There is / there are)."
+      },
+      {
+        "label": "Czasownik zgadza się z rzeczownikiem, który następuje po nim",
+        "text": "Ponieważ 'there' jest puste, nie może narzucić liczby — musi to zrobić prawdziwy podmiot stojący dalej: 'There IS a book on the desk' / 'There ARE books on the desk'. Ta sama zasada obejmuje konstrukcje z czasownikami wznoszącymi (raising verbs), gdzie 'there' wędruje w górę zdania: 'There SEEM to be several problems' — czasownik główny 'seem' zgadza się z 'several problems', bo to ono jest znaczeniowym podmiotem całej konstrukcji (patrz temat: Czasowniki wznoszące). Uwaga na formalne warianty: 'There EXIST two competing theories', 'There REMAIN a few unanswered questions' — czasownik pełnoznaczny działa dokładnie tak samo."
+      },
+      {
+        "label": "Wyliczenie po 'there': bliskość jest tu normą, nie usterką",
+        "text": "'There WAS a pen, two notebooks and a stapler on the desk'. Formalna logika chciałaby 'were', bo przedmiotów jest kilka — a jednak native speakerzy naturalnie wybierają liczbę pojedynczą i gramatyki opisowe uznają to za standard. Wyjaśnienie leży w kolejności produkcji mowy: w momencie wypowiadania czasownika mówiący zna dopiero PIERWSZY element listy i to on ustawia zgodność. To jest właśnie owo drugie legalne siedlisko zasady bliskości, o którym mówiliśmy w części trzeciej. Uwaga na kierunek: odwrotna kolejność brzmi już źle — 'There were two notebooks, a pen and a stapler' jest naturalne (mnogie na początku), ale *'There was two notebooks…' nie."
+      },
+      {
+        "label": "'There's two guys outside' — dlaczego ściągnięta forma łamie zgodność",
+        "text": "W mowie potocznej — we wszystkich odmianach angielskiego, u wszystkich klas społecznych — 'there's' pojawia się przed rzeczownikami mnogimi z ogromną częstotliwością: 'There's three people waiting', 'There's loads of reasons'. To nie niechlujstwo, tylko dwa nakładające się mechanizmy. Po pierwsze, 'there's' zrosło się w JEDEN niepodzielny kawałek przetwarzany jako całość — coś jak sygnał „zaraz podam, co istnieje” — i przestało być odczuwane jako 'there' + 'is'. Po drugie, konkurencyjna forma 'there're' jest fonetycznie nieporęczna: dwa /r/ obok siebie zlewają się w nieodróżnialną od 'there' plamę dźwiękową, więc rynek nie ma jej czym wypełnić. Skutek jest asymetryczny i to najlepszy dowód całego rozumowania: ściągnięte 'there's' przed mnogim jest wszechobecne, ale pełne, nieściągnięte *'There is three people' brzmi już wyraźnie źle. W piśmie i na egzaminie stosuj zgodność: 'There are three people waiting'."
+      },
+      {
+        "label": "Konstrukcja egzystencjalna a rzeczywisty podmiot lokatywny",
+        "text": "Nie myl konstrukcji egzystencjalnej z pełnoznacznym 'there' oznaczającym miejsce, które akcentujemy w mowie i które nie zajmuje pozycji podmiotu: 'There's the man I told you about' (Ot i ten człowiek, o którym mówiłem — wskazujemy palcem) albo w inwersji lokatywnej 'There goes our last chance'. W tej drugiej konstrukcji zgodność liczy się z rzeczywistym podmiotem, który stoi po czasowniku: 'There go our last chances'. Rozróżnisz je akcentem — egzystencjalne 'there' jest zawsze nieakcentowane i zredukowane do /ðə/ (patrz temat: Inwersja)."
+      }
+    ],
+    "usage": [
+      "'there' jest pustym podmiotem gramatycznym; liczbę narzuca rzeczownik stojący PO czasowniku",
+      "There is a problem / There are problems / There seem to be problems / There remain doubts",
+      "Przed wyliczeniem czasownik zgadza się zwykle z pierwszym elementem: 'There was a pen, two books and a lamp'",
+      "'There's' przed rzeczownikiem mnogim to zwyczajna mowa potoczna, ale w piśmie stosuj 'there are'",
+      "Egzystencjalne 'there' jest nieakcentowane; akcentowane 'there' oznacza miejsce i zachowuje się inaczej"
+    ],
+    "tags": ["there is / there are", "there seem to be", "there's two guys", "there remain"],
+    "examples": [
+      { "en": "There are several ways of looking at this.", "pl": "Jest kilka sposobów patrzenia na tę sprawę." },
+      { "en": "There seems to be a misunderstanding between us.", "pl": "Wygląda na to, że zaszło między nami nieporozumienie." },
+      { "en": "There appear to be no records from that period.", "pl": "Wygląda na to, że nie ma żadnych zapisów z tego okresu." },
+      { "en": "There was a laptop, two chargers and a stack of papers on the desk.", "pl": "Na biurku był laptop, dwie ładowarki i stos papierów." },
+      { "en": "There remain a number of issues to be resolved.", "pl": "Pozostaje szereg kwestii do rozstrzygnięcia." }
+    ]
+  },
+  {
+    "id": "relatives_and_clefts",
+    "order": 7,
+    "nameEn": "Agreement inside relative clauses and cleft sentences",
+    "namePl": "Zgodność w zdaniach względnych i rozszczepionych",
+    "rules": [
+      {
+        "label": "Zaimek względny dziedziczy liczbę po poprzedniku",
+        "text": "'Who', 'which' i 'that' nie mają własnej liczby — są przezroczyste i przekazują czasownikowi liczbę swojego POPRZEDNIKA (antecedent): 'the man who IS waiting' kontra 'the people who ARE waiting'. To dlatego zdania względne są tak wdzięcznym polem do błędów: między poprzednikiem a czasownikiem potrafi stanąć sporo materiału, a wtedy uruchamia się mechanizm przyciągania z części drugiej. Praktyka jest zawsze taka sama: znajdź rzeczownik, który zdanie względne OPISUJE, i to jego liczbę przenieś na czasownik (patrz temat: Zdania względne)."
+      },
+      {
+        "label": "'One of the people who…' — klasyk, który rozstrzyga się przez pytanie o zakres",
+        "text": "'She is one of those managers who ALWAYS BLAME their staff' czy 'who ALWAYS BLAMES'? Odpowiedź zależy wyłącznie od tego, CO opisuje zdanie względne. W 'one of those managers who blame their staff' zdanie względne charakteryzuje CAŁĄ GRUPĘ menedżerów (istnieje typ menedżerów, którzy obwiniają personel — ona jest jednym z nich), więc poprzednikiem jest mnogie 'managers' i czasownik jest mnogi. Dodanie 'the only' odwraca wszystko: 'She is THE ONLY ONE of the managers who BLAMES her staff' — tu zdanie względne wyróżnia JĄ spośród reszty, więc poprzednikiem staje się pojedyncze 'one'. Test parafrazą: jeśli da się powiedzieć „spośród menedżerów, którzy X, ona jest jednym” → mnoga; jeśli „ona jedyna X” → pojedyncza."
+      },
+      {
+        "label": "Zdania rozszczepione: 'It is I who am to blame'",
+        "text": "W konstrukcji rozszczepionej z 'it' czasownik w zdaniu względnym zgadza się z WYRÓŻNIONYM elementem, a nie z pustym 'it': 'It is I who AM to blame', 'It is they who ARE responsible', 'It was the students who WERE protesting'. Ta zgodność jest jednym z najlepszych dowodów, że 'it' w cleftach nie ma własnej treści — jest tylko rusztowaniem pozwalającym wypchnąć fokus do przodu (patrz temat: Zdania rozszczepione). W mowie potocznej cała konstrukcja zmiękcza się do 'It's me who's to blame': zaimek przybiera formę dopełnieniową 'me', a czasownik idzie za nią w trzeciej osobie. Obie wersje są używane, ale mieszają się rejestry — 'It is I who is to blame' to hiperpoprawność i brzmi źle w obu."
+      },
+      {
+        "label": "Pseudo-clefty i zdania specyfikujące: 'What we need is / are more nurses'",
+        "text": "Fraza 'what we need' jest formalnie pojedyncza (to wolne zdanie względne, patrz temat: Zdania względne bez poprzednika), więc kanoniczne jest 'What we need IS more nurses'. Jednak wiele osób — zwłaszcza w brytyjskiej angielszczyźnie — mówi 'What we need ARE more nurses', bo czasownik przyciąga liczbę ELEMENTU PO ORZECZNIKU. Ten typ zdania (specificational sentence) jest szczególny: dwie strony 'be' są tu niemal równorzędne, więc gramatyka nie ma jednoznacznego zwycięzcy i tolerowane są obie formy. Ta sama chwiejność pojawia się w zwykłych zdaniach z orzecznikiem: 'The main problem IS the rising costs' i 'The main problems ARE the rising cost' — bezpieczna strategia w piśmie to zgodność z PODMIOTEM, nie z orzecznikiem."
+      },
+      {
+        "label": "'There are those who…' i inne poprzedniki wbudowane",
+        "text": "Zwrot 'There are those who believe…' to połączenie dwóch mechanizmów: egzystencjalnego 'there' (część szósta) i zdania względnego (ta część). Mnoga zgodność pojawia się dwukrotnie — raz w 'are' (bo znaczeniowy podmiot 'those' jest mnogi), raz w 'believe' (bo poprzednikiem 'who' jest 'those'). Zwróć uwagę na wariant pojedynczy: 'There is no one who KNOWS the answer'. Analogicznie działa 'anyone who', 'everybody who', 'each of us who' — poprzednikami są zaimki nieokreślone, więc gramatycznie pojedyncze."
+      }
+    ],
+    "usage": [
+      "Czasownik po who/which/that bierze liczbę od poprzednika, nie od najbliższego rzeczownika",
+      "'one of the X who + czasownik mnogi', ale 'the only one of the X who + czasownik pojedynczy'",
+      "W cleftach zgodność ustala wyróżniony element: 'It is I who am', 'It is they who are'",
+      "'What we need is/are…' — obie formy są w użyciu; w piśmie bezpieczniejsza jest zgodność z podmiotem",
+      "'There are those who…' — mnoga zgodność pojawia się dwukrotnie, w 'are' i w czasowniku po 'who'"
+    ],
+    "tags": ["one of those who are", "the only one who is", "it is I who am", "what we need is"],
+    "examples": [
+      { "en": "He is one of those people who never admit they are wrong.", "pl": "To jeden z tych ludzi, którzy nigdy nie przyznają się do błędu." },
+      { "en": "She is the only one of the applicants who has relevant experience.", "pl": "Jako jedyna spośród kandydatów ma odpowiednie doświadczenie." },
+      { "en": "It is the details that make the difference here.", "pl": "To szczegóły robią tu różnicę." },
+      { "en": "There are those who would disagree with that assessment.", "pl": "Są tacy, którzy nie zgodziliby się z tą oceną." },
+      { "en": "What really annoys me is the endless meetings.", "pl": "To, co naprawdę mnie irytuje, to te niekończące się spotkania." }
+    ]
+  },
+  {
+    "id": "c2_edge_cases",
+    "order": 8,
+    "nameEn": "C2 edge cases: plural shapes, singular meanings and shifting norms",
+    "namePl": "Poziom C2: mnoga forma, pojedyncze znaczenie i normy w ruchu",
+    "rules": [
+      {
+        "label": "'News' — rzeczownik, który w XVII wieku zmienił liczbę",
+        "text": "'No news IS good news'. Dziś 'news' jest bezdyskusyjnie niepoliczalne, ale nie zawsze tak było. Pierwotnie było to zwyczajne 'newes' — liczba mnoga przymiotnika 'new' użytego rzeczownikowo, kalka francuskiego 'nouvelles' i łacińskiego 'nova' (rzeczy nowe). Do XVII wieku pisano całkiem normalnie 'these news are'. Potem zaszła REANALIZA: mówiący przestali widzieć w tym słowie zbiór pojedynczych nowin, a zaczęli widzieć jedną niepoliczalną materię — informację, dokładnie tak jak 'information' czy 'advice'. Końcówka -s została, ale straciła funkcję gramatyczną i stała się częścią rdzenia. To wzorcowy przykład tego, jak forma zostaje na miejscu, a znaczenie i składnia odchodzą — dlatego dziś nie da się powiedzieć *'a news', trzeba 'a piece of news' (patrz temat: Partitywy)."
+      },
+      {
+        "label": "Nauki na -ics: greckie liczby mnogie zamrożone w pojedyncze nazwy dziedzin",
+        "text": "'Mathematics IS my favourite subject', 'Physics WAS never my strong point', 'Economics HAS changed a lot since 2008'. Końcówka -ics pochodzi z greckiej liczby mnogiej nijakiej -ika ('ta mathēmatika' = rzeczy dotyczące uczenia się), która przez łacinę weszła do angielskiego jako nazwy dyscyplin. Ponieważ dziedzina wiedzy to jeden byt, angielski traktuje takie nazwy jako pojedyncze. Ale to samo słowo potrafi wrócić do znaczenia mnogiego, gdy oznacza nie dziedzinę, lecz konkretne cechy, dane albo poglądy: 'His politics ARE hard to pin down' (jego poglądy), 'The acoustics in this hall ARE terrible' (właściwości akustyczne sali), 'The statistics SHOW a clear trend' (konkretne dane) kontra 'Statistics IS a demanding subject' (dziedzina). To rozróżnienie znaczeniowe — nie wyjątek do wykucia."
+      },
+      {
+        "label": "'The United States is' — gramatyczny ślad zjednoczenia narodu",
+        "text": "To prawdopodobnie najbardziej poruszający przykład zgodności znaczeniowej w historii angielskiego. Do połowy XIX wieku pisano i mówiono 'The United States ARE' — państwa były pojmowane jako ZWIĄZEK oddzielnych stanów, więc czasownik był mnogi. Po wojnie secesyjnej (1861–1865) uzus przechylił się w stronę 'The United States IS' i do lat 80. XIX wieku zmiana była w zasadzie dokonana. Historycy języka i publicyści epoki zwracali na to uwagę wprost: gramatyka nadążyła za polityką, a zmiana liczby czasownika odzwierciedliła przejście od konfederacji do jednego narodu. Ta sama pojedyncza zgodność obejmuje dziś inne mnogie w formie nazwy państw i organizacji: 'The Netherlands IS', 'The Philippines HAS', 'The United Nations HAS'. Uwaga na kontrast: 'The Himalayas ARE' — bo to zbiór gór, nie jeden byt polityczny."
+      },
+      {
+        "label": "Pluralia tantum i ratunek w postaci 'a pair of'",
+        "text": "Nazwy przedmiotów dwuczęściowych są w angielskim wyłącznie mnogie: scissors, trousers, jeans, glasses, binoculars, pliers, tongs, tights. 'The scissors ARE blunt', 'Your trousers ARE torn'. Logika jest ikoniczna — przedmiot ma dwa symetryczne ramiona lub nogawki, więc język widzi w nim parę. Nie da się powiedzieć *'a scissor', a jedyna droga do liczby pojedynczej wiedzie przez partitiv 'a pair of', który sam staje się rzeczownikiem nadrzędnym i przejmuje zgodność: 'A pair of scissors IS lying on the table', 'Two pairs of scissors ARE missing'. Do tej samej rodziny należą 'belongings', 'outskirts', 'surroundings', 'premises' (w znaczeniu budynku) i 'thanks'."
+      },
+      {
+        "label": "'Data', 'media', 'criteria' — łacińskie liczby mnogie w trakcie reanalizy",
+        "text": "Angielski wciąż trawi łacińskie i greckie zapożyczenia, a zgodność jest tu polem żywej zmiany (patrz temat: Liczba mnoga wyrazów obcych). 'Agenda' była kiedyś mnoga (rzeczy do zrobienia), dziś jest bez zastrzeżeń pojedyncza i ma własną liczbę mnogą 'agendas' — reanaliza w pełni zakończona. 'Data' jest w połowie drogi: w piśmie naukowym i w prestiżowej prasie brytyjskiej nadal spotkasz 'the data ARE inconclusive' (bo 'datum' istnieje jako forma pojedyncza), ale w informatyce, biznesie i mowie potocznej dominuje traktowanie jak masy: 'the data IS encrypted'. 'Media' zachowuje się podobnie: 'the media HAVE reported' w tekstach formalnych, 'the media IS obsessed with…' w mowie. Natomiast 'criteria' i 'phenomena' pozostają wyraźnie mnogie i użycie *'a criteria' albo *'this phenomena' jest wciąż odbierane jako błąd — to dobra wskazówka, że reanaliza postępuje najszybciej tam, gdzie forma pojedyncza wypadła z codziennego użycia."
+      },
+      {
+        "label": "Pojedyncze 'they' — mnoga forma czasownika bez mnogiego znaczenia",
+        "text": "'Somebody left their coat behind — I hope THEY WERE not in a hurry'. Rodzajowe 'they' odnoszące się do jednej nieokreślonej osoby wymusza czasownik w formie mnogiej: zawsze 'they were', nigdy *'they was' w normie standardowej. To pokazuje coś fundamentalnego o angielskiej zgodności: czasownik zgadza się z FORMĄ zaimka, a nie z liczbą osób w świecie — dokładnie tak samo jak grzecznościowe 'you were' odnoszące się do jednej osoby, będące spadkiem po wyparciu 'thou' (część pierwsza). Jedyne miejsce, gdzie pojedynczość wypływa na powierzchnię, to zaimek zwrotny: obok tradycyjnego 'themselves' od kilkudziesięciu lat rośnie w użyciu 'themself' (patrz temat: Rodzajowe 'they')."
+      },
+      {
+        "label": "'If I were' — to nie zgodność, tylko inny tryb",
+        "text": "Częste nieporozumienie: 'If I WERE you' bywa uznawane za wyjątek w zgodności. Nie jest. 'Were' to tutaj ostatnia żywa forma trybu łączącego (past subjunctive), która w staroangielskim miała własny paradygmat: wǣre dla trybu łączącego, wæs dla oznajmującego. Zgodność liczby nie ma tu nic do rzeczy, bo forma subjunctive była JEDNA dla wszystkich osób. Podobnie zachowuje się mandatywny subjunctive: 'I insist that he BE present', 'They demanded that she RESIGN' — brak -s nie jest błędem zgodności, tylko śladem trybu (patrz temat: Tryb łączący)."
+      },
+      {
+        "label": "Zgodność w elipsie, tagach i skrótach — sprawdzian całego tematu",
+        "text": "Ostatnia rzecz na poziomie C2: zgodność musi być ODTWARZALNA także tam, gdzie czasownik został pominięty. W question tagu zaimek ujawnia liczbę podmiotu ('Neither of them has arrived, HAS IT?' brzmi źle — poprawnie 'have they?' w mowie albo przeformułowanie w piśmie). W konstrukcjach 'So do I / Neither am I' operator musi zgadzać się z NOWYM podmiotem, a nie z poprzednim zdaniem: 'My colleagues are exhausted — so AM I' (patrz temat: Elipsa i substytucja). A przy elipsie w koordynacji trzeba uważać, by pominięty czasownik pasował do obu podmiotów: '*My brother was angry and my parents too' jest nieporadne, bo 'was' nie obsłuży 'parents'; napisz 'My brother was angry and so were my parents'. To dobry test końcowy: jeśli potrafisz rozwinąć każdą elipsę do pełnego zdania z poprawną zgodnością, temat masz opanowany."
+      }
+    ],
+    "usage": [
+      "news, mathematics, physics, economics, politics (jako dziedzina), measles, billiards → czasownik pojedynczy",
+      "his politics / the acoustics / the statistics (konkretne dane, cechy, poglądy) → czasownik mnogi",
+      "Nazwy państw i organizacji o mnogiej formie: The United States is, The Netherlands is, The UN has",
+      "scissors, trousers, glasses → zawsze mnogie; 'a pair of scissors is' przenosi zgodność na 'pair'",
+      "'data' i 'media' są w trakcie reanalizy: mnogie w piśmie naukowym, pojedyncze w mowie i biznesie",
+      "Rodzajowe pojedyncze 'they' zawsze bierze czasownik mnogi: 'they were', nigdy 'they was'",
+      "'If I were' i 'I insist that he be' to tryb łączący, a nie wyjątek w zgodności"
+    ],
+    "tags": ["no news is good news", "the United States is", "a pair of scissors is", "the data is/are"],
+    "examples": [
+      { "en": "No news is good news, as my grandmother used to say.", "pl": "Brak wiadomości to dobra wiadomość, jak mawiała moja babcia." },
+      { "en": "Economics is often called the dismal science.", "pl": "Ekonomię często nazywa się ponurą nauką." },
+      { "en": "His politics have shifted considerably over the years.", "pl": "Jego poglądy polityczne mocno się przez lata zmieniły." },
+      { "en": "The United States has withdrawn from the agreement.", "pl": "Stany Zjednoczone wycofały się z porozumienia." },
+      { "en": "A pair of binoculars was left on the bench.", "pl": "Na ławce zostawiono lornetkę." },
+      { "en": "The data suggest that the effect is smaller than reported.", "pl": "Dane sugerują, że efekt jest mniejszy niż podawano. (rejestr naukowy)" },
+      { "en": "Whoever wrote this clearly knew what they were doing.", "pl": "Ktokolwiek to napisał, wyraźnie wiedział, co robi." },
+      { "en": "The board insists that every member be present.", "pl": "Zarząd nalega, aby każdy członek był obecny." }
     ]
   }
 ]
