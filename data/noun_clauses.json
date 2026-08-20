@@ -1,98 +1,196 @@
 [
   {
-    "id": "that_clauses",
+    "id": "concept_and_history",
     "order": 1,
-    "nameEn": "That-clauses as subject and object",
-    "namePl": "Zdania rzeczownikowe z that jako podmiot i dopełnienie",
+    "nameEn": "The concept of a noun clause — and how a pointing finger became a conjunction",
+    "namePl": "Koncepcja zdania rzeczownikowego — jak wskazujący gest zmienił się w spójnik",
     "rules": [
-      { "label": "Budowa", "text": "that + podmiot + orzeczenie — całe zdanie pełni funkcję rzeczownika: podmiotu, dopełnienia lub dopełnienia po przymiotniku" },
-      { "label": "Pominięcie that", "text": "gdy zdanie z that jest dopełnieniem czasownika (np. po think, believe, say, know), spójnik that często pomija się w mowie potocznej: I think (that) he's right." },
-      { "label": "Jako podmiot", "text": "gdy that-clause jest podmiotem zdania, that jest obowiązkowe i nie można go pominąć: That he passed the exam surprised no one." }
+      {
+        "label": "Model myślowy: zdanie jako 'gniazdko' w miejscu rzeczownika",
+        "text": "Zdanie rzeczownikowe (noun clause) to całe zdanie podrzędne, które gramatycznie zachowuje się dokładnie tak, jak pojedynczy rzeczownik lub fraza rzeczownikowa — zajmuje te same miejsca w strukturze zdania: podmiot (That he lied surprised no one — porównaj: His lie surprised no one), dopełnienie (I know what she wants — porównaj: I know the answer), dopełnienie przymiotnika (I'm sure that he'll come — porównaj: I'm sure of his arrival), dopełnienie rzeczownika abstrakcyjnego jako apozycja (the fact that he apologized — porównaj: the fact of his apology) oraz dopełnienie przyimka (It depends on what you decide — porównaj: It depends on your decision). Najprostszy test na zdanie rzeczownikowe: czy można je zastąpić pojedynczym słowem 'it', 'this' albo 'something' bez zniszczenia struktury zdania? Jeśli tak — to zdanie zajmuje 'gniazdko' zarezerwowane dla rzeczownika, a nie np. dla okolicznika."
+      },
+      {
+        "label": "Gramatykalizacja: od zaimka wskazującego þæt do spójnika 'that'",
+        "text": "Angielskie 'that' jako spójnik wprowadzający zdanie podrzędne nie pojawiło się znikąd — to końcowy produkt procesu zwanego gramatykalizacją, czyli stopniowej przemiany pełnoznacznego słowa w czysto strukturalny wyznacznik gramatyczny. W staroangielskim þæt było przede wszystkim zaimkiem wskazującym rodzaju nijakiego ('to, tamto', forma pokrewna dzisiejszemu 'that' jako 'tamten'). Konstrukcja typu 'He sæde þæt: he wolde faran' ('Powiedział TO: chciał jechać') pierwotnie składała się z DWÓCH osobnych zdań — þæt wskazywało (niemal jak gest wskazującym palcem) na treść, która miała zaraz nastąpić, pełniąc rolę zapowiedzi. Z czasem ta para zdań zrosła się składniowo w jedną strukturę podrzędną, a þæt straciło swoje pierwotne znaczenie wskazujące (uległo tzw. wybieleniu semantycznemu, semantic bleaching) i przekształciło się w czysty sygnał podrzędności — spójnik, który dziś nie 'wskazuje' na nic, tylko zapowiada, że zaraz nastąpi zdanie pełniące funkcję rzeczownika."
+      },
+      {
+        "label": "To nie angielska osobliwość — to uniwersalna ścieżka rozwoju językowego",
+        "text": "Ta sama droga — zaimek wskazujący/pytający zamieniający się w spójnik podrzędności — powtarza się niezależnie w wielu językach indoeuropejskich, co dowodzi, że nie jest to przypadkowa cecha angielszczyzny, lecz naturalny, powtarzalny mechanizm ewolucji języka. Łacińskie 'quod' ('że') to dawny zaimek względny/pytający ('co, który'). Greckie 'hoti' ('że') to dosłownie zrost zaimka względnego 'ho' + partykuła 'ti' ('co'). Nawet polskie 'że' ma podobny rodowód wskazująco-zaimkowy. Kiedy rozumie się tę uniwersalną ścieżkę (zaimek → spójnik), przestaje dziwić, dlaczego 'that' w zdaniu rzeczownikowym wygląda identycznie jak 'that' używane jako zaimek wskazujący ('that book') — to nie przypadkowa homonimia, lecz dwie gałęzie tego samego historycznego słowa, jedna zamrożona w pierwotnej funkcji wskazującej, druga wyewoluowana w czysto gramatyczny łącznik."
+      },
+      {
+        "label": "Dlaczego dzisiejsze 'that' bywa niewidoczne, a czasem musi zostać",
+        "text": "Ponieważ 'that'-spójnik jest semantycznie niemal puste (jego jedyną funkcją jest sygnalizowanie granicy zdania podrzędnego), język toleruje jego pominięcie tam, gdzie granica ta jest i tak jasna z kontekstu — głównie w pozycji dopełnienia czasownika, gdzie sama bliskość czasownika i następującego po nim zdania wystarcza, by odczytać podrzędność: I think (that) he's right. Natomiast tam, gdzie brak 'that' prowadziłby do błędnego, 'ślepego' odczytania zdania (tzw. efekt garden-path, czyli błędnej ścieżki interpretacyjnej), spójnik musi pozostać widoczny — zwłaszcza gdy zdanie z 'that' jest podmiotem: 'That he left surprised me' nie może stracić 'that', bo 'He left surprised me' zostałoby błędnie odczytane jako dwa oddzielne, niepowiązane zdania postawione obok siebie, zanim czytelnik dotarłby do czasownika 'surprised' i zorientował się, że to jedna całość."
+      }
     ],
     "usage": [
-      "Dopełnienie po czasownikach opinii i mowy: think, believe, know, say, admit, suggest, hope that...",
-      "Podmiot zdania (styl formalny/pisany): That she resigned so suddenly shocked everyone.",
-      "Dopełnienie po przymiotnikach wyrażających uczucia lub pewność: I'm glad that you came. / I'm sure that he'll agree.",
-      "Dopełnienie po rzeczownikach abstrakcyjnych: the fact that, the idea that, the possibility that"
+      "Zdanie rzeczownikowe zajmuje dokładnie te same pozycje składniowe co pojedynczy rzeczownik: podmiot, dopełnienie czasownika, dopełnienie przymiotnika, apozycję rzeczownika abstrakcyjnego, dopełnienie przyimka",
+      "Test rozpoznawczy: jeśli można zastąpić fragment zdania słowem 'it'/'this'/'something' bez naruszenia struktury — to jest to zdanie rzeczownikowe",
+      "Spójnik 'that' to zgramatykalizowany, wybielony semantycznie potomek staroangielskiego zaimka wskazującego þæt — ta sama ścieżka rozwojowa (zaimek → spójnik) występuje niezależnie w łacinie (quod), grece (hoti) i innych językach indoeuropejskich",
+      "'That' można pominąć tam, gdzie kontekst i tak jednoznacznie sygnalizuje podrzędność (najczęściej po czasowniku); trzeba je zachować tam, gdzie jego brak prowadziłby do błędnego, dwuznacznego odczytania zdania (zwłaszcza w pozycji podmiotu)"
     ],
-    "tags": ["that-clause", "I think that", "the fact that", "podmiot zdaniowy"],
+    "tags": ["zdanie rzeczownikowe", "gramatykalizacja", "þæt", "noun clause slot"],
     "examples": [
-      { "en": "I believe (that) she is telling the truth.", "pl": "Wierzę, że mówi prawdę." },
-      { "en": "That he lied to us surprised no one.", "pl": "To, że nas okłamał, nikogo nie zaskoczyło." },
-      { "en": "She was disappointed that nobody had called.", "pl": "Była rozczarowana, że nikt nie zadzwonił." },
-      { "en": "The fact that he apologized doesn't change anything.", "pl": "Fakt, że przeprosił, niczego nie zmienia." }
+      { "en": "That he lied to us surprised no one. (noun clause as subject)", "pl": "To, że nas okłamał, nikogo nie zaskoczyło. (zdanie rzeczownikowe jako podmiot)" },
+      { "en": "I know what she wants. (noun clause as object)", "pl": "Wiem, czego ona chce. (zdanie rzeczownikowe jako dopełnienie)" },
+      { "en": "I'm sure that he'll agree. (noun clause as adjective complement)", "pl": "Jestem pewien, że się zgodzi. (zdanie rzeczownikowe jako dopełnienie przymiotnika)" },
+      { "en": "It all depends on what we decide. (noun clause as complement of a preposition)", "pl": "Wszystko zależy od tego, co zdecydujemy. (zdanie rzeczownikowe jako dopełnienie przyimka)" }
     ]
   },
   {
-    "id": "wh_clauses",
+    "id": "that_clauses",
     "order": 2,
-    "nameEn": "Wh-clauses as subject and object",
-    "namePl": "Zdania rzeczownikowe z wh- jako podmiot i dopełnienie",
+    "nameEn": "That-clauses: complement, subject, and appositive — three jobs for one fossil pronoun",
+    "namePl": "Zdania z 'that': dopełnienie, podmiot i apozycja — trzy funkcje jednej skamieliny zaimkowej",
     "rules": [
-      { "label": "Budowa", "text": "what/who/where/when/why/how + podmiot + orzeczenie (szyk zdania twierdzącego, BEZ inwersji pytającej)" },
-      { "label": "Funkcja", "text": "całe zdanie wh- działa jak rzeczownik — może być podmiotem, dopełnieniem lub dopełniać przyimek" },
-      { "label": "Częsty błąd", "text": "nie stosuje się szyku pytania: poprawnie I don't know where he lives (nie: where does he live)" }
+      {
+        "label": "Trzy różne miejsca składniowe, jeden mechanizm",
+        "text": "That-clause pojawia się w trzech wyraźnie odrębnych rolach składniowych, choć wszystkie opierają się na tym samym zgramatykalizowanym spójniku: (1) jako dopełnienie czasownika po verbach opinii, mowy i percepcji umysłowej — think, believe, know, say, admit, suggest, hope, realize, doubt, claim; (2) jako podmiot zdania, zwykle w rejestrze formalnym/pisanym — That she resigned so suddenly shocked everyone; (3) jako apozycja (dopowiedzenie) do rzeczownika abstrakcyjnego, czyli zdanie doprecyzowujące, CO dokładnie kryje się pod danym pojęciem — the fact that, the idea that, the possibility that, the rumour that. Ta trzecia funkcja bywa mylona ze zdaniem względnym (relative clause), ale to zupełnie inny mechanizm: w zdaniu względnym 'that' zastępuje rzeczownik i pełni w zdaniu podrzędnym własną funkcję gramatyczną (podmiotu lub dopełnienia), natomiast w apozycyjnym that-clause 'that' niczego nie zastępuje — po prostu wprowadza całe zdanie, które dosłownie WYJAŚNIA treść poprzedzającego rzeczownika. Test rozróżniający: 'the fact that he apologized' — nie da się powiedzieć 'he apologized that' (that niczego nie zastępuje, więc to apozycja), w przeciwieństwie do 'the book that I read' — da się powiedzieć 'I read the book' (that zastępuje 'the book', więc to zdanie względne)."
+      },
+      {
+        "label": "Kiedy 'that' można pominąć, a kiedy nie wolno",
+        "text": "Pominięcie jest naturalne i częste w mowie potocznej, gdy that-clause jest dopełnieniem czasownika w zdaniu głównym oznajmującym: I think (that) he's right, She said (that) she'd call. Im bardziej formalny/oficjalny czasownik wprowadzający (assert, maintain, contend, demonstrate, argue), tym silniejsza tendencja do ZACHOWANIA 'that' — formalny rejestr pisany preferuje jawne sygnalizowanie granic składniowych, mowa potoczna toleruje ich domyślność. Pominięcie jest NIEMOŻLIWE w trzech sytuacjach: gdy that-clause jest podmiotem zdania (nie da się powiedzieć *'He lied to us surprised no one'), gdy między czasownikiem a that-clause wciska się dłuższy element (przysłówek, dopełnienie pośrednie) — 'She told me yesterday **that** she was leaving' raczej nie traci 'that', bo odległość między czasownikiem a zdaniem osłabia sygnał podrzędności, oraz w apozycji do rzeczownika abstrakcyjnego, gdzie 'that' jest jedynym elementem łączącym rzeczownik z jego wyjaśnieniem (the fact **that** he apologized — nigdy: *the fact he apologized w ścisłym rejestrze pisanym, choć w mowie potocznej to pominięcie bywa tolerowane)."
+      },
+      {
+        "label": "Dlaczego apozycyjne that-clauses brzmią 'akademicko'",
+        "text": "Konstrukcja rzeczownik-abstrakcyjny + that-clause (the fact that, the possibility that, the assumption that, the claim that, the notion that) jest ulubionym narzędziem angielszczyzny naukowej, dziennikarskiej i eseistycznej, ponieważ pozwala NAZWAĆ całą propozycję zdaniową jednym słowem-etykietą, zanim jeszcze zostanie ona rozwinięta — 'the fact that inflation rose' pozwala pisarzowi z góry zasygnalizować czytelnikowi status epistemiczny nadchodzącej informacji (fakt, hipoteza, pogłoska, założenie, możliwość), zanim ta informacja w ogóle padnie. To dokładnie odwrotna strategia do zwykłego zdania oznajmującego, które najpierw podaje treść, a dopiero rozmówca sam ocenia jej status. Stąd też ta konstrukcja jest rzadka w swobodnej rozmowie (gdzie prościej powiedzieć 'he apologized, that's a fact') i systemowa w tekstach analitycznych, akademickich i prawnych."
+      },
+      {
+        "label": "Pułapka: that-clause po czasowniku a bezpośrednia mowa zależna",
+        "text": "Zdanie z that jako dopełnienie czasownika mowy (say, tell, report, claim) jest formalnie identyczne z konstrukcją mowy zależnej (reported speech) — i rzeczywiście to jest ta sama kategoria składniowa, tylko oglądana z innej perspektywy: mowa zależna to zastosowanie zdania rzeczownikowego z 'that' konkretnie do relacjonowania czyichś słów, z towarzyszącym jej mechanizmem cofania czasu (backshift). Warto o tym pamiętać, żeby nie traktować 'that-clauses' i 'reported speech' jako dwóch osobnych zjawisk — to jedno zjawisko składniowe (zdanie rzeczownikowe jako dopełnienie) z jednym dodatkowym mechanizmem semantyczno-czasowym nałożonym na konkretną klasę czasowników."
+      }
     ],
     "usage": [
-      "Dopełnienie czasownika: I don't know what she wants. / Tell me why you're late.",
+      "Dopełnienie po czasownikach opinii, wiedzy i mowy: think, believe, know, say, admit, suggest, hope, claim, realize, doubt + (that)",
+      "Podmiot zdania w stylu formalnym/pisanym, z obowiązkowym 'that': That she resigned so suddenly shocked everyone.",
+      "Apozycja do rzeczownika abstrakcyjnego, precyzująca jego treść: the fact that, the idea that, the possibility that, the rumour that, the assumption that — 'that' tu niczego nie zastępuje (test odróżniający od zdania względnego)",
+      "Pominięcie 'that' naturalne po czasowniku w mowie potocznej; zachowanie obowiązkowe w pozycji podmiotu, w apozycji formalnej oraz gdy między czasownikiem a zdaniem wstawiony jest dodatkowy element"
+    ],
+    "tags": ["that-clause", "the fact that", "apozycja vs zdanie względne", "pominięcie that"],
+    "examples": [
+      { "en": "I believe she is telling the truth.", "pl": "Wierzę, że mówi prawdę." },
+      { "en": "The rumour that the factory would close turned out to be false.", "pl": "Plotka, że fabryka zostanie zamknięta, okazała się fałszywa." },
+      { "en": "She told me, quite bluntly, that she wasn't interested.", "pl": "Powiedziała mi, dość bezceremonialnie, że nie jest zainteresowana." },
+      { "en": "The assumption that prices would keep falling proved disastrously wrong.", "pl": "Założenie, że ceny będą dalej spadać, okazało się katastrofalnie błędne." }
+    ]
+  },
+  {
+    "id": "embedded_questions",
+    "order": 3,
+    "nameEn": "Embedded (wh-) questions — the fossil of Old English word-order asymmetry",
+    "namePl": "Pytania osadzone (wh-clauses) — skamielina staroangielskiej asymetrii szyku zdania",
+    "rules": [
+      {
+        "label": "Budowa: dlaczego nie ma inwersji",
+        "text": "Zdanie rzeczownikowe wprowadzone przez wh-słowo (what/who/where/when/why/how) przyjmuje szyk zdania OZNAJMUJĄCEGO — podmiot przed orzeczeniem, bez inwersji pytającej i bez posiłkowego do: I don't know where he lives (NIE: *where does he live). To jeden z najczęstszych błędów uczących się, których język ojczysty (albo intuicja z pytań bezpośrednich) podpowiada przeniesienie szyku pytania także do zdania osadzonego. Rozwiązanie tego 'dlaczego' nie leży we współczesnej regule arbitralnej, lecz w historii angielskiej składni."
+      },
+      {
+        "label": "Korzeń historyczny: reguła V2 działała tylko w zdaniach głównych",
+        "text": "Staroangielski i cała rodzina języków germańskich (a dziś wciąż np. niemiecki i niderlandzki) rządziły się zasadą zwaną V2 (verb-second) — w zdaniu GŁÓWNYM czasownik odmieniony musiał stać na DRUGIEJ pozycji składniowej, co wymuszało inwersję podmiotu i czasownika, gdy na pierwszym miejscu stało coś innego niż podmiot (np. słowo pytające): 'Hwær wunast þu?' (dosłownie: 'Gdzie mieszkasz ty?' — czasownik 'wunast' na drugiej pozycji, podmiot 'þu' po nim). Zasada V2 obowiązywała jednak WYŁĄCZNIE w zdaniach głównych/niezależnych — zdania PODRZĘDNE od zawsze rządziły się w językach germańskich innym, bardziej konserwatywnym szykiem, bliższym pierwotnemu szykowi SOV (podmiot-dopełnienie-orzeczenie) całej rodziny indoeuropejskiej, w którym czasownik nie 'skacze' na drugą pozycję. Dzisiejszy brak inwersji w zdaniach osadzonych (I wonder where he lives) to nie nowa reguła wymyślona przez gramatyków — to żywa skamielina tej starożytnej asymetrii między szykiem zdań głównych i podrzędnych, która przetrwała nawet po tym, jak współczesny angielski utracił samą zasadę V2 w większości zdań głównych oznajmujących."
+      },
+      {
+        "label": "Dlaczego pytania GŁÓWNE dziś nadal się odwracają — do-support jako late addition",
+        "text": "Współczesne pytania główne (Where does he live?) wciąż zachowują inwersję, ale zrealizowaną innym mechanizmem niż w staroangielskim: skoro większość czasowników głównych straciła zdolność do samodzielnego 'skakania' przed podmiot (w wyniku uproszczeń fleksyjnych średnioangielskich), na przełomie XV–XVI wieku wykształcił się do-support — sztuczny czasownik posiłkowy 'do', który PRZEJĄŁ funkcję inwersji, gdy czasownik główny nie mógł już jej wykonać sam ('Where does he live?' zamiast dawnego 'Where lives he?'). Kluczowe jest to, że do-support rozwinęło się wyłącznie w kontekście inwersji zdania GŁÓWNEGO (pytania, przeczenia z emfazą) — a ponieważ zdania osadzone nigdy nie przechodziły inwersji, do-support nigdy nie miało powodu, by się do nich rozprzestrzenić. To dlatego 'I wonder where he lives' nie ma ani inwersji, ani 'does' — brakuje mu obu mechanizmów, które w pytaniu głównym są ze sobą sprzężone."
+      },
+      {
+        "label": "Funkcje składniowe wh-clause i konstrukcja 'what I need is...'",
+        "text": "Zdanie wh- pełni te same funkcje co that-clause: dopełnienie czasownika (I don't know what she wants), podmiot (What she said made him angry), dopełnienie przyimka (I'm interested in what you found). Szczególny przypadek to konstrukcja typu 'what I need is more time' — nominalna klauzula względna wolna (free relative clause), w której 'what' fuzyjnie łączy w sobie zarówno rolę zaimka względnego, jak i swojego własnego antecedentu ('what' = 'the thing that'); ta konstrukcja bywa używana retorycznie do podkreślenia (efekt podobny do zdań rozszczepionych, cleft sentences), przesuwając nowa informację na koniec zdania, po czasowniku 'is'. Głębsza analiza tego mechanizmu fuzyjnego wykracza poza zdania rzeczownikowe sensu stricto i należy do odrębnego zjawiska zdań względnych bez poprzednika."
+      },
+      {
+        "label": "Pośrednie pytania grzecznościowe — pragmatyka rejestru",
+        "text": "Struktura embedded question jest podstawą uprzejmych, pośrednich pytań w formalnych/grzecznościowych kontekstach: zamiast bezpośredniego 'Where is the station?', angielski (podobnie jak polski z 'czy mógłby pan powiedzieć...') woli 'Could you tell me where the station is?' — zauważ, że mimo iż całe zdanie jest pytaniem (kończy się znakiem zapytania), WEWNĘTRZNA klauzula 'where the station is' zachowuje szyk oznajmujący bez inwersji, bo to wciąż zdanie osadzone w sensie składniowym, niezależnie od interpunkcji całego zdania nadrzędnego. Ten pośredni styl brzmi łagodniej i mniej nachalnie niż pytanie bezpośrednie, właśnie dlatego że 'chowa' żądanie informacji wewnątrz gramatycznie 'oznajmującej' struktury."
+      }
+    ],
+    "usage": [
+      "Dopełnienie czasownika: I don't know what she wants. / Tell me why you're late. — bez inwersji i bez do-support",
       "Podmiot zdania: What she said made him angry. / How he did it remains a mystery.",
       "Po przyimku: I'm interested in what you found. / It depends on where we go.",
-      "Konstrukcja what + zdanie jako temat wypowiedzi (podobna do cleft): What I need is more time."
+      "Pytania pośrednie/grzecznościowe: Could you tell me where the station is? — całość jest pytaniem, ale klauzula wewnętrzna zachowuje szyk oznajmujący",
+      "Brak inwersji i do-support wynika z historycznej asymetrii V2: reguła 'czasownik na drugiej pozycji' obowiązywała tylko w zdaniach głównych, nigdy w podrzędnych"
     ],
-    "tags": ["wh-clause", "I don't know what", "what I need is", "zdania osadzone"],
+    "tags": ["wh-clause", "brak inwersji", "V2 word order", "do-support", "pytania pośrednie"],
     "examples": [
       { "en": "I don't know what he wants.", "pl": "Nie wiem, czego on chce." },
-      { "en": "What she said made him really angry.", "pl": "To, co powiedziała, naprawdę go rozzłościło." },
+      { "en": "Could you tell me where the nearest pharmacy is?", "pl": "Czy mogłaby pani powiedzieć, gdzie jest najbliższa apteka?" },
       { "en": "It all depends on where we decide to live.", "pl": "Wszystko zależy od tego, gdzie zdecydujemy się zamieszkać." },
-      { "en": "How he managed to escape remains a mystery.", "pl": "To, jak udało mu się uciec, pozostaje tajemnicą." }
+      { "en": "How he managed to escape remains a mystery to this day.", "pl": "To, jak udało mu się uciec, do dziś pozostaje tajemnicą." }
     ]
   },
   {
     "id": "whether_if_clauses",
-    "order": 3,
-    "nameEn": "Whether / if clauses as noun clauses",
-    "namePl": "Zdania rzeczownikowe z whether / if",
+    "order": 4,
+    "nameEn": "Whether vs. if — a comparative pronoun and a conditional particle, forced into the same job",
+    "namePl": "Whether kontra if — zaimek porównawczy i partykuła warunkowa wciśnięte w tę samą rolę",
     "rules": [
-      { "label": "Budowa", "text": "whether/if + podmiot + orzeczenie — wyraża niepewność między dwiema (lub więcej) możliwościami" },
-      { "label": "Whether czy if", "text": "whether jest bardziej formalne i obowiązkowe: jako podmiot zdania, po przyimku oraz przed or not bezpośrednio po spójniku" },
-      { "label": "Whether + bezokolicznik", "text": "whether (ale nie if) może łączyć się z bezokolicznikiem: I can't decide whether to go or stay." }
+      {
+        "label": "Dwa zupełnie różne słowa, jedna dzisiejsza funkcja",
+        "text": "Whether i if wyglądają dziś jak wymienne synonimy w zdaniach rzeczownikowych wyrażających niepewność między możliwościami (I wonder whether/if she'll come), ale ich historia jest zupełnie odrębna — to nie dwa warianty jednego słowa, lecz dwa niezależne słowa, które z czasem częściowo nałożyły się na tę samą funkcję składniową. Zrozumienie tej odrębnej genezy tłumaczy, dlaczego w pewnych pozycjach tylko whether jest dopuszczalne, a if — mimo powszechnej wymienności w mowie potocznej — nagle 'nie pasuje'."
+      },
+      {
+        "label": "Whether: staroangielskie hwæðer, 'które z dwóch' — zaimek dualny/porównawczy",
+        "text": "Whether pochodzi od staroangielskiego hwæðer, zaimka pytającego oznaczającego dosłownie 'które z dwóch' — formy zbudowanej z rdzenia pytającego hw- (ten sam, co w who, what, when, where) oraz przyrostka -þer, praindoeuropejskiego sufiksu porównawczego/dualnego (*-tero-), który w klasycznych językach indoeuropejskich wyraźnie znaczył 'ten z dwóch' (por. łacińskie uter 'który z dwóch', greckie poteros). Ten sam przyrostek -ther widoczny jest dziś w całej rodzinie angielskich słów oznaczających wybór między DWIEMA opcjami: other, either, neither, further — wszystkie noszą ślad tej samej prastarej logiki 'dwubiegunowości'. Dlatego whether w rdzeniu swojego znaczenia zawsze niesie choćby cień pierwotnego sensu 'które z dwóch (lub więcej) możliwości' — i to wyjaśnia, dlaczego naturalnie łączy się z 'or': whether to stay or leave, whether it rains or shines."
+      },
+      {
+        "label": "If: staroangielskie gif, partykuła warunkowa — wtórnie zapożyczona do pytań osadzonych",
+        "text": "If wywodzi się od staroangielskiego gif, spójnika warunkowego oznaczającego 'jeśli, pod warunkiem że' — funkcjonalnie i etymologicznie zupełnie niezwiązanego z hwæðer. Rozszerzenie if na rolę wprowadzania zdań rzeczownikowych wyrażających niepewność (I don't know if she's coming) nastąpiło wtórnie, przez analogię semantyczną: zdanie warunkowe ('jeśli X, to Y') i osadzone pytanie tak/nie ('czy X') dzielą tę samą podstawową logikę niepewności/hipotetyczności — w obu przypadkach mówiący nie wie, czy dana propozycja jest prawdziwa. Ta analogia była na tyle silna, że if z czasem stało się w mowie potocznej DOMYŚLNYM, nieoznaczonym stylistycznie wyborem w tej roli, podczas gdy whether zachowało swój pierwotny, bardziej precyzyjny odcień 'wyboru między możliwościami' i przesunęło się w stronę rejestru formalnego."
+      },
+      {
+        "label": "Dlaczego tylko whether działa jako podmiot, po przyimku i przed bezokolicznikiem",
+        "text": "Te trzy ograniczenia if wynikają bezpośrednio z jego warunkowej genezy: (1) Jako PODMIOT zdania — 'Whether he'll come is unclear' — konstrukcja z if brzmiałaby jak niedokończone zdanie warunkowe (*'If he'll come is unclear' odczytuje się jako urwany warunek, brakuje mu 'to'-części), bo if wciąż czuje się gramatycznie jak spójnik OTWIERAJĄCY zdanie warunkowe, a nie jak samodzielny nominalizator. (2) Po PRZYIMKU — 'We argued about whether the plan was realistic' — przyimek wymaga po sobie frazy rzeczownikowej, a if wciąż jest odczuwane jako spójnik zdaniowy, nie jako słowo zdolne 'domykać' pozycję rzeczownikową po przyimku, podczas gdy whether (dawny zaimek) zachowało wystarczająco dużo swojej pierwotnej 'nominalności', by tę rolę pełnić. (3) Przed BEZOKOLICZNIKIEM — 'I can't decide whether to go or stay' — ta konstrukcja jest skróconą wersją pełnego zdania (whether I should go or stay), a if nigdy nie rozwinęło równoległej konstrukcji bezokolicznikowej, bo ten skrót wyewoluował historycznie właśnie z whether jako zaimka wyboru, nie z if jako spójnika warunku."
+      },
+      {
+        "label": "Whether ... or not — dlaczego 'or not' łączy się tylko z whether",
+        "text": "Because whether z natury oznacza dwubiegunowy wybór, fraza 'or not' może się do niego przykleić BEZPOŚREDNIO po spójniku: whether or not he agrees, whether he agrees or not — obie pozycje są naturalne. Z if 'or not' brzmi nienaturalnie i archaicznie w tej bezpośredniej pozycji (*if or not), a nawet na końcu zdania (I'll go if you like it or not) bywa krytykowane w stylu starannym jako nielogiczne, bo if samo w sobie nie niesie znaczenia 'wyboru', więc dodanie 'or not' brzmi jak doklejona łatka semantyczna, a nie naturalne domknięcie struktury zdaniowej, jak w przypadku whether."
+      }
     ],
     "usage": [
-      "Dopełnienie po czasownikach niepewności: wonder, ask, know, doubt, decide + whether/if",
-      "Podmiot zdania — tylko whether: Whether he'll come is still unclear.",
-      "Po przyimku — tylko whether: We argued about whether the plan was realistic.",
-      "Whether ... or not: I'll go whether you like it or not. (nie: if you like it or not)"
+      "Dopełnienie po czasownikach niepewności: wonder, ask, know, doubt, decide, argue about + whether/if (whether nieco bardziej formalne)",
+      "Wyłącznie whether: jako podmiot zdania (Whether he'll come is unclear.), po przyimku (argue about whether...), przed bezokolicznikiem (decide whether to go)",
+      "Whether ... or not: I'll go whether you like it or not. — bezpośrednie połączenie z 'or not' jest naturalne tylko z whether",
+      "If jest naturalne i częste w mowie potocznej jako dopełnienie czasownika (I don't know if she's coming), ale niedopuszczalne w trzech pozycjach zarezerwowanych dla whether"
     ],
-    "tags": ["whether", "if", "whether or not", "I wonder whether"],
+    "tags": ["whether vs if", "hwæðer", "przyrostek -ther", "whether or not"],
     "examples": [
       { "en": "I wonder whether/if she'll come to the party.", "pl": "Zastanawiam się, czy ona przyjdzie na przyjęcie." },
-      { "en": "Whether he'll get the job is still uncertain.", "pl": "To, czy dostanie tę pracę, jest wciąż niepewne." },
-      { "en": "I can't decide whether to accept the offer.", "pl": "Nie mogę zdecydować, czy przyjąć tę ofertę." },
-      { "en": "We'll leave at six whether you're ready or not.", "pl": "Wyjeżdżamy o szóstej, niezależnie czy będziesz gotowy, czy nie." }
+      { "en": "Whether the plan succeeds or fails, we'll have learned something.", "pl": "Niezależnie od tego, czy plan się powiedzie, czy nie, czegoś się nauczymy." },
+      { "en": "The question of whether the universe is finite remains open.", "pl": "Pytanie, czy wszechświat jest skończony, pozostaje otwarte." },
+      { "en": "I still can't decide whether to accept the offer or turn it down.", "pl": "Wciąż nie mogę zdecydować, czy przyjąć ofertę, czy ją odrzucić." }
     ]
   },
   {
-    "id": "extraposition",
-    "order": 4,
-    "nameEn": "Extraposition: anticipatory it + that/wh-clause",
-    "namePl": "Extraposition: zapowiadające it + zdanie z that/wh-",
+    "id": "syntactic_distribution",
+    "order": 5,
+    "nameEn": "Where noun clauses can and cannot go — a unified map of the nominal slot",
+    "namePl": "Gdzie zdania rzeczownikowe mogą, a gdzie nie mogą wystąpić — jednolita mapa pozycji nominalnej",
     "rules": [
-      { "label": "Budowa", "text": "It + be/czasownik + przymiotnik/rzeczownik + that-clause lub wh-clause — it zastępuje właściwy podmiot, który zostaje przesunięty na koniec zdania" },
-      { "label": "Dlaczego", "text": "angielski unika długiego podmiotu zdaniowego na początku; extraposition przenosi go na koniec, a it 'trzyma miejsce' podmiotu" },
-      { "label": "Warianty", "text": "it seems/appears/happens that..., it is said/known/believed that... (bierne struktury sprawozdawcze), it strikes me as... that..." }
+      {
+        "label": "Cztery gniazda składniowe, jeden wspólny mianownik",
+        "text": "Wszystkie omówione dotąd konstrukcje — that-clauses, wh-clauses, whether/if-clauses — konkurują o te same cztery pozycje składniowe zarezerwowane dla fraz rzeczownikowych: dopełnienie czasownika (verb complement), dopełnienie przymiotnika (adjective complement), apozycja rzeczownika (noun complement) oraz dopełnienie przyimka (prepositional complement). Nie każdy typ zdania rzeczownikowego jest jednak dopuszczalny w każdej z tych czterech pozycji — a to, KTÓRY typ gdzie pasuje, nie jest arbitralne, lecz wynika bezpośrednio z tego, ile z pierwotnej 'rzeczownikowości' (nominal substance) dane słowo wprowadzające zachowało po swojej historycznej gramatykalizacji."
+      },
+      {
+        "label": "Dlaczego 'that' nie może stać bezpośrednio po przyimku",
+        "text": "Zdanie *'It depends on that she'll come' jest niegramatyczne — trzeba powiedzieć 'It depends on whether she'll come' albo obejściem: 'It depends on the fact that she'll come' (z rzeczownikiem pośredniczącym). Powód leży w stopniu wybielenia semantycznego: 'that' przeszło gramatykalizację NAJDALEJ ze wszystkich omawianych słów — straciło niemal całą swoją pierwotną 'rzeczownikowość' (przypomnijmy: było kiedyś zaimkiem wskazującym, ale dziś jest czystym, pustym znacznikiem podrzędności) i przez to nie ma już wystarczającej substancji nominalnej, by przyimek mógł je 'rządzić' składniowo tak, jak rządzi rzeczownikiem. Whether i wh-słowa (what, where, how) zachowały więcej ze swojej pierwotnej natury zaimkowej/pytającej — wciąż 'wyglądają' i funkcjonują składniowo bardziej jak rzeczowniki, więc mogą swobodnie występować po przyimku: interested in what you found, depends on whether she comes, argue about how it happened."
+      },
+      {
+        "label": "Dlaczego that-clause jako podmiot brzmi sztywno, a wh-clause — naturalnie",
+        "text": "'That he lied surprised no one' jest poprawne, ale w naturalnej, żywej angielszczyźnie niemal zawsze ustępuje miejsca konstrukcji z ekstrapozycją: 'It surprised no one that he lied' (przesunięcie ciężkiego podmiotu zdaniowego na koniec, z pustym 'it' na początku — mechanizm szczegółowo omówiony w osobnym temacie poświęconym ekstrapozycji). Z wh-clause taka sztywność jest dużo słabsza: 'What she said made him angry' brzmi całkowicie naturalnie bez żadnej przeróbki. Wynika to z tego, że wh-clause, dzięki zachowanej substancji zaimkowej, funkcjonuje niemal jak zwykła fraza rzeczownikowa ('her words' → 'what she said'), więc nie odczuwamy jej jako 'ciężkiej' czy obcej na pozycji podmiotu, podczas gdy that-clause, z powodu swojej pustki semantycznej, subiektywnie 'waży' więcej jako blok tekstu przed czasownikiem i częściej wymaga przesunięcia na koniec zdania."
+      },
+      {
+        "label": "Skrzyżowanie z sąsiednimi tematami — mapa, nie duplikat",
+        "text": "Ten sam mechanizm przesuwania ciężkiego podmiotu-zdania na koniec i wypełniania pustki na początku przez 'it' to zjawisko ekstrapozycji (extraposition) — omówione osobno i wyczerpująco we własnym temacie, bo dotyczy nie tylko zdań rzeczownikowych, lecz też bezokoliczników. Podobnie konstrukcja fuzyjna 'what I need' (gdzie 'what' łączy w sobie funkcję zaimka względnego i jego antecedentu) rozwija się w pełny, samodzielny temat zdań względnych bez poprzednika (free relative clauses). Zdania rzeczownikowe to węzeł składniowy, z którego te zjawiska historycznie i strukturalnie wyrastają — warto rozumieć tę mapę połączeń, zamiast traktować każdy temat jako osobną, niepowiązaną wyspę reguł."
+      }
     ],
     "usage": [
-      "Z przymiotnikami oceniającymi: It is important/strange/obvious/surprising that...",
-      "Z czasownikami: It seems/happens/turns out that... / It doesn't matter what you say.",
-      "Porównanie z podmiotem zdaniowym na początku: That he resigned surprised no one. → It surprised no one that he resigned.",
-      "Formalne raportowanie: It is widely believed that the plan will fail."
+      "Cztery pozycje nominalne dla zdań rzeczownikowych: dopełnienie czasownika, dopełnienie przymiotnika, apozycja rzeczownika, dopełnienie przyimka",
+      "Po przyimku: nigdy samo 'that' (*depends on that), zawsze whether lub wh-słowo (depends on whether/what/how...)",
+      "That-clause jako podmiot jest poprawne, ale w naturalnej mowie ustępuje konstrukcji z ekstrapozycją (It + be + ... + that...); wh-clause jako podmiot nie wymaga takiej przeróbki",
+      "Stopień dopuszczalności danej konstrukcji w danej pozycji zależy od tego, ile pierwotnej 'rzeczownikowości' zachowało dane słowo wprowadzające po swojej historycznej gramatykalizacji"
     ],
-    "tags": ["it is + adj + that", "anticipatory it", "extraposition", "it seems that"],
+    "tags": ["dopełnienie przyimka", "ekstrapozycja — skrzyżowanie tematów", "substancja nominalna", "mapa zdań rzeczownikowych"],
     "examples": [
-      { "en": "It is strange that she didn't call back.", "pl": "To dziwne, że nie oddzwoniła." },
-      { "en": "It doesn't matter what other people think.", "pl": "Nie ma znaczenia, co myślą inni ludzie." },
-      { "en": "It turned out that he had been right all along.", "pl": "Okazało się, że przez cały czas miał rację." },
-      { "en": "It is widely believed that the negotiations will fail.", "pl": "Powszechnie się uważa, że negocjacje się nie powiodą." }
+      { "en": "It all depends on whether the weather improves.", "pl": "Wszystko zależy od tego, czy pogoda się poprawi." },
+      { "en": "I'm not at all convinced by what he told us.", "pl": "Wcale nie przekonuje mnie to, co nam powiedział." },
+      { "en": "It surprised no one that he had lied about his qualifications.", "pl": "Nikogo nie zaskoczyło, że skłamał w sprawie swoich kwalifikacji." },
+      { "en": "What worries me most is how quickly people forget.", "pl": "Najbardziej martwi mnie to, jak szybko ludzie zapominają." }
     ]
   }
 ]
