@@ -1,99 +1,380 @@
 [
   {
-    "id": "when_while_as",
+    "id": "no_future_roots",
     "order": 1,
-    "nameEn": "when / while / as — time conjunctions for simultaneous actions",
-    "namePl": "when / while / as — spójniki czasu dla czynności równoczesnych",
+    "nameEn": "Why there is no 'will' after 'when' — English has no future tense",
+    "namePl": "Dlaczego po „when” nie ma „will” — angielski nie ma czasu przyszłego",
     "rules": [
-      { "label": "when", "text": "krótkie, punktowe zdarzenie lub moment w czasie; często przerywa dłuższą czynność w tle" },
-      { "label": "while", "text": "+ czynność trwająca (często Continuous) w tle, na tle której dzieje się coś innego" },
-      { "label": "as", "text": "podkreśla dwie czynności rozwijające się równolegle i zmieniające się w tym samym tempie" }
+      {
+        "label": "Punkt wyjścia: angielski ma dwa czasy gramatyczne, nie trzy",
+        "text": "Szkolna tabelka z „dwunastoma czasami” jest wygodnym uproszczeniem, ale z punktu widzenia morfologii angielski czasownik odmienia się tylko na DWA sposoby: work / worked. To wszystko. Nie istnieje żadna końcówka przyszłości — nie ma czegoś takiego jak *workill czy *workwill, analogicznego do polskiego „zrobię” czy francuskiego „ferai”. Wszystko, co nazywamy „czasem przyszłym”, jest w angielskim konstrukcją peryfrastyczną, czyli zlepkiem osobnych słów: czasownik posiłkowy (will, shall, be going to) plus bezokolicznik. Ta pozornie techniczna obserwacja jest kluczem do całego tematu zdań czasowych: skoro przyszłość NIE jest w angielskim kategorią gramatyczną wbudowaną w czasownik, tylko dodatkowym, opcjonalnym oznaczeniem, to istnieją konteksty, w których język to oznaczenie po prostu pomija — bo jest zbędne."
+      },
+      {
+        "label": "Staroangielski: 'ic cume tō morgen' — czas teraźniejszy obsługiwał przyszłość",
+        "text": "W staroangielskim (ok. 450–1150) sytuacja była jeszcze wyraźniejsza: język miał dokładnie dwa czasy — teraźniejszy i przeszły — i to czas teraźniejszy odpowiadał za wszystko, co nie było przeszłe. Zdanie „Ic cume tō morgen” znaczyło dosłownie „Przychodzę jutro”, ale odbierano je jako „Przyjdę jutro”. Sama okoliczność czasowa (tō morgen — jutro) wystarczała, żeby ulokować zdarzenie w przyszłości; forma czasownika nie musiała tego powtarzać. Dokładnie ten sam mechanizm przetrwał do dziś w rozkładach jazdy: „The train leaves at six”, „Term starts in October”, „My flight is at 7:40”. To nie jest wyjątek ani kaprys — to najstarsza, oryginalna warstwa angielskiego systemu czasowego, która nigdy nie zniknęła."
+      },
+      {
+        "label": "Skąd wzięły się 'will' i 'shall' — z chęci i z długu",
+        "text": "Will i shall nie były pierwotnie znacznikami przyszłości. Staroangielskie 'willan' znaczyło „chcieć, pragnąć” (ten sam rdzeń, co dzisiejsze rzeczowniki 'will' — wola, i 'goodwill' — dobra wola, oraz niemieckie 'wollen'). Staroangielskie 'sculan' znaczyło „być winnym, mieć powinność” (ten sam rdzeń, co niemieckie 'sollen' i angielskie 'should'). Zdanie „Ic wille cuman” znaczyło „Chcę przyjść”, a „Ic sceal cuman” — „Muszę przyjść, jestem zobowiązany przyjść”. Dopiero w średnioangielskim, przez stulecia stopniowej gramatykalizacji, semantyka woli i zobowiązania wyblakła (językoznawcy nazywają to semantic bleaching), zostawiając czystą implikację: skoro ktoś czegoś CHCE lub MUSI, to prawdopodobnie to zrobi — a więc jest to przyszłe. Ale ślad pierwotnego znaczenia nigdy się nie zatarł całkowicie: „I will!” przy ołtarzu to deklaracja woli, „The door won't open” to opór, a „Boys will be boys” to nie prognoza, tylko charakterystyka."
+      },
+      {
+        "label": "Model myślowy: zdanie czasowe to KOTWICA, nie PROGNOZA",
+        "text": "Oto sedno całego tematu. Zdanie główne coś TWIERDZI, przewiduje, zapowiada — i dlatego zasługuje na znacznik przyszłości. Zdanie czasowe natomiast niczego nie przewiduje: ono jedynie WSKAZUJE PUNKT ODNIESIENIA, wobec którego zdanie główne jest umiejscowione. „When she arrives, we'll start” nie znaczy „Przewiduję, że ona przyjdzie, i przewiduję, że zaczniemy” — znaczy „Biorąc jej przyjście za dany punkt na osi czasu, przewiduję, że wtedy zaczniemy”. Przyjście jest tu ramą, tłem, kotwicą; nie jest przedmiotem twierdzenia, tylko jego założeniem (presupozycją). A ponieważ nie przewidujemy własnego układu odniesienia — tylko go przyjmujemy — nie oznaczamy go markerem prognozy. Kto rozumie tę jedną myśl, nie musi już zapamiętywać listy spójników, po których „nie wolno użyć will”."
+      },
+      {
+        "label": "Historyczny relikt: tryb łączący w zdaniach czasowych",
+        "text": "Staroangielski szedł jeszcze dalej niż dzisiejszy angielski. Po spójnikach czasu odnoszących się do zdarzeń jeszcze niezrealizowanych — zwłaszcza po 'ær' (before) i 'oþ þæt' (until) — używano nie zwykłego czasu teraźniejszego, ale TRYBU ŁĄCZĄCEGO (subjunctive), czyli osobnej formy dla zdarzeń pomyślanych, a nie stwierdzonych. Kiedy tryb łączący uległ w średnioangielskim erozji fonetycznej i zlał się z indykatywem, jego funkcję przejął po prostu czas teraźniejszy. Dzisiejsze „when she arrives” jest więc historycznie potomkiem formy oznaczającej „gdyby/kiedy by przyszła” — sytuacji pomyślanej, nieprzesądzonej. Ślady tego trybu wciąż widać w konstrukcjach typu „before he could finish” czy „lest he forget”, gdzie zdarzenie w zdaniu podrzędnym w ogóle nie musi zajść."
+      },
+      {
+        "label": "Dlaczego akurat Polaków to potyka",
+        "text": "Polski ma prawdziwy, morfologiczny czas przyszły („przyjdę”, „będę robił”) i używa go w zdaniach czasowych bez żadnych ograniczeń: „Kiedy przyjdziesz, zadzwonię”. Polski uczeń tłumaczy więc słowo w słowo i produkuje *„When you will come, I will call” — najczęstszy pojedynczy błąd gramatyczny Polaków w angielskim. Kluczowe jest zrozumienie, że angielskie „When you come” NIE jest „użyciem czasu teraźniejszego zamiast przyszłego”. To jest użycie formy NIEOZNACZONEJ, domyślnej, neutralnej czasowo — tej samej, którą staroangielski stosował do wszystkiego, co nie przeszłe. Angielski nie „zamienia” tu czasu; on go po prostu nie dodaje, bo nie ma po co."
+      }
     ],
     "usage": [
-      "when + czynność krótka/punktowa: When the phone rang, I answered it.",
-      "while/as + czynność długa w tle, zwykle Past/Present Continuous: While I was cooking, she was reading.",
-      "as podkreśla dokładną równoczesność zmian: As it got darker, the temperature dropped.",
-      "when może też wprowadzać nagłe przerwanie dłuższej czynności: I was reading when the phone rang."
+      "Po when, while, as, before, after, until/till, as soon as, once, by the time, the moment, every time, whenever — mówiąc o przyszłości używamy Present Simple, nigdy will/going to (I'll text you when I land.)",
+      "Zdanie główne zachowuje pełne prawo do will, going to, may, might, imperatywu — ograniczenie dotyczy WYŁĄCZNIE zdania czasowego (When the results come out, I'm going to celebrate.)",
+      "Kolejność zdań jest dowolna i nie zmienia zasady; zmienia tylko interpunkcję — przecinek stawiamy, gdy zdanie czasowe stoi na początku (Once you've signed, we can proceed. / We can proceed once you've signed.)",
+      "Zakaz obejmuje też peryfrazę 'be going to' i 'will have done' — bo one również niosą oznaczenie przyszłości (nie: after he is going to leave, nie: when I will have finished)",
+      "W kontekście przeszłym działa lustrzana zasada: zdanie czasowe bierze Past Simple, nie 'would' (He promised he'd write when he got there. — nie: when he would get there)",
+      "Zasada nie ma nic wspólnego z uprzejmością ani rejestrem — obowiązuje tak samo w SMS-ie, jak w akcie prawnym"
     ],
-    "tags": ["when", "while", "as"],
+    "tags": ["when + Present Simple", "brak will", "presupozycja", "willan = chcieć", "staroangielski"],
     "examples": [
-      { "en": "When the phone rang, I answered it.", "pl": "Gdy zadzwonił telefon, odebrałem." },
-      { "en": "While I was cooking dinner, she was setting the table.", "pl": "Podczas gdy gotowałem obiad, ona nakrywała do stołu." },
-      { "en": "As it got darker, the temperature dropped.", "pl": "W miarę jak robiło się ciemniej, temperatura spadała." },
-      { "en": "I was reading a book when the phone rang.", "pl": "Czytałem książkę, gdy zadzwonił telefon." }
+      { "en": "I'll let you know the moment the results come in — don't refresh the page every five minutes.", "pl": "Dam ci znać w chwili, gdy przyjdą wyniki — nie odświeżaj strony co pięć minut." },
+      { "en": "Once the contract is signed, there's no going back, so read it twice.", "pl": "Kiedy umowa zostanie podpisana, nie będzie odwrotu, więc przeczytaj ją dwa razy." },
+      { "en": "She said she'd call as soon as she landed, and she actually did.", "pl": "Powiedziała, że zadzwoni, jak tylko wyląduje — i faktycznie zadzwoniła." },
+      { "en": "We're not making any decisions until the auditors finish their review.", "pl": "Nie podejmujemy żadnych decyzji, dopóki audytorzy nie skończą przeglądu." },
+      { "en": "By the time this reaches you, I'll already be on the other side of the country.", "pl": "Zanim to do ciebie dotrze, będę już po drugiej stronie kraju." }
     ]
   },
   {
-    "id": "before_after_until",
+    "id": "when_noun_clause",
     "order": 2,
-    "nameEn": "before / after / until / till — sequence of events",
-    "namePl": "before / after / until / till — kolejność zdarzeń",
+    "nameEn": "When 'will' after 'when' is perfectly correct — adverbial vs nominal clauses",
+    "namePl": "Kiedy „will” po „when” JEST poprawne — zdanie okolicznikowe kontra rzeczownikowe",
     "rules": [
-      { "label": "before", "text": "wprowadza czynność, która następuje później niż czynność w zdaniu głównym — „zanim”" },
-      { "label": "after", "text": "wprowadza czynność wcześniejszą niż czynność w zdaniu głównym — „po tym jak”" },
-      { "label": "until / till", "text": "„aż do”, „dopóki nie” — czynność trwa do momentu, aż coś się wydarzy; till jest bardziej potoczne" }
+      {
+        "label": "Test decydujący: czy 'when' odpowiada na pytanie KIEDY, czy stanowi CAŁE pytanie",
+        "text": "Zdanie „I don't know when he will arrive” jest w pełni poprawne — i większość podręczników nigdy tego nie tłumaczy, przez co uczeń ma poczucie, że reguła jest kapryśna. A nie jest. Trzeba tylko zauważyć, że słowo 'when' pełni w angielskim DWIE zupełnie różne funkcje składniowe. Po pierwsze może być SPÓJNIKIEM okolicznikowym: wtedy 'when he arrives' to okolicznik czasu, którego można się pozbyć bez rozbijania zdania („We'll start when he arrives” → „We'll start” — nadal jest zdanie). Po drugie może być ZAIMKIEM PYTAJNYM wprowadzającym zdanie rzeczownikowe: wtedy 'when he will arrive' jest DOPEŁNIENIEM czasownika, całą treścią wiedzy lub pytania, i nie da się go usunąć („I don't know when he'll arrive” → *„I don't know” — zmienia sens). W pierwszym wypadku 'when' lokalizuje; w drugim — pyta."
+      },
+      {
+        "label": "Dlaczego ta różnica przywraca 'will'",
+        "text": "Wróćmy do modelu z poprzedniego działu. Zakaz dotyczy zdania, które jest KOTWICĄ — punktem odniesienia przyjmowanym za dany. Ale w „I don't know when he will arrive” moment przyjazdu nie jest żadną kotwicą; przeciwnie, jest właśnie tym, co niewiadome, co przewidywane, co stanowi treść mojej niewiedzy. Skoro to on jest przedmiotem prognozy, otrzymuje znacznik prognozy. Ten sam mechanizm widać przy 'if': „I'll help if he asks” (warunek-kotwica, bez will) kontra „I don't know if he'll ask” (pytanie zależne, will jak najbardziej). Jedno słowo, dwie składnie, dwa zachowania — i jedna wspólna logika pod spodem."
+      },
+      {
+        "label": "Praktyczna lista czasowników uruchamiających wersję z 'will'",
+        "text": "Zdania rzeczownikowe z 'when' pojawiają się typowo po czasownikach i wyrażeniach wiedzy, pytania, wątpliwości i przewidywania: know, wonder, ask, find out, tell (someone), decide, have no idea, be uncertain, depend on, guess, predict. „Nobody can predict when the market will recover.” „It depends on when they'll be ready.” Zauważ, że po przyimku ('on') może stać tylko zdanie rzeczownikowe — okolicznik czasu nigdy tam nie trafi. To wygodny test dodatkowy: jeśli przed 'when' stoi przyimek albo czasownik przechodni domagający się dopełnienia, jesteśmy w świecie zdania rzeczownikowego i 'will' wraca do gry."
+      },
+      {
+        "label": "Zakaz dotyczy CZASU, nie ASPEKTU — dlatego Present Perfect jest legalny",
+        "text": "To rozróżnienie rozwiązuje drugą zagadkę, która myli uczniów: dlaczego „I'll call you when I've finished” jest poprawne, skoro Present Perfect wygląda na coś więcej niż zwykły czas teraźniejszy? Bo blokada dotyczy oznaczenia CZASU (deiktycznej lokalizacji względem chwili mówienia — a tym jest 'will'), a nie oznaczenia ASPEKTU (wewnętrznej struktury zdarzenia — a tym jest 'have + III forma'). Present Perfect w zdaniu czasowym nie mówi „to będzie w przyszłości”; mówi „to będzie już ZAKOŃCZONE w momencie, który wyznaczam”. Dlatego 'when I finish' i 'when I have finished' są oba poprawne, a różnią się niuansem: druga wersja wyraźniej podkreśla zamknięcie czynności przed rozpoczęciem tej z głównego zdania. Natomiast 'when I will have finished' jest niepoprawne, bo znów przemyca 'will'."
+      },
+      {
+        "label": "Prawdziwe 'will' woli — resztki dawnej semantyki",
+        "text": "Jest jeszcze trzecia, subtelna klasa przypadków, w których 'will' wraca — nie jako znacznik przyszłości, lecz w swoim archaicznym znaczeniu WOLI albo trwałej dyspozycji. Porównaj formalne „If you will follow me, sir” („Jeśli zechce pan pójść za mną”) z warunkowym „If you follow me, you'll see the garden”. Pierwsze 'will' to nie przyszłość, to grzeczna prośba o zgodę. W zdaniach czasowych taki użytek jest dziś rzadki i literacki, ale sam kontrast dowodzi rzeczy najważniejszej: język nie zakazuje SŁOWA 'will' po spójnikach — on blokuje zbędne OZNACZANIE PRZYSZŁOŚCI w miejscu, które przyszłości nie twierdzi."
+      }
     ],
     "usage": [
-      "before + zdanie: wykonaj X, zanim wydarzy się Y",
-      "after + zdanie: wykonaj X, po tym jak wydarzyło się Y",
-      "until/till + zdanie: czynność ciągła trwa do punktu w czasie (Wait until she calls.)",
-      "not... until: podkreśla, że coś nie stanie się wcześniej niż w danym momencie (I won't leave until you arrive.)"
+      "Zdanie rzeczownikowe (dopełnienie czasownika typu know/wonder/ask/decide) — will jak najbardziej: I wonder when they'll announce the result.",
+      "Zdanie okolicznikowe (odpowiada na pytanie „kiedy?” i da się usunąć) — bez will: I'll email you when they announce the result.",
+      "Po przyimku zawsze stoi zdanie rzeczownikowe, więc will jest dozwolone: It all depends on when the funding comes through / on when they'll release the funds.",
+      "Ten sam podział obowiązuje przy if: warunkowe „if” bez will, pytanie zależne „if/whether” z will (I'm not sure if she'll agree.)",
+      "Present Perfect w zdaniu czasowym podkreśla zakończenie przed punktem odniesienia; Present Simple jest neutralny (When you've read it, pass it on. / When you read it, you'll understand.)",
+      "Formalne, wolitywne „will/would” po if w prośbach (If you would kindly wait here) to relikt znaczenia woli, nie oznaczenie przyszłości"
     ],
-    "tags": ["before", "after", "until", "till"],
+    "tags": ["noun clause", "adverbial clause", "I wonder when", "aspekt vs czas", "depends on when"],
     "examples": [
-      { "en": "Wash your hands before you eat.", "pl": "Umyj ręce, zanim zjesz." },
-      { "en": "After she finished her homework, she watched TV.", "pl": "Po odrobieniu lekcji obejrzała telewizję." },
-      { "en": "Wait here until I come back.", "pl": "Czekaj tutaj, aż wrócę." },
-      { "en": "I won't leave until you arrive.", "pl": "Nie wyjdę, dopóki nie przyjedziesz." }
+      { "en": "Nobody knows when the strike will end, but when it does, the backlog will be enormous.", "pl": "Nikt nie wie, kiedy skończy się strajk, ale kiedy się skończy, zaległości będą ogromne." },
+      { "en": "It depends entirely on when the paperwork clears — I can't promise a date.", "pl": "Wszystko zależy od tego, kiedy przejdą formalności — nie mogę obiecać daty." },
+      { "en": "Ask her when she'll be free, and book the room for whenever suits her.", "pl": "Zapytaj ją, kiedy będzie wolna, i zarezerwuj salę na kiedykolwiek jej pasuje." },
+      { "en": "I'll hand it in when I've checked the references — probably Thursday.", "pl": "Oddam to, kiedy sprawdzę przypisy — pewnie w czwartek." },
+      { "en": "I've no idea when he'll turn up; he's never once arrived when he said he would.", "pl": "Nie mam pojęcia, kiedy się zjawi; ani razu nie przyszedł wtedy, kiedy zapowiedział." }
     ]
   },
   {
-    "id": "as_soon_as_once_by_the_time",
+    "id": "when_while_as",
     "order": 3,
-    "nameEn": "as soon as / once / by the time — immediacy and deadlines",
-    "namePl": "as soon as / once / by the time — natychmiastowość i terminy",
+    "nameEn": "when / while / as — three different pictures of simultaneity",
+    "namePl": "when / while / as — trzy różne obrazy równoczesności",
     "rules": [
-      { "label": "as soon as", "text": "„jak tylko” — czynność w zdaniu głównym następuje natychmiast po czynności w zdaniu czasowym" },
-      { "label": "once", "text": "„gdy tylko / kiedy już” — podkreśla zakończenie jednej czynności jako warunek rozpoczęcia drugiej" },
-      { "label": "by the time", "text": "„zanim / do czasu gdy” — czynność w zdaniu głównym musi być zakończona do momentu wskazanego w zdaniu czasowym; często z Future Perfect w zdaniu głównym" }
+      {
+        "label": "'When' — pytajnik przerobiony na spójnik",
+        "text": "When wywodzi się od staroangielskiego 'hwænne' i należy do wielkiej rodziny słów pytajnych na hw- (dzisiejsze wh-): who, what, where, why, whether, how. Wszystkie one pochodzą od praindoeuropejskiego rdzenia pytajnego *kʷo-, tego samego, który dał łacińskie 'quis/quando' i polskie „kto/kiedy”. Pierwotnie było to czyste pytanie: „Hwænne cymst þū?” — „Kiedy przyjdziesz?”. Przejście od pytania do spójnika to ta sama ścieżka, którą przeszły zaimki względne (who, which): pytanie „kiedy?” zostało wbudowane w większe zdanie i zamiast pytać, zaczęło wskazywać. Ten podwójny rodowód wciąż jest widoczny — i to on stoi za rozróżnieniem opisanym w poprzednim dziale (when-spójnik kontra when-pytajnik)."
+      },
+      {
+        "label": "'While' — to rzeczownik, dlatego wymaga rozciągłości",
+        "text": "While to najbardziej niedoceniane słowo tego tematu, bo uczniowie nie wiedzą, że jest RZECZOWNIKIEM. Staroangielskie 'hwīl' znaczyło po prostu „odcinek czasu, chwila” — i ten rzeczownik żyje do dziś w zwrotach 'a while', 'once in a while', 'worth your while', 'worthwhile'. Spójnik powstał z pełnej frazy 'þā hwīle þe' — dosłownie „przez ten odcinek czasu, w którym”. Z czasem 'þā' i 'þe' odpadły, a sam rzeczownik przejął rolę spójnika. Stąd bierze się cała gramatyka 'while': skoro dosłownie znaczy „w ciągu odcinka czasu, gdy”, to musi zapowiadać czynność ROZCIĄGŁĄ, która taki odcinek tworzy. Dlatego naturalnie łączy się z czasem ciągłym („while I was cooking”) albo ze stanem („while you're here”), a brzmi dziwnie z czynnością błyskawiczną (?„while the vase broke”). Nie trzeba tego zapamiętywać — wystarczy pamiętać, że 'while' to zamrożone „a while”."
+      },
+      {
+        "label": "'As' i 'also' to to samo słowo, rozdzielone przez historię",
+        "text": "As pochodzi od staroangielskiego 'eallswā' — dosłownie „all so”, czyli „zupełnie tak, dokładnie w ten sposób”. To złożenie rozpadło się na dwie odnogi: forma skrócona dała 'als', a potem 'as', natomiast forma pełna dała dzisiejsze 'also'. As i also są więc etymologicznymi bliźniakami. Konsekwencja jest zasadnicza: 'as' nigdy nie było prymarnie słowem CZASU — było i pozostało słowem SPOSOBU I STOPNIA („w taki sam sposób jak”, „w takim samym stopniu jak”). Dopiero wtórnie zostało rozciągnięte na czas, w znaczeniu „w miarę jak”, „w tym samym tempie co”. Dlatego 'as' jest jedynym z tej trójki, który naprawdę dobrze wyraża RÓWNOLEGŁĄ ZMIANĘ dwóch procesów: „As the sun set, the temperature dropped” — obie rzeczy postępowały ramię w ramię. I dlatego też 'as' jest tak wieloznaczne: to samo słowo obsługuje czas, przyczynę, porównanie, sposób i rolę."
+      },
+      {
+        "label": "Aspekt decyduje o obrazie: punkt, tło, ruch równoległy",
+        "text": "Trzy spójniki to trzy różne kompozycje kadru. WHEN traktuje zdarzenie jak punkt albo pełne, zamknięte zdarzenie: „When the alarm went off, everyone froze” — najpierw sygnał, potem reakcja, jedno po drugim. Z czasem ciągłym 'when' zmienia rolę i staje się ramą: „When I was living in Gdańsk, I cycled everywhere”. WHILE zawsze rozpina tło, na którym coś się dzieje: „While the water was boiling, I chopped the onions” — dwa procesy nakładają się, ale jeden jest sceną, drugi akcją. AS podkreśla ścisłą jednoczesność albo współzmienność: „As she spoke, his expression hardened” — zmiana śledzi zmianę. Wybór między nimi to nie kwestia poprawności, tylko tego, co chcesz pokazać widzowi."
+      },
+      {
+        "label": "Klasyczna narracja: 'I was doing X when Y happened'",
+        "text": "Istnieje utrwalony schemat narracyjny, w którym 'when' pojawia się PO zdaniu głównym w czasie ciągłym i sygnalizuje nagłe, często niespodziewane przerwanie: „I was walking home when a car pulled up beside me”. Uwaga na kolejność myślenia: mimo że gramatycznie 'when' wprowadza zdanie podrzędne, informacyjnie to właśnie ono niesie punkt zwrotny historii — dlatego nie da się tu podstawić 'while' (byłoby to tłem, a nie zwrotem akcji). Ten wzorzec jest tak silny, że samo „...when” w drugiej połowie zdania czytelnik odbiera jako zapowiedź, że zaraz coś się wydarzy."
+      },
+      {
+        "label": "C1–C2: 'while' i 'when' przestają dotyczyć czasu",
+        "text": "Na wyższych poziomach oba spójniki wychodzą poza czas. WHILE staje się markerem kontrastu i ustępstwa, zwłaszcza na początku zdania w rejestrze formalnym: „While I sympathise with the argument, I can't accept the conclusion” — nie ma tu żadnej równoczesności, jest przeciwstawienie (bliskoznaczne z whereas i although). WHEN z kolei bywa retorycznie zarzucające: „Why buy it when you can borrow it for free?” — „skoro”, nie „kiedy”. Podobnie „She claims she's an expert, when she's never published a single paper”. Ten sam mechanizm rozszerzenia znaczeń dotknął też 'as', które od czasu przeszło do przyczyny („As it was raining, we stayed in”), oraz 'since', o czym w dziale o granicach odcinka."
+      }
     ],
     "usage": [
-      "as soon as + Present Simple (dla przyszłości): I'll call you as soon as I arrive.",
-      "once + Present Simple: Once you finish, you can go home.",
-      "by the time + Present Simple, zdanie główne w Future Perfect: By the time you arrive, I will have finished cooking.",
-      "by the time może też opisywać przeszłość: By the time we got there, the film had already started."
+      "when + zdarzenie punktowe lub całościowe, także sekwencja zdarzeń: When the lights went out, the crowd started chanting.",
+      "when + czas ciągły lub okres życia = szeroka rama czasowa: When I was studying in Poznań, I hardly ever cooked.",
+      "while + czynność rozciągła (typowo Continuous) jako tło dla innej: While they were negotiating, the journalists waited outside.",
+      "while + fraza bez czasownika w stylu formalnym i potocznym: While in office, she doubled the budget.",
+      "as + dwa procesy zmieniające się równolegle: As the deadline approached, tempers frayed.",
+      "…when… po zdaniu w czasie ciągłym = nagłe przerwanie i punkt zwrotny narracji: We were just sitting down to dinner when the power cut out.",
+      "while / whilst na początku zdania = kontrast (nie czas), typowe dla eseju i tekstów formalnych: While the data is compelling, the sample is small."
     ],
-    "tags": ["as soon as", "once", "by the time"],
+    "tags": ["hwīl = odcinek czasu", "eallswā → as/also", "tło vs punkt", "while = whereas", "narracyjne when"],
     "examples": [
-      { "en": "I'll call you as soon as I arrive.", "pl": "Zadzwonię do ciebie, jak tylko przyjadę." },
-      { "en": "Once you finish your homework, you can go outside.", "pl": "Gdy tylko skończysz lekcje, możesz wyjść na dwór." },
-      { "en": "By the time you arrive, I will have finished cooking.", "pl": "Zanim przyjedziesz, skończę gotować." },
-      { "en": "By the time we got there, the film had already started.", "pl": "Zanim tam dotarliśmy, film już się zaczął." }
+      { "en": "While the committee was still arguing about wording, the deadline quietly passed.", "pl": "Kiedy komisja wciąż spierała się o sformułowania, termin po cichu minął." },
+      { "en": "As the years went by, the accent faded but never disappeared entirely.", "pl": "W miarę upływu lat akcent słabł, ale nigdy nie zniknął całkowicie." },
+      { "en": "I was halfway through the presentation when the projector died.", "pl": "Byłem w połowie prezentacji, kiedy padł projektor." },
+      { "en": "While I understand your frustration, shouting at the receptionist won't help.", "pl": "Choć rozumiem twoją frustrację, krzyczenie na recepcjonistkę nic nie da." },
+      { "en": "Why complain about the traffic when you could simply take the train?", "pl": "Po co narzekać na korki, skoro mógłbyś po prostu pojechać pociągiem?" }
     ]
   },
   {
-    "id": "no_future_in_time_clauses",
+    "id": "before_after",
     "order": 4,
-    "nameEn": "No future tense after time conjunctions",
-    "namePl": "Brak czasu przyszłego po spójnikach czasu",
+    "nameEn": "before / after — space turned into time, and the trap of the unreal 'before'",
+    "namePl": "before / after — przestrzeń zamieniona w czas i pułapka nierzeczywistego „before”",
     "rules": [
-      { "label": "Zasada", "text": "W zdaniu czasowym (po when/while/before/after/until/as soon as/by the time/once), gdy mowa o przyszłości, NIE używamy will — używamy Present Simple lub Present Perfect" },
-      { "label": "Present Simple", "text": "dla zwykłej przyszłej czynności w zdaniu czasowym (When she arrives, we'll start.)" },
-      { "label": "Present Perfect", "text": "gdy chcemy podkreślić, że czynność w zdaniu czasowym musi się zakończyć, zanim zajdzie czynność główna (As soon as I have finished, I'll call you.)" },
-      { "label": "Zakres reguły", "text": "dotyczy TYLKO zdania czasowego — zdanie główne nadal może mieć will/going to" }
+      {
+        "label": "Oba słowa są przestrzenne, nie czasowe — i to widać w środku",
+        "text": "Before to staroangielskie 'beforan', złożone z 'be-' (przy, w pobliżu) i 'foran' (z przodu) — dosłownie „z przodu, na przedzie”. After to staroangielskie 'æfter', historycznie stopień wyższy od rdzenia 'af-' („od, precz”), a więc dosłownie „bardziej z tyłu, dalej za”. Żadne z nich nie było pierwotnie słowem o czasie: obydwa opisywały POŁOŻENIE W PRZESTRZENI. Ich znaczenie czasowe to metafora, i to jedna z najpowszechniejszych w językach świata: CZAS TO PRZESTRZEŃ, po której się poruszamy. To, co mijamy najpierw, jest z przodu; to, co przychodzi później, zostaje z tyłu. Ślad przestrzenny wciąż jest żywy: 'the letter B comes before C', 'stand before the judge', 'the year after next', 'he ran after the bus'."
+      },
+      {
+        "label": "Paradoks dwóch metafor: dlaczego przeszłość jest 'przed', a przyszłość 'przed nami'",
+        "text": "Uważny obserwator zauważy sprzeczność. Skoro 'before' znaczy „z przodu”, a jednocześnie „wcześniej”, to przeszłość powinna leżeć przed nami — a przecież mówimy „the future lies ahead of us” i „we're looking forward to it”. To nie jest błąd języka, tylko współistnienie DWÓCH konkurencyjnych metafor czasu. W pierwszej (moving-time) to czas jest w ruchu i płynie ku nam jak kolejka: kto płynie pierwszy, jest z przodu — czyli wcześniejszy jest 'before'. W drugiej (moving-ego) to my idziemy przez nieruchomy krajobraz czasu: wtedy przed nami rozciąga się to, do czego dopiero dojdziemy, czyli przyszłość. Angielski, jak większość języków, używa obu naraz, w zależności od kontekstu — i właśnie dlatego pytanie „Let's move the meeting forward two days” jest notorycznie dwuznaczne nawet dla rodzimych użytkowników."
+      },
+      {
+        "label": "Kluczowa asymetria: 'after' gwarantuje zdarzenie, 'before' — nie",
+        "text": "To najważniejsza, a najrzadziej wykładana rzecz w całym temacie. Zdanie 'after' jest WERYDYCZNE: mówiąc „After he finished the novel, he moved to Lisbon”, twierdzę, że powieść została skończona. Zdanie 'before' jest NIEWERYDYCZNE: mówiąc „He died before he finished the novel”, twierdzę wprost, że powieść NIGDY nie została skończona. Zdanie podrzędne z 'before' opisuje zdarzenie umieszczone poza granicą, do której doszliśmy — a to, czy w ogóle nastąpiło, pozostaje otwarte albo bywa wprost zanegowane. Historycznie to bezpośrednia kontynuacja staroangielskiego 'ær', po którym stał tryb łączący (subjunctive) właśnie dlatego, że zdarzenie było jedynie pomyślane."
+      },
+      {
+        "label": "Konsekwencje niewerydyczności: 'before he could', 'before anyone noticed'",
+        "text": "Ta jedna właściwość tłumaczy całą rodzinę konstrukcji, które inaczej wyglądają na losowe idiomy. Po pierwsze, 'before' dopuszcza modalne 'could' w znaczeniu „zanim zdążył” — „She hung up before I could explain” (nie zdążyłem wyjaśnić, więc wyjaśnienie nie zaszło). Po drugie, 'before' licencjonuje tak zwane elementy negatywnie zależne (negative polarity items), czyli słowa, które normalnie pojawiają się tylko w kontekstach przeczących lub pytających: „Let's leave before anyone notices”, „He signed before he had any idea what it meant”, „She was gone before I could say a word”. Any i ever w zdaniu twierdzącym są niemożliwe (*„He had any idea”), a po 'before' brzmią naturalnie — bo 'before' tworzy kontekst nierozstrzygnięty, semantycznie spokrewniony z przeczeniem. Po trzecie, stąd biorą się utarte zwroty: 'before it's too late', 'before you know it', 'before I knew what was happening'."
+      },
+      {
+        "label": "Dlaczego Past Perfect po 'after' i 'before' jest opcjonalny",
+        "text": "Uczniowie często sądzą, że po 'after' trzeba dać Past Perfect. Nie trzeba — i to z powodu czysto logicznego: sam spójnik JUŻ koduje kolejność. „After he left, I called Marta” i „After he had left, I called Marta” znaczą to samo; wersja z Past Perfect jest odrobinę bardziej formalna i mocniej podkreśla zamknięcie pierwszej czynności. Past Perfect staje się użyteczny wtedy, gdy kolejność NIE wynika ze spójnika, czyli przede wszystkim po 'when': porównaj „When I arrived, she made coffee” (przyszedłem, potem zaparzyła) z „When I had arrived, she made coffee” (najpierw pełne przybycie, potem kawa) i z „When I arrived, she had made coffee” (kawa była już gotowa). Gramatyka nie lubi mówić dwa razy tego samego — jeśli spójnik załatwia sprawę, aspekt schodzi ze sceny."
+      },
+      {
+        "label": "'By the time' — spójnik-termin graniczny",
+        "text": "By the time (that) to nie synonim 'when', tylko konstrukcja wyznaczająca TERMIN, do którego coś ma być zamknięte. Rozbierz ją dosłownie: 'by' znaczy „nie później niż”, a 'the time (that)' to rzeczownik z opuszczonym 'that' — dokładnie ta sama ścieżka gramatykalizacji co przy 'while' czy 'the moment'. Ponieważ mówi o zamknięciu przed granicą, w zdaniu głównym naturalnie pojawia się aspekt dokonany: „By the time you get there, they'll have sold out” (przyszłość) i „By the time we arrived, the doors had closed” (przeszłość). Samo zdanie czasowe pozostaje oczywiście bez 'will'."
+      }
     ],
     "usage": [
-      "When he calls, I will tell him the news. (nie: When he will call...)",
-      "I'll wait here until you come back. (nie: until you will come)",
-      "As soon as I've finished this report, I'll send it to you.",
-      "We'll go for a walk after it stops raining."
+      "before + zdanie: czynność zdania głównego wyprzedza tę w zdaniu czasowym (Check the figures before you send the report.)",
+      "before + could/had a chance to = „zanim zdążył”, zdarzenie NIE nastąpiło (He rang off before I could ask about the price.)",
+      "before licencjonuje any/ever/at all — dowód, że kontekst jest nierozstrzygnięty (Let's slip out before anyone notices.)",
+      "after + zdanie: czynność zdania czasowego jest wcześniejsza i jest stwierdzona jako fakt (After the results came out, the phone didn't stop ringing.)",
+      "Past Perfect po before/after jest opcjonalny i podnosi rejestr; po when bywa znaczeniowo decydujący (When I had read the contract, I refused to sign.)",
+      "by the time + Present Simple (przyszłość) / Past Simple (przeszłość), a w zdaniu głównym Future Perfect lub Past Perfect",
+      "before i after działają też jako przyimki (before lunch) i przysłówki (I'd seen it before) — spójnikiem są tylko wtedy, gdy następuje po nich całe zdanie"
     ],
-    "tags": ["when he arrives", "until she calls", "as soon as I've finished", "no will"],
+    "tags": ["beforan = z przodu", "niewerydyczność", "before he could", "Past Perfect opcjonalny", "by the time"],
     "examples": [
-      { "en": "When he calls, I will tell him the news.", "pl": "Gdy zadzwoni, powiem mu nowinę." },
-      { "en": "I'll wait here until you come back.", "pl": "Poczekam tu, aż wrócisz." },
-      { "en": "As soon as I've finished this report, I'll send it to you.", "pl": "Jak tylko skończę ten raport, wyślę ci go." },
-      { "en": "We'll go for a walk after it stops raining.", "pl": "Pójdziemy na spacer, gdy przestanie padać." }
+      { "en": "He died before the book was published, so he never saw the reviews.", "pl": "Zmarł, zanim książka została wydana, więc nigdy nie zobaczył recenzji." },
+      { "en": "The train pulled away before I could get my bag off the rack.", "pl": "Pociąg ruszył, zanim zdążyłem zdjąć torbę z półki." },
+      { "en": "After she'd apologised twice, the whole thing suddenly seemed trivial.", "pl": "Po tym, jak dwukrotnie przeprosiła, cała sprawa nagle wydała się błaha." },
+      { "en": "By the time the report lands on his desk, the decision will already have been made.", "pl": "Zanim raport wyląduje na jego biurku, decyzja będzie już podjęta." },
+      { "en": "Save the file before you close the laptop — it won't warn you this time.", "pl": "Zapisz plik, zanim zamkniesz laptopa — tym razem nie wyświetli ostrzeżenia." }
+    ]
+  },
+  {
+    "id": "until_since",
+    "order": 5,
+    "nameEn": "until / till / since — the two edges of a stretch of time",
+    "namePl": "until / till / since — dwie krawędzie odcinka czasu",
+    "rules": [
+      {
+        "label": "'Till' jest STARSZE od 'until', a 'un-' nie jest przeczeniem",
+        "text": "Powszechne przekonanie, że 'till' to potoczne skrócenie 'until', jest odwróceniem historii. 'Till' pochodzi od staroangielskiego i staronordyckiego 'til', które po prostu znaczyło „do” (do dziś w szwedzkim i duńskim 'till/til' to zwykły przyimek „do”). 'Until' powstało PÓŹNIEJ przez dostawienie z przodu elementu 'und-' — staronordyckiego/staroangielskiego wyrazu o znaczeniu „aż do, tak daleko jak”. 'Until' znaczy więc dosłownie „aż-do-do”, czyli jest wzmocnionym 'till'. Wniosek praktyczny: 'un-' w 'until' nie ma nic wspólnego z przeczeniem (jak w 'unhappy'), a 'till' nie jest błędem ani skrótem — jest pełnoprawnym, poprawnym słowem starszym od swojego rozbudowanego kuzyna. Pisownia z apostrofem — 'til — to natomiast hiperpoprawność powstała z fałszywego założenia, że 'till' jest ucięciem."
+      },
+      {
+        "label": "Dlaczego 'until' wymaga rozciągłości — test, który wszystko wyjaśnia",
+        "text": "Zauważ, że nie można powiedzieć *„He arrived until six”, ale „He didn't arrive until six” jest bez zarzutu. Dlaczego? Bo 'until' wyznacza PRAWY KONIEC ODCINKA — a odcinek musi mieć jakąś rozciągłość. „Arrive” to zdarzenie punktowe: nie da się przybywać przez trzy godziny, więc nie ma czego ograniczać. Ale kiedy dołożymy przeczenie, powstaje STAN — „nie-przybycie” trwa i trwa aż do szóstej, kiedy wreszcie się kończy. Negacja zamienia punkt w odcinek, a odcinek ma prawy koniec, który 'until' może zaznaczyć. To dokładnie ta sama logika, dla której 'until' naturalnie łączy się z czasownikami trwania (wait, stay, keep, sleep, live, remain) i z formami ciągłymi."
+      },
+      {
+        "label": "'Not... until' i jego emfatyczna inwersja",
+        "text": "Skoro przeczenie jest naturalnym partnerem 'until', angielski wykształcił z tego zestawu mocną figurę emfatyczną. Zwykłe „She didn't tell anyone until the contract was signed” można wywrócić do przodu: „Not until the contract was signed did she tell anyone”. Inwersja jest tu obowiązkowa — po wysuniętym elemencie przeczącym operator przeskakuje przed podmiot, dokładnie tak jak po 'never', 'rarely', 'no sooner'. To jeden z niewielu żywych reliktów dawnego germańskiego szyku V2 (czasownik na drugiej pozycji), który angielski utracił w innych kontekstach. Wersja z inwersją jest wyraźnie literacka i retoryczna; w mowie codziennej brzmiałaby napuszenie."
+      },
+      {
+        "label": "'Since' — 'po tym, co', czyli lewa krawędź odcinka",
+        "text": "Jeśli 'until' zaznacza prawy koniec, to 'since' zaznacza lewy początek. Etymologia jest pięknie przejrzysta: staroangielskie 'siþþan' to zrost frazy 'sīð þām þe' — dosłownie „po tym, [co]”. Ponieważ 'since' wyznacza punkt startowy odcinka biegnącego AŻ DO TERAZ, gramatyka nie ma wyboru: zdanie główne niemal zawsze stoi w Present Perfect albo Present Perfect Continuous („I haven't seen him since he moved out”), bo tylko te formy rozpinają most między przeszłością a chwilą mówienia. Samo zdanie po 'since' bierze z reguły Past Simple (moment przecięcia), chyba że i ono opisuje stan trwający do dziś — wtedy pojawia się Present Perfect: „She's been much calmer since she's been working from home”."
+      },
+      {
+        "label": "Dlaczego 'since' i 'as' obsługują też przyczynę",
+        "text": "To nie przypadek, że 'since' znaczy zarówno „odkąd”, jak i „skoro/ponieważ”, a 'as' zarówno „w miarę jak”, jak i „ponieważ”. W językach świata przejście OD CZASU DO PRZYCZYNY jest jedną z najlepiej udokumentowanych ścieżek gramatykalizacji: jeśli A wydarzyło się przed B i o tym wspominamy, słuchacz naturalnie doczytuje, że A jest powodem B (post hoc ergo propter hoc, wbudowane w gramatykę). To samo widać w niemieckim 'da' i polskim „skoro”, które też wywodzi się z „szybko/wcześnie”. Praktyczna konsekwencja: zdanie „Since he left the company, things have improved” jest strukturalnie dwuznaczne — „odkąd odszedł” albo „skoro odszedł” — i rozstrzyga o tym wyłącznie czas gramatyczny zdania głównego oraz kontekst."
+      },
+      {
+        "label": "Rejestr i pułapki",
+        "text": "Kilka rzeczy do zapamiętania na poziomie C1. Po pierwsze: 'until' odnosi się do CZASU, a nie do odległości ani ilości — do tego służy 'up to' („We walked up to the bridge”, nie: until the bridge). Po drugie: 'by' i 'until' to nie synonimy — 'by' wyznacza termin dla zdarzenia jednorazowego („Finish it by Friday”), a 'until' rozciągłość aż do granicy („Stay until Friday”). Po trzecie: po 'since' w znaczeniu czasowym nie stawia się 'will'; nie stawia się go zresztą po żadnym spójniku czasu. Po czwarte: 'till' jest w pełni poprawne w mowie i w prozie literackiej, ale w piśmie formalnym i prawniczym przeważa 'until', a na początku zdania 'until' brzmi znacznie naturalniej."
+      }
+    ],
+    "usage": [
+      "until/till + moment końcowy, zdanie główne z czasownikiem trwania: We'll keep the offer open until Friday.",
+      "not… until = „dopiero”: The letter didn't arrive until the following week.",
+      "Not until… + inwersja operatora = emfaza literacka: Not until much later did we realise what had happened.",
+      "since + punkt startowy, zdanie główne w Present Perfect: I've been sleeping better since I stopped drinking coffee after four.",
+      "since bywa przyczynowe — rozstrzyga czas zdania głównego (Since you're already here, you might as well help.)",
+      "by ≠ until: by wyznacza nieprzekraczalny termin dla jednego zdarzenia, until rozciągłość aż do granicy",
+      "up to zamiast until przy odległości, ilości i miejscu (up to fifty people, up to the corner)"
+    ],
+    "tags": ["till starsze niż until", "und = aż do", "not until + inwersja", "siþþan", "czas → przyczyna"],
+    "examples": [
+      { "en": "Nothing happened until the very last minute, and then everything happened at once.", "pl": "Nic się nie działo aż do ostatniej chwili, a potem wszystko wydarzyło się naraz." },
+      { "en": "Not until I read the footnotes did I understand what the study actually measured.", "pl": "Dopiero gdy przeczytałem przypisy, zrozumiałem, co to badanie właściwie mierzyło." },
+      { "en": "We've barely spoken since he took the job in Rotterdam.", "pl": "Prawie nie rozmawialiśmy, odkąd wziął tę pracę w Rotterdamie." },
+      { "en": "Since you clearly know the answer, perhaps you'd like to explain it to the class.", "pl": "Skoro najwyraźniej znasz odpowiedź, może zechcesz wyjaśnić ją klasie." },
+      { "en": "Hold the door until I've got both bags through — this frame is narrower than it looks.", "pl": "Przytrzymaj drzwi, aż przeniosę obie torby — ta framuga jest węższa, niż wygląda." }
+    ]
+  },
+  {
+    "id": "as_soon_as_once",
+    "order": 6,
+    "nameEn": "as soon as / once / the moment / no sooner — immediacy",
+    "namePl": "as soon as / once / the moment / no sooner — natychmiastowość",
+    "rules": [
+      {
+        "label": "'As soon as' to zamrożone porównanie, a 'soon' kiedyś znaczyło „natychmiast”",
+        "text": "As soon as wygląda na idiom, ale jest zwykłym porównaniem równości — tym samym as… as, co w 'as tall as' — z przysłówkiem 'soon' w środku: dosłownie „tak wcześnie, jak”. Kluczowa jest historia słowa 'soon'. Staroangielskie 'sōna' znaczyło NATYCHMIAST, w tej samej chwili — a nie „wkrótce, za jakiś czas”, jak dziś. Przez stulecia znaczenie osłabło (to typowe zjawisko: mocne słowa się zużywają, por. 'awfully', 'terribly', 'really'), ale dawna, silna semantyka zachowała się jak owad w bursztynie właśnie w spójniku 'as soon as'. Dlatego 'as soon as' nie znaczy „wkrótce potem, jak”, tylko dokładnie „w tej samej chwili, gdy” — i dlatego jest mocniejsze niż zwykłe 'when'."
+      },
+      {
+        "label": "'Once' — dopełniacz liczebnika „jeden”, który stał się spójnikiem",
+        "text": "Once to średnioangielskie 'ones', czyli forma dopełniacza staroangielskiego liczebnika 'ān' (jeden). W staroangielskim dopełniacz miał funkcję przysłówkową i tworzył okoliczniki czasu — ten sam mechanizm dał 'always' (ealne weg), 'nowadays', 'besides', 'towards'. Pisownia -ce zamiast -s została wprowadzona później, żeby zabezpieczyć bezdźwięczną wymowę /s/ (tak samo w 'hence', 'twice', 'pence'). Ta genealogia tłumaczy niuans znaczeniowy: 'once' jako spójnik nie znaczy po prostu „kiedy”, tylko „gdy raz już…”, „kiedy się to raz dokona” — nosi w sobie ideę JEDNORAZOWEGO PROGU, po przekroczeniu którego sytuacja zmienia się nieodwracalnie: „Once you've seen it, you can't unsee it”."
+      },
+      {
+        "label": "'The moment', 'the minute', 'the second' — spójniki rodzące się na naszych oczach",
+        "text": "Wyrażenia 'the moment (that)', 'the minute (that)', 'the instant (that)' są formalnie frazami rzeczownikowymi z opuszczonym 'that', a funkcjonują jak pełnoprawne spójniki: „Call me the minute you land”. To dokładnie ta sama ścieżka, którą tysiąc lat wcześniej przeszło 'while' (od rzeczownika hwīl) i którą przechodzi też 'every time', 'each time', 'the day', 'the second'. Widzimy tu gramatykalizację na żywo: rzeczownik oznaczający odcinek lub punkt czasu traci swoją rzeczownikowość i staje się elementem gramatycznym. Cała ta rodzina jest emfatyczna — wybieramy ją zamiast neutralnego 'when', kiedy chcemy podkreślić bezzwłoczność. Brytyjski angielski dorzuca do tego przysłówki użyte jako spójniki: „Directly he came in, the room went quiet”, „Immediately she saw him, she knew”."
+      },
+      {
+        "label": "'No sooner… than' i 'hardly… when' — dlaczego różne słowa",
+        "text": "Te dwie konstrukcje wyrażają to samo (jedno zdarzenie natychmiast po drugim), ale różnią się partnerem, i to nie przypadkiem. 'No sooner' zawiera STOPIEŃ WYŻSZY przysłówka ('sooner'), a po stopniu wyższym angielski wymaga 'than' — dokładnie tak jak w 'bigger than'. Dlatego „No sooner had he sat down than the phone rang”, a nie *„no sooner… when”, choć jest to jeden z najczęstszych błędów także wśród rodzimych użytkowników. Natomiast 'hardly', 'scarcely' i 'barely' nie są stopniem wyższym niczego — to przysłówki niemal-przeczące, więc łączą się z 'when' albo 'before'. Obie konstrukcje wymagają inwersji, gdy element przeczący stoi na początku: „Hardly had we sat down when the fire alarm went off”. Zdanie z 'no sooner' stoi zwykle w Past Perfect, bo opisuje zdarzenie wcześniejsze — a to, co nastąpiło, w Past Simple."
+      },
+      {
+        "label": "Niuans wyboru: 'as soon as' kontra 'once' kontra 'when'",
+        "text": "Trzy spójniki, trzy różne obietnice. WHEN jest neutralne — po prostu wskazuje moment. AS SOON AS obiecuje bezzwłoczność: „I'll ring you as soon as I hear anything” znaczy, że nie będzie ani chwili zwłoki. ONCE kładzie nacisk nie na szybkość, lecz na SPEŁNIENIE WARUNKU-PROGU: „Once you've passed the exam, you can apply” — nie chodzi o to, jak szybko, tylko o to, że wcześniej to niemożliwe. Właśnie dlatego 'once' bywa niemal warunkowe i często zamiennie z „if and when”, a 'as soon as' nigdy nie ma tego zabarwienia. Wszystkie trzy oczywiście podlegają zakazowi 'will' z pierwszego działu."
+      }
+    ],
+    "usage": [
+      "as soon as = bezzwłocznie po; w kontekście przyszłym Present Simple lub Present Perfect (I'll start as soon as the files have uploaded.)",
+      "once = po przekroczeniu progu, często z odcieniem warunku (Once the vaccine wears off, symptoms may return.)",
+      "the moment / the minute / the instant + zdanie = emfatyczne „w chwili, gdy”",
+      "every time / each time / whenever = powtarzalność, nie pojedynczy moment (Every time he opens his mouth, someone leaves.)",
+      "no sooner … than + Past Perfect w pierwszej części, inwersja przy wysunięciu (No sooner had she resigned than the offers started coming in.)",
+      "hardly / scarcely / barely … when (lub before), także z inwersją — nigdy z 'than'",
+      "BrE: directly / immediately jako spójniki czasu, silnie nacechowane rejestrem (Immediately the meeting ended, he was on the phone.)"
+    ],
+    "tags": ["sōna = natychmiast", "ones = dopełniacz ān", "no sooner than", "hardly when", "gramatykalizacja"],
+    "examples": [
+      { "en": "As soon as the results are in, I'll forward them — you'll know within the hour.", "pl": "Jak tylko będą wyniki, prześlę je — dowiesz się w ciągu godziny." },
+      { "en": "Once you've learned to read a balance sheet, half the news makes more sense.", "pl": "Kiedy raz nauczysz się czytać bilans, połowa wiadomości nabiera sensu." },
+      { "en": "No sooner had we unpacked than the landlord announced he was selling the flat.", "pl": "Ledwo się rozpakowaliśmy, właściciel oznajmił, że sprzedaje mieszkanie." },
+      { "en": "Hardly had the applause died down when she launched into a second encore.", "pl": "Ledwie ucichły brawa, gdy zaczęła drugi bis." },
+      { "en": "Text me the minute you get home, however late it is.", "pl": "Napisz mi w chwili, gdy dotrzesz do domu, choćby nie wiem jak późno." }
+    ]
+  },
+  {
+    "id": "reduced_time_clauses",
+    "order": 7,
+    "nameEn": "Reduced time clauses — 'while waiting', 'when in doubt', 'once inside'",
+    "namePl": "Skrócone zdania czasowe — „while waiting”, „when in doubt”, „once inside”",
+    "rules": [
+      {
+        "label": "Mechanizm: usuwamy podmiot i formę 'be'",
+        "text": "Angielski pozwala skrócić zdanie czasowe, jeśli jego podmiot jest identyczny z podmiotem zdania głównego. Operacja jest prosta i całkowicie regularna: wykreślamy podmiot i osobową formę 'be'. „While I was waiting for the bus, I read two chapters” → „While waiting for the bus, I read two chapters”. „After he had been questioned for six hours, he confessed” → „After being questioned for six hours, he confessed”. To nie jest osobna konstrukcja do wykucia — to ta sama redukcja, która daje imiesłowowe zdania okolicznikowe i zdania bezczasownikowe; spójnik czasu po prostu pozostaje na miejscu, żeby relacja czasowa nie zginęła."
+      },
+      {
+        "label": "Trzy warianty tego, co zostaje po redukcji",
+        "text": "Po usunięciu podmiotu i 'be' na powierzchni zostaje jedna z trzech rzeczy. Pierwsza: imiesłów czynny na -ing — „before leaving”, „while travelling”, „since graduating”. Druga: imiesłów bierny na -ed/III forma — „when asked”, „once completed”, „until told otherwise”. Trzecia: gołe uzupełnienie bez żadnego czasownika, czyli zdanie bezczasownikowe — przymiotnik („while young”, „when necessary”), fraza przyimkowa („while in Berlin”, „when in doubt”) albo przysłówek miejsca („once inside”). Wszystkie trzy typy są w istocie tym samym zjawiskiem oglądanym z różnych stron: 'be' zniknęło, a to, co po nim stało, zostało."
+      },
+      {
+        "label": "Twarde ograniczenie: podmioty muszą być te same",
+        "text": "Redukcja jest dozwolona tylko wtedy, gdy domyślnym podmiotem skróconej frazy jest podmiot zdania głównego. Złamanie tej zasady daje słynne „zwisające imiesłowy”, często komiczne: *„While waiting for the bus, the rain started” sugeruje, że to deszcz czekał na autobus. Rozwiązanie jest zawsze jedno: albo przywrócić pełne zdanie („While I was waiting for the bus, it started to rain”), albo przebudować zdanie główne tak, żeby podmiot się zgadzał. To ograniczenie ma źródło czysto logiczne — skoro podmiot został wymazany, odbiorca musi go skądś odzyskać, a jedynym dostępnym kandydatem jest podmiot zdania nadrzędnego."
+      },
+      {
+        "label": "Dlaczego to brzmi formalnie — łacińska moda na zwięzłość",
+        "text": "Konstrukcje imiesłowowe nie są rdzennie angielskie w tej skali. Ich rozkwit w angielszczyźnie pisanej datuje się na XVI–XVIII wiek, kiedy autorzy świadomie naśladowali składnię łacińską, w tym ablativus absolutus — zwięzłe frazy imiesłowowe zastępujące całe zdania podrzędne. Właśnie dlatego skrócone zdania czasowe do dziś należą do rejestru pisanego, formalnego i instrukcyjnego (regulaminy, instrukcje obsługi, teksty akademickie), a w luźnej rozmowie brzmiałyby sztywno. Wyjątkiem są utrwalone, skostniałe formuły, które przeszły do języka codziennego: „when in doubt”, „when necessary”, „once bitten, twice shy”, „while you're at it”, „if in doubt, leave it out”."
+      },
+      {
+        "label": "'On + -ing' i 'upon + -ing' — najbardziej skondensowana wersja",
+        "text": "Skrajną postacią zwięzłości jest konstrukcja przyimkowa 'on/upon + -ing', znacząca „natychmiast po tym, jak”: „On arriving at the scene, officers found the door forced open”. Historycznie to najstarsza warstwa tego mechanizmu — przypomnijmy, że sama forma ciągła powstała z konstrukcji przyimkowej ('he was on huntinge' → 'he was a-hunting' → 'he was hunting'). 'On + -ing' jest wyraźnie urzędowe i typowe dla raportów, protokołów i prozy prawniczej; w mowie potocznej brzmiałoby pretensjonalnie i zastępujemy je zwykłym „when we arrived”."
+      }
+    ],
+    "usage": [
+      "Redukcja tylko przy tożsamości podmiotów: While reviewing the file, she spotted the discrepancy.",
+      "-ing dla znaczenia czynnego: Before signing anything, read the small print.",
+      "III forma dla znaczenia biernego: When asked about the delay, the minister declined to comment.",
+      "Fraza przyimkowa lub przymiotnik bez czasownika: While in Prague, we visited the old Jewish quarter. / Chill before serving.",
+      "Utarte formuły weszły do mowy potocznej: when in doubt, when necessary, once inside, while you're at it",
+      "on/upon + -ing = natychmiast po (styl urzędowy): Upon receiving the notice, tenants have fourteen days to respond.",
+      "Uwaga na zwisające imiesłowy — jeśli podmioty się różnią, zdanie trzeba rozwinąć w pełną formę"
+    ],
+    "tags": ["participle clause", "when asked", "dangling participle", "ablativus absolutus", "on arriving"],
+    "examples": [
+      { "en": "When asked to name a single source, he changed the subject twice.", "pl": "Poproszony o podanie choćby jednego źródła, dwukrotnie zmienił temat." },
+      { "en": "While living in Lisbon, she picked up more Portuguese than in three years of classes.", "pl": "Mieszkając w Lizbonie, nauczyła się więcej portugalskiego niż przez trzy lata kursów." },
+      { "en": "Once installed, the software updates itself without asking.", "pl": "Po zainstalowaniu program aktualizuje się sam, bez pytania." },
+      { "en": "When in doubt, say less and listen longer.", "pl": "W razie wątpliwości mów mniej, a słuchaj dłużej." },
+      { "en": "Upon arriving at the border, passengers must present both documents.", "pl": "Po przybyciu na granicę pasażerowie muszą okazać oba dokumenty." }
+    ]
+  },
+  {
+    "id": "time_clauses_c2",
+    "order": 8,
+    "nameEn": "C1–C2 nuances — ambiguity, register and edge cases",
+    "namePl": "Niuanse C1–C2 — wieloznaczność, rejestr i przypadki brzegowe",
+    "rules": [
+      {
+        "label": "'As' jest strukturalnie wieloznaczne i tylko kontekst je rozstrzyga",
+        "text": "Zdanie „As the meeting was running late, he slipped out” można odczytać czasowo („w trakcie tego, jak spotkanie się przeciągało”) albo przyczynowo („ponieważ spotkanie się przeciągało”). Do tego dochodzi 'as' porównawcze („as good as”), 'as' sposobu („Do as I say”) i 'as' roli („She works as a translator”). Rodowód wszystkich tych użyć jest jeden — 'eallswā', „zupełnie tak” — a rozejście się znaczeń to klasyczna wielowiekowa dywergencja. Praktyczny wniosek dla piszącego: jeśli chcesz jednoznacznie wyrazić czas, wybierz 'while'; jeśli przyczynę — 'because' albo 'since'; 'as' zostaw tam, gdzie dwuznaczność jest nieszkodliwa lub wręcz pożądana."
+      },
+      {
+        "label": "'When' nierestrykcyjne — cała druga połowa zdania jako komentarz",
+        "text": "Zdanie czasowe może być też NIERESTRYKCYJNE, czyli dopowiadające, oddzielone przecinkiem i nieograniczające niczego: „We moved to Wrocław in 2019, when the flat prices were still sane”. To nie odpowiedź na pytanie „kiedy się przeprowadziliście?” (ta jest już w zdaniu głównym: in 2019), tylko dodatkowa informacja o tym roku. Formalnie mamy tu do czynienia ze zdaniem WZGLĘDNYM z 'when' jako zaimkiem względnym odnoszącym się do rzeczownika czasowego, a nie ze zdaniem okolicznikowym — dlatego 'when' można w takim wypadku zastąpić przez 'at which time'. Rozróżnienie ma konsekwencje interpunkcyjne i intonacyjne: bez przecinka zdanie ogranicza, z przecinkiem — komentuje."
+      },
+      {
+        "label": "'Whenever' — od powtarzalności do lekceważenia",
+        "text": "Whenever ma dwa odrębne znaczenia. Pierwsze to czysta powtarzalność, mocniejsza wersja 'every time': „Whenever it rains, that corner floods”. Drugie to ustępstwo i obojętność wobec wyboru, spokrewnione z 'no matter when': „Come whenever you like”. Element '-ever' pochodzi od 'æfre' („kiedykolwiek, zawsze”) i pełni tu tę samą funkcję, co w whatever, wherever, however — sygnalizuje, że konkretna wartość nie ma znaczenia. W mowie potocznej wykształciło się z tego jeszcze samodzielne, lekceważące „Whenever.” — analogiczne do słynnego „Whatever.” — czyli „a niech sobie, wszystko jedno kiedy”. To piękny przykład, jak spójnik czasu może wyewoluować w akt mowy wyrażający postawę."
+      },
+      {
+        "label": "'Whilst', 'amongst', 'amidst' — fałszywe -t i rejestr brytyjski",
+        "text": "'Whilst' to nie inne słowo niż 'while', tylko jego brytyjski, wyraźnie formalny wariant. Powstał tak samo jak 'amongst', 'amidst' i 'against': najpierw dodano końcówkę dopełniacza przysłówkowego -s ('whiles'), a potem dokleiło się nieetymologiczne, tak zwane wtrącone -t, powstałe z naturalnej fonetyki mowy (grupa /s/ + zwarcie łatwo rozwija /t/). W amerykańskim angielskim 'whilst' praktycznie nie występuje i bywa odbierane jako pretensjonalne; w brytyjskim jest żywe w piśmie formalnym. Znaczeniowo obie formy są identyczne — różni je wyłącznie rejestr i geografia."
+      },
+      {
+        "label": "Kolejność zdań, przecinek i struktura informacji",
+        "text": "Zdanie czasowe może stać przed zdaniem głównym albo po nim, ale wybór nie jest obojętny. Pozycja POCZĄTKOWA czyni z niego RAMĘ i punkt wyjścia — nawiązuje do tego, co już wiadomo, i przygotowuje grunt („When the results came out, everything changed”). Pozycja KOŃCOWA umieszcza je w strefie akcentu zdaniowego, przez co informacja czasowa staje się nowa i ważna („Everything changed when the results came out”). Reguła interpunkcyjna wynika wprost z tej różnicy: zdanie czasowe na początku oddzielamy przecinkiem (bo jest ramą do zamknięcia), na końcu — zwykle nie (bo stanowi część głównego przekazu). Wyjątkiem są zdania dopowiadające, gdzie przecinek stawiamy niezależnie od pozycji."
+      },
+      {
+        "label": "Lustrzana zasada w przeszłości i mowie zależnej",
+        "text": "Zakaz 'will' ma swoje dokładne odbicie w przeszłości: w zdaniu czasowym nie używamy 'would'. „He said he'd resign when the audit was over” — nie: *when the audit would be over. Dzieje się tak, bo 'would' jest po prostu przesuniętą w przeszłość formą 'will' i dziedziczy wszystkie jego ograniczenia. Ale identyczny podział na zdanie okolicznikowe i rzeczownikowe działa i tutaj: „He asked when the audit would be over” jest w pełni poprawne, bo to pytanie zależne, a nie kotwica czasowa. Innymi słowy: cała ta gramatyka jest jedną zasadą oglądaną w dwóch perspektywach czasowych, a nie dwiema regułami do zapamiętania."
+      }
+    ],
+    "usage": [
+      "as jest wieloznaczne (czas / przyczyna / porównanie / rola) — w tekście precyzyjnym wybieraj while lub because",
+      "Nierestrykcyjne when po rzeczowniku czasowym = zdanie względne, zawsze z przecinkiem (in 2019, when prices were still sane)",
+      "whenever = za każdym razem, gdy… albo obojętnie kiedy (Drop in whenever you're passing.)",
+      "whilst = brytyjski, formalny wariant while; w AmE praktycznie nieużywany",
+      "Zdanie czasowe na początku (rama, przecinek) kontra na końcu (nowa informacja, bez przecinka)",
+      "W kontekście przeszłym zdanie czasowe bierze Past Simple/Past Perfect, nigdy would (I knew I'd feel better once I'd slept.)",
+      "Pytanie zależne z when/whether zachowuje would tak samo, jak zachowywało will (She wondered when he would call.)"
+    ],
+    "tags": ["as = czas/przyczyna", "nierestrykcyjne when", "whenever", "whilst", "brak would", "end-focus"],
+    "examples": [
+      { "en": "As the negotiations dragged on, both sides quietly lowered their expectations.", "pl": "W miarę jak negocjacje się przeciągały, obie strony po cichu obniżyły oczekiwania." },
+      { "en": "We bought the place in 2014, when nobody wanted to live in that district.", "pl": "Kupiliśmy to miejsce w 2014 roku, kiedy nikt nie chciał mieszkać w tamtej dzielnicy." },
+      { "en": "Whilst the findings are encouraging, the authors themselves urge caution.", "pl": "Choć wyniki są zachęcające, sami autorzy zalecają ostrożność." },
+      { "en": "He promised he'd call the moment he got in, and then didn't call for three days.", "pl": "Obiecał, że zadzwoni w chwili, gdy dotrze, a potem nie dzwonił przez trzy dni." },
+      { "en": "Nobody could say when the repairs would be finished, so we booked a hotel.", "pl": "Nikt nie potrafił powiedzieć, kiedy skończą się naprawy, więc zarezerwowaliśmy hotel." }
     ]
   }
 ]
