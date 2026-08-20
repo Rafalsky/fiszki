@@ -1,45 +1,794 @@
 [
-  {"id": 1, "itemId": "when_while_as", "prompt": "___ the phone rang, I answered it.", "answer": "When", "distractors": ["While", "As", "Until"]},
-  {"id": 2, "itemId": "when_while_as", "prompt": "___ I was cooking dinner, she was setting the table.", "answer": "While", "distractors": ["When", "As soon as", "Until"]},
-  {"id": 3, "itemId": "when_while_as", "prompt": "___ it got darker, the temperature dropped.", "answer": "As", "distractors": ["When", "Before", "Until"]},
-  {"id": 4, "itemId": "when_while_as", "prompt": "I was reading a book ___ the phone rang.", "answer": "when", "distractors": ["while", "as soon as", "until"]},
-  {"id": 5, "itemId": "when_while_as", "prompt": "___ she was walking to work, it started to rain.", "answer": "While", "distractors": ["When", "Once", "After"]},
-  {"id": 6, "itemId": "when_while_as", "prompt": "The lights went out ___ we were watching the film.", "answer": "while", "distractors": ["when", "as soon as", "before"]},
-  {"id": 7, "itemId": "when_while_as", "prompt": "___ the crowd cheered louder, the runners sped up.", "answer": "As", "distractors": ["When", "Until", "Before"]},
-  {"id": 8, "itemId": "when_while_as", "prompt": "He tripped ___ he was running to catch the bus.", "answer": "while", "distractors": ["when", "once", "by the time"]},
-  {"id": 9, "itemId": "when_while_as", "prompt": "___ she saw the letter, she started to cry.", "answer": "When", "distractors": ["While", "Until", "Once"]},
-  {"id": 10, "itemId": "when_while_as", "prompt": "The music grew louder ___ the party went on.", "answer": "as", "distractors": ["when", "until", "before"]},
-
-  {"id": 11, "itemId": "before_after_until", "prompt": "Wash your hands ___ you eat.", "answer": "before", "distractors": ["after", "as soon as", "once"]},
-  {"id": 12, "itemId": "before_after_until", "prompt": "___ she finished her homework, she watched TV.", "answer": "After", "distractors": ["Before", "Until", "While"]},
-  {"id": 13, "itemId": "before_after_until", "prompt": "Wait here ___ I come back.", "answer": "until", "distractors": ["before", "after", "when"]},
-  {"id": 14, "itemId": "before_after_until", "prompt": "I won't leave ___ you arrive.", "answer": "until", "distractors": ["before", "after", "while"]},
-  {"id": 15, "itemId": "before_after_until", "prompt": "Please turn off the lights ___ you leave the room.", "answer": "before", "distractors": ["after", "until", "as"]},
-  {"id": 16, "itemId": "before_after_until", "prompt": "We can't start the meeting ___ everyone arrives.", "answer": "until", "distractors": ["before", "after", "once"]},
-  {"id": 17, "itemId": "before_after_until", "prompt": "___ the guests left, we cleaned up the kitchen.", "answer": "After", "distractors": ["Before", "Until", "While"]},
-  {"id": 18, "itemId": "before_after_until", "prompt": "She always checks her email ___ going to bed.", "answer": "before", "distractors": ["after", "until", "while"]},
-  {"id": 19, "itemId": "before_after_until", "prompt": "Keep stirring the sauce ___ it thickens.", "answer": "until", "distractors": ["before", "after", "when"]},
-  {"id": 20, "itemId": "before_after_until", "prompt": "___ he got his diploma, he applied for jobs.", "answer": "After", "distractors": ["Before", "Until", "As"]},
-
-  {"id": 21, "itemId": "as_soon_as_once_by_the_time", "prompt": "I'll call you ___ I arrive.", "answer": "as soon as", "distractors": ["by the time", "before", "while"]},
-  {"id": 22, "itemId": "as_soon_as_once_by_the_time", "prompt": "___ you finish your homework, you can go outside.", "answer": "Once", "distractors": ["By the time", "Before", "While"]},
-  {"id": 23, "itemId": "as_soon_as_once_by_the_time", "prompt": "___ you arrive, I will have finished cooking.", "answer": "By the time", "distractors": ["As soon as", "Once", "Until"]},
-  {"id": 24, "itemId": "as_soon_as_once_by_the_time", "prompt": "___ we got there, the film had already started.", "answer": "By the time", "distractors": ["As soon as", "Once", "While"]},
-  {"id": 25, "itemId": "as_soon_as_once_by_the_time", "prompt": "She left the office ___ she got the message.", "answer": "as soon as", "distractors": ["by the time", "before", "until"]},
-  {"id": 26, "itemId": "as_soon_as_once_by_the_time", "prompt": "___ the ice has melted, pour the water away.", "answer": "Once", "distractors": ["By the time", "As", "Before"]},
-  {"id": 27, "itemId": "as_soon_as_once_by_the_time", "prompt": "___ the plane lands, please switch off your phones.", "answer": "As soon as", "distractors": ["By the time", "Once", "While"]},
-  {"id": 28, "itemId": "as_soon_as_once_by_the_time", "prompt": "___ he retires, he will have worked here for thirty years.", "answer": "By the time", "distractors": ["As soon as", "Once", "Until"]},
-  {"id": 29, "itemId": "as_soon_as_once_by_the_time", "prompt": "___ you've signed the form, you're officially a member.", "answer": "Once", "distractors": ["By the time", "As", "After"]},
-  {"id": 30, "itemId": "as_soon_as_once_by_the_time", "prompt": "___ the shop closed, all the customers had already left.", "answer": "By the time", "distractors": ["As soon as", "Once", "Before"]},
-
-  {"id": 31, "itemId": "no_future_in_time_clauses", "prompt": "When he ___ (call), I will tell him the news.", "answer": "calls", "distractors": ["will call", "is calling", "called"]},
-  {"id": 32, "itemId": "no_future_in_time_clauses", "prompt": "I'll wait here until you ___ (come) back.", "answer": "come", "distractors": ["will come", "are coming", "came"]},
-  {"id": 33, "itemId": "no_future_in_time_clauses", "prompt": "As soon as I ___ (finish) this report, I'll send it to you.", "answer": "have finished", "distractors": ["will finish", "will have finished", "finished"]},
-  {"id": 34, "itemId": "no_future_in_time_clauses", "prompt": "We'll go for a walk after it ___ (stop) raining.", "answer": "stops", "distractors": ["will stop", "is stopping", "stopped"]},
-  {"id": 35, "itemId": "no_future_in_time_clauses", "prompt": "She'll text you before she ___ (leave) the house.", "answer": "leaves", "distractors": ["will leave", "is leaving", "left"]},
-  {"id": 36, "itemId": "no_future_in_time_clauses", "prompt": "By the time you ___ (get) here, dinner will be ready.", "answer": "get", "distractors": ["will get", "are getting", "got"]},
-  {"id": 37, "itemId": "no_future_in_time_clauses", "prompt": "I won't be able to relax until I ___ (know) the results.", "answer": "know", "distractors": ["will know", "am knowing", "knew"]},
-  {"id": 38, "itemId": "no_future_in_time_clauses", "prompt": "Once she ___ (arrive), we'll start the meeting.", "answer": "arrives", "distractors": ["will arrive", "is arriving", "arrived"]},
-  {"id": 39, "itemId": "no_future_in_time_clauses", "prompt": "They'll be delighted when they ___ (hear) the good news.", "answer": "hear", "distractors": ["will hear", "are hearing", "heard"]},
-  {"id": 40, "itemId": "no_future_in_time_clauses", "prompt": "As soon as the guests ___ (arrive), we'll serve dinner.", "answer": "arrive", "distractors": ["will arrive", "are arriving", "arrived"]}
+ {
+  "id": 1,
+  "itemId": "no_future_roots",
+  "prompt": "I'll text you the moment I ___ at the hotel. (arrive)",
+  "answer": "arrive",
+  "distractors": [
+   "will arrive",
+   "am arriving",
+   "will have arrived"
+  ]
+ },
+ {
+  "id": 2,
+  "itemId": "no_future_roots",
+  "prompt": "Morphologically, the English verb has only ___ tenses — there is no future ending like the Polish or French one.",
+  "answer": "two",
+  "distractors": [
+   "three",
+   "four",
+   "twelve"
+  ]
+ },
+ {
+  "id": 3,
+  "itemId": "no_future_roots",
+  "prompt": "Old English 'willan' originally meant 'to ___', not 'shall/will' as a future marker.",
+  "answer": "want",
+  "distractors": [
+   "go",
+   "owe",
+   "know"
+  ]
+ },
+ {
+  "id": 4,
+  "itemId": "no_future_roots",
+  "prompt": "Old English 'sculan', the ancestor of 'shall', originally meant 'to ___ something, to be obliged'.",
+  "answer": "owe",
+  "distractors": [
+   "wish",
+   "begin",
+   "allow"
+  ]
+ },
+ {
+  "id": 5,
+  "itemId": "no_future_roots",
+  "prompt": "A time clause does not predict — it merely provides the ___ against which the main clause is located.",
+  "answer": "reference point",
+  "distractors": [
+   "prediction",
+   "consequence",
+   "condition"
+  ]
+ },
+ {
+  "id": 6,
+  "itemId": "no_future_roots",
+  "prompt": "We're not signing anything until the lawyer ___ the draft. (see)",
+  "answer": "sees",
+  "distractors": [
+   "will see",
+   "will have seen",
+   "would see"
+  ]
+ },
+ {
+  "id": 7,
+  "itemId": "no_future_roots",
+  "prompt": "In Old English, temporal clauses about unrealised future events took the ___ mood, whose function the present tense later absorbed.",
+  "answer": "subjunctive",
+  "distractors": [
+   "indicative",
+   "imperative",
+   "conditional"
+  ]
+ },
+ {
+  "id": 8,
+  "itemId": "no_future_roots",
+  "prompt": "He promised he'd call as soon as he ___ home. (get)",
+  "answer": "got",
+  "distractors": [
+   "would get",
+   "will get",
+   "gets"
+  ]
+ },
+ {
+  "id": 9,
+  "itemId": "no_future_roots",
+  "prompt": "The ban also blocks 'be ___ to' in time clauses, because it too marks futurity.",
+  "answer": "going",
+  "distractors": [
+   "able",
+   "about",
+   "used"
+  ]
+ },
+ {
+  "id": 10,
+  "itemId": "when_noun_clause",
+  "prompt": "I have no idea when the results ___ published. (be)",
+  "answer": "will be",
+  "distractors": [
+   "are",
+   "have been",
+   "were being"
+  ]
+ },
+ {
+  "id": 11,
+  "itemId": "when_noun_clause",
+  "prompt": "I'll email you the second the results ___ published. (be)",
+  "answer": "are",
+  "distractors": [
+   "will be",
+   "will have been",
+   "would be"
+  ]
+ },
+ {
+  "id": 12,
+  "itemId": "when_noun_clause",
+  "prompt": "'Will' returns after 'when' when the when-clause is a ___ clause, i.e. the object of a verb like know or wonder.",
+  "answer": "noun",
+  "distractors": [
+   "adverbial",
+   "relative",
+   "concessive"
+  ]
+ },
+ {
+  "id": 13,
+  "itemId": "when_noun_clause",
+  "prompt": "After a preposition only a noun clause can stand — so: It all depends on when they ___ the funds. (release)",
+  "answer": "will release",
+  "distractors": [
+   "release",
+   "have released",
+   "released"
+  ]
+ },
+ {
+  "id": 14,
+  "itemId": "when_noun_clause",
+  "prompt": "The ban targets marking of ___, not of aspect — which is why Present Perfect survives in a time clause.",
+  "answer": "tense",
+  "distractors": [
+   "mood",
+   "voice",
+   "person"
+  ]
+ },
+ {
+  "id": 15,
+  "itemId": "when_noun_clause",
+  "prompt": "I'll hand it in when I ___ the references. (check — stress that it is finished first)",
+  "answer": "have checked",
+  "distractors": [
+   "will check",
+   "will have checked",
+   "would check"
+  ]
+ },
+ {
+  "id": 16,
+  "itemId": "when_noun_clause",
+  "prompt": "The same split works with 'if': I'm not sure if she ___ agree — a reported question, so the modal is fine here.",
+  "answer": "will",
+  "distractors": [
+   "does",
+   "has",
+   "is"
+  ]
+ },
+ {
+  "id": 17,
+  "itemId": "when_noun_clause",
+  "prompt": "In the polite formula 'If you ___ follow me, sir', the auxiliary expresses willingness, not future time.",
+  "answer": "will",
+  "distractors": [
+   "would have",
+   "shall",
+   "are"
+  ]
+ },
+ {
+  "id": 18,
+  "itemId": "when_noun_clause",
+  "prompt": "An adverbial time clause can be deleted and the sentence still stands; a noun clause cannot, because it is the ___ of the verb.",
+  "answer": "object",
+  "distractors": [
+   "subject",
+   "modifier",
+   "complement of a noun"
+  ]
+ },
+ {
+  "id": 19,
+  "itemId": "when_while_as",
+  "prompt": "'While' descends from the Old English noun 'hwīl', meaning a period or stretch of ___.",
+  "answer": "time",
+  "distractors": [
+   "space",
+   "work",
+   "silence"
+  ]
+ },
+ {
+  "id": 20,
+  "itemId": "when_while_as",
+  "prompt": "___ the soup was simmering, I laid the table.",
+  "answer": "While",
+  "distractors": [
+   "When",
+   "As soon as",
+   "Until"
+  ]
+ },
+ {
+  "id": 21,
+  "itemId": "when_while_as",
+  "prompt": "'As' and 'also' are two descendants of a single Old English word, 'eallswa', meaning literally 'all ___'.",
+  "answer": "so",
+  "distractors": [
+   "time",
+   "one",
+   "then"
+  ]
+ },
+ {
+  "id": 22,
+  "itemId": "when_while_as",
+  "prompt": "___ the sun went down, the temperature dropped step by step. (two processes changing in parallel)",
+  "answer": "As",
+  "distractors": [
+   "While",
+   "Until",
+   "Once"
+  ]
+ },
+ {
+  "id": 23,
+  "itemId": "when_while_as",
+  "prompt": "I was halfway through the presentation ___ the projector died.",
+  "answer": "when",
+  "distractors": [
+   "while",
+   "as",
+   "until"
+  ]
+ },
+ {
+  "id": 24,
+  "itemId": "when_while_as",
+  "prompt": "'When' belongs to the Old English hw- family and was originally an ___ word, like who and what.",
+  "answer": "interrogative",
+  "distractors": [
+   "adverbial",
+   "possessive",
+   "imperative"
+  ]
+ },
+ {
+  "id": 25,
+  "itemId": "when_while_as",
+  "prompt": "___ I sympathise with the argument, I can't accept the conclusion. (contrast, not time)",
+  "answer": "While",
+  "distractors": [
+   "When",
+   "As soon as",
+   "Until"
+  ]
+ },
+ {
+  "id": 26,
+  "itemId": "when_while_as",
+  "prompt": "Why buy it ___ you can borrow it for free? (rhetorical 'given that')",
+  "answer": "when",
+  "distractors": [
+   "while",
+   "until",
+   "before"
+  ]
+ },
+ {
+  "id": 27,
+  "itemId": "when_while_as",
+  "prompt": "Because 'while' literally means 'during the stretch of time that', it prefers events that are ___.",
+  "answer": "durative",
+  "distractors": [
+   "punctual",
+   "negative",
+   "hypothetical"
+  ]
+ },
+ {
+  "id": 28,
+  "itemId": "before_after",
+  "prompt": "Old English 'beforan' was built from 'be-' plus 'foran', literally meaning 'in ___'.",
+  "answer": "front",
+  "distractors": [
+   "time",
+   "haste",
+   "advance of night"
+  ]
+ },
+ {
+  "id": 29,
+  "itemId": "before_after",
+  "prompt": "He died ___ the book was published, so he never read a single review.",
+  "answer": "before",
+  "distractors": [
+   "after",
+   "once",
+   "as soon as"
+  ]
+ },
+ {
+  "id": 30,
+  "itemId": "before_after",
+  "prompt": "A clause after 'after' is veridical; a clause after 'before' is ___, so the event need not have happened at all.",
+  "answer": "non-veridical",
+  "distractors": [
+   "emphatic",
+   "elliptical",
+   "durative"
+  ]
+ },
+ {
+  "id": 31,
+  "itemId": "before_after",
+  "prompt": "She rang off before I ___ explain what the invoice was for.",
+  "answer": "could",
+  "distractors": [
+   "can",
+   "will",
+   "would have"
+  ]
+ },
+ {
+  "id": 32,
+  "itemId": "before_after",
+  "prompt": "'Before' licenses negative polarity items — that is why we can say: Let's slip out before ___ notices.",
+  "answer": "anyone",
+  "distractors": [
+   "someone",
+   "everyone",
+   "no one"
+  ]
+ },
+ {
+  "id": 33,
+  "itemId": "before_after",
+  "prompt": "Past Perfect after before/after is ___, because the conjunction already encodes the order of events.",
+  "answer": "optional",
+  "distractors": [
+   "obligatory",
+   "forbidden",
+   "archaic"
+  ]
+ },
+ {
+  "id": 34,
+  "itemId": "before_after",
+  "prompt": "___ the report lands on his desk, the decision will already have been made.",
+  "answer": "By the time",
+  "distractors": [
+   "Until",
+   "Since",
+   "While"
+  ]
+ },
+ {
+  "id": 35,
+  "itemId": "before_after",
+  "prompt": "By the time we got to the theatre, the doors ___ closed. (close)",
+  "answer": "had",
+  "distractors": [
+   "have",
+   "would have",
+   "were"
+  ]
+ },
+ {
+  "id": 36,
+  "itemId": "before_after",
+  "prompt": "Both 'before' and 'after' were originally ___ words, later extended to time by the metaphor TIME IS SPACE.",
+  "answer": "spatial",
+  "distractors": [
+   "numerical",
+   "modal",
+   "emotional"
+  ]
+ },
+ {
+  "id": 37,
+  "itemId": "until_since",
+  "prompt": "Historically 'till' is ___ than 'until', which was formed by prefixing 'und-' meaning 'as far as'.",
+  "answer": "older",
+  "distractors": [
+   "younger",
+   "rarer",
+   "more formal"
+  ]
+ },
+ {
+  "id": 38,
+  "itemId": "until_since",
+  "prompt": "The 'un-' in 'until' is not a ___ prefix — it comes from a word meaning 'as far as'.",
+  "answer": "negative",
+  "distractors": [
+   "Latin",
+   "comparative",
+   "diminutive"
+  ]
+ },
+ {
+  "id": 39,
+  "itemId": "until_since",
+  "prompt": "We can't say 'He arrived until six', but we can say: He ___ arrive until six.",
+  "answer": "didn't",
+  "distractors": [
+   "hasn't",
+   "won't",
+   "wouldn't"
+  ]
+ },
+ {
+  "id": 40,
+  "itemId": "until_since",
+  "prompt": "Negation turns a punctual event into a ___, which is what gives 'until' a stretch of time to measure.",
+  "answer": "state",
+  "distractors": [
+   "question",
+   "sequence",
+   "comparison"
+  ]
+ },
+ {
+  "id": 41,
+  "itemId": "until_since",
+  "prompt": "___ until I read the footnotes did I understand what the study measured. (emphatic fronting with inversion)",
+  "answer": "Not",
+  "distractors": [
+   "Only",
+   "Hardly",
+   "No sooner"
+  ]
+ },
+ {
+  "id": 42,
+  "itemId": "until_since",
+  "prompt": "Old English 'siþþan', the ancestor of 'since', was a fusion of 'sīð þām þe', literally 'after ___'.",
+  "answer": "that",
+  "distractors": [
+   "this while",
+   "all so",
+   "one time"
+  ]
+ },
+ {
+  "id": 43,
+  "itemId": "until_since",
+  "prompt": "We've barely spoken since he ___ the job in Rotterdam. (take)",
+  "answer": "took",
+  "distractors": [
+   "takes",
+   "has taken",
+   "would take"
+  ]
+ },
+ {
+  "id": 44,
+  "itemId": "until_since",
+  "prompt": "I ___ him since he moved out. (not see — the stretch runs up to now)",
+  "answer": "haven't seen",
+  "distractors": [
+   "didn't see",
+   "don't see",
+   "hadn't seen"
+  ]
+ },
+ {
+  "id": 45,
+  "itemId": "until_since",
+  "prompt": "Stay ___ Friday describes duration up to a limit, whereas 'finish it by Friday' sets a deadline.",
+  "answer": "until",
+  "distractors": [
+   "by",
+   "since",
+   "up to"
+  ]
+ },
+ {
+  "id": 46,
+  "itemId": "as_soon_as_once",
+  "prompt": "Old English 'sōna', the ancestor of 'soon', meant '___', a strong sense preserved only in 'as soon as'.",
+  "answer": "immediately",
+  "distractors": [
+   "shortly",
+   "later",
+   "early"
+  ]
+ },
+ {
+  "id": 47,
+  "itemId": "as_soon_as_once",
+  "prompt": "'Once' began as 'ones', the ___ case of the numeral 'ān' (one), used adverbially.",
+  "answer": "genitive",
+  "distractors": [
+   "dative",
+   "accusative",
+   "nominative"
+  ]
+ },
+ {
+  "id": 48,
+  "itemId": "as_soon_as_once",
+  "prompt": "___ you've seen it, you can't unsee it. (crossing an irreversible threshold)",
+  "answer": "Once",
+  "distractors": [
+   "While",
+   "Until",
+   "As"
+  ]
+ },
+ {
+  "id": 49,
+  "itemId": "as_soon_as_once",
+  "prompt": "No sooner ___ he sat down than the phone rang.",
+  "answer": "had",
+  "distractors": [
+   "did",
+   "has",
+   "was"
+  ]
+ },
+ {
+  "id": 50,
+  "itemId": "as_soon_as_once",
+  "prompt": "'No sooner' takes 'than' because 'sooner' is a ___ form, exactly like 'bigger than'.",
+  "answer": "comparative",
+  "distractors": [
+   "superlative",
+   "negative",
+   "participial"
+  ]
+ },
+ {
+  "id": 51,
+  "itemId": "as_soon_as_once",
+  "prompt": "Hardly had the applause died down ___ she launched into a second encore.",
+  "answer": "when",
+  "distractors": [
+   "than",
+   "as",
+   "until"
+  ]
+ },
+ {
+  "id": 52,
+  "itemId": "as_soon_as_once",
+  "prompt": "Text me the ___ you get home, however late it is.",
+  "answer": "minute",
+  "distractors": [
+   "hour",
+   "while",
+   "since"
+  ]
+ },
+ {
+  "id": 53,
+  "itemId": "as_soon_as_once",
+  "prompt": "'The moment (that)' and 'the minute (that)' are nouns turning into conjunctions — the same ___ that produced 'while'.",
+  "answer": "grammaticalisation",
+  "distractors": [
+   "inversion",
+   "ellipsis",
+   "assimilation"
+  ]
+ },
+ {
+  "id": 54,
+  "itemId": "as_soon_as_once",
+  "prompt": "I'll start as soon as the files ___ uploaded. (upload — completion emphasised)",
+  "answer": "have",
+  "distractors": [
+   "will have",
+   "are being",
+   "would have"
+  ]
+ },
+ {
+  "id": 55,
+  "itemId": "reduced_time_clauses",
+  "prompt": "A time clause may be reduced only when its subject is ___ to the subject of the main clause.",
+  "answer": "identical",
+  "distractors": [
+   "opposite",
+   "plural",
+   "indefinite"
+  ]
+ },
+ {
+  "id": 56,
+  "itemId": "reduced_time_clauses",
+  "prompt": "While ___ for the bus, I read two whole chapters. (wait)",
+  "answer": "waiting",
+  "distractors": [
+   "waited",
+   "I waited for",
+   "to wait"
+  ]
+ },
+ {
+  "id": 57,
+  "itemId": "reduced_time_clauses",
+  "prompt": "When ___ to name a source, the minister changed the subject. (ask — passive reduction)",
+  "answer": "asked",
+  "distractors": [
+   "asking",
+   "he asks",
+   "being asking"
+  ]
+ },
+ {
+  "id": 58,
+  "itemId": "reduced_time_clauses",
+  "prompt": "Reduction deletes the subject and the finite form of the verb ___.",
+  "answer": "be",
+  "distractors": [
+   "have",
+   "do",
+   "will"
+  ]
+ },
+ {
+  "id": 59,
+  "itemId": "reduced_time_clauses",
+  "prompt": "'While waiting for the bus, the rain started' is faulty — the participle is said to be ___.",
+  "answer": "dangling",
+  "distractors": [
+   "stranded",
+   "fronted",
+   "inverted"
+  ]
+ },
+ {
+  "id": 60,
+  "itemId": "reduced_time_clauses",
+  "prompt": "___ in doubt, say less and listen longer. (frozen verbless formula)",
+  "answer": "When",
+  "distractors": [
+   "While",
+   "Since",
+   "Once"
+  ]
+ },
+ {
+  "id": 61,
+  "itemId": "reduced_time_clauses",
+  "prompt": "___ arriving at the border, passengers must present both documents. (formal, official register)",
+  "answer": "Upon",
+  "distractors": [
+   "Since",
+   "While",
+   "By"
+  ]
+ },
+ {
+  "id": 62,
+  "itemId": "reduced_time_clauses",
+  "prompt": "Participle clauses flourished in written English partly in imitation of the Latin ___ absolute.",
+  "answer": "ablative",
+  "distractors": [
+   "genitive",
+   "dative",
+   "vocative"
+  ]
+ },
+ {
+  "id": 63,
+  "itemId": "reduced_time_clauses",
+  "prompt": "Once ___, the software updates itself without asking. (install — passive)",
+  "answer": "installed",
+  "distractors": [
+   "installing",
+   "it installs",
+   "to install"
+  ]
+ },
+ {
+  "id": 64,
+  "itemId": "time_clauses_c2",
+  "prompt": "'As the meeting was running late, he slipped out' is ambiguous between a time reading and a ___ reading.",
+  "answer": "causal",
+  "distractors": [
+   "conditional",
+   "comparative",
+   "concessive"
+  ]
+ },
+ {
+  "id": 65,
+  "itemId": "time_clauses_c2",
+  "prompt": "In 'We moved here in 2019, when prices were still sane', the when-clause is non-restrictive and could be replaced by 'at ___ time'.",
+  "answer": "which",
+  "distractors": [
+   "that",
+   "this",
+   "the same"
+  ]
+ },
+ {
+  "id": 66,
+  "itemId": "time_clauses_c2",
+  "prompt": "Drop in ___ you're passing — any time suits me. (indifference to the choice)",
+  "answer": "whenever",
+  "distractors": [
+   "while",
+   "once",
+   "until"
+  ]
+ },
+ {
+  "id": 67,
+  "itemId": "time_clauses_c2",
+  "prompt": "'Whilst' differs from 'while' only in ___, being British and distinctly formal.",
+  "answer": "register",
+  "distractors": [
+   "meaning",
+   "tense",
+   "word class"
+  ]
+ },
+ {
+  "id": 68,
+  "itemId": "time_clauses_c2",
+  "prompt": "The final -t in whilst, amongst and amidst is not etymological — it is an ___ consonant added in speech.",
+  "answer": "excrescent",
+  "distractors": [
+   "aspirated",
+   "elided",
+   "assimilated"
+  ]
+ },
+ {
+  "id": 69,
+  "itemId": "time_clauses_c2",
+  "prompt": "A time clause placed first acts as a frame and takes a ___; placed last it usually takes none.",
+  "answer": "comma",
+  "distractors": [
+   "dash",
+   "colon",
+   "semicolon"
+  ]
+ },
+ {
+  "id": 70,
+  "itemId": "time_clauses_c2",
+  "prompt": "He said he'd resign when the audit ___ over. (be — past-context time clause)",
+  "answer": "was",
+  "distractors": [
+   "would be",
+   "will be",
+   "has been"
+  ]
+ },
+ {
+  "id": 71,
+  "itemId": "time_clauses_c2",
+  "prompt": "But: He asked when the audit ___ over — a reported question, so the modal comes back.",
+  "answer": "would be",
+  "distractors": [
+   "was",
+   "is",
+   "had been"
+  ]
+ },
+ {
+  "id": 72,
+  "itemId": "time_clauses_c2",
+  "prompt": "The '-ever' of 'whenever' descends from Old English 'æfre', meaning '___'.",
+  "answer": "ever",
+  "distractors": [
+   "never",
+   "again",
+   "after"
+  ]
+ }
 ]
