@@ -291,8 +291,8 @@
     "id": "word_formation",
     "icon": "🧱",
     "title": "Słowotwórstwo",
-    "desc": "Prefiksy i sufiksy słowotwórcze: przedrostki przeczące (un-, in-/im-/il-/ir-, dis-, non-), sufiksy rzeczownikowe i przymiotnikowe oraz re-/mis-/over-/under- — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40,
+    "desc": "Prefiksy i sufiksy od korzeni: wspólny praindoeuropejski rdzeń un-/in-/a-, zamrożona łacińska asymilacja w im-/il-/ir-, żywe germańskie afiksy kontra skamieniałe łacińskie zapożyczenia, trójwarstwowa historia angielskiego (kingly/royal/regal) i test produktywności na neologizmach typu 'googler' — ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 50,
     "level": "b1"
   },
   {
