@@ -41,5 +41,16 @@
   {"id": 37, "itemId": "causative_person", "prompt": "He had his secretary ___ the letters.", "answer": "send", "distractors": ["to send", "sending", "sent"]},
   {"id": 38, "itemId": "causative_person", "prompt": "Did you get them ___ on time?", "answer": "to arrive", "distractors": ["arrive", "arriving", "arrived"]},
   {"id": 39, "itemId": "causative_person", "prompt": "I had the waiter ___ us a different table.", "answer": "give", "distractors": ["to give", "giving", "given"]},
-  {"id": 40, "itemId": "causative_person", "prompt": "She got her colleague ___ her with the project.", "answer": "to help", "distractors": ["help", "helping", "helped"]}
+  {"id": 40, "itemId": "causative_person", "prompt": "She got her colleague ___ her with the project.", "answer": "to help", "distractors": ["help", "helping", "helped"]},
+
+  {"id": 41, "itemId": "causative_wont", "prompt": "I won't have you ___ to me like that.", "answer": "talking", "distractors": ["talk", "to talk", "talked"]},
+  {"id": 42, "itemId": "causative_wont", "prompt": "She wouldn't have anyone ___ in her house.", "answer": "smoking", "distractors": ["smoke", "to smoke", "smoked"]},
+  {"id": 43, "itemId": "causative_wont", "prompt": "We can't have people ___ near the entrance.", "answer": "loitering", "distractors": ["loiter", "to loiter", "loitered"]},
+  {"id": 44, "itemId": "causative_wont", "prompt": "The headmistress wouldn't have the students ___ nonsense.", "answer": "spreading", "distractors": ["spread", "to spread", "spread the"]},
+  {"id": 45, "itemId": "causative_wont", "prompt": "He won't have colleagues ___ about him behind his back.", "answer": "gossiping", "distractors": ["gossip", "to gossip", "gossiped"]},
+  {"id": 46, "itemId": "causative_wont", "prompt": "I ___ have my time wasted like this — find someone else.", "answer": "won't", "distractors": ["don't", "wouldn't want to", "can"]},
+  {"id": 47, "itemId": "causative_wont", "prompt": "My grandmother wouldn't have us ___ at the table.", "answer": "arguing", "distractors": ["argue", "to argue", "argued"]},
+  {"id": 48, "itemId": "causative_wont", "prompt": "The club won't have members ___ the dress code.", "answer": "ignoring", "distractors": ["ignore", "to ignore", "ignored"]},
+  {"id": 49, "itemId": "causative_wont", "prompt": "I simply ___ have people questioning my integrity.", "answer": "won't", "distractors": ["don't", "wasn't going to", "haven't"]},
+  {"id": 50, "itemId": "causative_wont", "prompt": "He wouldn't have it ___ that he had failed.", "answer": "said", "distractors": ["say", "to say", "saying"]}
 ]
