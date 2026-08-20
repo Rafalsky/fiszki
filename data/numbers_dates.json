@@ -3,96 +3,239 @@
     "id": "cardinal_numbers",
     "order": 1,
     "nameEn": "Cardinal numbers",
-    "namePl": "Liczebniki główne",
+    "namePl": "Liczebniki główne — korzenie dziesiątkowego systemu",
     "rules": [
-      { "label": "Setki i tysiące", "text": "Liczby złożone 21-99 zapisujemy z łącznikiem (twenty-one, forty-five). W liczbach powyżej 100 w brytyjskim angielskim między setkami a resztą stawiamy and: two hundred and fifty" },
-      { "label": "Bez and (AmE)", "text": "W amerykańskim angielskim and między setkami a resztą zwykle pomijamy: two hundred fifty" },
-      { "label": "Liczby mnogie", "text": "hundred, thousand, million nie przyjmują -s po liczebniku (three hundred, nie three hundreds), chyba że mówimy ogólnie: hundreds of people" }
+      {
+        "label": "Dlaczego liczebniki 1-10 brzmią podobnie w niemieckim, niderlandzkim i angielskim",
+        "text": "Angielskie one, two, three to nie przypadkowy zestaw dźwięków, lecz bezpośredni refleks praindoeuropejskiego systemu liczbowego, który już w epoce sprzed pisma był w pełni dziesiątkowy (baza 10 — prawdopodobnie dlatego, że liczono na palcach obu dłoni). Z prajęzyka indoeuropejskiego wywodzi się gałąź pragermańska, a z niej — poprzez prawo Grimma, czyli regularne przesunięcie spółgłosek zwarto-wybuchowych (np. PIE *d → germ. *t, PIE *bʰ → germ. *b) — powstały formy takie jak *twai (two), *þrīz (three), *fedwōr (four). To dlatego angielskie two, niemieckie zwei i niderlandzkie twee są tak łudząco podobne: to nie zapożyczenia między sobą, lecz trzy niezależne, regularne kontynuacje tego samego przodka. Dla porównania: francuskie deux pochodzi z zupełnie innej gałęzi (italskiej/łacińskiej, duo), co pokazuje, że romańskie i germańskie liczebniki to dwie różne linie rozwojowe tego samego praindoeuropejskiego rdzenia."
+      },
+      {
+        "label": "Eleven i twelve — liczby, które zdradzają, że angielski kiedyś liczył 'do dziesięciu, a potem osobno'",
+        "text": "Trzynaście (thirteen) do dziewiętnastu (nineteen) to przejrzyste złożenia 'trzy + dziesięć', 'cztery + dziesięć' itd. Ale eleven i twelve NIE są takimi złożeniami — i to nie przypadek, tylko skamielina starszego etapu języka. Staroangielskie ændleofan rozkłada się na ān ('jeden') + -leofan (z pragermańskiego *librana, spokrewnionego z czasownikiem 'zostać, pozostać' — jak we współczesnym leave). Dosłowne znaczenie to więc 'jeden pozostały [ponad dziesięć]'. Analogicznie twelf to twā ('dwa') + -lif, czyli 'dwa pozostałe [ponad dziesięć]'. Innymi słowy: Germanie liczyli do dziesięciu, a liczby 11 i 12 opisywali jako 'nadwyżkę' nad pełną dziesiątką, dopiero od trzynastu przechodząc na regularny wzorzec 'cyfra + dziesięć'. To ślad epoki, w której dziesiątka była psychologicznym punktem odniesienia liczenia (prawdopodobnie właśnie z powodu liczenia na palcach), a nie jeszcze w pełni zautomatyzowanym systemem pozycyjnym."
+      },
+      {
+        "label": "Hundred i thousand — dwa różne sposoby budowania wielkich liczb",
+        "text": "Hundred pochodzi z pragermańskiego *hundaradą, które samo w sobie jest złożeniem starszego *hundą (pokrewnego łacińskiemu centum — oba wywodzą się z tego samego pierwiastka PIE *ḱm̥tóm, a różnica k/h to znowu prawo Grimma: PIE *k regularnie przechodzi w germańskie *h). Angielski i łacina są więc w tym miejscu bliskimi kuzynami, mimo że na pierwszy rzut oka centum i hundred wyglądają zupełnie inaczej. Thousand jest ciekawszy: to nie jest 'dziesięć razy sto' zbudowane kompozycyjnie, lecz osobne, stare złożenie pragermańskie *þūsundī — dosłownie coś w rodzaju 'nabrzmiała/potężna setka' (þūs- 'nabrzmiały, obfity' + hund 'setka'). Świadczy to, że tysiąc był dla Germanów odrębną, samodzielną jednostką pojęciową, wypracowaną osobno, a nie automatycznie wyliczoną z systemu pozycyjnego — myślenie o wielkich liczbach rozwijało się stopniowo, jednostka po jednostce, a nie od razu jako czysto matematyczny system."
+      },
+      {
+        "label": "Skąd się wzięło 'and' w two hundred and fifty (i dlaczego Amerykanie je gubią)",
+        "text": "Spójnik and między setkami a resztą (two hundred AND fifty) to dziedzictwo starszej, w pełni gramatycznej struktury łączącej: 'dwieście I pięćdziesiąt' traktowano jak dwa oddzielne składniki dodawane do siebie, podobnie jak łączy się dwa rzeczowniki (bread and butter). Brytyjski angielski zachował tę spójnikową logikę w mowie formalnej i nieformalnej. Amerykański angielski w XIX wieku, pod wpływem rozwijającego się rejestru księgowo-prawnego (czeki, kontrakty, gazety), zaczął faworyzować szybszy, bardziej 'cyfrowy' sposób odczytu liczb — bliższy temu, jak czyta się ciąg cyfr niż zdanie — i and zaczęło zanikać w mowie codziennej (choć bywa zachowywane w rejestrze bardzo formalnym, np. w czekach: 'Two hundred fifty and 00/100 dollars')."
+      },
+      {
+        "label": "Dlaczego hundred/thousand/million nie biorą -s po liczebniku",
+        "text": "Three hundred, nie three hundreds — bo w tej pozycji hundred pełni funkcję zbliżoną do przymiotnika/kwantyfikatora modyfikującego rzeczownik ('trzysta [czegoś]'), a nie samodzielnego rzeczownika policzalnego. To wzorzec znany z innych rzeczowników 'miary' w historii angielszczyzny (podobnie jak zachowanie zerowej liczby mnogiej po liczebniku w staroangielskim przy słowach określających jednostki). Gdy jednak hundred/thousand użyte są bez poprzedzającego liczebnika, w znaczeniu nieokreślonej wielości, odzyskują pełną rzeczownikową fleksję: hundreds of people, thousands of birds — bo wtedy nie liczą precyzyjnie, tylko funkcjonują jak zwykły rzeczownik policzalny w konstrukcji dopełniaczowej (partitywnej) 'setki [z] ludzi'."
+      }
     ],
     "usage": [
-      "Liczenie ilości, wieku, cen i innych wartości liczbowych",
-      "Numery telefonów czytamy cyfra po cyfrze (double dla powtórzonej cyfry w BrE)",
-      "Duże liczby dzielimy przecinkiem co trzy cyfry: 1,000,000",
-      "Kwoty pieniężne: symbol waluty przed liczbą w piśmie (£20), ale czytane po liczbie (twenty pounds)"
+      "Liczenie ilości, wieku, cen i innych wartości liczbowych w mowie i piśmie",
+      "Numery telefonów czytamy cyfra po cyfrze, a powtórzoną cyfrę w BrE często zastępuje się słowem double (020 044 → oh-two-oh, double four)",
+      "Duże liczby dzielimy przecinkiem co trzy cyfry: 1,000,000 — konwencja odziedziczona po XVII-wiecznych francuskich i angielskich podręcznikach arytmetyki handlowej",
+      "Kwoty pieniężne: symbol waluty zapisujemy przed liczbą (£20), ale wymawiamy po niej (twenty pounds) — pisownia podąża za starszą, łacińską logiką umieszczania jednostki przy liczbie, wymowa za naturalnym szykiem angielskim",
+      "W rejestrze prawno-finansowym (czeki, umowy) liczby często zapisuje się słownie obok cyfr, by utrudnić fałszerstwo — echo tej samej nieufności wobec cyfr arabskich, która towarzyszyła Europie od średniowiecza (patrz temat: zero i cyfry arabskie)"
     ],
-    "tags": ["twenty-one", "two hundred and fifty", "a thousand", "hundreds of"],
+    "tags": ["twenty-one", "two hundred and fifty", "a thousand", "hundreds of", "eleven", "twelve"],
     "examples": [
-      { "en": "There are two hundred and fifty pages in this book.", "pl": "Ta książka ma dwieście pięćdziesiąt stron." },
-      { "en": "My phone number is oh-two-oh, double four, one-nine.", "pl": "Mój numer telefonu to zero-dwa-zero, cztery-cztery, jeden-dziewięć." },
-      { "en": "Over a thousand people attended the concert.", "pl": "W koncercie wzięło udział ponad tysiąc osób." },
-      { "en": "The car costs twenty-five thousand dollars.", "pl": "Samochód kosztuje dwadzieścia pięć tysięcy dolarów." }
+      { "en": "There were two hundred and fifty guests at the wedding, or so the caterer claimed.", "pl": "Na weselu było dwieście pięćdziesiąt gości — a przynajmniej tak twierdziła firma cateringowa." },
+      { "en": "My number is oh-two-oh, double four, one-nine — write it down before you forget.", "pl": "Mój numer to zero-dwa-zero, cztery-cztery, jeden-dziewięć — zapisz, zanim zapomnisz." },
+      { "en": "Hundreds of commuters were stranded when the line shut down without warning.", "pl": "Setki dojeżdżających do pracy utknęło, gdy linia zamknęła się bez ostrzeżenia." },
+      { "en": "It's odd that eleven and twelve don't follow the same pattern as thirteen or fourteen, isn't it?", "pl": "To dziwne, że eleven i twelve nie idą według tego samego wzorca co thirteen czy fourteen, prawda?" }
     ]
   },
   {
     "id": "ordinal_numbers",
     "order": 2,
     "nameEn": "Ordinal numbers",
-    "namePl": "Liczebniki porządkowe",
+    "namePl": "Liczebniki porządkowe — dlaczego 'first' nie ma nic wspólnego z 'one'",
     "rules": [
-      { "label": "Końcówka -th", "text": "Większość liczebników porządkowych tworzymy dodając -th do liczebnika głównego: four → fourth, six → sixth" },
-      { "label": "Wyjątki", "text": "one → first, two → second, three → third oraz ich złożenia (twenty-first, thirty-second, forty-third)" },
-      { "label": "Zmiany pisowni", "text": "five → fifth, eight → eighth (bez podwójnego t), nine → ninth (bez e), twelve → twelfth; liczby na -y zmieniają y na ie: twenty → twentieth" }
+      {
+        "label": "Regularna końcówka -th i jej łaciński kuzyn",
+        "text": "Większość liczebników porządkowych powstaje przez dodanie -th (four → fourth, six → sixth), a ta końcówka to bezpośredni refleks pragermańskiego przyrostka *-þô, który z kolei wywodzi się z praindoeuropejskiego formantu porządkowego *-to-. Łacina ma dokładnie ten sam pierwiastek w -tus (quartus, sextus) — a różnica þ/t to znów prawo Grimma (PIE *t → germ. *þ). Innymi słowy: angielskie -th i łacińskie -tus to nie przypadkowe podobieństwo, lecz dwie regularne kontynuacje jednego wspólnego przodka sprzed tysięcy lat."
+      },
+      {
+        "label": "First: liczebnik porządkowy, który wcale nie pochodzi od 'one'",
+        "text": "Gdyby angielski był w pełni regularny, '1.' brzmiałoby jak 'oneth'. Zamiast tego mamy first — słowo z zupełnie innego źródła. Staroangielskie fyrst to forma stopnia najwyższego (superlatiwu) od przymiotnika/przysłówka fore ('przed, na przedzie') — a więc dosłownie znaczy 'najbardziej wysunięty na przód, najprzedniejszy'. To pokazuje ważną prawdę o liczebnikach porządkowych: pojęcie 'bycia pierwszym' historycznie wiązało się bardziej z ideą prymatu, przewodzenia, bycia na czele grupy, niż z czystym liczeniem — dlatego naturalny język sięgnął po superlatiw przymiotnika oznaczającego 'przedni', a nie po pochodną liczebnika 'jeden'."
+      },
+      {
+        "label": "Second: francuski zapożyczony, bo rodzime 'other' było dwuznaczne",
+        "text": "Staroangielski miał już własne słowo na '2.' — oþer (dzisiejsze other). Problem w tym, że oþer znaczyło zarówno 'drugi z kolei', jak i po prostu 'inny, ten drugi z dwóch' — dwuznaczność, która w zdaniach liczbowych zaczęła przeszkadzać (czy 'the other book' to 'druga książka w kolejności', czy 'jakaś inna książka'?). W średnioangielskim, pod silnym wpływem francuskiego po podboju normańskim, zapożyczono więc second (z łac. secundus, dosłownie 'ten, który następuje', od sequi 'podążać, następować po' — ten sam rdzeń co w sequence czy consequence). Ślad starego oþer przetrwał do dziś w wyrażeniach typu every other day ('co drugi dzień') — to dokładnie ta sama, pierwotna funkcja porządkowa, zakonserwowana w jednym utartym zwrocie."
+      },
+      {
+        "label": "Third: przestawka głosek (metateza), nie kaprys ortografii",
+        "text": "Staroangielskie þridda (od þrī, 'trzy') w średnioangielskim przeszło przez formę þirdda, zanim ustabilizowało się jako third — /r/ i samogłoska zamieniły się miejscami. To zjawisko fonetyczne nazywa się metatezą i nie jest odosobnione: to samo spotkało np. bird, które w staroangielskim brzmiało brid. Nie ma tu więc żadnej 'nielogicznej' nieregularności do wykucia na pamięć — jest regularny, dobrze udokumentowany proces fonetyczny, który po prostu dotknął konkretnych słów."
+      },
+      {
+        "label": "Drobne zmiany pisowni: fifth, eighth, ninth, twelfth, twentieth",
+        "text": "Five → fifth traci -ve na rzecz -f (ta sama dźwięczność-bezdźwięczność, co w plural leaf/leaves, tylko w drugą stronę kontekstowo). Eight → eighth nie podwaja t (eightth byłoby nie do wymówienia — dwie identyczne spółgłoski zwarte obok siebie w angielskiej fonotaktyce się redukują do jednej). Nine → ninth traci końcowe -e przed spółgłoskową końcówką (typowa angielska zasada ortograficzna: nieme -e znika przed sufiksem zaczynającym się od spółgłoski, gdy powstałoby zbicie niewymawialne). Twelve → twelfth upraszcza zbitek v+th do f+th z tego samego powodu dźwięczności co w fifth. A liczebniki na -y (twenty, thirty) zamieniają y na ie przed -th (twentieth) — dokładnie ta sama konwencja ortograficzna 'y w środku wyrazu staje się i', którą widać przy tworzeniu liczby mnogiej (city → cities)."
+      }
     ],
     "usage": [
-      "Kolejność i ranking: the first prize, the third floor",
-      "Daty: zawsze z the przed liczebnikiem porządkowym w mowie (the fifth of May)",
-      "Tytuły władców i imiona po numerze: Elizabeth the Second (Elizabeth II)",
-      "Piętra budynków i klasy w szkole"
+      "Kolejność i ranking: the first prize, the third floor, her second attempt",
+      "Daty w mowie: zawsze z przedimkiem the przed liczebnikiem porządkowym (the fifth of May) — sam liczebnik porządkowy z natury domaga się określoności, bo wskazuje jeden, jednoznacznie umiejscowiony element w uporządkowanym ciągu",
+      "Tytuły władców i imiona po numerze porządkowym, zapisywane cyframi rzymskimi, ale czytane słownie: Elizabeth II → Elizabeth the Second, Henry VIII → Henry the Eighth",
+      "Piętra budynków, klasy w szkole, kolejne wydania książek (the third edition) — wszędzie tam, gdzie chodzi o pozycję w uporządkowanym zbiorze, a nie o samą ilość"
     ],
-    "tags": ["the first", "fifth", "twentieth", "Elizabeth the Second"],
+    "tags": ["the first", "second (not oneth)", "fifth", "twentieth", "Elizabeth the Second"],
     "examples": [
-      { "en": "She came first in the competition.", "pl": "Zajęła pierwsze miejsce w konkursie." },
-      { "en": "Our office is on the eighth floor.", "pl": "Nasze biuro jest na ósmym piętrze." },
-      { "en": "This is his twenty-first birthday.", "pl": "To jego dwudzieste pierwsze urodziny." },
-      { "en": "The king was known as Henry the Eighth.", "pl": "Król był znany jako Henryk Ósmy." }
+      { "en": "She came first in the competition, which surprised absolutely no one who knew her.", "pl": "Zajęła pierwsze miejsce w konkursie, co nie zaskoczyło absolutnie nikogo, kto ją znał." },
+      { "en": "Our office moved to the eighth floor last month, and the lift still hasn't been fixed.", "pl": "Nasze biuro przeniosło się na ósme piętro w zeszłym miesiącu, a winda wciąż nie została naprawiona." },
+      { "en": "This is technically his twenty-first birthday, though he insists he stopped counting at eighteen.", "pl": "To technicznie jego dwudzieste pierwsze urodziny, choć twierdzi, że przestał liczyć na osiemnastych." },
+      { "en": "The king who commissioned this palace was known to historians as Henry the Eighth.", "pl": "Król, który zlecił budowę tego pałacu, znany był historykom jako Henryk Ósmy." }
     ]
   },
   {
     "id": "dates",
     "order": 3,
     "nameEn": "Dates",
-    "namePl": "Zapis i odczytywanie dat",
+    "namePl": "Zapis i odczytywanie dat — dwie konwencje, jeden konflikt",
     "rules": [
-      { "label": "BrE zapis", "text": "dzień/miesiąc/rok: 5 May 2023 lub 5th May 2023 — czytane jako: the fifth of May, twenty twenty-three" },
-      { "label": "AmE zapis", "text": "miesiąc/dzień/rok: May 5, 2023 — czytane jako: May fifth, twenty twenty-three" },
-      { "label": "Czytanie lat", "text": "Lata do 1999 czytamy w parach: 1984 → nineteen eighty-four; lata 2000-2009 zwykle: two thousand (and) five; od 2010: twenty ten / twenty twenty-three" }
+      {
+        "label": "Brytyjska kolejność dzień/miesiąc/rok — dziedzictwo łacińskiej frazy urzędowej",
+        "text": "W brytyjskim angielskim piszemy 5 May 2023, a mówimy 'the fifth of May, twenty twenty-three'. Ta kolejność (dzień → miesiąc → rok, czyli od najmniejszej jednostki do największej) wywodzi się z łacińskiej formuły datowania dokumentów urzędowych i kościelnych, używanej w Europie od średniowiecza: 'die quinto mensis Maii anno...' ('piątego dnia miesiąca maja roku...'). Angielska administracja prawna i kościelna, silnie zlatynizowana aż do wczesnej epoki nowożytnej, przejęła tę składnię niemal dosłownie — stąd wyrażenie 'the fifth OF May' z przyimkiem dopełniaczowym of, który jest bezpośrednim tłumaczeniem łacińskiego genetiwu mensis Maii ('miesiąca maja')."
+      },
+      {
+        "label": "Amerykańska kolejność miesiąc/dzień/rok — echo mowy potocznej, nie logiki urzędowej",
+        "text": "Amerykański angielski pisze May 5, 2023 i czyta 'May fifth, twenty twenty-three'. Ta konwencja nie wywodzi się z łacińskiej formuły kancelaryjnej, lecz z naturalnego szyku mowy angielskiej, w którym miesiąc — jako informacja 'nadrzędna', pierwsza podawana w rozmowie ('kiedy to było? W maju... którego dnia? Piątego') — wysuwa się na początek. Ta potoczna kolejność ('May the fifth') utrwaliła się w piśmie amerykańskim w XVIII i XIX wieku równolegle z rozwojem niezależnej, mniej zlatynizowanej tradycji administracyjnej młodych Stanów Zjednoczonych, podczas gdy Wielka Brytania i większość Europy kontynentalnej zachowały starszy, urzędowo-łaciński wzorzec dzień-miesiąc-rok."
+      },
+      {
+        "label": "Realny problem: 05/06 znaczy co innego po obu stronach Atlantyku",
+        "text": "Skrócony zapis liczbowy ujawnia praktyczny konflikt tych dwóch konwencji: 05/06/2023 w Wielkiej Brytanii to 5 czerwca, a w Stanach Zjednoczonych to 6 maja. To realne źródło pomyłek w dokumentach, biletach lotniczych czy datach ważności produktów — i właśnie dlatego w 1988 roku Międzynarodowa Organizacja Normalizacyjna (ISO) ustanowiła standard ISO 8601, nakazujący zapis rok-miesiąc-dzień (2023-05-06) w komunikacji międzynarodowej, informatyce i nauce — kolejność, która jest jednoznaczna niezależnie od czytelnika, bo sortuje się naturalnie chronologicznie."
+      },
+      {
+        "label": "Czytanie lat: pary cyfr, 'oh' zamiast zera i kłopotliwa dekada 2000-2009",
+        "text": "Lata do 1999 czyta się w parach, tak jakby to były dwie osobne dwucyfrowe liczby: 1984 → nineteen eighty-four, 1806 → eighteen oh six (z 'oh' w miejscu zera — ten sam nawyk, co przy czytaniu numerów telefonów). Ta konwencja parowania cyfr jest stara i sięga jeszcze czasów, gdy większość dat historycznych mieściła się w przedziale 1100-1999, więc podział na 'wiek' + 'rok w wieku' był naturalny i ekonomiczny. Problem pojawił się przy latach 2000-2009: 'twenty-oh-five' brzmiało nienaturalnie obok utrwalonego 'two thousand and five', więc przez całą dekadę obie formy konkurowały ze sobą w żywym użyciu. Dopiero od 2010 wzorzec parowania wrócił do dominacji: twenty ten, twenty twenty-three — sygnał, że mówiący odczuwają rok jako 'znowu należący' do epoki sprzed roku 2000 pod względem rytmu wymowy."
+      },
+      {
+        "label": "Przyimki przy datach: in / on / at — trzy różne 'rozmiary' czasu",
+        "text": "Wybór przyimka przy dacie nie jest arbitralny — odzwierciedla to, jak 'duży' jest opisywany odcinek czasu. In używamy przy jednostkach obejmujących, czyli otaczających punkt w czasie z każdej strony (in May, in 2023, in the 1990s — miesiąc czy rok 'zawiera w sobie' wydarzenie). On rezerwujemy dla konkretnego, punktowego dnia (on 5 May, on Monday) — dzień jest jednostką dyskretną, którą 'trafiamy' precyzyjnie, nie 'w której się mieścimy'. At natomiast służy najmniejszym, wręcz momentalnym jednostkom (at noon, at 5 o'clock) — logika przechodzi od największego kontenera czasowego (in) przez pojedynczy dzień (on) aż po punktowy moment (at), co jest jednym z niewielu naprawdę systematycznych wzorców semantycznych w angielskich przyimkach czasu."
+      }
     ],
     "usage": [
-      "Pisemne daty w dokumentach, formularzach, na zaproszeniach",
-      "Mówienie o dacie urodzenia, ważnych wydarzeniach historycznych",
-      "Przyimek in z miesiącem/rokiem (in May, in 2023), on z dniem (on 5 May), at z porą dnia",
-      "Skrót daty liczbowo różni się między BrE (05/05/2023 = 5 maja) a AmE (05/05/2023 = 5 stycznia)"
+      "Pisemne daty w dokumentach, formularzach, na zaproszeniach — wybór formatu BrE/AmE zależy od odbiorcy i kontekstu instytucjonalnego",
+      "Mówienie o dacie urodzenia, ważnych wydarzeniach historycznych i rocznicach",
+      "Data w formacie ISO 8601 (rok-miesiąc-dzień) w informatyce, nauce, dokumentach międzynarodowych — projektowo jednoznaczna niezależnie od kraju czytelnika",
+      "Rozróżnianie wieków (the 19th century) od dekad (the 1990s, the noughties/two-thousands) w narracji historycznej"
     ],
-    "tags": ["the fifth of May", "May fifth", "nineteen eighty-four", "in 2023"],
+    "tags": ["the fifth of May", "May fifth", "nineteen eighty-four", "in 2023", "ISO 8601"],
     "examples": [
-      { "en": "She was born on the fifth of May, nineteen ninety.", "pl": "Urodziła się piątego maja tysiąc dziewięćset dziewięćdziesiątego roku." },
-      { "en": "The meeting is scheduled for May 5, 2023.", "pl": "Spotkanie jest zaplanowane na 5 maja 2023." },
-      { "en": "The war ended in nineteen forty-five.", "pl": "Wojna zakończyła się w tysiąc dziewięćset czterdziestym piątym roku." },
-      { "en": "We're moving in twenty twenty-four.", "pl": "Przeprowadzamy się w dwa tysiące dwudziestym czwartym roku." }
+      { "en": "She was born on the fifth of May, nineteen ninety, right in the middle of a heatwave, according to family legend.", "pl": "Urodziła się piątego maja tysiąc dziewięćset dziewięćdziesiątego roku, w samym środku fali upałów — tak przynajmniej głosi rodzinna legenda." },
+      { "en": "If you write 05/06/2023 on a British form, don't be surprised if an American reads it as June the fifth.", "pl": "Jeśli napiszesz 05/06/2023 na brytyjskim formularzu, nie zdziw się, jeśli Amerykanin odczyta to jako piąty czerwca." },
+      { "en": "The war that everyone assumed would be over by Christmas dragged on until nineteen eighteen.", "pl": "Wojna, o której wszyscy zakładali, że skończy się przed Bożym Narodzeniem, ciągnęła się aż do tysiąc dziewięćset osiemnastego roku." },
+      { "en": "We're finally moving house in twenty twenty-four, after two years of putting it off.", "pl": "W końcu przeprowadzamy się w dwa tysiące dwudziestym czwartym roku, po dwóch latach odkładania tego." }
     ]
   },
   {
-    "id": "fractions_decimals",
+    "id": "fractions_decimals_percentages",
     "order": 4,
     "nameEn": "Fractions, decimals & percentages",
-    "namePl": "Ułamki, liczby dziesiętne i procenty",
+    "namePl": "Ułamki, liczby dziesiętne i procenty — spadek po dwóch tradycjach matematycznych",
     "rules": [
-      { "label": "Ułamki", "text": "1/2 = a half, 1/3 = a third, 1/4 = a quarter, 3/4 = three quarters; liczby mieszane: 1½ = one and a half" },
-      { "label": "Dziesiętne", "text": "Kropkę dziesiętną czytamy jako point, każdą cyfrę po niej osobno: 3.14 → three point one four" },
-      { "label": "Procenty", "text": "Znak % czytamy jako per cent: 20% → twenty per cent (BrE) / twenty percent (AmE)" }
+      {
+        "label": "Half: rdzenne germańskie słowo o znaczeniu 'strona'",
+        "text": "Half wywodzi się z pragermańskiego *halbaz, którego pierwotne znaczenie to raczej 'strona, bok' niż ściśle 'połowa' — coś podzielonego na dwie strony jest naturalnie podzielone na dwie równe części. Ten sam pierwiastek przetrwał w mniej oczywistych słowach: behalf (be- + half, dosłownie 'po stronie [kogoś]', stąd on my behalf 'w moim imieniu') to skamielina tego samego, pierwotnie przestrzennego znaczenia 'strony'. Half jest więc, w przeciwieństwie do quarter, słowem w pełni rodzimym, germańskim — nie zapożyczonym."
+      },
+      {
+        "label": "Quarter: łacińska pożyczka tam, gdzie rodzimego słowa zabrakło w tej roli",
+        "text": "Podczas gdy liczebnik porządkowy '4.' to rodzime fourth, ułamek '1/4' to quarter — z łaciny quartus poprzez starofrancuskie quartier. Angielski rozdzielił tu dwie funkcje między dwa różne słowa z dwóch różnych źródeł: fourth zostało zarezerwowane wyłącznie dla porządku w ciągu (the fourth day), a quarter przejęło rolę rzeczownika oznaczającego 'jedną czwartą część' (a quarter of an hour) — wzorzec, który powtarza się przy half/second (drugi vs połowa) i three quarters, ale zanika przy wyższych ułamkach (1/5 to po prostu a fifth, używające tej samej formy co liczebnik porządkowy). Ten podział na 'specjalne' ułamki (half, quarter) i 'regularne' (a fifth, a sixth, zbudowane wprost z liczebnika porządkowego) to żywy ślad tego, które pojęcia ułamkowe były na tyle powszechne w codziennym średniowiecznym handlu i mierzeniu czasu, że zasłużyły na osobne słowo."
+      },
+      {
+        "label": "Per cent: włoscy bankierzy renesansu i matematyka odsetek",
+        "text": "Percent pochodzi z łacińskiego per centum, dosłownie 'na sto, przez sto'. Do angielskiego trafiło jednak nie prosto z klasycznej łaciny, lecz przez włoski język kupiecki i bankowy epoki renesansu (per cento) — to włoscy bankierzy z Florencji, Wenecji i Genui, pionierzy nowoczesnej rachunkowości podwójnego zapisu (double-entry bookkeeping) i systemów odsetkowych, spopularyzowali tę frazę w międzynarodowym handlu XV-XVI wieku. Sam symbol % to stopniowo uproszczony, odręczny skrót zapisu 'p 100' w średniowiecznych i renesansowych rękopisach kupieckich — dwa kółka i ukośnik to graficzna ewolucja dwóch zer ze 100, oddzielonych ukośną kreską."
+      },
+      {
+        "label": "Kropka czy przecinek dziesiętny? Dwie konkurencyjne tradycje matematyczne",
+        "text": "Angielski (podobnie jak kilka innych krajów) czyta 3.14 z kropką dziesiętną, podczas gdy większość Europy kontynentalnej pisze 3,14 z przecinkiem. Kropka dziesiętna ma swoje korzenie w matematyce angielskiej i szkockiej XVII wieku — szkocki matematyk John Napier, wynalazca logarytmów, aktywnie promował kropkę (lub czasem przecinek u góry linii) jako czytelny separator części całkowitej i ułamkowej w swoich pracach z 1616-1617 roku. Kontynentalna Europa poszła inną drogą — częściowo pod wpływem niemieckiej i francuskiej tradycji typograficznej, w której przecinek był już zarezerwowany do innych celów w druku i preferowano go jako separator dziesiętny, co dodatkowo utrwaliła francuska reforma metryczna po rewolucji 1789 roku, eksportowana potem do większości Europy razem z systemem metrycznym."
+      },
+      {
+        "label": "Dlaczego cyfry po przecinku czyta się pojedynczo, a nie jako całą liczbę",
+        "text": "3.14 czytamy 'three point one four', a nie 'three point fourteen' — bo część dziesiętna nie jest samodzielną liczbą, tylko ciągiem cyfr oznaczających kolejne miejsca po przecinku (dziesiąte, setne...). Odczytanie '0.14' jako 'fourteen' zatarłoby różnicę między 0.14 a np. 0.014 czy 0.140 — a pojedyncze odczytanie cyfr jest jednoznaczne niezależnie od tego, ile miejsc po przecinku ma liczba. To ta sama logika jednoznaczności, która każe czytać numery telefonów cyfra po cyfrze, a nie próbować odczytać je jako jedną wielką liczbę."
+      }
     ],
     "usage": [
-      "Przepisy kulinarne i miary (half a cup, a quarter of an hour)",
-      "Statystyki, wyniki badań i ceny (a 10% discount)",
-      "Liczby dziesiętne w wynikach pomiarów i finansach",
-      "Czas: a quarter past / a quarter to, half past"
+      "Przepisy kulinarne i miary: half a cup, a quarter of an hour, three quarters of a litre",
+      "Statystyki, wyniki badań i ceny: a 10% discount, unemployment fell by 2.3 per cent",
+      "Liczby dziesiętne w wynikach pomiarów, finansach i nauce, gdzie precyzyjny odczyt cyfra po cyfrze eliminuje dwuznaczność",
+      "Czas zegarowy: a quarter past / a quarter to, half past — dokładnie te same słowa co przy ułamkach, bo godzina jest tu dzielona na te same, historycznie utrwalone części"
     ],
-    "tags": ["a half", "three point one four", "twenty per cent", "a quarter past"],
+    "tags": ["a half", "a quarter", "three point one four", "twenty per cent", "a quarter past"],
     "examples": [
-      { "en": "Add half a cup of sugar to the mixture.", "pl": "Dodaj pół szklanki cukru do mieszanki." },
-      { "en": "The value of pi is approximately three point one four.", "pl": "Wartość liczby pi wynosi w przybliżeniu trzy przecinek czternaście." },
-      { "en": "Almost twenty per cent of students passed with distinction.", "pl": "Prawie dwadzieścia procent uczniów zdało z wyróżnieniem." },
-      { "en": "It's a quarter past six.", "pl": "Jest kwadrans po szóstej." }
+      { "en": "Add half a cup of sugar to the mixture, but don't be tempted to round it up.", "pl": "Dodaj pół szklanki cukru do mieszanki, ale nie ulegaj pokusie zaokrąglenia w górę." },
+      { "en": "The value of pi is approximately three point one four, though engineers rarely need more precision than that.", "pl": "Wartość liczby pi wynosi w przybliżeniu trzy przecinek czternaście, choć inżynierowie rzadko potrzebują większej precyzji." },
+      { "en": "Almost twenty per cent of first-year students switch courses before the second term.", "pl": "Prawie dwadzieścia procent studentów pierwszego roku zmienia kierunek przed drugim semestrem." },
+      { "en": "It's a quarter past six already — we're going to miss the beginning of the film.", "pl": "Jest już kwadrans po szóstej — spóźnimy się na początek filmu." }
+    ]
+  },
+  {
+    "id": "zero_and_numerals",
+    "order": 5,
+    "nameEn": "Zero and the numeral system",
+    "namePl": "Zero i cyfry — jak Europa nauczyła się liczyć od nowa",
+    "rules": [
+      {
+        "label": "Zero narodziło się w Indiach jako pojęcie filozoficzne, zanim stało się cyfrą",
+        "text": "Współczesna cyfra 0 wywodzi się z sanskryckiego śūnya, dosłownie 'pustka, próżnia' — pojęcia głęboko zakorzenionego w indyjskiej filozofii i matematyce już w pierwszych wiekach naszej ery. To właśnie indyjscy matematycy (m.in. Brahmagupta w VII wieku) jako pierwsi w pełni potraktowali zero nie jako brak wartości, lecz jako samodzielną liczbę, z którą można wykonywać działania arytmetyczne — rewolucyjny krok, bo starożytni Grecy i Rzymianie, mimo zaawansowanej geometrii, nigdy nie stworzyli w pełni pozycyjnego systemu liczbowego z zerem jako miejscem-wypełniaczem."
+      },
+      {
+        "label": "Od śūnya do sifr do zero: podróż przez arabski, włoski i francuski",
+        "text": "Indyjska śūnya została przetłumaczona na arabski jako ṣifr (dosłownie także 'pustka, nic') przez matematyków świata islamu, w tym Al-Chuwarizmiego (od którego nazwiska pochodzi zresztą słowo 'algorytm'), którzy w IX wieku przejęli i rozwinęli indyjski system pozycyjny. Ṣifr trafiło do średniowiecznej łaciny i włoskiego jako zefiro/zefro, a stamtąd, poprzez francuskie zéro, do angielskiego zero na przełomie XVI i XVII wieku. Co ciekawe, to samo arabskie ṣifr dało angielszczyźnie jeszcze jedno słowo, inną drogą: poprzez starofrancuskie cifre powstało angielskie cipher — pierwotnie oznaczające właśnie 'zero', a z czasem rozszerzone na 'system tajnych znaków, szyfr' (bo dla ludzi nieobeznanych z nowym systemem cyfry arabskie, w tym tajemnicze zero, wyglądały jak niezrozumiały, sekretny kod). Zero i cipher to więc angielskie dublety — dwa różne słowa z jednego arabskiego rdzenia, które trafiły do angielskiego dwiema różnymi ścieżkami zapożyczeń."
+      },
+      {
+        "label": "Dlaczego Europa opierała się cyfrom arabskim przez wieki",
+        "text": "Wprowadzenie cyfr arabsko-indyjskich (i samego zera) do Europy nie było płynne. Leonardo Fibonacci spopularyzował je w swoim dziele Liber Abaci (1202), pisanym po powrocie z Afryki Północnej, gdzie poznał arabską matematykę handlową — ale europejscy kupcy i urzędnicy przez kolejne stulecia w dużej mierze trzymali się liczb rzymskich. Powód był praktyczny i związany z zaufaniem: w liczbach rzymskich trudno sfałszować zapis (dopisanie kreski do V nie zmienia go w VI w sposób niezauważalny), podczas gdy cyfry arabskie, zwłaszcza 0, 6 i 9, łatwo przerobić dopiskiem. Miasto Florencja w 1299 roku formalnie zakazało swoim bankierom używania cyfr arabskich w oficjalnych księgach rachunkowych właśnie z obawy przed oszustwem — cyfry rzymskie uznano za bezpieczniejsze, mimo że dużo trudniej się na nich liczyło. Cyfry arabskie ostatecznie wygrały dopiero wraz z rozwojem druku i standaryzacją zapisu księgowego w XV-XVI wieku."
+      },
+      {
+        "label": "Zero w mowie: 'oh', 'nought', 'zero' i 'nil' — cztery słowa na jedno pojęcie, cztery konteksty",
+        "text": "Angielski, w przeciwieństwie do wielu języków, nie ma jednego uniwersalnego słowa na zero w mowie — wybór zależy od kontekstu i jest kolejnym śladem różnych dróg, którymi liczba zero wchodziła do różnych dziedzin życia. Oh (jak litera 'o') stosuje się przy odczytywaniu pojedynczych cyfr w numerach (numerach telefonów, latach: 1806 → eighteen OH six) — bo wizualnie 0 przypomina literę O, a odczytanie cyfra-po-cyfrze traktuje ciąg bardziej jak kod niż jak liczbę. Nought (BrE) i zero to formy 'liczbowe', używane przy samej liczbie 0 jako wartości matematycznej (nought point five, zero degrees). Nil rezerwuje się niemal wyłącznie dla wyników sportowych (two nil, 'dwa zero') — z łacińskiego nihil ('nic'), zapożyczonego osobno do rejestru sprawozdań i komentarzy sportowych. Ten rozdźwięk słownictwa to żywy dowód na to, że 'zero' nie jest w angielszczyźnie jednym, jednolitym pojęciem, lecz zbiorem funkcjonalnie odrębnych zastosowań, z których każde ma swoją historię zapożyczenia."
+      }
+    ],
+    "usage": [
+      "Odczytywanie numerów telefonów, kodów, PIN-ów: oh dla cyfry 0 (BrE i AmE)",
+      "Wyniki sportowe: nil w piłce nożnej (three nil), love w tenisie (z francuskiego l'œuf, 'jajko', bo kształt przypomina zero — kolejna, zupełnie osobna etymologia tego samego pojęcia)",
+      "Temperatura i wartości naukowe: zero degrees, nought point five (BrE) / zero point five (AmE)",
+      "Rejestr formalny i matematyczny: zero jako jedyna w pełni neutralna, międzynarodowo zrozumiała forma"
+    ],
+    "tags": ["zero", "cipher", "nought", "nil", "oh", "Fibonacci"],
+    "examples": [
+      { "en": "The temperature dropped to zero degrees overnight, and the pipes froze by morning.", "pl": "Temperatura spadła w nocy do zera stopni, a rano rury zamarzły." },
+      { "en": "They lost the match two nil, which the manager blamed on the referee, naturally.", "pl": "Przegrali mecz dwa do zera, co trener, rzecz jasna, zwalił na sędziego." },
+      { "en": "It's remarkable that a single Arabic word gave English both 'zero' and 'cipher'.", "pl": "To niezwykłe, że jedno arabskie słowo dało angielszczyźnie zarówno 'zero', jak i 'cipher'." },
+      { "en": "Florence banned Arabic numerals from official ledgers in 1299, fearing they were too easy to forge.", "pl": "Florencja zakazała cyfr arabskich w oficjalnych księgach w 1299 roku, obawiając się, że zbyt łatwo je sfałszować." }
+    ]
+  },
+  {
+    "id": "large_numbers_scale",
+    "order": 6,
+    "nameEn": "Billion, trillion and the great scale switch",
+    "namePl": "Billion, trillion i wielka zamiana skali",
+    "rules": [
+      {
+        "label": "Długa i krótka skala: dwa różne sposoby liczenia potęg tysiąca",
+        "text": "Istnieją dwa historyczne systemy nazywania wielkich liczb. W skali krótkiej (short scale), dziś standardowej dla angielskiego, każda kolejna nazwa oznacza tysiąc razy więcej niż poprzednia: million = 10⁶, billion = 10⁹, trillion = 10¹². W skali długiej (long scale) każda kolejna nazwa oznacza milion razy więcej niż poprzednia, a liczby pośrednie (10⁹) dostają osobną nazwę z przyrostkiem '-iard': million = 10⁶, milliard = 10⁹, billion = 10¹², billiard = 10¹⁵, trillion = 10¹⁸. Obie skale wywodzą się z tej samej XV-wiecznej francuskiej tradycji matematycznej (Nicolas Chuquet, 1484), która pierwotnie zaproponowała skalę długą — 'bi-' + 'milion' miało oznaczać 'milion do potęgi drugiej', a nie 'tysiąc milionów'."
+      },
+      {
+        "label": "Jak Ameryka poszła w swoją stronę już w XVIII wieku",
+        "text": "Francuscy matematycy i finansiści z XVII i XVIII wieku (zwłaszcza w kręgach bankowych) zaczęli w praktyce upraszczać system, przechodząc na skalę krótką, w której nazwy zmieniają się co trzy zera, a nie co sześć — wygodniejszą przy szybko rosnących kwotach w handlu i finansach. Ta krótka skala trafiła do kolonialnej Ameryki Północnej za pośrednictwem francuskich i wczesnoamerykańskich podręczników matematyki handlowej, zanim Francja sama... wróciła do skali długiej w XX wieku (oficjalnie w 1948 roku). Stany Zjednoczone zachowały jednak skalę krótką na stałe, więc dla Amerykanina billion zawsze oznaczał 10⁹."
+      },
+      {
+        "label": "Wielka Brytania: billion, który przez wieki znaczył coś innego niż dziś",
+        "text": "Wielka Brytania trzymała się tradycyjnej skali długiej aż do drugiej połowy XX wieku — dla Brytyjczyka sprzed 1974 roku a billion oznaczało miliard milionów, czyli 10¹² (to, co dziś nazywamy trillion), a nie 10⁹. Zmiana nastąpiła oficjalnie w 1974 roku, gdy premier Harold Wilson ogłosił w brytyjskim parlamencie, że rząd i statystyki państwowe od tej pory będą używać amerykańskiej skali krótkiej — głównie z powodów praktycznych: rosnąca dominacja amerykańskich mediów finansowych, giełd i publikacji ekonomicznych sprawiła, że posługiwanie się dwiema różnymi wartościami 'billion' w międzynarodowym obrocie finansowym stało się zbyt ryzykowne. Od tego momentu billion w standardowym współczesnym angielskim (i brytyjskim, i amerykańskim) oznacza jednoznacznie 10⁹ — ale starsze brytyjskie teksty sprzed 1974 roku trzeba czytać ostrożnie, ze świadomością tej różnicy."
+      },
+      {
+        "label": "Myriad — zapomniana jednostka, która przetrwała jako 'niezliczona ilość'",
+        "text": "Zanim ustabilizował się system million/billion/trillion, angielski (za pośrednictwem greki, myrias) miał osobne słowo na dokładnie 10 000 — myriad. We współczesnym angielskim liczbowe znaczenie niemal zanikło, a myriad przetrwało głównie jako przymiotnik/rzeczownik oznaczający ogólnie 'ogromną, nieokreśloną liczbę' (a myriad of possibilities) — semantyczne rozmycie precyzyjnej liczby greckiej do wrażenia 'bardzo dużo', typowe dla słów liczbowych, które wypadają z aktywnego systemu liczenia, ale zostają w języku jako wyrażenie intensywności."
+      }
+    ],
+    "usage": [
+      "Finanse, statystyki gospodarcze, demografia — dziś jednoznacznie skala krótka w całym współczesnym angielskim (billion = 10⁹)",
+      "Lektura starszych brytyjskich tekstów historycznych i ekonomicznych sprzed 1974 roku wymaga świadomości dawnego znaczenia billion (10¹²)",
+      "Rejestr literacki i retoryczny: a myriad of, countless, innumerable — do wyrażania ogromu bez podawania konkretnej liczby",
+      "Nauka i technologia: trillion, quadrillion w kontekście bardzo dużych ilości danych czy operacji obliczeniowych"
+    ],
+    "tags": ["billion", "trillion", "short scale", "long scale", "myriad", "milliard"],
+    "examples": [
+      { "en": "The company is now worth over a trillion dollars, a figure that would have seemed like science fiction two decades ago.", "pl": "Firma jest teraz warta ponad bilion dolarów — liczba, która dwie dekady temu wydawałaby się science fiction." },
+      { "en": "Before 1974, a British billion and an American billion weren't even the same number.", "pl": "Przed 1974 rokiem brytyjski billion i amerykański billion nie były nawet tą samą liczbą." },
+      { "en": "There are a myriad of reasons the project was delayed, and frankly, none of them are surprising.", "pl": "Jest niezliczona ilość powodów, dla których projekt się opóźnił, i szczerze mówiąc, żaden z nich nie jest zaskakujący." },
+      { "en": "Harold Wilson's 1974 announcement quietly ended decades of transatlantic confusion over what 'billion' actually meant.", "pl": "Ogłoszenie Harolda Wilsona z 1974 roku po cichu zakończyło dekady transatlantyckiego zamieszania co do tego, co właściwie znaczy 'billion'." }
     ]
   }
 ]
