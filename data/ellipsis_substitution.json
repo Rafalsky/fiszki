@@ -1,94 +1,422 @@
 [
   {
-    "id": "so_neither_nor",
+    "id": "cohesion_recoverability",
     "order": 1,
-    "nameEn": "so / neither / nor + auxiliary (agreement)",
-    "namePl": "So / neither / nor + operator (zgoda z rozmówcą)",
+    "nameEn": "The foundation — why English deletes words, and what makes them recoverable",
+    "namePl": "Fundament: dlaczego angielski „wycina” słowa i co pozwala je odtworzyć",
     "rules": [
-      { "label": "So + operator + podmiot", "text": "Używamy do wyrażenia zgody z twierdzeniem pozytywnym: So do I. / So am I. / So have I." },
-      { "label": "Neither/Nor + operator + podmiot", "text": "Używamy do wyrażenia zgody z twierdzeniem negatywnym: Neither do I. / Nor can I." },
-      { "label": "Szyk zdania", "text": "Po so/neither/nor następuje inwersja: operator przed podmiotem (So do I, NIE So I do)." }
+      {
+        "label": "Trzy różne mechanizmy, jedno powierzchowne wrażenie „skrótu”",
+        "text": "Zdania „I've got one.”, „I think so.” i „Yes, I have.” wyglądają jak trzy warianty tego samego lenistwa językowego, ale opisują trzy odrębne mechanizmy gramatyczne, rozróżnione klasycznie w książce Michaela Hallidaya i Ruqaiyi Hasan „Cohesion in English” (1976), która ustanowiła współczesną terminologię. Po pierwsze REFERENCE (odniesienie): zaimek albo wskaźnik odsyła do bytu w świecie lub w dyskursie — „I met Anna. She was late.” ('she' i 'Anna' to ta sama osoba). Po drugie SUBSTITUTION (substytucja): w miejsce wyrazu wstawiamy inny wyraz-protezę, czyli pro-formę — one, ones, so, do — który zajmuje ten sam slot gramatyczny co usunięty materiał („a red pen” → „a red one”). Po trzecie ELLIPSIS (elipsa): nie wstawiamy nic, zostawiamy pustkę — Halliday nazwał to celnie „substitution by zero”, substytucją przez zero („Have you finished? — Yes, I have Ø.”). Substytucja i elipsa operują więc na WARSTWIE SŁÓW (co zostało powiedziane), a odniesienie na WARSTWIE ZNACZEŃ (o czym mowa). To rozróżnienie nie jest scholastyczne: dlatego „one” kopiuje sam wzorzec rzeczownika i może wskazywać zupełnie inny egzemplarz („I lost my pen, I need a new one” — inny długopis), a „it” wskazuje ten sam obiekt („I lost my pen, I need to find it” — ten sam długopis)."
+      },
+      {
+        "label": "Zasada odtwarzalności (recoverability) — usunąć wolno tylko to, co słuchacz odbuduje jednoznacznie",
+        "text": "Naczelna zasada rządząca całym systemem brzmi: materiał można pominąć wtedy i tylko wtedy, gdy odbiorca potrafi go odtworzyć BEZ zgadywania. Angielszczyzna czerpie tę odtwarzalność z dwóch niezależnych źródeł. Pierwsze to źródło TEKSTOWE: poprzednik (antecedent) padł w rozmowie i wystarczy go skopiować — „She can drive, but her brother can't Ø.” Drugie to źródło SYTUACYJNE: kontekst fizyczny czyni brakujące słowa oczywistymi — „Ø Sounds good.”, „Ø Seen my keys?” (ten typ ma w tym repozytorium osobne omówienie: elipsa sytuacyjna). Do zasady odtwarzalności dochodzi jednak drugi, ostrzejszy warunek: LICENCJA SKŁADNIOWA. Nie wystarczy, że coś jest domyślne — musi jeszcze stać w miejscu, w którym angielska składnia w ogóle dopuszcza pustkę. Dlatego „She can Ø.” jest poprawne, a „*She wants Ø.” już nie — mimo że kontekst mógłby dopowiedzieć resztę równie łatwo. Elipsa nie jest więc swobodnym skracaniem, lecz ściśle reglamentowanym zestawem gniazd: po operatorze (posiłkowym), po „to”, po determinatorze, w zdaniach współrzędnych, w klauzulach porównawczych."
+      },
+      {
+        "label": "Korzeń historyczny: pro-verb „do” jest STARSZY niż do-support w pytaniach",
+        "text": "Kluczowej dla całego tematu konstrukcji „So do I” nie da się zrozumieć bez jednego faktu historycznego, który przewraca zwykłą kolejność opowieści. W szkolnej narracji „do” pojawia się w angielskim jako pusty operator do budowania pytań i przeczeń (do-support), grammatykalizowany w XV–XVII wieku — proces szczegółowo udokumentowany przez szwedzkiego językoznawcę Alvara Ellegårda w pracy „The Auxiliary Do” (1953). Tymczasem UŻYCIE 'dōn' JAKO CZASOWNIKA ZASTĘPCZEGO jest znacznie starsze i występuje już w staroangielskim: 'swā dydon' — 'tak zrobili/tak też' — gdzie 'dōn' nie wnosi własnego znaczenia, tylko powtarza czynność opisaną wcześniej. Innymi słowy: angielski najpierw nauczył się używać 'do' jako protezy powtarzającej całą frazę czasownikową, a dopiero potem rozszerzył to na pytania i przeczenia. Wielu historyków języka uważa wręcz tę funkcję zastępczą za jedno ze źródeł całego systemu do-support. Dla uczącego się wniosek jest praktyczny: „So do I” nie jest dziwacznym wyjątkiem doklejonym do gramatyki pytań, lecz reliktem najstarszej i najbardziej pierwotnej funkcji słowa 'do' w tym języku."
+      },
+      {
+        "label": "Dlaczego elipsa nie jest lenistwem: struktura informacyjna i wyostrzanie kontrastu",
+        "text": "Języki nie usuwają materiału po to, by oszczędzić powietrze, lecz po to, by sterować uwagą. Angielskie zdanie ma naturalną strukturę informacyjną: to, co znane (given), stoi na początku i jest wymawiane słabo, a to, co nowe (new), przesuwa się na koniec i przyjmuje akcent zdaniowy — zasada end-focus. Elipsa jest najbardziej brutalnym narzędziem realizacji tej zasady: usuwa CAŁĄ część znaną, żeby jedyny element pozostały — nowy podmiot, zmieniona polarność, inny operator — został sam na scenie i musiał przejąć akcent. Porównaj: „Anna passed the exam and Marek passed the exam too” (znane powtórzone dwa razy, uwaga rozproszona) wobec „Anna passed the exam and so did MAREK” (znane wycięte, kontrast wyostrzony na imieniu). To wyjaśnia obserwację, którą uczący się zwykle odbierają jako kaprys wymowy: w miejscu elipsy operator ZAWSZE jest mocny i akcentowany — „Yes, I AM.”, „She DIDN'T.”, „So DO I.”"
+      },
+      {
+        "label": "Model myślowy: szablon i to, co się w nim zmieniło",
+        "text": "Najużyteczniejszy obraz mentalny dla całego tematu: poprzednie zdanie zostawia w powietrzu wypełniony SZABLON (kto — robi co — jak — kiedy). Odpowiadając, nie budujesz nowego zdania od zera — bierzesz ten sam szablon i pokazujesz rozmówcy WYŁĄCZNIE te pola, które zmieniłeś. Zmieniłeś osobę? Zostaje sam podmiot z operatorem: „So do I.” Zmieniłeś polarność? Zostaje operator z przeczeniem: „I don't.” Zmieniłeś tylko przymiotnik przy rzeczowniku? Zostaje przymiotnik z pro-formą: „the red one.” Zmieniłeś czas czynności? Zostaje inny operator: „I have.” Wszystko, czego nie ruszyłeś, znika, bo już wisi w powietrzu. Ten model wyjaśnia z góry niemal każdą regułę szczegółową, którą omawiamy dalej — łącznie z tym, dlaczego zaimek nie może się w tym miejscu ściągać i dlaczego pusty slot nie jest naprawdę pusty."
+      }
     ],
     "usage": [
-      "Gdy zgadzamy się z czyimś twierdzeniem pozytywnym (I like coffee. — So do I.)",
-      "Gdy zgadzamy się z czyimś twierdzeniem negatywnym (I don't like coffee. — Neither do I. / Nor do I.)",
-      "Operator musi odpowiadać czasownikowi w zdaniu wyjściowym (be, have, modal lub do/does/did)"
+      "Reference (he, it, this) wskazuje ten sam byt; substitution (one, so, do) kopiuje wzorzec słowny; ellipsis zostawia gniazdo puste — to trzy różne mechanizmy, nie warianty jednego",
+      "Usunąć wolno wyłącznie materiał odtwarzalny (z tekstu albo z sytuacji) I stojący w gnieździe, na które angielska składnia daje licencję — sama oczywistość nie wystarcza",
+      "Zastępcze 'do' ('so did they') jest w angielskim starsze niż 'do' w pytaniach i przeczeniach — to relikt staroangielskiego 'swā dydon', a nie dodatek do gramatyki pytań",
+      "Elipsa realizuje zasadę end-focus: wycina informację znaną, żeby akcent zdaniowy spadł na jedyny element nowy — dlatego pozostawiony operator jest zawsze mocno akcentowany",
+      "Model roboczy: pokazujesz tylko te pola szablonu, które zmieniłeś wobec zdania poprzedniego; reszta znika, bo wisi w kontekście"
     ],
-    "tags": ["So do I", "Neither am I", "Nor can I", "So have I"],
+    "tags": [
+      "Halliday & Hasan: cohesion",
+      "substitution by zero",
+      "recoverability",
+      "swā dydon (OE pro-verb 'do')",
+      "end-focus"
+    ],
     "examples": [
-      { "en": "I love pizza. — So do I.", "pl": "Uwielbiam pizzę. — Ja też." },
-      { "en": "She can't swim. — Neither can I.", "pl": "Ona nie umie pływać. — Ja też nie." },
-      { "en": "He has already left. — So has she.", "pl": "On już wyszedł. — Ona też." },
-      { "en": "I didn't go to the party. — Nor did I.", "pl": "Nie poszedłem na imprezę. — Ja też nie." }
+      { "en": "I've lost my umbrella — I need a new one. (substitution: another umbrella)", "pl": "Zgubiłem parasol — potrzebuję nowego. (substytucja: inny egzemplarz)" },
+      { "en": "I've lost my umbrella — I need to find it. (reference: that same umbrella)", "pl": "Zgubiłem parasol — muszę go znaleźć. (odniesienie: ten sam egzemplarz)" },
+      { "en": "Has anyone read the report? — I have Ø. (ellipsis: substitution by zero)", "pl": "Czy ktoś czytał raport? — Ja tak. (elipsa: substytucja przez zero)" },
+      { "en": "Anna finished on time, and so did MAREK. (the surviving element carries the focus)", "pl": "Anna skończyła na czas i MAREK też. (element ocalały przejmuje akcent)" },
+      { "en": "She can swim, but her brother can't. — *She wants, but her brother doesn't want. (only licensed slots allow the gap)", "pl": "Ona umie pływać, a jej brat nie. — Luka jest możliwa tylko w gnieździe, na które składnia daje licencję." }
     ]
   },
   {
-    "id": "think_so_hope_not",
+    "id": "vp_ellipsis_operator",
     "order": 2,
-    "nameEn": "so / not after think, hope, believe, say",
-    "namePl": "so / not po czasownikach think, hope, believe, say",
+    "nameEn": "VP-ellipsis: the operator as the anchor of the gap",
+    "namePl": "Elipsa frazy czasownikowej: operator jako kotwica luki",
     "rules": [
-      { "label": "so", "text": "Zastępuje całe zdanie twierdzące po czasownikach opinii: I think so. (= I think it will rain.)" },
-      { "label": "not", "text": "Niektóre czasowniki (hope, guess, be afraid, expect) tworzą przeczenie przez 'not' zamiast 'so + not': I hope not." },
-      { "label": "don't think so", "text": "Czasownik think zwykle przeczy się, przenosząc przeczenie do głównego czasownika: I don't think so." }
+      {
+        "label": "Reguła podstawowa: wszystko PO operatorze można wyciąć, samego operatora nigdy",
+        "text": "Angielskie zdanie ma jeden wyróżniony element gramatyczny zwany operatorem: pierwszy czasownik posiłkowy lub modalny (be, have, will, can, should, must...), a przy jego braku — wstawione 'do/does/did'. Operator jest nosicielem czasu, liczby, osoby i polarności, czyli całej informacji CZYSTO GRAMATYCZNEJ; reszta frazy czasownikowej niesie treść leksykalną. Elipsa frazy czasownikowej (VP-ellipsis) polega dokładnie na tym podziale: wycinamy warstwę leksykalną, zostawiamy warstwę gramatyczną. Stąd wzór: podmiot + operator + Ø. „Will you come? — I will Ø.” „She hasn't replied, though she should have Ø.” Operatora usunąć nie można, bo wraz z nim zniknęłaby informacja o czasie i polarności, a więc dokładnie to, co w odpowiedzi jest NOWE. To także wyjaśnia, dlaczego 'do' w ogóle musi się pojawić w zdaniach bez posiłkowego: cechy gramatyczne potrzebują fizycznego nosiciela, a skoro czasownik leksykalny został wycięty, gramatyka wstawia protezę — „Did anyone call? — Tom did.”"
+      },
+      {
+        "label": "Nożyce można wsunąć w kilku miejscach łańcucha — im więcej zostawisz, tym więcej echa",
+        "text": "Gdy zdanie wyjściowe zawiera kilka posiłkowych, cięcie nie jest jednoznaczne: legalny jest każdy punkt PO operatorze. Zdanie „She could have been waiting for hours.” daje trzy poprawne odpowiedzi krótkie: „She could.” (cięcie tuż po operatorze), „She could have.” (zachowany perfekt), „She could have been.” (zachowany perfekt i aspekt ciągły). Wszystkie trzy są gramatyczne, ale różnią się pragmatycznie: im dłuższy zostawiony ogon, tym silniej echo poprzedniego zdania i tym bardziej wypowiedź brzmi na potwierdzenie konkretnej, wcześniej wypowiedzianej hipotezy; sama forma „She could.” brzmi najbardziej neutralnie i najbardziej rozmówcowo. W brytyjskiej angielszczyźnie mówionej bardzo częste jest zostawienie 'have' w odpowiedziach modalnych („I should have.”), w amerykańskiej częściej ucina się wcześniej."
+      },
+      {
+        "label": "Poprzednik i luka NIE muszą się zgadzać formą — zgadzać musi się treść frazy",
+        "text": "Uczący się często zakładają, że elipsa to mechaniczne kopiowanie liter, i dlatego boją się konstrukcji, w których czasy albo polarności po obu stronach są różne. Tymczasem język pozwala tu na sporą swobodę: usunięta fraza musi odpowiadać poprzednikowi ZNACZENIOWO i strukturalnie, ale morfologia operatora jest niezależna. „I didn't go, but Anna did.” (przeczenie → twierdzenie). „He hasn't finished, though he should have.” (perfekt → modalny z perfektem). „I never read poetry, but my sister does.” (czas przeszły nawykowy → teraźniejszy). „They said they'd help, and they have.” (warunkowy → perfekt). Nawet forma czasownika może się różnić: w „She swims better than I ever did.” usunięte 'swim' przyjmuje w rekonstrukcji formę wymaganą przez 'did', a nie tę z poprzednika."
+      },
+      {
+        "label": "Systemowa dwuznaczność: odczyt ścisły (strict) i luźny (sloppy)",
+        "text": "„John lost his ticket, and Bill did too.” ma dwa różne, w pełni gramatyczne odczyty. Odczyt STRICT: Bill zgubił bilet Johna (kopiujemy dosłowne odniesienie zaimka 'his' = John's). Odczyt SLOPPY: Bill zgubił własny bilet (kopiujemy zależność 'his' = swój, a nie konkretną osobę). Nazwy 'strict/sloppy identity' pochodzą z prac Johna Rossa z lat 60. i są dziś standardem opisu. To nie jest niechlujstwo mówiących ani wada konstrukcji — to najlepszy dowód, że elipsa kopiuje STRUKTURĘ ZDANIA z jej wewnętrznymi zależnościami, a nie ciąg wyrazów: gdyby kopiowała ciąg liter, możliwy byłby tylko odczyt ścisły. W praktyce kontekst niemal zawsze rozstrzyga, ale w tekstach precyzyjnych (prawo, instrukcja, umowa) tę dwuznaczność należy świadomie rozbrajać przez powtórzenie: „...and Bill lost his own ticket as well.”"
+      },
+      {
+        "label": "Granica wytrzymałości: niezgodność strony biernej i czynnej",
+        "text": "Nie wszystko przechodzi. Gdy poprzednik jest w stronie biernej, a luka wymagałaby frazy czynnej (albo odwrotnie), zdanie staje się wyraźnie gorsze: „?The report was written by Tom, and Sue did too.” brzmi dla rodzimego użytkownika nienaturalnie, mimo że sens jest w pełni odtwarzalny. To ważny dowód eksperymentalny: skoro odtwarzalność semantyczna nie ratuje takiego zdania, znaczy to, że elipsa wymaga poprzednika PARALELNEGO SKŁADNIOWO, a nie tylko zrozumiałego. Ciekawostka dla poziomu C2: część takich niezgodności jest jednak akceptowana, zwłaszcza gdy elipsa idzie od strony biernej ku modalnej („This ought to be sorted out, and it will be.”) albo w zdaniach porównawczych — badania korpusowe pokazują tu stopniową skalę akceptowalności, a nie ostrą granicę."
+      },
+      {
+        "label": "Przypadek szczególny: 'be' i brytyjskie 'have' jako własne operatory",
+        "text": "Czasownik 'be' jest jedynym czasownikiem leksykalnym (nie posiłkowym!), który w angielskim sam pełni funkcję operatora — dlatego może zostać w miejscu elipsy bez pomocy 'do': „Are you tired? — I am.” (nigdy „*I do.”). Podobnie zachowuje się brytyjskie 'have' w znaczeniu posiadania w konstrukcji bez 'got': formalne brytyjskie „Have you any idea? — I have.” wobec standardowego dziś (i obowiązkowego w amerykańskim) „Do you have any idea? — I do.” To drobiazg, ale ujawnia mechanizm: 'do' wstawiamy WYŁĄCZNIE jako ostatnią deskę ratunku, gdy w zdaniu nie ma żadnego elementu zdolnego udźwignąć cech gramatycznych."
+      }
     ],
     "usage": [
-      "Krótka odpowiedź powtarzająca opinię bez powtarzania całego zdania (Will it rain? — I think so.)",
-      "Z czasownikami: think, hope, believe, suppose, expect, guess, be afraid, say",
-      "Wybór 'not' vs 'don't ... so' zależy od czasownika — hope/be afraid/guess/expect używają 'not', pozostałe zwykle 'don't...so'"
+      "Wzór VP-ellipsis: podmiot + operator + Ø — wycinamy treść leksykalną, zostawiamy nosiciela czasu i polarności",
+      "Przy kilku posiłkowych każdy punkt cięcia po operatorze jest poprawny (could / could have / could have been); dłuższy ogon = silniejsze echo poprzedniego zdania",
+      "Czas, polarność i forma operatora w luce mogą różnić się od poprzednika — wymagana jest zgodność strukturalna frazy, nie identyczność liter",
+      "Zdania typu 'John lost his ticket and Bill did too' są systemowo dwuznaczne (strict/sloppy) — w tekście precyzyjnym rozbrajaj to powtórzeniem",
+      "Niezgodność strony biernej i czynnej psuje elipsę mimo pełnej zrozumiałości — poprzednik musi być paralelny składniowo",
+      "'be' (i formalne brytyjskie 'have') jest własnym operatorem: 'I am', nie '*I do'; 'do' pojawia się tylko wtedy, gdy nie ma innego nosiciela cech gramatycznych"
     ],
-    "tags": ["I think so", "I hope not", "I'm afraid so", "I don't believe so"],
+    "tags": [
+      "podmiot + operator + Ø",
+      "could have been",
+      "strict vs sloppy identity",
+      "voice mismatch",
+      "'be' jako własny operator"
+    ],
     "examples": [
-      { "en": "Is she coming? — I think so.", "pl": "Czy ona przyjdzie? — Myślę, że tak." },
-      { "en": "Will we be late? — I hope not.", "pl": "Czy się spóźnimy? — Mam nadzieję, że nie." },
-      { "en": "Is the shop still open? — I'm afraid not.", "pl": "Czy sklep jest jeszcze otwarty? — Obawiam się, że nie." },
-      { "en": "Did they win? — I don't think so.", "pl": "Czy oni wygrali? — Nie sądzę." }
+      { "en": "She could have been waiting for hours. — She could have.", "pl": "Mogła czekać godzinami. — No mogła." },
+      { "en": "I didn't apply for the grant, but half my department did.", "pl": "Nie składałem wniosku o grant, ale połowa mojej katedry tak." },
+      { "en": "He hasn't apologised, and frankly I don't think he ever will.", "pl": "Nie przeprosił i szczerze mówiąc nie sądzę, żeby kiedykolwiek to zrobił." },
+      { "en": "Marta cancelled her subscription, and her flatmate did too. (her own, or Marta's? — sloppy vs strict)", "pl": "Marta anulowała subskrypcję i jej współlokatorka też. (swoją czy Marty? — odczyt luźny lub ścisły)" },
+      { "en": "Are you nervous? — I am, a bit. (never: *I do)", "pl": "Denerwujesz się? — Trochę tak. (nigdy: *I do)" },
+      { "en": "The invoices ought to have been checked, but nobody had.", "pl": "Faktury powinny były zostać sprawdzone, ale nikt tego nie zrobił." }
     ]
   },
   {
-    "id": "verb_phrase_ellipsis",
+    "id": "polar_so_neither_nor",
     "order": 3,
-    "nameEn": "Ellipsis of the verb phrase (auxiliary/modal + too/either)",
-    "namePl": "Elipsa frazy czasownikowej (operator + too/either)",
+    "nameEn": "So do I / Neither do I — adding a second subject to someone else's proposition",
+    "namePl": "So do I / Neither do I — dołączanie własnego podmiotu do cudzego zdania",
     "rules": [
-      { "label": "too", "text": "W zdaniach twierdzących powtarzamy tylko operator (be/have/modal/do) i dodajemy 'too': She can swim, and he can, too." },
-      { "label": "either", "text": "W zdaniach przeczących powtarzamy operator z 'not' i dodajemy 'either': She can't swim, and he can't, either." },
-      { "label": "Krótkie odpowiedzi", "text": "Ten sam mechanizm elipsy pojawia się w krótkich odpowiedziach: Yes, I do. / No, I don't. — bez powtarzania czasownika głównego." }
+      {
+        "label": "Budowa i jej ukryta logika: so/neither + OPERATOR + podmiot",
+        "text": "Konstrukcja ma sztywny szyk: so (dla zgody z twierdzeniem) albo neither/nor (dla zgody z przeczeniem), następnie operator, a dopiero na końcu nowy podmiot. „I love jazz. — So do I.” „She can't drive. — Neither can I.” Operator dobiera się ZAWSZE według zdania wyjściowego, a nie według czasownika leksykalnego, który się w nim pojawił: jeśli tam był 'be', tu jest 'am/is/are' („I'm exhausted. — So am I.”); jeśli był perfekt, tu jest 'have' („They've left. — So have we.”); jeśli był modalny, ten sam modalny („He should apologise. — So should she.”); a jeśli nie było żadnego posiłkowego, wstawiamy 'do/does/did' („I went yesterday. — So did we.”). Jest to więc dokładnie ten sam mechanizm co w elipsie frazy czasownikowej z punktu poprzedniego — z jedną dodatkową operacją: inwersją."
+      },
+      {
+        "label": "Skąd inwersja? To ostatni żywy relikt szyku V2 z germańskich korzeni angielskiego",
+        "text": "Odwrócenie „So do I” (zamiast oczekiwanego „So I do”) nie jest ozdobnikiem ani wyjątkiem do wykucia — to fragment znacznie większego wzorca. Staroangielski, jak dziś niemiecki czy niderlandzki, był językiem typu V2 (verb-second): jeśli na początku zdania stał JAKIKOLWIEK element inny niż podmiot, czasownik finitywny musiał zająć drugą pozycję, a podmiot przeskakiwał za niego. Angielski utracił ten wymóg w większości kontekstów po zaniku odmiany, ale zachował go w kilku ściśle określonych gniazdach: po przysłówkach przeczących i restrykcyjnych („Never have I seen...”, „Only then did he realise...”), po wysuniętych frazach lokatywnych („Down came the rain.”) i właśnie po anaforycznym 'so' oraz przeczącym 'neither/nor'. Innymi słowy: „So do I” i „Never have I seen” to ta sama gramatyka, a nie dwie osobne regułki. W tym repozytorium ma to własne, szersze omówienie w temacie o inwersji."
+      },
+      {
+        "label": "Etymologia: 'so' to anaforyczny przysłówek 'w ten sposób', 'neither' zawiera w sobie przeczenie",
+        "text": "'So' pochodzi ze staroangielskiego swā ('tak, w ten sposób') i już wtedy było czystym anaforykiem: odsyłało do sposobu, o którym właśnie była mowa. Ten sam rdzeń dał całą rodzinę: 'also' (< eall swā, 'całkiem tak samo'), 'as' (< skrócone swā), 'as if' (< eall swā gif). Świadomość, że 'so' znaczy dosłownie 'tak samo', natychmiast objaśnia jego zachowanie: skoro to przysłówek wysunięty na początek zdania, składnia wymusza inwersję. 'Neither' z kolei to staroangielskie nāhwæþer / nāwþer — złożenie ne ('nie') + ā ('kiedykolwiek') + hwæþer ('który z dwóch'), czyli dosłownie 'ani jedno z dwojga'. 'Nor' to jeszcze prostsze zrośnięcie ne + or. Wniosek gramatyczny jest bezpośredni: przeczenie SIEDZI JUŻ WEWNĄTRZ tych słów, więc czasownik po nich zostaje w formie twierdzącej — „Neither can I”, nigdy „*Neither can't I”. To dokładnie ta sama logika, która rządzi zdaniem „Nobody knows” (nie: „*Nobody doesn't know”)."
+      },
+      {
+        "label": "Para minimalna, która oddziela poziom B2 od C1: „So do I” a „So I do”",
+        "text": "Te dwa zdania różnią się tylko szykiem, a znaczą coś zupełnie innego, i właśnie ta para najlepiej pokazuje, że inwersja nie jest ozdobą. „So do I” — Z INWERSJĄ — wprowadza NOWY podmiot i znaczy 'ja też': to dołączenie się do cudzego twierdzenia. „So I do” — BEZ INWERSJI — nie wprowadza nikogo nowego; potwierdza, że to, co rozmówca właśnie powiedział o TOBIE, jest prawdą, zwykle z odcieniem zaskoczenia lub przyznania racji: „You've spilt coffee on your shirt.” — „So I have!” ('Rzeczywiście!'). Logika jest przejrzysta: inwersja jest sygnałem, że przychodzi nowy podmiot; brak inwersji oznacza, że podmiot pozostaje ten sam, a 'so' jedynie afirmuje prawdziwość całego zdania. Stąd naturalne „So it does.”, „So they have.”, „So you are.” jako wyrazy przyznania: 'faktycznie tak jest'."
+      },
+      {
+        "label": "Rodzina wariantów i skala rejestru: too / either / nor / me neither",
+        "text": "Ten sam sens można wyrazić na kilku poziomach formalności, i to nie są dowolne synonimy. Wariant z inwersją („So do I.” / „Neither do I.”) jest neutralny i najbezpieczniejszy w każdej sytuacji. Wariant z 'too' i 'either' zachowuje zwykły szyk i brzmi nieco luźniej: „I do too.”, „I don't either.” Wariant czysto potoczny to „Me too.” i „Me neither.” — z zaimkiem w formie dopełnieniowej, bo angielski od stuleci stosuje formę 'me' jako domyślną w wypowiedzi izolowanej ('Who's there? — Me.'); to fakt rejestrowy, nie błąd. 'Nor' jest z kolei odrobinę bardziej formalne i literackie niż 'neither', a poza reakcją na cudzą wypowiedź służy do kontynuowania własnego przeczenia: „He didn't call, nor did he write.” Uwaga krytyczna dla mówiących po polsku: reakcja na zdanie PRZECZĄCE nigdy nie może brzmieć „Me too” ani „So do I” — polskie 'ja też' obsługuje obie biegunowości jednym słowem, angielski wymaga tu przełączenia na neither/either."
+      },
+      {
+        "label": "Nie tylko dialog: 'so' i 'neither' spajają też własną narrację",
+        "text": "Konstrukcja bywa przedstawiana jako narzędzie wyłącznie konwersacyjne ('zgadzanie się z rozmówcą'), co zawęża jej użycie o połowę. Działa równie dobrze wewnątrz własnej wypowiedzi, dopisując drugi podmiot do tego samego orzeczenia: „The lights went out, and so did the heating.” „The talks collapsed, and so did the share price.” „She never explained herself, and neither did her lawyer.” W tekstach pisanych to bardzo ekonomiczny sposób wyliczenia kolejnych podmiotów bez powtarzania orzeczenia i bez rozbijania rytmu zdania — a przy okazji sygnał spójności tekstu, mówiący czytelnikowi, że nadal jesteśmy w tej samej ramie tematycznej."
+      }
     ],
     "usage": [
-      "Unikanie powtórzenia tego samego czasownika/frazy w drugiej części zdania złożonego",
-      "Krótkie odpowiedzi na pytania Yes/No (Do you like tea? — Yes, I do.)",
-      "Rozmowy potoczne, żeby nie brzmieć sztucznie przez powtarzanie całych zdań"
+      "Wzór: so (po twierdzeniu) / neither, nor (po przeczeniu) + operator + nowy podmiot; operator dobierasz według ZDANIA WYJŚCIOWEGO, nie według jego czasownika głównego",
+      "Inwersja po so/neither to relikt germańskiego szyku V2 — ta sama gramatyka, która daje 'Never have I seen' i 'Only then did he realise'",
+      "neither i nor zawierają w sobie przeczenie (ne + hwæþer, ne + or), więc czasownik zostaje twierdzący: 'Neither can I', nie '*Neither can't I'",
+      "Para minimalna: 'So do I' (z inwersją) = ja też, nowy podmiot; 'So I do' (bez inwersji) = rzeczywiście, przyznanie racji o tym samym podmiocie",
+      "Skala rejestru: So do I / Neither do I (neutralne) — I do too / I don't either (luźniejsze) — Me too / Me neither (potoczne)",
+      "Reakcja na zdanie przeczące wymaga neither/either — polskie 'ja też' nie rozróżnia biegunowości, angielski tak",
+      "Konstrukcja działa też wewnątrz jednego zdania narracyjnego: 'The lights went out, and so did the heating.'"
     ],
-    "tags": ["can, too", "can't, either", "Yes, I do.", "No, I haven't."],
+    "tags": [
+      "So do I / Neither can I",
+      "So I do (przyznanie racji)",
+      "szyk V2 jako źródło inwersji",
+      "ne + hwæþer → neither",
+      "Me neither"
+    ],
     "examples": [
-      { "en": "I like jazz, and my brother does, too.", "pl": "Lubię jazz i mój brat też." },
-      { "en": "I haven't finished, and she hasn't, either.", "pl": "Nie skończyłem i ona też nie." },
-      { "en": "Have you seen this film? — Yes, I have.", "pl": "Widziałeś ten film? — Tak, widziałem." },
-      { "en": "Can he drive? — No, he can't.", "pl": "Czy on umie prowadzić? — Nie, nie umie." }
+      { "en": "I've been meaning to call her for weeks. — So have I, actually.", "pl": "Od tygodni zamierzam do niej zadzwonić. — Ja właściwie też." },
+      { "en": "I can't stand these open-plan offices. — Nor can anyone else, judging by the survey.", "pl": "Nie znoszę tych biur bez ścian. — Sądząc po ankiecie, nikt inny też nie." },
+      { "en": "You've gone and left the door unlocked. — So I have. Sorry.", "pl": "No i zostawiłeś otwarte drzwi. — No rzeczywiście. Przepraszam." },
+      { "en": "I didn't get an invitation. — Me neither. (informal) / Neither did I. (neutral)", "pl": "Nie dostałem zaproszenia. — Ja też nie. (potocznie / neutralnie)" },
+      { "en": "The negotiations broke down, and so did the ceasefire that depended on them.", "pl": "Negocjacje się załamały, a wraz z nimi zawieszenie broni, które od nich zależało." },
+      { "en": "She should have been consulted, and so should the whole committee.", "pl": "Powinna była zostać zapytana o zdanie i cała komisja też." }
     ]
   },
   {
-    "id": "one_ones_substitution",
+    "id": "propositional_so_not",
     "order": 4,
-    "nameEn": "one / ones as noun substitution",
-    "namePl": "one / ones jako zastępniki rzeczownika",
+    "nameEn": "Clausal substitution: I think so / I hope not",
+    "namePl": "Substytucja zdaniowa: I think so / I hope not",
     "rules": [
-      { "label": "one", "text": "Zastępuje rzeczownik policzalny w liczbie pojedynczej, żeby uniknąć powtórzenia: I need a pen. Can I borrow yours?" },
-      { "label": "ones", "text": "Zastępuje rzeczownik policzalny w liczbie mnogiej: These shoes are old — I need new ones." },
-      { "label": "z przymiotnikiem", "text": "One/ones często występuje po przymiotniku, gdy chcemy uniknąć powtórzenia rzeczownika: the red one, the small ones." }
+      {
+        "label": "Czym właściwie jest 'so' w „I think so”",
+        "text": "W „Is she coming? — I think so.” słowo 'so' nie zastępuje rzeczownika ani czasownika, lecz CAŁE ZDANIE PODRZĘDNE: 'I think so' = 'I think that she is coming'. Halliday nazywa ten mechanizm substytucją zdaniową (clausal substitution). Historycznie to nadal to samo staroangielskie swā, 'tak, w ten sposób' — z tą różnicą, że tutaj odsyła nie do sposobu wykonania czynności, lecz do treści całej wypowiedzianej myśli. Ta sama pro-forma wraca w wielu utartych zwrotach: „If so, let me know.” ('jeśli tak'), „So I've heard.” ('tak słyszałem'), „So they say.”, „So it seems.”, „or so I thought”, „I told you so.” Warto zauważyć, że w tych ostatnich 'so' zostało wysunięte na początek — i wtedy, w odróżnieniu od 'So do I', inwersji NIE MA, bo nie wprowadzamy nowego podmiotu, tylko powtarzamy źródło informacji."
+      },
+      {
+        "label": "Dwie strategie przeczenia i logika, która za nimi stoi",
+        "text": "Przeczenie tej konstrukcji rozpada się na dwie grupy czasowników, a podział wygląda na kapryśny tylko do momentu, w którym zapyta się o jego przyczynę. Grupa pierwsza przeczy przez PRZENIESIENIE przeczenia na czasownik główny: 'I don't think so', 'I don't believe so', 'I don't suppose so', 'I don't imagine so'. Grupa druga przeczy przez dołożenie 'not' zamiast 'so': 'I hope not', 'I'm afraid not', 'I guess not', 'I suppose not' (obie formy są tu możliwe). Mechanizm rządzący grupą pierwszą to tzw. neg-raising (przeniesione przeczenie, omawiane w tym repozytorium osobno): przy czasownikach wyrażających SŁABE, subiektywne przekonanie przeczenie logicznie należące do zdania podrzędnego ('I think that she isn't coming') wypływa na powierzchnię przy czasowniku głównym ('I don't think she's coming'). Angielski robi to systemowo, bo złagodzenie jest grzeczniejsze: 'I don't think so' brzmi jak ostrożna wątpliwość, a nie jak wyrok."
+      },
+      {
+        "label": "Dlaczego 'hope' nie poddaje się przeniesieniu przeczenia",
+        "text": "Kluczowy test logiczny: przy 'think' oba warianty znaczą praktycznie to samo ('I think it won't rain' ≈ 'I don't think it will rain'), więc język może swobodnie wybrać wygodniejszy. Przy 'hope' równoważność się załamuje. 'I hope it won't rain' to AKTYWNE życzenie, żeby nie padało. 'I don't hope it will rain' to zaledwie brak takiego życzenia — coś zupełnie innego i po angielsku wręcz dziwacznego. Skoro więc przeniesienie przeczenia zmieniłoby sens, język go zakazuje i musi użyć innego narzędzia: dokleja 'not' bezpośrednio do pro-formy — 'I hope not'. Ta sama logika stosuje się do 'be afraid' ('I'm afraid not' = obawiam się, że nie; nie: brak obawy). Reguły nie trzeba więc wkuwać: wystarczy sprawdzić, czy przeniesienie przeczenia zachowałoby znaczenie."
+      },
+      {
+        "label": "Czasowniki faktywne i mocne odrzucają 'so' całkowicie",
+        "text": "Nie każdy czasownik dopuszcza tę konstrukcję i nie jest to kwestia listy do zapamiętania. „*I know so.”, „*I'm sure so.”, „*I'm certain so.” są niepoprawne, mimo idealnej odtwarzalności treści. Powód jest semantyczny: 'so' oznacza treść ROZWAŻANĄ, przypuszczaną, nie w pełni potwierdzoną — jest z natury niefaktywne. Czasowniki wyrażające pewność albo wiedzę stoją z tym w sprzeczności, więc łączą się z 'it' albo z niczym: „I know.”, „I know it.”, „I'm sure.”, „I'm quite certain of it.” Symetrycznie działa to przy przeczeniu: 'I don't know' jest naturalne, a '*I don't know so' — nie. Dodatkowa subtelność C1: 'say' i 'tell' dopuszczają 'so' tylko w konkretnych układach — „I told you so.” i „She said so.” są idiomatyczne, ale „*He told me so that...” już nie."
+      },
+      {
+        "label": "'I think not' — nie archaizm, lecz stylizacja",
+        "text": "Forma z 'not' przy czasowniku neg-raisingowym istnieje, ale wypadła ze stylu neutralnego: „I think not.” brzmi dziś formalnie, literacko albo świadomie afektowanie i najczęściej pełni funkcję stanowczej, chłodnej odmowy — 'nie sądzę / nic z tego'. Warto porównać trzy stopnie: 'I don't think so' (neutralna wątpliwość), 'I think not' (stanowcze odrzucenie z nutą wyniosłości), 'Certainly not' (otwarta odmowa). Podobnie 'I believe not' brzmi dziś sztywno w porównaniu z 'I don't believe so'. Rozpoznanie tej różnicy rejestrowej jest typowym elementem rozumienia niuansu na poziomie C1/C2 — używanie 'I think not' jako zwykłego 'chyba nie' jest jedną z częstszych stylistycznych pomyłek zaawansowanych uczących się."
+      }
     ],
     "usage": [
-      "Gdy rzeczownik był już wcześniej wspomniany i nie chcemy go powtarzać",
-      "Po przymiotnikach wskazujących wybór (this one, the blue ones, which one)",
-      "Rzeczowniki niepoliczalne NIE przyjmują one/ones — pomijamy je całkowicie (I need some water, nie: some water one)"
+      "'so' po think/believe/suppose/hope/expect/guess/be afraid/say zastępuje CAŁE zdanie podrzędne: 'I think so' = 'I think that she is'",
+      "Neg-raising (think, believe, suppose, imagine): przeczysz czasownikiem głównym — 'I don't think so'",
+      "Bez neg-raisingu (hope, be afraid, guess): przeczysz przez 'not' — 'I hope not', 'I'm afraid not'",
+      "Test rozstrzygający: jeśli przeniesienie przeczenia zmieniłoby sens (jak przy 'hope'), język go zakazuje i wymusza wariant z 'not'",
+      "Czasowniki pewności i wiedzy (know, be sure, be certain) odrzucają 'so', bo 'so' jest z natury niefaktywne — mówimy 'I know.' / 'I'm sure.'",
+      "Wysunięte 'so' nie powoduje inwersji: 'So I've heard.', 'So they say.', 'If so, call me.'",
+      "'I think not' to dziś rejestr formalny/stanowcza odmowa, nie neutralny odpowiednik 'I don't think so'"
     ],
-    "tags": ["this one", "the blue ones", "which one?", "a new one"],
+    "tags": [
+      "I think so / I don't think so",
+      "I hope not / I'm afraid not",
+      "neg-raising",
+      "*I know so",
+      "If so / So I've heard"
+    ],
     "examples": [
-      { "en": "I don't like this bag. I prefer the black one.", "pl": "Nie podoba mi się ta torba. Wolę tę czarną." },
-      { "en": "These cookies are stale — let's buy fresh ones.", "pl": "Te ciastka są nieświeże — kupmy świeże." },
-      { "en": "Which one is yours?", "pl": "Która jest twoja?" },
-      { "en": "I lost my old phone, so I bought a new one.", "pl": "Zgubiłem stary telefon, więc kupiłem nowy." }
+      { "en": "Will the flight be delayed again? — I'm afraid so.", "pl": "Czy lot znowu będzie opóźniony? — Obawiam się, że tak." },
+      { "en": "Do we have to redo the whole section? — I hope not.", "pl": "Czy musimy przerabiać całą sekcję? — Mam nadzieję, że nie." },
+      { "en": "Is that really the final offer? — I don't think so, but she said so.", "pl": "Czy to naprawdę ostateczna oferta? — Nie sądzę, ale ona tak twierdziła." },
+      { "en": "If so, we'll need to rewrite the contract before Friday.", "pl": "Jeśli tak, będziemy musieli przepisać umowę przed piątkiem." },
+      { "en": "Are you seriously suggesting we cancel? — I think not. (cold, formal refusal)", "pl": "Poważnie sugerujesz, żeby odwołać? — Otóż nie. (chłodna, formalna odmowa)" },
+      { "en": "Has the decision been made? — I know it has. (never: *I know so)", "pl": "Czy decyzja zapadła? — Wiem, że tak. (nigdy: *I know so)" }
+    ]
+  },
+  {
+    "id": "nominal_one_ones",
+    "order": 5,
+    "nameEn": "Nominal substitution: one / ones and the zero option",
+    "namePl": "Substytucja rzeczownikowa: one / ones i opcja zerowa",
+    "rules": [
+      {
+        "label": "Rodowód: liczebnik, który przestał liczyć",
+        "text": "Zastępcze 'one' w „the red one” pochodzi ze staroangielskiego liczebnika ān ('jeden') — tego samego słowa, które w pozycji nieakcentowanej zredukowało się fonetycznie i dało przedimek nieokreślony 'a/an' (co szerzej omawia temat o przedimkach). W średnioangielskim ān zaczęło pojawiać się nie tylko jako liczba, ale też jako zastępnik świeżo wspomnianego rzeczownika policzalnego. Najlepszy dowód, że przestało być liczebnikiem i przeszło do klasy rzeczowników zastępczych, jest morfologiczny: dorobiło się LICZBY MNOGIEJ. Liczebniki nie mają liczby mnogiej — nie mówimy '*twos apples' — a jednak 'these ones' jest zupełnie zwyczajne. Ta gramatyczna anomalia to zapis historycznej reanalizy: słowo zmieniło klasę, a wraz z nią odmianę."
+      },
+      {
+        "label": "Twarde ograniczenie: tylko rzeczowniki policzalne",
+        "text": "'One/ones' zastępuje wyłącznie rzeczowniki policzalne, bo zachowało semantykę swojego przodka-liczebnika: 'jeden egzemplarz z wielu'. Rzeczownik niepoliczalny nie ma egzemplarzy do wyliczania, więc mechanizm nie ma na czym pracować i angielski przełącza się wtedy na opcję ZEROWĄ — czyli po prostu nic nie wstawia: „I prefer French wine to Italian Ø.” (nie: „*to Italian one”), „She wanted white bread and I bought brown Ø.”, „His advice was better than hers Ø.” Ta sama zasada rozstrzyga częste pytania uczących się: 'Which cheese?' — 'The Danish Ø', ale 'Which sandwich?' — 'The Danish one'. Nie chodzi więc o kaprys, tylko o policzalność samego rzeczownika w danym znaczeniu."
+      },
+      {
+        "label": "Kiedy 'ones' jest konieczne, kiedy zakazane, a kiedy tylko brytyjskie",
+        "text": "Reguła praktyczna dzieli się według tego, CO poprzedza pustkę. Po przymiotniku w liczbie pojedynczej 'one' jest obowiązkowe: „I'll take the blue one.” (nie: „*I'll take the blue.”). Po determinatorze, kwantyfikatorze lub liczebniku obowiązuje przeciwieństwo — pustka bez 'one': „I'll take both Ø.”, „She bought three Ø.”, „I want some Ø.”, „That's the biggest Ø I've seen.” Zwłaszcza po liczebniku 'ones' jest niepoprawne („*two ones”), i to z czytelnego powodu semantycznego: byłoby to zderzenie dwóch liczebników w jednej frazie. Po zaimkach dzierżawczych używa się formy niezależnej zamiast 'one': „That's mine.” (nie: „*That's my one.” — choć potocznie w niektórych odmianach brytyjskich to bywa słyszane). Osobna, sporna kwestia to „these ones / those ones”: powszechne w mowie brytyjskiej i australijskiej, tradycyjnie krytykowane przez amerykańskich redaktorów, którzy każą pisać po prostu „these”. W tekście formalnym bezpieczniej wybrać wariant bez 'ones'."
+      },
+      {
+        "label": "Model myślowy: 'one' kopiuje WZÓR, 'it' wskazuje EGZEMPLARZ",
+        "text": "Najczęstsza pomyłka na poziomie B1–B2 to mylenie 'one' z 'it', a rozróżnienie jest jednym z eleganciejszych w tym systemie. 'One' odsyła do TYPU: bierze wzorzec rzeczownika i pozwala wskazać dowolny inny egzemplarz tego samego rodzaju. 'It' odsyła do KONKRETNEGO EGZEMPLARZA, o którym już mowa. Stąd: „My laptop's broken — I need to buy a new one.” (inny laptop, ten sam typ) wobec „My laptop's broken — I need to get it repaired.” (ten sam sprzęt). Podobnie: „Do you have a pen? — Yes, I've got one.” (jakiś, byle jaki) wobec „Where's my pen? — I've got it.” (właśnie ten). To jest jednocześnie namacalne uzasadnienie różnicy między substytucją a odniesieniem z punktu pierwszego: substytucja pracuje na słowach i wzorcach, odniesienie na bytach."
+      },
+      {
+        "label": "Trzy różne 'one', które łatwo pomylić",
+        "text": "Angielskie 'one' obsługuje trzy zupełnie odrębne funkcje i warto je świadomie rozdzielić, bo powierzchownie brzmią identycznie. Po pierwsze LICZEBNIK: 'one book, not two'. Po drugie ZAIMEK BEZOSOBOWY, formalny odpowiednik ogólnego 'ty/człowiek': 'One never knows.' — funkcja opisana osobno w temacie o zaimkach bezosobowych. Po trzecie RZECZOWNIK ZASTĘPCZY, omawiany tutaj: 'the red one'. Wszystkie trzy pochodzą historycznie z tego samego ān, ale dziś rządzą się innymi regułami — na przykład tylko trzecie tworzy liczbę mnogą, a tylko drugie wymaga w dalszym ciągu zdania powtórzenia 'one/one's' w rejestrze brytyjskim ('One must do one's duty.')."
+      },
+      {
+        "label": "'The one(s)' jako gotowa głowa dla zdania względnego",
+        "text": "Bardzo produktywne, a rzadko wprost nauczane użycie: 'the one' / 'the ones' pełni rolę pustej głowy frazy rzeczownikowej, do której doczepiamy zdanie względne albo frazę przyimkową. „The ones on the left are cheaper.” „She's the one who signed off on the budget.” „These are the ones we rejected.” W rejestrze formalnym pisanym często wypiera je 'those': „those who signed off”, „those on the left” — brzmi to bardziej oficjalnie i jest standardem w tekstach akademickich i prawniczych. Dla mówiących po polsku to szczególnie wygodna konstrukcja, bo polski w tym miejscu radzi sobie samym zaimkiem ('ci, którzy...'), a angielski wymaga wypełnienia gniazda rzeczownikowego."
+      }
+    ],
+    "usage": [
+      "'one/ones' zastępuje wyłącznie rzeczowniki policzalne, bo zachowało semantykę liczebnika ān ('jeden z wielu')",
+      "Rzeczowniki niepoliczalne używają opcji zerowej: 'I prefer French wine to Italian Ø', nie '*to Italian one'",
+      "Po przymiotniku w liczbie pojedynczej 'one' jest obowiązkowe (the blue one); po determinatorze, kwantyfikatorze i liczebniku obowiązuje pustka (both, three, some)",
+      "'*two ones' jest niepoprawne — dwa liczebniki w jednej frazie; po zaimku dzierżawczym używamy formy niezależnej (mine, nie *my one)",
+      "'these ones' jest zwyczajne w mowie brytyjskiej, ale w tekście formalnym (zwłaszcza amerykańskim) lepsze samo 'these'",
+      "'one' odsyła do TYPU (inny egzemplarz), 'it' do konkretnego EGZEMPLARZA — 'buy a new one' kontra 'get it repaired'",
+      "'the one(s) who/that/on...' to pusta głowa frazy rzeczownikowej dla zdania względnego; w rejestrze formalnym częściej 'those who'"
+    ],
+    "tags": [
+      "OE ān → a/an i one",
+      "the blue one / both Ø",
+      "*two ones",
+      "one (typ) vs it (egzemplarz)",
+      "the ones who / those who"
+    ],
+    "examples": [
+      { "en": "These shoes are falling apart — I really need a new pair, and a decent one this time.", "pl": "Te buty się rozpadają — naprawdę potrzebuję nowej pary, i to tym razem porządnej." },
+      { "en": "I asked for sparkling water and they brought me still Ø. (uncountable — no 'one')", "pl": "Prosiłem o wodę gazowaną, a przynieśli mi niegazowaną. (niepoliczalny — bez 'one')" },
+      { "en": "There were three proposals on the table, and the committee rejected all three Ø.", "pl": "Na stole leżały trzy propozycje i komisja odrzuciła wszystkie trzy." },
+      { "en": "Whose coat is this? — It's mine. (never: *It's my one)", "pl": "Czyj to płaszcz? — Mój. (nigdy: *my one)" },
+      { "en": "The ones who complained loudest were the ones who had read the least.", "pl": "Ci, którzy narzekali najgłośniej, byli tymi, którzy przeczytali najmniej." },
+      { "en": "My phone's cracked. I'll get a cheap one for now and have it repaired later.", "pl": "Mam pękniętego smartfona. Wezmę na razie jakiś tani, a ten dam później do naprawy." }
+    ]
+  },
+  {
+    "id": "ellipsis_coordination_comparison",
+    "order": 6,
+    "nameEn": "Ellipsis in coordination, comparison and the noun phrase",
+    "namePl": "Elipsa w koordynacji, porównaniach i we frazie rzeczownikowej",
+    "rules": [
+      {
+        "label": "Elipsa podmiotu w zdaniach współrzędnych: reguła jednego kierunku",
+        "text": "W dwóch zdaniach połączonych spójnikiem współrzędnym (and, but, or) powtórzony podmiot jest zwykle usuwany: „She opened the door and Ø walked in.” „He apologised but Ø didn't explain.” Warunki są ostre. Po pierwsze, podmiot musi być IDENTYCZNY — „She opened the door and her brother walked in.” nie dopuszcza skrótu. Po drugie, elipsa działa TYLKO W PRZÓD: usuwamy powtórzenie w drugim członie, nigdy w pierwszym. Po trzecie, usunięciu podlega także operator, jeśli jest wspólny: „She has read the report and Ø signed it.” — tu wycięliśmy 'she has'. Uwaga na typową pułapkę: gdy w drugim członie polarność lub czas są inne, wspólny operator nie jest już wspólny i musi wrócić („She has read the report but hasn't signed it.”)."
+      },
+      {
+        "label": "Klauzule porównawcze są maszynami do elipsy — stąd spór 'than I' czy 'than me'",
+        "text": "Fragmenty po 'than' i po drugim 'as' w konstrukcji 'as...as' to w istocie okrojone zdania podrzędne, z których wycięto wszystko, co powtarzało się z części głównej: „He's taller than I am Ø.” (usunięte 'tall'), „She works as hard as her father did Ø.” Właśnie z tej analizy bierze się słynny spór normatywny: preskryptywiści żądają 'than I' (bo to resztka zdania 'than I am'), użycie potoczne od stuleci mówi 'than me' (traktując 'than' jak przyimek). Obie analizy mają oparcie w historii języka; dziś 'than me' jest neutralne w mowie, 'than I' — formalne, a najbezpieczniejsze bywa rozwinięcie: 'than I am'. Ważniejsza praktycznie jest jednak konsekwencja znaczeniowa: „I like her more than him.” (bardziej niż jego) i „I like her more than he does.” (bardziej niż on ją lubi) to dwa różne zdania, a niedbała elipsa 'more than he' potrafi je zlać w dwuznaczność."
+      },
+      {
+        "label": "Elipsa rzeczownikowa: wycinanie głowy frazy",
+        "text": "Wewnątrz frazy rzeczownikowej można usunąć samą GŁOWĘ (rzeczownik), zostawiając jej określenia: „Some students passed; others Ø failed.” „I've read the first two chapters but not the last Ø.” „Take whichever Ø you like.” Trzy sygnały, że angielski oczekuje tu pustki, a nie 'one/ones': obecność determinatora ('both', 'each', 'either'), kwantyfikatora ('some', 'many', 'several') albo stopnia najwyższego ('the best', 'the cheapest'). Po samym przymiotniku sytuacja jest odwrotna i wraca 'one/ones' z poprzedniego punktu. Wyjątek godny uwagi na poziomie C1: rzeczowniki oznaczające grupy ludzi opisane przymiotnikiem mogą pomijać głowę na stałe i stają się quasi-rzeczownikami („the poor”, „the unemployed”) — to zjawisko ma tu osobne omówienie w temacie o przymiotnikach w funkcji rzeczownika."
+      },
+      {
+        "label": "Mapa sąsiednich mechanizmów: co jest czym",
+        "text": "Wokół elipsy frazy czasownikowej krąży kilka pokrewnych konstrukcji, których nazwy warto rozdzielić, żeby nie mylić ich mechanizmów. GAPPING wycina sam czasownik w drugim członie zdania współrzędnego, zostawiając dwa 'skrzydła': „Tom ordered fish, and Mary Ø chicken.” STRIPPING zostawia tylko jeden element z dodatkiem 'too'/'not': „Tom drinks tea, and Ann too.” SLUICING usuwa całe osadzone pytanie poza samym słowem pytającym: „Someone called, but I don't know who Ø.” ELIPSA BEZOKOLICZNIKA zostawia samo 'to': „I'd love to Ø.” PSEUDOGAPPING zachowuje operator i jeden element kontrastowy: „I gave him more than I did her.” Każdy z tych mechanizmów jest w tym repozytorium omówiony osobno; łączy je jedna zasada odtwarzalności z punktu pierwszego, ale różnią się gniazdem składniowym i rejestrem."
+      },
+      {
+        "label": "Kierunek jest niemal zawsze wsteczny — z jednym efektownym wyjątkiem",
+        "text": "Domyślnie elipsa patrzy WSTECZ: najpierw pada pełna wersja, potem luka. Istnieje jednak konstrukcja odwrotna, zwana right node raising, w której to PIERWSZY człon zawiera lukę, a wspólny element pojawia się dopiero na końcu: „She wrote Ø, and he later edited, the entire report.” albo „Critics loved Ø, and audiences ignored, her second film.” Efekt jest wyraźnie retoryczny — zestawia dwa kontrastujące orzeczenia i dopiero na końcu odsłania ich wspólny obiekt, wykorzystując zasadę end-weight (ciężki element idzie na koniec). W tekstach publicystycznych i akademickich bywa bardzo skuteczne, w mowie potocznej brzmi wyszukanie."
+      }
+    ],
+    "usage": [
+      "W koordynacji usuwamy powtórzony podmiot (i wspólny operator) tylko w drugim członie i tylko przy pełnej identyczności: 'She opened the door and walked in'",
+      "Gdy w drugim członie zmienia się czas lub polarność, wspólny operator musi wrócić: 'She has read it but hasn't signed it'",
+      "Fragmenty po 'than' i po 'as...as' to okrojone zdania podrzędne — stąd spór 'than I (am)' kontra 'than me' i realne ryzyko dwuznaczności ('more than him' vs 'more than he does')",
+      "Głowę frazy rzeczownikowej wycinamy po determinatorze, kwantyfikatorze i stopniu najwyższym (both, several, the cheapest); po samym przymiotniku wraca 'one/ones'",
+      "Gapping, stripping, sluicing, elipsa bezokolicznika i pseudogapping to osobne gniazda tej samej zasady odtwarzalności — nie synonimy",
+      "Right node raising odwraca zwykły kierunek: luka jest w pierwszym członie, wspólny element odsłania się na końcu ('She wrote, and he edited, the entire report')"
+    ],
+    "tags": [
+      "and Ø walked in",
+      "than I am / than me",
+      "the cheapest Ø",
+      "gapping vs sluicing vs pseudogapping",
+      "right node raising"
+    ],
+    "examples": [
+      { "en": "She skimmed the contract, signed it and only later regretted doing so.", "pl": "Przejrzała umowę, podpisała ją i dopiero potem tego żałowała." },
+      { "en": "He knows far more about the case than I do — and rather more than he admits.", "pl": "Wie o tej sprawie znacznie więcej niż ja — i raczej więcej, niż się przyznaje." },
+      { "en": "Two of the proposals were funded; the rest Ø were quietly shelved.", "pl": "Dwie propozycje dostały finansowanie; reszta została po cichu odłożona." },
+      { "en": "I trust her more than him. / I trust her more than he does. (different sentences)", "pl": "Ufam jej bardziej niż jemu. / Ufam jej bardziej, niż on jej ufa. (dwa różne zdania)" },
+      { "en": "The board approved, and the shareholders later ratified, the revised merger plan. (right node raising)", "pl": "Zarząd zatwierdził, a akcjonariusze później ratyfikowali, zmieniony plan fuzji. (right node raising)" },
+      { "en": "Would you like to join us? — I'd love to, but I can't.", "pl": "Chcesz do nas dołączyć? — Bardzo bym chciał, ale nie mogę." }
+    ]
+  },
+  {
+    "id": "register_pitfalls",
+    "order": 7,
+    "nameEn": "Register, prosody and the traps that catch Polish speakers",
+    "namePl": "Rejestr, prozodia i pułapki dla mówiących po polsku",
+    "rules": [
+      {
+        "label": "Źródło większości błędów: polski nie ma operatora",
+        "text": "Polszczyzna reaguje na cudze zdanie albo powtórzeniem czasownika ('Lubię. / Nie lubię.'), albo jednym uniwersalnym słówkiem 'też', albo samym 'tak/nie'. Angielski nie ma żadnej z tych dróg: musi wystawić OPERATOR, dobrany do zdania wyjściowego, i musi rozróżnić biegunowość. Stąd cztery klasyczne kalki, które warto rozpoznać u siebie raz na zawsze. Kalka pierwsza: „*I think yes.” zamiast „I think so.” — po polsku 'myślę, że tak', ale angielski ma tu wyspecjalizowaną pro-formę zdaniową, a nie 'yes'. Kalka druga: reakcja „*Me too.” na zdanie przeczące zamiast „Me neither.” Kalka trzecia: „*So I do.” w znaczeniu 'ja też' — z pominięciem inwersji, co zmienia znaczenie na 'rzeczywiście, robię to'. Kalka czwarta: „*I don't like it too.” zamiast „I don't like it either.” — 'too' nie działa w zdaniach przeczących."
+      },
+      {
+        "label": "Ściągnięcia są w miejscu elipsy ZAKAZANE — i jest po temu twardy powód",
+        "text": "Reguła, która wygląda na wymowną drobnostkę, a jest jedną z najostrzejszych w całym angielskim: operator pozostawiony na końcu przed pustką NIE MOŻE być ściągnięty. „Yes, I am.” nigdy „*Yes, I'm.” „I don't know where he is.” nigdy „*where he's.” „She said she'd help and she has.” nigdy „*she's.” Mechanizm jest fonologiczny: ściągnięcie 'am → 'm, is → 's, have → 've' polega na tym, że słabo akcentowany posiłkowy przykleja się do sąsiada i traci samodzielność. W miejscu elipsy jest dokładnie odwrotnie — operator przejmuje akcent zdaniowy (bo wszystko inne zniknęło), a element akcentowany nie może się zredukować. To jedna reguła wyjaśniająca kilkanaście pozornie niezwiązanych zakazów i doskonały test na naturalność wypowiedzi."
+      },
+      {
+        "label": "Prozodia: to, co zostało, jest tym, co się kontrastuje",
+        "text": "Skoro elipsa usuwa informację znaną, cała waga wypowiedzi spada na resztki. W praktyce oznacza to bardzo przewidywalne rozłożenie akcentu: „So do I.” (akcent na 'I' — kontrast osoby), „She DIDN'T.” (akcent na operatorze z przeczeniem — kontrast polarności), „I have, but he hasn't.” (dwa akcenty kontrastowe). Uczący się, którzy wypowiadają te zdania płasko, brzmią nienaturalnie nawet przy bezbłędnej gramatyce, bo słuchacz nie dostaje sygnału, CO właściwie się zmieniło. Praktyczna wskazówka: zanim wypowiesz odpowiedź eliptyczną, zadaj sobie pytanie 'co w tym zdaniu jest nowe?' — i to właśnie zaakcentuj."
+      },
+      {
+        "label": "Ryzyko dwuznaczności rośnie wraz z długością zdania",
+        "text": "Elipsa jest ekonomiczna, ale w zdaniach z kilkoma potencjalnymi poprzednikami potrafi wygenerować niejasność, której mówiący nie zauważa. „The manager told the auditor that he had signed the form, and his deputy did too.” — kto co zrobił? 'did' może odsyłać do 'told', do 'signed', a 'his' do dwóch osób. W mowie rozstrzyga intonacja i kontekst, ale w umowie, instrukcji obsługi czy dokumentacji technicznej taka konstrukcja jest realnym zagrożeniem. Zasada redakcyjna dla tekstów precyzyjnych: im więcej równoległych fraz czasownikowych w akapicie, tym oszczędniej z elipsą — powtórzenie czasownika bywa tam zaletą, nie niezdarnością."
+      },
+      {
+        "label": "Skala rejestru całego systemu — od protokołu po SMS",
+        "text": "Ten sam sens da się wyrazić na kilku poziomach i wybór nie jest obojętny. Najformalniej: pełne powtórzenie albo 'do so' („The committee approved the plan, and the board subsequently did so.” — 'do so' wymaga czynności celowej i sprawczej, dlatego „*He knows the answer and I do so.” jest niepoprawne). Neutralnie: elipsa z operatorem („...and the board did too.”). Potocznie: „...and the board did.” albo „Same here.” Najbardziej potocznie: elipsa sytuacyjna z ucięciem początku zdania („Ø Sounds good.”, „Ø Told you.”, „Ø Hope so.”) — pełnoprawna w wiadomościach i rozmowie, niedopuszczalna w tekście formalnym. Świadome poruszanie się po tej skali, a nie znajomość samych form, jest tym, co na poziomie C1/C2 odróżnia sprawność od poprawności."
+      }
+    ],
+    "usage": [
+      "Cztery kalki z polskiego do wyplenienia: *I think yes, *Me too (po przeczeniu), *So I do (w znaczeniu 'ja też'), *I don't like it too",
+      "Operator w miejscu elipsy nie może być ściągnięty: 'Yes, I am' (nie *I'm), 'where he is' (nie *where he's) — bo przejmuje akcent zdaniowy",
+      "Akcent pada na to, co ocalało, bo dokładnie to jest nowe: 'So do I', 'She DIDN'T', 'I have, but he hasn't'",
+      "W długich zdaniach z kilkoma poprzednikami elipsa łatwo tworzy dwuznaczność — w tekstach precyzyjnych powtórz czasownik",
+      "'do so' jest formalne i wymaga czynności celowej: '*He knows the answer and I do so' jest niepoprawne",
+      "Skala rejestru: pełne powtórzenie / do so (formalnie) → elipsa z operatorem (neutralnie) → Me too, Same here (potocznie) → elipsa sytuacyjna 'Sounds good' (bardzo potocznie)"
+    ],
+    "tags": [
+      "*I think yes",
+      "Me neither, nie *Me too",
+      "*Yes, I'm",
+      "akcent kontrastowy",
+      "do so (rejestr formalny)"
+    ],
+    "examples": [
+      { "en": "Are you ready? — Yes, I am. (never: *Yes, I'm.)", "pl": "Gotowy? — Tak, jestem. (nigdy: *Yes, I'm.)" },
+      { "en": "I haven't seen the memo. — Neither have I. / Me neither. (never: *Me too.)", "pl": "Nie widziałem notatki. — Ja też nie. (nigdy: *Me too.)" },
+      { "en": "Is the meeting still on? — I think so. (never: *I think yes.)", "pl": "Spotkanie jest aktualne? — Myślę, że tak. (nigdy: *I think yes.)" },
+      { "en": "She doesn't eat meat, and her partner doesn't either.", "pl": "Ona nie je mięsa i jej partner też nie." },
+      { "en": "Applicants must submit two references; those who fail to do so will be disqualified.", "pl": "Kandydaci muszą złożyć dwie referencje; ci, którzy tego nie zrobią, zostaną zdyskwalifikowani." },
+      { "en": "I promised I'd finish by Friday, and I HAVE — she hasn't.", "pl": "Obiecałem skończyć do piątku i SKOŃCZYŁEM — ona nie." }
+    ]
+  },
+  {
+    "id": "advanced_ellipsis_c2",
+    "order": 8,
+    "nameEn": "C2: what the gap really contains — invisible structure and formal-register ellipsis",
+    "namePl": "Poziom C2: co naprawdę kryje luka — niewidzialna struktura i elipsa w rejestrze formalnym",
+    "rules": [
+      {
+        "label": "Dowód rozstrzygający: 'missing antecedent', czyli zaimek odsyłający do czegoś, czego nie powiedziano",
+        "text": "Najmocniejszy argument, że luka po operatorze nie jest zwykłą ciszą, lecz PEŁNĄ, niewymówioną strukturą, wygląda tak: „I've never ridden a camel, but my brother has, and he says it bites.” Zaimek 'it' odsyła tu do konkretnego wielbłąda — ale rzeczownik 'a camel' w drugim członie NIGDY NIE PADŁ; wprowadził go dopiero materiał usunięty przez elipsę ('has ridden a camel'). Gdyby luka była fizyczną pustką, nie byłoby czego wskazać i zdanie byłoby bezsensowne; tymczasem brzmi całkowicie naturalnie. Wniosek jest fundamentalny dla zrozumienia całego tematu: elipsa nie usuwa struktury, tylko jej WYMOWĘ. Zdanie zawiera pełną frazę czasownikową, po prostu niesłyszalną — i ta niesłyszalna fraza nadal wprowadza do dyskursu byty, do których można się dalej odnosić."
+      },
+      {
+        "label": "Antecedent-contained deletion: luka schowana wewnątrz własnego poprzednika",
+        "text": "„I read every book that you did Ø.” to zagadka, która na pierwszy rzut oka wygląda na błąd logiczny. Luka miałaby zostać wypełniona frazą 'read every book that you did' — a więc frazą zawierającą samą siebie, co dałoby nieskończoną regresję. Rozwiązanie, znane w składni jako antecedent-contained deletion (ACD), polega na tym, że fraza porównawcza ('every book that you did') jest interpretowana NA WYŻSZYM POZIOMIE struktury zdania, poza zasięgiem luki: rekonstruujemy 'you read x' dla każdej książki x. Praktyczna nauka dla uczącego się jest mniej abstrakcyjna, niż się wydaje: takie zdania są w angielskim całkowicie zwyczajne („She's been to more countries than I have.”, „He signed everything they asked him to.”), więc nie należy ich unikać z obawy o poprawność — a przy okazji stanowią kolejny dowód, że elipsa kopiuje strukturę, nie napis."
+      },
+      {
+        "label": "Pseudogapping — hybryda mówiona, która łamie regułę 'wszystko po operatorze'",
+        "text": "„You can't take the money, but you can the jewellery.” „I gave Marta a lift, and I did Tomek too.” Te zdania łamią zasadę, że po operatorze usuwamy CAŁĄ resztę: tu operator zostaje, cała fraza czasownikowa znika, ale jeden element — kontrastowe dopełnienie — zostaje wyciągnięty przed lukę i ocalony. Nazywa się to pseudogapping i jest w istocie hybrydą elipsy frazy czasownikowej z gappingiem. Charakterystyka rejestrowa jest ostra: to konstrukcja WYRAŹNIE MÓWIONA i bardzo częsta w potocznej angielszczyźnie amerykańskiej, natomiast rzadka i często odbierana jako niezręczna w formalnym tekście pisanym, gdzie preferuje się pełne powtórzenie albo przebudowę zdania. Rozpoznanie jej w słuchaniu jest ważniejsze niż aktywne używanie."
+      },
+      {
+        "label": "Zamrożona elipsa rejestru formalnego i prawniczego",
+        "text": "Angielszczyzna urzędowa, prawnicza i techniczna wykształciła cały zestaw skamieniałych fraz eliptycznych, w których usunięto podmiot i czasownik 'be' i które funkcjonują dziś jako gotowe formuły: 'if any' ('errors, if any Ø, should be reported'), 'where applicable', 'as necessary', 'if so requested', 'unless otherwise stated', 'when in doubt', 'subject to approval'. Wszystkie są okrojonymi zdaniami podrzędnymi ('if there are any', 'where it is applicable') i wszystkie zawdzięczają swoją zwięzłość dokładnie tej samej zasadzie odtwarzalności, która rządzi potocznym 'Me neither'. Różnica leży wyłącznie w rejestrze. Ten mechanizm ma szersze omówienie w temacie o zdaniach bezczasownikowych; tu warto zapamiętać, że luka w tekście prawnym bywa jednocześnie jego największym ryzykiem — 'if any' rozciągnięte na kilka wyliczonych elementów potrafi być realnym źródłem sporu o interpretację."
+      },
+      {
+        "label": "Elipsa jako sygnał ramy tematycznej — i granica, za którą staje się szumem",
+        "text": "Na poziomie tekstu (a nie zdania) elipsa i substytucja pełnią funkcję, którą Halliday nazwał spójnością (cohesion): każda luka jest dla czytelnika sygnałem 'jesteśmy nadal w tej samej ramie tematycznej, nie zaczynam nowego wątku'. Dlatego akapit gęsto usiany pro-formami czyta się jako zwarty, a akapit powtarzający pełne frazy — jako rwany albo pedantyczny. Istnieje jednak próg, za którym mechanizm obraca się przeciwko tekstowi: gdy odległość do poprzednika przekracza kilka zdań, albo gdy w polu widzenia pojawia się drugi kandydat na poprzednik, czytelnik przestaje odtwarzać i zaczyna zgadywać. Dojrzała redakcja tekstu na poziomie C2 polega właśnie na wyczuciu tego progu: skracać tam, gdzie kontekst jest świeży i jednoznaczny, powtarzać tam, gdzie wątek się rozgałęził."
+      }
+    ],
+    "usage": [
+      "Luka po operatorze zawiera pełną, lecz niewymówioną strukturę — dowodzi tego 'missing antecedent': 'I've never ridden a camel, but my brother has, and he says it bites'",
+      "Antecedent-contained deletion ('every book that you did', 'more countries than I have') jest w angielskim zupełnie zwyczajne, mimo pozornej regresji",
+      "Pseudogapping ('you can't take the money, but you can the jewellery') ocala jeden kontrastowy element przed luką — typowe dla mowy, rzadkie w formalnym piśmie",
+      "Formuły 'if any', 'where applicable', 'unless otherwise stated' to zamrożone zdania eliptyczne rejestru urzędowego — ta sama zasada, inny rejestr",
+      "Elipsa sygnalizuje czytelnikowi ciągłość ramy tematycznej; przestaje działać, gdy poprzednik jest odległy lub gdy pojawia się drugi kandydat na poprzednik"
+    ],
+    "tags": [
+      "missing antecedent",
+      "antecedent-contained deletion",
+      "pseudogapping",
+      "if any / where applicable",
+      "cohesion i próg czytelności"
+    ],
+    "examples": [
+      { "en": "I've never owned a dog, but my sister has, and she says it changed her life.", "pl": "Nigdy nie miałem psa, ale moja siostra miała i mówi, że to odmieniło jej życie." },
+      { "en": "She has read every report that the committee has.", "pl": "Przeczytała każdy raport, który przeczytała komisja." },
+      { "en": "He's visited more countries than most of us ever will.", "pl": "Odwiedził więcej krajów, niż większość z nas kiedykolwiek odwiedzi." },
+      { "en": "I can lend you the car, but I can't the flat. (pseudogapping — spoken register)", "pl": "Mogę ci pożyczyć samochód, ale mieszkania już nie. (pseudogapping — rejestr mówiony)" },
+      { "en": "Errors, if any, must be reported within seven days unless otherwise stated.", "pl": "Ewentualne błędy należy zgłosić w ciągu siedmiu dni, o ile nie postanowiono inaczej." },
+      { "en": "Delegates who wish to speak should register in advance; those who fail to do so may not be called.", "pl": "Delegaci, którzy chcą zabrać głos, powinni zapisać się wcześniej; ci, którzy tego nie zrobią, mogą nie zostać dopuszczeni." }
     ]
   }
 ]
