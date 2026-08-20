@@ -1,7 +1,48 @@
 [
   {
-    "id": "zero_conditional",
+    "id": "conditional_architecture",
     "order": 1,
+    "nameEn": "The architecture of conditionals",
+    "namePl": "Architektura zdania warunkowego",
+    "rules": [
+      {
+        "label": "Dwie połówki, dwie nazwy: protasis i apodosis",
+        "text": "Każde zdanie warunkowe składa się z dwóch części, które gramatyka opisowa nazywa greckimi terminami: protasis (dosłownie 'rozciągnięcie naprzód', czyli zdanie z 'if' — warunek) i apodosis ('oddanie, odpowiedź' — zdanie główne, czyli skutek). Te nazwy nie są ozdobnikiem: pokazują, że mamy do czynienia z dwoma NIEZALEŻNIE budowanymi modułami. To fundamentalna intuicja całego tematu — protasis ma własny zestaw dopuszczalnych form czasownika, apodosis ma swój, a numerki 0-3 z podręczników to tylko nazwy najczęstszych par tych modułów. Kto zrozumie oba moduły osobno, nie musi zapamiętywać żadnej tabelki."
+      },
+      {
+        "label": "'If' jest starsze niż jakikolwiek podręcznik gramatyki",
+        "text": "Staroangielskie 'gif' (spokrewnione z niderlandzkim 'of' i niemieckim 'ob') pełniło dokładnie tę samą funkcję już tysiąc lat temu — angielski nigdy nie musiał 'wymyślać' zdań warunkowych, bo miał je od zawsze jako rdzenną, germańską część swojej gramatyki. Etymologicznie 'gif' wiąże się prawdopodobnie z rdzeniem oznaczającym 'danie, przyznanie' (jak w 'give'), czyli pierwotnie: 'przyznawszy, że...', 'przy założeniu, że...'. Ten sam gest myślowy — 'przyjmijmy chwilowo, że tak jest' — nadal jest sercem każdego zdania warunkowego. Co naprawdę ewoluowało przez tysiąc lat, to nie spójnik, lecz maszyneria czasownikowa wokół niego."
+      },
+      {
+        "label": "Co zniknęło: staroangielski tryb łączący i jego erozja fonetyczna",
+        "text": "Staroangielski nie potrzebował 'would' ani 'had', żeby zasygnalizować nierealność — miał do tego osobne, syntetyczne końcówki trybu łączącego (subjunctive). Zdanie 'gdyby on przyszedł' brzmiało 'gif hē cōme' (subjunctive) w opozycji do oznajmującego 'hē cōm'. Ta różnica opierała się na wygłosowej samogłosce -e, a właśnie ona padła ofiarą największej katastrofy fonetycznej w dziejach angielskiego: redukcji nieakcentowanych samogłosek do szwa i ich zaniku w XIV-XV wieku. Gdy 'cōme' i 'cōm' zaczęły brzmieć identycznie, cały system rozróżnień trybowych stał się niesłyszalny — a język, który potrzebuje odróżnić fakt od hipotezy, musiał zbudować mechanizm zastępczy. Tym mechanizmem są dzisiejsze konstrukcje peryfrastyczne z 'would' i cofnięciem czasu."
+      },
+      {
+        "label": "Jedna zasada zamiast czterech: remoteness (dystans)",
+        "text": "Cały system warunkowy w dzisiejszym angielskim opiera się na JEDNEJ zasadzie: forma przeszła czasownika sygnalizuje dystans, a dystans może być czasowy ALBO modalny. 'I lived in Rome' — dystans czasowy (to było dawno). 'If I lived in Rome' — dystans modalny (to nieprawda). Angielski dosłownie używa tego samego narzędzia do dwóch celów, bo w obu chodzi o to samo: 'to nie jest tu i teraz, to nie jest bezpośrednio dostępne'. Dlatego drugi okres warunkowy używa czasu przeszłego, a trzeci — zaprzeszłego: im dalej cofasz formę, tym dalej od faktów ląduje zdanie. Nie ma tu czterech niezależnych reguł, jest jedna skala i dwa kroki na niej."
+      },
+      {
+        "label": "Podział, który naprawdę ma znaczenie: otwarte kontra nierealne",
+        "text": "Zamiast czterech podręcznikowych szufladek gramatyka opisowa (np. Huddleston i Pullum) używa podziału na warunki OTWARTE (open conditionals: zero i first — mówiący nie przesądza, czy warunek jest prawdziwy) i ZDALNE/nierealne (remote conditionals: second, third, mixed — mówiący sygnalizuje, że warunek jest nieprawdziwy lub mało prawdopodobny). Ten podział jest lepszy, bo pokrywa się z realną granicą gramatyczną: w warunkach otwartych czasowniki mają zwykłe, 'nieprzesunięte' formy, w zdalnych — formy cofnięte. Numerki 0/1/2/3 to tylko wygodne etykiety dydaktyczne dla czterech najczęstszych kombinacji wewnątrz tych dwóch klas."
+      }
+    ],
+    "usage": [
+      "Protasis (zdanie z 'if') i apodosis (zdanie główne) buduje się niezależnie — najpierw ustal, kiedy jest warunek, potem osobno, kiedy jest skutek",
+      "Kolejność części jest dowolna: 'If it rains, we'll stay in.' = 'We'll stay in if it rains.' — przecinek stawiamy tylko wtedy, gdy zdanie z 'if' idzie pierwsze",
+      "Forma przeszła w zdaniu warunkowym prawie nigdy nie oznacza przeszłości — oznacza dystans od rzeczywistości",
+      "Zamiast pytać 'który to okres warunkowy?', pytaj: 'czy mówiący traktuje warunek jako otwarty, czy jako nierealny?'"
+    ],
+    "tags": ["protasis", "apodosis", "remoteness", "open vs remote", "gif"],
+    "examples": [
+      { "en": "If the results hold up, this changes everything we thought we knew.", "pl": "Jeśli wyniki się potwierdzą, zmienia to wszystko, co sądziliśmy, że wiemy. (warunek otwarty — mówiący nie przesądza)" },
+      { "en": "If the results held up, this would change everything.", "pl": "Gdyby wyniki się potwierdziły, zmieniłoby to wszystko. (warunek zdalny — mówiący sygnalizuje wątpliwość)" },
+      { "en": "We'd have finished on time if the supplier had answered a single email.", "pl": "Skończylibyśmy na czas, gdyby dostawca odpowiedział choć na jednego maila. (apodosis pierwsza — bez przecinka)" },
+      { "en": "Should you need anything, my number's on the card.", "pl": "Gdyby czegoś Pan potrzebował, mój numer jest na wizytówce. (warunek bez 'if' — inwersja zamiast spójnika)" }
+    ]
+  },
+  {
+    "id": "zero_conditional",
+    "order": 2,
     "nameEn": "Zero conditional",
     "namePl": "Okres warunkowy zerowy",
     "rules": [
@@ -10,35 +51,36 @@
         "text": "If + czas teraźniejszy prosty, czas teraźniejszy prosty (If + present simple, present simple). Kolejność zdań jest dowolna: gdy zdanie z 'if' idzie pierwsze, oddzielamy je przecinkiem ('If you heat ice, it melts.'); gdy idzie drugie — przecinek znika ('Ice melts if you heat it.')."
       },
       {
-        "label": "'If' jest starsze niż jakikolwiek podręcznik gramatyki",
-        "text": "Staroangielskie 'gif' (spokrewnione z niderlandzkim 'of' czy niemieckim 'ob') pełniło dokładnie tę samą funkcję już tysiąc lat temu — angielski nigdy nie musiał 'wymyślać' zdań warunkowych, bo miał je od zawsze jako rdzenną część swojej gramatyki. To, co faktycznie ewoluowało przez wieki, to nie sam spójnik, lecz maszyneria czasownikowa wokół niego: staroangielski miał osobne, syntetyczne formy trybu łączącego (subjunctive), które zanikły w średnioangielskim i zostały zastąpione dzisiejszym systemem opartym na 'would'/'should' — śladem tamtego trybu jest dziś już tylko formuła 'if I were'."
-      },
-      {
         "label": "Model logiczny: warunek bez ryzyka",
-        "text": "Zero conditional to najbliższy angielskiej gramatyce odpowiednik matematycznej implikacji 'jeśli P, to zawsze Q' — bez odniesienia do konkretnego momentu w czasie, bez wyjątków, bez niepewności. To dlatego obie części zdania stoją w Present Simple: to ten sam 'bezczasowy' czas teraźniejszy, którego używamy do faktów naukowych i praw ogólnych ('Water boils at 100°C.'), a nie do relacjonowania jednorazowego zdarzenia."
+        "text": "Zero conditional to najbliższy angielskiej gramatyce odpowiednik matematycznej implikacji 'jeśli P, to zawsze Q' — bez odniesienia do konkretnego momentu w czasie, bez wyjątków, bez niepewności. To dlatego obie części zdania stoją w Present Simple: to ten sam 'bezczasowy' czas teraźniejszy, którego używamy do faktów naukowych i praw ogólnych ('Water boils at 100°C.'), a nie do relacjonowania jednorazowego zdarzenia. Present Simple nie jest tu 'teraźniejszością' — jest brakiem umiejscowienia w czasie."
       },
       {
         "label": "Dlaczego 'if' można tu zamienić na 'when'",
-        "text": "W realnych i nierealnych okresach warunkowych zamiana 'if' na 'when' zmieniłaby sens — 'when' zakłada, że coś na pewno się wydarzy, a 'if' pozostawia to otwarte. W zerowym okresie warunkowym ta różnica znika: skoro zależność jest gwarantowana (podgrzanie lodu ZAWSZE go topi), 'if' i 'when' opisują ten sam pewnik z dwóch stron — 'if' patrzy na to jako na regułę ogólną, 'when' jako na konkretny przypadek tej reguły."
+        "text": "W realnych i nierealnych okresach warunkowych zamiana 'if' na 'when' zmieniłaby sens — 'when' zakłada, że coś na pewno się wydarzy, a 'if' pozostawia to otwarte. W zerowym okresie warunkowym ta różnica znika: skoro zależność jest gwarantowana (podgrzanie lodu ZAWSZE go topi), 'if' i 'when' opisują ten sam pewnik z dwóch stron — 'if' patrzy na to jako na regułę ogólną ('w przypadkach, w których...'), 'when' jako na konkretny przypadek tej reguły ('za każdym razem, gdy...'). Ta wymienność jest najlepszym praktycznym testem, czy zdanie naprawdę jest zerowym okresem warunkowym."
+      },
+      {
+        "label": "Wariant z trybem rozkazującym i wariant nawykowy w przeszłości",
+        "text": "Apodosis zerowego okresu warunkowego nie musi być zdaniem oznajmującym — bardzo często jest instrukcją: 'If the alarm sounds, leave the building immediately.' Ta odmiana rządzi całą literaturą technicznej dokumentacji i przepisów kucharskich. Istnieje też mało nauczany wariant PRZESZŁY tego samego wzorca — 'If I was late, my father simply left without me.' — który opisuje nie hipotezę, lecz nawyk w przeszłości ('za każdym razem, gdy się spóźniłem'). Uwaga: tu 'was' jest poprawne i celowe, bo to zwykły czas przeszły, a nie tryb łączący; 'were' brzmiałoby tu błędnie, bo sugerowałoby nierealność."
       }
     ],
     "usage": [
       "Ogólne prawdy i fakty naukowe, niezależne od czasu (If you heat water to 100°C, it boils.)",
       "Stałe zależności przyczynowo-skutkowe, prawdziwe za każdym razem (If metal is heated, it expands.)",
-      "Instrukcje, procedury i nawyki — 'zawsze gdy X, robię/dzieje się Y' (If the light turns red, drivers stop.)",
-      "Przysłowia i utrwalone powiedzenia, które mają status niemal logicznych pewników (If the cap fits, wear it. / If in doubt, don't.)"
+      "Instrukcje, procedury i regulaminy — apodosis w trybie rozkazującym (If the alarm sounds, leave the building.)",
+      "Nawyki w przeszłości w wariancie 'If + past simple, past simple' (If he was in a bad mood, we all knew about it.)",
+      "Przysłowia i utrwalone powiedzenia o statusie niemal logicznych pewników (If the cap fits, wear it. / If in doubt, don't.)"
     ],
-    "tags": ["if + present, present", "always true", "when = if", "material conditional"],
+    "tags": ["if + present, present", "always true", "when = if", "material conditional", "habitual past"],
     "examples": [
       { "en": "If you heat water to 100°C, it boils.", "pl": "Jeśli podgrzejesz wodę do 100°C, wrze." },
-      { "en": "Plants die if they don't get water.", "pl": "Rośliny umierają, jeśli nie dostają wody." },
+      { "en": "If the payment doesn't clear within five days, the order is cancelled automatically.", "pl": "Jeśli płatność nie zostanie zaksięgowana w ciągu pięciu dni, zamówienie jest automatycznie anulowane." },
       { "en": "If in doubt, don't — that's the rule my father always followed.", "pl": "W razie wątpliwości nie rób tego — taką zasadę zawsze stosował mój ojciec." },
-      { "en": "People get suspicious if you avoid eye contact.", "pl": "Ludzie robią się podejrzliwi, jeśli unikasz kontaktu wzrokowego." }
+      { "en": "If my grandmother didn't like a guest, she served the cheap wine.", "pl": "Jeśli babcia nie polubiła gościa, podawała tanie wino. (nawyk w przeszłości, nie hipoteza)" }
     ]
   },
   {
     "id": "first_conditional",
-    "order": 2,
+    "order": 3,
     "nameEn": "First conditional",
     "namePl": "Okres warunkowy pierwszy",
     "rules": [
@@ -48,34 +90,35 @@
       },
       {
         "label": "Dlaczego w zdaniu z 'if' nie ma 'will', mimo że mówimy o przyszłości",
-        "text": "To pułapka, w którą wpada niemal każdy Polak, bo polski mówi 'Jeśli BĘDZIE padać, zostaniemy w domu' — czas przyszły w obu częściach. Angielski robi inaczej, i to nie przez kaprys: zdanie z 'if' nie jest samodzielną przepowiednią, tylko RAMĄ czasowo-warunkową, w której umieszczamy przepowiednię ze zdania głównego. 'Will' niosłoby własną, odrębną pewność co do przyszłości — a to zdublowałoby niepewność, którą 'if' już sygnalizuje. Dokładnie ta sama zasada rządzi innymi zdaniami czasowymi ('When I arrive, I'll call you', nie 'When I will arrive') — 'if' zachowuje się tu jak zwykły spójnik czasu, nie jak osobne zdanie o przyszłości."
+        "text": "To pułapka, w którą wpada niemal każdy Polak, bo polski mówi 'Jeśli BĘDZIE padać, zostaniemy w domu' — czas przyszły w obu częściach. Angielski robi inaczej, i to nie przez kaprys. Historycznie 'will' nie jest końcówką czasu przyszłego, tylko pełnoznacznym czasownikiem: staroangielskie 'willan' znaczyło 'chcieć, mieć wolę' (ten sam rdzeń co dzisiejsze 'will' — 'wola' — i niemieckie 'wollen'). Przez wieki gramatykalizowało się w wykładnik przyszłości, ale nigdy nie stało się czystą, neutralną końcówką czasową — pozostało modalne. Zdanie z 'if' nie jest samodzielną przepowiednią, tylko RAMĄ, w której umieszczamy przepowiednię ze zdania głównego; wstawienie tam modalnego 'will' dorzucałoby drugą, konkurencyjną warstwę przewidywania do zdania, które już sygnalizuje niepewność przez samo 'if'. Dokładnie ta sama zasada rządzi zdaniami czasowymi ('When I arrive, I'll call you'), bo w obu wypadkach spójnik tworzy tło, a nie pierwszy plan."
       },
       {
-        "label": "Realność jako punkt na skali",
-        "text": "Jeśli zero conditional wyraża pewność absolutną (prawo natury), first conditional przesuwa się o jeden stopień w stronę niepewności: warunek jest wciąż traktowany jako realnie możliwy, ale nie gwarantowany. To właśnie ta realność — 'to naprawdę może się zdarzyć' — odróżnia go od second conditional, który mówi o scenariuszach dalekich od rzeczywistości."
+        "label": "Kiedy 'will' po 'if' JEST poprawne — i dlaczego",
+        "text": "Skoro 'will' nie jest wykluczone jako takie, a tylko jako drugi wykładnik przyszłości, to wraca dokładnie wtedy, gdy niesie swoje pierwotne, modalne znaczenie WOLI. 'If you will wait here for a moment, I'll fetch the manager.' nie znaczy 'jeśli będziesz czekać', tylko 'jeśli zechce Pan tu zaczekać' — to formuła grzecznościowa, nie czas przyszły. Podobnie 'if you would kindly sign here' (jeszcze bardziej uprzejme przez dystans 'would'). Odrębny przypadek to 'will' z akcentem, wyrażające upór: 'If you WILL keep interrupting, of course you'll miss the point.' — 'jeśli koniecznie musisz przerywać'. To trzy różne rzeczy, ale wszystkie trzy dowodzą tego samego: reguła 'żadnego will po if' jest w rzeczywistości regułą 'żadnej podwójnej przyszłości po if'."
       },
       {
-        "label": "Warianty w zdaniu głównym",
-        "text": "'Will' można zastąpić modalnym wyrażającym coś innego niż czystą przepowiednię: 'can' (możliwość: If you finish early, you can leave.), 'may/might' (mniejsza pewność: If it rains, we may cancel.), 'should' (rada: If you're tired, you should rest.), a nawet trybem rozkazującym (If you see him, tell him to call me.) — konstrukcja pozostaje ta sama, zmienia się tylko to, jaki rodzaj konsekwencji zapowiadamy."
+        "label": "Realność jako punkt na skali i warianty apodosis",
+        "text": "Zero conditional wyraża pewność absolutną, first conditional przesuwa się o stopień w stronę niepewności: warunek jest realnie możliwy, ale nie gwarantowany. 'Will' można w apodosis zastąpić dowolnym innym wykładnikiem konsekwencji: 'can' (możliwość: If you finish early, you can leave.), 'may/might' (mniejsza pewność: If it rains, we may cancel.), 'should' (rada: If you're tired, you should rest.), 'be going to' (plan lub widoczna oznaka: If this rain keeps up, the match is going to be called off.), a nawet tryb rozkazujący (If you see him, tell him to call me.). Konstrukcja zostaje ta sama, zmienia się tylko charakter zapowiadanej konsekwencji."
       }
     ],
     "usage": [
       "Realne, prawdopodobne sytuacje w przyszłości, których warunek jest wykonalny (If it rains tomorrow, we will stay at home.)",
       "Ostrzeżenia, obietnice i groźby — konsekwencja przedstawiona jako pewna, jeśli warunek się spełni (If you don't hurry, you'll miss the bus.)",
       "Oferty i propozycje zależne od okoliczności (If you're free later, I'll pick you up from the station.)",
+      "Formuły grzecznościowe z wolitywnym 'will/would' w zdaniu z 'if' (If you will follow me, sir.)",
       "Plany, które można zrealizować tylko pod pewnym warunkiem (If the weather holds, we'll have the wedding outdoors.)"
     ],
-    "tags": ["if + present, will", "real future", "warning", "no will after if"],
+    "tags": ["if + present, will", "real future", "warning", "no double future", "willan"],
     "examples": [
       { "en": "If it rains tomorrow, we will stay at home.", "pl": "Jeśli jutro będzie padać, zostaniemy w domu." },
       { "en": "If you don't hurry, you'll miss the bus.", "pl": "Jeśli się nie pospieszysz, spóźnisz się na autobus." },
-      { "en": "She'll call you if she needs help — she always does.", "pl": "Zadzwoni do ciebie, jeśli będzie potrzebować pomocy — zawsze tak robi." },
+      { "en": "If you'll just take a seat, the doctor will be with you shortly.", "pl": "Jeśli zechce Pani usiąść, lekarz zaraz przyjdzie. ('will' jako wola, nie przyszłość)" },
       { "en": "If the weather holds, we'll have the wedding outdoors.", "pl": "Jeśli pogoda dopisze, zrobimy ślub na świeżym powietrzu." }
     ]
   },
   {
     "id": "second_conditional",
-    "order": 3,
+    "order": 4,
     "nameEn": "Second conditional",
     "namePl": "Okres warunkowy drugi",
     "rules": [
@@ -85,71 +128,77 @@
       },
       {
         "label": "'Were' — żywy fosyl trybu łączącego",
-        "text": "To nie przypadek, że akurat 'be' ma tu specjalną formę. W staroangielskim tryb oznajmujący i tryb łączący (subjunctive) czasownika 'wesan/beon' różniły się formami: oznajmujący rozróżniał osoby (wæs dla ja/on, wære dla ty), podczas gdy łączący miał jedną wspólną formę 'wære' dla wszystkich osób w liczbie pojedynczej. Gdy reszta angielskiego trybu łączącego zanikła przez wieki, akurat ten jeden fragment przetrwał — i to właśnie on stoi za dzisiejszym 'If I were rich' zamiast 'If I was rich'. Mówiąc 'were' przy 'I/he/she', używasz najstarszej żywej relikwii angielskiej gramatyki, jaka nam została."
+        "text": "To nie przypadek, że akurat 'be' ma tu specjalną formę. W staroangielskim tryb oznajmujący i tryb łączący czasownika 'wesan/bēon' różniły się formami: oznajmujący rozróżniał osoby (wæs dla ic/hē, wǣre dla þū), podczas gdy łączący miał jedną wspólną formę 'wǣre' dla wszystkich osób liczby pojedynczej. Gdy reszta angielskiego trybu łączącego zanikła fonetycznie, akurat ten fragment przetrwał — bo 'be' jest jedynym angielskim czasownikiem, w którym różnica trybowa nie zależała od zanikającej końcówki, lecz od samej samogłoski rdzenia (æ vs ǣ), a ta była za dobrze słyszalna, żeby zniknąć. Mówiąc 'were' przy 'I/he/she', używasz najstarszej żywej relikwii angielskiej gramatyki, jaka nam została."
       },
       {
         "label": "Dlaczego czas przeszły nie oznacza tu przeszłości",
-        "text": "Kluczowa intuicja: czas przeszły w angielskim ma dwie zupełnie różne prace. Pierwsza to oczywista — mówienie o tym, co się wydarzyło. Druga, mniej oczywista: sygnalizowanie DYSTANSU od rzeczywistości, niezależnie od czasu. 'If I won the lottery' nie mówi nic o przeszłości — mówi, że ta sytuacja jest odległa, mało prawdopodobna, wyimaginowana. Ten sam mechanizm 'cofnięcia jako sygnału nierealności' widać w innych konstrukcjach: 'I wish I knew the answer' (nie znam teraz), 'It's time we left' (jeszcze nie wyszliśmy). Im dalej cofasz formę czasownika, tym dalej od faktów umieszczasz zdanie."
+        "text": "Kluczowa intuicja: czas przeszły w angielskim ma dwie zupełnie różne prace. Pierwsza to oczywista — mówienie o tym, co się wydarzyło. Druga, mniej oczywista: sygnalizowanie DYSTANSU od rzeczywistości, niezależnie od czasu. 'If I won the lottery' nie mówi nic o przeszłości — mówi, że ta sytuacja jest odległa, mało prawdopodobna, wyimaginowana. Ten sam mechanizm 'cofnięcia jako sygnału nierealności' widać w innych konstrukcjach: 'I wish I knew the answer' (nie znam teraz), 'It's time we left' (jeszcze nie wyszliśmy), 'I'd rather you didn't' (wolałbym, żebyś teraz tego nie robił). Warto zauważyć, że polski robi rzecz dokładnie analogiczną: cząstka '-by' w 'gdybym' to skamieniały aoryst czasownika 'być' — także forma przeszła użyta do sygnalizowania nierealności. Dwa niespokrewnione bliżej języki wpadły na ten sam pomysł, bo jest on kognitywnie naturalny: to, czego nie ma, opisujemy tak jak to, co minęło."
       },
       {
-        "label": "Rejestr formalny: 'were to'",
-        "text": "W bardziej oficjalnym, dyplomatycznym lub literackim stylu hipotezę dotyczącą przyszłości można wzmocnić konstrukcją 'were to' + bezokolicznik, która brzmi bardziej ostrożnie i formalnie niż zwykły second conditional: 'If I were to accept this offer, I would need more time.' zamiast prostszego 'If I accepted...'. Ta forma bywa też odwracana bez 'if' w rejestrze wyjątkowo formalnym: 'Were I to accept...' — o inwersji warunkowej więcej w temacie o inwersji."
+        "label": "Rejestr formalny: 'were to' i granica z first conditional",
+        "text": "W bardziej oficjalnym, dyplomatycznym lub literackim stylu hipotezę dotyczącą przyszłości można wzmocnić konstrukcją 'were to' + bezokolicznik, brzmiącą ostrożniej i formalniej niż zwykły second conditional: 'If I were to accept this offer, I would need more time.' Bywa też odwracana bez 'if': 'Were I to accept...'. Warto pamiętać, że granica między pierwszym a drugim okresem warunkowym NIE jest granicą obiektywnego prawdopodobieństwa, tylko decyzją mówiącego, jak chce daną sytuację przedstawić: 'If I get the job, I'll move to Berlin' (traktuję to jako realną opcję) kontra 'If I got the job, I'd move to Berlin' (dystansuję się — może z ostrożności, może z pesymizmu, może z grzeczności). Ten sam fakt świata, dwa różne ustawienia kamery."
       }
     ],
     "usage": [
       "Nierealne lub mało prawdopodobne sytuacje w teraźniejszości/przyszłości (If I won the lottery, I would travel the world.)",
       "Rady formułowane jako wyimaginowana zamiana miejsc (If I were you, I would apologize to her.)",
-      "Sytuacje sprzeczne z obecnym stanem rzeczy — hipotezy, które i tak nie są prawdą (If she spoke German, she'd apply for the job in Berlin.)",
-      "Grzeczne, ostrożne pytania i propozycje odsuwające się od bezpośredniości (What would you say if I told you I was quitting?)"
+      "Sytuacje sprzeczne z obecnym stanem rzeczy (If she spoke German, she'd apply for the job in Berlin.)",
+      "Grzeczne, ostrożne pytania i propozycje odsuwające się od bezpośredniości (What would you say if I told you I was quitting?)",
+      "Formalna hipoteza z 'were to' w rejestrze urzędowym i prawniczym (If the treaty were to collapse, the consequences would be severe.)"
     ],
-    "tags": ["if + past, would", "unreal present", "if I were you", "subjunctive were"],
+    "tags": ["if + past, would", "unreal present", "if I were you", "subjunctive were", "were to"],
     "examples": [
       { "en": "If I won the lottery, I would travel the world.", "pl": "Gdybym wygrał na loterii, podróżowałbym po świecie." },
       { "en": "If I were you, I would apologize to her.", "pl": "Na twoim miejscu przeprosiłbym ją." },
-      { "en": "She would help you if she had more time.", "pl": "Ona by ci pomogła, gdyby miała więcej czasu." },
-      { "en": "If I were to accept this offer, I would need more time to relocate.", "pl": "Gdybym miał przyjąć tę ofertę, potrzebowałbym więcej czasu na przeprowadzkę. (formalne 'were to' zamiast zwykłego 'accepted')" }
+      { "en": "If I got the job, I'd move to Berlin — but let's not get ahead of ourselves.", "pl": "Gdybym dostał tę pracę, przeprowadziłbym się do Berlina — ale nie wybiegajmy naprzód. (dystans z ostrożności, nie z niemożliwości)" },
+      { "en": "If I were to accept this offer, I would need more time to relocate.", "pl": "Gdybym miał przyjąć tę ofertę, potrzebowałbym więcej czasu na przeprowadzkę. (formalne 'were to')" }
     ]
   },
   {
     "id": "third_conditional",
-    "order": 4,
+    "order": 5,
     "nameEn": "Third conditional",
     "namePl": "Okres warunkowy trzeci",
     "rules": [
       {
         "label": "Budowa",
-        "text": "If + czas zaprzeszły, would have + imiesłów bierny (If + past perfect, would have + past participle). W mowie 'would have' skraca się do 'would've' — a ponieważ 'would've' i 'had' brzmią podobnie w szybkiej mowie, w piśmie nieformalnym (i błędnie) pojawia się czasem 'would of' zamiast 'would've'; to wyłącznie zapis fonetyczny, nie forma gramatyczna."
+        "text": "If + czas zaprzeszły, would have + imiesłów bierny (If + past perfect, would have + past participle). W mowie 'would have' skraca się do 'would've' — a ponieważ 'would've' i 'of' brzmią w szybkiej mowie identycznie, w piśmie nieformalnym pojawia się czasem błędne 'would of'; to wyłącznie zapis fonetyczny, nie forma gramatyczna."
       },
       {
         "label": "Podwójne cofnięcie: dlaczego aż tyle warstw czasu",
-        "text": "Second conditional cofa czasownik o jeden stopień (present → past), żeby zasygnalizować dystans od teraźniejszości. Third conditional musi zasygnalizować coś dalszego: dystans od PRZESZŁOŚCI, która już minęła i jest zamknięta. Dlatego cofnięcie jest podwójne: 'had done' (past perfect) to już 'przeszłość przeszłości', najdalej cofnięty czasownik, jaki ma angielski, a 'would have done' to ta sama nierealna forma 'would', co w second conditional, dodatkowo połączona z aspektem perfect, który każe wyobrazić sobie skutek jako 'już dokonany' w tamtej wyimaginowanej przeszłości. Im więcej warstw cofnięcia, tym dalej od faktycznej rzeczywistości ląduje całe zdanie — logika jest identyczna jak w second conditional, tylko zastosowana dwukrotnie."
+        "text": "Second conditional cofa czasownik o jeden stopień (present → past), żeby zasygnalizować dystans od teraźniejszości. Third conditional musi zasygnalizować coś dalszego: dystans od PRZESZŁOŚCI, która już minęła i jest zamknięta. Dlatego cofnięcie jest podwójne: 'had done' (past perfect) to już 'przeszłość przeszłości', najdalej cofnięta forma, jaką ma angielski, a 'would have done' to ta sama nierealna forma 'would', co w second conditional, dodatkowo połączona z aspektem perfect. Logika jest identyczna jak w second conditional, tylko zastosowana dwukrotnie — i to jest cała 'reguła' trzeciego okresu warunkowego."
       },
       {
         "label": "Dlaczego to naturalny język żalu i krytyki",
-        "text": "Mówienie o przeszłości, której nie da się już zmienić, nieuchronnie rodzi konfrontację między tym, co się stało, a tym, co mogło się stać — stąd third conditional jest naturalnym nośnikiem żalu ('If I had known, I would have come'), wyrzutu ('If you had listened to me, this wouldn't have happened') i ulgi ('If we hadn't left early, we would have been caught in the storm'). Gramatyka nie 'dodaje' tu emocji sztucznie — sam fakt mówienia o nieodwracalnej przeszłości niesie ten ładunek."
+        "text": "Mówienie o przeszłości, której nie da się już zmienić, nieuchronnie rodzi konfrontację między tym, co się stało, a tym, co mogło się stać — stąd third conditional jest naturalnym nośnikiem żalu ('If I had known, I would have come'), wyrzutu ('If you had listened to me, this wouldn't have happened') i ulgi ('If we hadn't left early, we would have been caught in the storm'). Gramatyka nie 'dodaje' tu emocji sztucznie: sam fakt mówienia o nieodwracalnej przeszłości niesie ten ładunek. Dlatego third conditional to jedna z najczęstszych struktur w przeprosinach, kłótniach i wspomnieniach — i jedna z najrzadszych w instrukcjach obsługi."
+      },
+      {
+        "label": "Warianty apodosis: nie tylko 'would have'",
+        "text": "Skutek w przeszłości nie musi być przedstawiony jako pewny. Wymieniając 'would' na inny modalny, precyzujemy status niezrealizowanego skutku: 'might have' (być może by tak było: If we'd taken the motorway, we might have made it.), 'could have' (byłoby to możliwe: If she'd asked, I could have lent her the money.), 'should have' (tak byłoby właściwie — rzadkie i mocno oceniające). Podobnie protasis dopuszcza aspekt ciągły: 'If I hadn't been driving, I would have answered the phone.' — warunek jako trwający kontekst, nie punktowe zdarzenie."
       },
       {
         "label": "Pułapka: 'if I would have known'",
-        "text": "W nieformalnej mowie części native speakerów (zwłaszcza amerykańskiej) słychać 'If I would have known...' zamiast poprawnego 'If I had known...' — to konstrukcja niestandardowa, wynikająca z analogii do 'would have' w zdaniu głównym, ale w gramatyce pisanej i egzaminacyjnej zdanie z 'if' zachowuje czysty past perfect, bez 'would'."
+        "text": "W nieformalnej mowie części native speakerów (zwłaszcza amerykańskiej) słychać 'If I would have known...' zamiast standardowego 'If I had known...'. Nie jest to czysty przypadek: to naturalne wyrównanie analogiczne — skoro apodosis ma 'would have', mówiący odruchowo powiela ten kształt w protasis. Ten sam mechanizm działa też w niemieckim potocznym ('wenn ich das gewusst hätte' obok 'wenn ich das gewusst haben würde'). W gramatyce pisanej, egzaminacyjnej i formalnej zdanie z 'if' zachowuje jednak czysty past perfect, bez 'would'."
       }
     ],
     "usage": [
       "Nierealne sytuacje w przeszłości, których nie da się już zmienić (If I had known about the meeting, I would have come.)",
       "Żale i wyrażanie, co mogło się wydarzyć inaczej, gdyby jedna rzecz poszła inaczej",
       "Krytyka przeszłych decyzji (If you had studied harder, you would have passed the exam.)",
-      "Ulga na myśl o uniknionym, gorszym scenariuszu (If we hadn't left early, we would have been caught in the storm.)"
+      "Ulga na myśl o uniknionym, gorszym scenariuszu (If we hadn't left early, we would have been caught in the storm.)",
+      "Ostrożne hipotezy o przeszłości z 'might/could have' zamiast 'would have' (If we'd left earlier, we might have made it.)"
     ],
-    "tags": ["if + past perfect, would have", "unreal past", "regret", "double backshift"],
+    "tags": ["if + past perfect, would have", "unreal past", "regret", "double backshift", "would of"],
     "examples": [
       { "en": "If I had known about the meeting, I would have come.", "pl": "Gdybym wiedział o spotkaniu, przyszedłbym." },
-      { "en": "If you had studied harder, you would have passed the exam.", "pl": "Gdybyś uczył się pilniej, zdałbyś egzamin." },
-      { "en": "She wouldn't have been late if she had left earlier.", "pl": "Nie spóźniłaby się, gdyby wyszła wcześniej." },
+      { "en": "If she'd asked, I could have lent her the money — she never asked.", "pl": "Gdyby poprosiła, mógłbym jej pożyczyć te pieniądze — nigdy nie poprosiła. ('could have' = możliwość, nie pewność)" },
+      { "en": "If I hadn't been driving, I would have answered your call.", "pl": "Gdybym wtedy nie prowadził, odebrałbym twój telefon. (warunek jako trwający kontekst)" },
       { "en": "If we hadn't left early, we would have been caught in the storm.", "pl": "Gdybyśmy nie wyszli wcześnie, złapałaby nas burza." }
     ]
   },
   {
     "id": "mixed_conditionals",
-    "order": 5,
+    "order": 6,
     "nameEn": "Mixed conditionals",
     "namePl": "Okresy warunkowe mieszane",
     "rules": [
@@ -159,29 +208,144 @@
       },
       {
         "label": "Teraźniejszość → przeszłość",
-        "text": "If + past simple, would have + imiesłów bierny — stała cecha lub stan (nie zdarzenie) wpływa na to, co wydarzyło się (albo nie) w przeszłości (If she weren't so shy, she would have spoken up yesterday.)."
+        "text": "If + past simple, would have + imiesłów bierny — stała cecha lub stan (nie zdarzenie) wpływa na to, co wydarzyło się (albo nie) w przeszłości (If she weren't so shy, she would have spoken up yesterday.). Zwróć uwagę, że protasis musi tu opisywać coś TRWAŁEGO — nieśmiałość, znajomość języka, mieszkanie gdzieś — bo tylko taka cecha może rozciągać się wstecz aż do momentu przeszłego skutku."
       },
       {
-        "label": "Model kompozycyjny: numerki 0-3 to uproszczenie, nie cztery odrębne szufladki",
-        "text": "Najważniejsza intuicja tego tematu: 'drugi' i 'trzeci' okres warunkowy nie są dwiema osobnymi, zamkniętymi regułami do wykucia na pamięć — to tylko dwie NAJCZĘSTSZE kombinacje dwóch niezależnych wyborów: (1) w jakim czasie osadzony jest warunek — w przeszłości czy w teraźniejszości/przyszłości, i (2) w jakim czasie osadzony jest skutek — również w przeszłości czy w teraźniejszości/przyszłości. Second conditional to kombinacja 'teraźniejszość-teraźniejszość', third to 'przeszłość-przeszłość'. Skoro te dwa wybory są od siebie NIEZALEŻNE, logicznie muszą istnieć też dwie kombinacje 'skrzyżowane' — i to właśnie są mixed conditionals. Nie ma potrzeby zapamiętywać ich jako odrębnych wzorów: wystarczy umieć budować każdą połówkę zdania osobno."
+        "label": "Model kompozycyjny: numerki 0-3 to uproszczenie, nie cztery szufladki",
+        "text": "Najważniejsza intuicja tego tematu: 'drugi' i 'trzeci' okres warunkowy nie są dwiema osobnymi regułami do wykucia — to dwie NAJCZĘSTSZE kombinacje dwóch niezależnych wyborów: (1) w jakim czasie osadzony jest warunek, i (2) w jakim czasie osadzony jest skutek. Second conditional to kombinacja 'teraźniejszość-teraźniejszość', third to 'przeszłość-przeszłość'. Skoro te dwa wybory są NIEZALEŻNE, logicznie muszą istnieć też dwie kombinacje skrzyżowane — i to właśnie są mixed conditionals. Nie ma potrzeby zapamiętywać ich jako odrębnych wzorów: to nie są dwa nowe typy, tylko dowód, że tych typów nigdy nie było cztery."
       },
       {
         "label": "Praktyczny test: zadaj dwa pytania osobno",
-        "text": "Zanim zbudujesz zdanie mieszane, zapytaj po kolei: 'Kiedy jest ten wyimaginowany WARUNEK — w przeszłości czy teraz/w przyszłości?' oraz, niezależnie, 'Kiedy jest ten wyimaginowany SKUTEK — w przeszłości czy teraz/w przyszłości?'. Dla slotu przeszłego zawsze bierzesz past perfect (warunek) albo would have + III forma (skutek); dla slotu teraźniejszego/przyszłego — past simple (warunek) albo would + bezokolicznik (skutek). Złożenie odpowiedzi z tych dwóch pytań daje poprawne zdanie, niezależnie od tego, czy pasuje ono do 'nazwanego' typu, czy nie."
+        "text": "Zanim zbudujesz zdanie mieszane, zapytaj po kolei: 'Kiedy jest ten wyimaginowany WARUNEK — w przeszłości czy teraz/w przyszłości?' oraz, niezależnie, 'Kiedy jest ten wyimaginowany SKUTEK?'. Dla slotu przeszłego bierzesz past perfect (warunek) albo would have + III forma (skutek); dla slotu teraźniejszego/przyszłego — past simple (warunek) albo would + bezokolicznik (skutek). Złożenie odpowiedzi daje poprawne zdanie niezależnie od tego, czy pasuje ono do 'nazwanego' typu. Ten sam mechanizm pozwala budować kombinacje, których podręczniki w ogóle nie nazywają, np. skutek ciągły: 'If he had taken the job, he would be earning twice as much now.'"
       }
     ],
     "usage": [
       "Łączenie różnych okresów warunkowych, gdy czas warunku i czas skutku faktycznie się różnią w opisywanej sytuacji",
-      "If I had studied medicine, I would be a doctor now. (przeszły warunek, obecny, wciąż trwający skutek)",
-      "If she weren't so shy, she would have spoken up at the meeting yesterday. (stała cecha obecna, jednorazowy skutek w przeszłości)",
-      "Naturalna, codzienna mowa jest 'mieszana' znacznie częściej, niż sugerują podręczniki — bo rzeczywiste sytuacje rzadko trzymają się jednego pasma czasowego"
+      "Przeszły warunek, obecny i wciąż trwający skutek (If I had studied medicine, I would be a doctor now.)",
+      "Obecna stała cecha, jednorazowy skutek w przeszłości (If she weren't so shy, she would have spoken up at the meeting yesterday.)",
+      "Skutek w formie ciągłej dla podkreślenia trwania (If he had taken the job, he would be earning more now.)",
+      "Naturalna, codzienna mowa jest 'mieszana' znacznie częściej, niż sugerują podręczniki — rzeczywiste sytuacje rzadko trzymają się jednego pasma czasowego"
     ],
     "tags": ["mixed conditional", "past → present", "present → past", "compositional model"],
     "examples": [
       { "en": "If I had studied medicine, I would be a doctor now.", "pl": "Gdybym studiował medycynę, byłbym teraz lekarzem." },
       { "en": "If she weren't so shy, she would have spoken up at the meeting yesterday.", "pl": "Gdyby nie była taka nieśmiała, zabrałaby głos na wczorajszym spotkaniu." },
-      { "en": "If he had taken the job, he would be earning more money now.", "pl": "Gdyby przyjął tę pracę, zarabiałby teraz więcej." },
+      { "en": "If he had taken the job, he would be earning twice as much now.", "pl": "Gdyby przyjął tę pracę, zarabiałby teraz dwa razy tyle." },
       { "en": "If you weren't afraid of flying, you would have come with us to Tokyo last year.", "pl": "Gdybyś nie bał się latać, pojechałbyś z nami do Tokio w zeszłym roku." }
+    ]
+  },
+  {
+    "id": "if_clause_verb_forms",
+    "order": 7,
+    "nameEn": "Verb forms inside the if-clause",
+    "namePl": "Formy czasownika w zdaniu z 'if'",
+    "rules": [
+      {
+        "label": "Protasis nie jest zamrożona w Present Simple",
+        "text": "Podręczniki uczą 'if + present simple' i uczeń wyciąga z tego fałszywy wniosek, że zdanie z 'if' dopuszcza tylko tę jedną formę. W rzeczywistości protasis przyjmuje CAŁY repertuar czasów nieprzyszłych, dokładnie tak, jak zwykłe zdanie oznajmujące: 'If you're waiting for John, he's already left.' (present continuous — trwający kontekst), 'If you've finished, we can start.' (present perfect — czynność zamknięta przed skutkiem), 'If she said that, she was lying.' (past simple — realny warunek o przeszłości, nie hipoteza!). Ostatni przykład jest szczególnie pouczający: 'if + past simple' NIE musi oznaczać drugiego okresu warunkowego — może być zwykłym otwartym warunkiem o przeszłości, jeśli apodosis też jest w przeszłości."
+      },
+      {
+        "label": "'Should' w protasis: warunek jeszcze mniej prawdopodobny",
+        "text": "'If you should see him, tell him to call me.' — 'should' w zdaniu z 'if' to nie rada ani obowiązek, tylko wykładnik przypadkowości i obniżonego prawdopodobieństwa ('gdyby tak się złożyło, że go zobaczysz'). To relikt tej samej peryfrazy z 'should', która zastąpiła stary tryb łączący w brytyjskiej angielszczyźnie ('I suggest that he should go'). Ta konstrukcja jest głównym źródłem inwersji 'Should you need anything...' i bardzo często pojawia się w listach formalnych oraz regulaminach. Blisko spokrewnione jest 'if you happen to see him' — to samo znaczenie przypadkowości, tylko rejestr potoczny."
+      },
+      {
+        "label": "'Would' w protasis: trzy różne, poprawne przypadki",
+        "text": "Reguła 'żadnego would po if' ma trzy legalne wyjątki, wszystkie oparte na modalnym, a nie czasowym znaczeniu 'would'. Po pierwsze — grzeczność: 'If you would take a seat...' ('gdyby zechciał Pan usiąść'). Po drugie — mowa zależna, gdzie 'would' jest po prostu cofniętym 'will' z oryginału: 'He said that if it would help, he'd come earlier.' Po trzecie — 'if it wouldn't be too much trouble', czyli hipoteza o samym akcie prośby. Wspólny mianownik: 'would' jest tu wykładnikiem woli lub dystansu grzecznościowego, a nie drugą warstwą przyszłości."
+      },
+      {
+        "label": "Aspekt w warunku: continuous i perfect w każdym typie",
+        "text": "Ponieważ protasis i apodosis to niezależne moduły, aspekt można zastosować w każdym z nich osobno i w każdym typie warunku. 'If you'd been listening, you'd know the answer.' (past perfect continuous w protasis + would + bezokolicznik: mieszany warunek z aspektem ciągłym). 'If they're still arguing at six, we'll go without them.' (continuous w otwartym warunku). 'If I'd been sleeping better, I wouldn't have snapped at you.' To nie są 'nowe okresy warunkowe' — to zwykłe składanie klocków: wybierz czas dla dystansu i aspekt dla sposobu patrzenia na czynność, oddzielnie dla każdej połówki zdania."
+      }
+    ],
+    "usage": [
+      "Continuous w protasis dla trwającego tła lub czynności w toku (If you're looking for Anna, she's in the garden.)",
+      "Present perfect w protasis, gdy warunek to czynność już zamknięta (If you've read the report, you know what's coming.)",
+      "'If + past simple, past simple' jako otwarty warunek o przeszłości, nie hipoteza (If he told you that, he lied.)",
+      "'Should' lub 'happen to' w protasis dla warunków mało prawdopodobnych i przypadkowych (If you should change your mind...)",
+      "'Will/would' w protasis wyłącznie w znaczeniu woli, grzeczności lub w mowie zależnej (If you would kindly hold the line.)"
+    ],
+    "tags": ["if + continuous", "if + perfect", "if you should", "happen to", "polite would"],
+    "examples": [
+      { "en": "If you're waiting for the 8:15, I'm afraid it's been cancelled.", "pl": "Jeśli czeka Pan na pociąg o 8:15, obawiam się, że został odwołany. (continuous w warunku)" },
+      { "en": "If he told you the deal was signed, he was lying.", "pl": "Jeśli powiedział ci, że umowa jest podpisana, kłamał. (otwarty warunek o przeszłości)" },
+      { "en": "If you should require assistance, a member of staff will be on hand throughout.", "pl": "Gdyby potrzebował Pan pomocy, pracownik będzie do dyspozycji przez cały czas. (formalne 'should')" },
+      { "en": "If you'd been paying attention, you wouldn't be asking me this now.", "pl": "Gdybyś uważał, nie pytałbyś mnie teraz o to. (past perfect continuous + skutek teraźniejszy)" }
+    ]
+  },
+  {
+    "id": "inverted_conditionals",
+    "order": 8,
+    "nameEn": "Conditionals without 'if'",
+    "namePl": "Warunek bez 'if'",
+    "rules": [
+      {
+        "label": "Trzy inwersje: Were / Had / Should",
+        "text": "W rejestrze formalnym warunek można zbudować bez spójnika, przenosząc czasownik posiłkowy na początek zdania. Możliwe są dokładnie trzy operatory: 'Were I in your position, I'd resign.' (= If I were), 'Had we known, we'd have acted differently.' (= If we had known), 'Should you change your mind, do call.' (= If you should change your mind). Żaden inny czasownik tego nie robi — nie ma 'Did he come...' w znaczeniu warunkowym, mimo że logicznie mogłoby być. To ograniczenie do trzech form jest historycznym reliktem, a nie regułą synchroniczną."
+      },
+      {
+        "label": "Skąd to się wzięło: inwersja jest STARSZA niż 'if'",
+        "text": "Wbrew intuicji ta konstrukcja nie powstała przez 'usunięcie if' — jest odwrotnie. W staroangielskim i w językach germańskich w ogóle podstawowym sposobem sygnalizowania warunku była właśnie inwersja czasownika (do dziś tak działa niemiecki: 'Hätte ich das gewusst...'). Spójnik 'gif' był początkowo dodatkiem, wzmocnieniem — i dopiero stopniowo wyparł strategię czysto szykową. To, co dziś brzmi jak wyszukana literacka ozdoba, jest w istocie najstarszą warstwą angielskiej gramatyki warunkowej, która przetrwała w rejestrze formalnym dokładnie dlatego, że pismo jest konserwatywne. Ograniczenie do 'were/had/should' też ma źródło historyczne: to były najczęstsze czasowniki w tej pozycji i tylko one zdołały przetrwać jako zamrożone formuły."
+      },
+      {
+        "label": "Przeczenie łamie skrót: 'Had he not' zamiast 'Hadn't he'",
+        "text": "Inwersja warunkowa nie dopuszcza formy ściągniętej z 'n't': mówimy 'Had it not been for your help...', a nie 'Hadn't it been for...' (to ostatnie byłoby pytaniem). Powód jest praktyczny i systemowy: ściągnięte 'n't' jest znakiem rozpoznawczym pytania i zdania oznajmującego, a rejestr, w którym w ogóle używa się inwersji warunkowej, jest formalny — a formalna angielszczyzna z zasady rozdziela 'not' od operatora. Ten sam wzorzec obowiązuje przy inwersji po wyrażeniach przeczących ('Not until later did we realise...')."
+      },
+      {
+        "label": "Inne bezspójnikowe warunki: but for, otherwise, tryb rozkazujący, elipsa",
+        "text": "Angielski ma cały arsenał sposobów wyrażenia warunku bez 'if'. 'But for your help, we'd have failed.' — 'gdyby nie'. 'Otherwise' działa wstecz, zastępując cały odwrócony warunek: 'Luckily she reminded me; otherwise I'd have forgotten.' Tryb rozkazujący + and/or koduje warunek składniowo: 'Say that again and I'll walk out.' ('jeśli to powtórzysz'). Wreszcie elipsa: 'If so', 'If not', 'If necessary', 'If any', 'If anything' to skamieniałe skróty całych zdań warunkowych, zachowujące spójnik i gubiące resztę — w rejestrze urzędowym ('Delays, if any, must be reported') są wręcz normą."
+      }
+    ],
+    "usage": [
+      "Rejestr formalny, urzędowy, prawniczy i literacki — inwersja jest tam neutralna, w mowie potocznej brzmi wyszukanie",
+      "'Should' + inwersja w korespondencji biznesowej (Should you have any questions, please contact us.)",
+      "'Had' + inwersja dla żalu i hipotez o przeszłości (Had I known, I would never have agreed.)",
+      "'But for' i 'were it not for' jako formalne 'gdyby nie' (But for the rain, the parade would have gone ahead.)",
+      "Eliptyczne formuły warunkowe w tekstach urzędowych (Errors, if any, should be reported within 14 days.)"
+    ],
+    "tags": ["inversion", "were it not for", "had I known", "but for", "if so / if not"],
+    "examples": [
+      { "en": "Had I known how much it mattered to her, I'd have cancelled everything.", "pl": "Gdybym wiedział, jak bardzo jej na tym zależy, wszystko bym odwołał." },
+      { "en": "Should any discrepancies arise, they must be reported to the auditor.", "pl": "Gdyby pojawiły się jakiekolwiek rozbieżności, należy je zgłosić audytorowi." },
+      { "en": "Were it not for the strike, we'd already be in Lisbon.", "pl": "Gdyby nie strajk, bylibyśmy już w Lizbonie." },
+      { "en": "Touch that wire and you'll know about it.", "pl": "Dotknij tego kabla, a się przekonasz. (tryb rozkazujący jako warunek)" }
+    ]
+  },
+  {
+    "id": "conditional_pragmatics",
+    "order": 9,
+    "nameEn": "Pragmatics of conditionals",
+    "namePl": "Pragmatyka zdań warunkowych",
+    "rules": [
+      {
+        "label": "Conditional perfection: dlaczego 'if' często słyszymy jako 'tylko jeśli'",
+        "text": "Gdy rodzic mówi 'If you finish your homework, you can watch TV', dziecko rozumie to jako 'a jeśli nie skończysz, to nie obejrzysz' — mimo że zdanie tego dosłownie NIE mówi. Logicznie 'jeśli P to Q' nie wyklucza, że Q zdarzy się też bez P. To zjawisko nazywa się conditional perfection (perfekcjonizacja warunku): słuchacz automatycznie 'wzmacnia' warunek do równoważności, bo zakłada, że mówiący podałby inne warunki, gdyby istniały. To nie błąd logiczny, tylko implikatura konwersacyjna w sensie Grice'a — wnioskowanie z tego, czego mówiący NIE powiedział. Stąd bierze się większość nieporozumień przy umowach i obietnicach, i stąd prawnicy piszą 'if and only if'."
+      },
+      {
+        "label": "Biscuit conditionals: warunek, który nie warunkuje niczego",
+        "text": "'There are biscuits on the sideboard if you're hungry.' — zauważ, że ciastka leżą tam niezależnie od czyjegoś głodu. Warunek nie dotyczy tu prawdziwości zdania głównego, lecz jego STOSOWNOŚCI: 'jeśli jesteś głodny, to poniższa informacja cię zainteresuje'. Ten typ, nazwany od słynnego przykładu J. L. Austina 'biscuit conditionals' (albo relevance conditionals), obejmuje mnóstwo codziennych zwrotów: 'If you need me, I'm in the kitchen', 'If I may be honest, this won't work', 'If you're interested, the talk starts at six'. Test rozpoznawczy: nie da się ich sparafrazować przez 'w przypadku, gdyby...' — bo skutek jest prawdziwy tak czy owak."
+      },
+      {
+        "label": "Warunek jako narzędzie grzeczności i twarzy",
+        "text": "Znaczna część zdań warunkowych w rozmowie nie służy warunkowaniu, lecz łagodzeniu. 'If you could just move your bag' to prośba, nie hipoteza. 'I'd be grateful if you could reply by Friday' oddala żądanie na bezpieczną odległość, dając rozmówcy iluzję wyboru. W teorii grzeczności Brown i Levinsona to klasyczna grzeczność negatywna: struktura warunkowa nie zobowiązuje adresata wprost, więc odmowa nie wymaga utraty twarzy przez żadną ze stron. Im bardziej cofnięta forma ('if you can' → 'if you could' → 'if you could possibly'), tym większy dystans i tym uprzejmiej — ta sama zasada remoteness, tylko użyta towarzysko, a nie logicznie."
+      },
+      {
+        "label": "Warunki retoryczne i ustępliwe: 'even if', 'if anything', 'if he's a doctor...'",
+        "text": "'If he's a doctor, I'm the Queen of England.' — mówiący nie stawia warunku, tylko przez absurdalną apodosis komunikuje: 'nie jest żadnym lekarzem'. To warunek retoryczny (reductio ad absurdum w formie potocznej). Odrębna kategoria to warunki ustępliwe: 'even if' anuluje warunkowość ('Even if she apologises, I won't go back' — skutek nastąpi tak czy inaczej), a 'whether or not' rozciąga to na obie możliwości. Wreszcie 'if anything' odwraca oczekiwanie rozmówcy ('It hasn't got easier — if anything, it's worse'), a 'if only' przenosi całą konstrukcję w rejestr czystego żalu, porzucając apodosis w ogóle: 'If only I'd listened.'"
+      }
+    ],
+    "usage": [
+      "Conditional perfection — świadomość, że słuchacz domyślnie czyta 'if' jako 'tylko jeśli' (stąd prawnicze 'if and only if')",
+      "Biscuit/relevance conditionals — warunek dotyczy stosowności wypowiedzi, nie prawdziwości skutku (If you're hungry, there's soup in the pot.)",
+      "Warunek jako łagodzenie prośby i ochrona twarzy rozmówcy (I'd appreciate it if you could let me know by tomorrow.)",
+      "Warunki retoryczne z absurdalnym skutkiem, komunikujące zaprzeczenie (If that's a bargain, I'll eat my hat.)",
+      "Warunki ustępliwe z 'even if' i 'whether or not' — skutek niezależny od warunku (Even if it costs a fortune, I'm going.)"
+    ],
+    "tags": ["conditional perfection", "biscuit conditional", "politeness", "even if", "if anything"],
+    "examples": [
+      { "en": "There's cold chicken in the fridge if you get hungry later.", "pl": "W lodówce jest zimny kurczak, gdybyś później zgłodniał. (kurczak jest tam niezależnie od głodu)" },
+      { "en": "I'd be grateful if you could get back to me before the board meets.", "pl": "Byłbym wdzięczny, gdyby odezwał się Pan przed posiedzeniem zarządu. (prośba, nie hipoteza)" },
+      { "en": "If she paid for that dress herself, I'll eat my hat.", "pl": "Jeśli sama zapłaciła za tę sukienkę, to zjem własny kapelusz. (warunek retoryczny = na pewno nie zapłaciła)" },
+      { "en": "The pain hasn't eased at all — if anything, it's got worse since Monday.", "pl": "Ból wcale nie zelżał — jeśli już, to od poniedziałku się nasilił." }
     ]
   }
 ]
