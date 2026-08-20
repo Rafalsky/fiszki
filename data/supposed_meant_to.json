@@ -1,135 +1,421 @@
 [
   {
-    "id": "supposed_to_present",
+    "id": "roots_ecm_passive",
     "order": 1,
-    "nameEn": "be supposed to — present expectation and rules",
-    "namePl": "be supposed to — oczekiwania i zasady w teraźniejszości",
+    "nameEn": "The roots — why 'be supposed to' is not a modal but a passive with a deleted agent",
+    "namePl": "Korzenie: dlaczego 'be supposed to' to nie modalny, lecz strona bierna z wymazanym sprawcą",
     "rules": [
-      { "label": "Budowa", "text": "am/is/are + supposed to + bezokolicznik bez to (You are supposed to wear a helmet.)" },
-      { "label": "Znaczenie", "text": "To, czego się oczekuje na podstawie zasady, umowy, harmonogramu lub ogólnej opinii — niekoniecznie to, co faktycznie się dzieje" }
+      {
+        "label": "'Suppose' — łacińskie 'podłożyć pod', czyli przyjąć założenie",
+        "text": "Czasownik 'suppose' to bezpośredni potomek łacińskiego 'supponere', złożenia 'sub-' (pod) i 'ponere' (kłaść) — dosłownie 'podłożyć pod', 'podstawić'. W łacinie scholastycznej i w logice średniowiecznej ten obraz przesunął się w stronę abstrakcyjną: podłożyć coś pod rozumowanie to tyle, co PRZYJĄĆ TO JAKO PRZESŁANKĘ, założyć. Stąd łacińska 'suppositio' i dzisiejsze angielskie 'supposition', 'presuppose', 'presupposition'. Do angielskiego słowo weszło około 1300 roku ze starofrancuskiego 'supposer' — i tu ciekawostka: francuski nie odziedziczył czystego 'ponere', lecz przerobił całą rodzinę na czasownik 'poser' (z późnołacińskiego 'pausare' — zatrzymać się). Dlatego mamy compose, dispose, propose, suppose zamiast oczekiwanych form z -pone. Angielskie 'suppose' nosi więc w sobie łacińskie znaczenie i francuską skórę."
+      },
+      {
+        "label": "'Mean' — germańskie 'mieć na myśli, zamierzać'",
+        "text": "'Mean' nie ma nic wspólnego z łaciną — to rdzenne słowo germańskie, staroangielskie 'mænan': mieć na myśli, zamierzać, oznaczać (a także, co dziś zaskakuje, 'skarżyć się'). Pokrewne są niemieckie 'meinen', niderlandzkie 'menen' i, dalej, samo 'mind' oraz łacińskie 'mens' (umysł). Kluczowe jest to, że rdzeń 'mean' od zawsze zawiera INTENCJĘ — czyjąś wolę skierowaną na cel. Dwa dzisiejsze znaczenia 'mean' (znaczyć: What does it mean? oraz zamierzać: I meant to call) to nie homonimy, lecz dwie gałęzie jednego staroangielskiego rdzenia. Konstrukcja 'be meant to' czerpie wyłącznie z gałęzi INTENCJI — i to wyjaśni później całą jej odrębność wobec 'supposed to'."
+      },
+      {
+        "label": "Model myślowy: to strona bierna czasownika sprawozdającego, a nie czasownik modalny",
+        "text": "Największa pomyłka w nauce tej konstrukcji polega na wrzuceniu jej do worka z 'must' i 'should'. Formalnie 'be supposed to' jest czymś zupełnie innym: to STRONA BIERNA czasownika sprawozdającego z dopełnieniem i bezokolicznikiem. We wczesnonowoangielskim całkowicie normalne było zdanie 'They supposed him to be honest' (Uznawali go za uczciwego) — czasownik 'suppose' rządził konstrukcją 'dopełnienie + to-bezokolicznik' dokładnie tak jak dziś 'believe', 'consider', 'know' (patrz temat: bierne struktury sprawozdawcze). Kiedy takie zdanie przechodzi w stronę bierną, dopełnienie awansuje na podmiot: 'He was supposed to be honest'. To całe wyjaśnienie zagadkowego 'to' w tej konstrukcji — nie jest to żadna arbitralna końcówka do zapamiętania, tylko pozostałość po bezokoliczniku, który tam był od początku."
+      },
+      {
+        "label": "Silnik całej konstrukcji: rozdzielenie tego, kto oczekuje, od tego, kogo oczekiwanie dotyczy",
+        "text": "Strona bierna ma jedną naczelną funkcję: pozwala usunąć sprawcę. Tutaj sprawcą jest ten, KTO ŻYWI OCZEKIWANIE — jakiś regulamin, ustalenie, plan, przełożony, plotka, zwyczaj. Konstrukcja go wymazuje i zostawia jedynie ślad: 'ktoś tak założył/zamierzył'. To rozdzielenie jest silnikiem napędzającym absolutnie wszystko, co ta konstrukcja robi w praktyce. Skoro oczekiwanie należy do kogoś INNEGO niż podmiot zdania (a często i niż sam mówiący), to natychmiast wynikają z tego trzy rzeczy naraz: (1) podmiot może się z niego nie wywiązać, (2) mówiący nie musi się z nim utożsamiać, (3) źródło oczekiwania może być tak mgliste, że stanie się zwykłą pogłoską. Trzy pozornie niepowiązane znaczenia — obowiązek, niespełnienie, reputacja — to jeden mechanizm oglądany z trzech stron."
+      },
+      {
+        "label": "Ta sama analiza dla 'be meant to'",
+        "text": "'Be meant to' powstało tą samą drogą: 'The designer meant this lever to release the catch' → 'This lever is meant to release the catch'. Wymazany sprawca to tu jednak nie ten, kto coś ZAŁOŻYŁ, lecz ten, kto coś ZAMIERZYŁ. Różnica rdzenia — supponere 'przyjąć założenie' kontra mænan 'mieć zamiar' — przenosi się nietknięta do dzisiejszej gramatyki i decyduje o tym, że jedna konstrukcja specjalizuje się w regułach i pogłoskach, a druga w celu i przeznaczeniu."
+      }
     ],
     "usage": [
-      "Zasady i przepisy (You're supposed to wear a helmet on a bike.)",
-      "Ustalenia i harmonogramy (The train is supposed to arrive at 9.)",
-      "Ogólna opinia / pogłoska, podobnie do 'they say' (This restaurant is supposed to be excellent.)",
-      "Często sugeruje kontrast z rzeczywistością — coś dzieje się inaczej niż powinno"
+      "Zanim zapamiętasz jakiekolwiek 'zasady użycia', przetłumacz sobie zdanie dosłownie: 'You are supposed to wear a helmet' = 'Ktoś (kogo nie nazywam) założył, że będziesz nosić kask'",
+      "Test na obecność wymazanego sprawcy: do każdego zdania z tą konstrukcją da się dopowiedzieć pytanie 'kto tak twierdzi / kto tak ustalił?' — i to pytanie zawsze ma sens, bo w strukturze jest pusty slot na odpowiedź",
+      "Konstrukcja należy rodzinowo do biernych struktur sprawozdawczych (he is said to be, she is believed to be), a nie do czasowników modalnych — mimo że w praktyce zachowuje się dziś jak modalny (o czym mówi podtemat 2)",
+      "'To' po 'supposed' i 'meant' to nie przyimek ani ozdobnik, tylko ocalały bezokolicznik z pierwotnej konstrukcji 'suppose someone TO DO something'"
     ],
-    "tags": ["supposed to arrive", "supposed to be", "you're supposed to", "supposed to wear"],
+    "tags": [
+      "supponere",
+      "sub + ponere",
+      "mænan",
+      "strona bierna sprawozdawcza",
+      "wymazany sprawca"
+    ],
     "examples": [
-      { "en": "You're supposed to wear a helmet on a bike.", "pl": "Masz obowiązek nosić kask na rowerze." },
-      { "en": "The train is supposed to arrive at 9, but it's always late.", "pl": "Pociąg ma przyjeżdżać o 9, ale zawsze się spóźnia." },
-      { "en": "This restaurant is supposed to be excellent.", "pl": "Ta restauracja podobno jest znakomita." },
-      { "en": "Employees are supposed to clock in by 8 a.m.", "pl": "Pracownicy mają obowiązek odbić kartę przed 8 rano." }
+      {
+        "en": "They supposed him to be the rightful heir. → He was supposed to be the rightful heir.",
+        "pl": "Uważali go za prawowitego dziedzica. → Uchodził za prawowitego dziedzica. (widać rodowód: bierna forma czasownika sprawozdającego)"
+      },
+      {
+        "en": "You're supposed to sign at the bottom. (= ktoś tak ustalił — formularz, urzędnik, przepis; nie ja z siebie tego wymyślam)",
+        "pl": "Powinieneś podpisać się na dole."
+      },
+      {
+        "en": "This lever is meant to release the catch. (= konstruktor tak to zamierzył)",
+        "pl": "Ta dźwignia ma zwalniać zapadkę."
+      },
+      {
+        "en": "The tax is supposed to discourage speculation, but nobody checks whether it does.",
+        "pl": "Ten podatek ma zniechęcać do spekulacji, ale nikt nie sprawdza, czy tak jest."
+      }
     ]
   },
   {
-    "id": "supposed_to_past",
+    "id": "grammaticalization_quasi_modal",
     "order": 2,
-    "nameEn": "be supposed to — past and unfulfilled expectations",
-    "namePl": "be supposed to — przeszłość i niespełnione oczekiwania",
+    "nameEn": "From passive verb to quasi-modal — grammaticalization caught in the act",
+    "namePl": "Od biernego czasownika do quasi-modalnego: gramatykalizacja przyłapana na gorącym uczynku",
     "rules": [
-      { "label": "Budowa", "text": "was/were + supposed to + bezokolicznik bez to (I was supposed to call her.)" },
-      { "label": "Znaczenie", "text": "Coś było zaplanowane, uzgodnione lub oczekiwane, ale się nie wydarzyło albo nie wiadomo, czy się wydarzyło" }
+      {
+        "label": "Dlaczego angielski wciąż produkuje nowe 'modalne'",
+        "text": "Prawdziwe czasowniki modalne (can, may, must, shall, will) tworzą klasę ZAMKNIĘTĄ i UŁOMNĄ: nie mają bezokolicznika, imiesłowu ani końcówki -s, przez co nie da się ich spiętrzyć ani wstawić w miejsce wymagające formy nieosobowej. Nie powiesz 'I want to must go' ani 'having musted'. Tam, gdzie system modalny ma dziurę, angielski od setek lat łata ją PERYFRAZĄ — konstrukcją opisową zbudowaną z czasownika i bezokolicznika z 'to'. Tak powstały have to (łata brakującą przeszłość i bezokolicznik 'must'), be going to, be able to, ought to, used to, be about to — i tak samo powstało 'be supposed to'. To nie ciekawostka, tylko główny motor rozwoju angielskiej modalności."
+      },
+      {
+        "label": "Cztery klasyczne objawy gramatykalizacji, wszystkie obecne tutaj",
+        "text": "Językoznawcy rozpoznają gramatykalizację (przejście słowa pełnoznacznego w element gramatyczny) po czterech objawach i 'supposed to' ma komplet. (1) WYBLAKNIĘCIE ZNACZENIA: w 'You're supposed to wear a helmet' nikt niczego nie zakłada — pierwotne 'przyjąć założenie' wyparowało. (2) EROZJA FONETYCZNA: wymowa to /səˈpəʊstə/, gdzie -d w ogóle nie brzmi, a 'to' zlewa się w nieakcentowane /tə/. (3) DEKATEGORIALIZACJA: 'supposed' przestaje się zachowywać jak imiesłów bierny — nie da się go stopniować ani wzmocnić ('*very supposed'), nie da się go użyć w formie ciągłej ('*You are being supposed to'). (4) UTRATA SKŁADNIOWEJ SWOBODY: w znaczeniu obowiązku znika możliwość dopisania 'by kogo' (o czym szczegółowo w podtemacie 5)."
+      },
+      {
+        "label": "Dowód z ortografii: dlaczego tylu rodzimych użytkowników pisze 'suppose to'",
+        "text": "W ciągu 'supposed to' końcowe /d/ i początkowe /t/ sąsiadują ze sobą i w normalnej mowie ulegają uproszczeniu do jednego /t/. Efekt jest taki, że ucho rodzimego użytkownika NIE SŁYSZY tam żadnej końcówki czasu przeszłego — i stąd bardzo częsty błąd ortograficzny 'I'm suppose to'. Dokładnie ten sam mechanizm produkuje błąd 'I use to' zamiast 'I used to' (wymowa /juːstə/). To nie jest zwykła literówka, tylko świadectwo, że mówiący przetwarza cały ciąg jako JEDNĄ, nierozbieralną jednostkę gramatyczną, a nie jako imiesłów plus bezokolicznik. Formy poprawne to zawsze supposed to / meant to — z -ed."
+      },
+      {
+        "label": "Ale gramatykalizacja jest niedokończona — i to widać po operatorze",
+        "text": "'Supposed to' nie stało się jednak modalnym do końca i łatwo to pokazać. Pytania i przeczenia buduje przez 'be', czyli przez ten sam operator, którego używa zwykłe zdanie z orzecznikiem: Are you supposed to be here? / You aren't supposed to be here. Porównaj z 'used to', które w tym samym stadium rozwoju rozdwoiło się i dopuszcza dziś obie drogi: Did you use to smoke? (przez do-support, i wtedy -ed rzeczywiście znika) obok archaizującego Used you to smoke? W 'supposed to' końcówka -ed nigdy nie znika w piśmie właśnie dlatego, że konstrukcja NIGDY nie sięga po do-support — operatorem zawsze pozostaje 'be'. To bardzo praktyczna konsekwencja teoretycznego faktu."
+      },
+      {
+        "label": "Miejsce w rodzinie: peryfrazy uszeregowane od najbardziej do najmniej zrośniętych",
+        "text": "Ustaw sobie te konstrukcje na osi zrastania się: have to i going to zaszły najdalej (mają nawet własne formy potoczne w piśmie: gotta, gonna); used to i supposed to są w połowie drogi (jedna wymowa, jedna jednostka, ale bez uznanego zapisu skróconego); be about to i be due to są dopiero na początku (zachowują pełną wymowę i przejrzystą budowę). Świadomość tej osi tłumaczy, dlaczego 'supposed to' jest tak potoczne i tak częste w mowie, a jednocześnie tak rzadkie w tekstach urzędowych, które wolą nieskorodowane 'is required to' albo 'is expected to'."
+      }
     ],
     "usage": [
-      "Plany i obietnice, które się nie ziściły (I was supposed to call her, but I forgot.)",
-      "Delikatna krytyka niedopełnienia obowiązku lub złamania ustalenia",
-      "Kontrast z 'had to' — 'was supposed to' nie mówi, czy czynność się odbyła"
+      "Wymowa: /səˈpəʊstə/ lub /səˈpoʊstə/ — jedno /t/ w środku, żadnego oddzielnego /d/; 'meant to' to /ˈmentə/",
+      "Zapis zawsze z -ed: supposed to, meant to; formy 'suppose to' i 'mean to' w tym znaczeniu są błędem ortograficznym",
+      "Operatorem jest zawsze 'be', nigdy 'do': Are we supposed to wait? / We weren't supposed to wait — nigdy '*Do we suppose to wait?'",
+      "Brak formy ciągłej ('*I'm being supposed to') i brak stopniowania ('*more supposed to') to nie kaprys, lecz skutek dekategorializacji imiesłowu",
+      "W rejestrze urzędowym i akademickim zastąp konstrukcję nieskorodowanym odpowiednikiem: is required to, is expected to, is obliged to, is intended to"
     ],
-    "tags": ["was supposed to call", "were supposed to meet", "supposed to finish"],
+    "tags": [
+      "gramatykalizacja",
+      "quasi-modal",
+      "peryfraza",
+      "erozja fonetyczna",
+      "suppose to (błąd)"
+    ],
     "examples": [
-      { "en": "I was supposed to call her yesterday, but I completely forgot.", "pl": "Miałem do niej zadzwonić wczoraj, ale kompletnie zapomniałem." },
-      { "en": "We were supposed to meet at six, and you never showed up.", "pl": "Mieliśmy się spotkać o szóstej, a ty się w ogóle nie zjawiłeś." },
-      { "en": "The report was supposed to be finished by Friday.", "pl": "Raport miał być gotowy do piątku." },
-      { "en": "She was supposed to be here an hour ago.", "pl": "Ona miała tu być godzinę temu." }
+      {
+        "en": "Are we supposed to wait outside? (operator 'be' — nigdy 'do')",
+        "pl": "Mamy czekać na zewnątrz?"
+      },
+      {
+        "en": "I'm supposed to be revising, not watching football. (wymowa /səˈpəʊstə/ — jedno /t/)",
+        "pl": "Powinienem się powtarzać do egzaminu, a nie oglądać piłkę."
+      },
+      {
+        "en": "Candidates are required to submit two references. (rejestr urzędowy — nie 'are supposed to')",
+        "pl": "Kandydaci są zobowiązani przedłożyć dwie referencje."
+      },
+      {
+        "en": "You were meant to hand it in on Monday, weren't you?",
+        "pl": "Miałeś to oddać w poniedziałek, prawda?"
+      }
     ]
   },
   {
-    "id": "not_supposed_to",
+    "id": "nonfulfilment_implicature",
     "order": 3,
-    "nameEn": "not supposed to — prohibition and secrecy",
-    "namePl": "not supposed to — zakaz i poufność",
+    "nameEn": "The whiff of failure — why 'supposed to' hints that reality is otherwise",
+    "namePl": "Zapach niespełnienia: dlaczego 'supposed to' podpowiada, że rzeczywistość wygląda inaczej",
     "rules": [
-      { "label": "Budowa", "text": "not supposed to + bezokolicznik bez to (We're not supposed to use phones here.)" },
-      { "label": "Znaczenie", "text": "Nie wolno / nie powinno się, zgodnie z zasadą, poleceniem lub oczekiwaniem — rejestr nieformalny, częsty w mówionym angielskim" }
+      {
+        "label": "To nie jest część znaczenia, tylko wniosek wyciągany przez słuchacza",
+        "text": "Podręczniki lubią pisać, że 'be supposed to' oznacza, iż coś się nie wydarzyło. To nieprawda — i łatwo to udowodnić. Gdyby niespełnienie było częścią ZNACZENIA (czyli wynikaniem), zdanie 'The train is supposed to arrive at nine, and it always does' byłoby wewnętrznie sprzeczne. A nie jest, brzmi zupełnie normalnie. Wniosek o niespełnieniu daje się więc odwołać, a to jest klasyczny test na IMPLIKATURĘ: coś, czego zdanie nie mówi, ale co słuchacz sam dopowiada, bo tak działa rozmowa."
+      },
+      {
+        "label": "Skąd bierze się ta implikatura: mówiący wybrał słabsze zdanie",
+        "text": "Rozmowa rządzi się zasadą informacyjności: mów tyle, ile trzeba. Masz do wyboru dwa zdania — mocniejsze ('I called her') i słabsze ('I was supposed to call her'). Mocniejsze mówi o FAKCIE, słabsze tylko o CUDZYM OCZEKIWANIU wobec faktu. Jeśli świadomie wybierasz słabsze, słuchacz rozumuje: 'gdyby mógł powiedzieć mocniejsze, powiedziałby je; skoro nie powiedział, pewnie nie może'. Stąd bierze się cały ładunek żalu, wymówki i wyrzutu. Zwróć uwagę, że nie ma tu żadnej reguły gramatycznej do wykucia — jest tylko struktura z podtematu 1 (oczekiwanie należy do kogoś innego niż podmiot) i normalna logika rozmowy."
+      },
+      {
+        "label": "Czas przeszły zamienia sugestię niemal w konwencję",
+        "text": "W czasie teraźniejszym implikatura jest słaba: 'The train is supposed to arrive at nine' może być czystą informacją z rozkładu jazdy. W czasie przeszłym staje się prawie automatyczna: 'I was supposed to call her' rodzimy użytkownik odczyta domyślnie jako 'i nie zadzwoniłem'. Powód jest logiczny, a nie arbitralny: skoro moment oczekiwanego działania już minął, jego wynik jest znany OBU stronom. Kto się wywiązał, powie po prostu 'I called her'. Kto sięga po opis dawnego oczekiwania zamiast po opis faktu, sygnalizuje, że fakt nie nadaje się do zakomunikowania. Dlatego 'was/were supposed to' funkcjonuje w praktyce jako gotowa formuła wymówki, żalu lub oskarżenia."
+      },
+      {
+        "label": "Kontrast z 'had to' — jedyna para, która naprawdę rozstrzyga o wyniku",
+        "text": "'I had to call her' oznacza, że przymus zaistniał I zadanie zostało wykonane — 'have to' w czasie przeszłym implikuje wykonanie. 'I was supposed to call her' nie mówi o wykonaniu niczego, a przez mechanizm opisany wyżej sugeruje raczej brak wykonania. To najczystszy dostępny kontrast: ta sama przeszłość, ta sama treść, przeciwny wniosek o rzeczywistości. Ćwiczenie myślowe: 'We had to leave early' (wyszliśmy) kontra 'We were supposed to leave early' (raczej nie wyszliśmy albo wyszliśmy późno)."
+      },
+      {
+        "label": "Jak świadomie wyłączyć implikaturę",
+        "text": "Skoro to tylko implikatura, można ją skasować i doświadczeni użytkownicy robią to bez wahania: wystarczy dopowiedzieć potwierdzenie faktu ('...and I did', '...and it does', '...and he was, punctually'). Odwrotnie — chcąc ją wzmocnić do granic, sięga się po bezokolicznik dokonany ('You were supposed to have finished by now', podtemat 7) albo po jawne przeciwstawienie z 'but'. Sterowanie tą implikaturą, a nie znajomość budowy, jest tym, co odróżnia poziom B1 od C1 w tej konstrukcji."
+      }
     ],
     "usage": [
-      "Zakazy wynikające z zasad lub instrukcji (We're not supposed to use phones in class.)",
-      "Poufność i sekrety (You're not supposed to know that yet.)",
-      "Łagodniejszy, bardziej rozmowny odpowiednik 'mustn't'"
+      "Teraźniejszość: neutralna informacja o regule lub planie, sugestia niespełnienia słaba i zależna od kontekstu",
+      "Przeszłość (was/were supposed to): domyślnie odczytywana jako niespełnione zobowiązanie — używaj świadomie, bo brzmi jak wymówka lub zarzut",
+      "Test na implikaturę: dopowiedz '...and I did' — jeśli zdanie zostaje spójne, znaczy, że niespełnienie nie było częścią znaczenia",
+      "Kontrast rozstrzygający: had to = zrobione; was supposed to = nierozstrzygnięte, z przechyłem w stronę niezrobionego",
+      "W skardze i wymówce ta konstrukcja jest uprzejmiejsza niż oskarżenie wprost, bo formalnie mówi o oczekiwaniu, a nie o winie"
     ],
-    "tags": ["not supposed to tell", "not supposed to be here", "not supposed to know"],
+    "tags": [
+      "implikatura",
+      "odwoływalność",
+      "was supposed to",
+      "had to vs was supposed to",
+      "wymówka"
+    ],
     "examples": [
-      { "en": "We're not supposed to use our phones during the lecture.", "pl": "Nie wolno nam używać telefonów podczas wykładu." },
-      { "en": "You're not supposed to know that — it's a surprise.", "pl": "Nie powinieneś jeszcze o tym wiedzieć — to niespodzianka." },
-      { "en": "He's not supposed to be here without permission.", "pl": "Nie powinno go tu być bez pozwolenia." },
-      { "en": "I'm not supposed to tell anyone, but I trust you.", "pl": "Nie powinienem nikomu mówić, ale ci ufam." }
+      {
+        "en": "I was supposed to call her yesterday. (domyślnie: i nie zadzwoniłem)",
+        "pl": "Miałem do niej wczoraj zadzwonić."
+      },
+      {
+        "en": "The train is supposed to arrive at nine, and it always does. (implikatura skasowana — zdanie jest spójne)",
+        "pl": "Pociąg ma przyjeżdżać o dziewiątej i zawsze przyjeżdża."
+      },
+      {
+        "en": "We had to leave early, so we missed the fireworks. (wyszliśmy) — We were supposed to leave early, but we got talking. (nie wyszliśmy)",
+        "pl": "Musieliśmy wyjść wcześnie, więc ominęły nas fajerwerki. — Mieliśmy wyjść wcześnie, ale się zagadaliśmy."
+      },
+      {
+        "en": "This is supposed to be a quiet carriage. (wypowiedziane w hałasie — cała siła zdania leży w niewypowiedzianym 'a nie jest')",
+        "pl": "To ma być cichy wagon."
+      }
     ]
   },
   {
-    "id": "meant_to",
+    "id": "authority_split_vs_must_should",
     "order": 4,
-    "nameEn": "be meant to — purpose, destiny and reputation",
-    "namePl": "be meant to — przeznaczenie, cel i reputacja",
+    "nameEn": "Whose rule is it? — 'supposed to' against must, have to and should",
+    "namePl": "Czyja to reguła? 'Supposed to' wobec must, have to i should",
     "rules": [
-      { "label": "Budowa", "text": "am/is/are/was/were + meant to + bezokolicznik bez to (This gift is meant to cheer you up.)" },
-      { "label": "Znaczenie", "text": "Cel lub intencja (do czego coś ma służyć), przeznaczenie/los (że coś miało się wydarzyć), lub reputacja — podobnie do 'supposed to', ale z mocniejszym odcieniem przeznaczenia" }
+      {
+        "label": "Model myślowy: nie skala siły, lecz mapa źródeł władzy",
+        "text": "Uczy się zwykle, że must jest silne, should słabsze, a supposed to gdzieś pośrodku. To mylące, bo te wyrażenia nie leżą na jednej skali natężenia — różnią się tym, KTO STOI ZA NORMĄ i czy mówiący się z nią utożsamia. Must: autorytetem jest sam mówiący, norma płynie od niego (You must be home by ten — mówi rodzic). Have to: norma płynie z zewnątrz, z okoliczności lub przepisu, ale mówiący uznaje ją za wiążącą i po prostu relacjonuje przymus (I have to be at work by eight). Should: mówiący doradza we własnym imieniu, ale bez władzy (You should see a doctor). Be supposed to: norma płynie z zewnątrz i mówiący ją REFERUJE, nie deklarując, że ją popiera ani że zostanie spełniona."
+      },
+      {
+        "label": "Praktyczna konsekwencja: to jest naturalny sposób cytowania cudzych reguł z dystansem",
+        "text": "Skoro konstrukcja referuje normę zamiast ją nakładać, jest domyślnym narzędziem do przywoływania przepisów, które uważa się za absurdalne, uciążliwe albo po prostu nie swoje. 'We're supposed to fill in a form for every phone call' brzmi jak skarga na biurokrację; 'We have to fill in a form for every phone call' brzmi jak lojalne przekazanie obowiązku. Ta sama treść, przeciwne nastawienie mówiącego. Dlatego w rozmowie o pracy, szkole czy urzędzie 'supposed to' niesie mikroskopijny, ale wyraźnie czytelny ładunek ironii lub rezygnacji."
+      },
+      {
+        "label": "Przeczenie: 'not supposed to' znaczy w istocie 'supposed NOT to'",
+        "text": "Tu kryje się subtelność ważna na poziomie C1. Logicznie 'You are not supposed to smoke' powinno znaczyć 'nie istnieje oczekiwanie, żebyś palił' — czyli obojętność. A znaczy coś znacznie mocniejszego: 'istnieje oczekiwanie, żebyś NIE palił', czyli zakaz. Przeczenie przeskakuje z czasownika nadrzędnego do podrzędnego — to dokładnie ten sam mechanizm, który sprawia, że 'I don't think he's coming' znaczy 'I think he isn't coming' (patrz temat: przeniesione przeczenie). Nie jest to więc wyjątek do wykucia, tylko przejaw ogólnej skłonności angielskiego do przenoszenia przeczenia w górę."
+      },
+      {
+        "label": "'Not supposed to' kontra 'mustn't' — dlaczego to pierwsze zapowiada złamanie zakazu",
+        "text": "'Mustn't' to zakaz wydany autorytetem mówiącego, więc mówiący nie może go w tym samym oddechu podważyć. 'Not supposed to' relacjonuje cudzy zakaz, więc mówiący zostaje na zewnątrz i zachowuje swobodę. Właśnie dlatego 'I'm not supposed to tell you this, but...' jest utrwaloną formułą wprowadzającą wyznanie sekretu — sama konstrukcja gramatyczna przygotowuje słuchacza na to, że zakaz zaraz zostanie złamany, i jednocześnie zdejmuje z mówiącego część odpowiedzialności ('to nie moja zasada'). Zdanie '*I mustn't tell you this, but...' brzmiałoby wewnętrznie sprzecznie."
+      },
+      {
+        "label": "Drabina rejestru — od kuchni po ustawę",
+        "text": "Uporządkuj sobie wyrażenia obowiązku według rejestru, a nie siły: potocznie 'you're supposed to' i 'you're meant to'; neutralnie 'you should', 'you have to'; formalnie 'you are expected to', 'you are required to'; urzędowo i prawnie 'you shall', 'you are obliged to' (patrz temat: shall). Wybór między nimi to w praktyce wybór, jak bardzo mówiący chce być widoczny za normą — w tekście ustawy autor znika całkowicie, w rozmowie przy kawie chce być słyszalny jako ktoś, kto tę normę relacjonuje z przymrużeniem oka."
+      }
     ],
     "usage": [
-      "Cel/intencja przedmiotu lub działania (This app is meant to help you save money.)",
-      "Przeznaczenie, los, związek (They were meant to be together.)",
-      "Reputacja / ogólna opinia (This place is meant to be haunted.)"
+      "must = autorytet mówiącego; have to = zewnętrzny przymus uznany przez mówiącego; be supposed to = zewnętrzna norma referowana z dystansem; should = rada bez władzy",
+      "Wybieraj 'supposed to', gdy chcesz zaznaczyć, że to nie twoja reguła i że niekoniecznie jest przestrzegana",
+      "'Not supposed to' czytaj jako 'supposed not to' — to zakaz, nie brak oczekiwania (przeniesione przeczenie)",
+      "'I'm not supposed to..., but...' to utrwalona formuła zapowiadająca świadome złamanie cudzej zasady",
+      "W tekście formalnym i prawnym zastąp konstrukcję przez is required to / is expected to / shall"
     ],
-    "tags": ["meant to be", "meant to happen", "meant for each other", "meant to help"],
+    "tags": [
+      "źródło autorytetu",
+      "must vs have to",
+      "not supposed to",
+      "przeniesione przeczenie",
+      "rejestr"
+    ],
     "examples": [
-      { "en": "This gift is meant to cheer you up.", "pl": "Ten prezent ma cię pocieszyć." },
-      { "en": "I think we were meant to meet.", "pl": "Myślę, że było nam pisane się spotkać." },
-      { "en": "This old house is meant to be haunted.", "pl": "Ten stary dom podobno straszy." },
-      { "en": "The new policy is meant to reduce waste.", "pl": "Nowa polityka ma na celu ograniczenie marnotrawstwa." }
+      {
+        "en": "We're supposed to log every phone call. (skarga: cudza, uciążliwa reguła) — We have to log every phone call. (lojalne przekazanie obowiązku)",
+        "pl": "Mamy odnotowywać każdą rozmowę telefoniczną. — Musimy odnotowywać każdą rozmowę telefoniczną."
+      },
+      {
+        "en": "I'm not supposed to tell you this, but they've already chosen a candidate.",
+        "pl": "Nie powinienem ci tego mówić, ale już wybrali kandydata."
+      },
+      {
+        "en": "You're not supposed to park here. (= oczekuje się, że NIE zaparkujesz — przeczenie przeskoczyło do podrzędnego)",
+        "pl": "Tutaj nie wolno parkować."
+      },
+      {
+        "en": "Visitors are required to sign in at reception. (regulamin) — You're supposed to sign in, apparently. (referowanie regulaminu z dystansem)",
+        "pl": "Odwiedzający są zobowiązani wpisać się w recepcji. — Podobno trzeba się wpisać."
+      }
     ]
   },
   {
-    "id": "supposed_meant_vs_modals",
+    "id": "hearsay_reputation_reading",
     "order": 5,
-    "nameEn": "supposed to / meant to vs should / have to / must",
-    "namePl": "supposed to / meant to a should / have to / must — różnice",
+    "nameEn": "The reputation reading — the Latin sense that never died",
+    "namePl": "Odczyt reputacyjny: łacińskie znaczenie, które nigdy nie umarło",
     "rules": [
-      { "label": "should", "text": "Osobista rada lub opinia mówiącego o tym, co jest słuszne (You should apologize.)" },
-      { "label": "have to / must", "text": "Rzeczywista konieczność — obiektywny obowiązek lub przymus (You have to show your passport.)" },
-      { "label": "supposed to / meant to", "text": "Oczekiwanie oparte na zewnętrznej zasadzie, umowie lub cudzej opinii — nie opinia samego mówiącego, i nie zawsze faktycznie egzekwowane" }
+      {
+        "label": "Drugie życie pierwotnego 'przyjmować założenie'",
+        "text": "Obok młodszego znaczenia obowiązku konstrukcja zachowała swoje pierwotne, łacińskie: 'ktoś tak zakłada / tak się o tym mówi'. 'This restaurant is supposed to be excellent' nie nakłada na restaurację żadnego obowiązku — relacjonuje cudzą opinię, dokładnie jak 'is said to be' czy 'is reputed to be'. To nie jest osobne, przypadkowe znaczenie doklejone do konstrukcji; to znaczenie STARSZE, z którego dopiero wyrósł obowiązek, kiedy 'zakładać, że ktoś coś zrobi' przesunęło się w 'wymagać, żeby ktoś coś zrobił'."
+      },
+      {
+        "label": "Co rozstrzyga, które znaczenie usłyszy odbiorca: kontrolowalność czynności",
+        "text": "Nikt nie może być zobowiązany do bycia doskonałym, wysokim ani znakomitym — obowiązek wymaga czynności, którą podmiot potrafi WYKONAĆ na żądanie. Dlatego gdy po 'supposed to' pojawia się czynność kontrolowalna (wear, submit, arrive, sign), słyszymy obowiązek, a gdy pojawia się właściwość poza kontrolą podmiotu (be excellent, be dangerous, contain arsenic), słyszymy pogłoskę. To jedna zasada semantyczna, a nie dwie listy do zapamiętania. Uwaga na częste uproszczenie: nie chodzi o to, czy czasownik jest stanowy, lecz o kontrolowalność. 'You're supposed to be at the office by nine' zawiera 'be', a jest czystym obowiązkiem, bo znalezienie się gdzieś o danej porze jak najbardziej zależy od podmiotu."
+      },
+      {
+        "label": "Test składniowy, który potwierdza rozdwojenie: fraza z 'by'",
+        "text": "Skoro odczyt reputacyjny to wciąż żywa strona bierna, powinien dopuszczać dopisanie sprawcy — i dopuszcza: 'He is supposed by most critics to be the finest cellist of his generation' brzmi naturalnie, choć formalnie. Spróbuj tego samego z obowiązkiem: '*You are supposed by the school to wear a tie' jest niegramatyczne, trzeba powiedzieć 'You are required by the school to wear a tie'. Ten kontrast to twardy dowód, że w jednym ciągu liter mieszkają dziś dwie różne konstrukcje: starsza, wciąż żywa bierna, i młodsza, zrośnięta w quasi-modalną."
+      },
+      {
+        "label": "Drugi dowód: przysłówek 'supposedly' odziedziczył tylko jedną gałąź",
+        "text": "Przysłówek 'supposedly' znaczy wyłącznie 'podobno, rzekomo' — nigdy 'zgodnie z obowiązkiem'. 'He supposedly left at midnight' to pogłoska; nie da się nim wyrazić reguły. Gdyby oba znaczenia były równie stare i równie mocno osadzone w samym słowie, przysłówek odziedziczyłby oba. To, że wziął tylko odczyt reputacyjny, pokazuje, że obowiązek nie mieszka w słowie 'supposed', lecz w całej KONSTRUKCJI 'be supposed to' — jest zjawiskiem młodym i związanym ze składnią, a nie ze znaczeniem samego imiesłowu. Rejestrowe rodzeństwo 'supposedly' to allegedly, purportedly, ostensibly, reportedly."
+      },
+      {
+        "label": "Pole minowe: zdania, w których oba odczyty są żywe naraz",
+        "text": "'You're supposed to be clever' może znaczyć 'uchodzisz za bystrego' (reputacja) albo, wypowiedziane po czyjejś głupocie, 'miałeś być bystry — i co?' (zarzut z sarkazmem). Dwuznaczność bierze się stąd, że inteligencja jest cechą niekontrolowalną (a więc reputacja), ale w kontekście oceny roli staje się oczekiwaniem do spełnienia (a więc obowiązek). Angielszczyzna potoczna świadomie tę dwuznaczność wykorzystuje w docinkach: 'This is supposed to be a bank, not a circus'. Sygnałem odczytu sarkastycznego jest zwykle akcent zdaniowy na 'supposed' oraz kontekst rozczarowania."
+      }
     ],
     "usage": [
-      "Gdy mówimy o czyimś ustaleniu lub zasadzie, a nie własnej opinii → supposed to/meant to, nie should",
-      "Gdy chodzi o realny przymus → have to/must, nie supposed to",
-      "supposed to często sugeruje rozdźwięk między zasadą a rzeczywistością, czego should/have to nie sugerują"
+      "Czynność kontrolowalna po 'to' → odczyt obowiązku; właściwość poza kontrolą podmiotu → odczyt pogłoski i reputacji",
+      "Fraza 'by + sprawca' możliwa tylko w odczycie reputacyjnym (is supposed by many to be...), nigdy w obowiązku",
+      "'Supposedly' = podobno, rzekomo — nigdy 'zgodnie z zasadą'; rodzeństwo rejestrowe: allegedly, purportedly, ostensibly",
+      "Rodzina znaczeniowa odczytu reputacyjnego: is said to be, is believed to be, is reputed to be, is rumoured to be (patrz temat: bierne struktury sprawozdawcze)",
+      "Sarkazm powstaje na styku obu odczytów — 'This is supposed to be a serious newspaper' mówi 'a nie jest'"
     ],
-    "tags": ["should vs supposed to", "have to vs supposed to", "must vs meant to"],
+    "tags": [
+      "odczyt reputacyjny",
+      "kontrolowalność",
+      "test z 'by'",
+      "supposedly",
+      "is said to be"
+    ],
     "examples": [
-      { "en": "You should exercise more. (my opinion)", "pl": "Powinieneś więcej ćwiczyć. (moja opinia)" },
-      { "en": "You're supposed to hand in the form by Friday. (that's the rule)", "pl": "Masz oddać formularz do piątku. (taka jest zasada)" },
-      { "en": "You have to pay the fine, or they'll take you to court. (real necessity)", "pl": "Musisz zapłacić grzywnę, inaczej pozwą cię do sądu. (realna konieczność)" },
-      { "en": "The meeting is supposed to start at ten, but it never does.", "pl": "Spotkanie ma się zaczynać o dziesiątej, ale nigdy się tak nie dzieje." }
+      {
+        "en": "This restaurant is supposed to be excellent. (= podobno; nie da się nałożyć na restaurację obowiązku bycia znakomitą)",
+        "pl": "Ta restauracja podobno jest znakomita."
+      },
+      {
+        "en": "He is supposed by most critics to be the finest cellist of his generation. (fraza 'by' — więc odczyt reputacyjny)",
+        "pl": "Większość krytyków uważa go za najlepszego wiolonczelistę swojego pokolenia."
+      },
+      {
+        "en": "You're supposed to be at the office by nine. (czasownik 'be', a mimo to czysty obowiązek — bo bycie gdzieś o danej porze jest kontrolowalne)",
+        "pl": "Masz być w biurze przed dziewiątą."
+      },
+      {
+        "en": "This is supposed to be a serious newspaper. (sarkazm: oba odczyty naraz — reputacja i zawiedzione oczekiwanie)",
+        "pl": "To niby ma być poważna gazeta."
+      }
     ]
   },
   {
-    "id": "supposed_to_questions",
+    "id": "meant_to_intention_destiny",
     "order": 6,
-    "nameEn": "be supposed to in questions",
-    "namePl": "be supposed to w pytaniach",
+    "nameEn": "'Be meant to' — purpose, destiny and the British hearsay",
+    "namePl": "'Be meant to': cel, przeznaczenie i brytyjska pogłoska",
     "rules": [
-      { "label": "Budowa", "text": "Am/Is/Are + podmiot + supposed to + bezokolicznik...? (Am I supposed to sign here?)" },
-      { "label": "Użycie retoryczne", "text": "Pytania z wh- + supposed to często wyrażają bezradność, irytację lub oburzenie, nie proszą o dosłowną informację (What am I supposed to do now?)" }
+      {
+        "label": "Jeden rdzeń, trzy gałęzie — i wszystkie wyrastają z 'intencji'",
+        "text": "Ponieważ 'mean' znaczy ZAMIERZAĆ, konstrukcja 'be meant to' zawsze zostawia w tle kogoś, kto miał zamiar. Kim on jest, decyduje o tym, którą z trzech gałęzi znaczeniowych usłyszymy. (1) Gdy zamiar należy do projektanta lub autora, mamy CEL I PRZEZNACZENIE PRZEDMIOTU: 'The valve is meant to release pressure automatically'. (2) Gdy zamiar należy do bliżej nieokreślonej siły wyższej, mamy PRZEZNACZENIE LOSOWE: 'We were meant to meet that day'. (3) Gdy zamiar rozmywa się w oczekiwaniach otoczenia, mamy OBOWIĄZEK, praktycznie równy 'supposed to': 'You're meant to sign at the bottom'."
+      },
+      {
+        "label": "Dlaczego tylko 'meant' potrafi wyrazić przeznaczenie, a 'supposed' nigdy",
+        "text": "To najpiękniejsza konsekwencja etymologii w całym temacie. 'Suppose' znaczy PRZYJĄĆ ZAŁOŻENIE — a założenie musi ktoś świadomie sformułować jako sąd, więc nie da się go przypisać losowi, przypadkowi ani wszechświatowi. 'Mean' znaczy ZAMIERZAĆ — a intencję kultura bez trudu przypisuje siłom bezosobowym, bo mówimy przecież o 'zrządzeniu losu' czy o tym, że coś 'miało się stać'. Dlatego 'It was meant to be' to utrwalony zwrot o przeznaczeniu, a '*It was supposed to be' w tym samym sensie nie działa — powie tylko, że ktoś tak planował lub zakładał. Semantyka rdzenia sprzed tysiąca lat wciąż wyznacza granice tego, co konstrukcja potrafi wyrazić."
+      },
+      {
+        "label": "Zamrożona rodzina idiomów przeznaczenia",
+        "text": "Gałąź losowa zastygła w zestaw utartych zwrotów, które warto znać jako całości: 'it was meant to be' (tak miało być), 'it just wasn't meant to be' (nie było nam to pisane — typowa formuła pocieszenia po rozstaniu lub porażce), 'they were meant for each other' (byli sobie pisani), 'I was meant to find this' (to nie przypadek, że to znalazłem). Charakterystyczne, że w tych zwrotach bezokolicznik często w ogóle nie występuje ('meant to be' bez dopełnienia) — kolejny znak, że mamy do czynienia z jednostką leksykalną, a nie z otwartą konstrukcją gramatyczną."
+      },
+      {
+        "label": "Podział brytyjsko-amerykański w odczycie pogłoski",
+        "text": "W znaczeniu pogłoski i reputacji obie odmiany angielskiego rozeszły się wyraźnie. Brytyjczyk powie 'It's meant to be a really good film', Amerykanin w tym samym miejscu użyje 'It's supposed to be a really good film'. Amerykańskie ucho odbiera 'meant to' w sensie pogłoski jako wyraźnie brytyjskie. Za to w znaczeniu obowiązku obie odmiany posługują się głównie 'supposed to', a brytyjskie 'you're meant to' jest tam wariantem potocznym, nieco lżejszym. To typowy przykład rozejścia się dwóch norm bez żadnej różnicy w systemie gramatycznym (patrz temat: brytyjski vs amerykański angielski)."
+      },
+      {
+        "label": "Formalne rodzeństwo: intended, designed, expected",
+        "text": "W tekście technicznym i urzędowym gałąź celowa ma nieskorodowane odpowiedniki: 'is intended to' (podkreśla zamiar twórcy), 'is designed to' (podkreśla świadomą konstrukcję), 'is aimed at + rzeczownik odczasownikowy', 'serves to'. Zdanie 'The policy is meant to reduce congestion' w raporcie zabrzmi jako 'The policy is intended to reduce congestion'. Warto zauważyć, że wersja z 'meant' wpuszcza cień wątpliwości, czy zamiar został osiągnięty — dokładnie ta sama implikatura co w podtemacie 3 — podczas gdy 'is designed to' brzmi neutralnie i technicznie."
+      }
     ],
     "usage": [
-      "Dosłowne pytanie o zasadę lub ustalenie (Where am I supposed to park?)",
-      "Retoryczne wyrażenie bezradności lub sprzeciwu (How am I supposed to know?! What was I supposed to say?)"
+      "Cel i funkcja przedmiotu: The button is meant to reset the device (zamiar konstruktora)",
+      "Przeznaczenie i los: It wasn't meant to be / They were meant for each other — gałąź niedostępna dla 'supposed to'",
+      "Obowiązek: You're meant to wait for the beep — możliwe, ale wyraźnie brytyjskie i potoczne",
+      "Pogłoska: It's meant to be excellent (BrE) = It's supposed to be excellent (AmE i BrE)",
+      "Odpowiedniki formalne gałęzi celowej: is intended to, is designed to, serves to, is aimed at"
     ],
-    "tags": ["am I supposed to", "what am I supposed to do", "how am I supposed to know"],
+    "tags": [
+      "be meant to",
+      "meant to be",
+      "przeznaczenie",
+      "is intended to",
+      "BrE vs AmE"
+    ],
     "examples": [
-      { "en": "Where am I supposed to park my car?", "pl": "Gdzie mam zaparkować samochód?" },
-      { "en": "What am I supposed to do now?!", "pl": "I co ja mam teraz zrobić?!" },
-      { "en": "How was I supposed to know you'd be late?", "pl": "Skąd miałem wiedzieć, że się spóźnisz?" },
-      { "en": "Are we supposed to bring our own laptops?", "pl": "Czy mamy przynieść własne laptopy?" }
+      {
+        "en": "The valve is meant to release pressure automatically. (zamiar konstruktora)",
+        "pl": "Zawór ma automatycznie zwalniać ciśnienie."
+      },
+      {
+        "en": "It just wasn't meant to be. (przeznaczenie — 'supposed' nie da tu tego znaczenia)",
+        "pl": "Po prostu nie było nam to pisane."
+      },
+      {
+        "en": "It's meant to be freezing this weekend, apparently. (BrE, pogłoska — Amerykanin powiedziałby 'supposed to be')",
+        "pl": "Podobno w ten weekend ma być koszmarnie zimno."
+      },
+      {
+        "en": "The subsidy is intended to support small farms. (rejestr urzędowy zamiast 'is meant to')",
+        "pl": "Dotacja ma wspierać małe gospodarstwa."
+      }
+    ]
+  },
+  {
+    "id": "advanced_edge_cases",
+    "order": 7,
+    "nameEn": "C1–C2 edge cases — perfect infinitives, defective forms and the academic full circle",
+    "namePl": "Przypadki brzegowe C1–C2: bezokolicznik dokonany, formy ułomne i akademickie zatoczenie koła",
+    "rules": [
+      {
+        "label": "Bezokolicznik dokonany: 'were supposed to have finished' kontra 'were supposed to finish'",
+        "text": "Obie formy istnieją i różnią się precyzyjnie. 'You were supposed to finish by Friday' umieszcza oczekiwane działanie po prostu w przeszłości i pozostawia jego wynik nierozstrzygniętym (choć, jak wiemy z podtematu 3, sugeruje niepowodzenie). 'You were supposed to have finished by now' dokłada BEZOKOLICZNIK DOKONANY, który umieszcza zakończenie zadania PRZED punktem odniesienia — a punktem odniesienia jest tu 'now'. Skoro więc mówiący patrzy na teraźniejszość i stwierdza, że zakończenie miało być już za nami, brak zakończenia jest widoczny gołym okiem. Dlatego ta wersja praktycznie przestaje być sugestią, a staje się jawnym stwierdzeniem niedotrzymania terminu. To ta sama logika, która działa w 'should have done' (patrz temat: przypuszczenia o przeszłości)."
+      },
+      {
+        "label": "Paradygmat ułomny — i to dwojako ułomny",
+        "text": "Konstrukcja w znaczeniu OBOWIĄZKU niemal nie występuje w formach nieosobowych: 'to be supposed to arrive on time' brzmi sztucznie, 'having been supposed to arrive' jest praktycznie nieużywane, a 'He will be supposed to sign it' rodzimy użytkownik zastąpi przez 'He will be expected to sign it'. Tymczasem w znaczeniu REPUTACYJNYM te same formy są zupełnie w porządku: 'to be supposed to be the best in the field' nie razi. Mamy więc jeden ciąg liter i dwa różne paradygmaty — kolejny dowód rozdwojenia opisanego w podtemacie 5. Praktyczna rada: gdy potrzebujesz obowiązku w formie nieosobowej albo w przyszłości, sięgnij po 'be expected to' lub 'be required to'."
+      },
+      {
+        "label": "'What's that supposed to mean?' — pożyczka znaczeniowa od 'mean'",
+        "text": "W tej utrwalonej, konfrontacyjnej formule 'supposed' nie znaczy ani obowiązku, ani pogłoski, lecz 'zamierzony' — czyli przejmuje pole znaczeniowe czasownika 'mean'. Pytanie znaczy: 'co ty chciałeś przez to powiedzieć?' i jest z reguły odbierane jako zaczepka. Do tej samej rodziny należy oburzone pytanie retoryczne 'Am I supposed to just sit here and watch?' oraz 'What am I supposed to do about it?' — w obu wypadkach mówiący nie pyta o żadną regułę, lecz wyraża bezradność albo irytację (patrz temat: pytania retoryczne). To wyspecjalizowane, idiomatyczne użycia, których nie da się wyprowadzić z reguł ogólnych — trzeba je znać jako całości."
+      },
+      {
+        "label": "Akademickie zatoczenie koła: powrót do 'suppositio'",
+        "text": "W prozie naukowej i filozoficznej 'is supposed to' odzyskuje swoje pierwotne, łacińskie znaczenie 'jest zakładane': 'In this model, demand is supposed to be perfectly elastic'. Nie ma tu ani obowiązku, ani plotki — jest przyjęcie przesłanki, dokładnie jak w scholastycznej 'suppositio' z podtematu 1. Uwaga na pułapkę dla uczącego się: to użycie występuje obok rzeczowników 'assumption' i 'presupposition' i bywa mylone z odczytem reputacyjnym. Rozstrzyga kontekst — jeśli zdanie opisuje konstrukcję teorii, a nie cudze opinie, mamy sens 'zakładamy, że'. Osobno warto pamiętać o pokrewnym spójniku 'supposing (that)', który wprowadza hipotezę na równi z 'if' i łączy się z nierealną przeszłością (patrz temat: nierealna przeszłość)."
+      },
+      {
+        "label": "Krótka lista pułapek, które łapią nawet zaawansowanych",
+        "text": "Po pierwsze, ortografia: zawsze 'supposed to' i 'meant to', nigdy 'suppose to' ani 'mean to' — mimo że ucho nie słyszy tam żadnego -d. Po drugie, brak formy ciągłej: '*I'm being supposed to' nie istnieje, bo 'supposed' zachowuje się jak przymiotnik. Po trzecie, przy podmiocie nieożywionym łatwo o kalkę z polskiego: 'Ta funkcja ma działać offline' to 'This feature is supposed to work offline', a nie '*This feature has to work offline' — polskie 'ma' pokrywa oba znaczenia, angielskie nie. Po czwarte, w pytaniach o zasadę operatorem jest 'be': 'Was I supposed to bring anything?', nigdy '*Did I suppose to bring anything?'."
+      }
+    ],
+    "usage": [
+      "was/were supposed to + bezokolicznik dokonany = jawne stwierdzenie niedotrzymania terminu, zwłaszcza z 'by now'",
+      "Obowiązek w formie nieosobowej lub w przyszłości: zastąp przez be expected to / be required to",
+      "'What's that supposed to mean?' i 'What am I supposed to do?' to idiomy konfrontacji i bezradności, nie pytania o regułę",
+      "W prozie naukowej 'is supposed to' często znaczy po prostu 'jest zakładane' — sens odziedziczony wprost z łaciny",
+      "Nigdy: '*I'm being supposed to', '*Did I suppose to', '*suppose to' w piśmie"
+    ],
+    "tags": [
+      "bezokolicznik dokonany",
+      "paradygmat ułomny",
+      "What's that supposed to mean",
+      "supposing that",
+      "rejestr akademicki"
+    ],
+    "examples": [
+      {
+        "en": "You were supposed to have handed this in by now. (bezokolicznik dokonany — termin jawnie minął i nic nie oddano)",
+        "pl": "To miało już dawno być oddane."
+      },
+      {
+        "en": "Everyone will be expected to contribute. (nie '*will be supposed to' — obowiązek w przyszłości bierze inną peryfrazę)",
+        "pl": "Od każdego będzie się oczekiwać wkładu."
+      },
+      {
+        "en": "And what exactly is that supposed to mean? ('supposed' = zamierzony; ton konfrontacyjny)",
+        "pl": "I co dokładnie miało to znaczyć?"
+      },
+      {
+        "en": "In the classical model, information is supposed to be freely available to all participants. (sens akademicki: zakładamy, że...)",
+        "pl": "W modelu klasycznym zakłada się, że informacja jest swobodnie dostępna dla wszystkich uczestników."
+      }
     ]
   }
 ]
