@@ -1,45 +1,296 @@
 [
-  {"id": 1, "itemId": "so", "prompt": "This exercise is ___ difficult that nobody could finish it.", "answer": "so", "distractors": ["such", "too", "enough"]},
-  {"id": 2, "itemId": "so", "prompt": "She was ___ tired that she fell asleep on the sofa.", "answer": "so", "distractors": ["such", "too", "enough"]},
-  {"id": 3, "itemId": "so", "prompt": "He speaks ___ quickly that I can't understand him.", "answer": "so", "distractors": ["such", "too", "enough"]},
-  {"id": 4, "itemId": "so", "prompt": "There were ___ many people at the concert that we couldn't find seats.", "answer": "so", "distractors": ["such", "too", "enough"]},
-  {"id": 5, "itemId": "so", "prompt": "I have ___ much work to do this week.", "answer": "so", "distractors": ["such", "too", "enough"]},
-  {"id": 6, "itemId": "so", "prompt": "It was ___ hot outside that we stayed indoors all day.", "answer": "so", "distractors": ["such", "too", "enough"]},
-  {"id": 7, "itemId": "so", "prompt": "She sings ___ beautifully that everyone stops to listen.", "answer": "so", "distractors": ["such", "too", "enough"]},
-  {"id": 8, "itemId": "so", "prompt": "There is ___ much noise in here that I can't concentrate.", "answer": "so", "distractors": ["such", "too", "enough"]},
-  {"id": 9, "itemId": "so", "prompt": "He was ___ nervous that his hands were shaking.", "answer": "so", "distractors": ["such", "too", "enough"]},
-  {"id": 10, "itemId": "so", "prompt": "We have ___ many things to do before the trip.", "answer": "so", "distractors": ["such", "too", "enough"]},
-
-  {"id": 11, "itemId": "such", "prompt": "It was ___ a good film that we watched it twice.", "answer": "such", "distractors": ["so", "too", "enough"]},
-  {"id": 12, "itemId": "such", "prompt": "They are ___ good friends that they never argue.", "answer": "such", "distractors": ["so", "too", "enough"]},
-  {"id": 13, "itemId": "such", "prompt": "We had ___ nice weather on holiday that we didn't want to leave.", "answer": "such", "distractors": ["so", "too", "enough"]},
-  {"id": 14, "itemId": "such", "prompt": "It was ___ an interesting book that I finished it in one day.", "answer": "such", "distractors": ["so", "too", "enough"]},
-  {"id": 15, "itemId": "such", "prompt": "He is ___ a talented musician.", "answer": "such", "distractors": ["so", "too", "enough"]},
-  {"id": 16, "itemId": "such", "prompt": "This is ___ a beautiful city.", "answer": "such", "distractors": ["so", "too", "enough"]},
-  {"id": 17, "itemId": "such", "prompt": "She gave ___ a boring speech that half the audience fell asleep.", "answer": "such", "distractors": ["so", "too", "enough"]},
-  {"id": 18, "itemId": "such", "prompt": "They live in ___ a small flat that they can barely fit a sofa in.", "answer": "such", "distractors": ["so", "too", "enough"]},
-  {"id": 19, "itemId": "such", "prompt": "It was ___ bad weather that the match was cancelled.", "answer": "such", "distractors": ["so", "too", "enough"]},
-  {"id": 20, "itemId": "such", "prompt": "He made ___ a mess in the kitchen.", "answer": "such", "distractors": ["so", "too", "enough"]},
-
-  {"id": 21, "itemId": "too", "prompt": "This coffee is ___ hot to drink right now.", "answer": "too", "distractors": ["so", "such", "enough"]},
-  {"id": 22, "itemId": "too", "prompt": "The shoes were ___ expensive for me to buy.", "answer": "too", "distractors": ["so", "such", "enough"]},
-  {"id": 23, "itemId": "too", "prompt": "There is ___ much salt in this soup.", "answer": "too", "distractors": ["so", "such", "enough"]},
-  {"id": 24, "itemId": "too", "prompt": "We arrived ___ late to catch the train.", "answer": "too", "distractors": ["so", "such", "enough"]},
-  {"id": 25, "itemId": "too", "prompt": "This box is ___ heavy for me to carry alone.", "answer": "too", "distractors": ["so", "such", "enough"]},
-  {"id": 26, "itemId": "too", "prompt": "It's ___ cold to go swimming today.", "answer": "too", "distractors": ["so", "such", "enough"]},
-  {"id": 27, "itemId": "too", "prompt": "There were ___ many mistakes in his essay.", "answer": "too", "distractors": ["so", "such", "enough"]},
-  {"id": 28, "itemId": "too", "prompt": "She was ___ tired to finish the marathon.", "answer": "too", "distractors": ["so", "such", "enough"]},
-  {"id": 29, "itemId": "too", "prompt": "This puzzle is ___ difficult for young children.", "answer": "too", "distractors": ["so", "such", "enough"]},
-  {"id": 30, "itemId": "too", "prompt": "He drives ___ fast on this narrow road.", "answer": "too", "distractors": ["so", "such", "enough"]},
-
-  {"id": 31, "itemId": "enough", "prompt": "She isn't old ___ to drive a car.", "answer": "enough", "distractors": ["so", "such", "too"]},
-  {"id": 32, "itemId": "enough", "prompt": "We don't have ___ time to finish this today.", "answer": "enough", "distractors": ["so", "such", "too"]},
-  {"id": 33, "itemId": "enough", "prompt": "Is this box big ___ for all the books?", "answer": "enough", "distractors": ["so", "such", "too"]},
-  {"id": 34, "itemId": "enough", "prompt": "He didn't study ___ for the exam.", "answer": "enough", "distractors": ["so", "such", "too"]},
-  {"id": 35, "itemId": "enough", "prompt": "Do you have ___ money to buy the tickets?", "answer": "enough", "distractors": ["so", "such", "too"]},
-  {"id": 36, "itemId": "enough", "prompt": "I'm not tall ___ to reach the top shelf.", "answer": "enough", "distractors": ["so", "such", "too"]},
-  {"id": 37, "itemId": "enough", "prompt": "There isn't ___ room for everyone in this car.", "answer": "enough", "distractors": ["so", "such", "too"]},
-  {"id": 38, "itemId": "enough", "prompt": "She doesn't practise ___ to improve quickly.", "answer": "enough", "distractors": ["so", "such", "too"]},
-  {"id": 39, "itemId": "enough", "prompt": "Is the water warm ___ to swim in?", "answer": "enough", "distractors": ["so", "such", "too"]},
-  {"id": 40, "itemId": "enough", "prompt": "We didn't have ___ chairs for all the guests.", "answer": "enough", "distractors": ["so", "such", "too"]}
+  {
+    "id": 1,
+    "itemId": "degree_words_overview",
+    "prompt": "The plan was ___ ambitious that even its own authors doubted it would work.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 2,
+    "itemId": "degree_words_overview",
+    "prompt": "It was ___ a disaster that the CEO resigned the same week.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 3,
+    "itemId": "degree_words_overview",
+    "prompt": "The ice on the pond looked ___ thin to skate on safely.",
+    "answer": "too",
+    "distractors": ["so", "such", "enough"]
+  },
+  {
+    "id": 4,
+    "itemId": "degree_words_overview",
+    "prompt": "Is the paint dry ___ to add a second coat yet?",
+    "answer": "enough",
+    "distractors": ["so", "such", "too"]
+  },
+  {
+    "id": 5,
+    "itemId": "degree_words_overview",
+    "prompt": "He was ___ startled by the noise that he dropped his phone.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 6,
+    "itemId": "degree_words_overview",
+    "prompt": "There was ___ traffic on the motorway that we arrived an hour late.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 7,
+    "itemId": "so",
+    "prompt": "The lecture was ___ dull that half the students had left before the end.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 8,
+    "itemId": "so",
+    "prompt": "She left the office ___ quietly that nobody at reception even noticed.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 9,
+    "itemId": "so",
+    "prompt": "There's ___ much paperwork involved that most applicants give up halfway through.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 10,
+    "itemId": "so",
+    "prompt": "He arrived twenty minutes early ___ as to get a seat near the front.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 11,
+    "itemId": "so",
+    "prompt": "Please speak into the microphone ___ that people at the back can actually hear you.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 12,
+    "itemId": "so",
+    "prompt": "It's not ___ much a rule as an unwritten expectation everyone follows anyway.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 13,
+    "itemId": "so",
+    "prompt": "We've had ___ many complaints about the new layout that management is reconsidering it.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 14,
+    "itemId": "so",
+    "prompt": "The exam was ___ hard that not a single student finished within the time limit.",
+    "answer": "so",
+    "distractors": ["such", "too", "enough"]
+  },
+  {
+    "id": 15,
+    "itemId": "such",
+    "prompt": "I've never met ___ a stubborn negotiator in twenty years of doing this job.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 16,
+    "itemId": "such",
+    "prompt": "The city has ___ efficient public transport that few residents bother owning a car.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 17,
+    "itemId": "such",
+    "prompt": "There's no ___ thing as a completely risk-free investment, whatever your broker tells you.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 18,
+    "itemId": "such",
+    "prompt": "Ingredients ___ as saffron and truffle explain most of the dish's price tag.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 19,
+    "itemId": "such",
+    "prompt": "The public backlash was ___ that the company pulled the advert within a day.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 20,
+    "itemId": "such",
+    "prompt": "It was ___ a generous offer that we accepted before he could change his mind.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 21,
+    "itemId": "such",
+    "prompt": "___ decisions require approval from the whole board, not just one director.",
+    "answer": "Such",
+    "distractors": ["So", "Too", "Enough"]
+  },
+  {
+    "id": 22,
+    "itemId": "such",
+    "prompt": "He gave ___ evasive answers during the interview that the panel simply gave up.",
+    "answer": "such",
+    "distractors": ["so", "too", "enough"]
+  },
+  {
+    "id": 23,
+    "itemId": "too",
+    "prompt": "The wording of the contract is ___ vague to be enforceable in court.",
+    "answer": "too",
+    "distractors": ["so", "such", "enough"]
+  },
+  {
+    "id": 24,
+    "itemId": "too",
+    "prompt": "There were ___ many cooks involved in the recipe, and the dish suffered for it.",
+    "answer": "too",
+    "distractors": ["so", "such", "enough"]
+  },
+  {
+    "id": 25,
+    "itemId": "too",
+    "prompt": "I'd be only ___ happy to lend you the projector for the weekend.",
+    "answer": "too",
+    "distractors": ["so", "such", "enough"]
+  },
+  {
+    "id": 26,
+    "itemId": "too",
+    "prompt": "When you're signing a mortgage, you can't read the small print ___ carefully.",
+    "answer": "too",
+    "distractors": ["so", "such", "enough"]
+  },
+  {
+    "id": 27,
+    "itemId": "too",
+    "prompt": "He apologised eventually, but frankly it was ___ little, too late.",
+    "answer": "too",
+    "distractors": ["so", "such", "enough"]
+  },
+  {
+    "id": 28,
+    "itemId": "too",
+    "prompt": "The font on the departure board is ___ small to read from the back of the hall.",
+    "answer": "too",
+    "distractors": ["so", "such", "enough"]
+  },
+  {
+    "id": 29,
+    "itemId": "too",
+    "prompt": "This spreadsheet is ___ complicated for a new intern to manage on their first week.",
+    "answer": "too",
+    "distractors": ["so", "such", "enough"]
+  },
+  {
+    "id": 30,
+    "itemId": "too",
+    "prompt": "She'll come along ___, if that's all right with everyone.",
+    "answer": "too",
+    "distractors": ["so", "such", "enough"]
+  },
+  {
+    "id": 31,
+    "itemId": "too",
+    "prompt": "There's simply ___ much red tape for a one-person business to handle without help.",
+    "answer": "too",
+    "distractors": ["so", "such", "enough"]
+  },
+  {
+    "id": 32,
+    "itemId": "too",
+    "prompt": "We'd be only ___ willing to cover the extra shift if it comes to that.",
+    "answer": "too",
+    "distractors": ["so", "such", "enough"]
+  },
+  {
+    "id": 33,
+    "itemId": "enough",
+    "prompt": "The bridge isn't wide ___ for two lorries to pass side by side.",
+    "answer": "enough",
+    "distractors": ["so", "such", "too"]
+  },
+  {
+    "id": 34,
+    "itemId": "enough",
+    "prompt": "We simply don't have ___ volunteers to cover every shift this weekend.",
+    "answer": "enough",
+    "distractors": ["so", "such", "too"]
+  },
+  {
+    "id": 35,
+    "itemId": "enough",
+    "prompt": "I've had ___ of these last-minute schedule changes — can we agree on a plan and stick to it?",
+    "answer": "enough",
+    "distractors": ["so", "such", "too"]
+  },
+  {
+    "id": 36,
+    "itemId": "enough",
+    "prompt": "The evidence simply wasn't strong ___ to secure a conviction.",
+    "answer": "enough",
+    "distractors": ["so", "such", "too"]
+  },
+  {
+    "id": 37,
+    "itemId": "enough",
+    "prompt": "Funnily ___, the delay actually worked out in our favour in the end.",
+    "answer": "enough",
+    "distractors": ["so", "such", "too"]
+  },
+  {
+    "id": 38,
+    "itemId": "enough",
+    "prompt": "\"___,\" she said quietly, and the whole room fell silent.",
+    "answer": "Enough",
+    "distractors": ["So", "Such", "Too"]
+  },
+  {
+    "id": 39,
+    "itemId": "enough",
+    "prompt": "Is she old ___ to sign the lease herself, or does it need a guarantor?",
+    "answer": "enough",
+    "distractors": ["so", "such", "too"]
+  },
+  {
+    "id": 40,
+    "itemId": "enough",
+    "prompt": "The engine simply isn't powerful ___ to tow a loaded trailer up that hill.",
+    "answer": "enough",
+    "distractors": ["so", "such", "too"]
+  },
+  {
+    "id": 41,
+    "itemId": "enough",
+    "prompt": "Oddly ___, nobody at the meeting seemed to notice the figures had been changed.",
+    "answer": "enough",
+    "distractors": ["so", "such", "too"]
+  },
+  {
+    "id": 42,
+    "itemId": "enough",
+    "prompt": "We don't have ___ chairs for everyone at the ceremony — can we borrow some?",
+    "answer": "enough",
+    "distractors": ["so", "such", "too"]
+  }
 ]
