@@ -1,95 +1,255 @@
 [
   {
-    "id": "senses_verbs",
+    "id": "aspectual_foundation",
     "order": 1,
-    "nameEn": "Verbs of the senses (see, hear, smell, taste, feel)",
-    "namePl": "Czasowniki zmysłów (see, hear, smell, taste, feel)",
+    "nameEn": "The foundation: why some verbs refuse -ing at all",
+    "namePl": "Fundament: dlaczego niektóre czasowniki w ogóle nie znoszą -ing",
     "rules": [
-      { "label": "Mimowolne postrzeganie", "text": "see/hear/smell/taste/feel opisujące bierne, mimowolne postrzeganie zmysłowe używamy w Present Simple, NIE w Continuous — I hear a noise. (NIE: I am hearing a noise.)" },
-      { "label": "can + zmysł", "text": "Do wyrażenia chwilowego, mimowolnego postrzegania częściej używamy can + czasownik zmysłu niż czasu continuous — I can hear the birds singing." },
-      { "label": "Celowa czynność", "text": "Gdy chodzi o świadome, kontrolowane działanie zmysłowe, czasownik staje się czynnościowy i może przyjmować -ing: look, listen, taste (=próbować), smell (=wąchać) — She is tasting the soup." }
+      {
+        "label": "Zanim był Continuous — jeden czas na wszystko",
+        "text": "W staroangielskim nie istniał żaden gramatyczny odpowiednik dzisiejszego Present Continuous. 'Rodzime' konstrukcje typu 'bēon/wesan + imiesłów na -ende' (Old English: hē wæs huntende, dosł. 'on był polujący') owszem, pojawiały się, ale rzadko i wyłącznie dla podkreślenia trwania — nie były osobnym, obowiązkowym czasem gramatycznym. Zwykły Present ('hē huntaþ', 'on poluje') musiał obsłużyć zarówno znaczenie 'poluje w ogóle, jako zwyczaj' jak i 'poluje właśnie teraz, w tej chwili'. Do dziś dokładnie tak samo funkcjonuje niemiecki (ich gehe = 'idę' i zwyczajowo, i w tej chwili) czy polski (choć polski ma aspekt dokonany/niedokonany, nie ma osobnej formy 'ciągłej'). Współczesny angielski jest tu wyjątkiem wśród języków germańskich."
+      },
+      {
+        "label": "Gramatykalizacja -ing: od rzeczownika czynności do znacznika aspektu",
+        "text": "Forma na -ing ma podwójny rodowód: staroangielski rzeczownik odczasownikowy na -ung/-ing (huntung = 'polowanie', jak dziś 'a building', 'the opening') oraz osobny imiesłów czynny na -ende. W średnioangielskim te dwie różne końcówki fonetycznie się do siebie zbliżyły i ostatecznie zlały w jedno uniwersalne '-ing' (widoczne też w gerund i imiesłowach przymiotnikowych — to nie przypadek, że 'boring' brzmi jak forma 'being + -ing'). Sama konstrukcja 'be + -ing' jako obowiązkowy, systemowy czas gramatyczny (a nie okazjonalna ozdoba stylistyczna) skrystalizowała się dopiero w wczesnonowożytnym angielskim, mniej więcej między XVI a XVIII wiekiem, i utwardziła swoje reguły użycia dopiero w XIX wieku — czyli jest to jedna z najmłodszych części angielskiego systemu czasów."
+      },
+      {
+        "label": "Model myślowy: kamera z zoomem kontra zdjęcie panoramiczne",
+        "text": "Kluczem do zrozumienia całego zjawiska jest wyobrażenie sobie aspektu jako obiektywu kamery. Continuous to zoom wjeżdżający DO WNĘTRZA zdarzenia — pokazuje jego środek, punkt bez wyraźnego początku i końca widocznego w kadrze, coś co się dzieje 'w trakcie'. Simple to zdjęcie panoramiczne z dużej odległości — całość ujęta jako jeden, domknięty punkt albo jako powtarzalny wzorzec. Otóż stan (state) z definicji NIE MA wnętrza, do którego dałoby się wjechać zoomem: jest jednorodny (homogeniczny) w każdym momencie swojego trwania. Jeśli 'znam odpowiedź' o 9:00 i o 9:05, to w obu momentach jest to dokładnie ta sama, niezmienna 'wiedza' — nie ma tu żadnego rozwoju, narastania, fazy początkowej ani końcowej, którą kamera mogłaby uchwycić w 'trakcie dziania się'. Dlatego zoom aspektowy (-ing) nie ma czego pokazać i gramatyka blokuje go dla czystych stanów."
+      },
+      {
+        "label": "Aktionsart Vendlera: cztery klasy znaczeniowe czasowników",
+        "text": "Lingwista Zeno Vendler zaproponował w 1957 r. podział czasowników (a właściwie sytuacji, które opisują) na cztery klasy wg wewnętrznej struktury czasowej: States (stany — 'know', 'own', bez zmiany w czasie), Activities (czynności — 'run', 'swim', mają wewnętrzną strukturę, ale bez naturalnego punktu końcowego), Accomplishments (dokonania rozciągnięte w czasie z punktem końcowym — 'build a house') i Achievements (osiągnięcia momentalne — 'recognize', 'win', 'realize'). To rozróżnienie nazywa się Aktionsart (niem. 'rodzaj czynności') i jest niezależne od gramatycznego aspektu (Simple/Continuous) — aspekt to jak MÓWIMY o zdarzeniu, Aktionsart to jaka jest WEWNĘTRZNA natura samego zdarzenia. 'Czasowniki stanowe' to po prostu leksykalna klasa State w tej typologii, a ich opór wobec -ing wynika wprost z ich wewnętrznej natury, a nie z arbitralnej reguły do wykucia na pamięć."
+      }
     ],
     "usage": [
-      "Opis tego, co ktoś mimowolnie widzi, słyszy, czuje w danej chwili (Present Simple, nie Continuous)",
-      "Chwilowe, mimowolne postrzeganie zmysłowe → can + czasownik zmysłu (I can smell smoke.)",
-      "Świadome, kontrolowane działanie zmysłowe (taste=próbować, smell=wąchać) → może wystąpić continuous"
+      "Rozpoznawanie PRZYCZYNY, dla której dany czasownik nie występuje w czasach continuous — brak wewnętrznej struktury czasowej (homogeniczność stanu), a nie kaprys gramatyki",
+      "Traktowanie podziału stanowy/czynnościowy jako kontinuum semantycznego (Aktionsart), a nie zamkniętej listy słów do wykucia na pamięć",
+      "Świadomość, że współczesny obowiązkowy podział Simple/Continuous jest stosunkowo młodą (XVII–XIX w.) innowacją angielszczyzny, nieobecną w większości pokrewnych języków germańskich"
     ],
-    "tags": ["I hear", "I can smell", "she is tasting", "it feels soft"],
+    "tags": ["state vs activity", "Aktionsart", "Vendler", "be + -ing", "aspekt gramatyczny"],
     "examples": [
-      { "en": "I hear a strange noise outside.", "pl": "Słyszę dziwny hałas na zewnątrz." },
-      { "en": "I can smell smoke — is something burning?", "pl": "Czuję zapach dymu — czy coś się pali?" },
-      { "en": "This blanket feels so soft.", "pl": "Ten koc jest taki miękki w dotyku." },
-      { "en": "She is tasting the soup to check if it needs more salt.", "pl": "Ona próbuje zupy, żeby sprawdzić, czy trzeba dosolić." }
+      { "en": "I know the answer. (a state — true at every point, nothing to zoom into)", "pl": "Znam odpowiedź. (stan — prawdziwy w każdym momencie, nie ma czego przybliżać zoomem)" },
+      { "en": "I'm learning the answer. (an activity — a process with visible internal stages)", "pl": "Uczę się odpowiedzi. (czynność — proces z widocznymi fazami wewnętrznymi)" },
+      { "en": "German 'Ich weiß es' has no continuous counterpart at all — just like Old English once didn't.", "pl": "Niemieckie 'Ich weiß es' w ogóle nie ma formy ciągłej — dokładnie tak jak dawniej staroangielski." },
+      { "en": "The house is being built. (an accomplishment, unfolding in visible stages — hence continuous is natural)", "pl": "Dom jest budowany. (dokonanie rozciągnięte w czasie i widoczne fazami — stąd naturalny continuous)" }
     ]
   },
   {
-    "id": "mind_emotion_verbs",
+    "id": "perception_verbs",
     "order": 2,
-    "nameEn": "Verbs of thought, opinion & emotion (think, know, believe, want, like, love)",
-    "namePl": "Czasowniki myślenia, opinii i uczuć (think, know, believe, want, like)",
+    "nameEn": "Verbs of perception: see, hear, smell, taste, feel — passive sensing vs. active behaviour",
+    "namePl": "Czasowniki percepcji: see, hear, smell, taste, feel — bierne doznawanie a świadome zachowanie",
     "rules": [
-      { "label": "Stan wiedzy", "text": "know, believe, understand, remember, forget, mean, suppose opisują stan wiedzy lub przekonania i nie mają form continuous — I understand the rule. (NIE: I am understanding.)" },
-      { "label": "Uczucia i preferencje", "text": "like, love, hate, want, need, prefer, wish wyrażają trwały stan emocjonalny lub potrzebę, zwykle w Simple — I like jazz. (NIE: I am liking jazz.)" },
-      { "label": "think = opinia vs proces", "text": "think w znaczeniu 'mieć opinię' jest stanowy (I think it's a good idea.), ale w znaczeniu 'rozważać, zastanawiać się' jest czynnościowy i może wystąpić w continuous (I'm thinking about my next holiday.)" }
+      {
+        "label": "Zmysł jako stan, nie czynność",
+        "text": "see, hear, smell (w znaczeniu 'wyczuwać zapach'), taste (w znaczeniu 'mieć smak') i feel (w znaczeniu 'wywoływać wrażenie dotykowe') opisują mimowolny efekt bodźca docierającego do zmysłu — to stan, w którym się znajdujemy, a nie akcja, którą wykonujemy. Oko nie 'robi' widzenia tak jak ręka 'robi' machanie — widzenie po prostu SIĘ DZIEJE, gdy oczy są otwarte i coś jest przed nimi. Stąd: I hear a noise (stan percepcyjny), nigdy I am hearing a noise."
+      },
+      {
+        "label": "can + zmysł jako naturalny substytut chwilowości",
+        "text": "Ponieważ Continuous jest zablokowany, angielski wykształcił inną strategię wyrażania 'właśnie teraz' przy czasownikach zmysłu: modalne can/could. I can hear the birds singing nie mówi nic o UMIEJĘTNOŚCI słyszenia (jak zwykle tłumaczy się can) — tu can pełni funkcję niemal czysto aspektową, sygnalizując 'w tej właśnie chwili dociera to do mnie'. To jedna z niewielu sytuacji w gramatyce angielskiej, gdzie czasownik modalny przejmuje robotę, którą gdzie indziej wykonuje aspekt gramatyczny."
+      },
+      {
+        "label": "Ta sama forma, inne znaczenie: percepcja kontra kontrolowane zachowanie",
+        "text": "Kluczowa jest para znaczeniowa: look/see, listen/hear, smell/smell, taste/taste. 'look', 'listen' to CZASOWNIKI CZYNNOŚCIOWE od samego początku — opisują świadome, celowe skierowanie uwagi zmysłowej (kontrolujesz, GDZIE patrzysz czy czego słuchasz), więc naturalnie występują w continuous: She is looking at the map (świadomie kieruje wzrok), I am listening to the radio (świadomie nastawiam uwagę). Natomiast see i hear to REZULTAT tej czynności — sam fakt dotarcia bodźca do świadomości, którego nie da się 'w trakcie' obserwować, bo albo się dzieje, albo nie. Można 'patrzeć' długo i nic nie 'zobaczyć' (I was looking but I didn't see anything) — to najlepszy dowód, że to dwa odrębne pojęcia, nie synonimy stylistyczne."
+      },
+      {
+        "label": "smell i taste jako czasowniki dwufunkcyjne (agentywne)",
+        "text": "smell i taste są wyjątkowe, bo ten sam rdzeń obsługuje OBIE role: rolę doznającego (I smell gas — mimowolnie wyczuwam zapach, stan) i rolę wykonawcy czynności (I'm smelling the milk to see if it's off — świadomie wąchem sprawdzam, czynność). Rozstrzyga wyłącznie kontekst i to, czy istnieje świadomy AGENS wykonujący ruch (przybliżenie nosa/języka do źródła), czy tylko bierny odbiorca bodźca."
+      }
     ],
     "usage": [
-      "Wyrażanie opinii, przekonań i wiedzy jako trwałego stanu umysłu",
-      "Wyrażanie upodobań, potrzeb i życzeń jako trwałych uczuć, nie chwilowych czynności",
-      "Odróżnienie think='sądzić' (stanowy) od think='rozważać' (czynnościowy, może być continuous)"
+      "Present Simple dla mimowolnego, biernego doznania zmysłowego trwającego 'teraz' (I hear music. / This tastes sour.)",
+      "can/could + czasownik zmysłu jako standardowy sposób podkreślenia chwilowości percepcji (I can see a ship on the horizon.)",
+      "Continuous wyłącznie gdy czasownik opisuje ŚWIADOMĄ, kontrolowaną czynność zmysłową, a nie sam efekt bodźca (looking, listening, smelling=wąchając, tasting=próbując)",
+      "Rozróżnienie look/see i listen/hear jako pary proces-vs-rezultat, nie jako dowolne synonimy"
     ],
-    "tags": ["I know", "I think (opinion)", "I'm thinking about", "she wants"],
+    "tags": ["I can hear", "she is looking at", "this tastes bitter", "he is tasting the wine", "I smell smoke"],
     "examples": [
-      { "en": "I know the answer to this question.", "pl": "Znam odpowiedź na to pytanie." },
-      { "en": "I think it's a brilliant idea.", "pl": "Uważam, że to świetny pomysł." },
-      { "en": "I'm thinking about changing my job.", "pl": "Rozważam zmianę pracy." },
-      { "en": "She wants to go home now.", "pl": "Ona chce teraz iść do domu." }
+      { "en": "I can smell something burning in the kitchen.", "pl": "Czuję, że coś się pali w kuchni." },
+      { "en": "We were looking everywhere, but we couldn't see the cat anywhere.", "pl": "Szukaliśmy wszędzie wzrokiem, ale nigdzie nie widzieliśmy kota." },
+      { "en": "This sauce tastes far too salty — did you add extra salt?", "pl": "Ten sos jest o wiele za słony — dosypałeś soli?" },
+      { "en": "The sommelier is tasting each wine slowly before deciding which one to serve.", "pl": "Sommelier powoli degustuje każde wino, zanim zdecyduje, które podać." }
     ]
   },
   {
-    "id": "possession_measurement_verbs",
+    "id": "cognition_verbs",
     "order": 3,
-    "nameEn": "Verbs of possession & measurement (have, own, belong, contain, cost, weigh)",
-    "namePl": "Czasowniki posiadania i miary (have, own, belong, contain, cost, weigh)",
+    "nameEn": "Verbs of knowledge and belief: know, understand, believe, remember, realize, doubt",
+    "namePl": "Czasowniki wiedzy i przekonań: know, understand, believe, remember, realize, doubt",
     "rules": [
-      { "label": "Posiadanie", "text": "have (=posiadać), own, belong to, possess opisują stan posiadania i nie występują w continuous — She has a car. (NIE: She is having a car.)" },
-      { "label": "Zawartość i miara", "text": "contain, consist of, cost, weigh, measure w znaczeniu opisu stałej cechy są stanowe — The box contains books. This bag weighs two kilos." },
-      { "label": "have = czynność", "text": "have w znaczeniach czynnościowych (jeść, brać, przeżywać) jest czasownikiem dynamicznym i przyjmuje continuous: have breakfast, have a shower, have a party — We are having lunch." }
+      {
+        "label": "Wiedza jako 'posiadanie', nie 'robienie'",
+        "text": "know, understand, believe, remember, recognize, suppose, doubt, mean, imagine (w sensie 'sądzić') opisują treść zawartą w umyśle w danym momencie — czy dana informacja tam JEST, a nie proces jej przetwarzania. Historycznie 'know' wywodzi się z praindoeuropejskiego rdzenia *ǵneh₃- (ten sam, co w łacińskim gnoscere, greckim gignōskein czy polskim 'znać') oznaczającego akt rozpoznania prowadzący do trwałego stanu — a angielska gramatyka konsekwentnie traktuje efekt tego rozpoznania (wiem) jako stan, a nie powtarzającą się czynność."
+      },
+      {
+        "label": "understand: dlaczego nie 'I am understanding'",
+        "text": "'Zrozumienie' bywa mylnie postrzegane jako proces (bo poprzedza je myślenie), ale gramatycznie liczy się MOMENT PO osiągnięciu zrozumienia — to co zostaje, to trwały stan posiadania sensu w głowie. I understand the instructions oznacza 'sens instrukcji jest teraz obecny w moim umyśle', a nie 'właśnie w tej sekundzie przetwarzam informację' — to drugie wyrażamy inaczej: I'm trying to understand / It's starting to make sense."
+      },
+      {
+        "label": "realize i recognize: Achievement, nie State — ale i tak bez -ing",
+        "text": "Ciekawy przypadek graniczny: realize i recognize w typologii Vendlera to nie stany (states), lecz osiągnięcia (achievements) — zdarzenia momentalne, punktowe, bez trwania w czasie (nie da się 'realizować' czegoś przez pięć minut — albo się już zrealizowało, albo jeszcze nie). Mimo że formalnie nie są 'stanami', zachowują się gramatycznie podobnie: nie mają naturalnego continuous, bo zdarzenie momentalne, tak jak stan, nie ma wewnętrznej fazy 'w trakcie' do pokazania — to pokazuje, że blokada -ing dotyczy szerzej wszystkiego, co nie ma rozciągniętej w czasie wewnętrznej struktury, nie tylko czystych stanów."
+      },
+      {
+        "label": "think: pułapka dwuznaczności opinii i procesu",
+        "text": "think to najbardziej klasyczny przykład czasownika o podwójnej naturze semantycznej. think = 'mieć opinię, sądzić' jest stanem (I think communism failed — moje stanowisko istnieje niezależnie od chwili mówienia, trwa) i nie przyjmuje continuous. Ale think = 'rozważać, obracać coś w głowie, deliberować' to aktywność mentalna z wyraźnym 'w trakcie' (I'm thinking about quitting my job — proces deliberacji rozciągnięty w czasie, z wyraźnym początkiem i możliwym końcem). Test rozstrzygający: czy da się to przerwać w połowie i wrócić do tego później? Deliberację tak, opinię nie."
+      }
     ],
     "usage": [
-      "Opis trwałego stanu posiadania czegoś (have, own, belong to)",
-      "Opis stałych cech przedmiotu: zawartość, cena, waga, wymiary (contain, cost, weigh)",
-      "Rozróżnienie have='posiadać' (stanowy) od have w wyrażeniach czynnościowych typu have breakfast, have a party (dynamiczny)"
+      "Present Simple dla trwałej wiedzy, przekonania lub opinii istniejącej 'teraz' jako fakt mentalny (I believe her. / I doubt it.)",
+      "Rozróżnienie stanu (opinia, wiedza) od aktywności mentalnej (rozważanie, analizowanie) przy tym samym czasowniku — zwłaszcza przy think i imagine",
+      "Momentalne czasowniki typu realize/recognize nie mają naturalnego continuous z tego samego strukturalnego powodu co stany, mimo że formalnie nie są stanami"
     ],
-    "tags": ["she has (owns)", "it contains", "it costs", "we are having lunch"],
+    "tags": ["I understand", "I believe", "I doubt", "I'm thinking about", "she realizes"],
     "examples": [
-      { "en": "She has two brothers and a sister.", "pl": "Ona ma dwóch braci i siostrę." },
-      { "en": "This box contains old family photographs.", "pl": "To pudełko zawiera stare zdjęcia rodzinne." },
-      { "en": "The ticket costs fifty pounds.", "pl": "Bilet kosztuje pięćdziesiąt funtów." },
-      { "en": "We are having lunch right now, can I call you back?", "pl": "Właśnie jemy lunch, mogę oddzwonić?" }
+      { "en": "I don't understand why he said that.", "pl": "Nie rozumiem, dlaczego on to powiedział." },
+      { "en": "I'm thinking about what you said earlier — give me a moment.", "pl": "Rozmyślam nad tym, co powiedziałeś wcześniej — daj mi chwilę." },
+      { "en": "She suddenly realized she had left her keys at the office.", "pl": "Nagle uświadomiła sobie, że zostawiła klucze w biurze." },
+      { "en": "I honestly doubt he'll show up on time.", "pl": "Szczerze wątpię, żeby pojawił się punktualnie." }
+    ]
+  },
+  {
+    "id": "emotion_desire_verbs",
+    "order": 4,
+    "nameEn": "Verbs of emotion and desire: like, love, hate, want, need, prefer, wish",
+    "namePl": "Czasowniki uczuć i pragnień: like, love, hate, want, need, prefer, wish",
+    "rules": [
+      {
+        "label": "Emocja trwała jako dyspozycja, nie epizod",
+        "text": "like, love, hate, adore, detest, prefer, admire opisywane w Present Simple wyrażają STAŁĄ DYSPOZYCJĘ uczuciową — cechę charakteru mówiącego, prawdziwą niezależnie od tego, czy w tej sekundzie ktoś o tym myśli, tak jak 'jestem wysoki' jest prawdziwe, nawet gdy śpię. I like jazz nie znaczy 'w tej chwili doświadczam przyjemności z jazzu', tylko 'jazz jest, ogólnie rzecz biorąc, w kręgu moich upodobań' — to fakt biograficzny, nie chwilowe doznanie."
+      },
+      {
+        "label": "want i need: pragnienie jako brak stanu, nie działanie w jego kierunku",
+        "text": "want i need opisują ROZBIEŻNOŚĆ między stanem obecnym a pożądanym — samą tę lukę, a nie aktywne dążenie do jej zamknięcia (tym jest już inny czasownik: 'try to get', 'work towards'). Luka nie ma fazy 'w trakcie się dziejenia' — albo czegoś brakuje, albo nie. Dlatego I want a coffee, nie I am wanting a coffee w standardowym rejestrze."
+      },
+      {
+        "label": "Amerykański rejestr potoczny i reklamowy: 'I'm loving it' jako świadome złamanie normy",
+        "text": "Słynny slogan sieci McDonald's 'I'm lovin' it' (2003) nie jest błędem gramatycznym, lecz CELOWĄ, świadomą transgresją normy dla efektu retorycznego — nadaje statycznemu 'kocham to' dynamiczny, żywy, chwilowy charakter reklamowego doznania ('przeżywam to w tej właśnie sekundzie, na gorąco'), czego zwykłe love by nie oddało. Native speakerzy rozpoznają to jako oznaczone, nietypowe użycie — nie jako 'poprawną', neutralną alternatywę do naśladowania w piśmie formalnym czy egzaminie. Podobnie działa coraz częstsze potoczne amerykańskie I'm loving this song, I'm not liking this idea — podkreślają świeżość, aktualność i subiektywną intensywność reakcji, a nie trwałą cechę charakteru."
+      },
+      {
+        "label": "wish jako czasownik z podwójnym reżimem składniowym",
+        "text": "wish w znaczeniu 'żałować/pragnąć czegoś kontrfaktycznego' (I wish I were taller) jest czysto stanowy, ale wish + to-bezokolicznik w znaczeniu formalnego 'chcieć/mieć zamiar' (I wish to make a complaint) bywa traktowane jako pełniący funkcję performatywną (samo wypowiedzenie jest aktem) — mimo to i tak pozostaje poza continuous, bo nawet performatyw jest momentalny, nie rozciągnięty."
+      }
+    ],
+    "usage": [
+      "Present Simple dla trwałych upodobań, niechęci i potrzeb jako cech/dyspozycji mówiącego, niezależnych od chwili (I love autumn. / She hates flying.)",
+      "want/need wyrażają lukę między stanem obecnym a pożądanym, nie proces jej zamykania",
+      "Świadome, oznaczone (marked) użycie continuous z czasownikami uczuć (I'm loving it, I'm really missing home) w rejestrze potocznym/reklamowym dla podkreślenia świeżości i subiektywnej intensywności — nieakceptowalne w rejestrze formalnym/egzaminacyjnym"
+    ],
+    "tags": ["I like", "I want", "I need", "I wish", "I'm loving it (marked)"],
+    "examples": [
+      { "en": "I really love the way this city looks at night.", "pl": "Naprawdę uwielbiam to, jak to miasto wygląda nocą." },
+      { "en": "She needs more time to make a decision.", "pl": "Potrzebuje więcej czasu, żeby podjąć decyzję." },
+      { "en": "I wish I had studied harder for that exam.", "pl": "Żałuję, że nie uczyłem się ciężej do tego egzaminu." },
+      { "en": "\"I'm lovin' it\" deliberately breaks the rule to sound fresh, personal and immediate — not a model to copy in an essay.", "pl": "„I'm lovin' it” celowo łamie regułę, by brzmieć świeżo, osobiście i „na gorąco” — to nie jest wzorzec do naśladowania w wypracowaniu." }
+    ]
+  },
+  {
+    "id": "relational_stative_verbs",
+    "order": 5,
+    "nameEn": "Verbs of relation, possession and measurement: belong, contain, consist of, owe, resemble, have, cost, weigh",
+    "namePl": "Czasowniki relacji, posiadania i miary: belong, contain, consist of, owe, resemble, have, cost, weigh",
+    "rules": [
+      {
+        "label": "Relacja logiczna między dwoma bytami, nie akcja jednego z nich",
+        "text": "belong to, contain, consist of, comprise, involve, concern, depend on, owe, resemble, deserve, matter, equal opisują logiczny, strukturalny związek między dwoma rzeczami (całość-część, właściciel-własność, podobieństwo) — a relacja logiczna z definicji istnieje albo nie istnieje w danym momencie, nie 'dzieje się' stopniowo. This box contains books stwierdza fakt strukturalny o zawartości pudełka, identyczny w każdej sekundzie, dopóki nikt fizycznie nie zmieni zawartości."
+      },
+      {
+        "label": "resemble i similarity-verbs: podobieństwo jako właściwość statyczna z natury",
+        "text": "resemble, look like czy take after opisują relację podobieństwa, która przez samą swoją logiczną definicję nie ma fazy pośredniej — albo dwie rzeczy są (aktualnie) podobne, albo nie, i to porównanie jest ważne 'teraz' w całości, a nie częściowo w trakcie jakiegoś procesu. He resembles his grandfather nie może brzmieć He is resembling his grandfather, bo nie istnieje żadne 'w trakcie resemblowania'."
+      },
+      {
+        "label": "Posiadanie jako relacja własności, nie transakcja",
+        "text": "have (=posiadać), own, possess, belong to opisują STAN własności — czyj to jest, a nie akt nabywania czy transferu (to już byłoby buy, acquire, get). Warto pamiętać frazeologiczny paradoks: have w sensie posiadania nie ma continuous (She has a car), ale have jako czasownik LEKKI (light verb) w utartych zwrotach czynnościowych już tak — have breakfast, have a shower, have a look, have a party, have an argument. Test: czy 'have' da się zastąpić czasownikiem czynnościowym z tej samej rodziny (eat, take, throw)? Jeśli tak — to czynność, nie stan."
+      },
+      {
+        "label": "cost, weigh, measure: miara jako cecha inherentna przedmiotu",
+        "text": "cost, weigh, measure w znaczeniu opisu WŁASNOŚCI przedmiotu (This ticket costs $50. / The parcel weighs two kilos. / The room measures four metres by three.) są stanowe, bo opisują niezmienny fakt o obiekcie, tak jak jego kolor czy kształt. Ale te same czasowniki w znaczeniu wykonywanej PRZEZ KOGOŚ CZYNNOŚCI pomiarowej (The cashier is weighing the fruit. / The surveyor is measuring the plot.) są w pełni dynamiczne — bo tu chodzi o obserwowalny proces działania osoby z wagą czy taśmą mierniczą, a nie o stałą cechę samego przedmiotu."
+      }
+    ],
+    "usage": [
+      "Present Simple dla stałych relacji logicznych między bytami: przynależność, skład, podobieństwo, zależność, dług, zasługiwanie (This flat belongs to my aunt. / The team consists of eleven players.)",
+      "have/own/possess dla trwałego stanu posiadania — kontrast z tymi samymi czasownikami w zwrotach czynnościowych typu have a shower, have lunch",
+      "cost/weigh/measure jako cecha stała przedmiotu (stanowo) kontra fizyczna czynność ważenia/mierzenia wykonywana przez kogoś (dynamicznie)"
+    ],
+    "tags": ["it belongs to", "it consists of", "he resembles", "she owns", "the parcel weighs", "she is weighing the parcel"],
+    "examples": [
+      { "en": "This old cottage belongs to my grandmother.", "pl": "Ta stara chatka należy do mojej babci." },
+      { "en": "The committee consists of five elected members.", "pl": "Komisja składa się z pięciu wybranych członków." },
+      { "en": "He really resembles his older brother around the eyes.", "pl": "On naprawdę przypomina swojego starszego brata w okolicach oczu." },
+      { "en": "The nurse is weighing the newborn baby right now.", "pl": "Pielęgniarka właśnie waży noworodka." }
     ]
   },
   {
     "id": "dual_meaning_verbs",
-    "order": 4,
-    "nameEn": "Verbs with both stative and dynamic meaning",
-    "namePl": "Czasowniki o podwójnym znaczeniu (stanowym i czynnościowym)",
+    "order": 6,
+    "nameEn": "Chameleon verbs: the same form, two grammars — look, see, taste, weigh, think, have, be, appear, fit",
+    "namePl": "Czasowniki-kameleony: ta sama forma, dwie gramatyki — look, see, taste, weigh, think, have, be, appear, fit",
     "rules": [
-      { "label": "look", "text": "look = wyglądać (stan, bez continuous): You look tired. vs look = patrzeć celowo (czynność, z continuous): She is looking at the map." },
-      { "label": "see", "text": "see = widzieć/rozumieć (stan): I see what you mean. vs see = spotykać się z kimś (czynność): I'm seeing a friend tonight." },
-      { "label": "weigh / taste", "text": "weigh/taste w znaczeniu stałej cechy są stanowe (This suitcase weighs 20kg. / This soup tastes great.), ale w znaczeniu czynności ważenia lub próbowania są dynamiczne (The nurse is weighing the baby. / He is tasting the soup.)" },
-      { "label": "be", "text": "be jest zwykle stanowy (I am tired.), ale w continuous opisuje tymczasowe, nietypowe zachowanie: You are being very rude today." }
+      {
+        "label": "Homonimia funkcjonalna, nie wyjątek od reguły",
+        "text": "Wbrew wrażeniu 'wyjątkowości', czasowniki o podwójnym znaczeniu (stanowym i czynnościowym) nie łamią reguły stanowe-nie-mają-continuous — po prostu KAŻDE z dwóch znaczeń to osobny czasownik-homonim, z osobną Aktionsart, przypadkowo zapisywany tą samą literówką. To dokładnie ten sam mechanizm, co z rzeczownikiem 'bank' (brzeg rzeki / instytucja finansowa) — nie ma tu 'wyjątku', tylko dwa różne słowa dzielące formę."
+      },
+      {
+        "label": "be: stan domyślny kontra chwilowe, kontrolowane zachowanie",
+        "text": "be w swoim podstawowym znaczeniu opisuje trwałą cechę lub tożsamość (I am tall. He is French.) i jest archetypicznym czasownikiem stanowym. Ale be + przymiotnik opisujący ZACHOWANIE, które podlega świadomej kontroli danej osoby (kind, rude, silly, careful, patient, quiet) może wystąpić w continuous, by zasygnalizować: 'to nie jest jego/jej stała cecha charakteru, tylko chwilowe, obserwowalne zachowanie w tej właśnie sytuacji'. You are being very rude today nie oskarża rozmówcy o to, że JEST chamem (cecha), tylko że w TEJ chwili ZACHOWUJE SIĘ chamsko (epizod, kontrolowany wybór) — subtelna, ale ważna różnica pragmatyczna, często kluczowa przy udzielaniu nagany bez trwałej etykietki."
+      },
+      {
+        "label": "look, appear, seem: percepcja pozoru kontra świadome pozowanie",
+        "text": "look (=wyglądać na coś) opisuje bierne wrażenie wzrokowe, jakie coś/ktoś wywołuje — stan: You look tired. Ale look = kierować wzrok to czynność (patrz wyżej, w części o percepcji). Podobnie fit: This dress fits you perfectly (stanowo — pasuje rozmiarem, cecha stała) kontra She is fitting the dress for the final adjustments (czynnościowo — krawcowa aktywnie dopasowuje ubranie, wykonuje pracę)."
+      },
+      {
+        "label": "Test diagnostyczny: 'czy da się to zrobić w połowie i przerwać?'",
+        "text": "Uniwersalny test na rozróżnienie znaczenia stanowego od czynnościowego przy czasowniku-kameleonie: zapytaj, czy istnieje wyraźny AGENS wykonujący dającą się przerwać w połowie aktywność. 'I was seeing him' (w sensie 'spotykałem się z nim') da się przerwać (we broke up) — to relacja-czynność społeczna, nie mimowolna percepcja. 'I saw him' w sensie zauważyłem — to jednorazowy, momentalny fakt percepcyjny, bez continuous w standardowym znaczeniu."
+      }
     ],
     "usage": [
-      "Rozpoznawanie, kiedy dany czasownik opisuje trwały stan, a kiedy świadomą, chwilową czynność",
-      "Wybór między Present Simple a Present Continuous na podstawie znaczenia, nie samego czasownika",
-      "Częste pary znaczeniowe: look, see, taste, smell, weigh, be, think, have"
+      "Rozpoznawanie, że dany czasownik to w istocie dwa homonimiczne czasowniki o różnej Aktionsart, nie jeden czasownik z wyjątkiem",
+      "be + przymiotnik behawioralny w continuous jako sygnał 'to chwilowe zachowanie, nie trwała cecha charakteru' (You're being unfair. vs You are unfair.)",
+      "Stosowanie testu 'czy istnieje kontrolujący agens i dająca się przerwać czynność' do jednoznacznego wyboru między Simple a Continuous przy czasownikach dwuznacznych"
     ],
-    "tags": ["you look tired", "she is looking at", "I see (understand)", "I'm seeing a friend"],
+    "tags": ["you're being rude", "you are rude", "I'm seeing someone", "this fits perfectly", "she is fitting the dress"],
     "examples": [
-      { "en": "You look really tired today.", "pl": "Wyglądasz dziś na naprawdę zmęczonego." },
-      { "en": "She is looking at the old photos from her childhood.", "pl": "Ona ogląda stare zdjęcia z dzieciństwa." },
-      { "en": "I see what you mean now.", "pl": "Teraz rozumiem, o co ci chodzi." },
-      { "en": "I'm seeing my dentist tomorrow morning.", "pl": "Jutro rano mam wizytę u dentysty." }
+      { "en": "Stop being so dramatic about a tiny mistake.", "pl": "Przestań być taki dramatyczny z powodu drobnej pomyłki." },
+      { "en": "He's usually calm, but he's being really nervous before the interview.", "pl": "Zwykle jest spokojny, ale przed rozmową kwalifikacyjną zachowuje się bardzo nerwowo." },
+      { "en": "I'm seeing my old university friend for coffee this afternoon.", "pl": "Widzę się dziś po południu ze starym znajomym z uniwersytetu na kawie." },
+      { "en": "The tailor is fitting the jacket to make sure the shoulders sit right.", "pl": "Krawiec dopasowuje marynarkę, żeby ramiona leżały jak trzeba." }
+    ]
+  },
+  {
+    "id": "coercion_marked_progressive",
+    "order": 7,
+    "nameEn": "Breaking the rule on purpose: coerced statives, live commentary and the language of change",
+    "namePl": "Świadome łamanie reguły: wymuszona progresywność, relacje na żywo i język zmiany",
+    "rules": [
+      {
+        "label": "Koercja aspektowa: kontekst potrafi 'zmusić' stan do zachowania czynnościowego",
+        "text": "Zjawisko zwane w lingwistyce 'aspectual coercion' polega na tym, że kontekst zdaniowy narzuca stanowemu czasownikowi interpretację dynamiczną, gdy wyraźnie mowa o STOPNIOWEJ ZMIANIE, a nie o niezmiennym fakcie. I'm understanding the topic better every day nie jest błędem — understanding tutaj nie oznacza jednorazowego, stałego stanu wiedzy, tylko NARASTAJĄCY PROCES zbliżania się do pełnego zrozumienia, z wyraźną fazą 'w trakcie'. Kontekst 'better every day' wymusza czytanie procesualne. To pokazuje, że granica stanowy/czynnościowy nie jest właściwością słowa w izolacji, lecz interpretacji całego zdania w kontekście."
+      },
+      {
+        "label": "Relacja sportowa i narracja na żywo: teraźniejszość jako spektakl w budowie",
+        "text": "W komentarzu sportowym i relacjach na żywo z wydarzeń czasowniki normalnie stanowe bywają celowo 'ożywiane' przez continuous, by podkreślić dramatyzm chwili i wrażenie budowanego na naszych oczach napięcia: The crowd is loving every minute of this final! — tu 'loving' nie opisuje trwałej cechy tłumu, lecz zbiorową, świeżą, aktualną reakcję emocjonalną rozgrywającą się na oczach widza, retorycznie potraktowaną jak spektakl w toku, a nie fakt biograficzny."
+      },
+      {
+        "label": "Rejestr reklamowy i potoczny jako świadome naruszenie normy standardowej",
+        "text": "Poza już omówionym 'I'm lovin' it', podobny mechanizm napędza inne potoczne, nacechowane amerykańskie zwroty: I'm missing you so much right now, We're really enjoying this weather, I'm needing a break. Native speakerzy formalnego, egzaminacyjnego czy pisanego rejestru (British academic English, IELTS/CPE writing) wciąż uznają te formy za nieformalne lub błędne w piśmie akademickim — dlatego na testach językowych i w rejestrze formalnym należy trzymać się klasycznej reguły blokady continuous dla stanów, a znajomość odstępstw traktować jako wiedzę PASYWNĄ (rozpoznawczą), nie aktywny wzorzec do naśladowania."
+      },
+      {
+        "label": "Nie każdy pozorny wyjątek jest wyjątkiem: sprawdź, czy naprawdę mówimy o procesie zmiany",
+        "text": "Zanim uznasz zdanie za 'złamanie reguły', sprawdź, czy nie chodzi po prostu o zwykłe, legalne użycie czasownika czynnościowego o innym znaczeniu (patrz wcześniejsze karty: 'having a party', 'seeing a friend', 'thinking about'). Prawdziwa koercja i marked progressive dotyczą wyłącznie sytuacji, w których czysto stanowe znaczenie (wiedza, uczucie-dyspozycja, relacja logiczna) zostaje SUBIEKTYWNIE, retorycznie przetworzone na obraz 'zdarzenia w toku' — a to jest świadomy wybór stylistyczny mówiącego, nie neutralna, domyślna gramatyka."
+      }
+    ],
+    "usage": [
+      "Rozpoznawanie koercji aspektowej: kontekst zmiany stopniowej (better every day, more and more) potrafi legalnie 'ożywić' czasownik stanowy",
+      "Świadomość, że relacja na żywo/komentarz sportowy celowo 'dramatyzuje' stany za pomocą continuous dla efektu retorycznego",
+      "Unikanie potocznych/reklamowych form typu 'I'm loving/needing/missing' w rejestrze formalnym i egzaminacyjnym — znajomość bierna, nie aktywna produkcja"
+    ],
+    "tags": ["I'm understanding it better", "the crowd is loving this", "I'm missing you (informal)", "aspectual coercion"],
+    "examples": [
+      { "en": "I'm slowly understanding why she made that decision.", "pl": "Powoli zaczynam rozumieć, dlaczego podjęła tę decyzję." },
+      { "en": "The fans are absolutely loving this comeback — what a match!", "pl": "Kibice po prostu uwielbiają ten powrót do gry — co za mecz!" },
+      { "en": "In formal writing, prefer 'I miss you' over the informal 'I'm missing you'.", "pl": "W formalnym piśmie wybieraj 'I miss you' zamiast potocznego 'I'm missing you'." },
+      { "en": "\"We're needing more volunteers\" is common in casual speech, but a style guide would flag it as non-standard.", "pl": "„We're needing more volunteers” jest powszechne w mowie potocznej, ale przewodnik stylistyczny oznaczyłby to jako niestandardowe." }
     ]
   }
 ]
