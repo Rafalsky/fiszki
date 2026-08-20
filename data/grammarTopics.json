@@ -315,9 +315,9 @@
     "id": "british_american",
     "icon": "🇬🇧",
     "title": "Brytyjski vs amerykański angielski",
-    "desc": "Różnice gramatyczne między angielskim brytyjskim a amerykańskim: have got, czasy, rzeczowniki zbiorowe, shall/needn't — teoria, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40,
-    "level": "b1"
+    "desc": "Rozejście dwóch angielskich od korzeni: opóźnienie kolonialne i Webster kontra Johnson, have got jako skamieniały Present Perfect, zgoda notionalna i formalna rzeczowników zbiorowych, got vs gotten, upadek reguły shall/will, subjunctive mandatywny, wyrównanie czasowników (-t/-ed, dove/dived) i konkurujące analogie przyimkowe — teoria, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 72,
+    "level": "b2"
   },
   {
     "id": "time_clauses",
