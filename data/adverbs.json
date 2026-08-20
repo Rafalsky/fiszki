@@ -2,101 +2,161 @@
   {
     "id": "adverbs_formation",
     "order": 1,
-    "nameEn": "forming adverbs of manner with -ly",
-    "namePl": "Tworzenie przysłówków sposobu za pomocą -ly",
+    "nameEn": "forming manner adverbs with -ly",
+    "namePl": "Tworzenie przysłówków sposobu: przyrostek -ly",
     "rules": [
-      { "label": "Podstawa", "text": "przymiotnik + -ly: quick → quickly, slow → slowly, careful → carefully" },
-      { "label": "-y → -ily", "text": "przymiotnik zakończony na spółgłoskę + y: happy → happily, easy → easily" },
-      { "label": "-le → -ly", "text": "przymiotnik zakończony na -le traci e: gentle → gently, simple → simply" },
-      { "label": "-ic → -ically", "text": "przymiotnik zakończony na -ic zwykle dodaje -ally: basic → basically (wyjątek: public → publicly)" }
+      {
+        "label": "Budowa",
+        "text": "Podstawowa reguła: przymiotnik + -ly (quick → quickly, careful → carefully, sudden → suddenly). To najbardziej produktywny mechanizm słowotwórczy w całej angielskiej gramatyce — działa niemal na każdym przymiotniku opisowym, jaki istnieje albo dopiero powstanie."
+      },
+      {
+        "label": "Skąd wziął się -ly: 'ciało' i 'kształt' w jednej sylabie",
+        "text": "-ly nie jest arbitralnym znacznikiem wymyślonym przez gramatyków — to skamieniały rzeczownik. W staroangielskim istniało samodzielne słowo 'līc', oznaczające 'ciało, kształt, postać' (ten sam rdzeń przetrwał do dziś w słowie 'like' oraz w 'lych-gate' — bramie cmentarnej, dosłownie 'bramie dla ciała'). Doklejone do przymiotnika, '-līc' tworzyło nowy przymiotnik o znaczeniu 'mający kształt/postać X' — 'freondlic' znaczyło dosłownie 'mający postać przyjaciela', czyli 'przyjacielski'. Gdy taki przymiotnik na '-līc' trzeba było zamienić w przysłówek, dostawał kolejną końcówką przypadka (celownik/narzędnik '-e'), dając formę '-līce' — i to właśnie ta forma, przez wieki ścierana fonetycznie, spłynęła do dzisiejszego '-ly'. Mówiąc 'quickly', dosłownie (choć nieświadomie) mówisz coś w rodzaju 'w szybkiej postaci' — przysłówek to zafosylizowany rzeczownik złożony, nie czysta końcówka gramatyczna."
+      },
+      {
+        "label": "Reguły pisowni przy doklejaniu -ly",
+        "text": "Trzy zmiany ortograficzne wynikają z tego samego dążenia do wymawialności: (1) przymiotnik na spółgłoskę + y zmienia y na i (happy → happily, easy → easily) — samo '-yly' tworzyłoby niewygodne zderzenie dwóch 'y'; (2) przymiotnik na -le traci e przed -ly (gentle → gently, simple → simply, terrible → terribly) — inaczej powstałoby wymowowo niezręczne 'lely'; (3) przymiotnik na -ic dostaje rozszerzone -ally, nie samo -ly (basic → basically, tragic → tragically, economic → economically) — z jednym twardym wyjątkiem: 'public' → 'publicly', jedyna powszechna forma na -ic, która nigdy nie przyjęła podwojonego wzorca. Dodatkowo przymiotniki na -ue tracą e (true → truly, due → duly), a 'whole' dostaje podwójne l (whole → wholly), bo samo 'wholey' kolidowałoby wizualnie z 'whole' + 'y' jak w innej regule."
+      },
+      {
+        "label": "Pułapka: słowa na -ly, które WCIĄŻ są przymiotnikami",
+        "text": "friendly, lovely, lonely, silly, ugly, elderly, cowardly, likely, deadly, timely, costly, lively — wszystkie te słowa kończą się na -ly, ale są przymiotnikami, nie przysłówkami: 'a friendly dog', 'a lovely evening', 'a cowardly act'. Powód leży w ich etymologii: powstały przez doklejenie '-lic' bezpośrednio do RZECZOWNIKA (friend + lic = 'mający postać przyjaciela'), a nie do przymiotnika — nigdy więc nie zrobiły 'drugiego kroku' od przymiotnika do przysłówka, bo formalnie już są tym pierwszym krokiem. Żeby wyrazić znaczenie przysłówkowe, angielski musi obejść ten ślepy zaułek opisowo: 'in a friendly way/manner', 'in a cowardly fashion'. Wyjątkiem jest 'kind', które funkcjonuje i jako przymiotnik ('a kind woman'), i — rzadziej, ale poprawnie — jako przysłówek ('kindly explained')."
+      }
     ],
     "usage": [
-      "Gdy opisujemy, JAK ktoś coś robi (czasownik + przysłówek sposobu)",
-      "Przymiotniki zakończone na -y zmieniają y na i przed -ly",
-      "Przymiotniki zakończone na -le po prostu wymieniają e na y",
-      "Formę -ically stosujemy niemal zawsze dla przymiotników na -ic"
+      "Opisywanie SPOSOBU wykonania czynności: czasownik + przysłówek na -ly (She sang beautifully. / He explained it clearly.)",
+      "Test na rozpoznanie prawdziwego przysłówka: prawdziwy przysłówek na -ly nigdy nie może bezpośrednio opisywać rzeczownika (nie ma 'a quickly answer'), podczas gdy friendly/lovely/silly jak najbardziej mogą ('a friendly answer')",
+      "Formy na -ically (basically, dramatically, specifically) są normą dla niemal wszystkich przymiotników na -ic — 'publicly' to jedyny powszechny wyjątek do zapamiętania osobno",
+      "Gdy przymiotnik kończy się na -ly (friendly, lively, silly), przysłówka szukamy peryfrastycznie: 'in a friendly/lively/silly way/manner', nigdy przez doklejenie kolejnego -ly"
     ],
-    "tags": ["quickly", "happily", "gently", "basically"],
+    "tags": ["quickly", "-līc", "publicly", "friendly is an adjective"],
     "examples": [
-      { "en": "She answered the question quickly.", "pl": "Odpowiedziała na pytanie szybko." },
-      { "en": "The children played happily in the garden.", "pl": "Dzieci bawiły się szczęśliwie w ogrodzie." },
-      { "en": "He closed the door gently.", "pl": "Delikatnie zamknął drzwi." },
-      { "en": "Basically, the plan didn't work.", "pl": "Zasadniczo plan nie zadziałał." }
+      { "en": "She answered every question calmly, even under pressure.", "pl": "Odpowiadała na każde pytanie spokojnie, nawet pod presją." },
+      { "en": "The results were announced publicly, not in a private memo.", "pl": "Wyniki ogłoszono publicznie, a nie w prywatnym memo." },
+      { "en": "He greeted every new employee in a genuinely friendly way.", "pl": "Witał każdego nowego pracownika w naprawdę przyjazny sposób." },
+      { "en": "The building was wholly destroyed within an hour of the fire starting.", "pl": "Budynek został całkowicie zniszczony w ciągu godziny od wybuchu pożaru." }
     ]
   },
   {
-    "id": "adverbs_irregular",
+    "id": "adverbs_flat",
     "order": 2,
-    "nameEn": "irregular adverbs and adjective/adverb look-alikes",
-    "namePl": "Przysłówki nieregularne oraz formy identyczne z przymiotnikiem",
+    "nameEn": "flat adverbs and their drifted -ly cousins",
+    "namePl": "Przysłówki 'płaskie' (bez -ly) i ich rozjeżdżający się bliźniak na -ly",
     "rules": [
-      { "label": "good → well", "text": "przysłówek od good to well (nie 'goodly'): He speaks English well." },
-      { "label": "fast, hard, late", "text": "niektóre przysłówki mają tę samą formę co przymiotnik: fast, hard, late, early, high, low" },
-      { "label": "hardly ≠ hard", "text": "hardly znaczy 'ledwo, prawie wcale', a nie 'ciężko' — to zupełnie inne słowo niż przysłówek od hard" },
-      { "label": "lately ≠ late", "text": "lately znaczy 'ostatnio', a late znaczy 'późno' — obie formy istnieją, ale mają różne znaczenia" }
+      {
+        "label": "Budowa",
+        "text": "Grupa przysłówków ma identyczną formę co odpowiadający im przymiotnik, bez żadnej końcówki: fast, hard, late, early, high, low, deep, near, close, right, wrong, straight, tight. 'A fast car' (przymiotnik) i 'She drives fast' (przysłówek) to dokładnie to samo słowo w dwóch różnych funkcjach składniowych."
+      },
+      {
+        "label": "Geneza: inny mechanizm niż -ly, zatarty przez zanik końcowego -e",
+        "text": "Te przysłówki nie powstały z '-līc/-līce' jak te z poprzedniego tematu — w staroangielskim istniał RÓWNOLEGŁY, konkurencyjny sposób tworzenia przysłówka: dodanie samej końcówki celownika '-e' bezpośrednio do przymiotnika (fæst 'szybki' → fæste 'szybko'). Ta końcówka była tylko pojedynczą, nieakcentowaną samogłoską — a w średnioangielskim wszystkie nieakcentowane samogłoski w wygłosie stopniowo przestały być wymawiane. '-e' zanikło w mowie najpierw, w piśmie później, więc fæst i fæste (przymiotnik i przysłówek) scaliły się w jedną formę: 'fast'. Przysłówek nie zniknął — stał się formalnie nieodróżnialny od przymiotnika. To zupełnie inny proces historyczny niż w przysłówkach na -ly, których pełna, akcentowana sylaba '-līce' była zbyt 'masywna', by ją fonetycznie zetrzeć do zera."
+      },
+      {
+        "label": "XVIII-wieczny spór o 'drive slow' i skąd wzięła się jego stygmatyzacja",
+        "text": "Przez wieki formy płaskie (fast, hard, slow, loud, quick) i formy na -ly współistniały swobodnie, często wymiennie. Dopiero XVIII-wieczni gramatycy normatywiści (Robert Lowth i podobni), próbujący dopasować angielski do wzorców łacińskich, zaczęli piętnować formy płaskie jako 'niepoprawne' skróty, przy jednoczesnym uznaniu -ly za jedyną 'prawdziwą' formę przysłówkową. To dziedzictwo słychać do dziś w potocznej niepewności wokół 'drive slow' czy 'come quick' — ale historycznie to formy płaskie są STARSZE, nie zdegenerowane. Przetrwały najsilniej w rozkazach i utrwalonych zwrotach, gdzie zwięzłość ma znaczenie: 'Drive safe!', 'Sleep tight!', 'Hold tight!', 'Sit tight!', 'Hang on tight!' — a w potocznej amerykańskiej angielszczyźnie formy płaskie ('go slow', 'talk loud') są znacznie żywsze niż w formalnym rejestrze brytyjskim, który preferuje pełne -ly."
+      },
+      {
+        "label": "Kluczowa pułapka: hardly, lately, nearly, highly, deeply NIE znaczą tego, czego się spodziewasz",
+        "text": "To najważniejsza intuicja tego tematu. Pary hard/hardly, late/lately, near/nearly, high/highly, deep/deeply WYGLĄDAJĄ jak zwykła forma płaska + jej regularny odpowiednik na -ly, ale NIE są synonimami — to klasyczny przypadek rozejścia się znaczeniowego (semantic drift) dwóch form, które kiedyś mówiły to samo. Gdy w języku przez jakiś czas współistnieją dwie formy o identycznym znaczeniu, jedna z nich zwykle 'specjalizuje się' w sensie dosłownym, druga odjeżdża w stronę znaczenia abstrakcyjnego lub gramatycznego — bo czysta redundancja rzadko przetrwa długo. 'Hard' opisuje fizyczny wysiłek lub twardość (hit hard, work hard), podczas gdy 'hardly' zgramatykalizowało się w niemal-przeczenie (I hardly know him = prawie go nie znam). 'Late' to spóźnienie w czasie (arrived late), 'lately' to 'ostatnio, w niedawnym okresie' (I haven't seen him lately) — to już nie przysłówek sposobu, tylko czasu. 'Near' to fizyczna bliskość (stand near), 'nearly' to 'prawie' jako stopień (nearly finished). 'High' to fizyczna wysokość (jump high), 'highly' to abstrakcyjny, wysoki stopień czegoś (highly unlikely, highly recommended). 'Deep' to dosłowna głębokość (dig deep), 'deeply' to emocjonalna czy intelektualna głębia (deeply moved, deeply flawed)."
+      },
+      {
+        "label": "Subtelniejsze pary: close/closely, right/rightly, wrong/wrongly, free/freely, short/shortly",
+        "text": "Ten sam mechanizm działa łagodniej w kolejnych parach. 'Close' to fizyczna bliskość (sit close to me, stay close); 'closely' to uważność, precyzja lub bliskie pokrewieństwo (watch closely, closely related). 'Right' to dosłowny kierunek lub trafienie w punkt (turn right, guess right); 'rightly' to formalna ocena słuszności (rightly accused, and rightly so). 'Wrong' to potoczne, dosłowne pomylenie się (you got it wrong); 'wrongly' to bardziej formalny rejestr, częsty przed imiesłowem biernym (wrongly convicted, wrongly assumed). 'Free' to brak kosztu lub ograniczeń (eat free, run free); 'freely' to otwartość lub dobrowolność działania (speak freely, freely available). 'Short' to nagłe przerwanie (stop short, cut the meeting short); 'shortly' to 'wkrótce' (I'll be there shortly) — znów przesunięcie z sensu przestrzenno-manualnego na czasowy."
+      }
     ],
     "usage": [
-      "Well jest przysłówkiem od good, ale też przymiotnikiem znaczącym 'zdrowy'",
-      "Fast, hard, late, early jako przysłówki wyglądają identycznie jak przymiotnik — nie dodajemy -ly",
-      "Hardly, lately, nearly to osobne słowa o innym znaczeniu niż podstawowy przymiotnik + ly",
-      "Good jako przymiotnik opisuje rzeczownik, well jako przysłówek opisuje czasownik"
+      "Formy płaskie naturalnie pojawiają się w rozkazach, utrwalonych zwrotach i mowie potocznej (Drive safe. Sleep tight. Hold on tight.)",
+      "Formalny rejestr pisany zwykle preferuje pełną formę -ly tam, gdzie oba warianty istnieją bez rozjazdu znaczeniowego (slowly, loudly, quietly są bezpiecznym wyborem formalnym)",
+      "Pary z rozjechanym znaczeniem (hardly/hard, lately/late, nearly/near, highly/high, deeply/deep) NIE są kwestią rejestru — to dwa różne słowa o różnym sensie, których nie da się wybrać dowolnie",
+      "Gdy wątpliwość dotyczy pary z rozjazdem semantycznym, pomaga test parafrazy: jeśli zdanie da się sparafrazować jako 'prawie nie' → hardly; jako 'ostatnio' → lately; jako 'w wysokim stopniu' → highly; w pozostałych przypadkach zwykle chodzi o formę płaską"
     ],
-    "tags": ["He speaks well.", "She drives fast.", "I hardly know him.", "He worked hard."],
+    "tags": ["fast/fast", "hard vs hardly", "late vs lately", "drive slow"],
     "examples": [
-      { "en": "He plays the piano well.", "pl": "Dobrze gra na pianinie." },
-      { "en": "She drives very fast.", "pl": "Jeździ bardzo szybko." },
-      { "en": "He worked hard all day.", "pl": "Pracował ciężko cały dzień." },
-      { "en": "I hardly know him.", "pl": "Ledwo go znam." }
-    ]
-  },
-  {
-    "id": "adverbs_position",
-    "order": 3,
-    "nameEn": "position of adverbs in a sentence",
-    "namePl": "Pozycja przysłówków w zdaniu",
-    "rules": [
-      { "label": "Sposobu — koniec", "text": "przysłówki sposobu (quickly, well) stoją zwykle na końcu zdania, po dopełnieniu: She reads books quickly." },
-      { "label": "Częstotliwości — środek", "text": "przysłówki częstotliwości (always, often, never) stoją przed czasownikiem głównym, ale po 'be': He never lies. / He is never late." },
-      { "label": "Czasu — początek/koniec", "text": "przysłówki czasu (yesterday, tomorrow, now) stoją zwykle na początku lub końcu zdania" },
-      { "label": "Nie między czasownikiem a dopełnieniem", "text": "przysłówek sposobu nie powinien rozdzielać czasownika i dopełnienia: nie 'She speaks fluently English', tylko 'She speaks English fluently'" }
-    ],
-    "usage": [
-      "Przysłówki częstotliwości: przed czasownikiem zwykłym, ale po 'to be' i po czasowniku posiłkowym",
-      "Przysłówki sposobu na końcu zdania, po czasowniku i dopełnieniu",
-      "Przysłówki czasu najczęściej na końcu zdania (styl neutralny) lub na początku (nacisk)",
-      "Nigdy nie wstawiamy przysłówka sposobu między czasownik a jego dopełnienie"
-    ],
-    "tags": ["He always arrives on time.", "She speaks English fluently.", "I saw him yesterday.", "She is usually tired."],
-    "examples": [
-      { "en": "He always arrives on time.", "pl": "Zawsze przychodzi na czas." },
-      { "en": "She speaks English fluently.", "pl": "Mówi płynnie po angielsku." },
-      { "en": "I saw him yesterday.", "pl": "Widziałem go wczoraj." },
-      { "en": "She is usually tired after work.", "pl": "Zwykle jest zmęczona po pracy." }
+      { "en": "He trained hard every morning, but the coach still thought he was hardly trying.", "pl": "Trenował ciężko każdego ranka, ale trener i tak uważał, że prawie się nie stara." },
+      { "en": "The train arrived late again — I haven't seen it on time lately.", "pl": "Pociąg znowu przyjechał spóźniony — ostatnio w ogóle nie widziałem go na czas." },
+      { "en": "The kite climbed high above the trees, a result that was highly unlikely given the weak wind.", "pl": "Latawiec wzbił się wysoko ponad drzewa, co było wysoce nieprawdopodobne przy tak słabym wietrze." },
+      { "en": "Stay close to the guide and listen closely to every instruction.", "pl": "Trzymaj się blisko przewodnika i słuchaj uważnie każdej instrukcji." }
     ]
   },
   {
     "id": "adverbs_comparison",
-    "order": 4,
+    "order": 3,
     "nameEn": "comparative and superlative adverbs",
-    "namePl": "Stopniowanie przysłówków",
+    "namePl": "Stopniowanie przysłówków: -er/-est, opisowo i formy supletywne",
     "rules": [
-      { "label": "Krótkie przysłówki", "text": "jednosylabowe (fast, hard, late) stopniujemy jak przymiotniki: fast → faster → fastest" },
-      { "label": "Przysłówki na -ly", "text": "dłuższe, zakończone na -ly, stopniujemy przez more/most: quickly → more quickly → most quickly" },
-      { "label": "Nieregularne", "text": "well → better → best, badly → worse → worst, far → farther/further → farthest/furthest" },
-      { "label": "as...as", "text": "do porównania równości: She runs as fast as her brother." }
+      {
+        "label": "Budowa",
+        "text": "Krótkie, płaskie przysłówki (fast, hard, early, late, near) stopniują się przez -er/-est, dokładnie jak krótkie przymiotniki: fast → faster → fastest, early → earlier → earliest. Przysłówki na -ly niemal zawsze stopniują się opisowo, przez more/most: quickly → more quickly → most quickly, carefully → more carefully → most carefully."
+      },
+      {
+        "label": "Dlaczego krótkie -er, a długie 'more' — ten sam ciężar fonetyczny, co przy przymiotnikach",
+        "text": "To nie przypadek, że linia podziału biegnie dokładnie tak samo jak przy stopniowaniu przymiotników (por. temat 'Stopniowanie') — chodzi o ten sam mechanizm ciężaru sylabicznego. Ale przy przysłówkach dochodzi dodatkowa warstwa historyczna: staroangielski miał dla przysłówków WŁASNY, odrębny przyrostek stopnia wyższego '-or' (np. 'bealde' 'śmiało' → 'bealdor'), różny od przymiotnikowego '-ra'. Te dwie końcówki z czasem zlały się fonetycznie w jedno dzisiejsze '-er' — ale to zlanie dotyczyło wyłącznie KRÓTKICH form przysłówkowych, bo tylko one od początku należały do tej rdzennie germańskiej, jednosylabowej kategorii. Przysłówki na '-lice/-ly' to twór młodszy i strukturalnie już złożony (przymiotnik + skamieniały rzeczownik 'ciało') — dokładanie do takiego złożenia jeszcze jednej sylaby '-er' tworzyłoby potrójne piętro morfologii, którego angielski unika równie konsekwentnie, jak unika 'beautifuller' zamiast 'more beautiful'."
+      },
+      {
+        "label": "well/better/best i badly/worse/worst — dwa różne rdzenie pod jedną etykietą",
+        "text": "Podobnie jak przy przymiotniku 'good', przysłówek 'well' dzieli z nim ten sam supletywny wzorzec: 'better' i 'best' wywodzą się nie z 'wel', lecz z zupełnie innego prageremańskiego rdzenia '*batizô' (spokrewnionego pojęciowo z 'korzyścią, remedium' — ten sam rdzeń kryje się w słowie 'boot' w archaicznym znaczeniu 'pożytek', przetrwałym dziś w wyrażeniu 'to boot' — 'na dodatek'). We wczesnej gramatyce germańskiej 'dobrze/dobry' i jego stopień wyższy były traktowane jako jeden ciąg form tego samego pojęcia, mimo że pochodziły z dwóch różnych korzeni słownych — stąd supletywizm, czyli 'skok' na zupełnie inny rdzeń w stopniu wyższym, zamiast regularnego rozwinięcia tego samego rdzenia. Dokładnie ten sam mechanizm rządzi 'badly' → 'worse' → 'worst': 'worse' pochodzi z odrębnego prageremańskiego '*wersizô', nie z 'bad'."
+      },
+      {
+        "label": "far → farther/further: dwie różne etymologie sklejone w jedno słowo",
+        "text": "To najbardziej pogmatwana historia w całym stopniowaniu przysłówków. 'Far' miał w średnioangielskim własny, regularny stopień wyższy 'farrer' (od staroangielskiego 'feorra'). Niezależnie od tego istniało zupełnie inne słowo: staroangielskie 'forþ' ('naprzód, dalej w przód' — to samo 'forth', co w 'back and forth'), którego stopniem wyższym było 'furþra'. Ponieważ 'farrer' i 'furþra' brzmiały do siebie podobnie, mówiący zaczęli je mylić i traktować jako warianty tego samego słowa — 'further' (potomek 'furþra') stopniowo WCHŁONĄŁ funkcję stopnia wyższego od 'far', mimo że etymologicznie nie ma z nim nic wspólnego. Równolegle powstała też nowsza, w pełni regularna forma 'farther' (far + -er), stworzona przez analogię, niezależnie od tamtej pomyłki. Do dziś w rejestrze starannym utrzymuje się śladowy podział znaczeniowy odziedziczony po tej historii: 'farther' preferowane jest dla dosłownego, mierzalnego dystansu fizycznego (He walked farther than anyone else.), a 'further' dla dystansu przenośnego, abstrakcyjnego rozszerzenia lub dodatku (I have nothing further to say. / Further information is available online.) — choć w mowie potocznej, zwłaszcza amerykańskiej, granica ta się zaciera i 'further' bywa używane uniwersalnie."
+      },
+      {
+        "label": "Równość: as...as z przysłówkiem",
+        "text": "Do wyrażenia, że dwie czynności zachodzą w takim samym stopniu, przysłówek — podobnie jak przymiotnik — wstawia się w podstawowej, niestopniowanej formie między dwa 'as': 'She runs as fast as her brother.' Przeczenie równości najczęściej realizuje się przez 'not as/so...as': 'He doesn't work as hard as he used to.' Ten wzorzec jest dokładnie tym samym mechanizmem porównawczym, co przy przymiotnikach — pełny obraz konstrukcji porównawczych, w tym mniej oczywiste warianty, rozwija osobny temat 'Zdania porównawcze'."
+      }
     ],
     "usage": [
-      "Krótkie przysłówki (te bez -ly, jak fast, hard) dostają końcówki -er/-est",
-      "Przysłówki utworzone przez -ly niemal zawsze stopniujemy opisowo (more/most)",
-      "Formy nieregularne (well, badly, far) trzeba zapamiętać osobno",
-      "Konstrukcja as...as służy do wyrażenia, że coś dzieje się w takim samym stopniu"
+      "Krótkie, płaskie przysłówki (fast, hard, early, late, near, soon) dostają -er/-est: She arrived earlier than expected.",
+      "Przysłówki na -ly niemal zawsze idą opisowo przez more/most: He explained it more clearly than his colleague.",
+      "Formy nieregularne well→better→best i badly→worse→worst trzeba zapamiętać jako osobne słowa, nie jako wariant rdzenia",
+      "farther zarezerwuj dla dosłownej odległości fizycznej, further dla znaczeń przenośnych i formalnych zwrotów (further notice, further details) — w razie wątpliwości 'further' jest bezpieczniejszym wyborem uniwersalnym"
     ],
-    "tags": ["faster", "more quickly", "better", "as fast as"],
+    "tags": ["faster", "more clearly", "better/best", "farther vs further"],
     "examples": [
-      { "en": "He runs faster than his brother.", "pl": "Biega szybciej niż jego brat." },
-      { "en": "She explained it more clearly this time.", "pl": "Wyjaśniła to tym razem jaśniej." },
-      { "en": "He plays tennis better than me.", "pl": "Gra w tenisa lepiej ode mnie." },
-      { "en": "She works as hard as her colleagues.", "pl": "Pracuje tak ciężko jak jej koledzy." }
+      { "en": "He finished the marathon faster than he had in any previous race.", "pl": "Ukończył maraton szybciej niż w jakimkolwiek poprzednim biegu." },
+      { "en": "Could you explain the second point more clearly this time?", "pl": "Czy mógłbyś tym razem wyjaśnić drugi punkt jaśniej?" },
+      { "en": "Of everyone on the team, she handled the setback best.", "pl": "Ze wszystkich w zespole to ona najlepiej poradziła sobie z niepowodzeniem." },
+      { "en": "We'll need to look into this further before making a decision.", "pl": "Będziemy musieli zbadać to głębiej, zanim podejmiemy decyzję." }
+    ]
+  },
+  {
+    "id": "adverbs_manner_scope",
+    "order": 4,
+    "nameEn": "manner vs subject-oriented (evaluative) adverbs",
+    "namePl": "Przysłówek sposobu czy ocena osoby? Ten sam wyraz, dwa różne znaczenia",
+    "rules": [
+      {
+        "label": "Ten sam przysłówek, dwa zupełnie różne pytania",
+        "text": "Wiele przysłówków na -ly, utworzonych od przymiotników opisujących cechę charakteru czy osąd (clever, stupid, wise, foolish, rude, kind, careless, generous), jest systematycznie dwuznacznych między dwoma odczytaniami. Pierwsze to czyste znaczenie SPOSOBU: opisuje, JAK dokładnie przebiegła czynność, odpowiada na pytanie 'w jaki sposób?'. Drugie to znaczenie OCENIAJĄCE (subject-oriented): to skondensowany komentarz na temat osoby, która coś zrobiła — de facto skrót od 'to było [przymiotnik] z jej strony, że...'. Porównaj: 'He answered the questions cleverly.' (sposób: odpowiadał W SPRYTNY SPOSÓB, np. z dowcipem, unikając pułapek) kontra 'Cleverly, he answered the questions.' / 'He cleverly answered the questions.' (ocena: to było SPRYTNE Z JEGO STRONY, że w ogóle odpowiedział — komentarz do decyzji, nie do stylu odpowiadania)."
+      },
+      {
+        "label": "Test pozycyjny: koniec zdania kontra początek/środek",
+        "text": "Pozycja KOŃCOWA — ta sama, kanoniczna pozycja przysłówka sposobu z reguły M-P-T (por. temat 'Szyk zdania') — niemal zawsze wymusza odczytanie SPOSOBU: przysłówek stoi tuż przy czasowniku, którego 'jak' opisuje, w wąskim zasięgu samej czynności. Pozycja POCZĄTKOWA (przed podmiotem) albo ŚRODKOWA (ta sama, co przysłówki zdaniowe probably/certainly z tematu 'Szyk zdania') silnie faworyzuje odczytanie OCENIAJĄCE: przysłówek 'wyskakuje' poza rdzeń czasownikowy i obejmuje swoim zasięgiem całe zdanie, w tym niewypowiedziany osąd o podmiocie."
+      },
+      {
+        "label": "Dlaczego akurat ta pozycja niesie ten sens: pozycja jako mapa zasięgu (scope)",
+        "text": "To nie zbieg okoliczności, lecz konsekwentna logika składniowa: miejsce przysłówka w zdaniu odwzorowuje jego ZASIĘG znaczeniowy. Przysłówek leżący głęboko wewnątrz frazy czasownikowej, tuż obok czasownika, ma wąski zasięg — obejmuje tylko sam akt, jego fizyczny lub behawioralny przebieg. Przysłówek leżący na krawędzi zdania, przed jego rdzeniem, ma zasięg szeroki — obejmuje całą wypowiadaną myśl, łącznie z domyślnym osądem o tym, kto ją wykonał. To dokładnie ta sama zasada geometryczna, która rządzi przysłówkami zdaniowymi typu 'probably' czy 'certainly': różnica jest taka, że 'probably' ma tylko JEDNO możliwe znaczenie (i dlatego zawsze stoi w pozycji środkowej), podczas gdy 'cleverly' czy 'stupidly' są LEKSYKALNIE DWUZNACZNE — to ten sam wyraz potrafi pełnić obie funkcje, więc to WŁAŚNIE JEGO POZYCJA (a nie forma) decyduje, którego znaczenia użytkownik języka użył."
+      },
+      {
+        "label": "Nie każdy przysłówek na -ly ma tę podwójność",
+        "text": "Czysto percepcyjne, mierzalne przysłówki sposobu — quickly, slowly, loudly, quietly, silently, heavily — opisują obiektywną, fizyczną cechę czynności, a nie osąd o charakterze osoby, więc niemal całkowicie opierają się odczytaniu oceniającemu, nawet w pozycji początkowej: 'Quickly, she left the room.' wciąż znaczy tylko tyle, że wyszła w szybki sposób — nie 'to było szybkie z jej strony'. Dwuznaczność jest zarezerwowana dla przysłówków wywodzących się z przymiotników, które SAMODZIELNIE potrafią opisywać charakter człowieka (a clever person, a stupid person, a kind person) — bo to właśnie to przymiotnikowe znaczenie 'będący jakiegoś rodzaju' zostaje przetworzone na komentarz o podmiocie, gdy przysłówek ucieka z wąskiej pozycji przy czasowniku."
+      },
+      {
+        "label": "Gdy sama pozycja nie wystarcza: rozstrzyga sens zdania",
+        "text": "Nawet w pozycji końcowej kontekst może wymusić odczytanie oceniające, jeśli sposobowe po prostu nie ma sensu: w 'She locked her keys in the car stupidly.' trudno wyobrazić sobie 'głupi SPOSÓB' zamykania kluczyków w aucie — więc mimo końcowej pozycji zdanie i tak skłania się ku ocenie osoby, choć w naturalnej mowie taka treść niemal zawsze wędruje do pozycji środkowej ('She stupidly locked her keys in the car.'), bo to właśnie tam ocena brzmi najbardziej idiomatycznie. Odwrotnie: część czasowników w ogóle nie ma dostępnego, konkretnego 'sposobu' dla danego przymiotnika (trudno wskazać, jak wygląda odpowiadanie 'w niegrzeczny sposób' inaczej niż przez sam fakt bycia niegrzecznym), więc dla takich par ocena jest odczytaniem domyślnym niezależnie od pozycji."
+      }
+    ],
+    "usage": [
+      "Pozycja końcowa (po czasowniku/dopełnieniu) = domyślnie znaczenie sposobu: He answered the question rudely. (w niegrzeczny sposób, opis tonu wypowiedzi)",
+      "Pozycja początkowa lub środkowa = domyślnie ocena podmiotu: Rudely, he interrupted her mid-sentence. / He rudely interrupted her. (to było z jego strony niegrzeczne, że w ogóle jej przerwał)",
+      "Dwuznaczność dotyczy głównie przysłówków charakteru (clever, stupid, wise, foolish, rude, kind, careless, generous, brave) — czysto percepcyjne przysłówki (quickly, loudly, silently) niemal zawsze zostają przysłówkami sposobu niezależnie od pozycji",
+      "Gdy zależy nam na jednoznaczności oceny, bezpieczniejsza jest w pełni rozwinięta konstrukcja komentująca: 'It was clever of him to check the contract twice.' zamiast dwuznacznego 'He checked the contract twice cleverly.'"
+    ],
+    "tags": ["cleverly", "scope", "subject-oriented adverb", "position changes meaning"],
+    "examples": [
+      { "en": "She solved the puzzle cleverly, spotting the pattern within seconds.", "pl": "Rozwiązała łamigłówkę sprytnie, dostrzegając wzór w kilka sekund." },
+      { "en": "Cleverly, she had already backed up the files before the system crashed.", "pl": "Sprytnie zrobiła, że zrobiła już kopię plików, zanim system się zawiesił." },
+      { "en": "He stupidly left the door unlocked while the whole street knew he was on holiday.", "pl": "Głupio zrobił, zostawiając niezamknięte drzwi, skoro cała ulica wiedziała, że jest na wakacjach." },
+      { "en": "The witness answered the lawyer's questions calmly and precisely, without ever raising her voice.", "pl": "Świadek odpowiadała na pytania prawnika spokojnie i precyzyjnie, nigdy nie podnosząc głosu." }
     ]
   }
 ]
