@@ -5,23 +5,40 @@
     "nameEn": "Negative prefixes (un-, in-/im-/il-/ir-, dis-, non-)",
     "namePl": "Przedrostki przeczące (un-, in-/im-/il-/ir-, dis-, non-)",
     "rules": [
-      { "label": "un-", "text": "Najczęstszy przedrostek przeczący, głównie z przymiotnikami i czasownikami (happy→unhappy, lock→unlock)" },
-      { "label": "in-/im-/il-/ir-", "text": "Przedrostek pochodzenia łacińskiego, zmienia formę zależnie od pierwszej litery rdzenia (possible→impossible, legal→illegal, regular→irregular, correct→incorrect)" },
-      { "label": "dis-", "text": "Przeczenie lub odwrócenie czynności (agree→disagree, appear→disappear)" },
-      { "label": "non-", "text": "Neutralne zaprzeczenie, często z rzeczownikami i przymiotnikami (sense→nonsense, existent→nonexistent)" }
+      {
+        "label": "Cztery przedrostki, jeden wspólny przodek",
+        "text": "un-, in- i grecki przedrostek a- (jak w 'amoral') nie są przypadkową zbieżnością znaczeń — wszystkie trzy wywodzą się z tego samego praindoeuropejskiego morfemu przeczącego *n̥-, tzw. 'sylabicznego n' negacji, obecnego też w łacińskim 'ne' czy sanskryckim 'a-'. Zanim jeszcze angielski i łacina rozeszły się jako osobne gałęzie rodziny indoeuropejskiej, oba języki dziedziczyły ten sam prasłowotwórczy odruch: 'dodaj przedrostek negujący z n z przodu wyrazu'. Angielskie 'un-' to bezpośredni, niezapożyczony spadkobierca tego dziedzictwa w linii germańskiej (podobnie niemieckie 'un-', niderlandzkie 'on-'); łacińskie 'in-' to ten sam rdzeń w linii italskiej, który do angielskiego trafił wtórnie, razem z tysiącami łacińskich słów uczonych. Dlatego angielski ma dziś nie jeden, lecz trzy 'genetycznie' spokrewnione sposoby zaprzeczania przymiotnika — i to nie jest chaos, tylko warstwowa historia zapożyczeń nałożona na wspólny prapoczątek."
+      },
+      {
+        "label": "in-/im-/il-/ir-: zapożyczona już gotowa asymilacja, nie żywa reguła angielska",
+        "text": "Zmienność in- → im- (przed p, b, m), il- (przed l) i ir- (przed r) wygląda jak reguła fonetyczna angielskiego, ale nią nie jest — to skamielina asymilacji, która zaszła w samej łacinie, zanim dane słowo w ogóle trafiło do angielskiego. 'Impossibilis', 'illegalis' i 'irregularis' istniały w tej postaci już w łacinie klasycznej: łacińska spółgłoska nosowa /n/ regularnie upodabniała się (asymilowała) do miejsca artykulacji kolejnej głoski — /n/ przed wargowymi p/b/m staje się /m/, przed /l/ i /r/ 'rozpływa się' w tę samą głoskę. Angielski nie 'stosuje' tu żadnej reguły — po prostu odziedziczył gotowe, już zasymilowane formy jako całe, niepodzielne zapożyczenia. To dlatego lista słów z im-/il-/ir- jest zamknięta i trzeba ją znać słowo po słowie: nowy przymiotnik nigdy nie dostanie '*inpossible' ani tym bardziej '*inhappy' — in- działa wyłącznie na rdzeniach łacińskiego pochodzenia, które przyszły do angielskiego już z tym przedrostkiem przyklejonym."
+      },
+      {
+        "label": "un- jest żywe, in- jest martwe — dlaczego to ma znaczenie praktyczne",
+        "text": "'Żywy' (produktywny) morfem słowotwórczy to taki, który mówiący mogą swobodnie doklejać do nowych słów, nawet neologizmów; 'martwy' (nieproduktywny) istnieje tylko w słowach, które go już mają, odziedziczonych z przeszłości. un- jest rdzennie germańskie i w pełni produktywne: działa na niemal każdym przymiotniku i imiesłowie, niezależnie od pochodzenia (unhappy, unlocked, ale też uncool, un-PC, a nawet un-Instagrammable). in-/im-/il-/ir- jest zamkniętą listą przyniesioną z łaciny: nowe słowo nigdy go nie dostanie, bo przedrostek ten nigdy nie był częścią żywej gramatyki angielskiego — był częścią gramatyki łaciny, zaimportowaną razem z gotowymi słowami. To wyjaśnia, dlaczego 'zapamiętywanie', które słowo bierze który przedrostek, jest w istocie zapamiętywaniem etymologii: rdzenie germańskie (happy, kind, fair, wise, lock, do, dress) biorą un-, rdzenie łacińskie o ustalonej, historycznej formie (possible, legal, regular, correct, complete, mature) biorą in-/im-/il-/ir-."
+      },
+      {
+        "label": "dis-: nie negacja stanu, lecz odwrócenie czynności",
+        "text": "dis- pochodzi z łacińskiego 'dis-' ('w różne strony, врозь, oddzielnie' — ten sam rdzeń co liczebnik 'duo', dwa), do angielskiego trafiło głównie przez starofrancuski w okresie normańskim. Kluczowa różnica semantyczna względem un-/in- polega na tym, że dis- rzadko po prostu 'neguje cechę' — częściej odwraca albo unieważnia czynność, która już się odbyła lub trwa: appear (pojawić się) → disappear (zniknąć, czyli odwrócić pojawienie się), connect → disconnect, obey → disobey. Dlatego dis- łączy się głównie z czasownikami wyrażającymi relację lub proces (agree, appear, connect, trust, obey, approve), a rzadko z prostymi przymiotnikami opisującymi stan (nie powiemy '*dishappy')."
+      },
+      {
+        "label": "non-: łacińskie 'nawet nie jeden' i neutralna klasyfikacja",
+        "text": "non- pochodzi z łacińskiego 'non', które samo jest ściągnięciem starszego 'ne oinom' — dosłownie 'nie jeden(oinom = 'unum', 'jeden')'. Do angielskiego non- weszło stosunkowo późno, głównie przez rejestr naukowy, prawniczy i filozoficzny wczesnej nowożytności, i to tłumaczy jego charakter: jest to przedrostek czysto klasyfikujący, nie oceniający. 'Unhappy' niesie w sobie negatywną ocenę (smutek to coś złego), ale 'non-fiction' czy 'nonexistent' po prostu umieszczają rzecz poza daną kategorią, bez żadnego wartościowania — dlatego non- jest ulubionym narzędziem rejestru urzędowego, prawnego i technicznego (non-refundable, non-binding, non-negotiable), gdzie liczy się precyzyjna klasyfikacja, a nie emocja."
+      }
     ],
     "usage": [
-      "Wybór przedrostka zależy od konkretnego słowa - trzeba go po prostu zapamiętać, nie ma jednej uniwersalnej reguły",
-      "im- pojawia się przed p, b, m (impossible, imbalance, immature)",
-      "il- pojawia się przed l (illegal, illogical)",
-      "ir- pojawia się przed r (irregular, irresponsible)"
+      "uninterested a disinterested to klasyczna pułapka C1/C2: 'uninterested' (od un- + interested) znaczy 'znudzony, nie zainteresowany', natomiast 'disinterested' (od dis- + interested) znaczy 'bezstronny, niezależny, bez własnego interesu' — dwa różne przedrostki dodane do tego samego rdzenia dają dwa zupełnie różne znaczenia, nie synonimy",
+      "immoral, amoral i (rzadkie) unmoral pokazują trzy warstwy tego samego rdzenia negacji: immoral (łac. in-) to 'moralnie zły, sprzeczny z etyką'; amoral (grec. a-) to 'znajdujący się poza kategoriami moralnymi w ogóle' (np. siły natury są amoralne, nie niemoralne); unmoral jest dziś archaiczne/rzadkie, bo un- z reguły przegrywa z zapożyczonym in- na rdzeniach łacińskich",
+      "im- pojawia się przed p, b, m (impossible, imbalance, immature), il- przed l (illegal, illogical), ir- przed r (irregular, irresponsible) — to zapis skamieniałej łacińskiej asymilacji, a nie reguła do zastosowania na nowych słowach",
+      "nowe, potoczne słowa niemal zawsze biorą un-, nigdy in-: unfollow, unfriend, un-PC, unrelatable — bo tylko un- jest dziś żywym, produktywnym morfemem angielskiej gramatyki słowotwórczej",
+      "dis- w rejestrze potocznym rozwinęło osobne życie jako samodzielny czasownik/rzeczownik slangowy ('to diss someone' = obrazić kogoś, 'a diss track') — dowód, że nawet zapożyczony przedrostek może z czasem 'oderwać się' i zacząć funkcjonować jako pełnoprawne słowo"
     ],
-    "tags": ["unfair", "impossible", "disagree", "nonexistent"],
+    "tags": ["unfair", "impossible", "disagree", "nonexistent", "uninterested vs disinterested", "amoral vs immoral"],
     "examples": [
-      { "en": "It's unfair to blame him for everything.", "pl": "To niesprawiedliwe obwiniać go o wszystko." },
-      { "en": "The task seemed impossible at first.", "pl": "Zadanie na początku wydawało się niemożliwe." },
-      { "en": "They disagree on almost everything.", "pl": "Nie zgadzają się prawie w niczym." },
-      { "en": "Her fears turned out to be nonexistent.", "pl": "Jej obawy okazały się bezpodstawne (nieistniejące)." }
+      { "en": "It's unfair to judge someone before you've heard their side of the story.", "pl": "To niesprawiedliwe osądzać kogoś, zanim usłyszysz jego wersję wydarzeń." },
+      { "en": "As a judge, she had to remain completely disinterested, however she felt personally.", "pl": "Jako sędzia musiała zachować całkowitą bezstronność, niezależnie od tego, co czuła osobiście." },
+      { "en": "He sat through the whole lecture looking bored and thoroughly uninterested.", "pl": "Przesiedział cały wykład, wyglądając na znudzonego i zupełnie niezainteresowanego." },
+      { "en": "The company insisted the deadline was non-negotiable.", "pl": "Firma upierała się, że termin nie podlega negocjacjom." }
     ]
   },
   {
@@ -30,22 +47,40 @@
     "nameEn": "Noun-forming suffixes (-tion/-sion, -ment, -ness, -ity, -er/-or)",
     "namePl": "Sufiksy rzeczownikotwórcze (-tion/-sion, -ment, -ness, -ity, -er/-or)",
     "rules": [
-      { "label": "-tion/-sion", "text": "Tworzy rzeczowniki abstrakcyjne od czasowników (create→creation, decide→decision)" },
-      { "label": "-ment", "text": "Tworzy rzeczowniki od czasowników, często oznaczające proces lub jego rezultat (develop→development, agree→agreement)" },
-      { "label": "-ness/-ity", "text": "Tworzy rzeczowniki abstrakcyjne od przymiotników (kind→kindness, able→ability)" },
-      { "label": "-er/-or", "text": "Tworzy rzeczowniki oznaczające wykonawcę czynności (teach→teacher, act→actor)" }
+      {
+        "label": "-tion/-sion: zamrożona forma łacińskiego imiesłowu biernego",
+        "text": "-tion nie jest osobnym sufiksem doklejanym do angielskiego czasownika w locie — to spadkobierca łacińskiego -io/-ionem, które samo doczepiało się do tzw. tematu supinum (specjalnej, 'skróconej' formy czasownika używanej m.in. do tworzenia imiesłowu biernego): creat-us ('stworzony') + -io daje creatio, stąd angielskie creation. -sion pojawia się tam, gdzie łaciński temat supinum kończył się na -d, -de lub -t poprzedzone spółgłoską: divid-sum → divisio ('podział') → division, decid-sum → decisio → decision. Podwojone -ss- w permission, admission, expression to ślad łacińskich tematów zakończonych na -tt/-mitt (mittere 'posłać' → miss-um), które przy zetknięciu z -io dawały -ssio. Krótko: to, czy dostaniemy -tion czy -sion, nie jest wyborem angielskiego, lecz odziedziczoną formą łacińskiego czasownika sprzed ponad dwóch tysięcy lat."
+      },
+      {
+        "label": "-ment: francuski import ograniczony do francuskich czasowników",
+        "text": "-ment pochodzi z łacińskiego -mentum (sufiks tworzący rzeczowniki oznaczające 'narzędzie, środek lub rezultat czynności'), do angielskiego trafił przez starofrancuski razem z całą falą normańskich zapożyczeń administracyjnych i prawnych po 1066 roku. Dlatego -ment niemal wyłącznie doczepia się do czasowników, które same są zapożyczeniami francuskimi (govern, agree, develop, pay, employ, argue) — nigdy do rdzennie germańskich czasowników jednosylabowych typu eat, run, sing, get (nie istnieje '*eatment' ani '*singment'). To dobry test etymologicznej przynależności czasownika: jeśli -ment 'pasuje', czasownik niemal na pewno przyszedł do angielskiego z Francji."
+      },
+      {
+        "label": "-ness: rdzenny Germanin, otwarty na wszystkich",
+        "text": "-ness wywodzi się z pragermańskiego *-inassuz i jest jednym z najbardziej produktywnych sufiksów w całej historii angielskiego — w przeciwieństwie do -ment czy -ity nie ma żadnych ograniczeń etymologicznych: doczepia się równie chętnie do rdzeni germańskich (kind→kindness, happy→happiness) jak i do dawno zadomowionych zapożyczeń łacińsko-francuskich (polite→politeness, correct→correctness, precise→preciseness). To dlatego -ness jest 'domyślnym' rozwiązaniem awaryjnym: gdy nie ma pewności, czy dany przymiotnik ma ustaloną formę na -ity, -ness niemal zawsze zadziała i zostanie zrozumiane, nawet jeśli brzmi rzadziej niż istniejący już łaciński odpowiednik (np. 'curiousness' istnieje, choć w praktyce ustąpiło miejsca 'curiosity')."
+      },
+      {
+        "label": "-ity i przesuwający się akcent — sygnał, że sufiks jest 'obcy'",
+        "text": "-ity pochodzi z łacińskiego -itas/-itatem via starofrancuskie -ité i, w przeciwieństwie do -ness, jest sufiksem związanym (bound) — pojawia się niemal wyłącznie na rdzeniach łacińsko-francuskich zakończonych na -able/-ible, -al, -ic, -ive, -ous (ability, formality, complexity, activity, generosity). Ma on jedną charakterystyczną, 'zdradziecką' cechę: przesuwa akcent wyrazowy na sylabę bezpośrednio przed sobą, niezależnie od tego, gdzie akcent padał w rdzeniu: ABle → aBIty, ACtive → acTIvity, poPUlar → populARity. Sufiksy rdzennie germańskie (-ness, -ful, -less, -hood) nigdy tego nie robią — akcent zostaje dokładnie tam, gdzie był w rdzeniu (KIND → KINDness). Ta różnica w zachowaniu akcentu to jeden z najpewniejszych testów na to, czy dany sufiks jest 'żywym Germaninem', czy 'zapożyczonym Łacinnikiem' ukrytym pod angielską pisownią."
+      },
+      {
+        "label": "-er kontra -or: który sufiks jest dziś naprawdę żywy",
+        "text": "Oba sufiksy oznaczają wykonawcę czynności i oba ostatecznie wywodzą się z tego samego indoeuropejskiego wzorca agentywnego, ale ich losy w angielskim się rozeszły. -er (ze staroangielskiego -ere, wzmocnionego wczesnym wpływem łacińskiego -arius) zostało w pełni znaturalizowane i jest dziś jedynym produktywnym wyborem: każdy nowy czasownik, niezależnie od pochodzenia, tworzy agenta przez -er (blog→blogger, text→texter, nawet google→googler). -or pozostał zamkniętą listą bezpośrednich zapożyczeń łacińskich rzeczowników agentywnych (actor, director, inventor, professor) — nie jest już 'stosowany' do nowych czasowników, tylko odziedziczony razem z konkretnymi słowami. Innymi słowy: jeśli ktoś wymyśli dziś nowy czasownik, jego wykonawca dostanie -er niemal automatycznie — nikt nie tworzy nowych słów na -or."
+      }
     ],
     "usage": [
-      "-ness dodaje się zwykle bezpośrednio do przymiotnika (kind→kindness), a -ity często wymaga zmiany końcówki (able→ability, active→activity)",
-      "-tion/-sion często pochodzi od czasowników zakończonych na -ate, -ide, -uce (create→creation, decide→decision, produce→production)",
-      "-er/-or wskazuje osobę lub rzecz wykonującą czynność - wybór między nimi trzeba zapamiętać dla każdego słowa osobno"
+      "-tion/-sion pojawia się najczęściej po czasownikach na -ate, -ide, -uce, -it/-mit (create→creation, decide→decision, produce→production, permit→permission)",
+      "-ment działa niemal wyłącznie na francuskich zapożyczeniach czasownikowych: govern→government, develop→development, agree→agreement, argue→argument (z utratą końcowego -e)",
+      "-ness jest bezpiecznym, uniwersalnym wyborem dla praktycznie każdego przymiotnika, gdy nie masz pewności, czy istnieje osobna forma na -ity: politeness, correctness, awareness",
+      "-ity niemal zawsze przesuwa akcent na sylabę tuż przed sobą — to działa jak wskaźnik: jeśli słyszysz przesunięcie akcentu, masz do czynienia z sufiksem łacińskim, nie germańskim",
+      "przy nowych, potocznych lub technologicznych czasownikach (blog, text, google, hack) wykonawca zawsze dostaje -er, nigdy nie tworzy się nowych form na -or"
     ],
-    "tags": ["investment", "decision", "kindness", "teacher"],
+    "tags": ["investment", "decision", "kindness", "ability [əˈbɪləti]", "blogger vs actor"],
     "examples": [
       { "en": "The company announced a major investment in the city centre.", "pl": "Firma ogłosiła dużą inwestycję w centrum miasta." },
-      { "en": "Her decision to become a doctor never changed.", "pl": "Jej decyzja o zostaniu lekarką nigdy się nie zmieniła." },
-      { "en": "Kindness costs nothing.", "pl": "Życzliwość nic nie kosztuje." },
-      { "en": "She works as a translator.", "pl": "Ona pracuje jako tłumaczka." }
+      { "en": "Her decision to become a doctor never changed, despite everyone's doubts.", "pl": "Jej decyzja o zostaniu lekarką nigdy się nie zmieniła, mimo wątpliwości wszystkich." },
+      { "en": "His calm politeness never wavered, even under real pressure.", "pl": "Jego spokojna uprzejmość nie zachwiała się nawet pod prawdziwą presją." },
+      { "en": "She's built quite a following as a food blogger, though she's never trained as a chef.", "pl": "Zbudowała spore grono odbiorców jako blogerka kulinarna, choć nigdy nie szkoliła się na kucharza." }
     ]
   },
   {
@@ -54,21 +89,36 @@
     "nameEn": "Adjective-forming suffixes (-able/-ible, -ful/-less, -ous/-al/-ive)",
     "namePl": "Sufiksy przymiotnikowe (-able/-ible, -ful/-less, -ous/-al/-ive)",
     "rules": [
-      { "label": "-able/-ible", "text": "Oznacza możliwość wykonania czynności (read→readable, understand→understandable)" },
-      { "label": "-ful / -less", "text": "Przeciwstawna para: -ful oznacza 'pełen czegoś', -less 'bez czegoś' (hope→hopeful/hopeless, harm→harmful/harmless)" },
-      { "label": "-ous/-al/-ive", "text": "Tworzą przymiotniki od rzeczowników lub czasowników, zwykle z niewielką zmianą pisowni (danger→dangerous, nature→natural, create→creative)" }
+      {
+        "label": "-able jest żywe, -ible jest skamieniałe — to znów kwestia koniugacji łacińskiej",
+        "text": "Oba sufiksy wywodzą się z jednego łacińskiego źródła (-abilis/-ibilis, 'nadający się do'), a rozjechały się na dwie formy z bardzo prozaicznego powodu gramatycznego: w łacinie czasowniki I koniugacji (na -are, najliczniejszej i wciąż produktywnej klasy) tworzyły przymiotnik na -abilis (amare 'kochać' → amabilis), podczas gdy czasowniki koniugacji III i IV dawały -ibilis (videre/videre 'widzieć' → visibilis, audire 'słyszeć' → audibilis). Ponieważ I koniugacja była w łacinie klasą otwartą i wciąż tworzącą nowe czasowniki, jej potomek -able odziedziczył tę żywotność w angielskim: jest dziś jedynym w pełni produktywnym z tej pary, doczepianym do dowolnego czasownika przechodniego, nawet najnowszego (readable, googleable, downloadable, unfriendable). -ible jest zamkniętą listą wprost odziedziczoną z łacińskich czasowników III/IV koniugacji (visible, audible, possible, responsible) — nikt nie tworzy dziś nowych słów na -ible."
+      },
+      {
+        "label": "-ful i -less: dwie strony tej samej germańskiej monety",
+        "text": "-ful pochodzi wprost ze staroangielskiego przymiotnika 'full' ('pełny'), zgramatykalizowanego w sufiks o znaczeniu 'pełen czegoś, obfitujący w coś': careful dosłownie znaczyło niegdyś 'pełen troski/uwagi'. -less ma równie konkretne pochodzenie — ze staroangielskiego 'lēas', przymiotnika znaczącego 'wolny od czegoś, pozbawiony, luźny' — i jest to dokładnie ten sam rdzeń, z którego wywodzi się dzisiejszy przymiotnik 'loose' ('luźny')! Careless znaczy więc dosłownie 'luźny od troski, wolny od uwagi' — dopiero z czasem znaczenie 'lēas' zawęziło się wyłącznie do funkcji przeczącego sufiksu, podczas gdy jego samodzielny bliźniak 'loose' zachował pełne, niezależne znaczenie przymiotnikowe. To rzadki w angielskim przypadek, gdy widzimy 'żywy' i 'skamieniały' refleks tego samego staroangielskiego słowa obok siebie we współczesnym słowniku."
+      },
+      {
+        "label": "-ous, -al, -ive: trzy łacińskie 'etykiety jakości' o różnym pochodzeniu gramatycznym",
+        "text": "Wszystkie trzy są zapożyczeniami z łaciny przez starofrancuski, ale wywodzą się z różnych łacińskich kategorii słowotwórczych. -ous pochodzi od łacińskiego -osus ('pełen czegoś, obfitujący w', dangerosus > dangereux > dangerous) i jest semantycznie bliskie germańskiemu -ful, tylko na rdzeniach łacińskich (nie mówimy '*dangerful'). -al wywodzi się z łacińskiego przymiotnikowego -alis ('odnoszący się do, dotyczący rodzaju czegoś': natura+alis → natural, 'związany z naturą'). -ive pochodzi z łacińskiego -ivus, tworzącego przymiotniki o znaczeniu 'skłonny do, mający naturę czegoś' od tematu supinum czasownika (jak przy -tion/-sion): creat-ivus → creative ('mający naturę tworzenia'), inform-ativus → informative. To wyjaśnia, dlaczego -ive tak często współwystępuje z rzeczownikami na -tion od tego samego rdzenia (creation/creative, information/informative) — obie formy wychodzą z tego samego łacińskiego tematu supinum."
+      },
+      {
+        "label": "Dlaczego pary careful/careless działają, a happy/*happyless już nie",
+        "text": "-ful i -less tworzą swobodnie pary przeciwieństw na tych samych rdzeniach rzeczownikowych oznaczających cechę abstrakcyjną lub dającą się 'mieć' czy 'stracić' (care, hope, harm, use, help, power) — bo oba sufiksy historycznie 'widziały' rzeczownik jako pojemnik, który można mieć pełny (-ful) albo pusty (-less). Nie działają one jednak na przymiotnikach: nie mówimy '*happyless', bo 'happy' nie jest rzeczownikiem oznaczającym coś, czego można 'nie mieć' — to sam w sobie już opis stanu, a nie zasób. Do zaprzeczenia przymiotnika (nie rzeczownika) angielski sięga wtedy po un-, nie po -less: unhappy, nie '*happyless'."
+      }
     ],
     "usage": [
-      "-ible pojawia się głównie w słowach pochodzenia łacińskiego (visible, possible, responsible), -able jest bardziej produktywny",
-      "-ful i -less można dodać do wielu tych samych rdzeni, tworząc pary przeciwieństw (careful/careless, hopeful/hopeless)",
-      "Przy -ous/-al/-ive sprawdzaj pisownię - często trzeba usunąć końcowe -e lub zmienić literę (create→creative, inform→informative)"
+      "-ible pojawia się głównie w słowach pochodzenia łacińskiego z zamkniętej, historycznej listy (visible, possible, responsible, audible) — -able jest produktywny i działa na każdym nowym czasowniku",
+      "-ful i -less da się doczepić do tych samych rzeczowników, tworząc naturalne pary przeciwieństw (careful/careless, hopeful/hopeless, harmful/harmless, powerful/powerless)",
+      "przy -ous/-al/-ive sprawdzaj pisownię rdzenia — często trzeba usunąć końcowe -e lub dostosować literę (create→creative, danger→dangerous, nature→natural)",
+      "wiele przymiotników na -ive ma bliźniaczy rzeczownik na -tion/-sion z tego samego łacińskiego tematu supinum (creation/creative, decision — ale bez odpowiednika '*decisive' w tym samym znaczeniu, bo decisive rozwinęło własne, przesunięte znaczenie 'zdecydowany, rozstrzygający')",
+      "jeśli szukasz przeczenia rzeczownika-'zasobu', użyj -less (careless); jeśli szukasz przeczenia gotowego przymiotnika, użyj un- lub in-/im-/il-/ir- (unhappy, impossible), nie -less"
     ],
-    "tags": ["readable", "careful", "hopeless", "dangerous"],
+    "tags": ["readable", "careful/careless", "dangerous", "creative/creation", "loose ~ -less"],
     "examples": [
-      { "en": "This book is very readable.", "pl": "Ta książka jest bardzo przystępna (łatwa do czytania)." },
-      { "en": "Be careful when crossing the street.", "pl": "Uważaj przy przechodzeniu przez ulicę." },
-      { "en": "The situation seemed completely hopeless.", "pl": "Sytuacja wydawała się zupełnie beznadziejna." },
-      { "en": "Swimming with sharks can be quite dangerous.", "pl": "Pływanie z rekinami może być dość niebezpieczne." }
+      { "en": "This contract is written in plain English and is very readable.", "pl": "Ta umowa jest napisana prostym angielskim i jest bardzo przystępna." },
+      { "en": "Be careful with that vase — it's practically priceless.", "pl": "Uważaj z tym wazonem — jest praktycznie bezcenny." },
+      { "en": "Swimming with sharks that have already been fed is far less dangerous than people assume.", "pl": "Pływanie z rekinami, które już zostały nakarmione, jest o wiele mniej niebezpieczne, niż ludzie zakładają." },
+      { "en": "The lecture was informative but a little too dense for a first-year audience.", "pl": "Wykład był treściwy, ale trochę zbyt zaawansowany jak na pierwszy rok studiów." }
     ]
   },
   {
@@ -77,23 +127,78 @@
     "nameEn": "Other prefixes (re-, mis-, over-/under-, pre-/out-)",
     "namePl": "Inne przedrostki (re-, mis-, over-/under-, pre-/out-)",
     "rules": [
-      { "label": "re-", "text": "Oznacza powtórzenie czynności (write→rewrite, do→redo)" },
-      { "label": "mis-", "text": "Oznacza błędne lub złe wykonanie czynności (understand→misunderstand, spell→misspell)" },
-      { "label": "over- / under-", "text": "Przeciwstawne przedrostki oznaczające nadmiar lub niedobór (cook→overcook/undercook, estimate→overestimate/underestimate)" },
-      { "label": "pre- / out-", "text": "pre- oznacza 'przed' (view→preview, war→prewar), out- oznacza przewyższenie kogoś w czymś (grow→outgrow, smart→outsmart)" }
+      {
+        "label": "re-: łaciński przedrostek, który wtopił się w angielski jak własny",
+        "text": "re- pochodzi z łacińskiego 're-' ('z powrotem, ponownie') i był jednym z najczęściej zapożyczanych elementów słowotwórczych w całej historii angielskiego — przyszedł tak wcześnie i w tak ogromnej liczbie słów (return, receive, remember, recover), że mówiący przestali go odczuwać jako 'obcy'. Dzięki temu, w przeciwieństwie do większości innych łacińskich przedrostków (in-, dis-), re- stało się w pełni produktywne również na rdzennie angielskich czasownikach: rewrite, redo, rethink, reread. To wyjątek potwierdzający regułę: przedrostek zapożyczony może 'zdobyć obywatelstwo' i zacząć działać jak żywy, rdzenny element gramatyki, jeśli tylko zostanie użyty wystarczająco wcześnie i wystarczająco często."
+      },
+      {
+        "label": "mis-: germański sygnał błędu, wciąż w pełni żywy",
+        "text": "mis- to rdzennie germański przedrostek, ze staroangielskiego 'mis-' (spokrewniony z niemieckim miss- i skandynawskim mis-), związany etymologicznie z ideą 'braku, chybienia' — tym samym rdzeniem, co czasownik 'to miss' ('chybić, nie trafić'). Misunderstand dosłownie znaczy więc 'chybić w rozumieniu', misspell 'chybić w pisowni'. Ponieważ jest rdzennie germański, mis- pozostaje w pełni produktywny i łączy się swobodnie z niemal każdym czasownikiem oznaczającym przekazywanie informacji lub wykonywanie czynności (mislead, miscalculate, misjudge, mismanage) — nie jest ograniczony do zamkniętej, zapożyczonej listy, jak in- czy dis-."
+      },
+      {
+        "label": "over-/under-: metafora przestrzenna zamieniona w skalę ilości",
+        "text": "Oba przedrostki to rdzennie germańskie przysłówki kierunkowe ('nad', 'pod'), które przeszły klasyczną drogę gramatykalizacji: konkretne położenie w przestrzeni fizycznej (być NAD albo POD czymś) stało się abstrakcyjną metaforą przekroczenia lub niedosięgnięcia normy. Overcook nie znaczy 'gotować nad czymś', lecz 'przekroczyć właściwy poziom gotowania'; undercook — 'nie dosięgnąć go'. To ten sam mechanizm poznawczy, który każe nam mówić 'przesada' (dosłownie 'przekroczenie miary') czy 'niedoszacować' w polskim — fizyczna pionowa oś staje się uniwersalną metaforą 'za dużo / za mało' w wielu niepowiązanych ze sobą językach, co sugeruje, że to jeden z najbardziej naturalnych, uniwersalnych wzorców metaforycznych ludzkiego umysłu, a nie przypadkowa cecha akurat angielskiego."
+      },
+      {
+        "label": "pre- kontra out-: łacińska formalność kontra rdzennie angielska innowacja",
+        "text": "pre- pochodzi z łacińskiego 'prae-' ('przed, z przodu') i typowo wprowadza rejestr nieco bardziej formalny lub techniczny: preview, precondition, prehistoric, premeditated. out- w znaczeniu 'przewyższyć kogoś w czymś' (outgrow, outsmart, outlive, outnumber, outperform) jest natomiast osobliwością rozwiniętą wewnątrz samego angielskiego w okresie średnioangielskim — inne języki germańskie nie mają dokładnie tego samego wzorca 'out- + czasownik przechodni' w znaczeniu porównawczym ('zrobić coś LEPIEJ/DALEJ niż ktoś inny', a nie dosłownie 'na zewnątrz'). Ten konstrukcyjny wzorzec (outshine, outlast, outnumber) jest więc rzadkim przykładem rdzennie angielskiej, wewnętrznej innowacji słowotwórczej, a nie importu z łaciny czy francuskiego — angielski sam, bez niczyjej pomocy, wynalazł sposób na zamknięcie idei 'przewyższyć kogoś w X' w jednym czasowniku."
+      }
     ],
     "usage": [
-      "re- łączy się swobodnie z wieloma czasownikami i jest bardzo produktywne",
-      "mis- sugeruje błąd lub pomyłkę w wykonaniu czynności",
-      "over-/under- warto uczyć się w parach jako naturalne przeciwieństwa",
-      "pre- i out- są mniej produktywne, ale częste w typowych, utrwalonych słowach"
+      "re- łączy się swobodnie zarówno z czasownikami łacińskimi (reconsider, reconstruct), jak i rdzennie germańskimi (rewrite, redo, rethink) — to znak, jak głęboko został wchłonięty do rdzennej gramatyki angielskiego",
+      "mis- sugeruje błąd lub pomyłkę w wykonaniu czynności komunikacyjnej lub poznawczej: misunderstand, mislead, miscalculate, misjudge",
+      "over-/under- warto uczyć się w parach jako naturalne przeciwieństwa na skali ilości/normy: overcook/undercook, overestimate/underestimate, overpay/underpay",
+      "pre- jest typowe dla rejestru formalnego/technicznego (precondition, premeditated), podczas gdy out- w znaczeniu porównawczym (outsmart, outgrow) brzmi żywo i potocznie, mimo że gramatycznie tworzy pełnoprawne czasowniki przechodnie",
+      "out- w tym porównawczym znaczeniu wymaga dopełnienia (kogoś, kogo przewyższamy): 'outsmart THEM', 'outgrow HER OLD SHOES' — bez dopełnienia zdanie traci sens, bo cała konstrukcja jest z natury relacyjna"
     ],
-    "tags": ["rewrite", "misunderstand", "overcook", "outgrow"],
+    "tags": ["rewrite", "misunderstand", "overcook/undercook", "outgrow/outsmart", "preview"],
     "examples": [
-      { "en": "Could you please rewrite this paragraph?", "pl": "Czy mógłbyś przepisać ten akapit?" },
-      { "en": "I think you misunderstood my question yesterday.", "pl": "Myślę, że źle zrozumiałeś wczoraj moje pytanie." },
-      { "en": "Don't overcook the pasta.", "pl": "Nie rozgotuj makaronu." },
-      { "en": "She has already outgrown her old shoes.", "pl": "Ona już wyrosła ze swoich starych butów." }
+      { "en": "Could you please rewrite this paragraph? It's a little unclear.", "pl": "Czy mógłbyś przepisać ten akapit? Jest trochę niejasny." },
+      { "en": "I think you completely misunderstood what I was trying to say.", "pl": "Myślę, że zupełnie źle zrozumiałeś, co próbowałem powiedzieć." },
+      { "en": "Whatever you do, don't overcook the pasta — the whole dish will be ruined.", "pl": "Cokolwiek robisz, nie rozgotuj makaronu — całe danie będzie zrujnowane." },
+      { "en": "She always manages to outsmart her opponents, even the ones with far more experience.", "pl": "Zawsze udaje jej się przechytrzyć przeciwników, nawet tych z dużo większym doświadczeniem." }
+    ]
+  },
+  {
+    "id": "morphological_layers",
+    "order": 5,
+    "nameEn": "Germanic vs. Latinate word formation: productivity, register and doublets",
+    "namePl": "Warstwy słowotwórcze: germańska a łacińska produktywność, rejestr i dublety",
+    "rules": [
+      {
+        "label": "Trzy fale, jeden słownik: dlaczego angielski w ogóle ma tyle sposobów tworzenia słów",
+        "text": "Cała ta wielość przedrostków i sufiksów w poprzednich tematach nie jest przypadkowym bałaganem — jest bezpośrednim odciskiem trzech historycznych fal, które ukształtowały angielski słownik. Pierwsza warstwa to rdzenny język germański Anglów, Sasów i Jutów (V–XI w.) — krótkie, codzienne słowa i w pełni żywa, wewnętrzna gramatyka słowotwórcza (un-, -ness, -ful, -less, mis-, over-, under-). Druga warstwa to normańska francuszczyzna po podboju 1066 roku — słownictwo dworu, prawa i administracji (govern, judge, parliament, beef obok rdzennie germańskiego cow). Trzecia warstwa to renesansowe i naukowe zapożyczenia bezpośrednio z łaciny i greki (od XV w.), tworzące rejestr uczony, techniczny i akademicki (regal, gubernatorial, interrogate). Klasyczny przykład tej trójwarstwowości to drabina synonimów 'kingly' (germańskie, potoczne) → 'royal' (francuskie, neutralno-oficjalne) → 'regal' (łacińskie, podniosłe/literackie) — trzy słowa o tym samym rdzeniowym znaczeniu 'królewski', ale z trzech różnych warstw historycznych i o trzech różnych rejestrach."
+      },
+      {
+        "label": "Dlaczego jedne przedrostki/sufiksy są 'żywe', a inne 'skamieniałe'",
+        "text": "Ta sama trójwarstwowa historia tłumaczy zjawisko produktywności, które przewija się przez wszystkie poprzednie tematy: morfemy odziedziczone bezpośrednio z warstwy germańskiej (un-, -ness, -ful, -less, mis-, over-, under-, -er, out-) nigdy nie zostały 'zapożyczone' — są integralną, żywą częścią wewnętrznej gramatyki angielskiego od zawsze, więc mówiący mogą ich używać swobodnie na dowolnym nowym słowie, niezależnie od jego pochodzenia. Morfemy z warstwy łacińsko-francuskiej (in-/im-/il-/ir-, dis-, -tion/-sion, -ity, -ive, -ible, -or) weszły do angielskiego już PRZYKLEJONE do konkretnych zapożyczonych słów — jako część gotowego pakietu, a nie jako osobne narzędzie gramatyczne do swobodnego użycia. Dlatego można je stosować tylko tam, gdzie historia już je zastosowała, i nie da się nimi tworzyć nowych słów tak, jak robi to un- czy -ness."
+      },
+      {
+        "label": "Test produktywności: co się dzieje z zupełnie nowym słowem",
+        "text": "Najprostszy sposób sprawdzenia, czy dany afiks jest dziś naprawdę 'żywy', to zobaczyć, co angielski robi z całkiem nowym czasownikiem, dla którego nie ma jeszcze utrwalonej tradycji. 'To google' (wyszukać w Google) to słowo z XXI wieku, bez żadnego łacińskiego rodowodu — a mimo to natychmiast dostało w pełni germańskie narzędzia słowotwórcze: agent to 'googler' (nie '*googlor'), rzeczownik czynności to często opisowe 'googling', a nie zapożyczona forma na -tion, a zaprzeczenie ewentualnej możliwości byłoby przez un- ('un-googleable'), nie przez in-. To pokazuje namacalnie, że -er, un- i -able są dziś jedynymi w pełni produktywnymi narzędziami tej rodziny — -or, in- i -ible są od dawna zamkniętym archiwum, używanym wyłącznie tam, gdzie historia już je umieściła."
+      },
+      {
+        "label": "Rejestr: dlaczego 'insufficient' brzmi poważniej niż 'not enough'",
+        "text": "Warstwa pochodzenia afiksu koreluje bardzo silnie z odczuwanym rejestrem stylistycznym, i to nie jest subiektywne wrażenie, lecz efekt tego, gdzie i przez kogo te słowa były historycznie używane: warstwa łacińsko-francuska rozwijała się w kontekście dworu, prawa, Kościoła i nauki, więc do dziś 'brzmi' oficjalnie, technicznie, dystansująco (insufficient, non-compliant, disproportionate, inconclusive). Warstwa germańska rozwijała się w codziennym życiu ludu, więc do dziś brzmi bezpośrednio, poufale, czasem surowiej emocjonalnie (not enough, unfair, unkind, overdone). To dlatego pisma urzędowe, naukowe i prawnicze systematycznie wybierają formy łacińskie ('this is non-negotiable' zamiast 'you can't change this'), a język potoczny i emocjonalny sięga częściej po germańskie un-/-ness/-ful/-less."
+      },
+      {
+        "label": "Dublety znaczeniowe: gdy dwie warstwy 'walczą' o ten sam rdzeń",
+        "text": "Czasem obie strategie — germańska i łacińska — spotykają się na tym samym rdzeniu i zamiast dać synonimy, tworzą wyraźnie różne znaczenia, co jest ukrytą pułapką na poziomie C1/C2: 'uninterested' (germańskie un-) i 'disinterested' (łacińskie dis-) różnią się znaczeniem, nie tylko formą, mimo wspólnego rdzenia 'interested'. Podobnie 'unable' (nie potrafić czegoś, brak zdolności) i 'disable' (uczynić kogoś/coś niesprawnym, odebrać zdolność) — jedno to przymiotnik opisujący stan, drugie to czasownik opisujący czynność, mimo tego samego rdzenia i pozornie 'tego samego' znaczenia przeczącego. Ilekroć angielski ma dwa konkurencyjne narzędzia słowotwórcze na ten sam rdzeń, warto założyć, że różnica nie jest przypadkowa — to zwykle ślad dwóch osobnych historii, które się na chwilę zbiegły na tym samym słowie."
+      }
+    ],
+    "usage": [
+      "w formalnym, urzędowym lub naukowym rejestrze wybieraj słowotwórstwo łacińsko-francuskie tam, gdzie masz wybór: 'insufficient evidence' zamiast 'not enough proof', 'non-compliant' zamiast 'not following the rules'",
+      "w mowie potocznej i bezpośredniej naturalniej brzmią formy germańskie: 'unfair', 'overpriced', 'underpaid' zamiast ich bardziej książkowych łacińskich odpowiedników, jeśli takie w ogóle istnieją",
+      "przy zupełnie nowych, potocznych lub technologicznych słowach ufaj wyłącznie germańskim narzędziom (-er, un-, -able, -ness, mis-, over-/under-) — łacińskie afiksy (-or, in-, -ible, -ity) nie tworzą już nowych form",
+      "gdy rdzeń dopuszcza dwa konkurencyjne przedrostki przeczące (un- i dis-, un- i in-), zawsze sprawdź, czy nie doszło do rozejścia się znaczeń, zamiast zakładać pełną synonimiczność (uninterested/disinterested, unable/disable)",
+      "drabina 'kingly/royal/regal' to uniwersalny wzorzec: dla wielu pojęć angielski ma osobne słowo germańskie (potoczne), francuskie (neutralne/oficjalne) i łacińskie (uczone/podniosłe) — rozpoznawanie tej trójwarstwowości pomaga wyczuć rejestr nieznanego słowa nawet bez słownika"
+    ],
+    "tags": ["kingly/royal/regal", "productive vs fossilized affixes", "register: Latinate vs Germanic", "unable vs disable", "googler not googlor"],
+    "examples": [
+      { "en": "The report cited insufficient evidence, though in plain English, there just wasn't enough proof.", "pl": "Raport wskazywał na niewystarczające dowody, choć mówiąc wprost, po prostu nie było ich dość." },
+      { "en": "The accident left him permanently disabled, unable to walk without support.", "pl": "Wypadek uczynił go trwale niepełnosprawnym, niezdolnym do chodzenia bez wsparcia." },
+      { "en": "It's a distinctly regal building, far grander than anything merely 'kingly' would suggest.", "pl": "To wyraźnie majestatyczny budynek, o wiele bardziej okazały, niż sugerowałoby samo określenie 'królewski'." },
+      { "en": "Nobody says 'to google something' is anything but a perfectly ordinary English verb by now, complete with its own googler.", "pl": "Nikt już nie wątpi, że 'googlować coś' to zupełnie zwyczajny angielski czasownik, ze swoim własnym 'googlerem' na dokładkę." }
     ]
   }
 ]
