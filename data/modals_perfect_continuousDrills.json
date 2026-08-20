@@ -1,45 +1,282 @@
 [
-  {"id": 1, "itemId": "must_have_been", "prompt": "The streets are wet — it ___ (rain) all night.", "answer": "must have been raining", "distractors": ["can't have been raining", "should have been raining", "might have been raining"]},
-  {"id": 2, "itemId": "must_have_been", "prompt": "Her eyes are red — she ___ (cry).", "answer": "must have been crying", "distractors": ["can't have been crying", "should have been crying", "might have been crying"]},
-  {"id": 3, "itemId": "must_have_been", "prompt": "He looks exhausted — he ___ (work) overtime again.", "answer": "must have been working", "distractors": ["can't have been working", "should have been working", "might have been working"]},
-  {"id": 4, "itemId": "must_have_been", "prompt": "They seemed really annoyed — they ___ (wait) for ages.", "answer": "must have been waiting", "distractors": ["can't have been waiting", "should have been waiting", "might have been waiting"]},
-  {"id": 5, "itemId": "must_have_been", "prompt": "The kids are covered in mud — they ___ (play) outside.", "answer": "must have been playing", "distractors": ["can't have been playing", "should have been playing", "might have been playing"]},
-  {"id": 6, "itemId": "must_have_been", "prompt": "The engine is warm — someone ___ (drive) the car recently.", "answer": "must have been driving", "distractors": ["can't have been driving", "should have been driving", "might have been driving"]},
-  {"id": 7, "itemId": "must_have_been", "prompt": "His voice is hoarse — he ___ (shout) at the match.", "answer": "must have been shouting", "distractors": ["can't have been shouting", "should have been shouting", "might have been shouting"]},
-  {"id": 8, "itemId": "must_have_been", "prompt": "The floor is covered in flour — someone ___ (bake).", "answer": "must have been baking", "distractors": ["can't have been baking", "should have been baking", "might have been baking"]},
-  {"id": 9, "itemId": "must_have_been", "prompt": "She's out of breath — she ___ (run).", "answer": "must have been running", "distractors": ["can't have been running", "should have been running", "might have been running"]},
-  {"id": 10, "itemId": "must_have_been", "prompt": "The room reeks of smoke — they ___ (smoke) in here.", "answer": "must have been smoking", "distractors": ["can't have been smoking", "should have been smoking", "might have been smoking"]},
-
-  {"id": 11, "itemId": "might_could_have_been", "prompt": "She didn't answer the phone — she ___ (sleep).", "answer": "might have been sleeping", "distractors": ["must have been sleeping", "can't have been sleeping", "should have been sleeping"]},
-  {"id": 12, "itemId": "might_could_have_been", "prompt": "He ___ (joke) — it's hard to tell with him.", "answer": "could have been joking", "distractors": ["must have been joking", "can't have been joking", "should have been joking"]},
-  {"id": 13, "itemId": "might_could_have_been", "prompt": "They ___ (listen) the whole time, we can't be sure.", "answer": "may have been listening", "distractors": ["must have been listening", "can't have been listening", "should have been listening"]},
-  {"id": 14, "itemId": "might_could_have_been", "prompt": "I think she ___ (watch) us from the window.", "answer": "could have been watching", "distractors": ["must have been watching", "can't have been watching", "should have been watching"]},
-  {"id": 15, "itemId": "might_could_have_been", "prompt": "He ___ (bluff) — we never found out the truth.", "answer": "might have been bluffing", "distractors": ["must have been bluffing", "can't have been bluffing", "should have been bluffing"]},
-  {"id": 16, "itemId": "might_could_have_been", "prompt": "She ___ (test) us, it's the kind of thing she'd do.", "answer": "could have been testing", "distractors": ["must have been testing", "can't have been testing", "should have been testing"]},
-  {"id": 17, "itemId": "might_could_have_been", "prompt": "They ___ (plan) this for weeks, we just don't know.", "answer": "may have been planning", "distractors": ["must have been planning", "can't have been planning", "should have been planning"]},
-  {"id": 18, "itemId": "might_could_have_been", "prompt": "He ___ (wait) outside all along, for all we know.", "answer": "might have been waiting", "distractors": ["must have been waiting", "can't have been waiting", "should have been waiting"]},
-  {"id": 19, "itemId": "might_could_have_been", "prompt": "She ___ (exaggerate) a little, it wouldn't be the first time.", "answer": "could have been exaggerating", "distractors": ["must have been exaggerating", "can't have been exaggerating", "should have been exaggerating"]},
-  {"id": 20, "itemId": "might_could_have_been", "prompt": "They ___ (follow) us since the station, it's possible.", "answer": "might have been following", "distractors": ["must have been following", "can't have been following", "should have been following"]},
-
-  {"id": 21, "itemId": "cant_couldnt_have_been", "prompt": "She ___ (sleep) — the light was on all night.", "answer": "can't have been sleeping", "distractors": ["must have been sleeping", "should have been sleeping", "might have been sleeping"]},
-  {"id": 22, "itemId": "cant_couldnt_have_been", "prompt": "He ___ (work) — his computer was switched off.", "answer": "couldn't have been working", "distractors": ["must have been working", "should have been working", "might have been working"]},
-  {"id": 23, "itemId": "cant_couldnt_have_been", "prompt": "They ___ (drive) for long, the car is still cold.", "answer": "can't have been driving", "distractors": ["must have been driving", "should have been driving", "might have been driving"]},
-  {"id": 24, "itemId": "cant_couldnt_have_been", "prompt": "You ___ (listen) — I explained it twice.", "answer": "can't have been listening", "distractors": ["must have been listening", "should have been listening", "might have been listening"]},
-  {"id": 25, "itemId": "cant_couldnt_have_been", "prompt": "She ___ (cook) — there's no smell of food anywhere.", "answer": "can't have been cooking", "distractors": ["must have been cooking", "should have been cooking", "might have been cooking"]},
-  {"id": 26, "itemId": "cant_couldnt_have_been", "prompt": "He ___ (study) — he failed every question.", "answer": "can't have been studying", "distractors": ["must have been studying", "should have been studying", "might have been studying"]},
-  {"id": 27, "itemId": "cant_couldnt_have_been", "prompt": "They ___ (wait) long, we only left five minutes ago.", "answer": "can't have been waiting", "distractors": ["must have been waiting", "should have been waiting", "might have been waiting"]},
-  {"id": 28, "itemId": "cant_couldnt_have_been", "prompt": "She ___ (cry) — her makeup is perfect.", "answer": "can't have been crying", "distractors": ["must have been crying", "should have been crying", "might have been crying"]},
-  {"id": 29, "itemId": "cant_couldnt_have_been", "prompt": "He ___ (joke) — he looked completely serious.", "answer": "couldn't have been joking", "distractors": ["must have been joking", "should have been joking", "might have been joking"]},
-  {"id": 30, "itemId": "cant_couldnt_have_been", "prompt": "They ___ (watch) the film — the TV wasn't even on.", "answer": "can't have been watching", "distractors": ["must have been watching", "should have been watching", "might have been watching"]},
-
-  {"id": 31, "itemId": "should_have_been", "prompt": "You ___ (study), not watching TV all evening.", "answer": "should have been studying", "distractors": ["shouldn't have been studying", "must have been studying", "could have been studying"]},
-  {"id": 32, "itemId": "should_have_been", "prompt": "He ___ (text) while driving.", "answer": "shouldn't have been texting", "distractors": ["should have been texting", "must have been texting", "could have been texting"]},
-  {"id": 33, "itemId": "should_have_been", "prompt": "The lifeguard ___ (watch) the pool more closely.", "answer": "should have been watching", "distractors": ["shouldn't have been watching", "must have been watching", "could have been watching"]},
-  {"id": 34, "itemId": "should_have_been", "prompt": "We ___ (talk) during the exam.", "answer": "shouldn't have been talking", "distractors": ["should have been talking", "must have been talking", "could have been talking"]},
-  {"id": 35, "itemId": "should_have_been", "prompt": "She ___ (rest), not running around all weekend.", "answer": "should have been resting", "distractors": ["shouldn't have been resting", "must have been resting", "could have been resting"]},
-  {"id": 36, "itemId": "should_have_been", "prompt": "They ___ (pay) attention instead of chatting.", "answer": "should have been paying", "distractors": ["shouldn't have been paying", "must have been paying", "could have been paying"]},
-  {"id": 37, "itemId": "should_have_been", "prompt": "He ___ (drink) at the wheel — it was completely irresponsible.", "answer": "shouldn't have been drinking", "distractors": ["should have been drinking", "must have been drinking", "could have been drinking"]},
-  {"id": 38, "itemId": "should_have_been", "prompt": "I ___ (wear) a helmet on that trail.", "answer": "should have been wearing", "distractors": ["shouldn't have been wearing", "must have been wearing", "could have been wearing"]},
-  {"id": 39, "itemId": "should_have_been", "prompt": "The guard ___ (sleep) on duty — that's a serious offence.", "answer": "shouldn't have been sleeping", "distractors": ["should have been sleeping", "must have been sleeping", "could have been sleeping"]},
-  {"id": 40, "itemId": "should_have_been", "prompt": "We ___ (save) money instead of spending it all.", "answer": "should have been saving", "distractors": ["shouldn't have been saving", "must have been saving", "could have been saving"]}
+  {
+    "id": 1,
+    "itemId": "must_have_been",
+    "prompt": "The streets are still wet and there are puddles everywhere — it ___ (rain) for hours.",
+    "answer": "must have been raining",
+    "distractors": ["might have been raining", "should have been raining", "would have been raining"]
+  },
+  {
+    "id": 2,
+    "itemId": "must_have_been",
+    "prompt": "Her eyes are red and her voice is hoarse — she ___ (cry).",
+    "answer": "must have been crying",
+    "distractors": ["can't have been crying", "could have been crying", "would have been crying"]
+  },
+  {
+    "id": 3,
+    "itemId": "must_have_been",
+    "prompt": "He looks exhausted and his shirt is soaked — he ___ (work) overtime again.",
+    "answer": "must have been working",
+    "distractors": ["should have been working", "might have been working", "would have been working"]
+  },
+  {
+    "id": 4,
+    "itemId": "must_have_been",
+    "prompt": "The engine's still warm — someone ___ (drive) it recently.",
+    "answer": "must have been driving",
+    "distractors": ["can't have been driving", "should have been driving", "would have been driving"]
+  },
+  {
+    "id": 5,
+    "itemId": "must_have_been",
+    "prompt": "There's flour and eggshells all over the counter — someone ___ (bake) in a hurry.",
+    "answer": "must have been baking",
+    "distractors": ["might have been baking", "could have been baking", "would have been baking"]
+  },
+  {
+    "id": 6,
+    "itemId": "must_have_been",
+    "prompt": "She answered every single question without hesitating, so she ___ (know) the material extremely well.",
+    "answer": "must have known",
+    "distractors": ["must have been knowing", "might have known", "could have known"]
+  },
+  {
+    "id": 7,
+    "itemId": "must_have_been",
+    "prompt": "Judging by the sweat and the medal around his neck, he ___ (train) hard for months before this race.",
+    "answer": "must have been training",
+    "distractors": ["might have been training", "should have been training", "would have been training"]
+  },
+  {
+    "id": 8,
+    "itemId": "must_have_been",
+    "prompt": "They seemed really annoyed when we finally arrived — they ___ (wait) for ages.",
+    "answer": "must have been waiting",
+    "distractors": ["can't have been waiting", "should have been waiting", "would have been waiting"]
+  },
+  {
+    "id": 9,
+    "itemId": "might_could_have_been",
+    "prompt": "She didn't answer the phone — she ___ (sleep), it was pretty late.",
+    "answer": "might have been sleeping",
+    "distractors": ["must have been sleeping", "can't have been sleeping", "should have been sleeping"]
+  },
+  {
+    "id": 10,
+    "itemId": "might_could_have_been",
+    "prompt": "He ___ (joke) the whole time — it's honestly hard to tell with him.",
+    "answer": "could have been joking",
+    "distractors": ["must have been joking", "can't have been joking", "should have been joking"]
+  },
+  {
+    "id": 11,
+    "itemId": "might_could_have_been",
+    "prompt": "You ___ (study) instead of scrolling your phone all evening — now look at your grade!",
+    "answer": "could have been studying",
+    "distractors": ["must have been studying", "might have been studying", "can't have been studying"]
+  },
+  {
+    "id": 12,
+    "itemId": "might_could_have_been",
+    "prompt": "The delay ___ (cause) by them still loading the cargo when we arrived at the port.",
+    "answer": "may have been caused",
+    "distractors": ["must have been caused", "can't have been caused", "should have been caused"]
+  },
+  {
+    "id": 13,
+    "itemId": "might_could_have_been",
+    "prompt": "I think she ___ (watch) us from the window the whole time we were talking outside.",
+    "answer": "could have been watching",
+    "distractors": ["can't have been watching", "should have been watching", "would have been watching"]
+  },
+  {
+    "id": 14,
+    "itemId": "might_could_have_been",
+    "prompt": "They ___ (negotiate) behind closed doors for hours before the announcement was finally made.",
+    "answer": "may have been negotiating",
+    "distractors": ["must have been negotiating", "can't have been negotiating", "should have been negotiating"]
+  },
+  {
+    "id": 15,
+    "itemId": "might_could_have_been",
+    "prompt": "You ___ (train) for this marathon for months — instead you barely ran twice.",
+    "answer": "could have been training",
+    "distractors": ["must have been training", "might have been training", "can't have been training"]
+  },
+  {
+    "id": 16,
+    "itemId": "might_could_have_been",
+    "prompt": "He ___ (wait) outside for a while before we noticed him — his coat is damp from the rain.",
+    "answer": "might have been waiting",
+    "distractors": ["must have been waiting", "can't have been waiting", "should have been waiting"]
+  },
+  {
+    "id": 17,
+    "itemId": "cant_couldnt_have_been",
+    "prompt": "She ___ (sleep) — the light in her room was on the whole night.",
+    "answer": "can't have been sleeping",
+    "distractors": ["must have been sleeping", "mustn't have been sleeping", "should have been sleeping"]
+  },
+  {
+    "id": 18,
+    "itemId": "cant_couldnt_have_been",
+    "prompt": "He ___ (work) from home all afternoon — his laptop never left my office.",
+    "answer": "couldn't have been working",
+    "distractors": ["mustn't have been working", "might have been working", "should have been working"]
+  },
+  {
+    "id": 19,
+    "itemId": "cant_couldnt_have_been",
+    "prompt": "They ___ (drive) for long — the engine's still ice cold.",
+    "answer": "can't have been driving",
+    "distractors": ["mustn't have been driving", "could have been driving", "should have been driving"]
+  },
+  {
+    "id": 20,
+    "itemId": "cant_couldnt_have_been",
+    "prompt": "You ___ (listen) properly — I explained the whole plan twice, step by step.",
+    "answer": "can't have been listening",
+    "distractors": ["mustn't have been listening", "might have been listening", "should have been listening"]
+  },
+  {
+    "id": 21,
+    "itemId": "cant_couldnt_have_been",
+    "prompt": "It ___ (rain) here — the ground is completely dry and dusty.",
+    "answer": "can't have been raining",
+    "distractors": ["mustn't have been raining", "could have been raining", "might have been raining"]
+  },
+  {
+    "id": 22,
+    "itemId": "cant_couldnt_have_been",
+    "prompt": "She ___ (wait) outside for an hour — I only stepped out five minutes ago myself.",
+    "answer": "couldn't have been waiting",
+    "distractors": ["mustn't have been waiting", "should have been waiting", "might have been waiting"]
+  },
+  {
+    "id": 23,
+    "itemId": "cant_couldnt_have_been",
+    "prompt": "He said he was in a meeting all morning, but that ___ true — I saw him at the café at ten.",
+    "answer": "can't have been",
+    "distractors": ["mustn't have been", "shouldn't have been", "wouldn't have been"]
+  },
+  {
+    "id": 24,
+    "itemId": "cant_couldnt_have_been",
+    "prompt": "The kids ___ (play) outside all day — they're spotless and their shoes are perfectly dry.",
+    "answer": "can't have been playing",
+    "distractors": ["mustn't have been playing", "might have been playing", "should have been playing"]
+  },
+  {
+    "id": 25,
+    "itemId": "should_have_been",
+    "prompt": "You ___ (study), not watching TV all evening — the exam is tomorrow morning.",
+    "answer": "should have been studying",
+    "distractors": ["must have been studying", "might have been studying", "would have been studying"]
+  },
+  {
+    "id": 26,
+    "itemId": "should_have_been",
+    "prompt": "He ___ (text) while driving; that's exactly how the accident happened.",
+    "answer": "shouldn't have been texting",
+    "distractors": ["couldn't have been texting", "mustn't have been texting", "wouldn't have been texting"]
+  },
+  {
+    "id": 27,
+    "itemId": "should_have_been",
+    "prompt": "The lifeguard ___ (watch) the pool more closely instead of chatting with his colleague.",
+    "answer": "should have been watching",
+    "distractors": ["must have been watching", "could have been watching", "would have been watching"]
+  },
+  {
+    "id": 28,
+    "itemId": "should_have_been",
+    "prompt": "According to the timetable, they ___ (land) around now — I wonder what's holding them up.",
+    "answer": "should have been landing",
+    "distractors": ["must have been landing", "could have been landing", "would have been landing"]
+  },
+  {
+    "id": 29,
+    "itemId": "should_have_been",
+    "prompt": "We ___ (talk) during the exam; it's a wonder we weren't caught by the invigilator.",
+    "answer": "shouldn't have been talking",
+    "distractors": ["couldn't have been talking", "mustn't have been talking", "wouldn't have been talking"]
+  },
+  {
+    "id": 30,
+    "itemId": "should_have_been",
+    "prompt": "The company ___ (monitor) the accounts throughout the whole quarter, not just at the end.",
+    "answer": "should have been monitoring",
+    "distractors": ["must have been monitoring", "could have been monitoring", "would have been monitoring"]
+  },
+  {
+    "id": 31,
+    "itemId": "should_have_been",
+    "prompt": "Based on the schedule, the delivery ___ (arrive) by now — I wonder what's holding it up.",
+    "answer": "should have been arriving",
+    "distractors": ["must have been arriving", "could have been arriving", "would have been arriving"]
+  },
+  {
+    "id": 32,
+    "itemId": "should_have_been",
+    "prompt": "He ___ (supervise) the new staff, but he left them completely unsupervised all week.",
+    "answer": "should have been supervising",
+    "distractors": ["could have been supervising", "must have been supervising", "would have been supervising"]
+  },
+  {
+    "id": 33,
+    "itemId": "would_have_been",
+    "prompt": "If you'd taken the earlier train, you ___ (sit) right next to her when it happened.",
+    "answer": "would have been sitting",
+    "distractors": ["must have been sitting", "should have been sitting", "could have been sitting"]
+  },
+  {
+    "id": 34,
+    "itemId": "would_have_been",
+    "prompt": "If we'd left five minutes later, we ___ (stand) right under that shelf when it collapsed.",
+    "answer": "would have been standing",
+    "distractors": ["must have been standing", "should have been standing", "might have been standing"]
+  },
+  {
+    "id": 35,
+    "itemId": "would_have_been",
+    "prompt": "Without the delay, they ___ (cross) the bridge exactly when the storm hit.",
+    "answer": "would have been crossing",
+    "distractors": ["must have been crossing", "should have been crossing", "could have been crossing"]
+  },
+  {
+    "id": 36,
+    "itemId": "would_have_been",
+    "prompt": "If I hadn't taken this job, I ___ (travel) somewhere in South America right about now.",
+    "answer": "would have been travelling",
+    "distractors": ["must have been travelling", "should have been travelling", "could have been travelling"]
+  },
+  {
+    "id": 37,
+    "itemId": "would_have_been",
+    "prompt": "She ___ (work) late again anyway, so the cancelled meeting barely changed her evening.",
+    "answer": "would have been working",
+    "distractors": ["must have been working", "should have been working", "could have been working"]
+  },
+  {
+    "id": 38,
+    "itemId": "would_have_been",
+    "prompt": "Had we not switched routes, we ___ (drive) straight into the roadblock.",
+    "answer": "would have been driving",
+    "distractors": ["must have been driving", "should have been driving", "could have been driving"]
+  },
+  {
+    "id": 39,
+    "itemId": "would_have_been",
+    "prompt": "If the flight hadn't been delayed, we ___ (board) already.",
+    "answer": "would have been boarding",
+    "distractors": ["must have been boarding", "should have been boarding", "could have been boarding"]
+  },
+  {
+    "id": 40,
+    "itemId": "would_have_been",
+    "prompt": "If she hadn't changed her plans, she ___ (walk) through the square exactly when the storm hit.",
+    "answer": "would have been walking",
+    "distractors": ["must have been walking", "should have been walking", "could have been walking"]
+  }
 ]
