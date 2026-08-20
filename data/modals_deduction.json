@@ -1,162 +1,254 @@
 [
   {
-    "id": "must_certain",
+    "id": "epistemic_scale",
     "order": 1,
-    "nameEn": "must + infinitive — strong certainty (positive deduction)",
-    "namePl": "must + bezokolicznik — silne przekonanie (dedukcja pozytywna)",
+    "nameEn": "The certainty scale: how the grammar of obligation became a grammar of evidence",
+    "namePl": "Skala pewności: jak gramatyka obowiązku stała się gramatyką dowodu",
     "rules": [
       {
-        "label": "must + infinitive",
-        "text": "Podmiot + must + czasownik (bez 'to') — logiczny wniosek, że coś jest niemal na pewno prawdą"
+        "label": "Od nacisku społecznego do nacisku logicznego",
+        "text": "Temat 'modals' pokazuje, że każdy czasownik modalny leży gdzieś na osi między biegunem rdzennym/deontycznym (realny fakt: siła, przyzwolenie, obowiązek) a biegunem epistemicznym (ocena PRAWDOPODOBIEŃSTWA zdania). Dedukcja modalna to nic innego, jak systematyczne wykorzystanie prawego, epistemicznego bieguna tej samej osi. Historycznie epistemiczne odczytania modalnych pojawiły się ZAWSZE później niż rdzenne — to udokumentowany, jednokierunkowy wzorzec zmiany znaczeniowej (deontyczne > epistemiczne, nigdy odwrotnie), nazywany subiektyfikacją: słowo, które kiedyś opisywało nacisk działający w świecie fizycznym lub społecznym, z czasem zaczyna opisywać nacisk działający w GŁOWIE mówiącego — nacisk, jaki dowody wywierają na jego wnioskowanie."
       },
       {
-        "label": "must be + -ing",
-        "text": "Podmiot + must be + czasownik-ing — wniosek o czynności trwającej właśnie teraz"
+        "label": "Model myślowy: umysł jako ciało, rozumowanie jako droga z przeszkodami",
+        "text": "Kluczem do zrozumienia całej rodziny konstrukcji must be / can't be / might be jest jedna metafora: ROZUMOWANIE DZIAŁA JAK PORUSZANIE SIĘ CIAŁA W PRZESTRZENI PEŁNEJ PRZESZKÓD. W znaczeniu rdzennym 'must' oznacza barierę fizyczną lub społeczną, której nie da się obejść (musisz to zrobić — nie masz wyjścia). W znaczeniu epistemicznym ta sama bariera zostaje przeniesiona do przestrzeni ARGUMENTÓW: dowody są ułożone tak, że wniosek jest jedyną możliwą 'drogą' — 'he must be at home' znaczy dosłownie 'żadna inna konkluzja nie mieści się w tym, co wiem'. Dlatego dedukcja modalna nie jest osobnym, nowym tematem gramatycznym do wykucia — to ten sam mechanizm siły co przy obowiązku, tylko przeniesiony z ulicy do głowy mówiącego."
+      },
+      {
+        "label": "Dlaczego akurat 'dedukcja' to nazwa myląca",
+        "text": "Termin 'modals of deduction', utrwalony w podręcznikach, jest logicznie nieprecyzyjny: prawdziwa dedukcja (w sensie logiki formalnej) to wnioskowanie z pewników do pewnej konkluzji. To, co robimy zdaniami z must/might/can't, jest w większości przypadków wnioskowaniem ABDUKCYJNYM — szukaniem najbardziej prawdopodobnego wyjaśnienia niepełnych poszlak (światło się pali, więc ktoś raczej jest w domu, choć teoretycznie mógł je zostawić włączone). Warto o tym pamiętać, bo tłumaczy, czemu skala 'must — may/might/could — can't' jest skalą CIĄGŁĄ, a nie zestawem trzech odrębnych 'znaczeń': mówiący nieustannie waży siłę poszlak, a nie wybiera z zamkniętej listy."
+      },
+      {
+        "label": "Skala jako oś, nie jako trzy szufladki",
+        "text": "Najpraktyczniejszy model do zapamiętania: WILL (pewność oparta na znanym wzorcu) > MUST (pewność oparta na poszlakach, brak innej możliwej konkluzji) > SHOULD/OUGHT TO (oczekiwanie — tak powinno być w normalnym biegu spraw) > MAY (umiarkowane przypuszczenie, rejestr formalny) > MIGHT/COULD (przypuszczenie bardziej ostrożne, spekulatywne) > MAY NOT/MIGHT NOT (umiarkowane przypuszczenie negatywne) > CAN'T/COULDN'T (pewność, że coś jest niemożliwe). Ta oś nie jest symetryczna — a wyjaśnienie, dlaczego akurat tak, jest przedmiotem kolejnych punktów tego tematu."
       }
     ],
     "usage": [
-      "Silne przekonanie oparte na dowodach lub logice, nie na obowiązku (He must be tired.)",
-      "must be + -ing dla czynności odbywającej się w danym momencie (She must be sleeping.)",
-      "Nie używamy 'must' w przeczeniu do dedukcji — tam stosujemy 'can't'"
+      "Rozpoznawanie kontekstu dedukcyjnego (poszlaki, wnioskowanie o nieznanym fakcie) w odróżnieniu od kontekstu deontycznego (obowiązek, pozwolenie) dla tego samego czasownika modalnego.",
+      "Traktowanie must/might/can't nie jako osobnego słownictwa do zapamiętania, lecz jako epistemicznego 'przedłużenia' czasowników modalnych już poznanych w temacie obowiązku i możliwości.",
+      "Świadomość, że siła przypuszczenia jest continuum, a nie zbiorem trzech sztywnych kategorii — dobór modalnego to kwestia wyczucia, ile poszlak ma mówiący, a nie mechaniczne dopasowanie do wzoru."
     ],
-    "tags": [
-      "must be",
-      "must be doing",
-      "strong certainty"
-    ],
+    "tags": ["epistemic modality", "root vs epistemic", "certainty scale", "abduction not deduction"],
     "examples": [
-      {
-        "en": "The lights are on — he must be at home.",
-        "pl": "Światła się palą — on musi być w domu."
-      },
-      {
-        "en": "You've been walking all day — you must be exhausted.",
-        "pl": "Spacerujesz cały dzień — musisz być wykończony."
-      },
-      {
-        "en": "She's not answering the phone — she must be driving.",
-        "pl": "Nie odbiera telefonu — musi teraz prowadzić."
-      }
+      { "en": "You've hardly slept in three days — you must be running on pure adrenaline by now.", "pl": "Prawie nie spałeś od trzech dni — musisz teraz jechać na czystej adrenalinie." },
+      { "en": "Given the empty mugs and the smell of coffee, someone must have been here recently.", "pl": "Sądząc po pustych kubkach i zapachu kawy, ktoś musiał tu niedawno być." },
+      { "en": "The theory doesn't hold — the evidence simply can't support that conclusion.", "pl": "Ta teoria się nie broni — dowody po prostu nie mogą wspierać takiego wniosku." },
+      { "en": "It's hard to say for certain; the results could point in either direction.", "pl": "Trudno powiedzieć na pewno; wyniki mogą wskazywać w obu kierunkach." }
     ]
   },
   {
-    "id": "cant_impossible",
+    "id": "must_deduction",
     "order": 2,
-    "nameEn": "can't / couldn't + infinitive — impossibility (negative deduction)",
-    "namePl": "can't / couldn't + bezokolicznik — niemożliwość (dedukcja negatywna)",
+    "nameEn": "must (be) — the strongest positive conclusion",
+    "namePl": "must (be) — najsilniejszy wniosek pozytywny",
     "rules": [
       {
-        "label": "can't + infinitive",
-        "text": "Podmiot + can't + czasownik (bez 'to') — logiczny wniosek, że coś jest niemal na pewno nieprawdą"
+        "label": "Dziedziczenie siły z motan",
+        "text": "W temacie 'modals' must_have_to pokazano, że staroangielskie motan pierwotnie znaczyło 'mieć pozwolenie', a dopiero przez subiektyfikację stało się silnym, wewnętrznym przymusem. W użyciu epistemicznym ten sam przymus działa już nie na CZYNNOŚĆ, lecz na SĄD: mówiący czuje się 'zmuszony' przez dostępne dowody do przyjęcia jednej konkretnej interpretacji rzeczywistości. 'He must be exhausted' nie znaczy 'jest zobowiązany być zmęczony' (to byłoby bez sensu), lecz 'moje rozumowanie nie zostawia mi żadnej innej opcji niż uznać, że jest zmęczony'."
       },
       {
-        "label": "can't be + -ing",
-        "text": "Podmiot + can't be + czasownik-ing — wniosek, że czynność nie może się teraz odbywać"
+        "label": "must be vs must be + -ing",
+        "text": "must + bezokolicznik prosty (must be, must know, must weigh) opisuje stan, cechę lub fakt trwały; must be + -ing opisuje wniosek o czynności odbywającej się właśnie TERAZ, w trakcie mówienia (She must be sleeping — the lights are off). Wybór formy ciągłej lub prostej rządzi się dokładnie tą samą logiką aspektu, co poza kontekstem dedukcyjnym — dedukcja nie tworzy nowej gramatyki, tylko nakłada warstwę pewności na istniejący system czasów i aspektów."
+      },
+      {
+        "label": "Dlaczego 'must' brzmi bardziej stanowczo niż 'will'",
+        "text": "Choć obie formy wyrażają wysoką pewność, 'must' explicité sygnalizuje, że wniosek wynika z KONKRETNYCH, dostępnych w danej chwili poszlak (empty mugs, wet streets, red eyes) — mówiący niejako pokazuje swój tok rozumowania. 'Will' epistemiczne (temat will_deduction w tym pliku) opiera się raczej na ogólnej wiedzy o typowym biegu rzeczy, bez odwoływania się do konkretnego dowodu z otoczenia. Różnica jest podobna do różnicy między 'must' a 'have to' w znaczeniu deontycznym: 'must' pozostaje bardziej osobiste i bezpośrednio związane z tym, co mówiący właśnie zaobserwował."
+      },
+      {
+        "label": "Pułapka: must ≠ pewność stuprocentowa",
+        "text": "'Must' wyraża NAJWYŻSZY stopień pewności DOSTĘPNY w języku angielskim przy braku bezpośredniego potwierdzenia faktu, ale gramatycznie wciąż jest to przypuszczenie, nie stwierdzenie faktu. Rodzimi użytkownicy odróżniają 'He must be at home' (wniosek, choć bardzo pewny) od 'He is at home' (stwierdzenie zweryfikowanego faktu) — mylenie tych dwóch rejestrów jest częstym błędem uczących się, którzy traktują 'must' jak zwykłe 'jest', a nie jak znacznik siły przypuszczenia."
       }
     ],
     "usage": [
-      "Silne przekonanie, że coś jest niemożliwe, nie zakaz (That can't be true.)",
-      "'couldn't' bywa używane zamiennie z 'can't' w dedukcji o teraźniejszości",
-      "can't be + -ing dla wykluczenia trwającej czynności (He can't be working — it's Sunday.)"
+      "Wniosek oparty na mocnych, bezpośrednio dostrzegalnych poszlakach z otoczenia (Look at the queue — the film must be excellent.)",
+      "must be + -ing dla wniosku o czynności trwającej w danym momencie (The kids are so quiet — they must be up to something.)",
+      "Rejestr: 'must' epistemiczne jest neutralne stylistycznie — pojawia się zarówno w mowie potocznej, jak i w tekstach analitycznych czy dziennikarskich.",
+      "'Must' nigdy nie neguje się w tym znaczeniu przez 'mustn't' — patrz temat cant_deduction w tym samym pliku, gdzie wyjaśniona jest ta luka w paradygmacie."
     ],
-    "tags": [
-      "can't be",
-      "couldn't be",
-      "impossible"
-    ],
+    "tags": ["must be", "must be doing", "strong certainty", "abductive inference"],
     "examples": [
-      {
-        "en": "She can't be at the office — I just saw her at the gym.",
-        "pl": "Ona nie może być teraz w biurze — właśnie widziałem ją na siłowni."
-      },
-      {
-        "en": "That can't be right — check the numbers again.",
-        "pl": "To nie może być poprawne — sprawdź jeszcze raz te liczby."
-      },
-      {
-        "en": "He can't be sleeping — the TV is on and it's really loud.",
-        "pl": "On nie może teraz spać — telewizor jest włączony i jest naprawdę głośno."
-      }
+      { "en": "The lights are on and the car's in the driveway — he must be home.", "pl": "Światła się palą i samochód jest na podjeździe — on musi być w domu." },
+      { "en": "You've been walking all day — you must be exhausted.", "pl": "Spacerujesz cały dzień — musisz być wykończony." },
+      { "en": "She's not answering the phone — she must be driving.", "pl": "Nie odbiera telefonu — musi teraz prowadzić." },
+      { "en": "This bag weighs a ton — it must be full of books.", "pl": "Ta torba waży tonę — musi być pełna książek." },
+      { "en": "Given how quiet the office is, half the team must be working from home today.", "pl": "Sądząc po tym, jak ciche jest biuro, chyba połowa zespołu musi dziś pracować z domu." }
     ]
   },
   {
-    "id": "may_might_could",
+    "id": "cant_deduction",
     "order": 3,
-    "nameEn": "may / might / could + infinitive — uncertain possibility",
-    "namePl": "may / might / could + bezokolicznik — niepewna możliwość",
+    "nameEn": "can't / couldn't (be) — the missing negative of must, and why English borrows it",
+    "namePl": "can't / couldn't (be) — brakujące przeczenie od must i dlaczego angielski je pożycza",
     "rules": [
       {
-        "label": "may / might / could",
-        "text": "Podmiot + may/might/could + czasownik (bez 'to') — coś jest możliwe, ale nie ma pewności"
+        "label": "Luka w paradygmacie: dlaczego nie 'mustn't be'",
+        "text": "Logicznie 'mustn't' powinno być przeczeniem epistemicznego 'must' — a jednak angielski nigdy go tak nie używa. Powód jest czysto historyczny: znaczenie deontyczne (zakaz — 'nie wolno ci') zajęło formę 'mustn't' na długo przed rozwinięciem się pełnej gałęzi epistemicznej i skutecznie zablokowało jej użycie w nowym sensie — gdyby ktoś powiedział 'He mustn't be at home', rozmówca odczytałby to jako zakaz ('nie wolno mu być w domu'), a nie jako wniosek. Język, napotykając taką lukę (defective paradigm), sięga po INNY czasownik do wypełnienia brakującego miejsca — dokładnie tak, jak nieregularne stopniowanie 'good – better – best' pożycza formy z innego rdzenia, by wypełnić lukę w regularnym wzorcu. Tu tę rolę przejmuje 'can't'."
       },
       {
-        "label": "przeczenie",
-        "text": "may not / might not (bez 'couldn't', które oznacza niemożliwość, nie brak pewności)"
+        "label": "Dlaczego akurat 'can't', a nie inny czasownik",
+        "text": "'Can' w znaczeniu rdzennym oznacza strukturalną, ogólną możliwość istnienia czegoś w świecie (temat can_could: 'It can get very cold here'). Przeczenie tej możliwości — 'nie ma takiej możliwości, by...' — daje naturalny pomost do znaczenia 'logicznie niemożliwe'. 'Can't be true' to dosłownie 'nie istnieje możliwy świat, w którym to jest prawdą' — silniejsze stwierdzenie niż zwykłe zaprzeczenie faktu, bo odrzuca całą PRZESTRZEŃ możliwości, a nie tylko jeden przypadek. Dlatego 'can't' epistemiczne, mimo że gramatycznie jest 'zwykłym' przeczeniem, semantycznie jest równie mocne jak twierdzące 'must' — to dwa krańce tej samej, symetrycznej skali pewności."
+      },
+      {
+        "label": "couldn't jako subtelniejszy wariant",
+        "text": "'Couldn't' współistnieje z 'can't' w tej funkcji i w praktyce znaczy to samo, ale bywa odbierane jako odrobinę mniej kategoryczne lub bardziej 'dyskusyjne' — często pojawia się, gdy mówiący odnosi się do czyjegoś wcześniej przedstawionego twierdzenia, niejako je kwestionując (A: 'I saw him at the party.' B: 'That couldn't have been him — he's abroad.'). Ta sama zasada 'oddalenia' co przy could/might (formy historycznie przeszłe brzmią łagodniej) działa i tutaj, choć różnica jest znacznie subtelniejsza niż przy might vs may."
+      },
+      {
+        "label": "can't be vs can't be + -ing",
+        "text": "Podobnie jak przy 'must', wybór formy prostej lub ciągłej zależy od aspektu opisywanej sytuacji: can't be (stan/fakt) kontra can't be + -ing (wykluczenie czynności trwającej w danym momencie — He can't be sleeping, the lights are still on). To ten sam podział, co w must_deduction — dedukcja jedynie 'koloruje' istniejący system aspektu stopniem pewności, nie tworzy nowego."
       }
     ],
     "usage": [
-      "Wyrażanie przypuszczenia bez pewności, w przeciwieństwie do 'must' i 'can't' (She might be at home.)",
-      "'could' w dedukcji ma znaczenie zbliżone do 'might', nie wyraża tu umiejętności",
-      "may not / might not do wyrażenia niepewnego przypuszczenia negatywnego (He might not know yet.)"
+      "Wykluczenie logiczne oparte na sprzeczności z dostępnymi faktami (That can't be right — we checked the numbers twice.)",
+      "can't be + -ing dla wykluczenia czynności trwającej w danym momencie (He can't be working — it's Sunday.)",
+      "couldn't jako łagodniejszy, czasem bardziej 'polemiczny' wariant can't, zwłaszcza w odpowiedzi na cudze twierdzenie.",
+      "Nigdy 'mustn't' w tej funkcji — to najczęstszy błąd uczących się, wynikający z mechanicznego przenoszenia logiki 'must → mustn't' z użycia deontycznego."
     ],
-    "tags": [
-      "might be",
-      "could be",
-      "may not"
-    ],
+    "tags": ["can't be", "couldn't be", "impossible", "suppletion gap"],
     "examples": [
-      {
-        "en": "He might be stuck in traffic — that's why he's late.",
-        "pl": "Może utknął w korku — dlatego się spóźnia."
-      },
-      {
-        "en": "She could be at the library, I'm not sure.",
-        "pl": "Może być w bibliotece, nie jestem pewien."
-      },
-      {
-        "en": "They may not have seen the message yet.",
-        "pl": "Może jeszcze nie widzieli tej wiadomości."
-      }
+      { "en": "She can't be at the office — I just saw her at the gym ten minutes ago.", "pl": "Ona nie może być teraz w biurze — właśnie widziałem ją na siłowni dziesięć minut temu." },
+      { "en": "That can't be right — check the numbers again.", "pl": "To nie może być poprawne — sprawdź jeszcze raz te liczby." },
+      { "en": "He can't be sleeping — the TV is on and it's really loud.", "pl": "On nie może teraz spać — telewizor jest włączony i jest naprawdę głośno." },
+      { "en": "That couldn't have been Anna at the station — she's been in Berlin all week.", "pl": "To nie mogła być Anna na dworcu — jest w Berlinie cały tydzień." },
+      { "en": "There can't be more than a handful of people who still remember that.", "pl": "Nie może być więcej niż garstka ludzi, którzy jeszcze to pamiętają." }
     ]
   },
   {
-    "id": "deduction_contrast",
+    "id": "may_might_could_deduction",
     "order": 4,
-    "nameEn": "must vs. can't vs. might — choosing the right degree of certainty",
-    "namePl": "must vs. can't vs. might — wybór właściwego stopnia pewności",
+    "nameEn": "may / might / could (be) — the middle ground, and why 'can' is missing from it",
+    "namePl": "may / might / could (be) — środek skali i dlaczego brakuje w nim 'can'",
     "rules": [
       {
-        "label": "skala pewności",
-        "text": "must (bardzo pewny, że tak) > may/might/could (niepewny) > can't (bardzo pewny, że nie)"
+        "label": "Trzy słowa, jeden obszar niepewności, różne rejestry",
+        "text": "May, might i could w funkcji dedukcyjnej pokrywają mniej więcej ten sam środkowy przedział skali (od ok. 30% do 60% subiektywnej pewności), ale różnią się rejestrem i pochodzeniem. 'May' (< st.ang. magan, 'mieć moc' — patrz temat may_might) brzmi najbardziej neutralnie i formalnie, częste w tekstach pisanych i analitycznych (The delay may be caused by staff shortages). 'Might', historycznie forma przeszła 'may', w praktyce oznacza dziś zwykle nieco NIŻSZĄ pewność i dominuje w mowie potocznej — to ten sam mechanizm 'oddalenia gramatycznego jako oddalenia od pewności', który w temacie can_could tłumaczy różnicę can/could."
       },
       {
-        "label": "kontekst dowodowy",
-        "text": "Wybór modalnego zależy od siły dowodów lub przesłanek, którymi dysponuje mówiący"
+        "label": "Dlaczego 'could' działa epistemicznie w zdaniu twierdzącym, a 'can' — nie",
+        "text": "To jeden z bardziej mylących niuansów tego obszaru gramatyki: 'can' w zdaniu twierdzącym niemal nigdy nie wyraża jednorazowej dedukcji (*'He can be at home' brzmi nienaturalnie w znaczeniu 'może jest w domu'), za to 'could' jest tu jak najbardziej naturalne (He could be at home). Powód nie leży w 'sile' czasownika, lecz w TYPIE możliwości, jaką każdy z nich domyślnie opisuje: 'can' w afirmacji wyraża możliwość STRUKTURALNĄ, ogólną, powtarzalną (It can get cold here in winter — tak bywa, ogólna prawidłowość), podczas gdy pytanie o pojedynczą, aktualną sytuację ('czy TERAZ jest w domu?') wymaga formy wyspecjalizowanej w ocenie JEDNOSTKOWEGO przypadku — a tę rolę pełni właśnie 'could', dzięki swojemu dystansującemu, hipotetycznemu zabarwieniu. W przeczeniu bariera znika (patrz cant_deduction), bo 'can't' neguje całą przestrzeń możliwości, nie jeden konkretny przypadek."
+      },
+      {
+        "label": "may not / might not — łagodna niepewność negatywna",
+        "text": "W przeciwieństwie do 'can't' (pewność negatywna), 'may not' i 'might not' wyrażają jedynie umiarkowane przypuszczenie, że coś NIE jest prawdą — nie wykluczają możliwości całkowicie, tylko ją osłabiają (He might not know yet — może wie, może nie, nie mamy pewności w żadną stronę). Formy skróconej 'mightn't' używa się w tym znaczeniu rzadko i głównie w BrE; typowa jest pełna forma 'might not'."
+      },
+      {
+        "label": "Perfect forms jako naturalne rozszerzenie, nie osobny temat",
+        "text": "May/might/could + have + III forma (may have forgotten, might have missed the bus) przenoszą dokładnie tę samą niepewność w przeszłość — mechanizm jest identyczny jak przy 'must have done' czy 'can't have done': aspekt dokonany cofa punkt odniesienia, siła modalna pozostaje taka sama. Pełne zestawienie z formą ciągłą (might have been doing) rozwija osobny temat modals_perfect_continuous — tutaj wystarczy zapamiętać, że to ta sama skala pewności, tylko przesunięta w czasie."
       }
     ],
     "usage": [
-      "Ta sama sytuacja może dać różne wnioski w zależności od dostępnych dowodów",
-      "Unikamy 'must not' w znaczeniu dedukcyjnym — w tej funkcji używamy 'can't'",
-      "Modalne dedukcyjne różnią się od tych samych czasowników w znaczeniu obowiązku/pozwolenia (must = obowiązek vs. must = dedukcja)"
+      "may — formalne, umiarkowane przypuszczenie, typowe dla tekstów pisanych i oficjalnych komunikatów (The negotiations may drag on for weeks.)",
+      "might — potoczniejsze, nieco bardziej ostrożne przypuszczenie niż may (She might be right, I suppose.)",
+      "could — przypuszczenie o pojedynczej, aktualnej sytuacji, tam gdzie 'can' brzmiałoby nienaturalnie (The delay could be due to the weather.)",
+      "may not / might not — umiarkowana niepewność negatywna, wyraźnie słabsza niż stanowcze can't."
     ],
-    "tags": [
-      "must vs can't",
-      "degrees of certainty",
-      "deduction"
-    ],
+    "tags": ["might be", "could be", "may not", "middle of the scale"],
     "examples": [
+      { "en": "He might be stuck in traffic — that's why he's late.", "pl": "Może utknął w korku — dlatego się spóźnia." },
+      { "en": "She could be at the library, I'm not sure.", "pl": "Może być w bibliotece, nie jestem pewien." },
+      { "en": "They may not have seen the message yet.", "pl": "Może jeszcze nie widzieli tej wiadomości." },
+      { "en": "The results could change once we get more data.", "pl": "Wyniki mogą się zmienić, gdy dostaniemy więcej danych." },
+      { "en": "He may have forgotten — he's usually so reliable, but it's possible.", "pl": "Mógł zapomnieć — zwykle jest tak solidny, ale to możliwe." }
+    ]
+  },
+  {
+    "id": "should_deduction",
+    "order": 5,
+    "nameEn": "should / ought to (be) — expectation, not certainty: the logic of 'in the normal run of things'",
+    "namePl": "should / ought to (be) — oczekiwanie, nie pewność: logika 'w normalnym biegu spraw'",
+    "rules": [
       {
-        "en": "The door is locked from the inside — she must be home.",
-        "pl": "Drzwi są zamknięte od środka — ona musi być w domu."
+        "label": "Dług przeniesiony na przewidywanie",
+        "text": "Temat should_ought_to pokazuje, że 'should' wywodzi się z 'shall' (< sceal, 'być winnym'), a 'ought to' dosłownie z czasownika 'owe' — obie formy niosą metaforę moralnego DŁUGU. W użyciu dedukcyjnym ten dług zostaje przeniesiony z etyki na przewidywanie zdarzeń: 'The train should arrive at six' znaczy w gruncie rzeczy 'rzeczywistość jest nam winna to, co zaplanowano — jeśli nic nietypowego się nie wydarzy, tak właśnie będzie'. To fundamentalnie inny rodzaj pewności niż 'must': 'must' wynika z KONKRETNYCH poszlak zaobserwowanych tu i teraz, a 'should' — z ZAŁOŻENIA, że plan, rozkład czy typowy bieg spraw się nie zaburzy."
       },
       {
-        "en": "There's no answer — she can't be home.",
-        "pl": "Nikt nie odpowiada — ona na pewno nie jest w domu."
+        "label": "Wbudowane zastrzeżenie: 'chyba że coś nietypowego'",
+        "text": "Każde epistemiczne 'should' niesie ukrytą klauzulę warunkową: 'zakładając normalny bieg wydarzeń'. Dlatego 'should' jest OBIEKTYWNIE słabszą formą pewności niż 'must', mimo że w praktycznym użyciu bywa równie stanowcze w brzmieniu — różnica polega na tym, że 'must' broni się dowodami, a 'should' jedynie założeniami. Skutek: gdy przewidywanie się nie sprawdza, 'should' brzmi naturalnie w zdaniu z kontrastem (The package should have arrived by now — but it hasn't), podczas gdy 'must' w takim kontekście wymagałoby wcześniej innej, silniejszej poszlaki, a nie samego harmonogramu."
       },
       {
-        "en": "Her car isn't outside, but she might still be home.",
-        "pl": "Jej samochodu nie ma na zewnątrz, ale może jednak jest w domu."
+        "label": "Dlaczego rzadko o ludziach, a często o rzeczach/procesach",
+        "text": "Epistemiczne 'should' najnaturalniej opisuje zjawiska rządzone znanym, przewidywalnym mechanizmem — rozkładami jazdy, procesami, wynikami prac (The results should be ready by Monday.). Użyte wobec zachowania człowieka bywa odczytywane dwuznacznie, bo łatwo je pomylić ze znaczeniem rady/powinności moralnej (He should be here by six — czy to przewidywanie, czy oczekiwanie, że MA obowiązek być na czas?). Kontekst i intonacja zwykle rozstrzygają, ale ta dwuznaczność to naturalna konsekwencja wspólnego pochodzenia obu znaczeń z tej samej metafory długu."
       }
+    ],
+    "usage": [
+      "Przewidywania oparte na znanym harmonogramie, procesie lub typowym biegu spraw (The report should be finished by Friday.)",
+      "should have + III forma dla zawiedzionego oczekiwania — coś, co powinno było się już wydarzyć, a jeszcze się nie wydarzyło (They should have landed an hour ago.)",
+      "Świadome odróżnianie epistemicznego 'should' (przewidywanie) od deontycznego 'should' (rada/powinność) — ta sama forma, inny biegun kontinuum modalności."
+    ],
+    "tags": ["should arrive", "should have finished", "expectation not certainty"],
+    "examples": [
+      { "en": "The train should be arriving any minute now.", "pl": "Pociąg powinien przyjechać lada chwila." },
+      { "en": "If they left at eight, they should be here by now.", "pl": "Jeśli wyjechali o ósmej, powinni już tu być." },
+      { "en": "The parcel should have arrived days ago — I'm starting to worry.", "pl": "Paczka powinna dotrzeć już kilka dni temu — zaczynam się martwić." },
+      { "en": "Ticket sales should pick up once the reviews come out.", "pl": "Sprzedaż biletów powinna wzrosnąć, gdy pojawią się recenzje." }
+    ]
+  },
+  {
+    "id": "will_deduction",
+    "order": 6,
+    "nameEn": "will / won't (be) — the future tense of certainty, borrowed for the present",
+    "namePl": "will / won't (be) — 'czas przyszły pewności' pożyczony na potrzeby teraźniejszości",
+    "rules": [
+      {
+        "label": "Will jako czasownik chcenia, nie czasu",
+        "text": "Temat 'modals' przypomina, że 'will' wywodzi się od staroangielskiego willan — 'chcieć' — i że angielska 'przyszłość' jest w gruncie rzeczy kategorią modalną (wola, przewidywanie), nie osobnym, neutralnym czasem gramatycznym. To wyjaśnia, czemu 'will' może opisywać nie tylko przyszłość, ale i TERAŹNIEJSZOŚĆ — pod warunkiem że mówiący wyraża pewne, oparte na znanym wzorcu przekonanie, a nie fakt zweryfikowany bezpośrednio. 'That'll be the postman' nie mówi nic o przyszłości — to pewne przypuszczenie o TYM, co dzieje się właśnie teraz, wynikające z przewidywalności sytuacji (o tej porze zawsze przychodzi listonosz)."
+      },
+      {
+        "label": "Różnica wobec 'must': dowód z otoczenia kontra znajomość wzorca",
+        "text": "'Must' opiera się na poszlakach dostrzeżonych W DANEJ CHWILI (światła, hałas, ślady). 'Will' epistemiczne opiera się na WCZEŚNIEJSZEJ WIEDZY o typowym zachowaniu, charakterze lub regularności (dzwonek o tej porze = listonosz, bo tak bywa zawsze). Dlatego 'will' często pojawia się przy szacowaniu wieku, cech charakteru czy identyfikacji osoby na podstawie znanego kontekstu (She'll be about forty, I'd guess), a rzadko przy świeżo zaobserwowanych, jednorazowych poszlakach — tam naturalniejsze jest 'must'."
+      },
+      {
+        "label": "won't jako pewność negatywna z tej samej rodziny",
+        "text": "'Won't' epistemiczne działa symetrycznie do 'will' — wyraża pewność, że coś NIE jest prawdą, znowu na podstawie znanego wzorca, a nie świeżych poszlak (Don't bother calling him now, he won't be at his desk — he never is on Fridays). Choć funkcjonalnie bliskie 'can't', różni się źródłem pewności dokładnie tak, jak will różni się od must: won't = 'wiem, jak to zwykle bywa', can't = 'to, co widzę, wyklucza tę możliwość'."
+      },
+      {
+        "label": "Rejestr: naturalne w mowie, rzadsze w formalnym piśmie",
+        "text": "Epistemiczne will/won't jest bardzo naturalne w swobodnej rozmowie i typowe dla zdań rozpoczynających się od 'that'll be...', 'she'll be...', ale w formalnym, analitycznym piśmie ustępuje miejsca 'must' lub 'is likely to' — 'will' w tej funkcji brzmi zbyt swobodnie, niemal jak zgadywanie na głos, podczas gdy 'must' sugeruje udokumentowane rozumowanie."
+      }
+    ],
+    "usage": [
+      "Pewne przypuszczenie o teraźniejszości oparte na znanym wzorcu, przyzwyczajeniu lub charakterze, a nie na świeżych poszlakach (That'll be Tom at the door — he's always early.)",
+      "Szacowanie wieku, tożsamości lub cech na podstawie ogólnej wiedzy o sytuacji (He'll be around sixty by now, I'd say.)",
+      "won't dla pewności negatywnej opartej na znajomości typowego zachowania (She won't mind — she never does.)",
+      "Rejestr potoczny — w tekstach formalnych naturalniejsze jest 'must' lub 'is likely to'."
+    ],
+    "tags": ["that'll be", "won't be", "predictive will", "known pattern"],
+    "examples": [
+      { "en": "That'll be the neighbours — they always drop by around this time.", "pl": "To pewnie sąsiedzi — zawsze wpadają o tej porze." },
+      { "en": "Don't worry about calling — he won't be home yet, his shift ends at nine.", "pl": "Nie przejmuj się dzwonieniem — na pewno jeszcze nie ma go w domu, jego zmiana kończy się o dziewiątej." },
+      { "en": "She'll be about forty, judging by the photos from her graduation.", "pl": "Ma pewnie z czterdzieści lat, sądząc po zdjęciach z jej ukończenia studiów." },
+      { "en": "You'll be tired after such a long flight — go and get some rest.", "pl": "Na pewno jesteś zmęczony po tak długim locie — idź odpocząć." }
+    ]
+  },
+  {
+    "id": "deduction_narrative",
+    "order": 7,
+    "nameEn": "Reading the whole scale: how the same evidence produces different modals",
+    "namePl": "Czytanie całej skali: jak te same poszlaki dają różne czasowniki modalne",
+    "rules": [
+      {
+        "label": "Notatnik detektywa: skala reaguje na przybywające dowody",
+        "text": "Najlepszy sposób na opanowanie całej skali to śledzenie, jak zmienia się dobór modalnego w miarę napływu poszlak w tej SAMEJ sytuacji. Faza 1, brak dowodów: 'She could be home' (czysta możliwość, brak przesłanek za czy przeciw). Faza 2, słaba poszlaka: 'She might be home — her coat's gone from the hook, but that doesn't mean much' (nadal niepewność, ale już ukierunkowana). Faza 3, mocna poszlaka za: 'The lights are on and I can hear music — she must be home' (poszlaki nie zostawiają realnej alternatywy). Faza 4, poszlaka obala wniosek: 'Actually, she can't be home — that's her car keys still in my bag' (nowy fakt zamyka sprawę w drugą stronę). To ta sama logika, którą śledczy nazwaliby aktualizacją hipotezy w miarę napływu danych — angielski po prostu koduje ten proces gramatycznie."
+      },
+      {
+        "label": "Rozstrzyganie dwuznaczności: dedukcja czy obowiązek?",
+        "text": "Ponieważ must, should i can't pełnią też funkcje deontyczne, kontekst i typ orzeczenia zwykle rozstrzygają, o które znaczenie chodzi. Silna wskazówka: dedukcja epistemiczna bardzo często łączy się z czasownikiem 'be', czasownikami stanowymi lub aspektem dokonanym/ciągłym opisującym stan (must be tired, must know, must have left), podczas gdy znaczenie deontyczne częściej wprowadza czynność wykonywaną świadomie przez podmiot (must finish, must apply, must sign). To nie żelazna reguła, ale silna tendencja, która w praktyce eliminuje większość dwuznaczności."
+      },
+      {
+        "label": "Rejestr i intonacja jako część znaczenia",
+        "text": "W mowie potocznej siła przypuszczenia bywa dodatkowo modulowana przez intonację i słówka wzmacniające (must DEFINITELY be, could possibly be), a w bardzo nieformalnym rejestrze modalne bywają zastępowane przysłówkami (probably, definitely, no way) — 'He's probably at home' i 'He must be at home' niosą niemal identyczny ładunek pewności, ale tylko forma modalna eksponuje, że mówiący aktywnie WNIOSKUJE, a nie po prostu zgaduje. W piśmie formalnym i akademickim modalne epistemiczne (may, might, could) pełnią też funkcję hedgingu — łagodzenia kategoryczności twierdzeń, gdy autor chce zasygnalizować ostrożność wniosku, nie tylko niepewność co do faktu."
+      }
+    ],
+    "usage": [
+      "Świadome przechodzenie po całej skali (will > must > should > may > might/could > may not/might not > can't) w zależności od siły i charakteru dostępnych poszlak.",
+      "Rozróżnianie znaczenia epistemicznego od deontycznego po typie czasownika głównego i szerszym kontekście zdania.",
+      "Stosowanie modalnych epistemicznych jako narzędzia hedgingu w piśmie formalnym i akademickim, nie tylko jako wyrazu niepewności w mowie potocznej."
+    ],
+    "tags": ["deduction scale", "epistemic vs deontic", "hedging", "context disambiguation"],
+    "examples": [
+      { "en": "The door is locked from the inside — she must be home.", "pl": "Drzwi są zamknięte od środka — ona musi być w domu." },
+      { "en": "There's no answer and the car's gone — she can't be home.", "pl": "Nikt nie odpowiada i samochodu nie ma — ona na pewno nie jest w domu." },
+      { "en": "Her car isn't outside, but she might still be home — she could have taken the bus.", "pl": "Jej samochodu nie ma na zewnątrz, ale może jednak jest w domu — mogła pojechać autobusem." },
+      { "en": "The data may point to a seasonal effect, though further analysis would be needed to confirm it.", "pl": "Dane mogą wskazywać na efekt sezonowy, choć do potwierdzenia potrzebna byłaby dalsza analiza." },
+      { "en": "He answered on the first ring — he must have been waiting by the phone the whole time.", "pl": "Odebrał od razu — musiał czekać przy telefonie przez cały ten czas." }
     ]
   }
 ]
