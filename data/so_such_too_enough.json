@@ -1,101 +1,316 @@
 [
   {
-    "id": "so",
+    "id": "degree_words_overview",
     "order": 1,
-    "nameEn": "so + adjective/adverb",
-    "namePl": "so + przymiotnik/przysłówek",
+    "nameEn": "The system behind so/such/too/enough: two families, two logics",
+    "namePl": "System so/such/too/enough: dwie rodziny, dwie logiki",
     "rules": [
-      { "label": "so + przym./przysł.", "text": "so łączy się bezpośrednio z przymiotnikiem lub przysłówkiem (bez rzeczownika), żeby wzmocnić jego znaczenie" },
-      { "label": "so...that", "text": "so + przymiotnik/przysłówek + that + zdanie opisujące skutek" },
-      { "label": "so much / so many", "text": "przed rzeczownikiem używamy so much (niepoliczalne) lub so many (policzalne mnogie), nigdy samego so" }
+      {
+        "label": "Nie cztery słówka do wykucia, tylko dwie pary",
+        "text": "So/such i too/enough wyglądają jak jedna czwórka 'wzmacniaczy', ale w rzeczywistości dzielą się na dwie zupełnie odrębne rodziny o innej logice gramatycznej. Rodzina 1 (so, such) to KORELATYWY WSKAZUJĄCE — zapowiadają stopień lub rodzaj czegoś, a zdanie z 'that' dopowiada, co dokładnie z tego stopnia wynikło (so tired that she fell asleep — 'tak zmęczona, że...'). Rodzina 2 (too, enough) to MARKERY PROGU — mierzą coś względem ukrytego celu lub normy, a bezokolicznik z 'to' pokazuje, czy ten cel da się (albo nie da się) osiągnąć (too heavy to lift — 'za ciężkie, żeby podnieść'; old enough to vote — 'wystarczająco dorosły, żeby głosować'). Rozdzielenie tych dwóch rodzin z góry likwiduje połowę typowych błędów uczniów, którzy mieszają 'that' z 'to' bez zastanowienia, skąd bierze się ta różnica."
+      },
+      {
+        "label": "Wskaźnik do przodu: dlaczego 'so...that' i 'such...that' w ogóle istnieją",
+        "text": "So i such są z natury KATAFORYCZNE — wskazują na coś, co dopiero nadejdzie w zdaniu, zamiast (jak większość zaimków) odsyłać do czegoś, co już padło. Mówiąc 'so tired', mówca sygnalizuje: 'zmęczona do pewnego stopnia — zaraz ci powiem, do jakiego', a zdanie z 'that' spłaca ten dług informacyjny. To nie jest wymysł specyficzny dla angielskiego — dokładnie ten sam mechanizm 'wskaż stopień, potem go rozwiń' widać w niemieckim so...dass, w łacińskim tam...ut, we francuskim si...que i w polskim tak...że. Korelatywy wskazująco-rozwijające to jeden z najstarszych, wspólnych indoeuropejskich wzorców składniowych — dowód, że mózg ludzki lubi najpierw zasygnalizować 'będzie ważna informacja', a potem ją podać, niezależnie od języka."
+      },
+      {
+        "label": "Cel zamiast skutku: dlaczego too/enough łączą się z bezokolicznikiem, nie z 'that'",
+        "text": "Too i enough nie opisują przypadkowego SKUTKU (jak so...that), tylko zdolność albo niemożność wykonania konkretnej CZYNNOŚCI względem jakiegoś celu — a naturalną angielską formą wyrażania celu i możliwej czynności jest bezokolicznik z 'to' (forma używana do celu i zamiaru od czasów staroangielskich, np. 'ic com tō sēonne' — 'przyszedłem, żeby zobaczyć'). 'Too heavy to lift' nie znaczy 'ciężkie, i w rezultacie ono podniosło' (skutek), tylko 'ciężkie do tego stopnia, że czynność podniesienia się nie mieści' (próg możliwości działania). Dlatego too/enough nigdy nie łączą się z 'that' w tym znaczeniu — pytają o wykonalność czynności, a nie o to, co się wydarzyło."
+      },
+      {
+        "label": "Kierunek progu: too mierzy w dół (za dużo, żeby...), enough mierzy w górę (wystarczająco, żeby...)",
+        "text": "Too i enough to lustrzane odbicia tej samej logiki progowej, tylko z przeciwnych stron: too sygnalizuje, że jakaś cecha PRZEKROCZYŁA próg potrzebny do wykonania czynności (za dużo/za mało dla celu — 'too difficult to solve' = poziom trudności przewyższa to, co pozwoliłoby rozwiązać), a enough sygnalizuje, że cecha DOSIĘGŁA progu potrzebnego do wykonania czynności ('easy enough to solve' = poziom łatwości wystarcza, żeby rozwiązać). To dlatego 'too' i 'enough' bywają w praktyce niemal synonimami po zanegowaniu: 'not easy enough' i 'too difficult' często opisują tę samą sytuację z dwóch stron tego samego progu."
+      }
     ],
     "usage": [
-      "Podkreślenie cechy: This exercise is so difficult.",
-      "Wyrażenie skutku: She was so tired that she fell asleep immediately.",
-      "so much/many + rzeczownik: There were so many people at the concert.",
-      "so nie łączy się bezpośrednio z rzeczownikiem (nie: so a problem)"
+      "Test szybki: jeśli po przymiotniku/przysłówku chcesz dodać zdanie WYJAŚNIAJĄCE SKUTEK ('...że aż...') — sięgaj po so...that lub such...that.",
+      "Jeśli chcesz ocenić, czy dana CZYNNOŚĆ jest możliwa czy niemożliwa do wykonania ('za mało/wystarczająco, żeby...') — sięgaj po too...to lub enough...to.",
+      "So i such różnią się między sobą tym, CO modyfikują (przymiotnik/przysłówek vs. rzeczownik) — zobacz osobne karty 'so' i 'such' niżej.",
+      "Too i enough różnią się KIERUNKIEM progu (nadmiar vs. wystarczalność) oraz pozycją względem przymiotnika (too przed, enough po) — zobacz karty 'too' i 'enough'."
     ],
-    "tags": ["so tired", "so quickly", "so much time", "so many people"],
+    "tags": [
+      "so...that",
+      "such...that",
+      "too...to",
+      "enough...to",
+      "korelatywy",
+      "próg",
+      "kataforyczność"
+    ],
     "examples": [
-      { "en": "This exercise is so difficult that nobody could finish it.", "pl": "To ćwiczenie jest tak trudne, że nikt nie mógł go skończyć." },
-      { "en": "She was so tired that she fell asleep on the sofa.", "pl": "Była tak zmęczona, że zasnęła na kanapie." },
-      { "en": "He speaks so quickly I can't understand him.", "pl": "On mówi tak szybko, że go nie rozumiem." },
-      { "en": "There were so many people at the concert.", "pl": "Na koncercie było tak wielu ludzi." }
+      {
+        "en": "The traffic was so bad that we missed the first half of the film.",
+        "pl": "Korki były tak straszne, że spóźniliśmy się na pierwszą połowę filmu."
+      },
+      {
+        "en": "It was such a chaotic meeting that nobody remembers what was actually agreed.",
+        "pl": "To było tak chaotyczne spotkanie, że nikt nie pamięta, co właściwie ustalono."
+      },
+      {
+        "en": "The contract is too vague to hold up in court.",
+        "pl": "Umowa jest zbyt niejasna, żeby obronić się w sądzie."
+      },
+      {
+        "en": "Is the signal strong enough to stream video, or will it keep buffering?",
+        "pl": "Czy sygnał jest wystarczająco silny, żeby streamować wideo, czy dalej będzie się buforować?"
+      }
+    ]
+  },
+  {
+    "id": "so",
+    "order": 2,
+    "nameEn": "so + adjective/adverb — pointing at a degree",
+    "namePl": "so + przymiotnik/przysłówek — wskazywanie na stopień",
+    "rules": [
+      {
+        "label": "Rodowód: praindoeuropejski zaimek zwrotny",
+        "text": "So pochodzi ze staroangielskiego 'swā', z prageramańskiego *swā, sięgającego praindoeuropejskiego rdzenia *swe- — tego samego, który dał angielskie 'self', niemieckie 'sich', łacińskie 'sui' (siebie samego). Pierwotny sens 'swā' to coś w rodzaju 'na swój (właśnie ten) sposób' — 'so' było więc od zawsze słowem WSKAZUJĄCYM na konkretny, uprzednio ustalony sposób lub stopień, a nie luźnym wzmacniaczem. Ślad tej pierwotnej funkcji wskazującej widać do dziś w użyciach typu 'Hold it so' ('trzymaj to tak [jak pokazuję]') czy 'so-called' (dosłownie 'nazywany W TEN sposób [a nie inny]')."
+      },
+      {
+        "label": "so + przymiotnik/przysłówek (bez rzeczownika)",
+        "text": "So łączy się WYŁĄCZNIE z gołym przymiotnikiem lub przysłówkiem, nigdy bezpośrednio z rzeczownikiem — bo gramatycznie so jest przysłówkiem stopnia, a przysłówki modyfikują przymiotniki/przysłówki/czasowniki, nie rzeczowniki. 'So expensive', 'so carefully', ale nigdy 'so a problem'. Kiedy trzeba wzmocnić rzeczownik, angielski przełącza się na 'such' (patrz karta obok) — to rozdzielenie kompetencji (so = cecha, such = rzecz) jest źródłem większości błędów uczniów pochodzących z języków, w których jeden wyraz obsługuje oba przypadki."
+      },
+      {
+        "label": "so...that: zapowiedź stopnia i jej spłata",
+        "text": "So + przymiotnik/przysłówek + that + zdanie skutku: mówca najpierw sygnalizuje intensywność ('so tired'), a klauzula z 'that' dostarcza dowodu/konsekwencji tej intensywności ('...that she fell asleep standing up'). W mowie potocznej 'that' często znika ('It's so late (that) I should really go') — to typowa dla angielskiego elipsa spójnika podrzędnego, możliwa właśnie dlatego, że 'so' już zapowiedziało nadchodzące zdanie i słuchacz nie potrzebuje formalnego sygnału."
+      },
+      {
+        "label": "so much / so many przed rzeczownikiem",
+        "text": "Żeby wzmocnić samą ILOŚĆ rzeczownika (a nie jego cechę), so potrzebuje pośrednika — much (niepoliczalne) albo many (policzalne) — bo 'so' samo w sobie nie umie się połączyć z rzeczownikiem. 'So much noise', 'so many excuses'. To dokładnie ten sam podział much/many, który rządzi resztą systemu kwantyfikatorów w angielskim."
+      },
+      {
+        "label": "so as to / so that: formalne 'so' celowe, odrębna gałąź znaczeniowa",
+        "text": "Obok stopnia, 'so' ma drugą, historycznie spokrewnioną, ale funkcjonalnie odrębną rolę: 'so as to + bezokolicznik' i 'so that + zdanie' wprowadzają CEL, a nie skutek ('She left early so as to avoid the traffic' — 'żeby uniknąć korków', nie 'na tyle wcześnie, że uniknęła'). To rozróżnienie widać po intonacji i przecinku w piśmie: skutkowe 'so...that' zwykle wynika bezpośrednio z przymiotnika bez przecinka, a celowe 'so that' zazwyczaj stoi na początku osobnej klauzuli, często oddzielonej przecinkiem."
+      }
+    ],
+    "usage": [
+      "Wzmocnienie cechy: The presentation was so rushed that half the slides made no sense.",
+      "Wyrażenie skutku: He spoke so quietly that the microphone barely picked him up.",
+      "so much/many + rzeczownik: There's so much bureaucracy involved in renewing a visa.",
+      "so as to / so that + cel: We left an hour early so as to beat the rush-hour traffic.",
+      "so nigdy bezpośrednio przy rzeczowniku (nie: so a problem, nie: so noise) — potrzebny jest much/many albo zamiana na such."
+    ],
+    "tags": [
+      "so tired",
+      "so quickly",
+      "so much time",
+      "so many people",
+      "so as to",
+      "so that"
+    ],
+    "examples": [
+      {
+        "en": "The instructions were so contradictory that even the technician had to phone for help.",
+        "pl": "Instrukcje były tak sprzeczne, że nawet technik musiał zadzwonić po pomoc."
+      },
+      {
+        "en": "She'd rehearsed the excuse so many times it no longer sounded convincing.",
+        "pl": "Tyle razy przećwiczyła tę wymówkę, że przestała brzmieć przekonująco."
+      },
+      {
+        "en": "I turned the volume down so as not to wake the neighbours.",
+        "pl": "Ściszyłem, żeby nie obudzić sąsiadów."
+      },
+      {
+        "en": "He's not so much lazy as permanently exhausted.",
+        "pl": "On nie tyle jest leniwy, co po prostu wiecznie wyczerpany."
+      }
     ]
   },
   {
     "id": "such",
-    "order": 2,
-    "nameEn": "such (a/an) + noun",
-    "namePl": "such (a/an) + rzeczownik",
+    "order": 3,
+    "nameEn": "such + noun phrase — pointing at a kind",
+    "namePl": "such + fraza rzeczownikowa — wskazywanie na rodzaj",
     "rules": [
-      { "label": "such a/an", "text": "przed rzeczownikiem policzalnym w liczbie pojedynczej: such a/an (+ przymiotnik) + rzeczownik" },
-      { "label": "such (bez a/an)", "text": "przed rzeczownikiem niepoliczalnym lub w liczbie mnogiej: such (+ przymiotnik) + rzeczownik, bez a/an" },
-      { "label": "such...that", "text": "such + rzeczownik + that + zdanie opisujące skutek" },
-      { "label": "Kolejność", "text": "such zawsze stoi przed a/an, nigdy odwrotnie (poprawnie: such a good film, nie: a such good film)" }
+      {
+        "label": "Etymologia: 'so-formed', nie osobne słowo",
+        "text": "Such to nie przypadkowy synonim 'so' — to jego skamieniałe rozwinięcie. Staroangielskie 'swylc'/'swilc' powstało z połączenia 'swā' (so) + '-līc' (przyrostek znaczący 'mający kształt/formę czegoś', ten sam rdzeń co współczesne '-ly' i 'like'). 'Such' znaczyło więc dosłownie 'so-formed' — 'tak ukształtowany', 'tego rodzaju'. To wyjaśnia całą różnicę względem 'so': skoro 'such' mówi o RODZAJU/KSZTAŁCIE rzeczy, naturalnie łączy się z rzeczownikiem (bo tylko rzeczownik ma 'rodzaj'), podczas gdy 'so' mówi wyłącznie o STOPNIU cechy."
+      },
+      {
+        "label": "Rodzina słów na '-lic': such nie jest samotne",
+        "text": "Ten sam przyrostek '-līc' (dziś '-ly'/'-like') dał angielskiemu całą małą rodzinę korelatywów: 'such' (swā+līc, 'taki/tego rodzaju'), 'which' (hwā+līc, dosłownie 'kto-podobny' → 'jaki/który'), oraz przestarzałe/dialektalne 'ilk' ('tamten sam rodzaj', przetrwałe w szkockim angielskim jako 'of that ilk'). Widać tu wyraźny, produktywny wzorzec staroangielski: [zaimek/przysłówek wskazujący] + -līc = przymiotnik określający RODZAJ. Rozumienie tego wzorca tłumaczy, dlaczego 'such' i 'which' zachowują się gramatycznie bardziej jak determinatory/przymiotniki niż jak zwykłe przysłówki."
+      },
+      {
+        "label": "such + a/an + przymiotnik + rzeczownik policzalny w lp.",
+        "text": "Ponieważ such działa jak determinator, przed rzeczownikiem policzalnym w liczbie pojedynczej WYMAGA przedimka nieokreślonego: 'such a good idea', nigdy 'such good idea'. Kolejność jest stała: such + a/an + (przymiotnik) + rzeczownik — such stoi PRZED przedimkiem, w przeciwieństwie do zwykłych przymiotników, co jest reliktem jego pierwotnej, bardziej zaimkowej natury w staroangielskim (swylc odmieniało się przez przypadki i rodzaj jak zaimek, nie jak zwykły przymiotnik)."
+      },
+      {
+        "label": "such + rzeczownik mnogi / niepoliczalny — bez przedimka",
+        "text": "Przed rzeczownikiem w liczbie mnogiej lub niepoliczalnym przedimek znika, bo 'a/an' wymaga liczby pojedynczej: 'such problems', 'such advice'. To nie jest osobna reguła do zapamiętania, tylko konsekwencja zwykłych zasad przedimka nieokreślonego nałożonych na 'such' jako determinator."
+      },
+      {
+        "label": "such as: dosłownie 'tego rodzaju, JAK...' — echo starego porównania",
+        "text": "'Such as' do wprowadzania przykładów ('cities such as Kraków or Wrocław') zachowuje ślad pierwotnej struktury porównawczej: 'as' tutaj to to samo równościowe 'as' co w 'as...as' ('taki, JAK'). 'Such as' dosłownie znaczy 'tego rodzaju, jak [przykład]' — przykład podany po 'as' jest traktowany jako wzorzec, do którego reszta kategorii jest RÓWNA rodzajem. To wyjaśnia, czemu 'such as' brzmi bardziej precyzyjnie/formalnie niż 'like' — 'like' porównuje przez podobieństwo, 'such as' przez przynależność do tego samego rodzaju."
+      },
+      {
+        "label": "such that: formalny rejestr, predykatywne 'such' bez rzeczownika obok",
+        "text": "W rejestrze formalnym/naukowym 'such' może stać samodzielnie jako orzecznik, z konstrukcją 'such that' odsuniętą od rzeczownika, którego dotyczy: 'The damage was such that repairs were no longer economical' (= 'Szkody były tak [duże/takiego rodzaju], że naprawa przestała się opłacać'). To użycie jest szczególnie częste w raportach technicznych i tekstach prawniczych, gdzie brzmi bardziej precyzyjnie niż potoczne 'so bad that'."
+      }
     ],
     "usage": [
-      "Podkreślenie cechy rzeczownika: It was such a good film.",
-      "Wyrażenie skutku: It was such a good film that we watched it twice.",
-      "Z niepoliczalnym/mnogim: We had such nice weather on holiday.",
-      "Z rzeczownikiem mnogim: They are such good friends."
+      "such + a/an + (przym.) + rzecz. policzalny lp.: It was such a relief to finally hear back from them.",
+      "such + rzecz. mnogi/niepoliczalny: I've never seen such disorganisation in a hospital before.",
+      "such...that (skutek): The queue was such a mess that staff had to call security.",
+      "such as (przykłady, rejestr formalny): Renewable sources such as wind and solar are gaining ground.",
+      "no such thing (kategoryczne zaprzeczenie istnienia): There's no such thing as a completely risk-free investment.",
+      "such that (rejestr formalny, orzecznikowo): Demand was such that the shop sold out within an hour."
     ],
-    "tags": ["such a good film", "such nice weather", "such good friends", "such an idiot"],
+    "tags": [
+      "such a",
+      "such as",
+      "no such thing",
+      "such that",
+      "etymologia -lic"
+    ],
     "examples": [
-      { "en": "It was such a good film that we watched it twice.", "pl": "To był tak dobry film, że obejrzeliśmy go dwa razy." },
-      { "en": "We had such nice weather on holiday.", "pl": "Mieliśmy tak ładną pogodę na wakacjach." },
-      { "en": "They are such good friends.", "pl": "Oni są takimi dobrymi przyjaciółmi." },
-      { "en": "It was such bad weather that the match was cancelled.", "pl": "Pogoda była tak zła, że mecz odwołano." }
+      {
+        "en": "He gave such a vague answer that the journalist asked the question again.",
+        "pl": "Udzielił tak wymijającej odpowiedzi, że dziennikarz zapytał ponownie."
+      },
+      {
+        "en": "There's no such thing as a free upgrade — someone always pays for it eventually.",
+        "pl": "Nie ma czegoś takiego jak darmowy upgrade — ktoś zawsze w końcu za to płaci."
+      },
+      {
+        "en": "Perennials such as lavender and rosemary need very little watering once established.",
+        "pl": "Byliny, takie jak lawenda czy rozmaryn, po zadomowieniu potrzebują bardzo mało podlewania."
+      },
+      {
+        "en": "The interference was such that the recording became almost unusable.",
+        "pl": "Zakłócenia były tak duże, że nagranie stało się niemal bezużyteczne."
+      }
     ]
   },
   {
     "id": "too",
-    "order": 3,
-    "nameEn": "too + adjective/adverb",
-    "namePl": "too + przymiotnik/przysłówek",
+    "order": 4,
+    "nameEn": "too — crossing the threshold",
+    "namePl": "too — przekraczanie progu",
     "rules": [
-      { "label": "too + przym./przysł.", "text": "too oznacza nadmiar — czegoś jest za dużo, więcej niż potrzeba lub jest to niepożądane" },
-      { "label": "too...to", "text": "too + przymiotnik + (for kogoś) + to + bezokolicznik: coś jest niemożliwe z powodu nadmiaru" },
-      { "label": "too much / too many", "text": "too much + rzeczownik niepoliczalny, too many + rzeczownik policzalny mnogi" },
-      { "label": "too vs. very", "text": "too ma negatywny wydźwięk (problem), very jest neutralnym wzmocnieniem" }
+      {
+        "label": "To samo słowo co przyimek 'to' — rozejście się przez akcent",
+        "text": "'Too' i przyimek 'to' to historycznie JEDNO I TO SAMO słowo — staroangielskie 'tō', oznaczające 'w kierunku, ku, dodatkowo'. Kiedy 'tō' było nieakcentowane w zdaniu, dało dzisiejszy przyimek 'to'; kiedy było akcentowane (bo niosło własne, ważne znaczenie 'dodatkowo, jeszcze, ponad miarę'), rozwinęło się w przysłówek 'too'. Podwojenie samogłoski w pisowni ('too' zamiast 'to') to średnioangielska konwencja ortograficzna oznaczająca akcentowaną, 'ciężką' samogłoskę — dokładnie ten sam mechanizm widać w parach 'do/doo' → 'do' (czasownik nieakcentowany) i tym podobnych. Innymi słowy: 'too' to 'to' krzyczące głośniej."
+      },
+      {
+        "label": "Od 'dodatkowo' do 'za dużo': jedna ścieżka semantyczna, dwa dzisiejsze znaczenia",
+        "text": "Ze znaczenia 'dodatkowo, ponad to co już jest' wyrosły dwa dzisiejsze użycia 'too': (1) 'także/również' — 'I'll come too' (dosłownie 'ja też, jako coś dodatkowego'), oraz (2) 'nadmiernie' — 'too heavy' (dosłownie 'ciężkie, i to jeszcze DODATKOWO ciężkie ponad to, co potrzebne'). To nie dwa przypadkowe znaczenia jednego słowa, tylko jedna logika 'ponad miarę bazową' zastosowana raz do zdania (dodatkowa osoba/rzecz), raz do przymiotnika (dodatkowy, zbędny stopień cechy)."
+      },
+      {
+        "label": "too + przymiotnik/przysłówek (+ for kogoś) (+ to + bezokolicznik)",
+        "text": "Podstawowy wzorzec progowy: too + cecha + [dla kogo jest to problemem] + [jaka czynność jest niemożliwa]. 'Too heavy for me to carry' — cecha (heavy) przekracza próg potrzebny, żeby czynność (carry) była wykonalna przez wskazaną osobę (for me). Wszystkie trzy elementy są opcjonalne poza samym 'too + cecha' — reszta pojawia się tylko wtedy, gdy trzeba doprecyzować dla kogo i w jakim celu."
+      },
+      {
+        "label": "too much / too many przed rzeczownikiem",
+        "text": "Podobnie jak przy 'so', samo 'too' nie łączy się bezpośrednio z rzeczownikiem — potrzebuje 'much' (niepoliczalne) lub 'many' (policzalne mnogie) jako pośrednika: 'too much pressure', 'too many cooks'. Ten sam podział much/many działa identycznie we wszystkich czterech słowach tego tematu, gdy trzeba wzmocnić samą ilość."
+      },
+      {
+        "label": "only too: ironiczne odwrócenie sensu",
+        "text": "'Only too' + przymiotnik nie osłabia 'too' (jak sugerowałoby 'only'), tylko WZMACNIA je do maksimum, tracąc przy tym negatywny wydźwięk: 'I'd be only too happy to help' znaczy 'byłbym absolutnie/wyjątkowo szczęśliwy pomóc' — nie 'trochę za bardzo szczęśliwy'. Mechanizm: 'only too' pierwotnie znaczyło 'aż za bardzo prawdziwe, żeby [w to wątpić]' (np. 'only too true' = 'aż nazbyt prawdziwe'), a z czasem ta intensyfikująca funkcja oderwała się od kontekstów negatywnych i zaczęła wzmacniać też przymiotniki pozytywne (happy, pleased, willing), zachowując czystą siłę intensyfikacji bez pierwotnego zabarwienia nadmiaru."
+      },
+      {
+        "label": "can't + czasownik + too + przysłówek: negacja neutralizująca 'nadmiar'",
+        "text": "'You can't be too careful' nie znaczy 'nie wolno ci być zbyt ostrożnym' — znaczy dokładnie odwrotnie: 'ostrożności nigdy za wiele', czyli zachęca do MAKSYMALNEJ ostrożności. Logika: 'too careful' zakłada istnienie progu nadmiaru, a 'can't' zaprzecza, że taki próg w ogóle da się osiągnąć w tej sytuacji — więc im więcej ostrożności, tym lepiej, bez górnej granicy. To typowa dla angielskiego konstrukcja retoryczna maskująca rekomendację pod postacią pozornego ograniczenia."
+      }
     ],
     "usage": [
-      "Coś jest niemożliwe/niewłaściwe z powodu nadmiaru: This coffee is too hot to drink.",
-      "too...for kogoś: The shoes were too expensive for me.",
-      "too much/too many: There is too much salt in this soup.",
-      "too...to + bezokolicznik: We arrived too late to catch the train."
+      "Nadmiar bez celu: The coffee was too bitter to drink without sugar.",
+      "Nadmiar z odbiorcą i czynnością: This form is too complicated for most people to fill in correctly.",
+      "too much/many + rzeczownik: There's too much red tape for a small business to handle alone.",
+      "only too + przym. (wzmocnienie bez negatywnego wydźwięku): She was only too willing to take the credit.",
+      "can't + czas. + too + przysł. (rekomendacja maksimum): When it comes to contracts, you can't read the small print too carefully."
     ],
-    "tags": ["too expensive", "too hot to drink", "too much salt", "too many mistakes"],
+    "tags": [
+      "too difficult",
+      "too much",
+      "too many",
+      "only too",
+      "can't be too careful",
+      "too...to"
+    ],
     "examples": [
-      { "en": "This coffee is too hot to drink.", "pl": "Ta kawa jest za gorąca, żeby ją pić." },
-      { "en": "The shoes were too expensive for me.", "pl": "Buty były dla mnie za drogie." },
-      { "en": "There is too much salt in this soup.", "pl": "W tej zupie jest za dużo soli." },
-      { "en": "We arrived too late to catch the train.", "pl": "Przyjechaliśmy za późno, żeby złapać pociąg." }
+      {
+        "en": "The font on that sign is too small to read from across the room.",
+        "pl": "Czcionka na tym szyldzie jest za mała, żeby ją przeczytać z drugiego końca pokoju."
+      },
+      {
+        "en": "He apologised, though frankly it was too little, too late.",
+        "pl": "Przeprosił, choć szczerze mówiąc, było to za mało i za późno."
+      },
+      {
+        "en": "We'd be only too glad to reschedule if today doesn't suit you.",
+        "pl": "Bylibyśmy wyjątkowo radzi przełożyć spotkanie, jeśli dzisiaj nie pasuje."
+      },
+      {
+        "en": "In a negotiation like this, you can't prepare too thoroughly.",
+        "pl": "W takich negocjacjach nigdy nie da się przygotować zbyt dokładnie."
+      }
     ]
   },
   {
     "id": "enough",
-    "order": 4,
-    "nameEn": "enough — adjective/verb + enough / enough + noun",
-    "namePl": "enough — wystarczalność",
+    "order": 5,
+    "nameEn": "enough — reaching the threshold",
+    "namePl": "enough — dosięganie progu",
     "rules": [
-      { "label": "przym./przysł. + enough", "text": "enough stoi PO przymiotniku lub przysłówku, nigdy przed nim (poprawnie: old enough, nie: enough old)" },
-      { "label": "enough + rzeczownik", "text": "przed rzeczownikiem enough stoi tak jak inne określniki ilości: enough money, enough time" },
-      { "label": "...enough to", "text": "przymiotnik/przysłówek + enough + to + bezokolicznik wyraża wystarczający stopień do zrobienia czegoś" },
-      { "label": "enough vs. too", "text": "enough = wystarczająco (pozytywnie/neutralnie), too = za dużo (negatywnie) — to przeciwieństwa" }
+      {
+        "label": "Etymologia: 'dosięgnięte, osiągnięte w pełni'",
+        "text": "Enough wywodzi się ze staroangielskiego 'genōg'/'genōh', z prageramańskiego *ganōgaz — złożenia przedrostka zbiorowego/dopełniającego 'ge-' ('razem, w pełni', ten sam przedrostek co w niemieckim imiesłowie 'ge-macht') oraz rdzenia spokrewnionego z czasownikiem 'to reach/attain', sięgającego praindoeuropejskiego *nek̑- 'dosięgnąć, osiągnąć' (ten sam rdzeń stoi za łacińskim 'nancisci' — 'zdobyć, dosięgnąć' oraz sanskryckim 'aśnoti' — 'dosięga'). 'Enough' etymologicznie nie znaczy więc po prostu 'dużo' — znaczy 'w pełni dosięgnięte [do wymaganego poziomu]'. To rdzeń progowy w najczystszej postaci: nie chodzi o ilość samą w sobie, tylko o to, czy ilość SIĘGA wymaganej miary."
+      },
+      {
+        "label": "Dlaczego enough stoi PO przymiotniku/przysłówku (jedyny taki wyjątek)",
+        "text": "'Good enough', 'quickly enough' — enough jest jedynym powszechnym słowem stopnia w angielskim, które następuje PO modyfikowanym przymiotniku/przysłówku, zamiast przed nim jak so/too/very/extremely. Wyjaśnienie leży w etymologii czasownikowo-predykatywnej: 'genōg' funkcjonowało pierwotnie bliżej orzecznika ('to było wystarczające') niż zwykłego przedimkowego wzmacniacza, więc zachowuje się składniowo bardziej jak dopowiedzenie/komentarz do już wypowiedzianej cechy ('dobre — i to na tyle, żeby wystarczyło') niż jak jego integralny prefiks. To ten sam wzorzec postpozycji, który w angielskim rządzi frazami miary ('six feet tall', 'two years old') — 'enough' zachowuje się właśnie jak taka miara przyłączona z tyłu."
+      },
+      {
+        "label": "enough + rzeczownik: powrót do zwykłej pozycji determinatora",
+        "text": "Przed rzeczownikiem enough zachowuje się już standardowo — jak zwykły kwantyfikator — i staje PRZED nim: 'enough time', 'enough chairs'. Ta zmiana pozycji (po przymiotniku, ale przed rzeczownikiem) nie jest niekonsekwencją, tylko dowodem na to, że 'enough' pełni dwie różne funkcje gramatyczne na raz: przysłówka stopnia (po przym./przysł.) i determinatora ilościowego (przed rzeczownikiem) — dziedzictwo jego podwójnej, częściowo czasownikowej, częściowo przymiotnikowej natury w staroangielskim."
+      },
+      {
+        "label": "(przym./przysł./rzecz.) + enough (+ for kogoś) (+ to + bezokolicznik)",
+        "text": "Podobnie jak too, enough kończy się często bezokolicznikiem celu: 'old enough to vote', 'enough money to cover the deposit'. Sens jest lustrzanym odbiciem 'too': tu próg został OSIĄGNIĘTY (a nie przekroczony), więc czynność jest MOŻLIWA (a nie niemożliwa). Warto zestawić: 'too young to drive' (próg przekroczony w złą stronę — nie wolno) vs 'old enough to drive' (próg dosięgnięty — wolno) — to dokładnie te same fakty widziane z dwóch stron tej samej granicy wieku."
+      },
+      {
+        "label": "'funnily enough', 'oddly enough': enough jako komentarz do całego zdania, nie do przymiotnika",
+        "text": "W wyrażeniach typu 'funnily enough', 'oddly enough', 'strangely enough', 'curiously enough' — enough przestaje mierzyć stopień cechy, a zaczyna działać jako PRZYSŁÓWEK KOMENTUJĄCY całe zdanie, sygnalizujący postawę mówcy wobec tego, co za chwilę powie ('co ciekawe...'). To rozszerzenie semantyczne: pierwotne 'wystarczająco dziwne, żeby zwrócić na to uwagę' skostniało w gotową formułkę wprowadzającą zaskakującą informację, niezależnie od tego, jak bardzo 'dziwna' rzecz naprawdę jest. Ten sam wzorzec (przysłówek + enough jako komentarz dyskursywny) NIE działa z 'too' — to specyficzna, samodzielna nisza samego 'enough'."
+      },
+      {
+        "label": "'Enough is enough': czysty powrót do korzenia progowego",
+        "text": "Wykrzyknienie 'Enough!' albo 'That's enough!' jako żądanie zaprzestania czegoś to najbardziej dosłowny, nieprzetworzony refleks etymologicznego sensu 'genōg' — 'próg został w pełni dosięgnięty, dalej nie trzeba/nie wolno'. W tym jednym użyciu enough nie jest już przysłówkiem stopnia ani determinatorem, tylko samodzielnym wykrzyknikiem-orzeczeniem, bezpośrednim potomkiem swojego pierwotnego, predykatywnego 'to wystarcza' sprzed tysiąca lat."
+      }
     ],
     "usage": [
-      "Wystarczający stopień cechy: She isn't old enough to drive.",
-      "Wystarczająca ilość: We don't have enough time to finish this.",
-      "Po czasowniku: He didn't study enough for the exam.",
-      "enough...for: Is this box big enough for all the books?"
+      "przym./przysł. + enough: The bridge isn't wide enough for two lorries to pass side by side.",
+      "enough + rzeczownik (przed): We didn't order enough chairs for everyone at the wedding.",
+      "enough of + określona fraza rzeczownikowa: I've had enough of these last-minute changes.",
+      "not... enough (łagodna negatywna ocena): The evidence simply wasn't strong enough to convict him.",
+      "przysłówek + enough jako komentarz do zdania: Oddly enough, nobody noticed the sign had been changed.",
+      "Enough! / That's enough! (żądanie zaprzestania): Enough! I don't want to hear another excuse."
     ],
-    "tags": ["old enough", "enough money", "fast enough", "not enough time"],
+    "tags": [
+      "good enough",
+      "enough time",
+      "enough of",
+      "not enough",
+      "funnily enough",
+      "that's enough"
+    ],
     "examples": [
-      { "en": "She isn't old enough to drive a car.", "pl": "Ona nie jest wystarczająco dorosła, żeby prowadzić samochód." },
-      { "en": "We don't have enough time to finish this today.", "pl": "Nie mamy dziś wystarczająco czasu, żeby to skończyć." },
-      { "en": "Is this box big enough for all the books?", "pl": "Czy to pudełko jest wystarczająco duże na wszystkie książki?" },
-      { "en": "He didn't study enough for the exam.", "pl": "On nie uczył się wystarczająco dużo do egzaminu." }
+      {
+        "en": "The engine wasn't powerful enough to tow a trailer up that hill.",
+        "pl": "Silnik nie był wystarczająco mocny, żeby wciągnąć przyczepę pod tę górę."
+      },
+      {
+        "en": "We simply don't have enough volunteers to cover every shift this weekend.",
+        "pl": "Po prostu nie mamy wystarczająco wolontariuszy, żeby obsadzić każdą zmianę w ten weekend."
+      },
+      {
+        "en": "Funnily enough, the delay actually worked in our favour in the end.",
+        "pl": "Co ciekawe, opóźnienie ostatecznie zadziałało na naszą korzyść."
+      },
+      {
+        "en": "\"Enough,\" she said quietly, and the room fell silent.",
+        "pl": "\"Wystarczy\" — powiedziała cicho, a w pokoju zapadła cisza."
+      }
     ]
   }
 ]
