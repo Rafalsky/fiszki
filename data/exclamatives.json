@@ -1,96 +1,294 @@
 [
   {
-    "id": "what_exclamations",
+    "id": "historical_foundation",
     "order": 1,
-    "nameEn": "What...! exclamations",
-    "namePl": "Wykrzyknienia z What...!",
+    "nameEn": "The historical foundation — why exclamatives borrow question-words but never invert",
+    "namePl": "Fundament: dlaczego wykrzyknienia pożyczają słowa pytające, lecz nigdy się nie odwracają",
     "rules": [
-      { "label": "Rzeczownik policzalny w l.poj.", "text": "What + a/an + (przymiotnik) + rzeczownik policzalny w liczbie pojedynczej + (podmiot + orzeczenie)!: What a lovely day (it is)!" },
-      { "label": "Rzeczownik w liczbie mnogiej", "text": "Przed rzeczownikiem policzalnym w liczbie mnogiej pomijamy a/an: What beautiful flowers!" },
-      { "label": "Rzeczownik niepoliczalny", "text": "Przed rzeczownikiem niepoliczalnym też pomijamy a/an: What awful weather!" },
-      { "label": "Reszta zdania opcjonalna", "text": "Część 'podmiot + orzeczenie' na końcu jest opcjonalna i często pomijana w mowie potocznej" }
+      {
+        "label": "Exclamative to osobny tryb zdania, nie 'skrócone pytanie'",
+        "text": "W tradycyjnej gramatyce szkolnej wykrzyknienia z what/how bywają traktowane jako ciekawostka poboczna wobec pytań — bo zaczynają się od tego samego słowa. To mylące uproszczenie. Współczesna anglistyka (m.in. kanoniczna 'Cambridge Grammar of the English Language' Huddlestona i Pullum) wyróżnia exclamative jako CZWARTY, odrębny typ zdania obok declarative (oznajmującego), interrogative (pytającego) i imperative (rozkazującego) — z własną, przewidywalną składnią, a nie przypadkową odmianą pytania. Kluczowy dowód na tę odrębność leży w szyku wyrazów: pytanie wymaga inwersji podmiotu i operatora (What is it?), a wykrzyknienie zbudowane z dokładnie tego samego słowa 'what' inwersji ZAKAZUJE (What a day it is!, nie *What a day is it!). Gdyby wykrzyknienie było tylko 'pytaniem bez znaku zapytania', ta różnica składniowa nie miałaby żadnego powodu istnieć."
+      },
+      {
+        "label": "Wspólny rdzeń, rozdzielone drogi: jedno pytajne 'hwæt' rozeszło się na dwie funkcje",
+        "text": "Zarówno pytające what, jak i wykrzyknikowe what pochodzą z tego samego staroangielskiego zaimka pytającego hwæt, wywodzącego się dalej z prageremańskiego *hwat i ostatecznie z praindoeuropejskiego rdzenia *kʷo- ('kto/co', ten sam rdzeń co łacińskie quod czy polskie 'co' w niektórych rekonstrukcjach porównawczych rdzeni pytajnych). Już w bardzo starej angielszczyźnie hwæt zaczęło pełnić DRUGĄ, niepytającą funkcję — jako wykrzyknik otwierający wypowiedź i przyciągający uwagę słuchacza, dokładnie tak jak w słynnym pierwszym słowie poematu 'Beowulf': 'Hwæt! We Gardena in geardagum...' ('Słuchajcie! O potędze królów ludu Spear-Danów w dawnych dniach...'). To nie był w VIII wieku ten sam wykrzyknik gramatyczny, co dzisiejsze 'What a day!' — ale pokazuje już wtedy fundamentalną podatność tego słowa na oderwanie się od czystego pytania o tożsamość i przejście w rolę emocjonalnego sygnału wypowiedzi."
+      },
+      {
+        "label": "Ścieżka gramatykalizacji: od pytania o tożsamość do intensyfikatora stopnia",
+        "text": "Historycznie udokumentowana droga (widoczna też w wielu innych językach, patrz niżej) wygląda tak: zaimek pytający what pierwotnie pytał 'jaki rodzaj?' (What kind of day is it? — pytanie neutralne, oczekujące odpowiedzi). Z czasem ta sama forma zaczęła być używana nie po to, by o coś zapytać, lecz by z góry ZAŁOŻYĆ skrajną odpowiedź i wyrazić zdziwienie nią — 'what' przestało pytać o kategorię, a zaczęło zakładać, że kategoria jest ekstremalna ('to jest taki rodzaj dnia, że aż...'). Ten proces, w którym słowo pytające 'zamraża się' w funkcji wykrzyknikowego intensyfikatora, lingwiści nazywają gramatykalizacją interrogatywu w eksklamatyw — i nie jest to angielska osobliwość: dokładnie ten sam mechanizm dał hiszpańskie '¡Qué bonito día!', francuskie 'Quel beau jour!', włoskie 'Che bella giornata!' i niemieckie 'Was für ein schöner Tag!' (dosłownie 'co dla jednego pięknego dnia!'). Fakt, że niespokrewnione bezpośrednio języki europejskie niezależnie wykształciły ten sam wzorzec, pokazuje, że to nie przypadek historyczny jednego języka, lecz naturalna, powtarzalna ścieżka rozwoju znaczenia słów pytających."
+      },
+      {
+        "label": "Dlaczego brak inwersji jest 'odciskiem palca' zdania oznajmującego, nie pytającego",
+        "text": "Skoro exclamative to osobna kategoria, a nie pytanie — skąd bierze się jego składnia? Odpowiedź: wykrzyknienie to fraza z 'what/how' na czele, PRZYCZEPIONA do w pełni zwykłego zdania oznajmującego (declarative), a nie do zdania pytającego. 'What a lovely day (it is)!' ma w części po 'what a lovely day' dokładnie taki szyk, jak zwykłe zdanie oznajmujące 'It is a lovely day' (podmiot it przed czasownikiem is) — bez żadnej inwersji. Gdyby to był mechanizm pytający, oczekiwalibyśmy 'is it' tak jak w 'What is it?'. Innymi słowy: exclamative dziedziczy szyk słów po declarative, a jedynie 'pożycza' leksykalnie słowo pytające jako marker wykrzyknienia na początku frazy — to dwie niezależne warstwy gramatyki, które w powierzchownej obserwacji łatwo pomylić."
+      }
     ],
     "usage": [
-      "Wyrażanie zaskoczenia, zachwytu lub oburzenia związanego z rzeczownikiem",
-      "Nieformalne, emocjonalne komentarze w rozmowie",
-      "Zawsze kończymy wykrzyknikiem (!)",
-      "Nie mylić z pytaniem What...? — brak inwersji i znaku zapytania"
+      "Exclamative (wykrzyknienie z what/how) to samodzielny typ zdania w angielskiej gramatyce, obok oznajmującego, pytającego i rozkazującego — nie 'skrócone pytanie'",
+      "Both what i how w funkcji wykrzyknikowej wywodzą się z tych samych staroangielskich zaimków pytających co dzisiejsze pytania, ale rozeszły się funkcjonalnie już bardzo dawno",
+      "Brak inwersji podmiotu i operatora w wykrzyknieniach (What a day it is!, nie *is it) to dowód, że składniowo są one zbudowane na bazie zdania oznajmującego, nie pytającego",
+      "Ta sama droga rozwoju (interrogative → exclamative) zaszła niezależnie w wielu językach europejskich — to uniwersalny, a nie przypadkowy angielski wzorzec"
     ],
-    "tags": ["What a day!", "What beautiful flowers!", "What awful weather!", "What a surprise!"],
+    "tags": ["Hwæt! (Beowulf)", "exclamative jako czwarty tryb zdania", "brak inwersji", "quel/che/qué — paralele europejskie"],
+    "examples": [
+      { "en": "What a day it has been! (declarative word order: it has been)", "pl": "Ale to był dzień! (szyk oznajmujący: it has been)" },
+      { "en": "What is it? (interrogative word order: is it)", "pl": "Co to jest? (szyk pytający: is it)" },
+      { "en": "How wrong we were! (no inversion — statement structure underneath)", "pl": "Jak bardzo się myliliśmy! (bez inwersji — pod spodem zdanie oznajmujące)" },
+      { "en": "Hwæt! We Gardena in geardagum... (Old English attention-getting 'hwæt', ancestor of this 'what')", "pl": "Słuchajcie! O potędze królów ludu Spear-Danów w dawnych dniach... (staroangielski wykrzyknik uwagi 'hwæt', przodek dzisiejszego 'what')" }
+    ]
+  },
+  {
+    "id": "what_exclamations",
+    "order": 2,
+    "nameEn": "What-exclamatives: a fossilized interrogative determiner targeting a noun phrase",
+    "namePl": "Wykrzyknienia z What: skamieniały determinator pytający wycelowany w frazę rzeczownikową",
+    "rules": [
+      {
+        "label": "Budowa i logika: what mierzy CAŁĄ frazę rzeczownikową, nie sam przymiotnik",
+        "text": "What + (a/an) + (przymiotnik) + rzeczownik + (podmiot + orzeczenie, opcjonalnie): What a lovely day (it is)! Kluczowe jest to, że what gramatycznie 'patrzy' na rzeczownik jako całość, a przymiotnik jest tu tylko opcjonalnym dodatkiem wewnątrz frazy rzeczownikowej — dlatego zdanie 'What a day!' (bez przymiotnika) jest w pełni poprawne i naturalne, podczas gdy 'How day!' byłoby niegramatyczne (zobacz kolejny podtemat: how nigdy nie łączy się bezpośrednio z rzeczownikiem). What to skamieniały determinator (podobnie jak a/an, this, some) — z historycznie pytającego 'jaki rodzaj rzeczy' przekształcił się w intensyfikator poprzedzający całą frazę rzeczownikową."
+      },
+      {
+        "label": "Przedimek a/an: ten sam mechanizm co w zwykłym zdaniu oznajmującym, nie osobna reguła",
+        "text": "Wybór między a, an a brakiem przedimka w wykrzyknieniu z what NIE jest osobną regułą do wykucia na pamięć — to dokładnie te same zasady użycia przedimka nieokreślonego, które rządzą zwykłym zdaniem oznajmującym: rzeczownik policzalny w liczbie pojedynczej wymaga a/an (What a mess!, What an idea!), rzeczownik w liczbie mnogiej i rzeczownik niepoliczalny go nie przyjmują (What beautiful flowers!, What awful weather! — dokładnie tak samo jak 'These are beautiful flowers' i 'This is awful weather' nie mają przedimka). Rozumienie wykrzyknienia jako fragmentu zwykłego zdania oznajmującego eliminuje potrzebę zapamiętywania osobnej tabelki dla samych wykrzyknień."
+      },
+      {
+        "label": "Reszta zdania (podmiot + orzeczenie) jako opcjonalny, odcinany 'ogon'",
+        "text": "Historycznie i składniowo what + fraza rzeczownikowa to jedynie przednia, wysunięta na czoło część pełnego zdania oznajmującego (What a lovely day it is! ← It is a lovely day + wysunięcie frazy rzeczownikowej na początek jako wykrzyknienie). W żywym, mówionym języku ten 'ogon' zdania (it is, they are, you've made) jest w ogromnej większości przypadków pomijany, bo cała informatywna treść wypowiedzi mieści się już w samej frazie rzeczownikowej — dodawanie 'it is' po 'What a lovely day' brzmi dziś nieco książkowo lub emfatycznie, a nie neutralnie potocznie."
+      },
+      {
+        "label": "Test na to, czy 'what' jest tu wykrzyknikiem, a nie pytaniem: brak znaku zapytania i brak odpowiedzi",
+        "text": "Ponieważ what-exclamative i what-interrogative wyglądają na początku identycznie, jedynym niezawodnym testem rozróżniającym je w piśmie jest interpunkcja i intonacja (opadająca w wykrzyknieniu, wznosząca w pytaniu), a semantycznie — czy mówiący oczekuje odpowiedzi. 'What a day!' nie oczekuje żadnej odpowiedzi, jest czystym aktem ekspresji emocji, podczas gdy 'What day is it?' domaga się konkretnej informacji."
+      }
+    ],
+    "usage": [
+      "Wyrażanie zaskoczenia, zachwytu lub oburzenia związanego z CAŁĄ frazą rzeczownikową (rzeczownikiem, z ewentualnym przymiotnikiem)",
+      "Przedimek a/an rządzi się dokładnie tymi samymi zasadami, co w zwykłym zdaniu oznajmującym — nie jest to osobna reguła do zapamiętania",
+      "Fraza 'podmiot + orzeczenie' na końcu (it is, they were) jest w pełni opcjonalna i w mowie potocznej niemal zawsze pomijana",
+      "What działa jako determinator poprzedzający całą frazę rzeczownikową — dlatego nigdy nie łączy się bezpośrednio z samym przymiotnikiem bez rzeczownika (nie: *What beautiful!)"
+    ],
+    "tags": ["What a day!", "What beautiful flowers!", "What awful weather!", "co decyduje: a/an/brak"],
     "examples": [
       { "en": "What a lovely day it is!", "pl": "Ale piękny dzień!" },
       { "en": "What beautiful flowers!", "pl": "Ale piękne kwiaty!" },
-      { "en": "What awful weather!", "pl": "Ale okropna pogoda!" },
-      { "en": "What a mess you've made!", "pl": "Ale bałagan zrobiłeś!" }
+      { "en": "What an idea that turned out to be.", "pl": "Ale to był pomysł, jak się okazało." },
+      { "en": "What appalling manners some people have!", "pl": "Ale niektórzy ludzie mają okropne maniery!" }
     ]
   },
   {
     "id": "how_exclamations",
-    "order": 2,
-    "nameEn": "How...! exclamations",
-    "namePl": "Wykrzyknienia z How...!",
+    "order": 3,
+    "nameEn": "How-exclamatives: the native-born intensifier of gradable properties",
+    "namePl": "Wykrzyknienia z How: rodzimy intensyfikator cech stopniowalnych",
     "rules": [
-      { "label": "Przymiotnik/przysłówek", "text": "How + przymiotnik/przysłówek + (podmiot + orzeczenie)!: How strange (that is)! / How quickly he ran!" },
-      { "label": "Bez rzeczownika", "text": "Po How nie występuje rzeczownik — jeśli chcemy podkreślić rzeczownik, używamy What...!, nie How...!" },
-      { "label": "Z czasownikiem", "text": "How + podmiot + czasownik! podkreśla intensywność czynności: How she sings!" }
+      {
+        "label": "How nie jest zapożyczoną modą, lecz najstarszą warstwą tego mechanizmu w języku",
+        "text": "O ile 'what' w funkcji wykrzyknikowej to relatywnie 'młodsza' gałąź jednego pytajnego rdzenia, o tyle how (staroangielskie hū, z prageremańskiego *hwō, tego samego rodzinnego pnia co what/who/why) pełniło funkcję intensyfikatora stopnia od najdawniejszych zaświadczonych tekstów — konstrukcje typu 'hu leof' ('jak drogi/kochany') są poświadczone już w poezji staroangielskiej. Podczas gdy what-exclamative gramatykalizowało się na oczach udokumentowanej historii angielskiego (średnioangielski–wczesnonowożytny), how jako marker stopnia jest praktycznie tak stary, jak sam język pisany — to nie zapożyczona konstrukcja z łaciny czy francuskiego (w przeciwieństwie do wielu innych zjawisk składniowych średniowiecznej angielszczyzny), lecz rodzime, germańskie dziedzictwo."
+      },
+      {
+        "label": "Budowa: how celuje wyłącznie w cechę stopniowalną (przymiotnik/przysłówek), nigdy w sam rzeczownik",
+        "text": "How + przymiotnik/przysłówek + (podmiot + orzeczenie): How strange (that is)! / How quickly he ran! Kluczowa różnica względem what polega na tym, CO gramatycznie jest 'mierzone': what mierzy całą tożsamość rzeczy (fraza rzeczownikowa), a how mierzy stopień/natężenie cechy (przymiotnik lub przysłówek) — dlatego how nigdy nie stoi bezpośrednio przed samym rzeczownikiem bez przymiotnika (nie: *How a day!). To rozróżnienie nie jest arbitralne — odzwierciedla fundamentalną różnicę kategorii gramatycznych: rzeczowniki nazywają byty, przymiotniki/przysłówki opisują stopień cechy, a how jako 'skala' może przykładać się tylko do tego drugiego."
+      },
+      {
+        "label": "How + podmiot + czasownik (bez przymiotnika): intensyfikacja samej czynności",
+        "text": "Rzadszy, ale w pełni żywy wzorzec: How + podmiot + czasownik! (How she sings! / How you've grown!) — tu how nie modyfikuje osobnego przymiotnika czy przysłówka, lecz intensyfikuje sam czasownik, sugerując, że intensywność jest zakotwiczona w samej czynności ('jak ona [wspaniale] śpiewa!'). Semantycznie jest to skrót myślowy — brakujący przysłówek (well, beautifully) jest domyślny z kontekstu, a how mierzy jego niewypowiedziany, oczywisty stopień."
+      },
+      {
+        "label": "Rejestr: how jest neutralne i pisemne, what bardziej potoczne i emocjonalne",
+        "text": "How-exclamatives brzmią nieco bardziej formalnie i częściej pojawiają się w piśmie literackim czy retorycznym (How true that is!, How little we know.) niż ich what-owe odpowiedniki, które są bardziej spontaniczne i typowe dla żywej mowy potocznej. To subtelna różnica rejestru, a nie reguła gramatyczna — obie formy są w pełni standardowe, ale native speakerzy odczuwają how jako nieco bardziej podniosłe."
+      }
     ],
     "usage": [
-      "Wyrażanie zachwytu lub zdziwienia cechą (przymiotnik) lub sposobem wykonania czynności (przysłówek)",
-      "Bardziej formalne niż What...!, częste też w piśmie",
-      "How + podmiot + czasownik — podkreślenie intensywności czynności"
+      "Wyrażanie zachwytu lub zdziwienia stopniem cechy (przymiotnik) lub sposobem wykonania czynności (przysłówek)",
+      "How nigdy nie łączy się bezpośrednio z samym rzeczownikiem — jeśli chcemy podkreślić rzeczownik, potrzebny jest what, nie how",
+      "How + podmiot + czasownik (bez osobnego przymiotnika/przysłówka) podkreśla intensywność samej czynności: How she sings!",
+      "How-exclamatives mają nieco bardziej formalny, literacki odcień niż ich odpowiedniki z what"
     ],
-    "tags": ["How strange!", "How quickly he ran!", "How kind of you!", "How she sings!"],
+    "tags": ["How strange!", "How quickly he ran!", "How kind of you!", "hū w staroangielskim"],
     "examples": [
       { "en": "How strange that sounds!", "pl": "Ale to dziwnie brzmi!" },
-      { "en": "How quickly he ran!", "pl": "Jak on szybko biegł!" },
-      { "en": "How kind of you to help!", "pl": "Ale to miło z twojej strony, że pomogłeś!" },
-      { "en": "How she sings!", "pl": "Jak ona śpiewa!" }
+      { "en": "How quickly the years have passed.", "pl": "Jak szybko minęły lata." },
+      { "en": "How little we actually understood at the time.", "pl": "Jak niewiele wtedy naprawdę rozumieliśmy." },
+      { "en": "How you've grown since I last saw you!", "pl": "Jak bardzo urosłeś, odkąd cię ostatnio widziałem!" }
     ]
   },
   {
-    "id": "what_vs_how",
-    "order": 3,
-    "nameEn": "What...! vs How...!",
-    "namePl": "What...! a How...! — rozróżnienie",
+    "id": "what_vs_how_selection",
+    "order": 4,
+    "nameEn": "What vs. how — not two rules to memorize, but one syntactic selection principle",
+    "namePl": "What a How — nie dwie reguły do wykucia, lecz jedna zasada selekcji składniowej",
     "rules": [
-      { "label": "What + rzeczownik", "text": "Gdy podkreślamy rzeczownik (z ewentualnym przymiotnikiem przed nim), używamy What: What a beautiful house!" },
-      { "label": "How + przymiotnik/przysłówek", "text": "Gdy podkreślamy sam przymiotnik lub przysłówek, bez rzeczownika, używamy How: How beautiful!" },
-      { "label": "To samo zdanie, dwa sposoby", "text": "Wiele zdań można wyrazić oboma sposobami: What a beautiful house! = How beautiful this house is!" }
+      {
+        "label": "Jedna oś decyzyjna: co jest celem wykrzyknienia — rzeczownik czy cecha?",
+        "text": "Zamiast traktować wybór między what i how jako dwie oddzielne, przypadkowo podobne konstrukcje do wykucia na pamięć, warto zobaczyć jedną wspólną zasadę selekcji: what wybiera się, gdy chcemy wykrzyknąć CAŁĄ tożsamość rzeczy — rzeczownik (ewentualnie z przymiotnikiem jako jego dodatkiem), a how — gdy chcemy wykrzyknąć wyłącznie STOPIEŃ cechy, bez odnoszenia się do samego rzeczownika jako obiektu zdziwienia. 'What a beautiful house!' skupia uwagę na 'house' jako całości (jest to niezwykły DOM), podczas gdy 'How beautiful this house is!' skupia uwagę wyłącznie na 'beautiful' jako stopniu cechy (dom jest niezwykle PIĘKNY) — to nie są stylistyczne warianty tego samego zdania, lecz dwa różne rozłożenia akcentu semantycznego, mimo że tłumaczenie na polski bywa niemal identyczne."
+      },
+      {
+        "label": "Dlaczego typowe błędy uczących się mają wspólne, przewidywalne źródło",
+        "text": "Najczęstsze błędy (*How a beautiful house! oraz *What beautiful!) biorą się z próby potraktowania what i how jako wymiennych synonimów zamiast jako słów wybierających RÓŻNE kategorie składniowe. *How a beautiful house! zawodzi, bo how nie może poprzedzać frazy rzeczownikowej z przedimkiem — how 'nie widzi' rzeczowników. *What beautiful! zawodzi z odwrotnego powodu: what wymaga rzeczownika jako celu, a samotny przymiotnik bez rzeczownika nie daje what niczego do 'zmierzenia'. Rozumienie tej reguły selekcji kategorii gramatycznej (rzeczownik → what, przymiotnik/przysłówek/czasownik → how) eliminuje oba błędy naraz, zamiast traktować je jako dwie osobne pułapki do zapamiętania."
+      },
+      {
+        "label": "Parafraza między formami: kiedy jest możliwa, a kiedy nie",
+        "text": "Wiele zdań z przymiotnikiem atrybutywnym (stojącym przed rzeczownikiem) można sparafrazować w obie strony: What a beautiful house! = How beautiful this house is! Ale nie zawsze — jeśli zdanie nie ma naturalnego przymiotnika do wyodrębnienia (What a mess! — 'mess' samo w sobie niesie już negatywną ocenę, nie ma osobnego przymiotnika), parafraza z how po prostu nie istnieje, bo nie ma czego przenieść do pozycji przymiotnika. To pokazuje, że what i how nie są uniwersalnie zamiennymi 'synonimami składniowymi', tylko mają nakładający się, ale nieidentyczny zakres zastosowań."
+      }
     ],
     "usage": [
-      "Wybór między What a/an... ! a How... ! zależy od tego, czy chcemy uwypuklić rzeczownik czy cechę",
-      "Częsty błąd uczniów: How a beautiful house! — niepoprawne, bo po How nie stawiamy rzeczownika z a/an",
-      "Częsty błąd: What beautiful! — niepoprawne, bo po What musi wystąpić rzeczownik"
+      "What celuje w rzeczownik (całą tożsamość rzeczy), how celuje w cechę stopniowalną (przymiotnik/przysłówek/czasownik) — to jedna zasada, nie dwie osobne reguły",
+      "Błąd *How a beautiful house! wynika z prób łączenia how z rzeczownikiem, na co how nie pozwala",
+      "Błąd *What beautiful! wynika z braku rzeczownika, którego what wymaga jako celu",
+      "Parafraza what↔how jest możliwa tylko tam, gdzie istnieje wyodrębnialny przymiotnik — nie każde zdanie z what da się przekształcić na how"
     ],
-    "tags": ["What a beautiful house!", "How beautiful!", "What vs How", "błędy uczniów"],
+    "tags": ["What a beautiful house!", "How beautiful!", "błędy: *How a..., *What beautiful!", "parafraza what↔how"],
     "examples": [
-      { "en": "What a beautiful house this is!", "pl": "Ale piękny to dom!" },
-      { "en": "How beautiful this house is!", "pl": "Jaki piękny jest ten dom!" },
-      { "en": "What a fast car!", "pl": "Ale szybki samochód!" },
-      { "en": "How fast that car is!", "pl": "Jaki szybki jest ten samochód!" }
+      { "en": "What a beautiful house this is! = How beautiful this house is!", "pl": "Ale piękny to dom! = Jaki piękny jest ten dom!" },
+      { "en": "What a fast car! = How fast that car is!", "pl": "Ale szybki samochód! = Jaki szybki jest ten samochód!" },
+      { "en": "What a mess! (no parallel how-version exists)", "pl": "Ale bałagan! (nie istnieje równoległa wersja z how)" },
+      { "en": "How well you play the piano! (no parallel what-version exists without a noun like 'skill')", "pl": "Jak dobrze grasz na pianinie! (nie istnieje równoległa wersja z what bez rzeczownika typu 'skill')" }
     ]
   },
   {
     "id": "so_such_exclamations",
-    "order": 4,
-    "nameEn": "So / Such in exclamations",
-    "namePl": "So / Such w wykrzyknieniach",
+    "order": 5,
+    "nameEn": "So and such — the same what/how split, inherited from a single Germanic root",
+    "namePl": "So i such — ten sam podział co what/how, odziedziczony z jednego germańskiego rdzenia",
     "rules": [
-      { "label": "So + przymiotnik/przysłówek", "text": "So + przymiotnik/przysłówek (bez rzeczownika): This is so exciting!" },
-      { "label": "Such + rzeczownik", "text": "Such (+ a/an) + (przymiotnik) + rzeczownik: It's such a great idea! / They are such nice people!" },
-      { "label": "Podobieństwo do What/How", "text": "So/Such w wykrzyknieniach pełnią podobną funkcję wzmacniającą jak What/How, ale wymagają pełnego zdania oznajmującego z podmiotem i orzeczeniem" }
+      {
+        "label": "Ten sam podział rzeczownik/cecha, tylko innym słownictwem",
+        "text": "So i such odtwarzają dokładnie ten sam podział ról co what i how, tylko w innej konstrukcji składniowej: so intensyfikuje samą cechę — przymiotnik lub przysłówek (This is so exciting!, analogicznie do how exciting this is!), a such intensyfikuje rzeczownik — całą frazę rzeczownikową (It's such a great idea!, analogicznie do what a great idea!). Nauka tej pary nie wymaga nowej reguły od zera — to ten sam wzorzec selekcji kategorii, który poznaliśmy przy what/how, przeniesiony na inny mechanizm składniowy."
+      },
+      {
+        "label": "Wspólny rdzeń so i such: prageremańskie *swa, 'w ten sposób'",
+        "text": "So (staroangielskie swā) i such (staroangielskie swylc, złożenie swā + līc, dosłownie 'taki-podobny', 'w taki sposób podobny') wywodzą się z tego samego prageremańskiego rdzenia wskazującego *swa ('tak, w ten sposób') — such to historycznie 'so' połączone z elementem oznaczającym podobieństwo/kształt (ten sam -līc, który dał współczesny przyrostek -ly w przysłówkach, np. quickly = 'w quick-podobny sposób'). Innymi słowy: such dosłownie znaczyło niegdyś 'takiego rodzaju, jak [coś wskazane]' — stąd jego dzisiejsza funkcja przymiotnika/determinatora wskazującego skrajny stopień typu rzeczy, a nie tylko stopień cechy."
+      },
+      {
+        "label": "Kluczowa różnica składniowa: pełne zdanie oznajmujące, nie fraza wysunięta na początek",
+        "text": "W przeciwieństwie do what/how, które (jak wyjaśniono w podtemacie fundamentu historycznego) stoją na samym początku zdania jako wysunięta fraza wykrzyknikowa, so i such NIE zaczynają zdania — pojawiają się w naturalnej pozycji środkowej pełnego zdania oznajmującego (This is so exciting!, nie *So exciting this is!). To dlatego, że so/such nigdy nie przeszły przez etap gramatykalizacji jako 'słowo pytające przeniesione na czoło zdania' — od początku były zwykłymi intensyfikatorami wewnątrz zdania oznajmującego, tak jak dziś, i wykrzyknikowość sygnalizuje tu wyłącznie intonacja i kontekst emocjonalny, a nie żaden specjalny szyk."
+      },
+      {
+        "label": "Zakres zastosowań: such + a/an + (przymiotnik) + rzeczownik, so + przymiotnik/przysłówek (bez rzeczownika)",
+        "text": "Such (+ a/an) + (przymiotnik) + rzeczownik: It's such a great idea! / They are such nice people! (bez a/an przy liczbie mnogiej i niepoliczalnych — dokładnie ta sama logika przedimka, co przy what). So + przymiotnik/przysłówek, nigdy bezpośrednio z rzeczownikiem: This is so exciting! / He drives so fast! Ten sam błąd strukturalny, co przy *How a beautiful house!, pojawia się tu jako *so a great idea — so, podobnie jak how, nie 'widzi' rzeczowników."
+      }
     ],
     "usage": [
-      "Nieformalne wykrzyknienia w pełnym zdaniu oznajmującym (nie na początku, tak jak What/How)",
-      "So podkreśla przymiotnik lub przysłówek",
-      "Such podkreśla rzeczownik (z ewentualnym przymiotnikiem)"
+      "So intensyfikuje przymiotnik lub przysłówek (bez rzeczownika) — pełni tę samą rolę semantyczną co how, ale w środku zdania, nie na jego czele",
+      "Such intensyfikuje całą frazę rzeczownikową (z opcjonalnym przymiotnikiem) — pełni tę samą rolę co what, ale również w środku zdania",
+      "So i such dzielą wspólny prageremański rdzeń *swa ('tak') — such to historycznie 'so' rozszerzone o element podobieństwa",
+      "W przeciwieństwie do what/how, so/such nie wymagają wysunięcia na początek zdania — działają w naturalnej, nieodwróconej pozycji zdania oznajmującego"
     ],
-    "tags": ["so exciting!", "such a great idea!", "such nice people!", "so kind!"],
+    "tags": ["so exciting!", "such a great idea!", "swā → so, swylc → such", "such = so + -like"],
     "examples": [
       { "en": "This is so exciting!", "pl": "To jest takie ekscytujące!" },
       { "en": "It's such a great idea!", "pl": "To jest taki świetny pomysł!" },
-      { "en": "They are such nice people!", "pl": "Oni są takimi miłymi ludźmi!" },
-      { "en": "You're so kind!", "pl": "Jesteś taki miły!" }
+      { "en": "They are such generous hosts.", "pl": "Oni są takimi hojnymi gospodarzami." },
+      { "en": "He drives so recklessly it frightens me.", "pl": "On jeździ tak brawurowo, że mnie to przeraża." }
+    ]
+  },
+  {
+    "id": "negative_rhetorical_exclamatives",
+    "order": 6,
+    "nameEn": "Negative exclamatives — borrowing question syntax while meaning the opposite of a question",
+    "namePl": "Wykrzyknienia przeczące — pożyczona składnia pytania o odwrotnym niż pytanie znaczeniu",
+    "rules": [
+      {
+        "label": "Konstrukcja: przecząca forma pytania, ale bez znaku zapytania i bez oczekiwania na odpowiedź",
+        "text": "Isn't she lovely! / Wasn't that a great film! / Didn't he do well! — struktura powierzchniowa jest identyczna jak w zwyczajnym pytaniu przeczącym (operator + not + podmiot), ale funkcja jest kompletnie inna: to nie pytanie o potwierdzenie ('czy ona nie jest urocza?'), lecz entuzjastyczne, pewne siebie STWIERDZENIE ('ona jest zdecydowanie urocza!'). W przeciwieństwie do what/how-exclamatives, które (jak wyjaśniono w podtemacie fundamentu) budują się na szyku zdania oznajmującego bez inwersji, ten typ wykrzyknienia paradoksalnie ZACHOWUJE inwersję charakterystyczną dla pytań — a mimo to nie jest pytaniem."
+      },
+      {
+        "label": "Mechanizm retoryczny: przeczenie jako pozorne otwarcie na wątpliwość, którą mówiący natychmiast odrzuca",
+        "text": "Logika tej konstrukcji jest zbliżona do pytania retorycznego: forma przecząca formalnie 'zakłada' możliwość zaprzeczenia (czy może NIE jest urocza?), po to, by ekspresywnie tę możliwość odrzucić jako absurdalną — mówiący jest tak przekonany o prawdziwości twierdzenia pozytywnego, że wyraża je poprzez pytanie retoryczne o jego zaprzeczenie, licząc na to, że słuchacz natychmiast zrozumie ironię formy i odczyta czyste, entuzjastyczne potwierdzenie. To ten sam mechanizm illokucyjny, który stoi za pytaniami retorycznymi w ogóle (Isn't it obvious? = 'to oczywiście oczywiste'), tylko przeniesiony w rejestr czystej ekspresji emocji, bez śladu prawdziwego pytania."
+      },
+      {
+        "label": "Intonacja i interpunkcja jako jedyny sygnał odróżniający od prawdziwego pytania",
+        "text": "Ponieważ szyk słów jest identyczny z prawdziwym pytaniem przeczącym, jedynym środkiem rozróżniającym w mowie jest kontur intonacyjny: prawdziwe pytanie przeczące ma zwykle wznoszącą lub neutralną intonację i realnie oczekuje odpowiedzi (Isn't she coming? — 'nie wiem, czy przyjdzie, pytam'), natomiast wykrzyknienie ma wyraźnie opadającą, entuzjastyczną intonację i kończy się (w piśmie) wykrzyknikiem, nie pytajnikiem. Brak reakcji słuchacza w formie odpowiedzi jest społecznie akceptowalny i oczekiwany — to sygnał, że funkcja była ekspresywna, nie informacyjna."
+      },
+      {
+        "label": "Rejestr: entuzjazm, aprobata, czasem lekka ironia lub sarkazm",
+        "text": "Negatywne wykrzyknienia niosą zwykle silny ładunek pozytywnego zaangażowania emocjonalnego mówiącego (podziw, zachwyt, aprobata) i są typowe dla żywej mowy potocznej, rzadziej dla pisma formalnego. W kontekście ironicznym ta sama konstrukcja może zostać odwrócona sarkastycznie (Wasn't that just brilliant! — powiedziane po czyimś niepowodzeniu, z intonacją sygnalizującą dokładnie odwrotność dosłownego znaczenia), co pokazuje, że sama forma gramatyczna niesie znaczenie entuzjastycznego potwierdzenia domyślnie, a treść pozytywna/negatywna zależy od kontekstu i intonacji."
+      }
+    ],
+    "usage": [
+      "Entuzjastyczne, pewne siebie stwierdzenie w formie pytania przeczącego, bez oczekiwania na odpowiedź: Isn't she lovely! (= Ona jest naprawdę urocza!)",
+      "Intonacja opadająca i wykrzyknik (nie znak zapytania) odróżniają tę konstrukcję od prawdziwego pytania przeczącego o tej samej budowie",
+      "Mechanizm bliski pytaniom retorycznym: forma przecząca zakłada wątpliwość tylko po to, by ją natychmiast, entuzjastycznie odrzucić",
+      "Może zostać użyta ironicznie/sarkastycznie — sama forma sygnalizuje pewność, a kontekst decyduje, czy jest to pochwała, czy złośliwość"
+    ],
+    "tags": ["Isn't she lovely!", "Wasn't that a great film!", "pytanie retoryczne a wykrzyknienie", "intonacja opadająca"],
+    "examples": [
+      { "en": "Isn't she lovely!", "pl": "Czyż nie jest urocza! / Ależ ona jest urocza!" },
+      { "en": "Wasn't that a fantastic concert!", "pl": "Ależ to był fantastyczny koncert!" },
+      { "en": "Didn't the children behave beautifully today!", "pl": "Ależ dzieci dzisiaj pięknie się zachowywały!" },
+      { "en": "Wasn't that just typical of him! (said sarcastically after he was late again)", "pl": "Ależ to do niego pasuje! (powiedziane sarkastycznie, gdy znów się spóźnił)" }
+    ]
+  },
+  {
+    "id": "embedded_exclamatives",
+    "order": 7,
+    "nameEn": "Embedded exclamatives — when the wh-clause itself becomes an object, not a full sentence",
+    "namePl": "Wykrzyknienia osadzone — gdy cała fraza wh- staje się dopełnieniem, a nie całym zdaniem",
+    "rules": [
+      {
+        "label": "Budowa: czasownik + what/how-clause jako dopełnienie zdaniowe",
+        "text": "You wouldn't believe what a mess it was. / You should see how big it's grown. / I couldn't tell you how relieved I felt. Cała fraza wykrzyknikowa (what a mess it was, how big it's grown) traci tu status samodzielnego zdania i staje się dopełnieniem czasownika głównego — dokładnie tak, jak zdania rzeczownikowe typu that-clause (I know that he left) czy wh-clause pytające pośrednie (I wonder what he wants). Nie kończy się już wykrzyknikiem, bo formalnie nie jest już osobnym aktem mowy — jest częścią większego zdania oznajmującego."
+      },
+      {
+        "label": "Dlaczego to dowód, że exclamative to prawdziwa kategoria składniowa, a nie tylko interpunkcyjna",
+        "text": "Fakt, że fraza what a mess it was może zostać osadzona jako składnik większego zdania (podobnie jak zdania pytające pośrednie), jest mocnym argumentem lingwistycznym za tym, że exclamative to realna kategoria strukturalna języka, a nie tylko kwestia interpunkcji czy intonacji na poziomie całego zdania. Zdania, które istnieją WYŁĄCZNIE jako samodzielne wypowiedzi (np. rozkazujące), zwykle nie dają się swobodnie osadzać wewnątrz innych zdań jako dopełnienie — to, że exclamative się osadza, potwierdza, że ma on wewnętrzną strukturę zdaniową porównywalną do zdania oznajmującego czy pytającego pośredniego, a nie jest jedynie 'efektem interpunkcyjnym' nałożonym na gotowe zdanie."
+      },
+      {
+        "label": "Czasowniki dopuszczające osadzone wykrzyknienia: percepcja, wiedza, pamięć, komunikacja",
+        "text": "know, see, believe, remember, imagine, notice, realize, tell (w przeczeniu/pytaniu: I can't tell you how..., You'll never guess what a...) — semantycznie są to czasowniki związane z percepcją, wiedzą lub przekazywaniem informacji, do których naturalnie 'pasuje' dołączenie treści nacechowanej emocjonalnie jako jej przedmiot. Różnią się od czasowników wprowadzających zwykłe zdania pytające pośrednie (ask, wonder) tym, że nie sugerują niepewności czy pytania o informację, lecz jej przyjęcie za pewnik wraz z towarzyszącym zaskoczeniem lub emocją."
+      },
+      {
+        "label": "Kontrast z pozornie podobnym pytaniem pośrednim: ta sama forma powierzchniowa, inne znaczenie",
+        "text": "I don't know how tall he is. (pytanie pośrednie — mówiący naprawdę nie wie i pyta o fakt) vs. I don't know how tall he's grown! (osadzone wykrzyknienie — mówiący doskonale wie, że urósł BARDZO, i wyraża zdziwienie stopniem, nie brak wiedzy o fakcie). Rozróżnienie opiera się wyłącznie na kontekście, intonacji i obecności/braku wykrzyknika w piśmie — składniowo obie konstrukcje wyglądają niemal identycznie, co czyni ten kontrast subtelnym, typowo C1/C2 niuansem interpretacyjnym."
+      }
+    ],
+    "usage": [
+      "Fraza wykrzyknikowa (what/how-clause) może pełnić funkcję dopełnienia zdaniowego po czasownikach percepcji, wiedzy i komunikacji: You wouldn't believe how tired I was.",
+      "Osadzone wykrzyknienie nie kończy się własnym wykrzyknikiem — jest częścią większego zdania oznajmującego, które samo może (lub nie) kończyć się kropką albo wykrzyknikiem",
+      "Zdolność osadzania jest argumentem lingwistycznym za tym, że exclamative to prawdziwa kategoria strukturalna, nie tylko zjawisko interpunkcyjne",
+      "Ta sama forma powierzchniowa (I don't know how tall he is) może być zwykłym pytaniem pośrednim ALBO osadzonym wykrzyknieniem — rozstrzyga wyłącznie kontekst i intonacja"
+    ],
+    "tags": ["You wouldn't believe what a...", "You should see how...", "wh-clause jako dopełnienie", "pytanie pośrednie vs osadzone wykrzyknienie"],
+    "examples": [
+      { "en": "You wouldn't believe what a mess the kitchen was in.", "pl": "Nie uwierzyłbyś, jaki bałagan panował w kuchni." },
+      { "en": "You should see how much this house has changed.", "pl": "Powinieneś zobaczyć, jak bardzo zmienił się ten dom." },
+      { "en": "I can't tell you how relieved I felt when the results came back clear.", "pl": "Nie potrafię ci powiedzieć, jaką ulgę poczułem, gdy wyniki okazały się dobre." },
+      { "en": "Notice how quietly she entered the room.", "pl": "Zwróć uwagę, jak cicho weszła do pokoju." }
+    ]
+  },
+  {
+    "id": "ellipsis_and_register",
+    "order": 8,
+    "nameEn": "Ellipsis, fragments, and register — from 'What a day it has been!' to a bare 'What a day!'",
+    "namePl": "Elipsa, fragmenty i rejestr — od 'What a day it has been!' do gołego 'What a day!'",
+    "rules": [
+      {
+        "label": "Fragment jako norma, pełne zdanie jako opcja emfatyczna lub pisemna",
+        "text": "Wbrew intuicji uczących się, którzy traktują 'What a day!' jako 'skróconą', niepełną wersję 'What a day it has been!', w rzeczywistej, żywej mowie to WŁAŚNIE fragment bez podmiotu i orzeczenia jest formą podstawową i najczęstszą, a pełne zdanie z 'podmiot + orzeczenie' na końcu jest formą markowaną — dodawaną świadomie, gdy mówiący chce podkreślić okoliczności czasowe (What a day it's been! — 'jaki to był DZIEŃ', z naciskiem na to, że mówimy o czymś, co się właśnie zakończyło) albo w piśmie bardziej formalnym czy literackim, gdzie fragmenty zdań są rzadziej akceptowane."
+      },
+      {
+        "label": "Elipsa nie jest przypadkowa — usuwa się tylko to, co jest oczywiste z kontekstu",
+        "text": "To, co znika w skróconej formie (podmiot i czasownik posiłkowy/łączący, zwykle it is/was, they are/were), jest zawsze odzyskiwalne jednoznacznie z samej frazy rzeczownikowej i sytuacji mówienia — dokładnie ta sama zasada odzyskiwalności (recoverability), która rządzi elipsą w całej angielszczyźnie (np. w odpowiedziach typu 'Yes, I do' zamiast pełnego zdania). Gdyby brakujący element nie był jednoznacznie odgadywalny, elipsa byłaby niegramatyczna lub niejasna — dlatego np. przy dłuższych, złożonych wykrzyknieniach z dodatkowymi okolicznikami czasu ('what a day... last Tuesday, when everything went wrong') mówiący częściej pozostawia pełniejszą strukturę zdania, by uniknąć dwuznaczności."
+      },
+      {
+        "label": "Wykrzyknienia w piśmie formalnym: rzadkie, ale nie zakazane",
+        "text": "W rejestrze akademickim czy urzędowym exclamatives pojawiają się rzadko (bo są z natury ekspresywne, a nie informacyjne), ale nie są całkowicie nieobecne w piśmie eseistycznym, literaturze pięknej czy retoryce mówionej — tam zwykle występują w PEŁNEJ, nieskróconej formie (How little we truly understand of the universe that surrounds us.), bo skrócony fragment (How little we understand!) brzmiałby w takim kontekście zbyt potocznie i nagle w zestawieniu z resztą tekstu."
+      },
+      {
+        "label": "Interpunkcja w piśmie: wykrzyknik jako jedyny formalny sygnał, łatwy do nadużycia",
+        "text": "Ponieważ w piśmie nie mamy dostępu do intonacji, wykrzyknik (!) jest jedynym formalnym markerem odróżniającym exclamative od zwykłego zdania oznajmującego o tej samej treści leksykalnej (What a day. vs What a day! — pierwsze brzmi na piśmie niemal jak neutralna konstatacja, drugie jednoznacznie sygnalizuje emocję). Z tego powodu styl formalny i akademicki radzi ograniczać liczbę wykrzykników — ich nadużycie w piśmie odbierane jest jako brak kontroli nad rejestrem, mimo że w mowie ta sama gęstość wykrzyknień bywa całkowicie naturalna."
+      }
+    ],
+    "usage": [
+      "Fragment bez podmiotu i orzeczenia (What a day!) jest podstawową, najczęstszą formą w mowie potocznej — pełne zdanie na końcu jest opcją emfatyczną lub bardziej pisemną",
+      "Elipsa usuwa tylko elementy jednoznacznie odzyskiwalne z kontekstu — ta sama zasada, co przy innych typach elipsy w angielskim",
+      "W piśmie formalnym i akademickim wykrzyknienia pojawiają się rzadko, a gdy już występują, zwykle w pełnej, nieskróconej formie",
+      "Wykrzyknik jest w piśmie jedynym sygnałem odróżniającym exclamative od zwykłego zdania oznajmującego — jego nadmiar bywa odbierany jako niekontrolowany rejestr"
+    ],
+    "tags": ["What a day! vs What a day it's been!", "elipsa i odzyskiwalność", "rejestr formalny", "nadużycie wykrzyknika w piśmie"],
+    "examples": [
+      { "en": "What a day! (bare fragment — the default in speech)", "pl": "Ale dzień! (goły fragment — domyślna forma w mowie)" },
+      { "en": "What a day it has been, from start to finish.", "pl": "Ale to był dzień, od początku do końca." },
+      { "en": "How little we truly understand of the universe that surrounds us.", "pl": "Jak niewiele naprawdę rozumiemy z otaczającego nas wszechświata." },
+      { "en": "What a relief. (understated, almost flat in writing without the exclamation mark)", "pl": "Co za ulga. (stonowane, na piśmie niemal neutralne bez wykrzyknika)" }
     ]
   }
 ]
