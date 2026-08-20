@@ -307,9 +307,9 @@
     "id": "discourse_markers",
     "icon": "💬",
     "title": "Markery dyskursu",
-    "desc": "Markery dyskursu: well, actually, by the way, anyway, on the other hand — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40,
-    "level": "b1"
+    "desc": "Markery dyskursu od korzeni: gramatykalizacja pełnoznacznych słów w sygnały proceduralne, metafora ARGUMENTACJA TO PODRÓŻ spinająca moreover/by the way/anyway, pułapka false friend actually vs 'aktualnie', hedging i grzeczność negatywna, tokeny potwierdzenia (right, fair enough, I see) — ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 56,
+    "level": "c1"
   },
   {
     "id": "british_american",
