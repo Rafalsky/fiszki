@@ -1,100 +1,201 @@
 [
   {
-    "id": "because_vs_because_of",
+    "id": "conjunction_vs_preposition",
     "order": 1,
-    "nameEn": "because / since / as vs. because of / due to",
-    "namePl": "because / since / as a because of / due to — przyczyna: zdanie czy rzeczownik",
+    "nameEn": "The hidden grammar behind \"linking words\" — clause-linkers, phrase-linkers, and sentence-adverbs",
+    "namePl": "Fundament: trzy różne klasy gramatyczne ukryte pod jedną nazwą „spójnik”",
     "rules": [
-      { "label": "because / since / as", "text": "+ całe zdanie (podmiot + orzeczenie) — wprowadzają przyczynę jako zdanie podrzędne" },
-      { "label": "because of / due to / owing to", "text": "+ rzeczownik lub gerund (czasownik+ing) — NIGDY bezpośrednio + całe zdanie z osobnym podmiotem i orzeczeniem" },
-      { "label": "since", "text": "uwaga: since może też znaczyć „odkąd” (czasowo) — właściwe znaczenie rozpoznajemy z kontekstu" }
+      {
+        "label": "Trzy różne narzędzia pod jedną polską etykietą „spójnik”",
+        "text": "Polskie tłumaczenia zacierają różnicę, która w angielskim jest fundamentalna: „although”, „despite” i „however” wszystkie oddajemy jako „mimo to/chociaż”, a „because”, „because of” i „therefore” jako „ponieważ/dlatego” — więc uczący się traktuje je jak zestaw synonimów różniących się tylko odrobiną formalności. Tymczasem to trzy zupełnie odrębne części mowy, wykonujące trzy różne zadania składniowe: (1) spójniki podrzędne (because, although, since, as) zespalają dwa zdania w jedno zdanie złożone, tworząc hierarchię główne/podrzędne; (2) przyimki złożone (because of, despite, due to, owing to, in spite of) doczepiają do zdania głównego zwykłą frazę rzeczownikową, bez żadnego drugiego czasownika odmienionego; (3) przysłówki spójnikowe (however, therefore, moreover, nevertheless) nie łączą NICZEGO gramatycznie — to samodzielne przysłówki komentujące relację między dwoma odrębnymi, w pełni samodzielnymi zdaniami, rozdzielonymi kropką lub średnikiem."
+      },
+      {
+        "label": "Test diagnostyczny: co stoi zaraz za łącznikiem?",
+        "text": "Zamiast zapamiętywać, które słowo do której kategorii należy, wystarczy spojrzeć na to, co po nim bezpośrednio następuje. Jeśli stoi PODMIOT + ODMIENIONY CZASOWNIK (Although he was tired...) — to spójnik podrzędny. Jeśli stoi sam RZECZOWNIK, ZAIMEK lub GERUND, bez własnego podmiotu i orzeczenia (Despite his tiredness... / Despite being tired...) — to przyimek złożony. Ten test rozstrzyga natychmiast każdy przypadek i tłumaczy, dlaczego „despite he was tired” jest błędem strukturalnym, a nie tylko stylistycznym potknięciem: „despite” gramatycznie żąda frazy rzeczownikowej, a „he was tired” frazą rzeczownikową nie jest."
+      },
+      {
+        "label": "Dlaczego „however, ale...” i „because of he was late” to ten sam błąd",
+        "text": "Najczęstszy błąd zaawansowanych uczących się — łączenie dwóch zdań samym przecinkiem przed „however” (comma splice: *It was raining, however we went out.) — wynika z tego samego pomylenia kategorii co „because of he was late”. „However” TEŻ nie jest spójnikiem, tylko przysłówkiem: nie ma mocy gramatycznej, by scalić dwa zdania w jedno. Wymaga więc kropki lub średnika przed sobą (It was raining. However, we went out. / It was raining; however, we went out.) — dokładnie tak, jak każdy inny zwykły przysłówek zdaniowy (Fortunately, we went out. — nikt nie napisałby *It was raining, fortunately we went out. bez rozdzielenia zdań). Rozpoznanie, że „however” to gramatyczny kuzyn „fortunately”, a nie kuzyn „although”, natychmiast eliminuje ten błąd."
+      },
+      {
+        "label": "Model myślowy: spawanie, doczepianie etykiety i sąsiadowanie",
+        "text": "Warto wyobrazić sobie trzy różne sposoby łączenia dwóch fragmentów tekstu. Spójnik podrzędny SPAWA dwa zdania w jedną nierozerwalną konstrukcję o wewnętrznej hierarchii — jedno zdanie staje się częścią drugiego i nie może swobodnie stać samo (*Although he was tired. — niepełne, wymaga dokończenia). Przyimek złożony DOCZEPIA etykietę-frazę do zdania głównego, tak jak zwykły przyimek (on the table, despite the rain) — zdanie główne pozostaje w pełni samodzielne, fraza jedynie je uzupełnia. Przysłówek spójnikowy nie łączy nic strukturalnie — to dwa w pełni niezależne zdania postawione OBOK SIEBIE, między którymi przysłówek jedynie sygnalizuje logiczną relację (kontrast, wynik, dodanie), jak strzałka narysowana między dwoma odrębnymi klockami, a nie klej scalający je w jeden."
+      }
     ],
     "usage": [
-      "because odpowiada na pytanie why? i wprowadza nową, kluczową przyczynę",
-      "since / as wprowadzają przyczynę uznawaną za już znaną lub oczywistą, często na początku zdania",
-      "because of / due to / owing to łączą się z rzeczownikiem (the rain) lub gerundem (being late), nie z całym zdaniem",
-      "due to najczęściej pojawia się po czasowniku be (The delay was due to snow.)"
+      "trzy pytania rozstrzygają kategorię: czy po łączniku jest podmiot + czasownik odmieniony (spójnik podrzędny), sam rzeczownik/gerund (przyimek złożony), czy nic — bo to już osobne, samodzielne zdanie (przysłówek spójnikowy)?",
+      "spójniki podrzędne (because, although, since, as, though) można przestawić na początek zdania złożonego bez utraty poprawności",
+      "przyimki złożone (despite, because of, due to, owing to, in spite of) nigdy nie łączą się bezpośrednio z odmienionym czasownikiem — tylko z rzeczownikiem, zaimkiem lub gerundem",
+      "przysłówki spójnikowe (however, therefore, moreover, nevertheless) wymagają kropki lub średnika przed sobą, nigdy samego przecinka — bo formalnie łączą dwa zdania, nie jedno"
     ],
-    "tags": ["because", "since", "because of", "due to"],
+    "tags": ["spójnik podrzędny", "przyimek złożony", "przysłówek spójnikowy", "comma splice"],
     "examples": [
-      { "en": "I stayed home because it was raining.", "pl": "Zostałem w domu, ponieważ padało." },
-      { "en": "Since you're already here, let's start the meeting.", "pl": "Skoro już tu jesteś, zacznijmy spotkanie." },
-      { "en": "The flight was delayed because of the storm.", "pl": "Lot był opóźniony z powodu burzy." },
-      { "en": "The match was cancelled due to heavy snow.", "pl": "Mecz odwołano z powodu obfitego śniegu." }
+      { "en": "Although the meeting overran badly, everyone stayed remarkably calm.", "pl": "Chociaż spotkanie mocno się przeciągnęło, wszyscy zachowali zaskakujący spokój." },
+      { "en": "Despite the meeting overrunning badly, everyone stayed remarkably calm.", "pl": "Mimo że spotkanie mocno się przeciągnęło, wszyscy zachowali zaskakujący spokój." },
+      { "en": "The meeting overran badly. However, everyone stayed remarkably calm.", "pl": "Spotkanie mocno się przeciągnęło. Mimo to wszyscy zachowali zaskakujący spokój." },
+      { "en": "The project stalled because of a shortage of funding.", "pl": "Projekt utknął z powodu braku finansowania." }
     ]
   },
   {
-    "id": "although_vs_despite",
+    "id": "because_since_as_vs_because_of",
     "order": 2,
-    "nameEn": "although / though / even though vs. despite / in spite of",
-    "namePl": "although / despite — kontrast: zdanie czy rzeczownik",
+    "nameEn": "because / since / as vs. because of / due to / owing to — reason as a clause or as a phrase",
+    "namePl": "Przyczyna zdaniem czy frazą: because/since/as a because of/due to/owing to",
     "rules": [
-      { "label": "although / though / even though", "text": "+ całe zdanie (podmiot + orzeczenie) — wprowadzają kontrastujące zdanie podrzędne" },
-      { "label": "despite / in spite of", "text": "+ rzeczownik lub gerund (czasownik+ing) — NIGDY bezpośrednio + całe zdanie" },
-      { "label": "despite / in spite of + the fact that", "text": "pozwala użyć pełnego zdania po despite/in spite of, dodając „the fact that”" },
-      { "label": "though", "text": "w mowie potocznej może stać na końcu zdania jako „jednak” (I like it though.)" }
+      {
+        "label": "Rodowód „because”: przyimkowa fraza, która stała się spójnikiem",
+        "text": "„Because” nie było od zawsze jednym słowem-spójnikiem — to skamielina średnioangielskiej frazy przyimkowej „bi cause”, dosłownie „przez przyczynę”, gdzie „cause” to zapożyczenie anglo-normandzkie wywodzące się ostatecznie z łacińskiego „causa”. Fraza ta pierwotnie wymagała jeszcze spójnika „that” po sobie — „bycause that he was ill” — dokładnie tak, jak inne dzisiejsze pojedyncze spójniki (before, after, since) w średnioangielskim regularnie łączyły się z „that”, zanim ono z czasem odpadło jako zbędne. To ten sam ogólny, wielokrotnie powtarzający się w historii angielskiego proces gramatykalizacji: fraza przyimek + rzeczownik + „that” zestala się w jeden, nierozkładalny spójnik podrzędny, a „that” — niegdyś obowiązkowe — staje się fakultatywne, a potem znika."
+      },
+      {
+        "label": "„Since”: jak przyczyna wyrosła z czasu",
+        "text": "„Since” pochodzi od staroangielskiego „siþþan”, ściągniętej formy „sith þan” — dosłownie „po tamtym” (sith = potem/od, þan = celownik od „that”). Przez wieki znaczyło wyłącznie „odkąd/od czasu gdy” (I haven't seen him since he moved away). Znaczenie przyczynowe rozwinęło się później, przez metaforę tak powszechną, że pojawia się niezależnie w wielu językach (podobnie polskie „skoro”, łacińskie „cum”, francuskie „puisque” dosłownie „od kiedy że”): to, co WYDARZYŁO SIĘ WCZEŚNIEJ, łatwo zaczyna być odczytywane jako to, co spowodowało to, co nastąpiło potem — kolejność czasowa zlewa się w ludzkim rozumowaniu z zależnością przyczynowo-skutkową. Dlatego „since” do dziś nosi w sobie oba znaczenia naraz, a które z nich się aktywuje, rozstrzyga wyłącznie kontekst i czas gramatyczny (present perfect wskazuje na znaczenie czasowe)."
+      },
+      {
+        "label": "„As”: ukryty bliźniak „so” — od „all so” do spójnika",
+        "text": "„As” w znaczeniu przyczynowym, czasowym i porównawczym to spłaszczona forma staroangielskiego „ealswa”, dosłownie „all so” — „całkiem tak, w taki właśnie sposób”. Ta sama germańska cząstka „swa” („tak”) dała angielskiemu także samodzielne słowo „so” — „as” i „so” są więc etymologicznym rodzeństwem, dwoma różnymi ścieżkami skrócenia i gramatykalizacji tego samego prasłowa. „So” zachowało funkcję przysłówka sposobu i rozwinęło się w spójnik WSPÓŁRZĘDNY wyniku, podczas gdy „as” przeszło dalszą redukcję fonetyczną i wyspecjalizowało się jako spójnik PODRZĘDNY o aż trzech znaczeniach naraz: porównawczym (as fast as), czasowym (as I was leaving) i przyczynowym (as it was late...) — zawsze zresztą jako przyczyna już znana odbiorcy, nigdy nowa, kluczowa informacja."
+      },
+      {
+        "label": "„Due to” i „owing to”: przymiotnik i imiesłów, które stały się przyimkami",
+        "text": "„Due” to historycznie przymiotnik znaczący „należny, przypisywalny” (the delay was due to the storm = opóźnienie BYŁO PRZYPISYWALNE burzy) — stąd wielowiekowa, wciąż czasem przywoływana zasada prescriptywna, że „due to” powinno stać wyłącznie po czasowniku „be”, nigdy na początku zdania jak zwykły przyimek (Due to the storm, the flight was delayed. — dla purystów podejrzane, choć dziś powszechnie akceptowane w praktyce). „Owing to” poszło inną drogą: to zastygły imiesłów czynny od czasownika „owe” (dosł. „będąc winnym, zawdzięczając”), który z czasem stracił status pełnoprawnego czasownika i skamieniał w zwykły przyimek — dokładnie tak, jak imiesłowy „during” (od francuskiego „durant”), „concerning”, „regarding” czy „notwithstanding”. To rozpoznawalna, produktywna rodzina w historii angielskiego: imiesłów czasownika przechodzi w przyimek, gdy sam czasownik „wypala się” semantycznie, a forma -ing zaczyna funkcjonować niezależnie od swojego pierwotnego znaczenia."
+      },
+      {
+        "label": "Dlaczego „because” odpowiada na „Why?”, a „as/since” — nie",
+        "text": "Różnica między „because” a parą „as/since” to nie kwestia stylu, lecz informacyjnego statusu przyczyny. „Because” wprowadza przyczynę jako nową, najważniejszą informację w zdaniu — dlatego jako jedyne z nich może samodzielnie odpowiedzieć na pytanie „Why?” („Why did you leave?” „Because I was tired.” — nigdy *„As I was tired.”). „As” i „since” zakładają, że przyczyna jest odbiorcy już znana, oczywista lub drugorzędna względem głównej treści zdania — dlatego chętnie otwierają zdanie, spychając nacisk zdaniowy na jego drugą część (Since you're already awake, could you let the dog out?), podczas gdy „because” najczęściej pojawia się na końcu, gdy sama przyczyna jest tym, co mówiący chce podkreślić."
+      }
     ],
     "usage": [
-      "although jest najbardziej neutralne i uniwersalne",
-      "even though podkreśla kontrast mocniej niż although",
-      "despite / in spite of + rzeczownik: despite the rain, in spite of his age",
-      "despite / in spite of + gerund: despite being tired, in spite of losing the match"
+      "because + podmiot + czasownik odpowiada na pytanie „Why?” i wprowadza nową, kluczową przyczynę, zwykle na końcu zdania",
+      "as/since + podmiot + czasownik wprowadzają przyczynę uznawaną za już znaną lub oczywistą, często na początku zdania",
+      "since bez odniesienia czasowego (present perfect) niesie znaczenie przyczynowe, nie czasowe — rozstrzyga kontekst",
+      "because of / due to / owing to / on account of łączą się wyłącznie z rzeczownikiem, zaimkiem lub gerundem, nigdy z całym zdaniem odmienionym",
+      "due to bywa krytykowane poza pozycją po „be”, ale owing to i because of nie mają takiego ograniczenia stylistycznego"
     ],
-    "tags": ["although", "though", "despite", "in spite of"],
+    "tags": ["because", "since", "as", "because of", "due to", "owing to"],
     "examples": [
-      { "en": "Although it was raining, we went for a walk.", "pl": "Chociaż padało, poszliśmy na spacer." },
-      { "en": "She passed the exam even though she hadn't studied much.", "pl": "Zdała egzamin, mimo że niewiele się uczyła." },
-      { "en": "Despite the heavy traffic, we arrived on time.", "pl": "Mimo dużego ruchu dotarliśmy na czas." },
-      { "en": "In spite of being exhausted, he finished the race.", "pl": "Mimo że był wyczerpany, ukończył wyścig." }
+      { "en": "\"Why did you resign?\" \"Because I no longer believed in the project.\"", "pl": "„Dlaczego zrezygnowałeś?” „Bo już nie wierzyłem w ten projekt.”" },
+      { "en": "Since you've already read the contract, you'll know exactly what I mean.", "pl": "Skoro już przeczytałeś umowę, dokładnie wiesz, o co mi chodzi." },
+      { "en": "As the roads were still icy, the delivery was postponed until Monday.", "pl": "Ponieważ drogi wciąż były oblodzone, dostawę przełożono na poniedziałek." },
+      { "en": "The delay was due to a software failure at the check-in desks.", "pl": "Opóźnienie było spowodowane awarią oprogramowania na stanowiskach odprawy." },
+      { "en": "Owing to circumstances beyond our control, tonight's performance has been cancelled.", "pl": "Z powodu okoliczności niezależnych od nas dzisiejszy spektakl został odwołany." }
     ]
   },
   {
-    "id": "however_therefore_moreover",
+    "id": "concession_pair",
     "order": 3,
-    "nameEn": "however / therefore / moreover / nevertheless",
-    "namePl": "however / therefore / moreover / nevertheless — łączniki zdań",
+    "nameEn": "although / though / even though vs. despite / in spite of — the anatomy of concession",
+    "namePl": "although/though vs despite/in spite of — anatomia ustępstwa",
     "rules": [
-      { "label": "however", "text": "wprowadza kontrast lub zaskoczenie względem poprzedniego zdania — „jednak”" },
-      { "label": "therefore / as a result / consequently", "text": "wprowadzają wynik lub wniosek wynikający z poprzedniego zdania — „dlatego”" },
-      { "label": "moreover / furthermore", "text": "dodają kolejny argument w tym samym kierunku — „co więcej”" },
-      { "label": "nevertheless", "text": "wprowadza zdanie mimo poprzedniej informacji, zwykle negatywnej — „mimo to”" }
+      {
+        "label": "„Though”: starogermańska cząstka ustępstwa, starsza niż sam angielski",
+        "text": "„Though” to jedno z najstarszych słów funkcyjnych angielszczyzny — bezpośrednia kontynuacja staroangielskiego „þeah”, które ma odpowiedniki w innych językach germańskich (gocki „þauh”, dzisiejszy niemiecki „doch”). Już w najstarszych zachowanych tekstach anglosaskich pełniło dokładnie tę samą funkcję: sygnalizowało, że mimo prawdziwości jednego faktu, drugi fakt i tak zachodzi — logiczną strukturę nazywaną dziś ustępstwem (concession). To jeden z nielicznych spójników, które angielski odziedziczył w niemal niezmienionej funkcji przez ponad tysiąc lat rozwoju języka, mimo że sama forma fonetyczna znacznie się skróciła."
+      },
+      {
+        "label": "„Although” i „albeit”: dwa różne zrośnięcia z tym samym „though” w środku",
+        "text": "Średnioangielski wzmacniał „though” przedrostkiem intensyfikującym „al” (= „całkowicie, nawet” — ten sam „al” co w „almighty” czy „already”), tworząc „although”, dosłownie „even though”, choć dziś odczuwamy je jako neutralny, uniwersalny odpowiednik „though”. Dokładnie ten sam mechanizm wzmacniający dał angielszczyźnie „albeit” — tam jednak zrosły się aż trzy słowa naraz: „al” + „be” + „it”, czyli zamrożone zdanie w trybie łączącym, dosłownie „nawet niech to będzie [tak], że…” (all be it that…). „Albeit” to więc żywa skamielina wymarłego już w angielskim trybu łączącego (subjunctive), uwięziona wewnątrz pojedynczego, formalnego spójnika używanego dziś głównie w piśmie akademickim i biznesowym (a solution, albeit an imperfect one, was finally found)."
+      },
+      {
+        "label": "„Despite”: od pogardy do neutralnej gramatyki — klasyczny przykład wybielenia znaczeniowego",
+        "text": "„Despite” przywędrowało do angielskiego ze starofrancuskiego rzeczownika „despit” („pogarda, wzgarda”), wywodzącego się z łacińskiego „despectus” — imiesłowu od „despicere”, dosłownie „patrzeć w dół na coś” (de- „w dół” + specere „patrzeć”; ten sam rdzeń co w „spectacle” czy „inspect”). Pierwotna angielska konstrukcja brzmiała „in despite of”, dosłownie „w pogardzie dla, na przekór”, i niosła wyraźny ładunek emocjonalny buntu czy lekceważenia. Z czasem, w procesie znanym jako wybielenie semantyczne (semantic bleaching), fraza straciła swój emocjonalny ładunek i skostniała w czysto gramatyczny, neutralny przyimek, a przedimek „in… of” odpadł, zostawiając samo „despite”. To ten sam proces, który w każdym języku świata zamienia żywe, obrazowe wyrażenia w suche narzędzia gramatyczne."
+      },
+      {
+        "label": "„Spite” i „despite”: etymologiczne bliźnięta rozdzielone przez aferezę",
+        "text": "„Spite” w wyrażeniu „in spite of” to nie osobne słowo, lecz dokładnie to samo „despit”, które utraciło nieakcentowaną pierwszą sylabę w procesie zwanym aferezą (utrata głoski lub sylaby na początku wyrazu) — ten sam mechanizm fonetyczny, który z „esquire” zrobił potocznie „squire”. „Despite” i „in spite of” są więc etymologicznymi bliźniakami: jedno to forma pełna, drugie — jej okaleczona, lecz w pełni zleksykalizowana wersja, z powrotem opakowana w przyimek „in… of”. Stąd dziś funkcjonują jako całkowicie zamienne synonimy o identycznym znaczeniu i identycznej składni (+ rzeczownik / gerund)."
+      },
+      {
+        "label": "„Even though” kontra „even if”: dlaczego różnica jest logiczna, nie kosmetyczna",
+        "text": "„Even though” wzmacnia ustępstwo dotyczące faktu, który JEST prawdą (Even though I disagreed, I stayed quiet. — rzeczywiście się nie zgadzałem). „Even if” wzmacnia ustępstwo dotyczące warunku, który jest HIPOTETYCZNY lub niepewny (Even if I disagreed, I would stay quiet. — może się nie zgodzę, a może tak). Mylenie tych dwóch to nie potknięcie stylistyczne, lecz błąd logiczny: „even though” zakłada prawdziwość, „even if” zakłada tylko możliwość — a rodzimy użytkownik natychmiast wyczuwa tę różnicę, nawet jeśli nie potrafiłby jej precyzyjnie nazwać."
+      }
     ],
     "usage": [
-      "te wyrazy łączą DWA OSOBNE zdania (po kropce lub średniku), a nie spójniki wewnątrz jednego zdania",
-      "po however / therefore / moreover / nevertheless zwykle stawiamy przecinek",
-      "however = kontrast, therefore = wynik, moreover = dodanie, nevertheless = mimo to",
-      "można je też wstawić w środku zdania, otoczone przecinkami: The plan, however, failed."
+      "although / though / even though + podmiot + czasownik odmieniony wprowadzają zdanie ustępstwa; even though jest mocniejsze i podkreśla kontrast bardziej niż although",
+      "despite / in spite of + rzeczownik, zaimek lub gerund — nigdy bezpośrednio + całe zdanie odmienione",
+      "despite / in spite of + the fact that pozwala wprowadzić pełne zdanie po tych przyimkach, kosztem naturalności stylu",
+      "though w mowie potocznej może stać na samym końcu zdania jako luźny dodatek: I like it though.",
+      "albeit to formalny, pisemny synonim although, łączący się bezpośrednio z przymiotnikiem, rzeczownikiem lub imiesłowem, nie z całym zdaniem"
     ],
-    "tags": ["however", "therefore", "moreover", "nevertheless"],
+    "tags": ["although", "though", "even though", "despite", "in spite of", "albeit"],
     "examples": [
-      { "en": "The exam was difficult. However, most students passed.", "pl": "Egzamin był trudny. Mimo to większość zdała." },
-      { "en": "It was raining heavily; therefore, we stayed inside.", "pl": "Padało bardzo mocno, dlatego zostaliśmy w domu." },
-      { "en": "The hotel was expensive. Moreover, the service was poor.", "pl": "Hotel był drogi. Co więcej, obsługa była słaba." },
-      { "en": "He was exhausted. Nevertheless, he kept working.", "pl": "Był wyczerpany. Mimo to dalej pracował." }
+      { "en": "Although the evidence was largely circumstantial, the jury reached a unanimous verdict.", "pl": "Chociaż dowody były w dużej mierze poszlakowe, ława przysięgłych wydała jednomyślny werdykt." },
+      { "en": "Despite mounting criticism, the company refused to change its policy.", "pl": "Mimo narastającej krytyki firma odmówiła zmiany swojej polityki." },
+      { "en": "Even though she'd rehearsed her speech dozens of times, her voice still shook.", "pl": "Mimo że ćwiczyła swoje przemówienie dziesiątki razy, głos wciąż jej drżał." },
+      { "en": "Even if the board rejects the proposal, we'll present it again next quarter.", "pl": "Nawet jeśli zarząd odrzuci propozycję, przedstawimy ją ponownie w przyszłym kwartale." },
+      { "en": "The plan, albeit ambitious, was ultimately approved.", "pl": "Plan, choć ambitny, ostatecznie został zatwierdzony." }
+    ]
+  },
+  {
+    "id": "conjunctive_adverbs",
+    "order": 4,
+    "nameEn": "however / therefore / moreover / nevertheless — sentence adverbs disguised as conjunctions",
+    "namePl": "however / therefore / moreover / nevertheless — przysłówki zdaniowe w przebraniu spójników",
+    "rules": [
+      {
+        "label": "Dlaczego „however” to przysłówek, a nie spójnik — mimo pozorów",
+        "text": "Wszystko, co potrafi zmienić miejsce w zdaniu bez utraty sensu, jest z definicji przysłówkiem, a nie spójnikiem — spójniki mają ustaloną pozycję (na styku dwóch zdań), przysłówki są ruchome. „However” spełnia dokładnie ten test: The plan failed. However, we learned a lot. / The plan failed. We, however, learned a lot. / The plan failed. We learned a lot, however. — we wszystkich trzech wersjach zdanie pozostaje poprawne, bo „however” jedynie komentuje relację między dwoma sąsiadującymi, samodzielnymi zdaniami, nie tworzy między nimi żadnej strukturalnej więzi. Prawdziwy spójnik, jak „but”, takiej swobody nie ma: nie da się powiedzieć *We, but, learned a lot."
+      },
+      {
+        "label": "Rodowód „therefore”, „moreover”, „nevertheless”: zrośnięte frazy przyimkowo-przysłówkowe",
+        "text": "„Therefore” to zrost „there” + „for”, dosłownie „za to, z tego powodu” — dokładnie ten sam wzorzec słowotwórczy co „wherefore” („za co, dlaczego” — stąd pytanie Julii „Wherefore art thou Romeo?” dotyczy PRZYCZYNY jego imienia, nie miejsca, co bywa mylnie odczytywane przez współczesnych czytelników Szekspira). „Moreover” to „more” + „over”, dosłownie „więcej ponad to”, sygnalizujące dołożenie kolejnej warstwy argumentu. „Nevertheless” to aż trzy słowa zrośnięte w jedno: „never” + „the” + „less”, dosłownie „nie [w] mniejszym [stopniu] za to” — z tym samym instrumentalnym „the”, które przetrwało też w konstrukcji „the more, the merrier” (im więcej, tym weselej), reliktem staroangielskiego przypadku narzędnika. „Nonetheless” to późniejszy, równoważny wariant tej samej ramy, w którym „none” zastąpiło „never”."
+      },
+      {
+        "label": "Rejestr: kiedy „however”, a kiedy zwykłe „but”",
+        "text": "„However”, „therefore”, „moreover” i „nevertheless” należą do rejestru pisanego, formalnego lub oficjalnego wystąpienia — w swobodnej rozmowie rodzimy użytkownik znacznie częściej sięgnie po „but”, „so” czy „still”. „Furthermore” brzmi jeszcze bardziej formalnie i urzędowo niż „moreover”, podczas gdy „besides” i „plus” to ich potoczne, mówione odpowiedniki. Dobór właściwego rejestru bywa równie istotny jak sama poprawność gramatyczna: „nevertheless” w nieformalnym mailu do kolegi brzmi sztywno i przesadnie książkowo, dokładnie tak, jak „but” zabrzmiałoby nieprofesjonalnie w raporcie zarządu."
+      },
+      {
+        "label": "Interpunkcja jako lustro składni: dlaczego sam przecinek nie wystarczy",
+        "text": "Skoro „however” nie ma mocy gramatycznej spójnika, samo postawienie przecinka przed nim nie scala dwóch zdań w jedno poprawne zdanie złożone — stąd konieczność kropki lub średnika (It was raining. However, we went out. / It was raining; however, we went out.), a nigdy samego przecinka (*It was raining, however we went out. — błąd zwany comma splice). To interpunkcja bezpośrednio odzwierciedla ukrytą strukturę gramatyczną: dwa niezależne zdania połączone jedynie logicznie, nie strukturalnie."
+      }
+    ],
+    "usage": [
+      "however/therefore/moreover/nevertheless łączą DWA OSOBNE, samodzielne zdania (oddzielone kropką lub średnikiem), nie spójniki wewnątrz jednego zdania",
+      "po however/therefore/moreover/nevertheless na początku drugiego zdania zwykle stawiamy przecinek",
+      "however = kontrast, therefore/as a result/consequently = wynik, moreover/furthermore = dodanie argumentu, nevertheless/nonetheless = mimo to (ustępstwo mimo negatywnej przesłanki)",
+      "wszystkie można też wstawić w środku lub na końcu zdania, otoczone przecinkami: The plan, however, failed. / The plan failed, however.",
+      "w mowie potocznej naturalniejsze są but/so/still — however/moreover/nevertheless należą do rejestru pisanego i formalnego"
+    ],
+    "tags": ["however", "therefore", "moreover", "nevertheless", "conjunctive adverb", "comma splice"],
+    "examples": [
+      { "en": "The evidence against him was overwhelming. However, the jury still acquitted him.", "pl": "Dowody przeciwko niemu były przytłaczające. Mimo to ława przysięgłych go uniewinniła." },
+      { "en": "The bridge was declared structurally unsafe; therefore, the council closed it to all traffic.", "pl": "Most uznano za niebezpieczny konstrukcyjnie, dlatego rada zamknęła go dla całego ruchu." },
+      { "en": "The hotel was overpriced. Moreover, the rooms hadn't been cleaned properly.", "pl": "Hotel był przepłacony. Co więcej, pokoje nie były porządnie posprzątane." },
+      { "en": "Ticket sales were disappointing; the studio, nevertheless, greenlit a sequel.", "pl": "Sprzedaż biletów rozczarowała; studio mimo to dało zielone światło kontynuacji." }
     ]
   },
   {
     "id": "so_vs_because",
-    "order": 4,
-    "nameEn": "so vs. because — result vs. reason",
-    "namePl": "so vs. because — skutek a przyczyna",
+    "order": 5,
+    "nameEn": "so vs. because — the same causal link viewed from result or from reason",
+    "namePl": "so vs. because — ta sama zależność przyczynowa widziana od skutku lub od przyczyny",
     "rules": [
-      { "label": "because", "text": "wprowadza PRZYCZYNĘ — odpowiada na pytanie why?; zdanie z because może stać przed lub po zdaniu głównym" },
-      { "label": "so", "text": "wprowadza SKUTEK/WYNIK — zawsze po zdaniu opisującym przyczynę, poprzedzone przecinkiem" },
-      { "label": "kolejność", "text": "because: [skutek], because [przyczyna] LUB Because [przyczyna], [skutek]. so: tylko [przyczyna], so [skutek]" }
+      {
+        "label": "„So”: od przysłówka sposobu do spójnika wyniku",
+        "text": "„So” pochodzi od staroangielskiego „swa” — pierwotnie czystego przysłówka sposobu, znaczącego „tak, w ten sposób” (i wciąż w tej roli żywego: do it so, tell me so). Ten sam germański rdzeń „swa” przetrwał w niemieckim „so” i niderlandzkim „zo”, a w angielskim, jak pokazuje temat 2, dał również spójnik „as” (z „eallswa”, „all so”) — „so” i „as” to więc etymologiczne rodzeństwo, dwie różne ścieżki gramatykalizacji tego samego prasłowa. „So” dodatkowo rozwinęło zupełnie nową funkcję: spójnika WSPÓŁRZĘDNEGO, łączącego przyczynę z jej skutkiem — krok, którego „as” nigdy nie wykonało, pozostając spójnikiem podrzędnym."
+      },
+      {
+        "label": "Asymetria kierunku: dlaczego „so” nie może otworzyć zdania, a „because” może",
+        "text": "Angielskie spójniki współrzędne (and, but, so, or) z definicji łączą dwa zdania NIEZALEŻNE i muszą stać dokładnie między nimi — nie da się przenieść drugiego zdania z „so” przed pierwsze (*So we stayed home, it was raining. jest niegramatyczne). Spójniki podrzędne, jak „because”, tworzą inną hierarchię: zdanie, które wprowadzają, jest podrzędne wobec głównego, a podrzędność samą w sobie można swobodnie przenieść na początek całości (Because it was raining, we stayed home. = We stayed home because it was raining.). To nie arbitralna zasada do wykucia, lecz bezpośrednia konsekwencja różnicy w statusie gramatycznym obu spójników: współrzędność jest z natury symetryczna i pozycyjnie sztywna, podrzędność — hierarchiczna i pozycyjnie ruchoma."
+      },
+      {
+        "label": "Ta sama sytuacja, dwa różne punkty wyjścia",
+        "text": "„It was raining, so we stayed home.” i „We stayed home because it was raining.” opisują dokładnie tę samą rzeczywistość — różni je jedynie to, od którego końca łańcucha przyczynowo-skutkowego mówiący zaczyna opowieść. Zdanie z „so” prowadzi od przyczyny ku skutkowi w naturalnej kolejności chronologicznej (najpierw padało, potem zostaliśmy w domu) i dlatego brzmi jak relacja z wydarzeń. Zdanie z „because” zaczyna od skutku (już wiadomego) i dopiero dośpiewuje jego wyjaśnienie — dlatego częściej pojawia się jako odpowiedź na pytanie o przyczynę czegoś, co rozmówca już zaobserwował."
+      },
+      {
+        "label": "„So” jako spójnik wyniku a „so” jako przysłówek stopnia — jedna skorupa, dwie różne funkcje",
+        "text": "Ta sama forma „so” w angielszczyźnie pełni dziś dwie zupełnie różne funkcje gramatyczne wywodzące się z tego samego rdzenia: spójnik wyniku (It was late, so we left. — łączy dwa zdania) oraz przysłówek stopnia wzmacniający przymiotnik lub inny przysłówek (so tired, so quickly — wzmacnia jedno słowo, nie łączy zdań). Rozróżnienie jest proste składniowo: po spójniku „so” zawsze następuje pełne zdanie (podmiot + czasownik), po przysłówku stopnia — pojedynczy przymiotnik lub przysłówek, bez własnego podmiotu. Historycznie to dwie równoległe kontynuacje tej samej staroangielskiej funkcji wskaźnika sposobu i stopnia."
+      }
     ],
     "usage": [
-      "so nigdy nie stoi na początku zdania odpowiadającego na why? — zawsze łączy przyczynę ze skutkiem w tej kolejności",
-      "because można przestawić na początek zdania: Because it was raining, we stayed home.",
-      "so + skutek: It was raining, so we stayed home.",
-      "obu można użyć do opisania tej samej sytuacji, zamieniając kolejność przyczyny i skutku"
+      "because wprowadza PRZYCZYNĘ i odpowiada na pytanie why? — zdanie z because może stać przed lub po zdaniu głównym",
+      "so wprowadza SKUTEK/WYNIK i zawsze stoi po zdaniu opisującym przyczynę, poprzedzone przecinkiem",
+      "so nigdy nie otwiera zdania odpowiadającego na why? — jako spójnik współrzędny nie da się go przenieść przed pierwsze zdanie",
+      "because można swobodnie przenieść na początek całego zdania złożonego: Because it was raining, we stayed home.",
+      "tej samej sytuacji można użyć w obu wersjach, zamieniając jedynie kolejność przyczyny i skutku oraz spójnik"
     ],
-    "tags": ["because", "so", "reason", "result"],
+    "tags": ["because", "so", "reason", "result", "spójnik współrzędny", "spójnik podrzędny"],
     "examples": [
-      { "en": "It was raining, so we stayed home.", "pl": "Padało, więc zostaliśmy w domu." },
-      { "en": "We stayed home because it was raining.", "pl": "Zostaliśmy w domu, ponieważ padało." },
-      { "en": "She was tired, so she went to bed early.", "pl": "Była zmęczona, więc poszła spać wcześnie." },
-      { "en": "He passed the exam because he studied hard.", "pl": "Zdał egzamin, ponieważ ciężko się uczył." }
+      { "en": "The negotiations dragged on for months, so both sides eventually brought in outside mediators.", "pl": "Negocjacje ciągnęły się miesiącami, więc obie strony ostatecznie sprowadziły zewnętrznych mediatorów." },
+      { "en": "Both sides eventually brought in outside mediators because the negotiations had dragged on for months.", "pl": "Obie strony ostatecznie sprowadziły zewnętrznych mediatorów, ponieważ negocjacje ciągnęły się miesiącami." },
+      { "en": "\"Why did you leave the party so early?\" \"Because I had an early flight the next morning.\"", "pl": "„Dlaczego wyszedłeś z imprezy tak wcześnie?” „Bo miałem wczesny lot następnego ranka.”" },
+      { "en": "He'd barely slept in two days, so his judgment that morning was far from reliable.", "pl": "Prawie nie spał od dwóch dni, więc jego osąd tamtego ranka był daleki od wiarygodnego." }
     ]
   }
 ]
