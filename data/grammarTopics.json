@@ -427,8 +427,8 @@
     "id": "modals_deduction",
     "icon": "🕵️",
     "title": "Dedukcja modalna",
-    "desc": "Modalne wyrażające przypuszczenia o teraźniejszości: must/might/could/can't + bezokolicznik — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40,
+    "desc": "Skala pewności will / must / should / may / might / could / can't — geneza luki mustn't→can't, model 'notatnika detektywa' i asymetria can/could, ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 56,
     "level": "b1"
   },
   {
