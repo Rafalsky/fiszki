@@ -2,92 +2,298 @@
   {
     "id": "piece_of",
     "order": 1,
-    "nameEn": "a piece of — general partitive",
-    "namePl": "a piece of — ogólny partitive",
+    "nameEn": "a piece of — the general-purpose individuator",
+    "namePl": "a piece of — uniwersalny indywidualizator",
     "rules": [
-      { "label": "a piece of", "text": "Uniwersalna jednostka do liczenia rzeczowników niepoliczalnych, gdy nie ma bardziej naturalnego słowa (advice, information, news, furniture, luggage)" },
-      { "label": "liczba mnoga", "text": "W liczbie mnogiej odmienia się piece, nie rzeczownik niepoliczalny: two pieces of advice, three pieces of furniture" },
-      { "label": "bit of / item of", "text": "a bit of (nieformalnie, mniejsza ilość) i an item of (formalnie, np. an item of clothing) to bliskie warianty" }
+      {
+        "label": "Problem, który rozwiązuje 'piece'",
+        "text": "Rzeczowniki niepoliczalne (advice, information, news, furniture, luggage, equipment) opisują substancję lub kategorię pojęciowo ciągłą, bez wbudowanych granic — tak jak nie da się wskazać, gdzie kończy się 'jedna woda', a zaczyna 'druga', tak samo nie da się wskazać, gdzie kończy się 'jedna rada', a zaczyna 'druga'. Gramatyka angielska potrzebuje mimo to sposobu na policzenie takich pojęć, więc pożycza rzeczownik, który ma naturalne granice (piece — 'kawałek', czyli coś fizycznie odcięte, oddzielone) i używa go jako 'formy' nakładanej na bezkształtną treść: 'a piece of advice' to dosłownie 'jeden wykrojony kawałek rady' — sztuczna, ale gramatycznie niezbędna granica."
+      },
+      {
+        "label": "Dlaczego liczba mnoga dotyczy 'piece', a nie rzeczownika niepoliczalnego",
+        "text": "Skoro to 'piece' wprowadza policzalność, to ono — a nie 'advice' czy 'furniture' — niesie informację o liczbie: two pieces of advice, three pieces of furniture. Rzeczownik niepoliczalny zostaje semantycznie tym, czym był (masą bez wewnętrznych granic), zmienia się tylko liczba pojemników, w które go 'zapakowano'. To ta sama logika, która sprawia, że mówimy 'two glasses of water', a nie *'two waters' w rejestrze formalnym — choć w mowie potocznej granica bywa przekraczana (patrz niżej, sekcja o coercji rodzajowej)."
+      },
+      {
+        "label": "Rodowód: staroangielski dopełniacz cząstkowy (partitive genitive)",
+        "text": "Zanim angielski uprościł swój system przypadków, relację 'część czegoś większego' wyrażał bezpośrednio dopełniacz: 'sum dæl þæs hlafes' — dosłownie 'pewna część (tego) chleba', gdzie 'chleb' stał w dopełniaczu, a nie po przyimku. Gdy angielski w średniowieczu tracił końcówki przypadków (proces przyspieszony kontaktem ze staronordyjskim i normańskim francuskim, gdzie takich końcówek nie było), funkcję dopełniacza cząstkowego przejął przyimek 'of' — dokładnie tak samo jak przejął ją w zwykłym dopełniaczu dzierżawczym (the roof of the house obok house's roof). 'A piece of bread' to więc żywa skamielina tej samej głębokiej relacji gramatycznej, która w staroangielskim była wyrażana fleksją, a dziś jest wyrażana szykiem i przyimkiem — zmieniła się powierzchnia, nie logika."
+      },
+      {
+        "label": "bit of / item of — rejestr, nie synonimia",
+        "text": "'A bit' (od staroangielskiego 'bita' — 'ugryzienie, kęs') niesie w sobie ślad znaczenia 'mała ilość', stąd jego użycie faworyzuje kontekst nieformalny i podkreśla skromny rozmiar (just a bit of advice). 'An item' zapożyczone z łacińskiego przysłówka 'item' ('podobnie, tak samo' — używanego w łacińskich spisach do wprowadzania każdej kolejnej pozycji listy) niesie odwrotną konotację: formalny, skatalogowany, odosobniony element (an item of clothing, an item on the agenda). Trzy słowa — piece, bit, item — pochodzą z trzech różnych metafor źródłowych (odcięty kawałek / ugryzienie / pozycja na liście), a każda z tych metafor wciąż nieświadomie kształtuje, gdzie native speaker czuje się swobodnie ich użyć."
+      }
     ],
     "usage": [
-      "Gdy rzeczownik niepoliczalny nie ma własnej naturalnej jednostki miary",
-      "Advice, information, news, furniture, luggage, equipment i podobne abstrakcyjne/zbiorowe niepoliczalne",
-      "Do podkreślenia jednej konkretnej porcji czegoś niepoliczalnego"
+      "Gdy rzeczownik niepoliczalny nie ma własnej naturalnej jednostki miary (advice, information, news, furniture, luggage, equipment)",
+      "'a bit of' w rejestrze nieformalnym i gdy chcemy podkreślić skromną ilość",
+      "'an item of' w rejestrze formalnym, zwłaszcza przy wyliczeniach i listach (an item of clothing, an item of expenditure)",
+      "Do podkreślenia jednej konkretnej, wyodrębnionej porcji czegoś niepoliczalnego, a nie całej kategorii"
     ],
-    "tags": ["a piece of advice", "two pieces of furniture", "a bit of news", "an item of clothing"],
+    "tags": ["a piece of advice", "two pieces of furniture", "a bit of news", "an item of clothing", "partitive genitive"],
     "examples": [
-      { "en": "Let me give you a piece of advice.", "pl": "Pozwól, że dam ci radę." },
-      { "en": "We bought three pieces of furniture for the living room.", "pl": "Kupiliśmy trzy meble do salonu." },
-      { "en": "I heard an interesting piece of news today.", "pl": "Usłyszałem dziś ciekawą wiadomość." },
-      { "en": "She was carrying a piece of luggage.", "pl": "Niosła sztukę bagażu." }
+      { "en": "Let me give you one last piece of advice before you sign anything.", "pl": "Pozwól, że dam ci jedną ostatnią radę, zanim cokolwiek podpiszesz." },
+      { "en": "We ended up buying three separate pieces of furniture instead of a matching set.", "pl": "Skończyło się na tym, że kupiliśmy trzy osobne meble zamiast kompletu." },
+      { "en": "There's been a rather worrying piece of news doing the rounds at the office.", "pl": "W biurze krąży dość niepokojąca wiadomość." },
+      { "en": "Each item of clothing in the display had to be catalogued by hand.", "pl": "Każda sztuka odzieży na wystawie musiała zostać skatalogowana ręcznie." }
     ]
   },
   {
-    "id": "food_drink_units",
+    "id": "container_shape_units",
     "order": 2,
-    "nameEn": "Units for food and drink",
-    "namePl": "Jednostki dla jedzenia i napojów",
+    "nameEn": "Container and shape units — the 'universal packager'",
+    "namePl": "Jednostki pojemnika i kształtu — 'uniwersalny pakowacz'",
     "rules": [
-      { "label": "kształt/pojemnik", "text": "Wiele niepoliczalnych rzeczowników jedzenia i napojów liczy się przez naturalny kształt lub pojemnik: a slice of bread, a loaf of bread, a bar of chocolate, a bottle of water, a cup of tea, a glass of juice" },
-      { "label": "dobór jednostki", "text": "Jednostka zależy od formy produktu, nie od samego rzeczownika — bread może być a loaf (cała bochenka) albo a slice (kromka)" }
+      {
+        "label": "Skąd biorą się jednostki 'a slice of', 'a loaf of', 'a bar of'",
+        "text": "W przeciwieństwie do 'piece', które jest jednostką w pełni abstrakcyjną i neutralną, słowa takie jak slice (plaster), loaf (bochenek), bar (tabliczka), bottle (butelka), cup (filiżanka), glass (szklanka) to rzeczowniki, które SAME W SOBIE oznaczają konkretny, rozpoznawalny kształt lub pojemnik. Gdy taki rzeczownik trafia w pozycję 'X of Y', przestaje odnosić się do fizycznego przedmiotu, a zaczyna funkcjonować czysto gramatycznie — jako miara. Lingwiści określają ten proces terminem 'universal packager' (Jackendoff, 1991): niemal każdy rzeczownik oznaczający pojemnik lub charakterystyczny kształt da się w ten sposób 'zaprząc' do liczenia substancji, którą normalnie się w nim przechowuje lub w takim kształcie się ją formuje."
+      },
+      {
+        "label": "Dobór jednostki zależy od formy produktu, nie od jego nazwy",
+        "text": "To kluczowa różnica względem 'piece': 'bread' może być 'a loaf' (cała, upieczona bochenkowa forma), 'a slice' (pojedynczy, odcięty plaster) albo 'a piece' (dowolny, nieregularny kawałek) — to samo słowo źródłowe, trzy różne partitywy, bo każdy opisuje inny etap lub inną formę tego samego produktu. Native speaker wybiera jednostkę, patrząc oczami na kształt przedmiotu przed sobą, a nie szukając w pamięci 'właściwego słowa do chleba' — to właśnie odróżnia to zjawisko od sztywnej reguły gramatycznej: to żywe, produktywne narzędzie pojęciowe, które równie łatwo zastosujemy do nowego, nieznanego wcześniej produktu spożywczego."
+      },
+      {
+        "label": "Odwrotny proces: 'universal grinder' i przejście count → mass",
+        "text": "Zjawisko działa też w drugą stronę. Rzeczownik policzalny (chicken — kura, jako zwierzę) można 'zemleć' na niepoliczalną substancję (chicken — mięso z kury, jako materiał na talerzu: 'There's chicken in the fridge'). David Lewis nazwał tę hipotetyczną operację 'universal grinder': każdy rzeczownik policzalny da się pojęciowo zmielić na jednorodną masę, jeśli kontekst tego wymaga (po wypadku samochodowym mówi się nawet, żartobliwie makabrycznie, 'there was car all over the road'). Partitywy kontenerowe są więc jedną z dwóch stron tej samej monety pojęciowej: 'a cup of coffee' pakuje niepoliczalne w policzalne, podczas gdy 'chicken in the fridge' odziera policzalne z jego granic."
+      },
+      {
+        "label": "Coercja w mowie potocznej: 'two coffees, please'",
+        "text": "Gdy kontekst jednoznacznie podpowiada 'standardową porcję', native speakerzy w rejestrze nieformalnym często pomijają cały partitive i liczą wprost rzeczownik niepoliczalny w liczbie mnogiej: 'two coffees' zamiast 'two cups of coffee', 'three teas' w kawiarni, 'a couple of beers'. To nie błąd gramatyczny, tylko kolejny przejaw tej samej elastyczności pojęciowej — kontekst (kawiarnia, zamówienie) narzuca domyślną jednostkę tak mocno, że wypowiadanie jej na głos staje się nadmiarowe. W rejestrze formalnym lub pisanym ta redukcja jest jednak niepożądana."
+      }
     ],
     "usage": [
-      "Precyzyjne określanie porcji lub opakowania jedzenia i napojów",
-      "Zamawianie i przepisy kulinarne (a spoonful of sugar, a can of soda)",
-      "Codzienna mowa o zakupach spożywczych"
+      "Precyzyjne określanie porcji, opakowania lub formy jedzenia i napojów (a slice of, a loaf of, a bar of, a bottle of, a cup of, a spoonful of)",
+      "Dobór jednostki na podstawie aktualnego kształtu/stanu produktu, nie samej jego nazwy",
+      "Zamawianie w restauracji/kawiarni i przepisy kulinarne, gdzie miara musi być jednoznaczna",
+      "Rejestr nieformalny: pomijanie partitive, gdy 'standardowa porcja' jest oczywista z kontekstu (two coffees, a couple of beers)"
     ],
-    "tags": ["a slice of bread", "a bottle of water", "a bar of chocolate", "a cup of coffee"],
+    "tags": ["a slice of bread", "a bottle of water", "a bar of chocolate", "universal packager", "universal grinder", "two coffees"],
     "examples": [
-      { "en": "Could I have a slice of bread, please?", "pl": "Czy mogę prosić kromkę chleba?" },
-      { "en": "We need to buy a loaf of bread and a bottle of milk.", "pl": "Musimy kupić bochenek chleba i butelkę mleka." },
-      { "en": "He ate a whole bar of chocolate.", "pl": "Zjadł całą tabliczkę czekolady." },
-      { "en": "She drinks a cup of tea every morning.", "pl": "Ona pije filiżankę herbaty każdego ranka." }
+      { "en": "Could I have another slice of that bread you baked yesterday?", "pl": "Czy mogę prosić o kolejny plasterek tego chleba, który upiekłaś wczoraj?" },
+      { "en": "We stocked up on a couple of loaves of bread before the long weekend.", "pl": "Zaopatrzyliśmy się w parę bochenków chleba przed długim weekendem." },
+      { "en": "He guiltily finished off a whole bar of chocolate while watching the match.", "pl": "Z poczuciem winy zjadł całą tabliczkę czekolady, oglądając mecz." },
+      { "en": "Two coffees and a tea, please — we're in a bit of a hurry.", "pl": "Dwie kawy i jedną herbatę poproszę — trochę się spieszymy." }
     ]
   },
   {
     "id": "pair_couple",
     "order": 3,
-    "nameEn": "a pair of / a couple of",
-    "namePl": "a pair of / a couple of",
+    "nameEn": "a pair of vs a couple of — matched symmetry vs a loose bond",
+    "namePl": "a pair of vs a couple of — dopasowana symetria kontra luźna więź",
     "rules": [
-      { "label": "a pair of", "text": "Rzeczy złożone z dwóch identycznych, połączonych części: a pair of shoes, trousers, scissors, glasses, gloves" },
-      { "label": "czasownik", "text": "Z 'a pair of' czasownik jest w liczbie pojedynczej: This pair of shoes is new." },
-      { "label": "a couple of", "text": "Dwie osoby/rzeczy razem lub luźne 'kilka' w mowie potocznej: a couple of friends, a couple of days" }
+      {
+        "label": "'Pair' — łacińskie 'par', czyli 'równy'",
+        "text": "'Pair' przyszło do angielskiego przez starofrancuskie 'paire' z łacińskiego 'par' — przymiotnika znaczącego 'równy, dopasowany' (ten sam rdzeń co w 'parity' czy 'compare'). Rdzeń znaczeniowy 'równości' przetrwał do dziś: 'a pair of' opisuje dwa elementy identyczne lub lustrzanie symetryczne, funkcjonujące jako jedna, nierozdzielna całość funkcjonalna — nie jakiekolwiek dwa przedmioty, ale dwa dopasowane do siebie tak ściśle, że osobno tracą sens (shoes, gloves, scissors, trousers, glasses)."
+      },
+      {
+        "label": "Dlaczego 'scissors' i 'trousers' są gramatycznie w liczbie mnogiej",
+        "text": "Nożyczki i spodnie to przedmioty, które fizycznie SĄ dwoma symetrycznymi częściami zespolonymi w jedną funkcję (dwa ostrza, dwie nogawki) — angielski odzwierciedla tę dwudzielną budowę gramatycznie, traktując same te rzeczowniki jako 'pluralia tantum' (rzeczowniki istniejące wyłącznie w liczbie mnogiej, bez liczby pojedynczej *a scissor, *a trouser we współczesnym standardzie). Żeby policzyć taki przedmiot, angielski musi więc sięgnąć po partitive: 'a pair of scissors' liczy nie ostrza, tylko całe narzędzie jako jednostkę — stąd czasownik zgadza się z 'pair' (liczba pojedyncza), nie z rzeczownikiem po 'of': 'This pair of scissors IS blunt', nie *are."
+      },
+      {
+        "label": "'Couple' — łacińska 'copula', czyli 'więź, uścisk'",
+        "text": "'Couple' pochodzi ze starofrancuskiego 'cople', z łacińskiego 'copula' — 'to, co łączy, wiąże' (ten sam rdzeń co w 'copulate' czy gramatycznym terminie 'copula' — łącznik 'być'). Podczas gdy 'pair' od początku akcentowało DOPASOWANIE dwóch elementów, 'couple' akcentowało samą WIĘŹ między nimi, niekoniecznie ich identyczność — stąd 'a couple' od wieków opisuje też dwoje ludzi w związku (a married couple), którzy przecież nie są 'symetryczni' jak buty, tylko połączeni relacją."
+      },
+      {
+        "label": "Semantyczne rozmycie 'couple' do 'paru, kilku'",
+        "text": "Ponieważ 'couple' nigdy nie wymagało od swoich dwóch elementów bycia identycznymi — tylko związanymi — z czasem, w mowie potocznej, jego znaczenie zaczęło się rozciągać poza dosłowne 'dokładnie dwa'. 'A couple of days' bywa dziś używane luźno na oznaczenie 'kilku dni' (trzech, czterech), a nie precyzyjnie dwóch — to klasyczny przykład tzw. rozmycia semantycznego (semantic bleaching): słowo o pierwotnie ostrym znaczeniu liczebnikowym stopniowo przesuwa się w stronę nieprecyzyjnego kwantyfikatora. 'Pair' nigdy nie przeszło tej samej drogi, bo jego znaczenie opiera się na dopasowaniu strukturalnym, a nie na policzalnej relacji — dwa dopasowane buty zawsze będą dokładnie dwoma butami, nigdy 'paroma butami'."
+      },
+      {
+        "label": "Rejestr: kiedy 'couple' oznacza ściśle dwa, a kiedy 'kilka'",
+        "text": "W kontekstach formalnych i naukowych 'a couple of' zwykle nadal oznacza dokładnie dwa (a couple of exceptions to the rule). W mowie potocznej — zwłaszcza amerykańskiej — 'a couple of days/minutes/beers' jest rutynowo rozumiane jako przybliżenie, 'niewiele, mała nieokreślona liczba', bliskoznaczne do 'a few'. Rozróżnienie to jest w pełni kontekstowe, nie leksykalne — to samo zdanie 'I'll be there in a couple of minutes' może znaczyć dosłownie dwie minuty albo 'niedługo', w zależności od tonu i sytuacji."
+      }
     ],
     "usage": [
-      "Ubrania i przedmioty z dwóch symetrycznych części (a pair of jeans, a pair of gloves)",
-      "Narzędzia z dwóch ramion (a pair of scissors, a pair of pliers)",
-      "a couple of — dokładnie dwoje lub nieformalnie 'parę' (kilka)"
+      "'a pair of' — ubrania i przedmioty złożone z dwóch symetrycznych, nierozłącznych części (shoes, gloves, jeans, scissors, pliers, glasses)",
+      "'a pair of' + rzeczownik pluralia tantum wymaga czasownika w liczbie pojedynczej: this pair of trousers IS",
+      "'a couple of' — dokładnie dwoje/dwie osoby lub rzeczy w kontekście formalnym/precyzyjnym",
+      "'a couple of' — nieformalnie: 'kilka, parę' (przybliżona, mała liczba), zwłaszcza z czasem (minutes, days) i napojami",
+      "'a couple' (bez 'of') — para osób w związku romantycznym lub małżeńskim"
     ],
-    "tags": ["a pair of shoes", "a pair of scissors", "a couple of days", "a couple of friends"],
+    "tags": ["a pair of shoes", "a pair of scissors", "a couple of days", "married couple", "semantic bleaching", "pluralia tantum"],
     "examples": [
-      { "en": "I need a new pair of shoes.", "pl": "Potrzebuję nowej pary butów." },
-      { "en": "Can you pass me the pair of scissors?", "pl": "Podasz mi nożyczki?" },
-      { "en": "We're leaving in a couple of days.", "pl": "Wyjeżdżamy za parę dni." },
-      { "en": "A couple of friends came to visit us.", "pl": "Odwiedziło nas kilkoro znajomych." }
+      { "en": "I really need a new pair of running shoes — these ones are falling apart.", "pl": "Naprawdę potrzebuję nowej pary butów do biegania — te się rozpadają." },
+      { "en": "Could you pass me the pair of scissors on the shelf behind you?", "pl": "Podasz mi te nożyczki na półce za tobą?" },
+      { "en": "We're leaving in a couple of days, so we still need to pack.", "pl": "Wyjeżdżamy za parę dni, więc wciąż musimy się spakować." },
+      { "en": "Give me a couple of minutes — I just need to finish this email.", "pl": "Daj mi chwilę — muszę tylko dokończyć tego maila." },
+      { "en": "The couple next door have been married for almost forty years.", "pl": "Para z sąsiedztwa jest małżeństwem od prawie czterdziestu lat." }
     ]
   },
   {
     "id": "collective_groups",
     "order": 4,
-    "nameEn": "Group units for people, animals & things",
-    "namePl": "Jednostki grupowe dla ludzi, zwierząt i rzeczy",
+    "nameEn": "Collective nouns — from medieval hunting jargon to everyday speech",
+    "namePl": "Rzeczowniki zbiorowe — od średniowiecznego żargonu myśliwskiego po codzienną mowę",
     "rules": [
-      { "label": "ludzie", "text": "a group of people, a crowd of fans, a team of experts" },
-      { "label": "zwierzęta", "text": "a herd of cows, a flock of sheep/birds, a pack of wolves, a swarm of bees" },
-      { "label": "rzeczy", "text": "a bunch of flowers/keys/grapes, a stack of books, a set of tools" }
+      {
+        "label": "Neutralne, produktywne jednostki: group, crowd, set, bunch",
+        "text": "Podstawowa warstwa tych partitywów jest w pełni regularna i produktywna: a group of (dowolna zorganizowana grupa — ludzi, przedmiotów, idei), a crowd of (skupisko, zwykle ludzi, z konotacją gęstości/chaosu), a set of (uporządkowany, kompletny zestaw — a set of tools, a set of rules), a bunch of (pierwotnie 'wiązka' — kwiaty, klucze, winogrona spięte razem, dziś też nieformalnie 'sporo, mnóstwo': a bunch of problems). Te słowa łączy to, że każde da się zastosować do niemal dowolnej kategorii rzeczownika — nie mają ograniczeń gatunkowych."
+      },
+      {
+        "label": "Warstwa specjalistyczna: 'terms of venery' i Księga z St Albans (1486)",
+        "text": "Słowa herd (stado, ssaki kopytne), flock (stado, ptaki/owce), pack (wataha, drapieżniki, zwłaszcza wilki i psy), swarm (rój, owady) nie są przypadkowe ani wymienne — wywodzą się z tzw. 'terms of venery', wyspecjalizowanego słownictwa arystokratycznego łowiectwa późnego średniowiecza, spisanego m.in. w 'The Book of St Albans' (1486, przypisywanej Julianie Berners). Znajomość właściwego terminu zbiorowego dla danego gatunku zwierzyny łownej była wówczas markerem klasowym — odróżniała wykształconego szlachcica-myśliwego od pospólstwa, podobnie jak dziś znajomość etykiety przy stole. Ta sama księga jest źródłem dziesiątek dziwacznych, poetyckich określeń, które przetrwały do dziś głównie jako ciekawostki językowe, nie codzienne słownictwo: 'a murder of crows' (mordercza grupa wron), 'a parliament of owls' (parlament sów), 'a pride of lions' (duma lwów — lew jako symbol dumy i władzy)."
+      },
+      {
+        "label": "Dlaczego te słowa wciąż mają sens semantyczny, a nie są arbitralne",
+        "text": "Choć część terminów venery jest dziś czysto ozdobna, rdzeń systemu (herd/flock/pack/swarm) opiera się na realnej obserwacji zachowania zwierząt, nie na przypadku: 'herd' (z germańskiego rdzenia oznaczającego 'pilnować, paść') pasuje do zwierząt pasących się razem stadnie (cows, elephants, deer); 'flock' (z germańskiego 'grupa lecąca/idąca razem') do ptaków i owiec poruszających się jako jedna zbita masa; 'pack' (z francuskiego 'paczka, wiązka', potem 'grupa łowiąca razem') do drapieżników polujących kooperacyjnie w hierarchicznej grupie; 'swarm' (germańskie, dźwiękonaśladowcze echo brzęczenia) do owadów w chaotycznym, gęstym roju. Wybór terminu koduje więc realną wiedzę o tym, JAK dane zwierzę się porusza i organizuje — to miniaturowy system klasyfikacji biologicznej ukryty w gramatyce."
+      },
+      {
+        "label": "Zgoda czasownika: 'a group of people IS' czy 'ARE'",
+        "text": "Gramatycznie rzeczownik zbiorowy w liczbie pojedynczej (group, team, family, government) w standardzie amerykańskim niemal zawsze łączy się z czasownikiem w liczbie pojedynczej (The team IS winning), traktując grupę jako jeden spójny byt. W standardzie brytyjskim czasownik w liczbie mnogiej jest równie akceptowalny, gdy mówiący myśli o grupie jako o zbiorze odrębnych jednostek, a nie o monolicie (The team ARE arguing among themselves) — różnica leży nie w poprawności, lecz w tym, czy w danym zdaniu grupa jest pojęciowo 'jednością' czy 'wieloma osobami naraz'."
+      }
     ],
     "usage": [
-      "Opisywanie zorganizowanej lub naturalnej grupy ludzi, zwierząt lub przedmiotów",
-      "Niektóre słowa są specyficzne dla gatunku zwierzęcia (herd — bydło, flock — owce/ptaki, pack — wilki)",
-      "W liczbie mnogiej odmienia się jednostka, nie rzeczownik: two groups of students"
+      "Neutralne, uniwersalne: a group of, a set of, a bunch of — pasują do niemal każdej kategorii rzeczownika",
+      "Wyspecjalizowane biologicznie: a herd of (ssaki kopytne), a flock of (ptaki/owce), a pack of (drapieżniki), a swarm of (owady) — wybór koduje sposób poruszania się/organizacji danego gatunku",
+      "Ozdobne/literackie terminy venery (a murder of crows, a pride of lions) — rzadkie w mowie codziennej, częste w quizach i ciekawostkach językowych",
+      "Zgoda czasownika z rzeczownikiem zbiorowym zależy od tego, czy grupa jest ujmowana jako jedność (AmE, zwykle liczba pojedyncza) czy jako zbiór jednostek (BrE dopuszcza liczbę mnogą)"
     ],
-    "tags": ["a group of students", "a herd of cows", "a flock of birds", "a bunch of flowers"],
+    "tags": ["a group of students", "a herd of cows", "a flock of birds", "terms of venery", "a murder of crows", "collective noun agreement"],
     "examples": [
-      { "en": "A group of tourists was waiting outside the museum.", "pl": "Grupa turystów czekała przed muzeum." },
-      { "en": "We saw a herd of cows in the field.", "pl": "Zobaczyliśmy stado krów na polu." },
-      { "en": "A flock of birds flew over the lake.", "pl": "Stado ptaków przeleciało nad jeziorem." },
-      { "en": "He gave her a bunch of flowers.", "pl": "Dał jej bukiet kwiatów." }
+      { "en": "A small group of tourists had gathered outside the museum long before it opened.", "pl": "Mała grupa turystów zebrała się przed muzeum na długo przed otwarciem." },
+      { "en": "We watched a herd of elephants make their way slowly across the plain.", "pl": "Obserwowaliśmy stado słoni powoli przemierzające równinę." },
+      { "en": "A pack of wolves had been spotted near the edge of the village.", "pl": "Zauważono watahę wilków w pobliżu skraju wsi." },
+      { "en": "Somewhat fittingly, the collective noun for crows is 'a murder'.", "pl": "Dość trafnie, rzeczownik zbiorowy dla wron to 'a murder' (morderstwo)." },
+      { "en": "The committee is/are still divided on the issue, depending on who you ask.", "pl": "Komisja wciąż jest podzielona w tej sprawie, zależnie od tego, kogo zapytasz." }
+    ]
+  },
+  {
+    "id": "minimal_quantity_units",
+    "order": 5,
+    "nameEn": "Minimal-quantity partitives — measuring by 'barely enough'",
+    "namePl": "Partitywy minimalnej ilości — miara 'ledwie tyle, co'",
+    "rules": [
+      {
+        "label": "Wspólny mianownik: jednostka jako gest, nie jako miara",
+        "text": "A pinch of (szczypta), a dash of (odrobina, 'plusk'), a drop of (kropla), a shred of (strzępek), a hint of (nutka), a touch of (odrobina, dosł. 'dotyk'), a trace of (ślad) różnią się od 'a piece of' czy 'a cup of' tym, że nie odsyłają do ŻADNEJ konkretnej, mierzalnej wielkości — odsyłają do GESTU lub ŚLADU, jaki ta wielkość by pozostawiła. 'A pinch of salt' to dosłownie tyle soli, ile mieści się między dwoma palcami w geście szczypania — miara zdefiniowana przez czynność ciała, nie przez wagę czy objętość. To najstarsza, najbardziej 'ucieleśniona' (embodied) warstwa systemu partitywnego w angielskim: człowiek mierzył świat własnym ciałem, zanim wynaleziono standardowe jednostki."
+      },
+      {
+        "label": "Metaforyczne rozszerzenie na abstrakty",
+        "text": "Ponieważ te słowa nie oznaczają precyzyjnej ilości fizycznej, lecz raczej 'ledwie wyczuwalną obecność czegoś', łatwo przenoszą się na cechy niematerialne: a touch of sarcasm, a hint of jealousy, a trace of doubt, a shred of evidence, a dash of humour. W tym użyciu partitive nie liczy substancji, tylko sygnalizuje STOPIEŃ — 'a touch of sarcasm' znaczy 'lekko, subtelnie sarkastycznie', nie 'jeden kawałek sarkazmu'. To pokazuje, że partitywy funkcjonują na continuum od czysto ilościowego (a kilo of) po czysto jakościowe/gradacyjne (a touch of) — a granica między tymi biegunami jest płynna."
+      },
+      {
+        "label": "Negacja i 'not a shred of' jako wzmocniona forma zaprzeczenia",
+        "text": "Ponieważ 'a shred/scrap/ounce of' oznacza najmniejszą możliwą, niemal niewykrywalną ilość, zaprzeczenie takiej frazy ('not a shred of evidence', 'not an ounce of sympathy', 'without a trace of remorse') działa jako emfatyczne, całkowite zaprzeczenie — mocniejsze niż zwykłe 'no evidence' czy 'no sympathy'. Logika jest następująca: skoro nawet ta najmniejsza z możliwych ilości jest zaprzeczona, to a fortiori żadna większa ilość też nie istnieje. To klasyczny mechanizm retoryczny (por. litotes i skalarne zaprzeczenie) budujący siłę wypowiedzi przez odwołanie się do dolnego krańca skali."
+      }
+    ],
+    "usage": [
+      "Gotowanie i przepisy: dokładność 'na oko', gdy precyzyjna miara nie jest potrzebna lub pożądana (a pinch of salt, a dash of vinegar)",
+      "Opisywanie subtelnych, ledwie wyczuwalnych cech charakteru lub nastroju (a touch of irony, a hint of nostalgia)",
+      "Podkreślanie skrajnego braku czegoś przez zaprzeczenie minimalnej ilości (not a shred of evidence, without a trace of guilt)",
+      "Rejestr: naturalne w mowie codziennej i w stylu literackim/opisowym, rzadsze w tekstach ściśle technicznych"
+    ],
+    "tags": ["a pinch of salt", "a hint of sarcasm", "not a shred of evidence", "embodied measurement", "scalar negation"],
+    "examples": [
+      { "en": "Add just a pinch of salt and a dash of lemon juice right at the end.", "pl": "Dodaj tylko szczyptę soli i odrobinę soku z cytryny na sam koniec." },
+      { "en": "There was a distinct hint of sarcasm in the way she thanked him.", "pl": "W sposobie, w jaki mu podziękowała, była wyraźna nutka sarkazmu." },
+      { "en": "The defence argued there wasn't a shred of solid evidence against their client.", "pl": "Obrona argumentowała, że nie ma ani strzępka solidnego dowodu przeciwko ich klientowi." },
+      { "en": "He apologised without a trace of genuine remorse in his voice.", "pl": "Przeprosił bez śladu autentycznej skruchy w głosie." }
+    ]
+  },
+  {
+    "id": "figurative_event_partitives",
+    "order": 6,
+    "nameEn": "Figurative episode partitives — packaging abstract experience",
+    "namePl": "Figuratywne partitywy epizodu — pakowanie abstrakcyjnego doświadczenia",
+    "rules": [
+      {
+        "label": "Emocje i zdarzenia jako 'substancja' do zapakowania",
+        "text": "Angielski konsekwentnie traktuje intensywne, chwilowe stany emocjonalne i zdarzenia losowe jako niepoliczalną 'materię', którą — dokładnie jak wodę czy chleb — trzeba dopiero opakować w jednostkę, żeby o niej mówić w liczbie pojedynczej: a stroke of luck (przebłysk szczęścia), a fit of anger/rage (napad złości), a wave of nostalgia/enthusiasm (fala nostalgii/entuzjazmu), a surge of adrenaline (przypływ adrenaliny), a bout of flu/depression (atak grypy/epizod depresji), a flash of insight (błysk olśnienia). To nie przypadkowa metafora poetycka, tylko systematyczne rozszerzenie tego samego mechanizmu pojęciowego, który stoi za 'a piece of advice' — w obu wypadkach partitive nakłada sztuczną, chwilową granicę na coś z natury nieograniczonego."
+      },
+      {
+        "label": "Dlaczego akurat te rzeczowniki-pojemniki: stroke, fit, wave, surge, bout, flash",
+        "text": "Każde z tych słów źródłowo opisuje KRÓTKOTRWAŁE, GWAŁTOWNE zdarzenie fizyczne, i to właśnie ta cecha — nie przypadek — czyni je pasującymi do opisu nagłych stanów emocjonalnych: 'stroke' (uderzenie, jak uderzenie pędzla lub pioruna — stąd też 'a stroke of luck' i medyczny 'a stroke', udar, jako nagłe uderzenie w organizm), 'fit' (pierwotnie 'atak, napad', jak napad padaczkowy — stąd 'fitful sleep', sen z napadami przebudzeń), 'wave' (fala, coś co narasta i opada z naturalną rytmiką wody), 'surge' (gwałtowny przypływ/skok, jak fala uderzeniowa lub skok napięcia elektrycznego), 'bout' (pierwotnie termin z zapasów/boksu — 'runda walki', stąd 'a bout of flu' to dosłownie 'starcie z grypą'), 'flash' (błysk światła, coś natychmiastowe i krótkotrwałe). Metafora nie jest arbitralna: każde słowo eksportuje do świata emocji tę samą 'kształt zdarzenia', jaki miało w swoim dosłownym, fizycznym znaczeniu źródłowym."
+      },
+      {
+        "label": "Efekt gramatyczny: policzalność jako narzędzie narracyjne",
+        "text": "Spakowanie emocji w partitive pozwala mówić o niej jak o zdarzeniu z wyraźnym początkiem i końcem, co byłoby niemożliwe przy samym rzeczowniku niepoliczalnym: 'anger' to stan bez granic ('he felt anger'), ale 'a fit of anger' to konkretny, domknięty epizod, o którym można powiedzieć, że minął ('the fit of anger passed as quickly as it came'). Ta różnica ma realne konsekwencje narracyjne — pisarz sięgający po 'a wave of panic swept over her' buduje zdarzenie z łukiem czasowym (narasta, szczytuje, opada), czego nie osiągnąłby zdaniem 'she felt panic'."
+      }
+    ],
+    "usage": [
+      "Opisywanie nagłych, intensywnych i chwilowych stanów emocjonalnych jako domkniętych epizodów (a wave of relief, a fit of jealousy)",
+      "Zdarzenia losowe ujmowane jako pojedyncze, wyodrębnione momenty (a stroke of luck/genius, a flash of inspiration)",
+      "Choroby i dolegliwości o przebiegu epizodycznym, nawracającym (a bout of flu, a bout of insomnia, a bout of depression)",
+      "Rejestr literacki i narracyjny — partitive nadaje emocji strukturę zdarzenia z początkiem, szczytem i końcem"
+    ],
+    "tags": ["a stroke of luck", "a fit of rage", "a wave of nostalgia", "a bout of flu", "figurative container metaphor"],
+    "examples": [
+      { "en": "Finding that old photograph brought on a sudden wave of nostalgia.", "pl": "Znalezienie tamtej starej fotografii wywołało nagłą falę nostalgii." },
+      { "en": "It was pure luck — a stroke of luck, really — that we caught the last train.", "pl": "To był czysty traf — naprawdę przebłysk szczęścia — że złapaliśmy ostatni pociąg." },
+      { "en": "He stormed out of the meeting in a fit of frustration.", "pl": "Wypadł ze spotkania w napadzie frustracji." },
+      { "en": "She's been laid up with a nasty bout of flu since Tuesday.", "pl": "Leży z paskudnym atakiem grypy od wtorku." },
+      { "en": "A sudden surge of adrenaline helped him finish the last mile.", "pl": "Nagły przypływ adrenaliny pomógł mu ukończyć ostatnią milę." }
+    ]
+  },
+  {
+    "id": "grammaticalized_quantifiers",
+    "order": 7,
+    "nameEn": "From partitive noun to pure quantifier — grammaticalization in action",
+    "namePl": "Od rzeczownika partytywnego do czystego kwantyfikatora — gramatykalizacja w praktyce",
+    "rules": [
+      {
+        "label": "Czym jest gramatykalizacja i dlaczego 'a lot of' jest jej podręcznikowym przykładem",
+        "text": "Gramatykalizacja to proces, w którym konkretne, w pełni znaczące słowo treściowe (rzeczownik, czasownik) stopniowo traci swoje pierwotne, dosłowne znaczenie i 'zastyga' w czysto funkcjonalny element gramatyczny — najczęściej kwantyfikator, przyimek albo spójnik. 'Lot' pierwotnie (staroangielskie 'hlot') oznaczało fizyczny przedmiot używany do losowania (kamyk, patyk) i, w konsekwencji, 'działkę ziemi przydzieloną przez losowanie' (stąd dzisiejsze 'a parking lot', 'a plot of land' to bliskie krewne). 'A lot of' zaczynało jako w pełni dosłowny partitive: 'jedna działka [czegoś]'. Z czasem, przez wieki powtarzalnego użycia w kontekście 'spora działka = spora ilość', słowo 'lot' całkowicie straciło swoje znaczenie 'kawałka ziemi' w tym wyrażeniu i skostniało w czysty, abstrakcyjny kwantyfikator równoznaczny z 'much/many' — dziś nikt, mówiąc 'a lot of money', nie myśli o żadnej działce."
+      },
+      {
+        "label": "Cała rodzina: a number of, a great deal of, plenty of, a heap of, loads of",
+        "text": "Ten sam mechanizm dotyczy całej rodziny wyrażeń: 'a number of' (dosłownie 'pewna liczba', dziś po prostu 'kilka/wiele'), 'a great deal of' ('deal' od staroangielskiego 'dæl' — 'część, udział', ten sam rdzeń co w 'a good deal' i w niemieckim 'Teil'), 'plenty of' (z łacińskiego 'plenus' — 'pełny', przez starofrancuskie 'plenté'), 'a heap of' i 'loads of' (dosłownie 'stos' i 'ładunki', dziś nieformalne wzmocnione 'dużo'). Każde z tych wyrażeń zaczynało jako konkretny, mierzalny partitive rzeczownikowy i każde dziś funkcjonuje jako niemal czysty kwantyfikator — różnią się już tylko rejestrem (formalny 'a great deal of' vs potoczne 'loads of'), nie realnym znaczeniem ilościowym."
+      },
+      {
+        "label": "Ślad po dawnym rzeczowniku: rozbieżność w zgodzie czasownika",
+        "text": "Choć semantycznie 'a number of' zachowuje się jak kwantyfikator ('wiele'), gramatycznie WCIĄŻ pamięta, że formalnie jest rzeczownikiem w partitive, co ujawnia się w zgodzie czasownika: 'A number of students HAVE complained' (czasownik zgadza się z 'students' — bo znaczeniowo to 'students', czyli wiele osób, jest logicznym podmiotem), ale 'The number of students IS increasing' (czasownik zgadza się z 'number' — bo tu 'number' oznacza dosłownie 'liczbę' jako pojedynczy, rosnący lub malejący fakt statystyczny, nie 'wielu studentów'). Różnica między 'a number of' (kwantyfikator, zgoda z rzeczownikiem po 'of') a 'the number of' (dosłowny rzeczownik 'liczba', zgoda z 'number') to bezpośredni, żywy ślad tego, jak daleko dane wyrażenie posunęło się na drodze od konkretu do gramatyki."
+      },
+      {
+        "label": "Dlaczego ten proces nigdy się nie kończy — język stale produkuje nowe kwantyfikatory",
+        "text": "Gramatykalizacja partitywów w kwantyfikatory to nie zamknięty rozdział historii — to wciąż żywy proces. Współczesna, nieformalna angielszczyzna produkuje nowe przykłady na naszych oczach: 'tons of' (dosłownie 'tony', dziś czysto ilościowe 'mnóstwo': tons of homework), 'a ton of' w liczbie pojedynczej mimo mnogiego rdzenia, 'shedloads of' (brytyjski slang, dosłownie 'ładunki [wielkości] szopy'). Za sto lat któreś z tych wyrażeń może osiągnąć status w pełni ugruntowanego, neutralnego kwantyfikatora — dokładnie tak, jak 'a lot of' zrobiło to już wieki temu."
+      }
+    ],
+    "usage": [
+      "'a lot of / lots of' — najbardziej zgramatykalizowany, neutralny stylistycznie kwantyfikator ilości",
+      "'a number of' — 'kilka/wiele' (zgoda czasownika z rzeczownikiem po 'of'), kontra 'the number of' — dosłowna 'liczba' jako pojedynczy fakt statystyczny (zgoda z 'number')",
+      "'a great deal of / plenty of' — rejestr bardziej formalny lub neutralny, głównie z rzeczownikami niepoliczalnymi",
+      "'loads of / tons of / heaps of' — rejestr wyraźnie nieformalny, ekspresywne wzmocnienie ilości"
+    ],
+    "tags": ["a lot of", "a number of vs the number of", "grammaticalization", "plenty of", "loads of"],
+    "examples": [
+      { "en": "A number of residents have already signed the petition against the new road.", "pl": "Wielu mieszkańców podpisało już petycję przeciwko nowej drodze." },
+      { "en": "The number of residents signing the petition is growing every day.", "pl": "Liczba mieszkańców podpisujących petycję rośnie z każdym dniem." },
+      { "en": "There's a great deal of uncertainty surrounding the merger.", "pl": "Wokół fuzji panuje spora niepewność." },
+      { "en": "We've still got loads of time before the flight, so relax.", "pl": "Wciąż mamy mnóstwo czasu do lotu, więc się rozluźnij." },
+      { "en": "Honestly, it took tons of effort to get the permit approved.", "pl": "Szczerze mówiąc, uzyskanie pozwolenia kosztowało mnóstwo wysiłku." }
+    ]
+  },
+  {
+    "id": "type_partitive_hedge",
+    "order": 8,
+    "nameEn": "kind of / sort of / type of — the type-partitive and its use as a hedge",
+    "namePl": "kind of / sort of / type of — partitive typu i jego funkcja jako zmiękczacza wypowiedzi",
+    "rules": [
+      {
+        "label": "Inny rodzaj partitive: dzielenie kategorii, nie substancji",
+        "text": "'A kind of coffee', 'a sort of bird', 'a type of software' nie mierzą ilości ani nie nadają policzalności — dzielą szerszą KATEGORIĘ na jej podtypy. To wciąż konstrukcja 'X of Y' formalnie identyczna z 'a piece of bread', ale funkcjonalnie inna: 'piece' wycina fragment substancji, podczas gdy 'kind/sort/type' wycina podkategorię z pojęciowej przestrzeni klasyfikacyjnej. Rozróżnienie to bywa mylące dla uczących się właśnie dlatego, że powierzchniowa gramatyka (rzeczownik + of + rzeczownik) jest identyczna w obu wypadkach."
+      },
+      {
+        "label": "Rodowód: 'kind' od germańskiego 'rodzaju/natury', 'sort' od łacińskiego 'losu/gatunku'",
+        "text": "'Kind' wywodzi się z germańskiego rdzenia związanego z 'rodzeniem, pochodzeniem' (ten sam rdzeń co w 'kin' — krewni, i w niemieckim 'Kind' — dziecko) — pierwotnie oznaczało więc 'rodzaj z natury, z urodzenia'. 'Sort' zapożyczono z łacińskiego 'sors' (los, przeznaczenie, kategoria przypisana losem — ten sam rdzeń co w 'sortować' i w polskim zapożyczeniu 'sort'), przez starofrancuskie 'sorte'. Dwa różne źródła etymologiczne dziś funkcjonują niemal jak pełne synonimy, z 'sort of' postrzeganym jako odrobinę bardziej potoczne/brytyjskie, a 'kind of' jako neutralne i częstsze w amerykańskiej angielszczyźnie."
+      },
+      {
+        "label": "Ewolucja w przysłówkowy hedge: 'kind of / sort of' jako zmiękczacz",
+        "text": "Poza dosłownym użyciem klasyfikującym ('a kind of bird' = 'gatunek ptaka'), obie frazy przeszły w mowie potocznej dodatkową gramatykalizację: skamieniały w przysłówkowe wyrażenie zmiękczające moc twierdzenia — 'kind of / sort of' jako hedge (ang. termin pragmatyczny na 'zabezpieczenie, zmiękczenie' wypowiedzi). 'I kind of agree' nie znaczy 'zgadzam się z pewnym rodzajem [czegoś]', tylko 'zgadzam się, ale nie w pełni / niepewnie / z zastrzeżeniem'. To przesunięcie z partitive rzeczownikowego na przysłówek modalny jest kolejnym, odrębnym przykładem gramatykalizacji obok 'a lot of' — z tą różnicą, że tu wynikiem nie jest kwantyfikator, tylko marker pragmatyczny modulujący pewność mówiącego."
+      },
+      {
+        "label": "Funkcja społeczna hedge'a: dlaczego native speakerzy celowo mówią niejasno",
+        "text": "Używanie 'kind of/sort of' jako zmiękczacza nie jest oznaką niepewności językowej czy braku słownictwa — to świadoma strategia grzecznościowa (face-saving strategy w terminologii pragmatyki Brown & Levinson): mówiący osłabia kategoryczność swojego twierdzenia, żeby zostawić rozmówcy przestrzeń do niezgody bez konfrontacji, albo żeby uniknąć brzmienia na zbyt stanowczego w niepewnej sytuacji ('It's kind of expensive' brzmi łagodniej i mniej oceniająco niż 'It's expensive'). To dlatego hedge jest wszechobecny w mowie nieformalnej, a niemal nieobecny w rejestrze formalnym/pisanym, gdzie oczekuje się precyzji i stanowczości, nie dyplomatycznego zmiękczania."
+      }
+    ],
+    "usage": [
+      "Klasyfikujące 'a kind/sort/type of' + rzeczownik — dzielenie kategorii na podtypy (a kind of bird, a new type of material)",
+      "Przysłówkowy hedge 'kind of / sort of' przed czasownikiem lub przymiotnikiem — zmiękczenie kategoryczności twierdzenia w mowie nieformalnej",
+      "'type of' preferowane w kontekstach technicznych/naukowych, 'kind of / sort of' bardziej naturalne w mowie codziennej",
+      "Hedge praktycznie nieobecny w rejestrze formalnym i pisanym — tam zastępowany dokładniejszymi środkami (somewhat, to some extent)"
+    ],
+    "tags": ["kind of / sort of", "type of", "pragmatic hedge", "face-saving strategy", "kin / Kind etymology"],
+    "examples": [
+      { "en": "Penguins are a kind of bird that can't fly at all.", "pl": "Pingwiny to rodzaj ptaka, który w ogóle nie potrafi latać." },
+      { "en": "This new type of material is both lighter and stronger than steel.", "pl": "Ten nowy rodzaj materiału jest jednocześnie lżejszy i mocniejszy od stali." },
+      { "en": "I kind of agree with you, but I still have a couple of reservations.", "pl": "W jakimś sensie się z tobą zgadzam, ale wciąż mam parę zastrzeżeń." },
+      { "en": "The whole plan felt sort of rushed, if I'm being honest.", "pl": "Cały plan wydawał się jakby trochę pospieszny, jeśli mam być szczery." }
     ]
   }
 ]
