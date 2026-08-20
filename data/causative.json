@@ -2,96 +2,193 @@
   {
     "id": "causative_have",
     "order": 1,
-    "nameEn": "have something done — basic causative",
-    "namePl": "have + dopełnienie + imiesłów bierny — podstawowa struktura causative",
+    "nameEn": "have something done — the resultative core of the causative",
+    "namePl": "have + dopełnienie + imiesłów bierny — jądro konstrukcji causative",
     "rules": [
-      { "label": "Budowa", "text": "have + dopełnienie + III forma czasownika / imiesłów bierny (I have my hair cut.)" },
-      { "label": "Wykonawca nieistotny", "text": "Nie wskazujemy, kto wykonuje czynność — liczy się efekt, a nie wykonawca" },
-      { "label": "Odmiana", "text": "have odmienia się przez osoby i czasy jak zwykły czasownik (have, has, had)" }
+      {
+        "label": "Budowa",
+        "text": "have + dopełnienie (rzeczownik/zaimek) + imiesłów bierny, III forma (I have my hair cut. / She had her car repaired.). W pytaniach i przeczeniach 'have' zachowuje się jak zwykły czasownik leksykalny i wymaga do-support: 'Do you have your car serviced?', 'I don't have my hair cut often.' — nigdy przez inwersję 'Have you your car serviced?', bo to wzorzec zarezerwowany dla archaicznego, dziś już wymarłego 'have' posesywnego typu 'Have you a car?'."
+      },
+      {
+        "label": "Skamielina sprzed narodzin Present Perfect",
+        "text": "Staroangielskie 'habban' (mieć) pierwotnie znaczyło wyłącznie fizyczne posiadanie. Konstrukcja 'habban + dopełnienie + imiesłów bierny' — np. 'ic hæbbe þone fisc gefangenne', dosłownie 'mam tę rybę złowioną' — opisywała stan posiadania czegoś w określonym, dokonanym stanie: dopełnienie ('rybę') było prawdziwym dopełnieniem czasownika 'have', a imiesłów ('złowioną') był tylko jego przydawką, zgadzającą się z nim przypadkiem i rodzajem jak zwykły przymiotnik. Z czasem, w większości kontekstów, ta dwuczłonowa struktura stopiła się w jeden nierozdzielny czasownik złożony — i to jest dokładnie źródło dzisiejszego Present Perfect ('I have caught the fish' = 'I have [it] caught' na skróty). Causative 'have something done' to żywy relikt pokazujący, jak wyglądał ten mechanizm, zanim się 'stopił' w jeden czas gramatyczny: ta sama składnia zatrzymała się tu w swojej pierwotnej, nieroztopionej postaci, bo znaczenie 'zlecania komuś czynności' okazało się zbyt użyteczne, żeby zniknąć."
+      },
+      {
+        "label": "Model myślowy: 'have' jako pilot, nie jako para rąk",
+        "text": "Podmiot zdania trzyma w ręku 'pilota' i naciska guzik uruchamiający czynność, ale sam fizycznie jej nie wykonuje — konstrukcja celowo usuwa wykonawcę ze sceny zdania, dokładnie tak jak strona bierna backgroundizuje agenta. Liczy się rezultat ('włosy obcięte'), a nie to, czyimi rękami został osiągnięty. Wykonawcę można dopisać przez 'by' (I had my hair cut by a stylist I really trust), ale robi się to rzadko, bo mija się to z całym celem tej konstrukcji — po to właśnie ona istnieje, żeby wykonawcę pominąć."
+      },
+      {
+        "label": "Dwa bieguny tej samej gramatyki: kontrola i bezradność",
+        "text": "'I had my wallet stolen' ma identyczną powierzchniową budowę co 'I had my hair cut', a mimo to podmiot jest tu ofiarą, nie zleceniodawcą. To nie jest osobna reguła do wykucia na pamięć — to naturalna konsekwencja tego, że 'have' w tej konstrukcji nigdy nie mówiło 'kto to zrobił', tylko 'w jakim stanie coś się znalazło'. Stan 'ukradziony' jest gramatycznie tak samo dobrym rezultatem jak stan 'obcięty przez fryzjera' — niezależnie od tego, czy podmiot go chciał. To sam czasownik w imiesłowie (stolen, broken into, mugged) sygnalizuje negatywność; gramatyka wokół niego pozostaje dosłownie bez zmian."
+      }
     ],
     "usage": [
-      "Gdy zlecamy komuś wykonanie usługi zamiast robić to samodzielnie",
-      "Podkreślamy rezultat czynności, a nie to, kto ją wykonał",
-      "Częste przy usługach: fryzjer, naprawy, pranie, budowa",
-      "Można też wyrazić coś nieprzyjemnego, co nas spotkało (I had my wallet stolen.)"
+      "Zlecanie usługi profesjonaliście zamiast wykonywania czynności samodzielnie (fryzjer, warsztat, pralnia, budowa)",
+      "Podkreślanie rezultatu czynności, gdy wykonawca jest nieznany, oczywisty z kontekstu lub po prostu nieistotny",
+      "Neutralny, uniwersalny rejestr — ta sama forma pasuje do rozmowy przy kawie i do raportu firmowego",
+      "Misfortune causative: bierne doświadczenie nieszczęśliwego zdarzenia, którego podmiot nie zaplanował (I had my bike stolen / my flight cancelled)",
+      "Pytania i przeczenia zawsze przez do-support, bo 'have' pełni tu funkcję pełnoprawnego czasownika leksykalnego, a nie posiłkowego"
     ],
-    "tags": ["have your hair cut", "have the car repaired", "have a house built", "have your wallet stolen"],
+    "tags": ["have your hair cut", "have the car repaired", "have a house built", "have your wallet stolen", "by a professional"],
     "examples": [
-      { "en": "I have my hair cut every month.", "pl": "Co miesiąc obcinam sobie włosy (u fryzjera)." },
-      { "en": "She had her car repaired yesterday.", "pl": "Ona wczoraj oddała samochód do naprawy." },
-      { "en": "We are having a new kitchen fitted.", "pl": "Mamy montowaną nową kuchnię." },
-      { "en": "He had his wallet stolen on the train.", "pl": "Skradziono mu portfel w pociągu." }
+      { "en": "I have my hair cut every six weeks, always at the same salon.", "pl": "Co sześć tygodni obcinam sobie włosy, zawsze w tym samym salonie." },
+      { "en": "We're having the whole kitchen redesigned by an architect a friend recommended.", "pl": "Mamy przeprojektowywaną całą kuchnię przez architekta poleconego przez znajomego." },
+      { "en": "He had his laptop stolen from a café last week and lost weeks of work.", "pl": "Skradziono mu laptopa z kawiarni w zeszłym tygodniu i stracił tygodnie pracy." },
+      { "en": "Have you ever had your handwriting analysed by a graphologist?", "pl": "Czy kiedykolwiek miałeś przeanalizowane pismo przez grafologa?" }
     ]
   },
   {
     "id": "causative_get",
     "order": 2,
-    "nameEn": "get something done — informal causative",
-    "namePl": "get + dopełnienie + imiesłów bierny — nieformalny odpowiednik have",
+    "nameEn": "get something done — the dynamic, effortful causative",
+    "namePl": "get + dopełnienie + imiesłów bierny — dynamiczny odpowiednik have, naznaczony wysiłkiem",
     "rules": [
-      { "label": "Budowa", "text": "get + dopełnienie + III forma / imiesłów bierny, identycznie jak z have (get your nails done)" },
-      { "label": "Różnica od have", "text": "get jest bardziej potoczne niż have i częściej sugeruje wysiłek włożony w zorganizowanie usługi" },
-      { "label": "Rozkazy i rady", "text": "get jest szczególnie częste w trybie rozkazującym i radach (Get your eyes tested!)" }
+      {
+        "label": "Budowa",
+        "text": "get + dopełnienie + imiesłów bierny, identycznie jak przy have (get your nails done, get the roof fixed). 'get' jest tu również pełnoprawnym czasownikiem leksykalnym, więc pytania i przeczenia idą przez do-support: 'Did you get your car washed?', 'I don't get my suits made — I buy them off the rack.'"
+      },
+      {
+        "label": "Etymologia: od staronordyckiego 'geta' do znaczenia przejścia w nowy stan",
+        "text": "'Get' pochodzi ze staronordyckiego 'geta' ('zdobyć, dosięgnąć, spłodzić'), zapożyczonego do angielskiego przez intensywny kontakt z Wikingami na przełomie okresu staro- i średnioangielskiego (IX–XI w.) — sam rdzeń indoeuropejski, z którego wyrosło 'geta', dał też początek m.in. łacińskiemu 'praeda' (łup, stąd 'prey', 'predator'). W przeciwieństwie do rdzennie zachodniogermańskiego 'have' — czasownika STANU, opisującego posiadanie jako coś nieruchomego — 'get' od początku niosło znaczenie PRZEJŚCIA: ruchu z jednego stanu w drugi, zdobycia czegoś, czego wcześniej nie było. Dlatego właśnie 'get' stało się naturalnym kandydatem do wszystkich konstrukcji gramatycznych w angielskim opisujących ZMIANĘ stanu, a nie sam stan: get-passive (get married, get hurt, get promoted) i get-causative to dwie gałęzie tego samego inchoatywnego (rozpoczynającego proces) rdzenia znaczeniowego."
+      },
+      {
+        "label": "Dlaczego 'get' brzmi potoczniej niż 'have'",
+        "text": "W XVIII i XIX wieku angielscy gramatycy normatywni piętnowali 'get' jako słowo 'wulgarne' i leksykalnie 'leniwe' — miało zbyt wiele znaczeń naraz (dostać, stać się, zrozumieć, dotrzeć, zmusić) w porównaniu z precyzyjnymi łacińskimi zapożyczeniami w rodzaju obtain, receive, become, comprehend, które ceniono jako 'eleganckie'. To osiemnastowieczne uprzedzenie przetrwało do dziś jako wyczuwalna różnica rejestru: 'get' wciąż brzmi bardziej swobodnie i mówione niż formalne 'have', mimo że w konstrukcji causative te dwa czasowniki są sobie znaczeniowo bardzo bliskie."
+      },
+      {
+        "label": "Dodatkowy cień znaczenia: wysiłek i pokonanie przeszkody",
+        "text": "'get' często sugeruje, że zorganizowanie usługi wymagało jakiegoś zachodu — umówienia się, przekonania kogoś, poczekania w kolejce, załatwienia sprawy mimo przeszkód. To bezpośrednia konsekwencja inchoatywnego rdzenia 'get': ten czasownik zawsze niejako odpowiada na pytanie 'jak udało się do tego doprowadzić', podczas gdy 'have' po prostu stwierdza gotowy stan rzeczy, bez najmniejszego zainteresowania procesem dojścia do niego. Stąd 'get' dominuje w poleceniach, radach i sytuacjach, gdzie liczy się właśnie zainicjowanie działania (Get your eyes tested before it's too late!)."
+      }
     ],
     "usage": [
-      "Nieformalne rozmowy, szczególnie w mowie potocznej",
-      "Gdy podkreślamy wysiłek włożony w zorganizowanie usługi",
-      "W poleceniach i radach (You should get your bike fixed.)",
-      "Zwykle wymiennie z have, bez zmiany znaczenia w większości kontekstów"
+      "Nieformalne rozmowy i mowa potoczna, gdzie 'get' jest wręcz częstsze niż 'have'",
+      "Podkreślanie wysiłku włożonego w zorganizowanie usługi, a nie samego gotowego rezultatu",
+      "Polecenia i rady, zwłaszcza w trybie rozkazującym (You really should get that mole checked.)",
+      "W większości codziennych kontekstów wymienne z 'have' bez odczuwalnej zmiany sensu, poza niuansem rejestru i wysiłku",
+      "Rzadziej niż 'have' w bardzo formalnym piśmie — tam nadal górę bierze 'have'"
     ],
     "tags": ["get your nails done", "get the roof fixed", "get your eyes tested", "get it delivered"],
     "examples": [
-      { "en": "You should get your eyes tested.", "pl": "Powinieneś zbadać wzrok." },
-      { "en": "We got the roof fixed before winter.", "pl": "Naprawiliśmy dach przed zimą (zleciliśmy naprawę)." },
-      { "en": "I need to get my phone repaired.", "pl": "Muszę oddać telefon do naprawy." },
-      { "en": "Did you get your suit dry-cleaned?", "pl": "Czy oddałeś garnitur do pralni chemicznej?" }
+      { "en": "You really should get your eyes tested — you've been squinting at the screen all day.", "pl": "Naprawdę powinieneś zbadać wzrok — cały dzień mrużysz oczy przed ekranem." },
+      { "en": "We finally got the roof fixed just before the first snow.", "pl": "W końcu udało nam się naprawić dach tuż przed pierwszym śniegiem." },
+      { "en": "I need to get my passport photo taken before Friday, and every place is booked solid.", "pl": "Muszę zrobić zdjęcie do paszportu przed piątkiem, a wszędzie jest zajęte." },
+      { "en": "Did you manage to get the contract translated in time?", "pl": "Udało ci się zdążyć z przetłumaczeniem umowy?" }
     ]
   },
   {
     "id": "causative_tenses",
     "order": 3,
-    "nameEn": "causative have/get across tenses",
-    "namePl": "Causative have/get w różnych czasach",
+    "nameEn": "causative have/get across the full tense system",
+    "namePl": "Causative have/get przez cały system czasów",
     "rules": [
-      { "label": "Present / Past Simple", "text": "have/has (teraźniejszość) lub had (przeszłość) + dopełnienie + imiesłów bierny" },
-      { "label": "Present Perfect", "text": "have/has had + dopełnienie + imiesłów bierny (I have had my car serviced.)" },
-      { "label": "Future Simple", "text": "will have + dopełnienie + imiesłów bierny (I will have my car serviced tomorrow.)" }
+      {
+        "label": "Odmienia się tylko have/get, imiesłów stoi nieruchomo",
+        "text": "Present/Past Simple: have/has lub had + dopełnienie + imiesłów bierny. Present Perfect: have/has had + dopełnienie + imiesłów bierny (I have had my car serviced twice this year). Future Simple: will have + dopełnienie + imiesłów bierny (I will have the report finished by Friday). We wszystkich przypadkach odmieniamy wyłącznie 'have'/'get', a paczka [dopełnienie + imiesłów] pozostaje sztywna, bez zmian — bo gramatycznie to właśnie 'have'/'get' jest jedynym prawdziwym czasownikiem finitywnym zdania, niosącym całą informację o czasie i aspekcie."
+      },
+      {
+        "label": "'have' żyje podwójnym życiem w tym samym zdaniu",
+        "text": "'Have' jako operator Present Perfect jest w pełni zgramatykalizowany — pusty znaczeniowo, nie wymaga do-support ('Have you finished?'). 'Have' jako leksykalny czasownik causative wciąż niesie własne znaczenie ('zlecić, doprowadzić do stanu') i dlatego, tak jak każdy zwykły czasownik leksykalny, wymaga do-support w pytaniach i przeczeniach ('Did you have it finished?', 'Do you have your car serviced regularly?'). To jedno z niewielu miejsc angielskiej gramatyki, gdzie dokładnie to samo słowo, w niemal tej samej pozycji zdania, rządzi się dwoma zupełnie różnymi zasadami składniowymi zależnie od tego, którą ze swoich dwóch tożsamości — auxiliary czy pełny czasownik — w danym momencie odgrywa."
+      },
+      {
+        "label": "Nawarstwienie dwóch niezależnych 'have' w jednym zdaniu",
+        "text": "'I have had my car serviced twice this year' zawiera dwa 'have' obok siebie z zupełnie różnych powodów: pierwsze to operator Present Perfect (auxiliary), drugie — 'had' w formie III — to leksykalny causative 'have'. Gramatyka nie ma żadnego problemu z nałożeniem dwóch niezależnych funkcji tego samego słowa jedna na drugą; efekt bywa mylący dla uczących się na pierwszy rzut oka, ale staje się w pełni logiczny, gdy rozłoży się zdanie na te dwie oddzielne warstwy."
+      },
+      {
+        "label": "Przyszłość: różnica między 'will have X done' a warunkowym 'would have X done'",
+        "text": "'Will have the kitchen finished by next month' to zwykła przyszłość causative — zaplanowany, pewny rezultat. 'Would have had the kitchen finished' pojawia się już poza samym systemem czasów, w trzecim okresie warunkowym, i opisuje nierealny rezultat w przeszłości (If we'd had more money, we would have had the kitchen finished by now) — dokładnie ta sama maszyneria czasownikowa causative osadzona wewnątrz zupełnie innej struktury gramatycznej."
+      }
     ],
     "usage": [
-      "Odmieniamy tylko czasownik have/get, imiesłów bierny pozostaje bez zmian",
-      "W pytaniach i przeczeniach have zachowuje się jak zwykły czasownik (Did you have your car serviced? / I haven't had my hair cut yet.)",
-      "Wybór czasu zależy od kontekstu zdania, tak samo jak przy zwykłych czasownikach"
+      "Wybór czasu dla have/get zależy od kontekstu zdania dokładnie tak samo jak przy każdym innym czasowniku leksykalnym",
+      "W pytaniach i przeczeniach zawsze do-support, niezależnie od czasu (Did you have...? / Doesn't she get...? / Won't they have...?)",
+      "Present Perfect causative naturalnie opisuje doświadczenie życiowe lub powtarzalną usługę do tej pory (I've had my portrait painted twice.)",
+      "Future Simple causative dobrze nadaje się do planów i terminów (I'll have it fixed by Monday.)"
     ],
     "tags": ["I had it done", "I've had it done", "I'll have it done", "Did you have it done?"],
     "examples": [
-      { "en": "I have my teeth checked twice a year.", "pl": "Sprawdzam sobie zęby dwa razy w roku." },
-      { "en": "We had the windows cleaned last weekend.", "pl": "Mieliśmy umyte okna w zeszły weekend." },
-      { "en": "She has never had her portrait painted.", "pl": "Nigdy nie miała namalowanego portretu." },
-      { "en": "I'll have the report finished by Friday.", "pl": "Będę mieć raport skończony do piątku." }
+      { "en": "I have my teeth checked twice a year, without fail.", "pl": "Sprawdzam sobie zęby dwa razy w roku, bez wyjątku." },
+      { "en": "We had the windows cleaned last weekend, so the flat finally looks decent.", "pl": "W zeszły weekend umyliśmy okna, więc mieszkanie w końcu wygląda przyzwoicie." },
+      { "en": "She has never had her portrait painted, though she's always wanted to.", "pl": "Nigdy nie miała namalowanego portretu, chociaż zawsze tego chciała." },
+      { "en": "By the time you arrive, I'll have had the whole flat repainted.", "pl": "Zanim przyjedziesz, będę już mieć całe mieszkanie przemalowane." }
     ]
   },
   {
     "id": "causative_person",
     "order": 4,
-    "nameEn": "have/get someone do something — causing a person to act",
-    "namePl": "have/get + osoba + czasownik — sprawianie, że ktoś coś zrobi",
+    "nameEn": "have/get someone do something — naming the agent",
+    "namePl": "have/get + osoba + czasownik — gdy wykonawca wraca do zdania",
     "rules": [
-      { "label": "have + osoba + bezokolicznik bez to", "text": "Neutralne polecenie lub prośba skierowana do konkretnej osoby (I had him fix my computer.)" },
-      { "label": "get + osoba + to + bezokolicznik", "text": "Zwykle sugeruje przekonywanie lub namawianie kogoś (I got him to fix my computer.)" },
-      { "label": "Różnica od causative z dopełnieniem", "text": "Tu podkreślamy, KTO wykonał czynność — w przeciwieństwie do have/get + dopełnienie + imiesłów bierny" }
+      {
+        "label": "Budowa: bezokolicznik bez 'to' po have, z 'to' po get",
+        "text": "have + osoba + bezokolicznik bez 'to' (I had him fix my computer.) kontra get + osoba + to + bezokolicznik (I got him to fix my computer.). Powierzchownie to drobna różnica jednego słówka — w rzeczywistości odzwierciedla ona dwie zupełnie różne historie gramatyczne."
+      },
+      {
+        "label": "Bezokolicznik bez 'to': relikt starożytnej germańskiej triady make/let/have",
+        "text": "Make, let i have + bezokolicznik bez 'to' tworzą zamkniętą, bardzo starą klasę czasowników 'sprawczych/przyzwalających', odziedziczoną ze wspólnogermańskiego wzorca składniowego (por. niemieckie 'lassen reparieren' — kazać naprawić, też z bezokolicznikiem bez odpowiednika 'to'). W staroangielskim bezokoliczniki po tej grupie czasowników nigdy nie przyjmowały partykuły 'to' — nie dlatego, że ktoś ją później 'wyrzucił', lecz dlatego, że ten wzorzec nigdy jej nie miał. Czasowniki percepcji (see, hear, watch) i modalne dzielą ten sam przywilej bezokolicznika bez 'to' właśnie dlatego, że należą do tego samego, bardzo starego, zamkniętego klubu składniowego angielszczyzny."
+      },
+      {
+        "label": "'get' + to-bezokolicznik: młodsza, analogiczna innowacja",
+        "text": "'get' + osoba + to-bezokolicznik nie jest starym wzorcem odziedziczonym z germańskiego rdzenia — to stosunkowo nowe rozszerzenie, powstałe przez analogię do czasowników perswazji: persuade, convince, ask, tell + osoba + to-bezokolicznik. Dlatego 'get somebody to do something' semantycznie niemal zawsze niesie ślad przekonywania, namawiania lub nakłaniania — którego 'have' w tej konstrukcji w ogóle nie ma. To bezpośrednia konsekwencja tego, z jakiej rodziny składniowej dana forma czerpie swój wzorzec: 'have' wywodzi się z klubu rozkazu/przyzwolenia, 'get' — z klubu perswazji."
+      },
+      {
+        "label": "Rozróżnienie znaczeniowe: kto jest w centrum uwagi",
+        "text": "W tej konstrukcji (w przeciwieństwie do have/get + dopełnienie + imiesłów bierny) w centrum uwagi stoi wykonawca czynności, nie tylko jej rezultat. 'have' sugeruje proste, neutralne polecenie lub prośbę skierowaną do kogoś, kto ma naturalne prawo lub obowiązek to zrobić (szef do asystentki, nauczyciel do uczniów); 'get' sugeruje, że trzeba było kogoś do czegoś nakłonić lub przekonać, często kogoś, kto niekoniecznie chciał to zrobić."
+      }
     ],
     "usage": [
       "Gdy chcemy podkreślić wykonawcę czynności, a nie tylko jej rezultat",
-      "have sugeruje prostą prośbę lub polecenie",
-      "get sugeruje nakłanianie lub perswazję",
+      "'have' + osoba + bezokolicznik — prosta prośba lub polecenie w ramach naturalnej hierarchii (szef, nauczyciel, rodzic)",
+      "'get' + osoba + to-bezokolicznik — nakłanianie, przekonywanie, czasem pokonywanie oporu drugiej osoby",
       "Częste w kontekście pracy, zarządzania zespołem i delegowania zadań"
     ],
     "tags": ["have him call you", "get her to sign", "have the assistant book", "get them to agree"],
     "examples": [
-      { "en": "I had my assistant book the flights.", "pl": "Poleciłem asystentce zarezerwować loty." },
-      { "en": "Can you get him to call me back?", "pl": "Czy możesz sprawić, żeby do mnie oddzwonił?" },
-      { "en": "The teacher had the students write an essay.", "pl": "Nauczyciel kazał uczniom napisać wypracowanie." },
-      { "en": "She got her brother to help her move.", "pl": "Namówiła brata, żeby pomógł jej się przeprowadzić." }
+      { "en": "I had my assistant book the flights and the hotel this morning.", "pl": "Poleciłem dziś rano asystentce zarezerwować loty i hotel." },
+      { "en": "Can you get him to call me back before the meeting?", "pl": "Czy możesz sprawić, żeby oddzwonił do mnie przed spotkaniem?" },
+      { "en": "The teacher had the students rewrite their essays after the feedback session.", "pl": "Nauczyciel kazał uczniom przepisać wypracowania po sesji z informacją zwrotną." },
+      { "en": "It took ages, but she finally got her brother to agree to help with the move.", "pl": "Zajęło to wieki, ale w końcu namówiła brata, żeby zgodził się pomóc przy przeprowadzce." }
+    ]
+  },
+  {
+    "id": "causative_wont",
+    "order": 5,
+    "nameEn": "won't/wouldn't have someone doing something — the refusal branch",
+    "namePl": "won't/wouldn't have + dopełnienie + -ing — gdy causative służy do zakazu, nie do zlecenia",
+    "rules": [
+      {
+        "label": "Budowa",
+        "text": "won't / wouldn't / can't + have + dopełnienie + imiesłów czynny (-ing), gdy odrzucamy czyjeś trwające zachowanie: 'I won't have you talking to me like that.' / 'She wouldn't have anyone smoking in her house.' Nigdy z gołym bezokolicznikiem w tym znaczeniu — to od razu odróżnia ją od causative_person. 'will' występuje tu w swoim najstarszym, wolitywnym znaczeniu 'chcieć', a nie jako znacznik czasu przyszłego — 'won't' to dosłownie 'nie chcę [tolerować, żeby...]'."
+      },
+      {
+        "label": "Wariant z III formą: odrzucenie gotowego stanu, nie trwającej czynności",
+        "text": "Ten sam wolitywny szkielet łączy się też z imiesłowem biernym, gdy odrzucamy nie czyjeś zachowanie w toku, lecz gotowy, gdyby-tak-się-stało rezultat — dokładnie ta sama para wariantów (-ing vs III forma), którą 'have' rozróżnia już w causative_have: 'He wouldn't have it said that he had failed' (nie zniósłby stanu 'powiedziane, że...'), 'She won't have her name dragged through the mud' (nie pozwoli na stan 'imię zszargane'). Wybór formy nie jest przypadkowy: -ing opisuje kogoś aktywnie coś robiącego, III forma — sam, bezosobowy rezultat, bez wskazywania wykonawcy."
+      },
+      {
+        "label": "Ta sama gramatyka 'have', tylko odwrócony biegun",
+        "text": "'have' + dopełnienie + imiesłów czynny (-ing) od dawna służy do opisywania sytuacji, w której podmiot znajduje się w otoczeniu jakiejś trwającej czynności — wzorzec bliźniaczy do czasowników percepcji ('I saw people smoking' — widziałem, jak ludzie palą). Zanegowanie tego wzorca wolitywnym modalnym 'will' zmienia neutralne 'znajdowanie się w sytuacji X' w czynne, stanowcze NIE-tolerowanie sytuacji X. To wciąż to samo znaczeniowe jądro 'have', które w causative_have odpowiadało za misfortune causative (podmiot biernie 'ma' coś, co go dotyka) — tu podmiot świadomie odmawia 'mieć' u siebie daną sytuację."
+      },
+      {
+        "label": "Dlaczego to nie jest zwykłe 'have' + gerund",
+        "text": "'I don't have people staying over' to neutralne stwierdzenie faktu lub zwyczaju (po prostu nie zdarza się, żeby ktoś nocował). 'I won't have people staying over' to już nie opis rzeczywistości, tylko czynny akt zakazu — deklaracja woli mówiącego, że do takiej sytuacji nie dopuści. Różnica leży wyłącznie w obecności wolitywnego 'will/won't' zamiast zwykłego 'do/don't' — subtelna, ale kluczowa dla właściwego odczytania intencji na poziomie C1/C2."
+      },
+      {
+        "label": "Rejestr: stanowczość rodzicielska, urzędowa lub literacka",
+        "text": "Konstrukcja pojawia się najczęściej w kontekstach, gdzie mówiący ma (lub rości sobie) władzę nad sytuacją: rodzic wobec dziecka, gospodarz wobec gości, przełożony wobec podwładnych, a także w formalnych regulaminach i w prozie literackiej budującej postać osoby władczej lub surowej. W codziennej, luźnej rozmowie częściej sięgamy po prostsze 'I'm not going to put up with...' albo 'I won't allow...' — 'won't have someone doing something' brzmi bardziej dobitnie i nieco staroświecko, co jest w pełni zamierzonym efektem stylistycznym."
+      }
+    ],
+    "usage": [
+      "Stanowczy, czynny zakaz tolerowania czyjegoś zachowania, nie neutralny opis faktu",
+      "Typowe w wypowiedziach rodziców, nauczycieli, gospodarzy, przełożonych — ktoś broni swojej przestrzeni lub zasad",
+      "Czas przeszły 'wouldn't have' przenosi ten sam zakaz w przeszłość lub łagodzi go do postaci pośredniej, uprzejmiejszej (She said she wouldn't have any nonsense.)",
+      "Rejestr podniosły/literacki — silniejszy i bardziej zdecydowany niż neutralne 'I don't allow' czy 'I don't let'",
+      "Nigdy z gołym bezokolicznikiem — imiesłów czynny (-ing) dla trwającego zachowania albo bierny (III forma) dla odrzucanego rezultatu, to odróżnia tę konstrukcję od have + osoba + bezokolicznik z causative_person"
+    ],
+    "tags": ["I won't have you talking to me like that", "she wouldn't have any nonsense", "can't have people smoking here", "wouldn't have it said"],
+    "examples": [
+      { "en": "I won't have you talking to your sister like that in this house.", "pl": "Nie pozwolę, żebyś w tym domu tak mówił do swojej siostry." },
+      { "en": "The old headmistress wouldn't have any nonsense from the students, ever.", "pl": "Stara dyrektorka nigdy nie tolerowała żadnych głupot ze strony uczniów." },
+      { "en": "We can't have people smoking near the entrance — it's against the building's policy.", "pl": "Nie możemy tolerować, żeby ludzie palili przy wejściu — to wbrew regulaminowi budynku." },
+      { "en": "He wouldn't have it said that he'd cheated his own employees.", "pl": "Nie zniósłby, gdyby mówiono, że oszukał własnych pracowników." }
     ]
   }
 ]
