@@ -1,98 +1,259 @@
 [
   {
-    "id": "adjorder_osascomp",
+    "id": "adjorder_history_fixed_order",
     "order": 1,
-    "nameEn": "the OSASCOMP order — opinion, size, age, shape, colour, origin, material, purpose",
-    "namePl": "Kolejność OSASCOMP — opinia, rozmiar, wiek, kształt, kolor, pochodzenie, materiał, przeznaczenie",
+    "nameEn": "why English adjectives have a fixed order at all — from lost case endings to a rigid slot system",
+    "namePl": "Skąd w ogóle wziął się sztywny szyk przymiotników — od utraty końcówek przypadków do sztywnego systemu slotów",
     "rules": [
-      { "label": "Kolejność", "text": "Opinion → Size → Age → Shape → Colour → Origin → Material → Purpose (rzeczownik na końcu)" },
-      { "label": "Przykład", "text": "a beautiful (opinion) small (size) old (age) round (shape) black (colour) Italian (origin) leather (material) shopping (purpose) bag" },
-      { "label": "Praktyka", "text": "W praktyce rzadko używa się więcej niż 3-4 przymiotników naraz — kolejność ma znaczenie nawet przy dwóch" }
+      {
+        "label": "Punkt wyjścia: staroangielski i jego końcówki",
+        "text": "W staroangielskim (do ok. XII w.) zarówno rzeczownik, jak i przymiotnik nosiły widoczną końcówkę przypadka, rodzaju i liczby: 'se gōda cyning' (dobry król, mianownik), 'þone gōdan cyning' (biernik). To końcówka -an czy -e mówiła słuchaczowi, jaką rolę gramatyczną pełni dane słowo i z czym się łączy — nie jego pozycja w zdaniu. Dzięki temu szyk wyrazów, także w obrębie grupy rzeczownikowej, mógł być stosunkowo swobodny: fleksja, nie kolejność, dźwigała ciężar gramatyki."
+      },
+      {
+        "label": "Erozja końcówek i Podbój Normański jako przyspieszacz",
+        "text": "Między XI a XIV wiekiem angielskie końcówki fleksyjne uległy masowej redukcji fonetycznej — nieakcentowane sylaby końcowe zlewały się w jedno neutralne '-e', a potem zanikały całkowicie. Podbój Normandzki w 1066 roku nie 'wymyślił' tego procesu, ale go napędził: przez dwa stulecia językiem prestiżu, prawa i dworu był anglo-normandzki francuski, a angielski przetrwał głównie jako mowa niepiśmiennej większości, gdzie subtelne różnice końcówek fleksyjnych łatwiej się zacierały bez nacisku normatywnego pisma. Skutek: do końca średnioangielskiego prawie cały system przypadków rzeczownika i przymiotnika zniknął."
+      },
+      {
+        "label": "Konsekwencja: szyk musi przejąć pracę gramatyki",
+        "text": "Kiedy końcówki przestały mówić 'kto do kogo należy' w zdaniu, języki germańskie (w tym angielski) musiały znaleźć zastępczy nośnik informacji gramatycznej — i znalazły go w pozycji słowa. Stąd sztywny szyk SVO w zdaniu (patrz temat 'Szyk zdania'), ale dokładnie ten sam mechanizm kompensacyjny działa wewnątrz samej grupy rzeczownikowej: skoro nie ma już końcówek pokazujących, jak dwa przymiotniki obok siebie odnoszą się do rzeczownika i do siebie nawzajem, angielski usztywnił samą kolejność jako jedyny dostępny sygnał tej relacji. Innymi słowy: OSASCOMP (opinion-size-age-shape-colour-origin-material-purpose) to nie kaprys nauczycieli, tylko żywy substytut gramatyczny w miejscu dawno wymarłej fleksji."
+      },
+      {
+        "label": "Dlaczego polski (i niemiecki) mają w tym większą swobodę",
+        "text": "Polski wciąż ma przypadki: 'piękny stary drewniany stół' i, w innym rejestrze, 'stary piękny drewniany stół' pozostają gramatyczne, bo końcówki przymiotników wciąż zgadzają się z rzeczownikiem niezależnie od kolejności — zamiana szyku brzmi co najwyżej stylistycznie inaczej, nigdy błędnie. Angielski takiej siatki bezpieczeństwa nie ma: 'a wooden old beautiful table' nie jest niepoprawne semantycznie, ale complet nie brzmi jak zdanie native speakera, bo złamano jedyną zasadę, która w tym języku niesie informację o tym, jak przymiotniki się do siebie i do rzeczownika odnoszą."
+      }
     ],
     "usage": [
-      "Zawsze gdy przed rzeczownikiem stoi więcej niż jeden przymiotnik",
-      "Zła kolejność brzmi nienaturalnie dla native speakera, choć zdanie pozostaje zrozumiałe",
-      "Przecinki oddzielają zwykle przymiotniki z tej samej kategorii (opinia + opinia), nie z różnych kategorii",
-      "Kategoria purpose (przeznaczenie) często ma formę rzeczownika użytego jak przymiotnik (a swimming pool)"
+      "Kolejność przymiotników przed rzeczownikiem w angielskim jest obowiązkowa (nie stylistyczna) właśnie dlatego, że język nie ma już żadnego innego narzędzia (fleksji), by zasygnalizować relacje między nimi",
+      "Im więcej przymiotników przed rzeczownikiem, tym więcej 'niewidzialnej gramatyki' niesie sama ich kolejność — dlatego pomyłka w szyku brzmi dla native speakera wyraźnie obco, nawet gdy znaczenie pozostaje jasne",
+      "To wyjaśnia, czemu nie da się tej reguły 'obejść' inaczej niż zapamiętując konwencję — nie ma żadnej końcówki, którą można by zmienić, by ratować dowolny szyk",
+      "Kontrast z polskim jest przydatną kotwicą: tam gdzie polski pozwala na swobodę dzięki końcówkom, angielski wymaga sztywnej pozycji właśnie z ich braku"
     ],
-    "tags": ["a small round table", "an old Italian car", "a beautiful black leather bag", "a big red plastic ball"],
+    "tags": ["a beautiful old house", "sztywny szyk", "utrata fleksji", "OSASCOMP jako substytut gramatyczny"],
     "examples": [
-      { "en": "She bought a beautiful small round wooden table.", "pl": "Kupiła piękny mały okrągły drewniany stolik." },
-      { "en": "He drives an old red Italian sports car.", "pl": "Jeździ starym czerwonym włoskim samochodem sportowym." },
-      { "en": "I found a strange little black plastic box.", "pl": "Znalazłem dziwne małe czarne plastikowe pudełko." },
-      { "en": "They live in a lovely big modern brick house.", "pl": "Mieszkają w ślicznym dużym nowoczesnym ceglanym domu." }
+      { "en": "It was a tall, narrow, crumbling Victorian townhouse.", "pl": "To był wysoki, wąski, rozpadający się wiktoriański kamienny dom miejski." },
+      { "en": "Unlike Polish, English can't rescue a wrong adjective order with an ending — the order itself is the grammar.", "pl": "W przeciwieństwie do polskiego, angielski nie może ratować złego szyku przymiotników końcówką — sama kolejność jest tu gramatyką." },
+      { "en": "She inherited a small, sunlit, oddly shaped attic room.", "pl": "Odziedziczyła mały, słoneczny, dziwnie ukształtowany pokój na poddaszu." }
     ]
   },
   {
-    "id": "adjorder_opinion_first",
+    "id": "adjorder_scope_model",
     "order": 2,
-    "nameEn": "opinion adjectives always come first",
-    "namePl": "Przymiotniki opiniujące zawsze na pierwszym miejscu",
+    "nameEn": "the scope model — nested boxes instead of a memorised table",
+    "namePl": "Model zasięgu (scope) — zagnieżdżone pudełka zamiast wykutej na pamięć tabelki",
     "rules": [
-      { "label": "Zasada", "text": "Przymiotnik wyrażający opinię/ocenę (nice, beautiful, terrible, lovely) stoi zawsze przed przymiotnikami opisowymi (fakty)" },
-      { "label": "Ogólne vs szczegółowe", "text": "Wśród opinii ogólne (good, nice, bad) idą przed szczegółowymi (delicious, comfortable, intelligent)" },
-      { "label": "Test", "text": "Jeśli przymiotnik odpowiada na pytanie 'co o tym sądzisz?', to jest opinią i idzie pierwszy" }
+      {
+        "label": "Zamiast tabelki: model 'od rzeczownika w prawo do lewa'",
+        "text": "Zamiast traktować OSASCOMP jako listę do wykucia, wyobraź sobie budowanie frazy rzeczownikowej od rzeczownika w stronę lewą, krok po kroku, przy czym każdy kolejny przymiotnik nie opisuje gołego rzeczownika, tylko CAŁĄ frazę, którą już zbudowałeś. 'leather bag' to nowe, węższe pojęcie — podkategoria toreb zrobiona z jednego materiału. 'old leather bag' to nie '[old leather] bag' (stara skóra), tylko 'old [leather bag]' — torba-ze-skóry, która akurat jest stara. Każdy kolejny przymiotnik w lewo obejmuje zasięgiem (scope) całość tego, co jest na prawo od niego, aż do rzeczownika."
+      },
+      {
+        "label": "Dlaczego bliżej rzeczownika = bardziej definiujący",
+        "text": "Slot bezpośrednio przy rzeczowniku to dokładnie to samo miejsce składniowe, w którym w angielskim powstają złożenia rzeczownikowe (compound nouns): 'kitchen table', 'silver spoon'. Przymiotniki materiału, pochodzenia i przeznaczenia (leather, Italian, shopping) zachowują się niemal jak pierwszy człon złożenia — tworzą nową PODKATEGORIĘ rzeczy, a nie oceniają istniejącą kategorię z zewnątrz. Dlatego stoją najbliżej: gramatycznie 'domykają' nowy rzeczownik-pojęcie, zanim reszta przymiotników zacznie go komentować."
+      },
+      {
+        "label": "Dlaczego opinia stoi najdalej",
+        "text": "Opinia (beautiful, terrible, lovely) nie definiuje żadnej obiektywnej podkategorii przedmiotu — to czysto subiektywny osąd mówiącego nałożony na coś, co już zostało uformowane jako konkretna rzecz. Osąd musi więc obejmować zasięgiem CAŁOŚĆ już złożonego pojęcia ('to jest piękne' odnosi się do całej 'starej włoskiej skórzanej torby', nie do samej 'torby' w oderwaniu od reszty), a to strukturalnie oznacza, że opinia musi stać najbardziej na zewnątrz, czyli najdalej od rzeczownika — dokładnie tak, jak zewnętrzne pudełko w zestawie pudełek matrioszki obejmuje wszystkie mniejsze."
+      },
+      {
+        "label": "Czytanie wzoru w praktyce",
+        "text": "'a beautiful small old round black Italian leather shopping bag' czytane od prawej: to torba (bag) do zakupów (shopping) [podkategoria wg przeznaczenia] → zrobiona ze skóry (leather) [podkategoria wg materiału] → włoskiej (Italian) [podkategoria wg pochodzenia] → czarnej (black) [podkategoria wg koloru] → okrągłej (round) [cecha fizyczna] → starej (old) [cecha czasowa] → małej (small) [wymiar] → i to wszystko jest piękne (beautiful) — subiektywny osąd całości. Każdy krok w lewo to jedna dodatkowa warstwa pudełka."
+      }
     ],
     "usage": [
-      "Gdy łączymy subiektywną ocenę z obiektywnym opisem (rozmiar, kolor, kształt itd.)",
-      "Ogólna opinia (nice, lovely) przed bardziej konkretną (comfortable, delicious)",
-      "Częste w opisach ludzi, przedmiotów i miejsc",
-      "Pomijamy opinię, jeśli fakt jest oczywisty z kontekstu"
+      "Zamiast pytać 'jaka to kategoria wg tabelki?', pytaj 'czy ten przymiotnik tworzy nową podkategorię rzeczy (bliżej rzeczownika), czy ocenia/mierzy coś, co już istnieje jako całość (dalej od rzeczownika)?'",
+      "Ten model tłumaczy zarazem WSZYSTKIE osiem kategorii OSASCOMP naraz, zamiast traktować je jako osiem niezależnych, niepowiązanych faktów do zapamiętania",
+      "Przydatny zwłaszcza przy przymiotnikach nietypowych, których nie ma w żadnej tabelce — zawsze można zapytać: 'czy to tworzy podkategorię, czy ocenia całość?', i na tej podstawie ustawić go bliżej lub dalej od rzeczownika",
+      "Ten sam mechanizm zagnieżdżania (scope) wraca w temacie przecinków i 'and' — tam decyduje, czy przymiotniki są od siebie niezależne, czy jeden obejmuje drugi"
     ],
-    "tags": ["a nice warm sweater", "a lovely young woman", "a horrible old chair", "a delicious hot soup"],
+    "tags": ["scope", "zagnieżdżenie", "podkategoria", "an old leather bag"],
     "examples": [
-      { "en": "It's a lovely little Spanish village.", "pl": "To śliczna mała hiszpańska wioska." },
-      { "en": "She wore a nice long blue dress.", "pl": "Miała na sobie ładną długą niebieską sukienkę." },
-      { "en": "We stayed in a terrible small cheap hotel.", "pl": "Zatrzymaliśmy się w okropnym małym tanim hotelu." },
-      { "en": "He is a friendly tall young man.", "pl": "To przyjazny, wysoki, młody mężczyzna." }
+      { "en": "It wasn't just a leather bag that happened to be old — it was an old leather bag, and everyone in the room could see it was beautiful.", "pl": "To nie była po prostu skórzana torba, która akurat była stara — to była stara skórzana torba, i każdy w pokoju widział, że jest piękna." },
+      { "en": "Think of 'a lovely small Georgian window' as lovely(small(Georgian window)), not as three unrelated labels stuck on 'window'.", "pl": "Pomyśl o 'a lovely small Georgian window' jako lovely(small(Georgian window)), nie jako o trzech niezależnych etykietkach doczepionych do 'window'." }
     ]
   },
   {
-    "id": "adjorder_comma_and",
+    "id": "adjorder_epithet_classifier_cline",
     "order": 3,
-    "nameEn": "commas and 'and' between adjectives",
-    "namePl": "Przecinki i 'and' między przymiotnikami",
+    "nameEn": "epithets vs classifiers — the subjectivity cline hiding behind OSASCOMP",
+    "namePl": "Epitety kontra klasyfikatory — kontinuum subiektywności ukryte za skrótem OSASCOMP",
     "rules": [
-      { "label": "Ta sama kategoria", "text": "Przymiotniki z tej samej kategorii (np. dwie opinie) rozdzielamy przecinkiem: a nice, friendly dog" },
-      { "label": "Różne kategorie", "text": "Przymiotniki z różnych kategorii łączymy bez przecinka: a small black dog (bez przecinka)" },
-      { "label": "and", "text": "'and' używamy głównie przy kolorach (a black and white cat) lub gdy przymiotniki opisują różne części tej samej rzeczy" }
+      {
+        "label": "Dwa krańce kontinuum",
+        "text": "Lingwiści funkcjonalni (m.in. Michael Halliday, w opisie grupy nominalnej) rozróżniają w obrębie przymiotników przedrzeczownikowych dwie role: 'epitet' (Epithet) — subiektywna, gradowalna cecha zależna od punktu widzenia mówiącego (piękny, straszny, nudny) — oraz 'klasyfikator' (Classifier) — obiektywna, niegradowalna etykieta tworząca podtyp rzeczy (skórzany, włoski, do zakupów). OSASCOMP to w istocie jedna oś między tymi dwoma biegunami, pocięta na osiem umownych przystanków, nie osiem odrębnych, niepowiązanych szufladek."
+      },
+      {
+        "label": "Opinia: sam skraj subiektywności",
+        "text": "Wewnątrz samej kategorii 'opinia' obowiązuje ta sama logika w miniaturze: ogólne słowa-worki oceny (good, nice, lovely, terrible — pasujące niemal do wszystkiego) stoją przed opiniami szczegółowymi, węższymi (comfortable, delicious, intelligent — pasującymi tylko do pewnej klasy rzeczy). Ogólny osąd obejmuje zasięgiem osąd szczegółowy, tak samo jak opinia w ogóle obejmuje zasięgiem resztę frazy: 'a lovely comfortable armchair', nie 'a comfortable lovely armchair'."
+      },
+      {
+        "label": "Wymiar, wiek, kształt: mierzalne, ale wciąż zależne od obserwatora",
+        "text": "Rozmiar (small, huge), wiek (old, young) i kształt (round, square) są bliżej obiektywnego bieguna niż opinia — dają się zmierzyć — ale wciąż wymagają punktu odniesienia ('mały' w porównaniu z czym?), więc nie są jeszcze czystymi klasyfikatorami. Stąd ich środkowa pozycja: dalej od rzeczownika niż prawdziwe klasyfikatory, bliżej niż czysta opinia."
+      },
+      {
+        "label": "Kolor: obywatel dwóch światów",
+        "text": "Kolor bywa epitetem (opisuje odcień konkretnego egzemplarza: 'a reddish sky') i klasyfikatorem zarazem (definiuje podgatunek: 'a black cat' to nie 'kot, który jest czarny', tylko podkategoria kotów o czarnej sierści, na równi z rasą czy pochodzeniem). Ta podwójna natura tłumaczy, czemu kolor w tabelce wypada dokładnie w połowie drogi między środkiem a klasyfikatorami: bliżej rzeczownika niż kształt, ale dalej niż pochodzenie i materiał, które są klasyfikatorami niemal bez wyjątku."
+      },
+      {
+        "label": "Pochodzenie, materiał, przeznaczenie: czyste klasyfikatory",
+        "text": "Origin (Italian), material (leather) i purpose (shopping) nie dają się stopniować w sensie oceny ('bardzo włoski' w znaczeniu narodowości nie istnieje — 'very Italian' może znaczyć tylko 'typowo, stereotypowo włoski', czyli metaforyczne przesunięcie w epitet). Tworzą one nową kategorię przedmiotu równie mocno jak człon złożenia rzeczownikowego, dlatego stoją tuż przy rzeczowniku — to właśnie ten fakt bada narzędziowo kolejny temat: test gradowalności."
+      }
     ],
     "usage": [
-      "Decydujemy o przecinku sprawdzając, czy przymiotniki są z tej samej kategorii OSASCOMP",
-      "'and' jest typowe dla dwóch kolorów opisujących ten sam przedmiot",
-      "Bez przecinka i bez 'and', gdy przymiotniki tworzą naturalny łańcuch opisu (size + colour + material)",
-      "Zbyt wiele przecinków w rzędzie brzmi nienaturalnie — lepiej ograniczyć liczbę przymiotników"
+      "Kiedy natrafisz na przymiotnik, którego nie ma w żadnej ściągawce, zapytaj: czy da się go wzmocnić przez 'very' w sensie dosłownym (epitet, stoi dalej) czy tworzy zamkniętą kategorię (klasyfikator, stoi bliżej)?",
+      "Ogólna opinia zawsze przed szczegółową opinią: 'a nice, comfortable sofa', nie odwrotnie",
+      "Kolor bywa epitetem lub klasyfikatorem zależnie od kontekstu — 'a bluish, stormy sky' (epitet, ocena odcienia) kontra 'a blue whale' (klasyfikator, nazwa gatunku)",
+      "Klasyfikatory (origin/material/purpose) rzadko występują więcej niż jeden naraz przy tym samym rzeczowniku, bo definiują jedną, spójną podkategorię — trudno być jednocześnie 'włoski' i 'francuski' w tym samym sensie"
     ],
-    "tags": ["a nice, friendly dog", "a black and white cat", "a small black dog", "a tall, elegant woman"],
+    "tags": ["epithet", "classifier", "Halliday", "very Italian", "a black cat"],
     "examples": [
-      { "en": "She has a kind, generous heart.", "pl": "Ma dobre, wielkoduszne serce." },
-      { "en": "He bought a black and white football.", "pl": "Kupił czarno-białą piłkę do piłki nożnej." },
-      { "en": "It was a cold, wet, windy night.", "pl": "To była zimna, mokra, wietrzna noc." },
-      { "en": "I saw a tall thin man in a grey coat.", "pl": "Widziałem wysokiego, chudego mężczyznę w szarym płaszczu." }
+      { "en": "'A lovely, comfortable little Italian leather sofa' moves from pure judgement (lovely) all the way down to pure classification (leather) in one breath.", "pl": "'A lovely, comfortable little Italian leather sofa' przechodzi od czystego osądu (lovely) aż po czystą klasyfikację (leather) w jednym oddechu." },
+      { "en": "You can say the meal was 'very Italian' in style, but you can't say a passport is 'very Italian' — nationality as a classifier resists grading.", "pl": "Można powiedzieć, że posiłek był 'very Italian' w stylu, ale nie można powiedzieć, że paszport jest 'very Italian' — narodowość jako klasyfikator opiera się stopniowaniu." }
     ]
   },
   {
-    "id": "adjorder_multiple_adjectives",
+    "id": "adjorder_gradability_test",
     "order": 4,
-    "nameEn": "keeping it natural — how many adjectives to use",
-    "namePl": "Naturalność wypowiedzi — ile przymiotników użyć naraz",
+    "nameEn": "the gradability and predicate tests — diagnosing position without a table",
+    "namePl": "Test stopniowalności i test orzecznikowy — diagnozowanie pozycji bez tabelki",
     "rules": [
-      { "label": "Limit praktyczny", "text": "W mowie i piśmie zwykle używa się maksymalnie 2-3 przymiotników przed rzeczownikiem naraz" },
-      { "label": "Rzeczownik jako przymiotnik", "text": "Rzeczownik użyty atrybutywnie (stone, wooden, London) stoi najbliżej opisywanego rzeczownika, tuż przed nim" },
-      { "label": "Kolejność materiał-przeznaczenie", "text": "Materiał (leather, wooden) stoi bliżej rzeczownika niż pochodzenie (Italian, French), a przeznaczenie (shopping, wedding) najbliżej ze wszystkich" }
+      {
+        "label": "Test pierwszy: czy da się dodać 'very' albo stopień wyższy w dosłownym sensie?",
+        "text": "Epitety przechodzą ten test bez problemu: very beautiful, more comfortable, extremely old. Prawdziwe klasyfikatory go oblewają w swoim dosłownym znaczeniu: *very wooden (w sensie 'zrobiony z drewna' — nie istnieje, choć 'very wooden' w znaczeniu metaforycznym 'sztywny, drętwy jak drewno' owszem, istnieje — to już inne, przesunięte znaczenie, przechodzące z klasyfikatora w epitet), *more Italian (w sensie obywatelstwa), *very shopping. Jeśli test się nie udaje w dosłownym odczycie, masz klasyfikator — a klasyfikator z definicji stoi tuż przy rzeczowniku."
+      },
+      {
+        "label": "Test drugi: czy przymiotnik może samodzielnie stać po 'be' z tym samym znaczeniem?",
+        "text": "To tzw. test orzecznikowy (predicative test). 'The bag is beautiful' znaczy dokładnie to samo, co 'a beautiful bag' — epitet swobodnie przechodzi z pozycji przed rzeczownikiem do pozycji orzecznika. Ale 'the bag is leather' brzmi już nienaturalnie w porównaniu z naturalnym 'a leather bag' (choć gramatycznie akceptowalne, brzmi jak definicja słownikowa, nie zdanie mówione), a 'the lawyer is criminal' w ogóle nie znaczy tego, co 'a criminal lawyer' (prawnik od spraw karnych) — sugeruje raczej, że prawnik popełnia przestępstwa. Klasyfikatory 'opierają się' pełnoprawnej pozycji orzecznikowej właśnie dlatego, że ich rolą nie jest orzekanie stanu rzeczy, tylko tworzenie nazwy podkategorii — a nazwy kategorii nie 'orzeka się', tylko się je nadaje."
+      },
+      {
+        "label": "Dlaczego oba testy w ogóle działają — powrót do modelu zasięgu",
+        "text": "Epitet ma szeroki zasięg (obejmuje całą resztę frazy) właśnie dlatego, że wyraża niezależny sąd, więc można go 'oderwać' od rzeczownika i orzec osobno, w osobnym zdaniu, bez utraty znaczenia. Klasyfikator ma zasięg wąski (obejmuje tylko goły rzeczownik, z którym się zrasta w nową jednostkę), więc próba wyrwania go do osobnego zdania rozrywa tę fuzję i albo brzmi sztucznie, albo zupełnie zmienia sens. Testy gradowalności i orzecznikowy to więc dwa praktyczne narzędzia mierzące dokładnie to samo zjawisko strukturalne opisane w modelu zasięgu — nie są to dwie osobne, przypadkowe ciekawostki."
+      },
+      {
+        "label": "Rozmyta granica — przymiotniki 'wędrujące'",
+        "text": "Granica epitet/klasyfikator nie zawsze jest ostra. 'Old' bywa czystym klasyfikatorem czasowym ('an old house' — dom w podeszłym wieku, test orzecznikowy działa: 'the house is old') albo idiomatycznym wzmacniaczem bliskości relacji, gdzie 'stary' nie znaczy już 'w podeszłym wieku': 'an old friend of mine' może dotyczyć nawet dwudziestoletniej osoby, jeśli przyjaźń trwa długo — przymiotnik przesunął zasięg z cechy fizycznej rzeczownika na cechę samej relacji. To dokładnie ten typ dwuznaczności, którego szukają zadania na poziomie C1/C2: 'an old friend who is old' brzmi na pierwszy rzut oka jak masło maślane, a wcale nim nie jest."
+      }
     ],
     "usage": [
-      "Gdy opis wymaga więcej niż jednego przymiotnika, ale chcemy brzmieć naturalnie",
-      "Dłuższe łańcuchy przymiotników rozbijamy na dwa zdania w mowie potocznej",
-      "Rzeczownik-przymiotnik (a London bus, a stone wall) zawsze tuż przed głównym rzeczownikiem",
-      "W formalnym opisie (katalogi, ogłoszenia) dłuższe łańcuchy są bardziej akceptowalne"
+      "Test z 'very' i test orzecznikowy pozwalają samodzielnie sklasyfikować dowolny nieznany przymiotnik, zamiast szukać go w tabelce OSASCOMP",
+      "Jeśli oba testy się nie udają w dosłownym znaczeniu — przymiotnik jest klasyfikatorem i idzie tuż przy rzeczowniku",
+      "Zwracaj uwagę na przymiotniki, które przechodzą testy tylko w znaczeniu przenośnym (very wooden = sztywny) — to sygnał, że słowo zmieniło rolę z klasyfikatora na epitet wraz ze zmianą znaczenia",
+      "Podwójne odczyty typu 'an old friend' są normalne i celowe w naturalnym języku — nie traktuj ich jak błędu do wyeliminowania"
     ],
-    "tags": ["a lovely old wooden table", "a small French wine glass", "a modern glass office building", "a large Victorian brick house"],
+    "tags": ["predicative test", "very wooden", "an old friend", "test orzecznikowy"],
     "examples": [
-      { "en": "We bought a lovely old wooden table.", "pl": "Kupiliśmy piękny stary drewniany stół." },
-      { "en": "She gave me a small French wine glass.", "pl": "Dała mi mały francuski kieliszek do wina." },
-      { "en": "They work in a modern glass office building.", "pl": "Pracują w nowoczesnym szklanym budynku biurowym." },
-      { "en": "It's a large Victorian brick house near the park.", "pl": "To duży wiktoriański ceglany dom niedaleko parku." }
+      { "en": "You can say 'the room felt cosy' but you can't naturally say 'the sofa was leather' the way you'd say 'a leather sofa' — that's the predicative test at work.", "pl": "Można powiedzieć 'the room felt cosy', ale nie da się naturalnie powiedzieć 'the sofa was leather' tak jak 'a leather sofa' — to działanie testu orzecznikowego." },
+      { "en": "'She's an old friend of mine' doesn't mean she's elderly — it means the friendship itself is old.", "pl": "'She's an old friend of mine' nie znaczy, że jest w podeszłym wieku — znaczy, że stara jest sama przyjaźń." }
+    ]
+  },
+  {
+    "id": "adjorder_coordinate_cumulative",
+    "order": 5,
+    "nameEn": "commas and 'and' — coordinate adjectives versus cumulative (nested) ones",
+    "namePl": "Przecinki i 'and' — przymiotniki współrzędne kontra kumulatywne (zagnieżdżone)",
+    "rules": [
+      {
+        "label": "Współrzędne: niezależni sędziowie tego samego faktu",
+        "text": "Kiedy dwa przymiotniki opisują rzeczownik NIEZALEŻNIE od siebie, z tej samej kategorii semantycznej (najczęściej dwie opinie, albo dwie cechy fizyczne postrzegane jako równorzędne), są 'współrzędne' (coordinate): 'a warm, friendly welcome'. Każdy z nich osobno i osobno prawdziwie orzeka coś o powitaniu — powitanie jest ciepłe I powitanie jest przyjazne, dwa niezależne zdania złączone w jedno. Dlatego można je odwrócić ('a friendly, warm welcome') i wstawić między nie 'and' ('a warm and friendly welcome') bez zmiany sensu."
+      },
+      {
+        "label": "Kumulatywne: każdy obejmuje resztę, więc kolejności nie da się ruszyć",
+        "text": "Kiedy przymiotniki pochodzą z różnych kategorii OSASCOMP, są 'kumulatywne' (cumulative) — budują strukturę zagnieżdżoną opisaną w modelu zasięgu, gdzie każdy kolejny przymiotnik w lewo opisuje CAŁĄ resztę frazy, a nie sam rzeczownik z osobna. 'a small black dog' nie znaczy 'pies jest mały I pies jest czarny' jako dwa niezależne zdania — znaczy 'mały [czarny pies]', gdzie 'czarny pies' to już uformowana podkategoria. Zamiana kolejności ('a black small dog') albo wstawienie 'and' ('a small and black dog') rozrywa to zagnieżdżenie i brzmi błędnie, bo fałszywie sugeruje niezależność tam, gdzie jej nie ma."
+      },
+      {
+        "label": "Test praktyczny: podstaw 'and' albo odwróć kolejność",
+        "text": "Nie musisz znać terminów lingwistycznych, by odróżnić oba typy w praktyce: spróbuj wstawić 'and' między przymiotniki i odwrócić ich kolejność. Jeśli zdanie wciąż brzmi naturalnie i znaczy to samo — masz przymiotniki współrzędne, oddziel je przecinkiem. Jeśli brzmi dziwnie albo zmienia sens — masz przymiotniki kumulatywne, żadnego przecinka, żadnego 'and', tylko ustalona kolejność OSASCOMP."
+      },
+      {
+        "label": "Wyjątek koloru: dwa klasyfikatory tego samego rzędu",
+        "text": "'A black and white cat' łamie pozorną zasadę 'żadnego and między klasyfikatorami' tylko dlatego, że oba kolory są tu w tej samej roli — nazywają dwie współistniejące, równorzędne podkategorie umaszczenia (nie jedna zagnieżdżona w drugiej), więc zachowują się jak lista współrzędna, dokładnie jak dwie opinie. To ten sam test 'and', po prostu zastosowany do klasyfikatorów, które akurat opisują dwie oddzielne, jednakowo ważne cechy tego samego rodzaju (barwa jednej części sierści i barwa drugiej), a nie jedna kolejna warstwę podkategorii nałożoną na drugą."
+      }
+    ],
+    "usage": [
+      "Przecinek między przymiotnikami stawiaj tylko wtedy, gdy test 'and' i test odwrócenia kolejności wypadają pozytywnie",
+      "Domyślnie NIE stawiaj przecinka między przymiotnikami z różnych kategorii OSASCOMP (rozmiar + kolor, wiek + materiał itd.) — tam decyduje wyłącznie ustalona kolejność",
+      "Dwa kolory połączone 'and' to najbardziej typowy pozorny wyjątek od reguły 'żadnego and między klasyfikatorami' — pamiętaj, że to wciąż ten sam test, zastosowany do dwóch równorzędnych podkategorii",
+      "W dłuższych wyliczeniach czysto opiniotwórczych (trzy i więcej przymiotników tej samej rangi) można też użyć przecinków przed ostatnim 'and', tak jak w zwykłym wyliczeniu rzeczowników"
+    ],
+    "tags": ["coordinate adjectives", "cumulative adjectives", "a black and white cat", "test and"],
+    "examples": [
+      { "en": "It was a warm, generous welcome — you could just as easily say a generous, warm welcome.", "pl": "To było ciepłe, wielkoduszne powitanie — równie dobrze można powiedzieć wielkoduszne, ciepłe powitanie." },
+      { "en": "It was a small stone cottage — never 'a stone small cottage' or 'a small and stone cottage'.", "pl": "To był mały kamienny domek — nigdy 'a stone small cottage' ani 'a small and stone cottage'." },
+      { "en": "The flag was red, white and blue, and the cat on the porch was black and white.", "pl": "Flaga była czerwono-biało-niebieska, a kot na ganku był czarno-biały." }
+    ]
+  },
+  {
+    "id": "adjorder_postpositive_relics",
+    "order": 6,
+    "nameEn": "postpositive relics — when Norman French legal register froze the noun before the adjective",
+    "namePl": "Skamieliny postpozycyjne — kiedy anglonormandzka francuszczyzna prawnicza zamroziła rzeczownik przed przymiotnikiem",
+    "rules": [
+      {
+        "label": "Francuski jako język prawa i dworu przez trzy stulecia",
+        "text": "Po 1066 roku anglo-normandzki francuski stał się językiem sądów, administracji królewskiej, heraldyki i wysokiego duchowieństwa w Anglii — sytuacja ta trwała, w różnym natężeniu, aż do XIV-XV wieku (dopiero Statut Pleadings z 1362 r. formalnie nakazał prowadzenie rozpraw sądowych po angielsku, a i tak łacina i francuski długo jeszcze dominowały w dokumentach pisanych). W tym czasie do angielszczyzny weszły setki gotowych fraz prawniczych i dworskich w ich oryginalnej, francuskiej postaci — a francuski regularnie stawia wiele przymiotników PO rzeczowniku (np. 'le corps politique')."
+      },
+      {
+        "label": "Zapożyczenie całej frazy, nie osobnych słów",
+        "text": "Te zwroty nie zostały przetłumaczone słowo po słowie i przestawione na rodzimy szyk angielski — zostały wchłonięte jako gotowe, nierozkładalne jednostki leksykalne, bo funkcjonowały w wąskim, formalnym rejestrze prawa i ceremoniału, gdzie precyzyjna, ustalona terminologia liczy się bardziej niż zgodność z żywą gramatyką mowy potocznej. Stąd żywe do dziś: attorney general (prokurator generalny), secretary general (sekretarz generalny), notary public (notariusz), court martial (sąd wojskowy), heir apparent (oczywisty następca tronu), president elect (prezydent elekt), poet laureate (poeta laureat), princess royal, body politic (ciało polityczne, tj. państwo jako organizm), time immemorial (czasy niepamiętne), letters patent, proof positive, malice aforethought (prawnicze: premedytacja)."
+      },
+      {
+        "label": "Konsekwencja gramatyczna: liczba mnoga wędruje do prawdziwego rzeczownika",
+        "text": "Skoro 'general', 'martial', 'apparent' w tych zwrotach są wciąż gramatycznie przymiotnikami, a prawdziwym rzeczownikiem (głową frazy) jest pierwsze słowo, to formalna liczba mnoga powinna doczepiać się do NIEGO, a nie do przymiotnika na końcu: attorneys general, courts martial, notaries public — nie *attorney generals. W praktyce, zwłaszcza w luźniejszym rejestrze amerykańskim, coraz częściej słyszy się i widuje się formy zregularyzowane (attorney generals), bo native speakerzy reanalizują dziś całą frazę jako jeden nierozkładalny rzeczownik złożony, którego drugi człon przypomina zwykłą końcówkę liczby mnogiej — żywy przykład językowej zmiany w toku, nie 'błąd' w prostym sensie."
+      },
+      {
+        "label": "Zamknięty zbiór, nie produktywna reguła",
+        "text": "Kluczowe zastrzeżenie: postpozycja przymiotnika w angielskim to dziś skamielina, zamknięta lista historycznie odziedziczonych zwrotów — NIE żywa, produktywna opcja gramatyczna. Nie można dziś swobodnie ukuć nowego 'a car red' czy 'a house beautiful' na wzór francuski; są to twory niegramatyczne poza garstką ustalonych, sztywnych idiomów prawniczych, heraldycznych i ceremonialnych, wyuczonych osobno jako całe jednostki słownikowe."
+      }
+    ],
+    "usage": [
+      "Rozpoznawaj te zwroty jako zamknięty, historyczny zbiór — nie próbuj tworzyć nowych fraz na tej samej zasadzie",
+      "W formalnym/prawniczym angielskim liczba mnoga (attorneys general, courts martial) jest wciąż normą w rejestrze starannym, choć formy zregularyzowane (attorney generals) coraz częściej pojawiają się w prasie i mowie potocznej",
+      "Te zwroty to żywy dowód na obecność w rules #1: gdyby angielski nigdy nie stracił swojej rodzimej fleksji i szyku, obce francuskie N-Adj nigdy nie miałoby szansy się wkraść i przetrwać jako coś innego niż cytat",
+      "Nie myl tych skamielin ze zwykłymi przymiotnikami czysto orzecznikowymi (asleep, afraid) omawianymi w temacie 'Pozycja przymiotnika' — tu chodzi wyłącznie o historyczną, francuską postpozycję w ustalonych frazach"
+    ],
+    "tags": ["attorney general", "court martial", "heir apparent", "notary public", "postpozycja"],
+    "examples": [
+      { "en": "The Attorney General announced that two courts martial would be held next month.", "pl": "Prokurator Generalny ogłosił, że w przyszłym miesiącu odbędą się dwa sądy wojskowe." },
+      { "en": "Formally, the plural is 'attorneys general', though 'attorney generals' is now common in everyday American usage.", "pl": "Formalnie liczba mnoga to 'attorneys general', choć 'attorney generals' jest dziś powszechne w codziennym amerykańskim angielskim." },
+      { "en": "By time immemorial, the letters patent had granted the family that title.", "pl": "Od czasów niepamiętnych ów dokument patentowy (letters patent) nadawał tej rodzinie ów tytuł." }
+    ]
+  },
+  {
+    "id": "adjorder_ablaut_exceptions",
+    "order": 7,
+    "nameEn": "when other forces beat OSASCOMP — ablaut reduplication, rhetorical fronting, and the fuzzy edges of the rule",
+    "namePl": "Kiedy inne siły biją OSASCOMP — reduplikacja ablautowa, retoryczne wysunięcie i rozmyte granice reguły",
+    "rules": [
+      {
+        "label": "Ablaut reduplication: starsza, fonologiczna reguła kolejności",
+        "text": "Angielski ma zupełnie niezależną, znacznie starszą regułę porządkowania sparowanych, powtórzonych słów: samogłoska przednia i wysoka (jak /ɪ/ w 'bit') idzie przed samogłoską niską/centralną (jak /æ/ w 'bat'), a ta z kolei przed samogłoską tylną (jak /ɒ/ w 'bot'). Widać to w setkach par: tick-tock, ping-pong, chit-chat, King Kong, criss-cross, flip-flop, zig-zag, sing-song. To odległy potomek indoeuropejskiego ablautu — tej samej wymiany samogłoski rdzenia, która w niemieckim i angielskim daje np. sing/sang/sung. Zasada ta nie ma nic wspólnego z OSASCOMP — rządzi kolejnością DŹWIĘKÓW, nie znaczeń."
+      },
+      {
+        "label": "Wielki Zły Wilk kontra logika OSASCOMP",
+        "text": "Wedle czystego OSASCOMP opinia (bad) powinna poprzedzać rozmiar (big): powinniśmy mówić 'the bad big wolf'. A jednak każdy native speaker powie 'the big bad wolf' — i to nie przez pomyłkę. 'Big' (samogłoska /ɪ/, przednia, wysoka) i 'bad' (samogłoska /æ/, niższa) tworzą parę podlegającą regule ablautowej, która wymaga kolejności i-przed-a. W starciu dwóch reguł porządkujących — semantycznej (OSASCOMP) i fonologicznej (ablaut) — tu wygrywa fonologia, bo oba słowa akurat pasują kształtem fonetycznym do wzorca reduplikacyjnego. To pokazuje, że OSASCOMP to silna tendencja, a nie żelazne prawo bez wyjątków."
+      },
+      {
+        "label": "Retoryczne łamanie kolejności dla efektu",
+        "text": "Poza fonologią, sama kolejność bywa też świadomie łamana dla efektu stylistycznego: wysunięcie na start zwykle 'głębiej ukrytego' przymiotnika (np. materiału przed opinią) nadaje mu nienaturalny, a więc uwypuklony akcent kontrastowy — 'It was a wooden, ancient, creaking staircase' celowo stawia materiał (wooden) przed wiekiem, by zaskoczyć odbiorcę informacją, zamiast płynnie budować oczekiwaną kolejność. W prozie literackiej i poezji taka inwersja jest narzędziem retorycznym, nie błędem — działa właśnie dlatego, że czytelnik zna 'domyślną' kolejność i odczuwa odstępstwo od niej jako sygnał znaczący."
+      },
+      {
+        "label": "Rozmyte granice w środku skali — dane korpusowe",
+        "text": "Analizy korpusowe pokazują, że skrajne kategorie OSASCOMP (opinia na jednym końcu, klasyfikatory na drugim) są niemal wyjątkowo stabilne u rodzimych użytkowników, ale środek skali — zwłaszcza rozmiar, wiek i kształt — bywa u realnych mówców przestawialny bez utraty naturalności: zarówno 'a round old table', jak i 'an old round table' pojawiają się w mowie native speakerów i oboje brzmią akceptowalnie. Uczona w szkole ośmiopozycyjna tabelka to więc pedagogiczne uproszczenie realnego, płynniejszego kontinuum — twarde reguły obowiązują na brzegach skali, elastyczność panuje pośrodku."
+      },
+      {
+        "label": "Granica praktyczna: dlaczego prawie nikt nie mówi z pięcioma przymiotnikami naraz",
+        "text": "Rozwiązywanie zagnieżdżonej struktury opisanej w modelu zasięgu (rules #2) wymaga pamięci roboczej słuchacza — każdy dodatkowy przymiotnik to jedna dodatkowa warstwa do rozpakowania w locie. W mowie spontanicznej rzadko przekracza się 2-3 przymiotniki przed rzeczownikiem; dłuższe opisy naturalny język rozbija na osobne zdania lub zdania względne ('It was a big house. Old, made of stone.') zamiast piętrzyć kolejne warstwy w jednej frazie — nie dlatego, że więcej przymiotników byłoby niegramatyczne, ale dlatego, że przetworzenie ich w locie przestaje być wygodne."
+      }
+    ],
+    "usage": [
+      "Reguła ablautowa (i-a-o) dotyczy wyłącznie sparowanych, reduplikowanych form dźwiękowych (tick-tock, big bad wolf) — nie stosuj jej do zwykłych, niesparowanych przymiotników",
+      "Retoryczne złamanie kolejności jest narzędziem świadomym, zarezerwowanym dla efektu — w neutralnej, codziennej mowie trzymaj się standardowej kolejności OSASCOMP",
+      "Środkowe kategorie (rozmiar, wiek, kształt) traktuj z większą swobodą niż skrajne (opinia i klasyfikatory) — tam nawet native speakerzy się różnią",
+      "Przy więcej niż trzech przymiotnikach rozważ rozbicie opisu na osobne zdania — to bardziej naturalne niż piętrzenie długiego łańcucha, nawet jeśli formalnie poprawne"
+    ],
+    "tags": ["ablaut reduplication", "the big bad wolf", "tick-tock", "korpus językowy", "granice reguły"],
+    "examples": [
+      { "en": "Everyone says 'the big bad wolf', never 'the bad big wolf' — sound order beats meaning order here.", "pl": "Każdy mówi 'the big bad wolf', nigdy 'the bad big wolf' — tu kolejność dźwięku bije kolejność znaczenia." },
+      { "en": "It was a wooden, ancient, creaking staircase that led up into the dark.", "pl": "To były drewniane, prastare, skrzypiące schody prowadzące w górę, w ciemność." },
+      { "en": "Both 'a round old table' and 'an old round table' turn up in real speech, and neither sounds wrong.", "pl": "Zarówno 'a round old table', jak i 'an old round table' pojawiają się w żywej mowie i żadne z nich nie brzmi błędnie." }
     ]
   }
 ]
