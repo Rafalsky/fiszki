@@ -1,96 +1,219 @@
 [
   {
-    "id": "verb_prep_gerund",
+    "id": "why_prepositions_take_gerund",
     "order": 1,
-    "nameEn": "Verb + preposition + gerund",
-    "namePl": "Czasownik + przyimek + gerund",
+    "nameEn": "The root cause: why a preposition can only ever be followed by a gerund",
+    "namePl": "Przyczyna źródłowa: dlaczego po przyimku może stać wyłącznie gerund",
     "rules": [
-      { "label": "Zasada", "text": "Po przyimku zawsze stoi gerund (-ing), nigdy bezokolicznik — nawet jeśli przyimkiem jest 'to' (look forward to, be used to)" },
-      { "label": "Utrwalone zwroty", "text": "insist on, succeed in, think about, believe in, apologize for, worry about + czasownik z -ing" }
+      {
+        "label": "Przyimek jako urządzenie rządzące rzeczownikiem — nie zdaniem, nie czasownikiem",
+        "text": "W staroangielskim, podobnie jak dziś w niemieckim czy łacinie, przyimki nie były neutralnymi 'łącznikami' — RZĄDZIŁY konkretnym przypadkiem gramatycznym rzeczownika, który po nich następował: 'of' rządziło dopełniaczem (genetivus), 'mid' ('with') narzędnikiem/celownikiem, 'on' celownikiem lub biernikiem w zależności od statyczności czy ruchu. Sedno sprawy: przyimek zawsze łączył się z RZECZOWNIKIEM (albo zaimkiem), nigdy z całym zdaniem czy czasownikiem w formie osobowej. Ta zasada przetrwała utratę końcówek przypadkowych w średnioangielskim bez zmian: współczesny angielski przyimek nadal składniowo wymaga po sobie frazy rzeczownikowej (noun phrase) — 'in the house', 'about it', 'without hesitation'. Skoro to wymóg strukturalny, a nie stylistyczna zachcianka, każda forma czasownikowa, która ma pojawić się po przyimku, MUSI najpierw przebrać się za rzeczownik."
+      },
+      {
+        "label": "Gerund jako jedyny czasownik przebrany za rzeczownik",
+        "text": "Gerund (-ing) to, jak wyjaśnia dogłębnie temat 'Gerund i bezokolicznik' w tej aplikacji, spadkobierca staroangielskiego rzeczownika odczasownikowego na -ung/-ing (np. 'hunting' od 'hunt' = 'polowanie' jako RZECZ, nazwa czynności). Gramatycznie gerund ZACHOWUJE się jak rzeczownik: może być podmiotem zdania ('Swimming is fun'), może przyjmować przedimek ('the opening of the exhibition'), i — kluczowe tutaj — może stać bezpośrednio po przyimku, dokładnie tak jak zwykły rzeczownik ('after the meeting' / 'after finishing the report'). Bezokolicznik z 'to' nie ma tej nominalnej natury w tym samym stopniu — to wciąż forma czasownikowa, więc gramatyka blokuje mu dostęp do pozycji zarezerwowanej dla rzeczowników."
+      },
+      {
+        "label": "Pułapka 'to': kiedy to przyimek, a kiedy tylko znacznik bezokolicznika",
+        "text": "Największym źródłem błędów w tym temacie jest samo słówko 'to'. W staroangielskim 'tō' + odmieniony bezokolicznik w celowniku (np. 'tō lufienne', dosłownie 'ku kochaniu') był to PRAWDZIWY związek przyimkowo-rzeczownikowy wyrażający cel. Z czasem ten odmieniony bezokolicznik zanikł, a 'tō' przywarło do zwykłego, nieodmienionego bezokolicznika jako pusty, gramatyczny znacznik — dzisiejsze 'to' przed czasownikiem w 'I want to go'. Ale w garstce wyrażeń 'to' NIE przekształciło się w ten znacznik — pozostało PRAWDZIWYM przyimkiem, dokładnie takim jak 'in' czy 'on': 'look forward TO', 'object TO', 'be/get used TO', 'be accustomed TO', 'in addition TO', 'with a view TO', 'when it comes TO'. Ponieważ to wciąż przyimek, rządzi rzeczownikiem — stąd gerund, a nie bezokolicznik: 'I look forward to seeing you', nigdy 'to see you'."
+      },
+      {
+        "label": "Test diagnostyczny: podstaw zaimek",
+        "text": "Prosty, niezawodny test rozstrzygający naturę 'to' (i każdego innego przyimka w wątpliwej pozycji): spróbuj wstawić po nim zaimek rzeczownikowy 'it', 'this' albo 'the idea'. Jeśli zdanie nadal brzmi poprawnie — masz do czynienia z prawdziwym przyimkiem, więc wymagany jest gerund. 'I look forward to it' ✓ → 'to' jest przyimkiem → 'I look forward to seeing you'. 'I want to it' ✗ (brzmi błędnie) → 'to' jest tylko znacznikiem bezokolicznika → 'I want to see you'. Ten sam test działa dla 'insist on it' ✓, 'succeed in it' ✓, 'be used to it' ✓ — wszystkie wymagają gerund właśnie dlatego, że przechodzą test."
+      }
     ],
     "usage": [
-      "look forward to + gerund — z niecierpliwością na coś czekać",
-      "insist on + gerund — nalegać na coś",
-      "succeed in + gerund — odnieść sukces w czymś",
-      "think about / of + gerund — rozważać coś, myśleć o czymś"
+      "Rozpoznawanie, że KAŻDY przyimek (nie tylko oczywiste 'in/on/at', ale i ukryte 'to') strukturalnie wymaga po sobie rzeczownika lub gerundu, nigdy bezokolicznika z 'to'",
+      "Stosowanie testu 'podstaw zaimek' (it/this) do odróżnienia przyimkowego 'to' od znacznika bezokolicznika w wątpliwych przypadkach",
+      "Traktowanie reguły 'gerund po przyimku' jako logicznej konsekwencji struktury zdania, a nie arbitralnej listy do wykucia"
     ],
-    "tags": ["look forward to", "insist on", "succeed in", "think about"],
+    "tags": ["preposition + gerund", "to jako przyimek", "test podstawienia", "look forward to"],
     "examples": [
-      { "en": "I look forward to hearing from you.", "pl": "Z niecierpliwością czekam na wiadomość od ciebie." },
-      { "en": "She insisted on paying for dinner.", "pl": "Nalegała, żeby zapłacić za kolację." },
-      { "en": "He finally succeeded in passing the exam.", "pl": "W końcu udało mu się zdać egzamin." },
-      { "en": "We're thinking about moving to another city.", "pl": "Rozważamy przeprowadzkę do innego miasta." }
+      { "en": "I'm really looking forward to meeting your family next week.", "pl": "Naprawdę nie mogę się doczekać poznania twojej rodziny w przyszłym tygodniu." },
+      { "en": "He strongly objected to being treated like a child.", "pl": "Stanowczo sprzeciwiał się temu, że traktowano go jak dziecko." },
+      { "en": "We look forward to it — you can count on that.", "pl": "Nie możemy się tego doczekać — możesz na to liczyć." },
+      { "en": "In addition to running the shop, she also teaches part-time.", "pl": "Poza prowadzeniem sklepu, uczy też w niepełnym wymiarze godzin." }
+    ]
+  },
+  {
+    "id": "verb_prep_gerund",
+    "order": 2,
+    "nameEn": "Verb + preposition + gerund — how the choice of preposition is never really random",
+    "namePl": "Czasownik + przyimek + gerund — dlaczego wybór przyimka nie jest tak naprawdę przypadkowy",
+    "rules": [
+      {
+        "label": "Schematy obrazowe: przyimek jako mapa przestrzenna przeniesiona na relacje abstrakcyjne",
+        "text": "Uczniowie często traktują 'insist ON', 'believe IN', 'apologize FOR' jako czystą loterię do wykucia na pamięć. Kognitywiści językowi pokazują jednak, że każdy przyimek zachowuje swój pierwotny, PRZESTRZENNY schemat obrazowy nawet w użyciu abstrakcyjnym. 'ON' to fizyczne oparcie na powierzchni — stąd metaforyczne 'polegać/nalegać NA czymś' (insist on, depend on, rely on, count on, focus on): twoja wola czy uwaga 'spoczywa' na tym punkcie oparcia. 'IN' to fizyczne zanurzenie wewnątrz pojemnika — stąd 'wierzyć W coś, uczestniczyć W czymś' (believe in, engage in, succeed in, specialize in): jesteś zanurzony w danej dziedzinie czy przekonaniu. 'FOR' niesie ideę wymiany, celu lub rekompensaty — stąd 'przepraszać ZA coś, dziękować ZA coś' (apologize for, thank somebody for, aim for): działanie jest 'skierowane w stronę' albo 'w zamian za' powód."
+      },
+      {
+        "label": "Rozbudowany katalog wg schematu przestrzennego",
+        "text": "Klaster ON (oparcie/zależność): insist on, depend on, rely on, count on, focus on, base something on, congratulate somebody on. Klaster IN (zanurzenie/domena): believe in, engage in, succeed in, specialize in, participate in, delight in, indulge in. Klaster FOR (cel/wymiana/powód): apologize for, thank somebody for, aim for, opt for, settle for, care for, long for, blame somebody for. Klaster OF (źródło/treść — reliktowy dopełniacz): dream of, think of, approve of, disapprove of, despair of, boast of/about, complain of (formalnie, obok about). Klaster ABOUT (temat ogólny, okrążający): worry about, complain about, talk about, dream about, care about."
+      },
+      {
+        "label": "Czasowniki złożone kończące się przyimkiem — ten sam mechanizm, nowa warstwa",
+        "text": "Phrasal-prepositional verbs (czasowniki złożone z partykułą I przyimkiem) rządzą się dokładnie tą samą zasadą, bo kończą się prawdziwym przyimkiem: put off, give up, look forward to, get around/round to, keep on, carry on, go on (about), come up with (rzadziej z gerund, bo 'with' zwykle wprowadza rzeczownik-przedmiot, nie czynność). 'Give up smoking', 'put off leaving', 'get round to answering emails' — we wszystkich tych przypadkach ostatni element wciąż jest przyimkiem w sensie strukturalnym, więc wymaga gerund, mimo że całość 'brzmi' jak jeden zrośnięty czasownik."
+      },
+      {
+        "label": "Dublety formalne i archaiczne warianty przyimka",
+        "text": "Rejestr formalny i prawniczy zachował starsze, dziś rzadsze warianty tych samych przyimków: 'insist upon' obok 'insist on' (upon jest starszą, bardziej książkową formą on, wciąż żywą w tekstach oficjalnych i Biblii króla Jakuba), 'complain of' obok bardziej potocznego 'complain about' (of w znaczeniu przyczyny dolegliwości, szczególnie medycznej: 'the patient complains of headaches'). Rozpoznawanie tych wariantów jako stylistycznych bliźniaków, a nie osobnych reguł, ułatwia czytanie tekstów starszych i formalnych bez zaskoczenia."
+      }
+    ],
+    "usage": [
+      "Grupowanie czasowników wg klastra znaczeniowego przyimka (ON=oparcie, IN=zanurzenie, FOR=cel/wymiana, OF=źródło, ABOUT=temat) zamiast uczenia się ich w izolacji",
+      "Rozpoznawanie czasowników złożonych kończących się przyimkiem (look forward to, get round to, put off) jako podlegających tej samej regule co pojedynczy przyimek",
+      "Znajomość formalnych wariantów (insist upon, complain of) jako stylistycznych odmian, nie osobnych czasowników"
+    ],
+    "tags": ["insist on", "believe in", "apologize for", "dream of", "get round to", "put off"],
+    "examples": [
+      { "en": "The board insisted on reviewing every contract personally before signing.", "pl": "Zarząd nalegał na osobiste przejrzenie każdej umowy przed podpisaniem." },
+      { "en": "She's always dreamed of running her own bakery one day.", "pl": "Zawsze marzyła o tym, żeby pewnego dnia prowadzić własną piekarnię." },
+      { "en": "He kept putting off answering the letter until it was far too late.", "pl": "Ciągle odkładał odpowiedź na list, aż zrobiło się stanowczo za późno." },
+      { "en": "The patient has been complaining of feeling dizzy since Monday.", "pl": "Pacjent skarży się na zawroty głowy od poniedziałku." }
     ]
   },
   {
     "id": "adjective_prep_gerund",
-    "order": 2,
-    "nameEn": "be + adjective + preposition + gerund",
-    "namePl": "be + przymiotnik + przyimek + gerund",
+    "order": 3,
+    "nameEn": "Adjective + preposition + gerund — the fossilized residue of Old English case government",
+    "namePl": "be + przymiotnik + przyimek + gerund — skamieniały relikt staroangielskiego rządu przypadków",
     "rules": [
-      { "label": "Zasada", "text": "Wiele przymiotników łączy się ze stałym przyimkiem, po którym stoi gerund" },
-      { "label": "Częste połączenia", "text": "interested in, good at, afraid of, tired of, keen on, worried about + gerund" }
+      {
+        "label": "Przymiotniki też kiedyś 'rządziły' przypadkiem — bez pomocy przyimka",
+        "text": "To, co dziś wygląda na dowolny, arbitralny wybór przyimka po przymiotniku, ma korzenie w systemie, w którym SAM przymiotnik, bez żadnego przyimka, narzucał rzeczownikowi konkretny przypadek gramatyczny — zupełnie jak dziś w języku polskim ('pełen czegoś' — dopełniacz, 'wierny czemuś' — celownik). Klasyczny przykład: staroangielskie 'full' rządziło dopełniaczem wprost ('full wines' = 'pełen wina', bez przyimka). Gdy w średnioangielskim system przypadków się rozpadł, przyimki PRZEJĘŁY funkcję znaczeniową dawnych końcówek — i 'full' 'odziedziczyło' 'of' jako skamieniały ślad tamtego dopełniacza: 'full OF wine'. Dlatego dziś 'of' po przymiotnikach tak często sygnalizuje relację TREŚCI/ŹRÓDŁA (to, czym coś jest wypełnione, z czego się bierze uczucie)."
+      },
+      {
+        "label": "Klaster 'OF' — treść, źródło i przedmiot uczucia",
+        "text": "afraid of (od staroangielskiego āfǣred, imiesłowu od 'przestraszyć' + genetivus źródła strachu), fond of (od średnioangielskiego 'fonned' = głupio zauroczony — 'of' wskazuje PRZEDMIOT tego zauroczenia), proud of, ashamed of, tired of, sick of, capable of, incapable of, guilty of, aware of, certain/sure of, suspicious of, jealous of, envious of, fed up of (BrE potoczne). We wszystkich tych przypadkach 'of' wskazuje ŹRÓDŁO albo TREŚĆ emocji/cechy — dokładnie tę samą funkcję, którą niegdyś pełnił goły dopełniacz."
+      },
+      {
+        "label": "Klaster 'IN' — zanurzenie w dziedzinie lub czynności",
+        "text": "interested in, involved in, engaged in, successful in, skilled/experienced in, absorbed in, engrossed in. 'Interest' to zapożyczenie z łaciny prawniczo-finansowej 'interesse' (dosł. 'być pomiędzy, mieć w czymś udział') via starofrancuskie 'interesse', wprowadzone do angielskiego w XV wieku w kontekście udziałów finansowych — od początku niosło ideę BYCIA ZANURZONYM w jakiejś sprawie, więc 'in' pasuje tu naturalnie do dziś: jesteś dosłownie 'w środku' tematu, który cię interesuje."
+      },
+      {
+        "label": "Klaster 'AT' — precyzyjny punkt kompetencji, i klaster 'ON' — oparcie psychologiczne",
+        "text": "AT wskazuje trafienie w konkretny, wąski punkt umiejętności — jak strzał w cel: good at, bad at, hopeless at, brilliant at, quick at, slow at (wszystkie o umiejętnościach i talentach, nigdy o cechach charakteru). ON wskazuje psychologiczne 'oparcie się' woli lub uwagi na czymś: keen on (od staroangielskiego 'cēne' = odważny, śmiały — z czasem 'ostry, gorliwy'; 'on' sygnalizuje kierunek tej gorliwości), intent on, bent on (dosłownie 'wygięty W STRONĘ' celu — silna determinacja). Rozróżnienie AT (umiejętność) i ON (determinacja/zapał) pomaga uniknąć typowego błędu 'good on' czy 'keen at'."
+      }
     ],
     "usage": [
-      "be interested in + gerund — interesować się czymś",
-      "be good/bad at + gerund — być dobrym/słabym w czymś",
-      "be afraid of + gerund — bać się czegoś",
-      "be tired of + gerund — być zmęczonym czymś, mieć czegoś dość"
+      "Grupowanie przymiotników wg przyimka w te same cztery klastry semantyczne co czasowniki: OF=źródło/treść uczucia, IN=zanurzenie w dziedzinie, AT=precyzyjna umiejętność, ON=determinacja/zapał",
+      "Rozpoznawanie 'of' po przymiotnikach jako skamieniałego reliktu staroangielskiego dopełniacza, a nie przypadkowego wyboru",
+      "Odróżnianie 'good/bad AT' (umiejętność) od 'keen/intent ON' (determinacja, wola) jako dwóch różnych typów relacji, nie synonimów"
     ],
-    "tags": ["interested in", "good at", "afraid of", "tired of"],
+    "tags": ["afraid of", "interested in", "good at", "keen on", "bent on", "fond of"],
     "examples": [
-      { "en": "She is interested in learning Japanese.", "pl": "Ona interesuje się nauką japońskiego." },
-      { "en": "He is really good at cooking.", "pl": "On naprawdę dobrze gotuje." },
-      { "en": "They are afraid of losing their jobs.", "pl": "Boją się utraty pracy." },
-      { "en": "I'm tired of waiting for the bus.", "pl": "Mam dość czekania na autobus." }
+      { "en": "She's always been remarkably good at spotting other people's mistakes.", "pl": "Zawsze była niezwykle dobra w wyłapywaniu cudzych błędów." },
+      { "en": "He seems absolutely bent on ruining the whole evening for everyone.", "pl": "Wydaje się być zdeterminowany, żeby zepsuć cały wieczór wszystkim." },
+      { "en": "I'm not particularly fond of waiting around for other people.", "pl": "Nie przepadam za czekaniem na innych." },
+      { "en": "The whole team is deeply involved in developing the new prototype.", "pl": "Cały zespół jest głęboko zaangażowany w opracowywanie nowego prototypu." }
     ]
   },
   {
     "id": "verb_object_prep_gerund",
-    "order": 3,
-    "nameEn": "Verb + object + preposition + gerund",
-    "namePl": "Czasownik + dopełnienie + przyimek + gerund",
+    "order": 4,
+    "nameEn": "Verb + object + preposition + gerund — Norman-French calques and native reason-marking side by side",
+    "namePl": "Czasownik + dopełnienie + przyimek + gerund — normandzkie kalki obok rodzimego znakowania przyczyny",
     "rules": [
-      { "label": "Zasada", "text": "Niektóre czasowniki wymagają dopełnienia (osoby lub rzeczy) przed przyimkiem, po którym stoi gerund" },
-      { "label": "Częste połączenia", "text": "accuse somebody of, thank somebody for, prevent somebody from, stop somebody from, congratulate somebody on" }
+      {
+        "label": "Podbój normandzki 1066 i import gotowych 'formuł' składniowych",
+        "text": "Sporo czasowników w tym wzorcu to zapożyczenia z anglo-normandzkiego francuskiego po 1066 roku, które angielski przejął RAZEM z ich francuską rekcją przyimkową jako gotową kalkę. 'Accuse' pochodzi od starofrancuskiego 'acuser' (z łaciny 'accusare' = 'ad-' + 'causa', dosłownie 'wnosić sprawę przeciwko komuś'), a francuskie 'accuser de' (od łacińskiego dopełniacza przyczyny) zostało dosłownie przeniesione jako angielskie 'accuse... OF'. 'Congratulate' to XVI-wieczne zapożyczenie z łaciny 'congratulari' ('com-' + 'gratari' = 'wspólnie się radować') — 'on' wskazuje tu OKAZJĘ, na której opiera się radość, zgodnie z tym samym schematem oparcia, co przy 'insist on'. 'Suspect... of' idzie tą samą drogą co 'accuse... of' — łacińskie 'suspicere' przez starofrancuskie pośrednictwo."
+      },
+      {
+        "label": "Rodzime czasowniki germańskie idą tym samym torem znaczeniowym, nie francuskim",
+        "text": "Co ciekawe, rdzennie germańskie czasowniki w tym wzorcu (thank, forgive, stop, prevent) NIE kalkują francuskiej rekcji — a mimo to 'trafiają' w te same klastry znaczeniowe co zapożyczenia, bo oba systemy (rodzimy i romański) odziedziczyły ten sam, uniwersalny zestaw relacji: powód/wymiana = FOR, separacja/źródło = FROM. 'Thank' (od staroangielskiego 'þancian', spokrewnionego z 'think' — pierwotnie 'myśleć o kimś z wdzięcznością') łączy się z 'for' wskazującym POWÓD wdzięczności: 'thank somebody FOR helping'. To pokazuje, że francuskie zapożyczenia nie wniosły do angielskiego jakiegoś obcego, sztucznego systemu — po prostu wpasowały się w semantyczną siatkę, która i tak już tam była."
+      },
+      {
+        "label": "Klaster 'FROM' — separacja i przeszkoda",
+        "text": "prevent somebody from, stop somebody from, discourage somebody from, ban somebody from, keep somebody from, deter somebody from, dissuade somebody from — wszystkie te czasowniki opisują wznoszenie BARIERY między osobą a czynnością, więc naturalnie łączą się z 'from', przyimkiem oddalenia i separacji (jego staroangielski poprzednik 'fram' oznaczał dosłownie ruch OD czegoś). Warto zauważyć składniową osobliwość: po tych czasownikach gerund jest jedyną możliwą formą — nie istnieje odpowiednik z bezokolicznikiem ('prevent somebody to do' jest błędem), bo cała konstrukcja to w istocie 'przyimek + gerund' z wsuniętym dopełnieniem osobowym pomiędzy czasownik a przyimek."
+      },
+      {
+        "label": "Podwójna struktura: osoba jako dopełnienie bliższe, czynność jako dopełnienie przyimkowe",
+        "text": "Strukturalnie ten wzorzec to nic innego jak 'czasownik + osoba' (accuse him, thank her, prevent them) plus doczepiony wzorzec 'przyimek + gerund' z poprzednich dwóch tematów — dopełnienie osobowe po prostu wsuwa się MIĘDZY czasownik a jego przyimek. To wyjaśnia, dlaczego opanowanie tego wzorca nie wymaga nowej reguły: to synteza dwóch już poznanych mechanizmów (rekcja czasownika + gerund po przyimku), nie trzeci, odrębny fenomen do wykucia od zera."
+      }
     ],
     "usage": [
-      "accuse somebody of + gerund — oskarżyć kogoś o coś",
-      "thank somebody for + gerund — podziękować komuś za coś",
-      "prevent / stop somebody from + gerund — powstrzymać kogoś przed czymś",
-      "congratulate somebody on + gerund — pogratulować komuś czegoś"
+      "Rozpoznawanie zapożyczonych z francuskiego/łaciny czasowników prawniczo-formalnych (accuse of, suspect of, congratulate on) jako kalk zachowujących obcą rekcję przyimkową",
+      "Grupowanie 'prevent/stop/discourage/deter somebody FROM' jako spójnego klastra separacji, bez alternatywy z bezokolicznikiem",
+      "Traktowanie całego wzorca jako połączenia dwóch już poznanych zasad (rekcja czasownika + gerund po przyimku), a nie osobnej reguły"
     ],
-    "tags": ["accuse of", "thank for", "prevent from", "congratulate on"],
+    "tags": ["accuse of", "congratulate on", "thank for", "prevent from", "suspect of", "discourage from"],
     "examples": [
-      { "en": "They accused him of stealing the money.", "pl": "Oskarżyli go o kradzież pieniędzy." },
-      { "en": "I want to thank you for helping me.", "pl": "Chcę ci podziękować za pomoc." },
-      { "en": "The rain prevented us from finishing the match.", "pl": "Deszcz uniemożliwił nam dokończenie meczu." },
-      { "en": "We congratulated her on passing the exam.", "pl": "Pogratulowaliśmy jej zdania egzaminu." }
+      { "en": "They accused the contractor of deliberately overcharging the city.", "pl": "Oskarżyli wykonawcę o celowe zawyżanie kosztów wobec miasta." },
+      { "en": "We'd like to congratulate the whole team on completing the project ahead of schedule.", "pl": "Chcielibyśmy pogratulować całemu zespołowi ukończenia projektu przed terminem." },
+      { "en": "Nothing could discourage her from applying for the scholarship a second time.", "pl": "Nic nie mogło jej zniechęcić do ponownego ubiegania się o stypendium." },
+      { "en": "I want to thank everyone here for staying so late to help.", "pl": "Chcę podziękować wszystkim obecnym za pozostanie do tak późna, żeby pomóc." }
     ]
   },
   {
-    "id": "confusable_patterns",
-    "order": 4,
-    "nameEn": "Confusable patterns: used to vs be used to, stop + -ing vs stop + to",
-    "namePl": "Mylące pary: used to vs be used to, stop + -ing vs stop + to",
+    "id": "polysemous_preposition_choice",
+    "order": 5,
+    "nameEn": "One verb, several prepositions — how the preposition encodes WHICH role the noun plays",
+    "namePl": "Jeden czasownik, kilka przyimków — jak przyimek koduje, JAKĄ rolę pełni rzeczownik",
     "rules": [
-      { "label": "used to + bezokolicznik", "text": "dawny nawyk lub stan, który już nie istnieje (I used to smoke.)" },
-      { "label": "be/get used to + gerund", "text": "być przyzwyczajonym / przyzwyczajać się do czegoś (I'm used to getting up early.)" },
-      { "label": "stop + gerund", "text": "przestać coś robić (He stopped smoking.)" },
-      { "label": "stop + bezokolicznik celu", "text": "zatrzymać się, żeby coś zrobić (He stopped to smoke.)" }
+      {
+        "label": "Dlaczego jeden czasownik potrafi mieć kilka 'poprawnych' przyimków naraz",
+        "text": "Największym źródłem błędów na poziomie C1/C2 nie są pojedyncze kolokacje, lecz czasowniki, które dopuszczają WIĘCEJ NIŻ JEDEN przyimek — przy czym każdy z nich wprowadza inną ROLĘ SEMANTYCZNĄ rzeczownika, który po nim następuje (rozmówca, temat, cel, stanowisko). To nie jest dowolność — to system: przyimek działa jak etykietka gramatyczna informująca, czy rzeczownik po nim jest OSOBĄ, z którą coś robimy, czy TEMATEM, o którym mówimy, czy PROPOZYCJĄ, na którą się zgadzamy."
+      },
+      {
+        "label": "agree WITH / ON / TO / ABOUT — cztery różne relacje pod jednym czasownikiem",
+        "text": "'agree WITH somebody' — zgadzać się z ROZMÓWCĄ jako osobą (I agree with you). 'agree ON something' — dojść do WSPÓLNEGO ustalenia w sprawie planu czy szczegółu (we agreed on a date — obie strony aktywnie negocjowały i osiągnęły konsensus). 'agree TO something' — wyrazić ZGODĘ na cudzą propozycję, jednostronnie, bez negocjacji (he agreed to the terms — przyjął warunki zaproponowane przez kogoś innego). 'agree ABOUT something' — mieć takie samo zdanie na dany TEMAT, bardziej ogólnie niż 'on' (we agree about most things in life). Różnica WITH/ON nie jest kosmetyczna: 'I agree with the plan' (akceptuję czyjś gotowy plan) różni się od 'we agreed on the plan' (razem go wypracowaliśmy)."
+      },
+      {
+        "label": "complain / argue / apologize — trójkąt: odbiorca, temat, stanowisko",
+        "text": "Te trzy czasowniki pokazują ten sam wzorzec z różnymi przyimkami dla różnych ról: 'complain TO somebody' (odbiorca skargi) kontra 'complain ABOUT something' (przedmiot skargi) — 'I complained to the manager about the noise'. 'argue WITH somebody' (przeciwnik w sporze) kontra 'argue ABOUT something' (temat sporu) kontra 'argue FOR/AGAINST something' (zajmowane stanowisko, np. w debacie czy eseju: 'the essay argues for stricter regulation'). 'apologize TO somebody' (odbiorca przeprosin) kontra 'apologize FOR something' (powód przeprosin) — 'she apologized to her colleague for the delay'. We wszystkich trzech przypadkach reguła jest identyczna: osoba = TO/WITH, temat/powód = ABOUT/FOR."
+      },
+      {
+        "label": "compare TO kontra compare WITH — subtelność zarezerwowana dla rejestru formalnego i akademickiego",
+        "text": "'Compare X TO Y' podkreśla PODOBIEŃSTWO, często metaforyczne czy poetyckie — 'Shakespeare compared his lover to a summer's day' (dostrzega analogię, nie analizuje różnic). 'Compare X WITH Y' oznacza analityczne ZESTAWIENIE dwóch rzeczy obok siebie, by zbadać zarówno podobieństwa, JAK I różnice — typowe dla naukowego czy biznesowego kontekstu: 'the report compares this year's sales figures with last year's'. W praktyce native speakerzy w mowie potocznej często mieszają oba warianty, ale w rejestrze formalnym i akademickim to rozróżnienie wciąż bywa świadomie przestrzegane i oczekiwane w pisemnych esejach na poziomie C1/C2."
+      }
     ],
     "usage": [
-      "used to + bezokolicznik — nawyk z przeszłości, którego już nie ma",
-      "be used to / get used to + gerund — przyzwyczajenie, oswojenie się z sytuacją",
-      "stop + gerund — zakończenie czynności",
-      "remember/forget + gerund vs + bezokolicznik — różnica w znaczeniu (pamiętać, że coś zrobiłem vs pamiętać, żeby coś zrobić)"
+      "Rozpoznawanie, że różne przyimki po tym samym czasowniku wskazują różne role semantyczne rzeczownika (osoba/rozmówca vs temat vs propozycja vs stanowisko), nie są przypadkowymi wariantami",
+      "Stosowanie triady 'odbiorca=to/with, temat=about, powód=for' do complain/argue/apologize",
+      "Świadome użycie compare to (podobieństwo, metafora) kontra compare with (analityczne zestawienie) w rejestrze formalnym"
     ],
-    "tags": ["used to", "be used to", "stop doing", "stop to do"],
+    "tags": ["agree with/on/to", "complain to/about", "argue with/about/for", "compare to vs with"],
     "examples": [
-      { "en": "I used to play the piano when I was a child.", "pl": "Kiedyś, jako dziecko, grałem na pianinie." },
-      { "en": "She is used to working night shifts now.", "pl": "Ona jest już przyzwyczajona do pracy na nocną zmianę." },
-      { "en": "He stopped smoking two years ago.", "pl": "Rzucił palenie dwa lata temu." },
-      { "en": "On the way home, he stopped to buy some milk.", "pl": "W drodze do domu zatrzymał się, żeby kupić mleko." }
+      { "en": "We finally agreed on a price after almost an hour of negotiating.", "pl": "W końcu uzgodniliśmy cenę po niemal godzinie negocjacji." },
+      { "en": "I completely agree with what you just said about the deadline.", "pl": "Całkowicie zgadzam się z tym, co przed chwilą powiedziałeś o terminie." },
+      { "en": "Critics have often compared her early work to that of Virginia Woolf.", "pl": "Krytycy często porównywali jej wczesną twórczość do dzieł Virginii Woolf." },
+      { "en": "The study compares urban air quality with rural air quality across ten regions.", "pl": "Badanie zestawia jakość powietrza w miastach z jakością powietrza na wsi w dziesięciu regionach." }
+    ]
+  },
+  {
+    "id": "used_to_vs_be_used_to",
+    "order": 6,
+    "nameEn": "used to vs. be/get used to — one Latin root, two grammaticalization paths, one dangerous coincidence",
+    "namePl": "used to a be/get used to — jeden łaciński rdzeń, dwie ścieżki gramatykalizacji, jeden niebezpieczny zbieg form",
+    "rules": [
+      {
+        "label": "Wspólny przodek: łacińskie 'usus' i francuskie 'user'",
+        "text": "Obie konstrukcje, mimo że dziś funkcjonują zupełnie inaczej, wywodzą się z TEGO SAMEGO źródła: łacińskiego rzeczownika 'usus' ('używanie, praktyka') i czasownika 'uti' ('używać'), które przez starofrancuskie 'user' trafiły do średnioangielskiego jako czasownik 'usen' — 'praktykować coś, mieć w zwyczaju coś robić'. To nie przypadek homofoniczny typu 'bank' rzeki i 'bank' finansowy — to JEDNA rodzina znaczeniowa, która w ciągu kilku stuleci rozeszła się na dwie zupełnie odrębne struktury gramatyczne, tworząc dziś pułapkę dla uczących się, bo powierzchniowo wyglądają niemal identycznie."
+      },
+      {
+        "label": "'used to' + bezokolicznik: gramatykalizacja w quasi-modalny znacznik przeszłego nawyku",
+        "text": "Czasownik 'usen' w znaczeniu 'mieć w zwyczaju' od średnioangielszczyzny łączył się z bezokolicznikiem ('I used to smoke' = dosłownie niegdyś 'praktykowałem palenie'). Z czasem ta konstrukcja przeszła GRAMATYKALIZACJĘ: zastygła wyłącznie w czasie przeszłym (nie istnieje '*I use to smoke' w znaczeniu nawyku teraźniejszego — do tego służy zwykły Present Simple: 'I smoke'), utraciła pełną odmianę czasownikową i zaczęła zachowywać się na wpół jak czasownik modalny. Stąd archaiczna, wciąż spotykana w bardzo formalnym/brytyjskim rejestrze forma przecząca bez 'do' — 'I usedn't to smoke' / 'I used not to smoke' — obok dziś znacznie powszechniejszej regularnej formy z do-support: 'I didn't use to smoke'. Podobnie pytanie: staroświeckie 'Used you to smoke?' obok współczesnego 'Did you use to smoke?'."
+      },
+      {
+        "label": "'be/get used to' + gerund: przymiotnik odczasownikowy + przyimek, zwykła, w pełni regularna konstrukcja",
+        "text": "Inna gałąź tego samego czasownika 'usen' rozwinęła się jako imiesłów bierny/przymiotnik 'used' ('przyzwyczajony, oswojony' — dosłownie 'poddany praktyce/używaniu') w połączeniu z PRZYIMKIEM 'to' (tym samym prawdziwym przyimkiem z pierwszego tematu tej lekcji, przechodzącym test 'to it': 'I'm used to it' ✓). Ponieważ to zwykły przymiotnik + prawdziwy przyimek, konstrukcja jest w pełni regularna: odmienia się przez wszystkie czasy za pomocą 'be' ('I am/was/will be used to...'), a 'get' zamiast 'be' oznacza PROCES przyzwyczajania się (inchoatywność, 'stawać się'), a nie już osiągnięty stan: 'I'm getting used to the new schedule' (jestem w trakcie przyzwyczajania) kontra 'I'm used to the new schedule' (już jestem przyzwyczajony, stan gotowy)."
+      },
+      {
+        "label": "Dlaczego te dwie formy tak łatwo się myli — i jak je bezbłędnie odróżnić",
+        "text": "Pułapka bierze się stąd, że OBIE struktury zawierają identyczny ciąg liter 'used to', a mówiący uczący się angielskiego oczekuje JEDNEJ reguły dla jednego wyrażenia. Rozstrzygający test: sprawdź, czy przed 'used' może stać czasownik posiłkowy 'be' w dowolnej osobie/czasie ORAZ czy da się wstawić 'to it' i zdanie ma sens. Jeśli tak — masz przymiotnik + przyimek + gerund: 'She is/was/has always been used to getting up early' ✓, 'She is used to it' ✓. Jeśli 'used to' stoi samodzielnie, bez żadnej formy 'be', i opisuje jednorazowy, zakończony nawyk z przeszłości bez odniesienia do 'teraz' — to gramatykalizowany quasi-modalny znacznik + bezokolicznik: 'She used to get up early (when she was a student)', i tu 'to it' NIE zadziała ('*she used to it' w tym znaczeniu jest niegramatyczne)."
+      }
+    ],
+    "usage": [
+      "used to + bezokolicznik: nawyk lub stan z przeszłości, który już nie trwa; forma przecząca/pytająca zwykle z do-support (didn't use to / did you use to)",
+      "be used to + gerund: aktualny stan przyzwyczajenia, w pełni regularna konstrukcja odmienna przez wszystkie czasy z 'be'",
+      "get used to + gerund: proces przyzwyczajania się (stawanie się przyzwyczajonym), kontrast ze stanem już osiągniętym (be used to)",
+      "Test rozstrzygający: obecność odmiennego 'be' przed 'used' i możliwość podstawienia 'it' po 'to' wskazują na przymiotnik + przyimek, nie na znacznik nawyku"
+    ],
+    "tags": ["used to do", "be used to doing", "get used to doing", "didn't use to", "usedn't to"],
+    "examples": [
+      { "en": "We used to spend every summer at my grandparents' farm.", "pl": "Kiedyś spędzaliśmy każde lato na farmie u dziadków." },
+      { "en": "It took months, but I finally got used to driving on the left.", "pl": "Zajęło to miesiące, ale w końcu przyzwyczaiłem się do jazdy lewą stroną." },
+      { "en": "Didn't you use to live somewhere near here?", "pl": "Czy nie mieszkałeś kiedyś gdzieś w pobliżu?" },
+      { "en": "After years abroad, she's completely used to eating dinner late.", "pl": "Po latach za granicą jest już całkowicie przyzwyczajona do jedzenia kolacji późno." }
     ]
   }
 ]
