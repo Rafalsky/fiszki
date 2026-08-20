@@ -1,98 +1,243 @@
 [
   {
-    "id": "opening_hedging",
+    "id": "historical_foundation",
     "order": 1,
+    "nameEn": "Where discourse markers come from: grammaticalization",
+    "namePl": "Skąd biorą się markery dyskursu: gramatykalizacja",
+    "rules": [
+      {
+        "label": "Od pełnowartościowych słów do pustych sygnałów",
+        "text": "Każdy marker dyskursu, który dziś traktujemy jak stały, nieprzepuszczalny element słownika (well, actually, however, anyway), kiedyś był zwykłym słowem o pełnym, konkretnym znaczeniu leksykalnym, zanurzonym w składni zdania na tych samych prawach co każdy inny przysłówek. 'Well' to staroangielski przysłówek 'wel' ('w dobry sposób' — he spoke wel, 'mówił dobrze'), 'however' to złożenie 'how' + 'ever' ('w jakikolwiek sposób'), 'anyway' to 'any' + 'way' ('jakimkolwiek sposobem'). Proces, w którym pełnoznaczne słowo traci swoje pierwotne znaczenie leksykalne i syntaktyczne 'zakotwiczenie' w zdaniu, a zyskuje nową, czysto pragmatyczną funkcję sterowania rozmową, nazywa się gramatykalizacją. To nie jest degradacja języka ani zaśmiecanie go pustymi słówkami — to regularny, udokumentowany w dziesiątkach niepowiązanych ze sobą języków mechanizm, którym języki naturalne budują sobie narzędzia do zarządzania dyskursem, gdy zabraknie im gotowych środków gramatycznych do tego celu."
+      },
+      {
+        "label": "Dwie warstwy znaczenia: co mówię i jak to przetworzyć",
+        "text": "Zwykłe słowa niosą znaczenie pojęciowe (conceptual) — opisują świat: przedmioty, czynności, cechy. Marker dyskursu niesie natomiast znaczenie proceduralne — nie opisuje niczego w świecie, tylko instruuje słuchacza, jak ma potraktować i połączyć z kontekstem to, co zaraz usłyszy. 'However' nic nie mówi o rzeczywistości — mówi słuchaczowi: 'przygotuj się, zaraz nadejdzie coś, co zderzy się z tym, co przed chwilą powiedziałem'. Dlatego markery dyskursu można w większości wyciąć ze zdania bez naruszenia jego prawdziwości logicznej ('John left early' jest tak samo prawdziwe czy fałszywe z 'however' i bez niego) — a mimo to ich usunięcie odbiera rozmowie spójność i naturalność. Native speaker, który słyszy wypowiedź bez żadnych markerów, odbiera ją jako urwaną i sztywną, nawet jeśli gramatycznie jest bez zarzutu."
+      },
+      {
+        "label": "Dlaczego angielski aż tak bardzo polega na osobnych słówkach",
+        "text": "Polski dysponuje bogatą fleksją i wyjątkowo swobodnym szykiem zdania — przesunięcie akcentu zdaniowego, zmiana kolejności słów czy partykuły enklityczne ('-że', 'no to', 'przecież') potrafią same z siebie sygnalizować kontrast, wahanie czy powrót do tematu. Angielski, po utracie niemal całej fleksji między okresem staro- a średnioangielskim, usztywnił swój szyk zdania (dziś niemal wyłącznie SVO) i stracił większość tych wewnątrzzdaniowych narzędzi. Praca, którą w polskim wykonuje szyk i partykuły, w angielskim musiała przenieść się na zewnątrz zdania — na osobne, formalnie niezależne słówka umieszczane na jego granicach. To dlatego angielski ma tak rozbudowany inwentarz markerów dyskursu, a ich opanowanie jest jednym z ostatnich, najtrudniejszych progów przed C2: błąd gramatyczny rozmówca od razu wychwytuje, ale niewłaściwy dobór markera brzmi tylko nieuchwytnie 'obco', mimo poprawnej gramatyki."
+      },
+      {
+        "label": "Sygnatura prozodyczna: własna wysepka intonacyjna",
+        "text": "Jedną z najpewniejszych oznak, że dane słowo przeszło gramatykalizację w marker dyskursu, jest to, że wymawia się je z osobnym konturem intonacyjnym, oddzielonym mikropauzą od reszty zdania — w piśmie odzwierciedla to przecinek ('Well, I'm not sure.' / 'She was, however, unconvinced.'). Porównajmy 'however' jako marker ('However, he stayed.' — osobna fraza intonacyjna, kontrastuje z poprzednim zdaniem) z 'however' jako przysłówkiem stopnia w znaczeniu archaiczniejszym ('However hard he tried, he failed.' — zrośnięte intonacyjnie z resztą zdania, wciąż działa jak zwykły przysłówek, a nie marker). To ta sama forma na dwóch różnych etapach ewolucji, współistniejąca w języku równolegle."
+      }
+    ],
+    "usage": [
+      "Markery dyskursu dzielą się funkcjonalnie na warstwy: tekstową (porządkowanie treści — sekwencja, kontrast, dodawanie), interpersonalną (łagodzenie, hedging, stosunek mówiącego do własnej wypowiedzi) i interakcyjną (zarządzanie turą rozmowy — otwieranie, zamykanie, powrót do wątku).",
+      "W piśmie formalnym markery dyskursu są znacznie rzadsze i ograniczone niemal wyłącznie do warstwy tekstowej (however, moreover, in conclusion) — warstwa interpersonalna i interakcyjna (well, I mean, anyway, by the way) należy niemal wyłącznie do mowy spontanicznej i rejestru nieformalnego.",
+      "Interpunkcja podąża za prozodią: marker na początku zdania niemal zawsze oddziela się przecinkiem, bo odzwierciedla osobną frazę intonacyjną wypowiadaną w mowie.",
+      "Nadużywanie markerów dyskursu (zwłaszcza 'well', 'I mean', 'actually' w co drugim zdaniu) brzmi równie nienaturalnie jak ich całkowity brak — rodzimi użytkownicy stosują je selektywnie, tam, gdzie rzeczywiście trzeba zasygnalizować zmianę kierunku rozmowy."
+    ],
+    "tags": ["grammaticalization", "discourse markers", "pragmatics", "well", "however", "anyway"],
+    "examples": [
+      { "en": "He explained the theory well, but well, I'm still not convinced.", "pl": "Wyjaśnił tę teorię dobrze, ale, cóż, nadal nie jestem przekonany." },
+      { "en": "However you look at it, however, the numbers still don't add up.", "pl": "Jakkolwiek by na to spojrzeć, jednak liczby wciąż się nie zgadzają." },
+      { "en": "Strip every 'well', 'I mean' and 'anyway' out of her speech, and it suddenly reads like a legal brief.", "pl": "Usuń z jej wypowiedzi każde 'well', 'I mean' i 'anyway', a nagle zabrzmi jak dokument prawniczy." },
+      { "en": "Native speakers rarely notice discourse markers — until a learner forgets to use any at all.", "pl": "Rodzimi użytkownicy rzadko zauważają markery dyskursu — dopóki uczący się nie zapomni ich w ogóle użyć." }
+    ]
+  },
+  {
+    "id": "opening_hedging",
+    "order": 2,
     "nameEn": "Opening & hedging markers (well, actually, I mean)",
     "namePl": "Markery otwierające i łagodzące (well, actually, I mean)",
     "rules": [
-      { "label": "well", "text": "Sygnalizuje wahanie, daje chwilę na zastanowienie lub łagodzi niewygodną odpowiedź" },
-      { "label": "actually", "text": "Wprowadza informację zaskakującą, sprostowanie albo delikatne zaprzeczenie temu, co powiedział rozmówca" },
-      { "label": "I mean", "text": "Doprecyzowuje lub poprawia to, co się właśnie powiedziało" }
+      {
+        "label": "well — od 'w dobry sposób' do sygnału wahania",
+        "text": "Staroangielskie 'wel' było zwykłym przysłówkiem sposobu, dokładnym odpowiednikiem dzisiejszego polskiego 'dobrze' (he sang wel — śpiewał dobrze). Już w średnioangielskim zaczęło pojawiać się na początku odpowiedzi w funkcji niezwiązanej z jakością czynności — jako sygnał, że mówiący przyjął pytanie do wiadomości, ale potrzebuje chwili, zanim odpowie, albo że odpowiedź, która nadejdzie, nie będzie dokładnie tym, czego rozmówca oczekiwał. Ten drugi sens jest kluczowy: 'well' na początku wypowiedzi niemal zawsze zapowiada odpowiedź niepełną, wymijającą albo w jakiś sposób niedopasowaną do pytania — 'Did you like the film?' — 'Well, the acting was great' (odpowiedź, która świadomie unika wprost 'tak/nie', bo prawda jest bardziej złożona)."
+      },
+      {
+        "label": "actually — pułapka fałszywego przyjaciela",
+        "text": "Łacińskie 'actualis' (od 'actus', 'czyn, działanie') w scholastycznej filozofii średniowiecznej oznaczało to, co istnieje faktycznie, w akcie (in actu), w przeciwieństwie do tego, co istnieje tylko potencjalnie (in potentia). Angielskie 'actual' od XIV wieku niesie właśnie to znaczenie: 'rzeczywisty, faktyczny' — nigdy 'aktualny' w sensie 'obecny, bieżący'. To jeden z najbardziej podstępnych false friends dla Polaka: polskie 'aktualnie' znaczy 'obecnie, teraz' i tłumaczy się jako 'currently' albo 'at the moment', a angielskie 'actually' znaczy 'w rzeczywistości, tak naprawdę' i nie ma nic wspólnego z upływem czasu. Jako marker dyskursu 'actually' zachowuje dokładnie ten korzeń: wprowadza informację, która koryguje, zaskakuje albo zaprzecza temu, co rozmówca — lub sam mówiący chwilę wcześniej — uważał za prawdę."
+      },
+      {
+        "label": "I mean — czasownik znaczenia jako narzędzie autokorekty",
+        "text": "'To mean' w znaczeniu 'zamierzać, mieć na myśli' jest w angielskim od czasów staroangielskich ('mænan'). Jako marker dyskursu 'I mean' gramatykalizowało się w wyspecjalizowane narzędzie samopoprawki (self-repair) — mówiący zatrzymuje się, sygnalizuje 'to, co właśnie powiedziałem, nie było dokładnie tym, co chciałem przekazać', i doprecyzowuje, łagodzi albo koryguje własną wypowiedź w locie. To zasadnicza różnica względem 'actually', które koryguje fakt lub oczekiwanie rozmówcy, a nie własne sformułowanie mówiącego."
+      },
+      {
+        "label": "Dlaczego wahanie brzmi bardziej uprzejmie niż precyzja",
+        "text": "Wszystkie trzy markery w tej grupie realizują tę samą funkcję pragmatyczną, znaną jako hedging — celowe osłabienie stanowczości wypowiedzi. Stanowcze, natychmiastowe 'No' brzmi konfrontacyjnie; 'Well, not really' zostawia rozmówcy przestrzeń, nie zamyka rozmowy jednym ciosem. To ta sama logika grzeczności negatywnej (niewchodzenia rozmówcy 'na terytorium'), która w gramatyce objawia się choćby przez czas przeszły w uprzejmych prośbach (I was wondering...) — oddalenie w czasie lub rozmycie kategoryczności sygnalizuje szacunek dla przestrzeni rozmówcy."
+      }
     ],
     "usage": [
-      "Na początku odpowiedzi, gdy potrzebujemy chwili na zebranie myśli",
-      "Gdy chcemy grzecznie skorygować rozmówcę albo siebie samego",
-      "Typowe dla mowy potocznej — w piśmie formalnym używane rzadko",
-      "actually często sygnalizuje, że prawda różni się od oczekiwań rozmówcy"
+      "well otwiera odpowiedź, która jest częściowa, niejednoznaczna albo niezgodna z oczekiwaniem pytającego — czysty sygnał 'to nie będzie proste tak/nie' (Are you coming? — Well, I'm not sure yet.)",
+      "well pełni też funkcję czysto interakcyjną: daje czas na sformułowanie myśli, nie jest przyznaniem się do niewiedzy (Well, let me think about that for a moment.)",
+      "actually wprowadza korektę cudzego przekonania, często delikatnie kontrując rozmówcę (Actually, the meeting's at three, not four.)",
+      "actually sygnalizuje też zaskakujący, nieoczekiwany fakt dotyczący samego mówiącego (Actually, I used to live there.)",
+      "I mean poprawia lub precyzuje to, co się właśnie powiedziało — często w środku zdania, nie tylko na początku (It's — I mean, it's complicated, not impossible.)",
+      "I mean bywa też wypełniaczem pauzy wahania, gdy mówiący szuka słów, ale zawsze z zamiarem doprecyzowania, nigdy przypadkowo"
     ],
-    "tags": ["well,", "actually,", "I mean,"],
+    "tags": ["well,", "actually,", "I mean,", "hedging", "false friend"],
     "examples": [
-      { "en": "Well, I'm not really sure what to say.", "pl": "Cóż, tak naprawdę nie wiem, co powiedzieć." },
-      { "en": "Actually, I think you're wrong about that.", "pl": "Właściwie to myślę, że się co do tego mylisz." },
-      { "en": "I mean, it's not exactly what I expected.", "pl": "To znaczy, to nie jest dokładnie to, czego się spodziewałem." },
-      { "en": "Well, actually, the meeting was moved to Friday.", "pl": "No cóż, właściwie to spotkanie przełożono na piątek." }
+      { "en": "Well, if I'm completely honest, I never really liked the plan.", "pl": "Cóż, jeśli mam być całkiem szczera, nigdy tak naprawdę nie podobał mi się ten plan." },
+      { "en": "Actually, it was my idea in the first place — not that it matters now.", "pl": "Właściwie to był mój pomysł od samego początku — nie żeby to teraz miało znaczenie." },
+      { "en": "I mean, I get why she's upset, I just don't think it's entirely fair.", "pl": "To znaczy, rozumiem, dlaczego jest zdenerwowana, po prostu nie sądzę, że to całkiem sprawiedliwe." },
+      { "en": "'You must be furious.' 'Well... furious is a strong word.'", "pl": "'Musisz być wściekła.' 'No cóż... wściekła to mocne słowo.'" },
+      { "en": "I thought the flight was at nine — actually, checking again, it's at eight.", "pl": "Myślałam, że lot jest o dziewiątej — a właściwie, sprawdzając jeszcze raz, jest o ósmej." }
     ]
   },
   {
     "id": "sequencing",
-    "order": 2,
-    "nameEn": "Sequencing markers (firstly, then, finally)",
-    "namePl": "Markery porządkujące (firstly, then, finally)",
+    "order": 3,
+    "nameEn": "Sequencing markers (firstly, then, finally, last but not least)",
+    "namePl": "Markery porządkujące (firstly, then, finally, last but not least)",
     "rules": [
-      { "label": "firstly / first of all", "text": "Otwiera listę argumentów, kroków lub przyczyn" },
-      { "label": "then / next / after that", "text": "Wskazuje kolejny krok w sekwencji zdarzeń lub instrukcji" },
-      { "label": "finally / in the end", "text": "Sygnalizuje ostatni punkt listy albo wynik końcowy po serii zdarzeń" }
+      {
+        "label": "then — deiktyk czasowy przeniesiony na tor argumentacji",
+        "text": "'Then' pochodzi od staroangielskiego 'þonne/þanne', czysto czasowego przysłówka wskazującego punkt w czasie ('w tamtej chwili'). To, że dziś 'then' równie swobodnie porządkuje kroki przepisu kulinarnego czy punkty argumentacji, co chronologię wydarzeń, nie jest przypadkiem — to efekt jednej z najbardziej rozpowszechnionych metafor pojęciowych języka: CZAS TO PRZESTRZEŃ, a KOLEJNOŚĆ ARGUMENTÓW TO KOLEJNOŚĆ ZDARZEŃ W CZASIE. Mówiąc 'first this, then that' o argumentach w eseju, nieświadomie ustawiamy je na tej samej mentalnej osi, na której ustawiamy zdarzenia w opowiadaniu."
+      },
+      {
+        "label": "firstly, first of all, in the first place — trzy warianty, trzy rejestry",
+        "text": "'First of all' to najbardziej neutralny, uniwersalny wariant, dosłownie 'przed wszystkim innym'. 'Firstly' to forma przysłówkowa wtórnie utworzona od liczebnika porządkowego (na wzór 'secondly', 'thirdly') przede wszystkim do użytku pisemnego i formalnych wystąpień — w swobodnej rozmowie brzmi nieco sztywno. 'In the first place' zachowuje starą, dosłownie przestrzenną metaforę (miejsce w kolejce, w szeregu) i bywa używane nie tylko do otwarcia listy, ale też retorycznie, by zakwestionować samo założenie rozmowy (Why did you agree to this in the first place? — 'na starcie, zanim cokolwiek innego się wydarzyło')."
+      },
+      {
+        "label": "finally vs in the end — zakończenie zaplanowane kontra zakończenie wynikłe",
+        "text": "'Finally' (łac. 'finis', 'granica, koniec') zapowiada ostatni punkt z góry ustalonej, zamkniętej listy — jest neutralne i strukturalne. 'In the end' nie zapowiada uporządkowanej listy, tylko podsumowuje rezultat procesu, który mógł toczyć się chaotycznie, z przeszkodami czy zwrotami akcji — niesie odcień 'mimo wszystko, ostatecznie'. Dlatego 'Finally, let's discuss the budget' brzmi jak kolejny punkt agendy, a 'In the end, we decided to cancel the trip' brzmi jak podsumowanie skomplikowanej, niekoniecznie linearnej historii."
+      },
+      {
+        "label": "last but not least — formuła broniąca się przed własną logiką",
+        "text": "Sama kolejność wyliczania sugeruje hierarchię ważności — to, co wymieniamy jako ostatnie, brzmi jak najmniej istotne. Utrwalona formuła 'last but not least' istnieje właśnie po to, by z góry unieważnić tę niechcianą implikaturę: mówiący jawnie zaznacza, że kolejność w wypowiedzi jest wymuszona liniowością mowy (trzeba coś powiedzieć jako ostatnie), a nie odzwierciedla rzeczywistej rangi tego punktu."
+      }
     ],
     "usage": [
-      "Przy wyliczaniu argumentów w wypracowaniach i prezentacjach",
-      "W instrukcjach krok po kroku (przepisy, poradniki)",
-      "W opowiadaniach, by uporządkować kolejność zdarzeń",
-      "finally podsumowuje ostatni etap, in the end często podkreśla nieoczekiwany rezultat"
+      "firstly/first of all otwierają listę argumentów, kroków lub przyczyn — first of all bardziej uniwersalne, firstly bardziej pisemne/formalne",
+      "then/next/after that prowadzą przez kolejne kroki instrukcji lub zdarzenia narracji, budując chronologiczny szkielet tekstu",
+      "finally zamyka z góry zaplanowaną listę punktów; in the end podsumowuje wynik procesu, niekoniecznie uporządkowanego",
+      "last but not least sygnalizuje wprost, że ostatnia pozycja na liście nie jest najmniej ważna — mimo że kolejność mogłaby to sugerować",
+      "in the first place bywa użyte retorycznie, kwestionując słuszność decyzji sprzed całego łańcucha zdarzeń, nie tylko jako otwarcie listy"
     ],
-    "tags": ["firstly,", "then", "finally,"],
+    "tags": ["firstly,", "then", "finally,", "in the end", "last but not least"],
     "examples": [
-      { "en": "Firstly, let's look at the causes of the problem.", "pl": "Po pierwsze, przyjrzyjmy się przyczynom problemu." },
-      { "en": "Chop the onions, then fry them for five minutes.", "pl": "Pokrój cebulę, a następnie smaż ją przez pięć minut." },
-      { "en": "We tried three different solutions, and finally we found one that worked.", "pl": "Wypróbowaliśmy trzy różne rozwiązania i w końcu znaleźliśmy takie, które zadziałało." },
-      { "en": "In the end, everything turned out fine.", "pl": "Ostatecznie wszystko skończyło się dobrze." }
+      { "en": "First of all, nobody asked for your opinion — and secondly, you're wrong anyway.", "pl": "Po pierwsze, nikt nie pytał cię o zdanie — a po drugie, i tak się mylisz." },
+      { "en": "Whisk the eggs, then fold in the flour, then leave it to rest for an hour.", "pl": "Ubij jajka, następnie wmieszaj mąkę, a potem zostaw to na godzinę do odpoczęcia." },
+      { "en": "We argued for weeks, changed the plan three times, and in the end just flipped a coin.", "pl": "Kłóciliśmy się przez tygodnie, trzy razy zmienialiśmy plan i ostatecznie po prostu rzuciliśmy monetą." },
+      { "en": "Finally, I'd like to thank the team, without whom none of this would exist.", "pl": "Na koniec chciałbym podziękować zespołowi, bez którego nic z tego by nie powstało." },
+      { "en": "Why did you invite him in the first place, if you don't even like him?", "pl": "Po co go w ogóle zapraszałaś, skoro nawet go nie lubisz?" }
     ]
   },
   {
     "id": "contrast_addition",
-    "order": 3,
-    "nameEn": "Contrast & addition markers (however, moreover, on the other hand)",
-    "namePl": "Markery kontrastu i dodawania (however, moreover, on the other hand)",
+    "order": 4,
+    "nameEn": "Contrast & addition markers (however, moreover, nevertheless, that said)",
+    "namePl": "Markery kontrastu i dodawania (however, moreover, nevertheless, that said)",
     "rules": [
-      { "label": "however", "text": "Wprowadza kontrast z poprzednim zdaniem, zwykle na początku zdania i z przecinkiem" },
-      { "label": "on the other hand", "text": "Pokazuje przeciwną stronę argumentu lub sytuacji, często w parze z on one hand" },
-      { "label": "moreover / furthermore", "text": "Dodaje kolejny, wzmacniający argument do tego, co już powiedziano" }
+      {
+        "label": "however — od 'w jakikolwiek sposób' do sygnału zderzenia",
+        "text": "'However' to złożenie 'how' + 'ever', dosłownie 'w jakikolwiek sposób, do jakiegokolwiek stopnia' — znaczenie to wciąż żyje w zdaniach typu 'However you slice it, it's still a bad deal' (przysłówek stopnia poprzedzający przymiotnik/przysłówek, zrośnięty intonacyjnie ze zdaniem). Od wczesnej nowożytnej angielszczyzny, obok tej starej funkcji, wykształciła się druga, niezależna: 'however' jako marker dyskursu otwierający zdanie i sygnalizujący kontrast z tym, co powiedziano wcześniej — funkcja, którą wcześniej pełniło średnioangielskie 'howbeit' (dosłownie 'jakby to nie było'), dziś już wymarłe. Obie funkcje współistnieją do dziś w tej samej formie ortograficznej; rozróżnia je wyłącznie pozycja w zdaniu i intonacja."
+      },
+      {
+        "label": "on the other hand — metafora dłoni jako wagi argumentów",
+        "text": "Ta fraza jest drugą połówką pary korelatywnej 'on the one hand ... on the other hand', dosłownie odwołującej się do dwóch dłoni trzymających przeciwstawne racje jak szalki wagi — orientacyjna metafora przestrzenna, w której lewa i prawa strona reprezentują przeciwstawne punkty widzenia. W przeciwieństwie do 'however', które działa nawet samodzielnie, 'on the other hand' semantycznie domaga się (choćby tylko domyślnie obecnej) pierwszej racji — użyta solo, bez wcześniej zasygnalizowanej 'jednej strony', wciąż implikuje: 'jest jeszcze inna perspektywa, którą przed chwilą pominąłem'."
+      },
+      {
+        "label": "moreover, furthermore — metafora przestrzennego posuwania się naprzód",
+        "text": "'Moreover' to zrost 'more' + 'over' (dosłownie 'więcej ponad to'), a 'furthermore' to 'further' + 'more' (dosłownie 'dalej, jeszcze więcej') — obie formy czerpią z tej samej metafory pojęciowej ARGUMENTACJA TO PODRÓŻ: każdy kolejny argument to krok naprzód na trasie, a nie tylko dodatkowa pozycja na liście. To odróżnia je od zwykłego 'and' — 'moreover'/'furthermore' sugerują, że kolejny argument wzmacnia i pogłębia poprzedni, a nie tylko go dokłada obok. Oba należą niemal wyłącznie do rejestru formalnego, pisemnego; w mowie potocznej ich miejsce zajmuje 'plus' albo 'on top of that'."
+      },
+      {
+        "label": "nevertheless, nonetheless — skamieniała podwójna negacja",
+        "text": "'Nevertheless' to zrost trzech słów: 'never' + 'the' + 'less', dosłownie 'wcale nie [przez to] mniej' — konstrukcja z porównawczym 'the', dziś reliktowym poza takimi utrwalonymi zwrotami (por. 'none the wiser', 'all the better'). Semantycznie mówi: 'fakt X w żaden sposób nie umniejsza prawdziwości/ważności Y'. 'Nonetheless' to młodszy, w pełni synonimiczny wariant z 'none' zamiast 'never'. Oba są mocniejsze i bardziej formalne niż 'however' — sugerują nie tylko kontrast, ale wyraźne, uparte podtrzymanie poprzedniej tezy mimo przeciwnego argumentu."
+      },
+      {
+        "label": "having said that / that said — nowy hybrydowy rejestr",
+        "text": "To współczesna, dwudziestowieczna konstrukcja imiesłowowa (absolute participle clause), która semantycznie cofa się do własnej poprzedniej wypowiedzi mówiącego, a nie do wypowiedzi rozmówcy — sygnalizuje: 'zaraz troszkę osłabię albo skoryguję to, co sam przed chwilą powiedziałem'. Zajmuje ciekawą niszę pomiędzy rejestrem formalnym a potocznym: zbyt swobodna na sztywny raport akademicki, ale wystarczająco ustrukturyzowana, by dobrze brzmieć w mowie publicznej i dziennikarstwie."
+      }
     ],
     "usage": [
-      "W formalnym piśmie: eseje, raporty, argumentacja",
-      "however łączy dwa zdania o przeciwnym wydźwięku, zwykle jako osobne zdanie",
-      "on the other hand porównuje dwa punkty widzenia na ten sam temat",
-      "moreover / furthermore sygnalizują, że kolejny argument jest równie ważny lub silniejszy"
+      "however łączy dwa zdania o przeciwnym wydźwięku, zwykle jako osobne zdanie oddzielone kropką lub średnikiem, nie przecinkiem (typowy błąd: comma splice)",
+      "on the other hand kontrastuje dwa punkty widzenia na ten sam temat, naturalnie w parze z on the one hand",
+      "moreover / furthermore dodają silniejszy, pogłębiający argument — rejestr formalny, rzadkie w swobodnej rozmowie",
+      "nevertheless / nonetheless podtrzymują poprzednią tezę mimo przeciwstawnego faktu — mocniejsze i bardziej formalne niż however",
+      "having said that / that said cofają się do własnej wypowiedzi mówiącego, łagodząc lub równoważąc to, co on sam przed chwilą stwierdził"
     ],
-    "tags": ["however,", "on the other hand,", "moreover,"],
+    "tags": ["however,", "on the other hand,", "moreover,", "nevertheless", "that said,"],
     "examples": [
-      { "en": "The plan sounds risky. However, it could pay off in the long run.", "pl": "Plan brzmi ryzykownie. Jednak w dłuższej perspektywie mógłby się opłacić." },
-      { "en": "On the one hand, working from home saves time. On the other hand, it can be isolating.", "pl": "Z jednej strony praca z domu oszczędza czas. Z drugiej strony może być izolująca." },
-      { "en": "The hotel is expensive. Moreover, it's far from the city centre.", "pl": "Ten hotel jest drogi. Co więcej, jest daleko od centrum miasta." },
-      { "en": "She's talented; furthermore, she works extremely hard.", "pl": "Jest utalentowana; ponadto pracuje niezwykle ciężko." }
+      { "en": "The evidence is compelling; nevertheless, the jury remained unconvinced.", "pl": "Dowody są przekonujące; niemniej jednak ława przysięgłych pozostała nieprzekonana." },
+      { "en": "He's brilliant at his job. On the other hand, he's impossible to work with.", "pl": "Jest genialny w swojej pracy. Z drugiej strony jest niemożliwy we współpracy." },
+      { "en": "The proposal saves money; moreover, it's better for the environment.", "pl": "Ta propozycja oszczędza pieniądze; co więcej, jest lepsza dla środowiska." },
+      { "en": "I loved the book. That said, the ending felt rushed.", "pl": "Uwielbiałam tę książkę. Choć trzeba przyznać, że zakończenie wydawało się pospieszne." },
+      { "en": "However you look at it, three months isn't enough time to learn a language fluently.", "pl": "Jakkolwiek by na to spojrzeć, trzy miesiące to za mało czasu, by biegle nauczyć się języka." }
     ]
   },
   {
     "id": "digression_conclusion",
-    "order": 4,
-    "nameEn": "Digression & conclusion markers (by the way, anyway, in conclusion)",
-    "namePl": "Markery dygresji i podsumowania (by the way, anyway, in conclusion)",
+    "order": 5,
+    "nameEn": "Digression & conclusion markers (by the way, anyway, in conclusion, all in all)",
+    "namePl": "Markery dygresji i podsumowania (by the way, anyway, in conclusion, all in all)",
     "rules": [
-      { "label": "by the way", "text": "Wprowadza dygresję — temat poboczny, luźno związany z rozmową" },
-      { "label": "anyway", "text": "Wraca do głównego wątku po dygresji albo kończy rozmowę na dany temat" },
-      { "label": "in conclusion / all in all", "text": "Podsumowuje całość wypowiedzi lub tekstu na samym końcu" }
+      {
+        "label": "by the way — dygresja jako coś napotkanego 'po drodze'",
+        "text": "Ta fraza dosłownie oznacza coś spotkanego przy okazji podróży, na trasie, a nie w punkcie docelowym — kontynuacja tej samej metafory ARGUMENTACJA/ROZMOWA TO PODRÓŻ, którą widzieliśmy już przy 'moreover' i 'furthermore'. Skoro rozmowa ma swój 'główny szlak', 'by the way' sygnalizuje zejście na chwilę na boczną ścieżkę — temat luźno powiązany albo zupełnie niezwiązany z aktualnym wątkiem, wprowadzony bez zrywania ciągłości rozmowy."
+      },
+      {
+        "label": "anyway — powrót na główny szlak",
+        "text": "'Anyway' to zrost 'any' + 'way', dosłownie 'jakimkolwiek sposobem, w każdym razie' — to znaczenie wciąż widać w zdaniach typu 'I don't want to go anyway' (przysłówek 'i tak, mimo wszystko'). Jako marker dyskursu 'anyway' pełni funkcję dokładnie odwrotną do 'by the way': jeśli 'by the way' schodzi z głównej ścieżki rozmowy, to 'anyway' na nią wraca, sygnalizując 'porzucam ten wątek lub dygresję i wracam do sedna' — niezależnie od tego, jak dygresja się zakończyła. Bywa też używane do zamknięcia rozmowy w ogóle, gdy mówiący sygnalizuje, że kończy wątek bez potrzeby dalszego rozwijania."
+      },
+      {
+        "label": "incidentally — formalny odpowiednik by the way, ten sam korzeń logiczny",
+        "text": "Z łacińskiego 'incidere' ('wpaść na, zdarzyć się przy okazji', dosłownie 'wpaść do środka') — dokładnie ta sama logika przypadkowego natrafienia co w 'by the way', tylko przeniesiona do rejestru formalnego lub pisanego. Różnica rejestru jest tu ważniejsza niż różnica znaczenia."
+      },
+      {
+        "label": "in conclusion, all in all — dwa różne sposoby 'zamykania' wypowiedzi",
+        "text": "'In conclusion' z łacińskiego 'concludere' ('zamknąć, spiąć klamrą') odwołuje się do logicznej struktury argumentu — sygnalizuje ostatni krok wywodu, często z wnioskiem wynikającym z tego, co powiedziano wcześniej; typowe dla esejów, prezentacji, rozpraw. 'All in all' to zwielokrotniony kwantyfikator ('wszystko we wszystkim, pod każdym względem') — nie zamyka logicznego wywodu, tylko sumuje ogólne wrażenie czy ocenę, często po opisie czegoś złożonego z wielu, niekoniecznie spójnych elementów, jak podróż z dobrymi i złymi momentami."
+      },
+      {
+        "label": "at the end of the day — najnowsza warstwa tej samej metafory",
+        "text": "To współczesny, potoczny idiom, spopularyzowany w XX wieku, budujący na tej samej metaforze CZAS TO PODRÓŻ/DZIEŃ co 'in the end' — ale przesunięty w stronę oceny ostatecznej, najważniejszej prawdy, która pozostaje, gdy odrzucimy wszystkie poboczne szczegóły i emocje: 'to się liczy naprawdę, gdy wszystko inne odpadnie'. Bywa krytykowany jako wypełniacz nadużywany w mowie biznesowej, ale poprawnie użyty sygnalizuje przejście od szczegółów do sedna sprawy."
+      }
     ],
     "usage": [
-      "by the way pojawia się głównie w rozmowie potocznej, przy zmianie tematu",
-      "anyway sygnalizuje powrót do sedna sprawy lub zamknięcie tematu",
-      "in conclusion / all in all typowe w formalnych podsumowaniach esejów i prezentacji",
-      "all in all podkreśla ogólną, łączną ocenę czegoś"
+      "by the way / incidentally wprowadzają dygresję — temat poboczny, luźno związany z rozmową; incidentally bardziej formalne/pisemne",
+      "anyway sygnalizuje powrót do głównego wątku po dygresji, niezależnie jak się ona zakończyła, albo zamyka temat lub rozmowę w ogóle",
+      "in conclusion typowe w formalnych podsumowaniach esejów i prezentacji — zamyka logiczny wywód, nie tylko listę",
+      "all in all podsumowuje ogólne, łączne wrażenie z czegoś złożonego z wielu elementów, niekoniecznie w formalnym rejestrze",
+      "at the end of the day wprowadza ostateczną, najważniejszą konkluzję po odrzuceniu szczegółów — częste w mowie potocznej i biznesowej, czasem odbierane jako nadużywany frazes"
     ],
-    "tags": ["by the way,", "anyway,", "in conclusion,"],
+    "tags": ["by the way,", "anyway,", "in conclusion,", "all in all,", "at the end of the day,"],
     "examples": [
-      { "en": "By the way, did you get my email yesterday?", "pl": "A tak przy okazji, dostałeś wczoraj mojego maila?" },
-      { "en": "Anyway, let's get back to the main topic.", "pl": "W każdym razie wróćmy do głównego tematu." },
-      { "en": "In conclusion, the project was a success despite the delays.", "pl": "Podsumowując, projekt zakończył się sukcesem mimo opóźnień." },
-      { "en": "All in all, it was a great trip.", "pl": "Ogólnie rzecz biorąc, to była wspaniała wycieczka." }
+      { "en": "By the way, I never got round to thanking you for the book.", "pl": "A tak przy okazji, nigdy nie zdążyłam ci podziękować za tę książkę." },
+      { "en": "It started raining, the tent leaked, and we ran out of food — anyway, it was quite the trip.", "pl": "Zaczęło padać, namiot przeciekał i skończyło nam się jedzenie — w każdym razie, to była niezła wyprawa." },
+      { "en": "Incidentally, the same argument applies to the second case.", "pl": "Nawiasem mówiąc, ten sam argument stosuje się do drugiego przypadku." },
+      { "en": "In conclusion, the data simply doesn't support the original hypothesis.", "pl": "Podsumowując, dane po prostu nie potwierdzają pierwotnej hipotezy." },
+      { "en": "At the end of the day, no one's going to remember who was right.", "pl": "Ostatecznie i tak nikt nie będzie pamiętał, kto miał rację." }
+    ]
+  },
+  {
+    "id": "reformulation_response",
+    "order": 6,
+    "nameEn": "Reformulation & response tokens (in other words, or rather, fair enough, I see)",
+    "namePl": "Markery przeformułowania i tokeny odpowiedzi (in other words, or rather, fair enough, I see)",
+    "rules": [
+      {
+        "label": "in other words, that is (to say) — metajęzyk: mówienie o własnym mówieniu",
+        "text": "Te frazy nie odnoszą się do świata, tylko do samego aktu mówienia — sygnalizują, że nadchodzące zdanie nie wnosi nowej informacji, tylko przeformułowuje poprzednie w innych słowach, zwykle prostszych, bardziej dosadnych albo dostosowanych do innego odbiorcy. 'That is (to say)' to bezpośredni kalkowany odpowiednik łacińskiego 'id est' (skracanego jako 'i.e.') — konstrukcja typowa dla precyzyjnego, technicznego lub prawniczego dopowiadania definicji."
+      },
+      {
+        "label": "or rather — comparative 'rather' jako narzędzie autokorekty w locie",
+        "text": "'Rather' wywodzi się od staroangielskiego 'hraþor', stopnia wyższego przysłówka 'hræþe' ('szybko') — pierwotnie znaczyło więc dosłownie 'szybciej, prędzej', a z czasem, przez metaforę PRĘDKOŚĆ WYBORU TO PREFERENCJA, wykształciło dzisiejsze znaczenie 'raczej, chętniej'. 'Or rather' jako marker wprowadza natychmiastową korektę własnego słowa lub sformułowania w trakcie mówienia, jeszcze zanim rozmówca zdąży zareagować — subtelnie różni się od 'I mean' tym, że zwykle poprawia jedno konkretne słowo lub frazę, a nie całą myśl."
+      },
+      {
+        "label": "right, okay, I see — tokeny potwierdzenia jako smar konwersacyjny",
+        "text": "W odróżnieniu od wcześniejszych grup, te krótkie 'response tokens' nie modyfikują treści wypowiedzi mówiącego — potwierdzają jedynie odbiór wypowiedzi rozmówcy i sygnalizują gotowość do kontynuowania rozmowy (tzw. backchanneling). 'I see' to szczególnie wyrazisty przykład głębszej, uniwersalnej metafory pojęciowej ROZUMIENIE TO WIDZENIE (por. polskie 'widzę, o co ci chodzi') — czasownik percepcji wzrokowej gramatykalizuje się w marker potwierdzający zrozumienie, nie dosłowne widzenie czegokolwiek."
+      },
+      {
+        "label": "fair enough, exactly — potwierdzenie z różnym stopniem entuzjazmu",
+        "text": "'Exactly' potwierdza pełną, entuzjastyczną zgodność z tym, co powiedział rozmówca — mówiący nie tylko się zgadza, ale odczuwa, że rozmówca trafił w sedno jego własnej myśli. 'Fair enough' to o wiele chłodniejsza, bardziej powściągliwa akceptacja — dosłownie 'wystarczająco sprawiedliwe, rozsądne', czyli 'nie do końca się zgadzam albo nie mam kontrargumentu, ale przyjmuję to jako rozsądne stanowisko'. Rozróżnienie tych dwóch tokenów pozwala precyzyjnie sygnalizować stopień własnego przekonania, nie zmieniając ani jednego słowa w reszcie zdania."
+      }
+    ],
+    "usage": [
+      "in other words / that is (to say) przeformułowują poprzednie zdanie w innych, zwykle prostszych lub bardziej precyzyjnych słowach — nie wprowadzają nowej informacji",
+      "or rather poprawia jedno konkretne, właśnie wypowiedziane słowo lub sformułowanie, zanim rozmówca zdąży się do niego odnieść",
+      "right / okay potwierdzają odbiór wypowiedzi i podtrzymują rozmowę (backchanneling), często bez zabierania głosu na dłużej",
+      "I see sygnalizuje zrozumienie wyjaśnienia lub sytuacji, czasem z lekkim odcieniem 'aha, to zmienia sprawę'",
+      "fair enough akceptuje argument rozmówcy jako rozsądny, mimo że sam mówiący niekoniecznie się z nim w pełni zgadza; exactly wyraża pełną, entuzjastyczną zgodność"
+    ],
+    "tags": ["in other words,", "or rather", "fair enough", "I see", "exactly"],
+    "examples": [
+      { "en": "The project's on hold — in other words, it's cancelled and nobody wants to say it out loud.", "pl": "Projekt jest wstrzymany — innymi słowy, jest odwołany, tylko nikt nie chce tego powiedzieć wprost." },
+      { "en": "She's not lazy, or rather, she's exhausted, and there's a difference.", "pl": "Ona nie jest leniwa, a raczej wykończona, a to jest różnica." },
+      { "en": "'We're not firing anyone, we're just not renewing some contracts.' 'Fair enough, if that's how you want to put it.'", "pl": "'Nikogo nie zwalniamy, po prostu nie przedłużamy niektórych umów.' 'No dobrze, jeśli tak wolisz to ująć.'" },
+      { "en": "Oh, I see — so that's why she never mentioned it.", "pl": "Aha, rozumiem — więc dlatego nigdy o tym nie wspomniała." },
+      { "en": "'It's basically theft with extra paperwork.' 'Exactly.'", "pl": "'To w zasadzie kradzież z dodatkowym papierkiem.' 'No właśnie.'" }
     ]
   }
 ]
