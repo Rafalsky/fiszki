@@ -2,88 +2,192 @@
   {
     "id": "must_have_been",
     "order": 1,
-    "nameEn": "must have been + -ing — certainty about an ongoing past action",
-    "namePl": "must have been doing — pewność co do trwającej czynności",
+    "nameEn": "must have been + -ing — three grammatical categories stacked in one verb phrase",
+    "namePl": "must have been doing — gdy pewność, spojrzenie wstecz i trwanie spotykają się w jednej frazie",
     "rules": [
-      { "label": "must have been + -ing", "text": "Wyraża silne przekonanie, że coś trwało lub było w toku w danym momencie przeszłości, na podstawie dostępnych dowodów" },
-      { "label": "Budowa", "text": "podmiot + must have been + czasownik-ing" },
-      { "label": "Kontrast z must have + III forma", "text": "must have done podkreśla, że czynność się zakończyła (must have finished), a must have been doing podkreśla, że trwała lub powtarzała się przez jakiś czas (must have been finishing = był w trakcie kończenia)" }
+      {
+        "label": "Trzy warstwy w jednej frazie czasownikowej",
+        "text": "Temat modals_perfect pokazuje, że 'must have done' to dwie niezależne warstwy czasu skompresowane w jedną frazę: 'must' zostaje w teraźniejszości i wyraża TERAŹNIEJSZY osąd mówiącego, a 'have + V3' informuje, że samo zdarzenie leży w przeszłości. 'Must have been doing' dokłada do tego trzecią, zupełnie osobną warstwę: ASPEKT. Modalność odpowiada na pytanie 'jak bardzo jestem pewien?', aspekt dokonany (perfect) odpowiada na pytanie 'kiedy to było względem teraz?', a aspekt ciągły (progressive) odpowiada na zupełnie inne pytanie: 'czy patrzę na to zdarzenie z zewnątrz, jako zamknięty punkt, czy z wnętrza, jako proces w toku?'. To, że angielski pozwala nałożyć na siebie te trzy niezależne kategorie w jednej, płynnej frazie ('must' + 'have' + 'been' + '-ing'), jest jedną z cech, które odróżniają go od większości języków europejskich — polski musi to samo rozbić na osobne zdania ('musiało padać' nie mówi nic o tym, czy deszcz WCIĄŻ leje, ani czy mówiący jest tego pewien w takim samym stopniu)."
+      },
+      {
+        "label": "Dlaczego akurat taka kolejność: modal → have → been → -ing",
+        "text": "Kolejność nie jest przypadkowa — odzwierciedla logiczną hierarchię: najpierw osąd mówiącego (must, jako punkt wyjścia z teraźniejszości), potem przesunięcie w czas (have + V3, cofnięcie do przeszłości), na końcu doprecyzowanie WEWNĘTRZNEJ struktury tamtego zdarzenia (been + -ing, czy to był proces, czy punkt). Każda kolejna warstwa 'ogląda' poprzednią z coraz bliższej odległości, jak zagnieżdżone soczewki: modalność patrzy na całość zdania z zewnątrz, perfect przesuwa punkt obserwacji w przeszłość, progressive wchodzi kamerą do środka TEGO konkretnego momentu w przeszłości. Historycznie ten wzorzec ustabilizował się stosunkowo późno: modalne zamroziły się w system preterite-present (czasowniki 'kalekie', bez bezokolicznika i imiesłowu) jeszcze w staro- i średnioangielskim, natomiast aspekt progresywny (be + -ing) stał się w pełni obowiązkową, systematyczną kategorią gramatyczną dopiero w XVII–XVIII wieku. Potrójne warstwowanie modal + perfect + progressive mogło więc w pełni rozkwitnąć dopiero wtedy, gdy oba budulce — zamrożony system modalny i dojrzały aspekt ciągły — już istniały obok siebie."
+      },
+      {
+        "label": "must have done vs must have been doing: punkt kontra proces",
+        "text": "Wybór między formą prostą a ciągłą po 'must have' nie jest stylistyczną ozdobą — zmienia to, JAKI wniosek właściwie wyciągamy. 'He must have left' traktuje wyjście jako zamknięty, punktowy fakt — interesuje nas SKUTEK (nie ma go, drzwi zamknięte). 'He must have been leaving' patrzy na sam MOMENT wyjścia jako proces w toku (np. 'musiał być w trakcie wychodzenia, kiedy zadzwonił telefon' — słyszał dzwonek, ale już miał rękę na klamce). W praktyce forma ciągła pojawia się głównie wtedy, gdy: (a) dowody wskazują na czynność, która zajęła jakiś czas, a nie było jednego wyraźnego momentu jej zakończenia (mokre ulice — deszcz nie 'skończył się' w jednej chwili, tylko padał przez dłuższy okres), albo (b) chcemy osadzić czynność jako TŁO dla innego zdarzenia w przeszłości ('musiał gotować, kiedy zadzwonił alarm')."
+      },
+      {
+        "label": "Dlaczego nie każdy czasownik lubi tę formę",
+        "text": "Temat stative_verbs tłumaczy, że stan nie ma 'wnętrza', do którego mogłaby wjechać kamera aspektu ciągłego — jest jednorodny w każdym momencie swojego trwania. Ta sama zasada blokuje 'must have been' + czasownik czysto stanowy: mówimy 'She must have known' (nie: *'must have been knowing'), bo 'wiedzieć' nie ma fazy narastania widocznej z zewnątrz. Z kolei czasowniki oznaczające czynności z naturalnym punktem docelowym (telic: arrive, finish, die) w formie ciągłej po 'must have been' brzmią naturalnie tylko wtedy, gdy naprawdę chodzi o proces ZMIERZAJĄCY do tego punktu, a nie o sam moment jego osiągnięcia — 'must have been finishing' opisuje kogoś w trakcie kończenia czegoś, nie sam fakt, że skończył."
+      }
     ],
     "usage": [
-      "Gdy dowody (zmęczenie, hałas, ślady) wskazują na czynność, która trwała jakiś czas, a nie na pojedyncze zdarzenie",
-      "Często z okolicznikami czasu trwania: must have been waiting for hours, must have been raining all night"
+      "Dowody (zmęczenie, hałas, ślady, mokre powierzchnie) wskazują na czynność, która zajmowała jakiś czas, a nie na pojedyncze, punktowe zdarzenie",
+      "Osadzanie wnioskowanej czynności jako tła dla innego zdarzenia w przeszłości: 'He must have been driving when he called' — prowadzenie samochodu jako proces w tle, telefon jako punktowe zdarzenie na tym tle",
+      "Często z okolicznikami czasu trwania, które wzmacniają odczyt procesu, nie punktu: must have been waiting for hours, must have been raining all night",
+      "Nie z czystymi czasownikami stanowymi (know, believe, own, resemble) — tam zawsze 'must have' + forma prosta"
     ],
-    "tags": ["must have been waiting", "must have been raining", "must have been crying"],
+    "tags": ["must have been waiting", "must have been raining", "must have been crying", "layered aspect"],
     "examples": [
-      { "en": "The streets are wet — it must have been raining all night.", "pl": "Ulice są mokre — musiało padać całą noc." },
-      { "en": "Her eyes are red — she must have been crying.", "pl": "Ma czerwone oczy — musiała płakać." },
-      { "en": "He looks exhausted — he must have been working overtime again.", "pl": "Wygląda na wykończonego — musiał znowu pracować w nadgodzinach." },
-      { "en": "They must have been waiting for ages — they seemed really annoyed.", "pl": "Musieli czekać całe wieki — wyglądali na naprawdę zirytowanych." }
+      { "en": "The streets are still wet and there are puddles everywhere — it must have been raining for hours.", "pl": "Ulice wciąż są mokre i wszędzie stoją kałuże — musiało padać godzinami." },
+      { "en": "Her eyes are red and her voice is hoarse — she must have been crying.", "pl": "Ma czerwone oczy i zachrypnięty głos — musiała płakać." },
+      { "en": "He must have been driving when he called — I could hear the engine and the indicator clicking.", "pl": "Musiał prowadzić, kiedy dzwonił — słyszałam silnik i klikanie kierunkowskazu." },
+      { "en": "There's flour and eggshells all over the counter — someone must have been baking in a hurry.", "pl": "Na blacie jest pełno mąki i skorupek jajek — ktoś musiał piec w pośpiechu." },
+      { "en": "Judging by the state of the trail, hikers must have been coming through here all summer.", "pl": "Sądząc po stanie szlaku, turyści musieli przechodzić tędy przez całe lato." },
+      { "en": "The battery's almost flat — you must have been using the phone all night.", "pl": "Bateria jest prawie rozładowana — musiałeś korzystać z telefonu całą noc." }
     ]
   },
   {
     "id": "might_could_have_been",
     "order": 2,
-    "nameEn": "might/could have been + -ing — uncertain possibility about an ongoing action",
-    "namePl": "might/could have been doing — niepewna możliwość trwającej czynności",
+    "nameEn": "might/could/may have been + -ing — the middle of the scale, and a second, unrelated reading of 'could'",
+    "namePl": "might/could/may have been doing — środek skali pewności i drugie, zupełnie inne znaczenie 'could'",
     "rules": [
-      { "label": "might/could have been + -ing", "text": "Wyraża przypuszczenie, że coś mogło trwać w przeszłości — bez pewności" },
-      { "label": "may have been + -ing", "text": "Podobne znaczenie do might have been, nieco bardziej formalne" },
-      { "label": "Budowa", "text": "podmiot + might/could/may have been + czasownik-ing" }
+      {
+        "label": "Ten sam środek skali, teraz z aspektem ciągłym",
+        "text": "Temat modals_deduction ustala, że may, might i could zajmują środkowy przedział skali pewności — 'may' jest neutralne i typowe dla rejestru formalnego (dziedziczy to po st.ang. 'magan', 'mieć moc'), 'might' jako historyczna forma przeszła 'may' brzmi potocznie i nieco ostrożniej, zgodnie z ogólną zasadą, że gramatyczne 'oddalenie w czasie' (formy typu could, might, would, should) koduje psychologiczny dystans od pewności. Dokładnie ta sama hierarchia rejestru i pewności działa, gdy dokładamy 'been + -ing' — zmienia się tylko to, że wnioskujemy nie o zdarzeniu jako całości, lecz o czynności, która była w danym momencie W TOKU."
+      },
+      {
+        "label": "Podwójne znaczenie 'could have been doing': spekulacja czy niewykorzystana szansa?",
+        "text": "Temat modals_perfect pokazuje, że samo 'could have done' ma dwa niezależne odczyty: dedukcję ('to było możliwe, że...') i wyrzut o niewykorzystanej szansie ('miałeś taką możliwość, a z niej nie skorzystałeś'). Forma ciągła dziedziczy dokładnie ten sam rozdźwięk, tylko rozciągnięty w czasie: 'She could have been sleeping when we called' to czysta spekulacja o procesie w toku (może spała, nie mamy pewności). Ale 'You could have been training for this marathon for months — instead you barely ran twice' to już nie domysł, lecz żal albo krytyka: podmiot MIAŁ całą przestrzeń czasową (miesiące) do zapełnienia jakąś czynnością i jej nie zapełnił. To skrócony trzeci okres warunkowy z niewypowiedzianą przyczyną — 'mogłeś to robić [gdybyś tylko chciał]' — tyle że rozciągnięty na cały OKRES, nie na jedno zdarzenie."
+      },
+      {
+        "label": "Dlaczego rozróżnienie tych dwóch znaczeń jest łatwiejsze niż przy zwykłym 'could have'",
+        "text": "Paradoksalnie forma ciągła bywa mniej dwuznaczna niż prosta, bo kontekst duratywny (całe pasmo czasu, nie punktowe zdarzenie) silnie faworyzuje odczyt 'niewykorzystanej możliwości' w zdaniach bez wyraźnego kontekstu dowodowego, a odczyt czysto spekulacyjny pojawia się niemal wyłącznie tam, gdzie w zdaniu jest jawny 'dowód' lub pytanie, o które wnioskujemy (telefon nie odebrany, brak odpowiedzi, alibi). Innymi słowy: 'could have been doing' + kontekst 'dlaczego nie odebrał?' = spekulacja; 'could have been doing' + kontekst 'miałeś na to cały rok!' = wyrzut."
+      },
+      {
+        "label": "Forma bierna: could/may/might have been being + III forma?",
+        "text": "Teoretycznie połączenie strony biernej z aspektem ciągłym w tej pozycji jest gramatycznie możliwe (the road could have been being repaired), ale w praktyce brzmi bardzo ciężko i rodzimi użytkownicy niemal zawsze go unikają, zastępując prostszą formą bierną bez aspektu ciągłego (the road could have been under repair) albo przeformułowaniem zdania w stronę czynną. To dobry przykład granicy, do której angielska gramatyka pozwala piętrzyć kategorie: teoretyczna poprawność nie zawsze oznacza naturalność w żywej mowie."
+      }
     ],
     "usage": [
-      "Gdy spekulujemy o czynności, która mogła być w toku, ale nie mamy dowodów jak przy must",
-      "Często w kontekście wyjaśniania czyjegoś zachowania lub wyglądu"
+      "Spekulacja o procesie, który mógł trwać w danym momencie przeszłości, bez pewności — May have brzmi bardziej formalnie/pisemnie niż might have w codziennej rozmowie",
+      "could have been + -ing jako wyrzut o niewykorzystanej możliwości rozciągniętej na cały okres, nie na jedno zdarzenie (You could have been studying instead of scrolling your phone all evening!)",
+      "Kontekst z 'dowodem' lub pytaniem faworyzuje odczyt spekulacyjny; kontekst z podkreśleniem straconego czasu faworyzuje odczyt wyrzutu",
+      "Unikanie strony biernej w tej pozycji w mowie potocznej na rzecz prostszych konstrukcji"
     ],
-    "tags": ["might have been sleeping", "could have been joking", "may have been listening"],
+    "tags": ["might have been sleeping", "could have been training", "unrealized period", "may have been listening"],
     "examples": [
-      { "en": "She didn't answer the phone — she might have been sleeping.", "pl": "Nie odebrała telefonu — może spała." },
-      { "en": "He could have been joking, it's hard to tell with him.", "pl": "Może żartował, trudno powiedzieć z nim." },
-      { "en": "They may have been listening the whole time.", "pl": "Może słuchali przez cały ten czas." },
-      { "en": "I think she could have been watching us from the window.", "pl": "Myślę, że mogła obserwować nas z okna." }
+      { "en": "She didn't answer the phone — she might have been sleeping, it was pretty late.", "pl": "Nie odebrała telefonu — może spała, było już dość późno." },
+      { "en": "The delay may have been caused by them still loading the cargo when we arrived.", "pl": "Opóźnienie mogło być spowodowane tym, że jeszcze ładowali towar, kiedy przyjechaliśmy." },
+      { "en": "He could have been joking the whole time — it's honestly hard to tell with him.", "pl": "Mógł przez cały ten czas żartować — z nim naprawdę trudno powiedzieć." },
+      { "en": "You could have been practising for weeks, and instead you left it until the night before.", "pl": "Mogłeś ćwiczyć od tygodni, a zamiast tego zostawiłeś to na noc przed egzaminem." },
+      { "en": "I think she could have been watching us from the window the whole time we were talking.", "pl": "Myślę, że mogła obserwować nas z okna przez cały czas, kiedy rozmawialiśmy." },
+      { "en": "They may have been negotiating behind closed doors for hours before the announcement.", "pl": "Mogli negocjować za zamkniętymi drzwiami godzinami, zanim padło to ogłoszenie." }
     ]
   },
   {
     "id": "cant_couldnt_have_been",
     "order": 3,
-    "nameEn": "can't/couldn't have been + -ing — impossibility of an ongoing action",
-    "namePl": "can't have been doing — niemożliwość trwającej czynności",
+    "nameEn": "can't/couldn't have been + -ing — the impossibility of a process, not just of an event",
+    "namePl": "can't have been doing — dlaczego przeczenie pewności o procesie wciąż pożycza czasownik 'can'",
     "rules": [
-      { "label": "can't/couldn't have been + -ing", "text": "Wyraża przekonanie, że coś na pewno NIE trwało w danym momencie — logiczny wniosek o niemożliwości" },
-      { "label": "Budowa", "text": "podmiot + can't/couldn't have been + czasownik-ing" }
+      {
+        "label": "Ta sama luka w paradygmacie, teraz z aspektem",
+        "text": "Temat modals_perfect wyjaśnia, dlaczego epistemiczne przeczenie 'must have' nigdy nie brzmi 'mustn't have': deontyczne 'must not' (zakaz) zajęło tę formę wcześniej i zablokowało jej użycie epistemiczne, więc angielski w drodze suplecji biegunowej pożycza zaprzeczone 'can'. Dokładnie ta sama luka i dokładnie to samo rozwiązanie obowiązują, gdy w grę wchodzi aspekt ciągły: nie istnieje *'mustn't have been doing' w znaczeniu wykluczenia procesu — jedynym poprawnym negatywnym biegunem 'must have been doing' pozostaje 'can't/couldn't have been doing'. Innymi słowy: dodanie warstwy aspektu do frazy modalnej nie tworzy nowej gramatyki przeczenia — nakłada się jedynie na już istniejący, ustalony wzorzec suplecji."
+      },
+      {
+        "label": "Wykluczenie procesu na podstawie konkretnego kontrdowodu",
+        "text": "'Can't have been doing' zwykle pojawia się w odpowiedzi na konkretny, namacalny fakt, który wyklucza, by dana czynność mogła TRWAĆ w danym oknie czasowym — nie tylko by się zdarzyła, ale by zajmowała jakiś czas w tle innego zdarzenia. 'She can't have been sleeping — the light was on the whole night' wyklucza cały proces snu, opierając się na dowodzie rozciągniętym na ten sam okres (światło paliło się przez całą noc, więc żadna 'faza' snu nie mieści się w tym oknie). To różni się od zwykłego 'can't have slept', które jedynie wyklucza fakt zaśnięcia jako punktowe zdarzenie, bez odniesienia do trwania."
+      },
+      {
+        "label": "couldn't jako wariant polemiczny — teraz wobec cudzej relacji o procesie",
+        "text": "Podobnie jak w modals_deduction, 'couldn't have been doing' bywa nieco bardziej 'dyskusyjne' niż 'can't' — typowo pojawia się, gdy mówiący kwestionuje czyjąś wcześniejszą relację o przebiegu zdarzenia, a nie tylko stwierdza fakt z własnej obserwacji: A: 'He said he was working from home all afternoon.' B: 'He couldn't have been working — his laptop's been sitting on my desk since lunch.' Forma ciągła dodatkowo wzmacnia ton polemiki, bo neguje nie jednorazowy fakt, lecz całą CIĄGŁOŚĆ czyjejś opowieści."
+      }
     ],
     "usage": [
-      "Gdy dowody wykluczają, że dana czynność mogła być w toku",
-      "To przeczenie odpowiadające must have been — nie mówimy 'mustn't have been' w tym znaczeniu"
+      "Wykluczenie procesu trwającego w danym momencie na podstawie kontrdowodu rozciągniętego na to samo okno czasowe",
+      "Nigdy 'mustn't have been doing' w tym znaczeniu — ta sama luka w paradygmacie, co przy prostym 'must have'",
+      "couldn't have been doing jako polemiczna reakcja na czyjąś wcześniejszą relację o przebiegu zdarzenia",
+      "Typowy schemat: [fakt/dowód rozciągnięty w czasie] — [podmiot] can't/couldn't have been [czynność sprzeczna z dowodem]"
     ],
-    "tags": ["can't have been sleeping", "couldn't have been working", "can't have been driving"],
+    "tags": ["can't have been sleeping", "couldn't have been working", "polarity suppletion", "impossible process"],
     "examples": [
-      { "en": "She can't have been sleeping — the light was on all night.", "pl": "Nie mogła spać — światło paliło się całą noc." },
-      { "en": "He couldn't have been working — his computer was switched off.", "pl": "Nie mógł pracować — jego komputer był wyłączony." },
-      { "en": "They can't have been driving for long, the car is still cold.", "pl": "Nie mogli jechać długo, samochód wciąż jest zimny." },
-      { "en": "You can't have been listening — I explained it twice.", "pl": "Chyba nie słuchałeś — wytłumaczyłem to dwa razy." }
+      { "en": "She can't have been sleeping — the light was on in her room the whole night.", "pl": "Nie mogła spać — światło w jej pokoju paliło się całą noc." },
+      { "en": "He couldn't have been working from home all afternoon — his laptop never left my office.", "pl": "Nie mógł pracować z domu przez całe popołudnie — jego laptop w ogóle nie opuścił mojego biura." },
+      { "en": "They can't have been driving for long — the engine's still ice cold.", "pl": "Nie mogli jechać długo — silnik jest wciąż lodowato zimny." },
+      { "en": "You can't have been listening properly — I explained the whole plan twice, step by step.", "pl": "Chyba naprawdę nie słuchałeś — wytłumaczyłem cały plan dwa razy, krok po kroku." },
+      { "en": "It can't have been raining here — the ground's completely dry and dusty.", "pl": "Chyba tu nie padało — ziemia jest zupełnie sucha i zakurzona." },
+      { "en": "She couldn't have been waiting outside for an hour — I only stepped out five minutes ago.", "pl": "Nie mogła czekać na zewnątrz godzinę — wyszedłem dopiero pięć minut temu." }
     ]
   },
   {
     "id": "should_have_been",
     "order": 4,
-    "nameEn": "should have been + -ing — criticism of an unfulfilled ongoing action",
-    "namePl": "should have been doing — krytyka niedopełnionej trwającej czynności",
+    "nameEn": "should have been + -ing — two readings: a broken schedule and an abandoned duty",
+    "namePl": "should have been doing — dwa zupełnie różne odczyty: zawiedziony rozkład jazdy i zaniedbany obowiązek",
     "rules": [
-      { "label": "should have been + -ing", "text": "Wyraża krytykę, że ktoś nie robił czegoś, co w danym momencie powinien był robić" },
-      { "label": "shouldn't have been + -ing", "text": "Wyraża krytykę, że ktoś robił coś, czego w danym momencie nie powinien był robić" },
-      { "label": "Budowa", "text": "podmiot + should(n't) have been + czasownik-ing" }
+      {
+        "label": "Dług przeniesiony na cały okres, nie na jedno zdarzenie",
+        "text": "Temat modals_perfect wyjaśnia, że 'should' dziedziczy po 'shall' metaforę moralnego długu (st.ang. 'sceal', 'być winnym'), a 'should have done' zestawia idealny, oczekiwany bieg spraw z tym, co naprawdę się wydarzyło w zamkniętej, nieodwracalnej przeszłości. Forma ciągła rozciąga tę samą rozbieżność na cały PRZEDZIAŁ czasu, a nie na jedno zdarzenie: nie chodzi już o to, że ktoś 'powinien był coś zrobić', lecz że ktoś powinien był znajdować się w określonym STANIE albo TRAKCIE czynności przez pewien czas — i nie znajdował się. To dlatego ta forma tak dobrze nadaje się do krytyki zaniedbanej CZUJNOŚCI, ciągłego obowiązku czy odpowiedzialności rozciągniętej w czasie (pilnowanie basenu, nadzorowanie procesu, obserwowanie sytuacji), a nie pojedynczej decyzji."
+      },
+      {
+        "label": "Pierwszy odczyt: przewidywanie, które zawiodło (rejestr epistemiczny)",
+        "text": "Temat modals_deduction pokazuje, że zwykłe 'should' bywa czysto przewidujące, oparte na znanym rozkładzie czy harmonogramie ('zakładając normalny bieg wydarzeń'), a nie na moralnym obowiązku. Ten sam epistemiczny odczyt działa w formie ciągłej z 'have been': 'She should have been landing about now' nie znaczy 'miała moralny obowiązek lądować' — znaczy 'zgodnie z rozkładem, w tej właśnie chwili powinna być W TRAKCIE lądowania'. To zdanie o przewidywanym STANIE RZECZY w konkretnym momencie przeszłości, zbudowane na tej samej logice, co 'The train should be arriving any minute', tylko przesunięte całe zdarzenie do przeszłości."
+      },
+      {
+        "label": "Drugi odczyt: zaniedbany obowiązek trwający w czasie (rejestr deontyczny)",
+        "text": "Drugi, znacznie częstszy w praktyce odczyt to bezpośrednia krytyka zaniedbanej, ciągłej powinności: 'The lifeguard should have been watching the pool more closely' nie mówi nic o rozkładzie ani przewidywaniach — mówi, że przez CAŁY dany okres ktoś miał obowiązek robić coś nieprzerwanie i tego nie robił. W przeciwieństwie do zwykłego 'should have done' (jednorazowe zaniedbanie), forma ciągła sugeruje zaniedbanie ROZCIĄGNIĘTE w czasie — nie 'nie zerknąłeś raz', lecz 'przez cały ten czas nie patrzyłeś w ogóle'. To czyni krytykę silniejszą, bo obejmuje całe pasmo czasu, nie jeden moment."
+      },
+      {
+        "label": "Jak rozstrzygnąć, o który odczyt chodzi",
+        "text": "Podobnie jak przy prostym 'should' w funkcji dedukcyjnej kontra deontycznej, rozstrzyga typ czasownika i szerszy kontekst: czasowniki opisujące bezosobowe procesy, rozkłady, mechanizmy (arrive, land, finish, work — w sensie 'działać') faworyzują odczyt przewidujący, podczas gdy czasowniki opisujące świadomie podejmowaną, kontrolowaną czynność człowieka (watch, study, listen, supervise) niemal zawsze wskazują na krytykę zaniedbania. Intonacja w mowie robi resztę: neutralny, informacyjny ton sugeruje przewidywanie, a ton z naciskiem na 'should' lub 'shouldn't' sygnalizuje wyrzut."
+      }
     ],
     "usage": [
-      "Gdy krytykujemy, że ktoś zaniedbywał obowiązek trwający przez jakiś czas (np. naukę, pracę, uwagę)",
-      "Gdy podkreślamy, że dana czynność była nie na miejscu w konkretnym, trwającym momencie"
+      "Przewidywanie stanu rzeczy w konkretnym momencie przeszłości na podstawie znanego rozkładu lub harmonogramu (They should have been landing about now, but there's still no sign of the plane.)",
+      "Krytyka zaniedbanej, ciągłej odpowiedzialności rozciągniętej na cały okres, nie na jedno zdarzenie (You should have been watching the children, not scrolling your phone.)",
+      "shouldn't have been + -ing dla krytyki czynności, która w danym okresie w ogóle nie powinna była mieć miejsca (He shouldn't have been driving in that state.)",
+      "Rejestr formalny: ought to have been + -ing jako odpowiednik should have been + -ing"
     ],
-    "tags": ["should have been studying", "shouldn't have been texting", "should have been watching"],
+    "tags": ["should have been studying", "shouldn't have been texting", "broken schedule", "neglected duty"],
     "examples": [
-      { "en": "You should have been studying, not watching TV all evening.", "pl": "Powinieneś był się uczyć, a nie oglądać telewizję cały wieczór." },
-      { "en": "He shouldn't have been texting while driving.", "pl": "Nie powinien był pisać SMS-ów podczas jazdy." },
-      { "en": "The lifeguard should have been watching the pool more closely.", "pl": "Ratownik powinien był uważniej obserwować basen." },
-      { "en": "We shouldn't have been talking during the exam.", "pl": "Nie powinniśmy byli rozmawiać podczas egzaminu." }
+      { "en": "You should have been studying, not watching TV all evening — the exam is tomorrow.", "pl": "Powinieneś był się uczyć, a nie oglądać telewizję cały wieczór — jutro masz egzamin." },
+      { "en": "He shouldn't have been texting while driving; that's exactly how the accident happened.", "pl": "Nie powinien był pisać SMS-ów podczas jazdy — właśnie tak doszło do wypadku." },
+      { "en": "The lifeguard should have been watching the pool more closely instead of chatting.", "pl": "Ratownik powinien był uważniej obserwować basen zamiast gawędzić." },
+      { "en": "They should have been arriving around now, according to the schedule — I'll give them a call.", "pl": "Zgodnie z rozkładem powinni już teraz dojeżdżać — zadzwonię do nich." },
+      { "en": "We shouldn't have been talking during the exam; it's a wonder we weren't caught.", "pl": "Nie powinniśmy byli rozmawiać podczas egzaminu — cud, że nas nie przyłapano." },
+      { "en": "The company should have been monitoring the accounts throughout the entire quarter, not just at the end.", "pl": "Firma powinna była monitorować konta przez cały kwartał, a nie tylko na koniec." }
+    ]
+  },
+  {
+    "id": "would_have_been",
+    "order": 5,
+    "nameEn": "would have been + -ing — the counterfactual continuous, and why the paradigm needs it",
+    "namePl": "would have been doing — kontrfaktyczna ciągłość, czyli brakujący czwarty kąt tego samego paradygmatu",
+    "rules": [
+      {
+        "label": "Jeden mechanizm, czwarty modalny na tej samej ramie",
+        "text": "Must, might/could/may, can't i should to modalne EPISTEMICZNE — oceniają, jak PRAWDOPODOBNE jest, że coś naprawdę się wydarzyło. 'Would' działa w zupełnie innym trybie: nie ocenia prawdopodobieństwa rzeczywistego świata, lecz opisuje świat ALTERNATYWNY, hipotetyczny, który nigdy się nie wydarzył. Temat conditionals pokazuje, że w trzecim okresie warunkowym 'would have done' to konsekwencja w nierealnej przeszłości, uzależniona od warunku, który się nie spełnił. 'Would have been doing' to dokładnie ten sam mechanizm, tylko z dołożoną warstwą aspektu: opisuje nie pojedyncze zdarzenie w alternatywnej przeszłości, lecz CAŁY PROCES, który rozgrywałby się w tamtym, nigdy niezrealizowanym scenariuszu."
+      },
+      {
+        "label": "Wola przeniesiona do świata, który nie zaistniał",
+        "text": "'Would' wywodzi się od staroangielskiego 'willan' — 'chcieć' — i jest historyczną formą przeszłą 'will'. Ta sama zasada gramatycznego 'oddalenia jako dystansu od rzeczywistości', która w modals_perfect tłumaczy różnicę między may i might, tutaj sięga swojego skrajnego punktu: forma przeszła czasownika wyrażającego wolę i przewidywanie zostaje użyta do opisania czegoś, co w ogóle nie zaszło. 'If you'd taken the earlier train, you would have been sitting right next to her when it happened' nie mówi nic o prawdopodobieństwie — mówi 'w tamtej, nigdy niezrealizowanej wersji wydarzeń, w tym właśnie momencie byłbyś w trakcie siedzenia obok niej'. To nie przypuszczenie o faktach, lecz rekonstrukcja procesu w świecie, który istnieje wyłącznie w wyobraźni mówiącego."
+      },
+      {
+        "label": "Dlaczego akurat forma ciągła, a nie prosta",
+        "text": "'Would have done' opisuje pojedyncze, zamknięte zdarzenie w alternatywnej przeszłości (you would have missed the train). 'Would have been doing' opisuje zamiast tego ROZCIĄGNIĘTY w czasie stan lub proces — najczęściej po to, żeby osadzić w nim inne zdarzenie jako tło, dokładnie tak samo jak przy 'must have been doing'. Stąd typowy schemat narracyjny: 'If she hadn't changed her plans, she would have been walking through the square exactly when the storm hit' — cała uwaga pada na to, GDZIE i W JAKIM STANIE ktoś by się znajdował, a nie na sam fakt jednego zdarzenia."
+      },
+      {
+        "label": "Rejestr: literatura, narracja alternatywnych scenariuszy, żal",
+        "text": "Ta konstrukcja jest szczególnie częsta w narracji literackiej i w rozważaniach typu 'co by było, gdyby' — pozwala żywo zrekonstruować scenę, która nigdy się nie wydarzyła, jakby autor lub mówiący na chwilę 'wchodził' kamerą aspektu ciągłego w alternatywną wersję wydarzeń. W codziennej rozmowie towarzyszy zwykle wyraźnemu żalowi lub uldze ('If we'd left five minutes later, we would have been standing right there when the shelf collapsed' — ulga, że tak się NIE stało) i niemal zawsze pojawia się razem z jawnym lub domyślnym zdaniem warunkowym typu trzeciego."
+      }
+    ],
+    "usage": [
+      "Rekonstrukcja procesu lub stanu w alternatywnej, nigdy niezrealizowanej przeszłości, zwykle w parze ze zdaniem warunkowym typu trzeciego (If I hadn't got the job, I would have been travelling around Asia by now instead.)",
+      "Osadzanie hipotetycznego procesu jako tła dla innego, realnie zaszłego zdarzenia (You would have been sleeping when the alarm went off — good thing you weren't home.)",
+      "Narracja literacka i rozważania typu 'co by było, gdyby' — żywe odtworzenie sceny, która nigdy nie miała miejsca",
+      "Żal lub ulga jako typowy ładunek emocjonalny towarzyszący tej formie w mowie potocznej"
+    ],
+    "tags": ["would have been sitting", "would have been walking", "counterfactual continuous", "third conditional"],
+    "examples": [
+      { "en": "If you'd taken the earlier train, you would have been sitting right next to her when it happened.", "pl": "Gdybyś wziął wcześniejszy pociąg, siedziałbyś dokładnie obok niej, kiedy to się stało." },
+      { "en": "If we'd left five minutes later, we would have been standing right under that shelf when it collapsed.", "pl": "Gdybyśmy wyszli pięć minut później, stalibyśmy dokładnie pod tą półką, kiedy się zawaliła." },
+      { "en": "Without the delay, they would have been crossing the bridge exactly when the storm hit.", "pl": "Gdyby nie opóźnienie, przechodziliby przez most dokładnie wtedy, gdy uderzyła burza." },
+      { "en": "If I hadn't taken this job, I'd have been travelling somewhere in South America right about now.", "pl": "Gdybym nie przyjął tej pracy, właśnie teraz podróżowałbym gdzieś po Ameryce Południowej." },
+      { "en": "She would have been working late again anyway, so the cancelled meeting barely changed her evening.", "pl": "I tak pracowałaby do późna, więc odwołane spotkanie prawie nic nie zmieniło w jej wieczorze." },
+      { "en": "Had we not switched routes, we would have been driving straight into the roadblock.", "pl": "Gdybyśmy nie zmienili trasy, jechalibyśmy prosto w blokadę drogową." }
     ]
   }
 ]
