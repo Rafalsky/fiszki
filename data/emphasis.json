@@ -2,95 +2,173 @@
   {
     "id": "emphatic_do",
     "order": 1,
-    "nameEn": "Emphatic do / does / did",
-    "namePl": "Emfatyczne do / does / did",
+    "nameEn": "Emphatic do / does / did: the last survivor of periphrastic do-support",
+    "namePl": "Emfatyczne do / does / did: ostatni relikt peryfrastycznego do-support",
     "rules": [
-      { "label": "Zdania twierdzące", "text": "W zdaniach twierdzących dodajemy do/does/did przed czasownikiem w formie podstawowej, żeby podkreślić prawdziwość czegoś lub zaprzeczyć wątpliwościom" },
-      { "label": "Czas teraźniejszy", "text": "do/does + czasownik bez końcówki -s (I do like it. / She does like it.)" },
-      { "label": "Czas przeszły", "text": "did + czasownik w formie podstawowej (He did finish the project.)" },
-      { "label": "Akcent", "text": "W mowie do/does/did jest silnie akcentowane, żeby podkreślić emfazę" }
+      {
+        "label": "Skąd się wzięło 'do' jako pusty nośnik czasu (do-support)",
+        "text": "Staroangielski nie znał peryfrastycznego 'do' w przeczeniach ani pytaniach — czasownik główny sam przesuwał się gramatycznie przed 'ne'/podmiot, dokładnie tak, jak dziś robi to francuski ('Je ne sais pas' / 'Sais-tu...?'). W okresie średnioangielskim i wczesnonowożytnym angielskim (XV–XVII w.) czasowniki główne stopniowo TRACIŁY tę zdolność przesuwania się ponad przeczeniem i podmiotem. Znacznik czasu i osoby (-s, -ed) musiał się jednak wciąż gdzieś 'zaczepić' blisko podmiotu, więc język 'wynalazł' semantycznie puste 'do' jako zastępczy nośnik tej funkcji: skoro czasownik główny nie mógł już wędrować do pozycji gramatycznej niosącej czas, wysłano tam pozbawione znaczenia 'do', a czasownik główny został na miejscu, w formie bezokolicznikowej. Widać tę zmianę w toku u Szekspira: obok siebie współistnieją jeszcze zdania typu 'I know not' (stara składnia) i 'I do not know' (nowa) — żywy zapis rewolucji językowej dziejącej się na oczach ówczesnych czytelników."
+      },
+      {
+        "label": "Dlaczego 'do' przetrwało w przeczeniach i pytaniach, ale zniknęło z twierdzeń",
+        "text": "Do XVIII wieku system się ustabilizował: przeczenia i pytania z czasownikami głównymi (innymi niż 'be' i czasowniki modalne) na stałe wymagały 'do' jako obowiązkowego nośnika czasu, natomiast zdania twierdzące wróciły do prostszego wzorca — czasownik główny sam niesie końcówkę czasu (I go / I went), bez żadnego pomocnika. Ta asymetria nie jest przypadkowa: w przeczeniu i pytaniu między podmiotem a czasownikiem 'wciska się' dodatkowy element ('not' albo inwersja z podmiotem), który blokuje bezpośrednie, płynne połączenie czasownika z pozycją niosącą czas — dlatego tam 'do' pozostało strukturalnie niezbędne. W zdaniu twierdzącym nic nie stoi na przeszkodzie, więc znacznik czasu może 'spaść' wprost na czasownik główny, bez żadnego pośrednika."
+      },
+      {
+        "label": "Emfatyczne 'do' jako ożywiony relikt: skoro nie jest już potrzebne, jego obecność zaczyna znaczyć",
+        "text": "Skoro w zdaniu twierdzącym 'do' jest gramatycznie całkowicie zbędne ('I go' w zupełności wystarcza), to jego świadome DODANIE ('I DO go') musi nieść dodatkową informację — inaczej mówiący nie zadałby sobie trudu, by je tam wstawić. Tą dodatkową informacją jest właśnie emfaza: potwierdzenie prawdziwości, sprostowanie czyjejś wątpliwości, kontrast wobec cudzego przeczenia lub niedowierzania. Warto zbudować sobie taki obraz: na co dzień znacznik czasu jest 'niewidoczną', nieakcentowaną końcówką zrośniętą z czasownikiem (-s, -ed) — nie da się jej mocno zaakcentować w mowie, bo nie jest osobną, wystarczająco 'nośną' sylabą. Wstawiając 'do', język daje temu niewidzialnemu znacznikowi osobne, w pełni akcentowalne ciało fonetyczne — dopiero wtedy można je wypowiedzieć z pełną siłą przekonania, tak jakby to właśnie 'do' niosło cały ciężar prawdziwości zdania."
+      },
+      {
+        "label": "Zakres formy: fleksja idzie na 'do', czasownik główny zostaje w formie podstawowej",
+        "text": "Emfatyczne 'do' zachowuje się formalnie identycznie jak zwykłe, strukturalne 'do' z przeczeń i pytań: przejmuje na siebie całą fleksję czasownika, więc czasownik główny wraca do formy podstawowej. W teraźniejszości: do/does + bezokolicznik bez końcówki (I do like it. / She does know.). W przeszłości: did + bezokolicznik, niezależnie od osoby (He did call you. / They did try.) — samo 'did' już niesie informację o czasie przeszłym, więc czasownik główny nie przyjmuje osobno końcówki -ed."
+      },
+      {
+        "label": "Ograniczenia: gdzie emfatyczne 'do' nie działa i dlaczego",
+        "text": "Nie da się go użyć z 'be' jako głównym orzeczeniem (*You do be right jest niegramatyczne) — 'be' od zawsze samo przesuwało się do pozycji niosącej czas, tak jak robił to każdy czasownik w staroangielskim, więc nigdy nie potrzebowało wsparcia 'do'. Z tego samego powodu nie działa z czasownikami modalnymi (can, must, should...) — one same zajmują tę pozycję i same niosą pełny akcent zdaniowy, więc dodanie 'do' byłoby podwójnym, zbędnym obsadzeniem tej samej funkcji (*I do can swim jest błędne). Osobny, choć spokrewniony przypadek to nalegające 'do' w trybie rozkazującym (Do sit down. Do be careful.) — tu 'do' nie potwierdza prawdziwości (rozkaz nie jest ani prawdziwy, ani fałszywy), lecz wzmacnia siłę illokucyjną prośby: brzmi jak stanowcze, lecz uprzejme naleganie, typowe dla formalnych zaproszeń i próśb."
+      }
     ],
     "usage": [
-      "Żeby podkreślić, że coś naprawdę się dzieje/działo (I do agree with you.)",
-      "Żeby zaprzeczyć czyimś wątpliwościom lub skorygować kogoś (I did lock the door!)",
-      "W trybie rozkazującym dla emfazy i uprzejmości (Do sit down. / Do be careful.)"
+      "Aby potwierdzić prawdziwość czegoś wbrew wątpliwościom lub milczącemu założeniu rozmówcy (I do agree with you, even though I didn't say so earlier.)",
+      "Aby sprostować czyjeś przeczenie lub podważenie faktu (I DID send the email — check your spam folder.)",
+      "W trybie rozkazującym, by wzmocnić naleganie lub uprzejme zaproszenie (Do help yourself to more cake.)",
+      "Nigdy z 'be' jako czasownikiem głównym ani z czasownikami modalnymi — obie kategorie same zajmują pozycję niosącą czas i nie potrzebują pomocniczego 'do'.",
+      "W piśmie emfazę sygnalizuje się kursywą lub wielkimi literami na 'do/does/did', w mowie — silnym, wyraźnym akcentem zdaniowym."
     ],
-    "tags": ["I do agree", "She does know", "He did call", "Do come in"],
+    "tags": ["I DO agree", "she DOES know", "he DID call", "Do sit down", "do-support history"],
     "examples": [
-      { "en": "I do agree with your plan.", "pl": "Naprawdę zgadzam się z twoim planem." },
-      { "en": "She does know the answer, she's just shy.", "pl": "Ona naprawdę zna odpowiedź, po prostu jest nieśmiała." },
-      { "en": "He did call you — check your missed calls.", "pl": "On naprawdę do ciebie dzwonił — sprawdź nieodebrane." },
-      { "en": "Do sit down and make yourself comfortable.", "pl": "Proszę, usiądź i rozgość się." }
+      { "en": "I do apologise for the delay — it really wasn't intentional.", "pl": "Naprawdę przepraszam za opóźnienie — to naprawdę nie było zamierzone." },
+      { "en": "She does understand the risk; she just refuses to talk about it.", "pl": "Ona naprawdę rozumie to ryzyko; po prostu nie chce o tym mówić." },
+      { "en": "'You never listen to me.' 'I DO listen — I just don't always agree.'", "pl": "'Nigdy mnie nie słuchasz.' 'Naprawdę słucham — po prostu nie zawsze się zgadzam.'" },
+      { "en": "He did warn us, but nobody took him seriously at the time.", "pl": "On naprawdę nas ostrzegał, ale wtedy nikt nie potraktował go poważnie." },
+      { "en": "Do come in and take a seat — you're not interrupting anything.", "pl": "Proszę, wejdź i usiądź — niczemu nie przeszkadzasz." }
     ]
   },
   {
     "id": "emphatic_reflexive",
     "order": 2,
-    "nameEn": "Emphatic reflexive pronouns",
-    "namePl": "Zaimki zwrotne dla emfazy",
+    "nameEn": "Emphatic (intensive) reflexive pronouns: spotlighting identity",
+    "namePl": "Zaimki zwrotne w funkcji emfatycznej (intensywnej): reflektor na tożsamość",
     "rules": [
-      { "label": "Pozycja", "text": "Zaimek zwrotny (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) stawiamy zaraz po podmiocie/dopełnieniu albo na końcu zdania" },
-      { "label": "Funkcja", "text": "Podkreśla, że dana osoba zrobiła coś sama, osobiście, bez niczyjej pomocy — to nie jest zaimek zwrotny w znaczeniu odbicia czynności na sobie" },
-      { "label": "by + zaimek", "text": "'by' + zaimek zwrotny = 'sam, bez niczyjej pomocy' (She did it all by herself.)" }
+      {
+        "label": "Rodowód: 'self' jako dawny przymiotnik/rzeczownik 'własna osoba'",
+        "text": "Staroangielskie 'self' (spokrewnione z niemieckim 'selbst') nie było wcale zaimkiem, lecz samodzielnym przymiotnikiem/rzeczownikiem znaczącym 'sam, ten sam, [czyjaś] własna osoba' i mogło swobodnie towarzyszyć zaimkom osobowym jako dodatkowe, luźne podkreślenie: 'he self cwæð' znaczyło dosłownie 'on we własnej osobie powiedział'. W średnioangielskim ta luźna kombinacja 'zaimek + self' zrosła się w jedno słowo, dając dzisiejsze formy złożone (myself, himself, themselves) — dokładnie ten sam proces gramatykalizacji, przez który liczebnik 'jeden' stał się przedimkiem 'a', a zaimek wskazujący — przedimkiem 'the'."
+      },
+      {
+        "label": "Dlaczego 'myself', ale 'himself' — ślad dwóch różnych przypadków gramatycznych",
+        "text": "Pozornie nielogiczna niespójność paradygmatu (my-self, your-self, our-selves, your-selves — forma dzierżawcza, ale him-self, her-self, it-self, them-selves — forma dopełnieniowa) ma prostą przyczynę historyczną. 'Self' pierwotnie funkcjonowało niemal jak rzeczownik, więc łączyło się z formą dzierżawczą tam, gdzie składniowo brzmiało to naturalnie jak 'moja własna osoba' (my own self), a z formą dopełnieniową (biernikowo-celownikową) tam, gdzie 'self' pełniło raczej funkcję apozycji do zaimka w bierniku — 'him, [jego] własna osoba' zrosło się w himself. Analogiczne wyrównanie objęło z czasem formę 'themselves' (z dawnego 'hem self'), choć dialektalne, niestandardowe formy 'hisself' i 'theirselves' — regularyzujące cały paradygmat do wzorca dzierżawczego — wciąż pokazują, że presja analogii w żywym języku nigdy nie ustaje; po prostu akurat tutaj nie została przyjęta do normy pisanej."
+      },
+      {
+        "label": "Dwie zupełnie różne funkcje tej samej formy: zwrotność a emfaza",
+        "text": "Ta sama forma (myself, himself...) pełni dwie odrębne role składniowe, które trzeba wyraźnie rozróżniać. Pierwsza to ZAIMEK ZWROTNY — obowiązkowy element zdania, gdy dopełnienie czasownika odnosi się do tej samej osoby co podmiot (He hurt himself — bez 'himself' zdanie zmienia sens, bo 'he hurt' domaga się jakiegoś dopełnienia i bez niego jest niepełne albo dwuznaczne). Druga to ZAIMEK EMFATYCZNY/INTENSYWNY — całkowicie opcjonalny dodatek, który niczego nie zmienia w strukturze zdania i który można usunąć bez utraty gramatyczności, a jedynie podkreśla tożsamość rzeczownika, przy którym stoi (The manager herself approved it = The manager approved it, tylko z dodatkowym naciskiem: 'to była WŁAŚNIE ona, nie ktoś inny')."
+      },
+      {
+        "label": "Model 'reflektora': emfatyczny zaimek nie dodaje uczestnika zdarzenia, tylko oświetla już istniejącego",
+        "text": "Najlepszy sposób, by nigdy nie pomylić obu funkcji: zaimek zwrotny jest pełnoprawnym ARGUMENTEM czasownika (odpowiada na pytanie 'kogo? co?'), a zaimek emfatyczny to czysty dodatek (adjunct) — działa jak reflektor skierowany na już obecną postać na scenie i mówiący 'patrz właśnie na TĘ osobę, nie na jej zastępcę, asystenta czy przedstawiciela'. Stąd typowe konteksty emfatycznego 'self': kontrast z kimś, kto mógłby był wykonać czynność w czyimś imieniu (The director himself signed the contract = nie jakiś sekretarz czy prawnik w jego imieniu, lecz on osobiście, we własnej osobie)."
+      },
+      {
+        "label": "Dwie pozycje, dwa różne akcenty znaczeniowe: przy rzeczowniku a na końcu zdania",
+        "text": "Emfatyczny zaimek zwrotny może stać zaraz po rzeczowniku, który podkreśla (pozycja bliska), albo być przesunięty na sam koniec zdania (pozycja odległa, 'pływająca') — a wybór pozycji subtelnie zmienia niuans znaczeniowy. Blisko rzeczownika podkreśla TOŻSAMOŚĆ ('to WŁAŚNIE ta osoba, nie ktoś inny' — The president himself called, nie jego sekretarka). Na końcu zdania częściej podkreśla SPOSÓB wykonania czynności, zwykle 'bez niczyjej pomocy' (I painted the fence myself = zrobiłem to samodzielnie, choć mógłbym był zlecić to komuś). Osobny idiom 'by + zaimek zwrotny' (by himself, by herself) wywodzi się wprost ze staroangielskiej konstrukcji celownikowej 'be him selfum' (dosłownie 'przy nim samym') i oznacza 'sam, w samotności, bez towarzystwa' — niekoniecznie 'bez pomocy'."
+      }
     ],
     "usage": [
-      "Bezpośrednio po rzeczowniku/zaimku, który chcemy podkreślić (The president himself called.)",
-      "Na końcu zdania, żeby podkreślić samodzielność wykonania (I fixed it myself.)",
-      "W konstrukcji 'by + zaimek zwrotny' dla podkreślenia braku pomocy (He built the house by himself.)"
+      "Zaraz po rzeczowniku/zaimku, który chcemy podkreślić jako 'właśnie tę osobę, nie zastępcę' (The CEO herself signed off on the deal.)",
+      "Na końcu zdania, by podkreślić samodzielność wykonania czynności, bez niczyjej pomocy (I fixed the leak myself.)",
+      "W idiomie 'by + zaimek zwrotny' na oznaczenie samotności lub braku towarzystwa (He moved to the coast and now lives entirely by himself.)",
+      "Nigdy jako podmiot zdania — emfatyczny 'self' zawsze towarzyszy już istniejącemu rzeczownikowi/zaimkowi, nigdy go nie zastępuje.",
+      "Formy 'hisself'/'theirselves' są nacechowane dialektalnie i niestandardowo — w standardowej angielszczyźnie obowiązują wyłącznie 'himself'/'themselves'."
     ],
-    "tags": ["I did it myself", "by himself", "the manager herself", "we built it ourselves"],
+    "tags": ["the manager herself", "by himself", "I did it myself", "self < Old English self", "reflexive vs emphatic"],
     "examples": [
-      { "en": "I fixed the sink myself.", "pl": "Sam naprawiłem zlew." },
-      { "en": "The manager herself approved the request.", "pl": "Sama kierowniczka zatwierdziła wniosek." },
-      { "en": "We built the shed ourselves, without any help.", "pl": "Sami zbudowaliśmy szopę, bez niczyjej pomocy." },
-      { "en": "He lives by himself in the countryside.", "pl": "On mieszka sam na wsi." }
+      { "en": "The professor himself couldn't answer the question, let alone his students.", "pl": "Sam profesor nie potrafił odpowiedzieć na to pytanie, o studentach nie wspominając." },
+      { "en": "I'd rather explain it to you myself than have someone else get it wrong.", "pl": "Wolę wytłumaczyć ci to sam, niż żeby ktoś inny to spartaczył." },
+      { "en": "After the divorce, she chose to live entirely by herself for a few years.", "pl": "Po rozwodzie postanowiła przez kilka lat mieszkać zupełnie sama." },
+      { "en": "Is that the author herself signing books, or just a stand-in?", "pl": "Czy to sama autorka podpisuje książki, czy tylko jej zastępczyni?" },
+      { "en": "The children built the treehouse themselves, without any help from their parents.", "pl": "Dzieci same zbudowały domek na drzewie, bez żadnej pomocy rodziców." }
     ]
   },
   {
     "id": "intensifiers",
     "order": 3,
-    "nameEn": "Intensifiers: so, such, really, absolutely",
-    "namePl": "Wzmacniacze: so, such, really, absolutely",
+    "nameEn": "Degree intensifiers: so, such, really, absolutely and the logic of scales",
+    "namePl": "Wzmacniacze stopnia: so, such, really, absolutely i logika skal",
     "rules": [
-      { "label": "so", "text": "so + przymiotnik/przysłówek, bez rzeczownika (This is so difficult.)" },
-      { "label": "such", "text": "such (+ a/an) + przymiotnik + rzeczownik (It was such a great idea.)" },
-      { "label": "really", "text": "really wzmacnia czasowniki, przymiotniki i przysłówki (I really enjoyed it.)" },
-      { "label": "absolutely / totally", "text": "absolutely, totally, completely wzmacniają przymiotniki 'ekstremalne', nie stopniowalne przez 'very' (absolutely amazing, totally exhausted)" }
+      {
+        "label": "'So' z 'swā': czysty przysłówek stopnia, dziedziczący naturę porównawczą",
+        "text": "'So' wywodzi się ze staroangielskiego 'swā' — przysłówka porównawczo-sposobowego znaczącego 'tak, w ten sposób, do takiego stopnia' (ten sam rdzeń co niemieckie 'so'). Ponieważ od zawsze modyfikowało PRZYMIOTNIKI i PRZYSŁÓWKI, określając stopień jakiejś cechy, nigdy nie rozwinęło zdolności łączenia się bezpośrednio z rzeczownikiem — gramatycznie zachowuje się jak 'very': stoi tylko przed przymiotnikiem/przysłówkiem, nigdy przed samym rzeczownikiem (This is so difficult, ale nigdy *so a problem). Ten sam korzeń widać w konstrukcji wynikowej 'so...that' (This exam was so difficult THAT nobody finished) — 'tak trudny, do takiego stopnia, że...' to dosłowna, wciąż żywa realizacja pierwotnego, porównawczego znaczenia 'swā'."
+      },
+      {
+        "label": "'Such' z 'swā + līc' ('so-podobny'): dlaczego wymaga rzeczownika",
+        "text": "'Such' pochodzi ze staroangielskiego 'swylc' — złożenia dokładnie tych samych elementów co 'so' plus przyrostek '-līc' ('podobny, -owaty', ten sam element, co w 'like'). Dosłowne znaczenie brzmiało więc 'taki, tego rodzaju, podobny do tego': 'such' od początku opisywało nie stopień cechy, lecz PRZYNALEŻNOŚĆ DO RODZAJU. Dlatego składniowo zachowuje się jak determinator modyfikujący całą frazę rzeczownikową, a nie sam przymiotnik, i musi poprzedzać przedimek nieokreślony, a nie iść po nim: 'such a difficult exam', nigdy *a such difficult exam. To wyjaśnia całą różnicę między 'so' i 'such' jednym zdaniem: 'so' pyta 'do jakiego STOPNIA?', 'such' pyta 'jakiego RODZAJU?' — i tylko to drugie pytanie ma sens zadane o cały rzeczownik, nie o sam przymiotnik przy nim."
+      },
+      {
+        "label": "'Really': od przysłówka prawdomówności do zwykłego wzmacniacza — wyblaknięcie znaczenia",
+        "text": "'Really' to dosłownie 'real' + '-ly', przysłówek sposobu znaczący pierwotnie 'naprawdę, zgodnie z rzeczywistością, faktycznie' — znaczenie epistemiczne, mówiące o prawdziwości stwierdzenia, nie o jego sile. Przez częste, hiperboliczne użycie w mowie potocznej ('I really liked it' powtarzane tak często, że przestało być zauważalnym zapewnieniem o prawdziwości, a stało się zwykłym wzmocnieniem) 'really' przeszło wyblaknięcie znaczenia (semantic bleaching) i dziś funkcjonuje podwójnie: może wciąż znaczyć 'naprawdę, faktycznie' (z akcentem na prawdziwość) albo po prostu 'bardzo' (jako zwykły booster stopnia, synonim 'very') — a to, które znaczenie dominuje, często rozstrzyga wyłącznie intonacja i kontekst, nie sama forma słowa."
+      },
+      {
+        "label": "Model skali z punktem końcowym: dlaczego 'absolutely big' brzmi źle",
+        "text": "Kluczowy do zrozumienia różnicy między 'very/really' a 'absolutely/totally/completely' jest model SKALI. Zwykłe przymiotniki gradacyjne (big, tired, interesting, cold) leżą na otwartej skali bez naturalnego górnego ograniczenia — zawsze można być 'bardziej zmęczonym', więc przyjmują 'boostery' (very, really, quite), które po prostu przesuwają punkt na tej skali dalej. Przymiotniki 'ekstremalne' (huge, exhausted, fascinating, freezing, furious) z definicji oznaczają już PUNKT GRANICZNY tej samej skali (huge = 'tak duży, że dalej już nie ma dokąd iść' na skali wielkości) — nie da się być 'bardziej niż całkowicie wyczerpanym'. Dlatego wymagają 'maksymalizatorów' (absolutely, totally, completely, utterly), które nie przesuwają punktu na skali, tylko POTWIERDZAJĄ, że osiągnięto jej sam kraniec. Stąd *absolutely big brzmi błędnie (big nie ma wbudowanego 'krańca' do w pełni osiągnięcia), a absolutely huge brzmi naturalnie (huge samo w sobie JEST tym krańcem, absolutely tylko to potwierdza)."
+      },
+      {
+        "label": "Konsekwencja: 'very' też nie pasuje do przymiotników skrajnych — ta sama logika w drugą stronę",
+        "text": "Z tego samego powodu 'very' rzadko i niepewnie łączy się z przymiotnikami ekstremalnymi ('?very exhausted' brzmi nienaturalnie w porównaniu z 'absolutely exhausted') — 'very' z definicji przesuwa punkt na otwartej skali, a przymiotnik ekstremalny nie ma już dokąd się przesuwać, więc 'very' pyta o coś, na co przymiotnik nie może odpowiedzieć. W mowie potocznej granice te bywają łamane dla efektu retorycznego (a very unique experience), ale świadomość tej reguły pozwala od razu rozpoznać, dlaczego pewna kombinacja 'brzmi nie tak', zanim jeszcze ktoś zdąży ją poprawić."
+      }
     ],
     "usage": [
-      "so przed samym przymiotnikiem/przysłówkiem, często z 'that' na skutek (so tired that...)",
-      "such przed (a/an +) przymiotnik + rzeczownik",
-      "absolutely/totally z przymiotnikami o znaczeniu skrajnym (amazing, exhausted, terrible), nie ze zwykłymi (nie 'absolutely big')"
+      "'so' + przymiotnik/przysłówek (nigdy sam rzeczownik), często z 'that' wprowadzającym skutek (so exhausting that we all fell asleep)",
+      "'such' (+ a/an) + [przymiotnik] + rzeczownik, bo modyfikuje całą frazę rzeczownikową jako 'rodzaj' (such a disaster, such useful advice)",
+      "'really' jako epistemiczne potwierdzenie prawdziwości (I really did try) albo jako zwykły booster stopnia (a really good film) — rozstrzyga to intonacja/kontekst",
+      "'absolutely/totally/completely' wyłącznie z przymiotnikami 'ekstremalnymi', oznaczającymi już kraniec skali (absolutely furious, totally exhausted), nie ze zwykłymi gradacyjnymi (nie 'absolutely big')",
+      "'very' pasuje do zwykłych przymiotników gradacyjnych, ale brzmi nienaturalnie z przymiotnikami skrajnymi, którym brakuje 'dalszego' miejsca na skali"
     ],
-    "tags": ["so tired", "such a mess", "really good", "absolutely fantastic"],
+    "tags": ["so difficult that", "such a mess", "really vs very", "absolutely exhausted", "scalar vs extreme adjectives"],
     "examples": [
-      { "en": "This exam was so difficult that nobody finished on time.", "pl": "Ten egzamin był tak trudny, że nikt nie skończył na czas." },
-      { "en": "It was such a great idea.", "pl": "To był naprawdę świetny pomysł." },
-      { "en": "I really enjoyed the concert.", "pl": "Naprawdę spodobał mi się koncert." },
-      { "en": "We were absolutely exhausted after the hike.", "pl": "Byliśmy zupełnie wykończeni po wędrówce." }
+      { "en": "The lecture was so tedious that half the room was checking their phones.", "pl": "Wykład był tak nudny, że połowa sali sprawdzała telefony." },
+      { "en": "It was such appalling weather that they cancelled the match.", "pl": "Była tak fatalna pogoda, że odwołali mecz." },
+      { "en": "I really did mean to call you back — I just completely forgot.", "pl": "Naprawdę zamierzałam do ciebie oddzwonić — po prostu zupełnie zapomniałam." },
+      { "en": "We were absolutely furious when the flight got cancelled with no warning.", "pl": "Byliśmy kompletnie wściekli, kiedy lot odwołano bez żadnego ostrzeżenia." },
+      { "en": "The soup wasn't just hot, it was absolutely scalding.", "pl": "Ta zupa nie była po prostu gorąca, była wręcz wrząca." }
     ]
   },
   {
     "id": "emphatic_phrases",
     "order": 4,
-    "nameEn": "Emphatic phrases: at all, on earth, ever",
-    "namePl": "Wyrażenia emfatyczne: at all, on earth, ever",
+    "nameEn": "Emphatic phrases at all / on earth / ever: negative polarity and the rhetoric of totality",
+    "namePl": "Wyrażenia emfatyczne at all / on earth / ever: NPI i retoryka całkowitości",
     "rules": [
-      { "label": "at all", "text": "Wzmacnia przeczenie, zwykle na końcu zdania (I don't like it at all.)" },
-      { "label": "on earth", "text": "Wzmacnia pytania wh-, wyrażając zdziwienie lub irytację; stawiamy zaraz po słowie pytającym (What on earth are you doing?)" },
-      { "label": "ever", "text": "W emocjonalnych pytaniach retorycznych po why/how (Why ever would you do that?) oraz z 'nobody/nothing ... ever' dla mocnego zaprzeczenia" }
+      {
+        "label": "'At all': od 'we wszystkim, całkowicie' do klasycznego NPI",
+        "text": "'At all' historycznie znaczyło 'we wszelkim względzie, całkowicie' — ślad tego dosłownego znaczenia widać wciąż w archaicznej odpowiedzi na podziękowanie 'not at all' ('to żaden kłopot, w żadnym względzie'). Z czasem fraza wyspecjalizowała się w tzw. NEGATIVE POLARITY ITEM (NPI) — wyrażenie, które gramatycznie może przetrwać wyłącznie w kontekstach 'niewerydycznych': przeczeniu, pytaniu, warunku, porównaniu (if you like it at all, more than I expected at all) — ale nigdy w zwykłym twierdzącym zdaniu oznajmującym (*I like it at all jest niegramatyczne). Dobry model mentalny: NPI to słowa, które potrzebują 'przestrzeni logicznej wykrojonej przez wątpliwość albo zaprzeczenie', by w ogóle mogły się pojawić — w zdaniu, które po prostu STWIERDZA fakt bez cienia zaprzeczenia czy pytania, nie mają się o co 'zaczepić'."
+      },
+      {
+        "label": "'On earth' i krewni ('the hell', 'in the world'): retoryka wyczerpanej przestrzeni odpowiedzi",
+        "text": "Fraza 'on earth' po zaimku pytającym (what/why/how/who on earth) wywodzi się z hiperbolicznego, niemal kosmologicznego rejestru — 'ze wszystkiego, co istnieje na tej ziemi, które z tego jest odpowiedzią?'. Zwykłe pytanie ('What are you doing?') zakłada ograniczony, oczekiwany zestaw możliwych odpowiedzi. Dodanie 'on earth' sygnalizuje, że faktyczna odpowiedź WYKRACZA poza ten oczekiwany zestaw — mówiący musi poszerzyć przestrzeń poszukiwań aż do 'wszystkiego, co istnieje na świecie', bo żadna ze zwykłych, spodziewanych opcji nie pasuje. Stąd typowe zabarwienie zdziwienia, irytacji lub niedowierzania: pytanie brzmi jak przyznanie się, że mówiący jest kompletnie zaskoczony i nie ma bladego pojęcia, jaka odpowiedź mogłaby wystarczyć. Potoczne warianty ('the hell', 'in the world', 'on God's green earth') to dalsze, coraz mocniejsze stopnie tej samej hiperboli retorycznej."
+      },
+      {
+        "label": "'Ever' z 'æfre': totalność w czasie, nie w przestrzeni czy stopniu",
+        "text": "'Ever' pochodzi ze staroangielskiego 'æfre' ('zawsze, w dowolnym momencie') i, podobnie jak 'at all', funkcjonuje jako NPI wymagające licencji przeczenia, pytania lub warunku. Kluczowa różnica wobec 'at all' i 'on earth' leży w wymiarze totalności, jaki wyraża: 'at all' obejmuje cały zakres STOPNIA/INTENSYWNOŚCI ('w żadnym stopniu'), 'on earth' obejmuje cały zbiór MOŻLIWYCH BYTÓW/ODPOWIEDZI ('spośród wszystkiego na świecie'), a 'ever' obejmuje całą OŚ CZASU ('w żadnym momencie, na przestrzeni całego czasu') — stąd 'nobody ever believed him' znaczy 'nikt, w żadnym momencie, przez cały czas trwania sprawy'."
+      },
+      {
+        "label": "Emfatyczne 'ever' w pytaniach wh-: ten sam mechanizm poszerzania przestrzeni, ale w czasie",
+        "text": "W konstrukcjach 'why ever', 'how ever', 'what ever' (dziś zwykle pisanych rozdzielnie, dla odróżnienia od spójników 'whatever/however') 'ever' pełni funkcję analogiczną do 'on earth', ale zakotwiczoną w swoim pierwotnym, czasowym znaczeniu: 'why EVER would you do that?' dosłownie pyta 'dlaczego, w KTÓRYMKOLWIEK z możliwych momentów lub okoliczności mogłabyś to zrobić?' — przeszukuje całą przestrzeń możliwych powodów tak, jak 'on earth' przeszukuje całą przestrzeń możliwych bytów, tylko poprzez metaforę czasu, a nie miejsca."
+      },
+      {
+        "label": "Wspólny mianownik trzech fraz: ta sama strategia retoryczna, trzy różne wymiary totalności",
+        "text": "Wszystkie trzy wyrażenia to w istocie ten sam zabieg retoryczny zastosowany do trzech różnych osi: weź zwykłe słowo oznaczające 'całość' ('all', 'earth' jako 'cały świat', 'ever' jako 'cały czas') i użyj go, by powiedzieć 'w całej odnośnej przestrzeni — stopnia, świata albo czasu — nic nie pasuje, nic innego nie jest prawdą'. Właśnie dlatego brzmią o wiele mocniej niż zwykłe przeczenie czy zwykłe pytanie wh-: nie negują ani nie pytają o jeden konkretny fakt, lecz zamiatają całą dostępną przestrzeń możliwości i twierdzą, że jest ona pusta."
+      }
     ],
     "usage": [
-      "at all po przeczeniu, żeby je wzmocnić",
-      "on earth / the hell zaraz po słowie pytającym (who/what/where/why/how), w mowie potocznej",
-      "ever w emocjonalnych, zaskoczonych pytaniach oraz w mocnych przeczeniach (nobody ever)"
+      "'at all' po przeczeniu, by wzmocnić brak czegokolwiek w jakimkolwiek stopniu (I wasn't nervous at all.)",
+      "'at all' w pytaniach i zdaniach warunkowych — nigdy w twierdzeniu bez przeczenia/pytania/warunku (Do you mind at all? / If you're free at all...)",
+      "'on earth' (lub potoczne 'the hell', 'in the world') zaraz po słowie pytającym, gdy odpowiedź wykracza poza oczekiwania mówiącego (Where on earth did you find that?)",
+      "'ever' w emocjonalnych pytaniach wh- dla podkreślenia zdziwienia/irytacji (How ever did you manage that?) oraz z 'nobody/nothing/no one... ever' dla mocnego zaprzeczenia w czasie (Nothing like this had ever happened before.)",
+      "Nie mylić emfatycznego 'ever' w pytaniach z porównawczym 'ever' w zdaniach typu 'better than ever' — tam 'ever' odnosi się do konkretnego punktu odniesienia w przeszłości, nie do całej osi czasu"
     ],
-    "tags": ["not at all", "what on earth", "why ever", "how on earth"],
+    "tags": ["not at all", "what on earth", "why ever", "nothing... ever", "negative polarity item"],
     "examples": [
-      { "en": "I don't like modern art at all.", "pl": "W ogóle nie lubię sztuki nowoczesnej." },
-      { "en": "What on earth are you talking about?", "pl": "O czym ty w ogóle mówisz?" },
-      { "en": "Why ever would you say something like that?", "pl": "Dlaczego, u licha, powiedziałbyś coś takiego?" },
-      { "en": "Nobody ever believed his story.", "pl": "Nikt nigdy nie uwierzył w jego historię." }
+      { "en": "I wasn't offended by the joke at all — if anything, I found it funny.", "pl": "Wcale nie obraziłam się na ten żart — wręcz przeciwnie, uznałam go za zabawny." },
+      { "en": "Do you even like sushi at all, or are you just being polite?", "pl": "Czy w ogóle lubisz sushi, czy po prostu jesteś uprzejmy?" },
+      { "en": "Where on earth have you been? We've been calling you for hours.", "pl": "Gdzie ty się, u licha, podziewałeś? Dzwonimy do ciebie od godzin." },
+      { "en": "Why ever would she quit a job she'd worked so hard to get?", "pl": "Dlaczego, u licha, miałaby rzucić pracę, o którą tak ciężko walczyła?" },
+      { "en": "Nothing quite this chaotic had ever happened at one of our family dinners.", "pl": "Nic aż tak chaotycznego nigdy wcześniej nie wydarzyło się na naszych rodzinnych kolacjach." }
     ]
   }
 ]
