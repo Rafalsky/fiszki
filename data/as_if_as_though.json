@@ -1,86 +1,239 @@
 [
   {
-    "id": "unreal_present",
+    "id": "roots_and_mechanism",
     "order": 1,
+    "nameEn": "The hidden logic — how 'as if' and 'as though' compress a whole conditional clause",
+    "namePl": "Ukryta logika: jak 'as if' i 'as though' kompresują w sobie całe zdanie warunkowe",
+    "rules": [
+      {
+        "label": "'As' — staroangielskie 'eall swā', czyli 'zupełnie tak'",
+        "text": "'As' to jedno z najstarszych i najbardziej wyeksploatowanych słówek angielskiego — pochodzi od staroangielskiego 'eall swā' ('all so', dosłownie 'zupełnie tak'), które w średnioangielskim skróciło się najpierw do 'als', a potem do dzisiejszego 'as'. Od zawsze pełniło funkcję spójnika PORÓWNANIA STOPNIA I SPOSOBU — sygnalizuje, że jedna rzecz dzieje się w taki sam sposób, w takim samym stopniu, jak druga (tall as a tree, work as hard as you can). To właśnie ta pierwotna funkcja porównawcza jest fundamentem konstrukcji 'as if' i 'as though': obie zaczynają się od zapowiedzi porównania — 'w taki sposób, że...' — a dopiero drugie słowo (if / though) determinuje, DO CZEGO to porównanie się odnosi."
+      },
+      {
+        "label": "'If' i 'though' wnoszą dwa różne, ale historycznie pokrewne znaczenia",
+        "text": "'If' wywodzi się od staroangielskiego 'gif', klasycznego spójnika warunkowego, obecnego w germańskich językach od zawsze jako marker hipotezy ('jeśli X, to Y'). 'Though' wywodzi się od staroangielskiego 'þēah' — starożytnej partykuły ustępstwa, spokrewnionej z niemieckim 'doch' i staronordyckim 'þó' — pierwotnie znaczącej coś w rodzaju 'a jednak', 'mimo to'. W staro- i średnioangielskim granica między spójnikiem warunkowym a ustępstwowym była znacznie płynniejsza niż dziś: 'though' potrafiło pełnić funkcję zbliżoną do 'nawet gdyby'. Właśnie dlatego 'as though' wykształciło się w średnioangielszczyźnie jako naturalny, semantycznie niemal identyczny odpowiednik 'as if' — nie osobna, rywalizująca konstrukcja, lecz wariant zbudowany na tym samym szkielecie porównawczym, tyle że z drugim, blisko spokrewnionym słowem hipotetycznym."
+      },
+      {
+        "label": "Kluczowy model myślowy: 'as if X' to skrót od 'tak, jak [byłoby], gdyby X'",
+        "text": "Sedno tej konstrukcji nie leży w zapamiętywaniu, kiedy użyć jakiego czasu — leży w zrozumieniu, że 'as if' / 'as though' to ZWINIĘTE, ELIPTYCZNE zdanie warunkowe ukryte wewnątrz spójnika porównania. Zdanie 'He talks as if he knew everything' to skompresowana wersja pełniejszej myśli: 'He talks in the way [he would talk] IF he knew everything' — czyli mówi w sposób, jaki byłby właściwy, GDYBY był wszystkowiedzący (a nie jest). Ponieważ w środku ukryte jest prawdziwe zdanie warunkowe (if-clause), dziedziczy ono DOKŁADNIE te same reguły cofania czasu (backshift), co zwykłe drugi i trzeci okres warunkowy: Past Simple sygnalizuje nierealność w teraźniejszości, Past Perfect — nierealność w przeszłości. To nie jest osobna, arbitralna reguła do zapamiętania — to konsekwencja tego, że w środku zdania siedzi zwyczajny 'if'."
+      },
+      {
+        "label": "Dlaczego akurat przeszły czas oznacza 'nierealne' — zasada dystansu",
+        "text": "Angielski (podobnie jak polski, choć innymi środkami) od wieków wykorzystuje ODLEGŁOŚĆ CZASOWĄ jako metaforę ODLEGŁOŚCI OD RZECZYWISTOŚCI — im dalej cofasz czasownik w przeszłość, tym dalej odsuwasz treść zdania od faktycznego stanu rzeczy. To ten sam mechanizm psychologiczny, który stoi za drugim okresem warunkowym (If I had more time...), za 'wish' (I wish I knew...), czy za was/were-subjunctive (If I were you...) — wszystkie te konstrukcje 'pożyczają' formę przeszłą nie po to, by mówić o przeszłości, lecz by zasygnalizować dystans od prawdy. 'As if' i 'as though' są częścią tej samej rodziny konstrukcji — dlatego naturalnie łączy się je w gramatykach z tematem trybu łączącego (subjunctive) i okresów warunkowych, choć formalnie są osobnym spójnikiem."
+      }
+    ],
+    "usage": [
+      "'As if' i 'as though' są w praktyce w pełni wymienne znaczeniowo — różnica jest wyłącznie stylistyczna (as though bywa odbierane jako odrobinę bardziej formalne/literackie)",
+      "Zrozumienie, że konstrukcja to zwinięte zdanie warunkowe, tłumaczy z góry WSZYSTKIE reguły czasu opisane w kolejnych podtematach — nie trzeba ich zapamiętywać osobno, wystarczy zapytać: 'gdybym rozwinął ukryte if-clause, jaki czas warunkowy by tam pasował?'",
+      "Ten sam mechanizm dystansu czasowego łączy as if/as though z drugim i trzecim okresem warunkowym, z wish/if only oraz z were-subjunctive"
+    ],
+    "tags": ["etymologia as if", "eall swā", "gif", "þēah", "zasada dystansu"],
+    "examples": [
+      { "en": "He talks as if he knew everything. (= he talks in the way he would talk IF he knew everything — but he doesn't)", "pl": "Mówi tak, jakby wszystko wiedział (a nie wie)." },
+      { "en": "She smiled as though nothing had happened. (= as she would smile IF nothing had happened — but something did)", "pl": "Uśmiechnęła się, jakby nic się nie stało (a coś się stało)." },
+      { "en": "It looks as if it's going to rain. (real, likely — no hidden counterfactual here, see subtopic 4)", "pl": "Wygląda na to, że będzie padać (naprawdę tak sądzę)." }
+    ]
+  },
+  {
+    "id": "unreal_present",
+    "order": 2,
     "nameEn": "as if / as though + Past Simple — unreal present comparisons",
     "namePl": "as if / as though + Past Simple — nierealne porównania w teraźniejszości",
     "rules": [
-      { "label": "Budowa", "text": "as if / as though + podmiot + Past Simple (He talks as if he knew everything.)" },
-      { "label": "were zamiast was", "text": "W formalnym stylu po as if/as though używamy were dla wszystkich osób (She acts as though she were the boss.), choć was jest akceptowane potocznie" }
+      {
+        "label": "Budowa i logika",
+        "text": "as if / as though + podmiot + Past Simple — dokładnie ta sama forma czasu, co w drugim okresie warunkowym, i z tego samego powodu: opisujemy sposób zachowania odniesiony do sytuacji, która NIE jest prawdziwa TERAZ. 'He talks as if he knew everything' rozwija się myślowo do 'he talks as [he would talk] if he knew everything' — a skoro 'if he knew' to zwykły drugi okres warunkowy (nierealna teraźniejszość), Past Simple pojawia się tu z dokładnie tego samego powodu, co w każdym innym 'if'."
+      },
+      {
+        "label": "'Were' zamiast 'was' — ślad dawnego trybu łączącego",
+        "text": "W formalnym i starannym stylu po as if/as though używa się 'were' dla wszystkich osób, także I/he/she/it (She acts as though she were the boss.) — to nie kaprys stylistyczny, lecz relikt staroangielskiej formy subjunctive 'wǣre', jedynego czasownika w całej angielszczyźnie, który zachował osobną formę dla sytuacji jawnie nierzeczywistych (ten sam mechanizm co w 'if I were you'). W mowie potocznej 'was' jest dziś w pełni akceptowalne i statystycznie częstsze (She acts as though she was the boss.) — to naturalny efekt tego samego wyrównywania form (leveling), które od wieków zaciera dawny tryb łączący w angielskim."
+      },
+      {
+        "label": "Sygnał sprzeczności — presupozycja niezgodności z faktami",
+        "text": "Kluczowa cecha pragmatyczna tej konstrukcji: mówiący nie tylko porównuje, ale WPROST ZAKŁADA, że treść po as if/as though jest fałszywa. 'He drives as if he owned the road' niesie ukrytą presupozycję 'he doesn't own the road' — ta presupozycja jest tak silna, że mówiący może jej użyć ironicznie lub krytycznie, nawet bez dodatkowego komentarza. Dlatego konstrukcja ta jest ulubionym narzędziem literackiej i potocznej ironii — pozwala zasugerować czyjeś fałszywe mniemanie o sobie bez wypowiadania go wprost."
+      }
     ],
     "usage": [
-      "Porównanie do sytuacji, która nie jest prawdziwa w teraźniejszości — mówiący sugeruje, że coś jest inaczej, niż wygląda",
-      "Odpowiednik polskiego 'tak, jakby...' przy czymś nierealnym"
+      "Porównanie do sytuacji, która nie jest prawdziwa w teraźniejszości — mówiący jawnie sugeruje, że rzeczywistość jest inna",
+      "Odpowiednik polskiego 'tak, jakby...' przy czymś nierealnym — polski osiąga ten sam efekt trybem przypuszczającym ('jakby wiedział'), angielski — cofnięciem czasu",
+      "'Were' dla wszystkich osób w stylu formalnym/starannym; 'was' powszechne i naturalne w mowie potocznej"
     ],
-    "tags": ["as if he knew", "as though she were", "acts as if"],
+    "tags": ["as if he knew", "as though she were", "acts as if", "presupozycja fałszu"],
     "examples": [
       { "en": "He talks as if he knew everything about the topic.", "pl": "Mówi tak, jakby wiedział wszystko na ten temat (a nie wie)." },
-      { "en": "She acts as though she were the boss.", "pl": "Zachowuje się, jakby była szefową (a nie jest)." },
-      { "en": "They look at me as if I were crazy.", "pl": "Patrzą na mnie, jakbym był szalony." },
-      { "en": "He drives as if he owned the road.", "pl": "Jeździ, jakby był właścicielem drogi." }
+      { "en": "She acts as though she were the boss, even though she only started last week.", "pl": "Zachowuje się, jakby była szefową, choć zaczęła zaledwie tydzień temu." },
+      { "en": "They look at me as if I were crazy every time I mention it.", "pl": "Patrzą na mnie, jakbym był szalony, ilekroć o tym wspominam." },
+      { "en": "He drives as if he owned the road.", "pl": "Jeździ, jakby był właścicielem drogi." },
+      { "en": "You're shivering — you look as if you were freezing.", "pl": "Trzęsiesz się — wyglądasz, jakbyś marzł." }
     ]
   },
   {
     "id": "unreal_past",
-    "order": 2,
+    "order": 3,
     "nameEn": "as if / as though + Past Perfect — unreal past comparisons",
     "namePl": "as if / as though + Past Perfect — nierealne porównania w przeszłości",
     "rules": [
-      { "label": "Budowa", "text": "as if / as though + podmiot + Past Perfect (She looked as if she had seen a ghost.)" },
-      { "label": "Znaczenie", "text": "Odnosi się do zdarzenia wcześniejszego niż moment, o którym mowa, sugerując, że nie było ono prawdziwe" }
+      {
+        "label": "Budowa: podwójny dystans",
+        "text": "as if / as though + podmiot + Past Perfect (She looked as if she had seen a ghost.). Jeśli Past Simple w poprzednim podtemacie oznacza 'jeden krok wstecz od rzeczywistości', to Past Perfect oznacza tu dwa kroki: jeden krok odsuwa nas w przeszłość względem momentu mówienia, a drugi — poza to, sygnalizuje, że sama treść porównania jest nierealna. To dokładnie ta sama logika, co w trzecim okresie warunkowym (If I had known...) — bo znów, po rozwinięciu ukrytego 'if', mielibyśmy 'she looked as [she would have looked] if she had seen a ghost'."
+      },
+      {
+        "label": "Dwa różne punkty odniesienia w czasie — źródło częstych błędów",
+        "text": "Kluczowa pułapka: Past Perfect w tej konstrukcji odnosi się do zdarzenia WCZEŚNIEJSZEGO niż główny czasownik zdania, nie do samej chwili mówienia. 'She looked as if she had seen a ghost' — 'looked' jest już w przeszłości, a 'had seen' cofa się o kolejny krok PRZED to spojrzenie. Uczniowie często mylą to z konstrukcją z poprzedniego podtematu, bo oba zdania są 'o przeszłości' z perspektywy mówiącego — różnicę robi to, czy porównywane zdarzenie jest równoczesne z czasownikiem głównym (Past Simple), czy wcześniejsze od niego (Past Perfect)."
+      },
+      {
+        "label": "Znaczenie: sugestia zdarzenia, które się nie wydarzyło",
+        "text": "Podobnie jak w podtemacie 2, konstrukcja niesie presupozycję fałszu — tyle że tym razem dotyczy ona zdarzenia z przeszłości, a nie stanu obecnego. 'He spoke as though he had lived there for years' sugeruje wprost: 'ale on tam nie mieszkał' (albo mieszkał krócej). Ta forma jest szczególnie częsta w narracji literackiej, gdzie autor opisuje reakcję lub wygląd postaci, sugerując czytelnikowi wydarzenie, którego wprost nie opisał — 'the room looked as if a storm had passed through it' pozwala czytelnikowi domyślić się bałaganu bez opisywania go dosłownie."
+      }
     ],
     "usage": [
-      "Porównanie do wydarzenia z przeszłości, które nie miało miejsca — czynność wcześniejsza niż czas głównego czasownika",
-      "Odpowiednik polskiego 'jakby wcześniej...' / 'tak, jakby...' odniesionego do przeszłości"
+      "Porównanie do wydarzenia z przeszłości, które nie miało miejsca — czynność wcześniejsza niż moment opisywany w zdaniu głównym",
+      "Odpowiednik polskiego 'jakby wcześniej...' / 'tak, jakby...' odniesionego do przeszłości",
+      "Częste w narracji literackiej jako środek sugerowania nieopisanego wprost wydarzenia poprzez jego skutki"
     ],
-    "tags": ["as if he had seen", "as though she had known", "looked as if"],
+    "tags": ["as if he had seen", "as though she had known", "looked as if", "podwójny dystans"],
     "examples": [
       { "en": "She looked as if she had seen a ghost.", "pl": "Wyglądała, jakby zobaczyła ducha." },
-      { "en": "He spoke as though he had lived there for years.", "pl": "Mówił, jakby mieszkał tam od lat." },
+      { "en": "He spoke as though he had lived there for years, though he'd only just arrived.", "pl": "Mówił, jakby mieszkał tam od lat, choć dopiero przyjechał." },
       { "en": "I felt as if I hadn't slept for days.", "pl": "Czułem się, jakbym nie spał od kilku dni." },
-      { "en": "The room looked as if a storm had passed through it.", "pl": "Pokój wyglądał, jakby przeszła przez niego burza." }
+      { "en": "The room looked as if a storm had passed through it.", "pl": "Pokój wyglądał, jakby przeszła przez niego burza." },
+      { "en": "She greeted him as though nothing had ever gone wrong between them.", "pl": "Przywitała go, jakby nigdy między nimi nic złego się nie wydarzyło." }
     ]
   },
   {
     "id": "real_possibility",
-    "order": 3,
+    "order": 4,
     "nameEn": "as if / as though + Present — real or likely situations",
     "namePl": "as if / as though + czas teraźniejszy — sytuacje prawdopodobne lub prawdziwe",
     "rules": [
-      { "label": "Budowa", "text": "as if / as though + podmiot + Present Simple/Continuous, gdy mówiący uważa, że coś jest prawdą lub bardzo prawdopodobne" },
-      { "label": "Kontrast", "text": "W przeciwieństwie do użycia z Past Simple/Past Perfect (nierealność), forma teraźniejsza opisuje obserwację uznawaną przez mówiącego za realną" }
+      {
+        "label": "Budowa: koniec z 'kłamstwem' czasu",
+        "text": "as if / as though + podmiot + Present Simple/Continuous, gdy mówiący uważa, że treść porównania jest prawdziwa lub bardzo prawdopodobna, a nie hipotetyczna. Skoro cały mechanizm z podtematów 2 i 3 opierał się na 'pożyczaniu' przeszłości do zasygnalizowania nierealności — logiczną konsekwencją jest to, że gdy nie chcemy sugerować nierealności, ZWYCZAJNIE NIE COFAMY CZASU. 'It looks as if it's going to rain' zostaje w czasie teraźniejszym, bo mówiący naprawdę tak sądzi — nie ma tu żadnego ukrytego 'gdyby'."
+      },
+      {
+        "label": "Historia normy: od sztywnego wymogu subjunctive do swobody wyboru",
+        "text": "XIX-wieczne gramatyki normatywne, pod silnym wpływem łacińskich wzorców, nalegały, by po as if/as though ZAWSZE stosować formę przeszłą/subjunctive, niezależnie od tego, czy treść była prawdopodobna, czy nie — traktując to jako sztywną regułę składniową, a nie wybór znaczeniowy. Wraz z ogólnym zanikiem żywego trybu łączącego w XX wieku norma ta zmiękła: współczesny angielski (zwłaszcza mówiony) traktuje wybór czasu po as if/as though jako ŻYWY SYGNAŁ POSTAWY mówiącego wobec prawdziwości treści, a nie jako mechaniczną regułę gramatyczną. To znacząca zmiana — dziś forma czasownika sama w sobie NIESIE INFORMACJĘ, której dawniej nie przekazywała."
+      },
+      {
+        "label": "Kontrast znaczeniowy: to samo zdanie, dwie różne postawy",
+        "text": "Ta sama para czasowników (look, seem, sound + as if/as though) może dziś przyjąć dwie różne formy czasu z wyraźnie różnym znaczeniem: 'It looks as if it's going to rain' (Present — mówiący naprawdę tak sądzi, patrząc na chmury) kontra staroświeckie/literackie 'It looks as if it were going to rain' (Past/subjunctive — dystansuje się, sugeruje wątpliwość, albo brzmi celowo formalnie/ironicznie). W nowoczesnym, neutralnym angielskim mówionym domyślną, nieoznaczoną opcją dla realnych obserwacji jest forma teraźniejsza; forma przeszła w takim kontekście brzmi dziś staroświecko lub stylistycznie podkreślona."
+      },
+      {
+        "label": "Typowe wyzwalacze: czasowniki percepcji i wrażenia",
+        "text": "Konstrukcja ta jest szczególnie częsta po czasownikach zmysłowo-ewidencjalnych: look, seem, sound, feel, smell, taste + as if/as though — czyli po czasownikach opisujących WRAŻENIE odbierane zmysłami lub wnioskowanie na jego podstawie, a nie stwierdzony fakt. To naturalne środowisko dla konstrukcji, która z definicji wyraża porównanie do czegoś, o czym mówiący nie ma pewności absolutnej, a jedynie mocne przeświadczenie."
+      }
     ],
     "usage": [
-      "Opis wrażenia lub obserwacji, którą mówiący uważa za prawdopodobnie prawdziwą, zwłaszcza po look, sound, seem",
-      "Odpowiednik polskiego 'wygląda na to, że...' / 'brzmi, jakby...'"
+      "Opis wrażenia lub obserwacji, którą mówiący uważa za prawdopodobnie prawdziwą, zwłaszcza po look, sound, seem, feel, smell, taste",
+      "Odpowiednik polskiego 'wygląda na to, że...' / 'brzmi, jakby...' bez sugestii fałszu",
+      "Forma przeszła/subjunctive w tym samym kontekście brzmi dziś formalnie, literacko lub sugeruje celowy dystans/wątpliwość — to świadomy wybór stylistyczny, nie błąd"
     ],
-    "tags": ["looks as if", "sounds as though", "seems as if"],
+    "tags": ["looks as if", "sounds as though", "seems as if", "postawa epistemiczna"],
     "examples": [
       { "en": "It looks as if it's going to rain.", "pl": "Wygląda na to, że będzie padać." },
       { "en": "It sounds as though you're getting a cold.", "pl": "Brzmi, jakbyś się przeziębiał." },
       { "en": "She looks as if she's in a hurry.", "pl": "Wygląda na to, że się spieszy." },
-      { "en": "It seems as though the meeting is running late.", "pl": "Wygląda na to, że spotkanie się przeciąga." }
+      { "en": "It seems as though the meeting is running late.", "pl": "Wygląda na to, że spotkanie się przeciąga." },
+      { "en": "It looked as if it were going to snow, but the forecast changed everyone's mind. (deliberately formal/literary distancing)", "pl": "Wyglądało na to, że będzie śnieg (celowo formalny, dystansujący ton), ale prognoza zmieniła zdanie wszystkich." }
     ]
   },
   {
     "id": "as_if_vs_like",
-    "order": 4,
-    "nameEn": "as if / as though vs. like — formal and informal comparisons",
-    "namePl": "as if / as though a like — formalne i nieformalne porównania",
+    "order": 5,
+    "nameEn": "as if / as though vs. like — register and the history of a prescriptive battle",
+    "namePl": "as if / as though a like — rejestr i historia sporu normatywnego",
     "rules": [
-      { "label": "Budowa", "text": "like + podmiot + czasownik jest częstym, potocznym (zwłaszcza amerykańskim) odpowiednikiem as if/as though (She acts like she owns the place.)" },
-      { "label": "Rejestr", "text": "as if i as though są neutralne i akceptowane w piśmie formalnym; like w tej funkcji jest potoczne i unikane w formalnym stylu pisemnym" }
+      {
+        "label": "Budowa",
+        "text": "like + podmiot + czasownik jest częstym, potocznym (zwłaszcza amerykańskim) odpowiednikiem as if/as though: 'She acts like she owns the place.' Gramatycznie 'like' przejmuje tu dokładnie tę samą funkcję spójnika porównawczo-hipotetycznego, choć historycznie 'like' było wyłącznie przyimkiem (like a lion) i przymiotnikiem (a like case), nie spójnikiem wprowadzającym całe zdanie."
+      },
+      {
+        "label": "Jak przyimek stał się spójnikiem — długi, sporny proces",
+        "text": "Użycie 'like' jako spójnika wprowadzającego całe zdanie (z podmiotem i czasownikiem, nie tylko rzeczownikiem) jest udokumentowane w angielskich dialektach już od XVI wieku, ale przez większość historii było ograniczone do mowy potocznej i regionalnej. W XIX i XX wieku, w miarę jak amerykański angielski coraz częściej różnicował się od brytyjskiego w kwestiach normatywnych, ta konstrukcja rozpowszechniła się zwłaszcza w USA, stając się jednym z najbardziej rozpoznawalnych markerów potoczności i nieformalności w mowie amerykańskiej."
+      },
+      {
+        "label": "Słynny spór normatywny XX wieku",
+        "text": "W połowie XX wieku użycie 'like' zamiast 'as'/'as if' w formalnym kontekście stało się przedmiotem głośnych sporów prescriptywistycznych w USA — komentatorzy językowi i nauczyciele piętnowali je jako 'niepoprawne', a znane wówczas hasło reklamowe papierosów z 'like' zamiast 'as' wywołało publiczną debatę o poprawności językowej, którą lingwiści do dziś przywołują jako podręcznikowy przykład konfliktu między żywym uzusem językowym a sztywną normą szkolną. Badania socjolingwistyczne (m.in. Williama Labova nad zmianą językową w USA) pokazały, że konstrukcja ta była w powszechnym, systemowym użyciu w mowie potocznej na długo przed tym, zanim normatywiści ją zauważyli — typowy wzorzec, w którym norma pisana goni za dawno ugruntowaną zmianą w mowie, a nie odwrotnie."
+      },
+      {
+        "label": "Rejestr dziś: żywa mowa kontra pismo formalne",
+        "text": "As if i as though pozostają neutralne i w pełni akceptowane w piśmie formalnym, akademickim i oficjalnym; like w tej samej funkcji jest dziś w pełni naturalne i wszechobecne w mowie potocznej (zwłaszcza amerykańskiej), ale wciąż unikane w starannym piśmie formalnym — nie dlatego, że jest 'gramatycznie błędne' (nie jest — to w pełni systemowa, produktywna konstrukcja współczesnej angielszczyzny), lecz dlatego, że niesie silne skojarzenie rejestrowe z mową swobodną. Wybór między as if/as though a like to dziś kwestia REJESTRU, nie poprawności."
+      }
     ],
     "usage": [
-      "Rozpoznawanie i stosowanie like jako nieformalnego zamiennika as if/as though w mowie potocznej",
-      "Wybór odpowiedniego rejestru: as if/as though w piśmie formalnym i oficjalnych wypowiedziach, like w swobodnej rozmowie"
+      "Rozpoznawanie i stosowanie like jako w pełni naturalnego, potocznego zamiennika as if/as though w mowie codziennej, zwłaszcza amerykańskiej",
+      "Wybór odpowiedniego rejestru: as if/as though w piśmie formalnym i oficjalnych wypowiedziach, like w swobodnej rozmowie",
+      "Świadomość, że spór o 'like' to klasyczny przykład konfliktu między żywym uzusem a normą szkolną, a nie kwestia obiektywnej poprawności"
     ],
-    "tags": ["acts like", "looks like he", "talks like she"],
+    "tags": ["acts like", "looks like he", "talks like she", "prescriptywizm", "Labov"],
     "examples": [
       { "en": "She acts like she owns the place.", "pl": "Zachowuje się, jakby była właścicielką tego miejsca." },
       { "en": "He talks like he knows everything about cars.", "pl": "Mówi, jakby wiedział wszystko o samochodach." },
       { "en": "The committee behaved as if no complaints had been received.", "pl": "Komisja zachowywała się, jakby nie otrzymała żadnych skarg." },
       { "en": "The building looked as if it had been abandoned for years.", "pl": "Budynek wyglądał, jakby był opuszczony od lat." }
+    ]
+  },
+  {
+    "id": "as_if_to_infinitive",
+    "order": 6,
+    "nameEn": "as if / as though + to-infinitive — the ellipsis behind a described gesture",
+    "namePl": "as if / as though + bezokolicznik z 'to' — elipsa ukryta w opisie gestu",
+    "rules": [
+      {
+        "label": "Budowa: skrót jeszcze głębszy niż zwykła elipsa",
+        "text": "as if / as though + to-bezokolicznik: 'She raised her hand as if to strike him.' To struktura zbudowana na jeszcze jednym poziomie kompresji ponad tym, co widzieliśmy w podtematach 2–4: pełna, nieskrócona wersja brzmiałaby 'as if she were going to strike him' albo 'as if she intended to strike him' — czasownik 'be' (i towarzyszące mu 'going to'/'about to') oraz podmiot zostały tu całkowicie wyeliptyzowane, zostawiając samą końcówkę zdania: bezokolicznik z 'to', który niesie znaczenie zamiaru lub bliskości wykonania czynności."
+      },
+      {
+        "label": "Funkcja: opis gestu, który sugeruje niedokończoną lub pozorną czynność",
+        "text": "Ta konstrukcja opisuje ruch, minę lub gest, który WYGLĄDA jak początek jakiejś czynności, choć czynność ta nie została (jeszcze, w ogóle, lub naprawdę) wykonana — stąd jej ogromna popularność w narracji literackiej i beletrystyce: pozwala autorowi jednym, gęstym zdaniem opisać zarówno ruch fizyczny, jak i intencję lub wrażenie, jakie ten ruch wywołuje u obserwatora, bez rozstrzygania, czy czynność faktycznie nastąpi. 'He paused as if to speak, then said nothing' opisuje w kilku słowach całą sekwencję: zatrzymanie się, wrażenie nadchodzącej wypowiedzi, i jej brak."
+      },
+      {
+        "label": "Rejestr i dystrybucja",
+        "text": "Konstrukcja jest silnie związana z pisanym rejestrem narracyjnym (proza, reportaż, opis sceny) — rzadziej pojawia się w swobodnej rozmowie, gdzie mówiący częściej po prostu opisze dwa zdarzenia osobno ('she raised her hand — I thought she was going to hit him'). Jej zwięzłość i literacka gęstość to główny powód, dla którego brzmi ona 'pisarsko' nawet wypowiedziana na głos."
+      }
+    ],
+    "usage": [
+      "Opis gestu lub ruchu, który sugeruje początek czynności, bez potwierdzania, że czynność faktycznie nastąpiła: he leaned forward as if to whisper something",
+      "Częste po czasownikach ruchu i mimiki: raise, lean, turn, pause, open one's mouth, reach out + as if/as though + to-infinitive",
+      "Silnie kojarzone z rejestrem narracyjnym/literackim, rzadziej używane w luźnej rozmowie"
+    ],
+    "tags": ["as if to strike", "as though to speak", "elipsa gestu", "narracja literacka"],
+    "examples": [
+      { "en": "She raised her hand as if to strike him, but stopped herself at the last moment.", "pl": "Podniosła rękę, jakby chciała go uderzyć, ale w ostatniej chwili się powstrzymała." },
+      { "en": "He paused as if to speak, then said nothing at all.", "pl": "Zawahał się, jakby chciał coś powiedzieć, ale nic nie powiedział." },
+      { "en": "The old dog lifted its head as though to listen, then went back to sleep.", "pl": "Stary pies uniósł głowę, jakby nasłuchiwał, po czym znów zasnął." },
+      { "en": "She turned away as if to hide her tears.", "pl": "Odwróciła się, jakby chciała ukryć łzy." }
+    ]
+  },
+  {
+    "id": "as_if_exclamation",
+    "order": 7,
+    "nameEn": "'As if!' — the whole clause collapsed into a two-word interjection",
+    "namePl": "'As if!' — całe zdanie skompresowane do dwuwyrazowego wykrzyknienia",
+    "rules": [
+      {
+        "label": "Budowa: skrajny przypadek elipsy sytuacyjnej",
+        "text": "'As if!' jako samodzielne wykrzyknienie to najbardziej ekstremalny przykład kompresji, jaki ta rodzina konstrukcji potrafi wytworzyć — spójnik 'as if' zostaje TU CAŁKOWICIE OSIEROCONY ze swojego zdania podrzędnego, a treść, do której się odnosił, ma zostać odtworzona wyłącznie z kontekstu rozmowy. 'You think I'd apologize to him? As if!' pozostawia niewypowiedzianą resztę zdania ('as if I would ever apologize to him') całkowicie domyślną — słuchacz musi sam ją zrekonstruować z poprzedzającej wypowiedzi."
+      },
+      {
+        "label": "Funkcja pragmatyczna: gwałtowne, ironiczne zaprzeczenie",
+        "text": "Znaczeniowo 'As if!' nie jest neutralnym porównaniem, lecz WYKRZYKNIKIEM ODRZUCENIA — wyraża, że sugerowana możliwość jest tak absurdalna lub nieprawdopodobna, że nie zasługuje nawet na pełne zdanie odpowiedzi. Ta sama presupozycja fałszu, która w podtemacie 2 działała subtelnie w tle zdania ('he talks as if he knew everything' = 'nie wie'), tutaj zostaje wyostrzona do granic możliwości i staje się CAŁĄ treścią wypowiedzi: sam spójnik, bez żadnego zdania do porównania, wystarcza, by przekazać 'to niemożliwe' / 'akurat' / 'no coś ty'."
+      },
+      {
+        "label": "Rejestr: wyłącznie mowa potoczna, młodzieżowa i emocjonalna",
+        "text": "Ta forma jest ściśle ograniczona do bardzo nieformalnej, spontanicznej mowy potocznej — nigdy nie pojawia się w piśmie formalnym ani neutralnym. Spopularyzowana szczególnie w amerykańskim angielskim młodzieżowym pod koniec XX wieku, dziś funkcjonuje jako w pełni ugruntowany, samodzielny wykrzyknik w słowniku mówionej angielszczyzny, niosący silne zabarwienie emocjonalne (lekceważenie, sarkazm, oburzenie) — jego moc bierze się właśnie z kontrastu między pozornie niedokończoną, 'urwaną' formą gramatyczną a jednoznacznie kompletnym, stanowczym znaczeniem, jakie niesie w rozmowie."
+      }
+    ],
+    "usage": [
+      "Samodzielna, ekspresywna odpowiedź odrzucająca sugerowaną możliwość jako absurdalną: 'Are you going to help him move?' — 'As if!'",
+      "Wyłącznie w bardzo nieformalnej, emocjonalnie nacechowanej mowie potocznej — nigdy w piśmie formalnym",
+      "Cała reszta zdania warunkowego pozostaje niewypowiedziana i musi zostać odtworzona z kontekstu rozmowy"
+    ],
+    "tags": ["As if!", "wykrzyknienie", "elipsa sytuacyjna", "rejestr potoczny"],
+    "examples": [
+      { "en": "\"Do you think she'll say yes?\" \"As if!\"", "pl": "\"Myślisz, że się zgodzi?\" \"Akurat!\"" },
+      { "en": "He asked me to lend him money again. As if I hadn't already heard that one before.", "pl": "Znowu poprosił mnie o pożyczenie pieniędzy. Jakbym nie słyszał tego już wcześniej." },
+      { "en": "\"Are you scared?\" \"As if!\"", "pl": "\"Boisz się?\" \"No coś ty!\"" }
     ]
   }
 ]

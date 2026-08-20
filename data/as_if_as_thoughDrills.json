@@ -1,282 +1,352 @@
 [
   {
     "id": 1,
+    "itemId": "roots_and_mechanism",
+    "prompt": "'As if' is historically a compressed comparison plus a hidden ___-clause, which is why it borrows conditional tense rules.",
+    "answer": "if",
+    "distractors": ["though", "so", "that"]
+  },
+  {
+    "id": 2,
+    "itemId": "roots_and_mechanism",
+    "prompt": "The word 'as' comes from Old English 'eall swā', meaning 'all ___'.",
+    "answer": "so",
+    "distractors": ["now", "well", "true"]
+  },
+  {
+    "id": 3,
+    "itemId": "roots_and_mechanism",
+    "prompt": "'Though' descends from Old English 'þēah', an old Germanic particle of ___, cognate with German 'doch'.",
+    "answer": "concession",
+    "distractors": ["condition", "purpose", "result"]
+  },
+  {
+    "id": 4,
+    "itemId": "roots_and_mechanism",
+    "prompt": "He talks ___ he knew everything. (= he talks as he would talk IF he knew everything)",
+    "answer": "as if",
+    "distractors": ["because", "so that", "unless"]
+  },
+  {
+    "id": 5,
+    "itemId": "roots_and_mechanism",
+    "prompt": "In as if/as though, borrowing a ___ tense signals distance from what is actually true, the same trick used in second and third conditionals.",
+    "answer": "past",
+    "distractors": ["present", "future", "perfect continuous"]
+  },
+  {
+    "id": 6,
+    "itemId": "roots_and_mechanism",
+    "prompt": "It looks as if it ___ going to rain. (real, likely belief — no hidden counterfactual, present tense stays)",
+    "answer": "is",
+    "distractors": ["were", "was", "had been"]
+  },
+  {
+    "id": 7,
+    "itemId": "roots_and_mechanism",
+    "prompt": "The family of as if/as though is grammatically related to conditionals and to the ___-subjunctive relic (if I were you).",
+    "answer": "were",
+    "distractors": ["was", "be", "been"]
+  },
+  {
+    "id": 8,
     "itemId": "unreal_present",
     "prompt": "He talks as if he ___ everything about the topic.",
     "answer": "knew",
     "distractors": ["knows", "had known", "would know"]
   },
   {
-    "id": 2,
-    "itemId": "unreal_present",
-    "prompt": "She acts as though she ___ the boss.",
-    "answer": "were",
-    "distractors": ["is", "was", "had been"]
-  },
-  {
-    "id": 3,
-    "itemId": "unreal_present",
-    "prompt": "They look at me as if I ___ crazy.",
-    "answer": "were",
-    "distractors": ["am", "was", "have been"]
-  },
-  {
-    "id": 4,
-    "itemId": "unreal_present",
-    "prompt": "He drives as if he ___ the road.",
-    "answer": "owned",
-    "distractors": ["owns", "had owned", "would own"]
-  },
-  {
-    "id": 5,
-    "itemId": "unreal_present",
-    "prompt": "She treats this flat as though it ___ to her.",
-    "answer": "belonged",
-    "distractors": ["belongs", "had belonged", "would belong"]
-  },
-  {
-    "id": 6,
-    "itemId": "unreal_present",
-    "prompt": "He speaks French as if it ___ his native language.",
-    "answer": "were",
-    "distractors": ["is", "was", "had been"]
-  },
-  {
-    "id": 7,
-    "itemId": "unreal_present",
-    "prompt": "My colleague behaves as though he ___ about deadlines.",
-    "answer": "didn't care",
-    "distractors": ["doesn't care", "hadn't cared", "wouldn't care"]
-  },
-  {
-    "id": 8,
-    "itemId": "unreal_present",
-    "prompt": "The dog looked at the stranger as if it ___ him.",
-    "answer": "knew",
-    "distractors": ["knows", "had known", "would know"]
-  },
-  {
     "id": 9,
     "itemId": "unreal_present",
-    "prompt": "She smiled as if nothing ___ wrong.",
+    "prompt": "She acts as though she ___ the boss. (formal register)",
     "answer": "were",
     "distractors": ["is", "was", "had been"]
   },
   {
     "id": 10,
     "itemId": "unreal_present",
-    "prompt": "He gives orders as though he ___ in charge of the whole company.",
+    "prompt": "They look at me as if I ___ crazy.",
     "answer": "were",
-    "distractors": ["is", "was", "had been"]
+    "distractors": ["am", "was", "have been"]
   },
   {
     "id": 11,
+    "itemId": "unreal_present",
+    "prompt": "He drives as if he ___ the road.",
+    "answer": "owned",
+    "distractors": ["owns", "had owned", "would own"]
+  },
+  {
+    "id": 12,
+    "itemId": "unreal_present",
+    "prompt": "She treats this flat as though it ___ to her, though it clearly isn't hers.",
+    "answer": "belonged",
+    "distractors": ["belongs", "had belonged", "would belong"]
+  },
+  {
+    "id": 13,
+    "itemId": "unreal_present",
+    "prompt": "You're shivering — you look as if you ___ freezing.",
+    "answer": "were",
+    "distractors": ["are", "had been", "would be"]
+  },
+  {
+    "id": 14,
+    "itemId": "unreal_present",
+    "prompt": "He speaks French as if it ___ his native language.",
+    "answer": "were",
+    "distractors": ["is", "had been", "would be"]
+  },
+  {
+    "id": 15,
+    "itemId": "unreal_present",
+    "prompt": "as if he knew everything (unreal present) implies that, in fact, he ___ know everything.",
+    "answer": "doesn't",
+    "distractors": ["does", "didn't", "won't"]
+  },
+  {
+    "id": 16,
     "itemId": "unreal_past",
     "prompt": "She looked as if she ___ a ghost.",
     "answer": "had seen",
     "distractors": ["saw", "has seen", "would see"]
   },
   {
-    "id": 12,
-    "itemId": "unreal_past",
-    "prompt": "He spoke as though he ___ there for years.",
-    "answer": "had lived",
-    "distractors": ["lived", "has lived", "would live"]
-  },
-  {
-    "id": 13,
-    "itemId": "unreal_past",
-    "prompt": "I felt as if I ___ for days.",
-    "answer": "hadn't slept",
-    "distractors": ["didn't sleep", "haven't slept", "wouldn't sleep"]
-  },
-  {
-    "id": 14,
-    "itemId": "unreal_past",
-    "prompt": "The room looked as if a storm ___ through it.",
-    "answer": "had passed",
-    "distractors": ["passed", "has passed", "would pass"]
-  },
-  {
-    "id": 15,
-    "itemId": "unreal_past",
-    "prompt": "She acted as though nothing ___.",
-    "answer": "had happened",
-    "distractors": ["happened", "has happened", "would happen"]
-  },
-  {
-    "id": 16,
-    "itemId": "unreal_past",
-    "prompt": "He greeted us as if he ___ us before.",
-    "answer": "had never met",
-    "distractors": ["never met", "has never met", "would never meet"]
-  },
-  {
     "id": 17,
     "itemId": "unreal_past",
-    "prompt": "My hands were shaking as though I ___ a marathon.",
-    "answer": "had run",
-    "distractors": ["ran", "has run", "would run"]
+    "prompt": "He spoke as though he ___ there for years, though he'd only just arrived.",
+    "answer": "had lived",
+    "distractors": ["lived", "was living", "has lived"]
   },
   {
     "id": 18,
     "itemId": "unreal_past",
-    "prompt": "She spoke about the accident as if she ___ it herself.",
-    "answer": "had witnessed",
-    "distractors": ["witnessed", "has witnessed", "would witness"]
+    "prompt": "I felt as if I ___ for days.",
+    "answer": "hadn't slept",
+    "distractors": ["didn't sleep", "wasn't sleeping", "haven't slept"]
   },
   {
     "id": 19,
     "itemId": "unreal_past",
-    "prompt": "He looked at the bill as though he ___ it.",
-    "answer": "hadn't expected",
-    "distractors": ["didn't expect", "hasn't expected", "wouldn't expect"]
+    "prompt": "The room looked as if a storm ___ through it.",
+    "answer": "had passed",
+    "distractors": ["passed", "was passing", "has passed"]
   },
   {
     "id": 20,
     "itemId": "unreal_past",
-    "prompt": "They welcomed us as if we ___ old friends.",
-    "answer": "had been",
-    "distractors": ["were", "have been", "would be"]
+    "prompt": "She greeted him as though nothing ___ wrong between them.",
+    "answer": "had ever gone",
+    "distractors": ["ever went", "has ever gone", "was ever going"]
   },
   {
     "id": 21,
-    "itemId": "real_possibility",
-    "prompt": "It looks as if it ___ to rain.",
-    "answer": "is going",
-    "distractors": ["was going", "will go", "would go"]
+    "itemId": "unreal_past",
+    "prompt": "In 'she looked as if she had seen a ghost', the verb 'had seen' refers to an event ___ than 'looked'.",
+    "answer": "earlier",
+    "distractors": ["later", "simultaneous", "identical"]
   },
   {
     "id": 22,
-    "itemId": "real_possibility",
-    "prompt": "It sounds as though you ___ a cold.",
-    "answer": "are getting",
-    "distractors": ["got", "were getting", "would get"]
+    "itemId": "unreal_past",
+    "prompt": "He walked in as though nothing unusual ___ that day.",
+    "answer": "had happened",
+    "distractors": ["happened", "was happening", "has happened"]
   },
   {
     "id": 23,
     "itemId": "real_possibility",
-    "prompt": "She looks as if she ___ in a hurry.",
+    "prompt": "It looks as if it ___ going to rain. (the speaker really believes this)",
     "answer": "is",
-    "distractors": ["was", "were", "has been"]
+    "distractors": ["were", "was", "had been"]
   },
   {
     "id": 24,
     "itemId": "real_possibility",
-    "prompt": "It seems as though the meeting ___ late.",
-    "answer": "is running",
-    "distractors": ["ran", "was running", "would run"]
+    "prompt": "It sounds as though you ___ a cold.",
+    "answer": "are getting",
+    "distractors": ["were getting", "had got", "would get"]
   },
   {
     "id": 25,
     "itemId": "real_possibility",
-    "prompt": "He sounds as if he ___ the answer already.",
-    "answer": "knows",
-    "distractors": ["knew", "has known", "would know"]
+    "prompt": "She looks as if she ___ in a hurry.",
+    "answer": "is",
+    "distractors": ["were", "was", "had been"]
   },
   {
     "id": 26,
     "itemId": "real_possibility",
-    "prompt": "It looks as though they ___ today.",
-    "answer": "aren't coming",
-    "distractors": ["didn't come", "weren't coming", "wouldn't come"]
+    "prompt": "It seems as though the meeting ___ late.",
+    "answer": "is running",
+    "distractors": ["were running", "had run", "would run"]
   },
   {
     "id": 27,
     "itemId": "real_possibility",
-    "prompt": "She looks as if she ___ the problem now.",
-    "answer": "understands",
-    "distractors": ["understood", "was understanding", "would understand"]
+    "prompt": "19th-century prescriptive grammars insisted on the ___ form after as if/as though even for likely, real situations.",
+    "answer": "subjunctive",
+    "distractors": ["indicative", "imperative", "infinitive"]
   },
   {
     "id": 28,
     "itemId": "real_possibility",
-    "prompt": "It seems as though prices ___ again.",
-    "answer": "are rising",
-    "distractors": ["rose", "were rising", "would rise"]
+    "prompt": "It looked as if it ___ going to snow, but the forecast later proved otherwise. (deliberately literary/distancing tone)",
+    "answer": "were",
+    "distractors": ["was", "is", "had been"]
   },
   {
     "id": 29,
     "itemId": "real_possibility",
-    "prompt": "He looks as if he ___ some help.",
-    "answer": "needs",
-    "distractors": ["needed", "was needing", "would need"]
+    "prompt": "As if/as though after look, seem, sound, feel, smell, taste usually stay in present tense because these are ___ verbs signalling belief, not counterfactuals.",
+    "answer": "evidential",
+    "distractors": ["modal", "phrasal", "causative"]
   },
   {
     "id": 30,
-    "itemId": "real_possibility",
-    "prompt": "It sounds as though the negotiations ___ well.",
-    "answer": "are going",
-    "distractors": ["went", "were going", "would go"]
+    "itemId": "as_if_vs_like",
+    "prompt": "(informal) It looks ___ it's about to snow.",
+    "answer": "like",
+    "distractors": ["as if", "as though", "so"]
   },
   {
     "id": 31,
     "itemId": "as_if_vs_like",
-    "prompt": "(nieformalnie, w rozmowie) She acts ___ she owns the place.",
+    "prompt": "(informal) He drives ___ he owns the whole road.",
     "answer": "like",
-    "distractors": ["as if", "as though", "so"]
+    "distractors": ["as if", "as though", "such"]
   },
   {
     "id": 32,
     "itemId": "as_if_vs_like",
-    "prompt": "(nieformalnie) He talks ___ he knows everything about cars.",
-    "answer": "like",
-    "distractors": ["as if", "as though", "such"]
+    "prompt": "(formal written style) The committee behaved ___ no complaints had been received.",
+    "answer": "as if",
+    "distractors": ["like", "so", "such"]
   },
   {
     "id": 33,
     "itemId": "as_if_vs_like",
-    "prompt": "(nieformalnie) Don't look at me ___ you don't understand what I mean.",
-    "answer": "like",
-    "distractors": ["as if", "as though", "so"]
+    "prompt": "(formal report) The data suggest ___ the results were affected by an error.",
+    "answer": "as though",
+    "distractors": ["like", "so", "such"]
   },
   {
     "id": 34,
     "itemId": "as_if_vs_like",
-    "prompt": "(nieformalnie) It looks ___ it's about to snow.",
-    "answer": "like",
-    "distractors": ["as if", "as though", "so"]
+    "prompt": "Historically, 'like' functioned only as a preposition and adjective; its use as a full ___ introducing a clause spread from spoken dialects.",
+    "answer": "conjunction",
+    "distractors": ["pronoun", "adverb", "determiner"]
   },
   {
     "id": 35,
     "itemId": "as_if_vs_like",
-    "prompt": "(nieformalnie) He drives ___ he owns the whole road.",
-    "answer": "like",
-    "distractors": ["as if", "as though", "such"]
+    "prompt": "The choice between as if/as though and like is today mainly a matter of ___, not grammatical correctness.",
+    "answer": "register",
+    "distractors": ["tense", "mood", "number"]
   },
   {
     "id": 36,
     "itemId": "as_if_vs_like",
-    "prompt": "(formalny styl pisemny) The committee behaved ___ no complaints had been received.",
+    "prompt": "(formal written style) She responded ___ the accusations were entirely unfounded.",
     "answer": "as if",
     "distractors": ["like", "so", "such"]
   },
   {
     "id": 37,
     "itemId": "as_if_vs_like",
-    "prompt": "(formalny raport) The data suggest ___ the results were affected by an error.",
-    "answer": "as though",
+    "prompt": "(formal written style) The building looked ___ it had been abandoned for years.",
+    "answer": "as if",
     "distractors": ["like", "so", "such"]
   },
   {
     "id": 38,
-    "itemId": "as_if_vs_like",
-    "prompt": "(formalne wystąpienie) He spoke ___ he had rehearsed every word.",
-    "answer": "as though",
-    "distractors": ["like", "so", "such"]
+    "itemId": "as_if_to_infinitive",
+    "prompt": "She raised her hand as if ___ him, but stopped herself.",
+    "answer": "to strike",
+    "distractors": ["striking", "she struck", "struck"]
   },
   {
     "id": 39,
-    "itemId": "as_if_vs_like",
-    "prompt": "(formalny styl pisemny) She responded ___ the accusations were entirely unfounded.",
-    "answer": "as if",
-    "distractors": ["like", "so", "such"]
+    "itemId": "as_if_to_infinitive",
+    "prompt": "He paused as if ___, then said nothing at all.",
+    "answer": "to speak",
+    "distractors": ["speaking", "he spoke", "spoken"]
   },
   {
     "id": 40,
-    "itemId": "as_if_vs_like",
-    "prompt": "(formalny raport) The building looked ___ it had been abandoned for years.",
-    "answer": "as if",
-    "distractors": ["like", "so", "such"]
+    "itemId": "as_if_to_infinitive",
+    "prompt": "The old dog lifted its head as though ___, then went back to sleep.",
+    "answer": "to listen",
+    "distractors": ["listening", "it listened", "listened"]
+  },
+  {
+    "id": 41,
+    "itemId": "as_if_to_infinitive",
+    "prompt": "She turned away as if ___ her tears.",
+    "answer": "to hide",
+    "distractors": ["hiding", "she hid", "hidden"]
+  },
+  {
+    "id": 42,
+    "itemId": "as_if_to_infinitive",
+    "prompt": "'He paused as if to speak' is an ellipsis of 'he paused as if he ___ speak'.",
+    "answer": "were going to",
+    "distractors": ["speaks to", "has to", "spoke to"]
+  },
+  {
+    "id": 43,
+    "itemId": "as_if_to_infinitive",
+    "prompt": "As if/as though + to-infinitive is strongly associated with ___ narrative style rather than casual conversation.",
+    "answer": "literary",
+    "distractors": ["legal", "technical", "spoken-only"]
+  },
+  {
+    "id": 44,
+    "itemId": "as_if_to_infinitive",
+    "prompt": "He leaned forward as if ___ something, but the room stayed silent.",
+    "answer": "to whisper",
+    "distractors": ["whispering", "he whispered", "whispered"]
+  },
+  {
+    "id": 45,
+    "itemId": "as_if_exclamation",
+    "prompt": "\"Do you think she'll say yes?\" \"___!\" (a short, dismissive rejection)",
+    "answer": "As if",
+    "distractors": ["As though", "So if", "Like if"]
+  },
+  {
+    "id": 46,
+    "itemId": "as_if_exclamation",
+    "prompt": "'As if!' used alone is an extreme case of ___ — the rest of the clause is left for the listener to reconstruct from context.",
+    "answer": "ellipsis",
+    "distractors": ["inversion", "backshift", "apposition"]
+  },
+  {
+    "id": 47,
+    "itemId": "as_if_exclamation",
+    "prompt": "\"Are you going to apologize to him?\" \"___!\" (implying: that will never happen)",
+    "answer": "As if",
+    "distractors": ["As though", "So what", "Even so"]
+  },
+  {
+    "id": 48,
+    "itemId": "as_if_exclamation",
+    "prompt": "The standalone exclamation 'As if!' belongs strictly to very ___ spoken register, never to formal writing.",
+    "answer": "informal",
+    "distractors": ["formal", "legal", "academic"]
+  },
+  {
+    "id": 49,
+    "itemId": "as_if_exclamation",
+    "prompt": "\"Are you scared?\" \"___!\"",
+    "answer": "As if",
+    "distractors": ["As though", "So if", "Like so"]
+  },
+  {
+    "id": 50,
+    "itemId": "as_if_exclamation",
+    "prompt": "He asked me to lend him money again. ___ I hadn't already heard that one before.",
+    "answer": "As if",
+    "distractors": ["As though not", "So that", "Even if"]
   }
 ]
