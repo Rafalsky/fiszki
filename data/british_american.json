@@ -1,98 +1,240 @@
 [
   {
-    "id": "have_got",
+    "id": "colonial_lag_and_divergence",
     "order": 1,
-    "nameEn": "have got vs have (possession)",
-    "namePl": "have got a have — wyrażanie posiadania",
+    "nameEn": "How two Englishes diverged: colonial lag and parallel standardization",
+    "namePl": "Jak rozeszły się dwa angielskie: opóźnienie kolonialne i równoległa standaryzacja",
     "rules": [
-      { "label": "BrE", "text": "W brytyjskim angielskim posiadanie i pytania o nie zwykle wyraża się przez 'have got' (Have you got...? / I haven't got...)" },
-      { "label": "AmE", "text": "W amerykańskim angielskim naturalniejsze jest zwykłe 'have' z operatorem 'do' (Do you have...? / I don't have...)" },
-      { "label": "Uwaga", "text": "Obie formy są zrozumiałe po obu stronach Atlantyku, ale w ćwiczeniach trzymamy się wskazanego wariantu" }
+      { "label": "Wspólny pień: język pierwszych osadników", "text": "Kolonizacja Ameryki Północnej zaczęła się w Jamestown (1607) i Plymouth (1620) — mówiono tam odmianą wczesnonowożytnego angielskiego z czasów Szekspira i Króla Jakuba, jeszcze przed wieloma zmianami, które dopiero miały zajść w samej Anglii. Brytyjski i amerykański angielski to więc nie 'oryginał i kopia', tylko dwie gałęzie tego samego XVII-wiecznego pnia, które od tamtej pory rozwijały się niezależnie przez ponad 400 lat." },
+      { "label": "Opóźnienie kolonialne (colonial lag)", "text": "Gdy grupa mówiących odrywa się od macierzystej wspólnoty językowej i osiedla w nowym miejscu, jej mowa bywa częściowo odcięta od fal innowacji, które dalej przetaczają się przez metropolię — nowe mody wymowy, gramatyki czy słownictwa rodzą się zwykle w gęstych, prestiżowych sieciach społecznych (stolica, dwór, uniwersytety), a kolonia, oddalona i mniej podatna na te wpływy, bywa pod pewnymi względami 'bardziej konserwatywna' niż język macierzysty. Dlatego część cech dzisiejszego amerykańskiego angielskiego (np. wymowa rotyczna, czyli wymawiane 'r' po samogłosce, albo 'gotten') jest w istocie starsza niż odpowiadające im formy brytyjskie — Ameryka nie 'zepsuła' angielskiego, momentami po prostu go nie zmieniła." },
+      { "label": "Nie wszystko to skamielina — bywa też niezależna innowacja", "text": "Opóźnienie kolonialne tłumaczy tylko część różnic. Równie często obie odmiany wprowadzały WŁASNE, niezależne nowości już PO rozdzieleniu — Ameryka nie jest muzeum językowym zamrożonym w XVII wieku, tylko żywym systemem, który przez cztery stulecia zmieniał się swoim własnym torem, czasem szybciej niż Brytania, czasem wolniej, zależnie od konkretnej cechy." },
+      { "label": "Dwa niezależne ośrodki kodyfikacji normy", "text": "Standard językowy nie spadł z nieba — został w dużej mierze SPISANY. W Anglii kluczową rolę odegrał słownik Samuela Johnsona (1755), tworzony z pozycji ustabilizowanej, starej metropolii, która chciała 'oczyścić' i ustalić już istniejący język. W młodej, dopiero co niepodległej Ameryce Noah Webster opublikował własny słownik (An American Dictionary of the English Language, 1828) z wyraźnie innym celem: świadomie chciał odróżnić język Amerykanów od języka byłego kolonizatora, uprościć pisownię (color zamiast colour, center zamiast centre) i uczynić gramatykę bardziej 'regularną' — traktował to jako element budowania odrębnej tożsamości narodowej, nie tylko jako neutralny opis języka." }
     ],
     "usage": [
-      "Pytania o posiadanie w BrE: Have you got a car?",
-      "Pytania o posiadanie w AmE: Do you have a car?",
-      "Przeczenia w BrE: I haven't got any money.",
-      "Przeczenia w AmE: I don't have any money."
+      "'Opóźnienie kolonialne' nie znaczy, że amerykański angielski jest 'gorszy' albo 'uproszczony' — czasem to on jest bliższy językowi sprzed 400 lat, a to Brytania poszła dalej.",
+      "Różnice gramatyczne między BrE a AmE mają zwykle jedną z dwóch przyczyn: (1) obie odmiany zachowały inny wariant tej samej starej, konkurencyjnej cechy z XVII wieku, albo (2) jedna odmiana wprowadziła własną innowację już po rozdzieleniu, a druga tego nie zrobiła.",
+      "Webster i jego XIX-wieczne podręczniki gramatyki odegrały w Ameryce rolę porównywalną do brytyjskich prescryptywistów — ale z odmiennym programem: standaryzacja jako narzędzie budowania narodu, nie tylko elegancji stylu.",
+      "Traktuj różnice BrE/AmE nie jako listę 'błędów do zapamiętania', tylko jako naturalny eksperyment: ten sam język puszczony w dwóch kierunkach na cztery wieki — każda różnica ma swoją historię i logikę, którą warto poznać zamiast wykuwać na pamięć."
     ],
-    "tags": ["Have you got...?", "Do you have...?", "haven't got", "don't have"],
+    "tags": ["colonial lag", "Noah Webster", "Samuel Johnson", "1607 Jamestown", "1620 Plymouth", "standaryzacja"],
     "examples": [
-      { "en": "Have you got a sister? (BrE)", "pl": "Masz siostrę? (brytyjski)" },
-      { "en": "Do you have a sister? (AmE)", "pl": "Masz siostrę? (amerykański)" },
-      { "en": "She hasn't got a driving licence. (BrE)", "pl": "Ona nie ma prawa jazdy. (brytyjski)" },
-      { "en": "She doesn't have a driving licence. (AmE)", "pl": "Ona nie ma prawa jazdy. (amerykański)" }
+      { "en": "In British English, people still say 'Have you got a moment?', while Americans usually say 'Do you have a moment?'", "pl": "W brytyjskim angielskim mówi się 'Have you got a moment?', a Amerykanie zwykle 'Do you have a moment?'." },
+      { "en": "Noah Webster deliberately changed 'colour' to 'color' to give the young United States its own linguistic identity.", "pl": "Noah Webster celowo zmienił 'colour' na 'color', by dać młodym Stanom Zjednoczonym własną tożsamość językową." },
+      { "en": "Some 'typically American' features, like pronouncing the 'r' in 'car', are actually older than the modern British pronunciation.", "pl": "Niektóre 'typowo amerykańskie' cechy, jak wymawianie 'r' w 'car', są w rzeczywistości starsze niż współczesna wymowa brytyjska." },
+      { "en": "Both dialects kept evolving independently for over four hundred years after the first settlers arrived.", "pl": "Obie odmiany rozwijały się niezależnie przez ponad czterysta lat od przybycia pierwszych osadników." }
     ]
   },
   {
-    "id": "collective_nouns",
+    "id": "have_got_possession",
     "order": 2,
-    "nameEn": "Collective nouns: singular or plural verb",
-    "namePl": "Rzeczowniki zbiorowe — liczba pojedyncza czy mnoga czasownika",
+    "nameEn": "have got vs have: a fossilized Present Perfect turned possession marker",
+    "namePl": "have got a have: skamieniały Present Perfect, który stał się znacznikiem posiadania",
     "rules": [
-      { "label": "BrE", "text": "Rzeczowniki zbiorowe (team, family, government, staff) mogą łączyć się z czasownikiem w liczbie mnogiej, gdy podkreślamy poszczególnych członków grupy" },
-      { "label": "AmE", "text": "Rzeczowniki zbiorowe niemal zawsze łączą się z czasownikiem w liczbie pojedynczej, traktowane jako jedna całość" },
-      { "label": "Zaimek", "text": "Zgodnie z liczbą czasownika dobiera się też zaimek: 'The team are doing their best' (BrE) vs 'The team is doing its best' (AmE)" }
+      { "label": "Skąd wzięło się 'get'", "text": "Czasownik 'get' nie jest rdzennie angielski — to zapożyczenie z języka staronordyckiego (geta, 'zdobyć, uzyskać'), które weszło do angielszczyzny w wyniku kontaktu z wikińskimi osadnikami w Danelaw (IX–XI w.). Zanim 'get' pojawiło się w tej roli, posiadanie wyrażano po prostu przez staroangielskie 'habban' (dzisiejsze 'have'). Wprowadzenie 'get' dało językowi nowe, dynamiczne słowo o znaczeniu 'wejść w posiadanie', wyraźnie różne od statycznego 'have' — a właśnie ta różnica (czynność zdobywania kontra już istniejący stan) leży u podstaw dzisiejszej konstrukcji 'have got'." },
+      { "label": "'Have got' jako zwykły Present Perfect", "text": "'I have got a car' było pierwotnie zwyczajnym czasem Present Perfect od 'get': 'zdobyłem/nabyłem samochód' — zdanie mówiło więc o CZYNNOŚCI zdobycia, z której wynika obecny REZULTAT (mam go teraz). Z czasem, ponieważ posiadanie czegoś jest naturalnym, trwałym skutkiem jego zdobycia, mówiący przestali odczuwać w tej frazie odrębne 'zdarzenie w przeszłości' — 'have got' zaczęto rozumieć wprost jako opis obecnego STANU posiadania, a nie czynności, która do niego doprowadziła. To klasyczny mechanizm językowy: forma gramatyczna zastyga i przechodzi w nowe, czysto leksykalne znaczenie." },
+      { "label": "Dlaczego 'have' w 'have got' zachowuje się jak operator", "text": "Skoro 'have got' to zastygły Present Perfect, 'have' w tej konstrukcji formalnie WCIĄŻ jest czasownikiem posiłkowym (tak jak w 'have finished', 'have done'), a nie głównym czasownikiem leksykalnym. Dlatego w brytyjskim angielskim tworzy pytania przez inwersję (Have you got...?) i przeczenia przez proste dodanie 'not' (haven't got) — dokładnie tak, jak każdy inny czasownik posiłkowy, bez potrzeby sięgania po 'do'." },
+      { "label": "Dlaczego Amerykanie częściej mówią 'Do you have'", "text": "W amerykańskim angielskim zwykłe 'have' (bez 'got') w znaczeniu posiadania na dobre przeszło do kategorii zwykłych czasowników leksykalnych — a od XVI wieku, wraz z upowszechnieniem tzw. do-support, właśnie taka kategoria czasowników tworzy pytania i przeczenia przez pomocnicze 'do', a nie przez inwersję. 'Have got' jako emfatyczny, nieco potoczny wariant wciąż istnieje po obu stronach Atlantyku, ale to Brytania konsekwentnie zachowała go jako DOMYŚLNY, neutralny sposób mówienia o posiadaniu, podczas gdy Ameryka domyślnie wróciła do zwykłego 'have' + do-support." }
     ],
     "usage": [
-      "The team are playing well tonight. (BrE, drużyna jako zbiór osób)",
-      "The team is playing well tonight. (AmE, drużyna jako jednostka)",
-      "My family are all doctors. (BrE)",
-      "My family is very supportive. (AmE)"
+      "BrE: Have you got a sister? / I haven't got any money. — 'have' zachowuje się jak czasownik posiłkowy.",
+      "AmE: Do you have a sister? / I don't have any money. — 'have' zachowuje się jak zwykły czasownik leksykalny.",
+      "'Have got' po obu stronach Atlantyku bywa też nieco emfatyczne/potoczne — różnica dotyczy tego, który wariant jest domyślny w neutralnym rejestrze.",
+      "W czasie przeszłym różnica znika: obie odmiany mówią po prostu 'I had a car' — 'have got' istnieje właściwie tylko w czasie teraźniejszym, co samo w sobie jest śladem jego pochodzenia z Present Perfect, który zawsze łączy przeszłość z TERAŹNIEJSZYM rezultatem."
     ],
-    "tags": ["The team are/is", "My family are/is", "government are/is", "staff"],
+    "tags": ["Have you got...?", "Do you have...?", "get < staronordyckie geta", "Present Perfect jako źródło"],
     "examples": [
-      { "en": "The government are considering new taxes. (BrE)", "pl": "Rząd rozważa nowe podatki. (brytyjski)" },
-      { "en": "The government is considering new taxes. (AmE)", "pl": "Rząd rozważa nowe podatki. (amerykański)" },
-      { "en": "England are winning the match. (BrE, sport)", "pl": "Anglia wygrywa mecz. (brytyjski)" },
-      { "en": "The committee has made its decision. (AmE)", "pl": "Komisja podjęła decyzję. (amerykański)" }
+      { "en": "Have you got any brothers or sisters?", "pl": "Masz jakieś rodzeństwo? (BrE)" },
+      { "en": "Do you have any brothers or sisters?", "pl": "Masz jakieś rodzeństwo? (AmE)" },
+      { "en": "I haven't got a clue what he means.", "pl": "Nie mam bladego pojęcia, o co mu chodzi. (BrE)" },
+      { "en": "I don't have a clue what he means.", "pl": "Nie mam bladego pojęcia, o co mu chodzi. (AmE)" },
+      { "en": "She's got two cats and a dog.", "pl": "Ona ma dwa koty i psa. (BrE, neutralnie)" }
     ]
   },
   {
-    "id": "present_perfect_vs_past",
+    "id": "collective_noun_agreement",
     "order": 3,
-    "nameEn": "Present Perfect vs Simple Past with just/already/yet",
-    "namePl": "Present Perfect a Simple Past z just/already/yet",
+    "nameEn": "Collective nouns: notional vs formal agreement",
+    "namePl": "Rzeczowniki zbiorowe: zgoda znaczeniowa (notional) a zgoda formalna",
     "rules": [
-      { "label": "BrE", "text": "Z 'just', 'already' i 'yet' oraz przy ogłaszaniu świeżej wiadomości standardowo używa się Present Perfect" },
-      { "label": "AmE", "text": "W tych samych kontekstach naturalny i akceptowalny jest też Simple Past" },
-      { "label": "Imiesłów 'get'", "text": "BrE używa 'got' jako imiesłowu (have got), AmE rozróżnia 'have gotten' (stać się/otrzymać) od 'have got' (posiadać)" }
+      { "label": "Dwie logiki zgody podmiotu z orzeczeniem", "text": "Angielski od zawsze dopuszczał dwa konkurencyjne sposoby dopasowania czasownika do rzeczownika zbiorowego (team, family, government): zgodę FORMALNĄ, opartą wyłącznie na gramatycznej liczbie samego rzeczownika (team jest gramatycznie pojedyncze, więc 'is'), oraz zgodę NOTIONALNĄ, znaczeniową, opartą na tym, co rzeczownik realnie oznacza (team to grupa wielu osób, więc 'are'). To nie jest błąd jednej ze stron — to dwie różne, wewnętrznie spójne zasady, które od stuleci współistnieją w angielszczyźnie." },
+      { "label": "Notionalna zgoda jako starszy, germański wzorzec", "text": "Zgoda znaczeniowa jest starsza i głębiej zakorzeniona w germańskiej naturze angielskiego — staro- i średnioangielski regularnie łączyły rzeczowniki zbiorowe z czasownikami w liczbie mnogiej, gdy kontekst podkreślał wielu członków grupy. Brytyjski angielski zachował tę elastyczność najpełniej: pozwala mówiącemu WYBRAĆ formę czasownika zależnie od tego, czy chce mówić o grupie jako jednej całości ('the team is a strong unit'), czy o jej członkach jako wielu jednostkach ('the team are arguing among themselves')." },
+      { "label": "Zgoda formalna jako produkt XVIII/XIX-wiecznego prescryptywizmu", "text": "Sztywna zasada 'rzeczownik pojedynczy = czasownik w liczbie pojedynczej, kropka' to w dużej mierze dziedzictwo gramatyków wzorujących angielską gramatykę na łacinie, języku o dużo ściślejszej, formalnej zgodzie liczby. W XIX-wiecznej Ameryce podręczniki takie jak gramatyka Lindleya Murraya trafiły do szkół publicznych na skalę i przez czas dłuższy oraz bardziej systematycznie niż w samej Brytanii, gdzie mówiona norma — zwłaszcza w sporcie i codziennej rozmowie — opierała się prescryptywistom skuteczniej. Efekt: AmE dziś niemal zawsze wybiera formę pojedynczą dla rzeczowników zbiorowych, BrE swobodnie przełącza się między obiema w zależności od znaczenia." },
+      { "label": "Kiedy obie odmiany się zgadzają", "text": "Gdy rzeczownik nie ma w ogóle sensownej lektury pojedynczej — jak 'the police', 'cattle' czy 'people' w znaczeniu 'ludzie' — obie odmiany zgodnie stosują liczbę mnogą (The police are investigating), bo tu nie ma prawdziwej konkurencji dwóch logik: znaczenie jest jednoznacznie mnogie." }
     ],
     "usage": [
-      "I've just finished my homework. (BrE, typowe)",
-      "I just finished my homework. (AmE, typowe)",
-      "Have you done it yet? (BrE)",
-      "Did you do it yet? (AmE)"
+      "BrE: The team are playing well / My family are all doctors — akcent na członków grupy.",
+      "AmE: The team is playing well / My family is very supportive — grupa jako jedna całość.",
+      "Zaimek zwrotny podąża za wybraną liczbą: The team are doing their best (BrE) vs The team is doing its best (AmE).",
+      "'The police', 'cattle', 'people' (ludzie) są mnogie w OBU odmianach — bo nie mają sensownej wersji pojedynczej.",
+      "W nazwach drużyn sportowych BrE niemal zawsze wybiera liczbę mnogą (England are winning), nawet gdy sam mówiący na co dzień preferowałby zgodę formalną gdzie indziej."
     ],
-    "tags": ["I've just...", "I just...", "have you done it yet", "gotten"],
+    "tags": ["notional agreement", "formal agreement", "Lindley Murray", "the team are/is", "the police are"],
     "examples": [
-      { "en": "I've already eaten. (BrE)", "pl": "Już zjadłem. (brytyjski)" },
-      { "en": "I already ate. (AmE)", "pl": "Już zjadłem. (amerykański)" },
-      { "en": "She's gotten much better at tennis. (AmE)", "pl": "Ona znacznie się poprawiła w tenisie. (amerykański)" },
-      { "en": "She's got much better at tennis. (BrE)", "pl": "Ona znacznie się poprawiła w tenisie. (brytyjski)" }
+      { "en": "The government are considering new taxes.", "pl": "Rząd rozważa nowe podatki. (BrE)" },
+      { "en": "The government is considering new taxes.", "pl": "Rząd rozważa nowe podatki. (AmE)" },
+      { "en": "England are winning the match.", "pl": "Anglia wygrywa mecz. (BrE, sport)" },
+      { "en": "The committee has made its decision.", "pl": "Komisja podjęła decyzję. (AmE)" },
+      { "en": "The police are still searching for the suspect.", "pl": "Policja wciąż szuka podejrzanego. (obie odmiany)" }
     ]
   },
   {
-    "id": "shall_needn't",
+    "id": "present_perfect_recency",
     "order": 4,
-    "nameEn": "shall & needn't vs will & don't need to",
-    "namePl": "shall i needn't a will i don't need to",
+    "nameEn": "Present Perfect vs Simple Past with just/already/yet: a change in progress",
+    "namePl": "Present Perfect a Simple Past z just/already/yet: zmiana językowa w toku",
     "rules": [
-      { "label": "BrE", "text": "W propozycjach i pytaniach o sugestie w pierwszej osobie BrE chętnie używa 'shall' (Shall we go? Shall I help?)" },
-      { "label": "AmE", "text": "W tych samych sytuacjach AmE zwykle woli 'should' albo 'will/let's' (Should we go? Let's go.)" },
-      { "label": "needn't", "text": "BrE dopuszcza modalne 'needn't' (You needn't worry), AmE preferuje opisowe 'don't need to' (You don't need to worry)" }
+      { "label": "Co właściwie robi Present Perfect", "text": "Present Perfect w angielskim od zawsze łączył dwa plany czasowe naraz: zdarzenie umieszczone w przeszłości, ale którego SKUTEK lub AKTUALNOŚĆ dotyczy chwili mówienia. 'Just', 'already' i 'yet' to właśnie słowa podkreślające ten pomost między przeszłością a teraźniejszością — stąd naturalnie 'lgnęły' do Present Perfect: mówią o czymś, co dopiero co się stało (just), albo jest wciąż aktualne teraz (already/yet)." },
+      { "label": "Simple Past wkracza na terytorium Present Perfect w AmE", "text": "W amerykańskim angielskim od co najmniej XIX/XX wieku trwa stopniowe rozszerzanie zakresu Simple Past kosztem Present Perfect — zjawisko określane w lingwistyce jako 'perfect levelling' (spłaszczanie rozróżnienia między obiema formami). Simple Past w AmE zaczął pełnić funkcje semantycznie zarezerwowane w BrE dla Present Perfect, zwłaszcza w kontekstach 'świeżej wiadomości' (just) i podsumowań (already/yet) — nie dlatego, że Amerykanie 'nie znają' Present Perfect (wciąż używają go poprawnie w innych kontekstach, np. z 'since'/'for'), lecz dlatego, że granica funkcjonalna między obiema formami przesunęła się." },
+      { "label": "To zmiana w toku, nie sztywna reguła", "text": "To rozróżnienie nie jest binarnym przełącznikiem 'BrE zawsze Perfect, AmE zawsze Past' — to raczej różnica w PRAWDOPODOBIEŃSTWIE wyboru danej formy w danym kontekście, a granica przesuwa się w czasie: forma z Simple Past + just ('I just finished') jest dziś akceptowana coraz szerzej także w mówionym BrE, zwłaszcza wśród młodszych pokoleń — pokazuje to, że zmiana językowa rzadko zatrzymuje się na granicy Atlantyku, tylko rozprzestrzenia się z opóźnieniem." },
+      { "label": "Kontekst decyduje, nie sama forma", "text": "Simple Past w AmE w tych zdaniach wciąż formalnie odnosi się do konkretnego, domyślnie znanego momentu w przeszłości, nawet jeśli nieokreślonego wprost — różnica jest więc subtelna: to nie jest 'zła gramatyka', tylko inny domyślny próg tego, kiedy mówiący uznaje moment za wystarczająco 'przeszły', by porzucić Present Perfect." }
     ],
     "usage": [
-      "Shall we start? (BrE, propozycja)",
-      "Should we start? / Let's start. (AmE)",
-      "You needn't apologise. (BrE)",
-      "You don't need to apologize. (AmE)"
+      "BrE: I've just finished my homework. / AmE: I just finished my homework.",
+      "BrE: Have you done it yet? / AmE: Did you do it yet?",
+      "BrE: I've already eaten. / AmE: I already ate.",
+      "W obu odmianach Present Perfect pozostaje obowiązkowy z 'since' i 'for' (I've lived here since 2010) — różnica dotyczy WYŁĄCZNIE kontekstów just/already/yet i 'świeżej wiadomości'."
     ],
-    "tags": ["Shall we...?", "needn't", "don't need to", "Should we...?"],
+    "tags": ["perfect levelling", "just/already/yet", "zmiana językowa w toku"],
     "examples": [
-      { "en": "Shall I open the window? (BrE)", "pl": "Czy mam otworzyć okno? (brytyjski)" },
-      { "en": "Should I open the window? (AmE)", "pl": "Czy mam otworzyć okno? (amerykański)" },
-      { "en": "You needn't bring anything to the party. (BrE)", "pl": "Nie musisz nic przynosić na przyjęcie. (brytyjski)" },
-      { "en": "You don't need to bring anything to the party. (AmE)", "pl": "Nie musisz nic przynosić na przyjęcie. (amerykański)" }
+      { "en": "I've just finished my homework.", "pl": "Właśnie skończyłem odrabiać lekcje. (BrE)" },
+      { "en": "I just finished my homework.", "pl": "Właśnie skończyłem odrabiać lekcje. (AmE)" },
+      { "en": "Have you done it yet?", "pl": "Zrobiłeś to już? (BrE)" },
+      { "en": "Did you do it yet?", "pl": "Zrobiłeś to już? (AmE)" },
+      { "en": "I've already eaten, thanks.", "pl": "Już zjadłem, dzięki. (BrE)" }
+    ]
+  },
+  {
+    "id": "got_vs_gotten",
+    "order": 5,
+    "nameEn": "got vs gotten: a paradigm that levelled in Britain but split in two in America",
+    "namePl": "got a gotten: paradygmat, który w Brytanii się wyrównał, a w Ameryce rozdwoił",
+    "rules": [
+      { "label": "'Get' to czasownik mocny — i jego oczekiwane formy", "text": "'Get' odziedziczyło (przez staronordyckie 'geta') wzorzec odmiany typowy dla germańskich czasowników MOCNYCH, które zmieniają samogłoskę rdzenia zamiast dodawać końcówkę: get – got – gotten, dokładnie tak jak forget – forgot – forgotten czy beget – begot – begotten. Trzyczłonowy paradygmat (bezokolicznik / czas przeszły / imiesłów bierny) to historycznie 'domyślna', regularna forma dla tej klasy czasowników — to WŁAŚNIE 'gotten', a nie 'got', jest etymologicznie 'zwyczajną' formą imiesłowu." },
+      { "label": "Wyrównanie paradygmatu w Brytanii", "text": "Od XVII–XVIII wieku w brytyjskim angielskim zaszedł szeroko zakrojony proces 'wyrównywania' (levelling) form czasowników mocnych — wiele z nich traciło odrębną formę imiesłowu na rzecz formy czasu przeszłego, upraszczając paradygmat z trzech członów do dwóch, podobnie jak np. 'help' straciło dawne 'holp' na rzecz 'helped'. 'Get' poszedł tą samą drogą: 'gotten' wyszło z użycia na rzecz jednego, uniwersalnego 'got' pełniącego obie funkcje (I got it wczoraj = zdobyłem; I have got it teraz = mam)." },
+      { "label": "Ameryka nie wyrównała paradygmatu — i poszła dalej", "text": "Amerykański angielski zachował odrębne 'gotten' jako imiesłów, NIE ulegając brytyjskiemu wyrównaniu — ale na tym nie poprzestał: z czasem wykorzystał istnienie DWÓCH form imiesłowu, by rozdzielić między nie dwa różne znaczenia, których BrE, mające tylko jedną formę, nie może rozróżnić na poziomie gramatycznym. To pokazuje, że opóźnienie kolonialne bywa punktem wyjścia do zupełnie nowej, własnej innowacji, a nie tylko biernym 'zamrożeniem' starej formy." },
+      { "label": "Nowy podział znaczeń: stan kontra zmiana stanu", "text": "W AmE 'have got' oznacza czysto STATYCZNE posiadanie, bez żadnej implikacji zmiany ('I've got a headache' = po prostu boli mnie teraz głowa), natomiast 'have gotten' oznacza DYNAMICZNE wejście w nowy stan albo otrzymanie czegoś ('I've gotten a headache' = rozbolała mnie głowa, nastąpiła zmiana; 'She's gotten better' = stała się lepsza). BrE, dysponując tylko jedną formą ('got'), musi tę różnicę wyrazić innymi środkami, bo sama gramatyka jej nie koduje." }
+    ],
+    "usage": [
+      "AmE stative: I've got two brothers. (mam — stan, bez 'gotten')",
+      "AmE dynamic: I've gotten a new phone. (zdobyłem/otrzymałem — zmiana stanu)",
+      "BrE: I've got two brothers. / She's got much better at tennis. — jedna forma na oba znaczenia.",
+      "AmE: She's gotten much better at tennis. (nastąpiła zmiana — poprawiła się)",
+      "'Forgotten' i 'begotten' pokazują, że 'gotten' jako imiesłów wcale nie jest 'wymysłem' — to zachowany wzorzec tej samej rodziny czasowników."
+    ],
+    "tags": ["got vs gotten", "levelling czasowników mocnych", "forgotten/begotten", "stative vs dynamic"],
+    "examples": [
+      { "en": "She's gotten much better at tennis this year.", "pl": "Ona bardzo się poprawiła w tenisie w tym roku. (AmE, zmiana stanu)" },
+      { "en": "She's got much better at tennis this year.", "pl": "Ona bardzo się poprawiła w tenisie w tym roku. (BrE, ta sama forma na wszystko)" },
+      { "en": "I've got a headache.", "pl": "Boli mnie głowa. (stan, obie odmiany)" },
+      { "en": "I've gotten a headache since lunch.", "pl": "Od obiadu rozbolała mnie głowa. (AmE, zmiana stanu)" },
+      { "en": "Have you forgotten your keys again?", "pl": "Znowu zapomniałeś kluczy? (forgotten — ten sam wzorzec co gotten)" }
+    ]
+  },
+  {
+    "id": "shall_neednt_modality",
+    "order": 6,
+    "nameEn": "shall & needn't vs will & don't need to: the rise and fall of an invented rule",
+    "namePl": "shall i needn't a will i don't need to: wzlot i upadek wymyślonej reguły",
+    "rules": [
+      { "label": "Dwa niezależne czasowniki modalne germańskiego pochodzenia", "text": "'Shall' i 'will' zaczynały jako dwa zupełnie odrębne czasowniki modalne o wyraźnie różnych znaczeniach rdzennych: staroangielskie 'sceal' niosło znaczenie zobowiązania/długu ('być winnym, być zobowiązanym do...'), a 'willan' — znaczenie chęci/woli ('chcieć, zamierzać'). Żadne z nich pierwotnie nie było 'zwykłym' znacznikiem czasu przyszłego — oba wyrażały MODALNOŚĆ, a przyszłość wynikała z niej niejako przy okazji: to, co ktoś 'jest winien zrobić' albo 'chce zrobić', naturalnie leży jeszcze przed nim, w przyszłości." },
+      { "label": "Wymyślona reguła XVII-wiecznych gramatyków", "text": "Prosta, symetryczna reguła 'shall dla 1. osoby, will dla 2./3. (i odwrotnie dla emfazy)', znana wielu uczącym się jako sztywna zasada, nie jest naturalnym opisem żywego języka, tylko sztuczną konstrukcją zaproponowaną przez brytyjskich gramatyków, przypisywaną m.in. Johnowi Wallisowi (1653), którzy próbowali narzucić angielszczyźnie logiczną, symetryczną siatkę, jakiej w praktyce mówiący nigdy ściśle nie przestrzegali. Reguła ta przetrwała jednak w podręcznikach i szkołach brytyjskich znacznie dłużej niż w amerykańskich." },
+      { "label": "Dlaczego 'will' wygrał w Ameryce", "text": "Ponieważ sztuczna reguła shall/will nigdy nie była tak systematycznie wpajana w amerykańskim systemie szkolnym jak w brytyjskim, nic nie powstrzymywało naturalnej tendencji języka do UPRASZCZANIA systemu przez wybranie jednej, uniwersalnej formy do oznaczania przyszłości — i tą formą stało się 'will', dziś skrócone do 'll niemal we wszystkich kontekstach. 'Shall' przetrwało w Ameryce głównie w rejestrze prawniczym i formalnym (the tenant shall pay rent), gdzie archaizmy językowe utrzymują się najdłużej, ale zniknęło z codziennych próśb i propozycji." },
+      { "label": "'Needn't' jako ostatni bastion modalnego 'need'", "text": "'Need' w znaczeniu 'musieć/potrzebować' historycznie funkcjonowało w angielszczyźnie na dwa sposoby naraz: jako zwykły czasownik leksykalny (I need to go, z do-support: Do I need to go?) oraz jako defektywny czasownik modalny, zachowujący się jak 'must' czy 'can' (I needn't go, bez 'to', bez do-support: Need I go?). Brytyjski angielski zachował ten drugi, modalny wariant żywym, choć ograniczonym do przeczeń i pytań w dość formalnym rejestrze; amerykański angielski niemal całkowicie porzucił modalne 'need' na rzecz jednolitego traktowania go jak zwykłego czasownika (don't need to) — ten sam mechanizm regularyzacji, który wyparł też inne dawne czasowniki defektywne, np. modalne 'dare', niemal zanikłe w AmE." }
+    ],
+    "usage": [
+      "BrE: Shall we start? (uprzejma propozycja) / AmE: Should we start? / Let's start.",
+      "BrE: Shall I open the window? / AmE: Should I open the window?",
+      "BrE: You needn't apologise. / AmE: You don't need to apologize.",
+      "'Shall' w umowach i przepisach prawnych (the buyer shall notify the seller) przetrwało w OBU odmianach — rejestr formalny/prawniczy jest najbardziej odporny na zmiany."
+    ],
+    "tags": ["shall vs will", "John Wallis", "needn't", "modalne 'need'", "prescryptywizm"],
+    "examples": [
+      { "en": "Shall I open the window?", "pl": "Czy mam otworzyć okno? (BrE, uprzejma propozycja)" },
+      { "en": "Should I open the window?", "pl": "Czy mam otworzyć okno? (AmE)" },
+      { "en": "You needn't bring anything to the party.", "pl": "Nie musisz nic przynosić na przyjęcie. (BrE)" },
+      { "en": "You don't need to bring anything to the party.", "pl": "Nie musisz nic przynosić na przyjęcie. (AmE)" },
+      { "en": "The tenant shall pay rent by the fifth of each month.", "pl": "Najemca zobowiązany jest płacić czynsz do piątego dnia każdego miesiąca. (rejestr prawniczy, obie odmiany)" }
+    ]
+  },
+  {
+    "id": "mandative_subjunctive_dialect",
+    "order": 7,
+    "nameEn": "The mandative subjunctive: alive in America, replaced by 'should' in Britain",
+    "namePl": "Tryb łączący po czasownikach żądania: żywy w Ameryce, zastąpiony przez 'should' w Brytanii",
+    "rules": [
+      { "label": "Czym jest tryb łączący i dlaczego zwykle go nie widać", "text": "Angielski tryb łączący (subjunctive) to forma czasownika używana, gdy mówimy nie o faktach, lecz o czymś życzonym, żądanym lub hipotetycznym — w praktyce, poza czasownikiem 'be', wygląda identycznie jak zwykły bezokolicznik bez 'to' i nie przybiera końcówki '-s' w 3. osobie liczby pojedynczej, przez co w większości zdań jest niemal niewidoczny: widać go dopiero, gdy 'zdradza się' formą różną od oczekiwanej (he go zamiast he goes)." },
+      { "label": "Konstrukcja mandatywna: żądania, sugestie, polecenia", "text": "Po czasownikach i wyrażeniach niosących ideę żądania, sugestii czy konieczności (suggest, recommend, insist, demand, it is essential that...) angielski od średniowiecza wymagał w zdaniu podrzędnym trybu łączącego, a nie zwykłego trybu oznajmującego — logika jest taka, że treść takiego zdania podrzędnego nie jest jeszcze FAKTEM, tylko czyjąś WOLĄ, by coś się stało, więc gramatyka sygnalizuje to specjalną, 'niefaktualną' formą czasownika." },
+      { "label": "Dlaczego Ameryka zachowała tę formę żywą, a Brytania nie", "text": "Amerykański angielski zachował konstrukcję mandatywną z gołym subjunctive jako w pełni produktywną i naturalną w mowie codziennej: 'I suggest that he leave immediately' (leave, nie leaves). W Brytanii ta sama konstrukcja przez wieki stopniowo zanikała z mowy potocznej — prawdopodobnie dlatego, że dla większości czasowników subjunctive brzmi identycznie jak zwykły bezokolicznik i nie niesie żadnego wyraźnego sygnału dźwiękowego, więc BrE zastąpił ją jednoznacznym, 'słyszalnym' środkiem: modalnym 'should' ('I suggest that he should leave immediately'), które wprost sygnalizuje, że mowa o czyimś ŻĄDANIU, a nie o stwierdzonym fakcie." },
+      { "label": "'Should' peryfrastyczne nie jest tu warunkowe", "text": "Kluczowa pułapka: 'should' w tej konstrukcji BrE nie oznacza rady ani warunku, jak w 'you should go' — to czysto gramatyczny, semantycznie 'pusty' wskaźnik trybu łączącego, pełniący dokładnie tę samą funkcję co goły bezokolicznik w wersji amerykańskiej. Dlatego oba zdania — z 'should' i bez — znaczą dokładnie to samo, różnią się tylko środkiem gramatycznym użytym do zasygnalizowania niefaktualności." }
+    ],
+    "usage": [
+      "AmE: I insist that she call me tomorrow. (call, nie calls)",
+      "BrE: I insist that she should call me tomorrow. (rzadziej też: I insist that she call me tomorrow.)",
+      "AmE: It's essential that he be on time. (be, nie is)",
+      "BrE: It's essential that he should be on time.",
+      "Ta konstrukcja to węższy, transatlantycki wycinek szerszego tematu trybu łączącego w angielskim — zob. osobny temat 'Subjunctive'; tu skupiamy się wyłącznie na różnicy AmE/BrE w zdaniach mandatywnych."
+    ],
+    "tags": ["mandative subjunctive", "should peryfrastyczne", "suggest/insist/demand that", "AmE vs BrE"],
+    "examples": [
+      { "en": "I suggest that he leave immediately.", "pl": "Sugeruję, żeby wyszedł natychmiast. (AmE, goły subjunctive)" },
+      { "en": "I suggest that he should leave immediately.", "pl": "Sugeruję, żeby wyszedł natychmiast. (BrE, peryfrastyczne 'should')" },
+      { "en": "It is essential that every applicant submit the form by Friday.", "pl": "Konieczne jest, aby każdy kandydat złożył formularz do piątku. (AmE)" },
+      { "en": "It is essential that every applicant should submit the form by Friday.", "pl": "Konieczne jest, aby każdy kandydat złożył formularz do piątku. (BrE)" },
+      { "en": "The committee recommended that the policy be reviewed annually.", "pl": "Komisja zaleciła, aby polityka była corocznie weryfikowana. (AmE, 'be' jako subjunctive)" }
+    ]
+  },
+  {
+    "id": "irregular_past_forms_dialect",
+    "order": 8,
+    "nameEn": "-ed vs -t, and dived vs dove: two different stories of verb levelling",
+    "namePl": "-ed a -t oraz dived a dove: dwie różne historie wyrównywania czasowników",
+    "rules": [
+      { "label": "Skąd wzięła się końcówka -t", "text": "Zarówno '-ed', jak i '-t' to w istocie ta sama, wspólna germańska końcówka czasu przeszłego (tzw. dental suffix, spółgłoska zębowa dodawana do rdzenia), tylko w dwóch różnych realizacjach fonetycznych: po spółgłoskach bezdźwięcznych i sonantach (n, l, m) w wymowie naturalnie ubezdźwięczniała się i skracała do /t/ (learn+t, burn+t, spell+t, spoil+t), podczas gdy '-ed' to forma bardziej 'zachowawcza', regularyzująca całą klasę czasowników do jednego wzorca niezależnie od wymowy." },
+      { "label": "BrE: zachowany zestaw wariantów -t dla zamkniętej klasy czasowników", "text": "Brytyjski angielski zachował formy na '-t' (learnt, burnt, spelt, dreamt, spoilt, leapt, smelt) jako w pełni żywy, codzienny wariant obok regularnego '-ed' dla tej samej, stosunkowo niewielkiej i zamkniętej grupy czasowników — obie formy współistnieją, choć '-t' bywa odczuwane jako nieco bardziej naturalne w mowie potocznej." },
+      { "label": "AmE: regularyzacja jako świadomy projekt Webstera", "text": "Amerykański angielski w dużej mierze porzucił formy na '-t' na rzecz w pełni regularnego '-ed' (learned, burned, spelled, dreamed) dla tej samej klasy czasowników. Nie był to wyłącznie samoistny dryf fonetyczny — Noah Webster w swoich podręcznikach i słowniku explicite promował regularyzację pisowni i gramatyki jako coś praktycznego i 'racjonalnego', pasującego do młodej, demokratycznej Ameryki, w kontrze do postrzeganej przez niego chaotycznej nieregularności brytyjskiej normy." },
+      { "label": "'Dive': gdy Ameryka poszła w stronę WIĘKSZEJ nieregularności", "text": "Staroangielskie 'dūfan' było czasownikiem MOCNYM, więc regularna kontynuacja jego dawnego wzorca dałaby dziś formę 'dove', analogicznie do drive/drove, ride/rode — ale średnioangielski niemal wszędzie wyrównał ten czasownik do słabego 'dived'. Co ciekawe, to AmE, nie BrE, później samoistnie 'odtworzył' formę 'dove' przez analogię do istniejących czasowników mocnych o podobnej budowie (drive/drove) — czysty przykład niezależnej INNOWACJI, a nie zachowanej archaicznej formy: Amerykanie nie 'zapamiętali' starego 'dove', tylko wynaleźli je na nowo według wzoru wciąż żywego w innych czasownikach." },
+      { "label": "'Fit', 'quit', 'cost' i grupa czasowników 'zero-derived'", "text": "Niektóre jednosylabowe czasowniki kończące się na spółgłoskę zębową/wybuchową (fit, quit, cost, cut, hit, put) w amerykańskim angielskim dodatkowo poszerzyły grupę czasowników o formie przeszłej identycznej z bezokolicznikiem (fit → fit zamiast fitted) — reguła znana już z 'cut/cut' czy 'put/put' została przez analogię rozciągnięta na kolejne, podobnie zbudowane czasowniki, podczas gdy BrE dla 'fit' w większości kontekstów zachowuje regularne 'fitted'." }
+    ],
+    "usage": [
+      "BrE: I learnt French at school. / AmE: I learned French at school.",
+      "BrE: The candle burnt out. / AmE: The candle burned out.",
+      "AmE: He dove into the pool. / BrE: He dived into the pool.",
+      "AmE: These jeans fit me perfectly last year. / BrE: These jeans fitted me perfectly last year.",
+      "Niektóre czasowniki (spelled, spoiled) są dziś powszechne w OBU odmianach — granica '-ed/-t' nie jest ostra i wciąż się przesuwa."
+    ],
+    "tags": ["dental suffix", "learnt/learned", "dove/dived", "fit/fitted", "Noah Webster regularyzacja"],
+    "examples": [
+      { "en": "I learnt to swim when I was five.", "pl": "Nauczyłem się pływać, gdy miałem pięć lat. (BrE)" },
+      { "en": "I learned to swim when I was five.", "pl": "Nauczyłem się pływać, gdy miałem pięć lat. (AmE)" },
+      { "en": "He dove off the high board without hesitation.", "pl": "Skoczył z wysokiej trampoliny bez wahania. (AmE)" },
+      { "en": "He dived off the high board without hesitation.", "pl": "Skoczył z wysokiej trampoliny bez wahania. (BrE)" },
+      { "en": "These shoes fit me perfectly.", "pl": "Te buty pasowały na mnie idealnie. (AmE, czas przeszły = fit)" }
+    ]
+  },
+  {
+    "id": "dialectal_prepositions",
+    "order": 9,
+    "nameEn": "Prepositions on opposite banks of the Atlantic: three competing analogies",
+    "namePl": "Przyimki po dwóch stronach Atlantyku: trzy konkurujące analogie",
+    "rules": [
+      { "label": "'At the weekend' vs 'on the weekend': czas jako punkt kontra czas jako dzień", "text": "'At' historycznie łączy się z czasem pojmowanym jako PUNKT lub ograniczony blok (at night, at Christmas, at the weekend) — to starszy, wciąż żywy w BrE sposób traktowania weekendu jako jednej, spójnej 'pory'. AmE przeanalizowało 'weekend' inaczej: skoro dni tygodnia standardowo łączą się z 'on' (on Monday, on Saturday), a weekend semantycznie jest właśnie 'dniami' (sobota + niedziela), przyimek 'on' rozszerzył się przez analogię także na samo słowo 'weekend' — 'on the weekend' to więc nie przypadkowa odmienność, lecz efekt innej analogii gramatycznej zastosowanej do tego samego pojęcia." },
+      { "label": "'Different from/than/to': trzy niezależne logiki w jednym miejscu", "text": "'Different from' to historycznie najstarszy i etymologicznie najbardziej 'logiczny' wariant — wywodzi się z łacińskiego differre ab ('różnić się OD'), zachowanego przez analogię do czasownika 'differ from'. 'Different than' to innowacja typowo amerykańska: skoro 'different' semantycznie funkcjonuje niemal jak przymiotnik w stopniu wyższym ('inny/odmienny NIŻ'), mówiący zaczęli traktować go analogicznie do prawdziwych comparativów, które regularnie łączą się z 'than' (bigger than, better than). 'Different to' to z kolei nowsza, specyficznie brytyjska innowacja idąca w zupełnie inną stronę: przez analogię do przymiotników/czasowników wyrażających relację i łączących się z 'to' (similar to, opposed to, compared to, equal to)." },
+      { "label": "Dlaczego to akurat przyimki tak łatwo się rozjeżdżają", "text": "Przyimki w angielskim mają wyjątkowo słabe, 'wypłowiałe' znaczenie leksykalne i pełnią głównie funkcję czysto gramatyczną — łączą się z rzeczownikami czy przymiotnikami często na zasadzie konwencji czy analogii do podobnych konstrukcji, a nie sztywnej logiki semantycznej. To właśnie dlatego przyimki, obok idiomów, są jednym z obszarów językowych najbardziej podatnych na rozjeżdżanie się dialektów — nawet drobna różnica w tym, do jakiej 'rodziny' konstrukcji dany mówiący przypisze dane słowo, może przez pokolenia utrwalić się jako systematyczna różnica dialektalna." }
+    ],
+    "usage": [
+      "BrE: at the weekend / AmE: on the weekend.",
+      "BrE: different from, coraz częściej też different to / AmE: different from, bardzo często też different than.",
+      "BrE: Monday to Friday / AmE: Monday through Friday.",
+      "BrE: five past six (godzina) / AmE: five after six.",
+      "'Different from' jest akceptowane w formalnym rejestrze OBU odmian — to najbezpieczniejszy wybór w piśmie oficjalnym."
+    ],
+    "tags": ["at the weekend/on the weekend", "different from/than/to", "Monday to/through Friday", "analogia gramatyczna"],
+    "examples": [
+      { "en": "What are you doing at the weekend?", "pl": "Co robisz w weekend? (BrE)" },
+      { "en": "What are you doing on the weekend?", "pl": "Co robisz w weekend? (AmE)" },
+      { "en": "This result is completely different from what we expected.", "pl": "Ten wynik jest zupełnie inny, niż się spodziewaliśmy. (obie odmiany, forma bezpieczna)" },
+      { "en": "This result is completely different than what we expected.", "pl": "Ten wynik jest zupełnie inny, niż się spodziewaliśmy. (AmE)" },
+      { "en": "The office is open Monday through Friday.", "pl": "Biuro jest czynne od poniedziałku do piątku. (AmE)" }
     ]
   }
 ]
