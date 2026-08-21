@@ -1,94 +1,227 @@
 [
   {
-    "id": "both_and",
+    "id": "correlatives_overview",
     "order": 1,
-    "nameEn": "both...and",
-    "namePl": "both...and — oba elementy razem",
+    "nameEn": "Correlative conjunctions: paired logical operators, not decorative doublets",
+    "namePl": "Spójniki korelatywne: sparowane operatory logiczne, a nie ozdobne duety",
     "rules": [
-      { "label": "znaczenie", "text": "both...and łączy dwa elementy, podkreślając, że dotyczą oba naraz — 'i jedno, i drugie'" },
-      { "label": "czasownik", "text": "Podmiot z both...and jest zawsze traktowany jako liczba mnoga: Both Tom and Jerry are here." },
-      { "label": "paralelizm", "text": "Po obu stronach both i and powinna stać ta sama część mowy: both quick and easy (przymiotnik + przymiotnik), nie both quick and to do it easily" }
+      {
+        "label": "Nawiasy składniowe, nie ozdobniki",
+        "text": "Both...and, either...or, neither...nor i not only...but also wyglądają jak cztery niezależne 'zwroty do zapamiętania', ale w istocie są tym samym mechanizmem zastosowanym do czterech różnych operacji logicznych. Każda para otwiera nawias składniowy — pierwsze słowo (both, either, neither, not only) zapowiada, że zaraz nadejdzie druga, sparowana część (and, or, nor, but also), a między tymi dwoma punktami musi stać dokładnie ta sama kategoria gramatyczna: dwa przymiotniki, dwa rzeczowniki, dwa czasowniki albo dwie całe klauzule. To nie jest kwestia stylu — to twardy wymóg składniowy, dokładnie taki sam, jak nawias matematyczny domagający się spójnej zawartości po obu stronach."
+      },
+      {
+        "label": "Korzenie: praindoeuropejska moda na podwajanie cząstek",
+        "text": "Zwyczaj spinania dwóch elementów parą powtórzonych cząstek jest starszy niż sam angielski — to ogólnoindoeuropejski nawyk retoryczny widoczny w łacińskim et...et ('i...i'), greckim te...te, sanskryckim ca...ca czy staroangielskim ge...ge ('zarówno...jak i'). Germańska gałąź odziedziczyła ten wzorzec: staroangielskie 'ge Beowulf ge Wiglaf' znaczyło dosłownie 'i Beowulf, i Wiglaf' — funkcjonalny przodek dzisiejszego both...and. Strona przecząca miała swój odpowiednik: 'ne...ne' powtarzało przeczenie przy każdym z elementów i po wielu wiekach przetrwało szczątkowo jako neither...nor. Angielskie spójniki korelatywne nie są więc wymysłem gramatyków szkolnych — są kontynuacją nawyku sprzed tysięcy lat."
+      },
+      {
+        "label": "Cztery operatory logiczne w przebraniu słówek",
+        "text": "Przez pryzmat logiki formalnej każda para odpowiada innej operacji: both...and to koniunkcja (AND — prawda, gdy oba elementy są prawdziwe), either...or to alternatywa (OR — prawda, gdy przynajmniej jeden jest prawdziwy), a neither...nor to zanegowana alternatywa (NOR). Prawo De Morgana z logiki matematycznej mówi, że 'nie (A lub B)' równa się 'nie A i nie B' — dokładnie to samo dzieje się w gramatyce: 'neither Tom nor Jerry came' znaczy 'Tom nie przyszedł i Jerry nie przyszedł', czyli podwójne przeczenie skondensowane w jednym operatorze. Not only...but also to z kolei koniunkcja ASYMETRYCZNA — jak both...and łączy dwa prawdziwe fakty, ale dodatkowo sygnalizuje, że drugi jest niespodziewany, ważniejszy albo stopniujący względem pierwszego. To rozróżnienie tłumaczy, dlaczego tych dwóch par nie da się używać zamiennie, mimo że obie 'łączą dwa prawdziwe fakty'."
+      },
+      {
+        "label": "Dlaczego neither...nor nie dostaje drugiego 'not' (a kiedyś by dostało)",
+        "text": "Dzisiejszy angielski rządzi się zasadą pojedynczego przeczenia — jedno 'not' na klauzulę, inaczej niż np. w polskim, gdzie przeczenia się mnożą i wzmacniają. Sam angielski nie zawsze tak działał: w staro- i średnioangielskim przeczenia swobodnie się powtarzały i wzmacniały (negative concord) — u Chaucera pełno zdań z potrójnym przeczeniem bez utraty sensu. Osiemnastowieczni gramatycy, wzorując się na logice łacińskiej, ujednolicili angielski w stronę 'jedno przeczenie = jedno unieważnienie'. Neither...nor jest żywym reliktem sprzed tej reformy: morfologicznie wciąż dźwiga przeczenie w obu członach (ne-ither, n-or), ale dzisiejsza gramatyka traktuje parę jako jeden logiczny operator, więc czasownik między nimi zostaje w formie twierdzącej."
+      },
+      {
+        "label": "Reguła bliskości (proximity rule) przy zgodności liczby",
+        "text": "Gdy either...or lub neither...nor łączą dwa rzeczowniki o różnej liczbie, pojawia się pytanie, z którym ma się zgadzać czasownik. Norma każe mu zgadzać się z elementem gramatycznie bliższym: 'either the manager or the employees ARE...', ale 'either the employees or the manager IS...'. To nie głęboka logika, tylko konwencja przetwarzania zdania w czasie rzeczywistym — do czasownika dochodzimy już po wymówieniu drugiego rzeczownika, więc to on narzuca formę (zjawisko zwane 'attraction'). W rejestrze formalnym i egzaminacyjnym reguła bliskości pozostaje standardem, którego warto się trzymać."
+      }
     ],
     "usage": [
-      "Podkreślanie, że dwie cechy, osoby lub rzeczy dotyczą jednocześnie",
-      "Łączenie dwóch rzeczowników, przymiotników lub czasowników w zdaniu",
-      "Nie używa się z przeczeniem — do tego służy neither...nor"
+      "Test szybki: 'oba naraz, bez wyjątku' → both...and. Wybór z dwóch → either...or. Odrzucenie obu naraz → neither...nor. Drugi, mocniejszy fakt dołożony do pierwszego → not only...but also.",
+      "Po obu stronach spójnika korelatywnego musi stać ta sama kategoria gramatyczna — to wymóg składniowy zwany parallelism, nie sugestia stylistyczna.",
+      "Przy either...or i neither...nor łączących rzeczowniki o różnej liczbie czasownik zgadza się z rzeczownikiem bliższym sobie (proximity rule).",
+      "Neither...nor jest już samo w sobie przeczeniem — nie dokładaj drugiego 'not' do czasownika."
     ],
-    "tags": ["both Tom and Jerry", "both quick and easy", "both...and are"],
+    "tags": ["parallelism", "proximity rule", "De Morgan", "negative concord", "korelatywy"],
     "examples": [
-      { "en": "Both Tom and Jerry are here.", "pl": "Zarówno Tom, jak i Jerry są tutaj." },
-      { "en": "The film was both funny and touching.", "pl": "Film był zarówno zabawny, jak i wzruszający." },
-      { "en": "She speaks both French and German.", "pl": "Ona mówi zarówno po francusku, jak i po niemiecku." },
-      { "en": "Both my parents work in Warsaw.", "pl": "Oboje moich rodziców pracuje w Warszawie." }
+      { "en": "Both the design and the pricing convinced the board to sign off on the deal.", "pl": "Zarówno projekt, jak i cena przekonały zarząd do podpisania umowy." },
+      { "en": "Either we fix this today, or the whole launch slips by a week.", "pl": "Albo naprawimy to dziś, albo cały start opóźni się o tydzień." },
+      { "en": "Neither the reviewers nor the editor spotted the error before it went to print.", "pl": "Ani recenzenci, ani redaktor nie zauważyli błędu przed drukiem." },
+      { "en": "Not only did the server crash, but it also wiped the last hour of backups.", "pl": "Serwer nie tylko się zawiesił, ale też skasował ostatnią godzinę kopii zapasowych." }
+    ]
+  },
+  {
+    "id": "both_and",
+    "order": 2,
+    "nameEn": "both...and — the fossil of the lost dual number",
+    "namePl": "both...and — skamielina zaginionej liczby podwójnej",
+    "rules": [
+      {
+        "label": "Skamielina zaginionej liczby podwójnej",
+        "text": "'Both' pochodzi ze staroangielskiego 'bā þā' (dosłownie 'te dwa' — z pragermańskiego *bai, 'oba', i wskazującego 'þā', przodka dzisiejszego 'the/those'). To połączenie jest żywym reliktem gramatycznej LICZBY PODWÓJNEJ (dual number) — trzeciej, dziś zapomnianej kategorii liczby, którą staroangielski (i wcześniej praindoeuropejski) miał obok pojedynczej i mnogiej, specjalnie do mówienia o dokładnie dwóch bytach. Staroangielskie zaimki 'wit' ('my dwoje') i 'git' ('wy dwoje') odmieniały się inaczej niż zwykła liczba mnoga 'wē'/'gē'. Dual zniknął z angielskiego do XII wieku, ale zostawił po sobie skamieliny: both, either i neither to jedyne miejsca w dzisiejszym języku, gdzie wciąż istnieje gramatyczne rozróżnienie 'dokładnie dwa' od zwykłej liczby mnogiej ('all')."
+      },
+      {
+        "label": "Dlaczego 'both' działa tylko dla dwóch, a 'all' od trzech w górę",
+        "text": "Ponieważ 'both' odziedziczyło wbudowaną 'dwuistość' po dualu, nie da się go użyć dla trzech i więcej elementów — 'both my three sisters' jest błędem, bo słowo z definicji domaga się dokładnie pary. Gdy liczba rośnie powyżej dwóch, jedynym poprawnym wyborem staje się 'all'. To jedno z niewielu miejsc we współczesnej gramatyce angielskiej, gdzie liczba dokładna jest zakodowana w samym słowie, a nie wyrażona liczebnikiem — bezpośredni ślad epoki, gdy każdy zaimek musiał się deklinować osobno dla par."
+      },
+      {
+        "label": "Zawsze liczba mnoga czasownika, bez reguły bliskości",
+        "text": "Ponieważ both z definicji zestawia dwa elementy jako grupę, czasownik po nim zawsze przybiera formę mnogą, niezależnie od tego, czy każdy element z osobna jest liczby pojedynczej: 'both my brother and my sister ARE doctors', nigdy 'is'. Nie działa tu reguła bliskości (w przeciwieństwie do either...or i neither...nor) — semantycznie both zawsze tworzy zbiór dwuelementowy, a zbiory biorą czasownik mnogi bez względu na kolejność członów."
+      },
+      {
+        "label": "Niejednoznaczność 'not both' kontra jednoznaczność 'neither'",
+        "text": "Zaprzeczenie 'both' rodzi pułapkę logiczną wartą zrozumienia na poziomie C1/C2: 'Both of them didn't come' bywa dwuznaczne — może znaczyć 'żadne z nich nie przyszło' (przeczenie o szerokim zasięgu, obejmującym całość) albo 'nie oboje przyszli, czyli tylko jedno z nich' (przeczenie o wąskim zasięgu, obejmującym tylko 'both'). Ta dwuznaczność bierze się stąd, że 'not' i 'both' konkurują o to, który z nich rządzi całym zdaniem. Dlatego staranny angielski unika 'not both' na rzecz jednoznacznych konstrukcji: 'neither of them came' (na pewno żadne) albo wyraźnie skontekstualizowanego 'they didn't both come' (na pewno nie oboje, więc przynajmniej jedno tak)."
+      }
+    ],
+    "usage": [
+      "both + rzeczownik w liczbie mnogiej (both books) lub both of + the/dzierżawczy + rzeczownik (both of my books, both of them).",
+      "Zawsze czasownik w liczbie mnogiej po both...and, niezależnie od liczby pojedynczych elementów.",
+      "Nie łączy się z trzema i więcej elementami — od trzech w górę używamy all.",
+      "Unikaj 'not both' w znaczeniu precyzyjnym — jest dwuznaczne; użyj neither, jeśli chcesz jednoznacznie zanegować oba elementy naraz."
+    ],
+    "tags": ["liczba podwójna", "dual number", "both of", "zasięg przeczenia"],
+    "examples": [
+      { "en": "Both my grandmother and my mother were born in this house.", "pl": "Zarówno moja babcia, jak i moja mama urodziły się w tym domu." },
+      { "en": "The proposal turned out to be both cheaper and, surprisingly, faster to implement.", "pl": "Propozycja okazała się zarówno tańsza, jak i, co zaskakujące, szybsza we wdrożeniu." },
+      { "en": "Both of the witnesses gave completely different accounts of the same accident.", "pl": "Oboje świadków podało zupełnie różne relacje z tego samego wypadku." },
+      { "en": "Not both of the twins passed the exam — one of them failed, the other scraped through.", "pl": "Nie oboje bliźniaków zdało egzamin — jedno oblało, drugie ledwo się przecisnęło." }
     ]
   },
   {
     "id": "either_or",
-    "order": 2,
-    "nameEn": "either...or",
-    "namePl": "either...or — jedno albo drugie",
+    "order": 3,
+    "nameEn": "either...or — from 'each of two' to 'one of two'",
+    "namePl": "either...or — od 'każdego z dwóch' do 'jednego z dwóch'",
     "rules": [
-      { "label": "znaczenie", "text": "either...or przedstawia wybór między dwiema możliwościami — 'albo jedno, albo drugie'" },
-      { "label": "zgodność podmiotu", "text": "Czasownik zgadza się z rzeczownikiem najbliżej niego: Either the students or the teacher is wrong. / Either the teacher or the students are wrong." },
-      { "label": "either sam", "text": "Either bez or może znaczyć 'którykolwiek z dwóch': You can take either road." }
+      {
+        "label": "Etymologia: 'każdy z dwóch' zwężone do 'jedno z dwóch'",
+        "text": "'Either' wywodzi się ze staroangielskiego 'ǣghwæþer' — złożenia 'ā' ('zawsze, każdorazowo'), przedrostka wzmacniającego 'ge-' i 'hwæþer' ('który z dwóch', przodek dzisiejszego 'whether'). Pierwotne znaczenie brzmiało 'każdy z tych dwóch, bez wyjątku' — ślad przetrwał w zdaniach typu 'houses stood on either side of the street' ('po każdej z obu stron ulicy', nie 'po jednej z dwóch'). W średnioangielskim znaczenie zawęziło się od 'każdy z dwóch' do 'jeden z dwóch, obojętnie który' — i to zawężone znaczenie stało się podstawą dzisiejszej funkcji spójnikowej either...or, wybierającej między dwiema możliwościami."
+      },
+      {
+        "label": "Either bez or: determinator 'obojętnie który'",
+        "text": "Zanim either...or stało się parą spójnikową, either samo funkcjonowało (i wciąż funkcjonuje) jako determinator przed rzeczownikiem w liczbie pojedynczej, znaczący 'ten albo tamten, nieważne który': 'you can take either road — they both lead to the station'. To użycie jest niemal niezmienionym potomkiem staroangielskiego 'każdy z dwóch' — inaczej niż either...or, które jest już strukturą korelatywną łączącą dwa elementy zdania, a nie samodzielnym wyborem z dwóch dostępnych opcji przy jednym rzeczowniku."
+      },
+      {
+        "label": "Or ekskluzywne czy inkluzywne? Pragmatyka, nie gramatyka",
+        "text": "Logika formalna rozróżnia alternatywę inkluzywną (prawda, gdy zachodzi przynajmniej jedno, można oba naraz) i ekskluzywną (prawda, gdy zachodzi dokładnie jedno). Gramatycznie either...or nie rozstrzyga tego wcale — 'you can have either soup or salad' jest logicznie zgodne nawet z tym, że dostaniesz oba. To, że rozumiemy je jako 'wybierz jedno z dwóch, nie oba', to efekt implikatury skalarnej (Grice'a): mówiący wybrałby mocniejsze 'both', gdyby oba było dostępne, więc skoro powiedział 'either...or', sugeruje ograniczenie do jednego. Both...and, dla kontrastu, jest jednoznacznie i gramatycznie inkluzywne — wyłączność either...or nie leży w gramatyce, lecz w domyślnych założeniach o intencji mówiącego."
+      },
+      {
+        "label": "Reguła bliskości przy either...or",
+        "text": "Gdy either...or łączy dwa rzeczowniki o różnej liczbie, czasownik zgadza się z rzeczownikiem bliższym sobie: 'either the students or the teacher IS wrong', ale 'either the teacher or the students ARE wrong'. Ta reguła nie dotyczy both...and (tam zawsze liczba mnoga) — either...or jest wyborem między dwiema osobnymi, konkurującymi możliwościami, więc czasownik dopasowuje się do tej, która akurat gramatycznie 'wygrywa' najbliższą pozycję, a both...and zestawia elementy razem jako jeden zbiór."
+      }
     ],
     "usage": [
-      "Przedstawianie dwóch alternatyw, z których tylko jedna jest prawdziwa/możliwa",
-      "W pytaniach o wybór między dwiema opcjami",
-      "Zgodność czasownika zależy od rzeczownika bliższego czasownikowi (proximity rule)"
+      "either...or łączy dwie pragmatycznie wykluczające się możliwości — wybór jednej z dwóch.",
+      "either bez or, przed rzeczownikiem w liczbie pojedynczej, znaczy 'ten albo tamten, dowolny z dwóch'.",
+      "Reguła bliskości: czasownik zgadza się z rzeczownikiem bliższym sobie w either...or.",
+      "Nie myl either...or (wybór) z either w znaczeniu 'też' w zdaniach przeczących (I don't like it either) — to inna, choć spokrewniona etymologicznie, funkcja."
     ],
-    "tags": ["either...or", "either road", "proximity rule"],
+    "tags": ["either...or", "implikatura skalarna", "proximity rule", "each of two"],
     "examples": [
-      { "en": "You can either call me or send an email.", "pl": "Możesz albo do mnie zadzwonić, albo wysłać e-mail." },
-      { "en": "Either the students or the teacher is wrong.", "pl": "Albo uczniowie, albo nauczyciel się myli." },
-      { "en": "Either the teacher or the students are wrong.", "pl": "Albo nauczyciel, albo uczniowie się mylą." },
-      { "en": "We can go either today or tomorrow.", "pl": "Możemy pójść albo dziś, albo jutro." }
+      { "en": "You can park on either side of the square during weekdays.", "pl": "W dni robocze możesz parkować po każdej z obu stron placu." },
+      { "en": "Either we renegotiate the deadline, or we cut half the features.", "pl": "Albo renegocjujemy termin, albo wycinamy połowę funkcji." },
+      { "en": "Either the students or the teacher is going to have to apologise.", "pl": "Albo uczniowie, albo nauczyciel będzie musiał przeprosić." },
+      { "en": "Either the teacher or the students are going to have to apologise.", "pl": "Albo nauczyciel, albo uczniowie będą musieli przeprosić." }
     ]
   },
   {
     "id": "neither_nor",
-    "order": 3,
-    "nameEn": "neither...nor",
-    "namePl": "neither...nor — ani jedno, ani drugie",
+    "order": 4,
+    "nameEn": "neither...nor — De Morgan's law made grammatical",
+    "namePl": "neither...nor — prawo De Morgana wcielone w gramatykę",
     "rules": [
-      { "label": "znaczenie", "text": "neither...nor to przeczący odpowiednik both...and — 'ani jedno, ani drugie'" },
-      { "label": "forma czasownika", "text": "Zdanie z neither...nor jest już przeczące, więc czasownik zostaje w formie twierdzącej: Neither John nor Mary knows the answer (nie 'doesn't know')" },
-      { "label": "zgodność podmiotu", "text": "Podobnie jak przy either...or, czasownik zgadza się z podmiotem bliższym: Neither the manager nor the employees were informed." }
+      {
+        "label": "Etymologia: 'nie który z dwóch' skurczone przez wieki",
+        "text": "'Neither' to staroangielskie 'nāhwæþer', złożenie przeczenia 'ne' i już omówionego 'ǣghwæþer' ('każdy z dwóch') — dosłownie 'nie-każdy-z-dwóch', czyli 'żaden z dwóch'. Przez średnioangielskie 'nawther'/'nother' forma skurczyła się fonetycznie do dzisiejszego 'neither'. 'Nor' ma analogiczną historię: to 'ne' + 'or' ('albo'), skurczone w jedno słowo o znaczeniu 'i nie'. Obie połówki pary neither...nor są więc niezależnie od siebie przeczące — co wyjaśnia, dlaczego cała konstrukcja jest podwójnie naładowana negacją, choć dziś traktujemy ją gramatycznie jako jedno przeczenie."
+      },
+      {
+        "label": "Prawo De Morgana w praktyce: dlaczego czasownik zostaje twierdzący",
+        "text": "Neither...nor to gramatyczna realizacja prawa De Morgana: 'nie (A lub B)' równa się 'nie A i nie B'. 'Neither Tom nor Jerry came' koduje dwa fakty przeczące naraz ('Tom nie przyszedł' + 'Jerry nie przyszedł'), ale przeczenie zostało już 'zużyte' przez samo neither...nor — nie trzeba (i nie wolno) dokładać go jeszcze raz do czasownika. 'Neither Tom nor Jerry didn't come' byłoby dziś błędem podwójnego przeczenia, mimo że w języku Chaucera stosy przeczeń wzajemnie się wzmacniały, a nie znosiły (negative concord) — dowód, że dzisiejsza zasada 'jedno przeczenie na klauzulę' to efekt XVIII-wiecznej reformy pod wpływem logiki łacińskiej, a nie naturalne prawo samego angielskiego."
+      },
+      {
+        "label": "Reguła bliskości przy neither...nor",
+        "text": "Tak jak przy either...or, czasownik po neither...nor zgadza się z rzeczownikiem bliższym sobie: 'neither the players nor the coach WAS happy', ale 'neither the coach nor the players WERE happy'. W mowie potocznej rodzimi użytkownicy często i tak sięgają po liczbę mnogą niezależnie od kolejności, ale w rejestrze formalnym i pisanym reguła bliskości pozostaje standardem egzaminacyjnym."
+      },
+      {
+        "label": "'Nor' jako samodzielny łącznik kontynuujący przeczenie — z inwersją",
+        "text": "Poza parą neither...nor samo 'nor' funkcjonuje jako spójnik dołączający kolejną przeczącą myśl do już zakończonego zdania — i w tej roli wymusza inwersję podmiotowo-operatorową, tak jak inne elementy przeczące przesunięte na początek klauzuli (never, rarely, hardly): 'I don't smoke, nor do I drink' (nie: 'nor I drink'). To coś innego niż zwykłe 'or' w 'I don't smoke or drink' — tam jeden negator ('don't') z góry obejmuje oba czasowniki w jednej klauzuli, więc inwersja jest zbędna; 'nor' otwiera nową, osobną klauzulę przeczącą, która ponownie domaga się mechanizmu 'operator na początek', dokładnie jak 'neither do I' w krótkich odpowiedziach zgadzających się z przeczeniem rozmówcy."
+      }
     ],
     "usage": [
-      "Zaprzeczanie obu elementom naraz zamiast używać dwóch osobnych przeczeń z 'not'",
-      "Formalniejszy, bardziej zwięzły styl niż 'not...and not...either'",
-      "Zgodność liczby czasownika z bliższym rzeczownikiem (proximity rule), tak jak przy either...or"
+      "neither...nor zaprzecza obu elementom naraz — czasownik zostaje w formie twierdzącej (nie dokładaj 'not' ani 'doesn't').",
+      "Reguła bliskości: czasownik zgadza się z rzeczownikiem bliższym sobie.",
+      "Samodzielne 'nor' po zakończonym zdaniu przeczącym wymaga inwersji: ..., nor do/does/is/can + podmiot.",
+      "'Or' bez 'nor' po jednym przeczącym czasowniku nie wymaga inwersji: I don't smoke or drink."
     ],
-    "tags": ["neither...nor", "neither John nor Mary knows", "proximity rule"],
+    "tags": ["neither...nor", "De Morgan", "negative concord", "inwersja po nor", "pojedyncze przeczenie"],
     "examples": [
-      { "en": "Neither John nor Mary knows the answer.", "pl": "Ani John, ani Mary nie zna odpowiedzi." },
-      { "en": "Neither the manager nor the employees were informed.", "pl": "Ani kierownik, ani pracownicy nie zostali poinformowani." },
-      { "en": "She neither called nor texted me.", "pl": "Ona ani nie zadzwoniła, ani nie napisała do mnie." },
-      { "en": "Neither of us wanted to leave.", "pl": "Żadne z nas nie chciało wyjść." }
+      { "en": "Neither the contract nor the invoice mentions a delivery date.", "pl": "Ani umowa, ani faktura nie wspominają o terminie dostawy." },
+      { "en": "Neither the coach nor the players were satisfied with the referee's decision.", "pl": "Ani trener, ani zawodnicy nie byli zadowoleni z decyzji sędziego." },
+      { "en": "I've never been to Japan, nor have I any immediate plans to go.", "pl": "Nigdy nie byłem w Japonii i na razie nie planuję wyjazdu." },
+      { "en": "She neither confirmed nor denied the rumour.", "pl": "Ona ani nie potwierdziła, ani nie zaprzeczyła plotce." }
     ]
   },
   {
     "id": "not_only_but_also",
-    "order": 4,
-    "nameEn": "not only...but also",
-    "namePl": "not only...but also — nie tylko..., ale i...",
+    "order": 5,
+    "nameEn": "not only...but also — a Latin rhetorical calque",
+    "namePl": "not only...but also — kalka z łacińskiej retoryki",
     "rules": [
-      { "label": "znaczenie", "text": "not only...but also dodaje drugi, często ważniejszy lub zaskakujący element do pierwszego — 'nie tylko..., ale też...'" },
-      { "label": "also opcjonalne", "text": "'also' można pominąć lub zastąpić przez 'as well'/'too': Not only is he smart, but he's also kind. / ...but he's kind too." },
-      { "label": "paralelizm", "text": "Po obu stronach powinna stać ta sama część mowy/struktura, np. not only...but also z dwoma przymiotnikami lub dwoma czasownikami" }
+      {
+        "label": "Kalka z łacińskiej retoryki: non solum...sed etiam",
+        "text": "Not only...but also nie jest rodzimym germańskim wzorcem w takim sensie jak both...and czy neither...nor — to strukturalna kalka łacińskiej figury retorycznej 'non solum...sed etiam', używanej w klasycznym oratorstwie do budowania wzmacniającego, stopniowanego argumentu. Angielska proza pisana przechodziła w renesansie (XVI-XVII w.) silną 'latynizację' stylu — pisarze kształceni na retoryce łacińskiej przenosili jej figury bezpośrednio do angielszczyzny. Not only...but also to jeden z trwałych śladów tej mody — i dlatego do dziś nosi wyraźne piętno rejestru formalnego, pisanego, argumentacyjnego, w przeciwieństwie do rdzennie germańskich both...and czy either...or, które równie swobodnie funkcjonują w mowie potocznej."
+      },
+      {
+        "label": "'But' od 'na zewnątrz, poza' do dzisiejszego przeciwstawienia",
+        "text": "'But' pochodzi ze staroangielskiego 'būtan', złożenia 'be' + 'ūtan' ('na zewnątrz') — pierwotnie przyimek/spójnik znaczący 'poza, z wyjątkiem' (ślad przetrwał w archaicznym 'all but one' — 'wszyscy poza jednym'). Z 'poza, wyjątkiem' rozwinęło się znaczenie przeciwstawne: to, co jest 'poza' oczekiwanym zbiorem, naturalnie kontrastuje z nim. W not only...but also ta stara logika wyjątku wciąż pobrzmiewa: 'not only X' zakreśla oczekiwany zbiór faktów, a 'but also Y' wprowadza coś, co wykracza poza ten zbiór — zgodnie z pierwotnym, przestrzennym znaczeniem 'być na zewnątrz'."
+      },
+      {
+        "label": "'Also' i 'as' — etymologiczne bliźnięta z 'eall swā'",
+        "text": "'Also' wywodzi się ze staroangielskiego 'eall swā' — dosłownie 'całkiem tak, w dokładnie ten sposób' — złożenia, które w innej gałęzi rozwoju dało też spójnik 'as' (por. temat 'Spójniki i łączniki', gdzie 'so' i 'as' mają wspólny rdzeń 'swā'). 'Also' skostniało w znaczeniu dodawania ('w dodatku, również'), podczas gdy 'as' poszło w stronę porównania i czasu. Wybór między also / too / as well w not only...but also jest więc kwestią rejestru, nie znaczenia: 'also' zostaje w środku klauzuli i pasuje do stylu formalnego, podczas gdy 'too' i 'as well' typowo lądują na końcu zdania i brzmią bardziej potocznie."
+      },
+      {
+        "label": "Inwersja przy przesunięciu 'not only' na początek zdania",
+        "text": "Gdy 'not only' otwiera całe zdanie, uruchamia ten sam mechanizm inwersji podmiotowo-operatorowej, co inne elementy przeczące na początku klauzuli (never, rarely, hardly, seldom — zob. temat 'Inwersja'): 'Not only DID he arrive late, but he ALSO forgot the documents'. Ta inwersja nie jest opcjonalną ozdobą — bez niej zdanie brzmi niedokończenie w rejestrze pisanym. W środku klauzuli, gdy 'not only' stoi tuż po podmiocie, inwersja znika: 'He not only arrived late, but he also forgot the documents' — sam szyk decyduje, czy inwersja jest wymagana."
+      },
+      {
+        "label": "Zasięg (scope): co dokładnie obejmuje 'not only'",
+        "text": "Miejsce, w którym umieszczamy 'not only', zmienia, co dokładnie jest kontrastowane — ten sam mechanizm zawężania ogniska uwagi, co przy przysłówkach ogniskujących typu 'only' (zob. temat 'Przysłówki ogniskujące'). 'Not only did she buy the tickets, but she also booked the hotel' kontrastuje dwie całe czynności. Natomiast 'She bought not only the tickets but also the hotel' zawęża kontrast do samego dopełnienia. Pomylenie tych pozycji nie jest błędem gramatycznym, ale prowadzi do niejasności co do tego, co właściwie jest 'tym drugim, zaskakującym faktem' — precyzja w umiejscowieniu 'not only' odróżnia użytkownika C1/C2 od kogoś, kto zna tylko wzór na pamięć."
+      }
     ],
     "usage": [
-      "Podkreślanie, że oprócz jednej cechy/faktu istnieje jeszcze jeden, zwykle istotniejszy",
-      "W stylu formalnym/pisanym często z inwersją na początku zdania (Not only is he smart...)",
-      "W mowie potocznej zwykle bez inwersji, w środku zdania"
+      "not only...but also dodaje drugi, zwykle mocniejszy lub bardziej zaskakujący fakt do pierwszego.",
+      "Inwersja podmiotowo-operatorowa obowiązkowa tylko wtedy, gdy 'not only' otwiera całą klauzulę.",
+      "'Also' można zastąpić przez 'too' lub 'as well' — wtedy zwykle wędrują na koniec zdania i brzmią mniej formalnie.",
+      "Umiejscowienie 'not only' decyduje o zasięgu kontrastu — czy porównujemy dwie całe czynności, czy tylko dwa elementy w ramach jednej."
     ],
-    "tags": ["not only...but also", "not only is he smart", "as well / too"],
+    "tags": ["not only...but also", "kalka łacińska", "inwersja", "zasięg/scope", "rejestr formalny"],
     "examples": [
-      { "en": "She is not only intelligent but also hard-working.", "pl": "Ona jest nie tylko inteligentna, ale też pracowita." },
-      { "en": "Not only did he arrive late, but he also forgot the documents.", "pl": "Nie tylko przyszedł spóźniony, ale też zapomniał dokumentów." },
-      { "en": "The hotel is not only cheap but also comfortable.", "pl": "Hotel jest nie tylko tani, ale też wygodny." },
-      { "en": "He speaks not only English but also Spanish.", "pl": "On mówi nie tylko po angielsku, ale też po hiszpańsku." }
+      { "en": "Not only was the bridge closed, but the detour also added an extra hour to the journey.", "pl": "Most nie tylko był zamknięty, ale objazd dodał też godzinę do podróży." },
+      { "en": "The new policy not only cuts costs but also, somewhat unexpectedly, improves staff morale.", "pl": "Nowa polityka nie tylko obniża koszty, ale też, dość niespodziewanie, poprawia morale załogi." },
+      { "en": "He is not only the youngest partner in the firm but also, by some distance, the most cautious.", "pl": "Jest nie tylko najmłodszym wspólnikiem w firmie, ale też, z dużą przewagą, najostrożniejszym." },
+      { "en": "Not only did the witnesses contradict each other, but the physical evidence also failed to match either account.", "pl": "Świadkowie nie tylko zaprzeczali sobie nawzajem, ale dowody rzeczowe też nie pasowały do żadnej z relacji." }
+    ]
+  },
+  {
+    "id": "correlative_register_and_family",
+    "order": 6,
+    "nameEn": "The wider correlative family, parallelism and typical C1/C2 errors",
+    "namePl": "Szersza rodzina korelatywów, parallelism i typowe błędy C1/C2",
+    "rules": [
+      {
+        "label": "Rodzina jest większa: whether...or i not so much...as",
+        "text": "Cztery pary omówione wyżej to najbardziej rozpoznawalny rdzeń rodziny spójników korelatywnych, ale nie jej granice. 'Whether...or (not)' działa na tej samej zasadzie sparowanego nawiasu, tyle że wyraża obojętność wobec dwóch możliwości, a nie wybór między nimi: 'Whether we win or lose, we're celebrating tonight' (zob. osobny temat 'Whether... or'). 'Not so much...as' to korelatyw porównawczy, przesuwający akcent z jednej cechy na drugą zamiast je zestawiać: 'He was not so much angry as disappointed' — nie zaprzecza złości, tylko koryguje, która etykieta lepiej pasuje (zob. temat 'Retoryczne struktury porównawcze'). Rozpoznanie tych struktur jako części tej samej rodziny ułatwia zapamiętanie zasady nadrzędnej: każdy korelatyw to para nawiasów żądająca symetrii między tym, co w nich stoi."
+      },
+      {
+        "label": "Parallelism jako fundament retoryki — isocolon",
+        "text": "Wymóg symetrii gramatycznej między dwiema połówkami korelatywu ma rodowód w klasycznej retoryce greckiej i łacińskiej, gdzie balansowanie dwóch gramatycznie równoległych fraz — figura zwana isocolon — było jednym z podstawowych narzędzi budowania przekonującej, zapadającej w pamięć wypowiedzi (por. 'Veni, vidi, vici'). Angielskie zdania z korelatywami odziedziczyły tę estetykę: 'She is not only talented but also generous' brzmi dobrze, bo talented i generous to ta sama kategoria (przymiotnik), podczas gdy 'She is not only talented but also she has generosity' brzmi niezgrabnie, mimo że logicznie niesie tę samą informację — złamany paralelizm jest odczuwany jako błąd stylistyczny nawet wtedy, gdy zdanie pozostaje w pełni zrozumiałe."
+      },
+      {
+        "label": "Typowe błędy na poziomie C1/C2",
+        "text": "Zaawansowani użytkownicy popełniają przy korelatywach nie błędy podstawowe, lecz subtelne: (1) złamany paralelizm, gdy druga połówka zmienia kategorię gramatyczną względem pierwszej ('either by phone or you can email us' zamiast 'either by phone or by email'); (2) niewłaściwe umiejscowienie 'not only', zacierające zasięg kontrastu; (3) pominięcie obowiązkowej inwersji po 'not only' i 'nor', gdy otwierają one całą klauzulę; (4) użycie 'either' w znaczeniu 'każdy z dwóch' tam, gdzie kontekst domaga się jednoznaczności — dwuznaczność wynikająca wprost z pierwotnego sensu ǣghwæþer; (5) dokładanie zbędnego 'not' do czasownika po neither...nor."
+      }
+    ],
+    "usage": [
+      "Traktuj korelatywy jako rodzinę: whether...or i not so much...as działają na tej samej zasadzie nawiasu składniowego, co both/either/neither/not only.",
+      "Symetria gramatyczna (parallelism) to nie sugestia stylistyczna — złamanie jej jest odczuwane jako błąd nawet przy zachowanej logicznej poprawności zdania.",
+      "Uważaj na cztery pułapki C1/C2: złamany paralelizm, błędny zasięg 'not only', brak inwersji po przesuniętym 'not only'/'nor', mylenie znaczeń 'either'."
+    ],
+    "tags": ["isocolon", "parallelism", "whether...or", "not so much...as", "typowe błędy"],
+    "examples": [
+      { "en": "The report was criticised not for its length but for its lack of evidence.", "pl": "Raport skrytykowano nie za długość, lecz za brak dowodów." },
+      { "en": "Whether he apologises or not, the damage to the partnership is already done.", "pl": "Czy przeprosi, czy nie, szkody w partnerstwie już są faktem." },
+      { "en": "The delay was not so much a technical failure as a failure of communication between the teams.", "pl": "Opóźnienie było nie tyle awarią techniczną, co porażką komunikacji między zespołami." },
+      { "en": "Either by email or by registered post — just make sure we receive the signed form by Friday.", "pl": "Albo mailem, albo listem poleconym — po prostu upewnij się, że dostaniemy podpisany formularz do piątku." }
     ]
   }
 ]
