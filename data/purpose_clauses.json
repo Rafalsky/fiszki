@@ -2,97 +2,131 @@
   {
     "id": "to_infinitive",
     "order": 1,
-    "nameEn": "to + infinitive — purpose with the same subject",
-    "namePl": "to + bezokolicznik — cel przy tym samym podmiocie",
+    "nameEn": "The bare purposive infinitive: 'to' as the native, unmarked way to answer 'why?'",
+    "namePl": "Goły bezokolicznik celu: 'to' jako rodzimy, domyślny sposób odpowiedzi na pytanie 'po co?'",
     "rules": [
-      { "label": "to + verb", "text": "Bezokolicznik z 'to' wyraża cel czynności, gdy podmiot obu czynności jest ten sam" },
-      { "label": "kolejność", "text": "Zwykle na końcu zdania, po czynności głównej: I went to the shop to buy milk." },
-      { "label": "przeczenie celu", "text": "Nie używamy samego 'not to' dla przeczenia celu — zamiast tego 'so as not to' lub 'in order not to'" }
+      { "label": "Rodowód: kierunek w przestrzeni → kierunek w celu", "text": "'To' było w staroangielskim zwykłym przyimkiem kierunkowym ('tō' = 'w stronę, ku'), używanym m.in. przed specjalną, odmienną formą bezokolicznika celownikowego z końcówką -enne/-anne (np. 'tō gānne' dosłownie 'ku pójściu', czyli 'żeby pójść'). W średnioangielskim ta odrębna forma bezokolicznika zanikła fonetycznie, a jej funkcję przejęło samo 'to' postawione przed zwykłym bezokolicznikiem. Efekt: 'to' w 'I went to buy milk' to skamieniały ślad dosłownego 'ku kupieniu' — dlatego bezokolicznik celu wciąż 'czuje się' jak ruch w kierunku czegoś, a nie jak przypadkowa etykieta gramatyczna." },
+      { "label": "Model: strzałka celu", "text": "Najprościej wyobrazić sobie bezokolicznik celu jako strzałkę wychodzącą z czynności głównej i wskazującą jej cel: [czynność główna] → to [cel]. To odróżnia go od pozornie identycznego 'to' po czasownikach typu want to, need to, decide to — tam 'to' nie wskazuje na ODRĘBNY cel drugiej czynności, tylko domyka wzorzec składniowy tego konkretnego czasownika (dopełnienie bezokolicznikowe). Historycznie oba 'to' wyszły z tego samego zjawiska erozji fonetycznej, ale wyewoluowały w dwie różne funkcje gramatyczne — stąd intuicja 'strzałki celu' działa tylko dla tej pierwszej." },
+      { "label": "Dlaczego wymagany jest ten sam podmiot", "text": "Bezokolicznik nie ma własnego, jawnego miejsca na podmiot (nie da się odmienić 'to buy' przez osoby). Gdy więc zdanie brzmi 'I went to the shop to buy some milk', jedyny sposób, by słuchacz wiedział, KTO kupuje mleko, to założenie domyślne: podmiot bezokolicznika = podmiot zdania głównego. To strukturalne ograniczenie, a nie arbitralna reguła — i właśnie dlatego, gdy podmioty się różnią (ja poszedłem, ale to ONA ma kupić mleko), sam bezokolicznik przestaje wystarczać i język musi sięgnąć po inne narzędzie ('so that', p. dalej)." },
+      { "label": "Pułapka 'not to' i geneza potrzeby jednoznaczności", "text": "Samo 'not to' przed bezokolicznikiem jest ryzykowne, bo angielszczyzna używa identycznej struktury do zaprzeczania DOPEŁNIENIU bezokolicznikowemu ('I decided not to go' = zdecydowałem się NIE iść), a nie samemu CELOWI. 'I whispered not to wake the baby' brzmiałoby dwuznacznie. Dlatego z czasem wykształciły się wyspecjalizowane formy przeczenia celu — 'so as not to' i 'in order not to' — których jedynym zadaniem jest jednoznaczne oznaczenie: to jest zaprzeczony CEL, nie zaprzeczona czynność główna." }
     ],
     "usage": [
-      "Odpowiada na pytanie 'po co? / w jakim celu?'",
-      "Podmiot czynności głównej i czynności celu jest ten sam",
-      "Najczęstszy, najbardziej neutralny sposób wyrażania celu w mowie codziennej",
-      "Może stać na początku zdania dla podkreślenia: To pass the exam, she studied every day."
+      "Odpowiada wprost na pytanie 'po co? / w jakim celu?' i jest absolutnie domyślnym, neutralnym wyborem w mowie potocznej oraz w zdecydowanej większości tekstów pisanych — to nie jest forma 'uboższa' względem in order to, tylko forma bazowa, od której inne się odchylają stylistycznie.",
+      "Podmiot czynności głównej i czynności celu musi być ten sam — to twarde ograniczenie strukturalne, nie kwestia stylu.",
+      "Fronting na początku zdania (To pass the exam, she studied every day) nie jest ozdobnikiem: wysuwając cel na początek, mówiący czyni z niego temat/punkt wyjścia całej wypowiedzi, a dopiero potem podaje środek do jego osiągnięcia — typowa strategia narracyjna i perswazyjna.",
+      "W rejestrze telegraficznym (instrukcje, szyldy, nagłówki) samo 'to' bywa jedynym słowem wprowadzającym cel bez żadnego czasownika głównego: 'Push to open', 'Break glass to activate' — kolejny dowód, że to najbardziej 'skondensowana', rdzennie angielska forma wyrażania celu."
     ],
-    "tags": ["to buy", "to see", "to learn", "to relax"],
+    "tags": ["to buy", "to see", "to learn", "to relax", "push to open"],
     "examples": [
       { "en": "I went to the shop to buy some milk.", "pl": "Poszedłem do sklepu, żeby kupić mleko." },
       { "en": "She called me to ask for help.", "pl": "Zadzwoniła do mnie, żeby poprosić o pomoc." },
-      { "en": "He saves money to travel abroad.", "pl": "On oszczędza pieniądze, żeby podróżować za granicę." },
-      { "en": "To pass the exam, she studied every day.", "pl": "Żeby zdać egzamin, uczyła się codziennie." }
+      { "en": "He saves money to travel abroad every winter.", "pl": "On oszczędza pieniądze, żeby co roku zimą podróżować za granicę." },
+      { "en": "To pass the exam, she studied every single day for three months.", "pl": "Żeby zdać egzamin, uczyła się codziennie przez trzy miesiące." },
+      { "en": "Push to open — pull to close.", "pl": "Pchnij, aby otworzyć — pociągnij, aby zamknąć." }
     ]
   },
   {
     "id": "in_order_to_so_as_to",
     "order": 2,
-    "nameEn": "in order to / so as to — formal purpose, negative forms",
-    "namePl": "in order to / so as to — formalne wyrażanie celu, formy przeczące",
+    "nameEn": "in order to / so as to — the Latinate purpose connectives, and the birth of a clean negative-purpose slot",
+    "namePl": "in order to / so as to — łacińsko-francuskie łączniki celu i geneza potrzeby czystego przeczenia celu",
     "rules": [
-      { "label": "in order to", "text": "Bardziej formalny odpowiednik 'to' — częsty w piśmie i oficjalnych wypowiedziach" },
-      { "label": "so as to", "text": "Podobne znaczenie do 'in order to', też formalne, częste przed czasownikami stanu (be, have, avoid)" },
-      { "label": "przeczenie", "text": "Forma przecząca celu: 'in order not to' / 'so as not to' + bezokolicznik" }
+      { "label": "Rodowód 'in order to': zapożyczenie administracyjne po podboju normandzkim", "text": "'Order' trafiło do angielskiego ze starofrancuskiego 'ordre', wywodzącego się z łacińskiego 'ordo' — 'porządek, kolejność, właściwy układ'. Zwrot 'in order to' powstał dosłownie jako 'we właściwym porządku/układzie, żeby...' i wszedł do angielszczyzny w fali masowych zapożyczeń łacińsko-francuskich po podboju normandzkim (1066), gdy francuski był językiem dworu, prawa i administracji, a angielski — językiem ulicy. To wyjaśnia, dlaczego 'in order to' do dziś brzmi bardziej oficjalnie niż rdzenne 'to': to zapożyczenie, które nigdy w pełni nie 'spoufaliło się' z językiem potocznym tak, jak zrobiły to rdzenne konstrukcje germańskie." },
+      { "label": "Rodowód 'so as to': rodzimy, germański twór analogiczny", "text": "W przeciwieństwie do 'in order to', 'so as to' jest tworem rodzimym — zbudowanym z 'so' + 'as' (ten sam mechanizm porównawczy co w 'so...as' — 'na tyle... na ile'), przeanalizowanym na nowo jako rama celu: '[zrobił coś] tak/w taki sposób, jak [potrzeba], żeby...'. To wyjaśnia, dlaczego 'so as to' bywa nieco bardziej naturalne przy czasownikach stanu i unikania (be, have, avoid) niż 'in order to' — germańska struktura lepiej 'współpracuje' z resztą rdzennie angielskiej gramatyki." },
+      { "label": "Dlaczego to WŁAŚNIE te formy dają czyste przeczenie celu", "text": "Obie konstrukcje ('in order not to', 'so as not to') rozwiązują problem opisany przy zwykłym 'to': umieszczają 'not' w miejscu, gdzie nie ma ŻADNEJ możliwości odczytania go jako przeczenia czynności głównej. 'He whispered so as not to wake the baby' jest jednoznaczne, bo cała fraza 'so as not to' to zamknięty blok gramatyczny, który nie może zostać pomylony ze zwykłym zaprzeczonym dopełnieniem bezokolicznikowym." },
+      { "label": "Dlaczego są 'zamienne', ale nie identyczne w odczuciu", "text": "Choć znaczeniowo 'in order to' i 'so as to' są niemal wymienne, native speaker odczuwa 'in order to' jako nieco bardziej urzędowo-precyzyjne (świetne na początku zdania, do podkreślenia logicznego związku przyczyna–cel), a 'so as to' jako nieco bardziej płynne stylistycznie w środku zdania, zwłaszcza z czasownikami opisującymi stan lub unikanie czegoś." }
     ],
     "usage": [
-      "Gdy chcemy brzmieć bardziej formalnie niż samo 'to'",
-      "Na początku zdania dla podkreślenia celu: In order to succeed, you must work hard.",
-      "Do wyrażania celu negatywnego, czyli 'żeby czegoś nie zrobić'",
-      "so as to jest szczególnie częste z czasownikami avoid, be, have"
+      "Obie formy brzmią bardziej formalnie niż samo 'to' — częste w piśmie, w wypowiedziach oficjalnych, w tekstach akademickich i biznesowych.",
+      "Na początku zdania podkreślają logiczny związek przyczynowo-skutkowy: In order to succeed, you must work hard.",
+      "Służą do wyrażania celu przeczącego w sposób jednoznaczny: in order not to / so as not to + bezokolicznik.",
+      "'so as to' jest szczególnie częste tuż przed czasownikami avoid, be, have, seem — czyli czasownikami opisującymi stan, a nie działanie."
     ],
     "tags": ["in order to", "so as to", "in order not to", "so as not to"],
     "examples": [
-      { "en": "She left early in order to catch the train.", "pl": "Wyszła wcześnie, żeby złapać pociąg." },
+      { "en": "She left early in order to catch the train before rush hour.", "pl": "Wyszła wcześnie, żeby złapać pociąg przed godziną szczytu." },
       { "en": "He whispered so as not to wake the baby.", "pl": "Szeptał, żeby nie obudzić dziecka." },
-      { "en": "In order to succeed, you must work hard.", "pl": "Żeby odnieść sukces, musisz ciężko pracować." },
-      { "en": "They took a taxi so as to arrive on time.", "pl": "Wzięli taksówkę, żeby przyjechać na czas." }
+      { "en": "In order to succeed in this business, you must be prepared to take risks.", "pl": "Żeby odnieść sukces w tym biznesie, musisz być gotów podejmować ryzyko." },
+      { "en": "They took a taxi so as to arrive on time for the interview.", "pl": "Wzięli taksówkę, żeby przyjechać na czas na rozmowę kwalifikacyjną." },
+      { "en": "The company restructured its debt in order not to file for bankruptcy.", "pl": "Firma zrestrukturyzowała dług, żeby nie ogłosić bankructwa." }
     ]
   },
   {
     "id": "so_that",
     "order": 3,
-    "nameEn": "so that — purpose clauses with a modal verb",
-    "namePl": "so that — zdania celu z czasownikiem modalnym",
+    "nameEn": "so that — purpose with an explicit modal, and why the modal's tense must mirror the timeline",
+    "namePl": "so that — cel z jawnym czasownikiem modalnym i dlaczego jego czas musi odzwierciedlać oś czasu",
     "rules": [
-      { "label": "so that + can/will", "text": "Gdy czynność celu jest w czasie teraźniejszym/przyszłym: I'll leave now so that I can catch the bus." },
-      { "label": "so that + could/would", "text": "Gdy czynność główna jest w czasie przeszłym: She whispered so that nobody could hear." },
-      { "label": "różne podmioty", "text": "'so that' jest niezbędne (zamiast 'to'), gdy podmiot zdania celu różni się od podmiotu zdania głównego" }
+      { "label": "Rodowód: staroangielskie 'swā þæt' i rozdzielenie się na dwa znaczenia", "text": "'So that' pochodzi ze staroangielskiego 'swā þæt', dosłownie 'tak, że / w taki sposób, że'. Pierwotnie było to jedno, szersze narzędzie łączące przyczynę ze skutkiem: 'zrobił X tak/w takim stopniu, że nastąpiło Y'. Z czasem to jedno źródło rozgałęziło się na dwie różne, choć pokrewne konstrukcje we współczesnym języku: zdania SKUTKU ('so...that' — He was so tired that he fell asleep) oraz zdania CELU ('so that' — He worked hard so that he could retire early). Różnica jest subtelna: skutek opisuje to, co się RZECZYWIŚCIE stało jako efekt uboczny, cel opisuje to, co miało się stać jako ZAMIERZONY rezultat — ale gramatyczny szkielet obu zdradza wspólne pochodzenie." },
+      { "label": "Dlaczego czasownik modalny jest tu obowiązkowy", "text": "Skoro 'so that' wprowadza pełne zdanie z własnym podmiotem (a nie goły bezokolicznik), potrzebny jest odmieniony czasownik. Ale samo 'she could call me' nie tylko podaje czynność — modal (can/could/will/would/may/might) precyzyjnie koduje, czy cel jest wciąż OTWARTY (możliwość/zdolność w przyszłości) czy był otwarty W PRZESZŁOŚCI względem czasu opowiadania. To dokładnie ten sam mechanizm co 'cofanie czasu' (backshift) w mowie zależnej: modal w zdaniu celu 'relacjonuje' zamiar z perspektywy czasu zdania głównego, więc musi się z nim zgadzać czasowo, tak jak reported speech zgadza czasy między czasownikiem wprowadzającym a wypowiedzią cytowaną." },
+      { "label": "Mapa zgodności czasów", "text": "Zdanie główne w czasie teraźniejszym/przyszłym → can/will (rzadziej may) w zdaniu celu: I'll leave now so that I can catch the bus. Zdanie główne w czasie przeszłym → could/would (rzadziej might) w zdaniu celu: She whispered so that nobody could hear. To nie dowolność stylistyczna, tylko lustrzane odbicie czasu zdania nadrzędnego — dokładnie tak, jak 'can' w mowie niezależnej zamienia się w 'could' po przeniesieniu do mowy zależnej w czasie przeszłym." },
+      { "label": "Dlaczego 'so that' przetrwało tam, gdzie bezokolicznik zawodzi", "text": "'So that' jest niezbędne właśnie tam, gdzie strukturalne ograniczenie bezokolicznika (jeden wspólny podmiot, zob. poprzedni podtemat) nie wystarcza: I gave her my number so that she could call me — dwa różne podmioty (ja / ona), więc gołe 'to' jest niemożliwe. To pokazuje, że wybór między 'to' a 'so that' nie jest kwestią rejestru, lecz twardej logiki gramatycznej: różne podmioty wymuszają pełne zdanie z modalnym." }
     ],
     "usage": [
-      "Gdy podmioty obu czynności są różne: I gave her my number so that she could call me.",
-      "Gdy potrzebny jest czasownik modalny wyrażający zdolność/możliwość w celu",
-      "Częste w mowie potocznej jako naturalna alternatywa dla 'in order to'",
-      "'so that' może też wyrażać rezultat, ale tutaj skupiamy się na jego użyciu do wyrażania celu"
+      "Obowiązkowe, gdy podmioty obu czynności są różne: I gave her my number so that she could call me.",
+      "Naturalne również przy tym samym podmiocie, gdy chcemy podkreślić ZDOLNOŚĆ/MOŻLIWOŚĆ osiągnięcia celu, a nie samą czynność: I'm leaving early so that I can avoid the traffic.",
+      "Czuje się bardziej rodzime i neutralne niż 'in order to', bo — inaczej niż ten zwrot — nie jest zapożyczeniem, tylko rdzennie staroangielskim dziedzictwem; naturalne zarówno w mowie, jak i w piśmie.",
+      "'So that' może też wprowadzać SKUTEK, a nie cel (He shouted, so that everyone turned around) — o rozróżnieniu decyduje intencja: czy coś było zamierzone (cel) czy było jedynie efektem ubocznym (skutek); tutaj skupiamy się wyłącznie na odczycie celowym."
     ],
     "tags": ["so that", "so that + can", "so that + could", "so that + would"],
     "examples": [
-      { "en": "I'll leave now so that I can catch the bus.", "pl": "Wyjdę teraz, żeby zdążyć na autobus." },
-      { "en": "She whispered so that nobody could hear.", "pl": "Szeptała, żeby nikt nie usłyszał." },
-      { "en": "I gave her my number so that she could call me.", "pl": "Dałem jej mój numer, żeby mogła do mnie zadzwonić." },
-      { "en": "He turned down the music so that the baby would sleep.", "pl": "Ściszył muzykę, żeby dziecko zasnęło." }
+      { "en": "I'll leave now so that I can catch the last bus.", "pl": "Wyjdę teraz, żeby zdążyć na ostatni autobus." },
+      { "en": "She whispered so that nobody in the next room could hear.", "pl": "Szeptała, żeby nikt w sąsiednim pokoju nie usłyszał." },
+      { "en": "I gave her my number so that she could call me if anything went wrong.", "pl": "Dałem jej mój numer, żeby mogła zadzwonić, gdyby coś poszło nie tak." },
+      { "en": "He turned down the music so that the baby would finally sleep.", "pl": "Ściszył muzykę, żeby dziecko wreszcie zasnęło." },
+      { "en": "We're saving the recording so that future students can review it.", "pl": "Zachowujemy nagranie, żeby przyszli studenci mogli je przejrzeć." }
     ]
   },
   {
     "id": "for_purpose",
     "order": 4,
-    "nameEn": "for + noun/gerund — purpose of an object or general activity",
-    "namePl": "for + rzeczownik/gerund — przeznaczenie przedmiotu lub ogólna czynność",
+    "nameEn": "for + noun/gerund — function, not intention: the preposition that describes objects, not agents",
+    "namePl": "for + rzeczownik/gerund — funkcja, nie intencja: przyimek opisujący przedmioty, a nie działających ludzi",
     "rules": [
-      { "label": "for + rzeczownik", "text": "Wyraża przeznaczenie przedmiotu: This knife is for cutting bread." },
-      { "label": "for + gerund", "text": "Opisuje ogólne przeznaczenie/funkcję czegoś, nie jednorazową czynność z konkretnym podmiotem" },
-      { "label": "for vs to", "text": "'for' + rzeczownik/gerund opisuje funkcję rzeczy; 'to' + bezokolicznik opisuje cel działania osoby" }
+      { "label": "Rodowód: 'for' jako semantyczny kameleon", "text": "Staroangielskie 'for' było przyimkiem przestrzenno-przyczynowym o znaczeniu 'przed, w obliczu, z powodu, w zamian za, w imieniu'. Przez stulecia wyblakło semantycznie w wiele wyspecjalizowanych znaczeń, które współczesna angielszczyzna wciąż nosi obok siebie: 'for you' (w twoim imieniu), 'for sale' (z zamiarem sprzedaży), 'for fear' (z powodu strachu), i wreszcie 'for cutting' (z funkcją/przeznaczeniem do krojenia). Wszystkie te znaczenia łączy jeden wspólny rdzeń: 'for' wskazuje, na CO dana rzecz jest skierowana albo czemu ma służyć — nie kto to robi, tylko po co to istnieje." },
+      { "label": "Funkcja przedmiotu kontra intencja osoby", "text": "Kluczowa różnica względem bezokolicznika celu: 'to' opisuje INTENCJĘ konkretnej OSOBY wykonującej czynność ('I bought a knife to cut the bread' — ja mam zamiar pociąć), natomiast 'for + rzeczownik/gerund' opisuje wbudowaną, ogólną FUNKCJĘ przedmiotu, niezależną od tego, kto akurat go używa ('This knife is for cutting bread' — nóż JEST do tego przeznaczony, niezależnie od tego, kto go bierze do ręki). Prosty test: jeśli można sensownie zapytać 'kto konkretnie ma zamiar to zrobić?', to znak, że potrzebny jest bezokolicznik celu (agent); jeśli pytanie brzmi raczej 'do czego to służy?', potrzebne jest 'for' (funkcja, bez agenta)." },
+      { "label": "Dlaczego 'for' łączy się z gerundem, a nie bezokolicznikiem", "text": "Gerund (-ing) jest historycznie rzeczownikiem odczasownikowym — a 'for', będąc przyimkiem, z definicji wymaga po sobie rzeczownika lub frazy rzeczownikowej, nigdy gołego bezokolicznika. 'For cutting' to strukturalnie identyczna konstrukcja jak 'for breakfast' czy 'for John' — przyimek + rzeczownik (tu: rzeczownik odsłowny). To pokazuje, że 'for + gerund' nie jest wyjątkiem do wykucia na pamięć, tylko konsekwencją zwykłej, uniwersalnej reguły składniowej o przyimkach." },
+      { "label": "'What... for?' i mit o zakazanym przyimku na końcu zdania", "text": "Pytanie o przeznaczenie ('What is this switch for?') to przykład tzw. preposition stranding — 'osierocenia' przyimka na końcu zdania, gdy jego dopełnienie ('what') zostaje przesunięte na początek. To naturalna, rdzennie germańska cecha angielskiego składniowego, obecna od stuleci. XVII i XVIII-wieczni gramatycy, zafascynowani łaciną (gdzie taki szyk jest niemożliwy, bo łacińskie przyimki nigdy nie 'osierocają' swojego dopełnienia), próbowali napiętnować tę konstrukcję jako błąd i zalecali sztuczne 'For what is this switch?'. Ta forma nigdy nie zakorzeniła się w naturalnej mowie — 'What is this switch for?' pozostaje jedynym w pełni naturalnym wariantem, a rzekomy zakaz to spuścizna prescriptywizmu, nie żywa reguła gramatyczna." }
     ],
     "usage": [
-      "Opisywanie przeznaczenia narzędzi i przedmiotów: a tool for opening cans",
-      "Ogólne stwierdzenia o funkcji czegoś, bez konkretnego podmiotu wykonującego czynność",
-      "Nie mylić z 'to + infinitive', które opisuje cel konkretnej osoby wykonującej czynność",
-      "'What... for?' to typowe pytanie o przeznaczenie czegoś: What is this button for?"
+      "Opisywanie przeznaczenia narzędzi i przedmiotów, niezależnie od konkretnego użytkownika: a tool for opening cans.",
+      "Ogólne stwierdzenia o funkcji czegoś, bez wskazywania osoby wykonującej czynność.",
+      "Nie mylić z 'to + bezokolicznik', które zawsze wiąże cel z konkretnym, domyślnym podmiotem-agentem.",
+      "'What... for?' to naturalne, w pełni poprawne pytanie o przeznaczenie czegoś — mimo starych, sztucznych zaleceń, by unikać przyimka na końcu zdania."
     ],
     "tags": ["for cutting", "for opening", "what... for", "for cleaning"],
     "examples": [
-      { "en": "This knife is for cutting bread.", "pl": "Ten nóż jest do krojenia chleba." },
+      { "en": "This knife is for cutting bread, not for chopping vegetables.", "pl": "Ten nóż jest do krojenia chleba, nie do siekania warzyw." },
       { "en": "A corkscrew is a tool for opening bottles.", "pl": "Korkociąg to narzędzie do otwierania butelek." },
-      { "en": "What is this switch for?", "pl": "Do czego służy ten przełącznik?" },
-      { "en": "We use this spray for cleaning windows.", "pl": "Używamy tego sprayu do czyszczenia okien." }
+      { "en": "What is this little switch for?", "pl": "Do czego służy ten mały przełącznik?" },
+      { "en": "We use this spray for cleaning windows and mirrors.", "pl": "Używamy tego sprayu do czyszczenia okien i luster." },
+      { "en": "This room is for storage only — please don't leave anything valuable here.", "pl": "To pomieszczenie służy tylko do przechowywania — proszę nie zostawiać tu niczego wartościowego." }
+    ]
+  },
+  {
+    "id": "purpose_register_continuum",
+    "order": 5,
+    "nameEn": "The register ladder of purpose: from spoken 'to' to bureaucratic 'for the purpose of', and the shadow of negative purpose",
+    "namePl": "Drabina rejestrów wyrażania celu: od potocznego 'to' po urzędowe 'for the purpose of' i cień celu przeczącego",
+    "rules": [
+      { "label": "Cała rodzina jednym spojrzeniem: drabina formalności", "text": "Wszystkie dotąd poznane konstrukcje wyrażają dokładnie tę samą logiczną relację (cel), różniąc się WYŁĄCZNIE rejestrem — i warto ułożyć je w jedną, spójną drabinę formalności, zamiast traktować je jak osobne, niezależne 'wzorki': to (potoczne, neutralne) < so that (neutralne, rdzenne) < in order to / so as to (formalno-neutralne, zapożyczone) < with a view to + gerund / for the purpose of + gerund (formalne, prawnicze/urzędowe, zrzeszownikowione). Im wyżej na drabinie, tym bardziej zdanie 'chowa' konkretnego, ludzkiego agenta za bezosobową, abstrakcyjną konstrukcją." },
+      { "label": "Dlaczego 'with a view to' i 'for the purpose of' żądają gerundu, nie bezokolicznika", "text": "To klasyczna C2-owa pułapka: 'with a view to doing' i 'for the purpose of doing' WYMAGAJĄ gerundu, mimo że 'zawierają' słowo 'to'. Powód jest czysto strukturalny: to 'to' NIE jest znacznikiem bezokolicznika, lecz zwykłym przyimkiem (tak jak w 'with a view to the coast' — 'z widokiem na wybrzeże'). 'View' to tu rzeczownik ('widok, perspektywa'), a fraza 'with a view to X' dosłownie znaczyła pierwotnie 'z perspektywą/widokiem na X' — X musi więc być rzeczownikiem lub rzeczownikiem odczasownikowym (gerundem), nigdy gołym bezokolicznikiem. Ten sam mechanizm rządzi 'for the purpose of doing' — 'purpose' i 'doing' to tu dwa rzeczowniki połączone przyimkiem 'of', zgodnie ze zwykłą regułą: po przyimku zawsze rzeczownik/gerund." },
+      { "label": "Dlaczego rejestr urzędowy kocha bezosobowe, zrzeszownikowione konstrukcje celu", "text": "Prawo, biurokracja i pisma formalne systematycznie unikają zdań z jawnym podmiotem-agentem, wykonującym czynność ('we do this in order to...'), na rzecz bezosobowych, nominalizowanych fraz celu ('for the purpose of ensuring...', 'with a view to establishing...'). To nie przypadek stylistyczny, lecz świadoma strategia pragmatyczna: nominalizacja (zamiana czynności w rzeczownik) rozmywa odpowiedzialność za DZIAŁANIE, przenosząc uwagę z 'kto to robi i po co' na abstrakcyjny, bezosobowy 'cel dokumentu' — stąd wrażenie autorytatywnej, ponadludzkiej neutralności typowe dla języka prawa i administracji (zjawisko szerzej omówione przy temacie nominalizacji)." },
+      { "label": "Cień celu przeczącego: od potocznego 'so as not to' po archaiczne 'lest'", "text": "Cała drabina formalności ma swój lustrzany wariant przeczący. W rejestrze neutralnym/potocznym: so as not to / in order not to / so that... wouldn't/couldn't. W rejestrze bardzo formalnym, literackim lub prawniczym wciąż przetrwał znacznie starszy, sięgający staroangielskiego 'ðy læs' twór 'lest' (+ zdanie, często z trybem łączącym): 'They spoke in whispers, lest they wake the child' — dosłownie 'z obawy, żeby przypadkiem nie...'. 'Lest' to skamielina dawnego systemu spójników przyczynowo-obawowych, dziś ograniczona niemal wyłącznie do stylu podniosłego, literackiego lub ironicznie-archaizującego (temat rozwinięty osobno przy 'lest / for fear that')." }
+    ],
+    "usage": [
+      "Wybór miejsca na drabinie formalności to świadoma decyzja stylistyczna, nie kwestia 'poprawności' — w rozmowie 'with a view to' zabrzmi sztucznie, a w umowie prawnej samo 'to' zabrzmi nieprofesjonalnie.",
+      "'With a view to' i 'for the purpose of' zawsze + gerund, nigdy + bezokolicznik — to jeden z najczęstszych błędów uczących się na poziomie C1/C2.",
+      "Teksty prawne i regulaminowe często definiują znaczenie słów właśnie frazą 'for the purpose of': 'For the purpose of this agreement, \"Client\" means...' — to sztampowa, w pełni skonwencjonalizowana formuła.",
+      "Im wyższy rejestr, tym chętniej znika jawny podmiot-agent — cel zaczyna 'należeć' do dokumentu czy instytucji, a nie do konkretnej osoby."
+    ],
+    "tags": ["with a view to", "for the purpose of", "lest", "register ladder"],
+    "examples": [
+      { "en": "To pass the exam, she studied every day.", "pl": "Żeby zdać egzamin, uczyła się codziennie. (rejestr potoczny)" },
+      { "en": "The two companies merged in order to reduce operating costs.", "pl": "Obie firmy połączyły się, żeby zredukować koszty operacyjne. (rejestr neutralno-formalny)" },
+      { "en": "The committee met with a view to revising the current safety regulations.", "pl": "Komisja spotkała się z myślą o zrewidowaniu obowiązujących przepisów bezpieczeństwa. (rejestr formalny)" },
+      { "en": "For the purpose of this agreement, 'the Premises' means the building located at the above address.", "pl": "Na potrzeby niniejszej umowy 'Lokal' oznacza budynek znajdujący się pod powyższym adresem. (rejestr prawniczy)" },
+      { "en": "She kept her voice low, lest anyone should overhear their conversation.", "pl": "Mówiła cicho, żeby przypadkiem ktoś nie podsłuchał ich rozmowy. (rejestr literacki/archaizujący)" }
     ]
   }
 ]

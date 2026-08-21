@@ -41,5 +41,14 @@
   {"id": 37, "itemId": "for_purpose", "prompt": "This app is ___ tracking expenses.", "answer": "for", "distractors": ["to", "so that", "in order to"]},
   {"id": 38, "itemId": "for_purpose", "prompt": "The room is ___ storage only.", "answer": "for", "distractors": ["to", "so that", "in order to"]},
   {"id": 39, "itemId": "for_purpose", "prompt": "This cream is ___ dry skin.", "answer": "for", "distractors": ["to", "so that", "in order to"]},
-  {"id": 40, "itemId": "for_purpose", "prompt": "What's this button ___?", "answer": "for", "distractors": ["to", "so that", "in order to"]}
+  {"id": 40, "itemId": "for_purpose", "prompt": "What's this button ___?", "answer": "for", "distractors": ["to", "so that", "in order to"]},
+
+  {"id": 41, "itemId": "purpose_register_continuum", "prompt": "The committee met with a view to ___ the current regulations.", "answer": "revising", "distractors": ["revise", "revised", "have revised"]},
+  {"id": 42, "itemId": "purpose_register_continuum", "prompt": "For the purpose of this agreement, 'Client' ___ any registered user of the platform.", "answer": "means", "distractors": ["meaning", "to mean", "meant"]},
+  {"id": 43, "itemId": "purpose_register_continuum", "prompt": "The board is considering the merger with a view to ___ operating costs.", "answer": "reducing", "distractors": ["reduce", "reduced", "to reduce"]},
+  {"id": 44, "itemId": "purpose_register_continuum", "prompt": "She kept her voice down, ___ anyone should overhear the conversation.", "answer": "lest", "distractors": ["so that", "for", "unless"]},
+  {"id": 45, "itemId": "purpose_register_continuum", "prompt": "For the purpose of ___ delays, all applications must be submitted online.", "answer": "avoiding", "distractors": ["avoid", "to avoid", "avoided"]},
+  {"id": 46, "itemId": "purpose_register_continuum", "prompt": "In casual conversation you'd say 'I called ___ ask a question', not 'with a view to asking a question'.", "answer": "to", "distractors": ["for", "so that", "of"]},
+  {"id": 47, "itemId": "purpose_register_continuum", "prompt": "The new policy was introduced with a view to ___ transparency across all departments.", "answer": "improving", "distractors": ["improve", "improved", "have improved"]},
+  {"id": 48, "itemId": "purpose_register_continuum", "prompt": "For the purpose of ___ this clause, 'working day' excludes public holidays.", "answer": "interpreting", "distractors": ["interpret", "interpreted", "to interpret"]}
 ]
