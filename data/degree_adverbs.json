@@ -1,98 +1,429 @@
 [
   {
-    "id": "gradable_ungradable",
+    "id": "grammaticalization_treadmill",
     "order": 1,
-    "nameEn": "Gradable vs non-gradable adjectives",
-    "namePl": "Przymiotniki stopniowalne i niestopniowalne",
+    "nameEn": "Where intensifiers come from: the semantic treadmill",
+    "namePl": "Skąd się biorą wzmacniacze: ruchoma taśma zużycia znaczeń",
     "rules": [
-      { "label": "Stopniowalne", "text": "Przymiotniki takie jak big, cold, interesting, tired opisują cechę w różnym natężeniu — można je wzmacniać słowami very, quite, rather, fairly, pretty" },
-      { "label": "Niestopniowalne", "text": "Przymiotniki takie jak huge, freezing, fascinating, exhausted już same w sobie oznaczają skrajność — wzmacnia się je słowami absolutely, completely, totally, utterly, entirely" },
-      { "label": "Błąd", "text": "'very' nie łączy się z przymiotnikiem niestopniowalnym — poprawnie absolutely huge, nie very huge" }
+      {
+        "label": "Zużywanie się słów: dlaczego wciąż potrzebujemy nowych wzmacniaczy",
+        "text": "W staroangielskim podstawowym wzmacniaczem było 'swīþe' — dosłownie 'silnie', od przymiotnika 'swið' (mocny) — więc 'swīþe gōd' znaczyło dosłownie 'silnie dobry', czyli 'bardzo dobry'. Obok niego funkcjonowało 'full' (dziś przetrwałe w skamieniałych zwrotach typu 'full well', 'full sore afraid'). Żadne z tych słów nie przetrwało jako żywy wzmacniacz do dziś — zostały wyparte, bo intensyfikatory z czasem 'się zużywają': słowo powtarzane automatycznie jako wzmocnienie traci swoją siłę ekspresywną (słuchacz się przyzwyczaja i przestaje je odbierać jako emfazę), więc mówiący sięgają po świeższe, bardziej naznaczone słowa, by odzyskać efekt nacisku. To zjawisko bywa nazywane inflacją semantyczną — działa dokładnie jak inflacja pieniądza: im częściej słowo jest 'wydawane' jako wzmocnienie, tym mniej jest warte, i trzeba wybić nową monetę."
+      },
+      {
+        "label": "Jak 'prawdziwy' stał się 'bardzo': narodziny dzisiejszego 'very'",
+        "text": "W średniowieczu do angielskiego (przez anglo-normandzki) trafił przymiotnik 'verray/verrai' — z łacińskiego 'verax' (prawdomówny), od 'verus' (prawdziwy) — pierwotnie znaczący dosłownie 'prawdziwy, autentyczny', jak w 'a verray knyght' u Chaucera, czyli 'prawdziwy, prawdziwie taki rycerz'. Z czasem fraza w rodzaju 'a verray good man' ('prawdziwie dobry człowiek') zaczęła być odczytywana nie jako opis autentyczności, lecz jako czyste wzmocnienie stopnia — i tak 'verray' wyparło 'swīþe' i 'full' z roli wzmacniacza numer jeden, stając się dzisiejszym 'very'. To jest podręcznikowy przykład gramatykalizacji połączonej z wyblaknięciem semantycznym (semantic bleaching): pełnoznaczny przymiotnik ('prawdziwy') stopniowo traci swoją treść opisową i zastyga jako czysto gramatyczny wskaźnik stopnia."
+      },
+      {
+        "label": "Taśma nie zatrzymała się na 'very'",
+        "text": "Ten sam mechanizm działa dziś na naszych oczach: 'very' — niegdyś świeże i mocne — brzmi dla wielu użytkowników płasko i nudno w porównaniu z nowszymi 'really', 'so', 'totally', a nawet 'literally' używanym jako czysty wzmacniacz emocjonalny ('I literally died laughing'), co purystom językowym kojarzy się z 'psuciem' języka, choć w istocie jest to dokładnie ten sam proces, który wyniósł 'very' na piedestał osiemset lat temu. Znajomość tego wzorca (konkretne słowo o znaczeniu 'prawda / realność / pełnia / wolność od czegoś' → wyblaknięcie → czysty wzmacniacz stopnia) jest kluczem do zrozumienia etymologii niemal każdego przysłówka stopnia opisanego w dalszych częściach tego tematu — 'quite', 'absolutely', 'utterly', 'completely', 'entirely' i 'pretty' to wszystko kolejne fale tej samej taśmy."
+      }
     ],
     "usage": [
-      "Rozpoznanie, czy przymiotnik opisuje stopień (można 'bardziej') czy skrajność (już maksimum)",
-      "Dobór właściwego wzmacniacza do typu przymiotnika",
-      "Unikanie typowego błędu 'very perfect', 'very huge'",
-      "Rozpoznawanie par: big → huge, cold → freezing, tired → exhausted, good → perfect"
+      "Rozpoznawanie, że 'very' i 'really' nie są przypadkowymi synonimami, lecz kolejnymi falami tego samego historycznego procesu",
+      "Traktowanie 'literally' jako czystego wzmacniacza (nie dosłowności) jako naturalnego, przewidywalnego etapu tej samej taśmy, a nie 'błędu' młodego pokolenia",
+      "Rozumienie, że rejestr wzmacniacza (neutralny/potoczny/formalny) często odzwierciedla to, jak niedawno dane słowo 'weszło do obiegu' jako intensyfikator",
+      "Łączenie tego mechanizmu z konkretną etymologią każdego wzmacniacza omówionego w kolejnych częściach tematu"
     ],
-    "tags": ["very big", "absolutely huge", "quite cold", "absolutely freezing"],
+    "tags": [
+      "semantic bleaching",
+      "grammaticalization",
+      "very < verray",
+      "swīþe",
+      "intensifier treadmill"
+    ],
     "examples": [
-      { "en": "The room was very cold.", "pl": "W pokoju było bardzo zimno." },
-      { "en": "It's absolutely freezing outside!", "pl": "Na zewnątrz jest absolutnie lodowato!" },
-      { "en": "She was very tired after the trip.", "pl": "Była bardzo zmęczona po podróży." },
-      { "en": "He was absolutely exhausted after the marathon.", "pl": "Był kompletnie wykończony po maratonie." }
+      {
+        "en": "In Old English you would say 'swīþe gōd' — literally 'strongly good' — where today we simply say 'very good'.",
+        "pl": "W staroangielskim mówiono 'swīþe gōd' — dosłownie 'silnie dobry' — tam, gdzie dziś mówimy po prostu 'very good'."
+      },
+      {
+        "en": "By Chaucer's time, 'verray' — our modern 'very' — was the fashionable new intensifier ousting the older 'full' and 'swithe'.",
+        "pl": "Za czasów Chaucera 'verray' — dzisiejsze 'very' — było modnym nowym wzmacniaczem, wypierającym starsze 'full' i 'swithe'."
+      },
+      {
+        "en": "Today's teenagers already treat plain 'very' as flat and reach for 'so', 'totally' or 'literally' instead.",
+        "pl": "Dzisiejsza młodzież traktuje samo 'very' jako mdłe i sięga zamiast niego po 'so', 'totally' czy 'literally'."
+      },
+      {
+        "en": "The archaic phrase 'full well' still fossilizes the intensifier English relied on before 'very' took over its job.",
+        "pl": "Archaiczna fraza 'full well' wciąż zachowuje wzmacniacz, którym posługiwał się angielski, zanim jego rolę przejęło 'very'."
+      }
+    ]
+  },
+  {
+    "id": "intensity_scale_model",
+    "order": 2,
+    "nameEn": "The mental model: four floors of one scale",
+    "namePl": "Model myślowy: cztery piętra jednej skali",
+    "rules": [
+      {
+        "label": "Cztery piętra: osłabiacze, moderatory, boostery, maksymalizery",
+        "text": "Wszystkie przysłówki stopnia da się ustawić na jednej pionowej skali natężenia, jak na termometrze od 0 do pełni. Na dole stoją osłabiacze (a bit, slightly, a little, somewhat) — obniżają odczyt poniżej neutralnego poziomu przymiotnika. Wyżej są moderatory (fairly, rather, quite, pretty) — podnoszą go umiarkowanie, ale nie do maksimum. Jeszcze wyżej — boostery (very, really, extremely, incredibly, so) — pchają odczyt mocno w górę, choć wciąż w obrębie skali otwartej. Na samym szczycie stoją maksymalizery (absolutely, completely, totally, utterly, entirely) — nie 'podnoszą' odczytu, tylko potwierdzają, że wskaźnik siedzi dokładnie na krańcu skali, bez reszty."
+      },
+      {
+        "label": "Skale otwarte i zamknięte: dlaczego 'very huge' brzmi nienaturalnie",
+        "text": "Zwykłe przymiotniki stopniowalne (big, cold, tired, good) opisują skalę OTWARTĄ — nie ma górnej granicy: zawsze można być 'jeszcze bardziej big'. Boostery w rodzaju 'very' mierzą właśnie to: jak daleko w górę tej nieskończonej skali sięgamy. Przymiotniki ekstremalne (huge, freezing, exhausted, perfect) opisują natomiast skalę ZAMKNIĘTĄ — górna granica jest wbudowana w samo znaczenie słowa: 'huge' już oznacza kraniec skali wielkości, więc nie ma 'dalej w górę', co 'very' mogłoby zmierzyć. Do takich przymiotników potrzebny jest inny typ narzędzia — maksymalizer, który nie pyta 'jak wysoko', tylko 'jak w pełni, bez reszty zajmujesz ten kraniec'. To wyjaśnia ograniczenie kolokacyjne jako logiczną konieczność wynikającą z semantyki skali, a nie jako arbitralną regułkę do wykucia na pamięć."
+      },
+      {
+        "label": "Dlaczego granica bywa łamana w mowie potocznej",
+        "text": "W nieformalnej mowie coraz częściej słyszy się 'very huge' czy 'very amazing' — i to nie jest przypadek, lecz dokładnie ten sam mechanizm zużywania się słów opisany w poprzedniej części tematu: 'very', osłabione wiekami nadużywania, powoli dryfuje w stronę terytorium maksymalizerów. Granica między piętrem boosterów a piętrem maksymalizerów nie jest więc wykuta w kamieniu na zawsze — przesuwa się powoli w miarę zużywania słów, a dzisiejszy 'błąd potoczny' może być jutrzejszym standardem, dokładnie tak, jak 'very' samo niegdyś wyparło 'full' z tego samego miejsca w zdaniu."
+      }
+    ],
+    "usage": [
+      "Sprawdzanie przed doborem wzmacniacza: czy przymiotnik nazywa już skrajność (freezing, exhausted) czy tylko punkt na otwartej skali (cold, tired)?",
+      "Traktowanie doboru wzmacniacza jako pytania 'jak wysoko na skali' (booster) albo 'jak w pełni na krańcu skali' (maksymalizer), zamiast zapamiętywania listy arbitralnych par",
+      "Rozpoznawanie par podstawowy/skrajny przymiotnik (good/perfect, cold/freezing, tired/exhausted, big/huge, angry/furious, surprised/astonished) jako testu wyboru piętra skali",
+      "Świadome traktowanie 'very + przymiotnik ekstremalny' jako rejestru wyłącznie potocznego, niepoprawnego w piśmie formalnym"
+    ],
+    "tags": [
+      "open scale",
+      "closed scale",
+      "gradable adjectives",
+      "extreme adjectives",
+      "booster",
+      "maximizer"
+    ],
+    "examples": [
+      {
+        "en": "'Cold' sits on an open scale, so 'very cold' simply pushes the reading higher up an endless line.",
+        "pl": "'Cold' leży na skali otwartej, więc 'very cold' po prostu przesuwa odczyt wyżej po nieskończonej linii."
+      },
+      {
+        "en": "'Freezing' already names the very bottom of the temperature scale, so 'absolutely freezing' confirms you're fully at that endpoint.",
+        "pl": "'Freezing' od razu nazywa sam dół skali temperatury, więc 'absolutely freezing' potwierdza, że jesteś w pełni na tym krańcu."
+      },
+      {
+        "en": "Strictly, 'very perfect' is illogical — 'perfect' has no 'more perfect' left to measure.",
+        "pl": "Ściśle rzecz biorąc, 'very perfect' jest nielogiczne — 'perfect' nie ma już 'bardziej perfekcyjnego' stanu do zmierzenia."
+      },
+      {
+        "en": "In casual speech people increasingly say 'very amazing', showing the booster/maximizer boundary quietly shifting.",
+        "pl": "W potocznej mowie coraz częściej mówi się 'very amazing', co pokazuje, jak granica booster/maksymalizer po cichu się przesuwa."
+      }
     ]
   },
   {
     "id": "very_really_so",
-    "order": 2,
-    "nameEn": "very / really / so as basic intensifiers",
-    "namePl": "very / really / so jako podstawowe wzmacniacze",
-    "rules": [
-      { "label": "very", "text": "very + przymiotnik/przysłówek — neutralne, mocne wzmocnienie, stoi bezpośrednio przed wzmacnianym słowem" },
-      { "label": "really", "text": "really jest bardziej nieformalne, może wzmacniać zarówno przymiotniki stopniowalne, jak i niestopniowalne, a także czasowniki (I really like it)" },
-      { "label": "so", "text": "so jest typowe dla mowy potocznej i emocjonalnego podkreślenia, często w zdaniu z 'that' (so tired that...)" }
-    ],
-    "usage": [
-      "very przed przymiotnikiem/przysłówkiem stopniowalnym: very interesting, very quickly",
-      "really jako uniwersalny wzmacniacz w mowie potocznej, także przy czasownikach: I really enjoyed it",
-      "so do wzmocnienia z zabarwieniem emocjonalnym: This is so exciting!",
-      "very nie wzmacnia czasowników — nie mówimy 'I very like it', tylko 'I really like it'"
-    ],
-    "tags": ["very interesting", "really like", "so exciting", "so tired that"],
-    "examples": [
-      { "en": "This book is very interesting.", "pl": "Ta książka jest bardzo interesująca." },
-      { "en": "I really enjoyed the concert.", "pl": "Naprawdę spodobał mi się koncert." },
-      { "en": "She was so tired that she fell asleep at the table.", "pl": "Była tak zmęczona, że zasnęła przy stole." },
-      { "en": "He really doesn't like coffee.", "pl": "On naprawdę nie lubi kawy." }
-    ]
-  },
-  {
-    "id": "rather_quite_fairly",
     "order": 3,
-    "nameEn": "rather / quite / fairly — moderate degree",
-    "namePl": "rather / quite / fairly — umiarkowany stopień",
+    "nameEn": "very / really / so — the mid-to-high booster floor",
+    "namePl": "very / really / so — piętro wzmacniaczy średnio-wysokich",
     "rules": [
-      { "label": "quite", "text": "quite = 'dość' z przymiotnikami stopniowalnymi (quite good), ale = 'całkowicie' z niestopniowalnymi (quite amazing)" },
-      { "label": "rather", "text": "rather = 'raczej' — często bardziej formalne niż quite, czasem sugeruje lekkie zaskoczenie lub negatywny odcień (rather expensive)" },
-      { "label": "fairly", "text": "fairly = 'dość' — słabsze niż quite, neutralne, bez zabarwienia emocjonalnego (fairly easy)" }
+      {
+        "label": "Dlaczego 'very' nie wzmacnia czasownika, a 'really' owszem",
+        "text": "'Very' zgramatykalizowało się wyłącznie jako przedrostek przymiotników i przysłówków, bo jego źródłowe znaczenie ('prawdziwy X', jak 'a very knight' = 'prawdziwy rycerz') zawsze przylegało do słowa opisującego rzeczownik, nigdy do czasownika — dlatego do dziś nie da się powiedzieć *'I very like it', a angielski w tej roli używa skamieniałej frazy zastępczej 'very much' (I like it very much). 'Really' natomiast to w pełni produktywny przysłówek utworzony żywą końcówką '-ly' od przymiotnika 'real' (z łacińskiego 'realis' — 'dotyczący rzeczy, realny'), a przysłówki na '-ly' swobodnie modyfikują czasowniki, tak jak 'quickly' czy 'carefully' — 'really' odziedziczyło więc pełną, nieograniczoną dystrybucję składniową, w tym pozycję przy czasowniku, czego skostniałe, nieproduktywne 'very' nigdy nie zdobyło."
+      },
+      {
+        "label": "'so' — dziecko staroangielskiego 'swā', wzmacniacz-wskaźnik",
+        "text": "'So' pochodzi wprost od staroangielskiego 'swā' (germańskie *swa, spokrewnione z niemieckim 'so'), słowa pełniącego funkcję sposobu i stopnia nieprzerwanie od czasów staroangielskich, o pierwotnym znaczeniu dosłownie 'w TEN sposób / do TEGO stopnia' — słowo wskazujące (deiktyczne), odsyłające do jakiegoś domyślnego lub następującego po nim wzorca. Dlatego współczesne 'so' najnaturalniej brzmi z intonacją emfatyczną ('It's SO cold!') albo dopełnione zdaniem skutkowym z 'that' ('so cold that the lake froze') — jego pierwotną treścią nigdy nie było abstrakcyjne 'bardzo', lecz 'do TAKIEGO stopnia (jak zaraz pokażę/jak widać)'. To wyjaśnia, czemu 'so' brzmi bardziej emocjonalnie i teatralnie niż płaskie 'very': gramatycznie jest to wskaźnik deiktyczny, a nie zwykły intensyfikator."
+      },
+      {
+        "label": "Drabina rejestru: neutralne 'very', potoczne 'really'/'so', formalne 'extremely'",
+        "text": "Wybór właściwego boostera to nie tylko kwestia znaczenia, ale i rejestru: 'very' pasuje wszędzie i jest neutralne; 'really' jest nieco bardziej potoczne i typowe dla mowy; 'so' jest wyraźnie nacechowane emocjonalnie i wykrzyknieniowe, częste w rozmowie, rzadkie w tekście formalnym; 'extremely', 'exceptionally', 'remarkably', 'considerably' to z kolei wzmacniacze preferowane w prozie akademickiej i profesjonalnych raportach ('extremely effective', nigdy w takim kontekście 'so effective'). Świadomy dobór wzmacniacza pod kątem rejestru to umiejętność na poziomie C1/C2, nie sama znajomość znaczenia."
+      }
     ],
     "usage": [
-      "quite przed przymiotnikiem stopniowalnym: quite tired (umiarkowanie), przed niestopniowalnym: quite amazing (całkowicie)",
-      "rather w bardziej formalnym rejestrze lub przy negatywnej ocenie: rather boring, rather difficult",
-      "fairly jako łagodniejszy, neutralny odpowiednik quite: fairly cheap, fairly simple",
-      "pretty jako nieformalny synonim quite/fairly w mowie potocznej: pretty good"
+      "'very' + przymiotnik/przysłówek stopniowalny: very interesting, very quickly — nigdy bezpośrednio przy czasowniku",
+      "'really' jako uniwersalny wzmacniacz mowy potocznej, poprawny także przy czasownikach: I really enjoyed it, I really mean it",
+      "'so' z ładunkiem emocjonalnym, często domykane zdaniem 'that': This is so exciting! / She was so tired that she fell asleep at the table",
+      "Dobór 'extremely/exceptionally' zamiast 'so/really' w rejestrze formalnym i pisanym"
     ],
-    "tags": ["quite good", "rather expensive", "fairly easy", "pretty good"],
+    "tags": [
+      "very interesting",
+      "really enjoy",
+      "so exciting",
+      "so tired that",
+      "extremely effective"
+    ],
     "examples": [
-      { "en": "The film was quite good, but not amazing.", "pl": "Film był dość dobry, ale nie rewelacyjny." },
-      { "en": "This hotel is rather expensive for what it offers.", "pl": "Ten hotel jest raczej drogi jak na to, co oferuje." },
-      { "en": "The test was fairly easy this time.", "pl": "Test był tym razem dość łatwy." },
-      { "en": "It's a pretty good idea, actually.", "pl": "To właściwie całkiem niezły pomysł." }
+      {
+        "en": "This book is very interesting, though I wouldn't call it extraordinary.",
+        "pl": "Ta książka jest bardzo interesująca, choć nie nazwałbym jej nadzwyczajną."
+      },
+      {
+        "en": "I really don't understand why he said that.",
+        "pl": "Naprawdę nie rozumiem, dlaczego on to powiedział."
+      },
+      {
+        "en": "She was so nervous before the interview that her hands were shaking.",
+        "pl": "Przed rozmową kwalifikacyjną była tak zdenerwowana, że trzęsły jej się ręce."
+      },
+      {
+        "en": "The new policy proved extremely effective within the first quarter.",
+        "pl": "Nowa polityka okazała się niezwykle skuteczna już w pierwszym kwartale."
+      },
+      {
+        "en": "*I very like this song is ungrammatical — say 'I really like this song' or 'I like this song very much'.",
+        "pl": "*I very like this song jest niegramatyczne — mówi się 'I really like this song' albo 'I like this song very much'."
+      }
     ]
   },
   {
-    "id": "absolutely_extreme",
+    "id": "quite_dual_behaviour",
     "order": 4,
-    "nameEn": "absolutely / completely / totally — extreme intensifiers",
-    "namePl": "absolutely / completely / totally — wzmacniacze skrajności",
+    "nameEn": "quite — one word, two opposite jobs",
+    "namePl": "quite — jedno słowo, dwa przeciwstawne oblicza",
     "rules": [
-      { "label": "Wzmacniacze skrajne", "text": "absolutely, completely, totally, utterly, entirely łączą się TYLKO z przymiotnikami niestopniowalnymi (już skrajnymi w znaczeniu)" },
-      { "label": "Częste pary", "text": "good → excellent/perfect, bad → terrible/awful, big → huge/enormous, small → tiny, surprised → astonished, scared → terrified, interesting → fascinating, angry → furious" },
-      { "label": "Błąd", "text": "nie łączymy absolutely z przymiotnikiem stopniowalnym — źle: absolutely good, dobrze: absolutely excellent" }
+      {
+        "label": "Etymologia: 'quite' to dawne 'quitte' — wolny od długu, w pełni rozliczony",
+        "text": "'Quite' pochodzi z anglo-normandzkiego/starofrancuskiego 'quite' (żeńska forma 'quit'), od łacińskiego 'quietus' — 'spokojny, w spoczynku, zwolniony (z obowiązku/długu)', imiesłowu od 'quiescere' ('uspokoić się') — tego samego rdzenia, co 'quiet', 'acquit' i 'requite', a nawet potoczne 'we're quits' (jesteśmy kwita, długi rozliczone). Pierwotne znaczenie to więc 'całkowicie wolny od, w pełni rozliczony z' — znaczenie z natury TOTALIZUJĄCE, bliskie dzisiejszym maksymalizerom, a nie umiarkowanym moderatorom."
+      },
+      {
+        "label": "Dwa znaczenia zależne od typu przymiotnika — ślad etymologii, nie kaprys",
+        "text": "Przy zwykłych przymiotnikach na skali otwartej ('quite good', 'quite big', 'quite warm') 'quite' wyblakło do znaczenia umiarkowanego, łagodzącego ('dość, w pewnym stopniu') — funkcjonuje niemal jak 'fairly'. Ale przy przymiotnikach ekstremalnych/zamkniętych ('quite amazing', 'quite impossible', 'quite right', 'quite alone', 'quite certain') przetrwało dawne, silniejsze znaczenie 'całkowicie/w pełni' i 'quite' działa jak maksymalizer — dokładnie zgodnie z modelem skali otwartej/zamkniętej z poprzedniej części tematu. To nie jest arbitralny wyjątek do wykucia na pamięć, lecz bezpośredni odcisk własnej historii słowa: nowsze, wyblakłe znaczenie skolonizowało miejsce przy skali otwartej, a starożytne znaczenie 'w pełni' utrzymało się przy skali zamkniętej."
+      },
+      {
+        "label": "Rozjazd brytyjsko-amerykański: dlaczego 'quite good' znaczy co innego w Londynie i w Nowym Jorku",
+        "text": "W brytyjskim angielskim 'quite' przy zwykłym przymiotniku zwykle czytane jest jako łagodny umiarkowany moderator, z domyślną niedopowiedzianą rezerwą ('quite good' = przyzwoite, ale niekoniecznie świetne — klasyczne 'chwalenie półgębkiem'). Amerykański angielski w dużej mierze utracił to umiarkowane odczytanie i traktuje 'quite' jako zwykły booster bliski 'very' ('quite good' = bardzo dobre, bez żadnej rezerwy). Ten udokumentowany rozjazd bywa źródłem nieporozumień między Brytyjczykami a Amerykanami: brytyjskie 'quite good' powiedziane z powściągliwością może zabrzmieć dla amerykańskiego ucha, przyzwyczajonego do 'very good', jak chłodna, niepełna pochwała."
+      }
     ],
     "usage": [
-      "Podkreślanie skrajnej cechy: absolutely perfect, completely exhausted, totally ridiculous",
-      "Wzmacnianie emocjonalnych reakcji w mowie potocznej: I'm absolutely thrilled!",
-      "Rozróżnianie, kiedy użyć very + zwykły przymiotnik, a kiedy absolutely + przymiotnik ekstremalny",
-      "Znajomość typowych par przymiotnik zwykły → przymiotnik ekstremalny"
+      "'quite' + przymiotnik stopniowalny na skali otwartej: quite tired, quite warm (umiarkowanie, zwłaszcza w BrE)",
+      "'quite' + przymiotnik ekstremalny/absolutny: quite amazing, quite impossible, quite right (całkowicie, w pełni)",
+      "Świadomość różnicy BrE/AmE przy interpretacji 'quite + zwykły przymiotnik' w kontaktach międzynarodowych",
+      "Rozpoznawanie 'quite' jako maksymalizera w utartych frazach: quite certain, quite sure, quite alone, quite honestly"
     ],
-    "tags": ["absolutely perfect", "completely exhausted", "totally ridiculous", "utterly amazing"],
+    "tags": [
+      "quite good",
+      "quite amazing",
+      "quite right",
+      "quitte",
+      "BrE vs AmE"
+    ],
     "examples": [
-      { "en": "The performance was absolutely perfect.", "pl": "Występ był absolutnie perfekcyjny." },
-      { "en": "I'm completely exhausted after work.", "pl": "Jestem kompletnie wykończony po pracy." },
-      { "en": "That idea is totally ridiculous.", "pl": "Ten pomysł jest zupełnie śmieszny." },
-      { "en": "The view from the top was utterly amazing.", "pl": "Widok ze szczytu był całkowicie zdumiewający." }
+      {
+        "en": "The film was quite good, but nothing special — a very British way of saying it was just okay.",
+        "pl": "Film był dość dobry, ale nic specjalnego — bardzo brytyjski sposób powiedzenia, że był po prostu w porządku."
+      },
+      {
+        "en": "That's quite impossible — there's simply no way to finish it by tomorrow.",
+        "pl": "To po prostu całkowicie niemożliwe — nie ma szans, by to skończyć na jutro."
+      },
+      {
+        "en": "I'm quite certain I locked the door before we left.",
+        "pl": "Jestem całkowicie pewien, że zamknąłem drzwi, zanim wyszliśmy."
+      },
+      {
+        "en": "An American colleague hearing 'quite good' from a British boss might not realise it's actually mild criticism.",
+        "pl": "Amerykański współpracownik, słysząc 'quite good' od brytyjskiego szefa, może nie zauważyć, że to w gruncie rzeczy łagodna krytyka."
+      },
+      {
+        "en": "She was quite alone in the house after her children moved out.",
+        "pl": "Została zupełnie sama w domu, gdy jej dzieci się wyprowadziły."
+      }
+    ]
+  },
+  {
+    "id": "rather_pragmatics",
+    "order": 5,
+    "nameEn": "rather — from 'more readily' to a loaded degree word",
+    "namePl": "rather — od 'chętniej' do wzmacniacza z ukrytym zabarwieniem",
+    "rules": [
+      {
+        "label": "Etymologia: 'rather' to skamieniały stopień wyższy od 'szybko, chętnie'",
+        "text": "'Rather' jest historycznie stopniem wyższym staroangielskiego przysłówka 'hræþe/hraþe' — 'szybko, prędko, ochoczo' (forma comparativus 'hraþor'), spokrewnionego ze słowami oznaczającymi 'szybki' w innych językach germańskich. Jego podstawowe, niezmodyfikowane znaczenie nie dotyczyło więc wcale STOPNIA cechy, lecz GOTOWOŚCI CZASOWEJ/PREFERENCJI — 'prędzej, chętniej' — i to znaczenie przetrwało nienaruszone w konstrukcji preferencji 'I would rather stay' ('wolałbym/chętniej zostałbym'), omówionej osobno przy okazji tematu z 'would rather'. Znaczenie stopniowe ('rather cold', 'rather nice') to późniejsze, odrębne wyblaknięcie tej samej skostniałej formy comparativus: 'chętniej/prędzej' zsunęło się w stronę zwykłego 'w zauważalnym stopniu'."
+      },
+      {
+        "label": "Ładunek pragmatyczny: dlaczego 'rather' rzadko brzmi neutralnie",
+        "text": "W odróżnieniu od czysto neutralnych moderatorów jak 'fairly', 'rather' niemal zawsze niesie domyślne znaczenie dodatkowe: niespodziewanie, lekko negatywnie, w kontraście z oczekiwaniami ('rather disappointing', 'rather expensive for what it offers'). Wynika to właśnie z historycznego znaczenia 'prędzej/chętniej niż alternatywa' — pozostał po nim ślad porównania z jakimś punktem odniesienia: powiedzenie, że coś jest 'rather X', subtelnie sugeruje 'bardziej X, niż się spodziewałem/chciałem', dlatego brzmi to jak stonowane niedopowiedzenie negatywnej oceny albo przytłumione zaskoczenie, a nie jak neutralny opis."
+      },
+      {
+        "label": "Wyjątek: grzeczne, pozytywne 'rather' jako brytyjskie niedopowiedzenie",
+        "text": "Rejestr brytyjski dopuszcza też 'rather' przy przymiotnikach pozytywnych jako formę uprzejmej powściągliwości ('rather nice', 'rather good', 'rather pleased') — tutaj negatywny odcień zaskoczenia odwraca się w grzeczną rezerwę, unikającą wrażenia entuzjastycznego zachwytu (kulturowo zakodowana brytyjska powściągliwość emocjonalna). To ten sam mechanizm, co litota omówiona w osobnym temacie: 'rather nice' może w praktyce znaczyć 'naprawdę zachwycające', wypowiedziane z charakterystycznym emocjonalnym umiarem — interpretacja zależy wtedy od intonacji, kontekstu i wspólnego kodu kulturowego, nie od samych słów. To autentycznie subtelna umiejętność pragmatyczna na poziomie C2."
+      }
+    ],
+    "usage": [
+      "'rather' + przymiotnik z odcieniem niespodzianki lub lekkiej krytyki: rather expensive, rather disappointing, rather odd",
+      "'rather' w rejestrze formalnym jako neutralny, wyważony odpowiednik 'quite/fairly' w pisanej angielszczyźnie brytyjskiej",
+      "Rozpoznawanie 'rather' + przymiotnik pozytywny jako uprzejmego niedopowiedzenia w BrE, nie dosłownej rezerwy",
+      "Odróżnianie tego stopniowego 'rather' od preferencyjnego 'would rather' — ten sam rdzeń historyczny, dwie różne funkcje gramatyczne"
+    ],
+    "tags": [
+      "rather expensive",
+      "rather nice",
+      "hræþe",
+      "British understatement",
+      "would rather"
+    ],
+    "examples": [
+      {
+        "en": "This hotel is rather expensive for what it actually offers.",
+        "pl": "Ten hotel jest raczej drogi jak na to, co faktycznie oferuje."
+      },
+      {
+        "en": "I found the lecture rather boring, to be honest.",
+        "pl": "Szczerze mówiąc, wykład wydał mi się raczej nudny."
+      },
+      {
+        "en": "'How was the party?' 'Oh, rather good, actually' — said with typical British reserve for what was clearly a great night.",
+        "pl": "'Jak było na przyjęciu?' 'Och, właściwie całkiem niezłe' — powiedziane z typową brytyjską powściągliwością o wyraźnie udanym wieczorze."
+      },
+      {
+        "en": "The results were rather disappointing compared to what the team had predicted.",
+        "pl": "Wyniki były raczej rozczarowujące w porównaniu z tym, co przewidywał zespół."
+      }
+    ]
+  },
+  {
+    "id": "fairly_pretty_register",
+    "order": 6,
+    "nameEn": "fairly and pretty — faint praise and borrowed slang",
+    "namePl": "fairly i pretty — chwalenie półgębkiem i pożyczona potoczność",
+    "rules": [
+      {
+        "label": "'fairly' z 'fæger' (piękny, stosowny) — jak przymiotnik piękna stał się neutralnym umiarem",
+        "text": "'Fairly' wywodzi się od staroangielskiego 'fæger' — 'piękny, przyjemny, stosowny, odpowiedni' — tego samego rdzenia, co dzisiejszy przymiotnik 'fair' w obu jego głównych znaczeniach: 'atrakcyjny/urodziwy' (fairground, fair maiden) oraz 'sprawiedliwy, akceptowalny' (a fair deal, fair enough). Przysłówkowe znaczenie stopnia ('umiarkowanie, w akceptowalnym zakresie') wyrosło właśnie z gałęzi 'stosowny, odpowiedni', a nie z gałęzi 'piękny' — co tłumaczy, dlaczego 'fairly' ląduje dokładnie w środku skali: ani słabo, ani mocno, po prostu 'w odpowiedniej, akceptowalnej mierze'. To najbardziej neutralny, najbledszy ze wszystkich moderatorów."
+      },
+      {
+        "label": "Chwalenie półgębkiem: dlaczego 'fairly good' brzmi jak rozczarowanie",
+        "text": "Działa tu ta sama zasada konwersacyjna Grice'a, co przy brytyjskim 'quite': skoro dostępne są mocniejsze słowa pochwały (very, really, quite), a mówiący świadomie wybiera najsłabszy, najbardziej neutralny moderator, słuchacz wnioskuje przez implikaturę, że prawda jest jeszcze mniej pochlebna, niż dosłownie powiedziano. 'The presentation was fairly interesting' sugeruje w praktyce, że była raczej nudna — bo entuzjastycznie nastawiony mówca sięgnąłby po mocniejsze słowo; samo WSTRZYMANIE się od mocnego słowa JEST komunikatem."
+      },
+      {
+        "label": "'pretty' z 'prættig' (przebiegły, chytry) — droga od podstępu do potocznego wzmacniacza",
+        "text": "Przysłówek 'pretty' pochodzi z tego samego źródła, co przymiotnik 'pretty' — staroangielskiego 'prættig', 'przebiegły, chytry, podstępny' (od 'prætt' — 'sztuczka, podstęp'), a więc słowa pierwotnie NIEMAJĄCEGO nic wspólnego z pięknem. Znaczenie dryfowało od 'zręcznie/pomysłowo zrobiony' ku 'starannie, ładnie zrobiony', dając dzisiejsze główne znaczenie przymiotnikowe 'atrakcyjny'. Niezależnie od tego użycie przysłówkowe wyblakło aż do zwykłego, potocznego wzmacniacza stopnia, bliskiego 'fairly/quite' ('pretty good', 'pretty tired') — ograniczonego jednak do rejestru mówionego, nieformalnego, i uznawanego za zbyt swobodne dla tekstu formalnego, w przeciwieństwie do swojego etymologicznego sąsiada 'fairly', który swobodnie funkcjonuje w neutralnej angielszczyźnie pisanej."
+      }
+    ],
+    "usage": [
+      "'fairly' jako neutralny, bezpieczny moderator w piśmie formalnym i codziennej mowie: fairly simple, fairly common, fairly accurate",
+      "Odczytywanie 'fairly + przymiotnik pozytywny' jako subtelnie stonowanej, niepełnej pochwały (damning with faint praise)",
+      "'pretty' jako potoczny, mówiony odpowiednik 'fairly/quite': pretty good, pretty tired, pretty sure — unikany w tekście formalnym",
+      "Rozróżnianie przymiotnikowego 'pretty' (ładny) i przysłówkowego 'pretty' (dość) — dwie różne funkcje tego samego słowa w tym samym zdaniu bywają mylące"
+    ],
+    "tags": [
+      "fairly good",
+      "pretty good",
+      "fæger",
+      "prættig",
+      "damning with faint praise"
+    ],
+    "examples": [
+      {
+        "en": "The instructions were fairly simple to follow, once you got past the first page.",
+        "pl": "Instrukcje były dość proste do zrozumienia, gdy już przebrnęło się przez pierwszą stronę."
+      },
+      {
+        "en": "'The report was fairly thorough' — from a demanding editor, that's closer to criticism than praise.",
+        "pl": "'Raport był dość dokładny' — od wymagającego redaktora to bliżej krytyki niż pochwały."
+      },
+      {
+        "en": "It's a pretty good idea, actually — worth pitching to the team.",
+        "pl": "To właściwie całkiem niezły pomysł — warto go przedstawić zespołowi."
+      },
+      {
+        "en": "She looked pretty tired after the overnight shift, so we let her go home early.",
+        "pl": "Wyglądała na dość zmęczoną po nocnej zmianie, więc pozwoliliśmy jej wyjść wcześniej."
+      }
+    ]
+  },
+  {
+    "id": "maximizer_family",
+    "order": 7,
+    "nameEn": "absolutely, utterly, completely, totally, entirely — five roads to the same endpoint",
+    "namePl": "absolutely, utterly, completely, totally, entirely — pięć dróg do tego samego krańca skali",
+    "rules": [
+      {
+        "label": "'utterly' — najbardziej dosłowny maksymalizer: 'aż do samego zewnętrza'",
+        "text": "Przymiotnik 'utter' jest historycznie skostniałym stopniem wyższym staroangielskiego 'ūt' ('na zewnątrz') — dokładnie tak, jak 'inner' pochodzi od 'in', a niegdyś istniała symetryczna para 'inner/utter' obie oznaczające 'bardziej wewnątrz'/'bardziej na zewnątrz'. Z czasem 'utter' stężało w znaczeniu 'skrajny, zewnętrzny, całkowity' (utter darkness = ciemność sięgająca samego zewnętrznego skraju, czyli ciemność totalna). Przysłówek 'utterly' mierzy więc stopień dosłownie jako skrajność przestrzenną: popchnięty CAŁKOWICIE NA ZEWNĄTRZ, aż do granicy/krańca skali — rzadki przypadek, gdy metafora leżąca u podstaw funkcji gramatycznej wciąż jest widoczna na powierzchni samego słowa."
+      },
+      {
+        "label": "Łacińskie 'absolutely', 'completely', 'totally', 'entirely' — cztery różne obrazy 'całości'",
+        "text": "Cztery łacińskie maksymalizery niosą cztery odrębne metafory źródłowe. 'Absolutely' < 'absolutus' — 'uwolniony, rozwiązany, dokończony' (ab- 'z dala od' + 'solvere' 'rozwiązywać, uwalniać' — ten sam rdzeń, co 'solve', 'dissolve'): obraz czegoś ODCIĘTEGO od wszelkich ograniczeń i zastrzeżeń. 'Completely' < 'completus' — 'napełniony po brzegi' (com- + 'plere' 'napełniać' — ten sam rdzeń, co 'plenty', 'complement'): obraz NACZYNIA wypełnionego do końca. 'Totally' < 'totus' — 'cały, kompletny' (rdzeń niezwiązany z pozostałymi): czysta idea CAŁOŚCI bez podziału. 'Entirely' < starofrancuskie 'entier' < łacińskie 'integer' — 'nienaruszony, cały' (in- 'nie' + 'tangere' 'dotykać' — ten sam rdzeń, co 'integrity'; dosłownie 'nietknięty'): obraz czegoś NIETKNIĘTEGO, bez żadnej ingerencji. Cztery różne obrazy (uwolnienie / napełnienie / całość / nietkniętość), które przez stulecia zbiegły się w tej samej funkcji gramatycznej."
+      },
+      {
+        "label": "Prozodia znaczeniowa: dlaczego 'utterly' lubi klęski, a 'absolutely' zachwyty",
+        "text": "Analiza korpusowa pokazuje wyraźne tendencje kolokacyjne (tzw. prozodia semantyczna): 'utterly', ze swoim literackim, niemal ponurym rodowodem 'skrajnego zewnętrza', ciąży ku predykatom negatywnym i rejestrowi formalno-literackiemu (utterly devastating, utterly exhausted, utterly pointless, utterly ruined); 'absolutely', z emfatycznym, emocjonalnym łacińskim pazurem, ciąży ku ocenom entuzjastycznym w mowie potocznej, zarówno pozytywnym, jak i negatywnym (absolutely brilliant, absolutely delicious, absolutely furious); 'completely' i 'totally' pozostają relatywnie neutralne i faktograficzne (completely different, totally unaware); 'entirely' skłania się ku rejestrowi formalnemu i pisanemu (entirely possible, entirely justified). Żadna z tych tendencji nie jest sztywną regułą gramatyczną, ale ich znajomość jest niezbędna do naturalnie brzmiącej, dopasowanej rejestrowo angielszczyzny na poziomie C2."
+      }
+    ],
+    "usage": [
+      "Maksymalizery TYLKO z przymiotnikami niestopniowalnymi/ekstremalnymi: absolutely perfect, completely exhausted, totally ridiculous, utterly devastating, entirely justified",
+      "Wybór 'utterly' w rejestrze formalnym/literackim i przy predykatach negatywnych",
+      "Wybór 'absolutely' w mowie potocznej dla emfazy emocjonalnej, pozytywnej i negatywnej",
+      "Wybór 'completely/totally' jako neutralnego, faktograficznego potwierdzenia całości bez dodatkowego zabarwienia emocjonalnego"
+    ],
+    "tags": [
+      "absolutely perfect",
+      "utterly devastating",
+      "completely different",
+      "entirely justified",
+      "absolutus",
+      "integer"
+    ],
+    "examples": [
+      {
+        "en": "The city was left utterly devastated after the storm.",
+        "pl": "Miasto zostało kompletnie zdewastowane po burzy."
+      },
+      {
+        "en": "I'm absolutely thrilled that you could make it tonight.",
+        "pl": "Jestem absolutnie zachwycony, że mogłeś dziś przyjść."
+      },
+      {
+        "en": "The two proposals are completely different in scope and cost.",
+        "pl": "Te dwie propozycje są całkowicie różne pod względem zakresu i kosztu."
+      },
+      {
+        "en": "Given the evidence, her decision seems entirely justified.",
+        "pl": "Biorąc pod uwagę dowody, jej decyzja wydaje się w pełni uzasadniona."
+      },
+      {
+        "en": "He was utterly exhausted after three sleepless nights on call.",
+        "pl": "Był kompletnie wykończony po trzech nieprzespanych nocach dyżuru."
+      }
+    ]
+  },
+  {
+    "id": "downtoners_and_fossilized_very",
+    "order": 8,
+    "nameEn": "The quiet end of the scale, and 'very' fossilized as an adjective",
+    "namePl": "Cichy koniec skali oraz 'very' skamieniałe jako przymiotnik",
+    "rules": [
+      {
+        "label": "Osłabiacze: 'a bit' (ugryziony kawałek), 'slightly' (gładki), 'somewhat' (jakoś-co)",
+        "text": "'A bit' pochodzi od staroangielskiego 'bita' — 'kawałek odgryziony', od czasownika 'bītan' ('gryźć') — znaczenie stopnia wyrosło z konkretnego obrazu małej fizycznej porcji, dokładnie tak samo, jak metaforycznie działają inne partitywne wyrażenia typu 'a touch of' czy 'a piece of' (omówione osobno przy partitywach). 'Slightly' pochodzi od przymiotnika 'slight', którego staronordyckie/średnio-dolnoniemieckie korzenie oznaczały 'gładki, płaski, mało istotny co do grubości' — fizyczna cienkość została metaforycznie przeniesiona na małość stopnia. 'Somewhat' jest z kolei najbardziej przejrzyste ze wszystkich: to dosłownie staroangielskie 'sum hwæt' — 'jakieś-coś, pewna (nieokreślona) ilość' — złożenie, którego oba człony rozpoznaje bez trudu każdy współczesny użytkownik angielskiego, w przeciwieństwie do w pełni skamieniałych sąsiadów."
+      },
+      {
+        "label": "Funkcja kulturowa niedopowiedzenia: 'a bit worried' jako kod na 'bardzo zmartwiony'",
+        "text": "Osłabiacze łączą się z tą samą brytyjską kulturą niedopowiedzenia, co opisane wcześniej 'rather': w potocznym BrE 'a bit' bywa rutynowo używane ironicznie/pragmatycznie, by stonować coś, co mówiący w istocie odczuwa bardzo mocno ('I'm a bit worried about the results' = jestem naprawdę zaniepokojony) — to skonwencjonalizowana forma litoty, w której dosłownie słabe słowo stopnia jest przez rodzimych słuchaczy odczytywane jako sygnał czegoś dużo silniejszego niż jego słownikowe 'niewiele'. Poprawne odczytanie tego mechanizmu bywa klasyczną pułapką rozumienia ze słuchu dla uczących się, którzy biorą osłabiacz dosłownie."
+      },
+      {
+        "label": "Skamielina: 'the very' jako przymiotnik znaczący 'dokładnie ten sam, prawdziwy'",
+        "text": "Wracając do etymologii z pierwszej części tematu: 'very' nigdy w pełni nie zniknęło jako przymiotnik. W garści skostniałych, emfatycznych fraz rzeczownikowych angielski wciąż używa 'very' w jego przedgramatykalizacyjnym znaczeniu 'prawdziwy, dokładnie ten sam, sam(a)' — 'the very man I needed to see' (dokładnie ten człowiek, którego potrzebowałem), 'the very idea!' (sama myśl o tym!), 'this very moment' (dokładnie w tej chwili), 'the very same' (identyczny, ten sam). To nie jest przysłówkowe 'very' użyte nietypowo — to bezpośrednia, nieprzerwana kontynuacja średnioangielskiego przymiotnika 'verray' ('prawdziwy'), z którego cały system przysłówkowy opisany w tym temacie się wyłonił. Rozpoznanie 'the very X' jako żywej skamieliny spina cały historyczny łuk tematu w jedną spójną klamrę."
+      }
+    ],
+    "usage": [
+      "Osłabiacze przed przymiotnikiem: a bit tired, slightly worried, somewhat surprised, a little late",
+      "Odczytywanie brytyjskiego 'a bit' jako potencjalnego niedopowiedzenia czegoś poważniejszego, zależnie od kontekstu i tonu",
+      "Rozpoznawanie skamieniałego przymiotnikowego 'very' w utartych frazach: the very idea, this very day, the very same, the very thought of it",
+      "Odróżnianie przymiotnikowego 'the very X' (dokładnie ten) od przysłówkowego 'very X' (bardzo X) — ta sama forma, dwie odrębne funkcje"
+    ],
+    "tags": [
+      "a bit worried",
+      "slightly",
+      "somewhat",
+      "the very idea",
+      "this very moment",
+      "living fossil"
+    ],
+    "examples": [
+      {
+        "en": "I'm a bit concerned about the deadline — meaning, in typical British understatement, genuinely worried.",
+        "pl": "Jestem trochę zaniepokojony terminem — co w typowym brytyjskim niedopowiedzeniu znaczy: naprawdę zmartwiony."
+      },
+      {
+        "en": "The results were only slightly better than last year's.",
+        "pl": "Wyniki były tylko nieznacznie lepsze niż w zeszłym roku."
+      },
+      {
+        "en": "The very idea of cancelling the trip upset her.",
+        "pl": "Sama myśl o odwołaniu wyjazdu ją zdenerwowała."
+      },
+      {
+        "en": "He arrived at this very moment, as if he'd been listening at the door.",
+        "pl": "Zjawił się dokładnie w tej chwili, jakby podsłuchiwał pod drzwiami."
+      },
+      {
+        "en": "It's the very same car we saw parked outside yesterday.",
+        "pl": "To dokładnie ten sam samochód, który widzieliśmy zaparkowany na zewnątrz wczoraj."
+      }
     ]
   }
 ]

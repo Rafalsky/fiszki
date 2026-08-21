@@ -1,45 +1,706 @@
 [
-  {"id": 1, "itemId": "gradable_ungradable", "prompt": "The soup was ___ hot.", "answer": "very", "distractors": ["absolutely", "totally", "utterly"]},
-  {"id": 2, "itemId": "gradable_ungradable", "prompt": "It's ___ freezing outside!", "answer": "absolutely", "distractors": ["very", "quite", "fairly"]},
-  {"id": 3, "itemId": "gradable_ungradable", "prompt": "She was ___ tired after the long shift.", "answer": "very", "distractors": ["absolutely", "totally", "utterly"]},
-  {"id": 4, "itemId": "gradable_ungradable", "prompt": "He was ___ exhausted after the marathon.", "answer": "absolutely", "distractors": ["very", "quite", "rather"]},
-  {"id": 5, "itemId": "gradable_ungradable", "prompt": "The film was ___ boring.", "answer": "very", "distractors": ["absolutely", "completely", "utterly"]},
-  {"id": 6, "itemId": "gradable_ungradable", "prompt": "That movie was ___ terrible — I hated it.", "answer": "absolutely", "distractors": ["very", "quite", "fairly"]},
-  {"id": 7, "itemId": "gradable_ungradable", "prompt": "This coffee is ___ cold.", "answer": "very", "distractors": ["absolutely", "totally", "utterly"]},
-  {"id": 8, "itemId": "gradable_ungradable", "prompt": "The lake was ___ freezing in December.", "answer": "absolutely", "distractors": ["very", "quite", "rather"]},
-  {"id": 9, "itemId": "gradable_ungradable", "prompt": "The room was ___ small.", "answer": "very", "distractors": ["absolutely", "completely", "utterly"]},
-  {"id": 10, "itemId": "gradable_ungradable", "prompt": "Their new house is ___ huge.", "answer": "absolutely", "distractors": ["very", "quite", "fairly"]},
-
-  {"id": 11, "itemId": "very_really_so", "prompt": "I ___ enjoyed the concert last night.", "answer": "really", "distractors": ["very", "so", "quite"]},
-  {"id": 12, "itemId": "very_really_so", "prompt": "She ___ doesn't like coffee.", "answer": "really", "distractors": ["very", "so", "quite"]},
-  {"id": 13, "itemId": "very_really_so", "prompt": "It was ___ cold that we stayed inside all day.", "answer": "so", "distractors": ["very", "really", "quite"]},
-  {"id": 14, "itemId": "very_really_so", "prompt": "She was ___ nervous that her hands were shaking.", "answer": "so", "distractors": ["very", "really", "quite"]},
-  {"id": 15, "itemId": "very_really_so", "prompt": "The music was ___ loud that we couldn't talk.", "answer": "so", "distractors": ["very", "really", "fairly"]},
-  {"id": 16, "itemId": "very_really_so", "prompt": "We ___ enjoyed the trip to Rome.", "answer": "really", "distractors": ["very", "so", "quite"]},
-  {"id": 17, "itemId": "very_really_so", "prompt": "I ___ mean what I said.", "answer": "really", "distractors": ["very", "so", "quite"]},
-  {"id": 18, "itemId": "very_really_so", "prompt": "He drove ___ fast that he got a speeding ticket.", "answer": "so", "distractors": ["very", "really", "rather"]},
-  {"id": 19, "itemId": "very_really_so", "prompt": "She ___ doesn't mind waiting.", "answer": "really", "distractors": ["very", "so", "quite"]},
-  {"id": 20, "itemId": "very_really_so", "prompt": "The exam was ___ difficult that half the class failed.", "answer": "so", "distractors": ["very", "really", "quite"]},
-
-  {"id": 21, "itemId": "rather_quite_fairly", "prompt": "The film was ___ good, but not amazing.", "answer": "quite", "distractors": ["absolutely", "totally", "utterly"]},
-  {"id": 22, "itemId": "rather_quite_fairly", "prompt": "This hotel is ___ expensive for what it offers.", "answer": "rather", "distractors": ["absolutely", "totally", "utterly"]},
-  {"id": 23, "itemId": "rather_quite_fairly", "prompt": "The test was ___ easy this time.", "answer": "fairly", "distractors": ["absolutely", "totally", "utterly"]},
-  {"id": 24, "itemId": "rather_quite_fairly", "prompt": "It's a ___ good idea, actually.", "answer": "pretty", "distractors": ["absolutely", "totally", "utterly"]},
-  {"id": 25, "itemId": "rather_quite_fairly", "prompt": "She's ___ tall for her age.", "answer": "quite", "distractors": ["absolutely", "totally", "utterly"]},
-  {"id": 26, "itemId": "rather_quite_fairly", "prompt": "I found the lecture ___ boring, to be honest.", "answer": "rather", "distractors": ["absolutely", "totally", "utterly"]},
-  {"id": 27, "itemId": "rather_quite_fairly", "prompt": "The instructions were ___ simple to follow.", "answer": "fairly", "distractors": ["absolutely", "totally", "utterly"]},
-  {"id": 28, "itemId": "rather_quite_fairly", "prompt": "He seemed ___ surprised by the news.", "answer": "quite", "distractors": ["absolutely", "totally", "utterly"]},
-  {"id": 29, "itemId": "rather_quite_fairly", "prompt": "It was ___ cold, so we took our coats.", "answer": "rather", "distractors": ["absolutely", "totally", "utterly"]},
-  {"id": 30, "itemId": "rather_quite_fairly", "prompt": "The presentation was ___ interesting, though a bit long.", "answer": "fairly", "distractors": ["absolutely", "totally", "utterly"]},
-
-  {"id": 31, "itemId": "absolutely_extreme", "prompt": "The performance was ___ perfect.", "answer": "absolutely", "distractors": ["very", "quite", "fairly"]},
-  {"id": 32, "itemId": "absolutely_extreme", "prompt": "I'm ___ exhausted after work.", "answer": "completely", "distractors": ["very", "quite", "fairly"]},
-  {"id": 33, "itemId": "absolutely_extreme", "prompt": "That idea is ___ ridiculous.", "answer": "totally", "distractors": ["very", "quite", "fairly"]},
-  {"id": 34, "itemId": "absolutely_extreme", "prompt": "The view from the top was ___ amazing.", "answer": "utterly", "distractors": ["very", "quite", "fairly"]},
-  {"id": 35, "itemId": "absolutely_extreme", "prompt": "This cake is ___ delicious!", "answer": "absolutely", "distractors": ["very", "quite", "fairly"]},
-  {"id": 36, "itemId": "absolutely_extreme", "prompt": "He was ___ furious when he heard the news.", "answer": "absolutely", "distractors": ["very", "quite", "fairly"]},
-  {"id": 37, "itemId": "absolutely_extreme", "prompt": "The house was ___ enormous.", "answer": "absolutely", "distractors": ["very", "quite", "fairly"]},
-  {"id": 38, "itemId": "absolutely_extreme", "prompt": "I was ___ astonished by the results.", "answer": "completely", "distractors": ["very", "quite", "fairly"]},
-  {"id": 39, "itemId": "absolutely_extreme", "prompt": "The room was ___ silent.", "answer": "totally", "distractors": ["very", "quite", "fairly"]},
-  {"id": 40, "itemId": "absolutely_extreme", "prompt": "Their explanation was ___ ridiculous.", "answer": "utterly", "distractors": ["very", "quite", "fairly"]}
+  {
+    "id": 1,
+    "itemId": "grammaticalization_treadmill",
+    "prompt": "In Old English, the default intensifier was ___ (literally 'strongly'), not 'very'.",
+    "answer": "swīþe",
+    "distractors": [
+      "quite",
+      "rather",
+      "pretty"
+    ]
+  },
+  {
+    "id": 2,
+    "itemId": "grammaticalization_treadmill",
+    "prompt": "The archaic phrase 'full well' shows that 'full' once did the job now done by ___.",
+    "answer": "very",
+    "distractors": [
+      "quite",
+      "rather",
+      "so"
+    ]
+  },
+  {
+    "id": 3,
+    "itemId": "grammaticalization_treadmill",
+    "prompt": "Modern 'very' descends from Middle English 'verray', meaning literally ___.",
+    "answer": "true",
+    "distractors": [
+      "free",
+      "outer",
+      "whole"
+    ]
+  },
+  {
+    "id": 4,
+    "itemId": "grammaticalization_treadmill",
+    "prompt": "Younger speakers often replace flat 'very' with fresher intensifiers such as 'totally' or ___, showing the treadmill still turning.",
+    "answer": "literally",
+    "distractors": [
+      "fairly",
+      "quite",
+      "utterly"
+    ]
+  },
+  {
+    "id": 5,
+    "itemId": "grammaticalization_treadmill",
+    "prompt": "The process by which 'true' bleached into a pure degree marker is called semantic ___.",
+    "answer": "bleaching",
+    "distractors": [
+      "inflection",
+      "reduction",
+      "inversion"
+    ]
+  },
+  {
+    "id": 6,
+    "itemId": "grammaticalization_treadmill",
+    "prompt": "'A verray good man' in Chaucer's time meant 'a ___ good man' before the word weakened into a plain intensifier.",
+    "answer": "genuinely",
+    "distractors": [
+      "fairly",
+      "somewhat",
+      "utterly"
+    ]
+  },
+  {
+    "id": 7,
+    "itemId": "grammaticalization_treadmill",
+    "prompt": "Because emphatic words lose force through overuse, English constantly recruits fresh ones — this cycle is called the intensifier ___.",
+    "answer": "treadmill",
+    "distractors": [
+      "ladder",
+      "cascade",
+      "circuit"
+    ]
+  },
+  {
+    "id": 8,
+    "itemId": "grammaticalization_treadmill",
+    "prompt": "'Swīþe gōd' in Old English corresponds to Modern English '___ good'.",
+    "answer": "very",
+    "distractors": [
+      "quite",
+      "rather",
+      "fairly"
+    ]
+  },
+  {
+    "id": 9,
+    "itemId": "intensity_scale_model",
+    "prompt": "'Freezing' already names the endpoint of the temperature scale, so it takes a maximizer like ___, not 'very'.",
+    "answer": "absolutely",
+    "distractors": [
+      "fairly",
+      "somewhat",
+      "rather"
+    ]
+  },
+  {
+    "id": 10,
+    "itemId": "intensity_scale_model",
+    "prompt": "'Cold' sits on an open scale, so it naturally combines with the booster ___.",
+    "answer": "very",
+    "distractors": [
+      "absolutely",
+      "utterly",
+      "completely"
+    ]
+  },
+  {
+    "id": 11,
+    "itemId": "intensity_scale_model",
+    "prompt": "Strictly speaking, '___ perfect' is illogical, because 'perfect' already names the top of a closed scale.",
+    "answer": "very",
+    "distractors": [
+      "absolutely",
+      "utterly",
+      "completely"
+    ]
+  },
+  {
+    "id": 12,
+    "itemId": "intensity_scale_model",
+    "prompt": "An adjective like 'huge' or 'exhausted', which already names an extreme, sits on a ___ scale.",
+    "answer": "closed",
+    "distractors": [
+      "open",
+      "flat",
+      "linear"
+    ]
+  },
+  {
+    "id": 13,
+    "itemId": "intensity_scale_model",
+    "prompt": "The pair 'tired / exhausted' illustrates ordinary vs. ___ adjectives.",
+    "answer": "extreme",
+    "distractors": [
+      "neutral",
+      "gradable",
+      "regular"
+    ]
+  },
+  {
+    "id": 14,
+    "itemId": "intensity_scale_model",
+    "prompt": "On the four-tier model, 'a bit' and 'slightly' sit at the ___ end of the scale.",
+    "answer": "lowest",
+    "distractors": [
+      "highest",
+      "middle",
+      "extreme"
+    ]
+  },
+  {
+    "id": 15,
+    "itemId": "intensity_scale_model",
+    "prompt": "Maximizers don't ask 'how high on the scale' but rather 'how ___ at the endpoint'.",
+    "answer": "fully",
+    "distractors": [
+      "quickly",
+      "rarely",
+      "slowly"
+    ]
+  },
+  {
+    "id": 16,
+    "itemId": "intensity_scale_model",
+    "prompt": "In casual speech, phrases like 'very amazing' show the booster/maximizer boundary quietly ___.",
+    "answer": "shifting",
+    "distractors": [
+      "disappearing",
+      "freezing",
+      "reversing"
+    ]
+  },
+  {
+    "id": 17,
+    "itemId": "very_really_so",
+    "prompt": "I ___ enjoy long walks by the sea — I do it every weekend.",
+    "answer": "really",
+    "distractors": [
+      "very",
+      "so much",
+      "extreme"
+    ]
+  },
+  {
+    "id": 18,
+    "itemId": "very_really_so",
+    "prompt": "*I very like this song is ungrammatical; correct English says 'I like this song ___ much'.",
+    "answer": "very",
+    "distractors": [
+      "so",
+      "really",
+      "quite"
+    ]
+  },
+  {
+    "id": 19,
+    "itemId": "very_really_so",
+    "prompt": "She was ___ tired that she fell asleep at the table.",
+    "answer": "so",
+    "distractors": [
+      "very",
+      "really",
+      "fairly"
+    ]
+  },
+  {
+    "id": 20,
+    "itemId": "very_really_so",
+    "prompt": "In a formal report, 'the method proved ___ effective' fits the register better than 'so effective'.",
+    "answer": "extremely",
+    "distractors": [
+      "so",
+      "really",
+      "pretty"
+    ]
+  },
+  {
+    "id": 21,
+    "itemId": "very_really_so",
+    "prompt": "'So' descends from Old English 'swā', originally meaning 'to ___ degree' — a word that points, rather than a plain booster.",
+    "answer": "that",
+    "distractors": [
+      "some",
+      "no",
+      "any"
+    ]
+  },
+  {
+    "id": 22,
+    "itemId": "very_really_so",
+    "prompt": "'Really' can freely modify a verb because it is a productive '-ly' adverb built from the adjective ___.",
+    "answer": "real",
+    "distractors": [
+      "true",
+      "rare",
+      "rich"
+    ]
+  },
+  {
+    "id": 23,
+    "itemId": "very_really_so",
+    "prompt": "This book is ___ interesting, though not extraordinary.",
+    "answer": "very",
+    "distractors": [
+      "so",
+      "really",
+      "quite so"
+    ]
+  },
+  {
+    "id": 24,
+    "itemId": "very_really_so",
+    "prompt": "The new policy proved ___ effective within the first quarter — a phrase suited to an academic report.",
+    "answer": "extremely",
+    "distractors": [
+      "so",
+      "really",
+      "pretty"
+    ]
+  },
+  {
+    "id": 25,
+    "itemId": "quite_dual_behaviour",
+    "prompt": "The film was ___ good, but nothing special — a classically British way of damning with faint praise.",
+    "answer": "quite",
+    "distractors": [
+      "absolutely",
+      "utterly",
+      "completely"
+    ]
+  },
+  {
+    "id": 26,
+    "itemId": "quite_dual_behaviour",
+    "prompt": "That's ___ impossible — there is simply no way to finish it by tomorrow.",
+    "answer": "quite",
+    "distractors": [
+      "fairly",
+      "rather",
+      "somewhat"
+    ]
+  },
+  {
+    "id": 27,
+    "itemId": "quite_dual_behaviour",
+    "prompt": "'Quite' derives from Old French 'quite', ultimately from Latin 'quietus', meaning ___ from an obligation.",
+    "answer": "discharged",
+    "distractors": [
+      "hurried",
+      "attached",
+      "doubtful"
+    ]
+  },
+  {
+    "id": 28,
+    "itemId": "quite_dual_behaviour",
+    "prompt": "I'm ___ certain I locked the door before we left.",
+    "answer": "quite",
+    "distractors": [
+      "fairly",
+      "somewhat",
+      "a bit"
+    ]
+  },
+  {
+    "id": 29,
+    "itemId": "quite_dual_behaviour",
+    "prompt": "In American English, 'quite good' is typically understood to mean roughly '___ good', losing the British moderate reading.",
+    "answer": "very",
+    "distractors": [
+      "barely",
+      "hardly",
+      "somewhat"
+    ]
+  },
+  {
+    "id": 30,
+    "itemId": "quite_dual_behaviour",
+    "prompt": "She was ___ alone in the house after her children moved out.",
+    "answer": "quite",
+    "distractors": [
+      "fairly",
+      "somewhat",
+      "a bit"
+    ]
+  },
+  {
+    "id": 31,
+    "itemId": "quite_dual_behaviour",
+    "prompt": "With ordinary gradable adjectives like 'warm', British 'quite' behaves like a ___, not a maximizer.",
+    "answer": "moderator",
+    "distractors": [
+      "booster",
+      "downtoner",
+      "intensifier"
+    ]
+  },
+  {
+    "id": 32,
+    "itemId": "quite_dual_behaviour",
+    "prompt": "'Quite right', 'quite alone' and 'quite certain' preserve the older, stronger sense of ___.",
+    "answer": "completely",
+    "distractors": [
+      "barely",
+      "hardly",
+      "somewhat"
+    ]
+  },
+  {
+    "id": 33,
+    "itemId": "rather_pragmatics",
+    "prompt": "This hotel is ___ expensive for what it actually offers.",
+    "answer": "rather",
+    "distractors": [
+      "fairly",
+      "pretty",
+      "so"
+    ]
+  },
+  {
+    "id": 34,
+    "itemId": "rather_pragmatics",
+    "prompt": "'Rather' is historically the comparative of Old English 'hræþe', meaning ___.",
+    "answer": "quickly",
+    "distractors": [
+      "freely",
+      "wholly",
+      "outward"
+    ]
+  },
+  {
+    "id": 35,
+    "itemId": "rather_pragmatics",
+    "prompt": "'How was the party?' 'Oh, ___ good, actually' — said with typical British reserve about a clearly great night.",
+    "answer": "rather",
+    "distractors": [
+      "a bit",
+      "slightly",
+      "somewhat"
+    ]
+  },
+  {
+    "id": 36,
+    "itemId": "rather_pragmatics",
+    "prompt": "I found the lecture ___ boring, to be honest.",
+    "answer": "rather",
+    "distractors": [
+      "extremely",
+      "utterly",
+      "absolutely"
+    ]
+  },
+  {
+    "id": 37,
+    "itemId": "rather_pragmatics",
+    "prompt": "The preference structure 'I would ___ stay' preserves the older, literal sense of the same word as a degree adverb.",
+    "answer": "rather",
+    "distractors": [
+      "quite",
+      "fairly",
+      "pretty"
+    ]
+  },
+  {
+    "id": 38,
+    "itemId": "rather_pragmatics",
+    "prompt": "The results were ___ disappointing compared to what the team had predicted.",
+    "answer": "rather",
+    "distractors": [
+      "absolutely",
+      "utterly",
+      "completely"
+    ]
+  },
+  {
+    "id": 39,
+    "itemId": "rather_pragmatics",
+    "prompt": "Unlike neutral 'fairly', 'rather' typically implies something ___ than expected.",
+    "answer": "more",
+    "distractors": [
+      "less",
+      "no",
+      "equally"
+    ]
+  },
+  {
+    "id": 40,
+    "itemId": "rather_pragmatics",
+    "prompt": "Positive uses like 'rather nice' function in BrE as a form of polite ___.",
+    "answer": "understatement",
+    "distractors": [
+      "exaggeration",
+      "confusion",
+      "apology"
+    ]
+  },
+  {
+    "id": 41,
+    "itemId": "fairly_pretty_register",
+    "prompt": "The instructions were ___ simple to follow, once you got past the first page.",
+    "answer": "fairly",
+    "distractors": [
+      "absolutely",
+      "utterly",
+      "completely"
+    ]
+  },
+  {
+    "id": 42,
+    "itemId": "fairly_pretty_register",
+    "prompt": "'Fairly' derives from Old English 'fæger', originally meaning ___ or fitting.",
+    "answer": "beautiful",
+    "distractors": [
+      "free",
+      "outer",
+      "whole"
+    ]
+  },
+  {
+    "id": 43,
+    "itemId": "fairly_pretty_register",
+    "prompt": "'The report was ___ thorough' — from a demanding editor, this reads closer to criticism than praise.",
+    "answer": "fairly",
+    "distractors": [
+      "absolutely",
+      "utterly",
+      "completely"
+    ]
+  },
+  {
+    "id": 44,
+    "itemId": "fairly_pretty_register",
+    "prompt": "It's a ___ good idea, actually — worth pitching to the team.",
+    "answer": "pretty",
+    "distractors": [
+      "fairly",
+      "utterly",
+      "entirely"
+    ]
+  },
+  {
+    "id": 45,
+    "itemId": "fairly_pretty_register",
+    "prompt": "The adverb 'pretty' comes from Old English 'prættig', meaning ___, not beautiful.",
+    "answer": "cunning",
+    "distractors": [
+      "fitting",
+      "outer",
+      "whole"
+    ]
+  },
+  {
+    "id": 46,
+    "itemId": "fairly_pretty_register",
+    "prompt": "She looked ___ tired after the overnight shift, so we let her go home early.",
+    "answer": "pretty",
+    "distractors": [
+      "entirely",
+      "utterly",
+      "absolutely"
+    ]
+  },
+  {
+    "id": 47,
+    "itemId": "fairly_pretty_register",
+    "prompt": "Unlike 'fairly', the adverb 'pretty' is restricted to a ___ register and avoided in formal writing.",
+    "answer": "colloquial",
+    "distractors": [
+      "academic",
+      "legal",
+      "diplomatic"
+    ]
+  },
+  {
+    "id": 48,
+    "itemId": "fairly_pretty_register",
+    "prompt": "Choosing the weakest available word of praise, such as 'fairly', implies by ___ that the truth is less flattering.",
+    "answer": "implicature",
+    "distractors": [
+      "accident",
+      "definition",
+      "necessity"
+    ]
+  },
+  {
+    "id": 49,
+    "itemId": "maximizer_family",
+    "prompt": "The city was left ___ devastated after the storm.",
+    "answer": "utterly",
+    "distractors": [
+      "very",
+      "quite",
+      "fairly"
+    ]
+  },
+  {
+    "id": 50,
+    "itemId": "maximizer_family",
+    "prompt": "I'm ___ thrilled that you could make it tonight.",
+    "answer": "absolutely",
+    "distractors": [
+      "very",
+      "quite",
+      "fairly"
+    ]
+  },
+  {
+    "id": 51,
+    "itemId": "maximizer_family",
+    "prompt": "The two proposals are ___ different in scope and cost.",
+    "answer": "completely",
+    "distractors": [
+      "very",
+      "quite",
+      "fairly"
+    ]
+  },
+  {
+    "id": 52,
+    "itemId": "maximizer_family",
+    "prompt": "Given the evidence, her decision seems ___ justified.",
+    "answer": "entirely",
+    "distractors": [
+      "very",
+      "quite",
+      "fairly"
+    ]
+  },
+  {
+    "id": 53,
+    "itemId": "maximizer_family",
+    "prompt": "'Utterly' descends from a fossilized comparative of Old English 'ūt', meaning ___.",
+    "answer": "out",
+    "distractors": [
+      "free",
+      "whole",
+      "true"
+    ]
+  },
+  {
+    "id": 54,
+    "itemId": "maximizer_family",
+    "prompt": "'Absolutely' comes from Latin 'absolutus', literally meaning set ___ or unbound.",
+    "answer": "loose",
+    "distractors": [
+      "full",
+      "whole",
+      "true"
+    ]
+  },
+  {
+    "id": 55,
+    "itemId": "maximizer_family",
+    "prompt": "'Entirely' traces back to Latin 'integer', literally meaning ___.",
+    "answer": "untouched",
+    "distractors": [
+      "unbound",
+      "filled",
+      "quick"
+    ]
+  },
+  {
+    "id": 56,
+    "itemId": "maximizer_family",
+    "prompt": "He was ___ exhausted after three sleepless nights on call — a formal, literary-flavoured choice fitting the negative predicate.",
+    "answer": "utterly",
+    "distractors": [
+      "very",
+      "quite",
+      "fairly"
+    ]
+  },
+  {
+    "id": 57,
+    "itemId": "downtoners_and_fossilized_very",
+    "prompt": "I'm ___ concerned about the deadline — in typical British understatement, this means genuinely worried.",
+    "answer": "a bit",
+    "distractors": [
+      "absolutely",
+      "utterly",
+      "completely"
+    ]
+  },
+  {
+    "id": 58,
+    "itemId": "downtoners_and_fossilized_very",
+    "prompt": "The results were only ___ better than last year's.",
+    "answer": "slightly",
+    "distractors": [
+      "absolutely",
+      "utterly",
+      "completely"
+    ]
+  },
+  {
+    "id": 59,
+    "itemId": "downtoners_and_fossilized_very",
+    "prompt": "The ___ idea of cancelling the trip upset her — here the word is an adjective meaning 'exact, sheer'.",
+    "answer": "very",
+    "distractors": [
+      "so",
+      "quite",
+      "rather"
+    ]
+  },
+  {
+    "id": 60,
+    "itemId": "downtoners_and_fossilized_very",
+    "prompt": "He arrived at this ___ moment, as if he'd been listening at the door.",
+    "answer": "very",
+    "distractors": [
+      "so",
+      "quite",
+      "rather"
+    ]
+  },
+  {
+    "id": 61,
+    "itemId": "downtoners_and_fossilized_very",
+    "prompt": "It's the ___ same car we saw parked outside yesterday.",
+    "answer": "very",
+    "distractors": [
+      "so",
+      "quite",
+      "rather"
+    ]
+  },
+  {
+    "id": 62,
+    "itemId": "downtoners_and_fossilized_very",
+    "prompt": "'A bit' historically comes from Old English 'bita', meaning a piece ___ off.",
+    "answer": "bitten",
+    "distractors": [
+      "cut",
+      "torn",
+      "broken"
+    ]
+  },
+  {
+    "id": 63,
+    "itemId": "downtoners_and_fossilized_very",
+    "prompt": "The results were ___ surprising, given the sample size — a neutral downtoner suited to an academic paper.",
+    "answer": "somewhat",
+    "distractors": [
+      "a bit",
+      "pretty",
+      "so"
+    ]
+  },
+  {
+    "id": 64,
+    "itemId": "downtoners_and_fossilized_very",
+    "prompt": "'Slightly' derives from an adjective originally meaning physically ___, later mapped onto smallness of degree.",
+    "answer": "thin",
+    "distractors": [
+      "heavy",
+      "loud",
+      "warm"
+    ]
+  }
 ]
