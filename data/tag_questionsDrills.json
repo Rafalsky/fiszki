@@ -38,5 +38,12 @@
   { "id": 37, "itemId": "same_polarity_tags", "prompt": "So you're the one who ate my lunch, ___ you? (accusing tone)", "answer": "are", "distractors": ["aren't", "do", "don't"] },
   { "id": 38, "itemId": "same_polarity_tags", "prompt": "You want to fight, ___ you? (challenging tone)", "answer": "do", "distractors": ["don't", "are", "aren't"] },
   { "id": 39, "itemId": "same_polarity_tags", "prompt": "Oh, it's like that, ___ it? (ironic realisation)", "answer": "is", "distractors": ["isn't", "does", "doesn't"] },
-  { "id": 40, "itemId": "same_polarity_tags", "prompt": "So you've been lying to me, ___ you? (angry realisation)", "answer": "have", "distractors": ["haven't", "do", "don't"] }
+  { "id": 40, "itemId": "same_polarity_tags", "prompt": "So you've been lying to me, ___ you? (angry realisation)", "answer": "have", "distractors": ["haven't", "do", "don't"] },
+  { "id": 41, "itemId": "operator_origins", "prompt": "You needn't stay any longer, ___ you? (needn't is already negative — semi-modal 'need' as its own operator)", "answer": "need", "distractors": ["do", "don't", "should"] },
+  { "id": 42, "itemId": "operator_origins", "prompt": "He dare not question her decision, ___ he? (bare semi-modal 'dare', no -s, no do-support)", "answer": "dare", "distractors": ["does", "doesn't", "did"] },
+  { "id": 43, "itemId": "operator_origins", "prompt": "They oughtn't to have said that, ___ they?", "answer": "ought", "distractors": ["should", "did", "didn't"] },
+  { "id": 44, "itemId": "operator_origins", "prompt": "You have a spare key, ___ you? (traditional British English: 'have' itself as the operator, no do-support)", "answer": "haven't", "distractors": ["don't", "doesn't", "isn't"] },
+  { "id": 45, "itemId": "operator_origins", "prompt": "He used to work here, ___ he? (modern English: 'used to' lost its old operator status, do-support required)", "answer": "didn't", "distractors": ["wasn't", "hasn't", "usedn't"] },
+  { "id": 46, "itemId": "operator_origins", "prompt": "You'd rather leave now, ___ you? ('d = would, the true operator hidden in the contraction)", "answer": "wouldn't", "distractors": ["didn't", "don't", "hadn't"] },
+  { "id": 47, "itemId": "operator_origins", "prompt": "She's got two brothers, ___ she? ('s got = has got — 'has' is the operator, not 'do')", "answer": "hasn't", "distractors": ["doesn't", "isn't", "hadn't"] }
 ]

@@ -1,13 +1,49 @@
 [
   {
-    "id": "basic_polarity",
+    "id": "operator_origins",
     "order": 1,
+    "nameEn": "Where the tag comes from: the operator system",
+    "namePl": "Skąd bierze się tag: system operatora",
+    "rules": [
+      {
+        "label": "Zaginiony szyk V2 i jego relikt",
+        "text": "Staroangielski, jak dzisiejszy niemiecki czy niderlandzki, miał szyk V2 (czasownik zawsze na drugiej pozycji, z inwersją w pytaniach: 'Cannst þu?' — dosłownie 'Umiesz ty?'). Po utracie końcówek fleksyjnych w średnioangielskim (XI-XIV w., pod wpływem kontaktu z normandzkim francuskim i skandynawskim) angielski porzucił swobodny szyk zależny od przypadków na rzecz sztywnego SVO — ale inwersja V2 PRZETRWAŁA w skamieniałej formie właśnie w pytaniach, przeczeniach i tagach. To dlatego pytanie brzmi 'Do you know?', a nie '*You know?' z samą intonacją — angielski wciąż 'pamięta' V2, tylko przeniósł je z czasownika głównego na wyspecjalizowaną klasę słów zwaną operatorami."
+      },
+      {
+        "label": "Narodziny 'do' jako operatora zastępczego",
+        "text": "W staro- i wczesnośrednioangielskim pytania i przeczenia tworzono przez inwersję samego czasownika głównego: 'Know you him?', 'I know not the man' — ślady tego stylu przetrwały w Biblii króla Jakuba i u Szekspira. Między XV a XVII wiekiem (proces udokumentowany statystycznie przez językoznawcę Alvara Ellegårda jako klasyczna krzywa S rozprzestrzeniania się zmiany językowej) czasownik posiłkowy 'do' — pierwotnie kauzatywny ('sprawić, że ktoś coś zrobi') — stopniowo wypłukał się semantycznie i stał się pustym nośnikiem czasu i zgodności, używanym WYŁĄCZNIE wtedy, gdy zdanie nie miało już żadnego innego operatora (be/have/modalnego). Dzisiejsze tagi z do/does/did są żywym reliktem tej właśnie rewolucji gramatycznej sprzed pięciuset lat."
+      },
+      {
+        "label": "Jeden mechanizm, cztery twarze: właściwości NICE",
+        "text": "Lingwiści opisują operatory (be, have, modalne, do) akronimem NICE — to jedyne czasowniki zdolne do: Negacji bezpośrednio przy sobie (isn't, nie *knowsnot), Inwersji z podmiotem (Are you? nie *Know you?), Code — czyli elipsy reszty zdania z pozostawieniem samego operatora (So do I. / Neither did she.), oraz Emfazy (I DO like it). Tag question to najbardziej skondensowana postać własności Code: całe zdanie pytające zostaje wymazane, zostaje wyłącznie operator + zaimek podmiotu. Dlatego reguła 'tag powtarza operator, nigdy czasownik główny' nie jest arbitralna — to konsekwencja tej samej czterogłowej zasady, która rządzi też przeczeniem i inwersją w całym języku."
+      },
+      {
+        "label": "Dlaczego inne języki mają jeden zamrożony tag, a angielski – żywy system",
+        "text": "Francuskie 'n'est-ce pas?', niemieckie 'nicht wahr?'/'oder?', polskie 'prawda?'/'nieprawdaż?' czy hiszpańskie '¿verdad?' to CZĄSTKI NIEZMIENNE — doklejane do każdego zdania bez względu na jego budowę. Angielski jest pod tym względem typologicznie rzadki: zamiast jednej stałej cząstki za każdym razem buduje MINIATUROWE ZDANIE PYTAJĄCE od nowa, bo korzysta z tej samej maszynerii operatora, która tworzy zwykłe pytania ogólne. To wymaga od mówiącego bieżącej analizy składniowej własnej wypowiedzi (czasu, liczby, biegunowości) w ułamku sekundy — stąd tagi bywają jedną z ostatnich rzeczy, które przyswajają sobie nawet zaawansowani, długoletni użytkownicy angielskiego jako języka obcego."
+      }
+    ],
+    "usage": [
+      "Zrozumienie operatora wyjaśnia WSZYSTKIE pozostałe reguły tagów naraz: dlaczego tag nigdy nie powtarza czasownika głównego, dlaczego pojawia się do/does/did tam, gdzie nie ma innego operatora, i dlaczego rzadkie czasowniki modalne (need, dare, ought, used to) zachowują się inaczej niż zwykłe czasowniki",
+      "Znajomość tej genezy pomaga przewidzieć zachowanie nietypowych, archaicznych lub formalnych konstrukcji (np. 'Dare I ask?', 'Need she know?'), które są żywymi skamielinami przed-do-supportowego angielskiego",
+      "To fundament, na którym nadbudowane są kolejne warstwy tematu: biegunowość, intonacja, ukryte przeczenia i przypadki specjalne"
+    ],
+    "tags": ["do-support", "operator", "NICE properties", "V2", "historia angielskiego", "typologia"],
+    "examples": [
+      { "en": "Know you not the danger? (Early Modern English — inversion of the main verb, no 'do')", "pl": "Nie znasz niebezpieczeństwa? (wczesna nowoangielszczyzna — inwersja czasownika głównego, bez 'do')" },
+      { "en": "Don't you know the danger, do you? — the modern descendant: the same inversion, now carried by the empty operator 'do'.", "pl": "Nie znasz niebezpieczeństwa, prawda? — współczesny potomek: ta sama inwersja, teraz niesiona przez pusty operator 'do'." },
+      { "en": "So do I. / Neither did she. — the same Code property that produces tag questions also produces these elliptical echo-clauses.", "pl": "Ja też. / Ona też nie. — ta sama własność Code, która tworzy tagi, tworzy też te eliptyczne zdania-echa." },
+      { "en": "You speak French, don't you? — a fresh mini-question rebuilt from scratch, unlike frozen 'n'est-ce pas?' or 'prawda?'.", "pl": "Mówisz po francusku, prawda? — świeże mini-pytanie zbudowane od nowa, w przeciwieństwie do zamrożonego 'n'est-ce pas?' czy 'prawda?'." }
+    ]
+  },
+  {
+    "id": "basic_polarity",
+    "order": 2,
     "nameEn": "Basic rule: reversed polarity",
     "namePl": "Podstawowa zasada: odwrócona biegunowość",
     "rules": [
       {
         "label": "Twierdzenie → tag przeczący",
-        "text": "Zdanie twierdzące dostaje tag przeczący: You're tired, aren't you? Zdanie przeczące dostaje tag twierdzący: You aren't tired, are you? Tag powtarza operator zdania głównego (be/have/modal/posiłkowy do) i zaimek odpowiadający podmiotowi."
+        "text": "Zdanie twierdzące dostaje tag przeczący: You're tired, aren't you? Zdanie przeczące dostaje tag twierdzący: You aren't tired, are you? Tag powtarza operator zdania głównego (be/have/modal/posiłkowy do) i zaimek odpowiadający podmiotowi — zgodnie z mechanizmem operatora opisanym w poprzednim temacie."
       },
       {
         "label": "Operator zdania głównego",
@@ -15,11 +51,15 @@
       },
       {
         "label": "Brak operatora → do/does/did",
-        "text": "Gdy zdanie główne jest w Present Simple lub Past Simple bez czasownika posiłkowego, tag używa do/does/did: He likes tea, doesn't he? They left early, didn't they?"
+        "text": "Gdy zdanie główne jest w Present Simple lub Past Simple bez czasownika posiłkowego, tag używa do/does/did: He likes tea, doesn't he? They left early, didn't they? To dokładnie ten sam 'pusty operator', który ustabilizował się w angielskim między XV a XVII wiekiem jako uniwersalny nośnik pytań i przeczeń."
       },
       {
         "label": "Zaimek w tagu",
         "text": "Podmiot rzeczownikowy zastępujemy w tagu odpowiednim zaimkiem: Tom is late, isn't he? The children were asleep, weren't they? This is yours, isn't it?"
+      },
+      {
+        "label": "Dlaczego biegunowość się odwraca: sincerity condition",
+        "text": "Odwrócona biegunowość nie jest przypadkowa — realizuje tzw. warunek szczerości (Grice'owski sincerity condition) pytania: pytamy o to, czego NIE jesteśmy pewni. Skoro mówiący WYPOWIADA zdanie twierdzące, domyślnie sam sobie na nie już odpowiedział — tag o przeciwnej biegunowości otwiera formalnie tę jedną lukę niepewności, którą pozostawił: 'być może się mylę, potwierdź mi to'. Stąd 'You're tired, aren't you?' dosłownie znaczy: 'Twierdzę P; czy nie-P?' — pytanie o jedyną logiczną alternatywę wobec własnego twierdzenia."
       }
     ],
     "usage": [
@@ -37,21 +77,25 @@
   },
   {
     "id": "intonation_meaning",
-    "order": 2,
+    "order": 3,
     "nameEn": "Intonation: real question vs. confirmation",
     "namePl": "Intonacja: prawdziwe pytanie a prośba o potwierdzenie",
     "rules": [
       {
         "label": "Intonacja wznosząca ↗",
-        "text": "Gdy mówiący naprawdę nie zna odpowiedzi i pyta szczerze, tag wymawia się z intonacją wznoszącą — funkcjonuje jak zwykłe pytanie ogólne: You locked the door, didn't you? ↗ (nie jestem pewien, pytam naprawdę)"
+        "text": "Gdy mówiący naprawdę nie zna odpowiedzi i pyta szczerze, tag wymawia się z intonacją wznoszącą — funkcjonuje jak zwykłe pytanie ogólne: You locked the door, didn't you? ↗ (nie jestem pewien, pytam naprawdę). To realizacja pełnego, dosłownego warunku szczerości pytania."
       },
       {
         "label": "Intonacja opadająca ↘",
-        "text": "Gdy mówiący jest przekonany o odpowiedzi i tylko szuka potwierdzenia lub zaprasza rozmówcę do zgody, tag wymawia się z intonacją opadającą: It's a beautiful day, isn't it? ↘ (oczekuję zgody, nie informacji)"
+        "text": "Gdy mówiący jest przekonany o odpowiedzi i tylko szuka potwierdzenia lub zaprasza rozmówcę do zgody, tag wymawia się z intonacją opadającą: It's a beautiful day, isn't it? ↘ (oczekuję zgody, nie informacji). Intonacja opadająca jest sygnałem, że pytanie jest w istocie deklaratywne — wypowiedź komunikatywna (phatic), nie epistemiczna."
       },
       {
         "label": "Ta sama forma, różna funkcja",
-        "text": "Forma gramatyczna tagu jest identyczna niezależnie od intonacji — to właśnie intonacja, a nie budowa zdania, niesie różnicę znaczenia między pytaniem informacyjnym a podtrzymaniem rozmowy (phatic function)"
+        "text": "Forma gramatyczna tagu jest identyczna niezależnie od intonacji — to właśnie intonacja, a nie budowa zdania, niesie różnicę znaczenia między pytaniem informacyjnym a podtrzymaniem rozmowy (phatic function). Angielski nie ma tu osobnej struktury składniowej dla obu funkcji — jest to podręcznikowy przykład tego, jak prozodia sama w sobie niesie znaczenie gramatyczne, niezależnie od słów."
+      },
+      {
+        "label": "Skąd ta podwójna funkcja historycznie",
+        "text": "Rytualne, fatyczne użycie tagów (pogawędka o pogodzie, szukanie aprobaty) wykształciło się jako wtórne rozszerzenie pierwotnie czysto informacyjnej funkcji pytania — mechanizm 'pytania o potwierdzenie własnego twierdzenia' okazał się na tyle uniwersalnym narzędziem grzeczności konwersacyjnej (zapraszania rozmówcy do współudziału w rozmowie), że w językach anglosaskiej kultury small talku stał się nadużywanym nawykiem retorycznym, silniej niż w wielu innych językach europejskich."
       }
     ],
     "usage": [
@@ -69,21 +113,21 @@
   },
   {
     "id": "negative_words",
-    "order": 3,
+    "order": 4,
     "nameEn": "Hidden negatives: never, nobody, hardly, little",
     "namePl": "Ukryte przeczenia: never, nobody, hardly, little",
     "rules": [
       {
         "label": "Zdanie semantycznie przeczące",
-        "text": "Zdania zawierające never, nobody/no one, nothing, hardly, scarcely, barely, few, little (bez 'a') są TREŚCIOWO przeczące, mimo że gramatycznie nie mają 'not' — dostają więc tag TWIERDZĄCY, tak jak zdania z 'not'."
+        "text": "Zdania zawierające never, nobody/no one, nothing, hardly, scarcely, barely, few, little (bez 'a') są TREŚCIOWO przeczące, mimo że gramatycznie nie mają 'not' — dostają więc tag TWIERDZĄCY, tak jak zdania z 'not'. To dowód, że reguła odwróconej biegunowości działa na poziomie znaczenia (semantyki), a nie powierzchniowej formy (obecności słowa 'not')."
       },
       {
         "label": "nobody/no one/nothing jako podmiot",
         "text": "Gdy podmiotem jest nobody, no one, nothing lub everybody/everyone/everything, w tagu używamy zaimka 'they' (dla osób) lub 'it' (dla rzeczy), niezależnie od formalnie liczby pojedynczej czasownika: Nobody called, did they? Everything is ready, isn't it?"
       },
       {
-        "label": "hardly / scarcely / barely",
-        "text": "Te przysłówki częstotliwości/stopnia działają jak ukryte 'not' i wymagają tagu twierdzącego: He hardly ever complains, does he? She can hardly walk, can she?"
+        "label": "hardly / scarcely / barely — przysłówki, które 'wypłukały się' w przeczenia",
+        "text": "Te słowa nie zaczynały jako negatory. 'Hardly' to dosłownie 'w twardy/surowy sposób' (od 'hard'), 'scarcely' — 'skąpo' (od 'scarce'), 'barely' — 'nago/goło' (od 'bare'). Przez wieki, w procesie zwanym gramatykalizacją i wybielaniem semantycznym (semantic bleaching), znaczenie 'w bardzo ograniczonym stopniu' zsunęło się do 'prawie wcale, czyli w praktyce nie' — dokładnie ten sam mechanizm, który w cyklu Jespersena zamienił staroangielskie wzmacniające 'nawiht' (dosłownie 'żadna istota/rzecz') w zwykłe 'not'. Dlatego dziś traktujemy je jak pełnoprawne przeczenia przy doborze tagu: He hardly ever complains, does he? She can hardly walk, can she?"
       }
     ],
     "usage": [
@@ -101,38 +145,38 @@
   },
   {
     "id": "special_verbs",
-    "order": 4,
+    "order": 5,
     "nameEn": "Special cases: I am, let's, imperatives",
     "namePl": "Przypadki specjalne: I am, let's, tryb rozkazujący",
     "rules": [
       {
-        "label": "am I → aren't I",
-        "text": "Wyjątek gramatyczny: 'I am' w zdaniu twierdzącym dostaje tag 'aren't I?', nie 'amn't I?' (choć amn't I występuje w niektórych dialektach nieformalnie): I'm right, aren't I?"
+        "label": "am I → aren't I — historia jednej luki gramatycznej",
+        "text": "Logicznie 'I am' powinno dawać tag 'amn't I?' — i rzeczywiście, taka forma istniała: 'amn't' to regularna ściągnięta forma 'am not', poświadczona historycznie i wciąż żywa w irlandzkim i szkockim angielskim ('Amn't I right?'). W standardowym angielskim 'amn't' zanikło jednak fonetycznie (trudna do wymówienia grupa spółgłosek -mn-) i połączyło się na piśmie z 'an't', skróceniem zarówno 'am not', jak i 'are not'/'is not'. 'An't' przekształciło się następnie w 'ain't' — formę, która w XVIII wieku była całkiem eleganckim angielskim, używanym nawet przez arystokrację, zanim w XIX wieku, zwłaszcza w Ameryce, została napiętnowana jako 'niewykształcona'. Standardowy angielski, unikając stygmatyzowanego 'ain't' i niewygodnego fonetycznie 'amn't', 'pożyczył' więc przez analogię formę liczby mnogiej 'aren't' i przypisał ją wyłącznie do tej jednej pozycji: I'm right, aren't I? To rzadki w gramatyce przypadek supletywizmu wymuszonego czysto socjolingwistycznie, nie fonologicznie ani logicznie."
       },
       {
         "label": "Let's → shall we",
-        "text": "Po propozycji z 'Let's' tag to zawsze 'shall we?', niezależnie od reszty zdania: Let's have a coffee, shall we? Let's not argue about it, shall we?"
+        "text": "Po propozycji z 'Let's' tag to zawsze 'shall we?', niezależnie od reszty zdania: Let's have a coffee, shall we? Let's not argue about it, shall we? 'Let's' to ściągnięcie 'let us' — 'shall we' odzwierciedla wspólne, kolektywne pierwsze zaproszenie do działania (podobnie jak 'Shall we dance?'), a nie standardowy operator zdania rozkazującego."
       },
       {
         "label": "Tryb rozkazujący → will you / won't you",
-        "text": "Polecenia i prośby (tryb rozkazujący) dostają tag 'will you?' (neutralnie/stanowczo) lub 'won't you?' (jako uprzejme zaproszenie); przeczący rozkaz zawsze dostaje 'will you?': Close the door, will you? Have a seat, won't you? Don't be late, will you?"
+        "text": "Polecenia i prośby (tryb rozkazujący) dostają tag 'will you?' (neutralnie/stanowczo) lub 'won't you?' (jako uprzejme zaproszenie); przeczący rozkaz zawsze dostaje 'will you?': Close the door, will you? Have a seat, won't you? Don't be late, will you? Historycznie tryb rozkazujący nie miał w ogóle jawnego podmiotu (rozkaz kierowany jest domyślnie do 'you'), więc tag musi 'dośpiewać' operator modalny woli/przyszłości ('will'), którego samo zdanie rozkazujące nie zawiera."
       },
       {
         "label": "there is/are → there",
-        "text": "Gdy podmiotem jest konstrukcja egzystencjalna 'there is/are', tag powtarza 'there', nie zaimek: There's a problem, isn't there? There weren't many people, were there?"
+        "text": "Gdy podmiotem jest konstrukcja egzystencjalna 'there is/are', tag powtarza 'there', nie zaimek: There's a problem, isn't there? There weren't many people, were there? 'There' zachowuje się tu jak gramatyczny podmiot formalny (dummy subject) — dokładnie tak samo egzystencjalne 'there' zachowywało się już w staroangielskim jako przysłówek miejsca zgramatykalizowany do roli pustego podmiotu."
       },
       {
-        "label": "used to",
-        "text": "'Used to' jako czasownik w Past Simple tworzy tag z 'did': You used to live here, didn't you?"
+        "label": "used to — zanikający operator",
+        "text": "'Used to' jako czasownik w Past Simple tworzy dziś tag z 'did': You used to live here, didn't you? W dawniejszym, formalnym brytyjskim angielskim 'used to' zachowywało się jeszcze jak żywy operator (podobnie jak dawniej 'have'), stąd archaiczne 'usedn't you?' bywa spotykane w starszych tekstach — dziś to relikt na wymarciu, wypchnięty przez uniwersalny do-support."
       }
     ],
     "usage": [
-      "am I → aren't I: jedyny nieregularny przypadek dopasowania operatora w standardowym angielskim",
+      "am I → aren't I: jedyny nieregularny przypadek dopasowania operatora w standardowym angielskim, wynik unikania stygmatyzowanego 'ain't' i niewygodnego 'amn't'",
       "let's → shall we: stała, niezmienna forma tagu po propozycjach z let's",
       "tryb rozkazujący → will you/won't you: łagodzi polecenie, czyni je uprzejmiejszym lub bardziej stanowczym w zależności od intonacji",
       "there is/are → there: podmiot formalny 'there' zachowuje się jak zaimek osobowy w tagu"
     ],
-    "tags": ["aren't I", "shall we", "will you", "won't you", "there isn't there", "imperative tag"],
+    "tags": ["aren't I", "shall we", "will you", "won't you", "there isn't there", "imperative tag", "ain't"],
     "examples": [
       { "en": "I'm invited too, aren't I?", "pl": "Ja też jestem zaproszony, prawda?" },
       { "en": "Let's go for a walk, shall we?", "pl": "Chodźmy na spacer, dobrze?" },
@@ -142,21 +186,25 @@
   },
   {
     "id": "same_polarity_tags",
-    "order": 5,
+    "order": 6,
     "nameEn": "Same-polarity tags: sarcasm, surprise, realisation",
     "namePl": "Tagi o tej samej biegunowości: sarkazm, zdziwienie, konstatacja",
     "rules": [
       {
         "label": "Twierdzenie + tag twierdzący",
-        "text": "W nieformalnej, ekspresywnej mowie brytyjskiej zdanie twierdzące może dostać RÓWNIEŻ twierdzący tag (zamiast oczekiwanego przeczącego), by wyrazić zdziwienie, oburzenie, sarkazm lub nagłą konstatację, a nie prosić o potwierdzenie: So you think you're clever, do you? (nie pyta — wyraża sceptycyzm/irytację)"
+        "text": "W nieformalnej, ekspresywnej mowie brytyjskiej (szczególnie żywe w dialektach północnoangielskich, szkockich i londyńskim cockney) zdanie twierdzące może dostać RÓWNIEŻ twierdzący tag (zamiast oczekiwanego przeczącego), by wyrazić zdziwienie, oburzenie, sarkazm lub nagłą konstatację, a nie prosić o potwierdzenie: So you think you're clever, do you? (nie pyta — wyraża sceptycyzm/irytację)"
+      },
+      {
+        "label": "Dlaczego to działa: złamanie warunku szczerości jako sygnał",
+        "text": "Pamiętajmy, że zwykły tag o odwróconej biegunowości istnieje właśnie po to, by realizować warunek szczerości pytania — sygnalizować rzeczywistą niepewność. Tag o TEJ SAMEJ biegunowości świadomie ŁAMIE tę konwencję: skoro mówiący nie zostawia żadnej logicznej luki niepewności (twierdzenie + twierdzenie), sam fakt złamania oczekiwanego wzorca staje się nośnikiem znaczenia — sygnalizuje, że intencją nie jest pytanie, lecz komentarz nacechowany emocjonalnie. To klasyczny mechanizm implikatury konwersacyjnej w duchu Grice'a: znaczenie rodzi się z odstępstwa od reguły, a nie z samej reguły."
       },
       {
         "label": "Odmienna funkcja komunikacyjna",
-        "text": "Ten wzorzec NIE prosi o informację ani potwierdzenie — sygnalizuje postawę mówiącego (sarkazm, groźbę, złość, ironiczne zdziwienie) wobec tego, co przed chwilą usłyszał lub zaobserwował"
+        "text": "Ten wzorzec NIE prosi o informację ani potwierdzenie — sygnalizuje postawę mówiącego (sarkazm, groźbę, złość, ironiczne zdziwienie) wobec tego, co przed chwilą usłyszał lub zaobserwował."
       },
       {
         "label": "Kontrast z tagiem przeczącym",
-        "text": "Porównaj: 'You're leaving, aren't you?' (neutralne pytanie/potwierdzenie) vs. 'Oh, you're leaving, are you?' (z ironicznym/oburzonym tonem — 'więc jednak wychodzisz, tak?')"
+        "text": "Porównaj: 'You're leaving, aren't you?' (neutralne pytanie/potwierdzenie, standardowa odwrócona biegunowość) vs. 'Oh, you're leaving, are you?' (z ironicznym/oburzonym tonem — 'więc jednak wychodzisz, tak?', celowe złamanie wzorca)."
       }
     ],
     "usage": [
@@ -165,7 +213,7 @@
       "Wyrażanie nagłego zrozumienia/konstatacji na podstawie czyjejś wypowiedzi lub zachowania",
       "Nie należy mylić z błędem gramatycznym — to świadomy, celowy wzorzec retoryczny, nie standardowa reguła odwróconej biegunowości"
     ],
-    "tags": ["same polarity", "sarcasm", "irony", "so you think", "attitude marker"],
+    "tags": ["same polarity", "sarcasm", "irony", "so you think", "attitude marker", "Gricean implicature"],
     "examples": [
       { "en": "Oh, you think that's funny, do you?", "pl": "Aha, myślisz, że to śmieszne, tak?" },
       { "en": "So you're the one who ate my lunch, are you?", "pl": "A więc to ty zjadłeś mój lunch, tak?" },
