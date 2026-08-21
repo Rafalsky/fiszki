@@ -2,97 +2,205 @@
   {
     "id": "it_is_said_that",
     "order": 1,
-    "nameEn": "It is said that... — impersonal passive reporting (present)",
-    "namePl": "It is said that... — bezosobowa konstrukcja sprawozdawcza (teraźniejszość)",
+    "nameEn": "It is said that... — the passive voice standing in for a pronoun English no longer has",
+    "namePl": "It is said that... — strona bierna w roli zaimka, którego angielski już nie ma",
     "rules": [
-      { "label": "budowa", "text": "It + is/are + czasownik sprawozdawczy w imiesłowie biernym + that + zdanie" },
-      { "label": "czasowniki", "text": "Najczęstsze: is said, is believed, is thought, is reported, is known, is considered, is claimed, is understood, is rumoured" },
-      { "label": "zdanie po that", "text": "Może być w dowolnym czasie odpowiednim do kontekstu — teraźniejszym, przeszłym lub przyszłym" }
+      {
+        "label": "Zaginiony zaimek 'man' — brakujące ogniwo tej konstrukcji",
+        "text": "Staroangielski miał coś, czego dzisiejszy angielski zupełnie nie ma: samodzielny, bezosobowy zaimek 'man' (też zapisywany 'mon'), dokładny odpowiednik dzisiejszego niemieckiego 'man' czy francuskiego 'on' — 'ktoś, ludzie w ogóle, się'. 'Man sægð þæt he is rice' znaczyło po prostu 'mówi się, że jest bogaty' (dosłownie: 'ktoś/ludzie mówi(ą), że...'). Problem w tym, że ten zaimek był formą tego samego słowa, co rzeczownik 'mann' — 'mężczyzna, człowiek'. W średnioangielskim, w miarę jak znaczenie rzeczownika 'man' zawężało się coraz mocniej wyłącznie do dorosłego mężczyzny (funkcję ogólną 'człowiek' przejęło stopniowo 'person', potem szerzej 'people'), bezosobowy zaimek 'man' stał się nie do odróżnienia od rzeczownika i — nie mając już własnej, jasnej tożsamości gramatycznej — po prostu wypadł z języka. Niemiecki tego problemu nigdy nie miał, bo zachował dwa osobne słowa: 'der Mann' (mężczyzna) i 'man' (bezosobowe 'się'), pisane nawet inaczej. Angielski został więc z realną luką: jak powiedzieć 'mówi się, że...', skoro nie ma już słowa na 'się'?"
+      },
+      {
+        "label": "Strona bierna jako łatka na tę lukę",
+        "text": "Odpowiedzią było przesunięcie ciężaru z PODMIOTU (kogoś, kto mówi) na sam CZASOWNIK — dokładnie to samo rozwiązanie, po które angielski sięga za każdym razem, gdy nie chce lub nie może nazwać wykonawcy czynności: stronę bierną. Zamiast zaginionego '(man) says that...' angielski zbudował 'it is said that...' — z pustym, formalnym podmiotem 'it' (tym samym mechanizmem 'podmiotu widmo', co w 'it is raining' czy w temacie o 'there is'), oraz czasownikiem sprawozdającym w imiesłowie biernym. Wzorzec ten dodatkowo utrwaliły średniowieczne tłumaczenia z łaciny: klasyczna łacina miała gotową, syntetyczną (jednowyrazową) formę bezosobowej strony biernej — 'dicitur' znaczyło dosłownie 'jest-mówione' czyli 'mówi się, że'. Angielscy tłumacze kalkowali tę konstrukcję najbliższym dostępnym środkiem gramatycznym swojego języka: skoro nie mieli jednego czasownika na 'dicitur', złożyli tę samą treść z dwóch elementów, które już mieli — 'is' + 'said'. To, co w łacinie było jednym słowem, w angielskim stało się peryfrazą (konstrukcją opisową) — bardzo typowy dla historii tego języka ruch od form syntetycznych do analitycznych, ten sam, który widać w całej stronie biernej w ogóle."
+      },
+      {
+        "label": "Budowa i najczęstsze czasowniki",
+        "text": "It + is/are + czasownik sprawozdawczy w imiesłowie biernym + that + zdanie podrzędne. Najczęstsze czasowniki: is said, is believed, is thought, is reported, is known, is considered, is claimed, is understood, is rumoured, is estimated, is alleged. Zdanie po 'that' może stać w dowolnym czasie odpowiednim do własnej treści — samo 'it is said' nie narzuca mu żadnego przesunięcia czasu (to nie mowa zależna z backshiftem), bo to nie relacja jednej konkretnej wypowiedzi, tylko ogólne, bezosobowe stwierdzenie."
+      }
     ],
     "usage": [
-      "Gdy nie chcemy lub nie możemy wskazać źródła informacji — ogólna opinia, plotka, raport",
-      "Styl formalny — wiadomości, artykuły prasowe, raporty urzędowe",
-      "Naturalna alternatywa dla nieformalnego 'People say that...' / 'They believe that...'",
-      "Podkreśla samą informację, a nie osobę, która ją głosi"
+      "Gdy źródło informacji jest nieznane, niejednoznaczne albo mówiący celowo go nie ujawnia — plotka, ogólna opinia, nieoficjalny raport",
+      "Rejestr formalny i pisemny — wiadomości, artykuły prasowe, raporty, teksty akademickie; w luźnej rozmowie naturalniejsze jest 'People say that...' albo 'They reckon that...'",
+      "Ukrywa nie tylko konkretną osobę, ale i odpowiedzialność za prawdziwość twierdzenia — dziennikarz relacjonujący 'it is claimed that X stole the money' nie oskarża sam, tylko referuje cudzy zarzut",
+      "'That' po czasowniku sprawozdawczym można pominąć w mowie nieformalnej (it's said the house is haunted), ale w piśmie formalnym zwykle się je zachowuje"
     ],
-    "tags": ["it is said", "it is believed", "it is reported", "it is thought"],
+    "tags": ["it is said", "it is believed", "it is reported", "Old English man", "dicitur", "impersonal passive"],
     "examples": [
-      { "en": "It is said that he is very rich.", "pl": "Mówi się, że jest bardzo bogaty." },
-      { "en": "It is believed that the company will close soon.", "pl": "Uważa się, że firma wkrótce się zamknie." },
-      { "en": "It is reported that the road was blocked for hours.", "pl": "Podaje się, że droga była zablokowana przez wiele godzin." },
-      { "en": "It is thought that she left the country last year.", "pl": "Sądzi się, że wyjechała z kraju w zeszłym roku." }
+      { "en": "It is said that the recipe has been in the family for six generations.", "pl": "Mówi się, że ten przepis jest w rodzinie od sześciu pokoleń." },
+      { "en": "It is widely believed that the ancient bridge was designed by a single, anonymous engineer.", "pl": "Powszechnie się uważa, że ten starożytny most zaprojektował jeden, anonimowy inżynier." },
+      { "en": "It is estimated that the renovation will cost well over a million pounds.", "pl": "Szacuje się, że remont będzie kosztować dobrze ponad milion funtów." },
+      { "en": "It is rumoured that the two companies are about to merge.", "pl": "Krąży plotka, że te dwie firmy zaraz się połączą." },
+      { "en": "It is understood the minister will resign before the end of the week.", "pl": "Wiadomo (nieoficjalnie), że minister poda się do dymisji przed końcem tygodnia." }
     ]
   },
   {
     "id": "subject_is_said_to",
     "order": 2,
-    "nameEn": "Subject + is said to + infinitive — personal passive reporting (present)",
-    "namePl": "Subject + is said to + bezokolicznik — konstrukcja osobowa (teraźniejszość)",
+    "nameEn": "Subject + is said to + infinitive — a raising verb, not an ordinary passive",
+    "namePl": "Subject + is said to + bezokolicznik — czasownik wznoszący, a nie zwykła strona bierna",
     "rules": [
-      { "label": "budowa", "text": "Podmiot + is/are + czasownik sprawozdawczy w imiesłowie biernym + to + bezokolicznik" },
-      { "label": "przekształcenie", "text": "To ta sama informacja co 'It is said that + podmiot...', tylko podmiot zdania podrzędnego staje się podmiotem całego zdania" },
-      { "label": "czynność równoczesna", "text": "Bezokolicznik prosty (to be, to live, to have) opisuje stan lub czynność dziejącą się w tym samym czasie co samo mówienie o niej" }
+      {
+        "label": "To samo zdanie, inny punkt startu",
+        "text": "'He is said to be rich' niesie dokładnie tę samą treść co 'It is said that he is rich' — ale nie jest to zwykłe przekształcenie stylistyczne 'dla urozmaicenia'. Podmiot zdania podrzędnego ('he') dosłownie WĘDRUJE w górę, do pozycji podmiotu całego zdania nadrzędnego, a spójnik 'that' znika. Ten sam manewr składniowy rządzi czasownikami 'seem', 'appear', 'turn out to' czy przymiotnikami 'likely/certain' (zobacz osobny temat 'Czasowniki wznoszące') — 'is said to' należy do dokładnie tej samej rodziny gramatycznej, tylko z czasownikiem sprawozdawczym zamiast czasownika percepcji."
+      },
+      {
+        "label": "Dowód, że to nie zwykły czasownik: test podmiotu 'it' i 'there'",
+        "text": "Skąd wiadomo, że 'is said to' to prawdziwe wznoszenie (raising), a nie zwykłe sterowanie podmiotem (control), jak przy 'want to' czy 'decide to'? Test jest prosty: czasowniki sterujące wymagają podmiotu z własną, rzeczywistą rolą znaczeniową ('want' musi mieć kogoś, kto CZEGOŚ chce), więc odrzucają puste podmioty pogodowe czy egzystencjalne — nikt nie powie 'It wants to rain' ani 'There wants to be a problem'. Tymczasem 'is said to' akceptuje je bez żadnego problemu: 'It is said to be raining in the mountains' (z pustym 'it' pogodowym) i 'There is said to be a shorter route through the forest' (z egzystencjalnym 'there' z tematu 'there is/are') brzmią zupełnie naturalnie. To dowodzi, że matrycowy czasownik 'is said' nie ma własnego, znaczącego podmiotu — jedynie 'użycza' swojej pozycji podmiotowi zdania podrzędnego, który przywędrował z dołu w górę, niosąc ze sobą całą swoją pierwotną, pustą naturę."
+      },
+      {
+        "label": "Bezokolicznik prosty = czynność równoczesna",
+        "text": "Zwykły, prosty bezokolicznik ('to be', 'to live', 'to own') opisuje stan lub czynność dziejącą się RÓWNOCZEŚNIE z samym aktem mówienia o niej — nie wcześniej. 'She is said to speak five languages' mówi o czymś prawdziwym TERAZ, w chwili, gdy się to relacjonuje, nie o przeszłym osiągnięciu."
+      }
     ],
     "usage": [
-      "Bardziej naturalna i częściej spotykana forma niż bezosobowe 'It is said that...'",
-      "Częste czasowniki: be said to, be believed to, be thought to, be reported to, be known to, be expected to",
-      "Typowa w dziennikarstwie przy opisywaniu osób, firm lub instytucji",
-      "Podmiot musi być wcześniej wspomniany lub jasny z kontekstu"
+      "Naturalniejsza, częściej spotykana forma niż bezosobowe 'it is said that...' — zwłaszcza w dziennikarstwie przy opisywaniu konkretnych osób, firm i instytucji",
+      "Najczęstsze czasowniki: is said to, is believed to, is thought to, is reported to, is known to, is expected to, is rumoured to, is alleged to",
+      "Podmiot musi być już znany z kontekstu lub jasno zidentyfikowany — w przeciwieństwie do bezosobowego 'it is said that', które można otworzyć zdanie od zera",
+      "Test na wznoszenie: jeśli konstrukcja akceptuje puste 'it' pogodowe albo egzystencjalne 'there' jako podmiot, to mamy do czynienia z prawdziwym raising, a nie czasownikiem kontrolującym"
     ],
-    "tags": ["is said to be", "is believed to live", "is known to be", "are expected to"],
+    "tags": ["is said to be", "is believed to live", "raising verb", "it is said to be raining", "there is said to be"],
     "examples": [
-      { "en": "He is said to be very rich.", "pl": "Mówi się, że jest bardzo bogaty." },
-      { "en": "She is believed to live in Paris.", "pl": "Uważa się, że mieszka w Paryżu." },
-      { "en": "The bridge is known to be dangerous in winter.", "pl": "Wiadomo, że most jest niebezpieczny zimą." },
-      { "en": "They are expected to arrive soon.", "pl": "Oczekuje się, że wkrótce przyjadą." }
+      { "en": "The CEO is said to be considering an early retirement.", "pl": "Mówi się, że dyrektor generalny rozważa wcześniejszą emeryturę." },
+      { "en": "It is said to be one of the coldest winters on record in this region.", "pl": "Mówi się, że to jedna z najzimniejszych zim w historii pomiarów w tym regionie." },
+      { "en": "There is said to be a secret passage connecting the two castles.", "pl": "Podobno istnieje sekretne przejście łączące te dwa zamki." },
+      { "en": "The painting is believed to depict the artist's own daughter.", "pl": "Uważa się, że obraz przedstawia córkę samego malarza." },
+      { "en": "The town is known to attract thousands of tourists every summer.", "pl": "Wiadomo, że to miasteczko przyciąga tysiące turystów każdego lata." }
     ]
   },
   {
     "id": "subject_is_said_to_have",
     "order": 3,
-    "nameEn": "Subject + is said to have + past participle — earlier action",
-    "namePl": "Subject + is said to have + imiesłów bierny — czynność wcześniejsza",
+    "nameEn": "Subject + is said to have + past participle — two independent clocks in one sentence",
+    "namePl": "Subject + is said to have + imiesłów bierny — dwa niezależne zegary w jednym zdaniu",
     "rules": [
-      { "label": "budowa", "text": "Podmiot + is/are + czasownik sprawozdawczy w imiesłowie biernym + to have + imiesłów bierny (perfect infinitive)" },
-      { "label": "znaczenie", "text": "Bezokolicznik doskonały 'to have done' wskazuje, że czynność w zdaniu podrzędnym wydarzyła się PRZED momentem, w którym się o niej mówi" },
-      { "label": "odpowiednik", "text": "Odpowiada zdaniu 'It is said that + podmiot + Past Simple / Present Perfect'" }
+      {
+        "label": "Bezokolicznik dokonany jako drugi, niezależny zegar",
+        "text": "Cała rodzina konstrukcji sprawozdawczych rozbija czas na DWIE zupełnie niezależne osie, tak samo jak przy modalnych 'must have done' (zobacz temat 'Przypuszczenia o przeszłości'): oś pierwsza to moment SAMEGO MÓWIENIA/SĄDZENIA (kiedy ktoś to twierdzi — niesie ją czas czasownika 'is/was'), oś druga to moment RELACJONOWANEGO ZDARZENIA (kiedy ono naprawdę się wydarzyło — niesie ją forma bezokolicznika: prosta = teraz, dokonana 'to have + III forma' = wcześniej niż relacjonowanie). 'He is said to have won three medals' rozdziela więc jasno: relacjonowanie dzieje się TERAZ ('is'), ale zdobycie medali wydarzyło się WCZEŚNIEJ, przed chwilą mówienia o tym — 'to have won' przenosi samo zdarzenie w przeszłość, nie dotykając przy tym czasu głównego czasownika sprawozdawczego."
+      },
+      {
+        "label": "Dlaczego akurat ta forma, a nie zwykły czas przeszły?",
+        "text": "Gdyby angielski chciał wyrazić tę samą treść zdaniem podrzędnym z 'that', musiałby użyć zwykłego czasu przeszłego lub Present Perfect: 'It is said that he won three medals' / 'It is said that he has won three medals'. Konstrukcja z bezokolicznikiem dokonanym ('is said to have won') kondensuje dokładnie tę samą relację czasową w formę bezosobowo-orzecznikową, bez osobnego, odmienianego czasownika w zdaniu podrzędnym — to znów ten sam ruch od formy syntetycznej (zdanie z własnym podmiotem i orzeczeniem) do formy zredukowanej, nieskończonej (bezokolicznik), typowy dla wszystkich konstrukcji raising w angielskim."
+      },
+      {
+        "label": "Bierny bezokolicznik dokonany: gdy sam czasownik podrzędny też jest bierny",
+        "text": "Gdy czynność, o której mowa, sama jest w formie biernej, dokłada się jeszcze jedną warstwę: 'to have been + III forma'. 'The manuscript is believed to have been written in the 14th century' — 'to have been written' niesie jednocześnie DWIE informacje: (1) czynność pisania wydarzyła się wcześniej niż samo przypuszczenie o niej, (2) rękopis jest w tym zdaniu odbiorcą czynności pisania, nie jej wykonawcą. Trzy niezależne wymiary — czas relacjonowania, czas zdarzenia względem relacjonowania i stronę samego zdarzenia — piętrzą się w jednej frazie czasownikowej, dokładnie tak jak w bardziej złożonych konstrukcjach modalnych."
+      }
     ],
     "usage": [
-      "Gdy relacjonowana czynność jest wcześniejsza niż samo relacjonowanie",
-      "Bardzo częste w wiadomościach o zakończonych wydarzeniach: is said to have won, is believed to have escaped",
-      "Nie mylić z 'to + bezokolicznik' (czynność równoczesna) — tutaj czynność jest już zakończona",
-      "Może występować też w formie biernej: is reported to have been damaged"
+      "Gdy relacjonowana czynność jest wcześniejsza niż sam akt jej relacjonowania — bardzo częste w wiadomościach o zakończonych wydarzeniach",
+      "Typowe czasowniki: is said to have, is believed to have, is thought to have, is reported to have, is alleged to have, is rumoured to have",
+      "Forma bierna wewnątrz: is reported to have been damaged, is believed to have been stolen — dwie warstwy strony biernej naraz",
+      "Nie mylić prostego bezokolicznika (czynność równoczesna: is said to be rich) z dokonanym (czynność wcześniejsza: is said to have been rich) — różnica decyduje o tym, czy ktoś JEST bogaty teraz, czy BYŁ bogaty kiedyś"
     ],
-    "tags": ["is said to have won", "is believed to have escaped", "is thought to have left", "is reported to have sunk"],
+    "tags": ["is said to have won", "is believed to have escaped", "perfect infinitive", "two independent timelines"],
     "examples": [
-      { "en": "He is said to have won the lottery.", "pl": "Mówi się, że wygrał na loterii." },
-      { "en": "The thief is believed to have escaped by car.", "pl": "Uważa się, że złodziej uciekł samochodem." },
-      { "en": "She is thought to have left the party early.", "pl": "Sądzi się, że wyszła z imprezy wcześnie." },
-      { "en": "The building is reported to have been damaged in the storm.", "pl": "Podaje się, że budynek został uszkodzony podczas burzy." }
+      { "en": "The suspect is believed to have fled the country shortly after the robbery.", "pl": "Uważa się, że podejrzany uciekł z kraju wkrótce po napadzie." },
+      { "en": "The vase is thought to have belonged to a member of the royal family.", "pl": "Uważa się, że ten wazon należał kiedyś do członka rodziny królewskiej." },
+      { "en": "The bridge is reported to have been damaged in last week's storm.", "pl": "Podaje się, że most został uszkodzony podczas ubiegłotygodniowej burzy." },
+      { "en": "She is said to have turned down the role twice before finally accepting it.", "pl": "Mówi się, że dwukrotnie odrzuciła tę rolę, zanim wreszcie ją przyjęła." },
+      { "en": "The letters are alleged to have been forged by a former employee.", "pl": "Zarzuca się, że te listy zostały sfałszowane przez byłego pracownika." }
     ]
   },
   {
     "id": "past_reporting_forms",
     "order": 4,
-    "nameEn": "Past reporting forms — it was said that / Subject was said to",
-    "namePl": "Formy przeszłe — it was said that / Subject was said to",
+    "nameEn": "It was said that / Subject was said to — when the opinion itself belongs to the past",
+    "namePl": "It was said that / Subject was said to — gdy sama opinia należy już do przeszłości",
     "rules": [
-      { "label": "bezosobowa", "text": "It + was/were + czasownik sprawozdawczy w imiesłowie biernym + that + zdanie" },
-      { "label": "osobowa", "text": "Podmiot + was/were + czasownik sprawozdawczy w imiesłowie biernym + to + bezokolicznik (prosty lub doskonały)" },
-      { "label": "znaczenie czasu", "text": "Czas czasownika sprawozdawczego (is/was) wskazuje KIEDY dana opinia była głoszona — niezależnie od czasu czynności w zdaniu podrzędnym" }
+      {
+        "label": "Cztery niezależne pola tej samej siatki",
+        "text": "Skoro wcześniejsze tematy pokazały, że czas relacjonowania (is/was) i czas relacjonowanego zdarzenia (bezokolicznik prosty/dokonany) to dwie NIEZALEŻNE osie, to logicznie muszą istnieć wszystkie cztery ich kombinacje, nie tylko te z czasownikiem sprawozdawczym w teraźniejszości: is said to (relacja teraz, zdarzenie teraz) / is said to have (relacja teraz, zdarzenie wcześniej) / was said to (relacja kiedyś w przeszłości, zdarzenie równoczesne z tamtą relacją) / was said to have (relacja kiedyś w przeszłości, zdarzenie jeszcze wcześniejsze niż ta relacja — podwójne cofnięcie w czasie). Przejście na 'was' nie mówi nic o tym, czy dana opinia jest wciąż aktualna — mówi wyłącznie, KIEDY była głoszona."
+      },
+      {
+        "label": "'Was said to' nie znaczy 'już nieprawda'",
+        "text": "Częsty błąd interpretacyjny: 'He was said to be the richest man in town' wcale nie sugeruje, że dziś już nim nie jest — może nadal nim być. Zdanie mówi wyłącznie o TYM, KIEDY krążyła ta opinia (kiedyś, w przeszłości), a nic o jej dzisiejszej prawdziwości czy nieaktualności. To rozróżnienie — czas głoszenia opinii kontra czas/trwałość faktu, którego dotyczy — jest kluczowe zwłaszcza w narracjach historycznych, gdzie ciągle relacjonuje się, co sądzono w danym momencie przeszłości, niezależnie od tego, co wiemy dziś."
+      },
+      {
+        "label": "Budowa",
+        "text": "Bezosobowa: It + was/were + czasownik sprawozdawczy w imiesłowie biernym + that + zdanie. Osobowa: podmiot + was/were + czasownik sprawozdawczy w imiesłowie biernym + to + bezokolicznik prosty (równoczesność z tamtą opinią) lub dokonany 'to have + III forma' (zdarzenie wcześniejsze niż nawet ta przeszła opinia)."
+      }
     ],
     "usage": [
-      "Gdy relacjonujemy, co mówiono lub sądzono w przeszłości — niekoniecznie mówi się tak nadal",
-      "Częste w narracjach historycznych i relacjach z minionych wydarzeń",
-      "Można łączyć z 'to have' dla czynności wcześniejszej niż sama opinia: was said to have been",
-      "Kontrast z formami teraźniejszymi pokazuje, że opinia dotyczyła przeszłego momentu, nie teraźniejszości"
+      "Relacjonowanie, co mówiono lub sądzono w przeszłości — niekoniecznie mówi się tak nadal dzisiaj",
+      "Bardzo częste w narracjach historycznych, biografiach i relacjach z minionych wydarzeń",
+      "'was said to have been' jako podwójne cofnięcie w czasie: opinia była przeszła, a opisywane zdarzenie jeszcze wcześniejsze od tamtej opinii",
+      "Kontrast z formą teraźniejszą pokazuje wyłącznie MOMENT głoszenia opinii, nie jej dzisiejszą prawdziwość"
     ],
-    "tags": ["it was said", "was believed to be", "was reported to have", "was known to have"],
+    "tags": ["it was said", "was believed to be", "was reported to have", "two independent axes"],
     "examples": [
-      { "en": "It was said that the castle was haunted.", "pl": "Mówiono, że zamek jest nawiedzony." },
-      { "en": "He was believed to be the richest man in town.", "pl": "Uważano, że jest najbogatszym człowiekiem w mieście." },
-      { "en": "The ship was reported to have sunk during the storm.", "pl": "Podawano, że statek zatonął podczas sztormu." },
-      { "en": "She was known to have a bad temper.", "pl": "Wiedziano, że ma zły charakter." }
+      { "en": "In the Middle Ages it was said that the comet foretold disaster.", "pl": "W średniowieczu mówiono, że kometa wróży katastrofę." },
+      { "en": "He was believed to be the last surviving witness, though two others later came forward.", "pl": "Uważano go za ostatniego żyjącego świadka, choć później zgłosiło się jeszcze dwoje innych." },
+      { "en": "The ship was reported to have sunk somewhere off the coast of Portugal.", "pl": "Podawano, że statek zatonął gdzieś u wybrzeży Portugalii." },
+      { "en": "The building was said to have been abandoned decades before the fire.", "pl": "Mówiono, że budynek był opuszczony na dekady przed pożarem." },
+      { "en": "She was known to have a fierce temper, even as a young girl.", "pl": "Wiedziano, że ma porywczy charakter, już jako mała dziewczynka." }
+    ]
+  },
+  {
+    "id": "rumour_has_it",
+    "order": 5,
+    "nameEn": "Rumour has it that... / The story goes that... — the personified alternative to the passive",
+    "namePl": "Rumour has it that... / The story goes that... — uosobiona alternatywa dla strony biernej",
+    "rules": [
+      {
+        "label": "Fama — rzymska bogini plotki, wciąż żywa w tym zwrocie",
+        "text": "'Rumour has it that...' brzmi na pierwszy rzut oka jak przypadkowa metafora, ale ma bardzo konkretny rodowód literacki. W czwartej księdze 'Eneidy' Wergiliusza (I w. p.n.e.) pojawia się Fama — uosobiona plotka jako potworna, oskrzydlona istota pokryta niezliczonymi oczami, ustami i uszami, która lata po świecie i roznosi wieści, prawdziwe i fałszywe jednakowo. Ten obraz przetrwał całą tradycję literacką Zachodu i trafił wprost do angielskiego renesansu — Szekspir otwiera 'Henryka IV, część 2' didaskaliami 'Enter Rumour, painted full of tongues' (Wchodzi Plotka, pomalowana w niezliczone języki), każąc tej personifikacji wygłosić prolog całej sztuki. Zwrot 'rumour has it' to żywy ślad tej tradycji: gramatycznie traktujemy 'rumour' (plotkę) jak osobę zdolną 'mieć' (have) jakąś wiadomość i ją przekazywać — dokładnie tak, jak w polskim 'plotka głosi, że...' czy 'wieść niesie, że...'."
+      },
+      {
+        "label": "'Have it' jako czasownik 'twierdzić, utrzymywać'",
+        "text": "'Have it' w tym idiomie nie ma nic wspólnego ze zwykłym 'mieć' w sensie posiadania — to skostniały, wyspecjalizowany sens czasownika 'have': 'twierdzić, głosić, utrzymywać, że...'. Ten sam wzorzec występuje w bliźniaczych zwrotach: 'legend has it that...' (legenda głosi, że...), 'the story goes that...' (opowieść mówi, że... — tu z kolei 'go' w sensie 'krążyć, być w obiegu', jak w 'the joke goes' czy 'as the saying goes'), 'word has it that...' (słychać, że...). Wszystkie te formy pełnią dokładnie tę samą funkcję gramatyczną i pragmatyczną co bezosobowe 'it is said that', ale są znacznie bardziej obrazowe, narracyjne i nieformalne — nadają się do gawędziarskiego, anegdotycznego tonu, nie do suchego raportu."
+      },
+      {
+        "label": "Rejestr: od plotkarskiej pogawędki po lokalną legendę",
+        "text": "Wybór między tymi niemal-synonimami koduje subtelną różnicę źródła i wiarygodności: 'rumour has it' sugeruje świeżą, niepotwierdzoną plotkę, często towarzyską lub branżową (rumour has it she's leaving the company); 'legend has it' przenosi twierdzenie w sferę mitu, opowieści przekazywanej z pokolenia na pokolenie, często bez żadnej możliwej weryfikacji (legend has it that a dragon once lived in these caves); 'word has it' brzmi na nieformalne, ustne źródło z 'ulicy' czy z branży. Żadna z tych form nie pretenduje do formalnej wiarygodności dziennikarskiej 'it is reported that' — przeciwnie, ich cały urok polega na tym, że jawnie przyznają się do bycia plotką lub legendą, nie faktem."
+      }
+    ],
+    "usage": [
+      "Nieformalny, gawędziarski, plotkarski ton — rozmowa towarzyska, lekki felieton, plotki branżowe, a nie oficjalny raport",
+      "'legend has it' specyficznie dla podań, mitów i opowieści ludowych, często niemożliwych do zweryfikowania",
+      "'the story/word goes' jako bliskie synonimy, z lekkim odcieniem anegdoty krążącej wśród ludzi",
+      "Wszystkie te zwroty odmieniają się wyłącznie w liczbie pojedynczej (rumour HAS it, nigdy 'rumours have it') — 'rumour' traktowane jest tu jak niepoliczalna, zbiorowa siła, nie pojedyncza plotka"
+    ],
+    "tags": ["rumour has it", "legend has it", "the story goes", "Virgil's Fama", "Shakespeare's Rumour"],
+    "examples": [
+      { "en": "Rumour has it that the two lead actors fell out during filming.", "pl": "Plotka głosi, że główni aktorzy się pokłócili podczas kręcenia filmu." },
+      { "en": "Legend has it that a ghostly rider still gallops through the village at midnight.", "pl": "Legenda głosi, że upiorny jeździec wciąż galopuje przez wioskę o północy." },
+      { "en": "The story goes that the café was named after a cat who refused to leave.", "pl": "Podobno kawiarnia dostała nazwę od kota, który nie chciał jej opuścić." },
+      { "en": "Word has it the new restaurant is already fully booked for a month.", "pl": "Słychać, że nowa restauracja jest już zarezerwowana na cały miesiąc." },
+      { "en": "Rumour had it for years that the house was haunted, though no one ever explained why.", "pl": "Latami krążyła plotka, że dom jest nawiedzony, choć nikt nigdy nie wyjaśnił dlaczego." }
+    ]
+  },
+  {
+    "id": "reportedly_allegedly",
+    "order": 6,
+    "nameEn": "Reportedly / allegedly / supposedly — a whole clause compressed into one adverb",
+    "namePl": "Reportedly / allegedly / supposedly — całe zdanie sprawozdawcze skompresowane w jeden przysłówek",
+    "rules": [
+      {
+        "label": "Ostatni etap kompresji: od zdania do jednego słowa",
+        "text": "Cały ten temat pokazuje jeden, konsekwentny kierunek zmiany: 'it is said that + zdanie' (najbardziej rozbudowana forma) → 'subject is said to + bezokolicznik' (podmiot wznosi się, spójnik znika) → wreszcie pojedynczy przysłówek zdaniowy 'reportedly', który wciska całą tę treść w jedno słowo, dodane gdziekolwiek w zdaniu: 'The CEO reportedly plans to step down' znaczy dokładnie to samo, co 'It is reported that the CEO plans to step down', tylko bez żadnego czasownika sprawozdawczego, żadnej strony biernej, żadnego 'that'. To skrajny przypadek gramatykalizacji: całe zdanie nadrzędne skurczyło się do przyrostka '-ly' doczepionego do imiesłowu 'reported'. Przysłówek nie opisuje TU, jak coś się dzieje (jak zwykły przysłówek sposobu) — opisuje status epistemiczny CAŁEGO zdania: 'to, co teraz mówię, pochodzi z relacji, nie z mojej własnej wiedzy'."
+      },
+      {
+        "label": "Allegedly — słowo, które urodziło się w sali sądowej",
+        "text": "'Allege' pochodzi z anglo-normańskiego prawniczego 'alegier', z łacińskiego 'allegare' — dosłownie 'przywoływać na swoją obronę, powoływać się na coś jako argument w sprawie sądowej'. To słownictwo prawnicze, obok setek innych terminów (plaintiff, defendant, verdict, evidence), trafiło do angielskiego po podboju normandzkim, gdy cały system sądowniczy funkcjonował po francusku i po łacinie. Do dziś 'allege/alleged/allegedly' zachowuje ten ściśle prawniczy, formalny ciężar: 'the alleged perpetrator' (domniemany sprawca) to sformułowanie, którego dziennikarze i policja używają CELOWO, żeby nie przesądzać winy przed wyrokiem sądu — to językowe wcielenie zasady domniemania niewinności (sub judice). Powiedzieć wprost 'the killer' o osobie jeszcze nieskazanej może być prawnie ryzykowne (zniesławienie); 'the alleged killer' otwarcie sygnalizuje: 'to zarzut, nie ustalony fakt'."
+      },
+      {
+        "label": "Reportedly vs allegedly vs supposedly — trzy różne odcienie dystansu",
+        "text": "Choć wszystkie trzy przysłówki dystansują mówiącego od stwierdzanej treści, robią to z różnym zabarwieniem. 'Reportedly' jest najbardziej neutralne — po prostu wskazuje źródło (media, doniesienia), bez sugestii co do prawdziwości ('The band is reportedly working on a new album'). 'Allegedly' zachowuje formalny, prawniczo-dziennikarski rejestr i sugeruje niepotwierdzony ZARZUT, często o czymś nagannym ('He allegedly stole company funds'). 'Supposedly' (od 'suppose' — przypuszczać) niesie z kolei wyraźny odcień WĄTPLIWOŚCI samego mówiącego — używając go, sugerujemy, że nie do końca w to wierzymy ('This is supposedly the best restaurant in town' — z lekkim przymrużeniem oka, sceptycyzmem). Wybór jednego z tych trzech słów to więc nie kwestia stylu, lecz precyzyjny sygnał: czysta informacja o źródle, prawny dystans od zarzutu, czy osobisty sceptycyzm mówiącego."
+      }
+    ],
+    "usage": [
+      "reportedly — neutralne wskazanie źródła (media, doniesienia), bez oceny prawdziwości: The area was reportedly hit by a small earthquake.",
+      "allegedly / alleged — rejestr prawniczo-dziennikarski, niepotwierdzony zarzut, zwłaszcza o czymś nagannym: the alleged fraud, he allegedly assaulted a colleague",
+      "supposedly — dystans połączony z osobistym powątpiewaniem mówiącego, często z ironicznym zabarwieniem",
+      "Wszystkie trzy to przysłówki zdaniowe (disjuncts) — mogą stać na początku, w środku (najczęściej przed czasownikiem głównym) lub na końcu zdania, modyfikując status całego twierdzenia, nie pojedynczy czasownik"
+    ],
+    "tags": ["reportedly", "allegedly", "the alleged perpetrator", "supposedly", "sentence adverb", "allegare"],
+    "examples": [
+      { "en": "The company is reportedly planning to lay off hundreds of employees next month.", "pl": "Firma podobno planuje zwolnić setki pracowników w przyszłym miesiącu." },
+      { "en": "The alleged thief was released on bail pending trial.", "pl": "Domniemany złodziej został zwolniony za kaucją do czasu rozprawy." },
+      { "en": "He allegedly forged his supervisor's signature on the documents.", "pl": "Zarzuca mu się sfałszowanie podpisu przełożonego na dokumentach." },
+      { "en": "This café supposedly serves the best croissants in the city, though I have my doubts.", "pl": "Ta kawiarnia podobno serwuje najlepsze croissanty w mieście, choć mam wątpliwości." },
+      { "en": "Two passengers were reportedly injured when the train suddenly braked.", "pl": "Podobno dwoje pasażerów zostało rannych, gdy pociąg nagle zahamował." }
     ]
   }
 ]
