@@ -331,8 +331,8 @@
     "id": "subject_verb_agreement",
     "icon": "🧷",
     "title": "Zgodność podmiotu z orzeczeniem",
-    "desc": "Zgodność liczby między podmiotem a czasownikiem: rzeczowniki zbiorowe, kwantyfikatory, spójniki, wyrażenia ilościowe — budowa, użycie, ćwiczenia z uzupełnianiem luk i testy.",
-    "drillCount": 40,
+    "desc": "Trzy konkurujące zasady zgodności (formalna, pojęciowa, bliskości): geneza historyczna, rzeczowniki zbiorowe BrE/AmE, kwantyfikatory, spójniki, 'there is/are', zgodność w zdaniach względnych, singular they — ćwiczenia z uzupełnianiem luk i testy.",
+    "drillCount": 72,
     "level": "b1"
   },
   {

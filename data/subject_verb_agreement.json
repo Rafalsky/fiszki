@@ -1,99 +1,323 @@
 [
   {
-    "id": "basic_rule",
+    "id": "concord_three_principles",
     "order": 1,
-    "nameEn": "Basic rule — singular / plural subject",
-    "namePl": "Zasada podstawowa — podmiot w liczbie pojedynczej i mnogiej",
+    "nameEn": "The wreckage of a lost system: why English agreement is a tug-of-war between three rules",
+    "namePl": "Ruina dawnego systemu: dlaczego angielska zgodność to przeciąganie liny między trzema zasadami",
     "rules": [
-      { "label": "Liczba pojedyncza", "text": "Podmiot w liczbie pojedynczej wymaga czasownika w formie liczby pojedynczej (he/she/it, np. She works, The dog barks)" },
-      { "label": "Liczba mnoga", "text": "Podmiot w liczbie mnogiej wymaga czasownika w formie liczby mnogiej (np. They work, The dogs bark)" },
-      { "label": "to be", "text": "Czasownik be zmienia formę najbardziej wyraźnie: I am, he/she/it is, we/you/they are" }
+      {
+        "label": "Skąd w ogóle wzięła się 'zgodność': staroangielski miał pełną odmianę",
+        "text": "Staroangielski (do ok. XI w.) był językiem silnie fleksyjnym: czasownik zmieniał końcówkę dla każdej osoby i liczby oddzielnie — ic here ('ja słyszę'), þū hīerst ('ty słyszysz'), hē hīerþ ('on słyszy'), wē/gē/hīe hīeraþ ('my/wy/oni słyszymy/-cie/-ą). To był system podobny do dzisiejszego polskiego: bogaty, redundantny, w którym niemal każda osoba miała własną, wyraźną końcówkę."
+      },
+      {
+        "label": "Erozja końcówek: podbój normański i kontakt ze staronordyjskim",
+        "text": "Między XI a XV wiekiem angielski przeszedł największą redukcję morfologiczną w swojej historii. Dwa czynniki złożyły się na ten proces: (1) intensywny kontakt z osadnikami skandynawskimi w Danelaw, których język miał podobny rdzeń, ale INNE końcówki — w sytuacji dwujęzycznego, potocznego kontaktu mówcy najczęściej po prostu 'ucinali' końcówki, które i tak nie niosły nowej informacji; (2) fakt, że angielskie końcówki fleksyjne były zwykle nieakcentowane, a nieakcentowane samogłoski w językach germańskich mają naturalną tendencję do zlewania się w neutralne 'schwa' i w końcu zanikania. Do początku angielszczyzny wczesnonowożytnej (XVI w.) z całego tego systemu ostał się tylko jeden żywy ślad: końcówka trzeciej osoby liczby pojedynczej czasu teraźniejszego."
+      },
+      {
+        "label": "Dlaczego akurat '-s', a nie '-eth': zwycięstwo dialektu północnego",
+        "text": "Warto wiedzieć, że nawet ta jedna ocalała końcówka nie jest 'oryginalna' w tej formie. W średnioangielskim południe kraju (i londyński standard Chaucera) używało końcówki '-eth' (loveth, hath, doth) — prostej kontynuacji staroangielskiej '-eþ'. Końcówka '-s' (loves, has, does) pochodziła z dialektów północnoangielskich i szkockich, które pod wpływem staronordyjskiego (gdzie trzecia osoba liczby pojedynczej też kończyła się na spółgłoskę syczącą) rozwinęły inny wzorzec. W XVI–XVII wieku, wraz z migracją ludności do Londynu i rozwojem druku, forma północna '-s' wyparła południową '-eth' w mowie potocznej niemal całkowicie — '-eth' przetrwało jeszcze przez jakiś czas w stylu wysokim i biblijnym (Króla Jakuba, 1611: 'giveth', 'loveth'), zanim ostatecznie wyginęło. Dzisiejsze 'she loves' to więc lingwistyczny import z Północy, a nie naturalna kontynuacja południowego standardu literackiego."
+      },
+      {
+        "label": "Model myślowy: trzy zasady zgodności, nie jedna",
+        "text": "Ponieważ system gramatyczny, który kiedyś WYMUSZAŁ jednoznaczną zgodność, praktycznie zniknął, dzisiejszy angielski nie ma już jednego niepodważalnego mechanizmu — ma za to TRZY konkurujące ze sobą zasady, między którymi native speaker nieświadomie wybiera w każdym zdaniu: (1) zgodność gramatyczna/formalna (grammatical concord) — czasownik mechanicznie kopiuje morfologiczną liczbę rzeczownika-głowy (dog → barks, dogs → bark); (2) zgodność pojęciowa/notional (notional concord) — czasownik podąża za tym, JAK mówiący POJMUJE podmiot: jako jedną całość czy jako zbiór jednostek, niezależnie od formy gramatycznej (the team IS united, the team ARE arguing among themselves); (3) zasada bliskości/przyciągania (principle of proximity) — czasownik 'przyciąga' liczbę najbliższego rzeczownika w zdaniu, nawet jeśli to nie jest gramatyczna głowa podmiotu (neither the teacher nor the students ARE ready). Większość 'reguł' wykuwanych w szkole to w istocie tylko zasada (1) ogłoszona jako jedyne prawo — a cała reszta tego tematu to properly obserwowanie, kiedy (2) i (3) biorą górę."
+      }
     ],
     "usage": [
-      "Zawsze sprawdzaj prawdziwy podmiot zdania, nie najbliższe słowo przed czasownikiem",
-      "Wyrażenia dodane po podmiocie (as well as, together with, along with) nie zmieniają liczby czasownika",
-      "Gerund i bezokoliczniki jako podmiot traktujemy jako liczbę pojedynczą (Swimming is fun.)",
-      "Tytuły, nazwy państw i kwoty pieniędzy jako całość → liczba pojedyncza (Ten dollars is a lot.)"
+      "Zamiast zapamiętywać dziesiątki pozornie niepowiązanych 'wyjątków', warto za każdym razem pytać: czy w tym zdaniu górę bierze forma (grammatical concord), sens/pojęcie całości (notional concord), czy fizyczna bliskość rzeczownika do czasownika (proximity)?",
+      "Angielski brytyjski systemowo częściej sięga po zgodność pojęciową (the government ARE divided) niż amerykański, który w standardowym rejestrze preferuje surową zgodność formalną (the government IS divided) — to nie przypadek, lecz efekt odmiennej historii standaryzacji języka po obu stronach Atlantyku (patrz kolejny temat: rzeczowniki zbiorowe).",
+      "Zasada bliskości nie jest 'błędem' ani niedbalstwem — to udokumentowany, stabilny wzorzec obecny już u Szekspira, formalnie opisywany przez współczesne gramatyki referencyjne (np. Comprehensive Grammar of the English Language) jako trzeci, równoprawny mechanizm angielskiej zgodności.",
+      "Sam fakt, że dzisiejsza zgodność sprowadza się właściwie do jednego przełącznika (-s / brak końcówki w czasie teraźniejszym, plus was/were) tłumaczy, dlaczego pomyłki w tym obszarze aż tak rażą w piśmie: to jedyny relikt fleksji, jaki angielskiemu pozostał, więc nosi na sobie całą presję poprawności językowej, jaka niegdyś rozkładała się na cały bogaty system końcówek."
     ],
-    "tags": ["she works", "they work", "swimming is", "ten dollars is"],
+    "tags": ["grammatical concord", "notional concord", "principle of proximity", "-eth vs -s"],
     "examples": [
-      { "en": "My sister lives in Warsaw.", "pl": "Moja siostra mieszka w Warszawie." },
-      { "en": "My parents live in Warsaw.", "pl": "Moi rodzice mieszkają w Warszawie." },
-      { "en": "The manager, together with her team, is preparing the report.", "pl": "Kierowniczka wraz ze swoim zespołem przygotowuje raport." },
-      { "en": "Ten years is a long time.", "pl": "Dziesięć lat to długi czas." }
+      { "en": "The committee is meeting at noon.", "pl": "Komitet spotyka się w południe. (zgodność formalna: 'committee' jako pojedyncza forma)" },
+      { "en": "The committee are still arguing about the budget.", "pl": "Komisja wciąż kłóci się o budżet. (zgodność pojęciowa: myślimy o poszczególnych członkach)" },
+      { "en": "Neither the manager nor the staff were informed in time.", "pl": "Ani kierownik, ani personel nie zostali poinformowani na czas. (zasada bliskości: czasownik dopasowany do 'staff')" },
+      { "en": "In Shakespeare's day, 'she loveth' was already being replaced by 'she loves' in everyday speech.", "pl": "Już za czasów Szekspira 'she loveth' było w mowie codziennej wypierane przez 'she loves'." }
     ]
   },
   {
-    "id": "collective_indefinite",
+    "id": "collective_nouns",
     "order": 2,
-    "nameEn": "Collective nouns & indefinite pronouns",
-    "namePl": "Rzeczowniki zbiorowe i zaimki nieokreślone",
+    "nameEn": "Collective nouns — one Atlantic, two philosophies of concord",
+    "namePl": "Rzeczowniki zbiorowe — jeden Atlantyk, dwie filozofie zgodności",
     "rules": [
-      { "label": "Zbiorowe (BrE elastycznie)", "text": "Rzeczowniki zbiorowe (team, family, government, staff) łączą się z liczbą pojedynczą, gdy grupa działa jako jedność, a w angielskim brytyjskim czasem z mnogą, gdy podkreślamy jej członków" },
-      { "label": "Zaimki nieokreślone", "text": "everyone, everybody, someone, somebody, no one, nobody, each, either, neither, everything, something, nothing są zawsze traktowane jako liczba pojedyncza" },
-      { "label": "police, people", "text": "Niektóre rzeczowniki są gramatycznie zawsze w liczbie mnogiej: the police are, people are" }
+      {
+        "label": "Rzeczownik zbiorowy jako pojęciowy paradoks",
+        "text": "Rzeczowniki takie jak team, family, government, staff, committee, jury, audience, class, crowd, generation morfologicznie są liczbą pojedynczą (nie mają końcówki -s), ale ODNOSZĄ SIĘ do wielu jednostek naraz. To wbudowany konflikt między formą a znaczeniem — i właśnie ten konflikt jest poligonem doświadczalnym dla starcia zgodności formalnej z pojęciową opisanego w poprzednim temacie."
+      },
+      {
+        "label": "Brytyjski: elastyczność jako spuścizna notional concord",
+        "text": "W angielskim brytyjskim OBIE formy są poprawne, a wybór niesie realne znaczenie: 'The team is winning' traktuje drużynę jako jeden zwarty organizm/wynik (jednostkę rywalizującą z inną jednostką); 'The team are arguing among themselves' traktuje ją jako zbiór jednostek o osobnych, rozbieżnych wolach — i właśnie dlatego czasownik w liczbie mnogiej brzmi naturalniej, gdy dalej w zdaniu pojawia się zaimek zwrotny 'themselves' albo 'each other', bo trudno wyobrazić sobie jedną 'całość' kłócącą się samą ze sobą."
+      },
+      {
+        "label": "Amerykański: dziedzictwo XIX-wiecznej standaryzacji przez 'logikę'",
+        "text": "Amerykański angielski niemal zawsze wybiera formę pojedynczą (the team IS winning, the government IS divided) nawet tam, gdzie sens jest wyraźnie zbiorowy. To nie jest 'bardziej poprawna' wersja angielskiego — to efekt odmiennej historii kodyfikacji językowej w USA. XIX-wieczni amerykańscy kodyfikatorzy (m.in. krąg wokół Noah Webstera, twórcy pierwszego wielkiego amerykańskiego słownika) dążyli do jednolitych, 'logicznych', łatwych do nauczania reguł gramatycznych dla młodego, masowo kształconego społeczeństwa — a jedna sztywna zasada 'rzeczownik liczby pojedynczej = zawsze czasownik liczby pojedynczej' była po prostu prostsza do wyuczenia niż brytyjska elastyczność zależna od kontekstu znaczeniowego."
+      },
+      {
+        "label": "Wyjątek nawet w Ameryce: nazwy drużyn w liczbie mnogiej",
+        "text": "Nawet w amerykańskim angielskim zasada formalna bywa przełamana, gdy sama NAZWA własna ma morfologicznie mnogą formę: 'The Yankees ARE playing tonight' (bo 'Yankees' to gramatycznie liczba mnoga, więc formalna zgodność sama nakazuje 'are' — to wcale nie jest wyjątek od amerykańskiej reguły, tylko jej konsekwentne zastosowanie). Kontrastuje to z nazwami w liczbie pojedynczej typu 'Real Madrid', gdzie AmE powie 'is' a BrE swobodnie 'are', bo dopiero tu ujawnia się prawdziwa różnica dialektalna."
+      }
     ],
     "usage": [
-      "The team is / are — obie formy poprawne, zależnie od tego, czy grupa to jednostka czy zbiór osób",
-      "Everyone has to bring their own lunch. — zaimek zwrotny w liczbie pojedynczej mimo they/their",
-      "Each of the students has a laptop. — each + of + liczba mnoga wciąż wymaga czasownika w liczbie pojedynczej",
-      "The police are investigating the case. — police zawsze z czasownikiem w liczbie mnogiej"
+      "Nie traktuj brytyjskiego 'team are' jako błędu — to świadomy wybór podkreślający wewnętrzne zróżnicowanie grupy, nie niedopatrzenie.",
+      "W jednym zdaniu unikaj mieszania form: 'The team is preparing their strategy' brzmi niespójnie (is + their) — konsekwentnie 'is... its' albo 'are... their'.",
+      "Rzeczowniki takie jak police, cattle, people (w znaczeniu 'ludzie') są w angielszczyźnie GRAMATYCZNIE zawsze mnogie, mimo braku końcówki -s — nie mają wcale formy pojedynczej w tym znaczeniu, więc nie podlegają tej debacie w ogóle (the police ARE investigating, nigdy 'is').",
+      "Rejestr formalny/pisany (raporty, prasa akademicka) nawet w BrE częściej skłania się ku formie pojedynczej niż język mówiony — formalność tekstu koreluje z siłą zgodności formalnej kosztem pojęciowej."
     ],
-    "tags": ["everyone has", "each student is", "the team is", "the police are"],
+    "tags": ["the team is/are", "notional concord BrE", "Yankees are", "police are always plural"],
     "examples": [
-      { "en": "Everybody is welcome at the party.", "pl": "Każdy jest mile widziany na przyjęciu." },
-      { "en": "The committee has made its decision.", "pl": "Komitet podjął swoją decyzję." },
-      { "en": "Each of the answers is correct.", "pl": "Każda z odpowiedzi jest poprawna." },
-      { "en": "The police have arrested three suspects.", "pl": "Policja aresztowała trzech podejrzanych." }
+      { "en": "The jury has reached its verdict.", "pl": "Ława przysięgłych wydała werdykt. (jedna zbiorowa decyzja)" },
+      { "en": "The jury are still deliberating; three of them disagree.", "pl": "Ława przysięgłych wciąż się naradza; troje z nich się nie zgadza. (podkreślenie podziału wewnątrz grupy)" },
+      { "en": "The government has announced new tax measures.", "pl": "Rząd ogłosił nowe środki podatkowe. (AmE i formalne BrE)" },
+      { "en": "The Lakers are two points behind with a minute left.", "pl": "Lakers przegrywają dwoma punktami na minutę przed końcem." }
     ]
   },
   {
-    "id": "conjunctions",
+    "id": "coordination_and",
     "order": 3,
-    "nameEn": "Subjects joined by and / or / nor",
-    "namePl": "Podmioty połączone spójnikami and / or / nor",
+    "nameEn": "Subjects joined by 'and' — plurality as the logical default, singular as the meaning-driven exception",
+    "namePl": "Podmioty połączone spójnikiem 'and' — mnogość jako domyślna logika, liczba pojedyncza jako wyjątek znaczeniowy",
     "rules": [
-      { "label": "and", "text": "Dwa podmioty połączone and zwykle tworzą liczbę mnogą (Tom and Jerry are friends.), chyba że razem tworzą jedną ideę/rzecz (bread and butter is)" },
-      { "label": "or / nor", "text": "Przy or, nor, either...or, neither...nor czasownik zgadza się z podmiotem bliższym mu (Neither the teacher nor the students are ready.)" },
-      { "label": "not only...but also", "text": "Podobnie jak przy or — czasownik zgadza się z ostatnim, bliższym podmiotem" }
+      {
+        "label": "and jako suma zbiorów: dlaczego domyślnie daje liczbę mnogą",
+        "text": "Spójnik 'and' pełni funkcję zbliżoną do matematycznej sumy zbiorów: łączy dwa odrębne elementy w jeden większy zestaw, którego liczność (kardynalność) wynosi co najmniej dwa. Dlatego domyślnym, 'obliczeniowym' skutkiem połączenia dwóch podmiotów spójnikiem 'and' jest LICZBA MNOGA czasownika (Tom and Jerry ARE friends) — to nie arbitralna reguła do wykucia, tylko naturalna konsekwencja tego, że policzyliśmy dwa oddzielne byty."
+      },
+      {
+        "label": "Wyjątek: gdy 'and' nie sumuje, tylko opisuje jedną rzecz",
+        "text": "Zgodność pojęciowa znów bierze górę, gdy dwa rzeczowniki połączone 'and' w praktyce odnoszą się do JEDNEGO pojęcia, przedmiotu lub osoby, a nie do dwóch odrębnych bytów: 'bread and butter' to jedno danie/pojęcie ('chleb z masłem'), nie dwa oddzielne przedmioty na talerzu; 'the hotel's owner and manager' może opisywać jedną osobę pełniącą obie funkcje. W takich przypadkach mówca sygnalizuje czasownikiem w liczbie pojedynczej, że w jego głowie to jedna, zespolona idea, a nie suma dwóch elementów — dokładnie ta sama logika notional concord, co przy rzeczownikach zbiorowych."
+      },
+      {
+        "label": "each i every neutralizują 'and'",
+        "text": "Konstrukcje z 'each' i 'every' rozbijają połączone podmioty z powrotem na pojedyncze, rozpatrywane osobno jednostki, nawet jeśli formalnie są połączone 'and': 'Each boy and each girl HAS a locker' — mimo dwóch rzeczowników i spójnika 'and', znaczenie to 'każdy z osobna', więc czasownik zostaje w liczbie pojedynczej. 'Each'/'every' semantycznie działają jak dystrybutor: rozdzielają grupę z powrotem na pojedyncze elementy, zamiast je sumować."
+      }
     ],
     "usage": [
-      "Jack and Jill are climbing the hill. — and zwykle daje liczbę mnogą",
-      "Either the manager or the employees are wrong. — czasownik zgadza się z bliższym podmiotem (employees)",
-      "Neither he nor I am to blame. — z I zawsze am, nawet jeśli to nietypowo brzmi",
-      "Rice and beans is a common dish. — połączenie traktowane jako jedna potrawa → liczba pojedyncza"
+      "Test praktyczny: jeśli potrafisz włożyć połączone rzeczowniki w liczbę mnogą 'these two things/people' bez utraty sensu, to prawdopodobnie potrzebujesz czasownika w liczbie mnogiej.",
+      "Fixed expressions kulinarne i idiomatyczne (fish and chips, bread and butter, rock and roll jako gatunek) regularnie biorą liczbę pojedynczą, bo funkcjonują jako nazwy jednego pojęcia, a nie luźne wyliczenia.",
+      "'A cup and saucer WAS placed on the table' — nawet fizycznie odrębne przedmioty mogą być pojęciowo zespolone w jeden 'zestaw', jeśli tak funkcjonują w danym kontekście (serwis, komplet).",
+      "Kiedy dwa rzeczowniki połączone 'and' odnoszą się WYRAŹNIE do różnych osób/rzeczy, liczba mnoga jest obowiązkowa i nie podlega dyskusji: 'My brother and my sister ARE both doctors.'"
     ],
-    "tags": ["tom and jerry are", "neither...nor is/are", "either...or"],
+    "tags": ["and = plural default", "bread and butter is", "each and every is", "notional singular"],
     "examples": [
       { "en": "My brother and my sister are both doctors.", "pl": "Mój brat i moja siostra są lekarzami." },
-      { "en": "Neither the students nor the teacher was ready.", "pl": "Ani uczniowie, ani nauczyciel nie byli gotowi." },
-      { "en": "Either you or he is going to apologize.", "pl": "Albo ty, albo on przeprosisz." },
-      { "en": "Fish and chips is my favourite meal.", "pl": "Ryba z frytkami to moje ulubione danie." }
+      { "en": "Fish and chips is a British classic.", "pl": "Ryba z frytkami to brytyjska klasyka. (jedno danie, nie dwa oddzielne)" },
+      { "en": "The company's founder and CEO was present at the launch.", "pl": "Założyciel i dyrektor generalny firmy był obecny na premierze. (jedna osoba pełniąca obie funkcje)" },
+      { "en": "Each employee and each contractor has to sign the new policy.", "pl": "Każdy pracownik i każdy kontraktor musi podpisać nową politykę." }
     ]
   },
   {
-    "id": "there_quantities",
+    "id": "coordination_or_nor",
     "order": 4,
-    "nameEn": "there is/are & quantity expressions",
-    "namePl": "there is/are oraz wyrażenia ilościowe",
+    "nameEn": "or / nor — when logic runs out, proximity decides",
+    "namePl": "or / nor — gdy logika się kończy, decyduje bliskość",
     "rules": [
-      { "label": "there is/are", "text": "Czasownik po there zgadza się z rzeczownikiem, który następuje po nim: there is a book, there are books" },
-      { "label": "Kwantyfikatory niepoliczalne", "text": "much, a little, a bit of + rzeczownik niepoliczalny → liczba pojedyncza (Much of the work is done.)" },
-      { "label": "Kwantyfikatory policzalne", "text": "many, a few, a number of, several + rzeczownik policzalny w liczbie mnogiej → liczba mnoga (A number of people are waiting.)" },
-      { "label": "the number of", "text": "the number of + rzeczownik mnogi → liczba pojedyncza (The number of visitors was high.), w przeciwieństwie do a number of" }
+      {
+        "label": "Dlaczego 'or' nie da się rozstrzygnąć logicznie",
+        "text": "'And' daje jednoznaczny wynik matematyczny (suma = liczba mnoga). 'Or' natomiast opisuje ALTERNATYWĘ — dokładnie JEDNA z możliwości się zrealizuje, ale angielszczyzna w momencie wypowiadania zdania nie wie, KTÓRA. Kardynalność podmiotu jest więc formalnie nieokreślona: 'Either the manager or the employees...' może dotyczyć finalnie jednej osoby albo wielu osób, w zależności od tego, co się faktycznie wydarzy. Nie ma tu czystej logiki matematycznej, do której można by się odwołać — i właśnie dlatego angielski musiał wykształcić inny mechanizm rozstrzygający."
+      },
+      {
+        "label": "Rozwiązanie: zasada bliskości (principle of proximity)",
+        "text": "Skoro logika nie daje jednoznacznej odpowiedzi, angielski (od stuleci, udokumentowane już u Szekspira i w Biblii Króla Jakuba) rozstrzyga sprawę fizycznie: czasownik dopasowuje się do liczby TEGO rzeczownika, który stoi NAJBLIŻEJ niego w zdaniu, niezależnie od tego, co stoi dalej. 'Neither the students nor the teacher WAS ready' (czasownik obok 'teacher' → liczba pojedyncza); 'Neither the teacher nor the students WERE ready' (czasownik obok 'students' → liczba mnoga). To nie jest niedbałość — to w pełni regularny, przewidywalny mechanizm."
+      },
+      {
+        "label": "Praktyczna konsekwencja: kolejność podmiotów da się świadomie ustawiać",
+        "text": "Ponieważ o zgodności decyduje bliskość, doświadczeni piszący czasem CELOWO ustawiają kolejność podmiotów tak, by uniknąć niezręcznie brzmiącej formy — np. 'Neither he nor I AM to blame' brzmi dziwnie mimo poprawności (bo 'am' rzadko kończy takie zdanie), więc często przeformułowuje się na 'Neither I nor he IS to blame' albo unika się problemu całkowicie inną konstrukcją."
+      }
     ],
     "usage": [
-      "There is milk in the fridge. — milk niepoliczalny → is",
-      "There are two apples on the table. — apples policzalny mnogi → are",
-      "A number of students have complained. — a number of + mnoga → czasownik mnogi",
-      "The number of unemployed people has risen. — the number of + mnoga → czasownik pojedynczy"
+      "Ta sama zasada bliskości obowiązuje przy correlative conjunctions: not only... but also, both... and (choć 'both... and' zwykle po prostu daje liczbę mnogą, bo semantycznie sumuje jak 'and').",
+      "'Or' łączący dwa rzeczowniki w liczbie pojedynczej zawsze daje formę pojedynczą, bez potrzeby odwoływania się do bliskości: 'A pen or a pencil IS enough.'",
+      "W pytaniach zasada działa identycznie: 'Is either the manager or the employees available?' → niepoprawnie zestawione, lepiej: 'Are either the employees or the manager available?' (dopasowanie do bliższego 'manager' → 'is' brzmiałoby naturalniej jako 'Is the manager or the employees available?').",
+      "Nie myl 'or' łączącego podmioty (decyduje bliskość) z 'or' w znaczeniu 'czyli, to znaczy' (np. 'The capital, or seat of government, IS located...' — tu 'or' wprowadza dopowiedzenie, a nie alternatywny podmiot)."
     ],
-    "tags": ["there is milk", "there are apples", "a number of are", "the number of is"],
+    "tags": ["principle of proximity", "neither...nor", "either...or", "not only...but also"],
     "examples": [
-      { "en": "There is a lot of traffic today.", "pl": "Dziś jest duży ruch uliczny." },
-      { "en": "There are several reasons for this.", "pl": "Jest kilka powodów tego." },
-      { "en": "A number of employees are working from home.", "pl": "Wielu pracowników pracuje z domu." },
-      { "en": "The number of complaints has decreased.", "pl": "Liczba skarg zmalała." }
+      { "en": "Neither the coach nor the players were satisfied with the result.", "pl": "Ani trener, ani zawodnicy nie byli zadowoleni z wyniku." },
+      { "en": "Neither the players nor the coach was satisfied with the result.", "pl": "Ani zawodnicy, ani trener nie byli zadowoleni z wyniku. (czasownik dopasowany do 'coach')" },
+      { "en": "Either you or he is going to have to apologize.", "pl": "Albo ty, albo on będzie musiał przeprosić." },
+      { "en": "Not only the students but also the teacher was impressed.", "pl": "Nie tylko uczniowie, ale i nauczyciel był pod wrażeniem." }
+    ]
+  },
+  {
+    "id": "quantifying_expressions",
+    "order": 5,
+    "nameEn": "a number of vs the number of — when the quantifier is the head, and when it isn't",
+    "namePl": "a number of vs the number of — kiedy kwantyfikator jest głową zdania, a kiedy nie",
+    "rules": [
+      {
+        "label": "Kluczowe pytanie: co jest prawdziwą 'głową' frazy?",
+        "text": "W wyrażeniach typu 'a number of students' i 'the number of students' powierzchownie ten sam ciąg słów pełni dwie zupełnie inne role składniowe. 'A number of' funkcjonuje jak zwykły kwantyfikator (podobnie jak 'several', 'many', 'a lot of') — czysto GRAMATYCZNIE modyfikuje rzeczownik 'students', który pozostaje prawdziwą głową całej frazy. 'The number of' natomiast to fraza, w której 'number' JEST właściwym, policzalnym rzeczownikiem-głową ('liczba' jako konkretna wartość), a 'of students' to tylko dopełnienie precyzujące, liczbę czego mierzymy."
+      },
+      {
+        "label": "Konsekwencja: a number of + liczba mnoga, the number of + liczba pojedyncza",
+        "text": "Skoro w 'a number of students' prawdziwą głową jest 'students', czasownik zgadza się z 'students': 'A number of students HAVE complained.' Skoro w 'the number of students' prawdziwą głową jest 'number' (rzeczownik policzalny w liczbie pojedynczej), czasownik zgadza się z 'number': 'The number of students HAS increased.' To dokładnie ta sama logika co przy 'a couple of', 'a group of', 'a handful of' (kwantyfikatory → zgodność z rzeczownikiem po 'of') kontra 'a piece of', 'an item of' (prawdziwe rzeczowniki policzalne → zgodność z nimi samymi)."
+      },
+      {
+        "label": "Partitives ogólnie: zgodność podąża za rzeczownikiem po 'of'",
+        "text": "Ta sama zasada rozciąga się na inne wyrażenia ułamkowe/partytywne (partitive expressions): 'most of', 'half of', 'a third of', 'some of', 'all of', 'the rest of' — żadne z nich nie ma własnej, stałej liczby gramatycznej; ZAWSZE 'pożyczają' liczbę od rzeczownika, który po nich następuje. 'Half of the cake WAS eaten' (cake — niepoliczalny/pojedynczy), ale 'Half of the guests WERE late' (guests — mnogi). To notional concord w najczystszej postaci: forma czasownika podąża za tym, CO faktycznie liczymy, a nie za samym słowem 'half'."
+      },
+      {
+        "label": "Miary, kwoty i odległości jako pojęciowa jedność",
+        "text": "Wyrażenia ilości pieniędzy, czasu, odległości i wagi (ten dollars, five years, three miles, two kilos) są morfologicznie w liczbie mnogiej, ale gdy opisują jedną, zamkniętą WARTOŚĆ/MIARĘ (a nie zbiór oddzielnych jednostek do policzenia), są pojmowane jako jeden pakiet i przyjmują czasownik w liczbie pojedynczej: 'Ten dollars IS not much these days' (jedna kwota, nie dziesięć osobnych banknotów w twojej głowie). To ten sam mechanizm poznawczy, który tworzy rzeczowniki niepoliczalne z natury (water, money) — z tą różnicą, że tutaj 'upojedynczenie' zachodzi wtórnie, na poziomie znaczenia całej frazy, a nie pojedynczego słowa."
+      }
+    ],
+    "usage": [
+      "Szybki test: podstaw 'several'/'many' w miejsce badanego wyrażenia — jeśli zdanie nadal brzmi sensownie, to masz kwantyfikator (→ liczba mnoga); jeśli musisz podstawić 'a specific quantity of', to masz prawdziwy rzeczownik-głowę (→ liczba pojedyncza).",
+      "'The majority of' zachowuje się jak partitive: 'The majority of voters WERE in favour' (zgodność z 'voters'), choć w formalnym, statystycznym rejestrze zdarza się też 'the majority WAS' traktujące 'majority' jako pojedynczy blok.",
+      "Przy pieniądzach/czasie/odległości liczba pojedyncza dotyczy CAŁEJ WARTOŚCI jako jednostki miary — gdy jednak mówimy o poszczególnych, oddzielnych elementach tej sumy, wraca liczba mnoga: 'Five dollar bills WERE scattered on the floor' (pięć oddzielnych banknotów, nie jedna kwota).",
+      "'None of' historycznie pochodzi od 'not one of', co sugerowałoby zawsze liczbę pojedynczą — dziś jednak oba warianty są akceptowane, a 'none of the guests HAVE arrived' jest w praktyce częstsze niż 'HAS' w mowie potocznej (kolejny przykład zwycięstwa notional concord)."
+    ],
+    "tags": ["a number of vs the number of", "partitive concord", "half of the cake was", "ten dollars is"],
+    "examples": [
+      { "en": "A number of employees have raised concerns about the new policy.", "pl": "Wielu pracowników wyraziło obawy co do nowej polityki." },
+      { "en": "The number of complaints has dropped significantly this year.", "pl": "Liczba skarg znacząco spadła w tym roku." },
+      { "en": "Two-thirds of the report was written before the deadline.", "pl": "Dwie trzecie raportu zostało napisane przed terminem." },
+      { "en": "Twenty minutes isn't enough time to finish this test.", "pl": "Dwadzieścia minut to za mało czasu, żeby skończyć ten test." }
+    ]
+  },
+  {
+    "id": "existential_there",
+    "order": 6,
+    "nameEn": "there is/are — a dummy subject grammaticalizing into an invariant marker",
+    "namePl": "there is/are — pusty podmiot-atrapa na drodze do stałej, niezmiennej formy",
+    "rules": [
+      {
+        "label": "'there' nie jest prawdziwym podmiotem — to gramatyczna atrapa",
+        "text": "'There' w 'There is a book on the table' nie odnosi się do żadnego miejsca (to nie ten sam 'there' co w 'I live there') — to zgramatykalizowany, semantycznie pusty 'podmiot-atrapa' (dummy subject), którego jedynym zadaniem jest wypełnić obowiązkową pozycję podmiotu przed czasownikiem, podczas gdy PRAWDZIWY, znaczący rzeczownik ('a book') zostaje przesunięty za czasownik. To dlatego logicznie czasownik zgadza się nie z 'there', lecz z rzeczownikiem, który następuje po nim: 'There IS a book' / 'There ARE books' — formalnie zgodność 'zagląda w bok', ponad podmiotem-atrapą, do prawdziwego, semantycznego podmiotu."
+      },
+      {
+        "label": "Skąd wzięło się 'there' jako atrapa: ewolucja z przysłówka miejsca",
+        "text": "Konstrukcja ta wywodzi się ze staroangielskiego, gdzie zdania egzystencjalne (stwierdzające istnienie czegoś) często zaczynały się od przysłówka miejsca ('þǣr wæs...' — 'tam był...'), z czasem odczuwanego już nie jako wskazanie konkretnego miejsca, lecz jako czysto gramatyczny sygnał 'zaraz nastąpi stwierdzenie istnienia czegoś'. To bardzo częsty proces w językach świata (grammaticalization): przysłówek lub zaimek traci swoje pierwotne, konkretne znaczenie i staje się czysto funkcyjnym elementem struktury zdania — dokładnie tę samą drogę przeszły francuskie 'il y a' (dosłownie 'on tam ma') czy niemieckie 'es gibt' (dosłownie 'to daje')."
+      },
+      {
+        "label": "Potoczne 'there's' + liczba mnoga: język w trakcie zmiany",
+        "text": "W mowie nieformalnej powszechnie słyszy się 'There's two cars outside' zamiast normatywnego 'There ARE two cars outside'. To nie przypadkowy błąd, lecz systematyczny, narastający wzorzec: 'there's' zaczyna funkcjonować jak JEDNA, niezmienna formuła wprowadzająca istnienie czegoś (podobnie jak francuskie 'il y a' czy niemieckie 'es gibt', które NIE odmieniają się przez liczbę rzeczownika, który po nich następuje). Innymi słowy: angielski może być w trakcie dokładnie tego samego procesu gramatykalizacji, który w innych językach już dawno się zakończył — 'there's' na drodze do stania się skamieniałą, niezmienną cząstką, a nie ściągniętą formą 'there is'."
+      }
+    ],
+    "usage": [
+      "W standardowym pisanym rejestrze (egzaminy, dokumenty formalne) zawsze stosuj pełną zgodność: there IS + liczba pojedyncza / there ARE + liczba mnoga — 'there's + liczba mnoga' jest wciąż napiętnowane jako błąd w piśmie, mimo powszechności w mowie.",
+      "Ta sama logika 'zaglądania w bok' obowiązuje w czasach złożonych i z modalnymi: 'There HAS BEEN a problem' / 'There HAVE BEEN several problems'; 'There MUST BE a reason' (modal + be nie zmienia się przez liczbę, więc problem znika).",
+      "'There' egzystencjalne różni się od 'there' lokatywnego akcentem i intonacją w mowie — 'There's THE book!' (wskazanie miejsca, silny akcent na 'there') kontra 'There's a book on the table' (stwierdzenie istnienia, 'there' nieakcentowane, niemal jak przedimek).",
+      "Konstrukcja 'there' + czasownik istnienia (exist, seem, appear, remain) zachowuje się identycznie: 'There SEEMS TO BE a mistake' / 'There SEEM TO BE several mistakes.'"
+    ],
+    "tags": ["dummy subject", "there is/are", "il y a", "there's + plural (informal)"],
+    "examples": [
+      { "en": "There is a strange noise coming from the engine.", "pl": "Z silnika dochodzi dziwny dźwięk." },
+      { "en": "There are at least three reasons to reconsider.", "pl": "Jest co najmniej trzy powody, by to przemyśleć." },
+      { "en": "There's two people waiting for you outside.", "pl": "Na zewnątrz czekają na ciebie dwie osoby. (potoczne, napiętnowane w piśmie formalnym)" },
+      { "en": "There have been several complaints about the noise.", "pl": "Było kilka skarg dotyczących hałasu." }
+    ]
+  },
+  {
+    "id": "relative_clause_agreement",
+    "order": 7,
+    "nameEn": "one of the students who is/are — a genuine, unresolved ambiguity",
+    "namePl": "one of the students who is/are — prawdziwa, nierozstrzygnięta dwuznaczność",
+    "rules": [
+      {
+        "label": "Problem: 'who/that' nie ma własnej liczby, dziedziczy ją po antecedencie",
+        "text": "Zaimek względny (who, which, that) sam w sobie nie ma liczby gramatycznej — 'pożycza' ją od rzeczownika, do którego się odnosi (antecedent). Problem w tym, że w zdaniu 'one of the students who ___ always late' są DWA możliwe antecedenty: 'one' (liczba pojedyncza) oraz 'the students' (liczba mnoga) — i oba są gramatycznie 'dostępne', bo oba stoją bezpośrednio przed zaimkiem względnym."
+      },
+      {
+        "label": "Odczyt ścisły (strict): antecedentem jest 'one' → liczba pojedyncza",
+        "text": "Zgodnie z logiką ścisłą, najbliższym i głównym rzeczownikiem całej frazy podmiotowej jest 'one' (to on jest prawdziwym, gramatycznym podmiotem zdania głównego), więc zdanie względne powinno się zgadzać właśnie z nim: 'one of the students who IS always late' = 'spośród studentów, [ta jedna konkretna osoba], która jest zawsze spóźniona'. To wariant preferowany w formalnym, precyzyjnym piśmie."
+      },
+      {
+        "label": "Odczyt pojęciowy (notional): antecedentem jest cała grupa → liczba mnoga",
+        "text": "Zgodnie z logiką pojęciową, zdanie względne opisuje WSPÓLNĄ CECHĘ całej grupy, z której dopiero wybieramy jednego reprezentanta: 'one of the students who ARE always late' = 'spośród [grupy studentów, którzy są zawsze spóźnieni], jeden konkretny'. Semantycznie to właśnie ta grupa — nie pojedyncza osoba — jest tym, co zdanie względne faktycznie opisuje, więc liczba mnoga wydaje się bardziej logiczna z punktu widzenia SENSU, nawet jeśli mniej 'ścisła' składniowo. Ten wariant dominuje w naturalnej mowie i jest akceptowany przez większość współczesnych gramatyk opisowych."
+      },
+      {
+        "label": "Superlatives: ten sam problem, wyższa stawka",
+        "text": "Dokładnie ta sama dwuznaczność pojawia się (i jest jeszcze bardziej widoczna) w konstrukcjach superlatywnych: 'one of the best films that HAS ever been made' vs 'one of the best films that HAVE ever been made'. Tutaj argument za liczbą mnogą jest szczególnie mocny: stwierdzenie dotyczy całego, otwartego zbioru 'najlepszych filmów, jakie kiedykolwiek nakręcono', a 'one of' tylko wskazuje pojedynczy element z tego zbioru — więc to zbiór, a nie jednostka, powinien rządzić zgodnością. Wielu starannych stylistów świadomie preferuje tu 'have' właśnie z tego powodu, choć 'has' wciąż uchodzi za formalnie 'bezpieczniejsze'."
+      }
+    ],
+    "usage": [
+      "W mowie i piśmie nieformalnym liczba mnoga (are/have) jest dziś zdecydowanie częstsza i brzmi naturalniej — nie traktuj jej jako błędu do poprawienia.",
+      "W bardzo formalnym, precyzyjnym piśmie (prawnicze, akademickie) forma pojedyncza bywa preferowana jako 'bezpieczniejsza', bo trzyma się ścisłej reguły najbliższego gramatycznego antecedentu.",
+      "Test pomocniczy: przekształć zdanie tak, by 'the students' stało na początku — 'Of the students who ARE always late, this is one' — jeśli ta wersja brzmi naturalnie, to sygnał, że zgodność pojęciowa (liczba mnoga) jest tu w pełni uzasadniona.",
+      "Poza konstrukcją 'one of the X who...' ten sam mechanizm dotyczy 'the only one of the X who...', gdzie z kolei silniej przeważa liczba pojedyncza, bo 'the only one' podkreśla wyjątkowość i wyłączność tej jednej osoby z grupy."
+    ],
+    "tags": ["one of the students who is/are", "relative clause concord", "superlative agreement", "notional vs strict"],
+    "examples": [
+      { "en": "She's one of the few people who truly understands the algorithm.", "pl": "Jest jedną z niewielu osób, które naprawdę rozumieją ten algorytm. (odczyt ścisły)" },
+      { "en": "She's one of the few people who truly understand the algorithm.", "pl": "Jest jedną z niewielu osób, które naprawdę rozumieją ten algorytm. (odczyt pojęciowy)" },
+      { "en": "This is one of the best novels that have ever been written about the war.", "pl": "To jedna z najlepszych powieści, jakie kiedykolwiek napisano o tej wojnie." },
+      { "en": "He's the only one of the candidates who is fully qualified for the role.", "pl": "Jest jedynym spośród kandydatów, który jest w pełni wykwalifikowany na to stanowisko." }
+    ]
+  },
+  {
+    "id": "singular_they",
+    "order": 8,
+    "nameEn": "Singular 'they' — not a modern invention, but the same shift 'you' went through centuries ago",
+    "namePl": "Pojedyncze 'they' — nie współczesny wynalazek, lecz ta sama zmiana, którą wieki temu przeszło 'you'",
+    "rules": [
+      {
+        "label": "Historia sięga XIV wieku, nie internetu",
+        "text": "Użycie 'they/them/their' w odniesieniu do JEDNEJ osoby o nieznanej lub celowo niesprecyzowanej płci ('Somebody left their umbrella here') jest udokumentowane w angielszczyźnie od czasów Chauceralega XIV wieku i pojawia się regularnie u Szekspira, w Biblii Króla Jakuba oraz u Jane Austen — na długo przed jakąkolwiek współczesną debatą o inkluzywności językowej. To integralna, stara część systemu, nie neologizm."
+      },
+      {
+        "label": "XVIII-wieczny sprzeciw: ta sama prescriptywistyczna logika co gdzie indziej",
+        "text": "Podobnie jak przy wielu innych 'regułach' szkolnej gramatyki (por. temat modals), sprzeciw wobec singular 'they' pochodzi od XVIII-wiecznych gramatyków (w tym samym kręgu co biskup Robert Lowth), którzy — inspirowani łacińską logiką formalną, gdzie zaimek MUSI zgadzać się liczbą z rzeczownikiem — uznali połączenie 'liczba pojedyncza + they' za 'nielogiczne' i zaczęli promować rodzajowe 'he' jako jedyną 'poprawną' formę uniwersalną. To właśnie ta sztucznie wprowadzona zasada, nie 'they', była historyczną nowością."
+      },
+      {
+        "label": "Kluczowy fakt gramatyczny: czasownik zawsze ma formę mnogą",
+        "text": "Nawet gdy 'they' odnosi się do jednej, konkretnej, znanej osoby (np. osoby niebinarnej, która wybrała ten zaimek), CZASOWNIK przyjmuje formę używaną z liczbą mnogą: 'they ARE', nigdy 'they is'. To nie jest osobna, nowa reguła do wyuczenia się na pamięć — to zwykła kontynuacja tego, jak 'they' zawsze działało gramatycznie, niezależnie od tego, ile realnych osób oznacza."
+      },
+      {
+        "label": "Dokładny precedens: 'you' przeszło identyczną drogę wcześniej",
+        "text": "Angielski ma już w swojej historii dokładnie taki sam przypadek: 'you' było pierwotnie WYŁĄCZNIE zaimkiem liczby mnogiej (i grzecznościowej formy 'per Pan/Pani' w liczbie pojedynczej) — prawdziwym zaimkiem 'ty' było 'thou' ('thou art', 'thou hast'). Gdy w XVII wieku 'thou' wyszło z użycia, 'you' przejęło również funkcję zwracania się do JEDNEJ osoby — ale angielski ZACHOWAŁ przy nim czasownik w formie mnogiej ('you ARE', nigdy 'you is'), mimo że dziś 'you' równie często oznacza jedną osobę, co wiele. Nikt dziś nie uważa 'you are' (do jednej osoby) za 'nielogiczne' — a to dokładnie ten sam mechanizm, który obserwujemy dziś w czasie rzeczywistym przy 'they'."
+      }
+    ],
+    "usage": [
+      "Singular 'they' jest dziś w pełni zaakceptowane przez główne słowniki i style guide'y (Merriam-Webster, Oxford, APA, Chicago Manual of Style) zarówno w znaczeniu ogólnym ('Somebody forgot their keys'), jak i jako świadomie wybrany zaimek osobowy konkretnej osoby.",
+      "Nie myl singular 'they' (odniesienie do jednej osoby) z sytuacją, gdy 'they' faktycznie odnosi się do wielu osób — kontekst zwykle jednoznacznie rozstrzyga, o który przypadek chodzi.",
+      "Formy zwrotne podążają za tą samą logiką mnogości: 'themselves' pozostaje standardem ('Everyone should look after themselves'), choć w niektórych stylach pojawia się nowsze 'themself' dla wyraźnie pojedynczego odniesienia.",
+      "W formalnym, konserwatywnym rejestrze bywa jeszcze zalecane 'he or she' zamiast generic 'they' — to jednak coraz rzadsza, świadomie archaizująca konwencja stylistyczna, nie kwestia poprawności gramatycznej."
+    ],
+    "tags": ["singular they", "epicene pronoun", "thou vs you", "they are, never they is"],
+    "examples": [
+      { "en": "If anyone calls, tell them I'll be back at five.", "pl": "Jeśli ktoś zadzwoni, powiedz im, że wrócę o piątej." },
+      { "en": "Everyone has to bring their own laptop to the workshop.", "pl": "Każdy musi przynieść swój własny laptop na warsztaty." },
+      { "en": "My colleague said they'd send the report by Friday.", "pl": "Mój współpracownik powiedział, że wyśle raport do piątku. (they = jedna, konkretna osoba)" },
+      { "en": "In Shakespeare's time, 'thou' was already fading, and 'you' was taking over — much like 'they' is doing today.", "pl": "Za czasów Szekspira 'thou' już zanikało, a 'you' przejmowało jego rolę — podobnie jak dziś dzieje się z 'they'." }
+    ]
+  },
+  {
+    "id": "titles_names_quotations",
+    "order": 9,
+    "nameEn": "Measles, physics, The Netherlands — when a final -s is not a plural at all",
+    "namePl": "Measles, physics, The Netherlands — gdy końcowe -s wcale nie jest liczbą mnogą",
+    "rules": [
+      {
+        "label": "Fałszywy trop: nie każde -s na końcu to plural marker",
+        "text": "Cały ten temat opiera się na założeniu, że da się rozpoznać liczbę mnogą po końcówce -s. Tymczasem istnieje spora grupa słów, gdzie -s jest częścią historycznego RDZENIA wyrazu, a nie fleksyjną końcówką liczby mnogiej — i te słowa systemowo mylą uczących się, bo WYGLĄDAJĄ jak liczba mnoga, a gramatycznie zachowują się jak liczba pojedyncza."
+      },
+      {
+        "label": "Nazwy chorób: measles, mumps, rickets",
+        "text": "'Measles' (odra) nie pochodzi od żadnego pojedynczego 'measle' + liczba mnoga — to zniekształcona forma średnioangielskiego 'maseles'/'mesels', gdzie -s od początku było częścią rdzenia nazwy choroby, nie końcówką fleksyjną. Skoro nazwa opisuje JEDNĄ, spójną jednostkę chorobową, czasownik jest w liczbie pojedynczej: 'Measles IS a highly contagious disease' — mimo pozornie mnogiej końcówki."
+      },
+      {
+        "label": "Nazwy dziedzin nauki: physics, economics, politics",
+        "text": "Nazwy dyscyplin akademickich na -ics (physics, mathematics, economics, linguistics, politics) wywodzą się z greckiego przymiotnika rodzaju nijakiego w liczbie mnogiej (np. 'ta physika' — dosłownie 'rzeczy dotyczące natury'), zapożyczonego do łaciny, a stamtąd do angielskiego jako gotowa, ZLEKSYKALIZOWANA nazwa całej dziedziny wiedzy — jednej, spójnej całości, a nie zbioru osobnych 'fizyk'. Dlatego 'Physics IS my favourite subject', mimo formy przypominającej liczbę mnogą. Uwaga: to samo słowo 'politics' bywa też używane w innym, policzalnym sensie ('jego POGLĄDY polityczne są kontrowersyjne' → 'His politics ARE controversial') — tu wraca liczba mnoga, bo mówimy już nie o dziedzinie wiedzy, lecz o zbiorze osobnych przekonań."
+      },
+      {
+        "label": "Nazwy gier i nazwy własne: billiards, darts, The Netherlands, The Philippines",
+        "text": "Ta sama logika notional concord obejmuje nazwy gier ('Billiards IS played with a cue and balls' — jedna gra, jedna dyscyplina) oraz nazwy geograficzne zakończone na -s ('The Netherlands IS a small, densely populated country'; 'The United States IS a federal republic') — mimo pozoru liczby mnogiej, nazwa państwa odnosi się do JEDNEGO, spójnego bytu politycznego, więc bierze liczbę pojedynczą. Tytuły dzieł (książek, filmów) podlegają identycznej zasadzie, nawet jeśli same w sobie zawierają rzeczownik w liczbie mnogiej: 'Jaws IS one of the most influential films ever made' — bo tytuł jako CAŁOŚĆ nazywa jedno dzieło, a nie wiele szczęk."
+      }
+    ],
+    "usage": [
+      "Zasada uniwersalna: gdy słowo z pozoru mnogie w rzeczywistości nazywa JEDNĄ dziedzinę, chorobę, grę, państwo lub dzieło jako spójną całość, bierz liczbę pojedynczą — to notional concord działające na poziomie leksykalnym, nie zdaniowym.",
+      "'The United States' w znaczeniu politycznym (jedno państwo) bierze liczbę pojedynczą, ale historycznie, przed wojną secesyjną, częściej traktowano ją jako liczbę mnogą ('the United States ARE') — sama zmiana gramatycznej zgodności tej nazwy odzwierciedlała proces stawania się jednym, scentralizowanym państwem zamiast luźnego związku stanów.",
+      "Cytaty i pojedyncze słowa przywołane jako przedmiot rozważania też są notionally pojedyncze, nawet jeśli same w sobie są liczbą mnogą: '\"Children\" IS the plural of \"child\".'",
+      "Nie myl tego zjawiska z prawdziwymi rzeczownikami niepoliczalnymi typu 'news' (z francuskiego spluralizowanego przymiotnika 'les nouvelles' — 'nowe rzeczy' — dziś w pełni zleksykalizowanego jako angielski rzeczownik niepoliczalny: 'The news IS bad today')."
+    ],
+    "tags": ["measles is", "physics is", "The Netherlands is", "notional singular names"],
+    "examples": [
+      { "en": "Mathematics has never been my strongest subject.", "pl": "Matematyka nigdy nie była moją mocną stroną." },
+      { "en": "The Philippines consists of more than seven thousand islands.", "pl": "Filipiny składają się z ponad siedmiu tysięcy wysp." },
+      { "en": "Darts is surprisingly popular in British pubs.", "pl": "Rzutki są zaskakująco popularne w brytyjskich pubach." },
+      { "en": "\"Great Expectations\" is often considered Dickens's most accomplished novel.", "pl": "\"Wielkie nadzieje\" są często uznawane za najdoskonalszą powieść Dickensa." }
     ]
   }
 ]
