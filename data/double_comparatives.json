@@ -2,126 +2,191 @@
   {
     "id": "basic_pattern",
     "order": 1,
-    "nameEn": "The + comparative, the + comparative — basic pattern",
-    "namePl": "The + comparative, the + comparative — wzorzec podstawowy",
+    "nameEn": "The + comparative, the + comparative — a fossil hiding in plain sight",
+    "namePl": "The + comparative, the + comparative — skamielina ukryta w biały dzień",
     "rules": [
       {
-        "label": "budowa",
-        "text": "Powtarzamy 'the' przed każdym przymiotnikiem/przysłówkiem w stopniu wyższym: The + comparative + zdanie, the + comparative + zdanie."
+        "label": "Ten 'the' to nie przedimek — to inne słowo w przebraniu",
+        "text": "Największa pułapka tej konstrukcji nie leży w gramatyce, tylko w pisowni: 'the' otwierające każdą z dwóch części ('The bigger the house...') WYGLĄDA jak dobrze znany przedimek określony, ale historycznie jest to zupełnie inne słowo, które przez przypadek doczekało się identycznej formy. W staroangielskim zaimek wskazujący 'se/sēo/þæt' (przodek dzisiejszego 'the' i 'that') odmieniał się przez przypadki — a jedną z form był przypadek narzędnika (instrumentalis) rodzaju nijakiego: 'þȳ' (czasem zapisywane 'þē'), znaczący dosłownie 'przez to, o tę (miarę)'. Konstrukcja proporcjonalna brzmiała po staroangielsku 'þȳ māra, þȳ betera' — dosłownie 'o tyle większy, o tyle lepszy' — gdzie 'þȳ' przy KAŻDYM przymiotniku osobno mierzyło, o jaką jednostkę przesuwa się jego stopień. Kiedy angielski w średniowieczu utracił system przypadków, narzędnik 'þȳ' zlał się fonetycznie z przedimkiem/zaimkiem 'the' i zniknął z języka jako odrębna forma — ale PRZETRWAŁ dokładnie w tej jednej skamieniałej konstrukcji, zamaskowany pod postacią przedimka, którym nigdy nie był."
       },
       {
-        "label": "krótkie przymiotniki",
-        "text": "Krótkie przymiotniki i przysłówki tworzą stopień wyższy przez końcówkę -er: the bigger, the faster, the sooner."
+        "label": "Dlaczego to wyjaśnia budowę zdania lepiej niż każda 'reguła'",
+        "text": "Skoro 'the' w tej konstrukcji to w istocie 'o tyle / o tę miarę', to zdanie 'The more you practise, the better you get' czyta się dosłownie jako 'O TĘ miarę więcej ćwiczysz, O TĘ (SAMĄ) miarę lepszy się stajesz' — czyli sprzężenie dwóch zmiennych rosnących równolegle, jak dwie osie wykresu połączone linią proporcjonalności. To nie jest metafora naciągnięta na regułkę — to jest DOSŁOWNY, pierwotny sens tej struktury, sprzed tysiąca lat, i dlatego angielski wymaga POWTÓRZENIA 'the' przed każdym przymiotnikiem z osobna: to nie jeden przedimek 'rozciągnięty' na dwie części zdania, tylko dwa osobne narzędniki-mierniki, po jednym na każdą zmienną."
       },
       {
-        "label": "znaczenie",
-        "text": "Struktura pokazuje zależność proporcjonalną między dwoma rzeczami — 'im..., tym...'"
+        "label": "Krótkie przymiotniki: końcówka -er, nie 'more'",
+        "text": "Przymiotniki i przysłówki jedno- i część dwusylabowych (regularne stopniowanie syntetyczne) tworzą tu stopień wyższy przez końcówkę -er, dokładnie jak w zwykłym porównaniu: the bigger, the faster, the sooner. To sam mechanizm germańskiego sufiksu -er/-ra sprzed tysięcy lat (patrz temat 'Stopniowanie'), tylko użyty w podwójnej, korelatywnej ramie zamiast pojedynczego porównania z 'than'."
+      },
+      {
+        "label": "Dwie niezależne klauzule, nie jedno zdanie z podmiotem wspólnym",
+        "text": "Mimo skróconej, formułkowej powierzchowności, każda z dwóch części ma WŁASNY podmiot i orzeczenie — to formalnie dwa zdania współrzędne, tylko bez spójnika łączącego je otwarcie (asyndeton), bo funkcję łącznika przejęło samo powtórzenie 'the'. 'The more you earn, the more you spend' to skrócona wersja czegoś w rodzaju '[o tyle] więcej zarabiasz, [o tyle] więcej wydajesz' — dwa fakty, sprzężone proporcją, bez 'and', 'so' czy 'if'."
       }
     ],
     "usage": [
-      "Opisywanie zależności proporcjonalnej między dwoma zdarzeniami lub cechami",
-      "Obie części zdania mają swój własny podmiot i orzeczenie",
-      "Kolejność części jest stała — warunek/przyczyna na pierwszym miejscu, skutek na drugim"
+      "Opisywanie zależności proporcjonalnej między dwiema zmiennymi, które rosną (lub maleją) razem.",
+      "Kolejność części jest stała: przyczyna/warunek na pierwszym miejscu, skutek na drugim — nie da się jej odwrócić bez zmiany sensu logicznego.",
+      "Przecinek między częściami jest standardem w piśmie, ale w krótkich, potocznych zwrotach bywa pomijany.",
+      "Test na zrozumienie budowy: podstaw w myślach 'o tyle' zamiast 'the' — jeśli zdanie nadal ma sens, budowa jest poprawna."
     ],
-    "tags": ["the bigger, the better", "the sooner, the better", "the more...the more"],
+    "tags": ["the bigger, the better", "the sooner, the better", "the more...the more", "instrumentalis þȳ"],
     "examples": [
-      { "en": "The bigger the house, the more expensive it is.", "pl": "Im większy dom, tym jest droższy." },
-      { "en": "The sooner we leave, the sooner we'll arrive.", "pl": "Im szybciej wyjedziemy, tym szybciej dotrzemy." },
-      { "en": "The harder you work, the more you earn.", "pl": "Im ciężej pracujesz, tym więcej zarabiasz." },
-      { "en": "The older I get, the wiser I become.", "pl": "Im jestem starszy, tym mądrzejszy się staję." }
+      { "en": "The bigger the house, the more expensive it is to heat.", "pl": "Im większy dom, tym droższe jest jego ogrzewanie." },
+      { "en": "The sooner we leave, the sooner we'll arrive — there's no point delaying.", "pl": "Im szybciej wyjedziemy, tym szybciej dotrzemy — nie ma sensu zwlekać." },
+      { "en": "The harder the training, the more resilient the team becomes.", "pl": "Im cięższy trening, tym drużyna staje się bardziej odporna." },
+      { "en": "The older I get, the less patience I have for pointless meetings.", "pl": "Im jestem starszy, tym mniej mam cierpliwości do bezsensownych spotkań." }
     ]
   },
   {
     "id": "with_more_less_nouns",
     "order": 2,
-    "nameEn": "the more/less + noun — double comparatives with nouns",
-    "namePl": "the more/less + rzeczownik — podwójne porównania z rzeczownikami",
+    "nameEn": "the more/less/fewer + noun — when the variable is a quantity, not a quality",
+    "namePl": "the more/less/fewer + rzeczownik — kiedy zmienną jest ilość, a nie cecha",
     "rules": [
       {
-        "label": "more/less + rzeczownik",
-        "text": "Gdy porównujemy ilość, używamy 'the more' lub 'the less' zamiast końcówki -er: the more money, the less time."
+        "label": "Dlaczego 'more' zastępuje '-er' tutaj — logika supletywizmu",
+        "text": "Gdy proporcjonalnie rosnąca zmienna to nie CECHA (jak 'big', 'fast'), tylko ILOŚĆ rzeczownika, angielski nie ma żadnej końcówki '-er', którą mógłby doczepić do rzeczownika — bo rzeczowniki się nie stopniują. W tym miejscu do gry wchodzi 'more', czyli historycznie ten sam supletywny stopień wyższy, który zastępuje regularną końcówkę przy 'much/many' (patrz temat 'Stopniowanie' — 'more' pochodzi ze staroangielskiego 'māra', niezwiązanego etymologicznie z 'much'). W konstrukcji proporcjonalnej 'more' pełni więc DOKŁADNIE tę samą funkcję gramatyczną co '-er' w 'bigger' — jest to wciąż stopień wyższy, tylko innej, supletywnej rodziny słów."
       },
       {
-        "label": "rzeczowniki policzalne w liczbie mnogiej",
-        "text": "Z rzeczownikami policzalnymi w liczbie mnogiej formalnie używa się 'the fewer': the fewer mistakes, the more confident you become."
+        "label": "the fewer vs the less: policzalne kontra niepoliczalne, ten sam podział co wszędzie indziej",
+        "text": "'Fewer' (od staroangielskiego 'fēawa' — 'niewielu, mało') łączy się z rzeczownikami POLICZALNYMI w liczbie mnogiej: the fewer mistakes, the fewer complaints. 'Less' (od 'lǣssa', pierwotnie stopień wyższy przymiotnika 'lītel' — 'mały') łączy się z rzeczownikami NIEPOLICZALNYMI: the less time, the less money. To nie jest osobna reguła wymyślona dla tej konstrukcji — to dokładnie ten sam podział policzalne/niepoliczalne, który rządzi całym systemem kwantyfikatorów w angielskim (patrz temat 'Kwantyfikatory'), tylko przeniesiony w kontekst proporcjonalny."
       },
       {
-        "label": "fewer vs less",
-        "text": "Formalnie 'fewer' łączy się z rzeczownikami policzalnymi, 'less' z niepoliczalnymi — w mowie potocznej 'less' bywa używane z obiema kategoriami."
+        "label": "'less' z policzalnymi w mowie potocznej — żywa, kontrowersyjna zmiana językowa",
+        "text": "W mowie codziennej (i coraz częściej w piśmie nieformalnym) 'less' wypiera 'fewer' nawet przy rzeczownikach policzalnych: 'the less mistakes you make' zamiast formalnie poprawnego 'the fewer mistakes'. To nie błąd bez historii — to ten sam proces analogii, który od wieków upraszcza wyjątki językowe, i który purystyczni gramatycy XVIII-wieczni próbowali (nieskutecznie) zatrzymać, kodyfikując rozróżnienie fewer/less jako 'zasadę'. W rejestrze formalnym i pisanym rozróżnienie wciąż obowiązuje; w mowie swobodnej bywa ignorowane — świadome trzymanie się 'fewer' z policzalnymi jest dziś właściwie markerem stylu starannego/formalnego, a nie neutralną normą."
+      },
+      {
+        "label": "'more' rzeczownikowe kontra 'more' przymiotnikowe — ta sama forma, dwie różne role",
+        "text": "Warto zauważyć, że samo 'more' w tej konstrukcji potrafi pełnić DWIE różne funkcje naraz w jednym zdaniu: 'The more friends you have, the happier you feel' — pierwsze 'more' jest determinatorem ilościowym przy rzeczowniku 'friends' (ile? — więcej), a bez rzeczownika obok, jak w 'the more, the merrier', to samo 'more' staje się samodzielnym zaimkiem rzeczownikowym ('więcej [tego, o czym mowa]'). Angielski nie rozróżnia tych ról żadną odrębną formą — kontekst i obecność (lub brak) rzeczownika obok robią całą robotę."
       }
     ],
     "usage": [
-      "Gdy porównywana wielkość to ilość czegoś (rzeczownik), a nie cecha wyrażona przymiotnikiem",
-      "Podkreślanie zależności między ilością jednej rzeczy a poziomem drugiej"
+      "the more/less + rzeczownik niepoliczalny: The more sugar you add, the less healthy the recipe becomes.",
+      "the fewer + rzeczownik policzalny (rejestr staranny): The fewer exceptions a rule has, the easier it is to teach.",
+      "less zamiast fewer z policzalnymi (potocznie, akceptowane, ale nieformalne): The less rules we have, the more relaxed the office feels.",
+      "more jako samodzielny zaimek ilości bez rzeczownika: The more you know, the more you realise how little you know."
     ],
-    "tags": ["the more money", "the less time", "the fewer mistakes"],
+    "tags": ["the more money", "the less time", "the fewer mistakes", "fewer vs less"],
     "examples": [
-      { "en": "The more money he earns, the more he spends.", "pl": "Im więcej pieniędzy zarabia, tym więcej wydaje." },
-      { "en": "The less sleep you get, the less productive you are.", "pl": "Im mniej śpisz, tym jesteś mniej produktywny." },
-      { "en": "The more friends you have, the happier you feel.", "pl": "Im więcej masz przyjaciół, tym czujesz się szczęśliwszy." },
-      { "en": "The fewer distractions there are, the better you can focus.", "pl": "Im mniej rozpraszaczy, tym lepiej możesz się skupić." }
+      { "en": "The more responsibility he's given, the more he seems to thrive on it.", "pl": "Im więcej odpowiedzialności mu się powierza, tym bardziej mu to służy." },
+      { "en": "The less sleep you get before an exam, the harder it is to concentrate.", "pl": "Im mniej śpisz przed egzaminem, tym trudniej się skupić." },
+      { "en": "The fewer variables a study controls for, the less reliable its conclusions are.", "pl": "Im mniej zmiennych kontroluje badanie, tym mniej wiarygodne są jego wnioski." },
+      { "en": "The more questions the candidate dodged, the more suspicious the journalists became.", "pl": "Im więcej pytań kandydat unikał, tym bardziej podejrzliwi stawali się dziennikarze." }
     ]
   },
   {
     "id": "long_adjectives",
     "order": 3,
-    "nameEn": "the more + adjective — double comparatives with long adjectives",
-    "namePl": "the more + przymiotnik — podwójne porównania z długimi przymiotnikami",
+    "nameEn": "the more + long adjective — and what happens when forms get mixed",
+    "namePl": "the more + długi przymiotnik — i co się dzieje, gdy formy się mieszają",
     "rules": [
       {
-        "label": "długie przymiotniki",
-        "text": "Przymiotniki dwu- i więcej-sylabowe tworzą stopień wyższy przez 'more', nie przez końcówkę: the more comfortable, the more difficult."
+        "label": "Wielosylabowe przymiotniki: 'more' zamiast końcówki, ten sam podział co w zwykłym stopniowaniu",
+        "text": "Przymiotniki i przysłówki dwu- i więcejsylabowe (poza kilkoma wyjątkami typu 'happy' → 'happier') tworzą stopień wyższy analitycznie, przez 'more', a nie przez końcówkę: the more difficult, the more comfortable, the more expensive. To ten sam podział na stopniowanie syntetyczne (-er) i analityczne (more), który normalnie rządzi porównaniami z 'than' — konstrukcja proporcjonalna nie wprowadza tu żadnej nowej zasady, tylko nakłada istniejący podział na nowy szablon zdaniowy."
       },
       {
-        "label": "mieszanie form",
-        "text": "W jednym zdaniu można łączyć krótką i długą formę: The more expensive the hotel, the better the service."
+        "label": "Mieszanie krótkiej i długiej formy w jednym zdaniu — zupełnie normalne",
+        "text": "Ponieważ obie części zdania są niezależnymi klauzulami z własnymi przymiotnikami, nic nie stoi na przeszkodzie, by jedna strona użyła końcówki -er, a druga 'more': 'The more expensive the hotel, the better the service' (długi + krótki), albo odwrotnie: 'The harder the climb, the more spectacular the view'. Wybór formy w KAŻDEJ z dwóch części zależy wyłącznie od długości/sylabiczności JEJ WŁASNEGO przymiotnika, nie od formy użytej w drugiej połowie zdania — to potwierdza, że mamy tu do czynienia z dwoma osobnymi 'miernikami proporcji', nie jednym powielonym wzorem."
       },
       {
-        "label": "szyk",
-        "text": "'more' zostaje bezpośrednio przed przymiotnikiem, a cała fraza 'the more + adjective' otwiera klauzulę."
+        "label": "Szyk: 'more' zawsze bezpośrednio przy przymiotniku, a 'the' otwiera całą frazę",
+        "text": "Kolejność jest sztywna: the + more + przymiotnik (+ ewentualny rzeczownik). Nie da się wstawić niczego między 'more' a przymiotnikiem, który wzmacnia ('the more genuinely difficult' jest już dodatkiem przysłówkowym, nie zaburzeniem podstawowego szyku) — 'the' zawsze zaczyna frazę jako sygnał 'tu zaraz podam miarę', a 'more + przymiotnik' od razu po nim dostarcza tej miary."
+      },
+      {
+        "label": "'the more + przymiotnik + rzeczownik': determinator, nie przysłówek",
+        "text": "Kiedy fraza obejmuje też rzeczownik ('the more difficult the exam'), 'the more' funkcjonuje jako fraza determinatorowo-przymiotnikowa modyfikująca ten rzeczownik razem — podobnie jak 'such a difficult exam' modyfikuje 'exam' jako całość, a nie jak osobny przysłówek doczepiony gdzieś z boku. Stąd naturalny szyk 'the more difficult the exam' (przymiotnik trzyma się mocno przy 'more', rzeczownik idzie na końcu), a nie 'the exam more difficult'."
       }
     ],
     "usage": [
-      "Gdy porównywana cecha jest wyrażona przymiotnikiem wielosylabowym",
-      "Częste w opisach jakości, trudności i komfortu"
+      "the more + przym. wielosylabowy: The more complicated the instructions, the more likely people are to ignore them.",
+      "mieszanie krótkiej i długiej formy w dwóch połówkach zdania: The tougher the opponent, the more disciplined our defence needs to be.",
+      "the more + przym. + rzeczownik jako jedna fraza: The more ambitious the project, the more resources it demands.",
+      "przysłówek wielosylabowy działa identycznie jak przymiotnik: The more carefully you plan, the more smoothly things go."
     ],
-    "tags": ["the more difficult", "the more comfortable", "the more expensive"],
+    "tags": ["the more difficult", "the more comfortable", "the more expensive", "mixed forms"],
     "examples": [
-      { "en": "The more difficult the exam, the more nervous students feel.", "pl": "Im trudniejszy egzamin, tym bardziej zdenerwowani czują się uczniowie." },
-      { "en": "The more expensive the hotel, the better the service.", "pl": "Im droższy hotel, tym lepsza obsługa." },
-      { "en": "The more complicated the plan, the more likely it is to fail.", "pl": "Im bardziej skomplikowany plan, tym bardziej prawdopodobne, że zawiedzie." },
-      { "en": "The more comfortable the shoes, the longer you can walk.", "pl": "Im wygodniejsze buty, tym dłużej możesz chodzić." }
+      { "en": "The more demanding the client, the more detailed the contract needs to be.", "pl": "Im bardziej wymagający klient, tym bardziej szczegółowa musi być umowa." },
+      { "en": "The tougher the opponent, the sharper our tactics have to be.", "pl": "Im trudniejszy przeciwnik, tym bardziej wyostrzona musi być nasza taktyka." },
+      { "en": "The more polluted the river became, the fewer fish species survived in it.", "pl": "Im bardziej zanieczyszczona stawała się rzeka, tym mniej gatunków ryb w niej przetrwało." },
+      { "en": "The more thoroughly you rehearse, the calmer you'll feel on stage.", "pl": "Im dokładniej przećwiczysz, tym spokojniejszy będziesz na scenie." }
     ]
   },
   {
     "id": "fixed_expressions",
     "order": 4,
-    "nameEn": "the more the merrier — fixed short expressions",
-    "namePl": "the more the merrier — utrwalone krótkie wyrażenia",
+    "nameEn": "The more the merrier — when the whole clause disappears",
+    "namePl": "The more the merrier — kiedy całe zdanie znika",
     "rules": [
       {
-        "label": "forma eliptyczna",
-        "text": "W krótkich, utrwalonych zwrotach pomija się podmiot i czasownik: The more, the merrier. / The sooner, the better."
+        "label": "Elipsa jako naturalny finał, nie skrót dla leniwych",
+        "text": "'The more, the merrier' czy 'The sooner, the better' to nie 'uproszczone' albo 'ułomne' wersje pełnych zdań — to najbardziej ZAAWANSOWANY, ekonomiczny etap tej samej konstrukcji proporcjonalnej, w którym podmiot i czasownik zostały wycięte, bo są oczywiste z kontekstu rozmowy. Gdy ktoś pyta 'Ile osób mogę przyprowadzić?', odpowiedź 'The more, the merrier' odtwarza w pełni domyślne 'The more people you bring, the merrier the party will be' — elipsa nie gubi znaczenia, bo rozmówca sam odtwarza brakujące elementy z pytania. To ten sam mechanizm ekonomii językowej, który rządzi krótkimi odpowiedziami w ogóle (patrz temat 'Elipsa i substytucja')."
       },
       {
-        "label": "znaczenie idiomatyczne",
-        "text": "'The more the merrier' oznacza, że im więcej osób/uczestników, tym lepsza zabawa i atmosfera."
+        "label": "'Merry' — słowo, które przetrwało głównie w tym jednym zwrocie",
+        "text": "'Merrier' pochodzi od staroangielskiego 'myrge' — 'przyjemny, radosny', spokrewnionego z czasownikiem oznaczającym 'trwać krótko, mijać szybko i przyjemnie' (ten sam rdzeń stoi za dawnym znaczeniem 'krótki, szybko mijający czas' w wyrażeniach typu 'merry England' — 'przyjemna, dostatnia Anglia', nie dosłownie 'wesoła'). We współczesnym języku 'merry' przetrwało głównie w skostniałych frazach ('Merry Christmas', 'the more the merrier'), będąc rzadziej używane jako zwykły przymiotnik opisowy niż jego bliski krewny 'happy' — to dobry przykład słowa, które NIE zniknęło z języka, tylko skurczyło swój zasięg do garstki zamrożonych idiomów."
       },
       {
-        "label": "użycie potoczne",
-        "text": "Te zwroty są bardzo częste w mowie potocznej jako samodzielne, krótkie komentarze lub odpowiedzi."
+        "label": "Rodzina zwrotów: ten sam szablon, wymienny drugi człon",
+        "text": "'The more the merrier' to tylko najsłynniejszy przedstawiciel całej rodziny eliptycznych zwrotów zbudowanych na identycznym szablonie [the + comparative], [the + comparative]: 'The sooner the better', 'The bigger the better', 'The cheaper the better'. Wspólny mianownik: pierwszy człon zostaje zmienny i dopasowany do sytuacji, a drugi człon niemal zawsze pada na neutralne, uniwersalne 'the better' — bo 'better' jako ogólna ocena pasuje do niemal każdego kontekstu, podczas gdy 'merrier' ograniczone jest wyłącznie do sytuacji towarzysko-imprezowych (więcej ludzi = więcej zabawy)."
+      },
+      {
+        "label": "'So much the better/worse': ten sam korzeń þȳ, inna gałąź rozwoju",
+        "text": "Blisko spokrewniona, choć rzadziej dziś spotykana konstrukcja to 'so much the better' / 'so much the worse' — reaktywny komentarz do już podanej informacji, a nie zapowiedź proporcji: 'If he can't come, so much the better — we'll have more room' ('tym lepiej'). 'The' w 'so much the better' to dokładnie ten sam skamieniały narzędnik co w podstawowej konstrukcji proporcjonalnej — tylko użyty tu do jednego, pojedynczego stopnia wyższego, komentującego zdanie poprzednie, zamiast do sprzęgania dwóch zmiennych naraz."
       }
     ],
     "usage": [
-      "Nieformalne, utrwalone wyrażenia funkcjonujące jako gotowe zwroty",
-      "Odpowiedź lub komentarz w rozmowie, bez potrzeby budowania pełnego zdania"
+      "Krótka, eliptyczna odpowiedź w rozmowie, gdy kontekst pytania czyni pełne zdanie zbędnym: Can I bring my dog? — Sure, the more the merrier!",
+      "the + comparative + the better jako uniwersalna, neutralna reakcja: How much detail do you want? — The more the better.",
+      "so much the better/worse jako reaktywny komentarz do wcześniej podanej informacji, nie jako zapowiedź proporcji.",
+      "Te zwroty są typowe dla mowy potocznej i dialogu — w rejestrze formalnym/pisanym oczekuje się pełnej struktury z podmiotem i czasownikiem."
     ],
-    "tags": ["the more the merrier", "the sooner the better", "the bigger the better"],
+    "tags": ["the more the merrier", "the sooner the better", "so much the better", "elipsa"],
     "examples": [
-      { "en": "Can I bring my friends too? — Sure, the more the merrier!", "pl": "Czy mogę też przyprowadzić przyjaciół? — Jasne, im więcej, tym weselej!" },
-      { "en": "When should we start? — The sooner the better.", "pl": "Kiedy powinniśmy zacząć? — Im szybciej, tym lepiej." },
-      { "en": "Do you want a small or a big slice? — The bigger the better!", "pl": "Chcesz mały czy duży kawałek? — Im większy, tym lepiej!" },
-      { "en": "How many volunteers do we need? — As many as possible, the more the merrier.", "pl": "Ilu potrzebujemy ochotników? — Jak najwięcej, im więcej, tym weselej." }
+      { "en": "Can I bring my flatmates too? — Sure, the more the merrier!", "pl": "Czy mogę przyprowadzić też współlokatorów? — Jasne, im więcej, tym weselej!" },
+      { "en": "How many samples should I send? — As many as you can, the more the better.", "pl": "Ile próbek mam wysłać? — Ile tylko możesz, im więcej, tym lepiej." },
+      { "en": "If the flight gets cancelled, so much the better — I wasn't looking forward to it anyway.", "pl": "Jeśli lot zostanie odwołany, tym lepiej — i tak się na niego nie paliłem." },
+      { "en": "We're short-staffed today, so if you can stay late, so much the better.", "pl": "Mamy dziś braki kadrowe, więc jeśli możesz zostać dłużej, tym lepiej." }
+    ]
+  },
+  {
+    "id": "nuance_and_limits",
+    "order": 5,
+    "nameEn": "C1/C2 fine print: parallelism, punctuation, and why you can't stack three",
+    "namePl": "Niuanse C1/C2: paralelizm, interpunkcja i dlaczego nie da się dodać trzeciej części",
+    "rules": [
+      {
+        "label": "Zamknięty, dwuczłonowy szablon — dlaczego nie ma 'the X, the Y, the Z'",
+        "text": "Choć logicznie można sobie wyobrazić proporcję trzech zmiennych naraz ('im więcej ćwiczysz, tym lepiej grasz, tym pewniej się czujesz'), gramatyka angielska NIE pozwala rozciągnąć tej konstrukcji na trzy (albo więcej) powiązane klauzule z 'the'. Struktura jest zamknięta na dokładnie dwóch członach, ponieważ wywodzi się z pary narzędników 'þȳ...þȳ' oznaczających relację MIĘDZY DWOMA punktami odniesienia, a nie z ogólnego mechanizmu wyliczeniowego. Trzecią zależną ideę trzeba dodać innym środkiem: osobnym zdaniem współrzędnym ('...and as a result you'll feel more confident too') albo przez 'which in turn' — sama konstrukcja 'the...the' nie ma gramatycznego miejsca na trzeci slot."
+      },
+      {
+        "label": "Zgodność form (parallelism) między dwiema połówkami",
+        "text": "Choć formy comparative w obu połówkach mogą się różnić długością (krótka kontra długa, patrz karta 'long_adjectives'), obie połówki muszą zachować ten sam TYP struktury składniowej — obie zaczynają się od 'the + comparative', po którym idzie reszta zdania w normalnym szyku. Nienaturalne i błędne byłoby złamanie tego wzorca w jednej z połówek (np. przestawienie szyku wewnątrz jednej klauzuli inaczej niż w drugiej) — paralelizm między obiema stronami proporcji jest tym, co w ogóle pozwala odbiorcy rozpoznać, że ma do czynienia z jedną spójną konstrukcją, a nie z dwoma niezależnymi zdaniami postawionymi przypadkiem obok siebie."
+      },
+      {
+        "label": "Interpunkcja: przecinek jako sygnał granicy, nie ozdobnik",
+        "text": "W standardowym piśmie przecinek między dwiema połówkami jest oczekiwany i pełni funkcję czysto składniową: oznacza koniec pierwszej klauzuli proporcjonalnej i początek drugiej, tam gdzie w mowie ta granica jest sygnalizowana wzrostem, a potem opadnięciem intonacji. W bardzo krótkich, formułkowych zwrotach ('the more the merrier') przecinek bywa pomijany w piśmie nieformalnym właśnie dlatego, że zwrot jest na tyle skostniały i rozpoznawalny, że nie potrzebuje już wizualnego sygnału granicy — czytelnik przetwarza go jako jedną gotową jednostkę, a nie dwa osobne zdania."
+      },
+      {
+        "label": "Negatywny wariant: 'the less...the more' i odwrócenie kierunku proporcji",
+        "text": "Konstrukcja radzi sobie równie naturalnie z proporcją ODWROTNĄ (jedna zmienna rośnie, druga maleje) — wystarczy w jednej połówce użyć 'less' zamiast 'more': 'The less you worry about it, the better you'll perform' (mniej zmartwień = lepszy wynik). To nie jest wyjątek wymagający osobnej reguły, tylko dowód, że mechanizm 'the' jako narzędnika-miernika jest neutralny względem KIERUNKU zmiany — mierzy każdą proporcjonalną zależność, rosnącą czy malejącą, w dowolnej kombinacji dwóch kierunków po obu stronach."
+      },
+      {
+        "label": "'The more so because...': proporcjonalne 'the' oderwane od pary",
+        "text": "W rejestrze bardziej formalnym/pisanym spotyka się 'the more so' jako samodzielne wzmocnienie wcześniej wypowiedzianej myśli, z uzasadnieniem po 'because'/'as'/'since': 'His resignation was shocking, the more so because he'd denied any such plans just a week earlier' ('tym bardziej, że...'). To kolejna, bardziej literacka gałąź tego samego narzędnika 'the' — pojedyncza, nie sparowana, przyłączona do zdania jako retoryczne wzmocnienie kontrastu, typowe dla stylu eseistycznego i dziennikarskiego wyższego rejestru."
+      }
+    ],
+    "usage": [
+      "Ograniczenie do dwóch członów: dodatkowe konsekwencje wyrażaj osobnym zdaniem, nie trzecim 'the'.",
+      "Zachowuj równoległą budowę obu połówek (the + comparative + reszta zdania w normalnym szyku).",
+      "Przecinek między częściami w piśmie formalnym; w krótkich, utrwalonych zwrotach bywa pomijany.",
+      "the less...the more (i odwrotnie) do wyrażania proporcji odwrotnej — jedna zmienna maleje, druga rośnie.",
+      "the more so (because/as/since) — formalne, pojedyncze (niesparowane) wzmocnienie retoryczne w rejestrze pisanym."
+    ],
+    "tags": ["parallelism", "the less...the more", "the more so", "interpunkcja", "C1/C2"],
+    "examples": [
+      { "en": "The less you interfere, the more naturally the team will start solving problems on its own.", "pl": "Im mniej się wtrącasz, tym bardziej naturalnie zespół zacznie sam rozwiązywać problemy." },
+      { "en": "Her apology felt hollow, the more so because it came only after the story had already broken.", "pl": "Jej przeprosiny brzmiały pusto, tym bardziej że pojawiły się dopiero po ujawnieniu sprawy." },
+      { "en": "The fewer assumptions the model makes, the more robust — but also the less accurate — its predictions tend to be.", "pl": "Im mniej założeń przyjmuje model, tym bardziej odporne — ale też mniej dokładne — bywają jego prognozy." },
+      { "en": "The plan wasn't just risky; it was reckless, and all the more so given how little time they'd had to prepare.", "pl": "Plan nie był tylko ryzykowny — był lekkomyślny, tym bardziej biorąc pod uwagę, jak mało czasu mieli na przygotowania." }
     ]
   }
 ]

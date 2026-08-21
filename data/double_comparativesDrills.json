@@ -41,5 +41,14 @@
   { "id": 37, "itemId": "fixed_expressions", "prompt": "How much should I save? — The more the ___.", "answer": "better", "distractors": ["merrier", "best", "biggest"] },
   { "id": 38, "itemId": "fixed_expressions", "prompt": "Who's coming to the party? — Everyone's welcome, the more the ___!", "answer": "merrier", "distractors": ["happier", "better", "nicer"] },
   { "id": 39, "itemId": "fixed_expressions", "prompt": "Should we leave now or later? — The sooner the ___, honestly.", "answer": "better", "distractors": ["best", "sooner", "merrier"] },
-  { "id": 40, "itemId": "fixed_expressions", "prompt": "Is a bigger portion better? — Definitely, the bigger the ___!", "answer": "better", "distractors": ["best", "biggest", "merrier"] }
+  { "id": 40, "itemId": "fixed_expressions", "prompt": "Is a bigger portion better? — Definitely, the bigger the ___!", "answer": "better", "distractors": ["best", "biggest", "merrier"] },
+
+  { "id": 41, "itemId": "nuance_and_limits", "prompt": "The ___ you interfere, the more naturally the team solves problems on its own.", "answer": "less", "distractors": ["fewer", "least", "little"] },
+  { "id": 42, "itemId": "nuance_and_limits", "prompt": "Her apology felt hollow, the more ___ because it came only after the story broke.", "answer": "so", "distractors": ["much", "better", "worse"] },
+  { "id": 43, "itemId": "nuance_and_limits", "prompt": "The fewer assumptions the model makes, the ___ robust its predictions tend to be.", "answer": "more", "distractors": ["most", "much", "many"] },
+  { "id": 44, "itemId": "nuance_and_limits", "prompt": "If the meeting gets cancelled, so much the ___ — I had nothing prepared anyway.", "answer": "better", "distractors": ["best", "merrier", "more"] },
+  { "id": 45, "itemId": "nuance_and_limits", "prompt": "The plan was reckless, and all the more so ___ how little time they'd had to prepare.", "answer": "given", "distractors": ["despite", "unless", "because of that"] },
+  { "id": 46, "itemId": "nuance_and_limits", "prompt": "The busier we get, the ___ mistakes creep in — it's an odd but consistent pattern.", "answer": "more", "distractors": ["most", "much", "many"] },
+  { "id": 47, "itemId": "nuance_and_limits", "prompt": "You can't add a third clause with 'the' — instead say: 'The more you practise, the better you play, ___ you'll feel more confident too.'", "answer": "and", "distractors": ["the", "so the", "than"] },
+  { "id": 48, "itemId": "nuance_and_limits", "prompt": "The ___ risk you take on, the higher the potential return — but also the greater the potential loss.", "answer": "more", "distractors": ["most", "much", "many"] }
 ]
