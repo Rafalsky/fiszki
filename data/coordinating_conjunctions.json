@@ -1,117 +1,263 @@
 [
   {
-    "id": "and_but_or",
+    "id": "coordination_model",
     "order": 1,
-    "nameEn": "and / but / or — addition, contrast, alternative",
-    "namePl": "and / but / or — dodawanie, kontrast, alternatywa",
+    "nameEn": "Coordination vs. subordination — the structural model",
+    "namePl": "Współrzędność a podrzędność — model strukturalny",
     "rules": [
-      { "label": "and", "text": "łączy dwa równorzędne elementy: słowa, frazy albo całe zdania — dodaje jedną informację do drugiej." },
-      { "label": "but", "text": "wprowadza kontrast lub sprzeczność między dwoma elementami/zdaniami." },
-      { "label": "or", "text": "wprowadza alternatywę lub wybór; w zdaniu rozkazującym może też znaczyć „bo inaczej” (Hurry up, or we'll miss the train.)." }
+      {
+        "label": "Struktura płaska, nie drzewo zależności",
+        "text": "Spójnik współrzędny (and, but, or, so, yet, for, nor) łączy dwa elementy o RÓWNEJ randze składniowej — żaden z nich nie jest częścią drugiego, oba stoją obok siebie jak dwa równorzędne klocki. To przeciwieństwo spójnika podrzędnego (because, although, when, since), który zagnieżdża jedno zdanie WEWNĄTRZ drugiego jako jego zależny, niesamodzielny element. Test na rozróżnienie: fragment po spójniku współrzędnym da się swobodnie wyjąć i postawić jako osobne, kompletne zdanie ('He was tired. He kept working.' z 'He was tired, but he kept working.'); fragment po spójniku podrzędnym tego testu nie przechodzi ('*Although he was tired.' nie jest pełnym zdaniem — czeka na resztę)."
+      },
+      {
+        "label": "Od parataksy do hipotaksy: historia dwóch stylów",
+        "text": "Staro- i wczesnośrednioangielski był składniowo znacznie bardziej paratatyczny (oparty na współrzędności) niż dzisiejszy angielski pisany — kroniki i sagi budowano jako ciągi krótkich zdań spinanych 'and', czego echo słychać do dziś w archaizującym stylu Biblii króla Jakuba (1611): 'and it came to pass... and he said unto them... and they went their way'. Bogaty repertuar spójników podrzędnych (although, whereas, provided that, insofar as) rozrósł się w dużej mierze pod wpływem łaciny i francuskiego — średnio- i wczesnonowoangielscy autorzy świadomie budowali bardziej rozgałęzione, 'łacińskie' okresy zdaniowe (hipotaksę) jako sygnał uczoności i biegłości retorycznej. Mówiony angielski do dziś chętnie wraca do prostszej parataksy: naturalniej brzmi 'I was tired, so I went to bed' niż silnie zhipotaktyczne 'Given that I was tired, I retired.'"
+      },
+      {
+        "label": "FANBOYS — nowoczesny mnemonik na starożytny inwentarz",
+        "text": "Akronim FANBOYS (for, and, nor, but, or, yet, so) to wynalazek XX-wiecznej dydaktyki szkolnej w Stanach Zjednoczonych, a nie kategoria znana historykom języka — ale sam zestaw tych siedmiu słów jest wyjątkowo stary. Każde z nich (być może poza 'so' w tej dokładnej funkcji) pełniło rolę łącznika zdań już w staroangielskim albo wczesnym średnioangielskim. To właśnie one, nie dzisiejsze wyrafinowane spójniki podrzędne, stanowią najstarszą, rdzennie germańską warstwę angielskiej składni łączącej."
+      }
     ],
     "usage": [
-      "and/but/or łączą elementy o RÓWNEJ randze gramatycznej — słowo ze słowem, frazę z frazą, zdanie niezależne ze zdaniem niezależnym",
-      "mogą łączyć zarówno pojedyncze wyrazy w środku zdania (tea and coffee), jak i dwa pełne zdania",
-      "w przeciwieństwie do spójników podrzędnych (although, because) nie da się nimi rozpocząć zdania w stylu formalnym, choć w mowie potocznej and/but na początku zdania są częste"
+      "Test 'czy to samodzielne zdanie?' pozwala odróżnić spójnik współrzędny (tak) od podrzędnego (nie) w praktyce redakcyjnej",
+      "Styl mówiony i nieformalny naturalnie ciąży ku krótkim zdaniom spiętym współrzędnie; styl formalny i akademicki częściej sięga po podrzędność, by pokazać precyzyjną hierarchię przyczyn i warunków",
+      "Rozpoczynanie zdania od 'And' lub 'But' jest w pełni gramatyczne historycznie i stylistycznie dopuszczalne — więcej w podrozdziale o interpunkcji",
+      "Rozpoznanie, że dany fragment NIE jest samodzielnym zdaniem (bo zaczyna się od spójnika podrzędnego), chroni przed błędem interpunkcyjnym zwanym sentence fragment"
     ],
-    "tags": ["and", "but", "or"],
+    "tags": ["coordination", "subordination", "FANBOYS", "parataxis", "hypotaxis"],
     "examples": [
-      { "en": "She likes tea and coffee.", "pl": "Ona lubi herbatę i kawę." },
-      { "en": "He is smart but lazy.", "pl": "Jest bystry, ale leniwy." },
-      { "en": "Would you like tea or coffee?", "pl": "Chcesz herbatę czy kawę?" },
-      { "en": "Hurry up, or we'll miss the train.", "pl": "Pospiesz się, bo inaczej spóźnimy się na pociąg." }
+      { "en": "He was exhausted, but he kept working until midnight.", "pl": "Był wyczerpany, ale pracował do północy." },
+      { "en": "Although he was exhausted, he kept working until midnight.", "pl": "Chociaż był wyczerpany, pracował do północy." },
+      { "en": "And it came to pass that the city fell.", "pl": "I stało się, że miasto upadło." },
+      { "en": "She didn't call. She didn't write either.", "pl": "Nie zadzwoniła. Nie napisała też." }
+    ]
+  },
+  {
+    "id": "and",
+    "order": 2,
+    "nameEn": "and — addition that is rarely just addition",
+    "namePl": "and — dodawanie, które rzadko jest tylko dodawaniem",
+    "rules": [
+      {
+        "label": "Korzenie: 'naprzeciw, obok' zanim stało się 'i'",
+        "text": "'And' wywodzi się z prageramańskiego *anda, sięgającego praindoeuropejskiego rdzenia *h₂ent- ('przód, czoło, naprzeciw') — tego samego, który dał łacińskie ante- ('przed') i niemiecki przedrostek ent-/and-. Pierwotna idea 'bycia obok, naprzeciw' z czasem wyblakła do czystej funkcji spajania — dziś 'and' jest najbardziej neutralnym, semantycznie 'pustym' spójnikiem angielskim, właśnie dlatego że jego pierwotne znaczenie przestrzenne całkowicie się rozmyło."
+      },
+      {
+        "label": "Logiczna symetria kontra realna niekomutatywność",
+        "text": "W logice formalnej koniunkcja 'p ∧ q' jest przemienna: 'p and q' znaczy dokładnie to samo co 'q and p'. W żywym angielskim tak nie jest, gdy zdania opisują zdarzenia — słuchacz automatycznie zakłada porządek chronologiczny lub przyczynowy zgodny z kolejnością wypowiedzi (tzw. zasada ikoniczności). 'She got married and had a baby' sugeruje ślub przed narodzinami dziecka; zamiana kolejności zmienia całą opowieść. To nie jest reguła gramatyczna, lecz silna konwersacyjna implikatura — którą można świadomie unieważnić: 'She had a baby and got married, in that order — well, actually the other way round.'"
+      },
+      {
+        "label": "'And' jako ukryty spójnik warunkowy i przyczynowy",
+        "text": "Po trybie rozkazującym 'and' potrafi zastąpić całe zdanie warunkowe: 'Drop that vase and it'll break' znaczy dokładnie tyle co 'If you drop that vase, it'll break' — rozkaz plus 'and' tworzy pozorną sekwencję, która w istocie koduje warunek. Podobnie w zdaniach opisowych 'and' bywa nośnikiem przyczyny, nie tylko dodawania: 'He drank the water and got sick' czytamy naturalnie jako 'because he drank the water', a nie jako dwa niepowiązane fakty."
+      },
+      {
+        "label": "Wspólny podmiot: elipsa bez przecinka",
+        "text": "Gdy 'and' łączy dwa czasowniki o tym samym podmiocie (tzw. compound predicate), drugi podmiot się nie powtarza i nie stawia się przecinka: 'He opened the door and walked in' — jeden aktor, dwie czynności podane jako jeden ciąg. Dodanie drugiego podmiotu natychmiast przemienia to w dwa niezależne zdania i wymaga przecinka: 'He opened the door, and he walked in.'"
+      }
+    ],
+    "usage": [
+      "Dodawanie równorzędnych elementów: słów, fraz, całych zdań o jednakowej randze gramatycznej",
+      "Domyślny odczyt sekwencji czasowej lub przyczynowej między dwoma czynnościami, zgodny z kolejnością ich wymienienia",
+      "Rozkaz + and + zdanie = ukryty warunek: 'Say that again, and you'll regret it.'",
+      "Compound predicate (jeden podmiot, dwa czasowniki) bez przecinka kontra dwa niezależne zdania z przecinkiem",
+      "'and' na początku zdania jako spójny styl narracyjny, częsty w prozie i mowie potocznej"
+    ],
+    "tags": ["and", "sequence", "compound predicate", "implicature"],
+    "examples": [
+      { "en": "She opened the letter and burst into tears.", "pl": "Otworzyła list i wybuchnęła płaczem." },
+      { "en": "Keep talking to him like that, and he'll walk out.", "pl": "Mów do niego tak dalej, a wyjdzie." },
+      { "en": "He fell asleep at the wheel and crashed into the barrier.", "pl": "Zasnął za kierownicą i wjechał w barierkę." },
+      { "en": "The company cut costs and, in the same breath, raised executive bonuses.", "pl": "Firma cięła koszty i w tym samym czasie podnosiła premie dla kadry kierowniczej." }
+    ]
+  },
+  {
+    "id": "but",
+    "order": 3,
+    "nameEn": "but — from 'except, outside of' to 'however'",
+    "namePl": "but — od 'z wyjątkiem, poza' do 'jednak'",
+    "rules": [
+      {
+        "label": "Etymologia: be + ūtan = 'poza, na zewnątrz'",
+        "text": "'But' pochodzi ze staroangielskiego būtan (wcześniej be-ūtan), dosłownie 'przy-na zewnątrz' — złożenia przyimka be- ('przy, o') z ūtan ('na zewnątrz'; ten sam rdzeń co dzisiejsze out). Pierwotnie 'būtan' znaczyło 'z wyjątkiem, poza, jedynie' — funkcjonowało bliżej dzisiejszego except niż however. Znaczenie przeciwstawne ('jednak', 'ale'), które dziś uważamy za podstawowe, jest efektem stopniowego przesunięcia semantycznego (narrowing) trwającego przez cały okres średnioangielski."
+      },
+      {
+        "label": "Skamieniałe ślady starego znaczenia 'z wyjątkiem'",
+        "text": "Dawne znaczenie 'poza, z wyjątkiem' przetrwało do dziś w utrwalonych zwrotach: 'nothing but trouble' (dosłownie 'nic poza kłopotami' = same kłopoty), 'all but impossible' ('wszystko poza niemożliwym' = niemal niemożliwe), 'anything but happy' ('cokolwiek poza szczęśliwym' = wszystko tylko nie szczęśliwy), czy formalne 'but for your help, I would have failed' (temat osobnego tematu but_for_without) — we wszystkich tych przypadkach 'but' zachowuje się jak przyimek znaczący 'z wyjątkiem', a nie jak spójnik przeciwstawny."
+      },
+      {
+        "label": "'But' jako przysłówek ograniczający: 'jedynie'",
+        "text": "W rejestrze literackim i archaizującym 'but' bywa użyte jako przysłówek znaczący 'tylko, jedynie' — bezpośredni potomek starego znaczenia 'z wyjątkiem [czegokolwiek innego]': 'He is but a child' ('Jest tylko dzieckiem'), 'I can but try' ('Mogę jedynie spróbować'). To użycie, dziś rzadkie i podniosłe, pokazuje wyraźnie, że współczesne kontrastujące 'but' i staroangielskie 'wyjątkowe' būtan to dwie gałęzie tego samego pnia."
+      },
+      {
+        "label": "Mit o zakazie rozpoczynania zdania od 'But'",
+        "text": "Popularne przekonanie, że zdania nie wolno zaczynać od 'And' czy 'But', to XIX-wieczny wynalazek szkolnych podręczników, mający zniechęcić uczniów do nadużywania krótkich, paratatycznych zdań w wypracowaniach — nie odzwierciedla żadnej realnej reguły gramatycznej ani historycznej normy. Staro- i średnioangielskie teksty, łącznie z Biblią króla Jakuba i Kanterberyjskimi opowieściami Chaucera, zaczynają zdania od 'And' i 'But' bez żadnych ograniczeń, a najbardziej cenieni współcześni autorzy robią to celowo dla efektu retorycznego."
+      }
+    ],
+    "usage": [
+      "Wprowadzanie kontrastu lub sprzeczności między dwoma elementami albo zdaniami",
+      "Skamieniałe zwroty z dawnym znaczeniem 'z wyjątkiem': nothing but, all but, anything but, the last but one",
+      "Rejestr literacki: 'but' jako przysłówek 'tylko, jedynie' (he is but a shadow of his former self)",
+      "Rozpoczynanie zdania od 'But' w stylu narracyjnym i retorycznym jest w pełni akceptowalne, choć unika się tego w bardzo formalnych, urzędowych tekstach ze względów stylistycznych, nie gramatycznych"
+    ],
+    "tags": ["but", "contrast", "nothing but", "all but"],
+    "examples": [
+      { "en": "The plan sounded brilliant, but nobody had checked the budget.", "pl": "Plan brzmiał świetnie, ale nikt nie sprawdził budżetu." },
+      { "en": "It was nothing but a rumour, yet the whole office believed it.", "pl": "To były tylko plotki, a jednak całe biuro w nie uwierzyło." },
+      { "en": "He is but a boy, and yet he speaks like a seasoned diplomat.", "pl": "Jest przecież tylko chłopcem, a mówi jak doświadczony dyplomata." },
+      { "en": "But for a last-minute loan, the company would have collapsed.", "pl": "Gdyby nie pożyczka w ostatniej chwili, firma by upadła." }
+    ]
+  },
+  {
+    "id": "or",
+    "order": 4,
+    "nameEn": "or — alternative, choice, and the inclusive/exclusive divide",
+    "namePl": "or — alternatywa, wybór i granica inkluzywności",
+    "rules": [
+      {
+        "label": "Etymologia: skrócone 'other'",
+        "text": "'Or' to ściągnięta forma średnioangielskiego 'other'/'auther', wywodzącego się ze staroangielskiego ahwæþer/oþþe — słowa oznaczającego dosłownie 'jedno z dwóch'. 'Or' i 'other' (a przez nie także either) mają więc wspólny rdzeń: alternatywa gramatyczna i zaimek 'inny, drugi z dwóch' to historycznie jedno i to samo pojęcie, tylko rozdzielone na dwie różne funkcje składniowe."
+      },
+      {
+        "label": "Logika inkluzywna kontra wyłączna: pragmatyka, nie gramatyka",
+        "text": "W logice formalnej 'or' domyślnie odpowiada spójnikowi inkluzywnemu (p ∨ q, prawdziwemu także gdy oba człony są prawdziwe). W naturalnej rozmowie 'or' zwykle NABIERA odczytu wyłącznego ('albo... albo, ale nie oba naraz') dzięki pragmatycznej implikaturze skalarnej — jeśli ktoś wiedziałby, że prawdziwe są oba warianty, powiedziałby 'and', więc samo użycie 'or' sugeruje, że nadawca ma na myśli tylko jeden z nich. Prawnicy i informatycy, dla których taka niejednoznaczność jest nie do przyjęcia, wymuszają odczyt inkluzywny sztuczną formułą 'and/or'."
+      },
+      {
+        "label": "Rozkaz + or = warunek negatywny",
+        "text": "Dokładnie jak 'and' po trybie rozkazującym koduje warunek pozytywny, 'or' koduje warunek negatywny — konsekwencję NIEwykonania polecenia: 'Hurry up, or we'll miss the train' = 'If you don't hurry up, we'll miss the train.' To zjawisko lustrzane wobec imperative + and, oparte na tej samej logice: rozkaz opisuje działanie, spójnik dołącza jego (nie)spełnienie jako warunek skutku."
+      },
+      {
+        "label": "'Or' w pytaniach: intonacja rozstrzyga o znaczeniu",
+        "text": "Pytanie z 'or' bywa dwuznaczne w piśmie, ale jednoznaczne w mowie dzięki intonacji. Pytanie alternatywne ('Tea or coffee?') ma intonację wznosząco-opadającą na obu członach i oczekuje wyboru jednej z podanych opcji. Pytanie ogólne z doczepionym 'or not' ('Are you coming, or not?') ma zwykle intonację opadającą na całości i funkcjonuje jak zwykłe pytanie tak/nie, tylko z dodanym naciskiem na konieczność decyzji."
+      }
+    ],
+    "usage": [
+      "Wprowadzanie alternatywy lub wyboru między dwoma albo więcej elementami",
+      "Rozkaz + or = 'w przeciwnym razie' — ukryty warunek negatywny",
+      "Formalne 'and/or' tam, gdzie ważne jest wymuszenie odczytu inkluzywnego, a niejednoznaczność jest niedopuszczalna (dokumenty prawne, specyfikacje techniczne)",
+      "Pytania alternatywne (wybór z podanych opcji) kontra pytania tak/nie z doczepionym 'or not'"
+    ],
+    "tags": ["or", "alternative", "inclusive", "exclusive", "or else"],
+    "examples": [
+      { "en": "Would you like to pay now, or shall I send an invoice later?", "pl": "Chce pan zapłacić teraz, czy mam później przesłać fakturę?" },
+      { "en": "Sign the contract by Friday, or the offer expires.", "pl": "Podpisz umowę do piątku, bo inaczej oferta wygaśnie." },
+      { "en": "Applicants must hold a degree in engineering or (equivalently) five years of relevant experience.", "pl": "Kandydaci muszą mieć dyplom z inżynierii lub równoważnie pięć lat odpowiedniego doświadczenia." },
+      { "en": "Is he coming to the wedding, or not? We need a final headcount.", "pl": "Przyjdzie na wesele, czy nie? Potrzebujemy ostatecznej liczby gości." }
     ]
   },
   {
     "id": "so_for",
-    "order": 2,
-    "nameEn": "so / for — result and (formal) reason",
-    "namePl": "so / for — skutek i (formalna) przyczyna",
+    "order": 5,
+    "nameEn": "so / for — result and (formal) reason, and why they aren't mirror images",
+    "namePl": "so / for — skutek i (formalna) przyczyna — i dlaczego nie są swoimi lustrzanymi odbiciami",
     "rules": [
-      { "label": "so", "text": "wprowadza SKUTEK/WYNIK poprzedzającego zdania — stoi zawsze po zdaniu opisującym przyczynę: It was raining, so we stayed home." },
-      { "label": "for", "text": "formalny, literacki spójnik PRZYCZYNY (= because), łączący dwa zdania niezależne — nigdy nie zaczyna zdania i nie może stać samodzielnie na początku, jak because." },
-      { "label": "for vs because", "text": "for dodaje wyjaśniającą uwagę do już wypowiedzianego faktu, jest typowe dla stylu pisanego/literackiego; because jest neutralne i uniwersalne, może otwierać zdanie." }
+      {
+        "label": "'So': od przysłówka sposobu do spójnika skutku",
+        "text": "'So' wywodzi się ze staroangielskiego swā — przysłówka znaczącego 'tak, w ten sposób', tego samego rdzenia co dzisiejsze so w 'so beautiful' (stopień, sposób). Ta sama forma swā, użyta w parze swā... swā, dała początek dzisiejszemu as... as w porównaniach — 'so' i 'as' są więc etymologicznymi bliźniakami, tylko wyspecjalizowanymi w różnych funkcjach. Funkcja spójnika skutku ('a więc, zatem') wyewoluowała z użycia 'tak bardzo, że...' — 'it was so cold [that] we stayed in' skróciło się w mowie potocznej do samodzielnego 'so' rozpoczynającego zdanie skutkowe."
+      },
+      {
+        "label": "'For': od przyimka celu do spójnika przyczyny",
+        "text": "'For' było pierwotnie przyimkiem oznaczającym cel, korzyść lub kierunek ('for the king', 'for this reason'). Funkcja spójnika przyczynowego wyewoluowała z dłuższej frazy for þon þe ('z tego powodu, że'), która z czasem uległa erozji fonetycznej do samego 'for'. Ten przyimkowy rodowód tłumaczy, dlaczego 'for' zachowuje się inaczej niż 'because', mimo bliskoznaczności."
+      },
+      {
+        "label": "Dlaczego 'for' nie jest tylko formalnym 'because'",
+        "text": "'Because' jest spójnikiem podrzędnym i może otwierać zdanie oraz odpowiadać wprost na pytanie 'Dlaczego?' ('Why did you leave?' — 'Because I was tired.'). 'For' zachowało się jak spójnik WSPÓŁRZĘDNY o przyimkowej przeszłości: nigdy nie zaczyna zdania, nigdy nie stoi po kropce, nigdy nie odpowiada samodzielnie na pytanie 'why'. 'For' może tylko DOPISAĆ retrospektywne uzasadnienie do twierdzenia, które już padło — to subtelna, ale konsekwentna różnica składniowa, nie kwestia samego rejestru."
+      },
+      {
+        "label": "Współczesny status: 'for' jako relikt literacki",
+        "text": "W mowie codziennej przyczynowe 'for' praktycznie wyginęło, wyparte przez 'because'/'since'/'as' — dziś brzmi archaicznie, podniośle lub biblijnie ('For the wages of sin is death', Biblia króla Jakuba). Pozostaje żywe w stylu literackim, prawniczym i formalno-pisanym, gdzie dodaje zdaniu tonu powagi i dystansu."
+      }
     ],
     "usage": [
-      "so zawsze łączy przyczynę ze skutkiem w tej kolejności: [przyczyna], so [skutek]",
-      "for w tym znaczeniu jest dziś rzadkie w mowie codziennej — spotykane głównie w tekstach formalnych, literackich i podniosłych",
-      "for nie należy mylić z przyimkiem for (dla) — tu pełni funkcję spójnika łączącego dwa zdania"
+      "so wprowadza skutek/wynik i zawsze stoi po zdaniu opisującym przyczynę: [przyczyna], so [skutek]",
+      "for w tej funkcji jest dziś rzadkie w mowie codziennej — typowe dla tekstów formalnych, literackich i podniosłych",
+      "for nigdy nie otwiera zdania i nie stoi po kropce — w przeciwieństwie do because, którym można rozpocząć wypowiedź",
+      "for nie odpowiada wprost na pytanie 'why?' — dodaje jedynie uzasadnienie do już wypowiedzianego faktu"
     ],
-    "tags": ["so", "for", "result", "reason"],
+    "tags": ["so", "for", "result", "reason", "because"],
     "examples": [
-      { "en": "It was raining, so we stayed home.", "pl": "Padało, więc zostaliśmy w domu." },
-      { "en": "She was tired, so she went to bed early.", "pl": "Była zmęczona, więc poszła spać wcześnie." },
-      { "en": "He rarely spoke, for he was shy.", "pl": "Rzadko się odzywał, gdyż był nieśmiały." },
-      { "en": "I trust him, for he has never lied to me.", "pl": "Ufam mu, bowiem nigdy mnie nie okłamał." }
+      { "en": "The bridge was closed for repairs, so we had to take a fifteen-mile detour.", "pl": "Most był zamknięty z powodu remontu, więc musieliśmy jechać piętnastomilowym objazdem." },
+      { "en": "He never once raised his voice, for he had learned long ago that anger persuades no one.", "pl": "Ani razu nie podniósł głosu, gdyż dawno temu nauczył się, że gniew nikogo nie przekonuje." },
+      { "en": "She trusted the old sailor's warning, for he had never once been wrong about the weather.", "pl": "Ufała ostrzeżeniu starego żeglarza, bowiem nigdy się nie mylił co do pogody." },
+      { "en": "Because I trusted him, I signed without reading the small print.", "pl": "Ponieważ mu ufałem, podpisałem bez czytania drobnego druku." }
     ]
   },
   {
     "id": "yet_nor",
-    "order": 3,
-    "nameEn": "yet / nor — contrast and negative addition",
-    "namePl": "yet / nor — kontrast i dodawanie przeczenia",
+    "order": 6,
+    "nameEn": "yet / nor — the temporal root of contrast and the negative that borrows a verb-second relic",
+    "namePl": "yet / nor — czasowy korzeń kontrastu i przeczenie dziedziczące relikt szyku V2",
     "rules": [
-      { "label": "yet", "text": "wprowadza silniejszy, bardziej zaskakujący kontrast niż but — „a jednak”, „mimo to”: She is highly qualified, yet she still struggles to find a job." },
-      { "label": "nor", "text": "dodaje kolejny element przeczący do zdania, które jest już przeczące — odpowiada polskiemu „ani”." },
-      { "label": "inwersja po nor", "text": "po nor stosuje się inwersję podmiot–orzeczenie/operator, tak jak w pytaniu: nor do I, nor did she, nor was he." }
+      {
+        "label": "'Yet': od 'wciąż, dotąd' do wzmocnionego kontrastu",
+        "text": "'Yet' pochodzi ze staroangielskiego gīet/giet — przysłówka czasu znaczącego 'wciąż, dotąd, aż do tej pory'. Ta sama pierwotna idea 'trwania aż do teraz' rozdzieliła się z czasem na dwa osobne słowa o osobnych zadaniach: still zachowało czystą funkcję czasową ('on wciąż tu jest'), a yet wyspecjalizowało się w kontekstach przeczących i pytających ('not yet', 'Have you finished yet?') oraz — co kluczowe dla tego tematu — w roli spójnika kontrastowego silniejszego niż 'but': 'yet' sugeruje, że mimo upływu czasu i mimo wszelkich przesłanek coś WCIĄŻ jest inaczej, niż powinno być."
+      },
+      {
+        "label": "'Nor': ściągnięcie 'ne' + 'or'",
+        "text": "'Nor' to średnioangielskie ściągnięcie przeczącej partykuły ne (rdzennego staroangielskiego negatora, dziś już wymarłego, zastąpionego przez not — zjawisko znane jako cykl Jespersena) z 'or'. Dosłownie 'nor' znaczy więc 'ani-lub' — 'nie to, i nie tamto'. Ten sam negator 'ne' stoi też u źródeł neither (ne + either), stąd naturalne pokrewieństwo pary korelatywnej neither... nor i samodzielnego nor, doczepianego do zdania, które jest już przeczące bez potrzeby wcześniejszego 'neither'."
+      },
+      {
+        "label": "Inwersja po 'nor': relikt szyku V2",
+        "text": "Staroangielski, jak większość języków germańskich do dziś (niemiecki, niderlandzki), miał szyk verb-second (V2): gdy zdanie otwierał element inny niż podmiot — zwłaszcza przeczący lub ograniczający — czasownik osobowy/operator przeskakiwał przed podmiot. Współczesny angielski w większości porzucił V2, ale zachował go jako skamielinę dokładnie w tej klasie kontekstów: po nor, neither, never, rarely, hardly, seldom na początku zdania ('Nor did she reply.' zamiast '*Nor she did reply.'). To ten sam mechanizm, który opisuje osobny temat inwersji — 'nor' to jeden z najbardziej regularnych, obowiązkowych jego wyzwalaczy."
+      },
+      {
+        "label": "'Nor' a 'neither... nor': dwa różne zadania",
+        "text": "Para korelatywna 'neither X nor Y' łączy dwa elementy WEWNĄTRZ jednego zdania jako jednolite przeczenie podwójne. Samodzielne 'nor' na początku nowego zdania (bez wcześniejszego 'neither') dodaje CAŁE DRUGIE zdanie przeczące do już przeczącego pierwszego: 'I don't like horror films, nor do I enjoy thrillers' — pierwsze zdanie jest już zaprzeczone przez 'don't', a 'nor' dorzuca kolejne, osobne przeczenie, zamiast powtarzać 'and I don't... either'."
+      }
     ],
     "usage": [
-      "yet może zastąpić but, gdy kontrast jest szczególnie mocny lub nieoczekiwany",
-      "samodzielne nor (bez neither na początku pierwszego zdania) łączy dwa osobne zdania przeczące: I don't like it, nor do I want it",
-      "nor w tym użyciu różni się od pary korelatywnej neither...nor, która łączy dwa elementy w jednym zdaniu od razu jako przeczenie"
+      "yet wprowadza mocniejszy, bardziej zaskakujący kontrast niż but — 'a jednak, mimo to'",
+      "nor dodaje kolejne zdanie przeczące do zdania, które jest już przeczące, bez powtarzania 'not'",
+      "po nor zawsze stosuje się inwersję podmiot–operator: nor do I, nor did she, nor was he",
+      "samodzielne nor różni się od pary korelatywnej neither... nor, która zaprzecza dwóm elementom od razu wewnątrz jednego zdania"
     ],
-    "tags": ["yet", "nor"],
+    "tags": ["yet", "nor", "inversion", "negation", "V2"],
     "examples": [
-      { "en": "She is highly qualified, yet she still struggles to find a job.", "pl": "Jest wysoko wykwalifikowana, a jednak wciąż ma trudności ze znalezieniem pracy." },
-      { "en": "It's a small car, yet it's surprisingly spacious inside.", "pl": "To mały samochód, a jednak jest zaskakująco przestronny w środku." },
-      { "en": "I don't like horror films, nor do I enjoy thrillers.", "pl": "Nie lubię horrorów, ani thrillerów też nie." },
-      { "en": "She never called, nor did she write.", "pl": "Ani nie zadzwoniła, ani nie napisała." }
+      { "en": "She apologised repeatedly, yet he refused to answer her calls.", "pl": "Przepraszała wielokrotnie, a jednak on odmawiał odbierania jej telefonów." },
+      { "en": "The evidence was overwhelming, yet the jury still hesitated.", "pl": "Dowody były przytłaczające, a jednak ława przysięgłych wciąż się wahała." },
+      { "en": "He never apologised, nor did he ever admit he was wrong.", "pl": "Nigdy nie przeprosił, ani nigdy nie przyznał, że się mylił." },
+      { "en": "I have no proof, nor do I need any — the pattern speaks for itself.", "pl": "Nie mam dowodu, ani go nie potrzebuję — sam schemat mówi za siebie." }
     ]
   },
   {
-    "id": "comma_independent_clauses",
-    "order": 4,
-    "nameEn": "comma before a coordinating conjunction joining two independent clauses",
-    "namePl": "przecinek przed spójnikiem łączącym dwa niezależne zdania",
+    "id": "punctuation_rhetoric",
+    "order": 7,
+    "nameEn": "Punctuation and rhetoric: comma rules, comma splices, asyndeton and zeugma",
+    "namePl": "Interpunkcja i retoryka: przecinek, comma splice, asyndeton i zeugma",
     "rules": [
-      { "label": "zasada", "text": "gdy spójnik (and/but/or/so/yet/for/nor) łączy dwa PEŁNE, niezależne zdania (każde z własnym podmiotem i orzeczeniem), przed spójnikiem stawiamy przecinek." },
-      { "label": "krótkie zdania", "text": "przy bardzo krótkich, ściśle powiązanych zdaniach przecinek bywa w praktyce pomijany (I called and she answered.), ale jego postawienie nigdy nie jest błędem." },
-      { "label": "comma splice", "text": "łączenie dwóch niezależnych zdań samym przecinkiem, bez spójnika, jest błędem (tzw. comma splice) — trzeba dodać spójnik albo użyć średnika lub kropki." }
+      {
+        "label": "Przecinek przed spójnikiem łączącym dwa niezależne zdania",
+        "text": "Gdy spójnik (and/but/or/so/yet/for/nor) łączy dwa PEŁNE, niezależne zdania — każde z własnym podmiotem i orzeczeniem — przed spójnikiem stawia się przecinek: 'The meeting was cancelled, so everyone went home early.' Test na niezależność: czy fragment po spójniku ma własny podmiot i orzeczenie i mógłby stać samodzielnie? Przy bardzo krótkich, ściśle powiązanych zdaniach przecinek bywa w praktyce pomijany ('I called and she answered.'), ale jego postawienie nigdy nie jest błędem — w stylu formalnym i akademickim jest wręcz oczekiwane."
+      },
+      {
+        "label": "Brak przecinka przy wspólnym podmiocie (compound predicate)",
+        "text": "Gdy podmiot jest wspólny dla obu czasowników połączonych spójnikiem (drugi czasownik nie ma własnego podmiotu), przecinka przed spójnikiem się NIE stawia: 'He opened the door and walked in.' Dodanie drugiego podmiotu natychmiast zamienia to w dwa niezależne zdania i wtedy przecinek jest wymagany: 'He opened the door, and he walked in.' Typowy błąd redakcyjny to postawienie zbędnego przecinka, gdy druga część zdania nie ma własnego podmiotu."
+      },
+      {
+        "label": "Comma splice: młodsza konwencja, niż się wydaje",
+        "text": "Łączenie dwóch niezależnych zdań samym przecinkiem, bez spójnika ('It was late, we went home.'), uznaje się dziś za błąd zwany comma splice. Warto jednak wiedzieć, że ścisłe, 'gramatyczne' zasady interpunkcji angielskiej to w dużej mierze wynalazek stosunkowo młody. Średniowieczni skrybowie stawiali znaki przestankowe (punctus, virgula) głównie po to, by zaznaczyć miejsca oddechu przy głośnym czytaniu na głos — funkcja retoryczno-elokucyjna, nie składniowa. Dopiero standaryzacja druku od XVI wieku i normatywne podręczniki gramatyki z XVIII i XIX wieku narzuciły dzisiejsze, ściśle syntaktyczne zasady, łącznie z zakazem comma splice."
+      },
+      {
+        "label": "Asyndeton i polisyndeton: świadome łamanie zasad dla efektu",
+        "text": "Retorzy antyczni nazwali dwie skrajności w używaniu spójników współrzędnych. Asyndeton to celowe POMINIĘCIE spójnika dla zwięzłego, uderzającego rytmu: 'I came, I saw, I conquered' (łac. Veni, vidi, vici) — kolejne zdania zestawia się bez 'and', co przyspiesza tempo i podkreśla stanowczość. Polisyndeton to odwrotność — WIELOKROTNE powtórzenie tego samego spójnika tam, gdzie wystarczyłby jeden raz: biblijne 'and... and... and...' czy zdania w stylu Hemingwaya nadają wypowiedzi kumulatywny, niemal zdyszany rytm. Oba zabiegi manipulują tą samą 'płaską' strukturą współrzędności opisaną w pierwszym podrozdziale tego tematu — dowodząc, że koordynacja to nie tylko gramatyka, ale i narzędzie retoryczne."
+      },
+      {
+        "label": "Zeugma (syllepsis): jeden czasownik, dwa niepasujące sensy",
+        "text": "Zeugma wykorzystuje elipsę typową dla compound predicate (jeden podmiot, jeden wspólny czasownik, dwa dopełnienia) w celach komicznych lub poetyckich — wspólny czasownik rządzi dwoma dopełnieniami w dwóch RÓŻNYCH, niepasujących do siebie znaczeniach jednocześnie: 'She broke his heart and his favourite mug' (złamała jego serce w sensie przenośnym i kubek w sensie dosłownym tym samym czasownikiem 'broke'). To efekt zaskoczenia wynikający z tego, że angielska składnia współrzędna pozwala na tak daleko posuniętą ekonomię językową."
+      }
     ],
     "usage": [
-      "test na niezależność zdania: czy fragment po spójniku ma własny podmiot i własne orzeczenie i mógłby stać samodzielnie jako zdanie?",
-      "przecinek przed spójnikiem sygnalizuje czytelnikowi, że nadchodzi drugie, kompletne zdanie, a nie tylko kolejny element listy",
-      "w stylu formalnym i akademickim przecinek przed spójnikiem łączącym dwa niezależne zdania jest właściwie obowiązkowy"
+      "Przecinek przed and/but/or/so/yet/for/nor jest obowiązkowy, gdy po obu stronach stoją pełne, niezależne zdania",
+      "Brak przecinka, gdy spójnik łączy tylko dwa czasowniki (lub inne frazy) przy jednym, wspólnym podmiocie",
+      "Comma splice to współczesna konwencja redakcyjna, nie odwieczne prawo składni — warto ją znać i stosować w tekstach formalnych mimo jej stosunkowo młodej historii",
+      "Asyndeton (brak spójnika) i polisyndeton (jego nadmiar) to świadome, retoryczne odstępstwa od standardowej interpunkcji, częste w prozie literackiej i przemówieniach",
+      "Zeugma to efekt stylistyczny, nie błąd — celowe zderzenie dwóch znaczeń jednego czasownika w jednym zdaniu współrzędnym"
     ],
-    "tags": ["comma splice", "independent clause", "so", "but"],
+    "tags": ["comma splice", "asyndeton", "polysyndeton", "zeugma", "compound predicate"],
     "examples": [
-      { "en": "The meeting was cancelled, so everyone went home early.", "pl": "Spotkanie zostało odwołane, więc wszyscy wcześnie wrócili do domu." },
-      { "en": "He wanted to stay, but his flight was leaving soon.", "pl": "Chciał zostać, ale jego lot już wkrótce odlatywał." },
-      { "en": "We can meet on Monday, or we can wait until next week.", "pl": "Możemy spotkać się w poniedziałek albo poczekać do przyszłego tygodnia." },
-      { "en": "It started to rain, so we decided to go inside.", "pl": "Zaczęło padać, więc postanowiliśmy wejść do środka." }
-    ]
-  },
-  {
-    "id": "no_comma_compound_predicate",
-    "order": 5,
-    "nameEn": "no comma when the conjunction joins only the predicate (compound predicate)",
-    "namePl": "brak przecinka, gdy spójnik łączy tylko orzeczenia (wspólny podmiot)",
-    "rules": [
-      { "label": "wspólny podmiot", "text": "gdy podmiot jest wspólny dla obu czasowników połączonych spójnikiem (drugi czasownik nie ma własnego podmiotu), NIE stawiamy przed spójnikiem przecinka: He opened the door and walked in." },
-      { "label": "dodanie drugiego podmiotu", "text": "dodanie drugiego podmiotu zamienia zdanie w dwa niezależne zdania i wtedy przecinek jest wymagany: He opened the door, and he walked in." },
-      { "label": "ta sama zasada dla fraz", "text": "podobnie nie stawiamy przecinka, łącząc spójnikiem dwa dopełnienia, przymiotniki albo inne frazy przy jednym podmiocie i jednym czasowniku." }
-    ],
-    "usage": [
-      "rozróżnienie 'compound predicate' (jeden podmiot, dwa czasowniki) od dwóch zdań niezależnych decyduje o obecności przecinka",
-      "błąd typowy: stawianie przecinka przed spójnikiem, gdy druga część zdania nie ma własnego podmiotu",
-      "przydatne przy redagowaniu tekstu formalnego, gdzie nadmiarowy przecinek jest traktowany jako błąd interpunkcyjny"
-    ],
-    "tags": ["compound predicate", "and", "but"],
-    "examples": [
-      { "en": "He opened the door and walked in.", "pl": "Otworzył drzwi i wszedł do środka." },
-      { "en": "She finished her homework and went to bed.", "pl": "Skończyła odrabiać lekcje i poszła spać." },
-      { "en": "He tried to fix the car but failed.", "pl": "Próbował naprawić samochód, ale mu się nie udało." },
-      { "en": "They cooked dinner and washed the dishes together.", "pl": "Ugotowali razem obiad i pozmywali naczynia." }
+      { "en": "It started to rain, so we decided to go inside.", "pl": "Zaczęło padać, więc postanowiliśmy wejść do środka." },
+      { "en": "He knocked twice but got no answer.", "pl": "Zapukał dwa razy, ale nie doczekał się odpowiedzi." },
+      { "en": "We came, we negotiated, we walked away with a deal.", "pl": "Przyjechaliśmy, wynegocjowaliśmy, wyszliśmy z umową." },
+      { "en": "She lost her keys, her patience, and her sense of humour, all in the same afternoon.", "pl": "Straciła klucze, cierpliwość i poczucie humoru, wszystko tego samego popołudnia." }
     ]
   }
 ]
