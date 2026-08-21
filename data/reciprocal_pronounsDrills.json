@@ -1,45 +1,618 @@
 [
-  { "id": 1, "itemId": "each_other", "prompt": "Anna and Tom love ___ very much.", "answer": "each other", "distractors": ["themselves", "myself", "each other's"] },
-  { "id": 2, "itemId": "each_other", "prompt": "The two teams shook hands with ___ after the match.", "answer": "each other", "distractors": ["themselves", "itself", "each other's"] },
-  { "id": 3, "itemId": "each_other", "prompt": "We always help ___ with homework.", "answer": "each other", "distractors": ["themselves", "ourselves", "each other's"] },
-  { "id": 4, "itemId": "each_other", "prompt": "They haven't spoken to ___ since the argument.", "answer": "each other", "distractors": ["themselves", "herself", "each other's"] },
-  { "id": 5, "itemId": "each_other", "prompt": "Can you two stop shouting at ___?", "answer": "each other", "distractors": ["yourselves", "myself", "each other's"] },
-  { "id": 6, "itemId": "each_other", "prompt": "The old friends wrote to ___ every week.", "answer": "each other", "distractors": ["themselves", "himself", "each other's"] },
-  { "id": 7, "itemId": "each_other", "prompt": "My brother and I always tease ___.", "answer": "each other", "distractors": ["ourselves", "myself", "each other's"] },
-  { "id": 8, "itemId": "each_other", "prompt": "The children were chasing ___ around the garden.", "answer": "each other", "distractors": ["themselves", "itself", "each other's"] },
-  { "id": 9, "itemId": "each_other", "prompt": "The two companies compete with ___ for the same customers.", "answer": "each other", "distractors": ["themselves", "itself", "each other's"] },
-  { "id": 10, "itemId": "each_other", "prompt": "Newlyweds usually look at ___ a lot.", "answer": "each other", "distractors": ["themselves", "herself", "each other's"] },
-
-  { "id": 11, "itemId": "one_another", "prompt": "The two brothers always help ___ when things get tough.", "answer": "each other", "distractors": ["one another", "themselves", "myself"] },
-  { "id": 12, "itemId": "one_another", "prompt": "All members of the club should support ___.", "answer": "one another", "distractors": ["each other", "themselves", "herself"] },
-  { "id": 13, "itemId": "one_another", "prompt": "The couple gave ___ a present on their anniversary.", "answer": "each other", "distractors": ["one another", "themselves", "myself"] },
-  { "id": 14, "itemId": "one_another", "prompt": "The five colleagues often cover for ___ at work.", "answer": "one another", "distractors": ["each other", "themselves", "itself"] },
-  { "id": 15, "itemId": "one_another", "prompt": "My two best friends have understood ___ since childhood.", "answer": "each other", "distractors": ["one another", "themselves", "herself"] },
-  { "id": 16, "itemId": "one_another", "prompt": "The players on the whole team trust ___ completely.", "answer": "one another", "distractors": ["each other", "themselves", "himself"] },
-  { "id": 17, "itemId": "one_another", "prompt": "The twins always understand ___ perfectly.", "answer": "each other", "distractors": ["one another", "themselves", "myself"] },
-  { "id": 18, "itemId": "one_another", "prompt": "Everyone in the large family respects ___.", "answer": "one another", "distractors": ["each other", "themselves", "herself"] },
-  { "id": 19, "itemId": "one_another", "prompt": "The two rivals shook hands with ___ before the game.", "answer": "each other", "distractors": ["one another", "themselves", "itself"] },
-  { "id": 20, "itemId": "one_another", "prompt": "In a healthy community, people should look after ___.", "answer": "one another", "distractors": ["each other", "themselves", "myself"] },
-
-  { "id": 21, "itemId": "reflexive_vs_reciprocal", "prompt": "The children hurt ___ while playing in the garden.", "answer": "themselves", "distractors": ["each other", "myself", "one another"] },
-  { "id": 22, "itemId": "reflexive_vs_reciprocal", "prompt": "The two boys hurt ___ during the fight.", "answer": "each other", "distractors": ["themselves", "myself", "one another"] },
-  { "id": 23, "itemId": "reflexive_vs_reciprocal", "prompt": "Stop blaming ___, it wasn't your fault.", "answer": "yourselves", "distractors": ["each other", "himself", "one another"] },
-  { "id": 24, "itemId": "reflexive_vs_reciprocal", "prompt": "After the accident, the drivers blamed ___.", "answer": "each other", "distractors": ["themselves", "myself", "herself"] },
-  { "id": 25, "itemId": "reflexive_vs_reciprocal", "prompt": "I looked at ___ in the mirror before leaving.", "answer": "myself", "distractors": ["each other", "himself", "one another"] },
-  { "id": 26, "itemId": "reflexive_vs_reciprocal", "prompt": "The old friends looked at ___ and smiled, remembering old times.", "answer": "each other", "distractors": ["themselves", "myself", "herself"] },
-  { "id": 27, "itemId": "reflexive_vs_reciprocal", "prompt": "We really enjoyed ___ at the party.", "answer": "ourselves", "distractors": ["each other", "myself", "one another"] },
-  { "id": 28, "itemId": "reflexive_vs_reciprocal", "prompt": "The rival politicians criticised ___ throughout the debate.", "answer": "each other", "distractors": ["themselves", "himself", "myself"] },
-  { "id": 29, "itemId": "reflexive_vs_reciprocal", "prompt": "She introduced ___ to the new manager.", "answer": "herself", "distractors": ["each other", "himself", "one another"] },
-  { "id": 30, "itemId": "reflexive_vs_reciprocal", "prompt": "The new colleagues introduced ___ at the meeting, shaking hands.", "answer": "each other", "distractors": ["themselves", "herself", "one another"] },
-
-  { "id": 31, "itemId": "each_others_possessive", "prompt": "We often visit ___ houses at the weekend.", "answer": "each other's", "distractors": ["each other", "themselves", "each others"] },
-  { "id": 32, "itemId": "each_others_possessive", "prompt": "The students corrected ___ essays.", "answer": "each other's", "distractors": ["each other", "themselves", "each others"] },
-  { "id": 33, "itemId": "each_others_possessive", "prompt": "Good friends know ___ secrets.", "answer": "each other's", "distractors": ["each other", "themselves", "each others"] },
-  { "id": 34, "itemId": "each_others_possessive", "prompt": "They respect ___ opinions, even when they disagree.", "answer": "one another's", "distractors": ["one another", "each other", "each others"] },
-  { "id": 35, "itemId": "each_others_possessive", "prompt": "The two sisters always borrow ___ clothes.", "answer": "each other's", "distractors": ["each other", "themselves", "each others"] },
-  { "id": 36, "itemId": "each_others_possessive", "prompt": "Team members should value ___ ideas.", "answer": "one another's", "distractors": ["one another", "each other", "each others"] },
-  { "id": 37, "itemId": "each_others_possessive", "prompt": "The neighbours look after ___ pets when they go on holiday.", "answer": "each other's", "distractors": ["each other", "themselves", "each others"] },
-  { "id": 38, "itemId": "each_others_possessive", "prompt": "Colleagues shouldn't read ___ private emails.", "answer": "each other's", "distractors": ["each other", "themselves", "each others"] },
-  { "id": 39, "itemId": "each_others_possessive", "prompt": "The couple always remember ___ birthdays.", "answer": "each other's", "distractors": ["each other", "themselves", "each others"] },
-  { "id": 40, "itemId": "each_others_possessive", "prompt": "All the players know ___ strengths and weaknesses.", "answer": "one another's", "distractors": ["one another", "each other", "each others"] }
+  {
+    "id": 1,
+    "itemId": "each_other_origins",
+    "prompt": "Old and Middle English 'each' could float away from its subject, exactly as it still does in 'They ___ brought a gift.'",
+    "answer": "each",
+    "distractors": [
+      "other",
+      "another",
+      "others"
+    ]
+  },
+  {
+    "id": 2,
+    "itemId": "each_other_origins",
+    "prompt": "The reciprocal pronoun formed when the floating word 'each' fused permanently with the anaphoric pronoun '___'.",
+    "answer": "other",
+    "distractors": [
+      "another",
+      "others",
+      "them"
+    ]
+  },
+  {
+    "id": 3,
+    "itemId": "each_other_origins",
+    "prompt": "Two independently meaningful words fusing into one fixed grammatical unit is a process linguists call ___.",
+    "answer": "univerbation",
+    "distractors": [
+      "inversion",
+      "bleaching",
+      "backshift"
+    ]
+  },
+  {
+    "id": 4,
+    "itemId": "each_other_origins",
+    "prompt": "Because 'each other' is now fully fused, modern English never allows *'They each really ___ loved' — the pronoun stays unbroken.",
+    "answer": "other",
+    "distractors": [
+      "another",
+      "others",
+      "same"
+    ]
+  },
+  {
+    "id": 5,
+    "itemId": "each_other_origins",
+    "prompt": "'Each other' behaves like a single-word pronoun such as 'themselves', which is direct evidence of ___.",
+    "answer": "grammaticalization",
+    "distractors": [
+      "conjugation",
+      "declension",
+      "mutation"
+    ]
+  },
+  {
+    "id": 6,
+    "itemId": "each_other_origins",
+    "prompt": "The living relic of 'each' floating away from its subject survives today in 'The students ___ passed the exam.'",
+    "answer": "each",
+    "distractors": [
+      "other",
+      "another",
+      "others"
+    ]
+  },
+  {
+    "id": 7,
+    "itemId": "each_other_origins",
+    "prompt": "'Each other' must always function as an object or complement, never as the ___ of a clause.",
+    "answer": "subject",
+    "distractors": [
+      "predicate",
+      "adverbial",
+      "article"
+    ]
+  },
+  {
+    "id": 8,
+    "itemId": "each_other_origins",
+    "prompt": "The possessive of the fused pronoun attaches only once, at the very end: each ___'s, never each's other.",
+    "answer": "other",
+    "distractors": [
+      "another",
+      "others",
+      "same"
+    ]
+  },
+  {
+    "id": 9,
+    "itemId": "one_another_myth",
+    "answer": "another",
+    "prompt": "'One another' contains a second, older fusion inside it: 'an' + 'other' had already merged into '___' in Middle English.",
+    "distractors": [
+      "other",
+      "others",
+      "each other"
+    ]
+  },
+  {
+    "id": 10,
+    "itemId": "one_another_myth",
+    "prompt": "The joking phrase 'a whole ___ story' accidentally re-splits the old seam hidden inside 'another'.",
+    "answer": "nother",
+    "distractors": [
+      "other",
+      "nudder",
+      "notion"
+    ]
+  },
+  {
+    "id": 11,
+    "itemId": "one_another_myth",
+    "prompt": "The rule that 'each other' is for two people and 'one another' is for three or more was invented by 18th–19th century ___, not inherited from earlier English.",
+    "answer": "prescriptivists",
+    "distractors": [
+      "monks",
+      "playwrights",
+      "translators"
+    ]
+  },
+  {
+    "id": 12,
+    "itemId": "one_another_myth",
+    "prompt": "Modern usage guides such as Merriam-Webster explicitly reject the two-versus-three-or-more rule as having no historical or ___ basis.",
+    "answer": "logical",
+    "distractors": [
+      "poetic",
+      "phonetic",
+      "regional"
+    ]
+  },
+  {
+    "id": 13,
+    "itemId": "one_another_myth",
+    "prompt": "The real modern difference between 'each other' and 'one another' is mainly one of ___, not of participant count.",
+    "answer": "register",
+    "distractors": [
+      "tense",
+      "gender",
+      "mood"
+    ]
+  },
+  {
+    "id": 14,
+    "itemId": "one_another_myth",
+    "prompt": "'___ other' tends to sound more formal or literary than the everyday 'each other'.",
+    "answer": "One another",
+    "distractors": [
+      "Some other",
+      "Any other",
+      "That other"
+    ]
+  },
+  {
+    "id": 15,
+    "itemId": "one_another_myth",
+    "prompt": "Texts from Old and Middle English through Shakespeare use both reciprocal pronouns ___ of how many participants are involved.",
+    "answer": "regardless",
+    "distractors": [
+      "because",
+      "depending",
+      "except"
+    ]
+  },
+  {
+    "id": 16,
+    "itemId": "one_another_myth",
+    "prompt": "'The three committee members respected ___ despite their disagreements' is perfectly natural with either reciprocal pronoun.",
+    "answer": "one another",
+    "distractors": [
+      "themselves",
+      "another",
+      "the other"
+    ]
+  },
+  {
+    "id": 17,
+    "itemId": "lexical_reciprocity",
+    "prompt": "Verbs like meet, marry, kiss and collide already build mutuality into their own meaning — linguists call these ___ verbs.",
+    "answer": "symmetric",
+    "distractors": [
+      "ergative",
+      "stative",
+      "transitive"
+    ]
+  },
+  {
+    "id": 18,
+    "itemId": "lexical_reciprocity",
+    "prompt": "'The two cars ___ at the intersection' cannot take 'each other' at all, because the verb is strictly intransitive.",
+    "answer": "collided",
+    "distractors": [
+      "hit",
+      "struck",
+      "crashed each other"
+    ]
+  },
+  {
+    "id": 19,
+    "itemId": "lexical_reciprocity",
+    "prompt": "Besides pronouns, English also marks mutuality with the Latin prefix ___-, as in interact and interconnect.",
+    "answer": "inter",
+    "distractors": [
+      "co",
+      "trans",
+      "sym"
+    ]
+  },
+  {
+    "id": 20,
+    "itemId": "lexical_reciprocity",
+    "prompt": "'David is a ___ friend of ours' uses an adjective instead of a reciprocal pronoun to express shared acquaintance.",
+    "answer": "mutual",
+    "distractors": [
+      "reciprocal",
+      "each",
+      "another"
+    ]
+  },
+  {
+    "id": 21,
+    "itemId": "lexical_reciprocity",
+    "prompt": "'They worked ___' describes mere co-presence, without specifying who acted on whom.",
+    "answer": "together",
+    "distractors": [
+      "each other",
+      "one another",
+      "mutually"
+    ]
+  },
+  {
+    "id": 22,
+    "itemId": "lexical_reciprocity",
+    "prompt": "'They've kissed ___ before, but this time felt different' adds emphasis even though the verb alone already implies mutuality.",
+    "answer": "each other",
+    "distractors": [
+      "together",
+      "themselves",
+      "mutually"
+    ]
+  },
+  {
+    "id": 23,
+    "itemId": "lexical_reciprocity",
+    "prompt": "Twins who 'think ___' use an adjective/adverb strategy for mutuality instead of a pronoun.",
+    "answer": "alike",
+    "distractors": [
+      "each other",
+      "mutual",
+      "another"
+    ]
+  },
+  {
+    "id": 24,
+    "itemId": "lexical_reciprocity",
+    "prompt": "With inherently symmetric verbs such as meet or marry, adding 'each other' is grammatically ___, not required.",
+    "answer": "optional",
+    "distractors": [
+      "forbidden",
+      "obligatory",
+      "archaic"
+    ]
+  },
+  {
+    "id": 25,
+    "itemId": "reflexive_vs_reciprocal",
+    "prompt": "'They blamed ___' means each person blamed only their own self.",
+    "answer": "themselves",
+    "distractors": [
+      "each other",
+      "one another",
+      "them"
+    ]
+  },
+  {
+    "id": 26,
+    "itemId": "reflexive_vs_reciprocal",
+    "prompt": "'They blamed ___' means person A blamed person B and person B blamed person A.",
+    "answer": "each other",
+    "distractors": [
+      "themselves",
+      "itself",
+      "them"
+    ]
+  },
+  {
+    "id": 27,
+    "itemId": "reflexive_vs_reciprocal",
+    "prompt": "Polish 'się' collapses reflexive and reciprocal meaning into one form, so 'Oni się obwiniają' is genuinely ___ without more context.",
+    "answer": "ambiguous",
+    "distractors": [
+      "ungrammatical",
+      "formal",
+      "archaic"
+    ]
+  },
+  {
+    "id": 28,
+    "itemId": "reflexive_vs_reciprocal",
+    "prompt": "Polish can force the mutual reading explicitly by adding the word '___' to a reflexive verb.",
+    "answer": "nawzajem",
+    "distractors": [
+      "siebie",
+      "sobie",
+      "razem"
+    ]
+  },
+  {
+    "id": 29,
+    "itemId": "reflexive_vs_reciprocal",
+    "prompt": "A quick test for translating 'się': if 'nawzajem' fits naturally into the Polish sentence, English needs '___', not 'themselves'.",
+    "answer": "each other",
+    "distractors": [
+      "themself",
+      "one",
+      "the same"
+    ]
+  },
+  {
+    "id": 30,
+    "itemId": "reflexive_vs_reciprocal",
+    "prompt": "'The children hurt ___ when they fell on the broken glass' describes each child injuring only their own self.",
+    "answer": "themselves",
+    "distractors": [
+      "each other",
+      "one another",
+      "them"
+    ]
+  },
+  {
+    "id": 31,
+    "itemId": "reflexive_vs_reciprocal",
+    "prompt": "'The children hurt ___ during the fight in the playground' describes injuries crossing between the children.",
+    "answer": "each other",
+    "distractors": [
+      "themselves",
+      "itself",
+      "himself"
+    ]
+  },
+  {
+    "id": 32,
+    "itemId": "reflexive_vs_reciprocal",
+    "prompt": "Direct calque translation of Polish 'się' is a classic source of ___ errors for Polish learners of English.",
+    "answer": "interference",
+    "distractors": [
+      "spelling",
+      "pronunciation",
+      "tense"
+    ]
+  },
+  {
+    "id": 33,
+    "itemId": "reciprocal_binding_constraints",
+    "prompt": "*'Each other left the room' is ungrammatical because the reciprocal pronoun has no ___ to borrow its reference from.",
+    "answer": "antecedent",
+    "distractors": [
+      "conjunction",
+      "determiner",
+      "auxiliary"
+    ]
+  },
+  {
+    "id": 34,
+    "itemId": "reciprocal_binding_constraints",
+    "prompt": "'Each other', like 'themselves', belongs to the grammatical class of ___ — pronouns with no independent reference of their own.",
+    "answer": "anaphors",
+    "distractors": [
+      "determiners",
+      "auxiliaries",
+      "conjunctions"
+    ]
+  },
+  {
+    "id": 35,
+    "itemId": "reciprocal_binding_constraints",
+    "prompt": "*'They said that each other were happy' fails because the antecedent 'they' sits in a different, higher ___ than 'each other'.",
+    "answer": "clause",
+    "distractors": [
+      "tense",
+      "register",
+      "phrase"
+    ]
+  },
+  {
+    "id": 36,
+    "itemId": "reciprocal_binding_constraints",
+    "prompt": "The requirement that a reciprocal's antecedent be nearby, in the same clause, is informally called Binding Principle ___.",
+    "answer": "A",
+    "distractors": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "itemId": "reciprocal_binding_constraints",
+    "prompt": "*'John loves each other' is ungrammatical because the antecedent is ___ in number.",
+    "answer": "singular",
+    "distractors": [
+      "plural",
+      "collective",
+      "definite"
+    ]
+  },
+  {
+    "id": 38,
+    "itemId": "reciprocal_binding_constraints",
+    "prompt": "'The ___ believe they understand each other perfectly' needs a plural or paired antecedent for the reciprocal to work.",
+    "answer": "twins",
+    "distractors": [
+      "twin",
+      "each",
+      "other"
+    ]
+  },
+  {
+    "id": 39,
+    "itemId": "reciprocal_binding_constraints",
+    "prompt": "'John and Mary love each other' is grammatical because 'and' joins two NPs into a single ___ antecedent.",
+    "answer": "plural",
+    "distractors": [
+      "singular",
+      "generic",
+      "definite"
+    ]
+  },
+  {
+    "id": 40,
+    "itemId": "reciprocal_binding_constraints",
+    "prompt": "'Each other' can occupy an object or prepositional-complement position, but never the ___ position of its clause.",
+    "answer": "subject",
+    "distractors": [
+      "adverbial",
+      "vocative",
+      "genitive"
+    ]
+  },
+  {
+    "id": 41,
+    "itemId": "strong_weak_reciprocity",
+    "prompt": "'They looked at each other' typically triggers the default, most intuitive reading called ___ reciprocity.",
+    "answer": "strong",
+    "distractors": [
+      "weak",
+      "partial",
+      "chain"
+    ]
+  },
+  {
+    "id": 42,
+    "itemId": "strong_weak_reciprocity",
+    "prompt": "'The soldiers followed each other into the trench' does not mean everyone followed everyone — it describes a ___ reading.",
+    "answer": "chain",
+    "distractors": [
+      "strong",
+      "reflexive",
+      "collective"
+    ]
+  },
+  {
+    "id": 43,
+    "itemId": "strong_weak_reciprocity",
+    "prompt": "'The books were stacked on top of each other' cannot literally mean every book sits on every other book, since that is physically ___.",
+    "answer": "impossible",
+    "distractors": [
+      "unlikely",
+      "informal",
+      "ungrammatical"
+    ]
+  },
+  {
+    "id": 44,
+    "itemId": "strong_weak_reciprocity",
+    "prompt": "Whether 'each other' gets a strong or a chain reading is decided by real-world plausibility, not by ___.",
+    "answer": "grammar",
+    "distractors": [
+      "vocabulary",
+      "punctuation",
+      "spelling"
+    ]
+  },
+  {
+    "id": 45,
+    "itemId": "strong_weak_reciprocity",
+    "prompt": "Perception and emotion verbs like trust, respect and admire naturally favour the ___ reading of 'each other'.",
+    "answer": "strong",
+    "distractors": [
+      "weak",
+      "chain",
+      "reflexive"
+    ]
+  },
+  {
+    "id": 46,
+    "itemId": "strong_weak_reciprocity",
+    "prompt": "Sequential or positional verbs like follow, stack, and lean against naturally favour the ___ reading.",
+    "answer": "chain",
+    "distractors": [
+      "strong",
+      "reflexive",
+      "collective"
+    ]
+  },
+  {
+    "id": 47,
+    "itemId": "strong_weak_reciprocity",
+    "prompt": "Semanticists label the weaker, adjacent-only relation of 'each other' as ___ reciprocity, distinct from the full pairwise kind.",
+    "answer": "weak",
+    "distractors": [
+      "strong",
+      "false",
+      "double"
+    ]
+  },
+  {
+    "id": 48,
+    "itemId": "strong_weak_reciprocity",
+    "prompt": "Translating a chain reading of 'each other' into Polish 'nawzajem' risks implying a stronger, fully ___ relation than intended.",
+    "answer": "pairwise",
+    "distractors": [
+      "singular",
+      "sequential",
+      "reflexive"
+    ]
+  },
+  {
+    "id": 49,
+    "itemId": "each_others_possessive",
+    "prompt": "The possessive of the fused pronoun is spelled 'each other's', with the apostrophe placed directly ___ the s.",
+    "answer": "before",
+    "distractors": [
+      "after",
+      "instead of",
+      "around"
+    ]
+  },
+  {
+    "id": 50,
+    "itemId": "each_others_possessive",
+    "prompt": "'*Each others' books' is a common error caused by false analogy with regular plural nouns such as 'the ___' books'.",
+    "answer": "students",
+    "distractors": [
+      "student's",
+      "student",
+      "each"
+    ]
+  },
+  {
+    "id": 51,
+    "itemId": "each_others_possessive",
+    "prompt": "'Each other' is not a plural noun, so it has no ___ ending of its own for the apostrophe to follow.",
+    "answer": "-s",
+    "distractors": [
+      "-es",
+      "-ies",
+      "-en"
+    ]
+  },
+  {
+    "id": 52,
+    "itemId": "each_others_possessive",
+    "prompt": "'They trust each ___' uses the bare form as a direct object, with no possessive marking at all.",
+    "answer": "other",
+    "distractors": [
+      "other's",
+      "others",
+      "another"
+    ]
+  },
+  {
+    "id": 53,
+    "itemId": "each_others_possessive",
+    "prompt": "'They trust each other's ___' uses the possessive form as a determiner modifying a following noun.",
+    "answer": "judgment",
+    "distractors": [
+      "judge",
+      "judging",
+      "judged"
+    ]
+  },
+  {
+    "id": 54,
+    "itemId": "each_others_possessive",
+    "prompt": "The each other / each other's split mirrors the object-versus-possessive split of ordinary pronouns like 'them' versus '___'.",
+    "answer": "their",
+    "distractors": [
+      "they",
+      "theirs",
+      "themselves"
+    ]
+  },
+  {
+    "id": 55,
+    "itemId": "each_others_possessive",
+    "prompt": "The rule that a possessive attaches once, to the end of a whole phrase rather than to a single word, is called the ___ genitive.",
+    "answer": "group",
+    "distractors": [
+      "double",
+      "split",
+      "floating"
+    ]
+  },
+  {
+    "id": 56,
+    "itemId": "each_others_possessive",
+    "prompt": "Respecting each other's ___ is essential in any healthy relationship.",
+    "answer": "boundaries",
+    "distractors": [
+      "boundary",
+      "bounding",
+      "bound"
+    ]
+  }
 ]

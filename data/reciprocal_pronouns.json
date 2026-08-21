@@ -1,98 +1,361 @@
 [
   {
-    "id": "each_other",
+    "id": "each_other_origins",
     "order": 1,
-    "nameEn": "each other — basic reciprocal pronoun",
-    "namePl": "each other — podstawowy zaimek wzajemny",
+    "nameEn": "each other — a fossilized floating quantifier",
+    "namePl": "each other — skamieniały kwantyfikator, który się rozpadł na dwoje",
     "rules": [
-      { "label": "Znaczenie", "text": "each other oznacza wzajemność czynności — dwie lub więcej osób robi coś sobie nawzajem" },
-      { "label": "Pozycja", "text": "Stoi w miejscu dopełnienia, po czasowniku lub po przyimku (look at each other)" },
-      { "label": "Liczba", "text": "Wymaga podmiotu w liczbie mnogiej lub kilku osób połączonych spójnikiem and" }
+      {
+        "label": "Dwa osobne słowa, zanim stały się jednym zaimkiem",
+        "text": "'Each' i 'other' zaczynały jako dwa całkowicie niezależne słowa o własnych, osobnych funkcjach. 'Each' było — i wciąż bywa — tzw. kwantyfikatorem dystrybutywnym, który mógł 'odlecieć' od podmiotu i wylądować gdzie indziej w zdaniu, dokładnie tak, jak dziś w 'They each brought a gift' ('Każde z nich przyniosło prezent') — 'each' nie stoi przy podmiocie 'they', tylko dryfuje w głąb zdania. 'Other' było zwykłym zaimkiem anaforycznym w znaczeniu 'ten drugi, pozostały (z pary lub grupy)', jak w 'one wanted tea, the other wanted coffee'. W średnioangielskim zdania typu 'oni kochali, każde, tego drugiego' zaczęły być odczytywane nie jako podmiot + odlatujący kwantyfikator + osobny obiekt, lecz jako jedna zrośnięta fraza dopełnieniowa — i tak narodził się dzisiejszy zaimek wzajemny."
+      },
+      {
+        "label": "Żywy ślad rozpadu: gdzie 'each' wciąż lata osobno",
+        "text": "Dowodem na to, że 'each other' nie zawsze było jednym słowem, jest fakt, że sam mechanizm 'latającego each' (floating quantifier, opisany osobno w temacie o kwantyfikatorach ruchomych) wciąż żyje w angielszczyźnie niezależnie od zaimka wzajemnego: 'The students each passed the exam' znaczy dokładnie to samo, co 'Each of the students passed the exam' — 'each' oderwało się od NP podmiotu i przesunęło się w prawo. Gdy taki oderwany 'each' spotkał się w tej samej pozycji z obiektowym 'other', oba słowa zrosły się w jedną, nierozdzielną jednostkę składniową — dzisiejsze 'each other' to w istocie skamielina dokładnie tego samego mechanizmu, który wciąż normalnie działa gdzie indziej w gramatyce."
+      },
+      {
+        "label": "Dowód na pełną fuzję: dlaczego nic nie da się dziś wcisnąć między te słowa",
+        "text": "Dokładnie tak, jak inne zaimki powstałe z zszycia dwóch słów w jedno (np. 'someone' z 'some' + 'one', czy zaimki zwrotne 'themselves' z 'them' + 'selves'), 'each other' zachowuje się dziś składniowo jak absolutnie pojedyncze, niepodzielne słowo, mimo że wciąż piszemy je jako dwa wyrazy. Nie można go rozerwać przysłówkiem ani niczym innym (*'they each really other loved' jest niegramatyczne), nie można przenieść samego 'each' z powrotem do podmiotu przy zachowaniu znaczenia wzajemności, a dopełniacz dokłada się tylko raz, na samym końcu całej frazy ('each other's', nigdy 'each's other'). To najlepszy dowód na to, że proces uniwerbizacji (zrośnięcia dwóch słów w jeden nierozdzielny zaimek) zakończył się w pełni."
+      }
     ],
     "usage": [
-      "Gdy dwie lub więcej osoby wykonują tę samą czynność wobec siebie nawzajem (They helped each other.)",
-      "Po czasownikach z przyimkiem (look at, talk to, write to) — each other stoi po przyimku",
-      "Zamiast powtarzać podmiot i dopełnienie osobno (Anna loves Tom and Tom loves Anna → Anna and Tom love each other.)",
-      "Zawsze jako dopełnienie, nigdy jako podmiot zdania"
+      "Traktowanie 'each other' jako jednego nierozdzielnego zaimka, a nie dwóch osobnych słów, które można rozsunąć",
+      "Rozpoznawanie pokrewieństwa z żywym mechanizmem 'latającego each' (They each got a present) jako historycznego źródła dzisiejszego zaimka wzajemnego",
+      "Umieszczanie 'each other' zawsze w pozycji dopełnienia (po czasowniku lub po przyimku), nigdy jako podmiotu",
+      "Świadomość, że dopełniacz 's dokłada się tylko raz, na samym końcu całej zrośniętej frazy"
     ],
-    "tags": ["help each other", "look at each other", "love each other", "talk to each other"],
+    "tags": [
+      "floating quantifier",
+      "univerbation",
+      "each + other",
+      "grammaticalization",
+      "each other's"
+    ],
     "examples": [
-      { "en": "Anna and Tom love each other very much.", "pl": "Anna i Tom bardzo się kochają (nawzajem)." },
-      { "en": "The two teams shook hands with each other after the match.", "pl": "Obie drużyny uścisnęły sobie ręce po meczu." },
-      { "en": "We always help each other with homework.", "pl": "Zawsze pomagamy sobie nawzajem w pracy domowej." },
-      { "en": "They haven't spoken to each other since the argument.", "pl": "Nie rozmawiali ze sobą od czasu kłótni." }
+      {
+        "en": "They each brought a bottle of wine to the party.",
+        "pl": "Każde z nich przyniosło na przyjęcie butelkę wina."
+      },
+      {
+        "en": "They have loved each other since they were teenagers.",
+        "pl": "Kochają się (nawzajem) odkąd byli nastolatkami."
+      },
+      {
+        "en": "Middle English could still express this relation with a loose 'each ... the other' before the two words fused into a single pronoun.",
+        "pl": "Średnioangielski wciąż potrafił wyrazić tę relację luźnym 'each ... the other', zanim oba słowa zrosły się w jeden zaimek."
+      },
+      {
+        "en": "*'They each really other trust' is impossible — modern English keeps the fused pronoun unbroken.",
+        "pl": "*'They each really other trust' jest niemożliwe — współczesny angielski trzyma zrośnięty zaimek w całości."
+      }
     ]
   },
   {
-    "id": "one_another",
+    "id": "one_another_myth",
     "order": 2,
-    "nameEn": "each other vs one another",
-    "namePl": "each other a one another",
+    "nameEn": "one another — and the invented 'two versus three or more' rule",
+    "namePl": "one another — i wymyślona reguła 'dwie osoby kontra więcej'",
     "rules": [
-      { "label": "Tradycyjna zasada", "text": "each other używa się tradycyjnie dla dwóch osób, one another dla więcej niż dwóch" },
-      { "label": "Współczesny angielski", "text": "We współczesnym angielskim to rozróżnienie w dużej mierze zanikło — oba wyrażenia są używane zamiennie, niezależnie od liczby osób" },
-      { "label": "Rejestr", "text": "one another brzmi nieco bardziej formalnie / pisemnie niż each other" }
+      {
+        "label": "Ten sam mechanizm, inne cegiełki: 'one' + 'another'",
+        "text": "'One another' powstało dokładnie tym samym mechanizmem uniwerbizacji co 'each other', tylko z innych materiałów budulcowych: zamiast dystrybutywnego 'each', na start wzięto liczebnik/zaimek 'one', a zamiast gołego 'other' — samo 'another', które jest już swoją własną, wcześniejszą uniwerbizacją: 'an' (nieokreślony przedimek, historycznie liczebnik 'jeden') + 'other' zrosły się w jedno słowo już w średnioangielskim. Ślad tamtego rozpadu wciąż czasem wypływa na powierzchnię w żartobliwym, celowo błędnym 'reparsingu' — 'a whole nother story' — gdzie mówiący nieświadomie odtwarza dawną granicę między 'an' i 'other'. 'One another' to więc podwójna uniwerbizacja: najpierw 'an' + 'other' → 'another', a potem 'one' + 'another' → 'one another'."
+      },
+      {
+        "label": "Reguła '2 osoby = each other, 3+ = one another' — wymysł gramatyków, nie fakt historyczny",
+        "text": "Wielu uczących się (i niestety wielu podręczników) powtarza 'żelazną zasadę': each other dla dwóch osób, one another dla trzech i więcej. To jednak nie jest odziedziczone prawo gramatyczne, lecz wymyślona norma spreskryptywistycznych gramatyków z XVIII–XIX wieku — dokładnie ten sam nurt, który ukuł mit o zakazie rozdzielania bezokolicznika czy kończenia zdania przyimkiem (opisane osobno w temacie o rozdzielonym bezokoliczniku). Teksty od staro- i średnioangielskiego, przez Szekspira, aż po współczesność, pokazują oba wyrażenia używane zamiennie niezależnie od liczby uczestników — współczesne słowniki normatywne (m.in. Merriam-Webster i Fowler's Modern English Usage) wprost odrzucają tę regułę jako pozbawioną podstawy historycznej i logicznej."
+      },
+      {
+        "label": "Prawdziwa różnica: nie liczba osób, lecz rejestr",
+        "text": "Jeśli istnieje realna różnica między tymi dwoma wyrażeniami we współczesnym angielskim, to nie dotyczy liczby uczestników, lecz rejestru: 'each other' zdecydowanie dominuje w mowie potocznej i codziennym piśmie niezależnie od liczby osób, podczas gdy 'one another' brzmi nieco bardziej formalnie, literacko lub oficjalnie — to jedna z tych par, w których dwa historycznie równoległe wyrażenia przetrwały obok siebie nie dzięki podziałowi znaczeniowemu, ale dzięki podziałowi stylistycznemu."
+      }
     ],
     "usage": [
-      "Gdy mowa o dokładnie dwóch osobach — tradycyjnie each other (The couple looked at each other.)",
-      "Gdy mowa o grupie więcej niż dwóch osób — tradycyjnie one another (The students helped one another.)",
-      "W tekstach formalnych i pisanych one another jest częstsze",
-      "W mowie potocznej each other dominuje niezależnie od liczby osób"
+      "Używanie 'each other' i 'one another' zamiennie niezależnie od liczby osób, wbrew mitowi ze szkolnych podręczników",
+      "Wybieranie 'one another' w rejestrze bardziej formalnym lub pisanym, a 'each other' w mowie potocznej",
+      "Rozpoznawanie 'another' jako własnej, wcześniejszej uniwerbizacji 'an' + 'other'",
+      "Traktowanie reguły '2 vs 3+' jako spreskryptywistycznego mitu, a nie faktu gramatycznego wartego zapamiętania"
     ],
-    "tags": ["one another", "help one another", "support one another", "respect one another"],
+    "tags": [
+      "an + other = another",
+      "prescriptive myth",
+      "register",
+      "one another",
+      "a whole nother story"
+    ],
     "examples": [
-      { "en": "The two friends hugged each other at the airport.", "pl": "Dwie przyjaciółki przytuliły się (nawzajem) na lotnisku." },
-      { "en": "Members of the team should respect one another.", "pl": "Członkowie zespołu powinni się nawzajem szanować." },
-      { "en": "The neighbours often borrow tools from one another.", "pl": "Sąsiedzi często pożyczają sobie nawzajem narzędzia." },
-      { "en": "In good relationships, partners support each other.", "pl": "W dobrych związkach partnerzy wspierają się nawzajem." }
+      {
+        "en": "The three committee members respected one another despite their disagreements.",
+        "pl": "Trzej członkowie komisji szanowali się nawzajem mimo różnicy zdań."
+      },
+      {
+        "en": "The two old friends still write to each other every month.",
+        "pl": "Dwoje starych przyjaciół wciąż pisze do siebie co miesiąc."
+      },
+      {
+        "en": "Despite what some grammar books claim, there is no real rule forcing 'one another' onto groups of three or more.",
+        "pl": "Wbrew temu, co twierdzą niektóre podręczniki, nie istnieje realna reguła narzucająca 'one another' grupom trzy- i więcejosobowym."
+      },
+      {
+        "en": "'That's a whole nother story' accidentally reveals the old 'an' + 'other' seam inside 'another'.",
+        "pl": "'That's a whole nother story' przypadkiem odsłania dawny szew 'an' + 'other' ukryty w słowie 'another'."
+      }
+    ]
+  },
+  {
+    "id": "lexical_reciprocity",
+    "order": 3,
+    "nameEn": "When the verb already says it: meet, marry, kiss, collide",
+    "namePl": "Kiedy czasownik już to mówi: meet, marry, kiss, collide",
+    "rules": [
+      {
+        "label": "Czasowniki symetryczne: wzajemność wbudowana w samo znaczenie",
+        "text": "Zaimek wzajemny to nie jedyne narzędzie wyrażania wzajemności w angielskim — niektóre czasowniki mają symetrię wbudowaną wprost w swoje znaczenie leksykalne. Jeśli X spotyka Y, to logicznie zawsze i automatycznie Y spotyka X w tym samym momencie — te dwa fakty nie dają się rozdzielić. Do tej klasy czasowników symetrycznych należą m.in. meet, marry, kiss, hug, embrace, collide, quarrel, argue, agree, disagree oraz correspond (with). Przy takich czasownikach sam podmiot w liczbie mnogiej ('They met.', 'They kissed.', 'The cars collided.') już logicznie zawiera w sobie wzajemność — dodanie 'each other' jest więc gramatycznie opcjonalne, a czasem wręcz niemożliwe."
+      },
+      {
+        "label": "Cztery różne narzędzia w tym samym zestawie do wyrażania wzajemności",
+        "text": "Angielski dysponuje całym zestawem strategii wyrażania wzajemności, z których zaimek (each other / one another) to tylko jedna: strategia leksykalna — czasowniki symetryczne z poprzedniej reguły; strategia przysłówkowa — 'together' oraz 'mutually'; strategia przedrostkowa — łaciński przedrostek inter- ('między') w słowach takich jak interact, interconnect, interrelate, international; oraz strategia przymiotnikowa/przysłówkowa — 'mutual' (a mutual friend) i 'alike' (look alike, think alike). Znajomość tego zestawu pozwala unikać sztucznego, nadmiarowego dorzucania 'each other' tam, gdzie angielski ma już naturalniejsze, krótsze rozwiązanie."
+      },
+      {
+        "label": "'Together' to nie to samo co 'each other': współobecność kontra celowana wzajemność",
+        "text": "'Together' opisuje jedynie współobecność lub współdziałanie w tym samym czasie i miejscu, bez precyzowania, kto konkretnie co komu zrobił — 'They worked together' nie mówi nic o tym, czy ktokolwiek oddziaływał bezpośrednio na kogoś innego. 'Each other' natomiast zawsze wskazuje konkretną, ukierunkowaną relację między uczestnikami — 'They criticized each other' jednoznacznie mówi, że działanie krzyżowało się między nimi, docierając od jednej osoby do drugiej. Mylenie tych dwóch narzędzi to częsty błąd: 'together' jest słabsze i bardziej ogólne, 'each other' jest precyzyjne i skierowane."
+      }
+    ],
+    "usage": [
+      "Pomijanie 'each other' przy czasownikach symetrycznych (meet, kiss, hug), gdzie jest ono gramatycznie opcjonalne",
+      "Rozpoznawanie czasowników, przy których 'each other' jest wręcz niemożliwe, bo czasownik jest nieprzechodni (*collided each other)",
+      "Sięganie po 'mutual' jako przymiotnikową alternatywę dla zaimka wzajemnego (a mutual friend zamiast a friend they know each other)",
+      "Rozróżnianie 'together' (współobecność, brak precyzji kierunku) od 'each other' (precyzyjnie ukierunkowana wzajemność)"
+    ],
+    "tags": [
+      "symmetric verbs",
+      "meet vs meet each other",
+      "collide",
+      "mutual",
+      "together vs each other"
+    ],
+    "examples": [
+      {
+        "en": "We first met at a conference in Berlin back in 2011.",
+        "pl": "Poznaliśmy się po raz pierwszy na konferencji w Berlinie w 2011 roku."
+      },
+      {
+        "en": "They've kissed each other before, but this time felt different.",
+        "pl": "Całowali się już wcześniej, ale tym razem było inaczej."
+      },
+      {
+        "en": "The two cars collided head-on at the intersection.",
+        "pl": "Dwa samochody zderzyły się czołowo na skrzyżowaniu."
+      },
+      {
+        "en": "David is actually a mutual friend of ours from university.",
+        "pl": "David jest właściwie naszym wspólnym znajomym ze studiów."
+      },
+      {
+        "en": "They worked together for years without ever fully trusting each other.",
+        "pl": "Pracowali razem przez lata, nigdy tak naprawdę sobie nawzajem nie ufając."
+      }
     ]
   },
   {
     "id": "reflexive_vs_reciprocal",
-    "order": 3,
-    "nameEn": "themselves vs each other",
-    "namePl": "themselves a each other — częsty błąd",
+    "order": 4,
+    "nameEn": "themselves vs each other — and why Polish 'się' hides the difference",
+    "namePl": "themselves a each other — i dlaczego polskie 'się' zaciera tę różnicę",
     "rules": [
-      { "label": "Zaimek zwrotny", "text": "themselves / ourselves / yourselves — czynność zwrócona do samego siebie (każda osoba robi coś sobie samej)" },
-      { "label": "Zaimek wzajemny", "text": "each other / one another — czynność skierowana od jednej osoby do drugiej, nawzajem" },
-      { "label": "Test znaczeniowy", "text": "Jeśli zdanie znaczy 'zrobili to sobie nawzajem', użyj each other; jeśli 'każdy zrobił to sobie samemu', użyj themselves" }
+      {
+        "label": "Kierunek działania: do wewnątrz (zwrotność) czy w poprzek (wzajemność)",
+        "text": "Zaimek zwrotny i zaimek wzajemny wyglądają podobnie (oba stoją w pozycji dopełnienia i odwołują się do podmiotu), ale opisują dokładnie przeciwne kierunki działania. 'They blamed themselves' znaczy, że KAŻDA osoba obwiniła WYŁĄCZNIE samą siebie — działanie odbija się do wewnątrz, do tego samego uczestnika, który je wykonał. 'They blamed each other' znaczy, że osoba A obwiniła osobę B, a osoba B obwiniła osobę A — działanie przecina się w poprzek, między różnymi uczestnikami. To rozróżnienie nazywa się w gramatyce opozycją zwrotność/wzajemność (reflexivity/reciprocity) i jest jedną z podstawowych osi znaczeniowych, wzdłuż których działa cała rodzina zaimków odsyłających do podmiotu."
+      },
+      {
+        "label": "Polskie 'się': jedna forma na obie zupełnie różne relacje",
+        "text": "Polski zaimek zwrotny 'się' pokrywa jednym, niezróżnicowanym morfemem obie te relacje naraz — 'Oni się obwiniają' może po polsku znaczyć zarówno 'każdy z nich obwinia samego siebie' (zwrotność), jak i, znacznie częściej w naturalnej interpretacji, 'obwiniają się nawzajem' (wzajemność). Polski rozstrzyga tę dwuznaczność kontekstem albo dorzuceniem słowa 'nawzajem' dla wymuszenia odczytu wzajemnego, lub 'siebie samych' dla wymuszenia odczytu zwrotnego — ale sama forma czasownika z 'się' milczy na ten temat. Angielski nigdy nie pozwala na taką dwuznaczność: rozstrzygnięcie jest wbudowane wprost w wybór zaimka (themselves kontra each other), więc trzeba je podjąć świadomie przy każdym zdaniu."
+      },
+      {
+        "label": "Praktyczny test: czy da się dorzucić 'nawzajem'?",
+        "text": "To rozróżnienie jest źródłem jednego z najczęstszych błędów interferencyjnych u Polaków uczących się angielskiego: bezrefleksyjne tłumaczenie 'się' jako 'themselves', nawet gdy intencją było wyrażenie wzajemności. Prosty test kontrolny: jeśli do polskiego zdania z 'się' da się sensownie dorzucić słowo 'nawzajem' bez zmiany znaczenia (np. 'obwiniają się [nawzajem]'), angielski wymaga 'each other', nie 'themselves'. Jeśli dorzucenie 'nawzajem' brzmi absurdalnie lub zmienia sens (np. 'skaleczyli się [nawzajem?]' przy upadku na potłuczone szkło — tu naturalnie każdy skaleczył WYŁĄCZNIE samego siebie), właściwym wyborem jest 'themselves'."
+      }
     ],
     "usage": [
-      "They blamed themselves = każdy obwiniał samego siebie (nie innych)",
-      "They blamed each other = obwiniali się nawzajem (jeden drugiego)",
-      "Czasowniki typu hurt, blame, look at, introduce mogą przyjmować oba zaimki — ale ze zupełnie inną wymową",
-      "W ćwiczeniach zwracaj uwagę na kontekst, kto komu robi daną czynność"
+      "Wybieranie 'each other', gdy działanie przechodzi między co najmniej dwoma różnymi uczestnikami",
+      "Wybieranie 'themselves' wyłącznie wtedy, gdy działanie każdego uczestnika wraca do niego samego",
+      "Stosowanie testu 'czy da się dorzucić nawzajem' jako szybkiej kontroli przy tłumaczeniu z polskiego",
+      "Świadome unikanie kalki z polskiego 'się', które zaciera to rozróżnienie w wyjściowym zdaniu"
     ],
-    "tags": ["blame themselves", "blame each other", "hurt themselves", "hurt each other"],
+    "tags": [
+      "reflexive vs reciprocal",
+      "się",
+      "nawzajem",
+      "themselves",
+      "each other"
+    ],
     "examples": [
-      { "en": "The children hurt themselves while playing in the garden.", "pl": "Dzieci zraniły się (same, każde siebie) podczas zabawy w ogrodzie." },
-      { "en": "The two boys hurt each other during the fight.", "pl": "Obaj chłopcy zranili się nawzajem podczas bójki." },
-      { "en": "Stop blaming yourselves, it wasn't your fault.", "pl": "Przestańcie obwiniać samych siebie, to nie była wasza wina." },
-      { "en": "After the accident, the drivers blamed each other.", "pl": "Po wypadku kierowcy obwiniali się nawzajem." }
+      {
+        "en": "The children hurt themselves when they fell on the broken glass.",
+        "pl": "Dzieci skaleczyły się (same, każde z osobna), kiedy upadły na potłuczone szkło."
+      },
+      {
+        "en": "The children hurt each other during the fight in the playground.",
+        "pl": "Dzieci skaleczyły się nawzajem podczas bójki na placu zabaw."
+      },
+      {
+        "en": "'Oni się obwiniają' is genuinely ambiguous in Polish, but English forces a choice: 'They blame themselves' or 'They blame each other'.",
+        "pl": "'Oni się obwiniają' jest po polsku prawdziwie dwuznaczne, ale angielski wymusza wybór: 'They blame themselves' albo 'They blame each other'."
+      },
+      {
+        "en": "He blamed himself for months after the deal fell through.",
+        "pl": "Obwiniał samego siebie przez miesiące po tym, jak transakcja upadła."
+      }
+    ]
+  },
+  {
+    "id": "reciprocal_binding_constraints",
+    "order": 5,
+    "nameEn": "Why 'each other' can never be the subject",
+    "namePl": "Dlaczego 'each other' nigdy nie może być podmiotem",
+    "rules": [
+      {
+        "label": "Zaimek, który nie ma własnego odniesienia — musi je pożyczyć",
+        "text": "'Each other', podobnie jak zaimki zwrotne (myself, themselves), należy do klasy tzw. anafor — zaimków, które nie niosą żadnego samodzielnego znaczenia odniesienia, lecz muszą je w całości pożyczyć od wcześniejszego wyrażenia w tym samym zdaniu (antecedentu). Właśnie dlatego 'each other' nigdy nie może pełnić funkcji podmiotu: podmiot zdania jest zwykle pierwszym, najważniejszym punktem odniesienia — nie ma niczego wcześniejszego, od czego mógłby pożyczyć znaczenie. Zdanie *'Each other left the room' jest niegramatyczne właśnie dlatego, że 'each other' nie ma tu żadnego antecedentu, do którego mogłoby się odwołać."
+      },
+      {
+        "label": "Zasada bliskości: antecedent musi być w tym samym zdaniu podrzędnym",
+        "text": "Anafory takie jak 'each other' potrzebują swojego antecedentu blisko — zazwyczaj w tym samym zdaniu składowym (klauzuli), a nie w zdaniu nadrzędnym o jedno piętro wyżej. Ta zasada bliskości bywa nieformalnie nazywana Zasadą A wiązania (Binding Principle A) i rządzi jednakowo zaimkami zwrotnymi i wzajemnymi. Dlatego *'They said that each other were happy' jest niegramatyczne — antecedent 'they' siedzi w zdaniu głównym, a 'each other' w zdaniu podrzędnym, zbyt daleko, by móc się do niego odwołać. Poprawnie: 'They said (that) they made each other happy' — tu antecedent i zaimek wzajemny stoją razem, w tej samej klauzuli."
+      },
+      {
+        "label": "Wymóg liczby mnogiej: wzajemność logicznie niemożliwa przy jednym uczestniku",
+        "text": "Antecedent zaimka wzajemnego musi oznaczać co najmniej dwie odrębne jednostki — pojedynczą osobę, rzecz czy zbiorowość w liczbie pojedynczej, albo dwa lub więcej wyrażenia połączone spójnikiem 'and'. Jest to wymóg czysto logiczny, nie arbitralny: wzajemność zakłada z definicji co najmniej dwóch uczestników wymieniających działanie, więc pojedynczy uczestnik nie może fizycznie spełnić tego warunku. Stąd *'John loves each other' jest niegramatyczne (podmiot w liczbie pojedynczej), a poprawne formy to 'John and Mary love each other' lub 'The couple love each other', gdzie antecedent — mimo formy gramatycznej liczby pojedynczej w przypadku 'the couple' — semantycznie oznacza dwie osoby."
+      }
+    ],
+    "usage": [
+      "Sprawdzanie, czy 'each other' nie znalazło się przypadkiem w pozycji podmiotu zdania",
+      "Weryfikowanie, że antecedent 'each other' stoi w tej samej klauzuli, a nie w zdaniu nadrzędnym",
+      "Upewnianie się, że antecedent oznacza co najmniej dwie odrębne jednostki, a nie pojedynczą osobę",
+      "Poprawianie typowych błędów uczących się typu *'Each other help us' czy *'They said each other were right'"
+    ],
+    "tags": [
+      "binding",
+      "anaphor",
+      "locality",
+      "Principle A",
+      "plural antecedent"
+    ],
+    "examples": [
+      {
+        "en": "They know each other extremely well after ten years of friendship.",
+        "pl": "Znają się nawzajem wyjątkowo dobrze po dziesięciu latach przyjaźni."
+      },
+      {
+        "en": "*'Each other know them well' is impossible — the reciprocal pronoun can never be the subject.",
+        "pl": "*'Each other know them well' jest niemożliwe — zaimek wzajemny nigdy nie może być podmiotem."
+      },
+      {
+        "en": "The twins believe they understand each other perfectly.",
+        "pl": "Bliźniaki wierzą, że doskonale się nawzajem rozumieją."
+      },
+      {
+        "en": "Real reciprocity can only exist between at least two participants — never for a single person acting alone.",
+        "pl": "Prawdziwa wzajemność może istnieć tylko między co najmniej dwoma uczestnikami — nigdy dla jednej osoby działającej samotnie."
+      }
+    ]
+  },
+  {
+    "id": "strong_weak_reciprocity",
+    "order": 6,
+    "nameEn": "Strong, weak, and chain reciprocity — 'each other' does not always mean 'every pair'",
+    "namePl": "Silna, słaba i łańcuchowa wzajemność — 'each other' nie zawsze znaczy 'każda para'",
+    "rules": [
+      {
+        "label": "Domyślny model myślowy: silna wzajemność, czyli 'każdy z każdym'",
+        "text": "Pierwszy, intuicyjny model myślowy, jaki uczący się budują dla 'each other', to silna (pełna) wzajemność: 'They looked at each other' zwykle rozumiemy tak, że w małej grupie każda osoba spojrzała na każdą inną osobę, a w parze — osoba A spojrzała na B i B spojrzała na A. To jest rzeczywiście najczęstsza, domyślna interpretacja przy czasownikach percepcji, emocji i oceny (look at, trust, respect, love each other) — pełna, symetryczna sieć relacji między wszystkimi uczestnikami naraz."
+      },
+      {
+        "label": "Zwrot akcji: wzajemność łańcuchowa, gdzie nie każdy z każdym",
+        "text": "Wiele naturalnych zdań z 'each other' wcale jednak nie oznacza pełnej sieci 'każdy z każdym', lecz znacznie słabszą relację łańcuchową: 'The soldiers followed each other into the trench' nie znaczy, że każdy żołnierz podążał za każdym innym — oznacza, że każdy podążał za tym bezpośrednio przed nim, tworząc sekwencję (A za B, B za C, C za D...). Podobnie 'The books were stacked on top of each other' fizycznie nie może znaczyć, że każda książka leży bezpośrednio na każdej innej — oznacza jedynie, że każda leży na sąsiedniej, tworząc łańcuch. Semantycy nazywają to słabą (łańcuchową) wzajemnością, w odróżnieniu od silnej wzajemności z poprzedniej reguły."
+      },
+      {
+        "label": "Kto decyduje o odczycie? Nie gramatyka, lecz realia świata",
+        "text": "Wybór między odczytem silnym a łańcuchowym nie jest w żaden sposób zaznaczony w samej strukturze zdania z 'each other' — o interpretacji decyduje wyłącznie wiedza pragmatyczna o prawdopodobieństwie danej sytuacji w świecie oraz znaczenie leksykalne czasownika. Czasowniki percepcji i emocji (look at, admire, trust) naturalnie sugerują pełną sieć relacji; czasowniki sekwencyjne lub pozycyjne (follow, stack, lean against, queue behind) naturalnie sugerują łańcuch. Płynne rozumienie 'each other' wymaga więc nie tylko znajomości gramatyki, ale i rozumowania o realiach opisywanej sytuacji — subtelność rzadko poruszana w podręcznikach, a kluczowa na poziomie C2."
+      }
+    ],
+    "usage": [
+      "Rozpoznawanie domyślnej silnej wzajemności przy czasownikach percepcji i emocji (look at, trust, respect each other)",
+      "Rozpoznawanie odczytu łańcuchowego przy czasownikach sekwencyjnych i pozycyjnych (follow, stack, lean against each other)",
+      "Rozumienie, że gramatyka nie rozstrzyga tej różnicy — rozstrzyga ją realistyczność sytuacji opisanej czasownikiem",
+      "Uważność przy tłumaczeniu na polskie 'nawzajem', które może sugerować silniejszą, pełną wzajemność niż w istocie zamierzona"
+    ],
+    "tags": [
+      "strong reciprocity",
+      "weak reciprocity",
+      "chain reading",
+      "semantics of reciprocals"
+    ],
+    "examples": [
+      {
+        "en": "The old friends hugged each other warmly at the reunion.",
+        "pl": "Starzy przyjaciele przytulili się nawzajem serdecznie na zjeździe."
+      },
+      {
+        "en": "The dominoes toppled against each other in a long, sweeping chain.",
+        "pl": "Domino przewracało się jedno o drugie w długim, płynnym łańcuchu."
+      },
+      {
+        "en": "The runners followed each other around the track in a tight single line.",
+        "pl": "Biegacze podążali jeden za drugim wokół bieżni w ciasnej, jednej linii."
+      },
+      {
+        "en": "The board members genuinely respect each other's opinions, even when they disagree.",
+        "pl": "Członkowie zarządu naprawdę szanują swoje nawzajem zdania, nawet gdy się nie zgadzają."
+      }
     ]
   },
   {
     "id": "each_others_possessive",
-    "order": 4,
-    "nameEn": "each other's — possessive form",
-    "namePl": "each other's — forma dzierżawcza",
+    "order": 7,
+    "nameEn": "each other's — one fused pronoun taking a single 's",
+    "namePl": "each other's — jeden zrośnięty zaimek z jednym dopełniaczem 's",
     "rules": [
-      { "label": "Budowa", "text": "Dodajemy 's do each other, tak jak przy dopełniaczu saksońskim (each other's, one another's)" },
-      { "label": "Funkcja", "text": "Wskazuje, że coś należy do drugiej osoby, a czynność jest wzajemna" },
-      { "label": "Błąd", "text": "Nie mylić z each others (bez apostrofu) — taka forma nie istnieje w standardowym angielskim" }
+      {
+        "label": "Dopełniacz na samym końcu zrośniętej frazy, nie w środku",
+        "text": "Skoro 'each other' funkcjonuje dziś jako jeden nierozdzielny zaimek (co ustaliła pierwsza część tego tematu), dopełniacz 's — historyczna końcówka przypadka, która z czasem wyewoluowała w znacznik doczepiany do końca całej frazy rzeczownikowej, a nie do pojedynczego słowa (tzw. dopełniacz grupowy, omówiony osobno w swoim własnym temacie) — dokłada się dokładnie raz, na samym końcu zrośniętej frazy: 'each other's'. Nigdy nie doczepia się go do samego 'each' (*'each's other book'), ani nie powtarza się go na obu członach naraz."
+      },
+      {
+        "label": "Częsty błąd: fałszywa liczba mnoga w 'each others''",
+        "text": "Ponieważ zapisane 'each other's' z pozoru przypomina zwykły rzeczownik w liczbie mnogiej z dopełniaczem (jak 'the students' books'), wielu piszących — także rodzimych użytkowników — błędnie umieszcza apostrof po nieistniejącej końcówce liczby mnogiej: '*each others' books'. Tymczasem 'each other' nie jest rzeczownikiem w liczbie mnogiej i nie ma żadnej własnej końcówki -s do zaznaczenia mnogości — jedyne poprawne miejsce apostrofu to bezpośrednio przed literą s, czyli 'each other's', nigdy po niej."
+      },
+      {
+        "label": "Dwie różne role: 'each other' jako dopełnienie kontra 'each other's' jako determinator",
+        "text": "'Each other' samo w sobie pełni funkcję dopełnienia bliższego lub przyimkowego ('They trust each other'), natomiast 'each other's' pełni zupełnie inną funkcję składniową — determinatora dzierżawczego stojącego przed rzeczownikiem ('They trust each other's judgment'). Ten podział funkcjonalny dokładnie odzwierciedla znane rozróżnienie zwykłych zaimków osobowych między formą dopełnieniową a dzierżawczą ('them' kontra 'their') — mimo że 'each other' jest historycznie dużo młodszym, zrośniętym tworem, odziedziczyło ten sam wzorzec podwójnej roli."
+      }
     ],
     "usage": [
-      "Przed rzeczownikiem, tak jak inne formy dzierżawcze (each other's books, one another's opinions)",
-      "Gdy dwie lub więcej osoby posiadają / używają czegoś należącego do drugiej strony",
-      "Często z rzeczownikami takimi jak names, opinions, homes, problems",
-      "Zawsze each other's, nigdy each others' ani each others"
+      "Umieszczanie apostrofu bezpośrednio przed literą s, tuż po słowie 'other' (each other's, nigdy each others')",
+      "Używanie 'each other's' wyłącznie jako determinatora dzierżawczego przed rzeczownikiem, nie jako samodzielnego dopełnienia",
+      "Traktowanie pary each other / each other's jako odpowiednika dopełnieniowego 'them' i dzierżawczego 'their'",
+      "Podwójne sprawdzanie tej pisowni w tekście pisanym, ponieważ błąd analogii do zwykłej liczby mnogiej jest wyjątkowo częsty"
     ],
-    "tags": ["each other's names", "each other's homes", "know each other's", "respect each other's"],
+    "tags": [
+      "each other's",
+      "apostrophe placement",
+      "group genitive",
+      "possessive determiner"
+    ],
     "examples": [
-      { "en": "We often visit each other's houses at the weekend.", "pl": "Często odwiedzamy nawzajem swoje domy w weekend." },
-      { "en": "The students corrected each other's essays.", "pl": "Uczniowie poprawiali sobie nawzajem wypracowania." },
-      { "en": "Good friends know each other's secrets.", "pl": "Dobrzy przyjaciele znają swoje nawzajem sekrety." },
-      { "en": "They respect one another's opinions, even when they disagree.", "pl": "Szanują nawzajem swoje opinie, nawet gdy się nie zgadzają." }
+      {
+        "en": "They always borrow each other's clothes before a night out.",
+        "pl": "Zawsze pożyczają sobie nawzajem ubrania przed wyjściem wieczorem."
+      },
+      {
+        "en": "*'They borrow each others' clothes' is a common but incorrect spelling.",
+        "pl": "*'They borrow each others' clothes' to częsty, ale niepoprawny zapis."
+      },
+      {
+        "en": "The two companies rely heavily on each other's technical expertise.",
+        "pl": "Obie firmy w dużej mierze polegają na swojej nawzajem wiedzy technicznej."
+      },
+      {
+        "en": "Respecting each other's boundaries is essential in any healthy relationship.",
+        "pl": "Szanowanie swoich nawzajem granic jest niezbędne w każdej zdrowej relacji."
+      }
     ]
   }
 ]
