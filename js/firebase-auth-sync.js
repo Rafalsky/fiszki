@@ -283,13 +283,14 @@ function wireAuthHeader() {
   if (btnSettings) {
     btnSettings.addEventListener("click", () => {
       dropdownMenu.classList.add("is-hidden");
-      // Przekierowanie do głównej strony ustawień jeśli to podstrona, wpp switchMode
-      if (typeof window.switchMode === "function") {
-        window.switchMode("settings");
+      const settingsNavBtn = document.querySelector('.nav-btn[data-mode="settings"]');
+      if (settingsNavBtn) {
+        // Jesteśmy na stronie głównej (app.js obsługuje ten przycisk)
+        settingsNavBtn.click();
       } else {
-        // Oblicz względną ścieżkę do głównego katalogu na podstawie topbar-home-link
+        // Jesteśmy na podstronie gramatyki
         const homeLink = document.querySelector(".topbar-home-link");
-        const homePath = homeLink ? homeLink.getAttribute("href") : "/";
+        const homePath = homeLink ? homeLink.getAttribute("href") : "";
         window.location.href = homePath + "#settings";
       }
     });
