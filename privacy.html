@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<title>Polityka Prywatności — Fiszki</title>
+<meta name="description" content="Polityka prywatności aplikacji Fiszki." />
+<link rel="icon" href="data:," />
+<link rel="stylesheet" href="css/main.css" />
+<style>
+  .privacy-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 24px;
+    background: var(--color-surface);
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    line-height: 1.6;
+    color: var(--color-text);
+  }
+  .privacy-content h1 {
+    font-size: 2rem;
+    margin-bottom: 8px;
+    color: var(--color-text);
+  }
+  .privacy-content h2 {
+    font-size: 1.3rem;
+    margin-top: 32px;
+    margin-bottom: 12px;
+    color: var(--color-text);
+    border-bottom: 1px solid var(--color-border);
+    padding-bottom: 8px;
+  }
+  .privacy-content p, .privacy-content ul {
+    margin-bottom: 16px;
+  }
+  .privacy-content ul {
+    padding-left: 24px;
+  }
+  .privacy-content li {
+    margin-bottom: 8px;
+  }
+  .last-updated {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    margin-bottom: 32px;
+  }
+</style>
+</head>
+<body>
+<header class="topbar">
+  <h1><a href="./" class="topbar-home-link">📚 Fiszki</a></h1>
+  <div class="topbar-right">
+    <nav class="topbar-nav">
+      <a href="./" class="nav-btn">Słownictwo</a>
+      <a href="grammar/" class="nav-btn">Gramatyka</a>
+    </nav>
+  </div>
+</header>
+
+<main id="app">
+  <div class="privacy-content">
+    <h1>Polityka Prywatności</h1>
+    <p class="last-updated">Ostatnia aktualizacja: 22 sierpnia 2026</p>
+
+    <p>Poniższa Polityka Prywatności określa zasady przetwarzania i ochrony danych osobowych przekazanych przez użytkowników w związku z korzystaniem z aplikacji webowej <strong>Fiszki</strong>.</p>
+
+    <h2>1. Administrator Danych</h2>
+    <p>Administratorem danych osobowych w aplikacji Fiszki jest twórca i właściciel aplikacji. Aplikacja jest projektem edukacyjnym, udostępnianym darmowo do celów nauki języka angielskiego.</p>
+
+    <h2>2. Zbierane dane i cel ich przetwarzania</h2>
+    <p>Aplikacja zbiera minimum danych wymaganych do prawidłowego funkcjonowania konta użytkownika i synchronizacji jego postępów. Podczas logowania za pomocą konta Google pobierane są następujące informacje:</p>
+    <ul>
+      <li><strong>Adres e-mail:</strong> Używany jako unikalny identyfikator konta użytkownika.</li>
+      <li><strong>Nazwa użytkownika (imię i nazwisko) oraz zdjęcie profilowe:</strong> Wykorzystywane wyłącznie do wyświetlania awatara i powitania użytkownika w interfejsie aplikacji.</li>
+      <li><strong>Dane o postępach w nauce:</strong> Wyniki testów, powtórek i statystyki nauki zapisywane są w bazie danych (Google Firebase / Cloud Firestore) w celu synchronizacji Twoich postępów pomiędzy różnymi urządzeniami.</li>
+    </ul>
+
+    <h2>3. Narzędzia zewnętrzne (Firebase)</h2>
+    <p>Aplikacja korzysta z usług dostarczanych przez firmę Google LLC (Firebase Authentication oraz Cloud Firestore). Z tego względu Twoje dane są przechowywane na bezpiecznych serwerach Google w ramach chmury Firebase. Więcej informacji o zasadach ochrony prywatności przez Google znajdziesz pod adresem: <a href="https://policies.google.com/privacy" target="_blank">policies.google.com/privacy</a>.</p>
+
+    <h2>4. Bezpieczeństwo i udostępnianie danych</h2>
+    <p>Nie sprzedajemy, nie handlujemy ani w żaden inny sposób nie przekazujemy podmiotom zewnętrznym Twoich danych osobowych. Dane służą wyłącznie ulepszeniu Twojego osobistego doświadczenia podczas korzystania z Fiszek. Dostęp do bazy danych jest ściśle zabezpieczony autoryzacją po stronie serwera.</p>
+
+    <h2>5. Prawa użytkownika</h2>
+    <p>Użytkownik w każdej chwili posiada prawo do:</p>
+    <ul>
+      <li>Dostępu do swoich danych (możesz przeglądać swoje postępy bezpośrednio w aplikacji).</li>
+      <li>Zaprzestania korzystania z aplikacji (wylogowania się).</li>
+      <li>Wnioskowania o całkowite usunięcie konta i historii postępów z bazy danych (poprzez kontakt z administratorem).</li>
+    </ul>
+
+    <h2>6. Kontakt</h2>
+    <p>W przypadku pytań dotyczących tej polityki prywatności lub chęci trwałego usunięcia konta z bazy danych, prosimy o założenie zgłoszenia (Issue) w repozytorium GitHub projektu.</p>
+  </div>
+</main>
+
+<footer class="footer">
+  <p>Fiszki © 2026. Aplikacja edukacyjna.</p>
+</footer>
+</body>
+</html>
