@@ -21,6 +21,7 @@ let googleProvider;
 export let currentUser = null;
 
 export function initFirebase() {
+  wireAuthHeader();
   if (!window.firebase) {
     console.warn("Firebase SDK nie jest załadowane.");
     return;
@@ -34,6 +35,7 @@ export function initFirebase() {
 
   const app = window.firebase.initializeApp(firebaseConfig);
   auth = window.firebase.auth();
+  wireAuthHeader();
   db = window.firebase.firestore();
   googleProvider = new window.firebase.auth.GoogleAuthProvider();
 
@@ -215,8 +217,10 @@ async function syncProgressToCloud(forceImmediate = false) {
 
 export function updateAuthUI() {
   const container = document.getElementById("firebase-auth-container");
+  const badgeContainer = document.getElementById("user-profile-dropdown-container");
   const badge = document.getElementById("user-profile-badge");
   const avatar = document.getElementById("user-avatar");
+  const headerLoginBtn = document.getElementById("btn-header-login");
 
   if (currentUser) {
     if (container) {
@@ -226,10 +230,13 @@ export function updateAuthUI() {
       `;
       document.getElementById("btn-logout").addEventListener("click", logout);
     }
-    if (badge && avatar) {
+    if (badgeContainer && avatar && badge) {
       avatar.src = currentUser.photoURL || 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%236b7280"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/></svg>';
       badge.title = `Zalogowano jako: ${currentUser.displayName || currentUser.email}`;
-      badge.classList.remove("is-hidden");
+      badgeContainer.classList.remove("is-hidden");
+    }
+    if (headerLoginBtn) {
+      headerLoginBtn.classList.add("is-hidden");
     }
   } else {
     if (container) {
@@ -239,8 +246,63 @@ export function updateAuthUI() {
       `;
       document.getElementById("btn-login-google").addEventListener("click", loginWithGoogle);
     }
-    if (badge) {
-      badge.classList.add("is-hidden");
+    if (badgeContainer) {
+      badgeContainer.classList.add("is-hidden");
+    }
+    if (headerLoginBtn) {
+      headerLoginBtn.classList.remove("is-hidden");
     }
   }
 }
+
+let authHeaderWired = false;
+function wireAuthHeader() {
+  if (authHeaderWired) return;
+  authHeaderWired = true;
+
+  const headerLoginBtn = document.getElementById("btn-header-login");
+  if (headerLoginBtn) {
+    headerLoginBtn.addEventListener("click", loginWithGoogle);
+  }
+
+  const badge = document.getElementById("user-profile-badge");
+  const dropdownMenu = document.getElementById("user-dropdown-menu");
+  if (badge && dropdownMenu) {
+    badge.addEventListener("click", (e) => {
+      e.stopPropagation();
+      dropdownMenu.classList.toggle("is-hidden");
+    });
+    document.addEventListener("click", (e) => {
+      if (!badge.contains(e.target) && !dropdownMenu.contains(e.target)) {
+        dropdownMenu.classList.add("is-hidden");
+      }
+    });
+  }
+
+  const btnSettings = document.getElementById("btn-header-settings");
+  if (btnSettings) {
+    btnSettings.addEventListener("click", () => {
+      dropdownMenu.classList.add("is-hidden");
+      // Przekierowanie do głównej strony ustawień jeśli to podstrona, wpp switchMode
+      if (typeof window.switchMode === "function") {
+        window.switchMode("settings");
+      } else {
+        // Oblicz względną ścieżkę do głównego katalogu na podstawie topbar-home-link
+        const homeLink = document.querySelector(".topbar-home-link");
+        const homePath = homeLink ? homeLink.getAttribute("href") : "/";
+        window.location.href = homePath + "#settings";
+      }
+    });
+  }
+
+  const btnLogout = document.getElementById("btn-header-logout");
+  if (btnLogout) {
+    btnLogout.addEventListener("click", () => {
+      dropdownMenu.classList.add("is-hidden");
+      logout();
+    });
+  }
+}
+
+
+

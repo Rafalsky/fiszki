@@ -11,12 +11,23 @@
 <body data-topic-id="as_if_as_though">
 <header class="topbar">
   <h1><a href="../../" class="topbar-home-link">📚 Fiszki</a></h1>
-  <nav class="topbar-nav">
+  <div class="topbar-right">
+    <nav class="topbar-nav">
     <a href="../../" class="nav-btn">Słownictwo</a>
     <a href="../" class="nav-btn is-active">Gramatyka</a>
   </nav>
-  <div id="user-profile-badge" class="user-profile-badge is-hidden" title="Zalogowano">
-    <img id="user-avatar" src="" alt="Avatar" />
+    <div id="auth-header-container" class="auth-header">
+      <button type="button" id="btn-header-login" class="nav-btn btn-primary is-hidden">Zaloguj sie</button>
+      <div id="user-profile-dropdown-container" class="dropdown-container is-hidden">
+        <div id="user-profile-badge" class="user-profile-badge">
+          <img id="user-avatar" src="" alt="Avatar" />
+        </div>
+        <div class="dropdown-menu is-hidden" id="user-dropdown-menu">
+          <button type="button" class="dropdown-item" id="btn-header-settings">Ustawienia</button>
+          <button type="button" class="dropdown-item text-danger" id="btn-header-logout">Wyloguj</button>
+        </div>
+      </div>
+    </div>
   </div>
 </header>
 

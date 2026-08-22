@@ -529,6 +529,7 @@ async function init() {
   await renderVoiceOptions();
   renderDashboard();
   renderBrowse();
+  if (window.location.hash === '#settings') { switchMode('settings'); }
 }
 
 init().catch((err) => {
