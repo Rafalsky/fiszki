@@ -13,6 +13,7 @@
 import { loadTopics, loadTopicTheory, loadTopicDrills } from "./grammarRepo.js";
 import * as grammarStorage from "./grammarStorage.js";
 import * as srs from "./srs.js";
+import { initFirebase, queueGrammarSync } from "./firebase-auth-sync.js";
 import * as spellcheck from "./spellcheck.js";
 import { el, switchView } from "./viewUtils.js";
 
@@ -198,6 +199,7 @@ function submitDrillAnswer() {
 
   state.progress[drill.id] = srs.gradeWord(state.progress[drill.id], knew, new Date());
   grammarStorage.saveGrammarProgress(state.progress);
+  queueGrammarSync(drill.id, state.progress[drill.id]);
 
   if (knew) {
     session.known += 1;
@@ -388,6 +390,7 @@ function wireSettings() {
 }
 
 async function init() {
+  initFirebase();
   const [topics, items, rawDrills] = await Promise.all([
     loadTopics(),
     loadTopicTheory(topicId),

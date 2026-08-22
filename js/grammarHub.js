@@ -13,6 +13,7 @@
 
 import { loadTopics } from "./grammarRepo.js";
 import * as grammarStorage from "./grammarStorage.js";
+import { initFirebase } from "./firebase-auth-sync.js";
 
 const LEVELS = ["a1", "a2", "b1", "b2", "c1", "c2"];
 const LEVEL_LABELS = { a1: "A1", a2: "A2", b1: "B1", b2: "B2", c1: "C1", c2: "C2" };
@@ -79,6 +80,7 @@ function render(topics, activeLevel) {
 }
 
 async function init() {
+  initFirebase();
   const topics = await loadTopics();
   const progress = grammarStorage.loadGrammarProgress();
   render(topics, computeDefaultLevel(topics, progress));

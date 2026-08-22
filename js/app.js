@@ -6,6 +6,7 @@ import * as spellcheck from "./spellcheck.js";
 import * as backup from "./backup.js";
 import { el, switchView, switchMode } from "./viewUtils.js";
 import * as grammarStorage from "./grammarStorage.js";
+import { initFirebase, queueVocabSync } from "./firebase-auth-sync.js";
 
 const LEVEL_COLORS = {
   0: "var(--box-0)",
@@ -199,6 +200,7 @@ function applyGrade(knew) {
 
   state.progress[word.id] = srs.gradeWord(state.progress[word.id], knew, now);
   storage.saveProgress(state.progress);
+  queueVocabSync(word.id, state.progress[word.id]);
 
   if (knew) {
     session.known += 1;
@@ -512,6 +514,7 @@ function wireBrowse() {
 }
 
 async function init() {
+  initFirebase();
   state.words = await loadWords();
   state.wordsById = new Map(state.words.map((w) => [w.id, w]));
 
